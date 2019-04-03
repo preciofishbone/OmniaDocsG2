@@ -28,9 +28,9 @@ The following settings are available for the Announcements block:
 
 Note that the Layout tab is general for all blocks. It's described here: (A link will be added)
 
-The General tab
+General
 ----------------
-On this tab you can set the following:
+Here you can set the following:
 
 .. image:: announcements-settings-general.png
 
@@ -38,7 +38,7 @@ On this tab you can set the following:
 + **Announcement View Type**: Select to display Normal Announcements or High Priority Announcements.
 + **Padding**: Use this option to set some padding for the text within the block.
 
-The Custom Colors tab
+Custom Colors
 ----------------------
 Colors should be set centrally for consistency, but if needed, the following custom colors can be set here:
 
