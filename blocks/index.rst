@@ -31,7 +31,7 @@ Blocks
    2. Click the block.
    3. Click the cog wheel for the block, for example:
 
-   .. image:: edit-block-settings-png
+   .. image:: edit-block-settings.png
 
    The Layout tab
    ***************
