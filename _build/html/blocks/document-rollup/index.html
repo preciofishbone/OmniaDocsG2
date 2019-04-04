@@ -111,6 +111,7 @@
 <li class="toctree-l2"><a class="reference internal" href="../task-rollup/index.html">Task Rollup</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../team-news-rollup/index.html">Team News Rollup</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../text/index.html">Text</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../working-with-blocks/index.html">Working with blocks</a></li>
 </ul>
 </li>
 <li class="toctree-l1"><a class="reference internal" href="../../contribute-to-doc/index.html">Contribute to this Documentation</a></li>
@@ -181,6 +182,90 @@
             
   <div class="section" id="document-rollup">
 <h1>Document Rollup<a class="headerlink" href="#document-rollup" title="Permalink to this headline">¶</a></h1>
+<p>Using The Document Rollup block an administrator can show suitable documents in a list. Here’s an example of a document list created with the Document Rollup block:</p>
+<img alt="blocks\document-rollup\document-rollup-example.png" src="blocks\document-rollup\document-rollup-example.png" />
+<div class="section" id="the-settings">
+<h2>The settings<a class="headerlink" href="#the-settings" title="Permalink to this headline">¶</a></h2>
+<p>The following settings are available:</p>
+<img alt="../../_images/document-rollup-settings.png" src="../../_images/document-rollup-settings.png" />
+<div class="section" id="general">
+<h3>General<a class="headerlink" href="#general" title="Permalink to this headline">¶</a></h3>
+<p>Here you can set the following:</p>
+<img alt="../../_images/document-rollup-settings-general.png" src="../../_images/document-rollup-settings-general.png" />
+<ul class="simple">
+<li><strong>Title</strong>: Enter a title to be displayed in the block.</li>
+<li><strong>Open in Client App</strong>: Documents are by default opened in the online app. If document should be opened in the client app instead, select this option.</li>
+</ul>
+</div>
+<div class="section" id="display">
+<h3>Display<a class="headerlink" href="#display" title="Permalink to this headline">¶</a></h3>
+<p>You can select “List View”, “Card” and Group by site here. Available settings differ depending on your choice.</p>
+<p>For <strong>List View</strong> you can set the following:</p>
+<img alt="../../_images/document-rollup-settings-display.png" src="../../_images/document-rollup-settings-display.png" />
+<ul class="simple">
+<li><strong>Add Column</strong>: Select additional columns to show in the list. Icon, Title, Link and Info icon are always shown.</li>
+<li><strong>Trim by Following Site</strong>: If this option is selected only documents from sites the logged in user follows are displayed in the list.</li>
+<li><strong>Sort By</strong>: Select sorting for the list; “Title”, “Document Type”, “Document Owner”, “Published”, Modified or Document Title.</li>
+<li><strong>Paging</strong>: Select paging for the list here. It can be “No paging”, “Classic” or “Scroll”.</li>
+<li><strong>Item Limit</strong>: Set the item limit to display in each “page” of the list.</li>
+<li><strong>Left Column Width</strong>: Set the left column width in pixels here.</li>
+<li><strong>Right Column Width</strong>: Set the right column width in pixels here.</li>
+<li><strong>Padding</strong>: Use this setting for padding around the contents in the block.</li>
+</ul>
+<p>For <strong>Card</strong> view the following settings are available:</p>
+<img alt="../../_images/document-rollup-settings-display-card.png" src="../../_images/document-rollup-settings-display-card.png" />
+<ul class="simple">
+<li><strong>Title</strong>: Select what to show as the title: “Title”, “Document Type”, “Document Owner”, “Published”, Modified or Document Title..</li>
+<li><strong>Modified At</strong>: (A description will be added soon).</li>
+<li><strong>Show Modified By Info</strong>: Select the option to show who was the last to modify the document.</li>
+<li><strong>Trim by Following Site</strong>: If this option is selected only documents from sites the logged in user follows are displayed in the list.</li>
+<li><strong>Sort By</strong>: Select sorting for the list; “Title”, “Document Type”, “Document Owner”, “Published”, Modified or Document Title.</li>
+<li><strong>Paging</strong>: Select paging for the list here. It can be “No paging”, “Classic” or “Scroll”.</li>
+<li><strong>Item Limit</strong>: Set the item limit to display in each “page” of the list.</li>
+<li><strong>Left Column Width</strong>: Set the left column width in pixels here.</li>
+<li><strong>Right Column Width</strong>: Set the right column width in pixels here.</li>
+<li><strong>Padding</strong>: Use this setting for padding around the contents in the block.</li>
+</ul>
+<p>For <strong>Group By Site</strong> these settings are available:</p>
+<img alt="../../_images/document-rollup-settings-display-group.png" src="../../_images/document-rollup-settings-display-group.png" />
+<ul class="simple">
+<li><strong>Title</strong>: Select what to show as the title: “Title”, “Document Type”, “Document Owner”, “Published”, Modified or Document Title..</li>
+<li><strong>Modified At</strong>: (A description will be added soon).</li>
+<li><strong>Show Modified By Info</strong>: Select the option to show who was the last to modify the document.</li>
+<li><strong>Always Show Letter Avatar</strong>: If letter avatars always should be shown, select this option.</li>
+<li><strong>Trim by Following Site</strong>: If this option is selected only documents from sites the logged in user follows are displayed in the list.</li>
+<li><strong>Sort By</strong>: Select sorting for the list; “Title”, “Document Type”, “Document Owner”, “Published”, Modified or Document Title.</li>
+<li><strong>Item Limit</strong>: Set the item limit to display in each “page” of the list.</li>
+<li><strong>Left Column Width</strong>: Set the left column width in pixels here.</li>
+<li><strong>Right Column Width</strong>: Set the right column width in pixels here.</li>
+<li><strong>Padding</strong>: Use this setting for padding around the contents in the block.</li>
+</ul>
+</div>
+<div class="section" id="query">
+<h3>Query<a class="headerlink" href="#query" title="Permalink to this headline">¶</a></h3>
+<p>Here you add queries, which is the detailed “settings” for what to display in the list:</p>
+<img alt="blocks\document-rollup\document-rollup-settings-query.png" src="blocks\document-rollup\document-rollup-settings-query.png" />
+<p>(A description will be added soon.)document-rollup-settings-query</p>
+</div>
+<div class="section" id="filter">
+<h3>Filter<a class="headerlink" href="#filter" title="Permalink to this headline">¶</a></h3>
+<p>Select filters to show for the list.</p>
+<img alt="blocks\document-rollup\document-rollup-settings-filter.png" src="blocks\document-rollup\document-rollup-settings-filter.png" />
+<ul class="simple">
+<li><strong>Position</strong>: Set position for the filters here; “Top”, “Left” or “Right”.</li>
+<li><strong>Add filter</strong>: Click this option to add a filter; “Title”, “Document Type”, “Document Owner”, “Published”, Modified or Document Title. You can add as many of these that are applicable, and set the detailed settings (for example From - To for “Published”).</li>
+</ul>
+</div>
+<div class="section" id="refiners">
+<h3>Refiners<a class="headerlink" href="#refiners" title="Permalink to this headline">¶</a></h3>
+<p>Here you select refiners to show for the list:</p>
+<img alt="blocks\document-rollup\document-rollup-settings-refiners.png" src="blocks\document-rollup\document-rollup-settings-refiners.png" />
+<ul class="simple">
+<li><strong>Position</strong>: Set position for the refiners here; “Top”, “Left” or “Right”.</li>
+<li><strong>Add refiner</strong>: Click this option to add a refiner; “Title”, “Document Type”, “Document Owner”, “Published”, Modified or Document Title. You can add as many of these that are applicable. For each refiner added you can set sort order; “Alphabetical” or “Count”. You can alos set limit.</li>
+</ul>
+</div>
+</div>
 </div>
 
 
@@ -206,7 +291,7 @@
   <div role="contentinfo">
     <p>
         &copy; Copyright 2019, Precio Fishbone.
-      Last updated on Apr 03, 2019.
+      Last updated on Apr 04, 2019.
 
     </p>
   </div>
