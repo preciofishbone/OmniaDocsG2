@@ -39,4 +39,6 @@ Blocks
 
    .. image:: layout-tab.png
 
+   (A description will be added soon.)
+
 
