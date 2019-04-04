@@ -23,6 +23,7 @@ Blocks
    team-news-rollup/index
    text/index
 
+.. text::
    Editing a block's settings
    **************************
    To edit a block's settings, do the following:
