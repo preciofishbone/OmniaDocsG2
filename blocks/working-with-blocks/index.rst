@@ -25,11 +25,11 @@ Here you cen set the following:
 .. image:: layout-tab-general.png
 
 + **Background Color**: Use this option to set a custom background color for the block.
-+ **Chrome**: You can select "None" for noc box or "Boxed" to box in the block.
++ **Chrome**: You can select "None" for no box or "Boxed" to box in the block.
 
 Advanced
 ---------
-Using "Advanced" you can add som padding around the contents of the block.
+Using "Advanced" you can add some padding around the contents of the block.
 
 .. image:: layout-tab-advanced.png
 
