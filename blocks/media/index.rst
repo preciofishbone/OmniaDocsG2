@@ -3,7 +3,7 @@ Media
 
 Use the Media block to add an image anywhere on a page. There are no actual settings for the block.
 
-To add the image, click "Add Image".
+To add the image, click "ADD IMAGE".
 
 .. image:: media-block.png
 
