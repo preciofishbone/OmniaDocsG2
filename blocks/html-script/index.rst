@@ -5,7 +5,7 @@ HTML/Script is a block you can use for various applications to add extra functio
 
 There are no actual settings for the block.
 
-To add HTML code, click "Add Content".
+To add HTML code, click "ADD CONTENT".
 
 .. image:: html-add-content.png
 
