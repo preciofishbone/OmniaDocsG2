@@ -5,7 +5,7 @@ Page Rollup
 
 Settings
 *********
-These settings are available for this block:
+These settings are available for the block:
 
 .. image:: page-rollup-settings.png
 
@@ -20,7 +20,7 @@ Here you can set the following:
 
 Social Period
 --------------
-Use this settings to decide for how long likes ands comments should be displayed here. The default settings is "No limit" but you can select one week, two weeks or on month instead.
+Use these settings to decide for how long likes ands comments should be displayed here. The default setting is "No limit" but you can select one week, two weeks or one month instead.
 
 .. image:: page-rollup-settings-social.png
 
