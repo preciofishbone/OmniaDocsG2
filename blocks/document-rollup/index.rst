@@ -3,7 +3,7 @@ Document Rollup
 
 Using The Document Rollup block an administrator can show suitable documents in a list. Here's an example of a document list created with the Document Rollup block:
 
-.. image:: document-rollup-example.png
+.. image:: document-rollup-example.png (Image will be added soon)
 
 The settings
 *************************
