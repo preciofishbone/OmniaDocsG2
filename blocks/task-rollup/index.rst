@@ -22,10 +22,10 @@ The following is availabled here:
 + **Show Title**: To show a title for the block, select this option. When selected you can add titles for all applicable languages.
 + **Row Limit**: The maximum number of tasks to show in the list.
 + **Day Limit**: How many days forward in time to show assigned tasks. 0 = no limit.
-+ **Sort by**: Select how should be sorted, and then select ascending or descending.
-+ **Always Show Letter Avatar**: If a letter avatar should always be shown instead of site image.
++ **Sort by**: Select which column the list should be sorted on, and then select ascending or descending.
++ **Always Show Letter Avatar**: Select if a letter avatar should always be shown instead of site image.
 + **View Template**: Select View Template here; "Simple list" or "Site Group List".
-+ **Padding**: You can adde padding around the list if needed.
++ **Padding**: You can add padding between the list and the block border if needed.
 
 Custom colors
 ----------------
