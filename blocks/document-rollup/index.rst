@@ -22,7 +22,7 @@ Here you can set the following:
 
 Display
 ---------------
-You can select "List View", "Card" and Group by site here. Available settings differ depending on your choice.
+You can select "List View", "Card" and "Group by site" here. Available settings differ depending on your choice.
 
 For **List View** you can set the following:
 
@@ -73,7 +73,7 @@ Here you add queries, which is the detailed "settings" for what to display in th
 
 .. image:: document-rollup-settings-query.png
 
-(A description will be added soon.)document-rollup-settings-query
+(A description will be added soon.)
 
 Filter
 --------
@@ -82,7 +82,7 @@ Select filters to show for the list.
 .. image:: document-rollup-settings-filter.png
 
 + **Position**: Set position for the filters here; "Top", "Left" or "Right".
-+ **Add filter**: Click this option to add a filter; "Title", "Document Type", "Document Owner", "Published", Modified or Document Title. You can add as many of these that are applicable, and set the detailed settings (for example From - To for "Published").
++ **Add filter**: Click this option to add a filter; "Title", "Document Type", "Document Owner", "Published", "Modified" or "Document Title". You can add as many of these that are applicable, and set the detailed settings (for example From - To for "Published").
 
 Refiners
 -----------------
@@ -91,4 +91,4 @@ Here you select refiners to show for the list:
 .. image:: document-rollup-settings-refiners.png
 
 + **Position**: Set position for the refiners here; "Top", "Left" or "Right".
-+ **Add refiner**: Click this option to add a refiner; "Title", "Document Type", "Document Owner", "Published", Modified or Document Title. You can add as many of these that are applicable. For each refiner added you can set sort order; "Alphabetical" or "Count". You can alos set limit.
++ **Add refiner**: Click this option to add a refiner; "Title", "Document Type", "Document Owner", "Published", Modified or Document Title. You can add as many of these that are applicable. For each refiner added you can set sort order; "Alphabetical" or "Count". You can also set a limit.
