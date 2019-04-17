@@ -70,12 +70,12 @@ Use these settings to add filters for the users to use.
 
 .. image:: peoplerollup-settings-filter.png
 
-+ **Position**: Decide where to out the filters; top, left or right.
++ **Position**: Decide where to place the filters; top, left or right.
 + **Add filter**: Click this button to add a filter.
 
 Refiner
 ---------
-Us these settings to add refiners.
+Use these settings to add refiners.
 
 .. image:: peoplerollup-settings-refiner.png
 
