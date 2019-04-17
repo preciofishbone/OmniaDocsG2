@@ -17,7 +17,7 @@ General
 ---------
 The following is availabled here:
 
-.. image:: tasks-rollup-setting-general.png
+.. image:: tasks-rollup-settings-general.png
 
 + **Show Title**: To show a title for the block, select this option. When selected you can add titles for all applicable languages.
 + **Row Limit**: The maximum number of tasks to show in the list.
@@ -31,11 +31,11 @@ Custom colors
 ----------------
 You should primarily set colors in Omnia Admin (System/Settings/Default colors). If you still would like custom colors for the block, you can set them using this tab.
 
-.. image:: tasks-rollup-setting-colors.png
+.. image:: tasks-rollup-settings-colors.png
 
 Planner Tasks
 ---------------
 Check the box "Enable Planner Tasks" to include tasks from planner in the Tasks Rollup.
 
-.. image:: tasks-rollup-setting-planner.png
+.. image:: tasks-rollup-settings-planner.png
 
