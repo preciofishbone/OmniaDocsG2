@@ -3,7 +3,7 @@ Task Rollup
 
 This block can be used to show tasks assigned to the logged in user. Tasks from Team Sites will always be shown. Tasks from Planner can also be added.
 
-All sites with tasks assigned to the user is displayed in a list, with the number of tasks assigned in each site. Here's an example:
+All sites with tasks assigned to the user is displayed in a list. Here's an example with the list opened for one of the sites:
 
 .. image:: tasks-rollup-example.png
 
