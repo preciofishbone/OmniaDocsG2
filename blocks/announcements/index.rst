@@ -9,24 +9,11 @@ An announcement displayed in a block can look like this:
 
 .. image:: announcement-user.png
 
-
-Commenting Announcements (will this work????)
--------------------------------------
-If commenting is allowed for the Announcement (set indivually for each Announcement) any user can comment the announcement. It works the same way as commenting a publishing page, for example news. The number of comments for each message are shown in the list, for example:
-
-.. image:: announcement-commented.png
-
-To read or add comments, click "Comment(s)" and something like the following is shown:
-
-.. image:: announcement-commented-read-new.png
-
 Settings for the block
 ***********************
 The following settings are available for the Announcements block:
 
 .. image:: announcements-settings.png
-
-Note that the Layout tab is general for all blocks. It's described here: (A link will be added)
 
 General
 ----------------
