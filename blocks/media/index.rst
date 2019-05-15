@@ -7,7 +7,7 @@ To add the image or video, click "ADD IMAGE".
 
 .. image:: media-block.png
 
-You then use the Media Picker to select image or video.
+You then use the Media Picker to select image or video. See this page for more information about the Media Picker: :doc:`The Media Picker </tenant-administration/targeting-definitions/index>`
 
 .. image:: media-picker-new.png
 
