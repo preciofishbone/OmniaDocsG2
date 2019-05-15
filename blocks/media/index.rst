@@ -1,7 +1,7 @@
 Media
 ===========================================
 
-Use the Media block to add an image anywhere on a page. There are no actual settings for the block.
+Use the Media block to add an image or a video anywhere on a page. 
 
 To add the image, click "ADD IMAGE".
 
