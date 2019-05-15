@@ -13,8 +13,9 @@ The settings
 *************
 These settings are available:.
 
-.. image:: current-navigation-settings.png
+.. image:: current-navigation-settings-new.png
 
++ **Title**: If you would like a title to be shown for the block, add the title here.
 + **Start Level**: The current navigation will start on a specific level in the navigation structure. 1 = Start, 2 = Second level, 3= Third level etc. The default value is 3.
 + **Level indentation**: Set the indendation for each level shown here.
 + **Padding**: Use this option to set a padding for the navigation, withing the block.
