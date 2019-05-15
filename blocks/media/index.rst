@@ -7,11 +7,11 @@ To add the image or video, click "ADD IMAGE".
 
 .. image:: media-block.png
 
-You then use the Media Picker to select image or video. See this page for more information about the Media Picker: :doc:`The Media Picker </tenant-administration/targeting-definitions/index>`
+You then use the Media Picker to select image or video: 
 
 .. image:: media-picker-new.png
 
-You can select a photo from your computer or do a Bing search. When using the Bing Search you simply type a search word and can then refine your search.
+You can select an image from your computer or do a Bing search. When using the Bing Search you simply type a search word and can then refine your search.
 
 .. image:: media-picker-bing-search.png
 
