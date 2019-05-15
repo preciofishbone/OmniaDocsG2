@@ -1,9 +1,7 @@
 Document Rollup
 ===========================================
 
-Using The Document Rollup block an administrator can show suitable documents in a list. Here's an example of a document list created with the Document Rollup block:
-
-.. image:: document-rollup-example.png (Image will be added soon)
+Using The Document Rollup block an administrator can show suitable documents in a list.
 
 The settings
 *************************
@@ -30,7 +28,7 @@ For **List View** you can set the following:
 
 + **Add Column**: Select additional columns to show in the list. Icon, Title, Link and Info icon are always shown.
 + **Trim by Following Site**: If this option is selected only documents from sites the logged in user follows are displayed in the list.
-+ **Sort By**: Select sorting for the list; "Title", "Document Type", "Document Owner", "Published", Modified or Document Title.
++ **Sort By**: Select the column the list should be sorted by.
 + **Paging**: Select paging for the list here. It can be "No paging", "Classic" or "Scroll".
 + **Item Limit**: Set the item limit to display in each "page" of the list.
 + **Left Column Width**: Set the left column width in pixels here.
@@ -45,7 +43,7 @@ For **Card** view the following settings are available:
 + **Modified At**: (A description will be added soon).
 + **Show Modified By Info**: Select the option to show who was the last to modify the document.
 + **Trim by Following Site**: If this option is selected only documents from sites the logged in user follows are displayed in the list.
-+ **Sort By**: Select sorting for the list; "Title", "Document Type", "Document Owner", "Published", Modified or Document Title.
++ **Sort By**: Select the column the list should be sorted by.
 + **Paging**: Select paging for the list here. It can be "No paging", "Classic" or "Scroll".
 + **Item Limit**: Set the item limit to display in each "page" of the list.
 + **Left Column Width**: Set the left column width in pixels here.
@@ -61,7 +59,7 @@ For **Group By Site** these settings are available:
 + **Show Modified By Info**: Select the option to show who was the last to modify the document.
 + **Always Show Letter Avatar**: If letter avatars always should be shown, select this option.
 + **Trim by Following Site**: If this option is selected only documents from sites the logged in user follows are displayed in the list.
-+ **Sort By**: Select sorting for the list; "Title", "Document Type", "Document Owner", "Published", Modified or Document Title.
++ **Sort By**: Select the column the list should be sorted by.
 + **Item Limit**: Set the item limit to display in each "page" of the list.
 + **Left Column Width**: Set the left column width in pixels here.
 + **Right Column Width**: Set the right column width in pixels here.
@@ -82,7 +80,7 @@ Select filters to show for the list.
 .. image:: document-rollup-settings-filter.png
 
 + **Position**: Set position for the filters here; "Top", "Left" or "Right".
-+ **Add filter**: Click this option to add a filter; "Title", "Document Type", "Document Owner", "Published", "Modified" or "Document Title". You can add as many of these that are applicable, and set the detailed settings (for example From - To for "Published").
++ **Add filter**: Click this option to add a property for filtering. You can add as many properties that are applicable, and set the detailed settings (for example From - To for "Published").
 
 Refiners
 -----------------
@@ -91,4 +89,4 @@ Here you select refiners to show for the list:
 .. image:: document-rollup-settings-refiners.png
 
 + **Position**: Set position for the refiners here; "Top", "Left" or "Right".
-+ **Add refiner**: Click this option to add a refiner; "Title", "Document Type", "Document Owner", "Published", Modified or Document Title. You can add as many of these that are applicable. For each refiner added you can set sort order; "Alphabetical" or "Count". You can also set a limit.
++ **Add refiner**: Click this option to add a a property to use as a refiner. You can add as many properties as is applicable. For each refiner added you can set sort order; "Alphabetical" or "Count". You can also set a limit.
