@@ -11,4 +11,5 @@ Topics
    :titlesonly:
 
    blocks/index
+   general-assets/index
    contribute-to-doc/index
