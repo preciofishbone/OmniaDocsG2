@@ -9,6 +9,7 @@ Blocks
    breadcrumb/index
    current-navigation/index
    document-rollup/index
+   general-block-settings/index
    html-script/index
    media/index
    notification-panel/index

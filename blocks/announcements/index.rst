@@ -15,6 +15,8 @@ The following settings are available for the Announcements block:
 
 .. image:: announcements-settings.png
 
+The Layout tab options are general block settings, see this page for information: (link to be added).
+
 General
 ----------------
 Here you can set the following:

@@ -46,7 +46,7 @@ When you have selected a video, you can set the following:
 
 .. image:: banner-video-settings.png
 
-You can set where in the video it should start playing with the format minutes:seconds, if it will start automatically (Autoplay) and if information about the video should be shown.
+You can set where in the video it should start playing with the format minutes:seconds, for example 1:02 will start the video 1 minute and 2 seconds into the video. You can also set if the video will start automatically (Autoplay) and if information about the video should be shown.
 
 **The Link options**
 You can add a Custom Link, that is, a url to any web page, a link to a Page in the tenant, or to a Document.
