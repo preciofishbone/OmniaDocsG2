@@ -1,14 +1,14 @@
 Banner
 ===========================================
 
-Using the Banner block a web editor can add banners on a web page.
+Using the Banner block an editor can add banners on a web page.
 
 .. image:: banners.png
 
 You use the Banner Editor to edit the banner. You do it the same way for existing and newly added banners.
 
-Using the Banner Editor
-************************
+The Banner Editor
+******************
 To edit a banner, edit the page in Design mode and click this icon:
 
 .. image:: edit-banner.png
@@ -19,15 +19,12 @@ The Banner Editor starts and the contents of the banner, if any, is loaded. As y
 
 The Layout tab
 ---------------
-Here you can work with the following:
+Here you can edit the following:
 
-+ **Layout**: Defines the Layout of the banner:
-  + *Image On Top*: Displays a big image at the top, above title, content and footer. Best suitable for landscape images.
-  + *Title and Content on image*: The image covers the whole banner area, title and content are placed as an overlay.
-  + *Title on image*: A variant of the above, in this case only the title is placed as an overlay.
++ **Layout**: Defines the Layout of the banner - "Image On Top"; Displays a big image at the top, above title, content and footer, best suitable for landscape images - "Title and Content on image"; The image covers the whole banner area, title and content are placed as an overlay; "Title on image"; In this case only the title is placed as an overlay.
 + **Padding**: You can set some padding for the text in the banner here.
 + **Image**: Use this field to add an image or a video. When you click the icon to the right, the Image/Video options are displayed, see below.
-+ **Link**: Add the link to open, if any, when the user clicks the banner. When you click the icon to the right, the Custom Link options are displayed, see below.
++ **Link**: Add the link to open, if any, when the user clicks the banner. When you click the icon to the right, the Link options are displayed, see below.
 + **New Window**: Defines whether the link should be opened in a new window or not.
 
 The Image/Video options
@@ -51,6 +48,13 @@ When you have selected a video, you can set the following:
 .. image:: banner-video-settings.png
 
 You can set where in the video it should start playing, if it will start automatically (Autoplay) and if information about the video should be shown.
+
+The Link options
+-----------------
+You can add a Custom Link, that is, a url to any page, a link to a Page in the tenant, or to a Document.
+
+.. image:: banner-custom-link.png
+
 
 The Content tab
 ----------------
