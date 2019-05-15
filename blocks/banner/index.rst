@@ -42,31 +42,27 @@ You can select a photo from your computer or do a Bing search. When using the Bi
 
 When you have selected an image, you can customize which part of the image to show, by using the squares and drag the borders of the image. You can also use the filters "Sepia" and "Grayscale" for image effects. Besides that you can edit the image by using the sliders "Brightness", "Contrast" and "Saturation".
 
-You can also add a video for the banner, either from your company's local Steam area, or from YouTube. Find the url for the video, copy it and paste in the field.
+You can add a video for the banner, instead of an image, either from your company's local Steam area, or from YouTube. Find the url for the video, copy it and paste in the field.
 
 .. image:: banner-video.png
 
+When you have selected a video, you can set the following:
 
-+ **Pick link in advanced mode**: Click on this link to select a page or document in the current site collection, for the Link Url, using a link picker.
-+ **Image and Background Color**: Select the image and background color that should be used by the banner.
-+ **Title and Color**: Enter a banner title and a text color.
-+ **Content and Color**: Enter the banner text and a text color.
-+ **Footer**: If needed, add a footer to the banner and text color, that will be rendered below the content.
+.. image:: banner-video-settings.png
 
-Targeting banners
--------------------
-A banner can be targeted to any receivers that has been defined in Target Definitions. A targeted banner is only displayed to that group. No one else will see it. It works the same for Reusable banners and Custom banners.
+You can set where in the video it should start playing, if it will start automatically (Autoplay) and if information about the video should be shown.
 
-For more information on Targeting Definitions, see: (link)targeting-definitions/index.html
+The Content tab
+----------------
+Here you can add a title, a text and a footer, if needed. For the text you can do some basic formatting.
 
-To target a banner, do the following:
+.. image:: banner-content.png
 
-1. Add the banner, either a reusable banner, a banner group or a custom banner, as stated above.
-2. Click the tab "Targeting settings".
-3. Select "Target to".
+When adding content, the preview to the right is very useful to see how the banner will look.
 
-.. image:: banner-target-to.png
- 
-3. Open the list and select target.
+The Color tab
+--------------
+Here you can set the color for title, content, footer and background.
 
-.. image:: banner-target-list.png
+.. image:: banner-color.png
+
