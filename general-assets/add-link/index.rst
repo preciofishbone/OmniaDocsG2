@@ -7,10 +7,6 @@ Add link is used when a link is about to be added in a block and a few other ins
 
 You can use this asset to add a link to a page or document in the tenant, or create a Custom link to any web page.
 
-Here's an example of how users will see related links:
-
-.. image:: related-links-example.png
-
 Custom link
 ************
 The following settings are available:
