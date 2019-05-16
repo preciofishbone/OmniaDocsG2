@@ -63,29 +63,6 @@ Then use the rest of the options as above (Open in new window and Icon).
 
 Save after each Document link added.
 
-Adding a header
-*****************
-If you need to add a header to the link list, click "ADD HEADER", type the header and click "ADD".
-
-.. image:: add-link-header.png
-
-Arranging the list
-*******************
-When your done adding links and headings, the list may need some arranging. Do it this way:
-
-1. Point at the link or heading you want to move.
-2. Click the Up or Down arrow to move it in the list.
-
-.. image:: add-link-move.png
-
-Edit or delete a link or heading
-*********************************
-To edit a link or heading, or delete it, do the following:
-
-1. Point at the link or heading you want to move.
-2. Click the pen to edit or the dust bin to delete.
-
-.. image:: add-link-edit-remove.png
 
 
 
