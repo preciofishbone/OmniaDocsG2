@@ -21,7 +21,7 @@ Select "My Computer" to either paste an image from the clipboard or to browse fo
 
 Bing Search
 ------------
-When selecting "Bing Search" you can search for any Bing image, or use the predefined search categories, if any is set up. Bing search categories can be set up by an administrator in Omnia Admin (Systems/Settings/Media Picker).
+When selecting "Bing Search" you can search for any Bing image, or use the predefined search categories, if any is set up. Bing search categories can be set up by an administrator in Omnia Admin.
 
 .. image:: media-picker-bing-search.png
 
