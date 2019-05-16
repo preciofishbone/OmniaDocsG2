@@ -5,7 +5,7 @@ The Media Picker can be used to add an image or a video to a block or to the pag
 
 Videos can be selected from your company's Stream in Office 365, or from YouTube.
 
-When the Media picker starts, the following is shown::
+When the Media picker starts, the following is shown:
 
 .. image:: media-picker.png
 
@@ -19,39 +19,9 @@ Select "My Computer" to either paste an image from the clipboard or to browse fo
 
 .. image:: media-picker-computer-browse.png
 
-Global Image Bank
-------------------
-(Not implemented so far in G2, but will come.)
-
-When selecting "Global Image Bank", you see a preview of all images there. Use "Search" to search for an image. You can use the slider to the top right to change the preview size.
-
-.. image:: media-picker-image-bank.png
-
-The image bank can be filtered on image type:
-
-.. image:: media-picker-global-image-bank-filter-type.png
-
-and on Image Category:
-
-.. image:: media-picker-global-image-bank-filter-category.png
-
-To select an image, double click on the image, or select the image and click "SELECT".
-
-Process images
---------------
-(Not implemented in G2 yet)
-
-If Omnia QMS i installed, an image library for process images will be available. When selecting this option you see a preview of all images there. Use "Search" to search for an image. You can use the slider to the top right to change the preview size.
-
-.. image:: media-picker-process-images.png
-
-To select an image, double click on the image, or select the image and click "SELECT".
-
-.. image:: media-picker-process-images-select.png
-
 Bing Search
 ------------
-When selecting "Bing Search" you can search for any Bing image, or use the predefined search categories, if any is set up. Bing search categories can be set up by an administrator in Omnia Admin (Systems/Settings/Media Picker).
+When selecting "Bing Search" you can search for any Bing image, or use the predefined search categories, if any is set up. Bing search categories can be set up by an administrator in Omnia Admin.
 
 .. image:: media-picker-bing-search.png
 
