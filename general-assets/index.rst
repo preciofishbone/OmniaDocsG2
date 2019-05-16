@@ -7,4 +7,5 @@ In this part of the documentation you will find information about general assets
 .. toctree::
    :titlesonly:
 
+   add-link/index
    media-picker/index
