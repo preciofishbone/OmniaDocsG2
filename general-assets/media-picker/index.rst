@@ -5,7 +5,7 @@ The Media Picker can be used to add an image or a video to a block or to the pag
 
 Videos can be selected from your company's Stream in Office 365, or from YouTube.
 
-When the Media picker starts, the following is shown::
+When the Media picker starts, the following is shown:
 
 .. image:: media-picker.png
 
