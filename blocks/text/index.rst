@@ -18,7 +18,7 @@ The following settings are available for the block:
 
 .. image:: text-setting-format.png
 
-+ ** Help text**: Here you can add a help text for the editor, for example to make it clear what kind of content should be added to the block. The help text is shown when no content is added, and when the block is edited. The help text is never shown to users as it's not shown for a published version of the page.
++ **Help text**: Here you can add a help text for the editor, for example to make it clear what kind of content should be added to the block. The help text is shown when no content is added, and when the block is edited. The help text is never shown to users as it's not shown for a published version of the page.
 
 Here's an example of help text:
 

@@ -9,4 +9,23 @@ To add HTML code, click "ADD CONTENT".
 
 .. image:: html-add-content.png
 
-(A description will be added soon.)
+When you click "ADD CONTENT" the following is shown:
+
+.. image:: html-script-editing.png
+
++ **HTML**: Add HTML here.
++ **CSS**: To set CSS for the content in this field, add it here.
++ **Javascript**: If Javascript is needed/used, add it here.
+
+General settings
+*****************
+The following settings are available when editing HTML/Script here:
+
+.. image:: html-script-general.png
+
++ **Title**: Add a title for the contents in the field, if needed.
++ **Title Overaly**: If a Title Ovarley is needed, add it in this field.
++ **Hidden block**: (A description will bed added soon)
++ **Run in iFrame**: Per default, the HTML/Script you add here are run in iFrame. Id needed this option can be deselected.
++ **iFrame Height**: If "Run in iFrame" is selected you can set the iFrame Height here.
++ **Run Script in Edit Mode**: (A description will bed added soon)
