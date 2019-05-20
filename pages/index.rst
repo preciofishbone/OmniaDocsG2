@@ -11,5 +11,5 @@ In this part of the documentation you will find information concerning how to wo
    move-page/index
    delete-page/index
    edit-page/index
-   publish-page-changes
-   edit-page-navigation
+   publish-page-changes/index
+   edit-page-navigation/index
