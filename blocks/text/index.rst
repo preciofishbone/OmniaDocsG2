@@ -10,7 +10,7 @@ Settings
 *********
 The following settings are available for the block:
 
-.. image:: test-settings.png
+.. image:: text-settings.png
 
 + **Title**: To add a title for the block, type the title here.
 + **Property to store data**: Select type of text to be used in this block; Title, Page Content or Page Summary.
