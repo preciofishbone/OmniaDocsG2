@@ -1,4 +1,4 @@
-Working with pages
+Pages
 ===========================================
 
 In this part of the documentation you will find information concerning how to work with pages.
