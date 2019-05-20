@@ -11,15 +11,15 @@ Settings
 *********
 The following settings are available:
 
-.. image:: tasks-rollup-settings.png
+.. image:: tasks-rollup-settings-new.png
 
 General
 ---------
 The following is availabled here:
 
-.. image:: tasks-rollup-settings-general.png
+.. image:: tasks-rollup-settings-general-new.png
 
-+ **Show Title**: To show a title for the block, select this option. When selected you can add titles for all applicable languages.
++ **Title**: To show a title for the block, add a title here.
 + **Row Limit**: The maximum number of tasks to show in the list.
 + **Day Limit**: How many days forward in time to show assigned tasks. 0 = no limit.
 + **Sort by**: Select which column the list should be sorted on, and then select ascending or descending.
