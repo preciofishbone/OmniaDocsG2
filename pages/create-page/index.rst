@@ -7,7 +7,7 @@ When you need to create a publishing page, do the following:
 
 1. Point at the Edit button.
 
-.. image:: click-edit-button.publishing
+.. image:: select-edit.png
 
 2. Select to edit navigation.
 
