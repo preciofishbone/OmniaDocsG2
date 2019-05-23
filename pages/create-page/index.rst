@@ -43,26 +43,21 @@ When the navigation is open, create a new page this way:
 
 .. image:: new-page-create-button.png
 
-When the page is created you add content by using Blocks, see: 
+When the page is created you add content by using Blocks, see: :doc:`Working with blocks </blocks/working-with-blocks/index>`
 
-Every Block available also has a separate description, select the Block on this page for more information: 
+Every Block available also has a separate description, select the Block on this page for more information: :doc:`Blocks </blocks/index>`
 
 Some default blocks can already be in place for the Page Type (more on that below), and besides that a wizard is started to help you with the necessary steps when creating a new page, for example:
 
 .. image:: new-page-example.png
 
 6. Click "Next" for the next Wizard step.
-
-Something like the following is shown:
-
-.. image:: new-page-properties.png
-
 7. Select a Contact Person for the page and add a Review Date, if needed. 
 8. Add other property informaton if more fields are available.
 
-The Review Manager will get an e-mail when a page is nearing it's Review Date, as a reminder that the page may need some updates.
+The Review Manager will get an e-mail when a page is nearing it's Review Date, as a reminder that the page may need some attention.
 
-8. Click "Next" to go the next Wizard step.
+9. Click "Next" to go the next Wizard step.
 
 .. image:: new-page-properties-next.png
 
