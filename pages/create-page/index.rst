@@ -1,8 +1,6 @@
 Create a page
 ===========================================
 
-(This description is only just started, more will be added soon.)
-
 When you need to create a publishing page, do the following:
 
 1. Point at the Edit button.
@@ -47,7 +45,7 @@ When the page is created you add content by using Blocks, see: :doc:`Working wit
 
 Every Block available also has a separate description, select the Block on this page for more information: :doc:`Blocks </blocks/index>`
 
-Some default blocks can already be in place for the Page Type (more on that below), and besides that a wizard is started to help you with the necessary steps when creating a new page, for example:
+Some default blocks can already be in place for the Page Type, and besides that a wizard is started to help you with the necessary steps when creating a new page, for example:
 
 .. image:: new-page-example.png
 
@@ -64,6 +62,8 @@ The Review Manager will get an e-mail when a page is nearing it's Review Date, a
 When the last Wizard step has been edited, something like the following is shown. What you will do next is really up to you, but to save a draft at this point is a good idea.
 
 .. image:: new-page-finished.png
+
+
 
 
 
