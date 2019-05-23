@@ -45,17 +45,14 @@ When the page is created you add content by using Blocks, see: :doc:`Working wit
 
 Every Block available also has a separate description, select the Block on this page for more information: :doc:`Blocks </blocks/index>`
 
-Some default blocks can already be in place for the Page Type, and besides that a wizard is started to help you with the necessary steps when creating a new page, for example:
+Some default blocks can already be in place for the Page Type, and besides that a wizard is started to help you with the necessary steps when creating a new page:
+
+6. Click "Next" for the next Wizard step.
 
 .. image:: new-page-example.png
 
-6. Click "Next" for the next Wizard step.
-7. Select a Contact Person for the page and add a Review Date, if needed. 
-8. Add other property informaton if more fields are available.
-
-The Review Manager will get an e-mail when a page is nearing it's Review Date, as a reminder that the page may need some attention.
-
-9. Click "Next" to go the next Wizard step.
+7. Add Property information as needed. 
+8. Click "Next" to go the next Wizard step.
 
 .. image:: new-page-properties-next.png
 
