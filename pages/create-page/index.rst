@@ -41,9 +41,9 @@ When the navigation is open, create a new page this way:
 
 .. image:: new-page-create-button.png
 
-When the page is created you add content by using Blocks, see: :doc:`Working with blocks </blocks/working-with-blocks/index>`
+When the page is created you add content by using blocks, see: :doc:`Working with blocks </blocks/working-with-blocks/index>`
 
-Every Block available also has a separate description, select the Block on this page for more information: :doc:`Blocks </blocks/index>`
+Every block available also has a separate description, select the block on this page for more information: :doc:`Blocks </blocks/index>`
 
 Some default blocks can already be in place for the Page Type, and besides that a wizard is started to help you with the necessary steps when creating a new page:
 
@@ -59,6 +59,8 @@ Some default blocks can already be in place for the Page Type, and besides that 
 When the last Wizard step has been edited, something like the following is shown. What you will do next is really up to you, but to save a draft at this point is a good idea.
 
 .. image:: new-page-finished.png
+
+**Note!** A new page is never shown for users until it's published at least once.
 
 
 
