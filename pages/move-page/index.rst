@@ -1,7 +1,7 @@
 Move a page
 ===========================================
 
-You can move a page to another position on the same lavel (within the parent node). Dffo the following:
+You can move a page to another position on the same lavel (within the parent node). Do the following:
 
 1. Point at the Edit button.
 
@@ -25,5 +25,5 @@ The navigation structure with the existing pages are now opened to the left:
 
 5. Save the draft or publish.
 
-
+It's also possible to move a node (one page or a page with all pages under it) to any position in the navigation tree. See this page for more information: :doc:`Edit Page Navigation </pages/edit-page-navigation/index>`
 
