@@ -1,7 +1,7 @@
 Edit page navigation
 ===========================================
 
-If needed you can do a number of changes to page navigation. You must have entered Edit mode to be able to edit navigation.
+If needed you can do a number of changes to page navigation. You must have entered Edit mode to be able to do this.
 
 Create Link
 ****************
@@ -20,18 +20,18 @@ See this page for more information: :doc:`Add link </general-assets/add-link/ind
 
 Edit navigation
 ****************
-Using this option you can change the title and decide in what navigation the title should be present.
+Using this option you can change the title and decide the node should be present in the Mega Menu and/or Current Navigation.
 
 1. Select the node in the navigation to edit.
 2. Open the menu and select "Edit Navigation".
 
-.. image:: select-edit-navigation.png
+.. image:: selevt-edit-navigation.png
 
 Here you can do the following:
 
 .. image:: edit-navigation-settings.png
 
-+ **Title**: Change the title to be shonw in the navigation. (The Title shown on the page or when searching will not be changes.)
++ **Title**: Change the title to be shonw in the navigation. (The Title shown on the page or when searching will not be changed.)
 + **Url**: (A description will be added soon.)
 + **Show in Mega Menu**: Per default the navigation node is shown in the Mega Menu (Top Menu). Deselect if you don't want to show it there.
 + **Show in Current Navigation**: Per default the navigation node is shown in the Current Navigation (Left Navigation). Deselect if you don't want to show it there.
@@ -54,8 +54,4 @@ Using this option you can move one or more pages anywhere in the navigation. If 
 The main page and all sub pages (all levels) are now moved to the new location. Here's an example:
 
 .. image:: node-moved.png
-
-
-
-
 
