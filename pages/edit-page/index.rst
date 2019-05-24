@@ -3,13 +3,13 @@ Edit a page
 
 When you need to edit a publishing page, do the following:
 
-Click The Edit button to enter Edit mode:
+Click the Edit button to enter Edit mode:
 
 .. image:: enter-edit-mode.png
 
 If the page has been published at least once, you can go to the page before you enter edit mode. If not, go to any publishing page. When you have entered Edit mode you can then use the navigation to go the page you will edit.
 
-Open the navigation ny clicking here:
+Open the navigation by clicking here:
 
 .. image:: open-navigation-edit.png
 
@@ -41,15 +41,23 @@ You edit each block (the ones you can edit) as is described in the page for the 
 
 Edit Blocks
 ************
-To edit the blocks, that is, to add and delete blocks on the pag, and work with the block settings, you use "Design mode":
+To edit the blocks, that is, to add and delete blocks on the page, and to work with the block settings, you use "Design mode":
 
 .. image:: enter-design-mode.png
 
 How to work with blocks is described on this page: :doc:`Working with blocks </blocks/working-with-blocks/index>`
 
+Default blocks
+***************
+The default blocks that belongs to the Page Type is generally, which means that you can content to them, most likely edit settings, but you can't move or delete them. Although, you can normally add other blocks both above and below lockad blocks.
+
+When you click a block you can see that it's locked this way:
+
+.. image:: locked-block.png
+
 Reuse content
 **************
-It's possible to reuse contents from another page. The page weher you want to resue content must be in Edit mode. Do the following:
+It's possible to reuse contents from another page. The page where you want to reuse content must be in Edit mode. Do the following:
 
 1. Open the action menu at the bottom right:
 
@@ -67,14 +75,14 @@ A tip is to either have copied the page Url earlier, or to open another browser 
 
 Change Page Type
 *****************
-It's possible to change Page Type, be aware that som blocks are more suitable to wider parts of the page, so you may have to edit blocks after changing Page Type. Do the following;
+It's possible to change Page Type, be aware that some blocks are more suitable to wider sections of the page, so you may have to edit blocks after changing Page Type. Do the following;
 
 1. Enter Edit mode if it's not already active.
 2. Open the action menu at the bottom right.
 
 .. image:: open-action-menu.png
 
-3. Select "Change Page Type".
+3. Select "CHANGE PAGE TYPE".
 
 .. image:: change-page-type.png
 
@@ -82,20 +90,13 @@ It's possible to change Page Type, be aware that som blocks are more suitable to
 
 .. image:: change-page-type-list.png
 
+Save or discard changes
+************************
+When you're ready editing a page you must save your changes, or discard them if you don't want to keep them.
 
+Use the to optiopns at the bottom to do that:
 
+.. image:: save-or-discard.png
 
+**Note!** A page is not shown to users until it has been published at least once. Changes to a page ar not shown to users until published.
 
-
-
-
-
-
-
-Default blocks
-***************
-The default blocks that belongs to the Page Type is generally, which means that you can content to them, most likely edit settings, but you can't move or delete them. Although, you can normally add other blocks both above and below lockad blocks.
-
-When you click a block you can see that it's locked this way:
-
-.. image:: locked-block.pngshe
