@@ -92,7 +92,7 @@ Do the following to see version history:
 2. If you're editing the page, save the draft or the Version History option will not be available.
 3. Open the action menu and select "VERSION HISTORY".
 
-.. image:: page-version-history.png
+.. image:: page-version-history-menu.png
 
 Something like this is shown:
 
