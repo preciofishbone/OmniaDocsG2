@@ -32,4 +32,4 @@ As stated earlier, you can't delete a page you're editing, so when this is shown
 
 .. image:: delete-not-possible.png
 
-You must then select "DISCARD CHANGES" (or "PUBLISH", but that is probably not applicable for a page you want to delete), for the "DELETE" option to be present in the action menu.
+You must then select "DISCARD CHANGES" (or "SAVE A DRAFT"  or even "PUBLISH", but that is probably not applicable for a page you want to delete), for the "DELETE" option to be present in the action menu.
