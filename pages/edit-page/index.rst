@@ -97,7 +97,7 @@ If needed, you can edit the Page Properties.
 1. Enter Edit mode if it's not already active.
 2. Click "PROPERTIES" at the top.
 
-.. image:: edit-properties.publishing
+.. image:: edit-properties.png
 
 3. Edit the Properties as needed.
 4. Click "CONTENT" to go back to editing the page.
