@@ -10,6 +10,7 @@ Topics
 .. toctree::
    :titlesonly:
 
+   admin-settings/index
    blocks/index
    pages/index
    general-assets/index
