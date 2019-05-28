@@ -3,7 +3,7 @@ Move a page
 
 You can always move a page to another position on the same lavel (within the parent node). It's also possible to move a node (one page or a page with all sub pages) to any position in the navigation tree. See this page for more information: :doc:`Edit Page Navigation </pages/edit-page-navigation/index>`
 
-Do the following to move a page withing the same level:
+Do the following to move a page within the same level:
 
 1. Point at the Edit button.
 
@@ -25,6 +25,6 @@ The navigation structure with the existing pages are now opened to the left:
 
 .. image:: move-page-traingles.png
 
-5. Save hen you're done.
+5. Save when you're done.
 
 

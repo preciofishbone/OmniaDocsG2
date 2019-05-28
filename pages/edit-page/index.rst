@@ -112,7 +112,7 @@ Save or discard changes
 ************************
 When you're ready editing a page you must save your changes, or discard them if you don't want to keep them.
 
-Use the to options at the bottom to do that:
+Use the options at the bottom to do that:
 
 .. image:: save-or-discard.png
 
