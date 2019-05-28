@@ -1,16 +1,16 @@
 Publish page changes
 ===========================================
 
-As an editor you can work on a new version of a page as long as needed and publish the new version when you decide to do so. 
+As an editor you can work on a new version of a page as long as needed and publish the new version when you decide to do so. You can check earlier versions of a page and even revert to an earlier version if needed.
 
-You can check earlier versions of a page and even revert to an earlier version if needed.
+**Note!** Edits to a page are never shown to users of the site until the page is published.
 
 Preview the page
 *****************
 A very good idea is to Preview the page before publishing. Do the following:
 
 1. Edit the page.
-2. Select Preview.
+2. Select "Preview".
 
 .. image:: preview-page.png
 
@@ -34,15 +34,15 @@ To publish a page, do the following:
 
 (You can publish directly but saving the draft first is a safer way.)
 
-4. Click Publish.
+4. Click "PUBLISH".
 
 .. image:: click-publish.png
 
 Version history
 ******************
-Every time you save changes to a page (including when you publish) a new version history node for the page is created. You can check earlier versions and you can revert to an earlier and continue working with that, if needed.
+Every time you save changes to a page (including when you publish) a new version history node for the page is created. You can check earlier versions and you can revert to an earlier version and continue working with that, if needed.
 
-Do the following to see version history:
+Do the following to see Version History:
 
 1. Go to the page.
 2. If you're editing the page, save the draft or the Version History option will not be available.

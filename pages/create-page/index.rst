@@ -35,8 +35,8 @@ When the navigation is open, create a new page this way:
 
 + **Page Type**: Open the list and select the Page Type you want to use (can be changed later).
 + **Title**: The Page Title will be shown when searching and as a node in the navigation (can be changed later).
-+ **Url**: The last section of the Url will be based on the Title. You can edit it if needed. Note that the Url can't be changed once the page is created.
-+ **Advanced**: Use this option to set som Advanced options.
++ **Url**: The last section of the Url will be based on the Title. You can edit it if needed. 
++ **Advanced**: Use this option to set some Advanced options.
 + **Create**: The page is created when you click this button, not before that.
 
 .. image:: new-page-create-button.png

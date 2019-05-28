@@ -26,7 +26,7 @@ Here's how to delete a page:
 
 What happens if you delete a page by mistake? When you have clicked OK to delete a page, it can't be undone, but it may be possible to restore the page. 
 
-A deleted page is placed in a system dust bin so normally an administrator can help you restore a page, but that has to be done in a certain time span (default settings are 30 days but can vary, depending on system settings). System dust bins are emptied with regular intervals.
+A deleted page is placed in a system dust bin so normally an administrator can help you restore a page, but that has to be done within a certain time span (default setting is 30 days but can vary, depending on system settings). System dust bins are emptied with regular intervals.
 
 As stated earlier, you can't delete a page you're editing, so when this is shown at the bottom, it's not possible:
 
