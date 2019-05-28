@@ -25,7 +25,24 @@ To edit a block's settings, do the following:
 
 .. image:: edit-block-settings.png
 
-Information about hw to change specific settings for a block is found in the block's description.
+Information about how to change specific settings for a block is found in the block's detailed description.
+
+Moving a block
+***************
+Do the following to move a block.
+
+1. Click the block.
+2. Click the Move icon.
+
+.. image:: move-icon.png
+
+Icons now show where you can move the block, for example:
+
+.. image:: block-can-be-moved.png
+
+3. Click the icon where you want the block and it's moved there.
+
+.. image:: block-moved.png
 
 Removing a block
 *****************
