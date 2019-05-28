@@ -7,7 +7,7 @@ Tenant Language
 *****************
 Use the list to set default language for the tenant.
 
-.. image:: tenant-settings.png
+.. image:: tenant-settings-language.png
 
 (Don't forget to save.)
 
