@@ -1,4 +1,4 @@
-Omnia Admin Settings
+Admin Settings
 ===========================================
 
 .. toctree::
