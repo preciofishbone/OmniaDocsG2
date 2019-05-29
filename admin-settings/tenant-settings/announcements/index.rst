@@ -1,15 +1,11 @@
 Announcements
 ===========================================
 
-**Note!** This documentation is ongoing. More details will be added soon.
+**Note!** This documentation is ongoing. More details will be added soon, and all is not fully tested yet.
 
-Here a Tenant Administrator can create Announcements that will be displayed over the whole tenant, normally at the top. Tenant Announcements can also be shown through the Annoncements block. For more information about the block, see: :doc:`The Announcements block </block/announcements/index>`
+Here a Tenant Administrator can create Announcements that will be displayed over the whole tenant, normally at the top. Tenant Announcements can also be shown through the Announcements block. For more information about the block, see: :doc:`The Announcements block </blocks/announcements/index>`
 
 Note that an option to create Announcements for a specific Business Group also is available, see: (Link to be added)
-
-Here's an example of two Tenant Announcements shown at the top:
-
-.. image:: tenant-announcement-example.png
 
 Create an Announcement
 *************************
@@ -21,15 +17,15 @@ To create a new Announcement, do the following:
 
 Use the following settings:
 
-.. image:: tenant-announcements-new-settings.png
+.. image:: tenant-announcements-settings.png
 
 + **Title**: Add a title for the message.
 + **Description**: Add the message here.
-+ **Priority**: Set the Priority. Important Announcements with High priority will be displayed below the cross site mega menu on all pages, and in the Notification panel. Important Announcements with Normal priority will be displayed in the notification panel only.
++ **Priority**: (To be fully tested) Set the Priority. Important Announcements with High priority will be displayed below the cross site mega menu on all pages, and in the Notification panel. Important Announcements with Normal priority will be displayed in the notification panel only.
 + **Order**: Set the order for this Imortant Announcement when there are several displayed.
 + **Start Date** and **End Date**: Set the start and end date of the Important Announcement. You can set exact times within the dates if needed. Start and end dates are optional, but we recommend that you always at least set an end date.
-+ **Type**: Select Type from the list, to indicate what type of announcement it is.
-+ **Status**: Select a Status, which is a Color that can indicate the status of Announcement.
++ **Type**: Type is an indication of what type the Announcement is, noted with text and an icon. Available Types are created and edited in the settings (see below).
++ **Status**: Status is a Color and text indication of the status (severity) of Announcement. Available Status options are created and edited in the settings (see below)
 + **Comments**: Decide to allow comments or not. The default is to not allow comments. If allowed, users can add comments, and even comment other comments (and so can you of course) the same way as for example for news.
 + **Targeting filter**: An Announcement can be targeted, which means just diplayed to a defined group of users. See below for information on how to do that.
 
@@ -41,7 +37,7 @@ Do the following:
 
 1. Click "Add Targeting Filter".
 
-.. image:: add-targeting-filter.png
+.. image:: click-add-targeting-filter.png
 
 2. Open the list and select property.
 
@@ -83,8 +79,56 @@ You can set the following:
 
 .. image:: announcement-settings.png
 
-Use "Types" to add and edit Types to be used for Announcements. Select a suitable icon for quick reference.
+Types
+------
+Here you can add and edit Types that can be used in an Announcements to indicate what type of content the Announcement has.
 
-Use "Status" to create ned Edit Status Color than can be used for Announcements.
+The existing Types are listed, with selected icons shown. Edit and delete the Types using the pen or dust bin:
+
+.. image:: types-pen-dustbin.png
+
+To create a new Type, click the plus:
+
+.. image:: types-create-new.png
+
+Set the following:
+
+.. image:: add-type-settings.png
+
+1. Add a Title.
+2. Select Icon Type.
+3. Select Icon. 
+4. Click the bold plus to save the Type.
+
+.. image:: types-create-new-save.png
+
+**Tip!** You can select "Custom" to use any image as an icon, but you have to know (or have copied) the Url to the image.
+
+Status
+------
+Here you can add and edit Status options that can be used in an Announcements to indicate the status for the Announcement, for example the level or problem or Spotted/Solving/Solved.
+
+The existing Types are Status options, with selected color shown. Edit and delete the Status options using the pen or dust bin:
+
+.. image:: status-pen-dustbin.png
+
+To create a new Status option, click the plus:
+
+.. image:: status-create-new.png
+
+Set the following:
+
+.. image:: add-status-settings.png
+
+1. Add a Title.
+2. Select Background Color.
+3. Select Text Color. 
+4. Click the bold plus to save the Status option.
+
+.. image:: status-create-new-save.png
+
+
+
+
 
 
