@@ -1,7 +1,7 @@
 Announcements
 ===========================================
 
-Announcements are created by administrators and will display important information in the whole tenant, or for a certain business profile. The Priority (status) of an announcement can be Normal or High. Announcements can be displayed at the top, in the Notification panel, or in a block, which is what's described here.
+Announcements are created by administrators and will display important information in the whole tenant, or for a certain business profile. The Priority (status) of an announcement can be Normal or High. Announcements can be displayed at the top or in a block, which is what's described here.
 
 The end user experience
 ***********************
@@ -15,7 +15,7 @@ The following settings are available for the Announcements block:
 
 .. image:: announcements-settings.png
 
-The Layout tab options are general block settings, see this page for information: (link to be added).
+The Layout tab options are general block settings, see this page for information: :doc:`General block settings </blocks/general-block-settings/index>`
 
 General
 ----------------
