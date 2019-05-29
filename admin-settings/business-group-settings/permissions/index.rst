@@ -1,4 +1,4 @@
-Permissions (Business Group)
+Permissions
 ===========================================
 
 (A description will be added here soon.)

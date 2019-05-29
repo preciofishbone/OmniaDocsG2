@@ -1,4 +1,4 @@
-Announcements (Business Group)
+Announcements
 ===========================================
 
 (A description will be added here soon.)

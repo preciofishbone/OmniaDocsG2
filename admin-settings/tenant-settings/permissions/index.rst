@@ -1,4 +1,4 @@
-Permissions (Tenant)
+Permissions
 ===========================================
 
 Use this setting to add and remove Tenant Administrators. Only Tenant Administrators can use this setting and eller other settings under "Tenant" in Omnia Admin. 

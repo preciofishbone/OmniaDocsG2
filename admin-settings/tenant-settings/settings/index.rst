@@ -1,4 +1,4 @@
-Settings (Tenant)
+Settings
 ====================
 
 Here you can set the following:
