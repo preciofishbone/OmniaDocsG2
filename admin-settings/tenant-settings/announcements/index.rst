@@ -5,7 +5,7 @@ Announcements
 
 Here a Tenant Administrator can create Announcements that will be displayed over the whole tenant, normally at the top. Tenant Announcements can also be shown through the Announcements block. For more information about the block, see: :doc:`The Announcements block </blocks/announcements/index>`
 
-Note that an option to create Announcements for a specific Business Group also is available, see: (Link to be added)
+Note that an option to create Announcements for a specific Business Group also is available. The options are identical, the only difference is where Announcements are shown.
 
 Create an Announcement
 *************************
