@@ -1,4 +1,4 @@
-Business Group Settings
+Business Profile Settings
 ===========================================
 
 .. toctree::

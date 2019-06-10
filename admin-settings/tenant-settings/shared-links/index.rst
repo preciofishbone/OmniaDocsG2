@@ -23,8 +23,6 @@ Do the following:
 
 .. image:: shared-links-settings.png
 
-
-
 Edit or delete a Shared Link
 *****************************
 In the list of Shared Links, click the pen to edit a link or the dust bin to delete a link.
