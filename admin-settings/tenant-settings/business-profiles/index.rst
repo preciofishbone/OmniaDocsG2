@@ -1,7 +1,9 @@
 Business Profiles
 ===========================================
 
-Within a Tenant several Business Profiles can be used, for different settings for different areas of the Tenant. 
+Within a Tenant several Business Profiles can be used, for different settings for different areas of the Tenant. Even if you will have the same settings everywhere in the Tenant, you still need one Business Profile, to set, for example, Profile Theme (Colors), Central Image Locations and Content Header Settings (for the blocks).
+
+Settings for Team Collaboration, the Notification Panel, Search and Provisioning Templates are also found among the Business Profile settings.
 
 When adding and editing settings for a specific Business Profile, select the Profile in the list. The available settings for the Business Profile is then listed below.
 

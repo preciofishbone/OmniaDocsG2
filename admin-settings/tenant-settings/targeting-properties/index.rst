@@ -17,7 +17,7 @@ Use the following settings:
 
 .. image:: targeting-properties-settings.png
 
-+ **Title**: Add the Title to be shown for editors when selecting targeting.
++ **Title**: Add the Title to be shown for editors, for the Property, when targeting.
 + **Property**: Select Tenant Property from the list.
 + **Type**: Select Type of targeting for this Property.
 
