@@ -47,7 +47,7 @@ To target a link, do the following. Note that Properties for targeting must be s
 
 .. image:: add-targeting-filter.png
 
-2. Open the list and select property.
+2. Open the list and select Property.
 
 .. image:: targeting-property.png
  
