@@ -85,7 +85,8 @@ Click the cog wheel to set additional settings för My Sites. Here's what you ca
 
 .. image:: my-sites-settings.png
 
-**General**
+General
+^^^^^^^^
 + **Following**: Decides if the "Following" tab is displayed or not. The "All" tab is always displayed. 
 + **Order By**: Sets the Sort Order for the list of sites. Can be by "Title" or "Last Visited".
 + **Open in New Windows**: Decides if the site is opened in a new window ore not.
@@ -96,7 +97,8 @@ This an example where Letter Avatars are used:
 
 .. image:: letter-avatars.png
 
-**Site Creation Settings**
+Site Creation Settings
+^^^^^^^^^^^^^^^^^^^^^^^^
 Here you can set the following:
 
 .. image:: site-creation-settings.png
@@ -104,7 +106,8 @@ Here you can set the following:
 + **Label**: The default Label is "Create new site". You can set another Label here.
 + **Link**:  If a custom form has been created for the Create Site function, the url to the form should be put in here.
 
-**Custom Colors**
+Custom Colors
+^^^^^^^^^^^^^^
 Here you can set a Custom Color for the Icons for the sites. 
 
 Notification Panel - additional settings
