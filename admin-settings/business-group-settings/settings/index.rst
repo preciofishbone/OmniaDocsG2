@@ -129,7 +129,8 @@ You can set the following:
 + **Enable**: Use this option to decide to display the App Launch menu or not. Default=displayed.
 + **App Launch Button**: Here you set Custom colors for the App Launch button. If not set, the default color settings are used.
 
-**Panel Settings - General**
+Panel Settings - General
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 You can set the following here:
 
 .. image:: panel-settings-general.png
@@ -162,12 +163,14 @@ View Template "App launch" example:
 
 .. image:: app-launch-app-launch.png
 
-**Panel Settings - Custom Colors**
+Panel Settings - Custom Colors
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Use these options to set Custom Colors for the App Launch menu. 
 
 .. image:: app-launch-custom-colors.png
 
-**Panel Settings - Custom Sort**
+Panel Settings - Custom Sort
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 If you have selected "Custom" under "Sorted By", thes options are available:
 
 .. image:: app-launch-custom-sort.png
