@@ -177,5 +177,47 @@ If you have selected "Custom" under "Sorted By", this option are available:
 
 Use the arrows to move apps up or down in the list.
 
+Central Image Locations
+************************
+You can set central image locations for the editors to use, mainly through the Media Picker. One or more locations can be set up in the list.
+
+You can also go to the Central Image Location from here, to handle the images there.
+
+.. image:: central-image-locations.png
+
+To add a new Central Image Location, click the plus:
+
+.. image:: central-image-locations-click-plus.png
+
+Use these settings:
+
+.. image:: central-image-locations-settings.png
+
++ **Url to Image Library**: Type or paste the Url here.
++ **Display Name**: Add the name to be shown in the lists.
+
+Use the icons by the list, this way:
+
+Click the left most icon to go to the Image Location, for example to upload images.
+To edit the settings for an Image Location, click the pen.
+To delete an Image location, click the dust bin.
+
+.. image:: central-image-locations-delete-edit.png
+
+Content Header
+***************
+Use these options to set a default setting for Block Headings. Authors can edit these settings when working with Blocks, if needed.
+
+.. image:: content-header.png
+
++ **Title Preview**: Here you see a Preview when you make changes.
++ **Text Margin**: Set the Margin from the text to the border of the header.
++ **Font Size**: Set the Size of the text here.
++ **Text Color**: Set the Text Color here.
++ **Text Align**: The Header Text can be aligned left, right or middle, within the header.
++ **Separator Size**: This is spacing in pixels below the Heading Area (meaning, not just the text, but the whole Header). Default=2.
++ **Separator Color**: You can also set a Color for Separator area. Default=white.
+
+
 
 
