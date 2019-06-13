@@ -171,7 +171,7 @@ Use these options to set Custom Colors for the App Launch menu.
 
 Panel Settings - Custom Sort
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-If you have selected "Custom" under "Sorted By", thes options are available:
+If you have selected "Custom" under "Sorted By", this option are available:
 
 .. image:: app-launch-custom-sort.png
 
