@@ -1,8 +1,6 @@
 Settings
 ===========================================
 
-**Note! This is an ongoing work. All options are not described yet.**
-
 Here the following settings can be edited:
 
 .. image:: business-profile-settings-all.png
