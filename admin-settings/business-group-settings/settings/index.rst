@@ -118,7 +118,7 @@ Here you can set type of Notification Panel.
 
 App Launch
 -----------
-These settings are for the App Launch menu:
+These settings are for the App Launch menu. It's an Omnia Menu replacing the default Office 365 menu. 
 
 .. image:: applaunch-menu-example.png
 
