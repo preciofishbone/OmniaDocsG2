@@ -85,8 +85,7 @@ Click the cog wheel to set additional settings för My Sites. Here's what you ca
 
 .. image:: my-sites-settings.png
 
-General
-'''''''''
+**General**
 + **Following**: Decides if the "Following" tab is displayed or not. The "All" tab is always displayed. 
 + **Order By**: Sets the Sort Order for the list of sites. Can be by "Title" or "Last Visited".
 + **Open in New Windows**: Decides if the site is opened in a new window ore not.
@@ -97,8 +96,7 @@ This an example where Letter Avatars are used:
 
 .. image:: letter-avatars.png
 
-Site Creation Settings
-''''''''''''''''''''''''
+**Site Creation Settings**
 Here you can set the following:
 
 .. image:: site-creation-settings.png
@@ -106,9 +104,72 @@ Here you can set the following:
 + **Label**: The default Label is "Create new site". You can set another Label here.
 + **Link**:  If a custom form has been created for the Create Site function, the url to the form should be put in here.
 
-Custom Colors
-'''''''''''''''
+**Custom Colors**
 Here you can set a Custom Color for the Icons for the sites. 
+
+Notification Panel - additional settings
+-------------------------------------------
+Here you can set type of Notification Panel.
+
+.. image:: notification-panel-settings.png
+
+App Launch
+-----------
+These settings are for the App Launch menu:
+
+.. image:: applaunch-menu-example.png
+
+You can set the following:
+
+.. image:: applaunch-settings.png
+
++ **Enable**: Use this option to decide to display the App Launch menu or not. Default=displayed.
++ **App Launch Button**: Here you set Custom colors for the App Launch button. If not set, the default color settings are used.
+
+**Panel Settings - General**
+You can set the following here:
+
+.. image:: panel-settings-general.png
+
++ **Title**: You can add a title to the App Launch menu.
+
+.. inmage:: app-launch-title.png
+
++ **Sorted By**: The list of apps can be sorted alphabetically, by Last Visited, or by a Custom sort (see below for Custom Sort Settings).
++ **View Template**: The list of apps can be displayed in four different ways: "Simple list", "App Icons", "Navigation View" or "App Launch". See below for examples.
++ **Categories**: (A description will be added soon)
++ **Use targeting**: (A description will be added soon)
++ **Include Personal Links**: (A description will be added soon)
++ **Item Limit**: Set the number of apps to be displayed on each "page" of the app list. Default=20.
++ **Padding**: Use these options to set som padding around the app list, if needed.
+
+View Template "Simple List" example:
+
+.. image:: app-launch-simple-list.png
+
+View Template "App Icons" example:
+
+.. image:: app-launch-app-icons.png
+
+View Template "Navigation View" example:
+
+.. image:: app-launch-navigation-view.png
+
+View Template "App launch" example:
+
+.. image:: app-launch-app-launch.png
+
+**Panel Settings - Custom Colors**
+Use these options to set Custom Colors for the App Launch menu. 
+
+.. image:: app-launch-custom-colors.png
+
+**Panel Settings - Custom Sort**
+If you have selected "Custom" under "Sorted By", thes options are available:
+
+.. image:: app-launch-custom-sort.png
+
+Use the arrows to move apps up or down in the list.
 
 
 
