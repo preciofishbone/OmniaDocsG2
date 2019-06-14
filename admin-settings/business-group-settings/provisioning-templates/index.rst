@@ -51,15 +51,15 @@ Do the following:
 
 .. image:: provisioning-templates-create-team-2.png
 
-The first set of options is the same as for Publishing Templatse, see above.
+The first set of options is the same as for Publishing Templates, see above.
 
 3. Click "Next".
 
-Use the following optinons here:
+Use the following options here:
 
 .. image:: provisioning-templates-create-team-3.png
 
-+ **Type**: Select template to base the new template on. If in doubt, select "Team", it's the most commonly used. 
++ **Type**: Select template to base the new template on.  
 + **Language**: Select Language to be used for system texts in the site.
 + **User can select language**: Select this option to enable Language selection by the user creating the site.
 + **Time Zone**: Select the correct Time Zone here.
@@ -67,7 +67,7 @@ Use the following optinons here:
 + **Default Administrator**: If empty, the user creating or requesting the site will automatically become the administrator (Owner) of the site. If a specific group or user should be administrator for all sites created from this template, add that group or user. Not available for Office 365 Groups.
 + **Default Secondary Administrator**: You can add a second Administror, there should always be at least two.
 + **Default Visitors**: You can use this to set a default visitor group (read permissions) to all sites created from this template. Let's say it's a template for community pages - then probably all users of the intranet should have read permission to all pages in the site. Not available for Office 365 Groups.
-+ **Privacy**: For 365 Groups (Not for Teams), you can select either "Private" or "Public". The text in the selections explans the difference.
++ **Privacy**: For 365 Groups (Not for Teams), you can select either "Private" or "Public". The text in the selections explains the difference.
 
 5. Click "Next".
 6. Click "ADD" to create the Template.
