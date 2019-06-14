@@ -19,7 +19,7 @@ To create a Team Site from here, do the following:
 
 .. image:: team-collaboration-select-new.png
 
-3. Select Provisioning Template. (See this page for more information: `Provisioning Templates </admin-settings/business-group-settings/provisioning-templates/index>`
+3. Select Provisioning Template. See this page for more information: `Provisioning Templates </admin-settings/business-group-settings/provisioning-templates/index>`
 
 .. image:: team-collaboration-template.png
 
@@ -29,7 +29,7 @@ To create a Team Site from here, do the following:
 
 + **Base App Template**: This is just information stating which Provisioning Template you have selected.
 + **Title**: Add a Title (name) for the Team Site here.
-+ **Description**: It's a good idea to add a Description of the Team Sites purpose here, but it's not mandatory.
++ **Description**: It's a good idea to add a Description of the Team Site's purpose here, but it's not mandatory.
 + **App Administrator**: You are automatically added as the Administrator of the site. Add or remove Administrators as needed.
 
 5. Set the following settings:
@@ -43,6 +43,12 @@ To create a Team Site from here, do the following:
 6. Click "ADD" to create the Team Site.
 
 **Note!** - when the Team Site is created, the above settings can not be edited here.
+
+Attach a Team Site
+*******************
+Using this option you can attach any Team site.
+
+(More information will be added soon.)
 
 Pending Approval
 *****************
