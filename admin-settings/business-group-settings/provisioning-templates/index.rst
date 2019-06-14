@@ -21,7 +21,7 @@ To create a Template, do the following:
 
 .. image:: provisioning-templates-create-1.png
 
-Available settings differ depending on if you create a Template for a Piblishing App or for a Team Site, see below.
+Available settings differ depending on if you create a Template for a Publishing App or for a Team Site, see below.
 
 Creating a Template for a Publishing App
 -----------------------------------------
@@ -29,13 +29,13 @@ Do the following:
 
 2. For "Base Definition", select "Publishing App" and use the following settings:
 
-.. image:: provisioning-templates-publishing-2.png
+.. image:: provisioning-templates-create-publishing-2.png
 
 + **Title**: Add a Title for the Template.
 + **Description**: Add a Description if needed.
 + **Icon Type**: An icon is always shown for a Template. If you would like another icon for this Template, select the set of Icons here: "Font Awesome", "Fabric" or "Custom". When selecting "Custom" you can choose any image as the Icon.
 + **Icon**: When you have select Icon Type, use this list to select the icon. If you select "Custom", this list is not shown. Instead a "Url" field is shown, where you enter the Url for the image.
-+ **Enabled**: Select this option if the Template should be available when creating Publishing Apps (meaning, you can work on a Template a while and make it available when you're reday).
++ **Enabled**: Select this option if the Template should be available for use (meaning, you can work on a Template a while and make it available when you're reday).
 + **Site Creation Mode**: Here you select if users will be available to create sites from this Template or if Approval is required.
 
 3. Click "Next".
@@ -49,21 +49,15 @@ Do the following:
 
 2. For "Base Definition", select "Team Collaboration" and use the following settings:
 
-.. image:: provisioning-templates-team-2.png
+.. image:: provisioning-templates-create-team-2.png
 
 The first set of options is the same as for Publishing Templatse, see above.
 
 3. Click "Next".
 
-Us the following optinons here:
+Use the following optinons here:
 
-.. image:: provisioning-templates-team-3.png
-
-+ **Type**: 
-
-4. Click "ADD" to create the Template.
-
-.. image:: provisioning-templates-publishing-3.png
+.. image:: provisioning-templates-create-team-3.png
 
 + **Type**: Select template to base the new template on. If in doubt, select "Team", it's the most commonly used. 
 + **Language**: Select Language to be used for system texts in the site.
