@@ -13,7 +13,7 @@ Use the icons to edit or delete a Template.
 
 When editing a template, the same options as when creating a Template is available, see below.
 
-Creating a Provisoning Template
+Create a Provisioning Template
 *********************************
 To create a Template, do the following:
 
@@ -23,7 +23,7 @@ To create a Template, do the following:
 
 Available settings differ depending on if you create a Template for a Publishing App or for a Team Site, see below.
 
-Creating a Template for a Publishing App
+Create a Template for a Publishing App
 -----------------------------------------
 Do the following:
 
@@ -43,7 +43,7 @@ Do the following:
 
 .. image:: provisioning-templates-publishing-3.png
 
-Creating a Template for a Team Site
+Create a Template for a Team Site
 -----------------------------------------
 Do the following:
 
