@@ -34,7 +34,7 @@ Search Templates are created by developers and are simply listed here. If severa
 
 Quick Search
 ***************
-Quick Search is available in the Heading, if available:
+Quick Search is available in the Heading (can be turned off in settings):
 
 .. image:: quick-search-start-page.png
 
@@ -45,7 +45,7 @@ For Quick Search, the following settings are available:
 + **Search Categories**: One or more Search Categories can be added (if more than one is available).
 + **Row Limit**: You can set Row Limit for each Search Category. Row Limit is number of objects per Search Results "page".
 
-Adcanced Search
+Advanced Search
 *****************
 When a search has been made in Quick Search, Advanced Search is available through this link:
 
@@ -64,7 +64,7 @@ Use these settings for Advanced Search:
 
 Additional settings can be reached by clicking the pen for a Search Category:
 
-.. image:: search-category-pen.png
+.. image:: advanced-search-pen.png
 
 Then these settings is available:
 
