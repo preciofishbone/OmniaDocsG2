@@ -46,9 +46,9 @@ To add a link to a Document, use the following options:
 
 .. image:: add-link-document.png
 
-+ **Search**: Use this field to search for Document.
++ **Search**: Use this field to search for a Document.
 + **Upload**: Click here to upload a Document to link to.
-+ **Documents**: If the Document in any folder in the Document library here, use the folders to navigate to the Document and select it.
++ **Documents**: If the Document is present in any folder in the Document library here, use the folders to navigate to the Document and select it.
 + **Title**: The Document name is automatically added as the Title. Edit it if needed.
 
 Here's an example with a Document selected:
