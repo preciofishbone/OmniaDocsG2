@@ -1,8 +1,6 @@
 Notfication Panel
 ===========================================
 
-**Note! This documentation is just started. More information will be added soon.**
-
 The notification panel is a concept in Omnia. The purpose is to help end users find out what information has been updated within different areas of the intranet.
 
 A Notification Panel can be placed on any page, to show different notifications. You can create several Notification Panels for different purposes.
@@ -21,7 +19,7 @@ To create a new Notification Panel, do the following:
 
 .. image:: notification-panel-settings-new.png
 
-+ **Add Category**: Click here to add a new Category.
++ **Add Category**: Click here to add a new Category. 
 + **Category Title**: Add a Title for the new Category.
 + **Icon Type**: Select an Icon Type.
 + **Icon**: Choose the Icon in the Icon Type you have selected.
@@ -37,55 +35,19 @@ The following settings are available:
 
 .. image:: notification-category-more-settings.png
 
-Available settings differ depending on View Controll selected.
+Available settings differ depending on View Control selected.
 
-Announcements
----------------
-For Announcements you can set "General" settings:
+Category settings
+*******************
+The settings for a Category is the same as the settings for the corresponding Block, see:
 
-.. image:: notification-settings-announcement-general.png
+Announcements: :doc:`The Announcemnents block </blocks/annouoncements/index>`
 
-+ **Title**: Add a Title for the Category (Not mandatory).
-+ **Announcement View Type**: Select "Normal Announcements" or "High Priority Announcements"
-+ **Padding**: If some padding around the Category is needed, use this option.
+Document Rollup: :doc:`The Document Rollup block </blocks/document-rollup/index>`
 
-For "Custom Colors" you can set:
+My Tasks: :doc:`The Tasks Rollups block </blocks/task-rollup/index>`
 
-.. image:: notification-settings-announcement-colors.png
+Page Rollup: :doc:`The Pages Rollup block </blocks/page-rollup/index>`
 
-Document Rollup
------------------
-For Document Rollup, the following settings are available:
-
-.. image:: notification-settings-document-rollup.png
-
-For "General" you can set:
-
-+ **Title**: Add a Title for the Category (Not mandatory).
-+ **Open in Client App**: Select this option of you want the documents to be opened in the Client App (the installed version) instead the online application.
-
-For "Display" you can set:
-
-+ **View**: Select how the Document List should be displayed: "List View", "Card View" or "Group By Site".
-
-Selecting "Query" you can set the following:
-
-.. image:: notification-settings-document-rollup-query.png
-
-(A description will be added soon.)
-
-Using "Filter" you add Filter Options to the Document list.
-
-.. image:: notification-settings-document-rollup-filter.png
-
-(A desciption will be added soon.)
-
-Use "Refiner" to add Refiners for the Document list.
-
-(A description will be added soon.)
-
-
-
-
-
+Team News Rollup: :doc:`The Team News Rollup block </blocks/team-news-rollup/index>`
 
