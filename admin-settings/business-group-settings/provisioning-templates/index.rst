@@ -1,7 +1,7 @@
 Provisioning Templates
 ===========================================
 
-Use these options to create Provisioning Templates for creating Team Sites or Publishing Apps.
+Use these options to create Provisioning Templates for Team Sites or Publishing Apps.
 
 All existing Templates are displayed in the list.
 
@@ -11,7 +11,7 @@ Use the icons to edit or delete a Template.
 
 .. image:: provisioning-templates-edit-delete.png
 
-When editing a template, the same options as when creating a Template is available, see below.
+When editing a Template, the same options as when creating a Template is available, see below.
 
 Create a Provisioning Template
 *********************************
@@ -64,8 +64,8 @@ Use the following options here:
 + **User can select language**: Select this option to enable Language selection by the user creating the site.
 + **Time Zone**: Select the correct Time Zone here.
 + **Location**: Select location for the sites created from this template. For a site collection site, you can select to create sites from this template in any of the managed paths, normally either /sites or /teams. Not available for Office 365 Groups.
-+ **Default Administrator**: If empty, the user creating or requesting the site will automatically become the administrator (Owner) of the site. If a specific group or user should be administrator for all sites created from this template, add that group or user. Not available for Office 365 Groups.
-+ **Default Secondary Administrator**: You can add a second Administror, there should always be at least two.
++ **Default Administrator**: If empty, the user creating or requesting the site will automatically become the Default Administrator (Owner) of the site, in Sharepoint terms; Primary Site Collection Administrator. If a specific group or user should be administrator for all sites created from this template, add that group or user. Not available for Office 365 Groups.
++ **Default Secondary Administrator**: You can add a second Administror, if needed.
 + **Default Visitors**: You can use this to set a default visitor group (read permissions) to all sites created from this template. Let's say it's a template for community pages - then probably all users of the intranet should have read permission to all pages in the site. Not available for Office 365 Groups.
 + **Privacy**: For 365 Groups (Not for Teams), you can select either "Private" or "Public". The text in the selections explains the difference.
 

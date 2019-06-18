@@ -139,9 +139,9 @@ You can set the following here:
 
 + **Sorted By**: The list of apps can be sorted alphabetically, by Last Visited, or by a Custom sort (see below for Custom Sort Settings).
 + **View Template**: The list of apps can be displayed in four different ways: "Simple list", "App Icons", "Navigation View" or "App Launch". See below for examples.
-+ **Categories**: (A description will be added soon)
-+ **Use targeting**: (A description will be added soon)
-+ **Include Personal Links**: (A description will be added soon)
++ **Categories**: Select the types of links that should be displayed in App Launch. Default=App Launcher.
++ **Use targeting**: If it should be possible to use targeting for the links in App Launch, select this option.
++ **Include Personal Links**: If Personal Links (=created by the user) should be displayed in App Launch, select this option.
 + **Item Limit**: Set the number of apps to be displayed on each "page" of the app list. Default=20.
 + **Padding**: Use these options to set som padding around the app list, if needed.
 
