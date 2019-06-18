@@ -27,21 +27,15 @@ To create a new Notification Panel, do the following:
 + **Notification**: Select Automatic or Custom for the Category. For Custom, Notification Providers must have been setup.
 
 3. Click "ADD" to create the Category.
-4. Click the cog wheel to access more settings.
+4. Click the cog wheel to access the settings for the Category, for example.
 
 .. image:: notification-category-more-settings-cogwheel.png
-
-The following settings are available:
-
-.. image:: notification-category-more-settings.png
-
-Available settings differ depending on View Control selected.
 
 Category settings
 *******************
 The settings for a Category is the same as the settings for the corresponding Block, see:
 
-Announcements: :doc:`The Announcemnents block </blocks/annouoncements/index>`
+Announcements: :doc:`The Announcemnnts block </blocks/announcements/index>`
 
 Document Rollup: :doc:`The Document Rollup block </blocks/document-rollup/index>`
 
