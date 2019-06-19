@@ -4,6 +4,7 @@ Blocks
 .. toctree::
    :titlesonly:
 
+   search/index
    announcements/index
    banner/index
    breadcrumb/index
@@ -19,7 +20,6 @@ Blocks
    people-rollup/index
    quick-links/index
    related-links/index
-   search/index
    task-rollup/index
    team-news-rollup/index
    text/index
