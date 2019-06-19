@@ -1,36 +1,23 @@
 Page Likes and Comments
 ===========================================
 
-(Text copied from G1 - to be edited)
+The block makes it possible for the end user to like and comment a specific web page. It is also possible to reply to comments. Besides that, users can Share the page with others by e-mail.
 
-The control makes it possible for the end user to like and comment a specific web page. It is also possible to reply to comments. 
+.. image:: comments-and-likes.png
 
-.. image:: commentsandlikes.png
+It is possible for the end user to edit and delete a comment, made by the user, by clicking the edit pen icon. 
 
-It is possible for the end user to edit and delete a comment, made by the user, by clicking the edit pencil icon. 
-
-.. image:: commentsandlikeseditdelete.png
+.. image:: comments-and likes-pen.png
 
 When a comment is deleted it works this way: If there are now answers to the comment it will just be removed. If there are answers, the  comment will be replaced with a text that states that it has been deleted and by whom. Everyone can delete their own comments. A Site Collection administrator can delete any comment. 
 
-.. image:: commentsandlikescommentdeleted.png
+Settings for the block
+************************
+In the settings you can add a title for the block and add som padding:
 
-To change the settings for the control, activate the edit switch and click  the settings gear.
+.. image:: comments-and-likes-settings.png
 
-This will open the settings dialog.
-
-.. image::commentsandlikessettings.png
-
-- **Enable Likes**: Defines whether it should be possible for the end user to use Likes in the site or not.
-- **Enable Comments**: Defines whether it should be possible for the end user to use comments in the site or not.
-
-Comments and multilingual sites
-********************************
-The default setting is that comments are visible per language only, English comments on English pages only, Swedish comments on Swedish pages only, and so fort, but it's possible to set that all comments should be shown an all pages, regardless of language set for the page. The setting is done in Omnia Admin under Content Management/Multilingual Social Settings.
-
-.. image:: mutlilingual-social-setting.png
-
-The setting is valid for the whole site collection.
+The Layout tab contains general block settings, see: :doc:`General block settings </blocks/general-block-settings/index>`
 
 More on Likes and Comments
 ***************************
@@ -40,5 +27,4 @@ A user can click the hand to see a list of the users that has liked the page or 
 
 A user writing a comment can use mentions to send a message to someone, for example the author of the page (news page or other). 
 
-Note!
-Likes on comments does not affect trending in any way.
+**Note!** Likes on comments does not affect trending in any way.
