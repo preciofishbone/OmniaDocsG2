@@ -7,13 +7,13 @@ The block makes it possible for the end user to like and comment a specific web 
 
 It is possible for the end user to edit and delete a comment, made by the user, by clicking the edit pen icon. 
 
-.. image:: comments-and likes-pen.png
+.. image:: comments-and-likes-pen.png
 
 When a comment is deleted it works this way: If there are now answers to the comment it will just be removed. If there are answers, the  comment will be replaced with a text that states that it has been deleted and by whom. Everyone can delete their own comments. A Site Collection administrator can delete any comment. 
 
 Settings for the block
 ************************
-In the settings you can add a title for the block and add som padding:
+In the settings you can add a Title for the block and add som Padding:
 
 .. image:: comments-and-likes-settings.png
 
