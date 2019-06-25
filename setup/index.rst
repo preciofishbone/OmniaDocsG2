@@ -1,13 +1,13 @@
 Setup
 ===========================================
 
-In this part of the documentation you will find information concerning how to setup Omnia.
+In this part of the documentation you will find information on how to setup Omnia for Modern SharePoint.
 
 
 .. toctree::
    :titlesonly:
 
-   tenant-settings/index
+   tenantsettings/index
    properties/index
    businessprofile/index
    publishingapp/index
