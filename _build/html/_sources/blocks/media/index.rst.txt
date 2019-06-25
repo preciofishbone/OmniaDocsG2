@@ -1,18 +1,15 @@
 Media
-<<<<<<< HEAD
-===========================================
-=======
 ===========================================
 
-Use the Media block to add an image anywhere on a page. There are no actual settings for the block.
+Use the Media block to add an image or a video anywhere on a page. 
 
-To add the image, click "Add Content".
+To add the image or video, click "ADD IMAGE".
 
 .. image:: media-block.png
 
-You then use the Media Picker to select image.
+You then use the Media Picker to select image or video. 
 
-.. image:: media-block-picker.png
+.. image:: media-picker.png
 
-See this page for a description on how to use the Media Picker: (Link to be added)
->>>>>>> 55bf1f744958a45f35ec216af274b664a783fa6a
+See this page for more information: :doc:`The Media Picker </general-assets/media-picker/index>`
+
