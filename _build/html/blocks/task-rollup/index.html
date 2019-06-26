@@ -42,7 +42,7 @@
     <link rel="top" title="Omnia  documentation" href="../../index.html"/>
         <link rel="up" title="Blocks" href="../index.html"/>
         <link rel="next" title="Team News Rollup" href="../team-news-rollup/index.html"/>
-        <link rel="prev" title="Search" href="../search/index.html"/> 
+        <link rel="prev" title="Related Links" href="../related-links/index.html"/> 
 
   
   <script src="../../_static/js/modernizr.min.js"></script>
@@ -92,12 +92,15 @@
             
             
               <ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="../../admin-settings/index.html">Admin Settings</a></li>
 <li class="toctree-l1 current"><a class="reference internal" href="../index.html">Blocks</a><ul class="current">
+<li class="toctree-l2"><a class="reference internal" href="../search/index.html">Advanced Search</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../announcements/index.html">Announcements</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../banner/index.html">Banner</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../breadcrumb/index.html">Breadcrumb</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../current-navigation/index.html">Current Navigation</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../document-rollup/index.html">Document Rollup</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../general-block-settings/index.html">General Block Settings</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../html-script/index.html">HTML/Script</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../media/index.html">Media</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../notification-panel/index.html">Notification Panel</a></li>
@@ -107,12 +110,14 @@
 <li class="toctree-l2"><a class="reference internal" href="../people-rollup/index.html">People Rollup</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../quick-links/index.html">Quick Links</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../related-links/index.html">Related Links</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../search/index.html">Search</a></li>
 <li class="toctree-l2 current"><a class="current reference internal" href="#">Task Rollup</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../team-news-rollup/index.html">Team News Rollup</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../text/index.html">Text</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../working-with-blocks/index.html">Working with blocks</a></li>
 </ul>
 </li>
+<li class="toctree-l1"><a class="reference internal" href="../../pages/index.html">Pages</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../general-assets/index.html">General assets</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../contribute-to-doc/index.html">Contribute to this Documentation</a></li>
 </ul>
 
@@ -181,6 +186,38 @@
             
   <div class="section" id="task-rollup">
 <h1>Task Rollup<a class="headerlink" href="#task-rollup" title="Permalink to this headline">¶</a></h1>
+<p>This block can be used to show tasks assigned to the logged in user. Tasks from Team Sites will always be shown. Tasks from Planner can also be added.</p>
+<p>All sites with tasks assigned to the user is displayed in a list. Here’s an example with the list opened for one of the sites:</p>
+<img alt="../../_images/tasks-rollup-example.png" src="../../_images/tasks-rollup-example.png" />
+<div class="section" id="settings">
+<h2>Settings<a class="headerlink" href="#settings" title="Permalink to this headline">¶</a></h2>
+<p>The following settings are available:</p>
+<img alt="../../_images/tasks-rollup-settings-new.png" src="../../_images/tasks-rollup-settings-new.png" />
+<div class="section" id="general">
+<h3>General<a class="headerlink" href="#general" title="Permalink to this headline">¶</a></h3>
+<p>The following is availabled here:</p>
+<img alt="../../_images/tasks-rollup-settings-general-new.png" src="../../_images/tasks-rollup-settings-general-new.png" />
+<ul class="simple">
+<li><strong>Title</strong>: To show a title for the block, add a title here.</li>
+<li><strong>Row Limit</strong>: The maximum number of tasks to show in the list.</li>
+<li><strong>Day Limit</strong>: How many days forward in time to show assigned tasks. 0 = no limit.</li>
+<li><strong>Sort by</strong>: Select which column the list should be sorted on, and then select ascending or descending.</li>
+<li><strong>Always Show Letter Avatar</strong>: Select if a letter avatar should always be shown instead of site image.</li>
+<li><strong>View Template</strong>: Select View Template here; “Simple list” or “Site Group List”.</li>
+<li><strong>Padding</strong>: You can add padding between the list and the block border if needed.</li>
+</ul>
+</div>
+<div class="section" id="custom-colors">
+<h3>Custom colors<a class="headerlink" href="#custom-colors" title="Permalink to this headline">¶</a></h3>
+<p>You should primarily set colors in Omnia Admin (System/Settings/Default colors). If you still would like custom colors for the block, you can set them using this tab.</p>
+<img alt="../../_images/tasks-rollup-settings-colors.png" src="../../_images/tasks-rollup-settings-colors.png" />
+</div>
+<div class="section" id="planner-tasks">
+<h3>Planner Tasks<a class="headerlink" href="#planner-tasks" title="Permalink to this headline">¶</a></h3>
+<p>Check the box “Enable Planner Tasks” to include tasks from planner in the Tasks Rollup.</p>
+<img alt="../../_images/tasks-rollup-settings-planner.png" src="../../_images/tasks-rollup-settings-planner.png" />
+</div>
+</div>
 </div>
 
 
@@ -196,7 +233,7 @@
         <a href="../team-news-rollup/index.html" class="btn btn-neutral float-right" title="Team News Rollup" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right"></span></a>
       
       
-        <a href="../search/index.html" class="btn btn-neutral" title="Search" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>
+        <a href="../related-links/index.html" class="btn btn-neutral" title="Related Links" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>
       
     </div>
   
@@ -206,7 +243,7 @@
   <div role="contentinfo">
     <p>
         &copy; Copyright 2019, Precio Fishbone.
-      Last updated on Apr 03, 2019.
+      Last updated on Jun 25, 2019.
 
     </p>
   </div>

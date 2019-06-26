@@ -92,12 +92,15 @@
             
             
               <ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="../../admin-settings/index.html">Admin Settings</a></li>
 <li class="toctree-l1 current"><a class="reference internal" href="../index.html">Blocks</a><ul class="current">
+<li class="toctree-l2"><a class="reference internal" href="../search/index.html">Advanced Search</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../announcements/index.html">Announcements</a></li>
 <li class="toctree-l2 current"><a class="current reference internal" href="#">Banner</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../breadcrumb/index.html">Breadcrumb</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../current-navigation/index.html">Current Navigation</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../document-rollup/index.html">Document Rollup</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../general-block-settings/index.html">General Block Settings</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../html-script/index.html">HTML/Script</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../media/index.html">Media</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../notification-panel/index.html">Notification Panel</a></li>
@@ -107,13 +110,14 @@
 <li class="toctree-l2"><a class="reference internal" href="../people-rollup/index.html">People Rollup</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../quick-links/index.html">Quick Links</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../related-links/index.html">Related Links</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../search/index.html">Search</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../task-rollup/index.html">Task Rollup</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../team-news-rollup/index.html">Team News Rollup</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../text/index.html">Text</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../working-with-blocks/index.html">Working with blocks</a></li>
 </ul>
 </li>
+<li class="toctree-l1"><a class="reference internal" href="../../pages/index.html">Pages</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../general-assets/index.html">General assets</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../contribute-to-doc/index.html">Contribute to this Documentation</a></li>
 </ul>
 
@@ -182,58 +186,47 @@
             
   <div class="section" id="banner">
 <h1>Banner<a class="headerlink" href="#banner" title="Permalink to this headline">¶</a></h1>
-<p>(This is just text pasted from the G1 description - to be edited!)</p>
-<p>Through the Banner block a web editor can add banners on a web page.</p>
-<img alt="blocks\banner\banners.png" src="blocks\banner\banners.png" />
-<p>The block can be used add centrally handled banners to a page, or for “local” banners, created and edited on a specific web page.</p>
-<div class="section" id="adding-a-reusable-banner">
-<h2>Adding a reusable banner<a class="headerlink" href="#adding-a-reusable-banner" title="Permalink to this headline">¶</a></h2>
-<p>The default banner type is a custom banner used only on the current web page. If you want to use a centrally managed, reusable banner, select “Reusable Banner”. This will display all available reusable banners in the list.</p>
-<p>Select the reusable banner that you would like to show on the page.</p>
-<img alt="blocks\banner\select-resuable-banner.png" src="blocks\banner\select-resuable-banner.png" />
-<p>You can’t edit the banner itself. You can just add a reusable banner to the page.</p>
-<div class="section" id="adding-a-banner-group">
-<h3>Adding a banner group<a class="headerlink" href="#adding-a-banner-group" title="Permalink to this headline">¶</a></h3>
-<p>If banner groups are set up in Omnia Admin, you can add a banner group to the page. In a banner group, the banners will alternate every time a user enters or refreshes the page.</p>
-<p>Select the banner group that you would like to show on the page.</p>
-<img alt="blocks\banner\select-banner-group.png" src="blocks\banner\select-banner-group.png" />
-<p>You can’t edit the banner group here. You can just add a banner group to the page. But you can choose that the banners in the group will be shown randomized (if not selected, the banners will alternate in the order they are set up).</p>
-<img alt="blocks\banner\group-banner-randomize.png" src="blocks\banner\group-banner-randomize.png" />
-</div>
-</div>
-<div class="section" id="creating-a-custom-banner">
-<h2>Creating a custom banner<a class="headerlink" href="#creating-a-custom-banner" title="Permalink to this headline">¶</a></h2>
-<p>To create a custom, local banner, select “Banner” and use the following settings:</p>
+<p>Using the Banner block an editor can add banners on a web page.</p>
+<img alt="../../_images/banners.png" src="../../_images/banners.png" />
+<p>You use the Banner Editor to edit the banner. You do it the same way for existing and newly added banners.</p>
+<div class="section" id="the-banner-editor">
+<h2>The Banner Editor<a class="headerlink" href="#the-banner-editor" title="Permalink to this headline">¶</a></h2>
+<p>To edit a banner, edit the page in Design mode and click this icon:</p>
+<img alt="../../_images/edit-banner.png" src="../../_images/edit-banner.png" />
+<p>The Banner Editor starts and the contents of the banner, if any, is loaded. As you edit the banner you can see a preview to the right.</p>
+<img alt="../../_images/banner-editor-layout.png" src="../../_images/banner-editor-layout.png" />
+<div class="section" id="the-layout-tab">
+<h3>The Layout tab<a class="headerlink" href="#the-layout-tab" title="Permalink to this headline">¶</a></h3>
+<p>Here you can edit the following:</p>
 <ul class="simple">
-<li><strong>View Template</strong>: Defines how the banner should be structured:
-+ <em>Image On Top</em>: Displays a big image at the top, above title, description and footer. Best suitable for landscape images.
-+ <em>Title and description on image</em>: The image covers the whole banner area, title and description are placed as an overlay.
-+ <em>Title on image</em>: A variant of the above, in this case only the title is placed as an overlay.
-+ <em>Image On Right</em>: Diplays a small image to the right and the title, description and footer floating to the left of the image. Best suitable for portrait images.</li>
-<li><strong>Link Url</strong>: The url to open when the user clicks the banner.</li>
-<li><strong>Open In New Window</strong>: Defines whether the url should be opened in a new window or not.</li>
-<li><strong>Pick link in advanced mode</strong>: Click on this link to select a page or document in the current site collection, for the Link Url, using a link picker.</li>
-<li><strong>Image and Background Color</strong>: Select the image and background color that should be used by the banner.</li>
-<li><strong>Title and Color</strong>: Enter a banner title and a text color.</li>
-<li><strong>Content and Color</strong>: Enter the banner text and a text color.</li>
-<li><strong>Footer</strong>: If needed, add a footer to the banner and text color, that will be rendered below the content.</li>
+<li><strong>Layout</strong>: Defines the Layout of the banner - “Image On Top”; Displays a big image at the top, above title, content and footer, best suitable for landscape images - “Title and Content on image”; The image covers the whole banner area, title and content are placed as an overlay; “Title on image”; In this case only the title is placed as an overlay.</li>
+<li><strong>Padding</strong>: You can set some padding for the text in the banner here.</li>
+<li><strong>Image</strong>: Use this field to add an image or a video, see below.</li>
+<li><strong>Link</strong>: Add the link to open, if any, when the user clicks the banner. When you click the icon to the right, the Link options are displayed, see below.</li>
+<li><strong>New Window</strong>: Defines whether the link should be opened in a new window or not.</li>
 </ul>
 </div>
-<div class="section" id="targeting-banners">
-<h2>Targeting banners<a class="headerlink" href="#targeting-banners" title="Permalink to this headline">¶</a></h2>
-<p>A banner can be targeted to any receivers that has been defined in Target Definitions. A targeted banner is only displayed to that group. No one else will see it. It works the same for Reusable banners and Custom banners.</p>
-<p>For more information on Targeting Definitions, see: (link)targeting-definitions/index.html</p>
-<p>To target a banner, do the following:</p>
-<ol class="arabic simple">
-<li>Add the banner, either a reusable banner, a banner group or a custom banner, as stated above.</li>
-<li>Click the tab “Targeting settings”.</li>
-<li>Select “Target to”.</li>
-</ol>
-<img alt="blocks\banner\banner-target-to.png" src="blocks\banner\banner-target-to.png" />
-<ol class="arabic simple" start="3">
-<li>Open the list and select target.</li>
-</ol>
-<img alt="blocks\banner\banner-target-list.png" src="blocks\banner\banner-target-list.png" />
+<div class="section" id="adding-an-image-or-a-video">
+<h3>Adding an image or a video<a class="headerlink" href="#adding-an-image-or-a-video" title="Permalink to this headline">¶</a></h3>
+<p>To add an image or a video to the banner you use the “Image” field.</p>
+<p>Click the icon at the right of the field to use the Media Picker. See this page for more information: <a class="reference internal" href="../../general-assets/media-picker/index.html"><span class="doc">The Media Picker</span></a></p>
+</div>
+<div class="section" id="adding-a-link">
+<h3>Adding a link<a class="headerlink" href="#adding-a-link" title="Permalink to this headline">¶</a></h3>
+<p>You can add a Custom Link, that is, a url to any web page, a link to a Page in the tenant, or to a Document.</p>
+<img alt="../../_images/banner-custom-link.png" src="../../_images/banner-custom-link.png" />
+</div>
+<div class="section" id="the-content-tab">
+<h3>The Content tab<a class="headerlink" href="#the-content-tab" title="Permalink to this headline">¶</a></h3>
+<p>Here you can add a title, a text and a footer, if needed. For the text some basic formatting is available.</p>
+<img alt="../../_images/banner-content.png" src="../../_images/banner-content.png" />
+</div>
+<div class="section" id="the-color-tab">
+<h3>The Color tab<a class="headerlink" href="#the-color-tab" title="Permalink to this headline">¶</a></h3>
+<p>Here you can set the color for title, content, footer and background.</p>
+<img alt="../../_images/banner-color.png" src="../../_images/banner-color.png" />
+<p>Don’t forget to save the changes when you’re done.</p>
+</div>
 </div>
 </div>
 
@@ -260,7 +253,7 @@
   <div role="contentinfo">
     <p>
         &copy; Copyright 2019, Precio Fishbone.
-      Last updated on Apr 05, 2019.
+      Last updated on Jun 25, 2019.
 
     </p>
   </div>

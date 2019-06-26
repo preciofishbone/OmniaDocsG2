@@ -92,12 +92,15 @@
             
             
               <ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="../../admin-settings/index.html">Admin Settings</a></li>
 <li class="toctree-l1 current"><a class="reference internal" href="../index.html">Blocks</a><ul class="current">
+<li class="toctree-l2"><a class="reference internal" href="../search/index.html">Advanced Search</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../announcements/index.html">Announcements</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../banner/index.html">Banner</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../breadcrumb/index.html">Breadcrumb</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../current-navigation/index.html">Current Navigation</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../document-rollup/index.html">Document Rollup</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../general-block-settings/index.html">General Block Settings</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../html-script/index.html">HTML/Script</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../media/index.html">Media</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../notification-panel/index.html">Notification Panel</a></li>
@@ -107,12 +110,14 @@
 <li class="toctree-l2 current"><a class="current reference internal" href="#">People Rollup</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../quick-links/index.html">Quick Links</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../related-links/index.html">Related Links</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../search/index.html">Search</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../task-rollup/index.html">Task Rollup</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../team-news-rollup/index.html">Team News Rollup</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../text/index.html">Text</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../working-with-blocks/index.html">Working with blocks</a></li>
 </ul>
 </li>
+<li class="toctree-l1"><a class="reference internal" href="../../pages/index.html">Pages</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../general-assets/index.html">General assets</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../contribute-to-doc/index.html">Contribute to this Documentation</a></li>
 </ul>
 
@@ -181,6 +186,72 @@
             
   <div class="section" id="people-rollup">
 <h1>People Rollup<a class="headerlink" href="#people-rollup" title="Permalink to this headline">¶</a></h1>
+<p>(This documentation is just started, more will be added/edited soon.)</p>
+<p>You can use this block on any page, even in a team site. Use it to display information for one or a number of colleagues. The block can be used for a vast number of applications but some examples are:</p>
+<ul class="simple">
+<li>Display contact person for a page or for something else.</li>
+<li>List colleagues working at a particular office.</li>
+<li>List members or owners in a group site.</li>
+<li>Create a people directory.</li>
+</ul>
+<p>Here are two examples:</p>
+<img alt="blocks\people-rollup\rollup-office.png(Imagewillbeaddedsoon)" src="blocks\people-rollup\rollup-office.png(Imagewillbeaddedsoon)" />
+<img alt="blocks\people-rollup\peoplerollup-peopledirectory.png(Imagewillbeaddedsoon)" src="blocks\people-rollup\peoplerollup-peopledirectory.png(Imagewillbeaddedsoon)" />
+<div class="section" id="settings-for-the-control">
+<h2>Settings for the control<a class="headerlink" href="#settings-for-the-control" title="Permalink to this headline">¶</a></h2>
+<p>The following settings are available:</p>
+<img alt="../../_images/peoplerollup-settings.png" src="../../_images/peoplerollup-settings.png" />
+<div class="section" id="general">
+<h3>General<a class="headerlink" href="#general" title="Permalink to this headline">¶</a></h3>
+<p>Here you can add a Title to be displayed for the block:</p>
+<img alt="../../_images/peoplerollup-settings-general.png" src="../../_images/peoplerollup-settings-general.png" />
+</div>
+<div class="section" id="display">
+<h3>Display<a class="headerlink" href="#display" title="Permalink to this headline">¶</a></h3>
+<p>You can set the type fo view to be used for the list here:</p>
+<img alt="../../_images/peoplerollup-settings-display.png" src="../../_images/peoplerollup-settings-display.png" />
+</div>
+<div class="section" id="query">
+<h3>Query<a class="headerlink" href="#query" title="Permalink to this headline">¶</a></h3>
+<p>Here you can set the following:</p>
+<img alt="blocks\people-rollup\peoplerollup-settings-query.png" src="blocks\people-rollup\peoplerollup-settings-query.png" />
+<ul class="simple">
+<li><strong>Query Type</strong>: Select type of information to use for the Query (=detailed settings of what to display). You can use fields from user profiles, Sharepoint groups or fields defined in the properties for this site. The latter has to be set up in Omnia Admin by an administrator, using Properties for Content Management. For example: To display a contact person you would most likely use “User Fields On Page”, to display colleagues working at a particular office - “Profile Query”, and to display members in a group site - “Sharepoint Groups”.</li>
+</ul>
+<ol class="arabic simple">
+<li>Select settings for the query, and click “Add filter”.</li>
+</ol>
+<p>Here’s an example of a query for displaying colleauges at the Stockholm office. You can see the actual query in the field below, which was added when clicking “Add filter”.</p>
+<img alt="blocks\people-rollup\peoplerollup-settings-query1.png" src="blocks\people-rollup\peoplerollup-settings-query1.png" />
+<p>Note for advanced users: You can use all search related options here in the Query field.</p>
+<p>If you selected “Sharepoint groups” as Query Type, select a group from the list and click “Add group”. If available, you can add more than one group this way.</p>
+<img alt="blocks\people-rollup\peoplerollup-settings-query2.png" src="blocks\people-rollup\peoplerollup-settings-query2.png" />
+<p><strong>Note!</strong>
+You must select the field even if there should be only one field available.</p>
+<p>If you selected “User fields On Page” as Query Type, select a field from the list and click “Add field”. If available, you can select any number of fields this way.</p>
+<img alt="blocks\people-rollup\peoplerollup-settings-query3.png" src="blocks\people-rollup\peoplerollup-settings-query3.png" />
+<p><strong>Note!</strong>
+You must select the field even if there should be only one field available.</p>
+</div>
+<div class="section" id="filter">
+<h3>Filter<a class="headerlink" href="#filter" title="Permalink to this headline">¶</a></h3>
+<p>Use these settings to add filters for the users to use.</p>
+<img alt="../../_images/peoplerollup-settings-filter.png" src="../../_images/peoplerollup-settings-filter.png" />
+<ul class="simple">
+<li><strong>Position</strong>: Decide where to place the filters; top, left or right.</li>
+<li><strong>Add filter</strong>: Click this button to add a filter.</li>
+</ul>
+</div>
+<div class="section" id="refiner">
+<h3>Refiner<a class="headerlink" href="#refiner" title="Permalink to this headline">¶</a></h3>
+<p>Use these settings to add refiners.</p>
+<img alt="../../_images/peoplerollup-settings-refiner.png" src="../../_images/peoplerollup-settings-refiner.png" />
+<ul class="simple">
+<li><strong>Position</strong>: Decide where to out the refiners; top, left or right.</li>
+<li><strong>Add refiner</strong>: Click this button to add a refiner.</li>
+</ul>
+</div>
+</div>
 </div>
 
 
@@ -206,7 +277,7 @@
   <div role="contentinfo">
     <p>
         &copy; Copyright 2019, Precio Fishbone.
-      Last updated on Apr 03, 2019.
+      Last updated on Jun 25, 2019.
 
     </p>
   </div>
