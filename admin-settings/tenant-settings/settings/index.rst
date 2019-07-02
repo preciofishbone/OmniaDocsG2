@@ -5,7 +5,7 @@ Here you can set the following:
 
 Tenant Language
 *****************
-Use the list to set default language for the tenant.
+Use the list to set available languages for the tenant. 
 
 .. image:: tenant-settings-language.png
 
