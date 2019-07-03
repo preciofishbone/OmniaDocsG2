@@ -50,7 +50,7 @@ To create a new Page Type when you're editing a page, do the following:
 
 .. image:: page-types-click-create.png
 
-3. Click the plus for add a section.
+3. Click the plus to add a section.
 
 .. image:: page-types-add-section.png
 
