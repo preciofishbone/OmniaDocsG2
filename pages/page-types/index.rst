@@ -40,7 +40,33 @@ For information about various settings and how to place Blocks, see below.
 
 Create a new Page Type
 **************************
-(A description will be added soon.)
+To create a new Page Type when you're editing a page, do the following:
+
+1. Click the plus for Page Types.
+
+.. image:: page-types-click-plus.png
+
+2. Add a name for the new Page Type and click "CREATE".
+
+.. image:: page-types-click-create.png
+
+3. Click the plus for add a section.
+
+.. image:: page-types-add-section.png
+
+4. Select a base layout.
+
+.. image:: page-types-base-layout.png
+
+5. Use the Section settings:
+
+.. image:: page-types-section-settings.png
+
+(More information will be added tomorrow.)
+
+
+
+
 
 
  
