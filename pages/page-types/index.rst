@@ -58,6 +58,8 @@ To create a new Page Type when you're editing a page, do the following:
 
 .. image:: page-types-base-layout.png
 
+See the images for the layouts for a simple preview of the layout.
+
 5. Use the Section settings:
 
 .. image:: page-types-section-settings.png
@@ -82,7 +84,7 @@ Under Columns you can set the following:
 
 By clicking the pen, the following can be set for a column:
 
-.. image:: page-types-columns-pen.png
+.. image:: page-types-columns-pen-border.png
 
 + **Chrome**: Set Boxed or not for the Column.
 + **Color**: The Background Color for the Column can be set here.
@@ -103,7 +105,7 @@ Targeting
 ----------
 A Section can be targeted by using this setting:
 
-.. image:: page-types-settings-targeting.png
+.. image:: page-types-settings-targeting-border.png
 
 Targeting must have been setup in Omnia Admin for this to work, see: :doc:`Targeting Properties </admin-settings/tenant-settings/targeting-properties/index>`
 
@@ -140,7 +142,7 @@ Here you can set the following:
 
 You can then decide to use the Global settings for the Business Profile, or Custom Settings. 
 
-The Global settings are set in Omnia Admin, see the bottom at this page: :doc:`Global Content Header Settings </admin-settings/business-profile-settings/settings/index>`
+The Global settings are set in Omnia Admin, see the bottom at this page: :doc:`Global Content Header Settings </admin-settings/business-groupo-settings/settings/index>`
 
 When selecting Custom Settings, the following is available:
 
