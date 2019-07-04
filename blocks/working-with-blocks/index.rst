@@ -2,6 +2,8 @@ Working with blocks
 =====================
 This page contains general information about how to work with blocks.
 
+**Mote!** The Blocks that belong to the Page Type is locked and can not be moved or deleted, and the settings can't be changed for these Blocks.
+
 Adding blocks
 **************
 To add a block to a page, do the following:
