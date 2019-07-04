@@ -142,7 +142,7 @@ Here you can set the following:
 
 You can then decide to use the Global settings for the Business Profile, or Custom Settings. 
 
-The Global settings are set in Omnia Admin, see the bottom at this page: :doc:`Global Content Header Settings </admin-settings/business-groupo-settings/settings/index>`
+The Global settings are set in Omnia Admin, see the bottom at this page: :doc:`Global Content Header Settings </admin-settings/business-group-settings/settings/index>`
 
 When selecting Custom Settings, the following is available:
 
