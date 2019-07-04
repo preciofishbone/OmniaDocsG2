@@ -156,6 +156,59 @@ In the Advanced Settings you can use Custom CSS Styling for the block.
 
 .. image:: page-types-settings-advanced. png
 
+Create a Section in a Column
+******************************
+If nedded, you can create a Section in a Column and then select a layout for the Column and set all other Sections Settings. Here's how:
+
+1. Click the plus for the Column.
+
+.. image:: column-layout-click-plus.png
+
+2. Open the Layout list.
+
+.. image:: column-layout-list.png
+
+3. Select Layout for the Column.
+
+.. image:: column-layout-list-open.png
+
+4. Set the Sections Settings (see above).
+
+If needed, you can even go a step further and create a new Section in one of the new Columns.
+
+Delete a section
+*****************
+If you need to delete a section, here's how to do it:
+
+1. Click in the Section (not on any plus).
+
+.. image:: delete-section-1.png
+
+2. Click the dust bin for the Section.
+
+.. image:: delete-section-2.png
+
+Adding blocks to a Section
+***************************
+Here's how to add a block to a section:
+
+1. Click the plus for the Section.
+2. Select Block to add.
+
+.. image:: section-add-block.png
+
+Here's an example with a Block added:
+
+.. image:: section-block-added.png
+
+You add additional Blocks, work with the settings, move or delete Blocks the same way as editors do when editing a page, see: :doc:`Working with Blocks </blocks/working-with-blocks/index>`
+
+**Note!** When editing a page, Blocks that belong to the Page Type is locked, meaning they can not be moved or deleted, and settings for those Blocks can't be edited. But content can be edited, if applicable, using Write mode. 
+
+.. image:: using-write-mode.png
+
+More information on editing Blocks when editing a Page, is found here: :doc:`Edit a Page </pages/edit-page/index>`
+
 
 
 
