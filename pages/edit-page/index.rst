@@ -35,7 +35,7 @@ In this example you can add content in the following areas in Write mode:
 + Add and format text to the Text block.
 + Add links and headers to the Related links block.
 
-(The Bread Crumb block - at the very top, the Current Navigation block and the Page Properties block - the one with the title "Page info" - can't be edited this way.)
+(The Bread Crumb block at the very top, the Current Navigation block and the Page Properties block - the one with the title "Page info" - can't be edited this way.)
 
 You edit each block (the ones you can edit) as is described on the page for the respective block: :doc:`Blocks </blocks/index>`
 
