@@ -112,7 +112,7 @@ To set Targeting for the Section, do the following:
 1. Click "Add Targeting Filter".
 2. Select Property for Targeting.
 
-.. image:: page-types-settings-targeting-properties.png
+.. image:: page-types-settings-targeting-property.png
 
 3. Select one or more children for the Property.
 
@@ -138,7 +138,7 @@ Here you can set the following:
 
 + **Title**: If you want a Title to be displayed for the Section, add it here. 
 
-You can then decide to use the global settings for Business Profile, or Custom Settings. 
+You can then decide to use the Global settings for the Business Profile, or Custom Settings. 
 
 The Global settings are set in Omnia Admin, see the bottom at this page: :doc:`Global Content Header Settings </admin-settings/business-profile-settings/settings/index>`
 
@@ -152,7 +152,7 @@ Advanced Settings
 ----------------------
 In the Advanced Settings you can use Custom CSS Styling for the block.
 
-.. image:: page-types-settings-header-custom. png
+.. image:: page-types-settings-advanced. png
 
 
 
