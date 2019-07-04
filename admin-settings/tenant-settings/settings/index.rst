@@ -11,7 +11,7 @@ Use the list to set available languages for the tenant.
 
 Header
 ********
-Here you can change the default settings for Headings. The settings can be changed for a Block when needed, in the settings for the Block.
+Here you can change the default settings for Headings. The settings can be changed for a Block or Section when needed, in the settings for the Block/Section.
 
 General
 ---------
