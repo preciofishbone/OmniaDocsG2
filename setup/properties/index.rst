@@ -5,8 +5,7 @@
 2. Click on Properties in the left-hand navigation.
 3. Add the following basic web content management properties to the tenant:
 
-Page Contact
--------------
++ **Page Contact**
 - Internal Name: ofmsPageContact
 - Type: Person
 - Queryable: Checked
@@ -17,8 +16,8 @@ Page Contact
  * Queryable: Checked
  * Sortable: Checked
  
-Page Summary
---------------
+**Page Summary**
+
 - Internal Name: ofmsPageSummary
 - Type: Text
 - Queryable: Checked
@@ -29,8 +28,8 @@ Page Summary
  * Queryable: Checked
  * Sortable: Checked
 
-Rollup Image
----------------
+**Rollup Image**
+
 - Internal Name: ofmsRollupImage
 - Type: Media
 - Queryable: Checked
@@ -41,8 +40,8 @@ Rollup Image
  * Queryable: Checked
  * Sortable: Checked
 
-Article Date
----------------
+**Article Date**
+
 - Internal Name: ofmsArticleDate
 - Type: Datetime
 - Queryable: Checked
@@ -53,8 +52,8 @@ Article Date
  * Queryable: Checked
  * Sortable: Checked
 
-Top Story
------------
+**Top Story**
+
 - Internal Name: ofmsTopStory
 - Type: Yes/No
 - Queryable: Checked
