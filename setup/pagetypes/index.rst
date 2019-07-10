@@ -18,4 +18,4 @@
 
 .. image:: wcm-pagetypes-newsarticle-settings.png
 
-General information about Page Types is found here: :doc:`Page Types </pages/page-types/settings/index>`
+General information about Page Types is found here: :doc:`Page Types </pages/page-types/index>`
