@@ -21,4 +21,4 @@
 
 .. image:: bp-settings-contentheader.png
 
-More information on the Action Menu and the Content Header can be found here: :doc:`Business Profile settings </admin-settings/business-group-settings/index>`
+More information on the Action Menu and the Content Header can be found here: :doc:`Business Profile settings </admin-settings/business-group-settings/settings/index>`

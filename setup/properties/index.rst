@@ -2,7 +2,7 @@
 ===========================================
 
 1. Go to Omnia Admin.
-2. Click on Properties in the left-hand navigation.
+2. Click on "Properties" in the left-hand navigation.
 3. Add the following basic web content management properties to the tenant:
 
 **Page Contact**

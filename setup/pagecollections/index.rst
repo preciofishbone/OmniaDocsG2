@@ -2,19 +2,19 @@
 ===========================================
 
 1. Go into the Editor of the newly created Publishing App.
-2. Click on Settings in the left-hand bottom corner.
+2. Click on "Settings" in the left-hand bottom corner.
 3. Click on "+ Page Collection" to add a new page collection with navigation structure.
 
 .. image:: wcm-createpagecollection.png
 
-4. Click on the Settings tab of the page collection.
+4. Click on the "Settings" tab of the page collection.
 5. Check "Page with Navigation" and publish the start page of the page collection.
 6. Add readers to the page collection using the context menu of the page collection.
 
 .. image:: wcm-pagecollection-permissions.png
 .. image:: wcm-pagecollection-permissions-reader.png
 
-7. Create an additional page collection for news.
+7. Create an additional Page Collection for news.
 
 .. image:: wcm-createpagecollection-flat.png
 
@@ -23,6 +23,6 @@
 10. Go to the publishing app settings again.
 11. Select a default page collection.
 12. Go to Omnia Admin and settings for the current business profile.
-13. Click on Header and configure the Mega Menu.
+13. Click on "Header" and configure the Mega Menu.
 
 .. image:: bp-megamenu.png
