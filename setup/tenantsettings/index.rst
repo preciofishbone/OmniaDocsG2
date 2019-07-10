@@ -8,6 +8,6 @@
 .. image:: tenant-settings-languages.png
 
 4. Go to the Header tab and select a background and icon color for the top tenant chrome.
-5. Select a logo and but in the url provided by the product team.
+5. Select a logo and add the url provided by the product team.
 
 .. image:: tenant-settings-header-logo.png
