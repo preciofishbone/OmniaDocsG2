@@ -1,7 +1,7 @@
 Team Collaboration
 ===========================================
 
-Use these settings go to any Team Site to, for example, edit settings. You can also create a new Team Site, or Attach an existing Team Site to this list.
+Use these settings go to any Team Site to, for example, edit settings. You can also create a new Team Site, or Attach an existing Team Site to Omnia.
 
 For Team Sites with "Approval" as Site Creation Mode, you use the "Pending Approval" list to approve or reject creation of a Team Site.
 
