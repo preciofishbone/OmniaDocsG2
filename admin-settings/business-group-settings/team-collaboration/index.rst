@@ -46,9 +46,9 @@ To create a Team Site from here, do the following:
 
 Attach a Team Site
 *******************
-Using this option you can attach any Team site to Omnia. Do the following:
+Using this option you can attach any Team Site to Omnia. Do the following:
 
-1. Copy the Url for the Team site you want to attach.
+1. Copy the Url for the Team Site you want to attach.
 2. Got to Team Collaboration settings and click the plus.
 
 The following is shown:
@@ -81,7 +81,7 @@ If you reject, the following is shown:
 
 The person requesting the site receives the message and can then start a new team site creation with your comments in mind. 
 
-**Note!** Requesting a Team Site must always be done from the start. If rejected, nothing from the request is saved.
+**Note!** Requesting a Team Site must always be done from start each time. If rejected, nothing from the request is saved.
 
 
 
