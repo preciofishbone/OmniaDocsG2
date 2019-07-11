@@ -11,7 +11,7 @@ Use the list to set available languages for the tenant.
 
 Header
 ********
-Here you can change the default settings, tenant for Headings. 
+Here you can change the default settings for the the Header in the tenant. Additional settings, sometimes overriding the Tenant Settings, can be made for each Business Profile. 
 
 General
 ---------
