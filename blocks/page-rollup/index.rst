@@ -1,7 +1,7 @@
 Page Rollup
 ===========================================
 
-**Note! This documentation is ongoing. More will be added soon.**
+This block can be used for many purposes, for example rollup, Latest News and similar - and for much more, note just for News.
 
 Settings
 *********
