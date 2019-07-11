@@ -79,7 +79,7 @@ If you reject, the following is shown:
 
 4. Type a message stating what needs to be done for approval, and click "Save" to send the message.
 
-The person requesting the site recieves the message and can then start a new team site creation with your comments in mind. 
+The person requesting the site receives the message and can then start a new team site creation with your comments in mind. 
 
 **Note!** Requesting a Team Site must always be done from the start. If rejected, nothing from the request is saved.
 
