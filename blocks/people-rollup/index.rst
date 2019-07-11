@@ -3,13 +3,6 @@ People Rollup
 
 **Note! This description is just started. More will be added soon.**
 
-You can use this block on any page. Use it to display information for one or a number of colleagues. The block can be used for a vast number of applications but some examples are:
-
-+ Display contact person for a page or for something else.
-+ List colleagues working at a particular office.
-+ List members or owners in a group site.
-+ Create a people directory.
-
 Settings for the control
 *************************
 The following settings are available:
