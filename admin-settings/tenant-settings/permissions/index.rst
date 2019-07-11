@@ -3,6 +3,10 @@ Permissions
 
 Use this setting to add and remove Tenant Administrators. Only Tenant Administrators can use this setting and eller other settings under "Tenant" in Omnia Admin. 
 
+A Tenant Administrator can also edit all the settings for all Business Profiles withing the Tenant. 
+
+**Note!** There must always be at least one Tenant Administrator. If there is only one, that administrator can not be removed until an additional one has been added.
+
 .. image:: tenant-permissions.png
 
 To delete an administrator here, just click the x. To add an administrator, add the name the same way as in other name fields.
