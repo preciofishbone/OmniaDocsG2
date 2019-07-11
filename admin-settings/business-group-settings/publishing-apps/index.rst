@@ -1,9 +1,7 @@
 Publishing Apps
 ===========================================
 
-**Note! This documentation is just started. More will be added soon.**
-
-Within a Business Profile several Publishing Apps can be active for different settings. To be able to create a Publishing App, at least one Provisioning Template for Publishin´g Apps must be available.
+Within a Business Profile several Publishing Apps can be active for different settings. To be able to create a Publishing App, at least one Provisioning Template for Publishing Apps must be available. If none are, create a Provisioning Template first.
 
 Create a new Publishing App
 *****************************
