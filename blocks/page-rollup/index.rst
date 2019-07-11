@@ -1,7 +1,7 @@
 Page Rollup
 ===========================================
 
-This block can be used for many purposes, for example rollup, Latest News and similar - and for much more, note just for News.
+This block can be used for many purposes, for example rollup, Latest News and similar - and for much more, not just for News.
 
 Settings
 *********
@@ -28,7 +28,7 @@ Display
 ----------
 Select View here; "Roller", "Listing With Image" or "List View".
 
-.. image:: page-rollup-settings-display.png
+.. image:: page-rollup-settings-display-border.png
 
 Filter
 -------
