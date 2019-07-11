@@ -116,7 +116,7 @@ Here you can set type of Notification Panel.
 
 App Launch
 -----------
-These settings are for the App Launch menu. It's an Omnia Menu replacing the default Office 365 menu. 
+These settings are for the App Launch menu. It's an Omnia Menu replacing the default Office 365 menu. The Applaunch uses the Shared Links functionality.
 
 .. image:: applaunch-menu-example.png
 
@@ -135,7 +135,7 @@ You can set the following here:
 
 + **Title**: You can add a title to the App Launch menu.
 
-.. inmage:: app-launch-title.png
+.. image:: app-launch-title.png
 
 + **Sorted By**: The list of apps can be sorted alphabetically, by Last Visited, or by a Custom sort (see below for Custom Sort Settings).
 + **View Template**: The list of apps can be displayed in four different ways: "Simple list", "App Icons", "Navigation View" or "App Launch". See below for examples.
