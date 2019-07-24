@@ -66,7 +66,7 @@ Click the information about when the version was saved, to see who made the chan
 
 To check a version of the page, click the version number. The dot turns to red for the version being shown.
 
-.. imnage:: check-version.png
+.. image:: check-version.png
 
 If needed, you can revert to an earlier version on continue working on that version instead.
 
