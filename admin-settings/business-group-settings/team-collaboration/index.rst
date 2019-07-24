@@ -42,7 +42,7 @@ To create a Team Site from here, do the following:
 
 6. Click "ADD" to create the Team Site.
 
-**Note!** - when the Team Site is created, the above settings can not be edited here.
+**Note!** When the Team Site has been created, the above settings can not be edited here.
 
 Attach a Team Site
 *******************
