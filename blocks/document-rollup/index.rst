@@ -40,7 +40,7 @@ For **Card** view the following settings are available:
 .. image:: document-rollup-settings-display-card.png
 
 + **Title**: Select what to show as the title: "Title", "Document Type", "Document Owner", "Published", Modified or Document Title..
-+ **Modified At**: (A description will be added soon).
++ **Modified At**: Here you select the information (field) to show for a document.
 + **Show Modified By Info**: Select the option to show who was the last to modify the document.
 + **Trim by Following Site**: If this option is selected only documents from sites the logged in user follows are displayed in the list.
 + **Sort By**: Select the column the list should be sorted by.
@@ -55,7 +55,7 @@ For **Group By Site** these settings are available:
 .. image:: document-rollup-settings-display-group.png
 
 + **Title**: Select what to show as the title: "Title", "Document Type", "Document Owner", "Published", Modified or Document Title..
-+ **Modified At**: (A description will be added soon).
++ **Modified At**: Here you select the information (field) to show for a document.
 + **Show Modified By Info**: Select the option to show who was the last to modify the document.
 + **Always Show Letter Avatar**: If letter avatars always should be shown, select this option.
 + **Trim by Following Site**: If this option is selected only documents from sites the logged in user follows are displayed in the list.
@@ -71,7 +71,11 @@ Here you add queries, which is the detailed "settings" for what to display in th
 
 .. image:: document-rollup-settings-query.png
 
-(A description will be added soon.)
+Use the three lists for base settings and the field to add a Query Parameter. Then click "Add" to add the Query. 
+
+Here's a simple example of a Query for displaying documents that are published 2019-06-30 or later:
+
+.. image:: documents-query.png
 
 Filter
 --------
