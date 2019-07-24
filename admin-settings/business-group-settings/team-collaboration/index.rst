@@ -49,7 +49,7 @@ Attach a Team Site
 Using this option you can attach any Team Site to Omnia. Do the following:
 
 1. Copy the Url for the Team Site you want to attach.
-2. Got to Team Collaboration settings and click the plus.
+2. Go to Team Collaboration settings and click the plus.
 
 The following is shown:
 
