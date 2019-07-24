@@ -35,11 +35,11 @@ Category settings
 *******************
 The settings for a Category is the same as the settings for the corresponding Block, see:
 
-Announcements: :doc:`The Announcemnnts block </blocks/announcements/index>`
+Announcements: :doc:`The Announcements block </blocks/announcements/index>`
 
 Document Rollup: :doc:`The Document Rollup block </blocks/document-rollup/index>`
 
-My Tasks: :doc:`The Tasks Rollups block </blocks/task-rollup/index>`
+My Tasks: :doc:`The Tasks Rollup block </blocks/task-rollup/index>`
 
 Page Rollup: :doc:`The Pages Rollup block </blocks/page-rollup/index>`
 
