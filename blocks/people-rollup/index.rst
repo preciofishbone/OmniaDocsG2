@@ -23,7 +23,7 @@ You will be able set the type fo view to be used for the list here (only Card di
 
 Query
 -----------
-Here you can swork with the Query for what to display in the block.
+Here you can work with the Query for what to display in the block.
 
 .. image:: peoplerollup-settings-query.png
 
