@@ -73,7 +73,7 @@ Here you add queries, which is the detailed "settings" for what to display in th
 
 Use the three lists for base settings and the field to add a Query Parameter. Then click "Add" to add the Query. 
 
-Here's a simple example of a Query for displaying documents that are published 2019-06-30 or later:
+Here's a simple example of a Query for displaying documents that are published later than 2019-06-30:
 
 .. image:: documents-query.png
 
