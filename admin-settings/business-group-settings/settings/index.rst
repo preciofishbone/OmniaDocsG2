@@ -5,6 +5,16 @@ Here the following settings can be edited:
 
 .. image:: business-profile-settings-all.png
 
+Language
+*********
+Regarding Languages you can select to inherit settings from the tenant or set different Language settings here. Note that this setting is for the user interface, not for pages. See more information in the Language description for the tenant (link below).
+
+.. image:: business-language.png
+
+To inherit Languages from the tenant, just select that option, and you're done.
+
+To set other language settings for a Business Profile, you add and remove languages exactly the same way as the settings for the tenant, see: :doc:`Language settings </admin-settings/tenant-settings/settings/index>`
+
 Profile Theme
 **************
 Use these options to set Default Colors for the Business Profile. When working with a Block, an editor can often select other Colors, but if no other Color is chosen for the Block, these settings apply.

@@ -23,7 +23,7 @@ Do the following to select languages:
 
 You can add additional languages anytime.
 
-**Note!** The lists of languages is long, but that does not mean that the interface is available in all languages. You must make sure the interface has been translated to the languages you need.
+**Note!** The list of languages is long, but that does not mean that the interface is available in all languages. You must make sure the interface has been translated to the languages you need.
 
 To remove a language from the tenant, just click the dust bin.
 
