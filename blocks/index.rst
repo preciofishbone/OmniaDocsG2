@@ -8,6 +8,7 @@ Blocks
    announcements/index
    banner/index
    breadcrumb/index
+   calendar-rollup/index
    current-navigation/index
    document-rollup/index
    general-block-settings/index
