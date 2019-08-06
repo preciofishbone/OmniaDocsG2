@@ -4,7 +4,11 @@ Use this block to add text anywhere on a page.
 
 When adding text to the block some basic formatting is available:
 
-.. image:: text-formatting.png
+.. image:: text-formatting-new.png
+
+Point at an icon and a Tool Tip will show what the option is for.
+
+Note that HTML editing is done in a separate window so it's to work with HTML if that is something you want.
 
 Settings
 *********
