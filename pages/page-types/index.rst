@@ -209,6 +209,18 @@ You add additional Blocks, work with the settings, move or delete Blocks the sam
 
 More information on editing Blocks when editing a Page, is found here: :doc:`Edit a Page </pages/edit-page/index>`
 
+Decide to show a section on a device or not
+**********************************************
+When you're working on a section you can select to show it on different devices or not.
+
+Click this icon:
+
+.. image:: device-support-section.png
+
+Then you can decide on which devices to show this section:
+
+.. image:: select-device-sextion.png
+
 
 
 
