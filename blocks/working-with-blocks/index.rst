@@ -46,6 +46,18 @@ Icons now show where you can move the block, for example:
 
 .. image:: block-moved.png
 
+Show the block or not on different devices
+******************************************************
+When you're working on a block you can select to show it on different devices or not.
+
+Click this icon:
+
+.. image:: device-support.png
+
+Then you can decide on which devices to show this block:
+
+.. image:: device-select.png
+
 Removing a block
 *****************
 To remove a block. do the following:
