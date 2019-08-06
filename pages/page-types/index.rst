@@ -219,7 +219,7 @@ Click this icon:
 
 Then you can decide on which devices to show this section:
 
-.. image:: select-device-sextion.png
+.. image:: select-device-section.png
 
 
 
