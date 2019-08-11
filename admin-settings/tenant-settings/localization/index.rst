@@ -29,5 +29,5 @@ You can point at the I-icon for information about which languages, of the availa
 
 The texts that needs to be translated are now exported to a json file. The file is placed in the Downloads folder on your computer.
 
-.. image: json-file.png
+.. image:: json-file.png
 
