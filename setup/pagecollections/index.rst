@@ -18,11 +18,16 @@
 
 .. image:: wcm-createpagecollection-flat.png
 
-8. Set reader access on the news page collection.
-9. Create and publish one page in each page collection with full content. (The reason for this is to create crawled properties in SharePoint Search.)
-10. Go to the publishing app settings again.
-11. Select a default page collection.
-12. Go to Omnia Admin and settings for the current business profile.
-13. Click on "Header" and configure the Mega Menu.
+8. Click on the “Settings” tab of the page collection.
+9. Check “News Article”.
+10. Publish the start page of the page collection.
+
+11. Set reader access on the news page collection.
+12. Create and publish one page in each page collection with full content. (The reason for this is to create crawled properties in SharePoint Search.)
+13. Go to the publishing app settings again.
+14. Select a default page collection.
+
+15. Go to Omnia Admin and settings for the current business profile.
+16. Click on "Header" and configure the Mega Menu.
 
 .. image:: bp-megamenu.png

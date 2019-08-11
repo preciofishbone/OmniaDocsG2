@@ -9,7 +9,7 @@
 - Base Definition: Publishing App
 - Title: Publishing
 - Description: Use this template to create a new blank publishing app
-- Icon Type: Office 365
+- Icon Type: Fabric
 - Icon: ms-Icon ms-Icon-PublishCourse
 - Enabled: Checked
 - Site Creation Mode: Self-Service
