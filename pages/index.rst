@@ -11,6 +11,10 @@ In this part of the documentation you will find information concerning how to wo
    move-page/index
    delete-page/index
    edit-page/index
+   page-settings/index
    publish-page-changes/index
+   approve-pages/index
    edit-page-navigation/index
    page-types/index
+   page-settings/index
+   language-versions-of-a-page/index

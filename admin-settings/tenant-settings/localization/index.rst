@@ -23,6 +23,8 @@ You can point at the I-icon for information about which languages, of the availa
 
 .. image:: localization-language.png
 
+Available languages are set up under Tenant-Settings-Regional settings, see: :doc:`Regional settings </admin-settings/tenant-settings/settings/index>`
+
 + **Export**: When you have finished the settings, click this button to export to a file. 
 
 .. image:: localization-button.png
