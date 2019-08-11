@@ -11,3 +11,4 @@ Tenant Settings
    shared-links/index
    announcements/index
    targeting-properties/index
+   user-profile-completion/index
