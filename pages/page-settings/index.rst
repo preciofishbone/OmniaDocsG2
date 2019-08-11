@@ -3,7 +3,7 @@ Page settings
 
 (This description is just started, more will be added soon.)
 
-When editing a page, a number of settings are available:
+When editing a page, a number of settings are available by clicking here:
 
 .. image:: page-settings.png
 
@@ -22,17 +22,17 @@ Use these settings to handle both edit and read permissions for the page.
 
 .. image:: page-settings-permissions.png
 
-Note that a Tenant Administrator always can edit all pages in the tenant. A Bussiness Profile Administrator can always edit alla pages within the Bussiness Profile.
+Note that a tenant administrator always can edit all pages in the tenant. A business profile administrator can always edit all pages within the business profile.
 
 Variations
 ************
-If this page should exist in more than one langauge, or if the page should exist in more than one version, fort any reason, use this setting to create or edit the settings for respective version.
+If this page should exist in more than one language, or if the page should exist in more than one version, for any reason, use these settings to create or edit the settings for respective version.
 
 .. image: page-settings-variatins.png
 
 Create a new Page Variation
 -------------------------------
-To create a new variation for this page, du the following:
+To create a new variation for this page, do the following:
 
 1. Go to the page.
 2. Open the Page Settings and select "VARIATIONS".
@@ -56,9 +56,9 @@ To edit the settings for a Page Variation, do the following:
 
 4. Edit settings for the new Page Variation and click "OK" to save the changes.
 
-Edit contents for a Page Variation
+Edit contents of a Page Variation
 --------------------------------------
-When more than one version of the page exists, the editor can select variation to work with in the list in the lower left corner:
+When more than one variation of the page exists, the editor can select variation to work with in the list, in the lower left corner:
 
 .. image:: select-variation.png
 
