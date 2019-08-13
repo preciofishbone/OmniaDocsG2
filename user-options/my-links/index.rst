@@ -13,15 +13,15 @@ A search field is normally shown, which can be used to search for links. Search 
 
 Available options:
 
-+ **Show all links**: When this option is selected all links available are shown. A user can select to show non mandatory links, or not. See below.
-+ **Show categories**: Links can be categorized. If this option is selected categories (headings) are shown. See below for more information.
++ **Show all links**: When this option is selected all links, that the user is allowed to see, are shown. A user can select to show non mandatory links, or not. See below.
++ **Show categories**: Links can be categorized. If this option is selected categories (headings) are shown and the links are sorted byt the categories. See below for more information.
 + **Add personal link**: A user can add personal links as well, using this option. See below for an instruction.
 
 In the above image "App Lancher", "Business" and "My emplyment" are categories. Here's the same My Links list without categories:
 
 .. image:: my-links-no-categories.png
 
-The administrator setting up the link can add additional information about a link. In that case an i-icon is shown for the link. To read the information, point at the i-icon.
+The administrator setting up the link can add additional information about a link (and additional information can be added to personal links as well). In that case an i-icon is shown for the link. To read the information, point at the i-icon.
 
 .. image:: my-links-i-icon.png
 
@@ -63,9 +63,9 @@ Here are some examples of Fabric icons:
 
 .. image:: fabric.png
 
-Ans "Flags" are just that, flags, for example:
+And "Flags" are just that, flags, for example:
 
-.. image:: personal-link-flags.png
+.. image:: personal-links-flags.png
 
 Note the "Icon Preview" at the bottom:
 
@@ -77,5 +77,11 @@ Edit a personal link
 *********************
 All settings for a personal link can be edited. Click the pen to do that:
 
-.. image:: personal-link-edited
+.. image:: personal-link-pen.png
+
+Setting up links in Omnia Admin
+*********************************
+An administrator can set up links in Omnia Admin. Links can be applicable for the whole tenant, or for a business profile only. And, as already stated, links can be targeted.
+
+See this page for more information: :doc:`Shared links </admin-settings/tenant-settings/shared-links/index>`
 
