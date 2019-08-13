@@ -25,7 +25,6 @@ Use the following settings:
 .. image:: publishing-apps-settings2.png
 
 + **Sharepoint Alias**: The last part of the Url to the Publishing App is shown here. It can be edited if needed.
-+ **Omnia Alias**: (A description will be added soon)
 + **Document site**: The Url to the Document Site for the Publishing App is shown here. It can be edited if needed.
 + **Document Library Name**: As default, the Document Library will be named Documents. If you want another name, type it here.
 + **Allow User Upload Document**: The Administrator of the Publishing App willl always be able to upload documents to the Document Library. If end users should be able to do that as well, select this option.

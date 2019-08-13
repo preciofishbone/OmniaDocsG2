@@ -14,5 +14,6 @@ Topics
    blocks/index
    pages/index
    general-assets/index
+   user-options/index
    setup/index
    contribute-to-doc/index
