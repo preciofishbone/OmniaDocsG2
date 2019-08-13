@@ -35,7 +35,7 @@ To decide to show a ink or not, just click the star.
 
 Add a personal link
 ********************
-Users can normally add personal links ti their My links list. Here's an instruction:
+Users can normally add personal links to their My links list. Here's an instruction:
 
 1. Click "Add personal link".
 
@@ -65,7 +65,7 @@ Here are some examples of Fabric icons:
 
 And "Flags" are just that, flags, for example:
 
-.. image:: personal-links-flags.png
+.. image:: my-links-flags.png
 
 Note the "Icon Preview" at the bottom:
 
