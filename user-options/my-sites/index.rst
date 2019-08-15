@@ -25,7 +25,7 @@ End users can be allowed to create a new site using the option here. The user ca
 
 Which fields and options will be available when creating a site can differ depending on settings in Omnia Admin.
 
-Here, an example with some common fields an options:
+Here's an example with some common fields and options:
 
 1. Click "Create New Site".
 
@@ -43,8 +43,8 @@ This example will create a "Team" site.
 
 + **Title**: This is the name that will be shown for the site in lists and when searching.
 + **Description**: A Description is not mandatory but is very helpful when colleagues search for sites.
-+ **Sharepoint Alias**: The last part of the address to the site is created automatically but can be edited if necessary. If the name (address) already exists an alternative address is shown.
-+ **Languages**: The same language as the main Business Profile language is suggested. Another language is selected if needed.  
++ **Sharepoint Alias**: The last part of the address to the site is created automatically but can be edited if necessary. If the name (address) already exists an alternative address is suggested.
++ **Languages**: The same language as the main Business Profile language is suggested. Another language can be selected if needed.  
 + **Time Zones**: Normally the correct Time Zone is already selected. Can be changed if needed.
 
 4. Click "Next".
@@ -52,7 +52,7 @@ This example will create a "Team" site.
 
 .. image:: create-site-2.png
 
-+ **Users**: In this example only an administrator for the site is set, but often you can set members and vicitors as well. The administrator roll for a Team site is very importan. Normally only administrators can edit settings within the site and can add or remove users.
++ **Users**: In this example only an administrator for the site is set, but often you can set members and visitors as well, which are permission groups users can belong to. The administrator roll for a Team site is very importan. Normally only administrators can edit settings within the site and can add or remove users.
 + **Send for approval/Create site**: In this example new Team sites must be approved by an administrator, hence the option "Send for approval". If users are allowed to create site without approval, the options says "Create site" instead.
 
 Templates for site creation
