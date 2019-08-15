@@ -52,14 +52,12 @@ This example will create a "Team" site.
 
 .. image:: create-site-2.png
 
-+ **Users**: In this example only an administrator for the site is set, but often you can set members and visitors as well, which are permission groups users can belong to. The administrator roll for a Team site is very importan. Normally only administrators can edit settings within the site and can add or remove users.
-+ **Send for approval/Create site**: In this example new Team sites must be approved by an administrator, hence the option "Send for approval". If users are allowed to create site without approval, the options says "Create site" instead.
++ **Users**: In this example only an administrator for the site is set, but often you can set members and visitors as well, which are permission groups users can belong to. The administrator roll for a Team site is very important. Normally only administrators can edit settings within the site and can add or remove users.
++ **Send for approval/Create site**: In this example new Team sites must be approved by an administrator, hence the option "Send for approval". If users are allowed to create sites without approval, the option says "Create site" instead.
 
 Templates for site creation
 ****************************
-How site creation works and which options and fields will be available depends on the template used:
-
-Templates for site creation, selected in step 2 above, are set up in Provisioning Templates in Omnia Admin, see: :doc:`Provisioning Templates </admin-settings/business-group-settings/provisioning-templates/index>`
+How site creation works and which options and fields will be available depends on the template used. Templates for site creation, selected in step 2 above, are set up in Provisioning Templates in Omnia Admin, see: :doc:`Provisioning Templates </admin-settings/business-group-settings/provisioning-templates/index>`
 
 
 
