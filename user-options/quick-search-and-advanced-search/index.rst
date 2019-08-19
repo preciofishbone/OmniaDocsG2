@@ -13,7 +13,7 @@ Previews are available for pages and documents. To preview a page, point at the 
 
 .. image:: quick-search-preview-page.png
 
-To see a proview of a document, point at the document and click thins icon:
+To see a preview of a document, point at the document and click this icon:
 
 .. image:: quick-search-preview-document.png
 
@@ -21,13 +21,13 @@ Advanced Search
 ****************
 To search with more options, users can go to the Advanced Search by clicking here:
 
-.. image:: advanced-search.png
+.. image:: advanced-search-border.png
 
 When conducting an Advanced Search more tabs are available at the top and refiners are available to the left. Here's an example:
 
 .. image:: advanced-search-result.png
 
-If, for example, the user would be interested in project managment only, the refiner could be used to just show search results related to project management.
+If, for example, the user would be interested in project management only, the refiner could be used to just show search results related to project management.
 
 This is what the search result above would look like filtered on Project Management:
 
@@ -43,7 +43,7 @@ When having conducted a Quick Search, the user can then go to Advanced Search to
 
 Advanced Search would then look something like this:
 
-.. image:: advanced-search-omnia.png
+.. image:: advanced-search-omnia-border.png
 
 Settings for Search
 ********************

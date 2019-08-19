@@ -8,7 +8,7 @@ In this section you will find an overview of the Omnia user options that are not
 .. toctree::
    :titlesonly:
 
-   quick-search/index
+   quick-search-and-advanced-search/index
    my-links/index
    my-sites/index
    notification-panel/index
