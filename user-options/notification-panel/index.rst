@@ -1,4 +1,4 @@
-Notification Paneel
+Notification Panel
 ===========================================
 
 **Note! This documentation is just started. Mor information will be added soon, and accuracy is tested.**
