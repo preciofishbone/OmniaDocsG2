@@ -25,7 +25,7 @@ To search with more options, users can go to the Advanced Search by clicking her
 
 When conducting an Advanced Search more tabs are available at the top and refiners are available to the left. 
 
-The refiners available depends on what is available in the search result. Here's an example:
+The refiners available depends on what is available in the search result. 'Here's an example:
 
 .. image:: advanced-search-result.png
 
