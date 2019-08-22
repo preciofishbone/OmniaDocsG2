@@ -13,7 +13,7 @@ Here's an example of what a Notification Panel can look like:
 
 .. image:: notification-panel-example.png
 
-What a Notification Panel will display depends on settings in Omnia Admin, but typical examples are the ones shown in the image above, from left to right:
+What a Notification Panel will display depends on settings in Omnia Admin, but the following is an example, described from left to right:
 
 + **News**: Latest News from the News Archive, with the very latest at the top. Click to read the full news article. See example in the image above.
 + **Team News**: Latest News from the Team sites the user is a member of. Messages are grouped by Team site, for example:
@@ -46,19 +46,19 @@ Here, you can take different actions depending on the link you click on:
 - Click the name of the Team site to go to the Team site.
 - Click the author's name to go to his or her Delve page.
 
-+ **External**: Can display news form various external sources.
++ **External**: This is a RSS Reader that can display a RSS feed. External is just the heading the administrator has chosen.
 
 .. image:: external-news.png
 
-+ **Subscription**: (Information will added soon)
++ **Subscription**: This is an implementation of Page Rollup to notifications from pages the user subscribes to.
 
 .. image:: subscription-example.png
 
-Notification panel as a block
+Notification Panel as a block
 ******************************
 A Notification Panel can be added to any page as a block, see: :doc:`Notification Panel block </blocks/notification-panel/index>`
 
-Settings for the Notification panel
+Settings for Notification Panels
 *************************************
 In Omnia Admin, several different Notification Panels, for different purposes, can be created and administered. All settings for the Notification panels are handled there, in Omnia Admin, under the Business Profile, see: :doc:`Notification Panel settings </admin-settings/business-group-settings/notification-panel/index>`
 
