@@ -39,7 +39,7 @@ Announcements: :doc:`The Announcements block </blocks/announcements/index>`
 
 Document Rollup: :doc:`The Document Rollup block </blocks/document-rollup/index>`
 
-HTML Scripts: :doc:`The HTML Scripts block </blocks/html-scripts/index>`
+HTML Scripts: :doc:`The HTML Scripts block </blocks/html-script/index>`
 
 My Tasks: :doc:`The Tasks Rollup block </blocks/task-rollup/index>`
 
@@ -51,5 +51,5 @@ RSS Reader: :doc:`The RSS Reader block </blocks/rss-reader/index>`
 
 Team News Rollup: :doc:`The Team News Rollup block </blocks/team-news-rollup/index>`
 
-Trello Card: :doc:`The Trello Card block </blocks/team-news-rollup/index>`
+Trello Card: :doc:`The Trello Card block </blocks/trello-card/index>`
 
