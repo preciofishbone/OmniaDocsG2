@@ -51,5 +51,5 @@ RSS Reader: :doc:`The RSS Reader block </blocks/rss-reader/index>`
 
 Team News Rollup: :doc:`The Team News Rollup block </blocks/team-news-rollup/index>`
 
-Trello Card: :doc:`The Trello Card block </blocks/trello-card/index>`
+Trello Card: :doc:`The Trello Card block </blocks/trello-cards/index>`
 
