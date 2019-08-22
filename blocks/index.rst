@@ -34,7 +34,7 @@ Blocks
    search/index
    subscribe/index
    task-rollup/index
-   team-collaboration-rollup
+   team-collaboration-rollup/index
    team-news-rollup/index
    text/index
    trello-cards/index
