@@ -4,26 +4,42 @@ Blocks
 .. toctree::
    :titlesonly:
 
-   search/index
+   
+   accordion/index
+   anchor-creator/index
+   anchor-selector/index
    announcements/index
    banner/index
+   box-heading/index
    breadcrumb/index
+   button-link/index
    calendar-rollup/index
    current-navigation/index
    document-rollup/index
    general-block-settings/index
    html-script/index
    media/index
+   mega-menu/index
+   my-subscriptions/index
    notification-panel/index
+   page-feedback/index
    page-likes-and-comments/index
    page-properties/index
    page-rollup/index
    people-rollup/index
    quick-links/index
+   rate/index
    related-links/index
+   rss-reader/index
+   search/index
+   subscribe/index
    task-rollup/index
+   team-collaboration-rollup
    team-news-rollup/index
    text/index
+   trello-cards/index
+   user-profile-completion/index
+   variation-selector/index
    working-with-blocks/index
 
 

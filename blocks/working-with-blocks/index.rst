@@ -1,5 +1,6 @@
 Working with blocks
 =====================
+
 This page contains general information about how to work with blocks.
 
 **Note!** The Blocks that belong to the Page Type is locked and can not be moved or deleted, and the settings can't be changed for these Blocks.
