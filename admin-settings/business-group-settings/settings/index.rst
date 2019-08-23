@@ -15,6 +15,8 @@ To inherit Languages from the tenant, just select that option, and you're done.
 
 To set other language settings for a Business Profile, you add and remove languages exactly the same way as the settings for the tenant, see: :doc:`Language settings </admin-settings/tenant-settings/settings/index>`
 
+If you need to publish a certain page in more than one languages, you use the Option Page Variation, see the section about Page Variations on this page: :doc:`Page Settings </pages/page-settings/index>`
+
 Profile Theme
 **************
 Use these options to set Default Colors for the Business Profile. When working with a Block, an editor can often select other Colors, but if no other Color is chosen for the Block, these settings apply.
