@@ -17,7 +17,7 @@ Use the following settings:
 
 .. image:: tenant-announcements-settings2.png
 
-+ **Title**: Add a title for the message. If you use more than on language in the tenant you can add a title in each language. Note that you must always add a title in the default langauge, other languages are optional.
++ **Title**: Add a title for the message. If you use more than one language in the tenant you can add a title in each language. Note that you must always add a title in the default langauge, other languages are optional.
 + **Description**: Add the message here. If you use more than on language in the tenant you can add a title in each language. Note that you must always add the description in the default langauge, other languages are optional.
 + **Priority**: Set the Priority. Important Announcements with High priority will be displayed below the cross site mega menu on all pages (see example below). Announcements (with Normal or High priority) can be displayed to user in the Notification Panel or through the Announcements block.
 + **Order**: Set the order for this Imortant Announcement when there are several displayed.
