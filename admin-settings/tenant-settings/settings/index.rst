@@ -9,7 +9,7 @@ Use these settings for languages, date and time, for the tenant. Other settings 
 
 Languages
 -----------------
-Use this setting to select the languages that should be available for the user interface in the tenant. These languages can also be used for Announcements and Shared Links. Language versions of pages are handled differently - Page Variations, see the heading "Variations" on this page:  :doc:`Page Variations </pages/page-settings/index>`
+Use this setting to select the languages that should be available for the user interface in the tenant. These languages can also be used for Announcements and Shared Links. Language versions of pages are handled differently - Page Variations, see the heading "Variations" on this page:  :doc:`Page Settings </pages/page-settings/index>`
 
 Do the following to select languages:
 
