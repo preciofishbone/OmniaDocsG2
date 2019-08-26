@@ -9,7 +9,7 @@ Use these settings for languages, date and time, for the tenant. Other settings 
 
 Languages
 -----------------
-Use this setting to select the languages that should be available for the user interface in the tenant. Note that this setting is for the user interface only. Language versions of pages are handled differently - Page Variations (under development). 
+Use this setting to select the languages that should be available for the user interface in the tenant. These languages can also be used for Announcements and Shared Links. Language versions of pages are handled differently - Page Variations, see the heading "Variations" on this page:  :doc:`Page Variations </pages/page-settings/index>`
 
 Do the following to select languages:
 
@@ -33,7 +33,7 @@ To remove a language from the tenant, just click the dust bin.
 
 A users language
 -----------------
-What language a specific user will see for the interface depends on the user's Preferred Language setting in the Azure AD.
+What language a specific user will see for the interface, in Announcement messages and Shared links, depends on the user's Preferred Language setting in the Azure AD.
 
 Date And Time
 --------------

@@ -41,6 +41,8 @@ Do the following:
 + **Icon Background Color**: Set the background color for the icon here. If note set, default icon background color is used.
 + **Targeting Filter**: Use these settings for targeting, for the link. See below for instructions.
 
+All languages to be used here must be setup in the Tenant Settings, see: :doc:`Tenant Settings </admin-settings/tenant-settings/settings/index>`
+
 Targeting a Shared Link
 *************************
 To target a link, do the following. Note that Properties for targeting must be set up first, see: :doc:`Targeting Properties </admin-settings/tenant-settings/targeting-properties/index>`

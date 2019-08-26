@@ -37,6 +37,8 @@ Here's an example of Announcements displayed in the Announcements block:
 
 For more information, see: The Announcements block: :doc:`The Announcements block </blocks/announcements/index>`
 
+All languages to be used here must be setup in the Tenant Settings, see: :doc:`Tenant Settings </admin-settings/tenant-settings/settings/index>`
+
 Targeting Announcements
 ************************
 An Important Announcement can be targeted to any receivers that has been defined in Targeting Properties, see: :doc:`Targeting Properties </admin-settings/tenant-settings/targeting-properties/index>`
