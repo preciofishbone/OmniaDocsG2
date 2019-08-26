@@ -1,9 +1,9 @@
 Strengthen Profile
 ===========================================
 
-The make it easier for user to complete the most important parts of their profile, a Strengthen Profile option can be made available to users.
+To make it easier for users to complete the most important parts of their profile, a Strengthen Profile option can be made available.
 
-The option can be available in the Aciont Menu:
+The option can be available in the Action Menu:
 
 .. image:: strengthen-profile-menu.png
 
@@ -40,7 +40,7 @@ To add a post to a field, click this icon:
 
 .. image:: click-list-icon.png
 
-A list is shown where you cabn select the posts you want to add, for example:
+A list is shown where you can select the post/posts you want to add, for example:
 
 .. image:: posts-to-add.png
 
@@ -54,11 +54,11 @@ To close a list, click outside it.
 
 Here's an example of step 3:
 
-image:: step3-example.png
+.. image:: step3-example.png
 
 7. Do the same here; click the x to remove, click tag icon to add.
 8. Save or skip when you're done.
-9 To close the option, click "Close".
+9. To close the option, click "Close".
 
 .. image:: click-close.png
 
