@@ -8,11 +8,16 @@ In this section you will find an overview of the Omnia user options that are not
 .. toctree::
    :titlesonly:
 
-   quick-search-and-advanced-search/index
+   action-menu/index
+   cross-site-header/index
+   
    my-links/index
    my-sites/index
-   notification-panel/index
-   action-menu/index
    news-and-news-archive/index
+   notification-panel/index
+   news-and-news-archive/index
+   quick-search-and-advanced-search/index
+   strengthen-profile/index
    user-feed/index
-   cross-site-header/index
+   
+   

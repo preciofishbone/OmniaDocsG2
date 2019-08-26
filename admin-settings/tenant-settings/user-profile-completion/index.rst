@@ -1,8 +1,6 @@
 User Profile Completion
 =========================
 
-(This description is just started. More will be added soon.)
-
 This is the settings for the user option "Strengthen Profile", found inte the Action Menu.
 
 .. image:: strengthen-profile.png
