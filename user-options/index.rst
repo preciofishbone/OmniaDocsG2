@@ -11,12 +11,15 @@ In this section you will find an overview of the Omnia user options that are not
    action-menu/index
    cross-site-header/index
    
+   create-news/index
+   like-share-comment/index
    my-links/index
    my-sites/index
    news-and-news-archive/index
    notification-panel/index
    news-and-news-archive/index
    quick-search-and-advanced-search/index
+   read-news/index
    strengthen-profile/index
    user-feed/index
    
