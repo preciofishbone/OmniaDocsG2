@@ -1,4 +1,4 @@
-Like, share and comment
+Like - share and comment
 ===========================================
 
 (Will be added soon.)
