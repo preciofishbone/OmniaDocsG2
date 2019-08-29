@@ -6,11 +6,8 @@ Blocks
 
    
    accordion/index
-   anchor-creator/index
-   anchor-selector/index
    announcements/index
    banner/index
-   box-heading/index
    breadcrumb/index
    button-link/index
    calendar-rollup/index
