@@ -15,7 +15,7 @@ The following is shown:
 
 2. Type a file name for the new News article (page) and click "Create".
 
-+ **Advanced**: For advanced settings, click this. Normally not necessary.
++ **Advanced**: For advanced settings, available fpr App Administrators only.
 
 Something like the following is shown:
 
