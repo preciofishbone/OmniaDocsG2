@@ -45,9 +45,8 @@ For more information about a specific block, select the block in this list: :doc
 + **Page Contact**: This is shown under the image on the News Article's page. Your name is added automatically. If someone else should be the Page Contact, remove your name and add the colleague's name.
 + **Top Story**: A Top Story can be shown with a bigger image at the top of a News list, see example below. If it's a Top  Story, select this option.
 + **Promote Until**: If the News article should be shown in News lists until a specific date, click the calendar and select the date. If no date is entered here, the article will be shown in the list continously, but remember that newer articles will push this article further down the lists.
-+ **News Channel**: If several News Channels are setup, select one or more channels here. Users can normally subscribe to any News Channel.
-+ **Location**: A user can select Location in his or her Profile. You can select one or more locations here and this News article will be shown only for the colleagues at this Location.
-+ **Mandatory Read**: (A description will be added soon.)
+
+Metadata tagging for News can be setup in many ways and also used in many ways, for example to display different News Articles for different user groups. "News Channel", "Location" and "Mandatory Read" are examples of metadata.
 
 Here's an example with a News Article (Sales are up in Asia) set as a Top Story:
 
