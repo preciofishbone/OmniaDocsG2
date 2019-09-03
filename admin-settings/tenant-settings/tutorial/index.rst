@@ -68,7 +68,7 @@ When you add a step, you can see that another dot is created in the navigation b
 
 3. Use these settings to select pages:
 
-.. image:: tutorial-source-settings.png
+.. image:: source-settings.png
 
 You can edit a source, just add or delete. To delete, click the dust bin for the source.
 
