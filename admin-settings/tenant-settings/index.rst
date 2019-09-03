@@ -15,5 +15,5 @@ Tenant Settings
    Property-sets/index
    targeting-properties/index
    tutorial/index
-   Features/index
+   features/index
    

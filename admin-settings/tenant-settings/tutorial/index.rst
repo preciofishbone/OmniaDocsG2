@@ -3,11 +3,11 @@ Tutorial
 
 **(This description is just started, more will be added soon.)**
 
-Using this option in Omnia Admin a Tenant Administrator can create and edit tutorials for selected publishing pages. 
+Using this option in Omnia Admin a Tenant Administrator can create and edit Tutorials for selected publishing pages. 
 
 The User Experience
 *******************
-A tutorial can be set up to start automatically when a page is opened (see more info below). But if it's not, users select the "Tutorial" icon in the heading:
+A Tutorial can be set up to start automatically when a page is opened (see more info below). But if it's not, users select the "Tutorial" icon in the heading:
 
 .. image:: tutorial-icon-users.png
 
@@ -37,9 +37,9 @@ Do the follwing to edit an existing Tutorial:
 
 .. image:: tutorial-click-pen.png
 
-Use the following settings:
+2. Use the following settings:
 
-..image:: tutorial-settings-1.png
+.. image:: tutorial-settings-1.png
 
 + **Title (top)**: Add/edit the title for the Tutorial (not shown for users). You can add a title in all languages used in the tenant, the default language is mandatory.
 + **Reorder**: When you have added a number of steps (see below), use this button to reorder the steps.
@@ -53,20 +53,20 @@ The following fields are avilable for each step in the Tutorial:
 
 Further down, the following settings are available:
 
-..image:: tutorial-settings-2.png
+.. image:: tutorial-settings-2.png
 
 When you have added a number of steps you can use the dots in the bar to go to another steop, to edit that step.
 
 + **Add step**: Use the button to add a new tutorial step after the last step. 
 
-hen you add a step, you can see that another dot is created in the navigation bar. Use the fields to add a Title, Image and Content as described above.
+When you add a step, you can see that another dot is created in the navigation bar. Use the fields to add a Title, Image and Content as described above.
 
 .. tutorial-new-step.png
 
 + **Preview tutorial**: When you want to check how the tutorial will look for users, select this button. 
 + **Source Setting**: To select pages where this Tutorial should be available, click here. The number to the right of the link indicates the number of pages selected.
 
-Use these settings to select pages:
+3. Use these settings to select pages:
 
 .. image:: tutorial-source-settings.png
 
@@ -82,7 +82,7 @@ Use these settings:
 
 .. image:: source-settings.png
 
-+ **Source Type**: Always Page, and it's already selected.
++ **Source Type**: It's always Page, and it's already selected.
 + **Path**: Add or paste the path to the page here. See the second image above for examples of paths.
 + **Start Mode**: Select Start Mode here. Note that you can select different Start Modes for different sources (pages), for the same Tutorial.
 
@@ -99,7 +99,7 @@ Delete a step
 **********************
 To delete a step in the Tutorial, do the following:
 
-1. Got to the step using the navigation bar with the dots.
+1. Go to the step using the navigation bar with the dots.
 2. Click the dust bin:
 
 .. image:: delete-step.png
@@ -108,7 +108,7 @@ Reorder steps
 **************
 The Tutorial steps are always ordered as you create them, a new step always placed last. If you need to reorder the steps, do the following:
 
-1. Active the "Reorder" button.
+1. Activate the "Reorder" button.
 
 .. image:: reorder-button.png
 
