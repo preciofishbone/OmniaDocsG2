@@ -23,5 +23,3 @@ You can click the hand to see a list of the users that has liked the page or com
 
 When writing a comment you can use mentions to send a message to someone, for example the author of the page (news page or other). 
 
-
-
