@@ -14,6 +14,6 @@ Tenant Settings
    user-profile-completion/index
    Property-sets/index
    targeting-properties/index
-   Tutorial/index
+   tutorial/index
    Features/index
    
