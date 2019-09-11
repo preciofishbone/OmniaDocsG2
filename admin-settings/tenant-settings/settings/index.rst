@@ -31,8 +31,8 @@ To remove a language from the tenant, just click the dust bin.
 
 5. Click "Save" when you're done.
 
-A user's language
------------------
+Language displayed for a user
+-------------------------------
 What language a specific user will see for the interface, in Announcement messages and Shared links, depends on the user's Preferred Language setting in the Azure AD.
 
 Date And Time
