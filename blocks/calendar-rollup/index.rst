@@ -28,7 +28,7 @@ Here you can set the following:
 
 + **Title**: You can type a Title to be displayd for the block. Not mandatory.
 + **Item Limit**: Set the number of items to display on each "page" of the list.
-+ **Padding**: Set some around the list if needed.
++ **Padding**: Set some padding around the list if needed.
 
 Layout
 *******
