@@ -25,7 +25,7 @@ The following settings are available:
 + **Source**: Add the link to the Source here. 
 + **Show Title**: To show a Title bar for the RSS list, select this option and add the Title in the field shown.
 + **Open in new window**: Here you set what will happen when a user clicks a heading in the list to read more; open in a new window or not.
-+ **Show actual day**: To show actual date for an item in the list, select this option. If not selected, an item will just show how much time has passed since the item was publiced, for example "2 hours ago" or "7 days ago".
++ **Show actual day**: To show actual date for an item in the list, select this option. If not selected, an item will just show how much time has passed since the item was published, for example "2 hours ago" or "7 days ago".
 + **Padding**: Padding will often be needed. Set the Padding in pixels here.
 
 Here's an example of an RSS list with Classic Paging:
