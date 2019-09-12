@@ -21,7 +21,7 @@ The following settings are available:
 
 + **Display**: Choose "Image on left", "Image on right" or "No image". Note that many RSS Feeds simply do not contain images. In that case all options here will in effect be treated as "No image".
 + **Paging**: Select "No paging" or "Classic". Se an important note about paging and Page Size, below. See an example of Classic paging below.
-+ **Page Size**: If you have have chosen "Classic" above, use this setting to decide the number of items for each page. **Important note**: If you have chosen "No paging" above, here you will set the number of items available in the list, meaning the latest items and no paging even if there are mire items available form the source. To display all available items, set this to 0.
++ **Page Size**: If you have have chosen "Classic" above, use this setting to decide the number of items for each page. **Important note**: If you have chosen "No paging" above, here you will set the number of items available in the list, meaning the latest items and no paging even if there are more items available from the source. To display all available items, set this to 0.
 + **Source**: Add the link to the Source here. 
 + **Show Title**: To show a Title bar for the RSS list, select this option and add the Title in the field shown.
 + **Open in new window**: Here you set what will happen when a user clicks a heading in the list to read more; open in a new window or not.
