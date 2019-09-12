@@ -1,8 +1,6 @@
 Tutorial
 =====================
 
-**(This description is just started, more will be added soon.)**
-
 Using this option in Omnia Admin a Tenant Administrator can create and edit Tutorials for selected publishing pages. 
 
 The User Experience

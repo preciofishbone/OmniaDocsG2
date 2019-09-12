@@ -3,13 +3,15 @@ Localization
 
 (This description is just started, more will be added soon.)
 
-Use this option to export a file for translation of the application user interface.
+The localization editor is used to view translations of different labels in different languages, edit these translations, and export the translated labels.
 
 + **View Mode**: Use this list to select the output:
 
 .. image:: localization-view-mode.png
 
-+ **Omnia Service**: Select part of Omnia for the output:
+In order to view the labels that have yet not been translated, select **have Missing Languages**.
+
++ **Omnia Service**: Here we can select the part of omnia that we would like to view the labels of. If the purpose is translating labels, then each part needs to be translated, since each part has different labels:
 
 .. image:: localization-service.png
 
@@ -19,13 +21,14 @@ You can point at the I-icon for information about which languages, of the availa
 
 .. image:: localization-info.png
 
-+ **Language**: Select language for the output here, from the available tenant languages:
++ **Language**: Select language for the output here, from the available tenant languages. If the purpose is translating untranslated labels, then select both English and the language you wish to translate them to. This will help
+this will assist the user in knowing more specifically what each label does:
 
 .. image:: localization-language.png
 
 Available languages are set up under Tenant-Settings-Regional settings, see: :doc:`Regional settings </admin-settings/tenant-settings/settings/index>`
 
-+ **Export**: When you have finished the settings, click this button to export to a file. 
++ **Export**: When you have finished the settings , click this button to export to a file.
 
 .. image:: localization-button.png
 
