@@ -1,2 +1,2 @@
 # OmniaDocsG2
-Product Documentation - Omnia for Modern SharePoint
+Product Documentation - Omnia (Azure AD App)

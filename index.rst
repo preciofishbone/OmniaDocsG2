@@ -1,4 +1,4 @@
-Omnia for Modern SharePoint
+Omnia (Azure AD App)
 ===========================================
 
 .. note:: This documentation is a work in progress and contributions can be made on our Github repo.

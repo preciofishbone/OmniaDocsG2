@@ -1,4 +1,4 @@
-Release Notes Omnia 2.0.0
+Release Notes 2.0.0
 ========================================
 
 General
