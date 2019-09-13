@@ -15,4 +15,5 @@ Topics
    pages/index
    general-assets/index
    setup/index
+   release-notes/index
    contribute-to-doc/index
