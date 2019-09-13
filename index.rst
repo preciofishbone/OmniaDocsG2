@@ -14,6 +14,7 @@ Topics
    blocks/index
    pages/index
    general-assets/index
+   user-options/index
    setup/index
    release-notes/index
    contribute-to-doc/index

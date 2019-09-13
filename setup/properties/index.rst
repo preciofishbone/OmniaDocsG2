@@ -2,7 +2,7 @@
 ===========================================
 
 1. Go to Omnia Admin.
-2. Click on Properties in the left-hand navigation.
+2. Click on "Properties" in the left-hand navigation.
 3. Add the following basic web content management properties to the tenant:
 
 **Page Contact**
@@ -59,4 +59,4 @@
 - Type: Yes/No
 - Queryable: Checked
 
-Note! The Managed Properties used are just examples. In a later step, they need to be configured to map to the correct crawled properties in SharePoint.
+**Note!** The Managed Properties used are just examples. In a later step, they need to be configured to map to the correct crawled properties in SharePoint.

@@ -1,6 +1,9 @@
 Working with blocks
 =====================
+
 This page contains general information about how to work with blocks.
+
+**Note!** The Blocks that belong to the Page Type is locked and can not be moved or deleted, and the settings can't be changed for these Blocks.
 
 Adding blocks
 **************
@@ -43,6 +46,18 @@ Icons now show where you can move the block, for example:
 3. Click the icon where you want the block and it's moved there.
 
 .. image:: block-moved.png
+
+Show the block or not on different devices
+******************************************************
+When you're working on a block you can select to show it on different devices or not.
+
+Click this icon:
+
+.. image:: device-support.png
+
+Then you can decide on which devices to show this block:
+
+.. image:: device-select.png
 
 Removing a block
 *****************

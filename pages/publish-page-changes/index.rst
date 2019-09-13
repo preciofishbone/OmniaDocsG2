@@ -27,7 +27,7 @@ Publish a page
 To publish a page, do the following:
 
 1. Enter Edit mode.
-2. Make sure all changes to be page has been done.
+2. Make sure all changes to the page has been done.
 3. Save the draft.
 
 .. image:: save-draft.png
@@ -38,9 +38,9 @@ To publish a page, do the following:
 
 .. image:: click-publish.png
 
-Version history
+Version History
 ******************
-Every time you save changes to a page (including when you publish) a new version history node for the page is created. You can check earlier versions and you can revert to an earlier version and continue working with that, if needed.
+Every time you save changes to a page (including when you publish) a new Version History node for the page is created. You can check earlier versions and you can revert to an earlier version and continue working with that, if needed.
 
 Do the following to see Version History:
 
@@ -66,7 +66,7 @@ Click the information about when the version was saved, to see who made the chan
 
 To check a version of the page, click the version number. The dot turns to red for the version being shown.
 
-.. imnage:: check-version.png
+.. image:: check-version.png
 
 If needed, you can revert to an earlier version on continue working on that version instead.
 

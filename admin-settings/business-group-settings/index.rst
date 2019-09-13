@@ -7,10 +7,11 @@ Business Profile Settings
    permissions/index
    settings/index
    team-collaboration/index
+   publishing-apps/index
    notification-panel/index
    search/index
    shared-links/index
    announcements/index
-   publishing-apps/index
+   features/index
    provisioning-templates/index
  

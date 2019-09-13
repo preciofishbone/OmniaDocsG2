@@ -9,6 +9,8 @@ The current navigation settings are page layout scoped. The settings are valid f
 
 The current navigation is responsive. In a certain width (optimized for mobile phones and tablets) the current navigation will be hidden. The mobile navigation will then be used instead.
 
+.. image:: mobile-navigation.png
+
 The settings
 *************
 These settings are available:.
