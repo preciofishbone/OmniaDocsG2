@@ -1,9 +1,9 @@
 Button Link
 =====================
 
-Use this block to add a clickable button anywhere on a page.
+Use this block to add clickable buttons anywhere on a page.
 
-settings
+Settings
 ***********
 The following settings can be used:
 
@@ -13,7 +13,7 @@ Any existing Button Links in this block are listed at the top. To edit a button,
 
 .. image:: button-link-settings-edit-delete.png
 
-Note that you can see a preview of the button/buttons in the block as you're working on it (but the buttons are not shown for others until you publish the page).
+Note that you can see a preview of the button/buttons in the block as you're working on it (but the buttons are not saved and for others until you publish the page).
 
 Add a Button Link
 *******************
@@ -44,4 +44,4 @@ To add a Button Link in this block, do the following:
 
 Layout
 ********
-The Layout tab contains general settings, see: :doc:`General block settings </blocks/general-block-settings/index>` 
+The Layout tab contains general settings, see: :doc:`General Block Settings </blocks/general-block-settings/index>` 
