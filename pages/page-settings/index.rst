@@ -7,7 +7,7 @@ When editing a page, a number of settings are available by clicking here:
 
 .. image:: page-settings.png
 
-General
+General 
 *********
 Set the following here:
 
