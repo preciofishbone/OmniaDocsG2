@@ -5,7 +5,7 @@ Use this block to make it possible for end users to select a variation of the pa
 
 Here's an example of the block placed in a section at the top of the page, in this case part of the Page Type:
 
-.. image:: page-variation-selector.png
+.. image:: page-variation-selector-new.png
 
 The block will simply show a list of the available Page Variations when opened.
 

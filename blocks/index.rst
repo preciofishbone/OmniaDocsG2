@@ -23,6 +23,7 @@ Blocks
    page-likes-and-comments/index
    page-properties/index
    page-rollup/index
+   variation-selector/index
    people-rollup/index
    quick-links/index
    rate/index
@@ -36,7 +37,6 @@ Blocks
    text/index
    trello-cards/index
    user-profile-completion/index
-   variation-selector/index
    working-with-blocks/index
 
 
