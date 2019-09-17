@@ -13,7 +13,7 @@ Any existing Button Links in this block are listed at the top. To edit a button,
 
 .. image:: button-link-settings-edit-delete.png
 
-Note that you can see a preview of the button/buttons in the block as you're working on it (but the buttons are not saved and for others until you publish the page).
+Note that you can see a preview of the button/buttons in the block as you're working on it (but the buttons are not saved and shown for others until you publish the page).
 
 Add a Button Link
 *******************
@@ -34,10 +34,10 @@ To add a Button Link in this block, do the following:
 + **Icon Type**: To add an icon to the buttton, first select the Icon Type here.
 + **Icon**: When you have selected the Icon Type, select the icon in this list. The icon is placed to the left of the button text.
 + **Target**: Choose if the link should be opened in a new window, the current window, or in a dialog.
-+ **Button Style**: You can select "Depressed", "Flat" or "Raised" as the style. See below for examples. Note that a flat button doesn't have any background color, so the text should normally be black for a flat button.
++ **Button Style**: You can select "Depressed", "Flat" or "Raised" as the style. Note that a flat button doesn't have any background color, so the text should normally be black for a flat button.
 + **Size**: The size of the button can be small, medium or large.
 + **Round**: For round button edges, select this option.
-+ **Outline**: For an outlined button, select this option. Note that the outline has the same color as the text, so the text color should normally be black, if you select Outline.
++ **Outline**: For an outlined button, select this option. Note that the outline has the same color as the text, and there's no background color, so the text color should normally be black, if you select Outline.
 + **Fill**: If the button should fill the whole width of the block, select this option.
 + **Background Color and Text Color**: Choose colors here. Note the comments about Flat button style and Outline above.
 + **Alignment**: (A description will be added later).
