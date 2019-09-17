@@ -1,4 +1,4 @@
-Omnia for Modern SharePoint
+Omnia (Azure AD App)
 ===========================================
 
 .. note:: This documentation is a work in progress and contributions can be made on our Github repo.
@@ -16,4 +16,6 @@ Topics
    general-assets/index
    user-options/index
    setup/index
+   roadmap/index
+   release-notes/index
    contribute-to-doc/index

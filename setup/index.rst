@@ -1,7 +1,7 @@
 Setup
 ===========================================
 
-In this part of the documentation you will find information on how to setup Omnia for Modern SharePoint.
+In this part of the documentation you will find information on how to setup Omnia (Azure AD App).
 
 
 .. toctree::

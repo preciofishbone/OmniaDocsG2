@@ -2,7 +2,7 @@
 ===========================================
 
 1. Browse to the newly created publishing app.
-2. Open the Editor either by pressing Ctrl + O + E or browse via the editor navigation.
+2. Open the Editor either by pressing Shift + O + E or browse via the editor navigation.
 
 .. image:: wcm-openeditor.png
 
