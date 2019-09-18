@@ -1,6 +1,9 @@
-Permissions
-===========================================
+Security
+===========
+The following settings are found here:
 
+Permissions
+************
 Use this setting to add and remove Tenant Administrators. Only Tenant Administrators can use this setting and eller other settings under "Tenant" in Omnia Admin. 
 
 A Tenant Administrator can also edit all the settings for all Business Profiles within the Tenant. 
