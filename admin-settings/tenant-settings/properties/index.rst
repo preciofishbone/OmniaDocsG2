@@ -43,7 +43,7 @@ Here you define which Properties to use for Targeting.
 
 .. image:: targeting-properties.png
 
-The Properties must be added to the Tenant Properties list to be able to used here.
+The Properties must be added to the Tenant Properties list to be able to be used here.
 
 Add a Target Property
 -----------------------
