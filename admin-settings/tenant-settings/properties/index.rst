@@ -21,7 +21,7 @@ Use the following settings:
 
 .. image:: tenant-properties-settings-new.png
 
-+ **Title**: Add a Title (name) for the Property. Default Title is mandatory. Add Titles in the other Tenant Languages as needed.
++ **Title**: Add a Title (name) for the Property. Default language is mandatory. Add Titles in the other Tenant Languages as needed.
 + **Internal name**: An internal name can or should in some instances be used instead of the Title, for example as a place holder. The internal name can not contain spaces.
 + **Type**: Select the Property type. It can be "Data", "Datetime", "Enterprise Keywords", "Media", "Person", "Rich text", "Taxonomy", "Text" or "Yes/No". Most of the Types are self explanatory. "Data" is a system field that users never enter anything to. "Rich text" can be formatted by the editor. "Text" is plain text that the editor can not format.
 
