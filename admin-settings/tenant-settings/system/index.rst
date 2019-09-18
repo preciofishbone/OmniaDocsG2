@@ -6,7 +6,7 @@ Here, the following can be set:
 
 Extensions
 ************
-Here all extensions used in the tenant is listed, with ID and version installed, for example:
+All extensions used in the tenant is listed here, with ID and version installed, for example:
 
 .. image:: system-extensions.png
 
