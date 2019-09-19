@@ -51,7 +51,7 @@ Here's an example:
 
 To edit an Accordion, click the pen. To delete an Accordion, click the x.
 
-.. image:: accordion-edit-delete.png
+.. image:: accordion-edit-delete-border.png
 
 
 
