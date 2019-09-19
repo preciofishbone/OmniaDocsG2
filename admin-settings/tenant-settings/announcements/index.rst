@@ -1,7 +1,7 @@
 Announcements
 ===========================================
 
-Here a Tenant Administrator can create Announcements that can be displayed over the whole tenant, normally at the top. Tenant Announcements can also be shown through the Announcements block. For more information about the block, see: :doc:`The Announcements block </blocks/announcements/index>`
+Here a Tenant Administrator (or any other user added under Permissions for Announcements, see below) can create Announcements that can be displayed over the whole tenant, normally at the top. Tenant Announcements can also be shown through the Announcements block. For more information about the block, see: :doc:`The Announcements block </blocks/announcements/index>`
 
 Note that an option to create Announcements for a specific Business Group also is available. The options are identical, the only difference is where Announcements are shown.
 
@@ -11,7 +11,7 @@ To create a new Announcement, do the following:
 
 1. Click the plus.
 
-.. image:: tenant-announcements-new2.png
+.. image:: tenant-announcements-new3.png
 
 Use the following settings:
 
@@ -81,7 +81,7 @@ Settings for Announcements
 ***************************
 Click the cog wheel to enter the settings:
 
-.. image:: cog-wheel-settings.png
+.. image:: cog-wheel-settings-new.png
 
 You can set the following:
 
@@ -135,7 +135,19 @@ Set the following:
 
 .. image:: status-create-new-save.png
 
+Permissions for Announcements
+*****************************
+Announcements has a seperate Permissions setting, meaning any user can be set as a Announcement administrator. 
 
+1. Click "Permissions".
+
+.. image:: announcements-click-permissions.png
+
+2. Add all users that should be Announcements administrators here:
+
+.. image:: announcements-permissions-list.png
+
+Note that Tenant Administrators always can work with Announcements even though they are not listed here.
 
 
 
