@@ -6,7 +6,6 @@ Blocks
 
    
    accordion/index
-   accordion/index
    announcements/index
    banner/index
    breadcrumb/index
