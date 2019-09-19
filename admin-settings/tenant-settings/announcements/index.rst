@@ -145,7 +145,7 @@ Announcements has a seperate Permissions setting, meaning any user can be set as
 
 2. Add all users that should be Announcements administrators here:
 
-.. image:: announcements-permissions-list.png
+.. image:: announcements-permissions.png
 
 Note that Tenant Administrators always can work with Announcements even though they are not listed here.
 
