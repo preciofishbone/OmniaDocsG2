@@ -1,7 +1,7 @@
 Announcements
 ===========================================
 
-Here an administrator for this Business Profile can create Announcements that will be displayed in the specific Business Profile only, normally at the top of the page. 
+Here an administrator for this Business Profile (or any other users added to the separate Permissions list) can create Announcements that will be displayed in the specific Business Profile only, normally at the top of the page. 
 
 Business Profile Announcements can also be displayed through the Announcements block. For more information about the block, see: :doc:`The Announcements block </blocks/announcements/index>`
 
