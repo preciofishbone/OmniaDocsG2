@@ -137,7 +137,7 @@ Set the following:
 
 Permissions for Announcements
 *****************************
-Announcements has a seperate Permissions setting, meaning any user can be set as a Announcement administrator. 
+Announcements has a seperate Permissions setting, meaning any user can be set as an Announcement administrator. 
 
 1. Click "Permissions".
 
