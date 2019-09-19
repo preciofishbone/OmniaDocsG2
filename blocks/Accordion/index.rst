@@ -40,7 +40,7 @@ The following is shown:
 .. image:: accordion-new.png
 
 3. Add an Accordion Title at the top. This is the expandable text.
-4. Add the text should be shown when the title is expanded. Note the formatting options.
+4. Add the text that should be shown when the title is expanded. Note the formatting options.
 
 Here's an example:
 
