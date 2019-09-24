@@ -7,11 +7,9 @@ This block makes it possible for users to send feedback about the page to the ow
 
 The user just types the message in the field and clicks "Post".
 
-If Rich Text has been enabled, it looks a bit different, here's an example:
+If Rich Text has been enabled, some formatting options are available, here's an example:
 
 .. image:: page-feedback-rich.png
-
-As you can see, with Rich Text enabled, some formatting options is avaible.
 
 Settings
 **********
