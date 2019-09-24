@@ -1,7 +1,7 @@
 Team Collaboration Rollup
 ============================
 
-Use this block to show all Team Sites and other collaboration sites the user has access to. Here's an example:
+Use this block to show team sites and other collaboration sites the user has access to. Here's an example:
 
 .. image:: sitedirectory-g2.png
 
