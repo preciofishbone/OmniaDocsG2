@@ -98,6 +98,7 @@ Click the cog wheel to set additional settings för My Sites. Here's what you ca
 General
 ^^^^^^^^
 + **Following**: Decides if the "Following" tab is displayed or not. The "All" tab is always displayed. 
++ **Member of**: Decides if the "Member of" tab is displayed or not.
 + **Order By**: Sets the Sort Order for the list of sites. Can be by "Title" or "Last Visited".
 + **Open in New Windows**: Decides if the site is opened in a new window ore not.
 + **Use Letter Avatar**: Select to use Letter Avatars or not (see below for an example).
@@ -118,7 +119,7 @@ Here you can set the following:
 
 Custom Colors
 ^^^^^^^^^^^^^^
-Here you can set a Custom Color for the Icons for the sites. 
+Here you can set a Custom Color for the Icons for the sites.    
 
 Notification Panel - additional settings
 -------------------------------------------
