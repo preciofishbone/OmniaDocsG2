@@ -1,8 +1,6 @@
 Localization
 ===========================================
 
-(This description is just started, more will be added soon.)
-
 The localization editor is used to view translations of different labels in different languages, edit these translations, and export the translated labels.
 
 + **View Mode**: Use this list to select the output:

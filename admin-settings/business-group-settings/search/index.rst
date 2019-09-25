@@ -1,8 +1,6 @@
 Search
 ===========================================
 
-**Note! This description is just started. More information will be added soon.**
-
 Use these options for settings for general Search configuration, Quick Search and Advanced Search.
 
 .. image:: search.png
