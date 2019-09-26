@@ -3,15 +3,15 @@ Provisioning Templates
 
 Use these options to create Provisioning Templates for Team Sites of different types, or Publishing Apps.
 
-All existing Templates are displayed in the list.
+All existing templates are displayed in the list.
 
 .. image:: provisioning-templates-new.png
 
-Use the icons to edit or delete a Template. 
+Use the icons to edit or delete a template. 
 
 .. image:: provisioning-templates-edit-delete-new.png
 
-When editing a Template, the same options as when creating a Template is available, see below.
+When editing a template, the same options as when creating a template is available, see below.
 
 Create a Provisioning Template
 *********************************
@@ -21,13 +21,11 @@ To create a Template, do the following:
 
 .. image:: provisioning-templates-create-1.png
 
-Available settings differ depending on if you create a Template for a Publishing App or for a Team Site, see below.
+Available settings differ depending on which type of template you're creating, see below.
 
-Create a Template for a Publishing App
------------------------------------------
-Do the following:
+The first step is the same for all template types. Do the following:
 
-2. For "Base Definition", select "Publishing App" and use the following settings:
+2. For "Base Definition", select "Publishing App" or "Team Collaboration" and use the following settings:
 
 .. image:: provisioning-templates-create-publishing-2.png
 
@@ -39,23 +37,8 @@ Do the following:
 + **Site Creation Mode**: Here you select if users will be available to create sites from this Template or if Approval is required.
 
 3. Click "Next".
-4. Click "ADD" to create the Template.
 
-.. image:: provisioning-templates-publishing-3.png
-
-Create a Template for a Team Site
------------------------------------------
-Do the following:
-
-2. For "Base Definition", select "Team Collaboration" and use the following settings:
-
-.. image:: provisioning-templates-create-team-2.png
-
-The first set of options is the same as for Publishing Templates, see above.
-
-3. Click "Next".
-
-Use the following options here:
+Next step is for Team Collaboration sites only:
 
 .. image:: provisioning-templates-create-team-3.png
 
@@ -81,9 +64,9 @@ This setting is available for a Facebook Workplace Greup Template:
 
 + **Workplace Domain**: (A description will be added soon.)
 
-5. Click "Next".
+4. Click "Next".
 
-The next step is to edit properties. All available properties are shown, for example:
+The next step is to edit properties, which you do for all types of templates. All available properties are shown, for example:
 
 .. image:: template-properties.png
 
@@ -91,16 +74,16 @@ What you can do here is to select if a property should be required (meaning that
 
 Here's an example with Keywords, where you can set both:
 
-6. Select the property and then click the dot menu.
+5. Select the property and then click the dot menu.
 
 .. image:: template-properties-dot-menu.png
 
-7. Select if the property is mandatory (Required) and/or if multiple values should be allowed:
+6. Select if the property is required and/or if multiple values should be allowed:
 
 .. image:: template-property-required.png
 
-8. Click "Save"
-9. When all property settings are done, click "Next", at the bottom of the properties list.
+7. Click "Save"
+8. When all property settings are done, click "Next", at the bottom of the properties list.
 
 As the next step you can set this:
 
@@ -111,7 +94,7 @@ As the next step you can set this:
 + **Project Site**: (A description will be added soon.)
 + **Default Page Collections and Page Types**: (A description will be added soon.)
 
-10. Set this as needed and click "Next".
+9. Set the options here as needed and click "Next".
 
 Finally, you can select to add Custom Steps. If you do, the following is shown:
 
@@ -121,6 +104,6 @@ Finally, you can select to add Custom Steps. If you do, the following is shown:
 + **Users**: (A description will be added soon.)
 + **Enterprise Properties**: (A description will be added soon.)
 
-6. When all settings are done here, or if you selected not to add custom steps, click "ADD" to create the Template.
+10. When all settings are done here, or if you selected not to add custom steps, click "ADD" to create the Template.
 
 .. image:: provisioning-templates-4-new.png
