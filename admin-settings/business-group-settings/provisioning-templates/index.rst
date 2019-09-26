@@ -102,8 +102,25 @@ Here's an example with Keywords, where you can set both:
 8. Click "Save"
 9. When all property settings are done, click "Next".
 
-(Ad more.....)
+As the next step you can set this:
 
-6. Click "ADD" to create the Template.
+.. image:: template-features.png
 
-.. image:: provisioning-templates-4.png
++ **Apply Microsoft Teams to an Office 365 Group**: If you're creating a Template for an Office 365 Group, you can set that a Microsoft Teams Group should be created for the Office 365 Group.
++ **Archived Documents**: (A description will be added soon.)
++ **Project Site**: (A description will be added soon.)
++ **Default Page Collections and Page Types**: (A description will be added soon.)
+
+10. Set this as needed and click "Next".
+
+As the last step you can select to add Custom Steps. If you do, the following is shown:
+
+.. image:: custom-steps.png
+
++ **Information**: (A description will be added soon.)
++ **Users**: (A description will be added soon.)
++ **Enterprise Properties**: (A description will be added soon.)
+
+6. When all settings are done here, or if you selected not to add custom steps, click "ADD" to create the Template.
+
+.. image:: provisioning-templates-4-new.png
