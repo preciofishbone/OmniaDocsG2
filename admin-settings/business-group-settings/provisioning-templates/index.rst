@@ -77,7 +77,7 @@ The following setting is available for a Yammer Group Template:
 
 + **Client id**: Type id here.
 
-This setting is avalable for a Facebook Workplace Greoup Template:
+This setting is available for a Facebook Workplace Greup Template:
 
 + **Workplace Domain**: (A description will be added soon.)
 
@@ -87,7 +87,7 @@ The next step is to edit properties. All available properties are shown, for exa
 
 .. image:: template-properties.png
 
-What you can do here is to select if a property should be mandatory (meaning that it should be mandatory to add information for the property shen creating a site). For some properties you can also set that multiple values are allowed.
+What you can do here is to select if a property should be required (meaning that it should be mandatory to add information for the property when creating a site). For some properties you can also set that multiple values are allowed.
 
 Here's an example with Keywords, where you can set both:
 
@@ -100,20 +100,20 @@ Here's an example with Keywords, where you can set both:
 .. image:: template-property-required.png
 
 8. Click "Save"
-9. When all property settings are done, click "Next".
+9. When all property settings are done, click "Next", at the bottom of the properties list.
 
 As the next step you can set this:
 
 .. image:: template-features.png
 
-+ **Apply Microsoft Teams to an Office 365 Group**: If you're creating a Template for an Office 365 Group, you can set that a Microsoft Teams Group should be created for the Office 365 Group.
++ **Apply Microsoft Teams to an Office 365 Group**: Here you can select that a Microsoft Teams Group should be created for the Office 365 Group.
 + **Archived Documents**: (A description will be added soon.)
 + **Project Site**: (A description will be added soon.)
 + **Default Page Collections and Page Types**: (A description will be added soon.)
 
 10. Set this as needed and click "Next".
 
-As the last step you can select to add Custom Steps. If you do, the following is shown:
+Finally, you can select to add Custom Steps. If you do, the following is shown:
 
 .. image:: custom-steps.png
 
