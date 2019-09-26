@@ -1,16 +1,14 @@
 My Sites
 ===========================================
 
-Using My Sites an end user can navigate to all Omnia sites that the user has access to. Settings in Omnia Admin states if My Sites should be shown or not in the top menu.
+My Sites can display links to several types of sites and groups, including Yammer Groups and Microsoft Teams Groups. Settings in Omnia Admin states if My Sites should be shown or not in the top menu.
 
 .. image:: my-sites-example-new.png
-
-My Sites can display links to several types of sites and groups, including Yammer Groups and Microsoft Teams Groups.
 
 Three tabs can be available:
 
 + **FOLLOWING**: If shown (according to settings in Omnia Admin), this tab lists all sites that the user is following. 
-+ **MEMBER OF**: If shown (according to settings in Omnia Admin), this tab lists all sites that the user is a member of. Applicable for Offie 365 Team Sites.
++ **MEMBER OF**: If shown (according to settings in Omnia Admin), this tab lists all sites that the user is a member of. 
 + **ALL**: Can be used to search for any site the user has read access to. This tab is always shown.
 
 A long list can be filtered by using the "Filter" field.
@@ -24,9 +22,9 @@ Two things will happen when a user follows a site:
 
 Create New Site or Group
 *************************
-End users can be allowed to create a new site or group using the option here. The user can be allowed to create a site without approval, called "Self Service" or can send a request for a site to be created. In that case an administrator can approve or reject creation of the site.
+End users can be allowed to create a new site or group using the option here. Depending settings approval can be needed. If it's not needed, the site or group will be created when the user click "Create". If approval is needed, a request is sent to an administrator for processing.
 
-What the option is called and Which fields and options will be available when creating a site can differ depending on settings in Omnia Admin.
+What the option is called and Which fields and options will be available when creating a site can or group differ depending on settings in Omnia Admin.
 
 Here's an example with some common fields and options:
 
@@ -42,7 +40,8 @@ Here's an example with some common fields and options:
 
 This example will create a "Team" site.
 
-3. Set the following:
+3. Select "Team".
+4. Set the following:
 
 .. image: create-site-1-new.png
 
@@ -53,8 +52,8 @@ This example will create a "Team" site.
 + **Languages**: The same language as the main Business Profile language is suggested. Another language can be selected if needed.  
 + **Time Zones**: Normally the correct Time Zone is already selected. Can be changed if needed.
 
-4. Click "Next".
-5. Set the following:
+5. Click "Next".
+6. Set the following:
 
 .. image:: create-site-2-new.png
 
@@ -63,12 +62,12 @@ This example will create a "Team" site.
 
 The creation process can in some cases end here but in this example the temaplate stipulates that some Enterprise Properties must be set.
 
-6. Click "Next".
+7. Click "Next".
 
 .. image:: create-site-3.png
 
-7. Add the necessary property information.
-8. Click "Create" to create the site or group.
+8. Add the necessary property information.
+9. Click "Create" to create the site or group.
 
 Templates for site creation
 ****************************
