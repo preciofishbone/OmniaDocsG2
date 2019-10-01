@@ -16,7 +16,7 @@ To add an administrator, add the name the same way as in other name fields. To d
 
 Secrets
 ********
-Use this option to enter security keys and similar for then Business Profile, of needed. In this example tokens for Facebook Workplace and Yammer can be added:
+Use this option to enter security keys and similar for the Business Profile, if needed. In this example tokens for Facebook Workplace and Yammer can be added:
 
 .. image:: secrets-business-profile.png
 
