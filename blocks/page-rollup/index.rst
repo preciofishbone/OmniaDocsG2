@@ -1,7 +1,7 @@
 Page Rollup
 ===========================================
 
-This block can be used for many purposes, for example to rollup new news, Latest news and similar - and for much more regarding pages, not just for News.
+This block can be used for many purposes, for example to rollup new news, tatest news and similar - and for much more regarding pages, not just for news.
 
 Settings
 *********
@@ -22,7 +22,7 @@ Social Period
 --------------
 Use these settings to decide for how long likes, comments, ratings and page feedback should be displayed here. The default setting is "No limit" but you can select one week, two weeks or one month instead.
 
-.. image:: page-rollup-settings-social.png
+.. image:: page-rollup-settings-social-new.png
 
 Display
 ----------
@@ -45,7 +45,7 @@ The following lists all available display settings. Which of them will be availa
 + **Summary**: Select the property that contains the page summary for the item to display. 
 + **Content**: Select the property that contains the page content for the item to display. Available for dialog display only.
 + **Content Image**: Select image to display, if any. Available for dialog display only.
-+**Title**: If a block title should be displayed, enter the title here.
++ **Title**: If a block title should be displayed, enter the title here.
 + **No result text**: Enter the text that should be shown if no page can be displayed.
 + **Hide block when not data**: Select this option if the block should be hidden when ther's nothing to display.
 + **Trim duplicates**: Certain settings may result in duplicates being displayed. Select this option to make sure only one copy of the item is displayed.
