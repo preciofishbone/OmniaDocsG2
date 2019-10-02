@@ -1,7 +1,7 @@
 Features - Business Profile
 ===========================================
 
-All available Features for the Business Profile is listed here and can be activated and deactivated. Here's an example:
+All available Features for the Business Profile is listed here and can be activated, deactivated and updated. Here's an example:
 
 .. image:: features-business-profile-new.png
 
