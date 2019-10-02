@@ -45,3 +45,7 @@ Do the following:
 + **App Administrators**: The active Administrator (you) is automatically added as App Administrator. Add or delete administrators as needed. 
 
 3. Click "CREATE" to create the Publishing App.
+
+Pending Approval
+*****************
+(A description will be added soon).

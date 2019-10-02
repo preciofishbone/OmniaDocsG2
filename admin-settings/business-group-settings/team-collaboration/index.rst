@@ -7,6 +7,12 @@ For Team Sites with "Approval" as Site Creation Mode, you use the "Pending Appro
 
 .. image:: team-collaboration-new.png
 
+Use the icons this way:
+
++ The key to edit permissions.
++ The boxes to activate, deactivate and upgrade features.
++ The dust bin to delete the collaboration site. 
+
 Create a Team Site
 *********************
 To create a Team Site from here, do the following:
