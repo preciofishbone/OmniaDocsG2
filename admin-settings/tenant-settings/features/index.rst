@@ -7,7 +7,7 @@ All available Features for the Tenant is listed here and can be activated, deact
 
 Enterprise Properties
 *********************
-The purpose of these features is to provide a number of Enterprise Properties for an easy starting point. You can then edit the properties list for your oarganization's needs. Add the common properties you would like to have in your tenant.
+The purpose of these features is to provide a number of Enterprise Properties for an easy starting point. You can then edit the properties list for your organization's needs. Add the common properties you would like to have in your tenant.
 
 Note that some default properties can not be deleted, but all can be edited. See this page for more information: :doc:`Properties </admin-settings/tenant-settings/properties/index>`
 
