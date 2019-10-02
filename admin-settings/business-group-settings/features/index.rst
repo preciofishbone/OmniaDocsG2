@@ -3,6 +3,12 @@ Features - Business Profile
 
 All available Features for the Business Profile is listed here and can be activated and deactivated. Here's an example:
 
-.. image:: features-business-profile.png
+.. image:: features-business-profile-new.png
 
-(Detailed descriptions of the Features coming soon.)
+Provisioning Templates
+*********************
+The purpose of these features is to provide a number of Provisioning Templates for an easy starting point. You can then edit the templates for your organization's needs, and of course add additional templates. Add the templates you would like to have in your tenant.
+
+Default Content
+****************
+Here you can add some default content for an easy starting point. Activate the content you want in the Business Profile. The Noticification Panel settings can easily be edited for your organization's needs, see: :doc:`The Notification Panel </admin-settings/business-group-settings/notification-panel/index>`
