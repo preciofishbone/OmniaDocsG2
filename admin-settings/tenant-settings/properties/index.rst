@@ -35,7 +35,43 @@ Note that some Properties can not be deleted, but they can be edited. For them o
 
 Property Sets
 ***************
-(A description will be added soon.)
+This is as the name says, an option where you can create sets of several Enterprise Properties and handle the set instead of each individual property.
+
+Let's say you decide that all documents always should always be tagged with the same properties. You can then create a Property Set for that purpose.
+
+When you enter, all existing Property Sets are shown in a list.
+
+.. image:: property-sets-1.png
+
+Click the pen to edit a Propety Set, or the dust bin to delete it.
+
+Create a new Property Set
+----------------------------
+To create a new Property Set, do the following:
+
+1. Click the plus.
+
+.. image:: property-sets-click-plus.png
+
+2. Add a title for the set.
+
+.. image:: property-sets-title.png
+
+A Title in the deafault tenant language is mandatory. Add Titles in other tenant languages as needed.
+
+3. Select a property to add to the set and click "ADD".
+
+.. image:: property-sets-add.png
+
+4. Set the options for the added property, if it's required and, for some properties, if multiple values are allowed (and then also how many).
+
+Here's an example for the property Document Type:
+
+.. image:: property-sets-type.png
+
+5. When all properties are added to the set, click "SAVE".
+
+.. image:: property-sets-save.png
 
 Targeting Properties
 **********************
