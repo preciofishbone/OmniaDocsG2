@@ -3,9 +3,9 @@ Properties
 
 The following is found here:
 
-.. image:: properties.png
+.. image:: properties-new.png
 
-Tenant Properties
+Enterprise Properties
 *********************
 Here you add ALL Properties that should be used within the Tenant. If you, for example, would like to enable targeting, the Properties to be used for targeting must be added here.
 
@@ -37,13 +37,13 @@ Property Sets
 ***************
 This is as the name says, an option where you can create sets of several Enterprise Properties and handle the set instead of each individual property.
 
-Let's say you decide that all documents always should always be tagged with the same properties. You can then create a Property Set for that purpose.
+Let's say you decide that all documents always should be tagged with the same properties. You can then create a Property Set for that purpose.
 
 When you enter, all existing Property Sets are shown in a list.
 
 .. image:: property-sets-1.png
 
-Click the pen to edit a Propety Set, or the dust bin to delete it.
+Click the pen to edit a Property Set, or the dust bin to delete it.
 
 Create a new Property Set
 ----------------------------
@@ -63,7 +63,7 @@ A Title in the deafault tenant language is mandatory. Add Titles in other tenant
 
 .. image:: property-sets-add.png
 
-4. Set the options for the added property, if it's required and, for some properties, if multiple values are allowed (and then also how many).
+4. Set the options for the added property; if it's required and, for some properties, if multiple values are allowed (and then also how many).
 
 Here's an example for the property Document Type:
 
@@ -79,7 +79,7 @@ Here you define which Properties to use for Targeting.
 
 .. image:: targeting-properties.png
 
-The Properties must be added to the Tenant Properties list to be able to be used here.
+The Properties must be added to the Enterprise Properties list to be able to be used here.
 
 Add a Target Property
 -----------------------
