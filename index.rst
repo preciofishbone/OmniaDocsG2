@@ -12,8 +12,8 @@ Topics
 
    admin-settings/index
    blocks/index
-   pages/index
    general-assets/index
+   pages/index
    user-options/index
    setup/index
    roadmap/index
