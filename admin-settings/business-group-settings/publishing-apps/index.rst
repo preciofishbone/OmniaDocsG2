@@ -46,6 +46,10 @@ Do the following:
 
 3. Click "CREATE" to create the Publishing App.
 
+Publishing App settings
+*************************
+Settings for the Publishing App is done in the Settings menu when working with pages, see: :doc:`Publishing App Settings </pages/page-settings/index>`
+
 Pending Approval
 *****************
 (A description will be added soon).

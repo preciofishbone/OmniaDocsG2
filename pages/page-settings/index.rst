@@ -1,7 +1,5 @@
-Page settings
+Publishing App settings
 ===========================================
-
-(This description is just started, more will be added soon.)
 
 When editing a page, a number of settings are available by clicking here:
 
