@@ -37,6 +37,8 @@ The settings for a Category is the same as the settings for the corresponding Bl
 
 Announcements: :doc:`The Announcements block </blocks/announcements/index>`
 
+Calendar Rollup: :doc:`The Calendar Rollup block </blocks/calendar-rollup/index>`
+
 Document Rollup: :doc:`The Document Rollup block </blocks/document-rollup/index>`
 
 HTML Scripts: :doc:`The HTML Scripts block </blocks/html-script/index>`
@@ -51,5 +53,4 @@ RSS Reader: :doc:`The RSS Reader block </blocks/rss-reader/index>`
 
 Team News Rollup: :doc:`The Team News Rollup block </blocks/team-news-rollup/index>`
 
-Trello Card: :doc:`The Trello Card block </blocks/trello-cards/index>`
 
