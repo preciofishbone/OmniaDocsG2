@@ -96,7 +96,7 @@ Statistics
 -----------
 For more advanced statistics in Omnia, this is the place to add the scripts you get from your statistics provider. 
 
-..image:: page-settings-statistics.png
+.. image:: page-settings-statistics.png
 
 Don't forget to save. The "Save" button is located in the lower right corner.
 
