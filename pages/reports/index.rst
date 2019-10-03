@@ -40,3 +40,18 @@ Pending Approval
 If Approval for pages has been set up, this list wi show all pages with pending approval.
 
 (More information on Page Approval will be added soon.)
+
+Settings for Reports
+*********************
+Two settings are needed for the reports to work.
+
+Go to the Publishing App Settings and the Generel tab.
+
+.. image:: reports-settings.png
+
+A property for page contact has to have been set up in Omnia Admin, and a property for review date, if it will be used for pages.
+
+The correct properties must be selected here for the reports to work:
+
+.. image:: reports-settings-lists.png
+
