@@ -94,11 +94,13 @@ Note that the targeting settings also are shown in the Variations list, for exam
 
 Statistics
 -----------
-(A description will be added soon.)
+For more advanced statistics in Omnia, this is the place to add the scripts you get from your statistics provider. 
 
-Advanced
------------
-(A description will be added soon.)
+..image:: page-settings-statistics.png
+
+Don't forget to save. The "Save" button is located in the lower right corner.
+
+
 
 
 
