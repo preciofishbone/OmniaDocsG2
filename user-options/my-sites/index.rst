@@ -20,6 +20,10 @@ Two things will happen when a user follows a site:
 + The site will be available as a quick link in the "Following" tab in the My Sites control.
 + Any conversations in the user feed on the site will be available in the user feed on the start page.
 
+If there is a Yammer Group and/or a Teams Group connected to a site, it is indicated by an icon. See the above image for examples of Teams icons (it's the T icon). 
+
+You can click the icon to go to the Yammer Group or Teams Group.
+
 Create New Site or Group
 *************************
 End users can be allowed to create a new site or group using the option here. Depending settings approval can be needed. If it's not needed, the site or group will be created when the user click "Create". If approval is needed, a request is sent to an administrator for processing.
