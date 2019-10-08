@@ -41,7 +41,7 @@
         <link rel="search" title="Search" href="../../../search.html"/>
     <link rel="top" title="Omnia  documentation" href="../../../index.html"/>
         <link rel="up" title="Tenant Settings" href="../index.html"/>
-        <link rel="next" title="Targeting Properties" href="../targeting-properties/index.html"/>
+        <link rel="next" title="User Profile Completion" href="../user-profile-completion/index.html"/>
         <link rel="prev" title="Shared Links" href="../shared-links/index.html"/> 
 
   
@@ -98,9 +98,13 @@
 <li class="toctree-l3"><a class="reference internal" href="../settings/index.html">Settings</a></li>
 <li class="toctree-l3"><a class="reference internal" href="../properties/index.html">Properties</a></li>
 <li class="toctree-l3"><a class="reference internal" href="../business-profiles/index.html">Business Profiles</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../localization/index.html">Localization</a></li>
 <li class="toctree-l3"><a class="reference internal" href="../shared-links/index.html">Shared Links</a></li>
 <li class="toctree-l3 current"><a class="current reference internal" href="#">Announcements</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../user-profile-completion/index.html">User Profile Completion</a></li>
 <li class="toctree-l3"><a class="reference internal" href="../targeting-properties/index.html">Targeting Properties</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../tutorial/index.html">Tutorial</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../features/index.html">Features - Tenant</a></li>
 </ul>
 </li>
 <li class="toctree-l2"><a class="reference internal" href="../../business-group-settings/index.html">Business Profile Settings</a></li>
@@ -109,7 +113,10 @@
 <li class="toctree-l1"><a class="reference internal" href="../../../blocks/index.html">Blocks</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../pages/index.html">Pages</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../general-assets/index.html">General assets</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../user-options/index.html">User options</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../setup/index.html">Setup</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../roadmap/index.html">Roadmap</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../release-notes/index.html">Release Notes</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../contribute-to-doc/index.html">Contribute to this Documentation</a></li>
 </ul>
 
@@ -180,8 +187,7 @@
             
   <div class="section" id="announcements">
 <h1>Announcements<a class="headerlink" href="#announcements" title="Permalink to this headline">¶</a></h1>
-<p><strong>Note!</strong> This documentation is ongoing. More details will be added soon, and all is not fully tested yet.</p>
-<p>Here a Tenant Administrator can create Announcements that will be displayed over the whole tenant, normally at the top. Tenant Announcements can also be shown through the Announcements block. For more information about the block, see: <a class="reference internal" href="../../../blocks/announcements/index.html"><span class="doc">The Announcements block</span></a></p>
+<p>Here a Tenant Administrator can create Announcements that can be displayed over the whole tenant, normally at the top. Tenant Announcements can also be shown through the Announcements block. For more information about the block, see: <a class="reference internal" href="../../../blocks/announcements/index.html"><span class="doc">The Announcements block</span></a></p>
 <p>Note that an option to create Announcements for a specific Business Group also is available. The options are identical, the only difference is where Announcements are shown.</p>
 <div class="section" id="create-an-announcement">
 <h2>Create an Announcement<a class="headerlink" href="#create-an-announcement" title="Permalink to this headline">¶</a></h2>
@@ -189,25 +195,30 @@
 <ol class="arabic simple">
 <li>Click the plus.</li>
 </ol>
-<img alt="../../../_images/tenant-announcements-new.png" src="../../../_images/tenant-announcements-new.png" />
+<img alt="../../../_images/tenant-announcements-new2.png" src="../../../_images/tenant-announcements-new2.png" />
 <p>Use the following settings:</p>
-<img alt="../../../_images/tenant-announcements-settings.png" src="../../../_images/tenant-announcements-settings.png" />
+<img alt="../../../_images/tenant-announcements-settings2.png" src="../../../_images/tenant-announcements-settings2.png" />
 <ul class="simple">
-<li><strong>Title</strong>: Add a title for the message.</li>
-<li><strong>Description</strong>: Add the message here.</li>
-<li><strong>Priority</strong>: (To be fully tested) Set the Priority. Important Announcements with High priority will be displayed below the cross site mega menu on all pages, and in the Notification panel. Important Announcements with Normal priority will be displayed in the notification panel only.</li>
-<li><strong>Order</strong>: Set the order for this Imortant Announcement when there are several displayed.</li>
+<li><strong>Title</strong>: Add a title for the message. If you use more than one language in the tenant you can add a title in each language. Note that you must always add a title in the default language, other languages are optional.</li>
+<li><strong>Description</strong>: Add the message here. If you use more than one language in the tenant you can add the description in each language. Note that you must always add the description in the default language, other languages are optional.</li>
+<li><strong>Priority</strong>: Set the Priority. Important Announcements with High priority will be displayed below the cross site mega menu on all pages (see example below). Announcements (with Normal or High priority) can be displayed to users in the Notification Panel or through the Announcements block.</li>
+<li><strong>Order</strong>: Set the order for this Important Announcement when there are several displayed.</li>
 <li><strong>Start Date</strong> and <strong>End Date</strong>: Set the start and end date of the Important Announcement. You can set exact times within the dates if needed. Start and end dates are optional, but we recommend that you always at least set an end date.</li>
 <li><strong>Type</strong>: Type is an indication of what type the Announcement is, noted with text and an icon. Available Types are created and edited in the settings (see below).</li>
-<li><strong>Status</strong>: Status is a Color and text indication of the status (severity) of Announcement. Available Status options are created and edited in the settings (see below)</li>
+<li><strong>Status</strong>: Status is a color and text indication of the status (severity) of Announcement. Available Status options are created and edited in the settings (see below)</li>
 <li><strong>Comments</strong>: Decide to allow comments or not. The default is to not allow comments. If allowed, users can add comments, and even comment other comments (and so can you of course) the same way as for example for news.</li>
-<li><strong>Targeting filter</strong>: An Announcement can be targeted, which means just diplayed to a defined group of users. See below for information on how to do that.</li>
+<li><strong>Targeting filter</strong>: An Announcement can be targeted, which means just displayed to a defined group of users. See below for information on how to do that.</li>
 </ul>
+<p>Here’s an example of an Announcement with high priority:</p>
+<img alt="../../../_images/high-priority.png" src="../../../_images/high-priority.png" />
+<p>Here’s an example of Announcements displayed in the Announcements block:</p>
+<img alt="../../../_images/announcements-block.png" src="../../../_images/announcements-block.png" />
+<p>For more information, see: The Announcements block: <a class="reference internal" href="../../../blocks/announcements/index.html"><span class="doc">The Announcements block</span></a></p>
+<p>All languages to be used here must be setup in the Tenant Settings, see: <a class="reference internal" href="../settings/index.html"><span class="doc">Tenant Settings</span></a></p>
 </div>
 <div class="section" id="targeting-announcements">
 <h2>Targeting Announcements<a class="headerlink" href="#targeting-announcements" title="Permalink to this headline">¶</a></h2>
-<p>An Important Announcement can be targeted to any receivers that has been defined in Targeting Properties, see: (link to be added)</p>
-<p>Do the following:</p>
+<p>An Important Announcement can be targeted to any receivers that has been defined in Targeting Properties, see: <a class="reference internal" href="../targeting-properties/index.html"><span class="doc">Targeting Properties</span></a></p>
 <ol class="arabic simple">
 <li>Click “Add Targeting Filter”.</li>
 </ol>
@@ -290,7 +301,7 @@
   
     <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
       
-        <a href="../targeting-properties/index.html" class="btn btn-neutral float-right" title="Targeting Properties" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right"></span></a>
+        <a href="../user-profile-completion/index.html" class="btn btn-neutral float-right" title="User Profile Completion" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right"></span></a>
       
       
         <a href="../shared-links/index.html" class="btn btn-neutral" title="Shared Links" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>
@@ -303,7 +314,7 @@
   <div role="contentinfo">
     <p>
         &copy; Copyright 2019, Precio Fishbone.
-      Last updated on Sep 13, 2019.
+      Last updated on Sep 23, 2019.
 
     </p>
   </div>

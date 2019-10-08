@@ -41,7 +41,7 @@
         <link rel="search" title="Search" href="../../../search.html"/>
     <link rel="top" title="Omnia  documentation" href="../../../index.html"/>
         <link rel="up" title="Business Profile Settings" href="../index.html"/>
-        <link rel="next" title="Notfication Panel" href="../notification-panel/index.html"/>
+        <link rel="next" title="Publishing Apps" href="../publishing-apps/index.html"/>
         <link rel="prev" title="Settings" href="../settings/index.html"/> 
 
   
@@ -98,11 +98,12 @@
 <li class="toctree-l3"><a class="reference internal" href="../permissions/index.html">Permissions</a></li>
 <li class="toctree-l3"><a class="reference internal" href="../settings/index.html">Settings</a></li>
 <li class="toctree-l3 current"><a class="current reference internal" href="#">Team Collaboration</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../publishing-apps/index.html">Publishing Apps</a></li>
 <li class="toctree-l3"><a class="reference internal" href="../notification-panel/index.html">Notfication Panel</a></li>
 <li class="toctree-l3"><a class="reference internal" href="../search/index.html">Search</a></li>
 <li class="toctree-l3"><a class="reference internal" href="../shared-links/index.html">Shared Links</a></li>
 <li class="toctree-l3"><a class="reference internal" href="../announcements/index.html">Announcements</a></li>
-<li class="toctree-l3"><a class="reference internal" href="../publishing-apps/index.html">Publishing Apps</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../features/index.html">Features - Business Profile</a></li>
 <li class="toctree-l3"><a class="reference internal" href="../provisioning-templates/index.html">Provisioning Templates</a></li>
 </ul>
 </li>
@@ -111,7 +112,10 @@
 <li class="toctree-l1"><a class="reference internal" href="../../../blocks/index.html">Blocks</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../pages/index.html">Pages</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../general-assets/index.html">General assets</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../user-options/index.html">User options</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../setup/index.html">Setup</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../roadmap/index.html">Roadmap</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../release-notes/index.html">Release Notes</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../contribute-to-doc/index.html">Contribute to this Documentation</a></li>
 </ul>
 
@@ -182,7 +186,7 @@
             
   <div class="section" id="team-collaboration">
 <h1>Team Collaboration<a class="headerlink" href="#team-collaboration" title="Permalink to this headline">¶</a></h1>
-<p>Use these settings go to any Team Site to, for example, edit settings. You can also create a new Team Site, or Attach an existing Team Site to this list.</p>
+<p>Use these settings go to any Team Site to, for example, edit settings. You can also create a new Team Site, or Attach an existing Team Site to Omnia.</p>
 <p>For Team Sites with “Approval” as Site Creation Mode, you use the “Pending Approval” list to approve or reject creation of a Team Site.</p>
 <img alt="../../../_images/team-collaboration.png" src="../../../_images/team-collaboration.png" />
 <div class="section" id="create-a-team-site">
@@ -222,18 +226,41 @@
 <ol class="arabic simple" start="6">
 <li>Click “ADD” to create the Team Site.</li>
 </ol>
-<p><strong>Note!</strong> - when the Team Site is created, the above settings can not be edited here.</p>
+<p><strong>Note!</strong> When the Team Site has been created, the above settings can not be edited here.</p>
 </div>
 <div class="section" id="attach-a-team-site">
 <h2>Attach a Team Site<a class="headerlink" href="#attach-a-team-site" title="Permalink to this headline">¶</a></h2>
-<p>Using this option you can attach any Team site.</p>
-<p>(More information will be added soon.)</p>
+<p>Using this option you can attach any Team Site to Omnia. When a Team Site is attached you can handle the site through Omnia the same way as a Team Site created through Omnia.</p>
+<p>Do the following:</p>
+<ol class="arabic simple">
+<li>Copy the Url for the Team Site you want to attach.</li>
+<li>Go to Team Collaboration settings and click the plus.</li>
+</ol>
+<p>The following is shown:</p>
+<img alt="../../../_images/team-collaboration-attach.png" src="../../../_images/team-collaboration-attach.png" />
+<ol class="arabic simple" start="3">
+<li>Paste the Url and click “Resolve”.</li>
+</ol>
 </div>
 <div class="section" id="pending-approval">
 <h2>Pending Approval<a class="headerlink" href="#pending-approval" title="Permalink to this headline">¶</a></h2>
-<p>When a user creates a Team Site where Approval is needed, an administrator uses this list to approve or reject creation of the site.</p>
-<img alt="../../../_images/pending-approval.png" src="../../../_images/pending-approval.png" />
-<p>(More information will be added soon.)</p>
+<p>When a user creates a Team Site where Approval is needed, an administrator uses this list to approve or reject creation of the site. Here’s an example:</p>
+<img alt="../../../_images/pending-approval-new.png" src="../../../_images/pending-approval-new.png" />
+<p>Approval (or Rejection) is done this way:</p>
+<ol class="arabic simple">
+<li>Click the link for the site.</li>
+<li>Check the name, settings and so on for the site.</li>
+<li>If everything is OK, click “Approve”, if changes are needed, click “Reject”.</li>
+</ol>
+<img alt="../../../_images/pending-approval-approve.png" src="../../../_images/pending-approval-approve.png" />
+<p>If you approve the creation of the team site a message is sent to the person requesting the site, and the site is created.</p>
+<p>If you reject, the following is shown:</p>
+<img alt="../../../_images/pending-approval-reject.png" src="../../../_images/pending-approval-reject.png" />
+<ol class="arabic simple" start="4">
+<li>Type a message stating what needs to be done for approval, and click “Save” to send the message.</li>
+</ol>
+<p>The person requesting the site receives the message and can then start a new Team Site creation with your comments in mind.</p>
+<p><strong>Note!</strong> Requesting a Team Site must always be done from start each time. If rejected, nothing from the request is saved.</p>
 </div>
 </div>
 
@@ -247,7 +274,7 @@
   
     <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
       
-        <a href="../notification-panel/index.html" class="btn btn-neutral float-right" title="Notfication Panel" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right"></span></a>
+        <a href="../publishing-apps/index.html" class="btn btn-neutral float-right" title="Publishing Apps" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right"></span></a>
       
       
         <a href="../settings/index.html" class="btn btn-neutral" title="Settings" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>
@@ -260,7 +287,7 @@
   <div role="contentinfo">
     <p>
         &copy; Copyright 2019, Precio Fishbone.
-      Last updated on Sep 13, 2019.
+      Last updated on Sep 23, 2019.
 
     </p>
   </div>

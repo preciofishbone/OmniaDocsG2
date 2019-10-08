@@ -22,7 +22,7 @@ To create a new Search Category, click the plus and use the following settings:
 + **Search Query**: Add the Search Query here (see below for an example).
 + **Search Templates**: Select one or more Search Templates from the list.
 
-Here's an example of a Search Category, with example of Search Query:
+Here's an example of a Search Category:
 
 .. image:: search-example.png
 

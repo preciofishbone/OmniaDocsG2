@@ -11,8 +11,6 @@ In this part of the documentation you will find information on how to setup Omni
    properties/index
    businessprofile/index
    publishingapp/index
-   pagetypes/index
-   pagecollections/index
    search/index
 
 

@@ -1,7 +1,7 @@
 Notification Panel
 ===========================================
 
-Several Notification Panels can be created in Omnia Admin, for various notification purposes. What's more, Notification Panels can be created for different Business Profiles, for the needs in that Business Profile. See this page for more information: :doc:`Notification Panel settings </admin-settings/business-group-settings/notification-panel/index>`
+Several Notification Panels can be created in Omnia Admin, for various notification purposes. What's more, Notification Panels can be created for different Business Profiles, for the various needs in Business Profiles. See this page for more information: :doc:`Notification Panel settings </admin-settings/business-group-settings/notification-panel/index>`
 
 For the block, you decide which Notification Panel to add.
 

@@ -1,9 +1,7 @@
 Announcements
 ===========================================
 
-**Note!** This documentation is ongoing. More details will be added soon, and all is not fully tested yet.
-
-Here a Tenant Administrator can create Announcements that will be displayed over the whole tenant, normally at the top. Tenant Announcements can also be shown through the Announcements block. For more information about the block, see: :doc:`The Announcements block </blocks/announcements/index>`
+Here a Tenant Administrator can create Announcements that can be displayed over the whole tenant, normally at the top. Tenant Announcements can also be shown through the Announcements block. For more information about the block, see: :doc:`The Announcements block </blocks/announcements/index>`
 
 Note that an option to create Announcements for a specific Business Group also is available. The options are identical, the only difference is where Announcements are shown.
 
@@ -13,27 +11,37 @@ To create a new Announcement, do the following:
 
 1. Click the plus.
 
-.. image:: tenant-announcements-new.png
+.. image:: tenant-announcements-new2.png
 
 Use the following settings:
 
-.. image:: tenant-announcements-settings.png
+.. image:: tenant-announcements-settings2.png
 
-+ **Title**: Add a title for the message.
-+ **Description**: Add the message here.
-+ **Priority**: (To be fully tested) Set the Priority. Important Announcements with High priority will be displayed below the cross site mega menu on all pages, and in the Notification panel. Important Announcements with Normal priority will be displayed in the notification panel only.
-+ **Order**: Set the order for this Imortant Announcement when there are several displayed.
++ **Title**: Add a title for the message. If you use more than one language in the tenant you can add a title in each language. Note that you must always add a title in the default language, other languages are optional.
++ **Description**: Add the message here. If you use more than one language in the tenant you can add the description in each language. Note that you must always add the description in the default language, other languages are optional.
++ **Priority**: Set the Priority. Important Announcements with High priority will be displayed below the cross site mega menu on all pages (see example below). Announcements (with Normal or High priority) can be displayed to users in the Notification Panel or through the Announcements block.
++ **Order**: Set the order for this Important Announcement when there are several displayed.
 + **Start Date** and **End Date**: Set the start and end date of the Important Announcement. You can set exact times within the dates if needed. Start and end dates are optional, but we recommend that you always at least set an end date.
 + **Type**: Type is an indication of what type the Announcement is, noted with text and an icon. Available Types are created and edited in the settings (see below).
-+ **Status**: Status is a Color and text indication of the status (severity) of Announcement. Available Status options are created and edited in the settings (see below)
++ **Status**: Status is a color and text indication of the status (severity) of Announcement. Available Status options are created and edited in the settings (see below)
 + **Comments**: Decide to allow comments or not. The default is to not allow comments. If allowed, users can add comments, and even comment other comments (and so can you of course) the same way as for example for news.
-+ **Targeting filter**: An Announcement can be targeted, which means just diplayed to a defined group of users. See below for information on how to do that.
++ **Targeting filter**: An Announcement can be targeted, which means just displayed to a defined group of users. See below for information on how to do that.
+
+Here's an example of an Announcement with high priority:
+
+.. image:: high-priority.png
+
+Here's an example of Announcements displayed in the Announcements block:
+
+.. image:: announcements-block.png
+
+For more information, see: The Announcements block: :doc:`The Announcements block </blocks/announcements/index>`
+
+All languages to be used here must be setup in the Tenant Settings, see: :doc:`Tenant Settings </admin-settings/tenant-settings/settings/index>`
 
 Targeting Announcements
 ************************
-An Important Announcement can be targeted to any receivers that has been defined in Targeting Properties, see: (link to be added)
-
-Do the following:
+An Important Announcement can be targeted to any receivers that has been defined in Targeting Properties, see: :doc:`Targeting Properties </admin-settings/tenant-settings/targeting-properties/index>`
 
 1. Click "Add Targeting Filter".
 

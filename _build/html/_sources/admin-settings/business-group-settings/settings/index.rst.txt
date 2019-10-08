@@ -5,9 +5,21 @@ Here the following settings can be edited:
 
 .. image:: business-profile-settings-all.png
 
+Language
+*********
+Regarding Languages you can select to inherit settings from the tenant or set different Language settings here. Note that this setting is for the user interface, not for pages. See more information in the Language description for the tenant (link below).
+
+.. image:: business-language.png
+
+To inherit Languages from the tenant, just select that option, and you're done.
+
+To set other language settings for a Business Profile, you add and remove languages exactly the same way as the settings for the tenant, see: :doc:`Language settings </admin-settings/tenant-settings/settings/index>`
+
+If you need to publish a certain page in more than one languages, you use the Option Page Variation, see the section Variations on this page: :doc:`Page Settings </pages/page-settings/index>`
+
 Profile Theme
 **************
-Use these options to set Default Colors for the Business Profile. When working with a Block, en editor can often select other Colors, but if no other Color is chosen for the Block, these settings apply.
+Use these options to set Default Colors for the Business Profile. When working with a Block, an editor can often select other Colors, but if no other Color is chosen for the Block, these settings apply.
 
 .. image:: business-profile-settings-theme.png
 
@@ -116,7 +128,7 @@ Here you can set type of Notification Panel.
 
 App Launch
 -----------
-These settings are for the App Launch menu. It's an Omnia Menu replacing the default Office 365 menu. 
+These settings are for the App Launch menu. It's an Omnia Menu replacing the default Office 365 menu. The Applaunch uses the Shared Links functionality.
 
 .. image:: applaunch-menu-example.png
 
@@ -135,7 +147,7 @@ You can set the following here:
 
 + **Title**: You can add a title to the App Launch menu.
 
-.. inmage:: app-launch-title.png
+.. image:: app-launch-title.png
 
 + **Sorted By**: The list of apps can be sorted alphabetically, by Last Visited, or by a Custom sort (see below for Custom Sort Settings).
 + **View Template**: The list of apps can be displayed in four different ways: "Simple list", "App Icons", "Navigation View" or "App Launch". See below for examples.

@@ -7,13 +7,13 @@ The Layout tab contains settings that are general for most blocks, but scoped fo
 
 Targeting
 **********
-A lot of blocks can be targeted to one or more groups using Targeting Properties. The Targeting Properties must be set up in Omnia Admin.
+A lot of blocks can be targeted to one or more groups using Targeting Properties. The Targeting Properties must be set up in Omnia Admin, see: :doc:`Targeting Properties </admin-settings/tenant-settings/targeting-properties/index>`
 
 To target a block, open the settings for the block and select "Add Targeting Filter".
 
 .. image:: layout-targeting.png
 
-Then select Targeting Property from the list. As the next step you can select to include all Children, or you can one or more of the Children specifically. Here's an example with the Sweden office selected for the Office property.
+Then select Targeting Property from the list. As the next step you can select to include all Children, or you can target one or more of the Children specifically. Here's an example with the Sweden office selected for the Office property.
 
 .. image:: targeting-sweden.png
 

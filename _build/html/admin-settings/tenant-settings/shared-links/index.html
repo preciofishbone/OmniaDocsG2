@@ -42,7 +42,7 @@
     <link rel="top" title="Omnia  documentation" href="../../../index.html"/>
         <link rel="up" title="Tenant Settings" href="../index.html"/>
         <link rel="next" title="Announcements" href="../announcements/index.html"/>
-        <link rel="prev" title="Business Profiles" href="../business-profiles/index.html"/> 
+        <link rel="prev" title="Localization" href="../localization/index.html"/> 
 
   
   <script src="../../../_static/js/modernizr.min.js"></script>
@@ -98,9 +98,13 @@
 <li class="toctree-l3"><a class="reference internal" href="../settings/index.html">Settings</a></li>
 <li class="toctree-l3"><a class="reference internal" href="../properties/index.html">Properties</a></li>
 <li class="toctree-l3"><a class="reference internal" href="../business-profiles/index.html">Business Profiles</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../localization/index.html">Localization</a></li>
 <li class="toctree-l3 current"><a class="current reference internal" href="#">Shared Links</a></li>
 <li class="toctree-l3"><a class="reference internal" href="../announcements/index.html">Announcements</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../user-profile-completion/index.html">User Profile Completion</a></li>
 <li class="toctree-l3"><a class="reference internal" href="../targeting-properties/index.html">Targeting Properties</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../tutorial/index.html">Tutorial</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../features/index.html">Features - Tenant</a></li>
 </ul>
 </li>
 <li class="toctree-l2"><a class="reference internal" href="../../business-group-settings/index.html">Business Profile Settings</a></li>
@@ -109,7 +113,10 @@
 <li class="toctree-l1"><a class="reference internal" href="../../../blocks/index.html">Blocks</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../pages/index.html">Pages</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../general-assets/index.html">General assets</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../user-options/index.html">User options</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../setup/index.html">Setup</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../roadmap/index.html">Roadmap</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../release-notes/index.html">Release Notes</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../contribute-to-doc/index.html">Contribute to this Documentation</a></li>
 </ul>
 
@@ -186,7 +193,7 @@
 <img alt="../../../_images/my-linksexample.png" src="../../../_images/my-linksexample.png" />
 <p>These links can also be accessed through a Quick Links block on any page, see: <a class="reference internal" href="../../../blocks/quick-links/index.html"><span class="doc">The Quick Links block</span></a></p>
 <p>There can be Shared Links specifically for a Business Profile. Such links are created and edited through the Shared Links option under the Business Profile. Options for Tenant Shared Links and Business Profile Shared Links are identical. Shared Links for a Business Profile can coexist with Shared Links for the Tenant.</p>
-<p><strong>Note!</strong> Do not delete or alter the links to Office 365 applications, if present. They are needed for App Launcher menu in Omnia.</p>
+<p><strong>Note!</strong> Do not delete or alter the links to Office 365 applications, if present. They are needed for the App Launcher menu in Omnia.</p>
 <div class="section" id="create-a-shared-link">
 <h2>Create a Shared Link<a class="headerlink" href="#create-a-shared-link" title="Permalink to this headline">¶</a></h2>
 <p>Do the following:</p>
@@ -197,12 +204,13 @@
 <ol class="arabic simple" start="2">
 <li>Set the following:</li>
 </ol>
-<img alt="../../../_images/shared-links-settings.png" src="../../../_images/shared-links-settings.png" />
+<img alt="../../../_images/shared-links-settings2.png" src="../../../_images/shared-links-settings2.png" />
+<p>(Not all options are shown in the image.)</p>
 <ul class="simple">
-<li><strong>Title</strong>: The title is shown as the clickable text for the link.</li>
+<li><strong>Title</strong>: The title is shown as the clickable text for the link. If you use more than one language in the tenant you can add a title in each language. Note that you must always add a title in the default langauge, other languages are optional.</li>
 <li><strong>Url</strong>: The url to go to when the user clicks the link.</li>
 <li><strong>Category</strong>: Links that are the same category will automatically be sorted together when the user chooses to display the categories. (in the My Links example above, the links are sorted by Category).</li>
-<li><strong>Information</strong>: This field can be used for additional information about the link. If you enter something here, an information icon is shown next to the link. Users can click the icon to read the information. Not mandatory.</li>
+<li><strong>Information</strong>: This field can be used for additional information about the link. If you enter something here, an information icon is shown next to the link. Users can click the icon to read the information. Not mandatory. If you use more than on language in the tenant you can add the information in each language. Note that you must always add information in the default langauge, other languages are optional.</li>
 <li><strong>Open in New Window</strong>: Select to open the url in a new browser window. Normally a good idea for external links.</li>
 <li><strong>Mandatory</strong>: If selected, the link is always shown for all users (or the limited set of users, if targeted), and can not be deselected.</li>
 <li><strong>Icon Type</strong>: An icon is always shown for a link. If you would like another icon for this link, select the set of Icons here: “Font Awesome”, “Fabric” or “Custom”. When selecting “Custom” you can choose any image as the Icon.</li>
@@ -211,6 +219,7 @@
 <li><strong>Icon Background Color</strong>: Set the background color for the icon here. If note set, default icon background color is used.</li>
 <li><strong>Targeting Filter</strong>: Use these settings for targeting, for the link. See below for instructions.</li>
 </ul>
+<p>All languages to be used here must be setup in the Tenant Settings, see: <a class="reference internal" href="../settings/index.html"><span class="doc">Tenant Settings</span></a></p>
 </div>
 <div class="section" id="targeting-a-shared-link">
 <h2>Targeting a Shared Link<a class="headerlink" href="#targeting-a-shared-link" title="Permalink to this headline">¶</a></h2>
@@ -254,7 +263,7 @@
         <a href="../announcements/index.html" class="btn btn-neutral float-right" title="Announcements" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right"></span></a>
       
       
-        <a href="../business-profiles/index.html" class="btn btn-neutral" title="Business Profiles" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>
+        <a href="../localization/index.html" class="btn btn-neutral" title="Localization" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>
       
     </div>
   
@@ -264,7 +273,7 @@
   <div role="contentinfo">
     <p>
         &copy; Copyright 2019, Precio Fishbone.
-      Last updated on Sep 13, 2019.
+      Last updated on Sep 23, 2019.
 
     </p>
   </div>
