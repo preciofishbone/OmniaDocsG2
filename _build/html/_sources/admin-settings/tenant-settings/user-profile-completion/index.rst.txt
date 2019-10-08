@@ -1,9 +1,11 @@
 User Profile Completion
 =========================
 
-This is the settings for the user option "Strengthen Profile", found inte the Action Menu.
+This is the settings for the user option "Strengthen Profile", found inte the Action Menu:
 
 .. image:: strengthen-profile.png
+
+and for the User Profil Completion block.
 
 The settings
 **************

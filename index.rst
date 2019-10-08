@@ -1,7 +1,7 @@
 Omnia (for modern SharePoint)
 ===============================
 
-.. note:: Are you looking for documentation related to Omnia for Classic SharePoint? `Please click here >> <https://omnia-docs.readthedocs.io/>`_.
+.. note:: Please find Omnia (for classic SharePoint) documentation `here <https://omnia-docs.readthedocs.io/>`_.
 
 Topics
 ------

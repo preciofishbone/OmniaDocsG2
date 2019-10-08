@@ -94,8 +94,8 @@
               <ul class="current">
 <li class="toctree-l1"><a class="reference internal" href="../../admin-settings/index.html">Admin Settings</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../blocks/index.html">Blocks</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../../pages/index.html">Pages</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../general-assets/index.html">General assets</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../pages/index.html">Pages</a></li>
 <li class="toctree-l1 current"><a class="reference internal" href="../index.html">User options</a><ul class="current">
 <li class="toctree-l2"><a class="reference internal" href="../create-news/index.html">Create News</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../my-links/index.html">My Links</a></li>
@@ -177,11 +177,12 @@
             
   <div class="section" id="my-sites">
 <h1>My Sites<a class="headerlink" href="#my-sites" title="Permalink to this headline">¶</a></h1>
-<p>Using My Sites an end user can navigate to all Omnia sites that the user has access to. Settings in Omnia Admin states if My Sites should be shown or not.</p>
-<img alt="../../_images/my-sites-example.png" src="../../_images/my-sites-example.png" />
-<p>Two tabs can be available:</p>
+<p>My Sites can display links to several types of sites and groups, including Yammer Groups and Microsoft Teams Groups. Settings in Omnia Admin states if My Sites should be shown or not in the top menu.</p>
+<img alt="../../_images/my-sites-example-new.png" src="../../_images/my-sites-example-new.png" />
+<p>Three tabs can be available:</p>
 <ul class="simple">
 <li><strong>FOLLOWING</strong>: If shown (according to settings in Omnia Admin), this tab lists all sites that the user is following.</li>
+<li><strong>MEMBER OF</strong>: If shown (according to settings in Omnia Admin), this tab lists all sites that the user is a member of.</li>
 <li><strong>ALL</strong>: Can be used to search for any site the user has read access to. This tab is always shown.</li>
 </ul>
 <p>A long list can be filtered by using the “Filter” field.</p>
@@ -191,43 +192,57 @@
 <li>The site will be available as a quick link in the “Following” tab in the My Sites control.</li>
 <li>Any conversations in the user feed on the site will be available in the user feed on the start page.</li>
 </ul>
-<div class="section" id="create-new-site">
-<h2>Create New Site<a class="headerlink" href="#create-new-site" title="Permalink to this headline">¶</a></h2>
-<p>End users can be allowed to create a new site using the option here. The user can be allowed to create a site without approval, called “Self Service” or can send a request for a site to be created. In that case an administrator can approve or reject creation of the site.</p>
-<p>Which fields and options will be available when creating a site can differ depending on settings in Omnia Admin.</p>
+<p>If there is a Yammer Group and/or a Teams Group connected to a site, it is indicated by an icon. See the above image for examples of Teams icons (it’s the T icon).</p>
+<p>You can click the icon to go to the Yammer Group or Teams Group.</p>
+<div class="section" id="create-new-site-or-group">
+<h2>Create New Site or Group<a class="headerlink" href="#create-new-site-or-group" title="Permalink to this headline">¶</a></h2>
+<p>End users can be allowed to create a new site or group using the option here. Depending settings approval can be needed. If it’s not needed, the site or group will be created when the user click “Create”. If approval is needed, a request is sent to an administrator for processing.</p>
+<p>What the option is called and Which fields and options will be available when creating a site can or group differ depending on settings in Omnia Admin.</p>
 <p>Here’s an example with some common fields and options:</p>
 <ol class="arabic simple">
-<li>Click “Create New Site”.</li>
+<li>Click “Create Team Collaboration”.</li>
 </ol>
-<img alt="../../_images/click-new-site.png" src="../../_images/click-new-site.png" />
+<img alt="../../_images/click-new-site-new.png" src="../../_images/click-new-site-new.png" />
 <ol class="arabic simple" start="2">
-<li>Select the site to create.</li>
+<li>Select the site or group to create.</li>
 </ol>
-<img alt="../../_images/select-site-type.png" src="../../_images/select-site-type.png" />
+<img alt="../../_images/select-site-type-new.png" src="../../_images/select-site-type-new.png" />
+<p>(What is available in this list depends on templates set up in Omnia Admin.)</p>
 <p>This example will create a “Team” site.</p>
 <ol class="arabic simple" start="3">
+<li>Select “Team”.</li>
 <li>Set the following:</li>
 </ol>
 <ul class="simple">
 <li><strong>Title</strong>: This is the name that will be shown for the site in lists and when searching.</li>
 <li><strong>Description</strong>: A Description is not mandatory but is very helpful when colleagues search for sites.</li>
 <li><strong>Sharepoint Alias</strong>: The last part of the address to the site is created automatically but can be edited if necessary. If the name (address) already exists an alternative address is suggested.</li>
+<li><strong>Site Design</strong>: Site Designs can be available in this list. Select if applicable.</li>
 <li><strong>Languages</strong>: The same language as the main Business Profile language is suggested. Another language can be selected if needed.</li>
 <li><strong>Time Zones</strong>: Normally the correct Time Zone is already selected. Can be changed if needed.</li>
 </ul>
-<ol class="arabic simple" start="4">
+<ol class="arabic simple" start="5">
 <li>Click “Next”.</li>
 <li>Set the following:</li>
 </ol>
-<img alt="../../_images/create-site-2.png" src="../../_images/create-site-2.png" />
+<img alt="../../_images/create-site-2-new.png" src="../../_images/create-site-2-new.png" />
 <ul class="simple">
 <li><strong>Users</strong>: In this example only an administrator for the site is set, but often you can set members and visitors as well, which are permission groups users can belong to. The administrator roll for a Team site is very important. Normally only administrators can edit settings within the site and can add or remove users.</li>
 <li><strong>Send for approval/Create site</strong>: In this example new Team sites must be approved by an administrator, hence the option “Send for approval”. If users are allowed to create sites without approval, the option says “Create site” instead.</li>
 </ul>
+<p>The creation process can in some cases end here but in this example the temaplate stipulates that some Enterprise Properties must be set.</p>
+<ol class="arabic simple" start="7">
+<li>Click “Next”.</li>
+</ol>
+<img alt="../../_images/create-site-3.png" src="../../_images/create-site-3.png" />
+<ol class="arabic simple" start="8">
+<li>Add the necessary property information.</li>
+<li>Click “Create” to create the site or group.</li>
+</ol>
 </div>
 <div class="section" id="templates-for-site-creation">
 <h2>Templates for site creation<a class="headerlink" href="#templates-for-site-creation" title="Permalink to this headline">¶</a></h2>
-<p>How site creation works and which options and fields will be available depends on the template used. Templates for site creation, selected in step 2 above, are set up in Provisioning Templates in Omnia Admin, see: <a class="reference internal" href="../../admin-settings/business-group-settings/provisioning-templates/index.html"><span class="doc">Provisioning Templates</span></a></p>
+<p>How this wizard works and which options and fields will be available depends on the template used. Templates, selected in step 2 above, are set up as Provisioning Templates in Omnia Admin, see: <a class="reference internal" href="../../admin-settings/business-group-settings/provisioning-templates/index.html"><span class="doc">Provisioning Templates</span></a></p>
 </div>
 </div>
 
@@ -254,7 +269,7 @@
   <div role="contentinfo">
     <p>
         &copy; Copyright 2019, Precio Fishbone.
-      Last updated on Sep 23, 2019.
+      Last updated on Oct 08, 2019.
 
     </p>
   </div>

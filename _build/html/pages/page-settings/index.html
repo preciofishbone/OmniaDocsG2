@@ -8,7 +8,7 @@
   
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   
-  <title>Page settings &mdash; Omnia  documentation</title>
+  <title>Publishing App settings &mdash; Omnia  documentation</title>
   
 
   
@@ -42,7 +42,7 @@
     <link rel="top" title="Omnia  documentation" href="../../index.html"/>
         <link rel="up" title="Pages" href="../index.html"/>
         <link rel="next" title="Publish page changes" href="../publish-page-changes/index.html"/>
-        <link rel="prev" title="Edit a page" href="../edit-page/index.html"/> 
+        <link rel="prev" title="Language versions of a page" href="../language-versions-of-a-page/index.html"/> 
 
   
   <script src="../../_static/js/modernizr.min.js"></script>
@@ -94,21 +94,23 @@
               <ul class="current">
 <li class="toctree-l1"><a class="reference internal" href="../../admin-settings/index.html">Admin Settings</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../blocks/index.html">Blocks</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../general-assets/index.html">General assets</a></li>
 <li class="toctree-l1 current"><a class="reference internal" href="../index.html">Pages</a><ul class="current">
 <li class="toctree-l2"><a class="reference internal" href="../create-page/index.html">Create a page</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../move-page/index.html">Move a page</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../delete-page/index.html">Delete a page</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../edit-page/index.html">Edit a page</a></li>
-<li class="toctree-l2 current"><a class="current reference internal" href="#">Page settings</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../language-versions-of-a-page/index.html">Language versions of a page</a></li>
+<li class="toctree-l2 current"><a class="current reference internal" href="#">Publishing App settings</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../publish-page-changes/index.html">Publish page changes</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../approve-pages/index.html">Approve pages</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../edit-page-navigation/index.html">Edit page navigation</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../page-types/index.html">Page Types</a></li>
-<li class="toctree-l2 current"><a class="current reference internal" href="#">Page settings</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../language-versions-of-a-page/index.html">Language versions of a page</a></li>
+<li class="toctree-l2 current"><a class="current reference internal" href="#">Publishing App settings</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../page-statistics/index.html">Page Statistics</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../reports/index.html">Reports</a></li>
 </ul>
 </li>
-<li class="toctree-l1"><a class="reference internal" href="../../general-assets/index.html">General assets</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../user-options/index.html">User options</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../setup/index.html">Setup</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../roadmap/index.html">Roadmap</a></li>
@@ -160,7 +162,7 @@
         
           <li><a href="../index.html">Pages</a> &raquo;</li>
         
-      <li>Page settings</li>
+      <li>Publishing App settings</li>
     
     
       <li class="wy-breadcrumbs-aside">
@@ -179,41 +181,46 @@
           <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
            <div itemprop="articleBody">
             
-  <div class="section" id="page-settings">
-<h1>Page settings<a class="headerlink" href="#page-settings" title="Permalink to this headline">¶</a></h1>
-<p>(This description is just started, more will be added soon.)</p>
-<p>When editing a page, a number of settings are available by clicking here:</p>
+  <div class="section" id="publishing-app-settings">
+<h1>Publishing App settings<a class="headerlink" href="#publishing-app-settings" title="Permalink to this headline">¶</a></h1>
+<p>When editing page, a number of Publishing App settings are available by clicking here:</p>
 <img alt="../../_images/page-settings.png" src="../../_images/page-settings.png" />
 <div class="section" id="general">
 <h2>General<a class="headerlink" href="#general" title="Permalink to this headline">¶</a></h2>
 <p>Set the following here:</p>
-<img alt="../../_images/page-settings-general.png" src="../../_images/page-settings-general.png" />
+<img alt="../../_images/page-settings-general-new.png" src="../../_images/page-settings-general-new.png" />
 <ul class="simple">
 <li><strong>Default Page Collection</strong>: The default Page Collection for the page can be set here.</li>
 <li><strong>Connected Sharepoint Site</strong>: The addreess to the Sharepoint Site is shown here.</li>
 </ul>
+<p>Set the following, needed for page reports to work:</p>
+<ul class="simple">
+<li><strong>Contact Property</strong>: Select the property used to store information about the user being page contact.</li>
+<li><strong>Review Date Property</strong>: Select the property used to store information about review date for pages.</li>
+</ul>
 </div>
 <div class="section" id="permissions">
 <h2>Permissions<a class="headerlink" href="#permissions" title="Permalink to this headline">¶</a></h2>
-<p>Use these settings to handle both edit and read permissions for the page.</p>
-<img alt="../../_images/page-settings-permissions.png" src="../../_images/page-settings-permissions.png" />
+<p>Use these settings for edit permissions in the Publishing App.</p>
+<img alt="../../_images/page-settings-permissions-new.png" src="../../_images/page-settings-permissions-new.png" />
 <p>Note that a tenant administrator always can edit all pages in the tenant. A business profile administrator can always edit all pages within the business profile.</p>
 </div>
 <div class="section" id="variations">
 <h2>Variations<a class="headerlink" href="#variations" title="Permalink to this headline">¶</a></h2>
-<p>If this page should exist in more than one language, or if the page should exist in more than one version, for any reason, use these settings to create or edit the settings for respective version.</p>
+<p>Here you set up the Page Variations to use in the Publishing App.</p>
+<img alt="../../_images/page-settings-variations-new.png" src="../../_images/page-settings-variations-new.png" />
 <div class="section" id="create-a-new-page-variation">
 <h3>Create a new Page Variation<a class="headerlink" href="#create-a-new-page-variation" title="Permalink to this headline">¶</a></h3>
 <p>To create a new variation for this page, do the following:</p>
 <ol class="arabic simple">
 <li>Go to the page.</li>
-<li>Open the Page Settings and select “VARIATIONS”.</li>
+<li>Open the Pusblishing App Settings and select “VARIATIONS”.</li>
 <li>Click “ADD VARIATION”.</li>
 </ol>
-<img alt="../../_images/page-settings-variatins-click-add.png" src="../../_images/page-settings-variatins-click-add.png" />
+<img alt="../../_images/page-settings-variatins-click-add-new.png" src="../../_images/page-settings-variatins-click-add-new.png" />
 <ol class="arabic simple" start="4">
 <li>Add settings for the new Page Variation (see below).</li>
-<li>Target this version of the Page, if needed (se below for instruction).</li>
+<li>Target the Page Variation, if needed (se below for instruction).</li>
 <li>Click “OK” to create the Page Variation.</li>
 </ol>
 </div>
@@ -225,7 +232,7 @@
 <li>Open the Page Settings and select “VARIATIONS”.</li>
 <li>Click the pen for the Page Variation.</li>
 </ol>
-<img alt="../../_images/page-settings-variatins-edit.png" src="../../_images/page-settings-variatins-edit.png" />
+<img alt="../../_images/page-settings-variatins-edit-new.png" src="../../_images/page-settings-variatins-edit-new.png" />
 <ol class="arabic simple" start="4">
 <li>Edit settings for the new Page Variation and click “OK” to save the changes.</li>
 </ol>
@@ -233,40 +240,35 @@
 <div class="section" id="edit-contents-of-a-page-variation">
 <h3>Edit contents of a Page Variation<a class="headerlink" href="#edit-contents-of-a-page-variation" title="Permalink to this headline">¶</a></h3>
 <p>When more than one variation of the page exists, the editor can select variation to work with in the list, in the lower left corner:</p>
-<img alt="../../_images/select-variation.png" src="../../_images/select-variation.png" />
+<img alt="../../_images/select-variation-new.png" src="../../_images/select-variation-new.png" />
 <p>Editing a Page Variation works exactly the same as editing a “normal” page.</p>
 </div>
 <div class="section" id="targeting-a-page-variation">
 <h3>Targeting a Page Variation<a class="headerlink" href="#targeting-a-page-variation" title="Permalink to this headline">¶</a></h3>
-<p><strong>Note!</strong> The Targeting Properties to use must be set up in Omnia Admin, see: <a class="reference internal" href="../../admin-settings/tenant-settings/targeting-properties/index.html"><span class="doc">Targeting Properties</span></a></p>
+<p><strong>Note!</strong> The Targeting Properties to use must be set up in Omnia Admin, see: <span class="xref std std-doc">Targeting Properties</span></p>
 <p>To target a Page Variation, do the following:</p>
 <ol class="arabic simple">
 <li>Click “Add Targeting Filter” when editing a Page Variation’s settings.</li>
 </ol>
-<img alt="../../_images/page-variation-add-targeting.png" src="../../_images/page-variation-add-targeting.png" />
+<img alt="../../_images/page-variation-add-targeting-new.png" src="../../_images/page-variation-add-targeting-new.png" />
 <ol class="arabic simple" start="2">
 <li>Select Targeting Property from the list.</li>
-</ol>
-<img alt="../../_images/page-targeting-property.png" src="../../_images/page-targeting-property.png" />
-<ol class="arabic simple" start="3">
 <li>As the next step you can select to include all Children, or you can target one or more of the Children specifically.</li>
 </ol>
 <p>Here’s an example with the Sweden and Denmark offices selected for the Office property.</p>
-<img alt="../../_images/page-targeting-sweden.png" src="../../_images/page-targeting-sweden.png" />
+<img alt="../../_images/page-targeting-sweden-new.png" src="../../_images/page-targeting-sweden-new.png" />
 <ol class="arabic simple" start="4">
 <li>Click “OK” to save your changes.</li>
 </ol>
-<p>You can add as many Targeting Properties for a page as is needed, this way. To remove a target, just click the X.</p>
+<p>You can add as many Targeting Properties for a Variation as is needed, this way. To remove a target, just click the X.</p>
 <p>Note that the targeting settings also are shown in the Variations list, for example:</p>
-<img alt="../../_images/page-variation-example.png" src="../../_images/page-variation-example.png" />
+<img alt="../../_images/page-variation-example-new.png" src="../../_images/page-variation-example-new.png" />
 </div>
 <div class="section" id="statistics">
 <h3>Statistics<a class="headerlink" href="#statistics" title="Permalink to this headline">¶</a></h3>
-<p>(A description will be added soon.)</p>
-</div>
-<div class="section" id="advanced">
-<h3>Advanced<a class="headerlink" href="#advanced" title="Permalink to this headline">¶</a></h3>
-<p>(A description will be added soon.)</p>
+<p>For more advanced statistics in Omnia, this is the place to add the scripts you get from your statistics provider.</p>
+<img alt="../../_images/page-settings-statistics.png" src="../../_images/page-settings-statistics.png" />
+<p>Don’t forget to save. The “Save” button is located in the lower right corner.</p>
 </div>
 </div>
 </div>
@@ -284,7 +286,7 @@
         <a href="../publish-page-changes/index.html" class="btn btn-neutral float-right" title="Publish page changes" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right"></span></a>
       
       
-        <a href="../edit-page/index.html" class="btn btn-neutral" title="Edit a page" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>
+        <a href="../language-versions-of-a-page/index.html" class="btn btn-neutral" title="Language versions of a page" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>
       
     </div>
   
@@ -294,7 +296,7 @@
   <div role="contentinfo">
     <p>
         &copy; Copyright 2019, Precio Fishbone.
-      Last updated on Sep 23, 2019.
+      Last updated on Oct 08, 2019.
 
     </p>
   </div>

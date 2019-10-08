@@ -1,7 +1,7 @@
-Notfication Panel
+Notification Panel
 ===========================================
 
-The notification panel is a concept in Omnia. The purpose is to help end users find out what information has been updated within different areas of the intranet.
+The Notification Panel is a concept in Omnia. The purpose is to help end users find out what information has been updated within different areas of the intranet.
 
 A Notification Panel can be placed on any page, or in the Action Manu, to show different notifications. You can create several Notification Panels for different purposes.
 
@@ -37,6 +37,8 @@ The settings for a Category is the same as the settings for the corresponding Bl
 
 Announcements: :doc:`The Announcements block </blocks/announcements/index>`
 
+Calendar Rollup: :doc:`The Calendar Rollup block </blocks/calendar-rollup/index>`
+
 Document Rollup: :doc:`The Document Rollup block </blocks/document-rollup/index>`
 
 HTML Scripts: :doc:`The HTML Scripts block </blocks/html-script/index>`
@@ -51,5 +53,4 @@ RSS Reader: :doc:`The RSS Reader block </blocks/rss-reader/index>`
 
 Team News Rollup: :doc:`The Team News Rollup block </blocks/team-news-rollup/index>`
 
-Trello Card: :doc:`The Trello Card block </blocks/trello-cards/index>`
 

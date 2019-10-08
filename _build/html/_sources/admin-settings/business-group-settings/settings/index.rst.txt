@@ -3,35 +3,36 @@ Settings
 
 Here the following settings can be edited:
 
-.. image:: business-profile-settings-all.png
+.. image:: business-profile-settings-all-new.png
 
 Language
 *********
 Regarding Languages you can select to inherit settings from the tenant or set different Language settings here. Note that this setting is for the user interface, not for pages. See more information in the Language description for the tenant (link below).
 
-.. image:: business-language.png
+.. image:: business-language-new.png
 
 To inherit Languages from the tenant, just select that option, and you're done.
 
 To set other language settings for a Business Profile, you add and remove languages exactly the same way as the settings for the tenant, see: :doc:`Language settings </admin-settings/tenant-settings/settings/index>`
 
-If you need to publish a certain page in more than one languages, you use the Option Page Variation, see the section Variations on this page: :doc:`Page Settings </pages/page-settings/index>`
+If you need to publish a certain page in more than one language, you use the Option Page Variation, see the section Variations on this page: :doc:`Page Settings </pages/page-settings/index>`
 
-Profile Theme
+Theme
 **************
 Use these options to set Default Colors for the Business Profile. When working with a Block, an editor can often select other Colors, but if no other Color is chosen for the Block, these settings apply.
 
-.. image:: business-profile-settings-theme.png
+.. image:: business-profile-settings-theme-new.png
 
 + **Theme**: Select Theme from the list. 
 + **Primary**: If needed, you can adjust the Primary Color. 
 + **Secondary**: If needed, you can adjust the Secondary Color.
++ **Additional Colors**: To make sure editors can't choose any other color freely, you can use this section to set up alternative colors that will be available. Click "Add Additonal Color" to add more colors, and the dust bin to delete a color. (Don't forget to save when you're done.)
 
 Header
 *******
 The following settings are avaible for the Header:
 
-.. image:: business-profile-settings-header.png
+.. image:: business-profile-settings-header-new.png
 
 General
 --------
@@ -39,7 +40,7 @@ Under General you can set Background Color for the Header, and Icon Color. In th
 
 .. image:: heading-example.png
 
-The Icon Color setting apply to the four Icons to the right.
+The Icon Color setting apply to the icons to the right.
 
 Logo
 ------
@@ -79,13 +80,13 @@ Action Menu
 -------------
 The Action Menu is this part of the Heading:
 
-.. image:: action-menu.png
+.. image:: action-menu-new.png
 
 You can use these settings:
 
 .. image:: action-menu-settings.png
 
-+ **Components**: This columns lists the Components that can be displayed in the Action Menu. "My Sites" and "Notification Panel" has additional settings,. see below.
++ **Components**: This column lists the Components that can be displayed in the Action Menu. "My Sites" and "Notification Panel" has additional settings, see below.
 + **Display**: You can decide which Components to display, and how: "Pinned" - is default, an Icon will be displayed; "Hidden" - if you don't want the Component to be available; "Menu" - if you want to display the Component in the menu (the three standing dots) instead as an Icon.
 + **Order**:  You can decide the order for the Components you're displaying, from left to right.
 
@@ -93,12 +94,13 @@ My Sites - additional settings
 -------------------------------
 Click the cog wheel to set additional settings för My Sites. Here's what you can set:
 
-.. image:: my-sites-settings.png
+.. image:: my-sites-settings-new.png
 
 General
 ^^^^^^^^
 + **Following**: Decides if the "Following" tab is displayed or not. The "All" tab is always displayed. 
-+ **Order By**: Sets the Sort Order for the list of sites. Can be by "Title" or "Last Visited".
++ **Member of**: Decides if the "Member of" tab is displayed or not.
++ **Order By**: Sets the Sort Order for the list of sites. 
 + **Open in New Windows**: Decides if the site is opened in a new window ore not.
 + **Use Letter Avatar**: Select to use Letter Avatars or not (see below for an example).
 + **Exclude Personal Site**: If personal sites should not be shown in the list, select this option. A personal site is the OneDrive site where a user’s files are stored.
@@ -111,14 +113,14 @@ Site Creation Settings
 ^^^^^^^^^^^^^^^^^^^^^^^^
 Here you can set the following:
 
-.. image:: site-creation-settings.png
+.. image:: site-creation-settings-new.png
 
-+ **Label**: The default Label is "Create new site". You can set another Label here.
-+ **Link**:  If a custom form has been created for the Create Site function, the url to the form should be put in here.
++ **Label**: The default Label is "Create new site". You can set another Label here. Note the a Label in the default language is mandatory, set other languages if needed.
++ **Link**:  If a custom form has been created for the Create Site function, the url to the form should be put in here. This is not the same as the collaboration templates Omnia can offer.
 
 Custom Colors
 ^^^^^^^^^^^^^^
-Here you can set a Custom Color for the Icons for the sites. 
+Here you can set a Custom Color for the Icons for the sites.    
 
 Notification Panel - additional settings
 -------------------------------------------
@@ -126,15 +128,15 @@ Here you can set type of Notification Panel.
 
 .. image:: notification-panel-settings.png
 
-App Launch
+App Launcher
 -----------
-These settings are for the App Launch menu. It's an Omnia Menu replacing the default Office 365 menu. The Applaunch uses the Shared Links functionality.
+These settings are for the App Launcher menu. It's an Omnia Menu replacing the default Office 365 menu. The Applauncher uses the Shared Links functionality.
 
 .. image:: applaunch-menu-example.png
 
 You can set the following:
 
-.. image:: applaunch-settings.png
+.. image:: applaunch-settings-new.png
 
 + **Enable**: Use this option to decide to display the App Launch menu or not. Default=displayed.
 + **App Launch Button**: Here you set Custom colors for the App Launch button. If not set, the default color settings are used.
@@ -143,16 +145,16 @@ Panel Settings - General
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 You can set the following here:
 
-.. image:: panel-settings-general.png
+.. image:: panel-settings-general-new.png
 
-+ **Title**: You can add a title to the App Launch menu.
++ **Title**: You can add a title to the App Launch menu. 
 
 .. image:: app-launch-title.png
 
 + **Sorted By**: The list of apps can be sorted alphabetically, by Last Visited, or by a Custom sort (see below for Custom Sort Settings).
 + **View Template**: The list of apps can be displayed in four different ways: "Simple list", "App Icons", "Navigation View" or "App Launch". See below for examples.
-+ **Categories**: Select the types of links that should be displayed in App Launch. Default=App Launcher.
-+ **Use targeting**: If it should be possible to use targeting for the links in App Launch, select this option.
++ **Categories**: Select the types of links that should be displayed in App Launcher. Default = O365 App Launcher.
++ **Use targeting**: If it should be possible to use targeting for the links in App Launcher, select this option.
 + **Include Personal Links**: If Personal Links (=created by the user) should be displayed in App Launch, select this option.
 + **Item Limit**: Set the number of apps to be displayed on each "page" of the app list. Default=20.
 + **Padding**: Use these options to set som padding around the app list, if needed.
@@ -169,7 +171,7 @@ View Template "Navigation View" example:
 
 .. image:: app-launch-navigation-view.png
 
-View Template "App launch" example:
+View Template "App launcher" example:
 
 .. image:: app-launch-app-launch.png
 
@@ -177,7 +179,7 @@ Panel Settings - Custom Colors
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Use these options to set Custom Colors for the App Launch menu. 
 
-.. image:: app-launch-custom-colors.png
+.. image:: app-launch-custom-colors-new.png
 
 Panel Settings - Custom Sort
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -186,6 +188,14 @@ If you have selected "Custom" under "Sorted By", this option are available:
 .. image:: app-launch-custom-sort.png
 
 Use the arrows to move apps up or down in the list.
+
+App Launcher - Header Settings
+-------------------------------
+You can set the following here:
+
+.. image:: app-launch-header.png
+
+You can choose to use the global settings or custim settings, using the options shown in the image above.
 
 Central Image Locations
 ************************
@@ -214,7 +224,7 @@ To delete an Image location, click the dust bin.
 
 .. image:: central-image-locations-delete-edit.png
 
-Content Header
+Block Title
 ***************
 Use these options to set a default setting for Block Headings. Authors can edit these settings when working with Blocks, if needed.
 

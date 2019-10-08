@@ -41,7 +41,7 @@
         <link rel="search" title="Search" href="../../search.html"/>
     <link rel="top" title="Omnia  documentation" href="../../index.html"/>
         <link rel="up" title="Blocks" href="../index.html"/>
-        <link rel="next" title="People Rollup" href="../people-rollup/index.html"/>
+        <link rel="next" title="Page Variation Selector" href="../variation-selector/index.html"/>
         <link rel="prev" title="Page Properties" href="../page-properties/index.html"/> 
 
   
@@ -104,14 +104,15 @@
 <li class="toctree-l2"><a class="reference internal" href="../general-block-settings/index.html">General Block Settings</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../html-script/index.html">HTML/Script</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../media/index.html">Media</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../mega-menu/index.html">Mega Menu</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../notification-panel/index.html">Notification Panel</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../page-feedback/index.html">Page Feedback</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../page-likes-and-comments/index.html">Page Likes and Comments</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../page-properties/index.html">Page Properties</a></li>
 <li class="toctree-l2 current"><a class="current reference internal" href="#">Page Rollup</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../variation-selector/index.html">Page Variation Selector</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../people-rollup/index.html">People Rollup</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../quick-links/index.html">Quick Links</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../rate/index.html">Rate</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../related-links/index.html">Related Links</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../rss-reader/index.html">RSS Reader</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../search/index.html">Advanced Search</a></li>
@@ -120,12 +121,11 @@
 <li class="toctree-l2"><a class="reference internal" href="../team-news-rollup/index.html">Team News Rollup</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../text/index.html">Text</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../user-profile-completion/index.html">User Profile Completion</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../variation-selector/index.html">Variation Selector</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../working-with-blocks/index.html">Working with blocks</a></li>
 </ul>
 </li>
-<li class="toctree-l1"><a class="reference internal" href="../../pages/index.html">Pages</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../general-assets/index.html">General assets</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../pages/index.html">Pages</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../user-options/index.html">User options</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../setup/index.html">Setup</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../roadmap/index.html">Roadmap</a></li>
@@ -198,11 +198,11 @@
             
   <div class="section" id="page-rollup">
 <h1>Page Rollup<a class="headerlink" href="#page-rollup" title="Permalink to this headline">¶</a></h1>
-<p>This block can be used for many purposes, for example rollup, Latest News and similar - and for much more, not just for News.</p>
+<p>This block can be used for many purposes, for example to rollup new news, latest news and similar - and for much more regarding pages, not just for news.</p>
 <div class="section" id="settings">
 <h2>Settings<a class="headerlink" href="#settings" title="Permalink to this headline">¶</a></h2>
 <p>These settings are available for the block:</p>
-<img alt="../../_images/page-rollup-settings.png" src="../../_images/page-rollup-settings.png" />
+<img alt="../../_images/page-rollup-settings-new.png" src="../../_images/page-rollup-settings-new.png" />
 <div class="section" id="query">
 <h3>Query<a class="headerlink" href="#query" title="Permalink to this headline">¶</a></h3>
 <p>Here you can set the following:</p>
@@ -214,19 +214,53 @@
 </div>
 <div class="section" id="social-period">
 <h3>Social Period<a class="headerlink" href="#social-period" title="Permalink to this headline">¶</a></h3>
-<p>Use these settings to decide for how long likes ands comments should be displayed here. The default setting is “No limit” but you can select one week, two weeks or one month instead.</p>
-<img alt="../../_images/page-rollup-settings-social.png" src="../../_images/page-rollup-settings-social.png" />
+<p>Use these settings to decide for how long likes, comments, ratings and page feedback should be displayed here. The default setting is “No limit” but you can select one week, two weeks or one month instead.</p>
+<img alt="../../_images/page-rollup-settings-social-new.png" src="../../_images/page-rollup-settings-social-new.png" />
 </div>
 <div class="section" id="display">
 <h3>Display<a class="headerlink" href="#display" title="Permalink to this headline">¶</a></h3>
-<p>Select View here; “Roller”, “Listing With Image” or “List View”.</p>
+<p>Select View here. Note that a preview is shown in the block.</p>
 <img alt="../../_images/page-rollup-settings-display-border.png" src="../../_images/page-rollup-settings-display-border.png" />
+<p>The following lists all available display settings. Which of them will be available depends on the display selected.</p>
+<ul class="simple">
+<li><strong>Title</strong>: Select the property that contains the title for the item to display. Available for “Single Item” only.</li>
+<li><strong>Description</strong>: Select the property that contains the description for the item(s) to display. Available for “Single Item” only.</li>
+<li><strong>Image</strong>: Select the property that contains the image for the item(s) to display.</li>
+<li><strong>Date</strong>: Select the property that contains the date for the item(s) to display.</li>
+<li><strong>Overlay</strong>: If an overlay text should be shown on the image(s), add the text here. Available for “Roller” only.</li>
+<li><strong>Show Likes/Comments</strong>: If the number of likes and comments should be displayed for the item, select this option.</li>
+<li><strong>Show Rating</strong>: If the rating for the page(s) displayed should be shown, select this option. Available for “Listing With Image” only.</li>
+<li><strong>Article Date</strong>: Select the property that contains the article date for the item(s) to display. Available for “Single Item” only.</li>
+<li><strong>Image x and y</strong>: Select the image format here. Available for “Single Item” only.</li>
+<li><strong>Open page as a dialog</strong>: If the page should be opened in a dialog instead for in a page (new or current), select this option.</li>
+<li><strong>Summary</strong>: Select the property that contains the page summary for the item to display.</li>
+<li><strong>Content</strong>: Select the property that contains the page content for the item to display. Available for dialog display only.</li>
+<li><strong>Content Image</strong>: Select image to display, if any. Available for dialog display only.</li>
+<li><strong>Title</strong>: If a block title should be displayed, enter the title here.</li>
+<li><strong>No result text</strong>: Enter the text that will be shown if no page can be displayed.</li>
+<li><strong>Hide block when not data</strong>: Select this option if the block should be hidden when there’s nothing to display.</li>
+<li><strong>Trim duplicates</strong>: Certain settings may result in duplicates being displayed. Select this option to make sure only one copy of the item is displayed.</li>
+<li><strong>Paging</strong>: Select paging here; “No paging”, “Classic” or “Scroll”.</li>
+<li><strong>Item limit</strong>: To limit the number of items being displayed, add a fixed number here. Note that if combined with “No paging”, the number of items you enter here are the only items users can access from the list.</li>
+<li><strong>Sort by</strong>: Choose what the list should be sorted by, and then select ascending or descending.</li>
+<li><strong>Show create button</strong>: To make it possible for editors to create a new page from here, select this option to add a button to the block heading, and type the name for the button. Available for “List View” only.</li>
+<li><strong>Show link</strong>: You can add a link button at the bottom of the list. The first page collection is default, but you can link to any target.</li>
+<li><strong>Link label</strong>: Add the text to be shown for the link here. Available only if “Show link” is selected.</li>
+<li><strong>Link url</strong>: Add the url to open when a user clicks the link. Available only if “Show link” is selected.</li>
+<li><strong>Open link in new tab</strong>: If the link should be opened in a new tab (as opposed to in current window or dialog), select this option. Available only if “Show link” is selected.</li>
+<li><strong>Hide Read News</strong>: If this list displays news, select this option to hide all news pages the logged in user has read.</li>
+<li><strong>Padding</strong>: Add some padding between the list and the block border, if needed.</li>
+</ul>
+<p><strong>Note!</strong> For “List View” you also have to add at least one column, for the display to work. Here’s an example with two columns added:</p>
+<img alt="../../_images/list-view-columns.png" src="../../_images/list-view-columns.png" />
+<p>This could show the following:</p>
+<img alt="../../_images/list-view-example.png" src="../../_images/list-view-example.png" />
+<p>“2 months ago” etc is the “Social” setting for date. If you would like to show exact dates instead, select “Normal”.</p>
 </div>
-<div class="section" id="filter">
-<h3>Filter<a class="headerlink" href="#filter" title="Permalink to this headline">¶</a></h3>
-<p>If it should be possible for users to filter the list, add filters here.</p>
-<img alt="../../_images/page-rollup-settings-filter.png" src="../../_images/page-rollup-settings-filter.png" />
 </div>
+<div class="section" id="layout">
+<h2>Layout<a class="headerlink" href="#layout" title="Permalink to this headline">¶</a></h2>
+<p>The Layout tab contains general settings, see: <a class="reference internal" href="../general-block-settings/index.html"><span class="doc">General Block Settings</span></a></p>
 </div>
 </div>
 
@@ -240,7 +274,7 @@
   
     <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
       
-        <a href="../people-rollup/index.html" class="btn btn-neutral float-right" title="People Rollup" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right"></span></a>
+        <a href="../variation-selector/index.html" class="btn btn-neutral float-right" title="Page Variation Selector" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right"></span></a>
       
       
         <a href="../page-properties/index.html" class="btn btn-neutral" title="Page Properties" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>
@@ -253,7 +287,7 @@
   <div role="contentinfo">
     <p>
         &copy; Copyright 2019, Precio Fishbone.
-      Last updated on Sep 23, 2019.
+      Last updated on Oct 08, 2019.
 
     </p>
   </div>

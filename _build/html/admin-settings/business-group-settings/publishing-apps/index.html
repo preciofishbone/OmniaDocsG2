@@ -41,8 +41,8 @@
         <link rel="search" title="Search" href="../../../search.html"/>
     <link rel="top" title="Omnia  documentation" href="../../../index.html"/>
         <link rel="up" title="Business Profile Settings" href="../index.html"/>
-        <link rel="next" title="Notfication Panel" href="../notification-panel/index.html"/>
-        <link rel="prev" title="Team Collaboration" href="../team-collaboration/index.html"/> 
+        <link rel="next" title="Search" href="../search/index.html"/>
+        <link rel="prev" title="Provisioning Templates" href="../provisioning-templates/index.html"/> 
 
   
   <script src="../../../_static/js/modernizr.min.js"></script>
@@ -95,23 +95,23 @@
 <li class="toctree-l1 current"><a class="reference internal" href="../../index.html">Admin Settings</a><ul class="current">
 <li class="toctree-l2"><a class="reference internal" href="../../tenant-settings/index.html">Tenant Settings</a></li>
 <li class="toctree-l2 current"><a class="reference internal" href="../index.html">Business Profile Settings</a><ul class="current">
-<li class="toctree-l3"><a class="reference internal" href="../permissions/index.html">Permissions</a></li>
-<li class="toctree-l3"><a class="reference internal" href="../settings/index.html">Settings</a></li>
-<li class="toctree-l3"><a class="reference internal" href="../team-collaboration/index.html">Team Collaboration</a></li>
-<li class="toctree-l3 current"><a class="current reference internal" href="#">Publishing Apps</a></li>
-<li class="toctree-l3"><a class="reference internal" href="../notification-panel/index.html">Notfication Panel</a></li>
-<li class="toctree-l3"><a class="reference internal" href="../search/index.html">Search</a></li>
-<li class="toctree-l3"><a class="reference internal" href="../shared-links/index.html">Shared Links</a></li>
 <li class="toctree-l3"><a class="reference internal" href="../announcements/index.html">Announcements</a></li>
 <li class="toctree-l3"><a class="reference internal" href="../features/index.html">Features - Business Profile</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../notification-panel/index.html">Notification Panel</a></li>
 <li class="toctree-l3"><a class="reference internal" href="../provisioning-templates/index.html">Provisioning Templates</a></li>
+<li class="toctree-l3 current"><a class="current reference internal" href="#">Publishing Apps</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../search/index.html">Search</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../security/index.html">Security</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../settings/index.html">Settings</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../shared-links/index.html">Shared Links</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../team-collaboration/index.html">Team Collaboration</a></li>
 </ul>
 </li>
 </ul>
 </li>
 <li class="toctree-l1"><a class="reference internal" href="../../../blocks/index.html">Blocks</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../../../pages/index.html">Pages</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../general-assets/index.html">General assets</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../pages/index.html">Pages</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../user-options/index.html">User options</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../setup/index.html">Setup</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../roadmap/index.html">Roadmap</a></li>
@@ -187,33 +187,56 @@
   <div class="section" id="publishing-apps">
 <h1>Publishing Apps<a class="headerlink" href="#publishing-apps" title="Permalink to this headline">¶</a></h1>
 <p>Within a Business Profile several Publishing Apps can be active for different settings. To be able to create a Publishing App, at least one Provisioning Template for Publishing Apps must be available. If none are, create a Provisioning Template first.</p>
+<p>The existing Publishing Apps are shown in a list:</p>
+<img alt="../../../_images/publishing-apps-list.png" src="../../../_images/publishing-apps-list.png" />
+<p>Use the icons this way:</p>
+<ul class="simple">
+<li>The key to edit permissions for the Publishing Apps.</li>
+<li>The boxes to activate, deactivate or upgrade features.</li>
+<li>The pen to edit the settings (same as when creating a new, see below).</li>
+<li>The dust bin to delete a Publishing App that has been created by mistake.</li>
+</ul>
 <div class="section" id="create-a-new-publishing-app">
 <h2>Create a new Publishing App<a class="headerlink" href="#create-a-new-publishing-app" title="Permalink to this headline">¶</a></h2>
 <p>Do the following:</p>
 <ol class="arabic simple">
 <li>Click the plus.</li>
 </ol>
-<p>Use the following settings:</p>
-<img alt="../../../_images/publishing-apps-settings.png" src="../../../_images/publishing-apps-settings.png" />
+<img alt="../../../_images/publishing-apps-click-plus.png" src="../../../_images/publishing-apps-click-plus.png" />
+<ol class="arabic simple" start="2">
+<li>Select a Provisioning Template.</li>
+</ol>
+<img alt="../../../_images/publishing-app-template.png" src="../../../_images/publishing-app-template.png" />
+<ol class="arabic simple" start="3">
+<li>Use the following settings:</li>
+</ol>
+<img alt="../../../_images/publishing-apps-settings-new.png" src="../../../_images/publishing-apps-settings-new.png" />
 <ul class="simple">
-<li><strong>Base App Template</strong>: Select Provisioning Template here.</li>
 <li><strong>Title</strong>: Add a Title for the Publishing App.</li>
 <li><strong>Description</strong>: Add a Description if needed.</li>
-<li><strong>App Administrators</strong>: The active Administrator (you) is automatically added as App Administrator. Add or delete administrators as needed.</li>
-</ul>
-<ol class="arabic simple" start="2">
-<li>Click “Next” and use the following settings:</li>
-</ol>
-<img alt="../../../_images/publishing-apps-settings2.png" src="../../../_images/publishing-apps-settings2.png" />
-<ul class="simple">
 <li><strong>Sharepoint Alias</strong>: The last part of the Url to the Publishing App is shown here. It can be edited if needed.</li>
 <li><strong>Document site</strong>: The Url to the Document Site for the Publishing App is shown here. It can be edited if needed.</li>
-<li><strong>Document Library Name</strong>: As default, the Document Library will be named Documents. If you want another name, type it here.</li>
-<li><strong>Allow User Upload Document</strong>: The Administrator of the Publishing App willl always be able to upload documents to the Document Library. If end users should be able to do that as well, select this option.</li>
+<li><strong>Document Library Url</strong>: (A description will be added soon).</li>
+<li><strong>Allow User Upload Document</strong>: The Administrator of the Publishing App will always be able to upload documents to the Document Library. If end users should be able to do that as well, select this option.</li>
+</ul>
+<ol class="arabic simple" start="4">
+<li>Click “Next” and use the following settings:</li>
+</ol>
+<img alt="../../../_images/publishing-apps-settings-2.png" src="../../../_images/publishing-apps-settings-2.png" />
+<ul class="simple">
+<li><strong>App Administrators</strong>: The active Administrator (you) is automatically added as App Administrator. Add or delete administrators as needed.</li>
 </ul>
 <ol class="arabic simple" start="3">
-<li>Click “ADD” to create the Publishing App.</li>
+<li>Click “CREATE” to create the Publishing App.</li>
 </ol>
+</div>
+<div class="section" id="publishing-app-settings">
+<h2>Publishing App settings<a class="headerlink" href="#publishing-app-settings" title="Permalink to this headline">¶</a></h2>
+<p>Settings for the Publishing App is done in the Settings menu when working with pages, see: <a class="reference internal" href="../../../pages/page-settings/index.html"><span class="doc">Publishing App Settings</span></a></p>
+</div>
+<div class="section" id="pending-approval">
+<h2>Pending Approval<a class="headerlink" href="#pending-approval" title="Permalink to this headline">¶</a></h2>
+<p>(A description will be added soon).</p>
 </div>
 </div>
 
@@ -227,10 +250,10 @@
   
     <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
       
-        <a href="../notification-panel/index.html" class="btn btn-neutral float-right" title="Notfication Panel" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right"></span></a>
+        <a href="../search/index.html" class="btn btn-neutral float-right" title="Search" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right"></span></a>
       
       
-        <a href="../team-collaboration/index.html" class="btn btn-neutral" title="Team Collaboration" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>
+        <a href="../provisioning-templates/index.html" class="btn btn-neutral" title="Provisioning Templates" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>
       
     </div>
   
@@ -240,7 +263,7 @@
   <div role="contentinfo">
     <p>
         &copy; Copyright 2019, Precio Fishbone.
-      Last updated on Sep 23, 2019.
+      Last updated on Oct 08, 2019.
 
     </p>
   </div>

@@ -3,7 +3,7 @@ People Rollup
 
 **Note! This description is just started. More will be added soon.**
 
-Settings for the control
+Settings
 *************************
 The following settings are available:
 
