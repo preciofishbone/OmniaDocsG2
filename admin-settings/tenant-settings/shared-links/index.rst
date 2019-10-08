@@ -1,7 +1,7 @@
 Shared Links
 =======================
 
-Using Shared Links a Tenant Administrator can create links that user can access through "My Links". It makes it possible to create a central list of links, in Omnia Admin, to resources that are commonly used within the organization. 
+Using Shared Links a Tenant Administrator, (or any other user added in the Permissions list, see below) can create links that user can access through "My Links". It makes it possible to create a central list of links, in Omnia Admin, to resources that are commonly used within the organization. 
 
 Some links can be mandatory and it's also possible to target links to certain groups. 
 
@@ -21,7 +21,7 @@ Do the following:
 
 1. Click the plus.
 
-.. image:: shared-links-click-plus.png
+.. image:: shared-links-click-plus-new.png
 
 2. Set the following:
 
@@ -76,7 +76,19 @@ In the list of Shared Links, click the pen to edit a link or the dust bin to del
 
 When editing a link, all options available when creating a new link can be edited, see above.
 
+Permissions for Shared Links
+*****************************
+Shared Links has a seperate Permissions setting, meaning any user can be set as a Shared Links administrator. 
 
+1. Click "Permissions".
+
+.. image:: shared-links-click-permissions.png
+
+2. Add all users that should be Shared Links administrators here:
+
+.. image:: shared-links-click-permissions-list.png
+
+Note that Tenant Administrators always can work with Shared Links even though they are not listed here.
 
 
 

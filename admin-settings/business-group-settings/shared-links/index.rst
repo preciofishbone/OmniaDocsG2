@@ -1,7 +1,7 @@
 Shared Links
 ===========================================
 
-Using Shared Links a Business Profile Administrator can create Business Profile specific links that users can access through "My Links".  
+Using Shared Links a Business Profile Administrator (or any other users added to the separate Permissions list) can create Business Profile specific links that users can access through "My Links".  
 
 Some links can be mandatory and it's also possible to target links to certain groups. 
 

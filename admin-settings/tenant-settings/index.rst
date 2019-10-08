@@ -4,16 +4,15 @@ Tenant Settings
 .. toctree::
    :titlesonly:
 
-   permissions/index
-   settings/index
-   properties/index
-   business-profiles/index
-   localization/index
-   shared-links/index
    announcements/index
-   user-profile-completion/index
-   Property-sets/index
-   targeting-properties/index
-   tutorial/index
+   business-profiles/index
    features/index
+   localization/index
+   properties/index
+   security/index
+   settings/index
+   shared-links/index
+   system/index
+   tutorial/index
+   user-profile-completion/index
    

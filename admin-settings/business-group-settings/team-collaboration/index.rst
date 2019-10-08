@@ -5,7 +5,13 @@ Use these settings go to any Team Site to, for example, edit settings. You can a
 
 For Team Sites with "Approval" as Site Creation Mode, you use the "Pending Approval" list to approve or reject creation of a Team Site.
 
-.. image:: team-collaboration.png
+.. image:: team-collaboration-new.png
+
+Use the icons this way:
+
++ The key to edit permissions.
++ The boxes to activate, deactivate and upgrade features.
++ The dust bin to delete the collaboration site. 
 
 Create a Team Site
 *********************
@@ -21,26 +27,32 @@ To create a Team Site from here, do the following:
 
 3. Select Provisioning Template. See this page for more information: :doc:`Provisioning Templates </admin-settings/business-group-settings/provisioning-templates/index>`
 
-.. image:: team-collaboration-template.png
+.. image:: team-collaboration-template-new.png
 
-4. Set the following settings and click "Next".
+4. Set the following settings.
 
 .. image:: team-collaboration-settings-1.png
 
-+ **Base App Template**: This is just information stating which Provisioning Template you have selected.
 + **Title**: Add a Title (name) for the Team Site here.
 + **Description**: It's a good idea to add a Description of the Team Site's purpose here, but it's not mandatory.
++ **Sharepoint Alias**: The last part of the address to the site is created automatically but can be edited if necessary. If the name (address) already exists an alternative address is suggested.
++ **Site Design**: Site Designs can be available in this list. Select if applicable.
++ **Languages**: The same language as the main Business Profile language is suggested. Another language can be selected if needed.  
++ **Time Zones**: Normally the correct Time Zone is already selected. Can be changed if needed.
+
+5. When done, click "Next".
+6. Now, set the following:
+
+.. image:: team-collaboration-settings-2-new.png
+
 + **App Administrator**: You are automatically added as the Administrator of the site. Add or remove Administrators as needed.
 
-5. Set the following settings:
+7. Click "Next".
+8. Set Enterprise Properties if nedded.
 
-.. image:: team-collaboration-settings-2.png
+.. image:: team-collaboration-settings-3.png
 
-+ **Sharepoint Alias**: The last part of the Url to the Team Site, based on the Title, is shown here. It can be edited if needed.
-+ **Languages**: Select Language for the Team Sites menus and other system texts.
-+ **Time Zone**: Select correct Time Zone here.
-
-6. Click "ADD" to create the Team Site.
+6. Click "CREATE" to create the Team Site.
 
 **Note!** When the Team Site has been created, the above settings can not be edited here.
 
@@ -71,13 +83,13 @@ Approval (or Rejection) is done this way:
 2. Check the name, settings and so on for the site.
 3. If everything is OK, click "Approve", if changes are needed, click "Reject".
 
-.. image:: pending-approval-approve.png
+.. image:: pending-approval-approve-new.png
 
 If you approve the creation of the team site a message is sent to the person requesting the site, and the site is created.
 
 If you reject, the following is shown:
 
-.. image:: pending-approval-reject.png
+.. image:: pending-approval-reject-new.png
 
 4. Type a message stating what needs to be done for approval, and click "Save" to send the message.
 

@@ -4,14 +4,16 @@ Business Profile Settings
 .. toctree::
    :titlesonly:
 
-   permissions/index
-   settings/index
-   team-collaboration/index
-   publishing-apps/index
-   notification-panel/index
-   search/index
-   shared-links/index
    announcements/index
    features/index
+   notification-panel/index
    provisioning-templates/index
+   publishing-apps/index
+   search/index
+   security/index
+   settings/index
+   shared-links/index
+   team-collaboration/index
+   
+   
  
