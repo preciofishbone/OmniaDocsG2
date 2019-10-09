@@ -19,7 +19,7 @@ If you need to add a header to the link list, click "ADD HEADER", type the heade
 
 Arranging the list
 *******************
-When your done adding links and headings, the list may need some arranging. Do it this way:
+When you are done adding links and headings, the list may need some arranging. Do it this way:
 
 1. Point at the link or heading you want to move.
 2. Click the Up or Down arrow to move it in the list.

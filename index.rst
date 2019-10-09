@@ -1,8 +1,7 @@
-Omnia (Azure AD App)
-===========================================
+Omnia (for modern SharePoint)
+===============================
 
-.. note:: This documentation is a work in progress and contributions can be made on our Github repo.
-
+.. note:: Please find Omnia (for classic SharePoint) documentation `here <https://omnia-docs.readthedocs.io/>`_.
 
 Topics
 ------

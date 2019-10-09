@@ -20,3 +20,8 @@
 6. Create a new publishing app.
 
 .. image:: publishingapps-addnew.png
+
+7. Click on the features icon for the newly created Publishing App.
+8. Activate the feature "Default Page Collections and Page Types".
+
+.. image:: publishingapp-features-defaultpagecollspagetypes.png

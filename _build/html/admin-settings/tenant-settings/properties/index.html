@@ -41,8 +41,8 @@
         <link rel="search" title="Search" href="../../../search.html"/>
     <link rel="top" title="Omnia  documentation" href="../../../index.html"/>
         <link rel="up" title="Tenant Settings" href="../index.html"/>
-        <link rel="next" title="Business Profiles" href="../business-profiles/index.html"/>
-        <link rel="prev" title="Settings" href="../settings/index.html"/> 
+        <link rel="next" title="Security" href="../security/index.html"/>
+        <link rel="prev" title="Localization" href="../localization/index.html"/> 
 
   
   <script src="../../../_static/js/modernizr.min.js"></script>
@@ -94,22 +94,29 @@
               <ul class="current">
 <li class="toctree-l1 current"><a class="reference internal" href="../../index.html">Admin Settings</a><ul class="current">
 <li class="toctree-l2 current"><a class="reference internal" href="../index.html">Tenant Settings</a><ul class="current">
-<li class="toctree-l3"><a class="reference internal" href="../permissions/index.html">Permissions</a></li>
-<li class="toctree-l3"><a class="reference internal" href="../settings/index.html">Settings</a></li>
-<li class="toctree-l3 current"><a class="current reference internal" href="#">Properties</a></li>
-<li class="toctree-l3"><a class="reference internal" href="../business-profiles/index.html">Business Profiles</a></li>
-<li class="toctree-l3"><a class="reference internal" href="../shared-links/index.html">Shared Links</a></li>
 <li class="toctree-l3"><a class="reference internal" href="../announcements/index.html">Announcements</a></li>
-<li class="toctree-l3"><a class="reference internal" href="../targeting-properties/index.html">Targeting Properties</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../business-profiles/index.html">Business Profiles</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../features/index.html">Features - Tenant</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../localization/index.html">Localization</a></li>
+<li class="toctree-l3 current"><a class="current reference internal" href="#">Properties</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../security/index.html">Security</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../settings/index.html">Settings</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../shared-links/index.html">Shared Links</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../system/index.html">System</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../tutorial/index.html">Tutorial</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../user-profile-completion/index.html">User Profile Completion</a></li>
 </ul>
 </li>
 <li class="toctree-l2"><a class="reference internal" href="../../business-group-settings/index.html">Business Profile Settings</a></li>
 </ul>
 </li>
 <li class="toctree-l1"><a class="reference internal" href="../../../blocks/index.html">Blocks</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../../../pages/index.html">Pages</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../general-assets/index.html">General assets</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../pages/index.html">Pages</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../user-options/index.html">User options</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../setup/index.html">Setup</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../roadmap/index.html">Roadmap</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../release-notes/index.html">Release Notes</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../contribute-to-doc/index.html">Contribute to this Documentation</a></li>
 </ul>
 
@@ -180,25 +187,57 @@
             
   <div class="section" id="properties">
 <h1>Properties<a class="headerlink" href="#properties" title="Permalink to this headline">¶</a></h1>
+<p>The following is found here:</p>
+<img alt="../../../_images/properties-new.png" src="../../../_images/properties-new.png" />
+<div class="section" id="enterprise-properties">
+<h2>Enterprise Properties<a class="headerlink" href="#enterprise-properties" title="Permalink to this headline">¶</a></h2>
 <p>Here you add ALL Properties that should be used within the Tenant. If you, for example, would like to enable targeting, the Properties to be used for targeting must be added here.</p>
 <img alt="../../../_images/tenant-properties.png" src="../../../_images/tenant-properties.png" />
 <div class="section" id="adding-a-property">
-<h2>Adding a Property<a class="headerlink" href="#adding-a-property" title="Permalink to this headline">¶</a></h2>
+<h3>Adding a Property<a class="headerlink" href="#adding-a-property" title="Permalink to this headline">¶</a></h3>
 <p>To add a Property, click the plus.</p>
 <img alt="../../../_images/tenant-properties-click-plsu.png" src="../../../_images/tenant-properties-click-plsu.png" />
 <p>Use the following settings:</p>
-<img alt="../../../_images/tenant-properties-settings.png" src="../../../_images/tenant-properties-settings.png" />
+<img alt="../../../_images/tenant-properties-settings-new.png" src="../../../_images/tenant-properties-settings-new.png" />
 <ul class="simple">
-<li><strong>Title</strong>: Add a Title (name) for the Property.</li>
+<li><strong>Title</strong>: Add a Title (name) for the Property. Default language is mandatory. Add Titles in the other Tenant Languages as needed.</li>
 <li><strong>Internal name</strong>: An internal name can or should in some instances be used instead of the Title, for example as a place holder. The internal name can not contain spaces.</li>
-<li><strong>Type</strong>: Select the Property type. It can be “Data”, “Datetime”, “Media”, “Person”, “Rich text”, “Taxonomy”, “Text” or “Yes/No”. Most of the Types are self explanatory. “Data” is a system field that users never enter anything to. “Rich text” can be formatted by the editor. “Text” is plain text that the editor can not format.</li>
+<li><strong>Type</strong>: Select the Property type. It can be “Data”, “Datetime”, “Enterprise Keywords”, “Media”, “Person”, “Rich text”, “Taxonomy”, “Text” or “Yes/No”. Most of the Types are self explanatory. “Data” is a system field that users never enter anything to. “Rich text” can be formatted by the editor. “Text” is plain text that the editor can not format.</li>
 </ul>
 </div>
 <div class="section" id="deleting-or-editing-a-property">
-<h2>Deleting or editing a Property<a class="headerlink" href="#deleting-or-editing-a-property" title="Permalink to this headline">¶</a></h2>
+<h3>Deleting or editing a Property<a class="headerlink" href="#deleting-or-editing-a-property" title="Permalink to this headline">¶</a></h3>
 <p>Use the dust bin to delete a property, or the pen to edit one:</p>
 <img alt="../../../_images/tenant-properties-delete-edit.png" src="../../../_images/tenant-properties-delete-edit.png" />
 <p>Note that some Properties can not be deleted, but they can be edited. For them only the pen is shown.</p>
+</div>
+</div>
+<div class="section" id="property-sets">
+<h2>Property Sets<a class="headerlink" href="#property-sets" title="Permalink to this headline">¶</a></h2>
+<p>This is as the name says, an option where you can create sets of several Enterprise Properties and handle the set instead of each individual property. As a first step Property Sets will be implemented in Controlled Documents. More information on this tpic will be added then.</p>
+</div>
+<div class="section" id="targeting-properties">
+<h2>Targeting Properties<a class="headerlink" href="#targeting-properties" title="Permalink to this headline">¶</a></h2>
+<p>Here you define which Properties to use for Targeting.</p>
+<img alt="../../../_images/targeting-properties.png" src="../../../_images/targeting-properties.png" />
+<p>The Properties must be added to the Enterprise Properties list to be able to be used here.</p>
+<div class="section" id="add-a-target-property">
+<h3>Add a Target Property<a class="headerlink" href="#add-a-target-property" title="Permalink to this headline">¶</a></h3>
+<p>To add a Target Property definition, click the plus:</p>
+<img alt="../../../_images/targeting-properties-click-plus.png" src="../../../_images/targeting-properties-click-plus.png" />
+<p>Use the following settings:</p>
+<img alt="../../../_images/targeting-properties-settings.png" src="../../../_images/targeting-properties-settings.png" />
+<ul class="simple">
+<li><strong>Title</strong>: Add the Title to be shown for editors, for the Property, when targeting.</li>
+<li><strong>Property</strong>: Select Tenant Property from the list.</li>
+<li><strong>Type</strong>: Select Type of targeting for this Property.</li>
+</ul>
+</div>
+<div class="section" id="delete-or-edit-target-property">
+<h3>Delete or edit Target Property<a class="headerlink" href="#delete-or-edit-target-property" title="Permalink to this headline">¶</a></h3>
+<p>To delete a Target Property, click the dust bin, to edit it, click the pen:</p>
+<img alt="../../../_images/targeting-properties-delete-edit.png" src="../../../_images/targeting-properties-delete-edit.png" />
+</div>
 </div>
 </div>
 
@@ -212,10 +251,10 @@
   
     <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
       
-        <a href="../business-profiles/index.html" class="btn btn-neutral float-right" title="Business Profiles" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right"></span></a>
+        <a href="../security/index.html" class="btn btn-neutral float-right" title="Security" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right"></span></a>
       
       
-        <a href="../settings/index.html" class="btn btn-neutral" title="Settings" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>
+        <a href="../localization/index.html" class="btn btn-neutral" title="Localization" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>
       
     </div>
   
@@ -225,7 +264,7 @@
   <div role="contentinfo">
     <p>
         &copy; Copyright 2019, Precio Fishbone.
-      Last updated on Sep 13, 2019.
+      Last updated on Oct 08, 2019.
 
     </p>
   </div>

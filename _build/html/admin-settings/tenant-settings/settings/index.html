@@ -98,9 +98,13 @@
 <li class="toctree-l3 current"><a class="current reference internal" href="#">Settings</a></li>
 <li class="toctree-l3"><a class="reference internal" href="../properties/index.html">Properties</a></li>
 <li class="toctree-l3"><a class="reference internal" href="../business-profiles/index.html">Business Profiles</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../localization/index.html">Localization</a></li>
 <li class="toctree-l3"><a class="reference internal" href="../shared-links/index.html">Shared Links</a></li>
 <li class="toctree-l3"><a class="reference internal" href="../announcements/index.html">Announcements</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../user-profile-completion/index.html">User Profile Completion</a></li>
 <li class="toctree-l3"><a class="reference internal" href="../targeting-properties/index.html">Targeting Properties</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../tutorial/index.html">Tutorial</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../features/index.html">Features - Tenant</a></li>
 </ul>
 </li>
 <li class="toctree-l2"><a class="reference internal" href="../../business-group-settings/index.html">Business Profile Settings</a></li>
@@ -109,7 +113,10 @@
 <li class="toctree-l1"><a class="reference internal" href="../../../blocks/index.html">Blocks</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../pages/index.html">Pages</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../general-assets/index.html">General assets</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../user-options/index.html">User options</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../setup/index.html">Setup</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../roadmap/index.html">Roadmap</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../release-notes/index.html">Release Notes</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../contribute-to-doc/index.html">Contribute to this Documentation</a></li>
 </ul>
 
@@ -181,14 +188,45 @@
   <div class="section" id="settings">
 <h1>Settings<a class="headerlink" href="#settings" title="Permalink to this headline">¶</a></h1>
 <p>Here you can set the following:</p>
-<div class="section" id="tenant-language">
-<h2>Tenant Language<a class="headerlink" href="#tenant-language" title="Permalink to this headline">¶</a></h2>
-<p>Use the list to set default language for the tenant.</p>
-<img alt="../../../_images/tenant-settings-language.png" src="../../../_images/tenant-settings-language.png" />
+<div class="section" id="regional-settings">
+<h2>Regional Settings<a class="headerlink" href="#regional-settings" title="Permalink to this headline">¶</a></h2>
+<p>Use these settings for languages, date and time, for the tenant. Other settings can be set for a Business Profile.</p>
+<div class="section" id="languages">
+<h3>Languages<a class="headerlink" href="#languages" title="Permalink to this headline">¶</a></h3>
+<p>Use this setting to select the languages that should be available for the user interface in the tenant. These languages can also be used for Announcements and Shared Links. Language versions of pages are handled differently - Page Variations, see the heading “Variations” on this page:  <a class="reference internal" href="../../../pages/page-settings/index.html"><span class="doc">Page Settings</span></a></p>
+<p>Do the following to select languages:</p>
+<ol class="arabic simple">
+<li>Click “Add Language”.</li>
+<li>Open the list and select a language.</li>
+</ol>
+<img alt="../../../_images/language-list.png" src="../../../_images/language-list.png" />
+<ol class="arabic simple" start="3">
+<li>Click “Add”</li>
+<li>Continue and add all languages that should be available in the tenant.</li>
+</ol>
+<p>You can add additional languages anytime.</p>
+<p><strong>Note!</strong> The list of languages is long, but that does not mean that the interface is available in all languages. You must make sure the interface has been translated to the languages you need.</p>
+<p>To remove a language from the tenant, just click the dust bin.</p>
+<img alt="../../../_images/language-remove.png" src="../../../_images/language-remove.png" />
+<ol class="arabic simple" start="5">
+<li>Click “Save” when you’re done.</li>
+</ol>
+</div>
+<div class="section" id="language-displayed-for-a-user">
+<h3>Language displayed for a user<a class="headerlink" href="#language-displayed-for-a-user" title="Permalink to this headline">¶</a></h3>
+<p>What language a specific user will see for the interface, in Announcement messages and Shared links, depends on the user’s Preferred Language setting in the Azure AD.</p>
+</div>
+<div class="section" id="date-and-time">
+<h3>Date And Time<a class="headerlink" href="#date-and-time" title="Permalink to this headline">¶</a></h3>
+<p>For Date And Time you can set the following:</p>
+<img alt="../../../_images/date-time.png" src="../../../_images/date-time.png" />
+<p>Use the list to set the date format and select 24-hour or 12-hour Time Format.</p>
+<p>Don’t forget to save when you’re done.</p>
+</div>
 </div>
 <div class="section" id="header">
 <h2>Header<a class="headerlink" href="#header" title="Permalink to this headline">¶</a></h2>
-<p>Here you can change the default settings for Headings. The settings can be changed for a Block when needed, in the settings for the Block.</p>
+<p>Here you can change the default settings for the the Header in the tenant. Additional settings, sometimes overriding the Tenant Settings, can be made for each Business Profile.</p>
 <div class="section" id="general">
 <h3>General<a class="headerlink" href="#general" title="Permalink to this headline">¶</a></h3>
 <p>Set Background Color and Text Color here.</p>
@@ -233,7 +271,7 @@
   <div role="contentinfo">
     <p>
         &copy; Copyright 2019, Precio Fishbone.
-      Last updated on Sep 13, 2019.
+      Last updated on Sep 23, 2019.
 
     </p>
   </div>

@@ -23,7 +23,7 @@ When you go to a page to edit this way, you may have to reactivate Edit mode. In
 
 Edit Contents
 **************
-If you are going to just edit contents, for example in a text block, select the "Write" mode (which is the default selection).
+If you are going to just edit contents, for example in a text block, select the "Write" mode (which is the default selection). 
 
 .. image:: write-mode.png
 
@@ -35,9 +35,11 @@ In this example you can add content in the following areas in Write mode:
 + Add and format text to the Text block.
 + Add links and headers to the Related links block.
 
-(The Bread Crumb block - at the very top, the Current Navigation block and the Page Properties block - the one with the title "Page info" - can't be edited this way. In the Page Type in this example they are locked.)
+(The Bread Crumb block at the very top, the Current Navigation block and the Page Properties block - the one with the title "Page info" - can't be edited this way.)
 
 You edit each block (the ones you can edit) as is described on the page for the respective block: :doc:`Blocks </blocks/index>`
+
+**Note!** Even locked Content Blocks can be edited this way.
 
 Edit Blocks
 ************
