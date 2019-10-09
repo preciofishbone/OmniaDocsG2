@@ -90,19 +90,17 @@ As the next step you can set this:
 .. image:: template-features.png
 
 + **Apply Microsoft Teams to an Office 365 Group**: Here you can select that a Microsoft Teams Group should be created for the Office 365 Group.
-+ **Archived Documents**: (A description will be added soon.)
-+ **Project Site**: (A description will be added soon.)
-+ **Default Page Collections and Page Types**: (A description will be added soon.)
++ **Archived Documents**: Select this option if the feature "Archived Documents" should be activated automatically when a site is created from this template.
++ **Project Site**: Select this option if the feature "Project Site" should be activated automatically when a site is created from this template.
++ **Default Page Collections and Page Types**: Select this option if the corresponding feature should be activated automatically when a site is created from this template.
 
 9. Set the options here as needed and click "Next".
 
-Finally, you can select to add Custom Steps. If you do, the following is shown:
+Finally, you can select to add Custom Steps. If you do, something like the following is shown:
 
 .. image:: custom-steps.png
 
-+ **Information**: (A description will be added soon.)
-+ **Users**: (A description will be added soon.)
-+ **Enterprise Properties**: (A description will be added soon.)
+You can choose to add some standard "Custom steps". If additional Custom Steps are delevoped, they are shown here.
 
 10. When all settings are done here, or if you selected not to add custom steps, click "ADD" to create the Template.
 

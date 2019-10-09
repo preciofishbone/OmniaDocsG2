@@ -70,7 +70,7 @@ Then these settings is available:
 
 .. image:: advanced-search-category-settings-new.png
 
-+ **Row Limit**: Select number of search result rows for each "page".
++ **Row Limit**: Select number of search result rows for each "page". 
 + **Refiners**: Use this option to add refiners for the Search Category (click the plus to add).
 + **Order By**: Set the sorting in the refiner's lists; "Count" (=number of hits) or "Alphabetic".
 + **Refiner Limit**: Set the number of refiner selections to be shown. It will be the top ones according to "Order by".
