@@ -71,7 +71,7 @@ Editing a Page Variation works exactly the same as editing a "normal" page.
 
 Targeting a Page Variation
 ----------------------------
-**Note!** The Targeting Properties to use must be set up in Omnia Admin, see the section about Targeting Properties on this page :doc:`Properties </admin-settings/tenant-settings/properties/index>`
+**Note!** The Targeting Properties to use must be set up in Omnia Admin, see the section about Targeting Properties on this page: :doc:`Properties </admin-settings/tenant-settings/properties/index>`
 
 To target a Page Variation, do the following: 
 
