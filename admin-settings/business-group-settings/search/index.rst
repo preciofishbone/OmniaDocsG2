@@ -7,12 +7,12 @@ Use these options for settings for general Search configuration, Quick Search an
 
 Search config
 ***************
-Use the settings shown in the image above:
+Using the "Search config" tab you can work with Search Categories and set default Search Template.
+
+To edit a Search config, click the pen. To delete a Search config, click the dust bin.
 
 Search Categories
 -------------------
-Use these settings to add and edit Search Categories.
-
 To create a new Search Category, click the plus and use the following settings:
 
 + **Title**: Add a title for the Search Category.
@@ -22,13 +22,17 @@ To create a new Search Category, click the plus and use the following settings:
 
 Here's an example of a Search Category:
 
-.. image:: search-example.png
+.. image:: search-example-border.png
+
+The same settings are available when editing a Search Category.
 
 Search Templates
 --------------------
-Search Templates are created by developers and are simply listed here. If several Search Templates for the same purpose are available, the chosen Search Template can be activated here.
+Search Templates are created by developers and are simply listed here. A Search Template defines how to display a search result. If a search result happens to not match any Search Template, the Default search template is used. You can set Default search template ny clicking any of the templates in the list.
 
-.. image:: search-templates.png
+In this example the Default search etmplate is actually named that, but any other template can be selected. Note the red selection that marks selected Default search template.
+
+.. image:: search-templates-new.png
 
 Quick Search
 ***************
@@ -73,7 +77,7 @@ Then these settings is available:
 + **Row Limit**: Select number of search result rows for each "page". 
 + **Refiners**: Use this option to add refiners for the Search Category (click the plus to add).
 + **Order By**: Set the sorting in the refiner's lists; "Count" (=number of hits) or "Alphabetic".
-+ **Refiner Limit**: Set the number of refiner selections to be shown. It will be the top ones according to "Order by".
++ **Refiner Limit**: Set the number of refiner selections to be shown before a "Show more" link is displayed. Default=5.
 
 To delete a Refiner, just click the dust bin.
 
