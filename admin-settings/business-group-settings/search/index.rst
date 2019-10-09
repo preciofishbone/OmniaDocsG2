@@ -84,7 +84,7 @@ Here's an example of refiners for Product Manuals, with 22 hits:
 
 .. image:: search-refiners-example.png
 
-The user can now use the refiners to the left to for example just display documents for the Product Family City Bikes, which is just thre documents:
+The user can now use the refiners to the left to for example just display documents for the Product Family City Bikes, which is just three documents:
 
 .. image:: search-refiners-example-refined.png
 

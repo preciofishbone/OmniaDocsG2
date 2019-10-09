@@ -9,10 +9,10 @@ General
 *********
 Set the following here:
 
-.. image:: page-settings-general-new.png
+.. image:: page-settings-general-new2.png
 
 + **Default Page Collection**: The default Page Collection for the page can be set here.
-+ **Connected Sharepoint Site**: The addreess to the Sharepoint Site is shown here.
++ **Connected Sharepoint Site**: The address to the Sharepoint Site is shown here.
 
 Set the following, needed for page reports to work:
 
@@ -25,7 +25,9 @@ Use these settings for edit permissions in the Publishing App.
 
 .. image:: page-settings-permissions-new.png
 
-Note that a tenant administrator always can edit all pages in the tenant. A business profile administrator can always edit all pages within the business profile.
+Note that this permissions setting is valid for these settings only. To be able to edit Publishing App settings in Omnia Admin you need to be either a tenant administrator or administrator for the Business Profile.
+
+Regarding these settings a tenant administrator and business profile administrator can go here and add him or herself to the permissions list and that way gain access to the settings.
 
 Variations
 ************
@@ -63,15 +65,15 @@ Edit contents of a Page Variation
 --------------------------------------
 When more than one variation of the page exists, the editor can select variation to work with in the list, in the lower left corner:
 
-.. image:: select-variation-new.png
+.. image:: select-variation-new2.png
 
 Editing a Page Variation works exactly the same as editing a "normal" page.
 
 Targeting a Page Variation
 ----------------------------
-**Note!** The Targeting Properties to use must be set up in Omnia Admin, see: :doc:`Targeting Properties </admin-settings/tenant-settings/targeting-properties/index>`
+**Note!** The Targeting Properties to use must be set up in Omnia Admin, see the section about Targeting Properties on this page :doc:`Properties </admin-settings/tenant-settings/properties/index>`
 
-To target a Page Variation, do the following:
+To target a Page Variation, do the following: 
 
 1. Click "Add Targeting Filter" when editing a Page Variation's settings.
 
@@ -90,7 +92,7 @@ You can add as many Targeting Properties for a Variation as is needed, this way.
 
 Note that the targeting settings also are shown in the Variations list, for example:
 
-.. image:: page-variation-example-new.png
+.. image:: page-variation-example-new2.png
 
 Statistics
 -----------
