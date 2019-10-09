@@ -52,4 +52,4 @@ Settings for the Publishing App is done in the Settings menu when working with p
 
 Pending Approval
 *****************
-(A description will be added soon).
+If Approval for page creation and edits are activated for the Publishing App, this is one of the places where an administrator can work with approval or rejection.
