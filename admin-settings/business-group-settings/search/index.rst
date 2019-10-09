@@ -28,10 +28,9 @@ The same settings are available when editing a Search Category.
 
 Search Templates
 --------------------
-Search Templates are created by developers and are simply listed here. A Search Template defines how to display a search result. If a search result happens to not match any Search Template, the Default search template is used. You can set Default search template ny clicking any of the templates in the list.
+Search Templates are created by developers and are simply listed here. A Search Template defines how to display a search result. If a search result happens to not match any Search Template, the Default search template is used. You can set Default search template by clicking any of the templates in the list.
 
-In this example the Default search etmplate is actually named that, but any other template can be selected. Note the red selection that marks selected Default search template.
-
+In this example the selected Default search template is actually named that, but any other template can be selected.
 .. image:: search-templates-new.png
 
 Quick Search
