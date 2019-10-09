@@ -58,11 +58,11 @@ The following settings are available for Office 365 Group and Team:
 
 The following setting is available for a Yammer Group Template:
 
-+ **Client id**: Type id here.
++ **Client id**: Type Client id for the Yammer Network here.
 
-This setting is available for a Facebook Workplace Greup Template:
+This setting is available for a Facebook Workplace Group Template:
 
-+ **Workplace Domain**: (A description will be added soon.)
++ **Workplace Domain**: Add the Facebook Workplace name here.
 
 4. Click "Next".
 
@@ -100,7 +100,7 @@ Finally, you can select to add Custom Steps. If you do, something like the follo
 
 .. image:: custom-steps.png
 
-You can choose to add some standard "Custom steps". If additional Custom Steps are delevoped, they are shown here.
+You can choose to add some standard "Custom steps" as shown in the image above. If additional Custom Steps are developed, they are shown here.
 
 10. When all settings are done here, or if you selected not to add custom steps, click "ADD" to create the Template.
 
