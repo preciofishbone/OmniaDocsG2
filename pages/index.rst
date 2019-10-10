@@ -20,4 +20,5 @@ In this part of the documentation you will find information concerning how to wo
    page-settings/index
    page-statistics/index
    reports/index
+   page-collections/index
    
