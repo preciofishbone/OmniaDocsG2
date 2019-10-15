@@ -10,15 +10,3 @@
 7. Select a theme and at least a primary color and a secondary color.
 
 .. image:: bp-settings-profiletheme.png
-
-8. Click on the "Header" tab.
-9. Select a background and icon color that should be used for chrome of the Business Profile.
-10. Configure the Action Menu.
-
-.. image:: bp-settings-actionmenu.png
-
-11. Configure a Block Title style that will be used for all sections/blocks on a page.
-
-.. image:: bp-settings-contentheader.png
-
-More information on the Action Menu and the Block Title can be found here: :doc:`Business Profile settings </admin-settings/business-group-settings/settings/index>`

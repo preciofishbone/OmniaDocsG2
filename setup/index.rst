@@ -1,7 +1,7 @@
 Setup
 ===========================================
 
-In this part of the documentation you will find information on how to setup Omnia (Azure AD App).
+Below you will find the steps needed in order to create a basic setup of Omnia (for modern SharePoint).
 
 
 .. toctree::
@@ -11,6 +11,7 @@ In this part of the documentation you will find information on how to setup Omni
    properties/index
    businessprofile/index
    publishingapp/index
-   search/index
+   branding/index
+   applauncher/index
 
 
