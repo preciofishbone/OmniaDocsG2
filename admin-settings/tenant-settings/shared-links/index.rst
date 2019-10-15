@@ -45,7 +45,7 @@ All languages to be used here must be setup in the Tenant Settings, see: :doc:`T
 
 Targeting a Shared Link
 *************************
-To target a link, do the following. Note that Properties for targeting must be set up first, see: :doc:`Targeting Properties </admin-settings/tenant-settings/targeting-properties/index>`
+To target a link, do the following. Note that Properties for targeting must be set up first, see that section on this page: :doc:`Properties </admin-settings/tenant-settings/properties/index>`
 
 1. Click "Add Targeting Filter".
 

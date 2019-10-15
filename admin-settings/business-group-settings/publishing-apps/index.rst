@@ -35,7 +35,7 @@ Do the following:
 
 + **Sharepoint Alias**: The last part of the Url to the Publishing App is shown here. It can be edited if needed.
 + **Document site**: The Url to the Document Site for the Publishing App is shown here. It can be edited if needed.
-+ **Document Library Url**: (A description will be added soon).
++ **Document Library Url**: To make the Publishing App's Document library available in for example the Add Link asset, the full Sharepoint Url to the Document library must bed added here.
 + **Allow User Upload Document**: The Administrator of the Publishing App will always be able to upload documents to the Document Library. If end users should be able to do that as well, select this option.
 
 4. Click "Next" and use the following settings:
@@ -52,4 +52,4 @@ Settings for the Publishing App is done in the Settings menu when working with p
 
 Pending Approval
 *****************
-(A description will be added soon).
+If Approval for page creation and edits are activated for the Publishing App, this is one of the places where an administrator can work with approval or rejection.

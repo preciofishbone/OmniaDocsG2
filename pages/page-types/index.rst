@@ -107,7 +107,7 @@ A Section can be targeted by using this setting:
 
 .. image:: page-types-settings-targeting-border.png
 
-Targeting must have been setup in Omnia Admin for this to work, see: :doc:`Targeting Properties </admin-settings/tenant-settings/targeting-properties/index>`
+Targeting must have been setup in Omnia Admin for this to work, see that section on this page: :doc:`Properties </admin-settings/tenant-settings/properties/index>`
 
 To set Targeting for the Section, do the following:
 
