@@ -36,7 +36,13 @@ To publish a page, do the following:
 
 4. Click "PUBLISH".
 
-.. image:: click-publish.png
+.. image:: click-publish-new.png
+
+If approval hase been activated you must instead send for approval and the buttons label indicates that:
+
+.. image:: sen-for-approval.button
+
+Fore more information about Page Approval, see: :doc:`Page Approval </pages/page-approval/index>`
 
 Version History
 ******************
