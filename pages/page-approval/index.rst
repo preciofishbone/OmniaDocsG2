@@ -1,7 +1,7 @@
 Approve pages
 ===========================================
 
-Omnia can be set up for approval of pages, meaning an administrator must approve piblication of a new page or edits to a page. Approval is set up on Page Collection level.
+Omnia can be set up for approval of pages, meaning someone must approve publication of a new page or edits to a page. Approval is set up on Page Collection level.
 
 The label for the Publish button will indicate if approval is required or not. If approval is not set up, the label will simply be "Publish":
 
