@@ -29,7 +29,7 @@ Use the following settings:
 
 Here's an example of an Announcement with high priority:
 
-.. image:: high-priority.png
+.. image:: high-priority-new.png
 
 Here's an example of Announcements displayed in the Announcements block:
 

@@ -7,19 +7,25 @@ The User Experience
 *******************
 A Tutorial can be set up to start automatically when a page is opened (see more info below). But if it's not, users select the "Tutorial" icon in the heading:
 
-.. image:: tutorial-icon-users.png
+.. image:: tutorial-pinned.png
+
+The tutorial can also be set up to be started in the Menu, for example:
+
+.. image:: tutorial-start-menu.png
+
+See below for more on where to set this.
 
 Here's an example of a Tutorial:
 
-.. image:: tutorial-example.png
+.. image:: tutorial-example-new.png
 
 The user can see the number of Tutorial steps, here:
 
-.. image:: tutorial-number-of-pages.png
+.. image:: tutorial-number-of-pages-new.png
 
 And can navigate between the steps using these buttons:
 
-.. image:: tutorial-navigation.png
+.. image:: tutorial-navigation-new.png
 
 Create or edit a Tutorial
 ****************************
@@ -115,3 +121,7 @@ Something like the following is shown:
 .. image:: reordering.png
 
 Use drag and drop to reorder.
+
+Set where to start a Tutorial
+******************************
+If a Tutorial is set to be started manually the Header/Action Menu settting for the Business Profile decides where the Tutorial Icon will be displayed. See the section "Action Menu" on this page for more information: :doc:`Settings (for Business Profile) </admin-settings/business-group-settings/settings/index>`
