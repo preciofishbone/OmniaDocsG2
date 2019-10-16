@@ -2,26 +2,23 @@
 ===========================================
 
 1. Go into Omnia Admin.
-2. Click on "Business Profiles" in the left-hand navigation and select the newly created Business Profile in the previous step.
-3. Click on "Provisioning Templates".
-4. Create a new template:
+2. Click on Business Profiles in the left-hand navigation and select the newly created Business Profile in the previous step.
+3. Click on Features on the business profile in the left-hand navigation.
+4. Activate the feature Publishing Provisioning Templates.
 
-- Base Definition: Publishing App
-- Title: Publishing
-- Description: Use this template to create a new blank publishing app
-- Icon Type: Fabric
-- Icon: ms-Icon ms-Icon-PublishCourse
-- Enabled: Checked
-- Site Creation Mode: Self-Service
+.. image:: bp-features-publishingprovisioningtemplates.png
 
-**Note!** You can leave the Properties and Features steps blank.
-
-5. Click on "Publishing Apps" in the left-hand navigation.
-6. Create a new publishing app.
+5. Click on Publishing App in the left-hand navigation.
+6. Create a new Publishing App based on the built-in Simple Intranet template.
 
 .. image:: publishingapps-addnew.png
 
-7. Click on the features icon for the newly created Publishing App.
-8. Activate the feature "Default Page Collections and Page Types".
+7. Go to Settings > Header for the current Business Profile.
+8. Save the Start page collection as the mega menu.
 
-.. image:: publishingapp-features-defaultpagecollspagetypes.png
+.. image:: bp-megamenu-setting.png
+
+9. Go to the newly created publishing app and open the editor.
+
+.. image:: publishingapp-openeditor.png
+
