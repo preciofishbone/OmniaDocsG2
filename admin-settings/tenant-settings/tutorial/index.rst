@@ -21,11 +21,11 @@ Here's an example of a Tutorial:
 
 The user can see the number of Tutorial steps, here:
 
-.. image:: tutorial-number-of-pages-new.png
+.. image:: tutorial-number-of-pages-new2.png
 
 And can navigate between the steps using these buttons:
 
-.. image:: tutorial-navigation-new.png
+.. image:: tutorial-navigation-new2.png
 
 Create or edit a Tutorial
 ****************************
