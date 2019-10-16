@@ -3,7 +3,7 @@ User Profile Completion
 
 This is the settings for the user option "Strengthen Profile", found inte the Action Menu:
 
-.. image:: strengthen-profile.png
+.. image:: strengthen-profile-new.png
 
 and for the User Profil Completion block.
 
