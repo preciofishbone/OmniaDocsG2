@@ -3,20 +3,30 @@ Banner
 
 Using the Banner block an editor can add banners on a web page.
 
-.. image:: banners.png
+.. image:: banners-new.png
 
 You add a Banner block the same way as any other blocks, see :doc:`Working with blocks </blocks/working-with-blocks/index>` 
+
+Editing an existing banner
+****************************
+When a page is edited in Write mode a banner can be edited by clicking the pen icon:
+
+.. image:: banner-pen-icon
+
+The Banner Editor opens and you can use the same settings as when adding content to a new banner, see below.
 
 Banner settings
 ****************
 The following Banner settings are available (also see *The Banner Editor*, below):
 
-.. image:: banner-settings.png
+.. image:: banner-settings-new.png
 
 + **Title**: If you want a Title to be shown for the block, add it here.
 + **Property to store data**: Select type of Property to connect the Banner to. When one block on the page has data connected to a Property, that data can be reused in all blocks that uses the same Property. Page scoped. Not mandatory.
 
 The Layout tab contains general block settings. See this page for more information: :doc:`General block settings </blocks/general-block-settings/index>` 
+
+You can use the "Advanced" tab to add or edit Custom CSS to the banner.
 
 Adding content to a new banner
 *******************************
@@ -24,7 +34,7 @@ You add content to a new banner this way:
 
 1. click "ADD CONTENT".
 
-.. image:: banner-add-content.png
+.. image:: banner-add-content-new.png
 
 You can do this in either Write mode or Design mode.
 
@@ -48,15 +58,8 @@ Here you can edit the following:
 
 The Content tab
 ----------------
-Here you can add a title, a text and a footer, if needed. For the text some basic formatting is available.
+Here you can add a title, a text and a footer, if needed. For the text some basic formatting is available. You can also add an image to the content, besides an image for the whole banner.
 
-.. image:: banner-content.png
+.. image:: banner-content-new.png
 
-The Color tab
---------------
-Here you can set the color for title, content, footer and background.
-
-.. image:: banner-color.png
-
-Don't forget to save the changes when you're done.
 
