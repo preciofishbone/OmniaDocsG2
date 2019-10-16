@@ -40,7 +40,7 @@ To publish a page, do the following:
 
 If approval hase been activated you must instead send for approval and the buttons label indicates that:
 
-.. image:: send-for-approval.button
+.. image:: send-for-approval-button.png
 
 Fore more information about Page Approval, see: :doc:`Page Approval </pages/page-approval/index>`
 
