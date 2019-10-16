@@ -15,7 +15,7 @@ Setting up approval
 *********************
 Do the following to set up approval:
 
-1. Go to the Page Collection settings in question (see: the Page Collection Settings section on this page: :doc:`Page Collections </page-collections/index>`) 
+1. Go to the Page Collection settings in question (see: the Page Collection Settings section on this page: :doc:`Page Collections </pages/page-collections/index>`) 
 2. Select "Settings".
 3. Select "Enable Approval" and choose how approval will be executed.
 
@@ -50,7 +50,7 @@ To approve or reject publication of a page, do the following:
 3. If you Click "Approve" the page is published. 
 3. If you click "Reject" the page is not published and you add a message to the editor:
 
-.. image:: approval-reject.png
+.. image:: aproval-reject.png
 
 4. Click "Send" to send the message to the editor.
 
