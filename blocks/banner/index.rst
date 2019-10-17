@@ -11,7 +11,7 @@ Editing an existing banner
 ****************************
 When a page is edited in Write mode a banner can be edited by clicking the pen icon:
 
-.. image:: banner-pen-icon
+.. image:: banner-pen-icon.png
 
 The Banner Editor opens and you can use the same settings as when adding content to a new banner, see below.
 
