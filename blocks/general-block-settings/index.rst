@@ -1,8 +1,6 @@
 General Block Settings
 ===========================================
 
-**(This page is beeing edited - a major update. Check back later.)**
-
 The Layout tab and the Advanced tab contains settings that are general for most blocks, but scoped for each block. 
 
 .. image:: general-block.png
@@ -21,13 +19,21 @@ Use this setting to add some space from the block's border to the content.
 
 Style
 ------
-Use these settings för blobk style:
+Use these settings for block style:
 
 .. image:: general-style.png
 
-+ **Chrome**: 
-+ **Background color**: 
-+ **Elevation**: 
++ **Chrome**: Select to have no Chrome setting or Boxed.
++ **Background color**: Per default á background color for blocks are set in Omnia Adming. You can set another background color for this block here.
++ **Elevation**: With this setting you can make the block "stand outy" from the page. See below for examples.
+
+In this example there's no elevation set for the block:
+
+.. image:: no-elevation.png
+
+And here the elevation is set to 2:
+
+.. image:: elevation-2.png
 
 Header
 --------
@@ -38,6 +44,8 @@ For Header you can choose to use the global settings (set up in Omnia Admin) or 
 For Custom Header Settings you can set the following:
 
 .. image:: layout-header-custom-new.png
+
+"Separator Size" sets the distance from the heading to the content in the block. The rest of the settings - it's obvious what they do.
 
 Targeting
 -------------
