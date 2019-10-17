@@ -24,9 +24,7 @@ The following Banner settings are available (also see *The Banner Editor*, below
 + **Title**: If you want a Title to be shown for the block, add it here.
 + **Property to store data**: Select type of Property to connect the Banner to. When one block on the page has data connected to a Property, that data can be reused in all blocks that uses the same Property. Page scoped. Not mandatory.
 
-The Layout tab contains general block settings. See this page for more information: :doc:`General block settings </blocks/general-block-settings/index>` 
-
-You can use the "Advanced" tab to add or edit Custom CSS to the banner.
+The Layout tab and the Advanced tab contains general block settings. See this page for more information: :doc:`General block settings </blocks/general-block-settings/index>` 
 
 Adding content to a new banner
 *******************************
