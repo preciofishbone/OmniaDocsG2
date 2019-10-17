@@ -13,7 +13,7 @@ The Layout tab contain the following settings:
 
 Spacing
 --------
-Use this setting to add some space from the block's border to the content.
+Use this setting to add some space from the block's border in to the content.
 
 .. image:: general-spacing.png
 
@@ -24,8 +24,8 @@ Use these settings for block style:
 .. image:: general-style.png
 
 + **Chrome**: Select to have no Chrome setting or Boxed.
-+ **Background color**: Per default á background color for blocks are set in Omnia Adming. You can set another background color for this block here.
-+ **Elevation**: With this setting you can make the block "stand outy" from the page. See below for examples.
++ **Background color**: A default background color for blocks are set in Omnia Admin. You can set another background color for this block here, if needed.
++ **Elevation**: With this setting you can make the content of the block "stand out" from the page. See below for examples.
 
 In this example there's no elevation set for the block:
 
@@ -34,6 +34,8 @@ In this example there's no elevation set for the block:
 And here the elevation is set to 2:
 
 .. image:: elevation-2.png
+
+The difference is noticeable at the left side and at the bottom.
 
 Header
 --------
