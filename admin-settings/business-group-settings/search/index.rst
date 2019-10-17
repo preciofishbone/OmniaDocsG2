@@ -37,7 +37,7 @@ Quick Search
 ***************
 Quick Search is available in the Heading (can be turned off in settings):
 
-.. image:: quick-search-start-page.png
+.. image:: quick-search-start-page-new.png
 
 For Quick Search, the following settings are available:
 
