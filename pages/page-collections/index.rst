@@ -37,9 +37,9 @@ Use the settings this way:
 + **Show Url**: If the Url for the new page should be shown for the editor when creating a page, select this option. The Url can then be edited.
 + **Show Properties**: If available Page Properties should be shown for the editor when creating a page, select this option. The Properties can then be edited in that stage. Page Properties can always be edited after the page has been created.
 + **Auto Publish**: This is a setting probably most relevant for Communities. If this option is selected a new page is always published automatically. It's only applicable when a new page is created, not when it's updated.
-+ **Page Types**: Select which of the Page Types should ba available for an editor to select when creating a page.
++ **Page Types**: Select which of the Page Types should be available for an editor to select when creating a page.
 + **Enable Approval**: If Approval should be needed for creation of new pages, enable this. If not enabled, editors can publish new pages themselves. See more info about Approval settings below.
-+ **Reset notification when page is modified**: This setting defines when a notification that a page is new should be shown for users. Normally it's only when the page is created, not when itä's updated. If this option is activated the page is considered to be new every time a it's updated and a new version is published. Therefore it's probably more relevant för pages in Communities than for Publishing Pages.
++ **Reset notification when page is modified**: This setting defines when a notification that a page is new should be shown for users, for example in the Notification Panel. Normally it's only when the page is created, not when it's updated. If this option is activated the page is considered to be new every time it's updated and a new version is published. Therefore it's probably more relevant for pages in Communities than for Publishing Pages.
 + **Enable Activity Points**: This option is a preparation for future functionality.
 
 Settings for Approval
@@ -64,7 +64,7 @@ When selecting "Limited list of people", you add approvers by typing their names
 
 .. image:: limited-list.png
 
-When you select "Based on person property", you open the list and select property. Normally just one or two properties are available. Page Contact is an example of a field than can be relevant, if such a property is set up.
+When you select "Based on person property", you open the list and select property. Normally just one or two properties are available. Page Contact is an example of a field that can be relevant, if such a property is set up.
 
 .. image:: based-on-person.png
 
