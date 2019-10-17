@@ -1,7 +1,9 @@
 General Block Settings
 ===========================================
 
-The Layout tab contains settings that are general for most blocks, but scoped for each block. 
+**(This page is beeing edited - a major update. Check back later.)**
+
+The Layout tab and the Advanced tab contains settings that are general for most blocks, but scoped for each block. 
 
 .. image:: layout-tab.png
 
