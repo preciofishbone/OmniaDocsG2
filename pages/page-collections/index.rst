@@ -70,8 +70,27 @@ When you select "Based on person property", you open the list and select propert
 
 Creating a new Page Collection
 ******************************
-If nedded, a new Page Collection can be created.
+If nedded, a new Page Collection can be created. Do the following:
 
-(A description will be added soon).
+1. Edit any page and open the navigation.
+2. Select "Settings" and then click "+ Page Collection".
+
+.. image:: settings-page-collection.png
+
+3. Choose to use a Navigation Structure or just Flat, meaing no navigation structure.
+
+If you, for example, is creating a new Page Collection for News, you don't need (or most likely don't want) a navigation structure, then select "Flat".
+
+4. Type a name for the new Page Collection.
+5. An Url is added, based on the name. It can be edited if needed.
+6. Click "Create".
+
+.. image:: create-page-collection.png
+
+The new Page Collection is created and placed in the editors navigation. You can now add pages and everything else that is described in the "Pages" section of this documentation.
+
+For settings for the Page Collection, see above.
+
+
 
 
