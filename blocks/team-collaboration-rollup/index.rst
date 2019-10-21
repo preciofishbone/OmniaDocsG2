@@ -5,6 +5,12 @@ Use this block to show team sites and other collaboration sites the user has acc
 
 .. image:: sitedirectory-g2.png
 
+Note that icons indicate if a Teams, Yammer or Facebook Workplace group is connected to the Team Site. Users can click the icon to go to the group.
+
+Here's an example with all three icons present:
+
+.. image:: sitedirectory-icons.png
+
 Settings
 ************************
 The following settings are available for the block:
@@ -36,4 +42,5 @@ Select a View and use the following settings:
 
 Filter
 ------------------
-Here you can add filters with the purpose of just displaying some defined sites.
+Here you can add filters so users can filter (= choose to just see some) a long list.
+
