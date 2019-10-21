@@ -68,6 +68,10 @@ When you select "Based on person property", you open the list and select propert
 
 .. image:: based-on-person.png
 
+Saving Page Collection settings
+********************************
+To save the changes to the Page Collection settings, you need to publish. You can't save a draft, even if that option is present.
+
 Creating a new Page Collection
 ******************************
 If nedded, a new Page Collection can be created. Do the following:
