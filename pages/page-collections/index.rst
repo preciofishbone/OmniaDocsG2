@@ -75,11 +75,11 @@ If nedded, a new Page Collection can be created. Do the following:
 1. Edit any page and open the navigation.
 2. Select "Settings" and then click "+ Page Collection".
 
-.. image:: settings-page-collection.png
+.. image:: settings-page-collection-border.png
 
-3. Choose to use a Navigation Structure or just Flat, meaing no navigation structure.
+3. Choose to use a Navigation Structure or just Flat, meaning no navigation structure.
 
-If you, for example, is creating a new Page Collection for News, you don't need (or most likely don't want) a navigation structure, then select "Flat".
+One example where "Flat" is a relevant choice, is when creating a new Page Collection for News.
 
 4. Type a name for the new Page Collection.
 5. An Url is added, based on the name. It can be edited if needed.
