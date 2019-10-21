@@ -44,3 +44,36 @@ Filter
 ------------------
 Here you can add filters so users can filter (= choose to just see some) a long list.
 
+.. image:: add-filter.png
+
+Do the following:
+
+1. Click "Add Filter".
+2. Open the list and select a property to filter on.
+
+.. image:: add-filter-1.png
+
+**Tip!**: A Search Box is available at the bottom of the property list.
+
+3. Make additional selections for the property if needed.
+
+.. image:: add-filter-2.png
+
+If there's a metadata list to choose from it can look like this, if you, for example will make it possible to just filter on some of the property's metdata:
+
+.. image:: add-filter-3.png
+
+4. If sorting is needed, click "Adjust Filters" and use the arrows to adjust sorting. (Don't forget to click "Done" when you're finished).
+
+.. image:: adjust-filters.png
+
+Here are a common setup for filters, with a search box and filters for Project Manager, Modified and Project Type:
+
+.. image:: team-rollup-filter-example.png
+
+This setup results in the following:
+
+.. image:: team-rollup-example-2.png
+
+
+
