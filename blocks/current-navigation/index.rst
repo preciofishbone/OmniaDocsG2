@@ -15,7 +15,7 @@ The settings
 *************
 These settings are available:.
 
-.. image:: current-navigation-settings-new.png
+.. image:: current-navigation-settings-new2.png
 
 + **Title**: If you would like a title to be shown for the block, add the title here.
 + **Start Level**: The current navigation will start on a specific level in the navigation structure. 1 = Start, 2 = Second level, 3= Third level etc. The default value is 3.

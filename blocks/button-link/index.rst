@@ -7,11 +7,11 @@ Settings
 ***********
 The following settings can be used:
 
-.. image:: button-link-settings.png
+.. image:: button-link-settings-new.png
 
 Any existing Button Links in this block are listed at the top. To edit a button, click the pen. To delete a button, click the dustbin.
 
-.. image:: button-link-settings-edit-delete.png
+.. image:: button-link-settings-edit-delete-new.png
 
 Note that you can see a preview of the button/buttons in the block as you're working on it (but the buttons are not saved and shown for others until you publish the page).
 
@@ -23,7 +23,7 @@ To add a Button Link in this block, do the following:
 
 1. Click "+ ADD BUTTON".
 
-.. image:: button-link-settings-add-button.png
+.. image:: button-link-settings-add-button-new.png
 
 2. Use the following settings:
 
@@ -44,6 +44,3 @@ To add a Button Link in this block, do the following:
 + **Background Color and Text Color**: Choose colors here. Note the comments about Flat button style and Outline above.
 + **Alignment**: (A description will be added later).
 
-Layout
-********
-The Layout tab contains general settings, see: :doc:`General Block Settings </blocks/general-block-settings/index>` 

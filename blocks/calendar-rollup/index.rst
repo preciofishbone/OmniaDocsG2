@@ -9,6 +9,8 @@ Settings
 *********
 Use these settings for the block:
 
+.. image:: calendar-rollup-settings.png
+
 Query
 -------
 Use this tab to add calendars.

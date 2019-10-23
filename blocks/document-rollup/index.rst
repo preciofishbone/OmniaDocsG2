@@ -7,13 +7,13 @@ The settings
 *************************
 The following settings are available:
 
-.. image:: document-rollup-settings.png
+.. image:: document-rollup-settings-new.png
 
 General
 -----------------
 Here you can set the following:
 
-.. image:: document-rollup-settings-general.png
+.. image:: document-rollup-settings-general-new.png
 
 + **Title**: Enter a title to be displayed in the block.
 + **Open in Client App**: Documents are by default opened in the online app. If document should be opened in the client app instead, select this option.
