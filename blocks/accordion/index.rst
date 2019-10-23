@@ -15,16 +15,26 @@ The settings
 *************
 The settings you can do are the following:
 
-.. image:: accordion-settings.png
+.. image:: accordion-settings-new.png
+
+General
+--------------
+Under General you can set the following:
+
+.. image:: accordion-settings-general.png
 
 + **Component Title**: If a Title should be shown for the block, add it in this field.
 + **Page Property to store data**: Select property for the possibibilty to reuse content anywhere else on the page.
 
+Styling
+---------
 Under "Styling" you can set colors and padding for the content.
 
 .. image:: accordion-settings-styling.png
 
-The Layout tab contains general settings, see: :doc:`General Block Settings </blocks/general-block-settings/index>`
+Layout and Advanced
+---------------------
+The tabs Layout and Advanced contain general settings, see: :doc:`General Block Settings </blocks/general-block-settings/index>`
 
 Adding Accordion Text
 ************************
@@ -53,7 +63,5 @@ To edit an Accordion, click the pen. To delete an Accordion, click the x.
 
 .. image:: accordion-edit-delete-border.png
 
-Layout and Advanced
-**********************
-The tabs Layout and Advanced contain general settings, see: :doc:`General Block Settings </blocks/general-block-settings/index>`
+
 
