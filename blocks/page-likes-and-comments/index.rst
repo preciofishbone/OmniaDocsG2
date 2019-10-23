@@ -15,7 +15,18 @@ Settings for the block
 ************************
 In the settings you can add a Title for the block and add som Padding:
 
-.. image:: comments-and-likes-settings.png
+.. image:: comments-and-likes-settings-new.png
+
++ **Title**: Add a Title for the block, if needed.
++ **Enable Rich Text**: If yoiu enable Rich Text, some basic formatting will be availble for the users.
++ **Enable Best Reply**: (A description will be added soon.)
++ **Enable Subscription**: Select this option to make it possible for users to subscribe to comments from this page. 
+
+When Enable Subscription has been activated, this icon is available for subscription:
+
+.. image:: comments-subscription.png
+
+Also note the formatting options, that's the Rich Text options.
 
 The tabs Layout and Advanced contain general settings, see: :doc:`General Block Settings </blocks/general-block-settings/index>`
 

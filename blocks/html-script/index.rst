@@ -3,6 +3,14 @@ HTML/Script
 
 HTML/Script is a block you can use for various applications to add extra functionality or content to a page. One example is to add the code for a video, from YouTube, or some other source.
 
+Block Settings
+***************
+Regarding Block Settings, only general settings are available - the tabs Layout and Advanced, see: :doc:`General Block Settings </blocks/general-block-settings/index>`
+
+.. image:: html-settings.png
+
+Add HTML code
+****************
 To add HTML code, click "ADD CONTENT".
 
 .. image:: html-add-content.png
@@ -16,7 +24,7 @@ When you click "ADD CONTENT" the following is shown:
 + **Javascript**: If Javascript is needed/used, add it here.
 
 General settings
-*****************
+-------------------
 The following settings are available when editing HTML/Script:
 
 .. image:: html-script-general.png
@@ -28,6 +36,3 @@ The following settings are available when editing HTML/Script:
 + **iFrame Height**: If "Run in iFrame" is selected you can set the iFrame Height.
 + **Run Script in Edit Mode**: If the script should be run in reader mode (end user mode) only, select this option.
 
-Layout and Advanced
-**********************
-The tabs Layout and Advanced - in the Block Settings, contain general settings, see: :doc:`General Block Settings </blocks/general-block-settings/index>`

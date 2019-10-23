@@ -15,7 +15,7 @@ Settings
 **********
 The following settings are available:
 
-.. image:: page-feedback-settings.png
+.. image:: page-feedback-settings-new.png
 
 + **Title**: If a Title should be shown for the block, add it here.
 + **Enable rich text**: To enable rich text, select this options. Some formatting options will then be available for the user when typing a feedback message, see above.

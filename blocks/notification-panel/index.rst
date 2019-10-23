@@ -5,7 +5,7 @@ Several Notification Panels can be created in Omnia Admin, for various notificat
 
 For the block, you decide which Notification Panel to add.
 
-.. image:: block-notification-panel.png
+.. image:: block-notification-panel-new.png
 
 There are no other settings for the Notification Panel in the block. All settings are done in Omnia Admin.
 
