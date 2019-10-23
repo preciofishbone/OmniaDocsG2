@@ -18,3 +18,7 @@ Here's an example with the properties for the image above selected:
 .. image:: page-properties-settings-example.png
 
 If a selected property should not be shown, just deselect it. You can delete a property from the list by clicking the dust bin.
+
+Layout and Advanced
+**********************
+The tabs Layout and Advanced contain general settings, see: :doc:`General Block Settings </blocks/general-block-settings/index>`

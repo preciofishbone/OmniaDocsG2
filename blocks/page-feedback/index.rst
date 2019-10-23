@@ -21,6 +21,10 @@ The following settings are available:
 + **Enable rich text**: To enable rich text, select this options. Some formatting options will then be available for the user when typing a feedback message, see above.
 + **Padding**: Add some padding if needed.
 
+Layout and Advanced
+---------------------
+The tabs Layout and Advanced contain general settings, see: :doc:`General Block Settings </blocks/general-block-settings/index>`
+
 Who the feedback is sent to and how
 *************************************
 The Page Feedback is sent to the Page Owner (Page Contact) through e-mail. The following settings are needed for this to work.

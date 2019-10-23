@@ -9,4 +9,4 @@ For the block, you decide which Notification Panel to add.
 
 There are no other settings for the Notification Panel in the block. All settings are done in Omnia Admin.
 
-Tha Layout tab contains general block settings, see this page for more information:  :doc:`General block settings </blocks/general-block-settings/index>`
+The tabs Layout and Advanced contain general settings, see: :doc:`General Block Settings </blocks/general-block-settings/index>`

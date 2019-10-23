@@ -13,3 +13,7 @@ Settings for the block
 The only setting available for the Breadcrumb block is padding.
 
 .. image:: breadcrumb-settings.png
+
+Layout and Advanced
+**********************
+The tabs Layout and Advanced contain general settings, see: :doc:`General Block Settings </blocks/general-block-settings/index>`

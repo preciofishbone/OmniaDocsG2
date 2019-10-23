@@ -94,3 +94,7 @@ Here you select refiners to show for the list:
 
 + **Position**: Set position for the refiners here; "Top", "Left" or "Right".
 + **Add refiner**: Click this option to add a a property to use as a refiner. You can add as many properties as is applicable. For each refiner added you can set sort order; "Alphabetical" or "Count". You can also set a limit.
+
+Layout and Advanced
+**********************
+The tabs Layout and Advanced contain general settings, see: :doc:`General Block Settings </blocks/general-block-settings/index>`

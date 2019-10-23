@@ -27,3 +27,7 @@ The following settings are available when editing HTML/Script:
 + **Run in iFrame**: Per default, the HTML/Script you add here are run in iFrame. If needed this option can be deselected.
 + **iFrame Height**: If "Run in iFrame" is selected you can set the iFrame Height.
 + **Run Script in Edit Mode**: If the script should be run in reader mode (end user mode) only, select this option.
+
+Layout and Advanced
+**********************
+The tabs Layout and Advanced - in the Block Settings, contain general settings, see: :doc:`General Block Settings </blocks/general-block-settings/index>`

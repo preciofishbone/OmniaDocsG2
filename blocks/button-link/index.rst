@@ -15,6 +15,8 @@ Any existing Button Links in this block are listed at the top. To edit a button,
 
 Note that you can see a preview of the button/buttons in the block as you're working on it (but the buttons are not saved and shown for others until you publish the page).
 
+The tabs Layout and Advanced contain general settings, see: :doc:`General Block Settings </blocks/general-block-settings/index>`
+
 Add a Button Link
 *******************
 To add a Button Link in this block, do the following:

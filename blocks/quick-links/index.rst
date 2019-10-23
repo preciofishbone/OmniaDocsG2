@@ -30,5 +30,9 @@ You should primarily set colors centrally but you can change colors for some ele
 
 .. image:: quick-links-settings-colors.png
 
+Layout and Advanced
+**********************
+The tabs Layout and Advanced contain general settings, see: :doc:`General Block Settings </blocks/general-block-settings/index>`
+
 
 

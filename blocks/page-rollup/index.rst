@@ -70,6 +70,6 @@ This could show the following:
 
 "2 months ago" etc is the "Social" setting for date. If you would like to show exact dates instead, select "Normal".
 
-Layout
-*******
-The Layout tab contains general settings, see: :doc:`General Block Settings </blocks/general-block-settings/index>`
+Layout and Advanced
+**********************
+The tabs Layout and Advanced contain general settings, see: :doc:`General Block Settings </blocks/general-block-settings/index>`

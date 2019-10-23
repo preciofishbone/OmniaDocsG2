@@ -16,3 +16,6 @@ The following settings are available:
 + **Include Legacy Announcements**: If you're using the earlier Omnia solution for Team Announcements, select this option to show them here.
 + **Padding**: You can add some padding between the list and the block border if needed.
 
+Layout and Advanced
+**********************
+The tabs Layout and Advanced contain general settings, see: :doc:`General Block Settings </blocks/general-block-settings/index>`

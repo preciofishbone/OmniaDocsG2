@@ -7,6 +7,14 @@ Here's an example of how users will see related links:
 
 .. image:: related-links-example.png
 
+Settings
+*********
+(Will be added in just a moment).
+
+Layout and Advanced
+---------------------
+The tabs Layout and Advanced contain general settings, see: :doc:`General Block Settings </blocks/general-block-settings/index>`
+
 Adding a link
 **************
 When you click "Add link" the Add link general asset is opened. See this page for more information on how to add links: :doc:`Add link </general-assets/add-link/index>`

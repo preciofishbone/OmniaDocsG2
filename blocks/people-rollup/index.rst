@@ -47,3 +47,7 @@ Use these settings to add refiners.
 + **Position**: Decide where to out the refiners; top, left or right.
 + **Add refiner**: Click this button to add a refiner.
 
+Layout and Advanced
+**********************
+The tabs Layout and Advanced contain general settings, see: :doc:`General Block Settings </blocks/general-block-settings/index>`
+

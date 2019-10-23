@@ -15,4 +15,4 @@ The only setting that can be done for the block is this:
 
 + **Hide if no variations exist for the page**: This option is selected by default. If you want the block to always be shown, even if no Page Variations exists (yet), deselect this option.
 
-The Layout tab contains general settings, see: :doc:`General Block Settings </blocks/general-block-settings/index>`
+The tabs Layout and Advanced contain general settings, see: :doc:`General Block Settings </blocks/general-block-settings/index>`

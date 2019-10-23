@@ -17,7 +17,7 @@ In the settings you can add a Title for the block and add som Padding:
 
 .. image:: comments-and-likes-settings.png
 
-The Layout tab contains general block settings, see: :doc:`General block settings </blocks/general-block-settings/index>`
+The tabs Layout and Advanced contain general settings, see: :doc:`General Block Settings </blocks/general-block-settings/index>`
 
 More on Likes and Comments
 ***************************

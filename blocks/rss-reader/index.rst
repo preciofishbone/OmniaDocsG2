@@ -32,3 +32,7 @@ Here's an example of an RSS list with Classic Paging:
 
 .. image:: classic-paging.png
 
+Layout and Advanced
+**********************
+The tabs Layout and Advanced contain general settings, see: :doc:`General Block Settings </blocks/general-block-settings/index>`
+

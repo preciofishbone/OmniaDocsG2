@@ -30,9 +30,9 @@ Here you can set the following:
 + **Item Limit**: Set the number of items to display on each "page" of the list.
 + **Padding**: Set some padding around the list if needed.
 
-Layout
-*******
-The Layout tab contains general block settings available for all blocks, see: :doc:`General block settings </blocks/general-block-settings/index>`
+Layout and Advanced
+**********************
+The tabs Layout and Advanced contain general settings, see: :doc:`General Block Settings </blocks/general-block-settings/index>`
 
 
 

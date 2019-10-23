@@ -53,13 +53,13 @@ Do the following:
 
 .. image:: add-filter-1.png
 
-**Tip!**: A Search Box is available at the bottom of the property list.
+**Tip!** A Search Box is available at the bottom of the property list.
 
 3. Make additional selections for the property if needed.
 
 .. image:: add-filter-2.png
 
-If there's a metadata list to choose from it can look like this, if you, for example will make it possible to just filter on some of the property's metdata:
+If there's a metadata list to choose from it can look like this:
 
 .. image:: add-filter-3.png
 
@@ -67,7 +67,7 @@ If there's a metadata list to choose from it can look like this, if you, for exa
 
 .. image:: adjust-filters.png
 
-Here are a common setup for filters, with a search box and filters for Project Manager, Modified and Project Type:
+Here is a common setup for filters, with a search box and filters for Project Manager, Modified and Project Type:
 
 .. image:: team-rollup-filter-example.png
 

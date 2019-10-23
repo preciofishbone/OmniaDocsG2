@@ -39,3 +39,7 @@ Check the box "Enable Planner Tasks" to include tasks from planner in the Tasks 
 
 .. image:: tasks-rollup-settings-planner.png
 
+Layout and Advanced
+**********************
+The tabs Layout and Advanced contain general settings, see: :doc:`General Block Settings </blocks/general-block-settings/index>`
+
