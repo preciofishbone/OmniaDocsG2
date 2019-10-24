@@ -26,7 +26,7 @@ The following settings are available for the block:
 
 When Machine Translation has been enabled an icon is shown:
 
-..image:: machine-translation-icon.png
+.. image:: machine-translation-icon.png
 
 Click the icon and select language.
 
