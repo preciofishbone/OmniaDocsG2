@@ -1,13 +1,13 @@
 People Rollup
 ===========================================
 
-**Note! This description is just started. More will be added soon.**
+Use this block to display lists of people, for many various reasons.
 
 Settings
 *************************
 The following settings are available:
 
-.. image:: peoplerollup-settings.png
+.. image:: peoplerollup-settings-new.png
 
 General
 ----------------

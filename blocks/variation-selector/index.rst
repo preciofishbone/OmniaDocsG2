@@ -11,7 +11,7 @@ The block will simply show a list of the available Page Variations when opened.
 
 The only setting that can be done for the block is this:
 
-.. image:: page-variation-setting.png
+.. image:: page-variation-setting-new.png
 
 + **Hide if no variations exist for the page**: This option is selected by default. If you want the block to always be shown, even if no Page Variations exists (yet), deselect this option.
 

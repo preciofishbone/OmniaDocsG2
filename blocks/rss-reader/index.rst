@@ -15,7 +15,7 @@ The following settings can be used:
 
 Start by selecting "Display" and the rest of the settings will be shown. 
 
-.. image:: rss-reader-settings-1.png
+.. image:: rss-reader-settings-new.png
 
 The following settings are available:
 

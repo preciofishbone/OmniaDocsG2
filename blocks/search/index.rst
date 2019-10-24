@@ -5,10 +5,10 @@ The Advanced Search block adds the same search functionality as the Advaced Sear
 
 .. image:: advanced-search-result.png
 
-Regarding settings, the general block settings found under the Layout tab are available:
+Settings
+**********
+You can add a title for the block if needed:
 
-.. image:: advanced-search-settings-block.png
+.. image:: advanced-search-settings-block-new.png
 
-Layout and Advanced
-**********************
 The tabs Layout and Advanced contain general settings, see: :doc:`General Block Settings </blocks/general-block-settings/index>`

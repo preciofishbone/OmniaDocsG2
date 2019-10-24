@@ -14,7 +14,7 @@ Settings
 *********
 The following settings are available for the block:
 
-.. image:: text-settings.png
+.. image:: text-settings-new.png
 
 + **Title**: To add a title for the block, type the title here.
 + **Property to store data**: Select type of text to be used in this block; Title, Page Content or Page Summary. When one block on the page has data connected to a Property, that data can be reused in all blocks that uses the same Property. Page scoped. Not mandatory.
@@ -22,6 +22,7 @@ The following settings are available for the block:
 
 .. image:: text-setting-format.png
 
++ **Enable Machine Translation**: (A descirption will be added soon.)
 + **Help text**: Here you can add a help text for the editor, for example to make it clear what kind of content should be added to the block. The help text is shown when no content is added, and when the block is edited. The help text is never shown to users as it's not shown for a published version of the page.
 
 Here's an example of help text:

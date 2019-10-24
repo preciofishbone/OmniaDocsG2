@@ -9,7 +9,7 @@ Settings
 *********
 The following settings are available for the block:
 
-.. image:: quick-links-settings.png
+.. image:: quick-links-settings-new.png
 
 General
 --------

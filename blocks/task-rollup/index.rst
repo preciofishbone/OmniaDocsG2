@@ -11,7 +11,7 @@ Settings
 *********
 The following settings are available:
 
-.. image:: tasks-rollup-settings-new.png
+.. image:: tasks-rollup-settings-new2.png
 
 General
 ---------

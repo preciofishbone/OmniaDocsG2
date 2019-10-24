@@ -7,7 +7,7 @@ Settings
 *********
 These settings are available for the block:
 
-.. image:: page-rollup-settings-new.png
+.. image:: page-rollup-settings-new2.png
 
 Query
 ------

@@ -7,7 +7,7 @@ Settings
 *********
 The following settings are available:
 
-.. image:: team-news-rollup-settings.png
+.. image:: team-news-rollup-settings-new.png
 
 + **Title**: You can add a title to be shown for the block.
 + **Row Limit**: Decide the number of rows to show for each "page" of the list.

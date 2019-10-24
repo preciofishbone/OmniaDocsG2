@@ -9,7 +9,12 @@ Here's an example of how users will see related links:
 
 Settings
 *********
-(Will be added in just a moment).
+The following settings are available for the block:
+
+.. image:: related-links-settings.png
+
++ **Title**: To add a title for the block, type the title here.
++ **Property to store data**: Select property from the list. When one block on the page has data connected to a property, that data can be reused in all blocks that uses the same property. Page scoped. Not mandatory.
 
 Layout and Advanced
 ---------------------
