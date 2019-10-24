@@ -19,7 +19,7 @@ In the settings you can add a Title for the block and add som Padding:
 
 + **Title**: Add a Title for the block, if needed.
 + **Enable Rich Text**: If you enable Rich Text, some basic formatting will be availble for the users. See image below for an example.         
-+ **Enable Best Reply**: (A description will be added soon.)
++ **Enable Best Reply**: This is a preparation for functionality to come later.
 + **Enable Subscription**: Select this option to make it possible for users to subscribe to comments from this page. 
 
 When Enable Subscription has been activated, this icon is available for subscription:

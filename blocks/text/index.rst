@@ -22,7 +22,18 @@ The following settings are available for the block:
 
 .. image:: text-setting-format.png
 
-+ **Enable Machine Translation**: (A descirption will be added soon.)
++ **Enable Machine Translation**: You can enable Machine Translation to make it possible for editors to translate a text to any language that is handled in the tenant. 
+
+When Machine Translation has been enabled an icon is shown:
+
+..image:: machine-translation-icon.png
+
+Click the icon and select language.
+
+.. image:: machine-translation-languages.png
+
+For a language to be available for machine translation, it has to be setup in Omnia Admin. See the heading "Languages" on this page for more information: :doc:`Tenant Settings </admin-settings/tenant-settings/settings/index>`
+
 + **Help text**: Here you can add a help text for the editor, for example to make it clear what kind of content should be added to the block. The help text is shown when no content is added, and when the block is edited. The help text is never shown to users as it's not shown for a published version of the page.
 
 Here's an example of help text:
