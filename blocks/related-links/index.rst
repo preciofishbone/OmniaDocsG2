@@ -15,6 +15,7 @@ The following settings are available for the block:
 
 + **Title**: To add a title for the block, type the title here.
 + **Property to store data**: Select property from the list. When one block on the page has data connected to a property, that data can be reused in all blocks that uses the same property. Page scoped. Not mandatory.
++ **Padding**: Add some padding between the block edges and the links list, if needed.
 
 Layout and Advanced
 ---------------------
