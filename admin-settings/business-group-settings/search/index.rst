@@ -80,6 +80,20 @@ Then these settings is available:
 
 To delete a Refiner, just click the dust bin.
 
+To create a new refiner, do the following:
+
+1. click the plus.
+
+.. image:: new-refiner-1.png
+
+2. Select property for the refiner.
+
+.. image:: new-refiner-2.png
+
+3. Set "order By" and "Refiner Limit" and save.
+
+.. image:: new-refiner-3.png
+
 Here's an example of refiners for Product Manuals, with 22 hits:
 
 .. image:: search-refiners-example.png
