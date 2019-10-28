@@ -69,7 +69,7 @@ Additional settings can be reached by clicking the pen for a Search Category:
 
 .. image:: advanced-search-pen.png
 
-Then these settings is available:
+Then these settings are available:
 
 .. image:: advanced-search-category-settings-new.png
 
