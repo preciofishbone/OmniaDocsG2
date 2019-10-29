@@ -111,7 +111,7 @@ To add a new filter, do the following:
 
 .. image:: peopleadd-filter-more.png
 
-4. Continue and all filters the same way.
+4. Continue and add all filters the same way.
 
 . NahRefiner
 ---------
