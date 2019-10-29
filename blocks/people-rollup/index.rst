@@ -31,7 +31,7 @@ In the image at the top of the page, Card view is used. See below for a Roller e
 
 The following settings are available for the views:
 
-+ **Add Column**: Use this setting to add columns to the list. Note that this is important even for Card view. IKt's the "Columns" that actually shows information about the people. You must always add at least one column!
++ **Add Column**: This is not columns in columns in a table. Think: What information do I want to show about the people? You must always add at least one column or nothing will be shown!
 + **Person Name**: Select property to get the Person Name from.
 + **Show Profile Image**: Select this option to show the person's image.
 + **Slide Height**: Set the height of the area to show the content in. Available for Roller view only.
@@ -42,7 +42,7 @@ The following settings are available for the views:
 + **Sort By**: Select the property to sort the list by.
 + **Paging**: Select how paging should work; “No Paging”, “Classic” or “Scroll”. See below for examples. Scroll is note applicabale for Roller view.
 + **Item Limit**: To limit the number of items being displayed, add a fixed number here. If you set a high number (for example the default, 50) as many people as meets the query criteria is shown, up to that number. If you set a low number, that is the number of people tha list wil show, regardless of how many meets the query criteria.
-+ **Left Zone Width, Right Zone Width**: For the Roller view, the width of the left and right zones are per default handled dynamically. Here you can set a specific width in pixels, if needed.
++ **Left Zone Width, Right Zone Width**: (A description will be added soon).
 
 Here's an example of a  Roller view, with Slide Height 150, Alignment Center, Justify Center, No Paging and Item Limit 5.
 
@@ -91,10 +91,27 @@ Filter
 -------
 Use these settings to add filters for the users to use.
 
-.. image:: peoplerollup-settings-filter.png
+.. image:: peoplerollup-settings-filter-new.png
 
-+ **Position**: Decide where to place the filters; top, left or right.
++ **Position**: Decide where to place the filters; top, left or right. Tips! The Top position is most likely the best for this block.
 + **Add filter**: Click this button to add a filter.
++ **Show Search Box**: To display a Search Box so users can search the list, select this option.
+
+To add a new filter, do the following:
+
+1. Click "Add filter".
+
+.. image:: click-add-filter.png
+
+2. Open the list and select a property to filter on.
+
+.. image:: peopleadd-filter.png
+
+3. Add additional filter settings if needed.
+
+.. image:: peopleadd-filter-more.png
+
+4. Continue and all filters the same way.
 
 Refiner
 ---------
