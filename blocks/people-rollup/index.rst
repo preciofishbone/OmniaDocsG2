@@ -93,7 +93,7 @@ Use these settings to add filters for the users to use.
 
 .. image:: peoplerollup-settings-filter-new.png
 
-+ **Position**: Decide where to place the filters; top, left or right. Tips! The Top position is most likely the best for this block.
++ **Position**: Decide where to place the filters; top, left or right. Tip! The Top position for Refiners is most likely the best for this block.
 + **Add filter**: Click this button to add a filter.
 + **Show Search Box**: To display a Search Box so users can search the list, select this option.
 
@@ -105,7 +105,7 @@ To add a new filter, do the following:
 
 2. Open the list and select a property to filter on.
 
-.. image:: peopleadd-filter.png
+.. image:: people-add-filter.png
 
 3. Add additional filter settings if needed.
 
@@ -113,7 +113,7 @@ To add a new filter, do the following:
 
 4. Continue and all filters the same way.
 
-Refiner
+. NahRefiner
 ---------
 Use these settings to add refiners.
 
