@@ -113,7 +113,7 @@ To add a new filter, do the following:
 
 4. Continue and add all filters the same way.
 
-. NahRefiner
+Refiner
 ---------
 Use these settings to add refiners.
 
