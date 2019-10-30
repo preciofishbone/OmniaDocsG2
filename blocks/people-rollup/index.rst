@@ -1,9 +1,14 @@
 People Rollup
 ===========================================
 
-Use this block to display lists of people, for many various reasons.
+Use this block to display lists of people, for many various reasons. Here are a few examples of implementations:
 
-Here are two examples. New Recruitments and People on the Move are different People Rollup blocks.
++ Display contact person for a page or for something else.
++ List colleagues working at a particular office.
++ List members or owners in a group site.
++ Create a people directory.
+
+Here are two examples of the user interface. New Recruitments and People on the Move are different People Rollup blocks.
 
 .. image:: people-rollup-example.png
 
@@ -89,11 +94,11 @@ You can also add additional parameters. by using the method explained above or t
 
 Filter
 -------
-Use these settings to add filters for the users to use.
+Use these settings to add filters for the users to use. An example could be if a People Rollup block displays all colleagues in different departments, you may want to display a filter for departments so user can display a list of only colleagues in a certain department.
 
 .. image:: peoplerollup-settings-filter-new.png
 
-+ **Position**: Decide where to place the filters; top, left or right. Tip! The Top position for Refiners is most likely the best for this block.
++ **Position**: Decide where to place the filters; top, left or right. Tip! The Top position for filters is most likely the best for this block.
 + **Add filter**: Click this button to add a filter.
 + **Show Search Box**: To display a Search Box so users can search the list, select this option.
 
