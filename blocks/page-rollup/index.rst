@@ -84,15 +84,15 @@ The purpose of a News Archive is to display ALL published news for the users to 
 
 Here's an example of how the user interface can look:
 
-.. image:: page-rollup-news-archive-example.png
+.. image:: page-rollup-example-news-center.png
 
 (The "Create News Article" button is shown only for those that has the permission to create News.)
 
 The Page Rollup can be set up the following way:
 
-Query: Scope - Page Collections, News.
-Social Period: All default.
-Display: Depends on how you want it to look. In the above example, these settings are used:
++ Query: Scope - Page Collections, News.
++ Social Period: All default.
++ Display: Depends on how you want it to look. In the above example, these settings are used:
 
 .. image:: news-archive-example-1.png
 
@@ -100,11 +100,17 @@ and these:
 
 .. image:: news-archive-example-2.png
 
-Note the "Show create button" option, the label for that button and the option set to to where these pages are created.
-
 and finally, these:
 
 .. image:: news-archive-example-3.png
+
+Note the "Show create button" option, the label for that button and the option set to to where these pages are created.
+
++ Filters: A search box is always a good idea in a News Center. the users should most likely also be able to filter the list on one or more propertys, for example:
+
+.. image:: news-archive-filters.png
+
++ Page Variations: None. (If Page variions will be used, for example for different languages, it will be used on the pages. Or a separate News Center could be set up for News in other languages, or for any other purpose, for that matter.)
 
 Latest News
 -------------
@@ -112,14 +118,14 @@ The purpose of this Page Rollup is as it says - to display a number of the lates
 
 It can look like this for users:
 
-.. image:: page-rollup.png
+.. image:: page-rollup-latest-news-example.png
 
 For this purpose the Page Rollup block can be set up like this:
 
-Query: Scope - Page Collections, News.
-The option "Exclude current page" can be a good idea to have selected. 
-Social Period: All default.
-Display: Depends on how you want it to look, of course. In the above example, these settings are used:
++ Query: Scope - Page Collections, News.
++ The option "Exclude current page" can be a good idea to have selected. 
++ Social Period: All default.
++ Display: Depends on how you want it to look, of course. In the above example, these settings are used:
 
 .. image:: latest-news-example-1.png
 
@@ -127,6 +133,6 @@ and these:
 
 .. image:: latest-newsexample-2.png
 
-Filters: none.
-Page Variations: Default Variations.
++ Filters: none.
++ Page Variations: Default Variations.
 
