@@ -80,7 +80,7 @@ In this section we show a number of examples of how the Page Rollup could be imp
 
 News Archive/News Center
 --------------------------
-The purpose of a News Archive is to display ALL published news for the users to read. Normally a News Editor can create and edit news artcicles from there.
+The purpose of a News Center is to display ALL published news for the users to read. Normally a News Editor can create and edit news artcicles from there.
 
 Here's an example of how the user interface can look:
 
@@ -106,7 +106,7 @@ and finally, these:
 
 Note the "Show create button" option, the label for that button and the option set to to where these pages are created.
 
-+ Filters: A search box is always a good idea in a News Center. the users should most likely also be able to filter the list on one or more propertys, for example:
++ Filters: A search box is always a good idea in a News Center. The users should most likely also be able to filter the list on one or more properties, for example:
 
 .. image:: news-archive-filters.png
 
@@ -131,7 +131,7 @@ For this purpose the Page Rollup block can be set up like this:
 
 and these:
 
-.. image:: latest-newsexample-2.png
+.. image:: latest-news-example-2.png
 
 + Filters: none.
 + Page Variations: Default Variations.
