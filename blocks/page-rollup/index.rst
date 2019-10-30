@@ -73,3 +73,60 @@ This could show the following:
 Layout and Advanced
 **********************
 The tabs Layout and Advanced contain general settings, see: :doc:`General Block Settings </blocks/general-block-settings/index>`
+
+Page Rollup implementations
+****************************
+In this section we show a number of examples of how the Page Rollup could be implemented.
+
+News Archive/News Center
+--------------------------
+The purpose of a News Archive is to display ALL published news for the users to read. Normally a News Editor can create and edit news artcicles from there.
+
+Here's an example of how the user interface can look:
+
+.. image:: page-rollup-news-archive-example.png
+
+(The "Create News Article" button is shown only for those that has the permission to create News.)
+
+The Page Rollup can be set up the following way:
+
+Query: Scope - Page Collections, News.
+Social Period: All default.
+Display: Depends on how you want it to look. In the above example, these settings are used:
+
+.. image:: news-archive-example-1.png
+
+and these:
+
+.. image:: news-archive-example-2.png
+
+Note the "Show create button" option, the label for that button and the option set to to where these pages are created.
+
+and finally, these:
+
+.. image:: news-archive-example-3.png
+
+Latest News
+-------------
+The purpose of this Page Rollup is as it says - to display a number of the latest News.
+
+It can look like this for users:
+
+.. image:: page-rollup.png
+
+For this purpose the Page Rollup block can be set up like this:
+
+Query: Scope - Page Collections, News.
+The option "Exclude current page" can be a good idea to have selected. 
+Social Period: All default.
+Display: Depends on how you want it to look, of course. In the above example, these settings are used:
+
+.. image:: latest-news-example-1.png
+
+and these:
+
+.. image:: latest-newsexample-2.png
+
+Filters: none.
+Page Variations: Default Variations.
+
