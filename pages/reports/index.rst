@@ -47,7 +47,7 @@ Pending Approval
 **********************
 If Approval for pages has been set up, this list will show all pages with pending approval.
 
-How to approve or reject here is described om this page, where you can find more information about approval: :doc:`Approve pages </pages/page-approval/index>`
+How to approve or reject here is described on this page, where you can find more information about approval: :doc:`Approve pages </pages/page-approval/index>`
 
 Settings for Reports
 *********************
