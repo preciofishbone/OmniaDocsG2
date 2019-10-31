@@ -93,6 +93,8 @@ Page Variations
 ----------------
 Using Page Variations you can select the following:
 
+.. image:: page-rollup-variations.png
+
 + **User Variation**: (A description will be added soon).
 + **Default Variation**: (A description will be added soon).
 + **All Variations**: (A description will be added soon).
