@@ -77,6 +77,8 @@ Here's a simple example of a Query for displaying documents that are published l
 
 .. image:: documents-query.png
 
+Note that you can type the script directly in the field, if you know how. You can use all options in the Keyword Query Language (KQL). See this Microsoft page for reference: https://docs.microsoft.com/en-us/sharepoint/dev/general-development/keyword-query-language-kql-syntax-reference
+
 Filter
 --------
 Select filters to show for the list.
