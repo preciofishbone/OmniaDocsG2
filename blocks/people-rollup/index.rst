@@ -124,8 +124,9 @@ Use these settings to add refiners.
 
 .. image:: peoplerollup-settings-refiner.png
 
-+ **Position**: Decide where to out the refiners; top, left or right. (Top is most likely the best position in most People Rollup lists.)
-+ **Add refiner**: Click this button to add a refiner.
++ **Position**: Decide where to put the refiners; top, left or right. (Top is most likely the best position in most People Rollup lists.)
+
+To add a refiner, do the following:
 
 1. Set position for the refiner(s).
 2. Click "Add refiner".
@@ -143,7 +144,7 @@ Use these settings to add refiners.
 5. Add eventual additional refiners the same way.
 6. If you have added more than one refiner, use "Adjust refiners" to decide the order.
 
-Here's an example of a refiner present at the top. Users can choose to show colleagues from just one of the twp departements:
+Here's an example of a refiner present at the top. Users can choose to show colleagues from just one of the two departements:
 
 .. image:: people-rollup-example-refiners.png
 
