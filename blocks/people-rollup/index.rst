@@ -86,7 +86,7 @@ It can result in something like this:
 
 .. image:: query-added.png
 
-Note that you can type the script directly in the field, if you know how.
+Note that you can type the script directly in the field, if you know how. You can use all options in the Keyword Query Language (KQL). See this Microsoft page for reference: :doc:`Keyword Query Language (KQL) syntax reference <https://docs.microsoft.com/en-us/sharepoint/dev/general-development/keyword-query-language-kql-syntax-reference>`
 
 You can also add additional parameters. by using the method explained above or typing directly in the field. Here's an example when the script collects users from two departments:
 
