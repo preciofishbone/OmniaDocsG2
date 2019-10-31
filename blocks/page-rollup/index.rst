@@ -90,7 +90,7 @@ Here's an example of how the user interface can look:
 
 The Page Rollup can be set up the following way:
 
-+ Query: Scope - Page Collections, News.
++ Query: Scope - Page Collections, News (the Page Collection with the name "News").
 + Social Period: All default.
 + Display: Depends on how you want it to look. In the above example, these settings are used:
 
@@ -104,7 +104,7 @@ and finally, these:
 
 .. image:: news-archive-example-3.png
 
-Note the "Show create button" option, the label for that button and the option set to to where these pages are created.
+Note the "Show create button" option, the label for that button and the option to set in which Page Collection these pages are created (in this case "News", the Page Collection selected under "Query").
 
 + Filters: A search box is always a good idea in a News Center. The users should most likely also be able to filter the list on one or more properties, for example:
 
@@ -136,3 +136,50 @@ and these:
 + Filters: none.
 + Page Variations: Default Variations.
 
+Most Commented News
+-------------
+The purpose of this Page Rollup is as it says - to display a number of the most commented News.
+
+It can look like this for users:
+
+.. image:: page-rollup-example-most-commented-news.png
+
+For this purpose the Page Rollup block can be set up like this:
+
++ Query: Scope - Page Collections, News.
++ If this block is placed in the Page Type for News, "Exclude current page" can be a good idea to have selected. 
++ Social Period - Comment: If you don't want old comments to affect the list, select a social period.
++ Display: Depends on how you want it to look. In the above example, these settings are used:
+
+.. image:: most-commented-example-1.png
+
+and these:
+
+.. image:: most-commented-example-2.png
+
++ Filters: none.
++ Page Variations: User variation.
+
+Most Liked News
+-------------
+The purpose of this Page Rollup is as it says - to display a number of the most liked News.
+
+It can look like this for users:
+
+.. image:: page-rollup-most-liked-news-example.png
+
+For this purpose the Page Rollup block can be set up like this:
+
++ Query: Scope - Page Collections, News.
++ If this block is placed in the Page Type for News, "Exclude current page" can be a good idea to have selected. 
++ Social Period - Like: If you don't want old likes to affect the list, select a social period.
++ Display: Depends on how you want it to look. In the above example, these settings are used:
+
+.. image:: most-liked-example-1.png
+
+and these:
+
+.. image:: most-liked-example-2.png
+
++ Filters: none.
++ Page Variations: User variation.
