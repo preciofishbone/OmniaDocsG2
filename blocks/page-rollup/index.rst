@@ -72,7 +72,7 @@ This could show the following:
 
 Filter
 -------
-If users should be able to filter the list, use these options to add filters. A good example of when filters may be needed is in a News Center. See under Page Rollup Implementations for an example of how it can look for users.
+If users should be able to filter the list, use these options to add filters. A good example of when filters may be needed is in a News Center. See under *Page Rollup Implementations* for an example of how it can look for users.
 
 To add a filter, do the following:
 
