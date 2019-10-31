@@ -70,6 +70,33 @@ This could show the following:
 
 "2 months ago" etc is the "Social" setting for date. If you would like to show exact dates instead, select "Normal".
 
+Filter
+-------
+If users should be able to filter the list, use these options to add filters. A good example of when filters may be needed is in a News Center. See under Page Rollup Implementations for an example of how it can look for users.
+
+To add a filter, do the following:
+
+1. Click "Add filter".
+
+.. image:: page-rollup-add-filter.png
+
+2. Open the list and add a property to filter on, or a Search box.
+
+.. image:: page-rollup-add-filter-list.png
+
+3. If you added a Search Box, select additional Page Proprties if needed.
+4. Continue adding filters untilf you're done.
+
+.. image:: page-rollup-add-filter-done.png
+
+Page Variations
+----------------
+Using Page Variations you can select the following:
+
++ **User Variation**: (A description will be added soon).
++ **Default Variation**: (A description will be added soon).
++ **All Variations**: (A description will be added soon).
+
 Layout and Advanced
 **********************
 The tabs Layout and Advanced contain general settings, see: :doc:`General Block Settings </blocks/general-block-settings/index>`
