@@ -55,7 +55,7 @@ Here's an example of a  Roller view, with Slide Height 150, Alignment Center, Ju
 
 Here's an example of a Classic view (note the page icons at the bottom):
 
-.. image:: people-rollup-classic-vew.png
+.. image:: people-rollup-classic-view.png
 
 **Important note on "No Paging"**: If you choose "No paging" and set "Item Limit" to a specific number, that is the number of people that will be available in the list, regardless of how many that actually meets the search criteria.
 
