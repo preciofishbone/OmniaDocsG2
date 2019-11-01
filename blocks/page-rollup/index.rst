@@ -106,7 +106,7 @@ Using Page Variations you can select the following:
 + **Default Variation**: The default variations are always listed.
 + **All Variations**: All variations is listed, meaning several copies of a page can be shown in the list, if the page has variations.
 
-You can find more information about variations under the heading "Variations" on this page: :doc:`Publishing App Settings </pages/publishing-app-settings/index>`
+You can find more information about variations under the heading "Variations" on this page: :doc:`Publishing App Settings </pages/page-settings/index>`
 
 Layout and Advanced
 **********************
