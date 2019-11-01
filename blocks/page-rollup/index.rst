@@ -84,10 +84,17 @@ To add a filter, do the following:
 
 .. image:: page-rollup-add-filter-list.png
 
-3. If you added a Search Box, select additional Page Proprties if needed.
-4. Continue adding filters untilf you're done.
+3. If you added a Search Box you can set a default search value, meaing this search will be carried out when the page with this block is opened. The user can then execute any search.
+
+.. image:: page-rollup-search-default.png
+
+4. If you added a Search Box, select additional Text Properties to be searched, if needed. The headings of the pages are always searched. If you select one or more properties here, the text in blocks on the page, using these properties, are also searched.
+
+5. Continue adding filters until you're done.
 
 .. image:: page-rollup-add-filter-done.png
+
+6. If you added several filters, select "Adjust filters" the decide the order.
 
 Page Variations
 ----------------
@@ -95,9 +102,11 @@ Using Page Variations you can select the following:
 
 .. image:: page-rollup-variations.png
 
-+ **User Variation**: (A description will be added soon).
-+ **Default Variation**: (A description will be added soon).
-+ **All Variations**: (A description will be added soon).
++ **User Variation**: Pages (News) will be chosen from the logged in users preferred setting for the Variation, for example language setting, in the user's profile. If some pages does not have a variation that correspond with the user's setting, the default variation will be chosen.
++ **Default Variation**: The default variation is always chosen.
++ **All Variations**: All variations is chosen, meaning several copies of a page can be shown in the list, if the page has variations.
+
+You can find more information about Variations under the heading "Variations" on this page: :doc:`Publishing App Settings </pages/publishing-app-settings/index>`
 
 Layout and Advanced
 **********************
