@@ -26,7 +26,7 @@ Here you can add a Title to be displayed for the block:
 
 Display
 -----------
-You will be able set the type fo view to be used for the list here:
+You can set the type of view to be used for the list here:
 
 .. image:: peoplerollup-settings-display.png
 
@@ -46,12 +46,18 @@ The following settings are available for the views:
 + **Max no of Columns**: Set the maximum number of columns to be displayed.
 + **Sort By**: Select the property to sort the list by.
 + **Paging**: Select how paging should work; “No Paging”, “Classic” or “Scroll”. See below for examples. Scroll is note applicabale for Roller view.
-+ **Item Limit**: To limit the number of items being displayed, add a fixed number here. If you set a high number (for example the default, 50) as many people as meets the query criteria is shown, up to that number. If you set a low number, that is the number of people tha list wil show, regardless of how many meets the query criteria.
++ **Item Limit**: To limit the number of items being displayed, add a fixed number here. If you set a high number (for example the default, 50) as many people as meets the query criteria is shown, up to that number. If you set a low number, that is the number of people tha list will show, regardless of how many meets the query criteria. Set 0 for no Item Limit.
 + **Left Zone Width, Right Zone Width**: (A description will be added soon).
 
 Here's an example of a  Roller view, with Slide Height 150, Alignment Center, Justify Center, No Paging and Item Limit 5.
 
 .. image:: roller-view.png
+
+Here's an example of a Classic view (note the page icons at the bottom):
+
+.. image:: people-rollup-classic-vew.png
+
+**Important note on "No Paging"**: If you choose "No paging" and set "Item Limit" to a specific number, that is the number of people that will be available in the list, regardless of how many that actually meets the search criteria.
 
 Query
 -----------
@@ -118,13 +124,15 @@ To add a new filter, do the following:
 
 4. Continue and add all filters the same way.
 
+**Important note on query and search**: If the query sets a limit of users that can meet the search criteria, the search can only be done within that limited group.
+
 Refiner
 ---------
 Use these settings to add refiners.
 
 .. image:: peoplerollup-settings-refiner.png
 
-+ **Position**: Decide where to put the refiners; top, left or right. (Top is most likely the best position in most People Rollup lists.)
++ **Position**: Decide where to put the refiners; top, left or right. 
 
 To add a refiner, do the following:
 
