@@ -10,10 +10,10 @@ Select section for more information:
 .. toctree::
    :titlesonly:
 
-   controlled-documents-library-settings/index
    authoring-controlled-documents/index
+   controlled-documents-library-settings/index
    reading-controlled-documents/index
    using-the-document-wizard/index
-   
+
   
    
