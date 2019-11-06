@@ -83,7 +83,7 @@ Upload document
 To upload a document to use as a template:
 
 1. Select "Upload Document".
-2. Upload teh file by using drag and drop or click "Browse" to browse for the file and select it.
+2. Upload the file by using drag and drop or click "Browse" to browse for the file and select it.
 3. Click "Save".
 
 .. image:: dm-template-new-8.png

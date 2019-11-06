@@ -13,6 +13,7 @@ Topics
    blocks/index
    general-assets/index
    pages/index
+   working-with-documents/index
    user-options/index
    setup/index
    roadmap/index
