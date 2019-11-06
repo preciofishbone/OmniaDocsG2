@@ -1,8 +1,6 @@
 Document Templates
 ====================
 
-**Note! This is an ongoing documentation. Not ready yet. Please come back later.**
-
 Management of Document Templates is handled here. The templates can be available for Omnia Document Management only or as general templates as well.
 
 The list of available templates can look like this:
@@ -51,7 +49,7 @@ Set the following:
 
 .. image:: dm-template-new-2.png
 
-2. Select to add a template for a controlled document or for a normal document.
+2. Select to add a template for controlled documents or for normal documents.
 3. I you selected to add a template for normal documents, you can now select one or more categories if you wish.
 
 .. image:: dm-template-new-3.png
@@ -76,7 +74,7 @@ To link to a published controlled document you have to know the Document Id (whi
 
 2. When you have found the document, click "Save".
 
-.. image:: dm-template-new-7.png
+.. image:: dm-template-new-7-new.png
 
 **Note:** When a new edition of the linked document is published, the template is automatically updated. When an editor creates a new document based on document type with a linked document as template, the latest edition is always used. Existing, published documents are not changed.
 
