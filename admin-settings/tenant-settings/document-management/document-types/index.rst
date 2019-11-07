@@ -1,8 +1,6 @@
 Document Types
 ================
 
-(This documentation is just started, more will be added soon).
-
 When creating a new controlled document an author selects a Document Type. Document Types can be grouped. In that case the author first selects group and then Document Type within that group.
 
 The settings displays all existing Document Types, and Groups, if they are grouped, for example:
@@ -37,9 +35,7 @@ To create a new Document Type, do the following:
 
 .. image:: doctype-new-type.png
  
-2. Use the following settings:
-
-.. image:: document-type-general.png
+2. Set all necessary settings and save.
 
 The same settings are available when creating a Document Type and when editing one. See below for detailed information.
 
@@ -75,7 +71,7 @@ General
 --------
 The General tab contains the following settings:
 
-.. image:: document-types-general.png
+.. image:: document-type-general.png
 
 + **Title**: Add a Title for the Document Type in one or more of the tenant languages. Note that default language is mandatory.
 + **Property Set**: Select a property set for the Document Type. When you have selected a Propety Set you can click the cogwheel to see which properties belong to the set. You will also see information about Placeholder Shortname and default value for the properties in the set.
@@ -101,13 +97,13 @@ On the Publish tab you can set the following:
     - Term-driven: Authors can select approvers from a defined list only. Which approvers will be available depends on the Properties selected for the documents. You select the term(s) here.
     - Based on person property: You select one of the person properties defined, for example Document owner or Approver.
     - Group: (A description will be added soon.)
-+ **Conversion*: Select if conversion will be available, and then choose how.
++ **Conversion**: Select if conversion will be available, and then choose how.
 
 Don't forget to save your changes.
 
 Review
 ---------
-On this tab you set how Feedback and Review of documents will work. When a document of this Document Type has passed it's Review Date, a link to the document is placed in the list "Expired review".
+On this tab you handle settings for Feedback and Review of documents. When a document of this Document Type has passed it's Review Date, a link to the document is placed in the list "Expired review".
 
 .. image:: document-types-review.png
 
@@ -116,7 +112,7 @@ On this tab you set how Feedback and Review of documents will work. When a docum
 
 When review reminders are activated you can set the following:
 
-+ *Time after Publishing**: Set number of months, weeks or days for Review Interval. 
++ **Time after Publishing**: Set number of months, weeks or days for Review Interval. 
 + **Property**: Another way is to select a Property for handling of Review, for example Retention Date.
 + **Send reminder in advance**: Set the number of days that a reminder should be sent, before the Review Date.
 + **Review Reminder Recipients**: Select either Document Owner or Approver.
