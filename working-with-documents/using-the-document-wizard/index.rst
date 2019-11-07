@@ -15,6 +15,14 @@ Use the Wizard this way to create a new Controlled Document:
 
 .. image:: new-controlled-1.png
 
+2. Select language.
+
+.. image:: new-controlled-2.png
+
+2. Select the Document Type the template belongs to. You may have to open a group to find the Document Type you're after, as this example shows:
+
+.. image:: new-controlled-2.png
+
 The Document Types are set up in Omnia Admin.
 
 One or more Document Templates are available for a Document Type. If more than one is available, the next step is to select template.

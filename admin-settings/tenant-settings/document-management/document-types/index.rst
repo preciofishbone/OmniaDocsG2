@@ -74,13 +74,13 @@ The General tab contains the following settings:
 .. image:: document-type-general.png
 
 + **Title**: Add a Title for the Document Type in one or more of the tenant languages. Note that default language is mandatory.
-+ **Property Set**: Select a property set for the Document Type. When you have selected a Propety Set you can click the cogwheel to see which properties belong to the set. You will also see information about Placeholder Shortname and default value for the properties in the set.
++ **Property Set**: Property Sets is a ways of groping a number of properties into a set, which makes it easier to use a set of properties in several Document Types. Select a property set for the Document Type. When you have selected a Propety Set you can click the cogwheel to see which properties belong to the set. You will also see information about Placeholder Shortname and default value for the properties in the set.
 + **Document Templates**: Select one of the templates defined for the profile you have chosen. You must always do that even if there’s just one template available.
 + **Default Document Template**: Use this option to select one of the templates for this Document Type as the default template. When selecting the Document Type, the author then has this template preselected.
 + **Allow appendices**: Check this option to allow for appendices. Authors can then tie other documents as appendices to the main documents. This option must be checked to make it possible for this document type.
 + **Show Create Document Icon in Document Rollup**: In the Document Rollup the “Create Document Icon” column can be added. A document can be created using the icon only if it belongs to a Document Type that has this option selected. if not, the icon is not shown.
 + **Allow document to be connected to an existing template**: This option is mainly used in migration scenarios. If this option is selected it works like this: When a Controlled Documents author creates a new draft or uploads a document that is not connected to a Controlled Documents template, a message is shown allowing the author to connect that document to a template.
-+ **Unique id**: Created by the system. Shown here for information.
++ **Unique id**: Created by the system. Shown here for reference.
 
 Don't forget to save when you're done.
 
@@ -95,9 +95,9 @@ On the Publish tab you can set the following:
 + **Publishing approval**: Select if approval is to be used for this Document Type. If this option is NOT active, a document will be published immediately when an author clicks "Publish". If Publishing Approval is selected, you must also choose how approval will take place:
     - Anyone: The author can select any user of the portal as approver, when the document is published.
     - Limited list of users: Authors can select approvers from a defined list only. You create the list here.
-    - Term-driven: Authors can select approvers from a defined list only. Which approvers will be available depends on the Properties selected for the documents. You select the term(s) here.
+    - Term-driven: Authors can select approvers from a defined list only. Which approvers will be available depends on the Properties selected for the documents. You select the term(s) here. When you have selected one or more terms you can use the cogwheel to set approvers for individual terms in the set.
     - Based on person property: You select one of the person properties defined, for example Document owner or Approver.
-    - Group: (A description will be added soon.)
+    - Group: This setting will use the permission group for approvers in the Team Site. Needs "Approvers Group" to be selected in Settings for Document Management.
 + **Conversion**: Select if conversion will be available, and then choose how.
 
 Don't forget to save your changes.
@@ -114,7 +114,7 @@ On this tab you handle settings for Feedback and Review of documents. When a doc
 When review reminders are activated you can set the following:
 
 + **Time after Publishing**: Set number of months, weeks or days for Review Interval. 
-+ **Property**: Another way is to select a Property for handling of Review, for example Retention Date.
++ **Property**: Another way is to select a Property for handling of Review. An example could be if you want authors to be able to set a specific date for review - which could be needed for a Supplier Agreement, for example. A date property must have been set up for this to work.
 + **Send reminder in advance**: Set the number of days that a reminder should be sent, before the Review Date.
 + **Review Reminder Recipients**: Select either Document Owner or Approver.
 + **Create Task**: If a review task should be created, select this option. Then use the list to select who to assign the task to.
@@ -128,6 +128,8 @@ You can decide that a certain Document Type should not be archived. If the Docum
 
 Retention
 ------------
+(Retention is so far a preparation for functionality to come. Not active for the moment.)
+
 If Retention is activated, this tab is shown for all Document Types:
 
 .. image:: document-types-retention.png
