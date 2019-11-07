@@ -95,11 +95,58 @@ On the Publish tab you can set the following:
 
 + **Replace tokens inside document on poublishing**: When a document is published, the placeholders (tokens) will be replaced with metadata, but for a document that will be used as a template, you will probably not want that to happen. If you are creating a Document Type to bes used for templates, deselect this option.
 + **Allow Revisions**: Selecting this option you can allow authors to publish a revision of a document that does not require approval, for example for correcting typing errors. If this option is active, it's up to the author to decide if approval is needed or not. Approval is still nedded for publication of a new edition of a document.
-+ **Publishing approval**: Select if approval is to be used for this Document Type. If this option is active, a document will be published immediately when an author clicks "Publish".
++ **Publishing approval**: Select if approval is to be used for this Document Type. If this option is NOT active, a document will be published immediately when an author clicks "Publish". If Publishing Approval is selected, you must also choose how approval will take place:
+    - Anyone: The author can select any user of the portal as approver, when the document is published.
+    - Limited list of users: Authors can select approvers from a defined list only. You create the list here.
+    - Term-driven: Authors can select approvers from a defined list only. Which approvers will be available depends on the Properties selected for the documents. You select the term(s) here.
+    - Based on person property: You select one of the person properties defined, for example Document owner or Approver.
+    - Group: (A description will be added soon.)
++ **Conversion*: Select if conversion will be available, and then choose how.
 
-Not edited from her on:
+Don't forget to save your changes.
 
-+ **Anyone**: The author can select any user of the portal as approver.
-+ **Limited list of users**: Authors can select approvers from a defined list only (see below for more information).
-+ **Term-driven**: Authors can select approvers from a defined list only (which approvers will be available depends on the Properties selected for the documents, see below for more information).
-+ **Based on person column**: You then select one of the person columns defined, most often Document owner or Approver.
+Review
+---------
+On this tab you set how Feedback and Review of documents will work. When a document of this Document Type has passed it's Review Date, a link to the document is placed in the list "Expired review".
+
+.. image:: document-types-review.png
+
++ **Feedback Recipients**: Select either Document Owner or Approver.
++ **Review reminder**: Select this option to activate review reminders.
+
+When review reminders are activated you can set the following:
+
++ *Time after Publishing**: Set number of months, weeks or days for Review Interval. 
++ **Property**: Another way is to select a Property for handling of Review, for example Retention Date.
++ **Send reminder in advance**: Set the number of days that a reminder should be sent, before the Review Date.
++ **Review Reminder Recipients**: Select either Document Owner or Approver.
++ **Create Task**: If a review task should be created, select this option. Then use the list to select who to assign the task to.
++ **Task expire in**: This is shown when you select "Create Task". Set the number of months, weeks or days before the task will expire. 
+
+Archive
+----------
+You can decide that a certain Document Type should not be archived. If the Document Type should be archived, you can set archive to be used, by adding the Url. You don't have to add a Url to use the default archive.
+
+.. image:: document-types-archive.png
+
+Retention
+------------
+If Retention is activated, this tab is shown for all Document Types:
+
+.. image:: document-types-retention.png
+
+Use this tab to set up a Retention Policy.
+
++ **Limit Retention**: Select this option if a Retention Policy should be set for this Document Type.
+
+Then you can set the following:
+
+.. image:: document-types-retention-settings.png
+
++ **Calculated**: You can select to calculate the number of years or months on either when the document was first published or when it was last published.
++ **Property**: Another way is to select a property for retention, for example Retention Date.
+
+When the set Retention time has passed, the Retention Manager will receive an e-mail. The e-mail includes a link to a page where the document can be terminated (completely removed from the system). 
+
+
+
