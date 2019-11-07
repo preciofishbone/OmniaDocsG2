@@ -1,6 +1,8 @@
 Using the Document Wizard
 ===========================
 
+(**Note! This description is just started. More will be added and edited soon.**)
+
 When you create a new Controlled Document or a normal document where the Document Wizard is activated, you normally see a list of the templates available. It can look like this:
 
 .. image:: document-wizard.png
