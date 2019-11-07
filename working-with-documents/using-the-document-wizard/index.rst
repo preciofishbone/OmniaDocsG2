@@ -1,8 +1,6 @@
 Using the Document Wizard
 ===========================
 
-(**This documentation is ongoing. Not ready for reading yet. Please come back later.**)
-
 When you create a new Controlled Document or a normal document where the Document Wizard is activated, you normally see a list of the templates available. It can look like this:
 
 .. image:: document-wizard.png
@@ -19,32 +17,41 @@ Use the Wizard this way to create a new Controlled Document:
 
 .. image:: new-controlled-2.png
 
-2. Select the Document Type the template belongs to. You may have to open a group to find the Document Type you're after, as this example shows:
+When a template is created, the language for the template is set. 
 
-.. image:: new-controlled-2.png
+3. Select the Document Type the template belongs to. You may have to open a group to find the Document Type you're after, as this example shows:
+
+.. image:: new-controlled-3.png
 
 The Document Types are set up in Omnia Admin.
 
-One or more Document Templates are available for a Document Type. If more than one is available, the next step is to select template.
+4. Select Template.
+5. Some settings are most likely needed. Which settings depends on the Document Type. Heres an example:
 
-.. image:: new-draft-2-new.png
+.. image:: new-controlled-4.png
 
-And enter a Title and a File Name.
+6. Select template (in this exempla only one template is available for the Document Type, but there can be several). You must click on the template, even of there's only one, for the fields to be shown.
+7. Add a title for the new document.
+8. Edit the file name if needed.
 
-.. image:: new-draft-2b-new.png
+.. image:: new-controlled-5.png
 
-And then, the next step is to enter information for the document’s properties (metadata). What that will look like depends on the Document Type. Here’s an example:
+7. Select where to save the new document. The active site is selected in the "suggested" list.
 
-.. image:: new-draft-3-new.png
+.. image:: new-controlled-6.png
 
-A number of mandatory fields can be present, marked with an asterisk (*). All mandatory fields must be filled in, or the document can  not be published, but it does not have be now.
+If you want to save the file somewhere else, use the lists "Suggested", "Followed" and "All" to navigate to teh site. Note that all three lists may not ne shown depending on settings in Omnia Admin.
 
-Metadata can also, in some cases, be used as a filter for document lists, to make Controlled Documents available for users when they are published. Besides that, available approvers can depend on the metadata added. It’s always very important that information in metadata fields are added thoroughly.
+8. Click "Create".
 
-A "tag" icon to the right in a field always indicates that it is a managed metadata field, for example:
+.. image:: new-controlled-7.png
 
-.. image:: new-draft-4-new.png
+The document is now created in the chosen location and you can work on the normal way. 
 
-When the properties has been entered and the author clicks "Create", the editing program (for example Microsoft Word for Word files) starts with the chosen document layout. Text and so on is entered the normal way. 
+.. image:: new-controlled-8.png
 
-**Note!** Metadata fields visible in the document, displayed within double brackets, should not be used in the editing process. Information will be added to these fields when the document is published.
+**Note!** If you come across metadata fields visible in the document, displayed within double brackets, they should not be used in the editing process. Information will be added to these fields when the document is published.
+
+Creating a Normal Document
+****************************
+(Will be added soon)
