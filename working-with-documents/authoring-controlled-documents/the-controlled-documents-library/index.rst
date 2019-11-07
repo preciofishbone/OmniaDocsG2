@@ -1,7 +1,7 @@
 The Controlled Documents Library
 ====================================
 
-(This documentation is ongoing. Not ready for reading yet. Please com back later.)
+(**This documentation is ongoing. Not ready for reading yet. Please come back later.**)
 
 When a Team Site has been set up for Controlled Documents authoring, the following will be available for Controlled Document authors:
 
