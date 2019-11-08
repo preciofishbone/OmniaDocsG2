@@ -3,6 +3,7 @@ Release Notes 2.1.1
 
 New Features and Enhancements
 ***********************
+
 - Support for targeting using AzureAD properties
 - Support for targeting on O365 Language
 - Accordion block now hides completely if it has no content.
@@ -15,6 +16,7 @@ New Features and Enhancements
 
 Fixes
 ***********************
+
 - Omnia now works for users without a mailbox
 - Several issues on mobile has been resolved.
 - The back button in the browser now works as expected. 

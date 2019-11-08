@@ -4,6 +4,7 @@ Release Notes 2.3.1
 
 New Features and Enhancements
 ***********************
+
 - New design for the open page as modal from Page Rollup.
 - App launcher design has been aligned with O365 changes.
 - Quick Links block now has a setting to include followed links.
@@ -17,6 +18,7 @@ New Features and Enhancements
 
 Fixes
 ***********************
+
 - Fixed a bug causeing related documents to get the wrong url
 - Site Design dropdown is no longer shown to end users when creating a site.
 - Fixed a permission bug causing Page Colleciton admins to sometimes get wrong read permissions.

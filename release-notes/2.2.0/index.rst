@@ -4,6 +4,7 @@ Release Notes 2.2.0
 
 New Features and Enhancements
 ***********************
+
 - Its now possible to configure the Quick links component / App selector to show non mandatory links
 - Keywords datatype are now supported in the page rollup (To display in list view, to use for Query and Filter)
 - Updates to the Omnia Tenant header to align with new O365 design
@@ -14,6 +15,7 @@ New Features and Enhancements
 
 Fixes
 ***********************
+
 - Fixes to prevent a redirect loop when using page variations
 - Fixes to how page variation behaves in the page rollup
 - Preview mode now works as expected for non admin users.
