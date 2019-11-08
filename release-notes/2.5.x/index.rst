@@ -1,13 +1,3 @@
-Release Notes 2.5.4
-========================================
-
-Fixes
-***********************
-
-- Fallback to Tenant default language correctly when the users language is not set
-- Fixed an issue where the statistics provider would sometimes not execute correctly
-- Translation fixes for Swedish and Danish
-
 Release Notes 2.5.0
 ========================================
 
@@ -61,3 +51,13 @@ Fixes
 - Added missing translations for Provisioning Templates and confirmation emails. 
 - Added missing label in site creation form.
 - Fixes to Section header being incorrectly placed when using a large column spacing.
+
+Release Notes 2.5.4
+========================================
+
+Fixes
+***********************
+
+- Fallback to Tenant default language correctly when the users language is not set
+- Fixed an issue where the statistics provider would sometimes not execute correctly
+- Translation fixes for Swedish and Danish
