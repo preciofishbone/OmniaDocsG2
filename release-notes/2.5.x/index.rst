@@ -1,33 +1,49 @@
+Release Notes 2.5.4
+========================================
+
+Fixes
+***********************
+
+- Fallback to Tenant default language correctly when the users language is not set
+- Fixed an issue where the statistics provider would sometimes not execute correctly
+- Translation fixes for Swedish and Danish
+
 Release Notes 2.5.0
 ========================================
 
-## New features and enhancements
+New features and enhancements
+***********************
 
-### Omnia
+Omnia
+----------------------------------------
 
 - UI for selecting available RTE actions on both Tenant and block level. 
 - Possibility to turn end user error messages on or off.
 - Display of taxonomy properties has been redone.
 - Fixes to the login process to support a broader range of MFA scenarios
 
-### Team Collaboraion
+Team Collaboraion
+----------------------------------------
 
 - Provisioning of Communication sites. Its now possible to provision communication sites. They can be found as a template under the Team collaboration area.
 - Support for Office 365 Naming policies. Omnia vill now validate Site names and urls against policies set in the tenant.
 - When provisioning an O365 group with a MS Teams, the Conversations link in the group will now point to the MS Team. 
 
-### Web Content Management 
+Web Content Management
+----------------------------------------
 
 - Setting on the Related links block to open office documents in the Web Client.
 - Enhanced default values for dates. Its now possible to set the default value to a relative time in the future i.e. Today + 6 weeks.
 
-### Document Management
+Document Management
+----------------------------------------
 
 - Document rollup now evaluates terms at query time instead of ad configuration time.
 
 
 
-## Fixes
+Fixes
+***********************
 
 - Updates to term picker to more clearly indicate if a term is not available for tagging
 - Wrong language in Omnia Admin and the WCM Editor for some users.
