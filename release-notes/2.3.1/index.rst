@@ -2,7 +2,8 @@ Release Notes 2.3.1
 ========================================
 
 
-##Enhancements
+New Features and Enhancements
+***********************
 - New design for the open page as modal from Page Rollup.
 - App launcher design has been aligned with O365 changes.
 - Quick Links block now has a setting to include followed links.
@@ -11,10 +12,11 @@ Release Notes 2.3.1
 - Client side error messages now show at the top of the screen.
 - Renamed sections in the layout parts of the WCM editor.
 - Impolemented the standard block header in the Advanced Search Block.
-- New setting for setting the background color of the selected tab in the notification panel
+- New setting for setting the background color of the selected tab in the notification panel.
 
 
-##Fixes
+Fixes
+***********************
 - Fixed a bug causeing related documents to get the wrong url
 - Site Design dropdown is no longer shown to end users when creating a site.
 - Fixed a permission bug causing Page Colleciton admins to sometimes get wrong read permissions.

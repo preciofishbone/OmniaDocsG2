@@ -2,7 +2,8 @@ Release Notes 2.2.0
 ========================================
 
 
-##New features and enhancements
+New Features and Enhancements
+***********************
 - Its now possible to configure the Quick links component / App selector to show non mandatory links
 - Keywords datatype are now supported in the page rollup (To display in list view, to use for Query and Filter)
 - Updates to the Omnia Tenant header to align with new O365 design
@@ -11,7 +12,8 @@ Release Notes 2.2.0
 - Added a free text search box to the people rollup
 - New UI for buttons in the editor.
 
-##Fixes
+Fixes
+***********************
 - Fixes to prevent a redirect loop when using page variations
 - Fixes to how page variation behaves in the page rollup
 - Preview mode now works as expected for non admin users.

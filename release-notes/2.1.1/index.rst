@@ -1,7 +1,8 @@
 Release Notes 2.1.1
 ========================================
 
-##New Features and enhancements
+New Features and Enhancements
+***********************
 - Support for targeting using AzureAD properties
 - Support for targeting on O365 Language
 - Accordion block now hides completely if it has no content.
@@ -11,7 +12,9 @@ Release Notes 2.1.1
 - Long titles in the current navigation now breaks into 2 rows.
 - Tutorial has an updated design
 
-##Fixes
+
+Fixes
+***********************
 - Omnia now works for users without a mailbox
 - Several issues on mobile has been resolved.
 - The back button in the browser now works as expected. 
@@ -34,5 +37,6 @@ Release Notes 2.1.1
 - User profile Completion: Now validates required properties correctly.
 - People Rollup: Now supports taxonomy/Boolean properties as filter. 
 - People Rollup: Better design. 
+
 
 
