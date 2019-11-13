@@ -25,7 +25,7 @@ Here you can set the following:
 + **Default tab**: Decide which tab will be shown when an author enters the Controlled Documents library.
 + **Paging**: Select paging for the lists here; “No paging”, “Classic” or “Scroll”.
 + **Page Size**: Set the number of rows to display. **Important Note**: If more documents or tasks are available than the Page Size set, a navigation to the next page is shown when Paging is set to "Classic". If Paging is set to either "No paging" or "Scroll", Page Size is the maximum number of documents or tasks that can be shown in the lists, regardless of how many are available.
-+ **Padding**: Set aoms padding around the lists, if needed.
++ **Padding**: Set some padding around the lists, if needed.
 + **Hide Tasks Tab**: If the Tasks tab should not be displayed for authors, select this option.
 
 Drafts
