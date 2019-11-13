@@ -1,48 +1,53 @@
 Controlled Docments Library Settings
 =======================================
 
-(**This documentation is ongoing. Not ready for reading yet. Please come back later.**)
-
 You must be Administrator (The permission group is most often called "Owners") of the Team Site - there can one or more - to be able to edit the settings for the three lists in the Controlled Documents library. 
 
-The General tab
------------------
+To access the seetings, go to the Controlled Documents library and click "Edit".
+
+.. image:: edit-controlled-library.png
+
+General
+************
 Here you can use the following settings:
 
-.. image:: cdl-settings-general-new-border.png
+.. image:: edit-controlled-library-general.png
+
++ **Title**: You can edit or add a Title for the list in all languages available for the tenant. The default language is mandatory. 
++ **Open In Client App**: Per default, documents are opened in the online Office 365 application. If documents should be opened in the locally installed application instead, select this option. 
+
+Display
+**********
+Here you can set the following:
+
+.. image:: edit-controlled-library-display.png
 
 + **Default tab**: Decide which tab will be shown when an author enters the Controlled Documents library.
-+ **Number of rows to display on each page**: Set the number of rows to display before navigation to the next page will be shown at the bottom of the list.
-+ **Open in Office Web Apps**: If documents should be opened in Office Web Apps, instead of a locally installed application, select this option. (If you select this option, authors can still choose to edit the document in the locally installed application, when the document is open.)
++ **Paging**: Select paging for the lists here; “No paging”, “Classic” or “Scroll”.
++ **Page Size**: Set the number of rows to display. **Important Note**: If more documents or tasks are available than the Page Size set, a navigation to the next page is shown when Paging is set to "Classic". If Paging is set to either "No paging" or "Scroll", Page Size is the maximum number of documents or tasks that can be shown in the lists, regardless of how many are available.
++ **Padding**: Set aoms padding around the lists, if needed.
 + **Hide Tasks Tab**: If the Tasks tab should not be displayed for authors, select this option.
 
-The Drafts tab
-----------------
-Here you can set the following:
+Drafts
+***********
+The following settings are available here:
 
-.. image:: cdl-settings-draft-new.png
+.. image:: edit-controlled-library-drafts.png
 
-+ **Default Sort Order**: Select the column for default sort order for the list.
-+ **Sort Direction**: Select Descending or Ascending for the default column selected above.
-+ **Show Search Box**: If authors should be able to search for drafts here, select this option.
-+ **Select the columns .....**: Check the columns to display in the Drafts list, and uncheck columns you don't want to display. (But note that the some columns can't be unchecked, they are mandatory.)
++ **Default Ordering Field**: Select the column for default sort order for the list.
++ **Show Search Box**: If authors should be able to search for documents here, select this option.
++ **Display columns in draft view**: To add a new column, select it in the list and click "Add". To remove a column. click the dust bin. If no dust bin is shown for a column it's mandatory, and therefore can't be removed. You can set the order of the columns by grabbing the Equal To icon for the column and drag it to another place in the list.
 
-The Published tab
--------------------
-Here you can set the following:
+Published
+************
+The same type of settings as for Drafts are available here:
 
-.. image:: cdl-settings-published-new.png
+.. image:: edit-controlled-library-published.png
 
-+ **Default Sort Order**: Select the column for default sort order for the list.
-+ **Sort Direction**: Select Descending or Ascending for the default column selected above.
-+ **Show Search Box**: If authors should be able to search for documents in the Published list, select this option.
-+ **Select the columns .....**: Check the columns to display in the Published list, and uncheck columns you don't want to display. (But note that the some columns can't be unchecked, they are mandatory.)
+See above for a description.
 
-The Document Types tab
-----------------------
-You can set the following on this tab:
+Default Document Types
+************************
+(A description will be added soon.)
 
-.. image:: cdl-settings-types-new.png
 
-+ **Language**: Select language for the Document Types to be shown in the list below.
-+ **Document types**: Select which Document Types should be suggested when authors adds new draft documents here. If empty, all Controlled Documents templates will be available.
