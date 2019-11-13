@@ -15,8 +15,8 @@ The following settings are available for the Announcements block:
 
 .. image:: announcements-settings-new.png
 
-The Layout tab options are general block settings, see this page for information: :doc:`General Block Settings </blocks/general-block-settings/index>`
-
+The Layout tab options are general block settings, see this page for information: 
+:doc:`General Block Settings </blocks/general-block-settings/index>`
 General
 ----------------
 Here you can set the following:
