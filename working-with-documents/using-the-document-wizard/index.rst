@@ -1,8 +1,6 @@
 Using the Document Wizard
 ===========================
 
-(**Note! This description is just started. More will be added and edited soon.**)
-
 When you create a new Controlled Document or a normal document where the Document Wizard is activated, you normally see a list of the templates available. It can look like this:
 
 .. image:: document-wizard.png
@@ -32,7 +30,7 @@ The Document Types are set up in Omnia Admin.
 
 .. image:: new-controlled-4.png
 
-6. Select template (in this exempla only one template is available for the Document Type, but there can be several). You must click on the template, even of there's only one, for the fields to be shown.
+6. Select template (in this exemple only one template is available for the Document Type, but there can be several). You must click on the template, even if there's only one, for the fields to be shown.
 7. Add a title for the new document.
 8. Edit the file name if needed.
 
@@ -42,13 +40,13 @@ The Document Types are set up in Omnia Admin.
 
 .. image:: new-controlled-6.png
 
-If you want to save the file somewhere else, use the lists "Suggested", "Followed" and "All" to navigate to teh site. Note that all three lists may not ne shown depending on settings in Omnia Admin.
+If you want to save the file somewhere else, use the lists "Suggested", "Followed" and "All" to navigate to teh site. Note that all three lists may not be shown depending on settings in Omnia Admin.
 
 8. Click "Create".
 
 .. image:: new-controlled-7.png
 
-The document is now created in the chosen location and you can work on the normal way. 
+The document is now created in the chosen location and you can work on it the normal way. 
 
 .. image:: new-controlled-8.png
 
@@ -56,11 +54,11 @@ The document is now created in the chosen location and you can work on the norma
 
 Creating a Normal Document
 ****************************
-An author of controlled documents can always create normal documents as well in the Controlled Documents library he or she has access to, if templates for normal documents are set up in Omnia Admin. To make it possible for other users to create normal documents using the Document Wizard, som kind of access to the wizard has to be set up. For example, an icon can be visible in the Action Menu. Here's an example:
+An author of controlled documents can always create normal documents as well in the Controlled Documents library he or she has access to, if templates for normal documents are set up in Omnia Admin. To make it possible for other users to create normal documents using the Document Wizard, som kind of access to the wizard has to be set up. For example, an icon can be visible in the Action Menu:
 
 .. image:: document-wizard-start.png
 
-This is done using the Settings for the Business Profile. See this page for more information: :doc:`Settings for the Business Profile </admin-settings/business-profile-settings/settings/index>`
+This is done using the Admin Settings for the Business Profile. See this page for more information: :doc:`Settings for the Business Profile </admin-settings/business-profile-settings/settings/index>`
 
 To create a new normal document, do the following:
 
@@ -84,6 +82,8 @@ To create a new normal document, do the following:
 6. Select a location to save the document to.
 
 .. image:: normal-document-5.png
+
+OneDrive is your personal Office 365 OneDrive. If "Intranet" is selected - if available - a list of folders you have      access to in the intranet is shown. The rest of the locations are normally available Team Sites.
 
 7. Select folder in that location.
 
