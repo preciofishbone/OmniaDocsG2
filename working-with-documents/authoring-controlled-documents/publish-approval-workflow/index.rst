@@ -13,6 +13,12 @@ All metadata must be properly set before the Approval Workflow is started, so th
 Metadata can also have impact on who is available as approver.
 
 Any Send for Comments Workflow must be ended before an Approval Workflow can be started.
+
+To publish a document, do the following:
+
+1. Make sure no Send for Comments is active for the document.
+2. Select the document.
+3. Open the dot menu and select 
  
 When the author publishes a document, something like the following is shown:
 

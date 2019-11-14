@@ -34,11 +34,29 @@ All reviewers are also notified in the notification panel, about the new task, a
 
 The workflow will be active until the due date of the workflow is reached, all tasks are completed or the workflow is cancelled på the author.
 
-Check status and cancel Send for Comments
-******************************************
-Using the Tasks tab you can check the status for the Send for Comments workflow, meaning who has reviewed and who has not, and you can cancel a workflow if needed.
+Check status and cancel a Send for Coments workflow
+*******************************************************
+In the column "Status" you can see what's going on with a document. You can also use that column to check status for a Send for Comments workflow, meaning who has reviewed and who has not. You can also cancel a workflow if needed. Do the following:
 
-Se this page for more information: :doc:`Working with Tasks </working-with-documents/authoring-controlled-documents/working-with-tasks/index>`
+1. Click "Sent for Comments" in the "Status" column.
+
+.. image:: check-cancel-1.png
+
+Something like the following is shown:
+
+.. image:: check-cancel-2.png
+
+Here you can see the due date noted for the workflow and on a row for each reviewer you can see if her or she has reviewed yet and the comment, if review was done.
+
+You can cancel a Send for Review workflow any time. The Reviewers will be notified if you do.
+
+To cancel, do the following:
+
+1. Click "Cancel Workflow".
+
+.. image:: check-cancel-3.png
+
+You can also check status for both Send for Comments workflow and Publish workflow on the Tasks tab, See this page for more information: :doc:`Working with Tasks </working-with-documents/authoring-controlled-documents/working-with-tasks/index>`
 
 See Workflow History for the draft
 ***********************************
