@@ -3,7 +3,7 @@ Send Controlled Documents for Comments
 
 Authors can use the Send for Comments Workflow to get input from one or more colleagues in an organized way, or even to get help to type some part of the text. When the Workflow is active, all users that has been added as reviewers can edit the document, regardless of what access they normally have to the site. If it’s a Microsoft Word document – the option “Track changes” is automatically turned on so all comments/changes can be seen by everyone.
 
-The option can be run as many times as needed before the publishing of an edition, but there can only be one such workflow active at a time, for each document. On the other hand, using this the workflow is optional. You, the author, can always choose to publish directly. 
+The option can be run as many times as needed before the publishing of an edition, but there can only be one such workflow active at a time, for each document. On the other hand, using this workflow is optional. You, the author, can always choose to publish directly. 
 
 **Note!**
 Everyone that is appointed as reviewer automatically receives edit access to the document when the workflow is active, and that access is removed when the colleague’s task is completed. Also note that publication is not allowed while a Review Workflow is active for the document.
