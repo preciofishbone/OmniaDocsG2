@@ -66,13 +66,11 @@ If your doing this for an uploaded document that is not connected to a template 
 
 Now properties for the document are shown (and this is what is shown for a document you have created), and it differs depending on the template (or rather the Document Type the template belongs to). Here's an example:
 
-.. image:: edit-properties-3.png
+.. image:: edit-properties-2.png
 
-**Note!** You can even choose another template for the document here, if needed. Click the x for the existing template and select another template.
+**Note!** You can even choose another template for the document here, if needed. Click the x for the existing template and select another template. Don't forget to select language if needed.
 
 3. Edit the properties as needed and save.
-
-.. image:: edit-properties-4.png
 
 Upload Appendices
 *******************
@@ -145,7 +143,7 @@ The following is shown:
 5. Choose to overwrite existing appendices or not. This option is useful if a new version of a document you use as a appendice has been published and you want to replace the old copy with the new edition.
 6. Click "Copy".
 
-.. image:: uupload-copy-3.png
+.. image:: upload-copy-3.png
  
 The documents added to the Appendices list this way is handled exactly the same way as a document uploaded as an appendix, see above. (And remember that it is a copy of the original document.)
 
