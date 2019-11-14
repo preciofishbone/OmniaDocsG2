@@ -1,7 +1,7 @@
 Working with Drafts
 ====================================
 
-(**This documentation is just staarted. More will be added/edited soon.)
+(**This section is under construction. Not ready for reading yet. Please come back later**).
 
 When a Team Site has been set up for Controlled Documents authoring, the following will be available for Controlled Document authors:
 
