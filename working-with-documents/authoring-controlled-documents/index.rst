@@ -9,7 +9,9 @@ Select section for more information:
 .. toctree::
    :titlesonly:
 
-   the-controlled-documents-library/index
+   working-with-drafts/index
+   working-with-published-documents/index
+   working-with-tasks/index
    send-for-comments/index
    publish-approval-workflow/index
    
