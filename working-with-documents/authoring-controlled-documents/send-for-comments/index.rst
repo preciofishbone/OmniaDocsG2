@@ -38,11 +38,11 @@ Check status and cancel Send for Comments
 ******************************************
 Using the Tasks tab you can check the status for the Send for Comments workflow, meaning who has reviewed and who has not, and you can cancel a workflow if needed.
 
-Se this page for more information: :doc:`Working with Tasks </working-with-documents/working-with-tasks/index>`
+Se this page for more information: :doc:`Working with Tasks </working-with-documents/authoring-controlled-documents/working-with-tasks/index>`
 
 See Workflow History for the draft
 ***********************************
-A workflow History is available for the draft document, showing all finished or cancelled workflows for this draft version. Do the following to see Workflow History:
+A workflow History is available for all draft documents, showing all finished or cancelled workflows for THIS draft version. Do the following to see Workflow History:
 
 1. Select the document.
 2. Open the dot menu and select "Workflow History".
