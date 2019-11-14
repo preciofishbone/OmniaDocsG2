@@ -27,9 +27,7 @@ Upload documents
 ---------------------
 An alternative is to upload existing documents, but normally it should be used just for documents that will be added as they are, but will still be handled as Controlled Documents, for example with approval before publishing.
 
-A Document Type has to be selected for an uploaded document and the document has to be tagged with the required metadata, or the document can't be published. See *Edit a document's properties* below for more information.
-
-The template for the Document Type is not used for the first edition of the document, the document will be used with the exeisting template (if any). The next time a draft is created for an uploaded document, the template can be replaced, if needed.
+The template for the Document Type is not used for the first edition of the document, the document will be used with the exeisting template (if any). The next time a draft is created for an uploaded document, the template can be replaced, if needed.  See *Edit a document's properties* below for more information.
 
 Do the following to upload a document:
 
@@ -54,21 +52,19 @@ Do the folllowing:
 
 1. Select the document and click "Properties".
 
-.. image:: edit-properties-1.png
+.. image:: edit-properties-1-new.png
 
 If this option is not shown you can open the dot menu for the document and select "Properties" there.
 
-If your doing this for an uploaded document that is not connected to a template the following is shown:
+If your doing this for an uploaded document that is not connected to a template you can now select template.
 
-.. image:: edit-properties-2.png
-
-3. Select language if needed.
+2. Select language if needed.
 
 .. image:: edit-properties-2b.png
 
-2. Select a template to connect to the uploaded document. To see a list of all available templates, click "Show All".
+3. Select a template to connect to the uploaded document. To see a list of all available templates, click "Show All".
 
-Now properties for the document are shown and it differs depending on the template (or rather the Document Type the template belongs to). Here's an example:
+Now properties for the document are shown (and this is what is shown for a document you have created), and it differs depending on the template (or rather the Document Type the template belongs to). Here's an example:
 
 .. image:: edit-properties-3.png
 
