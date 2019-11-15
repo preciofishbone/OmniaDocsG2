@@ -75,6 +75,10 @@ You can add/remove security groups and/or users to these lists.
 
 You can also add groups or users by typing the name in the field.
 
+If permission groups are used, as in the example above, you can add and remove users in these groups by using the Sharepoint standard functionality "Advanced permissions settings".
+
+.. image:: advanced-permissions-settings.png
+
 
 
 
