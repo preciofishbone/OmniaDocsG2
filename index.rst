@@ -18,4 +18,5 @@ Topics
    setup/index
    roadmap/index
    release-notes/index
+   guides/index
    contribute-to-doc/index
