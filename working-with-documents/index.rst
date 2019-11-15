@@ -12,6 +12,7 @@ Select section for more information:
 
    authoring-controlled-documents/index
    controlled-documents-library-settings/index
+   controlled-documents-archive/index
    reading-controlled-documents/index
    using-the-document-wizard/index
 
