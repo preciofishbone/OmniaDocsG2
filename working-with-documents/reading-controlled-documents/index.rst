@@ -3,8 +3,8 @@ Reading Controlled Documents
 
 (**Note!** This documentation is just started. More will be added soon).
 
-To make Controlled Documents available for users you add a Document Rollup block to a suitable page. Heres's an example of a Controlled Documents list:
+To make Controlled Documents available for users you add a Document Rollup block to a suitable page. Heres's an example of how a Controlled Documents list can look for users:
 
-(Image to be added.)
+.. image:: controlled-documents-list.png
 
-See this page for more information: (Link to be added).
+See this page for more information on how to use the Document Rollup block for this purpose: (Link to be added).

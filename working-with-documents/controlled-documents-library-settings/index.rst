@@ -55,7 +55,7 @@ Default Document Types
 
 Permissions
 ************
-If Document Management is set up for using security groups in Omnia, you can, as an Administrator (Owner) of the Team Site edit these permissions.
+If Document Management is set up for using permission groups, you can, as an Administrator (Owner) of the Team Site, edit these permissions.
 
 Do the following:
 
@@ -67,7 +67,7 @@ Something like the following is shown:
 
 .. image:: controlled-permissions.png
 
-You can add/remove security groups and/or users to these lists.
+You can add/remove groups and/or users to these lists.
 
 2. To edit permissions, open the list.
 
