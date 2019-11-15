@@ -32,7 +32,7 @@ A task is now created for each colleague, and an e-mail is sent to each, with th
 
 All reviewers are also notified in the notification panel, about the new task, and can choose to open the task from there. 
 
-The workflow will be active until the due date of the workflow is reached, all tasks are completed or the workflow is cancelled på the author.
+The workflow will be active until the due date of the workflow is reached, all tasks are completed or the workflow is cancelled by the author.
 
 Check status and cancel a Send for Coments workflow
 *******************************************************

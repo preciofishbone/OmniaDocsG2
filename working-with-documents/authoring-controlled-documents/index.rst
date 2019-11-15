@@ -44,4 +44,5 @@ Select section for more information:
    working-with-tasks/index
    send-for-comments/index
    publish-approval-workflow/index
+   read-and-understood/index
    
