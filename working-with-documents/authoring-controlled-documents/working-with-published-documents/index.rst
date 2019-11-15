@@ -3,9 +3,9 @@ Working with Published documents
 
 The Published tab lists the latest edition of all published documents from this Controlled Documents library. There are some useful options for a published document, you can for example check the Properties, see the Document History, see Feedback that users has sent and Move a document.
 
-A site Administrator (Owner) can set up which columns to show on this. Here's an example:
+A site Administrator (Owner) can set up which columns to show on this tab. Here's an example:
 
-.. published-example.png
+.. image:: published-example.png
 
 Checking a documents properties
 *********************************
@@ -71,7 +71,7 @@ If the URL is correct the site title is shown in the second field.
 
 Create Draft
 **************
-You can create a new Draft from a published document and start working on the new edition when you need it. The existing edition is still available for users (if it's not unpublished) until it's replaced, when the new edition is published.
+You can create a new Draft from a published document and start working on the new edition when you need it. The existing edition is still available for users until it's replaced, when the new edition is published.
 
 For more information on how to create a new draft, see the heading "Creating a new draft from a published document" on this page: :doc:`Working with Drafts </working-with-documents/authoring-controlled-documents/working-with-drafts/index>`
 
@@ -85,6 +85,17 @@ This option has to do with the option "Notify people" an author can select when 
 
 Unpublish
 **********
-You have to be Administrator (Owner) of the site to be able to unpublish a document. You can read more about how that works here: (Link to be added soon).
+If needed, a published document can be unpublished. The document will then not be available for reading. The document is also removed from the Controlled Documents library and a copy is placed in the archive.
+
+**Note!**
+A document can't be unpublished if a draft has been created for that document. The draft must first be deleted.
+
+The "Unpublish" option can be used on the "Published" tab and is found in a document's menu, for example:
+
+.. image:: unpublish.png
+
+When "Unpublish" is selected, you get a second chance to change your mind:
+
+.. image:: unpublish-2.png
 
 
