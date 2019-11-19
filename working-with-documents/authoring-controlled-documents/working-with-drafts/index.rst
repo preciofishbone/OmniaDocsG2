@@ -92,7 +92,7 @@ Do the following:
 
 .. image:: draft-move-3.png
 
-Now the selected document(s) are moved from the original Documents library and into the Controlled Documents library as a draft.
+Now the selected document(s) are moved from the original Documents library and into the Controlled Documents library as drafts.
 
 Upload Appendices
 *******************
