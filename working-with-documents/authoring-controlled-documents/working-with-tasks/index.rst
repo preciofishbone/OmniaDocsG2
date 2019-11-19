@@ -1,29 +1,35 @@
 Working with Tasks
 ===================
 
-(**This section is under construction. Not ready for reading yet. Please come back later**).
+Using the Tasks tab you can see three different lists:
 
-Check status for a Send for Comments Workflow
-**********************************************
-Status for a workflow can be checked at any time. Here’s how:
+Assigned To Me
+***************
+As it says, this list displays all tasks that have been assigned to you.
 
-1.	Click the link in the column "Status".
+.. image:: controlled-tasks-me.png
 
-.. image:: link-in-status-new.png
- 
-Something like the following is shown:
+The work with a task, just click the Title, and then something like the following is shown:
 
-.. image:: show-review-new.png
- 
-Which reviewers has finished the task and not, is shown here. For a finished task the comment entered by the reviewer is also shown. To see comments and/or changes in the document, open the document.
+.. image:: controlled-tasks-me-2.png
 
-Cancel a Send for Comments Workflow
-************************************
-If needed, a Send for Comments Workflow can be cancelled, for any reason. Note that publication is not possible if a Send for Comments Workflow is active for the document.The Send for Comments workflow has to be cancelled before the Publication Workflow can be started.
+You can click the link to read the document. To see additional information about the document, click the i icon. Here's an example of document information:
 
-1.	Click the link in the column "Status". 
-2.	Click "Cancel Send for Comments Workflow".
- 
-.. image:: cancel-review-workflow-new.png
- 
-Everyone in the workflow are now notified by e-mail that the workflow is cancelled. And their edit access to the document is also removed.
+.. image:: controlled-tasks-me-3.png
+
+You can set a new Review Date, for your own planning.
+
+To go back to the list, click "Cancel".
+
+(More information will be added soon).
+
+Assigned By Me
+---------------
+This list displays all Tasks created, when you sent a document for comments or when publishing a document.
+
+.. image:: controlled-tasks-byme-1.png
+
+To check the progress for any of the tasks, click the Title. Something like the following is then shown:
+
+.. image:: controlled-tasks-byme-2.png
+

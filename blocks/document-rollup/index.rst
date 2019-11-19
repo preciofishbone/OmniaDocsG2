@@ -103,7 +103,7 @@ The tabs Layout and Advanced contain general settings, see: :doc:`General Block 
 
 View Controlled Documents using this block
 *******************************************
-Here's an example of how it can look for users when a Document Rollup block is set up Controlled Documents access:
+Here's an example of how it can look for users when a Document Rollup block is set up for Controlled Documents access:
 
 .. image:: document-rollup-controlled-1.png
 
@@ -127,7 +127,7 @@ And these:
 
 .. image:: document-rollup-controlled-4.png
 
-The "Classic" Paging results a navigation at the bottom of the list:
+The "Classic" Paging results in a navigation at the bottom of the list:
 
 .. image:: document-rollup-controlled-5.png
 
@@ -137,7 +137,7 @@ The following settings are made for Query:
 
 .. image:: document-rollup-controlled-6.png
 
-Note the star (*) in the Query Field.
+Note the star (*) in the Query Field, meaning All.
 
 Filter
 --------
