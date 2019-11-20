@@ -15,9 +15,9 @@ The following information is available in the archive:
  
 You can search for documents and sort the list on the headings, to make it easier to find information about a certain document edition.
 
-To have a look at the cintents of a specific edition of a document, click the document name.
+To have a look at the contents of a specific edition of a document, click the document name.
 
-You can see information about an edition by clickning the i-icon.
+You can see information about an edition by clicking the i-icon.
 
 .. image:: archive-icon.png
 
@@ -29,11 +29,11 @@ To see Document History, click the link.
 
 .. image:: archive-icon-info-click-history.png
  
-Document History for all published edition is now shown, for example:
+Document History for all published editions is now shown, for example:
 
 .. image:: archive-icon-info-history.png
 
-Note the column "Published" where you can date and time when each edition was published and then replaced the earlier edition.
+Note the column "Published" where you can see date and time when each edition was published and then replaced the earlier edition.
 
 Workflow History for each edition of the document, for both Send for Comments workflows and for Publication workflows, is also available here. Click the link for an edition to see it.
 
