@@ -1,13 +1,11 @@
-Read and Understood
-====================
+Read and Understood - Notify and Read Receipt
+===============================================
 
-(**Note!** This page is under construction, not ready for reading yet. Pleasae come back later).
+When a controlled document is published, you can choose to send a notification to some users, and when doing so, can also choose to receive read receipts, to make sure the notification has reached them. The notifications are sent when the document is approved for publishing.
 
-When a controlled document is published, the author can choose to send a notification to some users, and when doing so, can also choose to receive read receipts, to make sure the notification has reached them. The notifications are sent when the document is approved for publishing.
+Sending notifications is always voluntary. The decision is made when the document is published. If any colleagues should be notified of the new edition, select "Notify people" and add people or groups to the field.
 
-Sending notifications is always voluntary. The decision is made when the document is published. If any colleagues should be notified of the new edition, "Notify people" is selected and people or groups are then added to the field.
-
-.. image:: notify-people-new.png
+.. image:: notify-people.png
 
 Some notes on using groups for notifications:
 
@@ -15,9 +13,9 @@ Some notes on using groups for notifications:
 + Regarding	Sharepoint groups: Only Sharepoint groups within the active site collection can be used. There can not be an AD group defined in the Sharepoint group.
 + Regarding AD groups (Security groups): The AD group must be e-mail enabled. Read receipts can not be used for AD groups.
 
-To make sure recipients has received the notification, the author can select "Require Read Receipt". (Also see above regarding AD groups.)
+To make sure recipients has received the notification, you can select "Require Read Receipt". (Also see above regarding AD groups.)
 
-.. image:: read-receipt-new.png
+.. image:: read-receipt.png
 
 Check Read Receipt Status
 ***************************
@@ -32,6 +30,6 @@ Read Receipt Status can be checked for a document on the "Published" tab, this w
 
 A list of those that has received a notification with read receipt request is now displayed, there e-mail address and the status are shown. It can look like this:
 
-.. image:: read-receipt-status-new.png
+(IMage to be added soon).)
  
 A green dot means that the recipient has read the message, a red that he or she has not.
