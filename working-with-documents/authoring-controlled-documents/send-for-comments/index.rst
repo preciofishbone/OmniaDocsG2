@@ -1,4 +1,4 @@
-Send Controlled Documents for Comments
+Send a Draft for Comments
 ========================================
 
 Authors can use the Send for Comments Workflow to get input from one or more colleagues in an organized way, or even to get help to type some part of the text. When the Workflow is active, all users that has been added as reviewers can edit the document, regardless of what access they normally have to the site. If it’s a Microsoft Word document – the option “Track changes” is automatically turned on so all comments/changes can be seen by everyone.
