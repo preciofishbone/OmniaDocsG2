@@ -1,14 +1,17 @@
 Controlled Docments Library Settings
 =======================================
 
-You must be Administrator (The permission group is most often called "Owners") of the Team Site - there can one or more - to be able to edit the settings for the three lists in the Controlled Documents library. 
+You must be Administrator (The permission group is most often called "Owners") of the Team Site - there can one or more - to be able to edit the settings for the three lists in the Controlled Documents library, and to edit permissions.
+
+Settings for the tabs
+***********************
 
 To access the seetings, go to the Controlled Documents library and click "Edit".
 
 .. image:: edit-controlled-library.png
 
 General
-************
+-----------
 Here you can use the following settings:
 
 .. image:: edit-controlled-library-general.png
@@ -17,7 +20,7 @@ Here you can use the following settings:
 + **Open In Client App**: Per default, documents are opened in the online Office 365 application. If documents should be opened in the locally installed application instead, select this option. 
 
 Display
-**********
+----------
 Here you can set the following:
 
 .. image:: edit-controlled-library-display.png
@@ -29,7 +32,7 @@ Here you can set the following:
 + **Hide Tasks Tab**: If the Tasks tab should not be displayed for authors, select this option.
 
 Drafts
-***********
+--------
 The following settings are available here:
 
 .. image:: edit-controlled-library-drafts.png
@@ -39,7 +42,7 @@ The following settings are available here:
 + **Display columns in draft view**: To add a new column, select it in the list and click "Add". To remove a column. click the dust bin. If no dust bin is shown for a column it's mandatory, and therefore can't be removed. You can set the order of the columns by grabbing the Equal To icon for the column and drag it to another place in the list.
 
 Published
-************
+------------
 The same type of settings as for Drafts are available here:
 
 .. image:: edit-controlled-library-published.png
@@ -47,7 +50,37 @@ The same type of settings as for Drafts are available here:
 See above for a description.
 
 Default Document Types
-************************
+------------------------
 (A description will be added soon.)
+
+Permissions
+************
+If Document Management is set up for using permission groups, you can, as an Administrator (Owner) of the Team Site, edit these permissions.
+
+Do the following:
+
+1. Click "Permissions" in the Controlled Documents library.
+
+.. image:: click-permissions.png
+
+Something like the following is shown:
+
+.. image:: controlled-permissions.png
+
+You can add/remove groups and/or users to these lists.
+
+2. To edit permissions, open the list.
+
+.. image:: controlled-permissions-list.png
+
+You can also add groups or users by typing the name in the field.
+
+If permission groups are used, as in the example above, you can add and remove users in these groups by using the Sharepoint standard functionality "Advanced permissions settings".
+
+.. image:: advanced-permissions-settings.png
+
+
+
+
 
 

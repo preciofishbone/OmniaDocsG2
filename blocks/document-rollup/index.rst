@@ -100,3 +100,67 @@ Here you select refiners to show for the list:
 Layout and Advanced
 **********************
 The tabs Layout and Advanced contain general settings, see: :doc:`General Block Settings </blocks/general-block-settings/index>`
+
+View Controlled Documents using this block
+*******************************************
+Here's an example of how it can look for users when a Document Rollup block is set up for Controlled Documents access:
+
+.. image:: document-rollup-controlled-1.png
+
+Note that Document Type is shown and that the list can be refined on Document Owner and Document Type. There's also a Search available.
+
+The following settings are used (see above for more information about the fields and options):
+
+General
+--------
+Here, just the Title for the list is added in this example:
+
+.. image:: document-rollup-controlled-2.png
+
+Display
+--------
+For Display the following settings are made in this example:
+
+.. image:: document-rollup-controlled-3.png
+
+And these:
+
+.. image:: document-rollup-controlled-4.png
+
+The "Classic" Paging results in a navigation at the bottom of the list:
+
+.. image:: document-rollup-controlled-5.png
+
+Query
+------
+The following settings are made for Query:
+
+.. image:: document-rollup-controlled-6.png
+
+Note the star (*) in the Query Field, meaning All.
+
+Filter
+--------
+The following filters are set up:
+
+.. image:: document-rollup-controlled-7.png
+
+"Title & ..." is the option for Search, in this case a search for "Title & Other Properties".
+
+Refiners
+-----------
+Finally, Refiners are set up this way:
+
+.. image:: document-rollup-controlled-8.png
+
+At the top is the Refiner Option "Document Owner", limited to 5 posts.
+
+Next is the Refiner Option "Document Type" with no limit.
+
+
+
+
+
+
+
+

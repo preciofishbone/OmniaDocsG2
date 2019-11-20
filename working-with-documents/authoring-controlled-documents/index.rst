@@ -45,4 +45,5 @@ Select section for more information:
    send-for-comments/index
    publish-approval-workflow/index
    read-and-understood/index
+   related-documents/index
    

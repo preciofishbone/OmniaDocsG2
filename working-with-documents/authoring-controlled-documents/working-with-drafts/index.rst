@@ -72,6 +72,28 @@ Now properties for the document are shown (and this is what is shown for a docum
 
 3. Edit the properties as needed and save.
 
+Get a  Draft by moving
+*******************************************
+You can get a draft, or several if you like, by moving a document from any other Documents library in this Team Site.
+
+Do the following:
+
+1. Click "Add" and select "Move".
+
+.. image:: draft-move-1.png
+
+2. Open the library.
+
+.. image:: draft-move-2.png
+
+3. Open a folder if needed.
+4. Select one or more documents to move.
+5. Click "Get Document".
+
+.. image:: draft-move-3.png
+
+Now the selected document(s) are moved from the original Documents library and into the Controlled Documents library as drafts.
+
 Upload Appendices
 *******************
 To upload documents to use as appendices to another document, the main upload option should not be used.
