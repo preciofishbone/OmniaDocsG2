@@ -30,6 +30,6 @@ Read Receipt Status can be checked for a document on the "Published" tab, this w
 
 A list of those that has received a notification with read receipt request is now displayed, there e-mail address and the status are shown. It can look like this:
 
-(IMage to be added soon).)
+(Image to be added soon).
  
 A green dot means that the recipient has read the message, a red that he or she has not.
