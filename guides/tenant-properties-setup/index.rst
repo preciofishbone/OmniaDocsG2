@@ -1,10 +1,25 @@
-Tenant Properties Setup
+Targetting Setup
 ===========================================
 
-Using Shared Links a Business Profile Administrator (or any other users added to the separate Permissions list) can create Business Profile specific links that users can access through "My Links".  
+Omnia offers the abiity to target content based on user property values. Both the user properties and their values can be seen found in the user's sharepoint profile: 
 
-Some links can be mandatory and it's also possible to target links to certain groups. 
+.. image:: userprofile.png
 
-These links can also be accessed through a Quick Links block on any page, see: :doc:`The Quick Links block </blocks/quick-links/index>`
 
-Options for Tenant Shared Links and Business Profile Shared Links are identical. For information on how to create and edit Shared Links, see: :doc:`Shared Links (Tenant) </admin-settings/tenant-settings/shared-links/index>`
+Here we can see user properties such as First name, Last name, Name, Work phone ; And their values right next to them. 
+
+In order to access this view, follow these steps:
+§   
+- Visit the sharepoint admin center by typing in https://(insert the name of your tenant)-admin.sharepoint.com 
+- Click on user profiles in the left menu
+- Click on Manager user profiles
+- Type in the name of the user you wish to inspect
+
+In order for a user profile property to be used in omnia, it has to be mapped first, and in order for it to be mapped, we need to know the name of the property, which can be found in search:
+
+.. image:: search.png
+
+we then go in to Manage search Schema:
+
+.. image:: managesearch.png
+

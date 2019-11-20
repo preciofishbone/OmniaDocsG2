@@ -25,7 +25,30 @@ Use the following settings:
 + **Internal name**: An internal name can or should in some instances be used instead of the Title, for example as a place holder. The internal name can not contain spaces.
 + **Type**: Select the Property type. It can be "Data", "Datetime", "Enterprise Keywords", "Media", "Person", "Rich text", "Taxonomy", "Text" or "Yes/No". Most of the Types are self explanatory. "Data" is a system field that users never enter anything to. "Rich text" can be formatted by the editor. "Text" is plain text that the editor can not format.
 
-Deleting or editing a Property
+Mapping a user profile property
+----------------------
+In order to map an omnia property to a user profile property, we need to first find the user profile property in sharepoint. In order to do that, lets look at this example:
+
+Here we will try mapping the property Department:
+
+.. image:: userprofile.png
+
+In order to access this view, follow these steps:
+
+Step 1: Visit the sharepoint admin center by typing in https://(insert the name of your tenant)-admin.sharepoint.com 
+Step 2: Click on user profiles in the left menu
+Step 3: Click on Manager user profiles
+Step 4: Type in the name of the user you wish to inspect
+
+In order for a user profile property to be used in omnia, it has to be mapped first, and in order for it to be mapped, we need to know the name of the property, which can be found in search:
+
+.. image:: search.png
+
+We then go in to Manage search Schema:
+
+.. image:: managesearch.png
+
+
 ---------------------------------
 Use the dust bin to delete a property, or the pen to edit one:
 
