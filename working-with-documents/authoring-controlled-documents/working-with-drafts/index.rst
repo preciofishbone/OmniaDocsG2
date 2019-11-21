@@ -27,7 +27,7 @@ Upload documents
 ---------------------
 An alternative is to upload existing documents, but normally it should be used just for documents that will be added as they are, but will still be handled as Controlled Documents, for example with approval before publishing.
 
-The template for the Document Type is not used for the first edition of the document, the document will be used with the exeisting template (if any). The next time a draft is created for an uploaded document, the template can be replaced, if needed.  See *Edit a document's properties* below for more information.
+The template for the Document Type is not used for the first edition of the document, the document will be used with the existing template (if any). The next time a draft is created for an uploaded document, the template can be replaced, if needed.  See *Edit a document's properties* below for more information.
 
 Do the following to upload a document:
 
@@ -182,7 +182,7 @@ To create a new draft of a published document, do the following:
 
 .. image:: create-draft-2.png
 
-As you see you can even upload a document to base the new draft on. This can be useful for example when you want to publish a new edition of a document you have uploaded as it is.
+As you see you can even upload a document to base the new draft on. This can be useful for example when you want to publish a new edition of a document you have uploaded as it is. Perhaps you have received a new version of a document from a supplier?
 
 If you select "Previous Edition", you can select which of the previous published editions you want to base the new Draft on. If you want to have a look at that edition before deciding, you can download a copy of the previous edition you selected in the list, by clicking this icon:
 
