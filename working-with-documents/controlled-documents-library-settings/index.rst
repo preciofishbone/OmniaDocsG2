@@ -51,21 +51,7 @@ See above for a description.
 
 Default Document Types
 ------------------------
-Here you can set Default Document Types to be shown when an author creates a new document in this Controlled Documents library. If there are a lot of Documents Types set up, this can make it easier for the authors.
-
-1. Click in the field and the list of available Document types is shown, for example:
-
-.. image:: default-document-types.png
-
-2. Open a groupo if nedded, and Select one or more Document Types.
-
-Selected Document Types are shown at the top, for example:
-
-.. image:: default-document-types-selected.png
-
-If the three Document Types as in the example above is selected, it looks like this when an author creates a new document:
-
-.. image:: default-document-types-in-wizard.png
+(Will be added soon.)
 
 Permissions
 ************
