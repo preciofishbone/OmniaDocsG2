@@ -28,6 +28,7 @@ Exactly which options are available here depends on a a number of settings. Thes
 + **Approver**: You select one approver from the list, or accept the suggested. Available approvers depends on various settings and how the system is set up.
 + **Approval Due Date**: Here the author adds a date when the approval should be made, at the latest. This is just information for the approvers. The Approval workflow is not stopped if this date is passed.
 + **Read rights**: The default selection is to use the Default Readers Group from the site’s permissions. If, for some reason, the Read Rights for this particular document should be different, you can select "Limit Read Access", and enter the names of the readers, or any group memberships, for example AD groups.
++ **Comments**: use this field 
 + **Convert DOCX to PDF**: An administrator can set how this will work, in Omnia Adm, and it can be different for each Document Type – it can be available or not available. Conversion to PDF is only available for docx documents. A preview of the PDF doucment is available through the link (Preview document).
 + **Notify people**: You can use this option to notify certain people or groups about the new edition of the document. The notification is sent when the document is approved. You can find more information about notifying people on this page: (link to be added soon).
 + **Require Read Receipt**: When notifying people, you can also select this option for read receipts to be sent to this Controlled Documents library.
