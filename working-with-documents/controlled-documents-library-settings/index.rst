@@ -1,4 +1,4 @@
-Controlled Docments Library Settings
+Controlled Documents Library Settings
 =======================================
 
 You must be Administrator (The permission group is most often called "Owners") of the Team Site - there can one or more - to be able to edit the settings for the three lists in the Controlled Documents library, and to edit permissions.
