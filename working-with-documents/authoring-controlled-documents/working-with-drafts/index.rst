@@ -72,16 +72,13 @@ Now properties for the document are shown (and this is what is shown for a docum
 
 3. Edit the properties as needed and save.
 
-Get a  Draft by moving
-*******************************************
-You can get a draft, or several if you like, by moving a document from any other Documents library in this Team Site.
+Transfer a document
+************************
+You can transfer a document, or several if you like, from any other Documents library in this Team Site, to the Coontrolled Documents library.
 
 Do the following:
 
-1. Click "Add" and select "Move".
-
-.. image:: draft-move-1.png
-
+1. Click "Add" and select "Transfer".
 2. Open the library.
 
 .. image:: draft-move-2.png
