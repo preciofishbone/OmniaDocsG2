@@ -46,9 +46,20 @@ In order for a user profile property to be used in omnia, it has to be mapped fi
 
 We then go in to Manage search Schema:
 
-.. image:: managesearch.png
+.. image:: sharepoint-managesearch.png
 
+We then type in the name of the property we are looking for, which in this case is Department: 
 
+.. image:: sharepoint-properties-department.png
+
+Here we can see on the left the name of the Managed property is indeed Department, and the crawled properties are People:Department and ows_department.
+
+We also notice that department is of type Text, it is also queryable, retrievable and refinable but not searchable or sortable, which means that when we map it on omnia, it needs to have the same attrbutes if we want it have the same functionality
+as it does now. Mapping it looks like the following: 
+
+.. image:: tenant-properties-mapping.png
+
+Department is now a usable property that fucks as both a value displayer and a refiner in blocks like People roll up and features like the search.
 ---------------------------------
 Use the dust bin to delete a property, or the pen to edit one:
 
@@ -66,7 +77,7 @@ Here you define which Properties to use for Targeting.
 
 .. image:: targeting-properties.png
 
-The Properties must be added to the Enterprise Properties list to be able to be used here.
+The Properties must be added to the Enterprise Properties list to be able to be used here, as well as be of the type "Taxonomy".
 
 Add a Target Property
 -----------------------
