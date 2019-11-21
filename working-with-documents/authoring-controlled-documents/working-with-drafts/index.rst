@@ -74,7 +74,7 @@ Now properties for the document are shown (and this is what is shown for a docum
 
 Transfer a document
 ************************
-You can transfer a document, or several if you like, from any other Documents library in this Team Site, to the Coontrolled Documents library.
+You can transfer a document, or several if you like, from any other Documents library in this Team Site, to the Coontrolled Documents library, and thus make them a Controlled Documents Draft.
 
 Do the following:
 
