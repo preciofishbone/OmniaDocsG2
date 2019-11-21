@@ -59,8 +59,9 @@ as it does now. Mapping it looks like the following:
 
 .. image:: tenant-properties-mapping.png
 
-Department is now a usable property that fucks as both a value displayer and a refiner in blocks like People roll up and features like the search.
----------------------------------
+Department is now a usable property that functions as both a value displayer and a refiner in blocks like People roll up and features like the search.
+
+
 Use the dust bin to delete a property, or the pen to edit one:
 
 .. image:: tenant-properties-delete-edit.png
