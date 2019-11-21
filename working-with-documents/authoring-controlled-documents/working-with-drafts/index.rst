@@ -93,7 +93,7 @@ Now the selected document(s) are moved from the original Documents library and i
 
 Upload Appendices
 *******************
-To upload documents to use as appendices to another document, the main upload option should not be used.
+To upload documents to use as appendices to another document, the main upload option should not be used. (But you can alos use Published Documents as appendices, see below.)
 
 Note that work with appendices (uploading new ones, deleting existing) can only be done when you are working on a draft of the document. If a document is sent for comments or for approval, appendices can not be uploaded to that document. 
 
@@ -103,7 +103,7 @@ An icon indicates if appendices are attached to a document, and states the numbe
 
 .. image:: appendix-example.png
 
-Upload or delet appendices this way:
+Upload or delete appendices this way:
 
 1.	Open the dot menu for the document to add appendices to.
 
@@ -144,7 +144,7 @@ Appendices can be added to this list continuously up to publication of the docum
 
 Published documents as Appendices - Copy from other document
 ---------------------------------------------------------------
-Another option is to add a copy of a published document as an Appendice. All published documents are available to select as appendice.
+Another option is to add a copy of a published document as an Appendice. All published documents are available to select as appendices.
 
 **Note!** In this case it is a copy of a document that will be added. There is no link between the published document and the copy, so if a new edition of the Appendice document is published, the copy used as an appendix is NOT updated.
 
