@@ -5,13 +5,13 @@ Add link is used when a link is about to be added in a block and a few other ins
 
 .. image:: add-link.png
 
-You can use this asset to add a link to a page or document in the tenant, or create a Custom link to any web page.
+You can use this asset to add a link to a page or document in the tenant, or create a Custom link to any web page. A mailto link can be created using a Custom link.
 
 Custom link
 ************
 The following settings are available:
 
-+ **Url**: Paste or type the Url (link) in this field.
++ **Url**: Paste or type the Url (link) in this field. 
 + **Title**: Type a text to be shown for the clickable link.
 + **Open in new window**: If the link should be opened in a new window, select this option. If not selected the link opens in th same window.
 + **Icon**: An Icon will be shown for each link. If you select "Automatic" the system will select the icon. Choosing "Built-in" you can select an icon from either "Font Awesome" or "Fabric", see below. If you select "Custom" you can use any image as an icon.
