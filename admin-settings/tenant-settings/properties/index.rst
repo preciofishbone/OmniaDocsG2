@@ -26,8 +26,8 @@ Use the following settings:
 + **Type**: Select the Property type. It can be "Data", "Datetime", "Enterprise Keywords", "Media", "Person", "Rich text", "Taxonomy", "Text" or "Yes/No". Most of the Types are self explanatory. "Data" is a system field that users never enter anything to. "Rich text" can be formatted by the editor. "Text" is plain text that the editor can not format.
 
 Mapping a user profile property
-----------------------
-In order to map an omnia property to a user profile property, we need to first find the user profile property in sharepoint. In order to do that, lets look at this example:
+----------------------------------
+In order to map an Omnia property to a user profile property, we need to first find the user profile property in sharepoint. In order to do that, lets look at this example:
 
 Here we will try mapping the property Department:
 
@@ -35,7 +35,7 @@ Here we will try mapping the property Department:
 
 In order to access this view, follow these steps:
 
-1. Visit the sharepoint admin center by typing in https://(insert the name of your tenant)-admin.sharepoint.com 
+1. Visit the sharepoint admin center by typing in https://((insert the name of your tenant)-admin.sharepoint.com 
 2. Click on user profiles in the left menu.
 3. Click on Manager user profiles.
 4. Type in the name of the user you wish to inspect.
