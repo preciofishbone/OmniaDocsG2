@@ -223,31 +223,41 @@ Then you can decide on which devices to show this section:
 
 Settings
 *********
-On the "Settings" tab you can set the Properties (fields) the author has to or can fill in when creating a page with this Page Type. You can select any of the properties defined in the tenant. See this page for more information about setting up properties: :doc:`Tenant Settings - Properties </admin-settings/tenant-settings/properties/index>`
+On the "Settings" tab you can set the Properties for all pages created from this Page Type. In many cases it results in fields the page editor has to or can fill in for a page. You can select any of the properties defined in the tenant. See this page for more information about setting up properties: :doc:`Tenant Settings - Properties </admin-settings/tenant-settings/properties/index>`
 
 Here's an example with a Page Type with left navigation:
 
 .. image:: page-type-settings-left.png
 
+It results in these fields being available on the Properties tab for a page:
+
+.. image:: page-type-settings-left-fields.png
+
 And here's an example with a Page Type for News:
 
 .. image:: page-type-settings-news.png
+
+Which results in these fields being available on the Properties tab for a News Article page:
+
+.. image:: page-type-settings-news-fields.png
+
+Set properties for the Page Type this way:
 
 1. Select the properties to be used for this Page Type.
 2. Click the dot menu for more settings for a property.
 
 .. image:: page-type-settings-dot-menu.png
 
-Use these settings:
+Something like the following is shown:
 
 .. image:: page-type-settings-dot-menu-settings.png
 
 The following settings can be available for a property:
 
-+ **Required**: The author creating the page has to enter information in the field.
-+ **Allow multiple values**: For some properties multiple values are possible. If you will allow the author to enter more than one value, check this option. If multiple values is not possible for the property, this option is not shown.
-+ **Show in new page**: (A description will be added soon).
-+ **Show in edit properties**: (A description will be added soon).
++ **Required**: The editor creating the page has to enter information in the field.
++ **Allow multiple values**: For some properties multiple values are possible. If you will allow the editor to enter more than one value, check this option. If multiple values is not possible for the property, this option is not shown.
++ **Show in new page**: If the property (field) should be available in the New Page Wizard when creating a page, select this option. If you select this option and not "Show in edit properties" the property can only be set when the page is created.
++ **Show in edit properties**: If it should be possible to edit the property when the page is edited, meaning after it is created, select this option.
 + **Date only**: (A description will be added soon).
 + **Receive e-mail**: This is available for most people properties. If the colleague set for this property should receive e-mails, select this option.
 + **Category**: (A description will be added soon).
