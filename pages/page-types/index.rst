@@ -221,6 +221,41 @@ Then you can decide on which devices to show this section:
 
 .. image:: select-device-section.png
 
+Settings
+*********
+On the "Settings" tab you can set the Properties (fields) the author has to or can fill in when creating a page with this Page Type. You can select any of the properties defined in the tenant. See this page for more information about setting up properties: :doc:`Tenant Settings - Properties </admin-settings/tenant-settings/properties/index>`
+
+Here's an example with a Page Type with left navigation:
+
+.. image:: page-type-settings-left.png
+
+And here's an example with a Page Type for News:
+
+.. image:: page-type-settings-news.png
+
+1. Select the properties to be used for this Page Type.
+2. Click the dot menu for more settings for a property.
+
+.. image:: page-type-settings-dot-menu.png
+
+Use these settings:
+
+.. image:: page-type-settings-dot-menu-settings.png
+
+The following settings can be available for a property:
+
++ **Required**: The author creating the page has to enter information in the field.
++ **Allow multiple values**: For some properties multiple values are possible. If you will allow the author to enter more than one value, check this option. If multiple values is not possible for the property, this option is not shown.
++ **Show in new page**: (A description will be added soon).
++ **Show in edit properties**: (A description will be added soon).
++ **Date only**: (A description will be added soon).
++ **Receive e-mail**: This is available for most people properties. If the colleague set for this property should receive e-mails, select this option.
++ **Category**: (A description will be added soon).
++ **Default value**: A default value can be entered here. A defalt value can be edited by the author. What is possible to select here differs with type of property. 
++ **Limit Edit Permission**: You can limit Edit Permission for this property if needed. Add one or more users here.
+
+
+
 
 
 
