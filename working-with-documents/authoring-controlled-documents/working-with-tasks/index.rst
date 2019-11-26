@@ -28,7 +28,7 @@ If it's a task for reviewing a document when the Review Date has passed (as in t
 To go back to the list, click "Cancel".
 
 Assigned By Me
----------------
+****************
 This list displays all Tasks created, when you sent a document for comments or when publishing a document.
 
 .. image:: controlled-tasks-byme-1.png
@@ -36,4 +36,16 @@ This list displays all Tasks created, when you sent a document for comments or w
 To check the progress for any of the tasks, click the Title. Something like the following is then shown:
 
 .. image:: controlled-tasks-byme-2.png
+
+Completed Tasks
+****************
+As it says, this tab displays a list of completed tasks, for example:
+
+.. image:: controlled-tasks-completed.png
+
+You can click the link to a task for more information, for example to see the comment(s).
+
+.. image:: controlled-tasks-completed-comment.png
+
+
 
