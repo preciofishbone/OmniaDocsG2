@@ -58,7 +58,7 @@ To cancel, do the following:
 
 You can also check status for both Send for Comments workflow and Publish workflow on the Tasks tab, See this page for more information: :doc:`Working with Tasks </working-with-documents/authoring-controlled-documents/working-with-tasks/index>`
 
-See Workflow History for the draft
+See Workflow History for a draft
 ***********************************
 A workflow History is available for all draft documents, showing all finished or cancelled workflows for THIS draft version. Do the following to see Workflow History:
 
@@ -69,9 +69,10 @@ A workflow History is available for all draft documents, showing all finished or
 
 Something like the following is shown:
 
-(Image to be added soon).
+.. image:: workflow-history-shown.png
  
 Click the workflow to see the details, for example:
 
-(Image to be added soon).
+.. image:: workflow-history-shown-details.png
+ 
  
