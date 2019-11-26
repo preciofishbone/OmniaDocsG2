@@ -44,9 +44,9 @@ Any user can send feedback on a published document and that feedback is availabl
 1.	Click the dot menu for the document.
 2.	Select "Feedback".
  
-The feedback posts for the document is shown. Here's an example:
+The feedback posts for the document is shown. Click a post to read the feedback. Here's an example:
 
-(Image to be added soon).
+.. image:: feedback-example.png
 
 You can click the dust bin to delete the feedback when you have read it, or keep it for later reference, it’s up to you.
 
@@ -77,11 +77,11 @@ For more information on how to create a new draft, see the heading "Creating a n
 
 Related Documents
 *******************
-You can related a published document to other published documents. How to do that is described on this page: :doc:`Related Documents </working-with-documents/authoring-controlled-documents/related-documents/index>`.
+You can related a published document to other published documents. How to do that is described on this page: :doc:`Related Documents </working-with-documents/authoring-controlled-documents/related-documents/index>`
 
 Read Receipt Status
 ********************
-This option has to do with the option "Notify people" an author can select when publishing a document. See this page for more information: :doc:`Read and Understood - Notify and Read Receipt </working-with-documents/authoring-controlled-documents/read-and-understood/index>`.
+This option has to do with the option "Notify people" an author can select when publishing a document. See this page for more information: :doc:`Read and Understood - Notify and Read Receipt </working-with-documents/authoring-controlled-documents/read-and-understood/index>`
 
 Unpublish
 **********
