@@ -77,11 +77,11 @@ For more information on how to create a new draft, see the heading "Creating a n
 
 Related Documents
 *******************
-You can related a published document to other published documents. How to do that is described on this page: (Link to be added soon).
+You can related a published document to other published documents. How to do that is described on this page: :doc:`Related Documents </working-with-documents/authoring-controlled-documents/related-documents/index>`.
 
 Read Receipt Status
 ********************
-This option has to do with the option "Notify people" an author can select when publishing a document. See this page for more information: (Link to be added soon).
+This option has to do with the option "Notify people" an author can select when publishing a document. See this page for more information: :doc:`Read and Understood - Notify and Read Receipt </working-with-documents/authoring-controlled-documents/read-and-understood/index>`.
 
 Unpublish
 **********
