@@ -58,7 +58,7 @@ An author of controlled documents can always create normal documents as well in 
 
 .. image:: document-wizard-start.png
 
-This is done using the Admin Settings for the Business Profile. See this page for more information: :doc:`Settings for the Business Profile </admin-settings/business-profile-settings/settings/index>`
+This is done using the Admin Settings for the Business Profile. See this page for more information: :doc:`Settings for the Business Profile </admin-settings/business-group-settings/settings/index>`
 
 To create a new normal document, do the following:
 
@@ -83,7 +83,7 @@ To create a new normal document, do the following:
 
 .. image:: normal-document-5.png
 
-OneDrive is your personal Office 365 OneDrive. If "Intranet" is selected - if available - a list of folders you have      access to in the intranet is shown. The rest of the locations are normally available Team Sites.
+OneDrive is your personal Office 365 OneDrive. If "Intranet" is selected - if available - a list of folders you have access to in the intranet is shown. The rest of the locations are normally available Team Sites.
 
 7. Select folder in that location.
 
