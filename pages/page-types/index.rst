@@ -108,7 +108,7 @@ Header
 --------
 Here you can set the following:
 
-.. image:: page-types-settings-heading.png
+.. image:: page-types-settings-header.png
 
 + **Title**: If you want a Title to be displayed for the Section, add it here. 
 
@@ -118,7 +118,7 @@ The Global settings are set in Omnia Admin, see the bottom at this page: :doc:`G
 
 When selecting Custom Settings, the following is available:
 
-.. image:: page-types-settings-header-custom.png
+.. image:: page-types-settings-header-custom-new.png
 
 This is the same settings as for the Global Settings, see the link above.
 
@@ -126,7 +126,7 @@ Targeting
 ----------
 A Section can be targeted by using this setting:
 
-.. image:: page-types-settings-targeting-border.png
+.. image:: page-types-settings-targeting-new.png
 
 Targeting must have been setup in Omnia Admin for this to work, see that section on this page: :doc:`Properties </admin-settings/tenant-settings/properties/index>`
 
@@ -135,21 +135,21 @@ To set Targeting for the Section, do the following:
 1. Click "Add Targeting Filter".
 2. Select Property for Targeting.
 
-.. image:: page-types-settings-targeting-property.png
+.. image:: page-types-settings-targeting-property-new.png
 
 3. Select one or more children for the Property.
 
-.. image:: page-types-settings-targeting-properties-metadata.png
+.. image:: page-types-settings-targeting-properties-metadata-new.png
 
 Or:
 
 3. Select "Include Children", to include all children for the Property.
 
-.. image:: page-types-settings-targeting-properties-children.png
+.. image:: page-types-settings-targeting-properties-children-new.png
 
 4. Click "Add Targeting Filter" to add additional filters.
 
-.. image:: page-types-settings-targeting-additional.png
+.. image:: page-types-settings-targeting-additional-new.png
 
 To remove a Targeting Filter, just click the X.
 
@@ -157,7 +157,7 @@ Advanced Settings
 ----------------------
 In the Advanced Settings you can use Custom CSS Styling for the block.
 
-.. image:: page-types-settings-advanced. png
+.. image:: page-types-settings-advanced-new.png
 
 Create a Section in a Column
 ******************************
@@ -183,13 +183,13 @@ Delete a section
 *****************
 If you need to delete a section, here's how to do it:
 
-1. Click in the Section (not on any plus).
+1. Click in the section (not on any plus).
 
 .. image:: delete-section-1.png
 
-2. Click the dust bin for the Section.
+2. Click the dust bin for the section.
 
-.. image:: delete-section-2.png
+.. image:: delete-section-2-new.png
 
 Adding blocks to a Section
 ***************************
@@ -202,7 +202,7 @@ Here's how to add a block to a section:
 
 Here's an example with a block added:
 
-.. image:: section-block-added.png
+.. image:: section-block-added-new.png
 
 You add additional blocks, work with the settings, move or delete blocks the same way as editors do when editing a page, see: :doc:`Working with Blocks </blocks/working-with-blocks/index>`
 
@@ -218,11 +218,11 @@ When you're working on a section you can select to show it on different devices 
 
 Click this icon:
 
-.. image:: device-support-section.png
+.. image:: device-support-section-new.png
 
 Then you can decide on which devices to show this section:
 
-.. image:: select-device-section.png
+.. image:: select-device-section-new.png
 
 Settings
 *********
