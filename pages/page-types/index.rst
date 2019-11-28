@@ -14,27 +14,27 @@ To edit a Page Type, do the following:
 1. Go to any page.
 2. Edit the page.
 
-.. image:: page-types-edit-page.png
+.. image:: page-types-edit-page-new.png
 
-3. Open this menu:
+3. Open this menu (if it doesn't open automatically):
 
-.. image:: page-types-open-menu.png
+.. image:: page-types-open-menu-new.png
 
 4. Open the list of Page Types at the bottom:
 
-.. image:: page-types-open-list.png
+.. image:: page-types-open-list-new.png
 
 5. Select the Page Type you want to edit.
 
-.. image:: page-types-edit-select.png
+.. image:: page-types-edit-select-new.png
 
 6. Click "Edit".
 
-.. image:: page-types-click-edit.png
+.. image:: page-types-click-edit-new.png
 
-7. To edit a Section, click the section, then the plus for the section, and then the cog wheel.
+7. To edit a Section, click the section, and then the cog wheel.
 
-.. image:: page-types-edit-section.png
+.. image:: page-types-edit-section-new.png
 
 For information about various settings and how to place Blocks, see below.
 
@@ -62,44 +62,69 @@ See the images for the layouts for a simple preview of the layout.
 
 5. Use the Section settings:
 
-.. image:: page-types-section-settings.png
+.. image:: page-types-section-settings-new.png
 
 General
 ----------
 Under General, the following can be set:
 
-.. image:: page-types-general.png
+.. image:: page-types-general-new.png
 
 + **Alignment**: You can set Left, Centred or Right Alignment for the blocks in the Section. Default=Left.
 + **Width Type**: Set dynamic width ("Full Page") or a Fixed width in pixels. When you have selected Fixed, a slider is shown where you can det the width.
 + **Section Margin**: Set a Margin in pixels, inside the Section if needed. Default=0.
++ **Add Column**: You can add a Column if needed. The same settings as above can then be used for the new Column. 
 
-Columns
---------
-Under Columns you can set the following:
-
-.. image:: page-types-columns.png
-
-+ **Settings**: Here you can set the width for each Column by using the sliders. 
+To remove a column, click the dust bin.
 
 By clicking the pen, the following can be set for a column:
 
-.. image:: page-types-columns-pen-border.png
+.. image:: page-types-columns-pen.png
 
-+ **Chrome**: Set Boxed or not for the Column.
-+ **Color**: The Background Color for the Column can be set here.
++ **Chrome**: Set boxed or not for the Column.
++ **Color**: The background color for the Column can be set here.
++ **Elevation**: If the column should have some elevation, add it here.
 + **Custom CSS**: You can use Custom CSS for formatting the Column.
-+ **Remove Column**: If the Column should be removed, click here.
 
-+ **Add Column**: You can add a Column if needed. The same settings as above can then be used for the new Column.
-+ **Column Spacing**: Set some Spacing between the columns, if needed.
+Spacing
+--------
+Here you can set the following:
+
+.. image:: page-types-spacing.png
+
++ **Section Padding**: Here you can set som padding within the active section.
++ **Column Spacing**: Here you can set the spacing between the columns in this section.
++ **Block Spacing**: You can set spacing between blocks in this section. 
 
 
-Blocks
----------
-With this setting you can add some spacing between Blocks in the Section.
+Style
+------
+This can be set for Style, for the active section:
 
-.. image:: page-types-settings-blocks.png
+.. image:: page-types-style.png
+
++ **Minimum Height**: You can make sure that this section always has a minimun height, regardless of what os shown in the section. Add the height in pixels here.
++ **Background color**: A default background color for sections are set in Omnia Admin. You can set another background color for this block here, if needed.
++ **Background image**: Another option is to use an image as background in this section. When you click "Add Image", the Media Picker starts, see this page for more information: :doc:`Media Picker </general-assetsmedia-picker/index>`
++ **Elevation**: With this setting you can make the content of the sectiopn “stand out” from the page. 
+
+Header
+--------
+Here you can set the following:
+
+.. image:: page-types-settings-heading.png
+
++ **Title**: If you want a Title to be displayed for the Section, add it here. 
+
+You can then decide to use the Global settings for the Business Profile, or Custom Settings. 
+
+The Global settings are set in Omnia Admin, see the bottom at this page: :doc:`Global Content Header Settings </admin-settings/business-group-settings/settings/index>`
+
+When selecting Custom Settings, the following is available:
+
+.. image:: page-types-settings-header-custom.png
+
+This is the same settings as for the Global Settings, see the link above.
 
 Targeting
 ----------
@@ -131,24 +156,6 @@ Or:
 .. image:: page-types-settings-targeting-additional.png
 
 To remove a Targeting Filter, just click the X.
-
-Header
---------
-Here you can set the following:
-
-.. image:: page-types-settings-heading.png
-
-+ **Title**: If you want a Title to be displayed for the Section, add it here. 
-
-You can then decide to use the Global settings for the Business Profile, or Custom Settings. 
-
-The Global settings are set in Omnia Admin, see the bottom at this page: :doc:`Global Content Header Settings </admin-settings/business-group-settings/settings/index>`
-
-When selecting Custom Settings, the following is available:
-
-.. image:: page-types-settings-header-custom.png
-
-This is the same settings as for the Global Settings, see the link above.
 
 Advanced Settings
 ----------------------
