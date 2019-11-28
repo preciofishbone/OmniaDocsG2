@@ -18,9 +18,37 @@ Use this tab to add calendars.
 .. image:: calendar-rollup-query.png
 
 + **Select Calendar Type**: You can select to add Office Group Calendars or Personal Group Calendars.
-+ **Select Calendar Groups**: When the above selection is done, use this list to select a calendar and add it by clickning "Add".
++ **Select Calendar Group**: If you have selected "Office Group" above you use this field to search for a calendar. If you selected "Personal Group Calendars" above you select a calendar group: "My Calendars", "Other Calendars", "People's Calendars" or "Shared Calendars".
++ **Select Calendar**: If you select "Personal Group" for Calendar Type, use this list to select a calendar.
 
-Continue until all Calendars you wish to display in this block are selected.
+To add an Office Group Calendar
+--------------------------------
+Do the following:
+
+1. Select "Office Group".
+2. Click in the "Select Calendar Group" field and search for a calendar.
+3. Click "Add".
+
+.. image:: calendar-office-add.png
+
+Ta add a Personal Group Calendar
+----------------------------------
+Do the following:
+
+1. Select "Personal Group".
+2.Open the list "Select Calendar Group" and select a calendar group.
+3. Open the list "Select a Calendar" and select the calendar.
+4. Click "Add".
+
+.. image:: calendar-personal-add.png
+
+5. Continue until all calendars you wish to display in this block are selected. 
+
+Here's an example:
+
+.. image:: calendar-query-example.png
+
+Note that in this example "IT Department" is an office group calendar, and "Vacation" is a shared, personal calendar.
 
 Display
 ---------
