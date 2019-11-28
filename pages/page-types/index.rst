@@ -1,15 +1,15 @@
 Page Types
 ==================
 
-An administrator or an editor with the correct permissions can work with Page Types. A Page Type contains sections where blocks can be placed for content. Sections can be targeted.
+An administrator or an editor with the correct permissions can work with Page Types. A page type contains sections where blocks can be placed for content. Sections can be targeted.
 
-Some blocks can be added to a Page Type so they are a part of the layout presented to editors of a page based on the Page Type. See the bottom of this page for more information on blocks that belong to the Page Type.
+Some blocks can be added to a page type so they are a part of the layout presented to editors of a page based on the Page Type. See the bottom of this page for more information on blocks that belong to the Page Type.
 
-When a new page is created, the editor can choose Page Type from any available in the Page Type list.
+When a new page is created, the editor can choose page type from any available in the page type list.
 
 Edit a Page Type
 *****************
-To edit a Page Type, do the following:
+To edit a page type, do the following:
 
 1. Go to any page.
 2. Edit the page.
@@ -20,11 +20,11 @@ To edit a Page Type, do the following:
 
 .. image:: page-types-open-menu-new.png
 
-4. Open the list of Page Types at the bottom:
+4. Open the list of page types at the bottom:
 
 .. image:: page-types-open-list-new.png
 
-5. Select the Page Type you want to edit.
+5. Select the page type you want to edit.
 
 .. image:: page-types-edit-select-new.png
 
@@ -32,7 +32,7 @@ To edit a Page Type, do the following:
 
 .. image:: page-types-click-edit-new.png
 
-7. To edit a Section, click the section, and then the cog wheel.
+7. To edit a section, click the section, and then the cog wheel.
 
 .. image:: page-types-edit-section-new.png
 
@@ -40,13 +40,13 @@ For information about various settings and how to place Blocks, see below.
 
 Create a new Page Type
 **************************
-To create a new Page Type when you're editing a page, do the following:
+To create a new page type when you're editing a page, do the following:
 
 1. Click the plus for Page Types.
 
 .. image:: page-types-click-plus.png
 
-2. Add a name for the new Page Type and click "CREATE".
+2. Add a name for the new page type and click "CREATE".
 
 .. image:: page-types-click-create.png
 
@@ -60,7 +60,7 @@ To create a new Page Type when you're editing a page, do the following:
 
 See the images on the icons for the layouts, for a simple preview of the layout.
 
-5. Use the Section settings:
+5. Use the section settings:
 
 .. image:: page-types-section-settings-new.png
 
@@ -70,18 +70,18 @@ Under General, the following can be set:
 
 .. image:: page-types-general-new.png
 
-+ **Width Type**: Set dynamic width ("Full Page") or a Fixed width in pixels. When you have selected Fixed, a slider is shown where you can set the width.
++ **Width Type**: Set dynamic width ("Full Page") or a fixed width in pixels. When you have selected Fixed, a slider is shown where you can set the width.
 + **Column**: Using the sliders, set a width for each of the column. Default = same width for every column.
-+ **Add Column**: You can add a Column if needed. The same settings as above can then be used for the new Column. 
++ **Add Column**: You can add a column if needed. The same settings as above can then be used for the new column. 
 
 To remove a column, click the dust bin. By clicking the pen, the following can be set for a column:
 
 .. image:: page-types-columns-pen.png
 
-+ **Chrome**: Set boxed or not for the Column.
-+ **Color**: The background color for the Column can be set here.
++ **Chrome**: Set boxed or not for the column.
++ **Color**: The background color for the column can be set here.
 + **Elevation**: If the column should stand out from the page, use the slider to set how much.
-+ **Custom CSS**: You can use Custom CSS for formatting the Column.
++ **Custom CSS**: You can use custom CSS for formatting the column.
 
 Spacing
 --------
@@ -99,7 +99,7 @@ This can be set for Style, for the active section:
 
 .. image:: page-types-style.png
 
-+ **Minimum Height**: You can make sure that this section always has a minimun height, regardless of what is shown in the section. Add the height in pixels here.
++ **Minimum Height**: You can make sure that this section always has a minimun height, regardless of what is shown in the section. Set the height in pixels here.
 + **Background color**: A default background color for sections are set in Omnia Admin. You can set another background color for this section here, if needed.
 + **Background image**: Another option is to use an image as background in this section. When you click "Add Image", the Media Picker starts, see this page for more information: :doc:`Media Picker </general-assets/media-picker/index>`
 + **Elevation**: With this setting you can make the content of the section “stand out” from the page. 
@@ -110,40 +110,40 @@ Here you can set the following:
 
 .. image:: page-types-settings-header.png
 
-+ **Title**: If you want a Title to be displayed for the Section, add it here. 
++ **Title**: If you want a Title to be displayed for the section, add it here. Not mandatory.
 
-You can then decide to use the Global settings for the Business Profile, or Custom Settings. 
+You can then decide to use the global settings for the business profile, or custom settings. 
 
-The Global settings are set in Omnia Admin, see the bottom at this page: :doc:`Global Content Header Settings </admin-settings/business-group-settings/settings/index>`
+The global settings are set in Omnia Admin, see the bottom at this page: :doc:`Header Settings </admin-settings/business-group-settings/settings/index>`
 
-When selecting Custom Settings, the following is available:
+When selecting custom settings, the following is available:
 
 .. image:: page-types-settings-header-custom-new.png
 
-This is the same settings as for the Global Settings, see the link above.
+This is the same settings as for the global settings, see the link above.
 
 Targeting
 ----------
-A Section can be targeted by using this setting:
+A section can be targeted by using this setting:
 
 .. image:: page-types-settings-targeting-new.png
 
 Targeting must have been setup in Omnia Admin for this to work, see that section on this page: :doc:`Properties </admin-settings/tenant-settings/properties/index>`
 
-To set Targeting for the Section, do the following:
+To set up targeting for the section, do the following:
 
 1. Click "Add Targeting Filter".
 2. Select Property for Targeting.
 
 .. image:: page-types-settings-targeting-property-new.png
 
-3. Select one or more children for the Property.
+3. Select one or more children for the property.
 
 .. image:: page-types-settings-targeting-properties-metadata-new.png
 
 Or:
 
-3. Select "Include Children", to include all children for the Property.
+3. Select "Include Children", to include all children pf the property.
 
 .. image:: page-types-settings-targeting-properties-children-new.png
 
@@ -151,19 +151,19 @@ Or:
 
 .. image:: page-types-settings-targeting-additional-new.png
 
-To remove a Targeting Filter, just click the X.
+To remove a targeting filter, just click the X.
 
 Advanced Settings
 ----------------------
-In the Advanced Settings you can use Custom CSS Styling for the block.
+In the advanced settings you can use custom CSS styling for the section.
 
 .. image:: page-types-settings-advanced-new.png
 
 Create a Section in a Column
 ******************************
-If needed, you can create a Section in a Column and then select a layout for the Column and set all other Sections Settings. Here's how:
+If needed, you can create a section in a column and then select a layout for the column and set all other section's settings. Here's how:
 
-1. Click the plus for the Column.
+1. Click the plus for the column.
 
 .. image:: column-layout-click-plus.png
 
@@ -171,13 +171,13 @@ If needed, you can create a Section in a Column and then select a layout for the
 
 .. image:: column-layout-list.png
 
-3. Select Layout for the Column.
+3. Select layout for the column.
 
 .. image:: column-layout-list-open.png
 
-4. Set the Section's Settings (see above).
+4. Set the section's settings (see above).
 
-If needed, you can even go a step further and create a new Section in one of the new Columns.
+If needed, you can even go a step further and create a new section in one of the new columns.
 
 Delete a section
 *****************
