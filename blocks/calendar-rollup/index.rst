@@ -26,8 +26,9 @@ To add an Office Group Calendar
 Do the following:
 
 1. Select "Office Group".
-2. Click in the "Select Calendar Group" field and search for a calendar.
-3. Click "Add".
+2. Click in the "Select Office Group" field and search for a calendar.
+3. Select the calender
+4. Click "Add".
 
 .. image:: calendar-office-add.png
 
@@ -36,8 +37,8 @@ Ta add a Personal Group Calendar
 Do the following:
 
 1. Select "Personal Group".
-2.Open the list "Select Calendar Group" and select a calendar group.
-3. Open the list "Select a Calendar" and select the calendar.
+2. Open the list "Select Calendar Groups" and select a calendar group.
+3. Open the list "Select Calendar" and select the calendar.
 4. Click "Add".
 
 .. image:: calendar-personal-add.png
