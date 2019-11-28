@@ -58,7 +58,7 @@ To create a new Page Type when you're editing a page, do the following:
 
 .. image:: page-types-base-layout.png
 
-See the images for the layouts for a simple preview of the layout.
+See the images on the icons for the layouts, for a simple preview of the layout.
 
 5. Use the Section settings:
 
@@ -70,20 +70,17 @@ Under General, the following can be set:
 
 .. image:: page-types-general-new.png
 
-+ **Alignment**: You can set Left, Centred or Right Alignment for the blocks in the Section. Default=Left.
-+ **Width Type**: Set dynamic width ("Full Page") or a Fixed width in pixels. When you have selected Fixed, a slider is shown where you can det the width.
-+ **Section Margin**: Set a Margin in pixels, inside the Section if needed. Default=0.
++ **Width Type**: Set dynamic width ("Full Page") or a Fixed width in pixels. When you have selected Fixed, a slider is shown where you can set the width.
++ **Column**: Using the sliders, set a width for each of the column. Default = same width for every column.
 + **Add Column**: You can add a Column if needed. The same settings as above can then be used for the new Column. 
 
-To remove a column, click the dust bin.
-
-By clicking the pen, the following can be set for a column:
+To remove a column, click the dust bin. By clicking the pen, the following can be set for a column:
 
 .. image:: page-types-columns-pen.png
 
 + **Chrome**: Set boxed or not for the Column.
 + **Color**: The background color for the Column can be set here.
-+ **Elevation**: If the column should have some elevation, add it here.
++ **Elevation**: If the column should stand out from the page, use the slider to set how much.
 + **Custom CSS**: You can use Custom CSS for formatting the Column.
 
 Spacing
@@ -92,10 +89,9 @@ Here you can set the following:
 
 .. image:: page-types-spacing.png
 
-+ **Section Padding**: Here you can set som padding within the active section.
++ **Section Padding**: Here you can set some padding within the active section.
 + **Column Spacing**: Here you can set the spacing between the columns in this section.
 + **Block Spacing**: You can set spacing between blocks in this section. 
-
 
 Style
 ------
@@ -103,10 +99,10 @@ This can be set for Style, for the active section:
 
 .. image:: page-types-style.png
 
-+ **Minimum Height**: You can make sure that this section always has a minimun height, regardless of what os shown in the section. Add the height in pixels here.
-+ **Background color**: A default background color for sections are set in Omnia Admin. You can set another background color for this block here, if needed.
-+ **Background image**: Another option is to use an image as background in this section. When you click "Add Image", the Media Picker starts, see this page for more information: :doc:`Media Picker </general-assetsmedia-picker/index>`
-+ **Elevation**: With this setting you can make the content of the sectiopn “stand out” from the page. 
++ **Minimum Height**: You can make sure that this section always has a minimun height, regardless of what is shown in the section. Add the height in pixels here.
++ **Background color**: A default background color for sections are set in Omnia Admin. You can set another background color for this section here, if needed.
++ **Background image**: Another option is to use an image as background in this section. When you click "Add Image", the Media Picker starts, see this page for more information: :doc:`Media Picker </general-assets/media-picker/index>`
++ **Elevation**: With this setting you can make the content of the section “stand out” from the page. 
 
 Header
 --------
@@ -165,7 +161,7 @@ In the Advanced Settings you can use Custom CSS Styling for the block.
 
 Create a Section in a Column
 ******************************
-If nedded, you can create a Section in a Column and then select a layout for the Column and set all other Sections Settings. Here's how:
+If needed, you can create a Section in a Column and then select a layout for the Column and set all other Sections Settings. Here's how:
 
 1. Click the plus for the Column.
 
@@ -179,7 +175,7 @@ If nedded, you can create a Section in a Column and then select a layout for the
 
 .. image:: column-layout-list-open.png
 
-4. Set the Sections Settings (see above).
+4. Set the Section's Settings (see above).
 
 If needed, you can even go a step further and create a new Section in one of the new Columns.
 
@@ -199,22 +195,22 @@ Adding blocks to a Section
 ***************************
 Here's how to add a block to a section:
 
-1. Click the plus for the Section.
-2. Select Block to add.
+1. Click the plus for the section.
+2. Select block to add.
 
 .. image:: section-add-block.png
 
-Here's an example with a Block added:
+Here's an example with a block added:
 
 .. image:: section-block-added.png
 
-You add additional Blocks, work with the settings, move or delete Blocks the same way as editors do when editing a page, see: :doc:`Working with Blocks </blocks/working-with-blocks/index>`
+You add additional blocks, work with the settings, move or delete blocks the same way as editors do when editing a page, see: :doc:`Working with Blocks </blocks/working-with-blocks/index>`
 
-**Note!** When editing a page, Blocks that belong to the Page Type is locked, meaning they can not be moved or deleted, and settings for those Blocks can't be edited. But content can be edited, if applicable, using Write mode. 
+**Note!** When editing a page, blocks that belong to the Page Type is locked, meaning they can not be moved or deleted, and settings for those blocks can't be edited. But content can be edited, if applicable, using Write mode. 
 
 .. image:: using-write-mode.png
 
-More information on editing Blocks when editing a Page, is found here: :doc:`Edit a Page </pages/edit-page/index>`
+More information on editing blocks when editing a page, is found here: :doc:`Edit a Page </pages/edit-page/index>`
 
 Decide to show a section on a device or not
 **********************************************
