@@ -260,10 +260,10 @@ The following settings can be available for a property:
 + **Required**: The editor creating the page has to enter information in the field.
 + **Allow multiple values**: For some properties multiple values are possible. If you will allow the editor to enter more than one value, check this option. If multiple values is not possible for the property, this option is not shown.
 + **Show in new page**: If the property (field) should be available in the New Page Wizard when creating a page, select this option.
-+ **Show in edit properties**: If it should be possible to edit the property when the page is edited, meaning after it is created, select this option.
++ **Show in edit properties**: If the property should be available on the Properties tab for a page created from this Page Type, select this option.
 + **Date only**: If it's a date/time field, both date and time can be set, or only the date. If you would like juat the date to be set, not the time, select this option.
 + **Receive e-mail**: This is available for most people properties. If the colleague set for this property should receive e-mails, select this option.
-+ **Category**: (A description will be added soon).
++ **Category**: This a preparation for future functionality. No need to enter anything here now.
 + **Default value**: A default value can be entered here. A defalt value can be edited by the author. What is possible to select here differs with type of property. 
 + **Limit Edit Permission**: You can limit Edit Permission for this property if needed. In that case, add one or more users here.
 
