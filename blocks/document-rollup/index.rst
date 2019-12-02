@@ -15,7 +15,7 @@ Here you can set the following:
 
 .. image:: document-rollup-settings-general-new.png
 
-+ **Title**: Enter a title to be displayed in the block.
++ **Title**: You can enter a title to be displayed in the block, in all languages set up in the tenant. The default language is mandatory.
 + **Open in Client App**: Documents are by default opened in the online app. If document should be opened in the client app instead, select this option.
 
 Display
@@ -69,15 +69,27 @@ Query
 ---------
 Here you add queries, which is the detailed "settings" for what to display in the list:
 
-.. image:: document-rollup-settings-query.png
+.. image:: document-rollup-settings-query-new.png
 
-Use the three lists for base settings and the field to add a Query Parameter. Then click "Add" to add the Query. 
+1. Set scope for the document rollup: All Documents, Published Documents only or Archived Documents only.
+
+**Note!** Regardless of what you select here, the documents that will be displayed for a user are those documents that the user has premissions to read.
+
+2. Use the three lists for base settings and the field to add a Query Parameter. 
+3. Click "Add" to add the Query. 
 
 Here's a simple example of a Query for displaying documents that are published later than 2019-06-30:
 
-.. image:: documents-query.png
+.. image:: documents-query-new2.png
+
+Also see another example under *Implementation example* below.
 
 Note that you can type the script directly in the field, if you know how. You can use all options in the Keyword Query Language (KQL). See this Microsoft page for reference: https://docs.microsoft.com/en-us/sharepoint/dev/general-development/keyword-query-language-kql-syntax-reference
+
+Additionally you can set:
+
++ **Day Limit**: (A description will be added soon).
++ **Last modified by current user**:  (A description will be added soon).
 
 Filter
 --------
@@ -101,8 +113,8 @@ Layout and Advanced
 **********************
 The tabs Layout and Advanced contain general settings, see: :doc:`General Block Settings </blocks/general-block-settings/index>`
 
-View Controlled Documents using this block
-*******************************************
+Implementation example
+***********************
 Here's an example of how it can look for users when a Document Rollup block is set up for Controlled Documents access:
 
 .. image:: document-rollup-controlled-1.png
@@ -137,7 +149,7 @@ The following settings are made for Query:
 
 .. image:: document-rollup-controlled-6.png
 
-Note the star (*) in the Query Field, meaning All.
+Note the star (*) in the Query Field, meaning All (in this case Published Documents).
 
 Filter
 --------
