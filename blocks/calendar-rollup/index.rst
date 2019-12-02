@@ -51,6 +51,20 @@ Here's an example:
 
 Note that in this example "IT Department" is an office group calendar, and "Vacation" is a shared, personal calendar.
 
+Targeting and Color for each calendar
+--------------------------------------
+Each calendar displayed in the block can be targeted and can be shown with a different color. These settings are available when you expand a calendar.
+
+.. image:: expand-calendar.png
+
+.. image:: expand-calendar-expanded.png
+
+The select another color, just click the colored dot or the color code. You can select any of the pre defined colors, or add a custom one.
+
+.. image:: expand-calendar-color.png
+
+Targeting a calendar works the same way as when you target a block, see the Heading "Targeting" on this page: :doc:`General Block Settings </blocks/general-block-settings/index>`
+
 Display
 ---------
 Here you can set the following:
