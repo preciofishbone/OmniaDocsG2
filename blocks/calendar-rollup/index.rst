@@ -57,7 +57,7 @@ Here you can set the following:
 
 .. image:: calendar-rollup-display-new.png
 
-+ **Listing**: In this list you can select type of display (Only Listing is available for now).
++ **Listing**: In this list you can select type of display (Only Listing is available for now, more options to come).
 + **Title**: You can type a Title to be displayd for the block. Not mandatory.
 + **Item Limit**: Set the number of items to display on each "page" of the list.
 + **Padding**: Set some padding around the list if needed.
