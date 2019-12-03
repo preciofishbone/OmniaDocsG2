@@ -15,7 +15,7 @@ Settings
 ************************
 The following settings are available for the block:
 
-.. image:: team-collaboration-block-settings-new2.png
+.. image:: team-collaboration-block-settings-new.png
 
 Query
 --------
