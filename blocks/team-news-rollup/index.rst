@@ -7,9 +7,9 @@ Settings
 *********
 The following settings are available:
 
-.. image:: team-news-rollup-settings-new.png
+.. image:: team-news-rollup-settings-new2.png
 
-+ **Title**: You can add a title to be shown for the block.
++ **Title**: If a Title should be shown for the block, add it in this field. If no varition exists for the page, it looks like in the image above and you can set the title in the languages active in the tenant. If a varition exists, only one title can be set. In that case, titles in other languages are set in the variations.
 + **Row Limit**: Decide the number of rows to show for each "page" of the list.
 + **Day Limit**: Set the number od days a team news should be displayed here, from the day it's pubslihed.
 + **View**: Select view for the list; "List" or "Grouped by site".

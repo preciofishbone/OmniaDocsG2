@@ -9,7 +9,7 @@ Settings
 *********
 The following settings are available for the block:
 
-.. image:: quick-links-settings-new.png
+.. image:: quick-links-settings-new-2.png
 
 General
 --------
@@ -17,7 +17,7 @@ The following is available here:
 
 .. image:: quick-links-settings-general.png
 
-+ **Title**: Yo can edit the title shown for block.
++ **Title**: If a Title should be shown for the block, add it in this field. If no varition exists for the page, it looks like in the image above and you can set the title in the languages active in the tenant. If a varition exists, only one title can be set. In that case, titles in other languages are set in the variations.
 + **Sorted By**: Decide how to sort the link list; Alphabetic or Last Visited order.
 + **View Template**: Select view for the list here; Simple List, App Icons, Navigation View or App Launch.
 + **Categories**: Shared links can be categorized. Select to show one or more categories here. If no selection is made, all categories are shown.

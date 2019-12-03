@@ -15,7 +15,7 @@ Settings
 ************************
 The following settings are available for the block:
 
-.. image:: team-collaboration-block-settings-new.png
+.. image:: team-collaboration-block-settings-new2.png
 
 Query
 --------
@@ -31,10 +31,10 @@ Display
 ----------
 Select a View and use the following settings:
 
-.. image:: team-collaboration-block-settings-display.png
+.. image:: team-collaboration-block-settings-display-new.png
 
 + **Add Column**: You must add at least one Column for the display to work.
-+ **Title**: Add the title for the list here.
++ **Title**: If a Title should be shown for the block, add it in this field. If no varition exists for the page, it looks like in the image above and you can set the title in the languages active in the tenant. If a varition exists, only one title can be set. In that case, titles in other languages are set in the variations.	.
 + **Paging**: Select how paging should work; "No Paging", "Classic" or "Scroll".
 + **Item Limit**: Set the number of sites to be shown on each "page" of the list.
 + **Sort By**: Select what to sort the list on, and then select Ascending or Descending sorting.

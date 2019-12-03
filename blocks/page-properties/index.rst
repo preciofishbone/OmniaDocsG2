@@ -7,9 +7,9 @@ Use this block to show information about the page, for example when it was last 
 
 The following settings are available for the block:
 
-.. image:: page-properties-settings-new.png
+.. image:: page-properties-settings-new2.png
 
-+ **Title**: You can add a title for the block here.
++ **Title**: If a Title should be shown for the block, add it in this field. If no varition exists for the page, it looks like in the image above and you can set the title in the languages active in the tenant. If a varition exists, only one title can be set. In that case, titles in other languages are set in the variations.
 + **Select Properties**: Use the list the select properties for the information you want to display. Click the plus to add the property, and make sure it's selected.
 + **Padding** You can add some padding around the content of the block, if needed.
 

@@ -11,9 +11,9 @@ Settings
 *********
 The following settings are available for the block:
 
-.. image:: related-links-settings.png
+.. image:: related-links-settings-new.png
 
-+ **Title**: To add a title for the block, type the title here.
++ **Title**: If a Title should be shown for the block, add it in this field. If no varition exists for the page, it looks like in the image above and you can set the title in the languages active in the tenant. If a varition exists, only one title can be set. In that case, titles in other languages are set in the variations.
 + **Property to store data**: Select property from the list. When one block on the page has data connected to a property, that data can be reused in all blocks that uses the same property. Page scoped. Not mandatory.
 + **Padding**: Add some padding between the block edges and the links list, if needed.
 

@@ -7,7 +7,7 @@ Settings
 ***************
 The following settings are available:
 
-.. image:: media-settings.png
+.. image:: media-settings-new.png
 
 + **Title**: You can add a title for the block of nedded.
 + **Property to store data**: Select Property be used in this block. When one block on the page has data connected to a Property, that data can be reused in all blocks that uses the same Property. Page scoped. Not mandatory.

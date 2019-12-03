@@ -16,13 +16,15 @@ Settings
 *************************
 The following settings are available:
 
-.. image:: peoplerollup-settings-new.png
+.. image:: peoplerollup-settings-new2.png
 
 General
 ----------------
 Here you can add a Title to be displayed for the block:
 
 .. image:: peoplerollup-settings-general.png
+
+If no varition exists for the page, it looks like in the image above and you can set the title in the languages active in the tenant. If a varition exists, only one title can be set. In that case, titles in other languages are set in the variations.	
 
 Display
 -----------
