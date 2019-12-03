@@ -17,7 +17,7 @@ In the settings you can add a Title for the block and add som Padding:
 
 .. image:: comments-and-likes-settings-new2.png
 
-+ **Title**: If a Title should be shown for the block, add it in this field. If no varition exists for the page, it looks like in the image above and you can set the title in the languages active in the tenant. If a varition exists, only one title can be set. In that case, titles in other languages are set in the variations.
++ **Title**: If a title should be shown for the block, add it in this field. If no variation exists for the page, it looks like in the image above and you can set the title in the languages active in the tenant. If variations exists, only one title can be set. In that case, titles in other languages are set in the variations.
 + **Enable Rich Text**: If you enable Rich Text, some basic formatting will be availble for the users. See image below for an example.         
 + **Enable Best Reply**: This is a preparation for functionality to come later.
 + **Enable Subscription**: Select this option to make it possible for users to subscribe to comments from this page. 

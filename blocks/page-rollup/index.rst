@@ -45,7 +45,7 @@ The following lists all available display settings. Which of them will be availa
 + **Summary**: Select the property that contains the page summary for the item to display. 
 + **Content**: Select the property that contains the page content for the item to display. Available for dialog display only.
 + **Content Image**: Select image to display, if any. Available for dialog display only.
-+ **Title (field)**: If a Title should be shown for the block, add it in this field. If no varition exists for the page, you can set the title in the languages active in the tenant. If a varition exists, only one title can be set. In that case, titles in other languages are set in the variations.
++ **Title (field)**: If a title should be shown for the block, add it in this field. If no variation exists for the page, you can set the title in the languages active in the tenant. If variations exists, only one title can be set. In that case, titles in other languages are set in the variations.
 + **No result text**: Enter the text that will be shown if no page can be displayed.
 + **Hide block when not data**: Select this option if the block should be hidden when there's nothing to display.
 + **Trim duplicates**: Certain settings may result in duplicates being displayed. Select this option to make sure only one copy of the item is displayed.

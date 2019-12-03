@@ -15,7 +15,7 @@ Here you can set the following:
 
 .. image:: document-rollup-settings-general-new3.png
 
-+ **Title**: If a Title should be shown for the block, add it in this field. If no varition exists for the page, it looks like in the image above and you can set the title in the languages active in the tenant. If a varition exists, only one title can be set. In that case, titles in other languages are set in the variations.
++ **Title**: If a title should be shown for the block, add it in this field. If no variation exists for the page, it looks like in the image above and you can set the title in the languages active in the tenant. If variations exists, only one title can be set. In that case, titles in other languages are set in the variations.
 + **Open in Client App**: Documents are by default opened in the online app. If document should be opened in the client app instead, select this option.
 
 Display

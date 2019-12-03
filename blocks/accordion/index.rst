@@ -23,7 +23,7 @@ Under General you can set the following:
 
 .. image:: accordion-settings-general-new.png
 
-+ **Component Title**: If a Title should be shown for the block, add it in this field. If no varition exists for the page, it looks like in the image above and you can set the title in the languages active in the tenant. If a varition exists, only one title can be set. In that case, titles in other languages are set in the variations.
++ **Component Title**: If a title should be shown for the block, add it in this field. If no variation exists for the page, it looks like in the image above and you can set the title in the languages active in the tenant. If variations exists, only one title can be set. In that case, titles in other languages are set in the variations.
 + **Page Property to store data**: Select property for the possibibilty to reuse content anywhere else on the page.
 
 Styling

@@ -21,7 +21,7 @@ The following Banner settings are available (also see *The Banner Editor*, below
 
 .. image:: banner-settings-new2.png
 
-+ **Title**: If a Title should be shown for the block, add it in this field. If no varition exists for the page, it looks like in the image above and you can set the title in the languages active in the tenant. If a varition exists, only one title can be set. In that case, titles in other languages are set in the variations.
++ **Title**: If a title should be shown for the block, add it in this field. If no variation exists for the page, it looks like in the image above and you can set the title in the languages active in the tenant. If variations exists, only one title can be set. In that case, titles in other languages are set in the variations.
 + **Property to store data**: Select type of Property to connect the Banner to. When one block on the page has data connected to a Property, that data can be reused in all blocks that uses the same Property. Page scoped. Not mandatory.
 
 The Layout tab and the Advanced tab contains general block settings. See this page for more information: :doc:`General block settings </blocks/general-block-settings/index>` 

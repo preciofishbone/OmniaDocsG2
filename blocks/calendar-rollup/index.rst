@@ -72,7 +72,7 @@ Here you can set the following:
 .. image:: calendar-rollup-display-new2.png
 
 + **Listing**: In this list you can select type of display (Only Listing is available for now, more options to come).
-+ **Title**: If a Title should be shown for the block, add it in this field. If no varition exists for the page, it looks like in the image above and you can set the title in the languages active in the tenant. If a varition exists, only one title can be set. In that case, titles in other languages are set in the variations.
++ **Title**: If a title should be shown for the block, add it in this field. If no variation exists for the page, it looks like in the image above and you can set the title in the languages active in the tenant. If variation exists, only one title can be set. In that case, titles in other languages are set in the variations.
 + **Item Limit**: Set the number of items to display on each "page" of the list.
 + **Padding**: Set some padding around the list if needed.
 

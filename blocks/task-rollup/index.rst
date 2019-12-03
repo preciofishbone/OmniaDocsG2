@@ -19,7 +19,7 @@ The following is availabled here:
 
 .. image:: tasks-rollup-settings-general-new2.png
 
-+ **Title**: If a Title should be shown for the block, add it in this field. If no varition exists for the page, it looks like in the image above and you can set the title in the languages active in the tenant. If a varition exists, only one title can be set. In that case, titles in other languages are set in the variations.
++ **Title**: If a title should be shown for the block, add it in this field. If no variation exists for the page, it looks like in the image above and you can set the title in the languages active in the tenant. If variations exists, only one title can be set. In that case, titles in other languages are set in the variations.
 + **Row Limit**: The maximum number of tasks to show in the list.
 + **Day Limit**: How many days forward in time to show assigned tasks. 0 = no limit.
 + **Sort by**: Select which column the list should be sorted on, and then select ascending or descending.

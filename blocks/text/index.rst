@@ -16,7 +16,7 @@ The following settings are available for the block:
 
 .. image:: text-settings-new2.png
 
-+ **Title**: If a Title should be shown for the block, add it in this field. If no varition exists for the page, it looks like in the image above and you can set the title in the languages active in the tenant. If a varition exists, only one title can be set. In that case, titles in other languages are set in the variations.
++ **Title**: If a title should be shown for the block, add it in this field. If no variation exists for the page, it looks like in the image above and you can set the title in the languages active in the tenant. If variations exists, only one title can be set. In that case, titles in other languages are set in the variations.
 + **Property to store data**: Select type of text to be used in this block; Title, Page Content or Page Summary. When one block on the page has data connected to a Property, that data can be reused in all blocks that uses the same Property. Page scoped. Not mandatory.
 + **Mode**: Select mode for the text; Plain Text, Multi-line Plain Text, Limited Rich Text or Rich Text. For some properties, just some of the modes are available. When selecting "Limited Rich Text" or "Rich Text" you can select format for the text when working with the text in the block. When selecting "Plain text" or "Multiline Plain text" you can select a format for all text in the block.
 
