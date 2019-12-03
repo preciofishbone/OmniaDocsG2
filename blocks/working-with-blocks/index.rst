@@ -69,7 +69,7 @@ To remove a block. do the following:
 
 .. image:: block-remove.png
 
-Note that a block that belongs to the Page Type is locked and can not be removed. It is shown this way:
+**Note!** A block that belongs to the Page Type is locked and can not be removed. It is shown this way:
 
 .. image:: locked-block-new.png
 
