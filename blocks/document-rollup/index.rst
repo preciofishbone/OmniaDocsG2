@@ -75,7 +75,7 @@ Here you add queries, which is the detailed "settings" for what to display in th
 
 + All Documents - always available, meaning ALL documents the logged in user has permissions to read. Use the query settings below to limit what will be shown in the rollup. The rollup can then be set to display just "normal" documents or both normal and controlled documents. To rollup documents from one or more Teams Sites, use this option.
 + Published Documents  - available only if Controlled Documents is active. Meaning ALL published CONTROLLED DOCUMENTS the logged in user has permissions to read. Use the query settings below to limit what will be shown in the rollup.
-+ Archived Documents - available only if Controlled Documents is active. Meaning all published Controlled Documents in the Archive. As permissions to read documents in the Archive normally is given to just a few, this is for specialized implementation.
++ Archived Documents - available only if Controlled Documents is active. Meaning all published Controlled Documents in the Archive. As permissions to read documents in the Archive normally is given to just a few, this is for specialized implementations.
 
 **Note!** Regardless of what you select here, the documents that will be displayed for a user are only those documents that the user has premissions to read.
 
@@ -93,7 +93,7 @@ Note that you can type the script directly in the field, if you know how. You ca
 Additionally you can set:
 
 + **Day Limit**: Use this option to limit the display of older documents. You first select property (for example Modified) and then select how old the documents can be to be displayed in the list.
-+ **Last modified by current user**: Use this option to limit the rollup to documents the logged in user has edited, for example for a "MY latest documents" implementation.
++ **Last modified by current user**: Use this option to limit the rollup to documents the logged in user has edited, for example for a "My Latest Documents" implementation.
 
 Filter
 --------
