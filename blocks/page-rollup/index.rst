@@ -48,7 +48,7 @@ The following lists all available display settings. Which of them will be availa
 + **Title (field)**: If a title should be shown for the block, add it in this field. If no variation exists for the page, you can set the title in the languages active in the tenant. If variations exists, only one title can be set. In that case, titles in other languages are set in the variations.
 + **No result text**: Enter the text that will be shown if no page can be displayed.
 + **Hide block when not data**: Select this option if the block should be hidden when there's nothing to display.
-+ **Trim duplicates**: Certain settings may result in duplicates being displayed. Select this option to make sure only one copy of the item is displayed.
++ **Trim duplicates**: If more than one Page Rollup block is added to a page, this option can be used to handle duplicates between the blocks. When the option is selected, you can enter a number indicating the priority for duplicates, for this block. If you set "1" for a block it means this block has priority showing a post that would have been a duplicate.
 + **Paging**: Select paging here; "No paging", "Classic" or "Scroll".
 + **Item limit**: To limit the number of items being displayed, add a fixed number here. Note that if combined with "No paging", the number of items you enter here are the only items users can access from the list.
 + **Sort by**: Choose what the list should be sorted by, and then select ascending or descending.
