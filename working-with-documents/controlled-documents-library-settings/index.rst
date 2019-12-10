@@ -51,7 +51,33 @@ See above for a description.
 
 Default Document Types
 ------------------------
-(Will be added soon.)
+Use these settings to select one or more Document Types to be suggested when an author creates a new draft document in this.
+
+As an example, these settings:
+
+.. image:: default-types-example-1.png
+
+Will result in the following:
+
+.. image:: default-types-example-2.png
+
+More information about how the New Document Wizard works is found here: 
+
+To remove a Document Type from the list, just click the x. Also see below.
+
+To add a Document Type, do the following:
+
+1. Click ine the field.
+
+.. image:: document-type-add-1.png
+
+2. Use the list to select one or more Document Types. 
+
+.. image:: document-type-add-2.png
+
+If Document Types are grouped (as in the image above) you may need to expand a group to select a Document Type there. 
+
+Also note that you can deselect Document Types as well using this list.
 
 Permissions
 ************
