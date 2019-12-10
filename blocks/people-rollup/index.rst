@@ -49,7 +49,7 @@ The following settings are available for the views:
 + **Sort By**: Select the property to sort the list by.
 + **Paging**: Select how paging should work; “No Paging”, “Classic” or “Scroll”. See below for examples. Scroll is note applicabale for Roller view.
 + **Item Limit**: To limit the number of items being displayed, add a fixed number here. If you set a high number (for example the default, 50) as many people as meets the query criteria is shown, up to that number. If you set a low number, that is the number of people tha list will show, regardless of how many meets the query criteria. Set 0 for no Item Limit.
-+ **Left Zone Width, Right Zone Width**: Here you can set the width od the left and right zones manually, in pixels, if needed.
++ **Left Zone Width, Right Zone Width**: Here you can set the width of the left and right zones manually, in pixels, if needed.
 
 Here's an example of a  Roller view, with Slide Height 150, Alignment Center, Justify Center, No Paging and Item Limit 5.
 
