@@ -69,7 +69,54 @@ Note that some Properties can not be deleted, but they can be edited. For them o
 
 Property Sets
 ***************
-This is as the name says, an option where you can create sets of several Enterprise Properties and handle the set instead of each individual property. As a first step Property Sets will be implemented in Controlled Documents. More information on this tpic will be added then.
+This is as the name says, an option where you can create sets of several Enterprise Properties and handle the set instead of each individual property. As a first step Property Sets is implemented for Controlled Documents.
+
+A list of usefil Property Sets cam already be in placem for example:
+
+.. image:: property-sets.png
+
+To edit a Property Set, click the pen. To delete a Property Set, click the dust bin.
+
+When you edit a Property Set, something like the following can be shown:
+
+.. image:: property-sets-edit.png
+
+This set consists of two Properties; Document Owner and Office.
+
+The settings are used the same way as when creating a new set, see below.
+
+Creating a new Property Set
+----------------------------
+To create a new Property Set, do the following:
+
+1. Click the plus.
+
+.. image:: property-set-click-plus.png
+
+Use the following settings:
+
+.. image:: property-set-settings.png
+
+Do the following:
+
+1. Add a Title for the Property Set. You can adda a title in alla langauges active in the tenant. Defalt language is mandatory.
+1. Open the list and select a Property.
+2. Click "Add".
+
+.. image:: property-set-add.png
+
+3. Set additional settings for the Property, if required.
+
+.. image:: property-set-add-additional.png
+
+4. Continue the same way until you have added all the properties for the set.
+5. To change the order, grab a property by the icon to the far right, and drop the property where you want it.
+
+.. image:: property-set-add-drag.png
+
+6. When you're finished, click "Save".
+
+.. image:: property-set-save.png
 
 Targeting Properties
 **********************
