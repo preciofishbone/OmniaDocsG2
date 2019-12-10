@@ -97,24 +97,22 @@ Use the following settings:
 
 .. image:: property-set-settings.png
 
-Do the following:
-
-1. Add a Title for the Property Set. You can add a title in all langauges active in the tenant. Default language is mandatory.
-2. Open the list and select a Property.
-3. Click "Add".
+2. Add a Title for the Property Set. You can add a title in all langauges active in the tenant. Default language is mandatory.
+3. Open the list and select a Property.
+4. Click "Add".
 
 .. image:: property-set-add.png
 
-4. Set additional settings for the Property, if required.
+5. Set additional settings for the Property, if required.
 
 .. image:: property-set-add-additional.png
 
-5. Continue the same way until you have added all the properties for the set.
-6. To change the order, grab a property by the icon to the far right, and drop the property where you want it.
+6. Continue the same way until you have added all the properties for the set.
+7. To change the order, grab a property by the icon to the far right, and drop the property where you want it.
 
 .. image:: property-set-add-drag.png
 
-7. When you're finished, click "Save".
+8. When you're finished, click "Save".
 
 .. image:: property-set-save.png
 
