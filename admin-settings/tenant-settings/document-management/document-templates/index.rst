@@ -91,4 +91,4 @@ To upload a document to use as a template:
 Using a template in the Document Wizard
 *****************************************
 
-How to use a template in the Document Wizard is described on this page: (Link to be added soon).
+How to use a template in the Document Wizard is described on this page: :doc:`Using the Document Wizard </working-with-documents/using-the-document-wizard/index>`.
