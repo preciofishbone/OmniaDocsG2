@@ -71,7 +71,7 @@ Property Sets
 ***************
 This is as the name says, an option where you can create sets of several Enterprise Properties and handle the set instead of each individual property. As a first step Property Sets is implemented for Controlled Documents.
 
-A list of usefil Property Sets cam already be in placem for example:
+A list of useful Property Sets can already be in place, for example:
 
 .. image:: property-sets.png
 
@@ -99,22 +99,22 @@ Use the following settings:
 
 Do the following:
 
-1. Add a Title for the Property Set. You can adda a title in alla langauges active in the tenant. Defalt language is mandatory.
-1. Open the list and select a Property.
-2. Click "Add".
+1. Add a Title for the Property Set. You can add a title in all langauges active in the tenant. Default language is mandatory.
+2. Open the list and select a Property.
+3. Click "Add".
 
 .. image:: property-set-add.png
 
-3. Set additional settings for the Property, if required.
+4. Set additional settings for the Property, if required.
 
 .. image:: property-set-add-additional.png
 
-4. Continue the same way until you have added all the properties for the set.
-5. To change the order, grab a property by the icon to the far right, and drop the property where you want it.
+5. Continue the same way until you have added all the properties for the set.
+6. To change the order, grab a property by the icon to the far right, and drop the property where you want it.
 
 .. image:: property-set-add-drag.png
 
-6. When you're finished, click "Save".
+7. When you're finished, click "Save".
 
 .. image:: property-set-save.png
 
