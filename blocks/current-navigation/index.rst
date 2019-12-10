@@ -19,8 +19,17 @@ These settings are available:.
 
 + **Title**: If you would like a title to be shown for the block, add the title here.
 + **Start Level**: The current navigation will start on a specific level in the navigation structure. 1 = Start, 2 = Second level, 3= Third level etc. The default value is 3.
++ **Show Parent Siblings**: To always show all main nodes, select this setting. If not selected, only the current node is shown. See below for examples.
 + **Level indentation**: Set the indendation for each level shown here.
 + **Padding**: Use this option to set a padding for the navigation, withing the block.
+
+Here are two examples of the "Show Parent Siblings" setting. First WITH Show Parent Siblings selected:
+
+.. image:: show-parent-g2.png
+
+This is how the same current navigation will look with Show Parent Siblings NOT selected:
+
+.. image:: show-parent-not-g2.png
 
 Layout and Advanced
 **********************
