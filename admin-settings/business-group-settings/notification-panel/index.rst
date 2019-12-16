@@ -30,7 +30,7 @@ To create a new Notification Panel, do the following:
 3. Click "ADD" to create the Category.
 4. Click the cog wheel to access the settings for the Category, for example.
 
-.. image:: notification-category-more-settings-cogwheel-3.png
+.. image:: notification-category-more-settings-cogwheel-4.png
 
 Category settings
 --------------------
