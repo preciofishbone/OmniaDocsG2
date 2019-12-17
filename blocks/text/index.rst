@@ -2,13 +2,13 @@ Text
 ===========================================
 Use this block to add text anywhere on a page. 
 
-When adding text to the block some basic formatting is available. You can choose between Limited Rich Text, Rich Text or Custom Rich Text. Here's an example of what's available for Rich Text:
+When adding text to the block some basic formatting is available. Here's an example with the formatting options for Rich Text:
 
 .. image:: text-formatting-rich.png
 
 Point at an icon and a Tool Tip will show what the option is for.
 
-Note that HTML editing is done in a separate window so it's to work with HTML if that is something you want.
+Note that HTML editing is done in a separate window so you can work with HTML if that is something you want.
 
 Settings
 *********
@@ -26,13 +26,13 @@ The following options is available for Custom Rich Text:
 
 **Note!** Not all options are shown in the image.
 
-Select the format options that should be available for editors. You can order the options by grapping the icon to the far roght and drag them to the desired position.
+Select the format options that should be available for editors. You can change the order for the options (left to right) by grabbing the icon to the far right and drag them to the desired position.
 
-Note the cogwheel by "Heading". When you select Heading you can choose which one of the formats to use, for example:
+Note the cog wheel by "Heading". When you select Heading you can choose which one of the formats to use, for example:
 
 .. image:: text-settings-heading.png
 
-+ **Default Text Color**: You can select default text color here. Author can change that using the format options (regarding Custom Rich Text - if you select that format option to be available).
++ **Default Text Color**: You can select default text color here. Authors can change that using the format options (regarding Custom Rich Text - if you select that format option to be available, that is).
 + **Help text**: Here you can add a help text for the editor, for example to make it clear what kind of content should be added to the block. The help text is shown when no content is added, and when the block is edited. The help text is never shown to users as it's not shown for a published version of the page.
 
 Here's an example of help text:
@@ -53,7 +53,7 @@ Click the icon and select language.
 
 For a language to be available for machine translation, it has to be setup in Omnia Admin. See the heading "Languages" on this page for more information: :doc:`Tenant Settings </admin-settings/tenant-settings/settings/index>`
 
-**Note!** If you use Custom Rich Text, you can still choose to make Machine Translation available, or not, for authors, by selecting or deselecting "Text Translation".
+**Note!** If you use Custom Rich Text, you can choose to make Machine Translation available, or not, for authors, by selecting or deselecting "Text Translation".
 
 Layout and Advanced
 **********************
