@@ -28,14 +28,13 @@ Do the following:
 
 3. Use the following settings:
 
-.. image:: publishing-apps-settings-new.png
+.. image:: publishing-apps-settings-new2.png
 
 + **Title**: Add a Title for the Publishing App.
 + **Description**: Add a Description if needed.
 
 + **Sharepoint Alias**: The last part of the Url to the Publishing App is shown here. It can be edited if needed.
-+ **Document site**: The Url to the Document Site for the Publishing App is shown here. It can be edited if needed.
-+ **Document Library Url**: To make the Publishing App's Document library available in for example the Add Link asset, the full Sharepoint Url to the Document library must bed added here.
++ **Document Library Url**: To make the Publishing App's Document library available in for example the Add Link asset, the full Sharepoint Url to the Document library must be added here.
 + **Allow User Upload Document**: The Administrator of the Publishing App will always be able to upload documents to the Document Library. If end users should be able to do that as well, select this option.
 
 4. Click "Next" and use the following settings:
