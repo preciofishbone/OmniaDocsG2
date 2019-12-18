@@ -26,3 +26,11 @@ You then use the Media Picker to select image or video.
 .. image:: media-picker.png
 
 See this page for more information: :doc:`The Media Picker </general-assets/media-picker/index>`
+
+Add or remove video or image
+*****************************
+When any media is present in the block, the block can be edited in Write mode, using the icons:
+
+.. image:: media-block-edit.png
+
+Click the pen to select another image or video using the Media Picker. Click the dust bin to remove.
