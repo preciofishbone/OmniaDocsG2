@@ -28,7 +28,7 @@ Save after each link added.
 
 Page
 ******
-First, select Page Collection. If the Page Collection isn't present in the list, select "Others..." so you can add the Url to any Page Collection.
+First, select Page Collection in te list at the top. If the Page Collection isn't present in the list, select "Others..." so you can add the Url to any Page Collection.
 
 .. image:: add-link-page.png
 
