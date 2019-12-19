@@ -11,15 +11,15 @@ Settings
 *********
 The following settings are available:
 
-.. image:: tasks-rollup-settings-new.png
+.. image:: tasks-rollup-settings-new2.png
 
 General
 ---------
 The following is availabled here:
 
-.. image:: tasks-rollup-settings-general-new.png
+.. image:: tasks-rollup-settings-general-new2.png
 
-+ **Title**: To show a title for the block, add a title here.
++ **Title**: If a title should be shown for the block, add it in this field. If no variation exists for the page, it looks like in the image above and you can set the title in the languages active in the tenant. If variations exists, only one title can be set. In that case, titles in other languages are set in the variations.
 + **Row Limit**: The maximum number of tasks to show in the list.
 + **Day Limit**: How many days forward in time to show assigned tasks. 0 = no limit.
 + **Sort by**: Select which column the list should be sorted on, and then select ascending or descending.
@@ -38,4 +38,8 @@ Planner Tasks
 Check the box "Enable Planner Tasks" to include tasks from planner in the Tasks Rollup.
 
 .. image:: tasks-rollup-settings-planner.png
+
+Layout and Advanced
+**********************
+The tabs Layout and Advanced contain general settings, see: :doc:`General Block Settings </blocks/general-block-settings/index>`
 

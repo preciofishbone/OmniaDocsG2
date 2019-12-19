@@ -18,4 +18,4 @@ To delete an administrator here, just click the x. To add an administrator, add 
 
 Secret
 ********
-Use this option to enter security keys and similar for the Tenant, if needed.
+UWhen an extension has been installed for the Business Profile, get the security key/token and enter it here. 

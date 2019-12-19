@@ -29,10 +29,10 @@ Using this option you can change the title and decide if the node should be pres
 
 Here you can do the following:
 
-.. image:: edit-navigation-settings.png
+.. image:: select-edit-navigation-new.png
 
-+ **Title**: Change the title to be shown in the navigation. (The Title shown on the page or when searching will not be changed.)
-+ **Url**: (A description will be added soon.)
++ **Title**: Change the title to be shown in the navigation. (The Title shown on the page or when searching will not be changed.) If no variations exist for the page, you can set the title in all languages active in the tenant, as is the case in the image above. If there are variations for the page, the variation settings handles different versions of the title.
++ **Url**: The url to the page is shown here. It can be edited if needed, but changing the url must be considered as a rare case.
 + **Show in Mega Menu**: Per default the navigation node is shown in the Mega Menu (Top Menu). Deselect if you don't want to show it there.
 + **Show in Current Navigation**: Per default the navigation node is shown in the Current Navigation (Left Navigation). Deselect if you don't want to show it there.
 

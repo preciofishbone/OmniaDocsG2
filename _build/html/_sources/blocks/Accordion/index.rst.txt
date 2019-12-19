@@ -15,43 +15,53 @@ The settings
 *************
 The settings you can do are the following:
 
-.. image:: accordion-settings.png
+.. image:: accordion-settings-new.png
 
-+ **Component Title**: If a Title should be shown for the block, add it in this field.
+General
+--------------
+Under General you can set the following:
+
+.. image:: accordion-settings-general-new.png
+
++ **Component Title**: If a title should be shown for the block, add it in this field. If no variation exists for the page, it looks like in the image above and you can set the title in the languages active in the tenant. If variations exists, only one title can be set. In that case, titles in other languages are set in the variations.
 + **Page Property to store data**: Select property for the possibibilty to reuse content anywhere else on the page.
 
+Styling
+---------
 Under "Styling" you can set colors and padding for the content.
 
 .. image:: accordion-settings-styling.png
 
-The Layout tab contains general settings, see: :doc:`General Block Settings </blocks/general-block-settings/index>`
+Layout and Advanced
+---------------------
+The tabs Layout and Advanced contain general settings, see: :doc:`General Block Settings </blocks/general-block-settings/index>`
 
 Adding Accordion Text
 ************************
-When the Accordion block has been added to a page, it can be used this way by an editor:
+When the Accordion block has been added to a page, and the page has been published, it can be used this way by an editor:
 
 1. Enter Write mode.
-2. Click "ADD" in the Accordion block.
+2. Click the plus in the Accordion block.
 
-.. image:: accordion-click-add.png
+.. image:: accordion-click-plus.png
 
 The following is shown:
 
-.. image:: accordion-new.png
+.. image:: accordion-new-2.png
 
 3. Add an Accordion Title at the top. This is the expandable text.
 4. Add the text that should be shown when the title is expanded. Note the formatting options.
 
 Here's an example:
 
-.. image:: accordion-example.png
+.. image:: accordion-example-new.png
 
 5. Click "SAVE".
 6. Add additional Accordions to the block the same way.
 
-To edit an Accordion, click the pen. To delete an Accordion, click the x.
+To edit an Accordion, click the pen. To delete an Accordion, click the dust bin.
 
-.. image:: accordion-edit-delete-border.png
+.. image:: accordion-edit-delete-new.png
 
 
 

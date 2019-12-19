@@ -28,7 +28,7 @@ Create New Site or Group
 *************************
 End users can be allowed to create a new site or group using the option here. Depending settings approval can be needed. If it's not needed, the site or group will be created when the user click "Create". If approval is needed, a request is sent to an administrator for processing.
 
-What the option is called and Which fields and options will be available when creating a site can or group differ depending on settings in Omnia Admin.
+What the option is called and which fields and options will be available when creating a site or group can differ depending on settings in Omnia Admin.
 
 Here's an example with some common fields and options:
 
@@ -47,7 +47,7 @@ This example will create a "Team" site.
 3. Select "Team".
 4. Set the following:
 
-.. image: create-site-1-new.png
+.. image:: create-site-1-new.png
 
 + **Title**: This is the name that will be shown for the site in lists and when searching.
 + **Description**: A Description is not mandatory but is very helpful when colleagues search for sites.
@@ -61,10 +61,9 @@ This example will create a "Team" site.
 
 .. image:: create-site-2-new.png
 
-+ **Users**: In this example only an administrator for the site is set, but often you can set members and visitors as well, which are permission groups users can belong to. The administrator roll for a Team site is very important. Normally only administrators can edit settings within the site and can add or remove users.
-+ **Send for approval/Create site**: In this example new Team sites must be approved by an administrator, hence the option "Send for approval". If users are allowed to create sites without approval, the option says "Create site" instead.
++ **Users**: In this example only an administrator for the site is set, but often you can set members and visitors as well, which are permission groups users can belong to. If members and visitors are not set up now, it can be done later. The administrator roll for a Team site is very important. Normally only administrators can edit settings within the site and can add or remove users. As you are creating the team site or group, you are automatically added as the administrator. You can add someone else and remove yourself if nedded. 
 
-The creation process can in some cases end here but in this example the temaplate stipulates that some Enterprise Properties must be set.
+The creation process can in some cases end here but in this example the template stipulates that some Enterprise Properties must be set.
 
 7. Click "Next".
 
@@ -72,6 +71,8 @@ The creation process can in some cases end here but in this example the temaplat
 
 8. Add the necessary property information.
 9. Click "Create" to create the site or group.
+
+The "Create" option can also say "Send for approval", depending on what is set up in the template. If the button's label is "Create", the site/group is created when you click the button. If the button's label is "Send for approval", an administrator must approve your request before the site/group can be created. When the administrator has done his or her job, you will be notified.
 
 Templates for site creation
 ****************************

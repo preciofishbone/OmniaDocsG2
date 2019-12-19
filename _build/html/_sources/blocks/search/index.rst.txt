@@ -5,9 +5,12 @@ The Advanced Search block adds the same search functionality as the Advaced Sear
 
 .. image:: advanced-search-result.png
 
-Regarding settings, only the general block settings found under the Layout tab are available:
+Settings
+**********
+You can add a title for the block if needed:
 
-.. image:: advanced-search-settings-block.png
+.. image:: advanced-search-settings-block-new2.png
 
-See this page for information about the general block settings: :doc:`General block settings </blocks/general-block-settings/index>`
+If no variation exists for the page, it looks like in the image above and you can set the title in the languages active in the tenant. If variations exists, only one title can be set. In that case, titles in other languages are set in the variations.	
 
+The tabs Layout and Advanced contain general settings, see: :doc:`General Block Settings </blocks/general-block-settings/index>`
