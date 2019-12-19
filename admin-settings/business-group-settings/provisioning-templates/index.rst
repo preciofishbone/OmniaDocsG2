@@ -42,7 +42,7 @@ Next step is for Team Collaboration sites only:
 
 .. image:: provisioning-templates-create-team-3.png
 
-+ **Type**: Select template to base the new template on; "Office 365 Group, Team", "Yammer Group" or "Facebook Workplace Group".
++ **Type**: Select template to base the new template on; "Office 365 Group, Sharepoint Team Site", "Sharepoint Communication Site", "Yammer Group" or "Facebook Workplace Group".
 
 The following settings are available for Office 365 Group and Team:
 
