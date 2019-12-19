@@ -11,10 +11,6 @@ The purpose of these features is to provide a number of Enterprise Properties fo
 
 Note that some default properties can not be deleted, but all can be edited. See this page for more information: :doc:`Properties </admin-settings/tenant-settings/properties/index>`
 
-Controlled Documents
-*********************
-This Feature activates the Controlled Documents functionality within the tenant and for example makes the Controlled Documents Settings available, see: 
-
 Default App Launcher Links
 ****************************
 Activate this Feature for a number of default links for the App launcher - many of the links that will normally appear in the Office 365 menu. You can then use "Shared links" to edit the links and decide which ones to use.
