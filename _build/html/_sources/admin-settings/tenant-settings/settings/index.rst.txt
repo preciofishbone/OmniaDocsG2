@@ -3,31 +3,43 @@ Settings
 
 Here you can set the following:
 
+.. image:: tenant-settings.png
+
 Regional Settings
 ******************
-Use these settings for languages, date and time, for the tenant. Other settings can be set for a Business Profile.
+Use these settings for languages, date and time, for the tenant. Other settings for this can be set for a Business Profile.
 
 Languages
 -----------------
-Use this setting to select the languages that should be available for the user interface in the tenant. These languages can also be used for Announcements and Shared Links. Language versions of pages are handled differently - Page Variations, see the heading "Variations" on this page:  :doc:`Page Settings </pages/page-settings/index>`
+Use this setting to select the languages that should be available for the user interface in the tenant. These languages can also be used for Announcements and Shared Links. 
 
-Do the following to select languages:
+You can add and remove languages here any time.
+
+Language versions of pages are handled differently. Page Variations are used for this purpose, see the heading "Variations" on this page:  :doc:`Page Settings </pages/page-settings/index>`
+
+There must always be a language selcted as Dafeault Language, in this example English (United States):
+
+.. image:: tenant-settings-language-default.png
+
+To select another language as default, just click the ring and save. To remove a language from this list, click the dust bin.
+
+Do the following to add a new language:
 
 1. Click "Add Language".
+
+.. image:: click-add-language.png
+
 2. Open the list and select a language.
 
-.. image:: language-list.png
+.. image:: language-list-new.png
 
-3. Click "Add"
+3. Click "Add".
+
+.. image:: language-list-add.png
+
 4. Continue and add all languages that should be available in the tenant.
 
-You can add additional languages anytime.
-
 **Note!** The list of languages is long, but that does not mean that the interface is available in all languages. You must make sure the interface has been translated to the languages you need.
-
-To remove a language from the tenant, just click the dust bin.
-
-.. image:: language-remove.png
 
 5. Click "Save" when you're done.
 
@@ -59,15 +71,57 @@ Logo
 ------
 Set the following here:
 
-.. image:: logo-settings.png
+.. image:: logo-settings-new.png
 
-+ **Text**: A text can be displayed by the logo, see example below.
++ **Text**: A text can be displayed by the logo, see example below. Different texts can be added for all tenant languages, if needed.
 + **Url**: Add the Url to the logo here.
 + **ADD IMAGE**: Another way is to use this option to start the Media Picker and select a logo image.
-+ **Padding**: You can add some padding around the logo if needed.
+
+To remove an image, click the X.
 
 In this example the text "Adventrix Group" is displayed to the right of the logo:
 
 .. image:: logo-text.png
+
+RTF Editor
+***********
+Use these settings to decide which default options should be available for the Rich Text Editor and the Limited Rich Text Editor, in the tenant. 
+
+.. image:: rtf-editor.png
+
+**Note!** For some blocks a Custom RTF Editor can be created. If that is done it will override these settings.
+
+Both lists are handled the same way even if there is a lot more to choose from for the Rich Text Editor.
+
+1. Select and deselect options to be available in the editor and save when you're done.
+
+.. image:: rtf-editor-options.png
+
+(All options are not shown in the image above, there's a lot more.)
+
+At the top you will see a preview of what the editor will look like with the selected options.
+
+"Text Translator" is the option for Machine Translations editors can use. All other options should be fairly self explanatory.
+
+Additional settings
+--------------------
+For some options, settings can be available. In that case a cog wheel is shown:
+
+.. image:: rtf-editor-cogwheel.png
+
+To edit the settings, click the cog wheel.
+
+For "Heading" you can select which format options should be available:
+
+.. image:: rtf-editor-cogwheel-heading.png
+
+Reorder the options
+---------------------
+If you would like to reorder the options in the editor, use these icons to drag and drop:
+
+.. image:: rtf-editor-reorder.png
+
+
+
 
 
