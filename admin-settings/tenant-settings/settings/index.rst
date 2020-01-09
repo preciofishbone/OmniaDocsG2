@@ -21,9 +21,9 @@ There must always be a language selcted as Dafeault Language, in this example En
 
 .. image:: tenant-settings-language-default.png
 
-To select another language as default, just click the ring and save. To remove language from this list, click the dust bin.
+To select another language as default, just click the ring and save. To remove a language from this list, click the dust bin.
 
-Do the following to add anew language:
+Do the following to add a new language:
 
 1. Click "Add Language".
 
@@ -89,11 +89,11 @@ Use these settings to decide which default options should be available for the R
 
 .. image:: rtf-editor.png
 
-**Note!** For some blocks a Custom RTF Editor can be created. If that is done it will override these setting.
+**Note!** For some blocks a Custom RTF Editor can be created. If that is done it will override these settings.
 
 Both lists are handled the same way even if there is a lot more to choose from for the Rich Text Editor.
 
-1. Select and deselect options to be available in the editor.
+1. Select and deselect options to be available in the editor and save when you're done.
 
 .. image:: rtf-editor-options.png
 
@@ -101,7 +101,7 @@ Both lists are handled the same way even if there is a lot more to choose from f
 
 At the top you will see a preview of what the editor will look like with the selected options.
 
-"Text Translator" is the option for a Machine Translation. All other options should be fairly self explanatory.
+"Text Translator" is the option for Machine Translations editors can use. All other options should be fairly self explanatory.
 
 Additional settings
 --------------------
@@ -111,7 +111,7 @@ For some options, settings can be available. In that case a cog wheel is shown:
 
 To edit the settings, click the cog wheel.
 
-For "Heading" you cab select which format options should be available:
+For "Heading" you can select which format options should be available:
 
 .. image:: rtf-editor-cogwheel-heading.png
 
