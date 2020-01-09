@@ -126,10 +126,12 @@
 </li>
 <li class="toctree-l1"><a class="reference internal" href="../../general-assets/index.html">General assets</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../pages/index.html">Pages</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../working-with-documents/index.html">Working with Documents</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../user-options/index.html">User options</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../setup/index.html">Setup</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../roadmap/index.html">Roadmap</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../release-notes/index.html">Release Notes</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../guides/index.html">Guides</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../contribute-to-doc/index.html">Contribute to this Documentation</a></li>
 </ul>
 
@@ -203,30 +205,69 @@
 <div class="section" id="settings">
 <h2>Settings<a class="headerlink" href="#settings" title="Permalink to this headline">¶</a></h2>
 <p>Use these settings for the block:</p>
+<img alt="../../_images/calendar-rollup-settings.png" src="../../_images/calendar-rollup-settings.png" />
 <div class="section" id="query">
 <h3>Query<a class="headerlink" href="#query" title="Permalink to this headline">¶</a></h3>
 <p>Use this tab to add calendars.</p>
 <img alt="../../_images/calendar-rollup-query.png" src="../../_images/calendar-rollup-query.png" />
 <ul class="simple">
 <li><strong>Select Calendar Type</strong>: You can select to add Office Group Calendars or Personal Group Calendars.</li>
-<li><strong>Select Calendar Groups</strong>: When the above selection is done, use this list to select a calendar and add it by clickning “Add”.</li>
+<li><strong>Select Calendar Group</strong>: If you have selected “Office Group” above you use this field to search for a calendar. If you selected “Personal Group Calendars” above you select a calendar group: “My Calendars”, “Other Calendars”, “People’s Calendars” or “Shared Calendars”.</li>
+<li><strong>Select Calendar</strong>: If you select “Personal Group” for Calendar Type, use this list to select a calendar.</li>
 </ul>
-<p>Continue until all Calendars you wish to display in this block are selected.</p>
+</div>
+<div class="section" id="to-add-an-office-group-calendar">
+<h3>To add an Office Group Calendar<a class="headerlink" href="#to-add-an-office-group-calendar" title="Permalink to this headline">¶</a></h3>
+<p>Do the following:</p>
+<ol class="arabic simple">
+<li>Select “Office Group”.</li>
+<li>Click in the “Select Office Group” field and search for a calendar.</li>
+<li>Select the calender</li>
+<li>Click “Add”.</li>
+</ol>
+<img alt="../../_images/calendar-office-add.png" src="../../_images/calendar-office-add.png" />
+</div>
+<div class="section" id="ta-add-a-personal-group-calendar">
+<h3>Ta add a Personal Group Calendar<a class="headerlink" href="#ta-add-a-personal-group-calendar" title="Permalink to this headline">¶</a></h3>
+<p>Do the following:</p>
+<ol class="arabic simple">
+<li>Select “Personal Group”.</li>
+<li>Open the list “Select Calendar Groups” and select a calendar group.</li>
+<li>Open the list “Select Calendar” and select the calendar.</li>
+<li>Click “Add”.</li>
+</ol>
+<img alt="../../_images/calendar-personal-add.png" src="../../_images/calendar-personal-add.png" />
+<ol class="arabic simple" start="5">
+<li>Continue until all calendars you wish to display in this block are selected.</li>
+</ol>
+<p>Here’s an example:</p>
+<img alt="../../_images/calendar-query-example.png" src="../../_images/calendar-query-example.png" />
+<p>Note that in this example “IT Department” is an office group calendar, and “Vacation” is a shared, personal calendar.</p>
+</div>
+<div class="section" id="targeting-and-color-for-each-calendar">
+<h3>Targeting and Color for each calendar<a class="headerlink" href="#targeting-and-color-for-each-calendar" title="Permalink to this headline">¶</a></h3>
+<p>Each calendar displayed in the block can be targeted and can be shown with a different color. These settings are available when you expand a calendar.</p>
+<img alt="../../_images/expand-calendar.png" src="../../_images/expand-calendar.png" />
+<img alt="../../_images/expand-calendar-expanded.png" src="../../_images/expand-calendar-expanded.png" />
+<p>The select another color, just click the colored dot or the color code. You can select any of the pre defined colors, or add a custom one.</p>
+<img alt="../../_images/expand-calendar-color.png" src="../../_images/expand-calendar-color.png" />
+<p>Targeting a calendar works the same way as when you target a block, see the Heading “Targeting” on this page: <a class="reference internal" href="../general-block-settings/index.html"><span class="doc">General Block Settings</span></a></p>
 </div>
 <div class="section" id="display">
 <h3>Display<a class="headerlink" href="#display" title="Permalink to this headline">¶</a></h3>
 <p>Here you can set the following:</p>
-<img alt="../../_images/calendar-rollup-display.png" src="../../_images/calendar-rollup-display.png" />
+<img alt="../../_images/calendar-rollup-display-new2.png" src="../../_images/calendar-rollup-display-new2.png" />
 <ul class="simple">
-<li><strong>Title</strong>: You can type a Title to be displayd for the block. Not mandatory.</li>
+<li><strong>Listing</strong>: In this list you can select type of display (Only Listing is available for now, more options to come).</li>
+<li><strong>Title</strong>: If a title should be shown for the block, add it in this field. If no variation exists for the page, it looks like in the image above and you can set the title in the languages active in the tenant. If variation exists, only one title can be set. In that case, titles in other languages are set in the variations.</li>
 <li><strong>Item Limit</strong>: Set the number of items to display on each “page” of the list.</li>
 <li><strong>Padding</strong>: Set some padding around the list if needed.</li>
 </ul>
 </div>
 </div>
-<div class="section" id="layout">
-<h2>Layout<a class="headerlink" href="#layout" title="Permalink to this headline">¶</a></h2>
-<p>The Layout tab contains general block settings available for all blocks, see: <a class="reference internal" href="../general-block-settings/index.html"><span class="doc">General block settings</span></a></p>
+<div class="section" id="layout-and-advanced">
+<h2>Layout and Advanced<a class="headerlink" href="#layout-and-advanced" title="Permalink to this headline">¶</a></h2>
+<p>The tabs Layout and Advanced contain general settings, see: <a class="reference internal" href="../general-block-settings/index.html"><span class="doc">General Block Settings</span></a></p>
 </div>
 </div>
 
@@ -253,7 +294,7 @@
   <div role="contentinfo">
     <p>
         &copy; Copyright 2019, Precio Fishbone.
-      Last updated on Oct 15, 2019.
+      Last updated on Dec 19, 2019.
 
     </p>
   </div>

@@ -7,7 +7,7 @@
 
 .. image:: tenantfeatures-enterpriseproperties.png
 
-4. A number of Enterprise Properties will now be deployed to the solution.
+4. A number of Enterprise Properties will now be deployed to the solution. (You may need to refresh the page to show the properties).
 
 .. image:: default-enterprise-properties.png
 

@@ -1,0 +1,263 @@
+
+
+<!DOCTYPE html>
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en" > <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en" > <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <title>Creating a Document Template with Place Holders &mdash; Omnia  documentation</title>
+  
+
+  
+  
+    <link rel="shortcut icon" href="../../../../_static/favicon.ico"/>
+  
+  
+  
+
+  
+
+  
+  
+    
+
+  
+
+  
+  
+    <link rel="stylesheet" href="../../../../_static/css/theme.css" type="text/css" />
+  
+
+  
+    <link rel="stylesheet" href="../../../../_static/custom.css?v=4" type="text/css" />
+  
+
+  
+        <link rel="index" title="Index"
+              href="../../../../genindex.html"/>
+        <link rel="search" title="Search" href="../../../../search.html"/>
+    <link rel="top" title="Omnia  documentation" href="../../../../index.html"/> 
+
+  
+  <script src="../../../../_static/js/modernizr.min.js"></script>
+
+</head>
+
+<body class="wy-body-for-nav" role="document">
+
+   
+  <div class="wy-grid-for-nav">
+
+    
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search">
+          
+
+          
+            <a href="../../../../index.html" class="icon icon-home"> Omnia
+          
+
+          
+          </a>
+
+          
+            
+            
+          
+
+          
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="../../../../search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+
+          
+        </div>
+
+        <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
+          
+            
+            
+              
+            
+            
+              <ul>
+<li class="toctree-l1"><a class="reference internal" href="../../../index.html">Admin Settings</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../../blocks/index.html">Blocks</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../../general-assets/index.html">General assets</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../../pages/index.html">Pages</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../../working-with-documents/index.html">Working with Documents</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../../user-options/index.html">User options</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../../setup/index.html">Setup</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../../roadmap/index.html">Roadmap</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../../release-notes/index.html">Release Notes</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../../guides/index.html">Guides</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../../contribute-to-doc/index.html">Contribute to this Documentation</a></li>
+</ul>
+
+            
+          
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+
+      
+      <nav class="wy-nav-top" role="navigation" aria-label="top navigation">
+        
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="../../../../index.html">Omnia</a>
+        
+      </nav>
+
+
+      
+      <div class="wy-nav-content">
+        <div class="rst-content">
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div role="navigation" aria-label="breadcrumbs navigation">
+
+  <ul class="wy-breadcrumbs">
+    
+      <li><a href="../../../../index.html">Docs</a> &raquo;</li>
+        
+      <li>Creating a Document Template with Place Holders</li>
+    
+    
+      <li class="wy-breadcrumbs-aside">
+        
+            
+            <a href="../../../../_sources/admin-settings/tenant-settings/document-management/document-template-with-placeholders/index.rst.txt" rel="nofollow"> View page source</a>
+          
+        
+      </li>
+    
+  </ul>
+
+  
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+            
+  <div class="section" id="creating-a-document-template-with-place-holders">
+<h1>Creating a Document Template with Place Holders<a class="headerlink" href="#creating-a-document-template-with-place-holders" title="Permalink to this headline">¶</a></h1>
+<p>A document property place holder starts with [[ and ends with ]] and can be placed anywhere inside a DOCX document or within the header/footer of an XLSX document. Place holders support any document property.</p>
+<p><strong>Important Note!</strong> In a template you probably want the published copy of the template to include the placeholders. To ensure that the placeholders are not replaced by document properties on the template, you need to escape the placeholders using the character “\”. An escaped placeholder would look like this:</p>
+<p>\[\[_PubDate\]\]</p>
+<p>Another, and most likely better, way is to use a dedicated Document Type for all templates and there set that the placeholders should not be replaced for documents of that type. In that case, place holders can be added as described below - escape characters are not needed. See the heading “Publish” on this page for more information: <a class="reference internal" href="../document-types/index.html"><span class="doc">Document Types</span></a></p>
+<p>Make sure to use the internal name (or the short name) of the property, example:</p>
+<p>[[ODMPublished]]</p>
+<p>You can use the following short names for built-in properties in ODM:</p>
+<ul class="simple">
+<li>_DocId: Document Id including prefix.</li>
+<li>_DocIdN: Document Id number only.</li>
+<li>_Edition: Edition.</li>
+<li>_PubDate: Published Date.</li>
+<li>_Comment: Edition Comment.</li>
+<li>_DocType: Document Type.</li>
+<li>_ApprDate: Approved.</li>
+<li>_ApprBy: Approved By.</li>
+<li>_Lang: Content Language:</li>
+<li>_RevDate: Review Date.</li>
+</ul>
+<p>There’s also a special Place Holder if you need to show Document History somewhere in the document:</p>
+<p>[[_DocHistory]]</p>
+<p>On publication this Place Holder will be replaced with a table listing all editions, for example:</p>
+<img alt="../../../../_images/place-holder.png" src="../../../../_images/place-holder.png" />
+<p>If you want dates to be displayed with the appropriate format you can use the following syntax for date and date including time:</p>
+<p>[[_PubDate|Date]]</p>
+<p>[[_PubDate]]</p>
+<p><strong>Tip:</strong> If you want to prevent authors from deleting place holders within the document (for example in a header), you can put them inside locked content controls added using the “Developer” tab in Word. Note that this tab is not shown as default, it has to be added using the settings.</p>
+</div>
+
+
+           </div>
+           <div class="articleComments">
+            
+           </div>
+          </div>
+          <footer>
+  
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>
+        &copy; Copyright 2019, Precio Fishbone.
+      Last updated on Dec 19, 2019.
+
+    </p>
+  </div>
+  Built with <a href="http://sphinx-doc.org/">Sphinx</a> using a <a href="https://github.com/snide/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>. 
+
+</footer>
+
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+  
+
+
+  
+
+    <script type="text/javascript">
+        var DOCUMENTATION_OPTIONS = {
+            URL_ROOT:'../../../../',
+            VERSION:'',
+            COLLAPSE_INDEX:false,
+            FILE_SUFFIX:'.html',
+            HAS_SOURCE:  true,
+            SOURCELINK_SUFFIX: '.txt'
+        };
+    </script>
+      <script type="text/javascript" src="../../../../_static/jquery.js"></script>
+      <script type="text/javascript" src="../../../../_static/underscore.js"></script>
+      <script type="text/javascript" src="../../../../_static/doctools.js"></script>
+      <script type="text/javascript" src="../../../../_static/helpfulness.js?v=4"></script>
+      <script type="text/javascript" src="../../../../_static/disqus.js"></script>
+
+  
+
+  
+  
+    <script type="text/javascript" src="../../../../_static/js/theme.js"></script>
+  
+
+  
+  
+  <script type="text/javascript">
+      jQuery(function () {
+          SphinxRtdTheme.StickyNav.enable();
+      });
+  </script>
+   
+
+</body>
+</html>

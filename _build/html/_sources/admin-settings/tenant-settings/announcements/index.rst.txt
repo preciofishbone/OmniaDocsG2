@@ -29,7 +29,7 @@ Use the following settings:
 
 Here's an example of an Announcement with high priority:
 
-.. image:: high-priority.png
+.. image:: high-priority-new.png
 
 Here's an example of Announcements displayed in the Announcements block:
 
@@ -41,7 +41,7 @@ All languages to be used here must be setup in the Tenant Settings, see: :doc:`T
 
 Targeting Announcements
 ************************
-An Important Announcement can be targeted to any receivers that has been defined in Targeting Properties, see: :doc:`Targeting Properties </admin-settings/tenant-settings/targeting-properties/index>`
+An Important Announcement can be targeted to any receivers that has been defined in Targeting Properties, see the section on this page: :doc:`Properties </admin-settings/tenant-settings/properties/index>`
 
 1. Click "Add Targeting Filter".
 
