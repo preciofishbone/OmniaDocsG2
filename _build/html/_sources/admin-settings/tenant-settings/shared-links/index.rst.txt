@@ -78,7 +78,7 @@ When editing a link, all options available when creating a new link can be edite
 
 Permissions for Shared Links
 *****************************
-Shared Links has a seperate Permissions setting, meaning any user can be set as a Shared Links administrator. 
+Shared Links has a seperate Permissions setting, meaning any user can be set as a Shared Links administrator. This includes external users that has been invited in the Asher AD, meaing they can log in with their own Office 365 account. 
 
 1. Click "Permissions".
 

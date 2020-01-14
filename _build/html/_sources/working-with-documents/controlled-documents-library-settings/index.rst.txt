@@ -103,6 +103,8 @@ If permission groups are used, as in the example above, you can add and remove u
 
 .. image:: advanced-permissions-settings.png
 
+Note that external users that has been invited in the Asher AD can be added here as well. Users invited this way can log in with their own Office 365 account.
+
 
 
 
