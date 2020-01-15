@@ -18,6 +18,6 @@ External users that has been invited in the Asher AD can be added here as well. 
 
 **Note!** There must always be at least one Tenant Administrator. If there is only one, that administrator can not be removed until an additional one has been added.
 
-Secret
+Secrets
 ********
-UWhen an extension has been installed for the Business Profile, get the security key/token and enter it here. 
+When an extension has been installed for the Business Profile, get the security key/token and enter it here. 
