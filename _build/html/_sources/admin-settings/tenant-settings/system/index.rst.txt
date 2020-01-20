@@ -2,7 +2,7 @@ System
 =============
 Here, the following can be set:
 
-.. image:: system-settings.png
+.. image:: system-settings-new.png
 
 Extensions
 ************
@@ -15,3 +15,9 @@ Default SharePoint Context Url
 Here the Default SharePoint address can be set/edited.
 
 .. image:: system-default-sharepoint.png
+
+Error Information
+******************
+Use this setting to turn client side error messages on or off (Default=off).
+
+.. image:: system-settings-error.png

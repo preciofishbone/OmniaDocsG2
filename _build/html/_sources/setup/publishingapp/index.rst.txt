@@ -2,13 +2,13 @@
 ===========================================
 
 1. Go into Omnia Admin.
-2. Click on Business Profiles in the left-hand navigation and select the newly created Business Profile in the previous step.
-3. Click on Features on the business profile in the left-hand navigation.
+2. Click on "Business Profiles" in the left-hand navigation and select the newly created Business Profile from the previous step.
+3. Click on "Features" on the business profile in the left-hand navigation.
 4. Activate the feature Publishing Provisioning Templates.
 
 .. image:: bp-features-publishingprovisioningtemplates.png
 
-5. Click on Publishing App in the left-hand navigation.
+5. Click on "Publishing Apps" in the left-hand navigation.
 6. Create a new Publishing App based on the built-in Simple Intranet template.
 
 .. image:: publishingapps-addnew.png

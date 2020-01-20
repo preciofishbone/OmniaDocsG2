@@ -18,6 +18,18 @@ Here you can set the following:
 + **Scope**: Select scope for the block; Publishing Apps or Page Collections. Then open the list below and select Publishing Apps/Page Collections.
 + **Exclude current page**: The default settings is to exclude the current page, but if you, for some reason, would like to include the current page, uncheck this option.
 
+When you have selected "Publishing Apps" or "Page Collections" as Scope, use the list to add one or more:
+
+.. image:: page-rollup-query-list.png
+
+For every Publishing App or Page Collection you can filter (meaning displaying just some of the pages) by exanding and selecting "Add filter".
+
+.. image:: page-rollup-query-addfilter.png
+
+Here's an example of a filter that will display pages that have been updated (Modified) tha last month:
+
+.. image:: page-rollup-query-filter-example.png
+
 Social Period
 --------------
 Use these settings to decide for how long likes, comments, ratings and page feedback should be displayed here. The default setting is "No limit" but you can select one week, two weeks or one month instead.
@@ -48,11 +60,12 @@ The following lists all available display settings. Which of them will be availa
 + **Title (field)**: If a title should be shown for the block, add it in this field. If no variation exists for the page, you can set the title in the languages active in the tenant. If variations exists, only one title can be set. In that case, titles in other languages are set in the variations.
 + **No result text**: Enter the text that will be shown if no page can be displayed.
 + **Hide block when not data**: Select this option if the block should be hidden when there's nothing to display.
-+ **Trim duplicates**: Certain settings may result in duplicates being displayed. Select this option to make sure only one copy of the item is displayed.
++ **Trim duplicates**: If more than one Page Rollup block is added to a page, this option can be used to handle duplicates between the blocks. When the option is selected, you can enter a number indicating the priority for duplicates, for this block. If you set "1" for a block it means this block has priority showing a post that would have been a duplicate.
 + **Paging**: Select paging here; "No paging", "Classic" or "Scroll".
 + **Item limit**: To limit the number of items being displayed, add a fixed number here. Note that if combined with "No paging", the number of items you enter here are the only items users can access from the list.
 + **Sort by**: Choose what the list should be sorted by, and then select ascending or descending.
-+ **Show create button**: To make it possible for editors to create a new page from here, select this option to add a button to the block heading, and type the name for the button. Available for "List View" only.
++ **Show create button**: To make it possible for editors to create a new page from here, select this option to add a button to the block heading, and type the name for the button. 
++ **Create button for page collection**: When you have selected "Show create button", this optipon is shown. Use it to select in which page collection the new page will be created.
 + **Show link**: You can add a link button at the bottom of the list. The first page collection is default, but you can link to any target.
 + **Link label**: Add the text to be shown for the link here. Available only if "Show link" is selected.
 + **Link url**: Add the url to open when a user clicks the link. Available only if "Show link" is selected.
@@ -104,7 +117,7 @@ Using Page Variations you can select the following:
 
 + **User Variation**: Pages (incl News) will be listed that correspond with the logged in users preferred setting for the variation, for example language setting, in the user's profile. If some pages does not have a variation that correspond with the user's setting, the default variation will be listed.
 + **Default Variation**: The default variations are always listed.
-+ **All Variations**: All variations is listed, meaning several copies of a page can be shown in the list, if the page has variations.
++ **All Variations**: All variations are listed, meaning several copies of a page can be shown in the list, if the page has variations.
 
 You can find more information about variations under the heading "Variations" on this page: :doc:`Publishing App Settings </pages/page-settings/index>`
 
@@ -114,7 +127,7 @@ The tabs Layout and Advanced contain general settings, see: :doc:`General Block 
 
 Page Rollup implementations
 ****************************
-In this section we show a number of examples of how the Page Rollup could be implemented.
+In this a number of examples of how the Page Rollup could be implemented are described.
 
 News Archive/News Center
 --------------------------

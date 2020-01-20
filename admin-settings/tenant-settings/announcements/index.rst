@@ -137,7 +137,7 @@ Set the following:
 
 Permissions for Announcements
 *****************************
-Announcements has a seperate Permissions setting, meaning any user can be set as an Announcement administrator. 
+Announcements has a seperate Permissions setting, meaning any user can be set as an Announcement administrator, including external users that has been invited in the Asher AD, meaing they can log in with their own Office 365 account. 
 
 1. Click "Permissions".
 

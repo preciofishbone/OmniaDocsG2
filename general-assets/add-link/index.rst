@@ -13,7 +13,7 @@ The following settings are available:
 
 + **Url**: Paste or type the Url (link) in this field. 
 + **Title**: Type a text to be shown for the clickable link.
-+ **Open in new window**: If the link should be opened in a new window, select this option. If not selected the link opens in th same window.
++ **Open in new window**: If the link should be opened in a new window, select this option. If not selected the link opens in the' same window.
 + **Icon**: An Icon will be shown for each link. If you select "Automatic" the system will select the icon. Choosing "Built-in" you can select an icon from either "Font Awesome" or "Fabric", see below. If you select "Custom" you can use any image as an icon.
 
 Here are some examples of Font Awesome icons:
@@ -28,7 +28,7 @@ Save after each link added.
 
 Page
 ******
-First, select Page Collection. If the Page Collection isn't present in the list, select "Others..." so you can add the Url to any Page Collection.
+First, select Page Collection in te list at the top. If the Page Collection isn't present in the list, select "Others..." so you can add the Url to any Page Collection.
 
 .. image:: add-link-page.png
 

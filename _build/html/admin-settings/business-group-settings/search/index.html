@@ -112,10 +112,12 @@
 <li class="toctree-l1"><a class="reference internal" href="../../../blocks/index.html">Blocks</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../general-assets/index.html">General assets</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../pages/index.html">Pages</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../working-with-documents/index.html">Working with Documents</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../user-options/index.html">User options</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../setup/index.html">Setup</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../roadmap/index.html">Roadmap</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../release-notes/index.html">Release Notes</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../guides/index.html">Guides</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../contribute-to-doc/index.html">Contribute to this Documentation</a></li>
 </ul>
 
@@ -190,10 +192,10 @@
 <img alt="../../../_images/search-new.png" src="../../../_images/search-new.png" />
 <div class="section" id="search-config">
 <h2>Search config<a class="headerlink" href="#search-config" title="Permalink to this headline">¶</a></h2>
-<p>Use the settings shown in the image above:</p>
+<p>Using the “Search config” tab you can work with Search Categories and set default Search Template.</p>
+<p>To edit a Search config, click the pen. To delete a Search config, click the dust bin.</p>
 <div class="section" id="search-categories">
 <h3>Search Categories<a class="headerlink" href="#search-categories" title="Permalink to this headline">¶</a></h3>
-<p>Use these settings to add and edit Search Categories.</p>
 <p>To create a new Search Category, click the plus and use the following settings:</p>
 <ul class="simple">
 <li><strong>Title</strong>: Add a title for the Search Category.</li>
@@ -202,18 +204,20 @@
 <li><strong>Search Templates</strong>: Select one or more Search Templates from the list.</li>
 </ul>
 <p>Here’s an example of a Search Category:</p>
-<img alt="../../../_images/search-example.png" src="../../../_images/search-example.png" />
+<img alt="../../../_images/search-example-border.png" src="../../../_images/search-example-border.png" />
+<p>The same settings are available when editing a Search Category.</p>
 </div>
 <div class="section" id="search-templates">
 <h3>Search Templates<a class="headerlink" href="#search-templates" title="Permalink to this headline">¶</a></h3>
-<p>Search Templates are created by developers and are simply listed here. If several Search Templates for the same purpose are available, the chosen Search Template can be activated here.</p>
-<img alt="../../../_images/search-templates.png" src="../../../_images/search-templates.png" />
+<p>Search Templates are created by developers and are simply listed here. A Search Template defines how to display a search result. If a search result happens to not match any Search Template, the Default search template is used. You can set Default search template by clicking any of the templates in the list.</p>
+<p>In this example the selected Default search template is actually named that, but any other template can be selected.
+.. image:: search-templates-new.png</p>
 </div>
 </div>
 <div class="section" id="quick-search">
 <h2>Quick Search<a class="headerlink" href="#quick-search" title="Permalink to this headline">¶</a></h2>
 <p>Quick Search is available in the Heading (can be turned off in settings):</p>
-<img alt="../../../_images/quick-search-start-page.png" src="../../../_images/quick-search-start-page.png" />
+<img alt="../../../_images/quick-search-start-page-new.png" src="../../../_images/quick-search-start-page-new.png" />
 <p>For Quick Search, the following settings are available:</p>
 <img alt="../../../_images/quick-search-settings-new.png" src="../../../_images/quick-search-settings-new.png" />
 <ul class="simple">
@@ -236,18 +240,31 @@
 </ul>
 <p>Additional settings can be reached by clicking the pen for a Search Category:</p>
 <img alt="../../../_images/advanced-search-pen.png" src="../../../_images/advanced-search-pen.png" />
-<p>Then these settings is available:</p>
+<p>Then these settings are available:</p>
 <img alt="../../../_images/advanced-search-category-settings-new.png" src="../../../_images/advanced-search-category-settings-new.png" />
 <ul class="simple">
 <li><strong>Row Limit</strong>: Select number of search result rows for each “page”.</li>
 <li><strong>Refiners</strong>: Use this option to add refiners for the Search Category (click the plus to add).</li>
 <li><strong>Order By</strong>: Set the sorting in the refiner’s lists; “Count” (=number of hits) or “Alphabetic”.</li>
-<li><strong>Refiner Limit</strong>: Set the number of refiner selections to be shown. It will be the top ones according to “Order by”.</li>
+<li><strong>Refiner Limit</strong>: Set the number of refiner selections to be shown before a “Show more” link is displayed. Default=5.</li>
 </ul>
 <p>To delete a Refiner, just click the dust bin.</p>
+<p>To create a new refiner, do the following:</p>
+<ol class="arabic simple">
+<li>click the plus.</li>
+</ol>
+<img alt="../../../_images/new-refiner-1.png" src="../../../_images/new-refiner-1.png" />
+<ol class="arabic simple" start="2">
+<li>Select property for the refiner.</li>
+</ol>
+<img alt="../../../_images/new-refiner-2.png" src="../../../_images/new-refiner-2.png" />
+<ol class="arabic simple" start="3">
+<li>Set “order By” and “Refiner Limit” and save.</li>
+</ol>
+<img alt="../../../_images/new-refiner-3.png" src="../../../_images/new-refiner-3.png" />
 <p>Here’s an example of refiners for Product Manuals, with 22 hits:</p>
 <img alt="../../../_images/search-refiners-example.png" src="../../../_images/search-refiners-example.png" />
-<p>The user can now use the refiners to the left to for example just display documents for the Product Family City Bikes, which is just thre documents:</p>
+<p>The user can now use the refiners to the left to for example just display documents for the Product Family City Bikes, which is just three documents:</p>
 <img alt="../../../_images/search-refiners-example-refined.png" src="../../../_images/search-refiners-example-refined.png" />
 </div>
 </div>
@@ -274,8 +291,8 @@
 
   <div role="contentinfo">
     <p>
-        &copy; Copyright 2019, Precio Fishbone.
-      Last updated on Oct 15, 2019.
+        &copy; Copyright 2020, Precio Fishbone.
+      Last updated on Jan 09, 2020.
 
     </p>
   </div>

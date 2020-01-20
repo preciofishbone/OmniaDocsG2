@@ -43,8 +43,7 @@ When the image has been selected, the following settings can be made:
 .. image:: media-picker-image-settings.png
 
 + **Custom**: Set a custom shape using the eight squares as handles. Just draw to the desired shape. When a custom image is used in a page image area the full width of the area is used and the height of the area is adapted.
-+ **Landscape**: Click the Landscape preview and use the selection on the image to decide wich part of the image to show when it's used in landscape format.
-+ **Square**: Click the Square preview and use the selection on the image to decide wich part of the image to show when it's used in square format.
++ **Landscape**, **Square** and "Portrair**: Click the preview and use the selection on the image to decide wich part of the image to show when it's used in landscape, square or portrait format.
 + **Filters**: Use the filters to adjust the image; Sepia coloring, Grayscale coloring, Brightness, Contrast and Saturation.
 
 Don't forget to save your changes when you're done.

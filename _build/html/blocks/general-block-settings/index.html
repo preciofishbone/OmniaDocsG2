@@ -126,10 +126,12 @@
 </li>
 <li class="toctree-l1"><a class="reference internal" href="../../general-assets/index.html">General assets</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../pages/index.html">Pages</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../working-with-documents/index.html">Working with Documents</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../user-options/index.html">User options</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../setup/index.html">Setup</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../roadmap/index.html">Roadmap</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../release-notes/index.html">Release Notes</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../guides/index.html">Guides</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../contribute-to-doc/index.html">Contribute to this Documentation</a></li>
 </ul>
 
@@ -198,28 +200,54 @@
             
   <div class="section" id="general-block-settings">
 <h1>General Block Settings<a class="headerlink" href="#general-block-settings" title="Permalink to this headline">¶</a></h1>
-<p>The Layout tab contains settings that are general for most blocks, but scoped for each block.</p>
-<img alt="../../_images/layout-tab.png" src="../../_images/layout-tab.png" />
-<div class="section" id="targeting">
-<h2>Targeting<a class="headerlink" href="#targeting" title="Permalink to this headline">¶</a></h2>
-<p>A lot of blocks can be targeted to one or more groups using Targeting Properties. The Targeting Properties must be set up in Omnia Admin, see: <span class="xref std std-doc">Targeting Properties</span></p>
-<p>To target a block, open the settings for the block and select “Add Targeting Filter”.</p>
-<img alt="../../_images/layout-targeting.png" src="../../_images/layout-targeting.png" />
-<p>Then select Targeting Property from the list. As the next step you can select to include all Children, or you can target one or more of the Children specifically. Here’s an example with the Sweden office selected for the Office property.</p>
-<img alt="../../_images/targeting-sweden.png" src="../../_images/targeting-sweden.png" />
-<p>You can add as many Targeting Properties for a block as is needed, this way. To remove a target, just click the X.</p>
+<p>The Layout tab and the Advanced tab contains settings that are general for most blocks, but scoped for each block.</p>
+<img alt="../../_images/general-block.png" src="../../_images/general-block.png" />
+<div class="section" id="layout">
+<h2>Layout<a class="headerlink" href="#layout" title="Permalink to this headline">¶</a></h2>
+<p>The Layout tab contain the following settings:</p>
+<img alt="../../_images/layout-tab-new.png" src="../../_images/layout-tab-new.png" />
+<div class="section" id="spacing">
+<h3>Spacing<a class="headerlink" href="#spacing" title="Permalink to this headline">¶</a></h3>
+<p>Use this setting to add some space from the block’s border in to the content.</p>
+<img alt="../../_images/general-spacing.png" src="../../_images/general-spacing.png" />
+</div>
+<div class="section" id="style">
+<h3>Style<a class="headerlink" href="#style" title="Permalink to this headline">¶</a></h3>
+<p>Use these settings for block style:</p>
+<img alt="../../_images/general-style.png" src="../../_images/general-style.png" />
+<ul class="simple">
+<li><strong>Chrome</strong>: Select to have no Chrome setting or Boxed.</li>
+<li><strong>Background color</strong>: A default background color for blocks are set in Omnia Admin. You can set another background color for this block here, if needed.</li>
+<li><strong>Elevation</strong>: With this setting you can make the content of the block “stand out” from the page. See below for examples.</li>
+</ul>
+<p>In this example there’s no elevation set for the block:</p>
+<img alt="../../_images/no-elevation.png" src="../../_images/no-elevation.png" />
+<p>And here the elevation is set to 2:</p>
+<img alt="../../_images/elevation-2.png" src="../../_images/elevation-2.png" />
+<p>The difference is noticeable at the left side and at the bottom.</p>
 </div>
 <div class="section" id="header">
-<h2>Header<a class="headerlink" href="#header" title="Permalink to this headline">¶</a></h2>
+<h3>Header<a class="headerlink" href="#header" title="Permalink to this headline">¶</a></h3>
 <p>For Header you can choose to use the global settings (set up in Omnia Admin) or use Custom Settings for this block.</p>
-<img alt="../../_images/layout-header.png" src="../../_images/layout-header.png" />
+<img alt="../../_images/layout-header-new.png" src="../../_images/layout-header-new.png" />
 <p>For Custom Header Settings you can set the following:</p>
-<img alt="../../_images/layout-header-custom.png" src="../../_images/layout-header-custom.png" />
+<img alt="../../_images/layout-header-custom-new.png" src="../../_images/layout-header-custom-new.png" />
+<p>“Separator Size” sets the distance from the heading to the content in the block. The rest of the settings - it’s obvious what they do.</p>
 </div>
-<div class="section" id="custom-css">
-<h2>Custom CSS<a class="headerlink" href="#custom-css" title="Permalink to this headline">¶</a></h2>
-<p>For some blocks you can use Custom CSS settings:</p>
-<img alt="../../_images/layout-css.png" src="../../_images/layout-css.png" />
+<div class="section" id="targeting">
+<h3>Targeting<a class="headerlink" href="#targeting" title="Permalink to this headline">¶</a></h3>
+<p>A lot of blocks can be targeted to one or more groups using Targeting Properties. The Targeting Properties must be set up in Omnia Admin, see the section on this page: <a class="reference internal" href="../../admin-settings/tenant-settings/properties/index.html"><span class="doc">Properties</span></a></p>
+<p>To target a block, open the settings for the block and select “Add Targeting Filter”.</p>
+<img alt="../../_images/layout-targeting-new.png" src="../../_images/layout-targeting-new.png" />
+<p>Then select Targeting Property from the list. As the next step you can select to include all Children, or you can target one or more of the Children specifically. Here’s an example with the Sweden office selected for the Office property.</p>
+<img alt="../../_images/targeting-sweden-new.png" src="../../_images/targeting-sweden-new.png" />
+<p>You can add as many Targeting Properties for a block as is needed, this way. To remove a target, just click the X.</p>
+</div>
+</div>
+<div class="section" id="advanced">
+<h2>Advanced<a class="headerlink" href="#advanced" title="Permalink to this headline">¶</a></h2>
+<p>For some blocks you can use Custom CSS settings. You then use this tab.</p>
+<img alt="../../_images/layout-css-new.png" src="../../_images/layout-css-new.png" />
 </div>
 </div>
 
@@ -245,8 +273,8 @@
 
   <div role="contentinfo">
     <p>
-        &copy; Copyright 2019, Precio Fishbone.
-      Last updated on Oct 15, 2019.
+        &copy; Copyright 2020, Precio Fishbone.
+      Last updated on Jan 09, 2020.
 
     </p>
   </div>

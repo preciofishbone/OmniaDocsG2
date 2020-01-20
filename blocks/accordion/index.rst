@@ -38,30 +38,30 @@ The tabs Layout and Advanced contain general settings, see: :doc:`General Block 
 
 Adding Accordion Text
 ************************
-When the Accordion block has been added to a page, it can be used this way by an editor:
+When the Accordion block has been added to a page, and the page has been published, it can be used this way by an editor:
 
 1. Enter Write mode.
-2. Click "ADD" in the Accordion block.
+2. Click the plus in the Accordion block.
 
-.. image:: accordion-click-add.png
+.. image:: accordion-click-plus.png
 
 The following is shown:
 
-.. image:: accordion-new.png
+.. image:: accordion-new-2.png
 
 3. Add an Accordion Title at the top. This is the expandable text.
 4. Add the text that should be shown when the title is expanded. Note the formatting options.
 
 Here's an example:
 
-.. image:: accordion-example.png
+.. image:: accordion-example-new.png
 
 5. Click "SAVE".
 6. Add additional Accordions to the block the same way.
 
-To edit an Accordion, click the pen. To delete an Accordion, click the x.
+To edit an Accordion, click the pen. To delete an Accordion, click the dust bin.
 
-.. image:: accordion-edit-delete-border.png
+.. image:: accordion-edit-delete-new.png
 
 
 
