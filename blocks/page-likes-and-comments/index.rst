@@ -1,7 +1,7 @@
 Page Likes and Comments
 ===========================================
 
-The block makes it possible for the end user to like and comment a specific web page. It is also possible to reply to comments. Besides that, users can Share the page with others by e-mail.
+The block makes it possible for the end user to like and comment a specific web page. It is also possible to reply to comments. Besides that, users can Share the page with others by e-mail and subscribe to comments.
 
 .. image:: comments-and-likes.png
 
