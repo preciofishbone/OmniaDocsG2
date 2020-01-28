@@ -49,11 +49,11 @@ Use the following settings:
 
 Here's an example of an Announcement with high priority:
 
-.. image:: high-priority-new2.png
+.. image:: high-priority-new.png
 
 Here's an example of Announcements displayed in the Announcements block:
 
-.. image:: announcements-block2.png
+.. image:: announcements-block.png
 
 For more information, see: The Announcements block: :doc:`The Announcements block </blocks/announcements/index>`
 
