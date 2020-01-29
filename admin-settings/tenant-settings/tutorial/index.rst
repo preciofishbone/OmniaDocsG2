@@ -91,7 +91,7 @@ Use these settings:
 
 The following is available under "Start Mode":
 
-.. image:: tutorial-start-mode-new.png
+.. image:: tutorial-start-mode.png
 
 The Tool Tip Alert will be shown on the Tutorial icon.
 
