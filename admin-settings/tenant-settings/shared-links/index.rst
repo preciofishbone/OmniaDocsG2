@@ -15,7 +15,7 @@ The end user experience
 *************************
 The end user can access the Shared Links in the My Links control. The list contains all active links. The user can decide which non-mandatory links to display and can add personal links there. Here's an example:
 
-.. image:: my-linksexample-new.png
+.. image:: my-linksexample.png
 
 Settings
 **********
