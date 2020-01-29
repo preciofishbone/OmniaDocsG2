@@ -20,11 +20,15 @@ Here you can set these settings:
 
 .. image:: user-profile-general.png
 
+(All options are not shown in the image.)
+
 + **Show Dialog**: Decide how often the Dialog should be shown for a user. First set "Daily", "Weekly" or "Monthly" and then set details if needed. The dialog appears on all Omnia pages when a user starts the intranet and remains open until the users closes the dialog.
 + **Start date**: Click in the field and use the calendar to select start date for the Dialog's first appearance.
 + **No end date/End by**: Select when the Dialog should no more be shown; never ("No end date") or click in the "End by" field and use the calendar to set a date.
 + **Title**: Use this field to enter a Title for the Dialog. Click the list icon to add Titles for all available languages. See example below.
 + **Description**: Enter a description, or rather information about what the user should do, in this field. Click the list icon to add Descriptions for all available languages. See example below.
++ **Feeback email**: Add the email address that feedback from User profile Completion should be sent to.
++ **Levels**: Use these color settings to set what color to display for different levels pf completion. 
 
 .. image:: user-profile-general-example.png
 
@@ -32,5 +36,50 @@ Property mappings
 ------------------
 Use these settings to map user input to certain Properties.
 
-.. image:: user-profile-property.png
+.. image:: user-profile-property-new.png
+
+To edit a property mapping, click the heading. The same settings as for a new profile property can be used, see below. To delete a profile property, click the dust bin.
+
+Heres an example of a property mapping:
+
+.. image:: property-mapping-1.png
+
+Create a new property mapping
+------------------------------
+Here's how to create a new property mapping:
+
+1. Click "Add Section".
+
+.. image:: click-add-section.png
+
+2. Add names and descriptions in one or more of the available languages (default language is mandatory).
+3. Click "Add Mapping".
+
+.. image:: click-add-mapping.png
+
+Use the following settings:
+
+.. image:: mapping-settings.png
+
+(Different options are shown depending on Type selected.)
+
++ **Type**: Open the list and select type of property.
++ **Label**: Add a lable for the property.
++ **Property**: Select Property in the list. Available for alla types except Profile Picture.
++ **Completeness Impact**: Select the impact of completeness status: None, High, Medium or Low. Think how important it is that this property is filled in by the user.
++ **Multiple**: Available for the type Term Set only. Check the box to make it possible for the user to select more than one term for the property.
++ **Read-Only**: (A description will be added soon.)
++ **Allow feedback**: To make it possible for users to send feedback for this property, check the box.
+
+
+
+
+
+
+
+
+
+
+
+
 
