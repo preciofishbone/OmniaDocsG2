@@ -39,9 +39,9 @@ Use the following settings:
 
 + **Title**: Add a title for the message. If you use more than one language in the tenant you can add a title in each language. Note that you must always add a title in the default language, other languages are optional.
 + **Description**: Add the message here. If you use more than one language in the tenant you can add the description in each language. Note that you must always add the description in the default language, other languages are optional.
-+ **Priority**: Set the Priority. Important Announcements with High priority will be displayed below the cross site mega menu on all pages (see example below). Announcements (with Normal or High priority) can be displayed to users in the Notification Panel or through the Announcements block.
-+ **Order**: Set the order for this Important Announcement when there are several displayed.
-+ **Start Date** and **End Date**: Set the start and end date of the Important Announcement. You can set exact times within the dates if needed. Start and end dates are optional, but we recommend that you always at least set an end date.
++ **Priority**: Set the Priority. Announcements with High priority will be displayed below the cross site mega menu on all pages (see example below). Announcements (with Normal or High priority) can be displayed to users in the Notification Panel or through the Announcements block.
++ **Order**: Set the order for this Announcement when there are several displayed.
++ **Start Date** and **End Date**: Set the start and end date of the Announcement. You can set exact times within the dates if needed. Start and end dates are optional, but we recommend that you always at least set an end date.
 + **Type**: Type is an indication of what type the Announcement is, noted with text and an icon. Available Types are created and edited in the settings (see below).
 + **Status**: Status is a color and text indication of the status (severity) of Announcement. Available Status options are created and edited in the settings (see below)
 + **Allow comments**: Decide to allow comments or not. The default is to not allow comments. If allowed, users can add comments, and even comment other comments (and so can you of course) the same way as for example for news.
@@ -61,7 +61,7 @@ All languages to be used here must be setup in the Tenant Settings, see: :doc:`T
 
 Targeting Announcements
 -------------------------
-An Important Announcement can be targeted to any receivers that has been defined in Targeting Properties, see the section on this page: :doc:`Properties </admin-settings/tenant-settings/properties/index>`
+An Announcement can be targeted to any receivers that has been defined in Targeting Properties, see the section on this page: :doc:`Properties </admin-settings/tenant-settings/properties/index>`
 
 1. Click "Add Targeting Filter".
 
@@ -95,7 +95,7 @@ You can set the following:
 
 Types
 ------
-Here you can add and edit Types and Status that can be used in an Announcements to indicate what type of content the Announcement has.
+Here you can add and edit Types that can be used in an Announcements to indicate what type of content the Announcement has.
 
 The existing Types are listed, with selected icons shown. Edit and delete the Types using the pen or dust bin:
 
@@ -139,7 +139,7 @@ Set the following:
 
 Permissions for Announcements
 ********************************
-Announcements has a seperate Permissions setting, meaning any user can be set as an Announcement administrator, including external users that has been invited in the Asher AD, meaing they can log in with their own Office 365 account. 
+Announcements has a seperate Permissions setting, so any user can be set as an Announcement administrator, including external users that has been invited in the Asher AD, meaning they can log in with their own Office 365 account. 
 
 Add all users that should be Announcements administrators here:
 
