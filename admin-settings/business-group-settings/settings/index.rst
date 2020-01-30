@@ -156,8 +156,8 @@ You can set the following here:
 + **Categories**: Select the types of links that should be displayed in App Launcher. Default = O365 App Launcher.
 + **Use targeting**: If it should be possible to use targeting for the links in App Launcher, select this option.
 + **Include Personal Links**: If Personal Links (=created by the user) should be displayed in App Launch, select this option.
-+ **Include Following links**: (A description will be added soon.)
-+ **Categories**: (A description will be added soon.)
++ **Include Following links**: Following links are non mandatory links that the user has chosen in his or her My Links list. If it should be possible for a block editor to select to show those links in a Quick Links block, check this box.
++ **Categories**: If it should be possible for a block editor to select to show categories in a Quick Links block, check this box.
 + **Item Limit**: Set the number of apps to be displayed on each "page" of the app list. Default=20.
 
 View Template "Simple List" example:
