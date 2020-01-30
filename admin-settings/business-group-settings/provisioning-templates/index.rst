@@ -42,8 +42,6 @@ For the next steps when you create a template for Team Collaboration, you can se
 
 .. image:: provisioning-templates-create-team-3-new.png
 
-(For a Publishing App template, the next step will be to select properties, see below.)
-
 + **Type**: Select template to base the new template on; "Office 365 Group, Sharepoint Team Site", "Sharepoint Communication Site", "Yammer Group" or "Facebook Workplace Group". This can be changed when an existing Provisioning Template is edited.
 
 The following settings are available for Office 365 Group:
@@ -76,7 +74,9 @@ This setting is available for a Facebook Workplace Group Template:
 
 4. When you are done here, Click "Next".
 
-The next step is to select properties, which you do for all types of templates. All available properties are shown, for example:
+The next step is to select properties, which you can do for all types of templates (but for a Publishing App template theres no need to set any properties at the moment, so just go to the next step). 
+
+All available properties are shown, for example:
 
 .. image:: provisioning-templates-properties-new.png
 
@@ -111,6 +111,8 @@ As the next step you can set this:
 + **Archived Documents**: Select this option if the feature "Archived Documents" should be activated automatically when a site is created from this template.
 + **Project Site**: Select this option if the feature "Project Site" should be activated automatically when a site is created from this template.
 + **Default Page Collections and Page Types**: For Publishing Apps; Select this option if the corresponding feature should be activated automatically when a site is created from this template. The default Page Collections and Page Types can be edited to suit your needs.
+
+**Very important**: Make sure you sellect only the features that are applicable for the type of template you create, if any. Selecting the wrong feature here can cause problems when a site is created from the template. For example is only te feature at the bottom applicable for Publishing App templates.
 
 9. Set the options here as needed and click "Next".
 
