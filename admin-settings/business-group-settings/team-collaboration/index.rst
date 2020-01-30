@@ -5,7 +5,7 @@ Use these settings go to any Team Site to, for example, edit settings. You can a
 
 For Team Sites with "Approval" as Site Creation Mode, you use the "Pending Approval" list to approve or reject creation of a Team Site.
 
-.. image:: team-collaboration-new.png
+.. image:: team-collaboration-new2.png
 
 Use the icons this way:
 
@@ -19,7 +19,7 @@ To create a Team Site from here, do the following:
 
 1. Click the plus.
 
-.. image:: team-collaboration-clickplus.png
+.. image:: team-collaboration-clickplus-new.png
 
 2. Select "Create New".
 
@@ -31,12 +31,13 @@ To create a Team Site from here, do the following:
 
 4. Set the following settings.
 
-.. image:: team-collaboration-settings-1.png
+.. image:: team-collaboration-settings-1new.png
+
+Available options depend on the template chosen. Here's some common ones:
 
 + **Title**: Add a Title (name) for the Team Site here.
 + **Description**: It's a good idea to add a Description of the Team Site's purpose here, but it's not mandatory.
 + **Sharepoint Alias**: The last part of the address to the site is created automatically but can be edited if necessary. If the name (address) already exists an alternative address is suggested.
-+ **Site Design**: Site Designs can be available in this list. Select if applicable.
 + **Languages**: The same language as the main Business Profile language is suggested. Another language can be selected if needed.  
 + **Time Zones**: Normally the correct Time Zone is already selected. Can be changed if needed.
 
