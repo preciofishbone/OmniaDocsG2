@@ -1,7 +1,7 @@
 Page Likes and Comments
 ===========================================
 
-The block makes it possible for the end user to like and comment a specific web page. It is also possible to reply to comments. Besides that, users can Share the page with others by e-mail and subscribe to comments.
+The block makes it possible for the end user to like and comment a specific web page. It is also possible to reply to comments. Besides that, users can Share the page with others by e-mail.
 
 .. image:: comments-and-likes.png
 
@@ -20,11 +20,7 @@ In the settings you can add a Title for the block and add som Padding:
 + **Title**: If a title should be shown for the block, add it in this field. If no variation exists for the page, it looks like in the image above and you can set the title in the languages active in the tenant. If variations exists, only one title can be set. In that case, titles in other languages are set in the variations.
 + **Enable Rich Text**: If you enable Rich Text, some basic formatting will be availble for the users. See image below for an example.         
 + **Enable Best Reply**: This is a preparation for functionality to come later.
-+ **Enable Subscription**: Select this option to make it possible for users to subscribe to comments from this page. 
-
-When Enable Subscription has been activated, this icon is available for subscription:
-
-.. image:: comments-subscription.png
++ **Enable Subscription**: This is a preparation for functionality to come. Not active at the moment. 
 
 Also note the formatting options, that's the Rich Text options.
 
