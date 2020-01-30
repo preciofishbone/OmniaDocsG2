@@ -68,8 +68,10 @@ Use the following settings:
 + **Property**: Select Property in the list. Available for alla types except Profile Picture.
 + **Completeness Impact**: Select the impact of completeness status: None, High, Medium or Low. Think how important it is that this property is filled in by the user.
 + **Multiple**: Available for the type Term Set only. Check the box to make it possible for the user to select more than one term for the property.
-+ **Read-Only**: (A description will be added soon.)
++ **Read-Only**: Select this option for properties that should be shown to the user, but can't be edited by the user. 
 + **Allow feedback**: To make it possible for users to send feedback for this property, check the box.
+
+**Tip!** If you allow feedback for a Read-Only property, the user can still send feedback about the information shown in the field.
 
 
 

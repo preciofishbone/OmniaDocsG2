@@ -24,8 +24,8 @@ Use this setting to turn client side error messages on or off (Default=off).
 
 SPFx Instruction
 *****************
-(A description will be added soon.)
+This is an instruction that may be needed for integration between Omnia and Sharepoint Team Sites.
 
 Custom Email Service
 *********************
-(A description will be added soon.)
+This may be needed for some specialized implementations.
