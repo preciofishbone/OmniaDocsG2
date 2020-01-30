@@ -76,9 +76,9 @@ This setting is available for a Facebook Workplace Group Template:
 
 4. When you are done here, Click "Next".
 
-The next step is to **edit properties**, which you do for all types of templates. All available properties are shown, for example:
+The next step is to select properties, which you do for all types of templates. All available properties are shown, for example:
 
-.. image:: template-propertiesprovisioning-templates-pubapp1.png
+.. image:: provisioning-templates-properties-new.png
 
 Available properties must have been set up using the Tenant setting Properties, see: :doc:`Tenant Settings - Properties </admin-settings/tenant-settings/properties/index>`
 
