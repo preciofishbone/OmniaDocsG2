@@ -23,7 +23,7 @@ To create a Team Site from here, do the following:
 
 2. Select "Create New".
 
-.. image:: team-collaboration-select-new.png
+.. image:: team-collaboration-select-new2.png
 
 3. Select Provisioning Template. See this page for more information: :doc:`Provisioning Templates </admin-settings/business-group-settings/provisioning-templates/index>`
 
