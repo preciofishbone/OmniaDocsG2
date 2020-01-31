@@ -1,10 +1,11 @@
 Release Notes 3.0.0
 ========================================
 
- New features
-***********************
+New features
+----------------------------------------
 
-- New Feature: Footer
+New feature: Footer
+***********************
 
 .. image:: footer.png
 	
@@ -20,10 +21,12 @@ Here we can decide wether the position of the footer should be positioned at the
 .. image:: allow-comments-and-likes.png
 
 
- Enhancements
-***********************
+Enhancements
+------------------------------------
+
 Omnia
-----------------------------------------
+***********************
+
 - It is now possible to control which image providers can be used.
 - Added skeleton loaders to appropriate places.
 - Keyboard controls of omnia has been expanded.
@@ -32,12 +35,14 @@ Omnia
 - The omnia HTML structure is now complient with WCAG 2.1. 
 
 Web Content Management
-----------------------------------------
+***********************
+
 - New Feature: Default page type. 
 - Enhanced UI settings for blocks. 
 
 Document Management
-----------------------------------------
+***********************
+
 - It is now possible to use  the current user and/or the values from the current user's profile in queries.  
 - Document rollup can now hide specific columns.
 
