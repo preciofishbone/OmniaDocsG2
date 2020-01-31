@@ -3,17 +3,21 @@ Search
 
 Use these options for settings for general Search configuration, Quick Search and Advanced Search.
 
-.. image:: search-new.png
+.. image:: search-new-new.png
 
 Search config
 ***************
 Using the "Search config" tab you can work with Search Categories and set default Search Template.
+
+.. image:: search-config-list.png
 
 To edit a Search config, click the pen. To delete a Search config, click the dust bin.
 
 Search Categories
 -------------------
 To create a new Search Category, click the plus and use the following settings:
+
+.. image:: search-config-categories.png
 
 + **Title**: Add a title for the Search Category.
 + **Search Result Source**: Select Source from the list.
@@ -31,6 +35,7 @@ Search Templates
 Search Templates are created by developers and are simply listed here. A Search Template defines how to display a search result. If a search result happens to not match any Search Template, the Default search template is used. You can set Default search template by clicking any of the templates in the list.
 
 In this example the selected Default search template is actually named that, but any other template can be selected.
+
 .. image:: search-templates-new.png
 
 Quick Search
@@ -41,14 +46,14 @@ Quick Search is available in the Heading (can be turned off in settings):
 
 For Quick Search, the following settings are available:
 
-.. image:: quick-search-settings-new.png
+.. image:: quick-search-settings-new2.png
 
 + **Search Categories**: One or more Search Categories can be added (if more than one is available).
-+ **Row Limit**: You can set Row Limit for each Search Category. Row Limit is number of objects per Search Results "page".
++ **Row Limit**: You can set Row Limit for each Search Category. Row Limit is the number of objects per Search Results "page".
 
 Advanced Search
 *****************
-When a search has been made in Quick Search, Advanced Search is available through this link:
+When a search has been made in Quick Search, Advanced Search is available through by a link at the bottom, for example:
 
 .. image:: advanced-search-in-quick-new.png
 
@@ -60,14 +65,14 @@ To the left refiners are shown, if any are set up.
 
 Use these settings for Advanced Search:
 
-.. image:: advanced-search-new.png
+.. image:: advanced-search-new2.png
 
 + **Refiner Positions**: Select where the Refiners will be placed - Left or Right.
-+ **Search Categories**: Add one or Search Categories to use in Advanced Search.
++ **Search Categories**: Add one or more Search Categories to use in Advanced Search.
 
 Additional settings can be reached by clicking the pen for a Search Category:
 
-.. image:: advanced-search-pen.png
+.. image:: advanced-search-pen-new.png
 
 Then these settings are available:
 

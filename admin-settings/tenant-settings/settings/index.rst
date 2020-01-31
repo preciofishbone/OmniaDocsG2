@@ -3,11 +3,13 @@ Settings
 
 Here you can set the following:
 
-.. image:: tenant-settings.png
+.. image:: tenant-settings-new.png
 
 Regional Settings
 ******************
 Use these settings for languages, date and time, for the tenant. Other settings for this can be set for a Business Profile.
+
+.. image:: regional-settings.png
 
 Languages
 -----------------
@@ -17,7 +19,7 @@ You can add and remove languages here any time.
 
 Language versions of pages are handled differently. Page Variations are used for this purpose, see the heading "Variations" on this page:  :doc:`Page Settings </pages/page-settings/index>`
 
-There must always be a language selcted as Dafeault Language, in this example English (United States):
+There must always be a language selected as Default Language, in this example English (United States):
 
 .. image:: tenant-settings-language-default.png
 
@@ -51,7 +53,7 @@ Date And Time
 --------------
 For Date And Time you can set the following:
 
-.. image:: date-time.png
+.. image:: date-time-new.png
 
 Use the list to set the date format and select 24-hour or 12-hour Time Format.
 
@@ -65,7 +67,7 @@ General
 ---------
 Set Background Color and Text Color here.
 
-.. image:: tenant-header-settings.png
+.. image:: tenant-header-settings-new.png
 
 Logo
 ------
