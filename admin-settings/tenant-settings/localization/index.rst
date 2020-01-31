@@ -5,9 +5,9 @@ The localization editor is used to view translations of different labels in diff
 
 + **View Mode**: Use this list to select the output:
 
-.. image:: localization-view-mode.png
+.. image:: localization-view-mode-new.png
 
-In order to view the labels that have yet not been translated, select **have Missing Languages**.
+In order to view the labels that have yet not been translated, select **have Missing Translation**.
 
 + **Omnia Service**: Here we can select the part of omnia that we would like to view the labels of. If the purpose is translating labels, then each part needs to be translated, since each part has different labels:
 

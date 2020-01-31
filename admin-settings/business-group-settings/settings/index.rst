@@ -3,13 +3,13 @@ Settings
 
 Here the following settings can be edited:
 
-.. image:: business-profile-settings-all-new.png
+.. image:: business-profile-settings-all-v3.png
 
 Language
 *********
 Regarding Languages you can select to inherit settings from the tenant or set different Language settings here. Note that this setting is for the user interface, not for pages. See more information in the Language description for the tenant (link below).
 
-.. image:: business-language-new.png
+.. image:: business-language-new2.png
 
 To inherit Languages from the tenant, just select that option, and you're done.
 
@@ -21,7 +21,7 @@ Theme
 **************
 Use these options to set Default Colors for the Business Profile. When working with a Block, an editor can often select other Colors, but if no other Color is chosen for the Block, these settings apply.
 
-.. image:: business-profile-settings-theme-new.png
+.. image:: business-profile-settings-theme-new2.png
 
 + **Theme**: Select Theme from the list. 
 + **Primary**: If needed, you can adjust the Primary Color. 
@@ -32,7 +32,7 @@ Header
 *******
 The following settings are avaible for the Header:
 
-.. image:: business-profile-settings-header-new.png
+.. image:: business-profile-settings-header-new2.png
 
 General
 --------
@@ -80,21 +80,21 @@ Action Menu
 -------------
 The Action Menu is this part of the Heading:
 
-.. image:: action-menu-new.png
+.. image:: action-menu-startpage.png
 
 You can use these settings:
 
-.. image:: action-menu-settings.png
+.. image:: action-menu-settings-new.png
 
 + **Components**: This column lists the Components that can be displayed in the Action Menu. "My Sites" and "Notification Panel" has additional settings, see below.
 + **Display**: You can decide which Components to display, and how: "Pinned" - is default, an Icon will be displayed; "Hidden" - if you don't want the Component to be available; "Menu" - if you want to display the Component in the menu (the three standing dots) instead as an Icon.
 + **Order**:  You can decide the order for the Components you're displaying, from left to right.
 
-My Sites - additional settings
+My Teams - additional settings
 -------------------------------
-Click the cog wheel to set additional settings för My Sites. Here's what you can set:
+Click the cog wheel to set additional settings för My Teams. Here's what you can set:
 
-.. image:: my-sites-settings-new.png
+.. image:: my-sites-settings-new2.png
 
 General
 ^^^^^^^^
@@ -113,7 +113,7 @@ Site Creation Settings
 ^^^^^^^^^^^^^^^^^^^^^^^^
 Here you can set the following:
 
-.. image:: site-creation-settings-new.png
+.. image:: site-creation-settings-new2.png
 
 + **Label**: The default Label is "Create new site". You can set another Label here. Note the a Label in the default language is mandatory, set other languages if needed.
 + **Link**:  If a custom form has been created for the Create Site function, the url to the form should be put in here. This is not the same as the collaboration templates Omnia can offer.
@@ -145,7 +145,7 @@ Panel Settings - General
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 You can set the following here:
 
-.. image:: panel-settings-general-new.png
+.. image:: panel-settings-general-new2.png
 
 + **Title**: You can add a title to the App Launch menu. 
 
@@ -156,8 +156,9 @@ You can set the following here:
 + **Categories**: Select the types of links that should be displayed in App Launcher. Default = O365 App Launcher.
 + **Use targeting**: If it should be possible to use targeting for the links in App Launcher, select this option.
 + **Include Personal Links**: If Personal Links (=created by the user) should be displayed in App Launch, select this option.
++ **Include Following links**: Following links are non mandatory links that the user has chosen in his or her My Links list. If it should be possible for a block editor to select to show those links in a Quick Links block, check this box.
++ **Categories**: If it should be possible for a block editor to select to show categories in a Quick Links block, check this box.
 + **Item Limit**: Set the number of apps to be displayed on each "page" of the app list. Default=20.
-+ **Padding**: Use these options to set som padding around the app list, if needed.
 
 View Template "Simple List" example:
 
@@ -193,42 +194,27 @@ App Launcher - Header Settings
 -------------------------------
 You can set the following here:
 
-.. image:: app-launch-header.png
+.. image:: app-launch-header-new.png
 
 You can choose to use the global settings or custim settings, using the options shown in the image above.
 
-Central Image Locations
-************************
-You can set central image locations for the editors to use, mainly through the Media Picker. One or more locations can be set up in the list.
+Footer
+*******
+Use these settings to add a footer for the business profiles pages.
 
-You can also go to the Central Image Location from here, to handle the images there.
+.. image:: business-profile-footer.png
 
-.. image:: central-image-locations.png
+First select "Absolute" or ""fixed" for the footers placement, than use HTML, Css and/or Script. To add the the code and text for the footer.
 
-To add a new Central Image Location, click the plus:
+As an example, here's how it looks when you select HTML:
 
-.. image:: central-image-locations-click-plus.png
-
-Use these settings:
-
-.. image:: central-image-locations-settings.png
-
-+ **Url to Image Library**: Type or paste the Url here.
-+ **Display Name**: Add the name to be shown in the lists.
-
-Use the icons by the list, this way:
-
-Click the left most icon to go to the Image Location, for example to upload images.
-To edit the settings for an Image Location, click the pen.
-To delete an Image location, click the dust bin.
-
-.. image:: central-image-locations-delete-edit.png
+.. image:: footer-html.png
 
 Block Title
 ***************
 Use these options to set a default setting for Block Headings. Authors can edit these settings when working with Blocks, if needed.
 
-.. image:: content-header.png
+.. image:: content-header-new.png
 
 + **Title Preview**: Here you see a Preview when you make changes.
 + **Text Margin**: Set the Margin from the text to the border of the header.
@@ -237,6 +223,32 @@ Use these options to set a default setting for Block Headings. Authors can edit 
 + **Text Align**: The Header Text can be aligned left, right or middle, within the header.
 + **Separator Size**: This is spacing in pixels below the Heading Area (meaning, not just the text, but the whole Header). Default=2.
 + **Separator Color**: You can also set a Color for Separator area. Default=white.
+
+Central Image Locations
+************************
+You can set central image locations for the editors to use, mainly through the Media Picker. One or more locations can be set up in the list.
+
+You can also go to the Central Image Location from here, to handle the images there.
+
+.. image:: central-image-locations-new.png
+
+Use the icons by the list, this way:
+
+Click the left most icon to go to the Image Location, for example to upload images.
+To edit the settings for an Image Location, click the pen.
+To delete an Image location, click the dust bin.
+
+To add a new Central Image Location, click the plus:
+
+.. image:: central-image-locations-click-plus-new.png
+
+Use these settings:
+
+.. image:: central-image-locations-settings.png
+
++ **Url to Image Library**: Type or paste the Url here.
++ **Display Name**: Add the name to be shown in the lists.
+
 
 
 

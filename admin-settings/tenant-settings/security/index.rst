@@ -21,3 +21,5 @@ External users that has been invited in the Asher AD can be added here as well. 
 Secrets
 ********
 When an extension has been installed for the Business Profile, get the security key/token and enter it here. 
+
+You will most likely see "System Account" among the secrets. It's a standard extension for specialized implementations only.
