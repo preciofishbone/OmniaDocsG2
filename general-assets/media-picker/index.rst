@@ -41,8 +41,8 @@ When a bing search has been conducted, something like the following is shown:
 To select an image, double click or select the image and click "SELECT".
 
 Videos
-******
-For Videos, select the provider(s) that are set up, for example "Microsoft Stream" for your company's Office 365 Stream, or "YouTube".
+*******
+To add a video, select one of the providers that are set up, for example "Microsoft Stream" for your company's Office 365 Stream, or "YouTube".
 
 .. image:: media-picker-video-new.png
 
