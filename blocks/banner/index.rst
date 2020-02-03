@@ -32,7 +32,7 @@ You add content to a new banner this way:
 
 1. click "ADD CONTENT".
 
-.. image:: banner-add-content-new.png
+.. image:: banner-add-content-new2.png
 
 You can do this in either Write mode or Design mode.
 
@@ -42,22 +42,26 @@ The Banner Editor
 ******************
 You use the Banner Editor to edit the banner's contents. You do it the same way for existing and newly added banners. As you edit the banner you can see a preview to the right.
 
-.. image:: banner-editor-layout.png
+.. image:: banner-editor-layout-new2.png
 
 The Layout tab
 ---------------
 Here you can edit the following:
 
-+ **Layout**: Defines the Layout of the banner - "Image On Top"; Displays a big image at the top, above title, content and footer, best suitable for landscape images - "Title and Content on image"; The image covers the whole banner area, title and content are placed as an overlay; "Title on image"; In this case only the title is placed as an overlay.
++ **Layout**: Defines the Layout of the banner:
+- "Image On Top"; Displays a big image at the top, above title, content and footer, best suitable for landscape image.
+- "Title and Content on image"; The image covers the whole banner area, title and content are placed as an overlay. 
+- "Title on image"; In this case only the title is placed as an overlay.
 + **Padding**: You can set some padding for the text in the banner here.
-+ **Image**: Use this field to add an image or a video. When you click the icon to the right in the field, the Mewdia Picker opens, see: :doc:`The Media Picker </general-assets/media-picker/index>`
 + **Link**: Add the link to open, if any, when the user clicks the banner. When you click the icon to the right in the field, the Add Link general asset openes, see: :doc:`Add Link </general-assets/add-link/index>`
 + **New Window**: Defines whether the link should be opened in a new window or not.
 
 The Content tab
 ----------------
-Here you can add a title, a text and a footer, if needed. For the text some basic formatting is available. You can also add an image to the content, besides an image for the whole banner.
+Here you can add a title, an image, a text and a footer, and set colors.
 
-.. image:: banner-content-new.png
+.. image:: banner-content-new2.png
+
+Don't forget to save when you're done.
 
 
