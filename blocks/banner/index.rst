@@ -49,9 +49,9 @@ The Layout tab
 Here you can edit the following:
 
 + **Layout**: Defines the Layout of the banner:
-- "Image On Top"; Displays a big image at the top, above title, content and footer, best suitable for landscape image.
-- "Title and Content on image"; The image covers the whole banner area, title and content are placed as an overlay. 
-- "Title on image"; In this case only the title is placed as an overlay.
+    - "Image On Top"; Displays a big image at the top, above title, content and footer, best suitable for landscape image.
+    - "Title and Content on image"; The image covers the whole banner area, title and content are placed as an overlay. 
+    - "Title on image"; In this case only the title is placed as an overlay.
 + **Padding**: You can set some padding for the text in the banner here.
 + **Link**: Add the link to open, if any, when the user clicks the banner. When you click the icon to the right in the field, the Add Link general asset openes, see: :doc:`Add Link </general-assets/add-link/index>`
 + **New Window**: Defines whether the link should be opened in a new window or not.
