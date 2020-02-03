@@ -86,7 +86,7 @@ You can use these settings:
 
 .. image:: action-menu-settings-new.png
 
-+ **Components**: This column lists the Components that can be displayed in the Action Menu. "My Sites" and "Notification Panel" has additional settings, see below.
++ **Components**: This column lists the Components that can be displayed in the Action Menu. "My Teams" and "Notification Panel" has additional settings, see below.
 + **Display**: You can decide which Components to display, and how: "Pinned" - is default, an Icon will be displayed; "Hidden" - if you don't want the Component to be available; "Menu" - if you want to display the Component in the menu (the three standing dots) instead as an Icon.
 + **Order**:  You can decide the order for the Components you're displaying, from left to right.
 
