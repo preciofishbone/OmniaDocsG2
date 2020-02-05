@@ -33,6 +33,7 @@ Omnia
 - Calendar rollup has now recieved an updated design.
 - It is now possible to download customer SPFx packages from Omnia admin. The download page includes a clear guide of how to do this.
 - The Omnia HTML structure is now complient with WCAG 2.1. 
+- The My Sites action menu component has been updated with the ability to search for SharePoint sites. This allows you to find sites that are not connected to omnia as Team Collaborations. You can enable the tab from Omnia Admin.
 
 Web Content Management
 ***********************
