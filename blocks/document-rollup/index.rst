@@ -24,7 +24,7 @@ You can select "List View", "Card" and "Group by site" here. Available settings 
 
 For **List View** you can set the following:
 
-.. image:: document-rollup-settings-display.png
+.. image:: document-rollup-settings-display-new.png
 
 + **Add Column**: Select additional columns to show in the list. Icon, Title, Link and Info icon are always shown.
 + **Trim by Following Site**: If this option is selected only documents from sites the logged in user follows are displayed in the list.
@@ -37,11 +37,11 @@ For **List View** you can set the following:
 
 For **Card** view the following settings are available:
 
-.. image:: document-rollup-settings-display-card.png
+.. image:: document-rollup-settings-display-card-new.png
 
 + **Title**: Select what to show as the title: "Title", "Document Type", "Document Owner", "Published", Modified or Document Title..
 + **Modified At**: Here you select the information (field) to show for a document.
-+ **Show Modified By Info**: Select the option to show who was the last to modify the document.
++ **Modified By**: You select information (field) to show for who the document was modified by.
 + **Trim by Following Site**: If this option is selected only documents from sites the logged in user follows are displayed in the list.
 + **Sort By**: Select the column the list should be sorted by.
 + **Paging**: Select paging for the list here. It can be "No paging", "Classic" or "Scroll".
@@ -52,11 +52,11 @@ For **Card** view the following settings are available:
 
 For **Group By Site** these settings are available:
 
-.. image:: document-rollup-settings-display-group.png
+.. image:: document-rollup-settings-display-group-new.png
 
 + **Title**: Select what to show as the title: "Title", "Document Type", "Document Owner", "Published", Modified or Document Title..
 + **Modified At**: Here you select the information (field) to show for a document.
-+ **Show Modified By Info**: Select the option to show who was the last to modify the document.
++ **Modified By**: You select information (field) to show for who the document was modified by.
 + **Always Show Letter Avatar**: If letter avatars always should be shown, select this option.
 + **Trim by Following Site**: If this option is selected only documents from sites the logged in user follows are displayed in the list.
 + **Sort By**: Select the column the list should be sorted by.
@@ -153,7 +153,7 @@ The following settings are made for Query:
 
 .. image:: document-rollup-controlled-6.png
 
-Note the star (*) in the Query Field, meaning All (in this case Published Documents).
+Note the star (*) in the Query Field, meaning All (in this case Published Controlled Documents).
 
 Filter
 --------
