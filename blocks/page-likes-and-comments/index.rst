@@ -22,8 +22,6 @@ In the settings you can add a Title for the block and add som Padding:
 + **Enable Best Reply**: This is a preparation for functionality to come later.
 + **Enable Subscription**: This is a preparation for functionality to come. Not active at the moment. 
 
-Also note the formatting options, that's the Rich Text options.
-
 The tabs Layout and Advanced contain general settings, see: :doc:`General Block Settings </blocks/general-block-settings/index>`
 
 More on Likes and Comments
