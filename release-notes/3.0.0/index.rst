@@ -47,6 +47,11 @@ Document Management
 - It is now possible to use the current user and/or the values from the current user's profile in queries.  
 - Document rollup can now hide specific columns.
 
+Workplace
+***********************
+
+- Improved onboarding experience when both User Profile Completeness and a Tutorial is used.
+
 Fixes 
 ***********************
 
