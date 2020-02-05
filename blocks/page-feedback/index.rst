@@ -15,7 +15,7 @@ When the post has been sent, something like the following is shown:
 
 .. image:: page-feedback-sent.png
 
-In Write mode a page author will the see the feedback, for example:
+In Write mode a page author will see the feedback, for example:
 
 .. image:: page-feedback-writemode.png
 
