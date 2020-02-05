@@ -30,8 +30,8 @@ Omnia
 - It is now possible to control which image providers can be used.
 - Added skeleton loaders to appropriate places.
 - Keyboard controls of omnia has been expanded.
-- Calender rollup has now recieved an updated design.
-- It is now possible to download costumer SPFx packages from Omnia admin. The download page includes a clear guide of how to do dis.
+- Calendar rollup has now recieved an updated design.
+- It is now possible to download customer SPFx packages from Omnia admin. The download page includes a clear guide of how to do this.
 - The omnia HTML structure is now complient with WCAG 2.1. 
 
 Web Content Management
@@ -43,7 +43,7 @@ Web Content Management
 Document Management
 ***********************
 
-- It is now possible to use  the current user and/or the values from the current user's profile in queries.  
+- It is now possible to use the current user and/or the values from the current user's profile in queries.  
 - Document rollup can now hide specific columns.
 
 Fixes 
