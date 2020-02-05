@@ -14,7 +14,7 @@ for this feature can be found in Omnia admin > Business profile Settings > Foote
 
 .. image:: footer-settings.png
 
-Here we can decide wether the position of the footer should be positioned at the bottom of the page (absolute) or the bottom of the screen (fixed), as well as create the footer using HTML/CSS and Javascript.
+Here we can decide whether the position of the footer should be positioned at the bottom of the page (absolute) or the bottom of the screen (fixed), as well as create the footer using HTML/CSS and Javascript.
 
 - It is now possible to disable comments and/or likes for specific pages. This feature is available for users with Author permissions or higher:
 
