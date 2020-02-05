@@ -11,6 +11,20 @@ If Rich Text has been enabled, some formatting options are available, here's an 
 
 .. image:: page-feedback-rich-new.png
 
+When the post has been sent, something like the following is shown:
+
+.. image:: page-feedback-sent.png
+
+In Write mode a page author will the see the feedback, for example:
+
+.. image:: page-feedback-writemode.png
+
+The latest feeback posts are shown here. The name of the person who sent the feedback is clickable and opens that persons Delve page, where you can, for example, find contact information.
+
+The number in the top right corner indicates the total number of feedback posts. If you click that number, all posts are shown, for example:
+
+.. image:: page-feedback-all.png
+
 Settings
 **********
 The following settings are available:
