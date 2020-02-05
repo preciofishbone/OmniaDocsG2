@@ -10,7 +10,7 @@ New feature: Footer
 .. image:: footer.png
 	
 The footer is a feature that allows admins to display data at the bottom of every page throughout the business profile. The setup options 
-for this feature can be found in omnia admin > Business profile Settings > Footer. 
+for this feature can be found in Omnia admin > Business profile Settings > Footer. 
 
 .. image:: footer-settings.png
 
@@ -29,10 +29,10 @@ Omnia
 
 - It is now possible to control which image providers can be used.
 - Added skeleton loaders to appropriate places.
-- Keyboard controls of omnia has been expanded.
+- Keyboard controls of Omnia has been expanded.
 - Calendar rollup has now recieved an updated design.
 - It is now possible to download customer SPFx packages from Omnia admin. The download page includes a clear guide of how to do this.
-- The omnia HTML structure is now complient with WCAG 2.1. 
+- The Omnia HTML structure is now complient with WCAG 2.1. 
 
 Web Content Management
 ***********************
