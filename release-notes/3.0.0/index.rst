@@ -10,11 +10,11 @@ New feature: Footer
 .. image:: footer.png
 	
 The footer is a feature that allows admins to display data at the bottom of every page throughout the business profile. The setup options 
-for this feature can be found in omnia admin > Business profile Settings > Footer. 
+for this feature can be found in Omnia admin > Business profile Settings > Footer. 
 
 .. image:: footer-settings.png
 
-Here we can decide wether the position of the footer should be positioned at the bottom of the page (absolute) or the bottom of the screen (fixed), as well as create the footer using HTML/CSS and Javascript.
+Here we can decide whether the position of the footer should be positioned at the bottom of the page (absolute) or the bottom of the screen (fixed), as well as create the footer using HTML/CSS and Javascript.
 
 - It is now possible to disable comments and/or likes for specific pages. This feature is available for users with Author permissions or higher:
 
@@ -29,10 +29,11 @@ Omnia
 
 - It is now possible to control which image providers can be used.
 - Added skeleton loaders to appropriate places.
-- Keyboard controls of omnia has been expanded.
-- Calender rollup has now recieved an updated design.
-- It is now possible to download costumer SPFx packages from Omnia admin. The download page includes a clear guide of how to do dis.
-- The omnia HTML structure is now complient with WCAG 2.1. 
+- Keyboard controls of Omnia has been expanded.
+- Calendar rollup has now recieved an updated design.
+- It is now possible to download customer SPFx packages from Omnia admin. The download page includes a clear guide of how to do this.
+- The Omnia HTML structure is now complient with WCAG 2.1. 
+- The My Sites action menu component has been updated with the ability to search for SharePoint sites. This allows you to find sites that are not connected to omnia as Team Collaborations. You can enable the tab from Omnia Admin.
 
 Web Content Management
 ***********************
@@ -43,8 +44,13 @@ Web Content Management
 Document Management
 ***********************
 
-- It is now possible to use  the current user and/or the values from the current user's profile in queries.  
+- It is now possible to use the current user and/or the values from the current user's profile in queries.  
 - Document rollup can now hide specific columns.
+
+Workplace
+***********************
+
+- Improved onboarding experience when both User Profile Completeness and a Tutorial is used.
 
 Fixes 
 ***********************
