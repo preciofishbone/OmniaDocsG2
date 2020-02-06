@@ -9,11 +9,11 @@ The user can click "Strengthen Profile" to add additional information.
 
 Settings
 ***********************
-The settings available for the block are general settings only, through the Layout and Advanced tabs (but also see below):
+In the settings for the block you can add a title:
 
-.. image:: user-profile-settings.png
+.. image:: user-profile-settings-new.png
 
-For information about the general settings, see: :doc:`General Block Settings </blocks/general-block-settings/index>`
+For information about the general settings (Layout and Advanced), see: :doc:`General Block Settings </blocks/general-block-settings/index>`
 
 Settings in Omnia Admin
 **************************
