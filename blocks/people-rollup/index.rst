@@ -38,24 +38,25 @@ In the image at the top of the page, Card view is used. See below for a Roller e
 
 The following settings are available for the views:
 
-+ **Add Column**: This is not columns in columns in a table. Think: What information do I want to show about the people? You must always add at least one column or nothing will be shown!
++ **Add Column**: This is not like columns in columns in a table. You should think: What information do I want to display about the people? You must always add at least one column or nothing will be shown!
++ Adjust Columns**: Use this option the order in which the selected columns are shown.
 + **Person Name**: Select property to get the Person Name from.
 + **Show Profile Image**: Select this option to show the person's image.
 + **Slide Height**: Set the height of the area to show the content in. Available for Roller view only.
 + **Alignment Option**: Set vertical alignment for the content. Available for Roller view only.
 + **Justify Options**: Set horizontal alignment for the content. Available for Roller view only.
-+ **Show Achivements**: This option is a preparation for functionality to come. Available for Card view only.
++ **Show Achivements**: This option is a preparation for functionality to come. Not used yet. Available for Card view only.
 + **Max no of Columns**: Set the maximum number of columns to be displayed.
 + **Sort By**: Select the property to sort the list by.
 + **Paging**: Select how paging should work; “No Paging”, “Classic” or “Scroll”. See below for examples. Scroll is note applicabale for Roller view.
-+ **Item Limit**: To limit the number of items being displayed, add a fixed number here. If you set a high number (for example the default, 50) as many people as meets the query criteria is shown, up to that number. If you set a low number, that is the number of people tha list will show, regardless of how many meets the query criteria. Set 0 for no Item Limit.
++ **Page Size**: To limit the number of items being displayed per "page", add a fixed number here. Works together with Paging. 
 + **Left Zone Width, Right Zone Width**: Here you can set the width of the left and right zones manually, in pixels, if needed.
 
 Here's an example of a  Roller view, with Slide Height 150, Alignment Center, Justify Center, No Paging and Item Limit 5.
 
 .. image:: roller-view.png
 
-Here's an example of a Classic view (note the page icons at the bottom):
+Here's an example of a Card view with Classic paging (note the page icons at the bottom):
 
 .. image:: people-rollup-classic-view.png
 
@@ -69,7 +70,7 @@ Here you can work with the Query for what to display in the block.
 
 Follow these steps:
 
-1. Select Query Type, Profile Query or Activity Query.
+1. Select Query Type; "Profile Query", "Sharepoint Groups", "Activity Query" or "User Fields on Page".
 2. If you selected Activity Query, choose Activity period (also called Social Period in some other blocks). This sets how old the item can be to be displayed in the list. The default is "No limit", but you c an also select One Week, Two Weeks or One Month.
 3. Select property for the query.
 
@@ -104,11 +105,12 @@ Filter
 -------
 Use these settings to add filters for the users to use. An example could be if a People Rollup block displays all colleagues in different departments, you may want to display a filter for departments so user can display a list of only colleagues in a certain department.
 
-.. image:: peoplerollup-settings-filter-new.png
+.. image:: peoplerollup-settings-filter-new2.png
 
 + **Position**: Decide where to place the filters; top, left or right. Tip! The Top position for filters is most likely the best for this block.
 + **Add filter**: Click this button to add a filter.
 + **Show Search Box**: To display a Search Box so users can search the list, select this option.
++ **Only Search when using filter**: (A description will be added soon.)
 
 To add a new filter, do the following:
 
