@@ -23,7 +23,7 @@ The following is available here:
 + **Include Non-Mandatory Links**: If Non-Mandatory Links should be displayed, select this option. (Mandatory links are always displayed, but also see "Use Targeting", below.)
 + **Use Targeting**: Select to use targeting (meaning the targeting that was set up for the links in Omnia Admin) or not for the links you choose to display here. Effects mandatory links as well. Normally this option should be selected as there are good reasons for the targeting of certain links, but in specialized implementations it is still possible to choose to display all links, targeted or not.
 + **Include Personal Links**: If the logged in user's personal links (=created by the user) should be displayed, select this option.
-+ ** Include Following Links**: Following links are non mandatory links that the user has chosen in his or her My Links list. If such links should be shown in this block, select this option. If you also
++ ** Include Following Links**: Following links are non mandatory links that the user has chosen in his or her My Links list. If such links should be shown in this block, select this option. 
 + **Categories**: Shared links can be categorized. Select to show one or more categories here. If no selection is made, all categories are shown.
 + **Item Limit**: Set the number of links to be shown per "page" in th list.
 + **Padding**: You can set padding between the block border and the list using these settings.
