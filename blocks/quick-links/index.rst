@@ -26,7 +26,7 @@ The following is available here:
 + ** Include Following Links**: Following links are non mandatory links that the user has chosen in his or her My Links list. If such links should be shown in this block, select this option. If you also
 + **Categories**: Shared links can be categorized. Select to show one or more categories here. If no selection is made, all categories are shown.
 + **Item Limit**: Set the number of links to be shown per "page" in th list.
-+ **Padding**: You can set padding between the block border and the list using this settings.
++ **Padding**: You can set padding between the block border and the list using these settings.
 
 Custom Colors
 --------------
