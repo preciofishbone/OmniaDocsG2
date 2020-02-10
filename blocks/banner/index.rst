@@ -62,6 +62,10 @@ Here you can add a title, an image, a text and a footer, and set colors.
 
 .. image:: banner-content-new2.png
 
+Regarding the content - the formatting options can vary depending on settings for Limited RTF done in Omnia Admin, see the heading "RTF Editor" on this page: :doc:`Tenant Settings </admin-settings/tenant-settings/settings/index>`
+
+When you click the icon to add an image, the media picker starts, see this page for more information: :doc:`The Media Picker </general-assets/media-picker/index>`
+
 Don't forget to save when you're done.
 
 

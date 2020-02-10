@@ -49,6 +49,11 @@ Some default blocks can already be in place for the Page Type, and besides that 
 .. image:: new-page-example-new.png
 
 7. Add Property information as needed. 
+
+Available properties and if they are mandatory or not, is set up in settings for the Page Type.
+
+Page Contact and Review Date are two common properties. The page contact is considered to be the page owner an receives page feedback, if applicable. Review Date is just a date for a reminder that it may be time to review the page in case it needs an update. Set the Review as you see fit, but a review at least once a year is probably a good idea.
+
 8. Click "Next" to go the next Wizard step.
 
 .. image:: new-page-properties-next-new.png
