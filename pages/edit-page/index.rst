@@ -116,7 +116,7 @@ If needed, you can edit the Page Properties, if you have Editor permissions.
 
 Save or discard changes
 ************************
-When you're ready editing a page you must save your changes, or discard them if you don't want to keep them.
+When you're finished editing a page you must save your changes, or discard them if you don't want to keep them.
 
 Use the options at the bottom to do that:
 
