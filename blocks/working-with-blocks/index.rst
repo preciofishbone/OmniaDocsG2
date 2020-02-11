@@ -86,7 +86,7 @@ You edit the settings the same way as you do in the block's settings, see the de
 
 Layout
 --------
-Use the Layout tab if you want the hide the block for the device. Here's how you do that:
+Use the Layout tab if you want to hide the block for the device. Here's how you do that:
 
 1. Click the Layout tab.
 2. Click the pen to edit the Visibilty setting.
@@ -113,7 +113,7 @@ To remove a block. do the following:
 
 Editing contents of a block
 ****************************
-To work with blocks as is described above a user needs the permissions to use Design Mode. Some page editors can have different permissions and are in that case only permitted to use Write mode, to edit the contents of a block.
+To work with blocks as is described above a user needs the permissions to use Design Mode (Editor). Page Authors are not allowed to use Design mode, but can use Write mode to edit the contents of a block.
 
 .. image:: write-mode-new.png
 
