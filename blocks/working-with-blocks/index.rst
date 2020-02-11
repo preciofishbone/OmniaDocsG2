@@ -32,7 +32,7 @@ Information about how to change specific settings for a block is found in the bl
 
 Moving a block
 ***************
-Do the following to move a block.
+Do the following to move a block tp another placement on the page.
 
 1. Click the block.
 2. Click the Move icon.
@@ -45,6 +45,22 @@ Icons now show where you can move the block, for example:
 
 3. Click the icon where you want the block and it's moved there.
 
+Copying a block
+****************
+If you need a block with roughly the same settings somewhere else on the page, you can copy a block and place the copy where you want it, and then edit the settings. Do the following:
+
+1. Click the block.
+2. Click the Copy icon.
+
+.. image:: copy-icon.png
+
+Icons now show where you can move the block, the same way as when you move a block, for example:
+
+.. image:: block-can-be-copied.png
+
+3. Click the icon where you want the copied block and it's placed there.
+4. Edit the settings that you want to change.
+
 Show the block or not on different devices
 ********************************************
 When you're working on a block you can select to show it on different devices or not.
@@ -56,9 +72,30 @@ Click this icon:
 Then you can decide on which devices to show this block.
 
 1. Click the device you want to change settings for.
-2. Select "Layout".
+2. Click "Enable display breakpoint settings.
 
-.. image:: device-select-new.png
+.. image:: device-click-enable.png
+
+Settings
+---------
+A number of settings are now shown, that you can alter for the selected device specifically. Available settings differ depending on the block. Here's an example:
+
+.. image:: device-settings-edit.png
+
+You edit the settings the same way as you do in the block's settings, see the description of the block.
+
+Layout
+--------
+Use the Layout tab if you want the hide the block for the device. Here's how you do that:
+
+1. Click the Layout tab.
+2. Click the pen to edit the Visibilty setting.
+
+.. image:: device-visibility.png
+
+3. Select Hide block.
+
+.. image:: device-hide.png
 
 Removing a block
 *****************
