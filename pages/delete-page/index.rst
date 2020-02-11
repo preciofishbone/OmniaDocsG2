@@ -5,7 +5,7 @@ When working with the navigation you can delete a page that is no longer needed.
 
 Here's how to delete a page:
 
-1. Go to the page (if it's a page you haven't publishes you must open the edit navigation).
+1. Go to the page (if it's a page you haven't published you must edit any page and then open the edit navigation to go to the page to delete).
 2. Open the action menu at the bottom right.
 
 .. image:: delete-action-menu-new.png
