@@ -40,6 +40,7 @@ Web Content Management
 
 - New Feature: Default page type. 
 - Enhanced UI settings for blocks. 
+- Possible to have date or datetime for page properties.
 
 Document Management
 ***********************
