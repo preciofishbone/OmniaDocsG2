@@ -62,7 +62,7 @@ A preview is now shown. Note that you can test how the News article will look on
 
 .. image:: news-publish.png
 
-If you decide to publish you can choose to publish now but clicking "Publish", or you can use "Scheduled Publishing", if available, to set a date and time for the publication.
+If you decide to publish you can choose to publish now by clicking "Publish", or you can use "Scheduled Publishing", if available, to set a date and time for the publication.
 
 To schedule Publishing, click here:
 
