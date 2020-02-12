@@ -13,6 +13,7 @@ In this part of the documentation you will find information concerning how to wo
    edit-page/index
    language-versions-of-a-page/index
    publish-page-changes/index
+   version-history/index
    page-approval/index
    edit-page-navigation/index
    page-types/index
