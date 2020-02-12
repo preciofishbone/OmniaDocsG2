@@ -38,11 +38,11 @@ To publish a page, do the following:
 
 .. image:: click-publish-new2.png
 
-If approval hase been activated you must instead send for approval and the button's label indicates that:
+If approval has been activated you must instead send for approval and the button's label indicates that:
 
 .. image:: send-for-approval-button-new.png
 
-Fore more information about Page Approval, see: :doc:`Page Approval </pages/page-approval/index>`
+Fore more information about Page Approval, see: :doc:`Approve Pages </pages/page-approval/index>`
 
 Scheduled Publishing
 *********************
