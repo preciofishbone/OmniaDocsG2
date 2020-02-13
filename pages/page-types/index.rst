@@ -1,11 +1,11 @@
 Page Types
 ==================
 
-An administrator or an editor with the correct permissions can work with Page Types. A page type contains sections where blocks can be placed for content. Sections can be targeted.
+If you are Publishing App administrator you can work with Page Types. A page type contains sections where blocks can be placed for content. Sections can be targeted.
 
 Some blocks can be added to a page type so they are a part of the layout presented to editors of a page based on the Page Type. See the bottom of this page for more information on blocks that belong to the Page Type.
 
-When a new page is created, the editor can choose page type from any available in the page type list.
+When a new page is created, the Editor or Author can choose page type from any available in the page type list.
 
 Edit a Page Type
 *****************
