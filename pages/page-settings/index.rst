@@ -1,7 +1,9 @@
 Publishing App settings
 ===========================================
 
-When editing page, a number of Publishing App settings are available by clicking here:
+When editing page, a number of Publishing App settings are available. You have to be Publishing App administrator to use them.
+
+Open the Publishing App setting by clicking here:
 
 .. image:: page-settings.png
 
