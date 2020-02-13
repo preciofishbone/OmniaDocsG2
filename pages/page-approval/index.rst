@@ -34,7 +34,7 @@ An e-mail is now sent to the approver(s) and the request is also placed in the P
 
 Approve or reject
 *******************
-An approver uses this list, found under "Reports" in the Navigation tree when editing pages,s to approve or reject a page approval:
+An approver uses this list, found under "Reports" in the Navigation tree, when editing pages to approve or reject a page approval:
 
 .. image:: pending-approval-list-new.png
 
@@ -50,7 +50,7 @@ To approve or reject publication of a page, do the following:
 3. If you Click "Approve" the page is published. 
 3. If you click "Reject" the page is not published and you add a message to the editor:
 
-.. image:: aproval-reject-new.png
+.. image:: aproval-reject.png
 
 4. Click "Send" to send the message to the editor.
 
