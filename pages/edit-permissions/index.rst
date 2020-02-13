@@ -1,7 +1,7 @@
 Edit Permissions for a page
 =============================
 
-Default settings is that the same read or edit permissions apply to all pages, but that can be edited if needed. If you change permissions for a pahe that has sub pages, all the sub pages gets the new permissions.
+Default settings is that the same edit permissions apply to all pages, but that can be changed if needed. If you change permissions for a page that has sub pages, all the sub pages gets the new permissions (they inherit tha permissions settings from the main page).
 
 Do the following:
 
@@ -13,18 +13,16 @@ Do the following:
 
 Omnia works with inheritance, just as Sharepoint does, so the first thing you have to do is:
 
-4. Click to break permission inheritance
+4. Click to break permission inheritance.
 
 .. image:: page-select-permissions-inheritance.png
 
 You can now set the following permissions, for this page and all sub pages:
 
 + **Editor**: Can create, delete and move pages and nodes, can use both Design mode and Write mode and can edit permissions here.
-+ **Author**: Can create pages and can use Write mode.
++ **Author**: Can create pages and can use Write mode to edit contents in some blocks.
 
-**Note!** Page Collection administrators and Publishing App administrators are always permitted to edit pages (Eitor permissions) but it's not set up automatically, so these administrators must open the permissions as described here, and add themselves to the list, if the should work with pages.
-
-Editor permissions must be set but not necessarily Author permissions. It's up to the specific Omnia implementation to decide.
+**Note!** Page Collection administrators and Publishing App administrators are always permitted to work with pages (Editor permissions). They don't need to be added here.
 
 5. To add an Editor or an Author, just open the list en select the user.
 
