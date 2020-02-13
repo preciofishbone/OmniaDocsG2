@@ -16,6 +16,7 @@ In this part of the documentation you will find information concerning how to wo
    version-history/index
    page-approval/index
    edit-page-navigation/index
+   edit-permissions/index
    page-types/index
    page-settings/index
    page-statistics/index
