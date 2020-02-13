@@ -44,7 +44,7 @@ For the next steps when you create a template for Team Collaboration, you can se
 
 + **Type**: Select template to base the new template on; "Office 365 Group, Sharepoint Team Site", "Sharepoint Communication Site", "Yammer Group" or "Facebook Workplace Group". This can be changed when an existing Provisioning Template is edited.
 
-The following settings are available for a Office 365 Group:
+The following settings are available for an Office 365 Group:
 
 + **Site Design**: Here templates can be available, templates made according to Microsoft's standard for Site Design. Such templates can be used in Omnia.  Not mandatory. If no such templates are available, the list is empty.
 + **Languages**: Select Language to be used for system texts in the site.
