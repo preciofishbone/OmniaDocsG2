@@ -117,9 +117,11 @@ To work with blocks as is described above a user needs the permissions to use De
 
 .. image:: write-mode-new.png
 
-Examples of blocks where the contents can be edited using Write mode are:
+Examples of blocks where the contents can be edited using Write mode:
 
++ Accordion
 + Banner
++ HTML/Script
 + Media
 + Related Links
 + Text
