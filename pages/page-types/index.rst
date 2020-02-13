@@ -97,7 +97,7 @@ Style
 ------
 This can be set for Style, for the active section:
 
-.. image:: page-types-style-new.png
+.. image:: page-types-style.png
 
 + **Minimum Height**: You can make sure that this section always has a minimun height, regardless of what is shown in the section. Set the height in pixels here.
 + **Background color**: A default background color for sections are set in Omnia Admin. You can set another background color for this section here, if needed.
