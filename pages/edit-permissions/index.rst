@@ -1,8 +1,6 @@
 Edit Permissions for a page
 =============================
 
-(Documentation just started, will be finiesh soon.)
-
 Default settings is that the same read or edit permissions apply to all pages, but that can be edited if needed. If you change permissions for a pahe that has sub pages, all the sub pages gets the new permissions.
 
 Do the following:
@@ -24,9 +22,9 @@ You can now set the following permissions, for this page and all sub pages:
 + **Editor**: Can create, delete and move pages and nodes, can use both Design mode and Write mode and can edit permissions here.
 + **Author**: Can create pages and can use Write mode.
 
-**Note!** Page Selection administrators and Publishing App administrators are always permitted to edit pages (Eitor permissions) but it's not set up automatically, so these administrator must open the permissions as described here, and add themselves to the list.
+**Note!** Page Collection administrators and Publishing App administrators are always permitted to edit pages (Eitor permissions) but it's not set up automatically, so these administrators must open the permissions as described here, and add themselves to the list, if the should work with pages.
 
-Editor permissions must be set but not necessarily Author permissions. It's up to the specific implementation to decide.
+Editor permissions must be set but not necessarily Author permissions. It's up to the specific Omnia implementation to decide.
 
 5. To add an Editor or an Author, just open the list en select the user.
 
