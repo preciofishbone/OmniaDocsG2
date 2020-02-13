@@ -44,24 +44,24 @@ For the next steps when you create a template for Team Collaboration, you can se
 
 + **Type**: Select template to base the new template on; "Office 365 Group, Sharepoint Team Site", "Sharepoint Communication Site", "Yammer Group" or "Facebook Workplace Group". This can be changed when an existing Provisioning Template is edited.
 
-The following settings are available for Office 365 Group:
+The following settings are available for a Office 365 Group:
 
-+ **Site Design**: If creating a Template for an Onboarding project, select that design. 
++ **Site Design**: Here templates can be available, templates made according to Microsoft's standard for Site Design. Such templates can be used in Omnia.  Not mandatory. If no such templates are available, the list is empty.
 + **Languages**: Select Language to be used for system texts in the site.
 + **User can select language**: Select this option to enable Language selection by the user creating the site.
 + **Time Zones**: Select the correct Time Zone here.
 + **Location**: Select location for the sites created from this template. For a site collection site, you can select to create sites from this template in any of the managed paths, normally either /sites or /teams. Not available for Office 365 Groups.
 + **Privacy**: For 365 Groups you can select either "Private" or "Public". The text in the selections explains the difference.
 
-The following settings are available for Sharepoint Team Site and for Sharepoint Communication Site:
+The following settings are available for a Sharepoint Team Site and for a Sharepoint Communication Site:
 
-+ **Site Design**: If creating a Template for an Onboarding project, select that design. 
++ **Site Design**: (See above for a description).
 + **Languages**: Select Language to be used for system texts in the site.
 + **User can select language**: Select this option to enable Language selection by the user creating the site.
 + **Time Zones**: Select the correct Time Zone here.
 + **Location**: Select location for the sites created from this template. For a site collection site, you can select to create sites from this template in any of the managed paths, normally either /sites or /teams. Not available for Office 365 Groups.
 + **Primary Site Collection Administrator**: If empty, the user creating or requesting the site will automatically become the Default Administrator (Owner) of the site. If a specific group or user should be administrator for all sites created from this template, add that group or user. Only on group or user can be added in this field.
-+ **Default Site Collection Administrators**: You can (several) additional administrators here, if needed.
++ **Default Site Collection Administrators**: You can add (several) additional administrators here, if needed.
 + **Default Visitors**: You can use this to set a default visitor group (read permissions) to all sites created from this template. Let's say it's a template for community pages - then probably all users of the intranet should have read permission to all pages in the site. 
 
 The following setting is available for a Yammer Group Template:
