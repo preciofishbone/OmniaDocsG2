@@ -3,21 +3,40 @@ Edit Permissions for a page
 
 (Documentation just started, will be finiesh soon.)
 
-Default settings is thatthe same read or edit permissions apply to alla pages, but that can be edited if needed.
+Default settings is that the same read or edit permissions apply to all pages, but that can be edited if needed. If you change permissions for a pahe that has sub pages, all the sub pages gets the new permissions.
 
 Do the following:
 
-1. Go to the page where you need to edit pemissions.
-2. Open the menu and select "Edit Navigation".
+1. Open Edit Mode.
+2. Select the page where you need to edit permissions.
+3. Open the menu and select "Permissions".
 
-.. image:: selevt-edit-navigation-new.png
+.. image:: page-select-permissions.png
 
-Here you can do the following:
+Omnia works with inheritance, just as Sharepoint does, so the first thing you have to do is:
 
-.. image:: select-edit-navigation-new2.png
+4. Click to break permission inheritance
 
-+ **Title**: Change the title to be shown in the navigation. (The Title shown on the page or when searching will not be changed.) If no variations exist for the page, you can set the title in all languages active in the tenant, as is the case in the image above. If there are variations for the page, the variation settings handles different versions of the title.
-+ **Url**: The url to the page is shown here. It can be edited if needed, but changing the url must be considered as a rare case.
-+ **Show in Mega Menu**: Per default the navigation node is shown in the Mega Menu (Top Menu). Deselect if you don't want to show it there.
-+ **Show in Current Navigation**: Per default the navigation node is shown in the Current Navigation (Left Navigation). Deselect if you don't want to show it there.
-+ **Open in New Windows**: Select this option if the link should be opened in a new browser window.
+.. image:: page-select-permissions-inheritance.png
+
+You can now set the following permissions, for this page and all sub pages:
+
++ **Editor**: Can create, delete and move pages and nodes, can use both Design mode and Write mode and can edit permissions here.
++ **Author**: Can create pages and can use Write mode.
+
+**Note!** Page Selection administrators and Publishing App administrators are always permitted to edit pages (Eitor permissions) but it's not set up automatically, so these administrator must open the permissions as described here, and add themselves to the list.
+
+Editor permissions must be set but not necessarily Author permissions. It's up to the specific implementation to decide.
+
+5. To add an Editor or an Author, just open the list en select the user.
+
+.. image:: page-permissions-select-user.png
+
+You can also search for users the same way as in other people lists.
+
+6. To remove a user from one of the list, click the x. 
+
+.. image:: page-permissions-remove-user.png
+
+7. Click "SAVE" when you're done. (If you don't want to save, just close the window to ignore the changes).
+
