@@ -1,9 +1,9 @@
 Publishing App settings
 ===========================================
 
-When editing page, a number of Publishing App settings are available. You have to be Publishing App administrator to use them.
+A number of Publishing App settings are available. You have to be Publishing App administrator to use them.
 
-Open the Publishing App setting by clicking here:
+Open the Publishing App settings by clicking here:
 
 .. image:: page-settings.png
 
@@ -11,7 +11,7 @@ General
 *********
 Set the following here:
 
-.. image:: page-settings-general-new2.png
+.. image:: page-settings-general-new3.png
 
 + **Default Page Collection**: The default Page Collection for the page can be set here.
 + **Connected Sharepoint Site**: The address to the Sharepoint Site is shown here.
@@ -23,9 +23,12 @@ Set the following, needed for page reports to work:
 
 Permissions
 ************
-Use these settings for edit permissions in the Publishing App. 
+Use these settings to Edit permissions in the Publishing App. 
 
-.. image:: page-settings-permissions-new.png
+.. image:: page-settings-permissions-new2.png
+
++ **Administrators**: Add and remove Publishing App administrators here as needed.
++ **Resource Readers**: Here you set the general Read permission for the Publishing App, needed for users to be able to read pages.
 
 Note that this permissions setting is valid for these settings only. To be able to edit Publishing App settings in Omnia Admin you need to be either a tenant administrator or administrator for the Business Profile.
 
@@ -35,44 +38,37 @@ Variations
 ************
 Here you set up the Page Variations to use in the Publishing App.
 
-.. image:: page-settings-variations-new.png
+.. image:: page-settings-variations-new2.png
 
-Create a new Page Variation
--------------------------------
-To create a new variation for this page, do the following:
+You see the variations that has been set up so far, with information about for example targeting.
 
-1. Go to the page.
-2. Open the Pusblishing App Settings and select "VARIATIONS".
-3. Click "ADD VARIATION".
+To edit the settings for a variation, click the pen. To delete a variation, click the dust bin.
 
-.. image:: page-settings-variatins-click-add-new.png
+.. image:: page-settings-variations-edit-delete.png
 
-4. Add settings for the new Page Variation (see below).
-5. Target the Page Variation, if needed (se below for instruction).
-6. Click "OK" to create the Page Variation.
+When you edit a variation, the same settings as when you create a new variation are available, see below.
 
-Edit the settings for a Page Variation
------------------------------------------
-To edit the settings for a Page Variation, do the following:
+Create a new variation
+-----------------------
+Note that you can use Variations for a lot of implementations, not just languages, even if that is probably the most common.
 
-1. Go to the page.
-2. Open the Page Settings and select "VARIATIONS".
-3. Click the pen for the Page Variation.
+1. Click "ADD VARIATION".
+2. Use the following settings.
 
-.. image:: page-settings-variatins-edit-new.png
+.. image:: variations-new.png
 
-4. Edit settings for the new Page Variation and click "OK" to save the changes.
++ **Title**: Add a title for the variation to be shown in the lists, for example the list where users can select variation. If needed, the title can be added in any or all of the languages set up in the tenant. 
++ **Icon Type**: Select the Icon Type here, for excample "Flags".
++ **Icon**: Selevt the icon (for exemple the flag) here.
++ **Url Segment**: Add a suitable Url Segment in this field.
++ **Add Targeting Filter**: To set up targeting for this variation, click here. It is not mandatory. See below for more information.
 
-Edit contents of a Page Variation
---------------------------------------
-When more than one variation of the page exists, the editor can select variation to work with in the list, in the lower left corner:
-
-.. image:: select-variation-new2.png
-
-Editing a Page Variation works exactly the same as editing a "normal" page.
+Languages used for Titles, or for targering must be set in the Tenant Settings, see the heading "Languages" on this page: :doc:`Tenant Settings </admin-settings/tenant-settings/settings/index>`
 
 Targeting a Page Variation
 ----------------------------
+Use targeting for a variation to set which variation of a page that will be displayed to the logged in user. Note that if a Variation Selector block is added to a page, users can always select any of the available variations. This is true even if no targeting is set up. See this page for information about the Variation Selector block: :doc:`Variation Selector </blocks/variation-selector/index>`
+
 **Note!** The Targeting Properties to use must be set up in Omnia Admin, see the section about Targeting Properties on this page: :doc:`Properties </admin-settings/tenant-settings/properties/index>`
 
 To target a Page Variation, do the following: 
@@ -96,13 +92,27 @@ Note that the targeting settings also are shown in the Variations list, for exam
 
 .. image:: page-variation-example-new2.png
 
-Statistics
------------
-For more advanced statistics in Omnia, this is the place to add the scripts you get from your statistics provider. 
+Edit contents of a Page Variation
+--------------------------------------
+When more than one variation of the page exists, an editor can select variation to work with in the list, in the lower left corner:
 
-.. image:: page-settings-statistics.png
+.. image:: select-variation-new2.png
+
+If no variation exists yet for the page, the editor can select to create one.
+
+Editing a Page Variation works exactly the same way as editing a "normal" page.
+
+Statistics
+*************
+For more advanced statistics in Omnia, this is the place to add the scripts you get from your statistics provider, for example: 
+
+.. image:: page-settings-statistics-new.png
 
 Don't forget to save. The "Save" button is located in the lower right corner.
+
+Advanced
+**********
+This tab is a preparation for functionality to come. Can't be used at the moment.
 
 
 
