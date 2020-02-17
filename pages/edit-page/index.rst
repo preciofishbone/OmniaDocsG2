@@ -1,9 +1,13 @@
 Edit a page
 ===========================================
 
+To be able to edit a publishing page you need to have Editor permissions for that page. Then you can use Design mode to add, move and remove blocks and edit contents. If you have Author permissions you can edit contents in some blocks.
+
+**Note!** To be able to edit the start page you must have Page Collection permissions.
+
 When you need to edit a publishing page, do the following:
 
-Click the Edit button to enter Edit mode:
+Click the Edit button:
 
 .. image:: enter-edit-mode-new.png
 
