@@ -36,11 +36,11 @@ Regarding these settings a tenant administrator and business profile administrat
 
 Variations
 ************
-Here you set up the Page Variations to use in the Publishing App.
+Here you set up the Page Variations that should be possible to use in the Publishing App. It's then up to Page Editors to use a variation, or not, for a page. A page variation is created for a page when it's needed.
 
 .. image:: page-settings-variations-new2.png
 
-You see the variations that has been set up so far, with information about for example targeting.
+You see the variations that has been set up so far, with information about for example targeting. A "Variaton" in the tenant's default language is also listed here - note the green label in the image above. For all pages, a variation with the default language must always exist. That is what is added when a page is created the first time..
 
 To edit the settings for a variation, click the pen. To delete a variation, click the dust bin.
 
@@ -51,6 +51,8 @@ When you edit a variation, the same settings as when you create a new variation 
 Create a new variation
 -----------------------
 Note that you can use Variations for a lot of implementations, not just languages, even if that is probably the most common.
+
+Do the following to create a new variation:
 
 1. Click "ADD VARIATION".
 2. Use the following settings.
@@ -75,22 +77,22 @@ To target a Page Variation, do the following:
 
 1. Click "Add Targeting Filter" when editing a Page Variation's settings.
 
-.. image:: page-variation-add-targeting-new.png
+.. image:: page-variation-add-targeting-new2.png
 
 2. Select Targeting Property from the list. 
 3. As the next step you can select to include all Children, or you can target one or more of the Children specifically. 
 
-Here's an example with the Sweden and Denmark offices selected for the Office property.
+Here's an example which will see to that all users that has French set as preferred language will see the French variation of the page.
 
-.. image:: page-targeting-sweden-new.png
+.. image:: page-targeting-french.png
 
 4. Click "OK" to save your changes.
 
-You can add as many Targeting Properties for a Variation as is needed, this way. To remove a target, just click the X.
+You can add as many Targeting Properties for a Variation as is needed, this way (and remember that variations can be a lot more than just languages). To remove a target, just click the X.
 
 Note that the targeting settings also are shown in the Variations list, for example:
 
-.. image:: page-variation-example-new2.png
+.. image:: page-variation-example-new3.png
 
 Edit contents of a Page Variation
 --------------------------------------
@@ -99,6 +101,8 @@ When more than one variation of the page exists, an editor can select variation 
 .. image:: select-variation-new2.png
 
 If no variation exists yet for the page, the editor can select to create one.
+
+.. image:: variation-create-page.png
 
 Editing a Page Variation works exactly the same way as editing a "normal" page.
 
