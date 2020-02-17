@@ -110,7 +110,7 @@ Use these settings to add filters for the users to use. An example could be if a
 + **Position**: Decide where to place the filters; top, left or right. Tip! The Top position for filters is most likely the best for this block.
 + **Add filter**: Click this button to add a filter.
 + **Show Search Box**: To display a Search Box so users can search the list, select this option.
-+ **Only Search when using filter**: (A description will be added soon.)
++ **Only Search when using filter**: Select this to always start with an empty list. Users must always search or select a filter for any people posts to be listed.
 
 To add a new filter, do the following:
 
