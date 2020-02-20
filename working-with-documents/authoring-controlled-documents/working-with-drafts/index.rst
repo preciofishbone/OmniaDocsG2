@@ -148,23 +148,23 @@ Published documents as Appendices - Copy from other document
 ---------------------------------------------------------------
 Another option is to add a copy of a published document as an Appendice. All published documents are available to select as appendices.
 
-**Note!** In this case it is a copy of a document that will be added. There is no link between the published document and the copy, so if a new edition of the Appendice document is published, the copy used as an appendix is NOT updated.
+**Note!** In this case it is a copy of a document that will be added. There is no link between the published document and the copy, so if a new edition of the Appendice document is published, the copy used as an appendix is NOT updated. You have to add the published document again to update the appendice.
 
 1. Open the dot menu for the document where you want to add appendices, and select "Appendices".
 2. Click "Copy from other Document" in the window shown.
 
-.. image::  upload-copy-1.png
+.. image::  upload-copy-1-new.png
 
 The following is shown:
 
-.. image:: upload-copy-2.png
+.. image:: upload-copy-2-new.png
  
 3. Search for the document. 
 4. Select the document(s) to add (a copy of) as appendice(s).
 5. Choose to overwrite existing appendices or not. This option is useful if a new version of a document you use as a appendice has been published and you want to replace the old copy with the new edition.
 6. Click "Copy".
 
-.. image:: upload-copy-3.png
+.. image:: upload-copy-3-new.png
  
 The documents added to the Appendices list this way is handled exactly the same way as a document uploaded as an appendix, see above. (And remember that it is a copy of the original document.)
 
@@ -178,17 +178,17 @@ To create a new draft of a published document, do the following:
 2.	Click the dot menu for the document.
 3.	Select "Create Draft".
 
-.. image:: create-draft-1.png
+.. image:: create-draft-1-new.png
 
 4. Select which edition to base the new draft on.
 
-.. image:: create-draft-2.png
+.. image:: create-draft-2-new.png
 
 As you see you can even upload a document to base the new draft on. This can be useful for example when you want to publish a new edition of a document you have uploaded as it is. Perhaps you have received a new version of a document from a supplier?
 
-If you select "Previous Edition", you can select which of the previous published editions you want to base the new Draft on. If you want to have a look at that edition before deciding, you can download a copy of the previous edition you selected in the list, by clicking this icon:
+If you select "Previous Edition", you can open the list and select which of the previous published editions you want to base the new Draft on. If you want to have a look at that edition before deciding, you can download a copy of the previous edition you selected in the list, by clicking this icon:
 
-.. image:: create-draft-3.png
+.. image:: create-draft-3-new.png
 
 5. When you're done there, click "Create Draft".
 
