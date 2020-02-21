@@ -19,11 +19,11 @@ Add video or image
 ********************
 To add the image or video, click "ADD IMAGE".
 
-.. image:: media-block.png
+.. image:: media-block-new.png
 
 You then use the Media Picker to select image or video. 
 
-.. image:: media-picker.png
+.. image:: media-picker-new-media.png
 
 See this page for more information: :doc:`The Media Picker </general-assets/media-picker/index>`
 

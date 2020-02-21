@@ -17,9 +17,9 @@ Do the following to create a new Controlled Document:
 
 1. Click "Add" and select "New".
 
-.. image:: new-controlled-document-1.png
+.. image:: new-controlled-document-1-new.png
 
-.. image:: new-controlled-document-2.png
+.. image:: new-controlled-document-2-new.png
 
 The Create New Document Wizard starts and you use ut to create the document. See this page for information on how to use the wizard: :doc:`Using the Document Wizard </working-with-documents/using-the-document-wizard/index>`
 
@@ -33,16 +33,16 @@ Do the following to upload a document:
 
 1. Click "Add" and select "Upload".
 
-.. image:: upload-document-1.png
+.. image:: upload-document-1-new.png
 
 2. Use drag and drop or click "Browse" to select one or more documents to upload.
 
-.. image:: upload-document-2.png
+.. image:: upload-document-2-new.png
 
-3. If you need to edit a file name, just click it and type the new file name.
-4. Click "Upload".
+3. If you selected a document by mistake, just click the x to remove it from teh list..
+4. Click "UPLOAD FILES".
 
-.. image:: upload-document-3.png
+.. image:: upload-document-3-new.png
 
 Edit a document's properties
 *****************************
@@ -52,48 +52,48 @@ Do the folllowing:
 
 1. Select the document and click "Properties".
 
-.. image:: edit-properties-1-new.png
+.. image:: edit-properties-1-new2.png
 
 If this option is not shown you can open the dot menu for the document and select "Properties" there.
 
 If your doing this for an uploaded document that is not connected to a template you can now select template.
 
-2. Select language if needed.
+2. Select language if needed, to see the correct list of templates.
 
-.. image:: edit-properties-2b.png
+.. image:: edit-properties-2b-new.png
 
 3. Select a template to connect to the uploaded document. To see a list of all available templates, click "Show All".
 
-Now properties for the document are shown (and this is what is shown for a document you have created), and it differs depending on the template (or rather the Document Type the template belongs to). Here's an example:
+Now properties for the document are shown (and this is what is shown for a document you have created). It differs depending on the template (or rather the Document Type the template belongs to). Here's an example:
 
-.. image:: edit-properties-2.png
+.. image:: edit-properties-2-new.png
 
 **Note!** You can even choose another template for the document here, if needed. Click the x for the existing template and select another template. Don't forget to select language if needed.
 
 3. Edit the properties as needed and save.
 
-Transfer a document
+Move a document
 ************************
-You can transfer a document, or several if you like, from any other Documents library in this Team Site, to the Controlled Documents library, and thus make them a Controlled Documents Draft.
+You can move a document, or several if you like, from any other Documents library in this Team Site, to the Controlled Documents library, and thus make them a Controlled Documents Draft.
 
 Do the following:
 
-1. Click "Add" and select "Transfer".
+1. Click "Add" and select "Move".
 2. Open the library.
 
-.. image:: draft-move-2.png
+.. image:: draft-move-2-new.png
 
 3. Open a folder if needed.
 4. Select one or more documents to move.
-5. Click "Get Document".
+5. Click "MOVE DOCUMENT".
 
-.. image:: draft-move-3.png
+.. image:: draft-move-3-new.png
 
 Now the selected document(s) are moved from the original Documents library and into the Controlled Documents library as drafts.
 
 Upload Appendices
 *******************
-To upload documents to use as appendices to another document, the main upload option should not be used. (But you can alos use Published Documents as appendices, see below.)
+To upload documents to use as appendices to another document, the main upload option should not be used. (But you can also use Published Documents as appendices, see below.)
 
 Note that work with appendices (uploading new ones, deleting existing) can only be done when you are working on a draft of the document. If a document is sent for comments or for approval, appendices can not be uploaded to that document. 
 
@@ -101,17 +101,19 @@ Also note that a Document Type contains a setting that states if appendices are 
 
 An icon indicates if appendices are attached to a document, and states the number of appendices, and if the "Appendices" column is shown, information about the number of appendices is shown there as well. Here's an example:
 
-.. image:: appendix-example.png
+.. image:: appendix-example-new.png
+
+???????????????????????????????????????????????
 
 Upload or delete appendices this way:
 
-1.	Open the dot menu for the document to add appendices to.
+1.	Open the dot menu for the document to add appendices to. 
 
-.. image:: upload-appendice-1.png
+.. image:: upload-appendice-1-new.png
 
 2. Select "Appendices".
 
-.. image:: upload-appendice-2.png
+.. image:: upload-appendice-2-new.png
 
 A list of existing appendices is now shown, if any. You can now upload a new appendice or make a copy of a published document to use as an appendice, see below.
 
@@ -121,22 +123,22 @@ To upload a new appendice, do the following:
  
 1.	Click "Upload".
 
-.. image:: upload-appendice-3.png
+.. image:: upload-appendice-3-new.png
 
 2. Use drag and drop or click "Browse" to select one or more documents to upload.
 
-.. image:: upload-appendice-4.png
+.. image:: upload-appendice-4-new.png
 
-3. If you need to edit a file name, just click it and type the new file name.
-4. Click "Upload".
+3. If you happen to select a document taht should not be uploaded, just click the x to remove it.
+4. Click "UPLOAD FILES".
 
-.. image:: upload-appendice-5.png
+.. image:: upload-appendice-5-new.png
  
 When the upload is finished the file(s) is visible in the Appendices list for the document, for example:
 
-.. image:: upload-appendice-6.png
+.. image:: upload-appendice-6-new.png
 
-A document can be opened from here by clicking the link. Click the pen to edit the file name. Click the dust bin to remove the document from the list.
+A document can be opened from here by clicking the link. Use the options to the right of the file name to edit, rename or delete the file from the list.
  
 Appendices can be added to this list continuously up to publication of the document. If appendices needs to be removed or added for a published document, a new edition of the document must be published.
 
@@ -146,23 +148,23 @@ Published documents as Appendices - Copy from other document
 ---------------------------------------------------------------
 Another option is to add a copy of a published document as an Appendice. All published documents are available to select as appendices.
 
-**Note!** In this case it is a copy of a document that will be added. There is no link between the published document and the copy, so if a new edition of the Appendice document is published, the copy used as an appendix is NOT updated.
+**Note!** In this case it is a copy of a document that will be added. There is no link between the published document and the copy, so if a new edition of the Appendice document is published, the copy used as an appendix is NOT updated. You have to add the published document again to update the appendice.
 
 1. Open the dot menu for the document where you want to add appendices, and select "Appendices".
 2. Click "Copy from other Document" in the window shown.
 
-.. image::  upload-copy-1.png
+.. image::  upload-copy-1-new.png
 
 The following is shown:
 
-.. image:: upload-copy-2.png
+.. image:: upload-copy-2-new.png
  
 3. Search for the document. 
 4. Select the document(s) to add (a copy of) as appendice(s).
 5. Choose to overwrite existing appendices or not. This option is useful if a new version of a document you use as a appendice has been published and you want to replace the old copy with the new edition.
 6. Click "Copy".
 
-.. image:: upload-copy-3.png
+.. image:: upload-copy-3-new.png
  
 The documents added to the Appendices list this way is handled exactly the same way as a document uploaded as an appendix, see above. (And remember that it is a copy of the original document.)
 
@@ -176,17 +178,17 @@ To create a new draft of a published document, do the following:
 2.	Click the dot menu for the document.
 3.	Select "Create Draft".
 
-.. image:: create-draft-1.png
+.. image:: create-draft-1-new.png
 
 4. Select which edition to base the new draft on.
 
-.. image:: create-draft-2.png
+.. image:: create-draft-2-new.png
 
 As you see you can even upload a document to base the new draft on. This can be useful for example when you want to publish a new edition of a document you have uploaded as it is. Perhaps you have received a new version of a document from a supplier?
 
-If you select "Previous Edition", you can select which of the previous published editions you want to base the new Draft on. If you want to have a look at that edition before deciding, you can download a copy of the previous edition you selected in the list, by clicking this icon:
+If you select "Previous Edition", you can open the list and select which of the previous published editions you want to base the new Draft on. If you want to have a look at that edition before deciding, you can download a copy of the previous edition you selected in the list, by clicking this icon:
 
-.. image:: create-draft-3.png
+.. image:: create-draft-3-new.png
 
 5. When you're done there, click "Create Draft".
 

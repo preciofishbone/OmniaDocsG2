@@ -3,23 +3,19 @@ Page Statistics
 
 When the page editor is open you can have a look at some basic statistics for the page.
 
-**Note!** The page must be published for the Statistics to be available.
+**Note!** The page must be published, and not be actively edited, for the Statistics to be available.
 
-1, Open the menu to the right:
+1, Open the menu to the right and select "Statistics".
 
-.. image:: page-statistics-menu.png
-
-2. Select "Statistics".
-
-.. image:: page-statistics-menu-statistics.png
+.. image:: page-statistics-menu-statistics-new.png
 
 Here's an example:
 
-.. image:: page-statistics-example.png
+.. image:: page-statistics-example-new.png
 
 The graph displays statistics for the last three months.
 
-You can display "Page Hits" or "Unique Users". The difference is that if a user has entered tha page a number of times, all the times are registered for Page Hits, but only once per day if "Unique Users" is selected.
+You can display "Page Hits" or "Unique Users". The difference is that if a user has entered the page a number of times, all the times are registered for Page Hits, but only once per day if "Unique Users" is selected.
 
 You can also choose to include all sub pages of the selected page.
 

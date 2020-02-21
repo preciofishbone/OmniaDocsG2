@@ -1,9 +1,9 @@
-My Sites
+My Teams
 ===========================================
 
-My Sites can display links to several types of sites and groups, including Yammer Groups and Microsoft Teams Groups. Settings in Omnia Admin states if My Sites should be shown or not in the top menu.
+My Teams can display links to several types of sites and groups, including Yammer Groups, Facebook Workplace and Microsoft Teams Groups. Settings in Omnia Admin states if My Teams should be shown or not in the top menu.
 
-.. image:: my-sites-example-new.png
+.. image:: my-sites-example-new2.png
 
 Three tabs can be available:
 
@@ -17,12 +17,12 @@ The user can follow or unfollow a site by clicking the star. A grey star indicat
 
 Two things will happen when a user follows a site:
 
-+ The site will be available as a quick link in the "Following" tab in the My Sites control.
++ The site will be available as a quick link in the "Following" tab in the My Teams block.
 + Any conversations in the user feed on the site will be available in the user feed on the start page.
 
-If there is a Yammer Group and/or a Teams Group connected to a site, it is indicated by an icon. See the above image for examples of Teams icons (it's the T icon). 
+If there is a Yammer Group and/or, Facebook Workplave or Teams Group connected to a site, it is indicated by an icon. See the above image for examples. 
 
-You can click the icon to go to the Yammer Group or Teams Group.
+You can click the icon to go to the Yammer Group, Facebook Workplace or Teams Group.
 
 Create New Site or Group
 *************************

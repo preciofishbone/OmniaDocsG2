@@ -1,7 +1,7 @@
 Authoring Controlled Documents
 =================================
 
-This section is for Authors of Controlled Documents. The work always take place in a Controlled Documents Library in i Team Site. Who is allowed to author and approve (if approval is needed) is set up in Omnia Admin under Document Management.
+This section is for Authors of Controlled Documents. The work always take place in a Controlled Documents Library in a Team Site. Who is allowed to author and approve (if approval is needed) is set up in Omnia Admin under Document Management.
 
 When a Team Site has been set up for Controlled Documents authoring, the following will be available for Controlled Document authors:
 
@@ -17,21 +17,21 @@ When a Team Site has been set up for Controlled Documents authoring, the followi
 + Options for creating a new draft from a published document.
 + Options for unpublishing a published document.
 
-In a Team Site set up for Controlled Documents authoring a library, usually called just "Controlled Documents", is available here:
+In a Team Site set up for Controlled Documents authoring, a library, usually called just "Controlled Documents", is available here:
 
-.. image:: controlled-documents.png
+.. image:: controlled-documents-new.png
 
 In the Controlled Documents library, authors can find three tabs:
 
-.. image:: controlled-documents-library-1-g2.png
+.. image:: controlled-documents-library-new.png
 
 "Drafts" is used when creating and editing drafts for new Controlled Documents or when updating an existing document for a new edition. Note that there are several options available for creating a new draft document, see below.
 
 "Tasks" is a list of tasks for the documents – either for review or for publication – both active and finished.
 
-When a document is published (approved for publication) it is removed from Drafts and is available on the "Published" tab. Here the options for creating a new draft, unpublishing and Document History are available.
+When a document is published (approved for publication) it is removed from Drafts and is available on the "Published" tab. Here the options for creating a new draft, unpublishing and Document History are available, together with a number of additional options, see: :doc:`Working with Published documents </working-with-documents/authoring-controlled-documents/working-with-published-documents/index>`.
 
-Most headings can be used to sort the list.
+Most headings can be used to sort a list.
 
 Select section for more information:
 

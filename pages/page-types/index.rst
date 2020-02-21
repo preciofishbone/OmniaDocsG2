@@ -1,11 +1,11 @@
 Page Types
 ==================
 
-An administrator or an editor with the correct permissions can work with Page Types. A page type contains sections where blocks can be placed for content. Sections can be targeted.
+If you are Publishing App administrator you can work with Page Types. A page type contains sections where blocks can be placed for content. Sections can be targeted.
 
 Some blocks can be added to a page type so they are a part of the layout presented to editors of a page based on the Page Type. See the bottom of this page for more information on blocks that belong to the Page Type.
 
-When a new page is created, the editor can choose page type from any available in the page type list.
+When a new page is created, the Editor or Author can choose page type from any available in the page type list.
 
 Edit a Page Type
 *****************
@@ -32,7 +32,7 @@ To edit a page type, do the following:
 
 .. image:: page-types-click-edit-new.png
 
-7. To edit a section, click the section, and then the cog wheel.
+7. To edit settings for a section, click the section, and then the cog wheel.
 
 .. image:: page-types-edit-section-new.png
 
@@ -157,7 +157,7 @@ Advanced Settings
 ----------------------
 In the advanced settings you can use custom CSS styling for the section.
 
-.. image:: page-types-settings-advanced-new.png
+.. image:: page-types-settings-advanced-new2.png
 
 Create a Section in a Column
 ******************************
@@ -191,6 +191,37 @@ If you need to delete a section, here's how to do it:
 
 .. image:: delete-section-2-new.png
 
+Move a section
+***************
+Do the following to move a section to another placement on the page.
+
+1. Click the section.
+2. Click the Move icon.
+
+.. image:: move-icon-section.png
+
+Icons now show where you can move the section, for example:
+
+.. image:: can-be-moved-section.png
+
+3. Click the icon where you want the section and it's moved there.
+
+Copy a section
+***************
+If you need a section with roughly the same settings somewhere else on the page, you can copy a section and place the copy where you want it, and then edit the settings. Do the following:
+
+1. Click the section.
+2. Click the Copy icon.
+
+.. image:: copy-icon-section.png
+
+Icons now show where you can add the new section, the same way as when you move a section, for example:
+
+.. image:: section-can-be-copied.png
+
+3. Click the icon where you want the copied section and it's placed there.
+4. Edit the settings that you want to change.
+
 Adding blocks to a Section
 ***************************
 Here's how to add a block to a section:
@@ -220,9 +251,21 @@ Click this icon:
 
 .. image:: device-support-section-new.png
 
-Then you can decide on which devices to show this section:
+You can now use the following settings:
 
 .. image:: select-device-section-new.png
+
+To hide a section for a device, do the following:
+
+1. Select the device.
+2. Click the pen for Visibility.
+3. Select Hide Section.
+
+To add som padding for the section, for a specific device, do the following:
+
+1. Select the device.
+2. Click the pen for Section Padding.
+3. Set the padding.
 
 Settings
 *********
@@ -230,30 +273,30 @@ On the "Settings" tab you can set the Properties for all pages created from this
 
 Here's an example with a Page Type with left navigation:
 
-.. image:: page-type-settings-left.png
+.. image:: page-type-settings-left-new.png
 
 It results in these fields being available on the Properties tab for a page:
 
-.. image:: page-type-settings-left-fields.png
+.. image:: page-type-settings-left-fields-new.png
 
 And here's an example with a Page Type for News:
 
-.. image:: page-type-settings-news.png
+.. image:: page-type-settings-news-new.png
 
 Which results in these fields being available on the Properties tab for a News Article page:
 
-.. image:: page-type-settings-news-fields.png
+.. image:: page-type-settings-news-fields-new.png
 
 Set properties for the Page Type this way:
 
 1. Select the properties to be used for this Page Type.
-2. Click the dot menu for more settings for a property.
+2. Click the cog wheel for more settings for a property.
 
-.. image:: page-type-settings-dot-menu.png
+.. image:: page-type-settings-cogwheel.png
 
 Something like the following is shown:
 
-.. image:: page-type-settings-dot-menu-settings.png
+.. image:: page-type-settings-dot-menu-settings-new.png
 
 The following settings can be available for a property:
 
