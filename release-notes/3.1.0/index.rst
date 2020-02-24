@@ -27,7 +27,7 @@ Omnia
 
 Web Content Management
 ***********************
-- Fixed table layout so edit mode matches read mode in all scenarios.
+- Fixed HTML-tables so edit mode matches read mode in all scenarios.
 - Fixed a design issue in the notification panel on mobile.
 - Fixed the alignment of the editor speed dial button.
 - Fixed the text block custom RTF setting.
