@@ -50,20 +50,18 @@ To remove a related document from the list, do the following:
 
 1. Click the dust bin for the document.
 
-.. image:: related-remove-1.png
+.. image:: related-remove-1-new.png
 
 2. Click the green icon the acknowledge the removal, the red to cancel.
 
-.. image:: related-remove-2.png
+.. image:: related-remove-2-new.png
 
 3. Save.
-
-.. image:: related-remove-3.png
  
 Being notified when any related document is updated
 ****************************************************
 To activate notification for related documents, select who is going to be notified. When the option is active an e-mail is sent to the receiver every time a new edition is published for any related document.
 
-.. image:: related-notify.png
+.. image:: related-notify-new.png
 
 Document Owner is always available but other person fields can also be available depending on how Omnia Document Management is set up.
