@@ -59,14 +59,14 @@ Here's an example:
 
 Check Feedback
 ****************
-Any user can send feedback on a published document and that feedback is available for authors here. The read feedback for a document:
+Any user can send feedback on a published document and that feedback is available for authors here. To read feedback for a document:
 
 1.	Click the dot menu for the document.
 2.	Select "Feedback".
  
 The feedback posts for the document is shown. Click a post to read the feedback. Here's an example:
 
-.. image:: feedback-example-new.png
+.. image:: feedback-example-new2.png
 
 You can click the dust bin to delete the feedback when you have read it, or keep it for later reference, it’s up to you.
 
