@@ -23,7 +23,7 @@ In a Team Site set up for Controlled Documents authoring, a library, usually cal
 
 In the Controlled Documents library, authors can find three tabs:
 
-.. image:: controlled-documents-library-new.png
+.. image:: controlled-documents-library-new2.png
 
 "Drafts" is used when creating and editing drafts for new Controlled Documents or when updating an existing document for a new edition. Note that there are several options available for creating a new draft document, see below.
 
