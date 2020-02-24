@@ -5,7 +5,7 @@ You can use this option to relate a controlled document to other controlled docu
 
 The number of related documents is shown to the right of the title, for example:
 
-.. image:: related-documents-list.png
+.. image:: related-documents-list-new.png
  
 **Note!**
 Relations between documents works just one way. If document A is related to document B, that is not shown for readers of document B. If document B should be related to document A as well, that has to be added for document B.
