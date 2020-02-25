@@ -9,5 +9,11 @@ Enhanced look and feel and improved performance.
 Support for Omnia for Modern SharePoint.
 -----------------------------------------------------------
 
-
-.. image:: omnia-feed-one.png .. image:: omnia-feed-two.png .. image:: omnia-feed-three.png .. image:: omnia-feed-four.png
+.. image:: omnia-feed-one.png 
+    :width: 24%
+.. image:: omnia-feed-two.png 
+    :width: 24%
+.. image:: omnia-feed-three.png 
+    :width: 24%
+.. image:: omnia-feed-four.png
+    :width: 24%
