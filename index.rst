@@ -19,5 +19,5 @@ Topics
    roadmap/index
    release-notes/index
    guides/index
-   omnia-feed/index
+   omnia-feed-2.0/index
    contribute-to-doc/index
