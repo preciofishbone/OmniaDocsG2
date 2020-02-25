@@ -4,7 +4,6 @@ Release Notes 3.1.0
 New features
 ----------------------------------------
 - Omnia Feed is now supported in Omnia for Modern SharePoint Tenants.
-- Omnia Feed has recieved a new design and several other enhancements. 
 - Added the possibility to make the User Profile Completeness dialog never show up automaticially.
 - The Page rollup roller view will now correctly show one item. This enables implementers to use pages as banners.
 
