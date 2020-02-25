@@ -5,7 +5,7 @@ When a controlled document is published, you can choose to send a notification t
 
 Sending notifications is always voluntary. The decision is made when the document is published. If any colleagues should be notified of the new edition, select "Notify people" and add people or groups to the field.
 
-.. image:: notify-people.png
+.. image:: notify-people-new.png
 
 Some notes on using groups for notifications:
 
@@ -15,7 +15,7 @@ Some notes on using groups for notifications:
 
 To make sure recipients has received the notification, you can select "Require Read Receipt". (Also see above regarding AD groups.)
 
-.. image:: read-receipt.png
+.. image:: read-receipt-new.png
 
 Check Read Receipt Status
 ***************************
@@ -24,7 +24,7 @@ Read Receipt Status can be checked for a document on the "Published" tab, this w
 1.	Click the dot menu for the document.
 2.	Select "Read Receipt status". 
 
-.. image:: read-receipt-status-menu.png
+.. image:: read-receipt-status-menu-new.png
 
 3. Select the edition to check.
 
