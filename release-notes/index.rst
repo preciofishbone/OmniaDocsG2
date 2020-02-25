@@ -14,3 +14,4 @@ Release Notes
    2.2.0/index
    2.1.1/index
    2.0.0/index
+   omnia-feed-2.0/index
