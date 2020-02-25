@@ -19,4 +19,5 @@ Topics
    roadmap/index
    release-notes/index
    guides/index
+   omnia-feed/index
    contribute-to-doc/index
