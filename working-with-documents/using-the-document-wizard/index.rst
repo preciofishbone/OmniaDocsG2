@@ -5,22 +5,6 @@ The Document Wizard is used when creating new controlled documents. It can also 
 
 Creating a new Controlled Document
 ************************************
-When you create a new Controlled Document, you normally see a list of the most common Document Types. It can look like this:
-
-.. image:: document-wizard-new.png
-
-The Document Types are set up in Omnia Admin. A Document Type contains a number of templates. To see all available document types, click "Show All". 
-
-.. image:: document-wizard-showall.png
-
-Note that document types can be grouped. To see what's in a group, click the "folder":
-
-..image:: document-wizard-groups.png
-
-Also note that document types, nad therefore also templates, can be tagged with language. If your organization is producing controlled documents in several languages, you may have to select language to see the correct set of document types.
-
-..image:: document-wizard-language.png
-
 Use the Wizard this way to create a new Controlled Document:
 
 1. See to that "Controlled Document" is selected.
@@ -28,8 +12,22 @@ Use the Wizard this way to create a new Controlled Document:
 .. image:: new-controlled-1-new.png
 
 2. Select language if needed.
-3. Select the Document Type the template belongs to. You may have to open a group to find the Document Type you're after.
-4. Select Template.
+
+.. image:: document-wizard-language.png
+
+Note that document types can be tagged with language. If your organization is producing controlled documents in several languages, you may have to select language to see the correct set of document types.
+
+3. Select the Document Type the template belongs to.
+
+The Document Types are set up in Omnia Admin. A Document Type contains a number of templates. To see all available document types, click "Show All". 
+
+.. image:: document-wizard-showall.png
+
+You may have to open a group to find the Document Type you're after.
+
+.. image:: document-wizard-groups.png
+
+4. Select Document Type.
 5. Some settings are most likely needed. Which settings depends on the Document Type. Heres an example:
 
 .. image:: new-controlled-4-new.png
