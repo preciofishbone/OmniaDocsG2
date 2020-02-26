@@ -46,7 +46,7 @@ For the next steps when you create a template for Team Collaboration, you can se
 
 The following settings are available for an Office 365 Group:
 
-+ **Site Design**: Here templates can be available, templates made according to Microsoft's standard for Site Design. Such templates can be used in Omnia.  Not mandatory. If no such templates are available, the list is empty.
++ **Site Design**: Here templates can be available, templates made according to Microsoft's standard for Site Design. Such templates can be used in Omnia.  Not mandatory. If no such templates are available, the list is empty. For more information about Site Design, see this Microsoft page: https://docs.microsoft.com/en-us/sharepoint/dev/declarative-customization/site-design-overview
 + **Languages**: Select Language to be used for system texts in the site.
 + **User can select language**: Select this option to enable Language selection by the user creating the site.
 + **Time Zones**: Select the correct Time Zone here.
