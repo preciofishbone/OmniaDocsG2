@@ -100,8 +100,8 @@ General
 ^^^^^^^^
 + **Following**: Decides if the "Following" tab is displayed or not.  
 + **Member of**: Decides if the "Member of" tab is displayed or not.
-+ **All**: Decides if the "All" tab should be displayed or not. In this case "All" means the user can search for all Teams related sites that ARE connected to Omnia.
-+ **All (Sharepoint Sites)**: Decides if the "All" tab should be displayed or not. In this case "All" means the user can search for all Teams related sites that are connected to Omnia and even Sharepoint Sites that are not connected to Omnia.
++ **All**: Decides if the "All" tab should be displayed or not. In this case "All" means the user can search for all Team related sites that ARE connected to Omnia.
++ **All (Sharepoint Sites)**: Decides if the "All" tab should be displayed or not. In this case "All" means the user can search for all Team related sites that are connected to Omnia and also Sharepoint Sites that are not connected to Omnia.
 + **Order By**: Sets the Sort Order for the list of sites. 
 + **Open in New Windows**: Decides if the site is opened in a new window ore not.
 + **Use Letter Avatar**: Select to use Letter Avatars or not (see below for an example).

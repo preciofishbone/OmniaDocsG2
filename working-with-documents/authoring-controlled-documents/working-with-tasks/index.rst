@@ -45,6 +45,10 @@ As it says, this tab displays a list of completed tasks, for example:
 
 .. image:: controlled-tasks-completed-new.png
 
+You can see additional information, for example comments, by clicking the Title. Here's a simple example of what can be shown:
+
+.. image:: controlled-tasks-info.png
+
 
 
 
