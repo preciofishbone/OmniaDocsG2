@@ -23,8 +23,6 @@ You can click the link to read the document. To see additional information about
 
 .. image:: controlled-tasks-me-3-new.png
 
-If it's a task for reviewing a document when the Review Date has passed (as in the example above), you check the document and can decide what to do; set a new Review Date, unpublish the document or create a new draft of the document.
-
 To go back to the list, click "Cancel".
 
 Assigned By Me
