@@ -5,15 +5,23 @@ The block makes it possible for the end user to like and comment a specific web 
 
 .. image:: comments-and-likes.png
 
-It is possible for the end user to edit and delete a comment, made by the user, by clicking the edit pen icon. 
+It is possible for the end user to edit and delete a comment, made by the user, by clicking the pen icon. 
 
 .. image:: comments-and-likes-pen.png
 
 When a comment is deleted it works this way: If there are no answers to the comment it will just be removed. If there are answers, the  comment will be replaced with a text that states that it has been deleted and by whom. Everyone can delete their own comments. A Site Collection administrator can delete any comment. 
 
+Turning the options on or off
+-------------------------------
+When the block is added to a page (or to the Page Type), Authors can turn on or off likes and/or comments using Write mode.
+
+.. image:: page-likes-author.png
+
+This can be very handy if Page Likes and Comments is present in a Page Type, but should not be used on every page.
+
 Settings for the block
 ************************
-In the settings you can add a Title for the block and add som Padding:
+In the settings you can add a Title for the block and add some Padding:
 
 .. image:: comments-and-likes-settings-new2.png
 
