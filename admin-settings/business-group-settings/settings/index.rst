@@ -94,12 +94,14 @@ My Teams - additional settings
 -------------------------------
 Click the cog wheel to set additional settings för My Teams. Here's what you can set:
 
-.. image:: my-sites-settings-new2.png
+.. image:: my-sites-settings-new3.png
 
 General
 ^^^^^^^^
-+ **Following**: Decides if the "Following" tab is displayed or not. The "All" tab is always displayed. 
++ **Following**: Decides if the "Following" tab is displayed or not.  
 + **Member of**: Decides if the "Member of" tab is displayed or not.
++ **All**: Decides if the "All" tab should be displayed or not. In this case "All" means the user can search for all Teams related sites that ARE connected to Omnia.
++ **All (Sharepoint Sites)**: Decides if the "All" tab should be displayed or not. In this case "All" means the user can search for all Teams related sites that are connected to Omnia and even Sharepoint Sites that are not connected to Omnia.
 + **Order By**: Sets the Sort Order for the list of sites. 
 + **Open in New Windows**: Decides if the site is opened in a new window ore not.
 + **Use Letter Avatar**: Select to use Letter Avatars or not (see below for an example).
