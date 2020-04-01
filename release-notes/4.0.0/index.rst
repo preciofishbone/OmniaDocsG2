@@ -1,4 +1,4 @@
-Release Notes 4.0.0
+Upcoming Release 4.0.0
 ========================================
 
 New features
