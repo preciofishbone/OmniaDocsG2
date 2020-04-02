@@ -5,7 +5,8 @@ New features
 ----------------------------------------
 - Omnia Process Management
 - Communeties 2.0
-- Improvments on Team Collaboration listings (#116996, #114661, #114870, #117577)
+- Improvments on Team Collaboration listings (#116996, #114661, #114870, #117577).
+- Search expereince in header and as a block.
 
 
 Enhancements
@@ -32,7 +33,7 @@ Tenant Administration
 Workplace
 ***********************
 - It is now possible to base search queries on page variation url segement. 
-- Targeting for search categories. It is now possible to use the targeting engine on search categories. (#115142, #115263)
+- Targeting for search categories. It is now possible to use the targeting engine on search categories. (#115142, #115263).
 
 Fixes 
 ***********************
@@ -43,4 +44,10 @@ Fixes
 - Taconomy properties now work correctly in the document rollyp query builder (#117598).
 - Fixed an issue when related links settings would be unavailable after adding a link (#117580).
 - Corrected email content from comment on importnant announcement (#117825).
+- Background color on Shared Links is now set correctly when using the color picker to remove the color (#117646).
+- Site Design is now hidden from the end user when creating a site (#113598).
+- Improvments to term picker in dialogs.
+- Fixed a problem that would cause the browser to hang if resized.
+- Fixed alignment of top header for nodes without children.
+- Fixed a z-index problem that would sometimes occur in SPFx.
 
