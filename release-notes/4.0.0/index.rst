@@ -23,7 +23,11 @@ Web Content Management
 
 Document Management
 ***********************
-- Support for .vdsx icons.
+- Support for .vsdx icons.
+
+Tenant Administration
+***********************
+- Better handling for long display names on enterprise properties. (#114375, #114783, #117172).
 
 Workplace
 ***********************
@@ -34,6 +38,9 @@ Fixes
 ***********************
 - Fixed a design glitch in document libraries when the omnia header is used. 
 - People rollup roller view not auto rotates correctly (#117277).
-- Page rollup column adjustment now works when having only one column (#117154).
-- 
+- Page rollup column adjustment now works when having only one column (#117154, #117304).
+- Correct default setting on date format when setting up a new environment (#114587).
+- Taconomy properties now work correctly in the document rollyp query builder (#117598).
+- Fixed an issue when related links settings would be unavailable after adding a link (#117580).
+- Corrected email content from comment on importnant announcement (#117825).
 
