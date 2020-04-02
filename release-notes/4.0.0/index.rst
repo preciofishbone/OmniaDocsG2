@@ -1,11 +1,11 @@
-Upcoming Release (Draft, these release notes are subject to change) 4.0.0
+Upcoming Release 4.0.0 (Draft, these release notes are subject to change) 
 ========================================
 
 New features
 ----------------------------------------
 - Omnia Process Management
 - Communeties 2.0
-- Improvments on Team Collaboration listings
+- Improvments on Team Collaboration listings (#116996, #114661, #114870, #117577)
 
 
 Enhancements
@@ -28,11 +28,12 @@ Document Management
 Workplace
 ***********************
 - It is now possible to base search queries on page variation url segement. 
-- Targeting for search categories. 
+- Targeting for search categories. It is now possible to use the targeting engine on search categories. (#115142, #115263)
 
 Fixes 
 ***********************
 - Fixed a design glitch in document libraries when the omnia header is used. 
-- People rollup roller view not auto rotates correctly (#117277)
+- People rollup roller view not auto rotates correctly (#117277).
+- Page rollup column adjustment now works when having only one column (#117154).
 - 
 
