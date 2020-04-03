@@ -9,6 +9,7 @@ New features
 - Search expereince in header and as a block.
 
 
+
 Enhancements
 ------------------------------------
 
@@ -16,11 +17,13 @@ Omnia
 ***********************
 - Fixes to remove certificate error in FireFox.
 - Several fixes to align with WCAG 2.1 
+- Several performance improvments.
 
 Web Content Management
 ***********************
 - Pexels as a new Image provider (Please note that this not supported for IE11)
 - Now possible to use @mentions in page comments. An email will be sent to the mentioned user. (#113114)
+- New Tab Section, use it to create tabbed views on your pages.
 
 Document Management
 ***********************
