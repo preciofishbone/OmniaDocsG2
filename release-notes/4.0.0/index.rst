@@ -18,12 +18,15 @@ Omnia
 - Fixes to remove certificate error in FireFox.
 - Several fixes to align with WCAG 2.1 
 - Several performance improvments.
+- Stability improvments to the color picker.
 
 Web Content Management
 ***********************
 - Pexels as a new Image provider (Please note that this not supported for IE11)
 - Now possible to use @mentions in page comments. An email will be sent to the mentioned user. (#113114)
-- New Tab Section, use it to create tabbed views on your pages.
+- New Tab Section component, use it to create tabbed views on your pages.
+- Deleting a page now gives correct UI feedback.
+- Ensured correct label on the edit link and edit header in related links.
 
 Document Management
 ***********************
