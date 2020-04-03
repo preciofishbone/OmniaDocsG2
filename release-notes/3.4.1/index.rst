@@ -1,4 +1,4 @@
-Release Notes 3.1.7 -> 3.4.1 
+Release Notes 3.4.1 
 ========================================
 
 Enhancements
