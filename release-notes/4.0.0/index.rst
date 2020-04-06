@@ -1,5 +1,7 @@
-Upcoming Release 4.0.0 (Draft, these release notes are subject to change) 
+Upcoming Release 4.0.0 (Draft) 
 ========================================
+*NOTE: These releasnotes are a draft. Items might be added, altered or removed.*
+
 
 New features
 ----------------------------------------
