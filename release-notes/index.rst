@@ -5,6 +5,7 @@ Release Notes
    :titlesonly:
 
    4.0.0/index
+   3.4.1/index
    3.1.0/index
    3.0.0/index
    2.6.10/index
