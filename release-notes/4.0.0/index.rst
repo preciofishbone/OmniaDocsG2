@@ -9,7 +9,10 @@ New features
 - Communeties 2.0
 - Improvments on Team Collaboration listings (#116996, #114661, #114870, #117577).
 - Search expereince in header and as a block.
-
+- Pexels as a new Image provider (Please note that this not supported for IE11)
+- Translation workflow
+- Improved Audit Logging UI
+- Enhanced Document Picker
 
 
 Enhancements
@@ -24,7 +27,6 @@ Omnia
 
 Web Content Management
 ***********************
-- Pexels as a new Image provider (Please note that this not supported for IE11)
 - Now possible to use @mentions in page comments. An email will be sent to the mentioned user. (#113114)
 - New Tab Section component, use it to create tabbed views on your pages.
 - Deleting a page now gives correct UI feedback.
