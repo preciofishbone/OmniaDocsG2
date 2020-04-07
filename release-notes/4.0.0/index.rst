@@ -1,14 +1,14 @@
 Upcoming Release 4.0.0 (Draft) 
 ========================================
-*NOTE: These releasnotes are a draft. Items might be added, altered or removed.*
+*NOTE: These release notes are a draft. Items might be added, altered or removed.*
 
 
 New features
 ----------------------------------------
 - Omnia Process Management
-- Communeties 2.0
+- Communities 2.0
 - Improvements on Team Collaboration listings (#116996, #114661, #114870, #117577).
-- Search expereince in header and as a block.
+- Search experience in header and as a block.
 - Pexels as a new Image provider (Please note that this not supported for IE11)
 - Translation workflow
 - Improved Audit Logging UI
@@ -20,10 +20,10 @@ Enhancements
 
 Omnia
 ***********************
-- Fixes to remove certificate error in FireFox.
+- Fixes to remove certificate error in Firefox.
 - Several fixes to align with WCAG 2.1 AA.
-- Several performance improvments.
-- Stability improvments to the color picker.
+- Several performance improvements.
+- Stability improvements to the color picker.
 
 Web Content Management
 ***********************
@@ -36,7 +36,7 @@ Web Content Management
 
 Document Management
 ***********************
-- Support for .vsdx icons.
+- Support for vsdx icons.
 - The Tabs Drafts, Tasks, and Published now has a larger click area (#117861).
 
 Tenant Administration
@@ -45,9 +45,9 @@ Tenant Administration
 
 Workplace
 ***********************
-- It is now possible to base search queries on page variation url segement. 
+- It is now possible to base search queries on page variation url segment. 
 - Targeting for search categories. It is now possible to use the targeting engine on search categories. (#115142, #115263).
-- Date refiners now works as expected in advanced search (#114577, #115570).
+- Date refiners now work as expected in advanced search (#114577, #115570).
 - Updated design in advanced search (#117305, #116824).
 - Updated design for action bar item tabs.
 - Updated design for shared links.
@@ -58,17 +58,18 @@ Fixes
 - People rollup roller view not auto rotates correctly (#117277).
 - Page rollup column adjustment now works when having only one column (#117154, #117304).
 - Correct default setting on date format when setting up a new environment (#114587).
-- Taconomy properties now work correctly in the document rollyp query builder (#117598).
+- Taxonomy properties now work correctly in the document rollup query builder (#117598).
 - Fixed an issue when related links settings would be unavailable after adding a link (#117580).
-- Corrected email content from comment on importnant announcement (#117825).
+- Corrected email content from comment on important announcement (#117825).
 - Background color on Shared Links is now set correctly when using the color picker to remove the color (#117646).
 - Site Design is now hidden from the end user when creating a site (#113598).
-- Improvments to term picker in dialogs.
+- Improvements to term picker in dialogs.
 - Fixed a problem that would cause the browser to hang if resized.
 - Fixed alignment of top header for nodes without children.
 - Fixed a z-index problem that would sometimes occur in SPFx.
 - Padding now works as expected on the button link (#116905).
 - Fixed a problem in the term picker for controlled documents (#117247).
 - Fixes to the document rollup query builder to have better default values.
+
 
 
