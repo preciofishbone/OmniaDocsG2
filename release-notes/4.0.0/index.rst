@@ -21,7 +21,7 @@ Enhancements
 Omnia
 ***********************
 - Fixes to remove certificate error in FireFox.
-- Several fixes to align with WCAG 2.1 
+- Several fixes to align with WCAG 2.1 AA.
 - Several performance improvments.
 - Stability improvments to the color picker.
 
@@ -32,6 +32,7 @@ Web Content Management
 - Deleting a page now gives correct UI feedback.
 - Ensured correct label on the edit link and edit header in related links.
 - Picking a document in related links can now support libraries with more than 5000 documents. 
+- Auto rolling of the news roller will be disabled if accessibility mode is turned on.
 
 Document Management
 ***********************
@@ -48,6 +49,8 @@ Workplace
 - Targeting for search categories. It is now possible to use the targeting engine on search categories. (#115142, #115263).
 - Date refiners now works as expected in advanced search (#114577, #115570).
 - Updated design in advanced search (#117305, #116824).
+- Updated design for action bar item tabs.
+- Updated design for shared links.
 
 Fixes 
 ***********************
@@ -66,5 +69,6 @@ Fixes
 - Fixed a z-index problem that would sometimes occur in SPFx.
 - Padding now works as expected on the button link (#116905).
 - Fixed a problem in the term picker for controlled documents (#117247).
+- Fixes to the document rollup query builder to have better default values.
 
 
