@@ -7,7 +7,7 @@ New features
 ----------------------------------------
 - Omnia Process Management
 - Communeties 2.0
-- Improvments on Team Collaboration listings (#116996, #114661, #114870, #117577).
+- Improvements on Team Collaboration listings (#116996, #114661, #114870, #117577).
 - Search expereince in header and as a block.
 - Pexels as a new Image provider (Please note that this not supported for IE11)
 - Translation workflow
