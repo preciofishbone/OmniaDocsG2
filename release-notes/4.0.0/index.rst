@@ -31,10 +31,12 @@ Web Content Management
 - New Tab Section component, use it to create tabbed views on your pages.
 - Deleting a page now gives correct UI feedback.
 - Ensured correct label on the edit link and edit header in related links.
+- Picking a document in related links can now support libraries with more than 5000 documents. 
 
 Document Management
 ***********************
 - Support for .vsdx icons.
+- The Tabs Drafts, Tasks, and Published now has a larger click area (#117861).
 
 Tenant Administration
 ***********************
@@ -44,6 +46,8 @@ Workplace
 ***********************
 - It is now possible to base search queries on page variation url segement. 
 - Targeting for search categories. It is now possible to use the targeting engine on search categories. (#115142, #115263).
+- Date refiners now works as expected in advanced search (#114577, #115570).
+- Updated design in advanced search (#117305, #116824).
 
 Fixes 
 ***********************
@@ -60,4 +64,7 @@ Fixes
 - Fixed a problem that would cause the browser to hang if resized.
 - Fixed alignment of top header for nodes without children.
 - Fixed a z-index problem that would sometimes occur in SPFx.
+- Padding now works as expected on the button link (#116905).
+- Fixed a problem in the term picker for controlled documents (#117247).
+
 
