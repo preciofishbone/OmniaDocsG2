@@ -22,6 +22,7 @@ Omnia
 ***********************
 - Fixes to remove certificate error in Firefox.
 - Several fixes to align with WCAG 2.1 AA.
+- Improved keyboard controls.
 - Several performance improvements.
 - Stability improvements to the color picker.
 
