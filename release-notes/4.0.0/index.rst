@@ -71,6 +71,8 @@ Fixes
 - Padding now works as expected on the button link (#116905).
 - Fixed a problem in the term picker for controlled documents (#117247).
 - Fixes to the document rollup query builder to have better default values.
+- Several fixes to margins and padding on the action button.
+- Placeholder behaviour is now correct on the accordion.
 
 
 
