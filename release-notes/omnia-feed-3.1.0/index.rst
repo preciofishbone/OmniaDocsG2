@@ -25,6 +25,6 @@ Mobile App
 - Announcements with end date will no longer disappear after a pull refresh.
 - Announcements are now shown in the same order in as Omnia Intranet.
 - Improved UI on warning login message.
-- Better message while waiting data to be synced the first time.
+- Better message while waiting data to be synced the first time. (#118040)
 
 
