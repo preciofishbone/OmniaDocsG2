@@ -24,7 +24,7 @@ Mobile App
 - Improved the stability and performance of data sync.
 - Announcements with end date will no longer disappear after a pull refresh.
 - Announcements are now shown in the same order in as Omnia Intranet.
-- Improved UI on warning login message.
-- Better message while waiting data to be synced the first time. (#118040)
+- Improved UI for warning message on failed login.
+- Better message while waiting for data to be synced the first time. (#118040)
 
 
