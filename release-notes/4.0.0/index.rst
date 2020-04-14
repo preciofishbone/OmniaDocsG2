@@ -13,6 +13,7 @@ New features
 - Translation workflow
 - Improved Audit Logging UI
 - Enhanced Document Picker
+- User Profile Sync
 
 
 Enhancements
@@ -25,6 +26,7 @@ Omnia
 - Improved keyboard controls.
 - Several performance improvements.
 - Stability improvements to the color picker.
+- Performance improvments in SPFx.
 
 Web Content Management
 ***********************
@@ -72,7 +74,18 @@ Fixes
 - Fixed a problem in the term picker for controlled documents (#117247).
 - Fixes to the document rollup query builder to have better default values.
 - Several fixes to margins and padding on the action button.
-- Placeholder behaviour is now correct on the accordion.
+- Fixes to block margins and breadcrumb margins (#117653).
+- Placeholder behavior is now correct on the accordion.
+- Corrected UI in Document Management authoring sites to make tick boxes align (#117430).
+- Corrected mobile navigation when using multiple page collections in one navigation structure (#115759).
+- Document rollup now shows sorting arrows correctly when sorting (#117793, #118277).
+- Document rollup now correctly hides when there is no content in the rollup (#117827).
+- Advanced search now always shows the correct item count. Also impacts results in some scenarios (#114072, #115352, #116723, #114039, #115789, #117802)
+- External links in Shared Links now work correctly on IOS (#117048).
+- Adding documents through related links now correctly lists deleted users (#117801).
+
+
+
 
 
 
