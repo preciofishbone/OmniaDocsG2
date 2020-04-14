@@ -24,9 +24,8 @@ Omnia
 - Fixes to remove certificate error in Firefox.
 - Several fixes to align with WCAG 2.1 AA.
 - Improved keyboard controls.
-- Several performance improvements.
+- Several performance improvements for both Omnia and SPFx.
 - Stability improvements to the color picker.
-- Performance improvments in SPFx.
 
 Web Content Management
 ***********************
@@ -36,6 +35,7 @@ Web Content Management
 - Ensured correct label on the edit link and edit header in related links.
 - Picking a document in related links can now support libraries with more than 5000 documents. 
 - Auto rolling of the news roller will be disabled if accessibility mode is turned on.
+- Custom block header size now starts at 1px instead of 30px.
 
 Document Management
 ***********************
@@ -74,7 +74,7 @@ Fixes
 - Fixed a problem in the term picker for controlled documents (#117247).
 - Fixes to the document rollup query builder to have better default values.
 - Several fixes to margins and padding on the action button.
-- Fixes to block margins and breadcrumb margins (#117653).
+- Fixes to block margins, border radius and breadcrumb margins (#117653).
 - Placeholder behavior is now correct on the accordion.
 - Corrected UI in Document Management authoring sites to make tick boxes align (#117430).
 - Corrected mobile navigation when using multiple page collections in one navigation structure (#115759).
