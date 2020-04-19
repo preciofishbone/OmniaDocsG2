@@ -7,8 +7,10 @@ New features
 ----------------------------------------
 - Omnia Process Management
 - Communities 2.0
-- Improvements on Team Collaboration listings (#116996, #114661, #114870, #117577).
+- Improvements on Team Collaboration listings (#116996, #114661, #114870, #117577, #114837).
+ - Possible to remove Team Collaborations when there is an error or the O365 group is already deleted. (#117576).
 - Search experience in header and as a block.
+- Action button has recieved many updates multilingual support has been improved and it can now be used to create pages (#117303, #114101).
 - Pexels as a new Image provider (Please note that this not supported for IE11)
 - Translation workflow
 - Improved Audit Logging UI
@@ -80,9 +82,10 @@ Fixes
 - Corrected mobile navigation when using multiple page collections in one navigation structure (#115759).
 - Document rollup now shows sorting arrows correctly when sorting (#117793, #118277).
 - Document rollup now correctly hides when there is no content in the rollup (#117827).
-- Advanced search now always shows the correct item count. Also impacts results in some scenarios (#114072, #115352, #116723, #114039, #115789, #117802)
+- Advanced search now always shows the correct item count. Also impacts results in some scenarios (#114072, #115352, #116723, #114039, #115789, #117802).
 - External links in Shared Links now work correctly on IOS (#117048).
 - Adding documents through related links now correctly lists deleted users (#117801).
+- Now possible to create two enterprise properties with the same displayname (#115627).
 
 
 
