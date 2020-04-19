@@ -7,7 +7,7 @@ New features
 ----------------------------------------
 - Omnia Process Management
 - Communities 2.0
-- Improvements on Team Collaboration listings (#116996, #114661, #114870, #117577, #114837).
+- Improvements on Team Collaboration listings (#116996, #114661, #114870, #117577, #114837, #116854).
  - Possible to remove Team Collaborations when there is an error or the O365 group is already deleted. (#117576).
 - Search experience in header and as a block.
 - Action button has recieved many updates multilingual support has been improved and it can now be used to create pages (#117303, #114101).
@@ -38,6 +38,7 @@ Web Content Management
 - Picking a document in related links can now support libraries with more than 5000 documents. 
 - Auto rolling of the news roller will be disabled if accessibility mode is turned on.
 - Custom block header size now starts at 1px instead of 30px.
+- The page rollup now works correctly in SPFx (#118051).
 
 Document Management
 ***********************
@@ -63,7 +64,7 @@ Fixes
 - People rollup roller view not auto rotates correctly (#117277).
 - Page rollup column adjustment now works when having only one column (#117154, #117304).
 - Correct default setting on date format when setting up a new environment (#114587).
-- Taxonomy properties now work correctly in the document rollup query builder (#117598).
+- Several fixes to the document rollup, including taxonomy properties now work correctly in the query builder (#117598).
 - Fixed an issue when related links settings would be unavailable after adding a link (#117580).
 - Corrected email content from comment on important announcement (#117825).
 - Background color on Shared Links is now set correctly when using the color picker to remove the color (#117646).
@@ -82,10 +83,11 @@ Fixes
 - Corrected mobile navigation when using multiple page collections in one navigation structure (#115759).
 - Document rollup now shows sorting arrows correctly when sorting (#117793, #118277).
 - Document rollup now correctly hides when there is no content in the rollup (#117827).
-- Advanced search now always shows the correct item count. Also impacts results in some scenarios (#114072, #115352, #116723, #114039, #115789, #117802).
+- Advanced search now always shows the correct item count. Also impacts results and paging in some scenarios (#114072, #115352, #116723, #114039, #115789, #117802, #115121, #115250).
 - External links in Shared Links now work correctly on IOS (#117048).
 - Adding documents through related links now correctly lists deleted users (#117801).
 - Now possible to create two enterprise properties with the same displayname (#115627).
+- Fixed the page properties block to correctly rowbreak properties that does not fit (#118275).
 
 
 
