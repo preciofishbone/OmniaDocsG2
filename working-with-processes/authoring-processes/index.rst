@@ -5,15 +5,15 @@ This section is for Authors of processes. The work always take place in a Proces
 
 When a Team Site has been set up for process authoring, the following will be available for authors:
 
-+ A Processes library that only users that has the right permissions (one way or another) can work with.
++ A Processes library that only users that has the right permissions can work with.
 + A Publish Workflow.
 + A Tasks list.
 + Process History for the published editions.
-+ Options for relating to documents, controlled documents or "normal" documents.
++ Options for relating to documents; controlled documents or "normal" documents.
 + Options for creating a new draft from a published process.
 + Options for unpublishing a process.
 
-In a Team Site set up for process authoring, a library, usually called just "Controlled Documents", is available here:
+In a Team Site set up for process authoring, a library, usually called just "Processes", is available here:
 
 (Image to be added)
 
@@ -25,7 +25,7 @@ In the Procsses library, authors can find three tabs:
 
 "Tasks" is a list of author tasks for the processes – tasks you have assigned to colleagues or tasks assigned to you.
 
-When a process is published (approved for publication) it is removed from Drafts and is available on the "Published" tab. Here the options for creating a new draft, unpublishing and process history are available, together with a number of additional options, see: :doc:`Working with Published processes </working-with-processes/authoring-processes/working-with-published-processes/index>`.
+When a process is published (approved for publication) it is removed from "Drafts" and is available on the "Published" tab. Here the options for creating a new draft, unpublishing and process history are available, see: :doc:`Working with Published processes </working-with-processes/authoring-processes/working-with-published-processes/index>`.
 
 Most headings can be used to sort a list.
 

@@ -1,4 +1,4 @@
-Working with processes
+Working with Processes
 ========================
 
 In this part of the documentation you will find information about how to work with processes.
