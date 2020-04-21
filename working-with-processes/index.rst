@@ -10,8 +10,7 @@ Select section for more information:
 .. toctree::
    :titlesonly:
 
-   authoring-controlled-documents/index
-   controlled-documents-library-settings/index
-   controlled-documents-archive/index
-   reading-controlled-documents/index
-   using-the-document-wizard/index
+   authoring-processes/index
+   processes-library-settings/index
+   processes-archive/index
+   displaying-processes-for-users/index
