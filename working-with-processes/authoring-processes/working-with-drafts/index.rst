@@ -25,7 +25,7 @@ Select section for more information:
 .. toctree::
    :titlesonly:
 
-   creating-a-draft-process/index
+   creating-draft-process/index
    using-the-workspace/index
    drawing-tab/index
    content-tab/index
