@@ -25,7 +25,7 @@ Blocks
    page-rollup/index
    variation-selector/index
    people-rollup/index
-   process-blocks/index)
+   process-blocks/index
    quick-links/index
    rate/index
    related-links/index
