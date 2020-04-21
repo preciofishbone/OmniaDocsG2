@@ -9,4 +9,4 @@ To edit a draft process, just click the Title in the list, or select "Edit" in t
 
 The same options are available when editing a process.
 
-If the process is published you will have to create a new draft from the published edition, to be able to edit the process, see: (link to be added)
+If the process is published you will have to create a new draft from the published edition, to be able to edit the process, see: :doc:`Create a new draft from a published process </working-with-processes/authoring-processes/working-with-drafts/new-draft-from-published/index>`

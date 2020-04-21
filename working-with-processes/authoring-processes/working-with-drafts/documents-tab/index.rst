@@ -60,8 +60,8 @@ A preview of the document list is also shown.
 
 Using the Query Builder
 -------------------------
-You use this Query Builder the same way as is described under "Query" for the Document Rollup block, see: (linke to be added)
+You use this Query Builder the same way as is described under "Query" for the Document Rollup block, see: :doc:`Document Rollup </blocks/document-rollup/index>`
 
 Refiner
 ---------
-Refiner is used the same way as is described under the heading "Refiner" on the Document Rollup page: (link to be added)
+Refiner is used the same way as is described under the heading "Refiner" on the Document Rollup page, see link above.

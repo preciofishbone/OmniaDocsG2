@@ -15,7 +15,7 @@ Create Draft
 **************
 You can create a new Draft from a published process and start working on the new edition when you need it. The existing edition is still available for users until it's replaced, when the new edition is published.
 
-For more information on how to create a new draft, see the heading "Creating a new draft from a published document" on this page: (link to be added)
+For more information on how to create a new draft, see: :doc:`Create a new draft from a published process </working-with-processes/authoring-processes/working-with-drafts/new-draft-from-published/index>`
 
 View Process
 *******************
@@ -36,10 +36,10 @@ You can see the publication date for each edition, the author’s comment, if an
 
 Unpublish Process
 ********************
-If needed, a published process can be unpublished. The process will then not be available for en users. The document is also removed from the Processes library and a copy is placed in the archive.
+If needed, a published process can be unpublished. The process will then not be available for end users. The document is also removed from the Processes library and a copy is placed in the archive.
 
 **Note!**
-A provcess can't be unpublished if a draft has been created for that process. The draft must first be deleted.
+A process can't be unpublished if a draft has been created for that process. The draft must first be deleted.
 
 When "Unpublish" is selected, you get a second chance to change your mind:
 

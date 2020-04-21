@@ -213,4 +213,4 @@ To edit settings for a clickable area, do the following:
 
 (Image to be added)
 
-3. Change the settings and save. (See - link to be added - for more information)
+3. Change the settings and save. (See: :doc:`Create a new draft from a published process </working-with-processes/authoring-processes/working-with-drafts/drawing-tab/index>`- for more information)

@@ -3,7 +3,7 @@ Using the workspace for processes
 
 **(This documentation is just started, more will be added soon.)
 
-You use the tabs when working with the pocess or a process step:
+You use the tabs when working with the process or a process step:
 
 (Image to be added)
 
@@ -22,7 +22,12 @@ Here's a short overview of what to use the tabs for:
 
 See these pages for more information:
 
-(Links to be added)
+:doc:`Create a new draft from a published process </working-with-processes/authoring-processes/working-with-drafts/drawing-tab/index>`
+:doc:`Create a new draft from a published process </working-with-processes/authoring-processes/working-with-drafts/content-tab/index>`
+:doc:`Create a new draft from a published process </working-with-processes/authoring-processes/working-with-drafts/documents-tab/index>`
+:doc:`Create a new draft from a published process </working-with-processes/authoring-processes/working-with-drafts/links-tab/index>`
+:doc:`Create a new draft from a published process </working-with-processes/authoring-processes/working-with-drafts/tasks-tab/index>`
+:doc:`Create a new draft from a published process </working-with-processes/authoring-processes/working-with-drafts/properties-tab/index>`
 
 Design mode or Preview mode
 ****************************
@@ -30,4 +35,4 @@ You can use two different modes when working with a process; Design mode for edi
 
 (Image to be added)
 
-See this page for more information about the preview: (link to be added)
+See this page for more information about the preview: (link to be added):doc:`Preview a process </working-with-processes/authoring-processes/working-with-drafts/preview-a-process/index>`
