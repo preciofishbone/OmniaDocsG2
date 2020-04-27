@@ -1,6 +1,12 @@
-Roadmap
+In development
 ===================
 
-* :doc:`In Development </roadmap/in-development/index>`
-* :doc:`Rolling Out </roadmap/rolling-out/index>`
-* :doc:`Launched </release-notes/index>`
+- Communities 2.0
+- Teams App
+- Pexels Connector
+- Accessiblity Features
+- Translation Workflow
+- Compare Text Support for Translators
+- Targeted Search Categories
+- Improved Team Collaboration Administration
+- Process Management

@@ -53,7 +53,7 @@ Date And Time
 --------------
 For Date And Time you can set the following:
 
-.. image:: date-time-new.png
+.. image:: date-time.png
 
 Use the list to set the date format and select 24-hour or 12-hour Time Format.
 

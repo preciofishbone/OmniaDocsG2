@@ -1,7 +1,7 @@
 Approve pages
 ===========================================
 
-Omnia can be set up for approval of pages, meaning someone must approve publication of a new page or edits to a page. Approval is set up on Page Collection level.
+Omnia can be set up for approval of pages, meaning someone must approve publication of a new page or edits to a page. Approval is set up on Page Collection level (meaing you have to be Page Collection administrator to do that).
 
 The label for the Publish button will indicate if approval is required or not. If approval is not set up, the label will simply be "Publish":
 
@@ -15,7 +15,7 @@ Setting up approval
 *********************
 Do the following to set up approval:
 
-1. Go to the Page Collection settings in question (see: the Page Collection Settings section on this page: :doc:`Page Collections </pages/page-collections/index>`) 
+1. Go to the Page Collection settings in question (see: the Page Collection Settings section on this page: :doc:`Page Collections </pages/page-collections/index>`). 
 2. Select "Settings".
 3. Select "Enable Approval" and choose how approval will be executed.
 
@@ -26,7 +26,7 @@ When an editor has created a new page or edited a page, these are the simple ste
 1. Click "Send for approval".
 2. Add a comment about what has been done, if needed.
 
-.. image:: send-approval-comments.png
+.. image:: send-approval-comments-new.png
 
 3. Click "Send".
 
@@ -34,9 +34,9 @@ An e-mail is now sent to the approver(s) and the request is also placed in the P
 
 Approve or reject
 *******************
-An approver uses this list to approve or reject a page approval:
+An approver uses this list, found under "Reports" in the Navigation tree, when editing pages to approve or reject a page approval:
 
-.. image:: pending-approval-list.png
+.. image:: pending-approval-list-new.png
 
 The approver can go here by clicking a link in the e-mail or use the "Reports" option, see :doc:`Reports </pages/reports/index>` 
 
@@ -45,7 +45,7 @@ To approve or reject publication of a page, do the following:
 1. Click the link in the "Title" column, to go to the page.
 2. Check the new page or edits and decide what to do:
 
-.. image:: approva-approve-reject.png
+.. image:: approva-approve-reject-new.png
 
 3. If you Click "Approve" the page is published. 
 3. If you click "Reject" the page is not published and you add a message to the editor:

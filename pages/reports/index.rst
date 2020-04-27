@@ -5,19 +5,19 @@ A number of reports are available for pages in the active Publishing App. Note t
 
 Select "Reports" here:
 
-.. image:: pages-reports-menu.png
+.. image:: pages-reports-menu-new.png
 
 The following reports are available:
 
-.. image:: pages-reports-all.png
+.. image:: pages-reports-all-new.png
 
 All reports can be exported to Excel by clicking here:
 
-.. image:: reports-excel.png
+.. image:: reports-excel-new.png
 
 You can sort the lists on most column headings by pointing at the heading and then clicking the arrow (not on the heading). An arrow pointing up indicates descending sorting, and an arrow pointing down ascending sorting, for example:
 
-.. image:: reports-sort.png
+.. image:: reports-sort-new.png
 
 Usage
 *********
@@ -29,9 +29,9 @@ Checked out
 ************
 In this list you can see all pages that are currently checked out, meaning someone is working on them. New pages are shown here as well, even if they are not published yet, as long as a draft has been saved.
 
-.. image:: pages-reports-checked-out.png
+.. image:: pages-reports-checked-out-new.png
 
-Use the lists at the top to filter the list.
+Use the lists at the top to filter the Checked out-list.
 
 You can use the links in the "Page" column to go to a page, and the links in the "Contact" and "Checked Out To" columns to go to a colleagues Delve page, where for example contact information is shown.
 
@@ -39,13 +39,17 @@ Review
 ********
 If a property for review date for pages is being used, this list displays all pages that has a review date set.
 
-.. image:: pages-reports-review.png
+.. image:: pages-reports-review-new.png
 
 You can filter the list on Contact (Page Contact). You can use the links in the "Page" column to go to a page, and the links in the "Contact" column to go to a colleagues Delve page, where for example contact information is shown.
+
+If the Review Date has passed, it's indicated by a black triangle, so in the example above, the Page Editor has a lot of work to do!
  
 Pending Approval
 **********************
 If Approval for pages has been set up, this list will show all pages with pending approval.
+
+.. image:: pending-approval-example.png
 
 How to approve or reject here is described on this page, where you can find more information about approval: :doc:`Approve pages </pages/page-approval/index>`
 
@@ -57,9 +61,9 @@ A property for page contact has to have been set up in Omnia Admin, and a proper
 
 Go to the Publishing App Settings and the General tab.
 
-.. image:: reports-settings.png
+.. image:: reports-settings-new.png
 
 The correct properties must be selected here for the reports to work:
 
-.. image:: reports-settings-lists.png
+.. image:: reports-settings-lists-new.png
 

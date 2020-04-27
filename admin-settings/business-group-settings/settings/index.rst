@@ -86,7 +86,7 @@ You can use these settings:
 
 .. image:: action-menu-settings-new.png
 
-+ **Components**: This column lists the Components that can be displayed in the Action Menu. "My Sites" and "Notification Panel" has additional settings, see below.
++ **Components**: This column lists the Components that can be displayed in the Action Menu. "My Teams" and "Notification Panel" has additional settings, see below.
 + **Display**: You can decide which Components to display, and how: "Pinned" - is default, an Icon will be displayed; "Hidden" - if you don't want the Component to be available; "Menu" - if you want to display the Component in the menu (the three standing dots) instead as an Icon.
 + **Order**:  You can decide the order for the Components you're displaying, from left to right.
 
@@ -94,12 +94,14 @@ My Teams - additional settings
 -------------------------------
 Click the cog wheel to set additional settings för My Teams. Here's what you can set:
 
-.. image:: my-sites-settings-new2.png
+.. image:: my-sites-settings-new3.png
 
 General
 ^^^^^^^^
-+ **Following**: Decides if the "Following" tab is displayed or not. The "All" tab is always displayed. 
++ **Following**: Decides if the "Following" tab is displayed or not.  
 + **Member of**: Decides if the "Member of" tab is displayed or not.
++ **All**: Decides if the "All" tab should be displayed or not. In this case "All" means the user can search for all Team related sites that ARE connected to Omnia.
++ **All (Sharepoint Sites)**: Decides if the "All" tab should be displayed or not. In this case "All" means the user can search for all Team related sites that are connected to Omnia and also Sharepoint Sites that are not connected to Omnia.
 + **Order By**: Sets the Sort Order for the list of sites. 
 + **Open in New Windows**: Decides if the site is opened in a new window ore not.
 + **Use Letter Avatar**: Select to use Letter Avatars or not (see below for an example).
@@ -200,11 +202,11 @@ You can choose to use the global settings or custim settings, using the options 
 
 Footer
 *******
-Use these settings to add a footer for the business profiles pages.
+Use these settings to add a footer for the business profile's pages.
 
 .. image:: business-profile-footer.png
 
-First select "Absolute" or ""fixed" for the footers placement, than use HTML, Css and/or Script. To add the the code and text for the footer.
+Decide whether the position of the footer should be positioned at the bottom of the page (Absolute) or the bottom of the screen (Fixed). Then create  the footer using HTML/CSS and Javascript.
 
 As an example, here's how it looks when you select HTML:
 

@@ -13,11 +13,11 @@ To start the workflow, do the following:
 1. Select the document.
 2. Open the dit menu and select "Send for Comments".
 
-.. image:: send-for-comments-1.png
+.. image:: send-for-comments-1-new.png
 
 The following is shown:
 
-.. image:: send-for-comments-2.png
+.. image:: send-for-comments-2-new.png
 
 + **Reviewers**: In Reviewers, all colleagues to send to (=appoint as reviewers) is added. Normally, any colleague can be added here. 
 + **Message**: A message to the reviewers is added here. Note that you can only use one message even if you send to several reviewers. 
@@ -30,7 +30,7 @@ Note that all fields are mandatory.
 
 A task is now created for each colleague, and an e-mail is sent to each, with the message entered, and with a link to the document. 
 
-All reviewers are also notified in the notification panel, about the new task, and can choose to open the task from there. 
+Reviewers can also be notified in the notification panel, if itäs set up to display tasks, about the new task, and can choose to open the task from there. 
 
 The workflow will be active until the due date of the workflow is reached, all tasks are completed or the workflow is cancelled by the author.
 
@@ -40,11 +40,11 @@ In the column "Status" you can see what's going on with a document. You can also
 
 1. Click "Sent for Comments" in the "Status" column.
 
-.. image:: check-cancel-1.png
+.. image:: check-cancel-1-new.png
 
 Something like the following is shown:
 
-.. image:: check-cancel-2.png
+.. image:: check-cancel-2-new.png
 
 Here you can see the due date noted for the workflow and on a row for each reviewer you can see if her or she has reviewed yet and the comment, if review was done.
 
@@ -54,7 +54,7 @@ To cancel, do the following:
 
 1. Click "Cancel Workflow".
 
-.. image:: check-cancel-3.png
+.. image:: check-cancel-3-new.png
 
 You can also check status for both Send for Comments workflow and Publish workflow on the Tasks tab, See this page for more information: :doc:`Working with Tasks </working-with-documents/authoring-controlled-documents/working-with-tasks/index>`
 
@@ -65,7 +65,7 @@ A workflow History is available for all draft documents, showing all finished or
 1. Select the document.
 2. Open the dot menu and select "Workflow History".
 
-.. image:: workflow-history.png
+.. image:: workflow-history-new.png
 
 Something like the following is shown:
 

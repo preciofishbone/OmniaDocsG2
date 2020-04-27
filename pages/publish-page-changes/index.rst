@@ -12,15 +12,15 @@ A very good idea is to Preview the page before publishing. Do the following:
 1. Edit the page.
 2. Select "Preview".
 
-.. image:: preview-page.png
+.. image:: preview-page-new.png
 
-You can now see how the page will look on a computer screen, a tablet or a phone.
+You can now see how the page will look on a computer screen, a notebook, a tablet or a phone.
 
-.. image:: preview-all.png
+.. image:: preview-all-new.png
 
 Here's a preview for a phone as an example:
 
-.. image:: preview-phone.png
+.. image:: preview-phone-new.png
 
 Publish a page
 ***************
@@ -30,55 +30,45 @@ To publish a page, do the following:
 2. Make sure all changes to the page has been done.
 3. Save the draft.
 
-.. image:: save-draft.png
+.. image:: save-draft-new.png
 
 (You can publish directly but saving the draft first is a safer way.)
 
 4. Click "PUBLISH".
 
-.. image:: click-publish-new.png
+.. image:: click-publish-new2.png
 
-If approval hase been activated you must instead send for approval and the buttons label indicates that:
+If approval has been activated you must instead send for approval and the button's label indicates that:
 
-.. image:: send-for-approval-button.png
+.. image:: send-for-approval-button-new.png
 
-Fore more information about Page Approval, see: :doc:`Page Approval </pages/page-approval/index>`
+Fore more information about Page Approval, see: :doc:`Approve Pages </pages/page-approval/index>`
 
-Version History
-******************
-Every time you save changes to a page (including when you publish) a new Version History node for the page is created. You can check earlier versions and you can revert to an earlier version and continue working with that, if needed.
+Scheduled Publishing
+*********************
+If Scheduled Publishing is available you can choose to set a date and time for when the publishing should take place.
 
-Do the following to see Version History:
+**Note!** Scheduled Publishing is never mandatory, even if it's available. If you don't need Scheduled Publishing, just publish the usual way.
 
-1. Go to the page.
-2. If you're editing the page, save the draft or the Version History option will not be available.
-3. Open the action menu and select "VERSION HISTORY".
+1. To schedule Publishing, click here:
 
-.. image:: page-version-history-menu.png
+.. image:: scheduled-publishing-page.png
 
-Something like this is shown:
+2. Click in the field and first set date:
 
-.. image:: page-version-history-list.png
+.. image:: scheduled-date-page.png
 
-Published editions are noted with an integer, work in progress with a decimal.
+3. And then set time, if you wish:
 
-.. image:: page-version-history-published.png
+.. image:: scheduled-time-page.png
 
-Click the information about when the version was saved, to see who made the changes:
+4. When you're done setting scheduled publishing, click "Save".
 
-.. image:: page-version-history-editor.png
+The color and name of the Publish-button changes to reflect that a Scheduled Publishing is set:
 
-.. image:: page-version-history-who.png
+.. image:: scheduled-button-page.png
 
-To check a version of the page, click the version number. The dot turns to red for the version being shown.
+To edit the schedule, or remove the Scheduled Publishing all together, click the button.
 
-.. image:: check-version.png
-
-If needed, you can revert to an earlier version on continue working on that version instead.
-
-1. Click the version number for the desired version so the dot turns red.
-2. Click "REVERT".
-
-.. image:: page-version-revert-1.png
 
 

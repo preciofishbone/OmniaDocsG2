@@ -7,6 +7,7 @@ Business Profile Settings
    announcements/index
    features/index
    notification-panel/index
+   omnia-feed/index
    provisioning-templates/index
    publishing-apps/index
    search/index
