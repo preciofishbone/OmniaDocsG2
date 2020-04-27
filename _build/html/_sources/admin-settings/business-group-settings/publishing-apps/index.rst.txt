@@ -5,7 +5,7 @@ Within a Business Profile several Publishing Apps can be active for different se
 
 The existing Publishing Apps are shown in a list:
 
-.. image:: publishing-apps-list.png
+.. image:: publishing-apps-list-new.png
 
 Use the icons this way:
 
@@ -20,7 +20,7 @@ Do the following:
 
 1. Click the plus.
 
-.. image:: publishing-apps-click-plus.png
+.. image:: publishing-apps-click-plus-new.png
 
 2. Select a Provisioning Template.
 
@@ -30,9 +30,10 @@ Do the following:
 
 .. image:: publishing-apps-settings-new2.png
 
+Available settings depends on how the template is set up. Here are some common examples:
+
 + **Title**: Add a Title for the Publishing App.
 + **Description**: Add a Description if needed.
-
 + **Sharepoint Alias**: The last part of the Url to the Publishing App is shown here. It can be edited if needed.
 + **Document Library Url**: To make the Publishing App's Document library available in for example the Add Link asset, the full Sharepoint Url to the Document library must be added here.
 + **Allow User Upload Document**: The Administrator of the Publishing App will always be able to upload documents to the Document Library. If end users should be able to do that as well, select this option.

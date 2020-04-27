@@ -5,7 +5,7 @@ This block can be used to show tasks assigned to the logged in user. Tasks from 
 
 All sites with tasks assigned to the user is displayed in a list. Here's an example with the list opened for one of the sites:
 
-.. image:: tasks-rollup-example.png
+.. image:: tasks-rollup-example-new.png
 
 Settings
 *********
@@ -31,7 +31,7 @@ Custom colors
 ----------------
 You should primarily set colors in Omnia Admin (System/Settings/Default colors). If you still would like custom colors for the block, you can set them using this tab.
 
-.. image:: tasks-rollup-settings-colors.png
+.. image:: tasks-rollup-settings-colors-new.png
 
 Planner Tasks
 ---------------

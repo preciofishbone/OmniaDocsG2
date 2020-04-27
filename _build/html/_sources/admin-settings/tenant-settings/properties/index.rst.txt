@@ -25,6 +25,8 @@ Use the following settings:
 + **Internal name**: An internal name can or should in some instances be used instead of the Title, for example as a place holder. The internal name can not contain spaces.
 + **Type**: Select the Property type. It can be "Data", "Datetime", "Enterprise Keywords", "Media", "Person", "Rich text", "Taxonomy", "Text" or "Yes/No". Most of the Types are self explanatory. "Data" is a system field that users never enter anything to. "Rich text" can be formatted by the editor. "Text" is plain text that the editor can not format.
 
+**Note!** Properties used for targeting mus be of the "Taxonomy" type.
+
 Mapping a user profile property
 ----------------------------------
 In order to map an Omnia property to a user profile property, we need to first find the user profile property in sharepoint. In order to do that, lets look at this example:

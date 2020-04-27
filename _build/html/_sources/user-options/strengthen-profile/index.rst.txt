@@ -5,9 +5,11 @@ To make it easier for users to complete the most important parts of their profil
 
 The option can be available in the Action Menu:
 
-.. image:: strengthen-profile-menu.png
+.. image:: strengthen-profile-menu-new.png
 
-The option can also be made available through a block, on any page.
+The option can also be made available through a block, on any page. It can look like this:
+
+.. image:: strengthen-profile-block.png
 
 Here's an example of what the user will see:
 
@@ -18,6 +20,8 @@ The steps are numbered, the active step marked with a color (in the above exampl
 If this icon is present, the user can add a comment:
 
 .. image:: strengthen-profile-icon.png
+
+This can be useful if some informatation is shown that needs to be updated, but are not available for the user to edit here.
 
 Do the following:
 

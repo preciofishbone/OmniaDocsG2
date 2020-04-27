@@ -36,6 +36,7 @@ To add a Button Link in this block, do the following:
 + **Icon Type**: To add an icon to the buttton, first select the Icon Type here.
 + **Icon**: When you have selected the Icon Type, select the icon in this list. The icon is placed to the left of the button text.
 + **Target**: Choose if the link should be opened in a new window, the current window, or in a dialog.
++ **Dialog Position**: If you selected "Dialog" for Target, you can select where to place the dialog: Center, Full screen, Left or Right.
 + **Button Style**: You can select "Depressed", "Flat" or "Raised" as the style. Note that a flat button doesn't have any background color, so the text should normally be black for a flat button.
 + **Size**: The size of the button can be small, medium or large.
 + **Round**: For round button edges, select this option.

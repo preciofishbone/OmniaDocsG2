@@ -42,7 +42,7 @@
     <link rel="top" title="Omnia  documentation" href="../../index.html"/>
         <link rel="up" title="Blocks" href="../index.html"/>
         <link rel="next" title="Related Links" href="../related-links/index.html"/>
-        <link rel="prev" title="People Rollup" href="../people-rollup/index.html"/> 
+        <link rel="prev" title="Process Title block" href="../process-blocks/process-title/index.html"/> 
 
   
   <script src="../../_static/js/modernizr.min.js"></script>
@@ -112,6 +112,7 @@
 <li class="toctree-l2"><a class="reference internal" href="../page-rollup/index.html">Page Rollup</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../variation-selector/index.html">Page Variation Selector</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../people-rollup/index.html">People Rollup</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../process-blocks/index.html">Process blocks</a></li>
 <li class="toctree-l2 current"><a class="current reference internal" href="#">Quick Links</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../related-links/index.html">Related Links</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../rss-reader/index.html">RSS Reader</a></li>
@@ -127,9 +128,10 @@
 <li class="toctree-l1"><a class="reference internal" href="../../general-assets/index.html">General assets</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../pages/index.html">Pages</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../working-with-documents/index.html">Working with Documents</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../working-with-processes/index.html">Working with Processes</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../user-options/index.html">User options</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../setup/index.html">Setup</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../../roadmap/index.html">Roadmap</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../roadmap/index.html">In development</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../release-notes/index.html">Release Notes</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../guides/index.html">Guides</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../contribute-to-doc/index.html">Contribute to this Documentation</a></li>
@@ -205,24 +207,28 @@
 <div class="section" id="settings">
 <h2>Settings<a class="headerlink" href="#settings" title="Permalink to this headline">¶</a></h2>
 <p>The following settings are available for the block:</p>
-<img alt="../../_images/quick-links-settings-new-2.png" src="../../_images/quick-links-settings-new-2.png" />
+<img alt="../../_images/quick-links-settings-new-2new.png" src="../../_images/quick-links-settings-new-2new.png" />
 <div class="section" id="general">
 <h3>General<a class="headerlink" href="#general" title="Permalink to this headline">¶</a></h3>
 <p>The following is available here:</p>
-<img alt="../../_images/quick-links-settings-general.png" src="../../_images/quick-links-settings-general.png" />
+<img alt="../../_images/quick-links-settings-general-new.png" src="../../_images/quick-links-settings-general-new.png" />
 <ul class="simple">
 <li><strong>Title</strong>: If a title should be shown for the block, add it in this field. If no variation exists for the page, it looks like in the image above and you can set the title in the languages active in the tenant. If variations exists, only one title can be set. In that case, titles in other languages are set in the variations.</li>
 <li><strong>Sorted By</strong>: Decide how to sort the link list; Alphabetic or Last Visited order.</li>
 <li><strong>View Template</strong>: Select view for the list here; Simple List, App Icons, Navigation View or App Launch.</li>
+<li><strong>Include Non-Mandatory Links</strong>: If Non-Mandatory Links should be displayed, select this option. (Mandatory links are always displayed, but also see “Use Targeting”, below.)</li>
+<li><strong>Use Targeting</strong>: Select to use targeting (meaning the targeting that was set up for the links in Omnia Admin) or not for the links you choose to display here. Effects mandatory links as well. Normally this option should be selected as there are good reasons for the targeting of certain links, but in specialized implementations it is still possible to choose to display all links, targeted or not.</li>
+<li><strong>Include Personal Links</strong>: If the logged in user’s personal links (=created by the user) should be displayed, select this option.</li>
+<li>** Include Following Links**: Following links are non mandatory links that the user has chosen in his or her My Links list. If such links should be shown in this block, select this option.</li>
 <li><strong>Categories</strong>: Shared links can be categorized. Select to show one or more categories here. If no selection is made, all categories are shown.</li>
 <li><strong>Item Limit</strong>: Set the number of links to be shown per “page” in th list.</li>
-<li><strong>Padding</strong>: You can set padding between the block border and the list using this settings.</li>
+<li><strong>Padding</strong>: You can set padding between the block border and the list using these settings.</li>
 </ul>
 </div>
 <div class="section" id="custom-colors">
 <h3>Custom Colors<a class="headerlink" href="#custom-colors" title="Permalink to this headline">¶</a></h3>
 <p>You should primarily set colors centrally but you can change colors for some elements here, if needed:</p>
-<img alt="../../_images/quick-links-settings-colors.png" src="../../_images/quick-links-settings-colors.png" />
+<img alt="../../_images/quick-links-settings-colors-new.png" src="../../_images/quick-links-settings-colors-new.png" />
 </div>
 </div>
 <div class="section" id="layout-and-advanced">
@@ -244,7 +250,7 @@
         <a href="../related-links/index.html" class="btn btn-neutral float-right" title="Related Links" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right"></span></a>
       
       
-        <a href="../people-rollup/index.html" class="btn btn-neutral" title="People Rollup" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>
+        <a href="../process-blocks/process-title/index.html" class="btn btn-neutral" title="Process Title block" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>
       
     </div>
   
@@ -254,7 +260,7 @@
   <div role="contentinfo">
     <p>
         &copy; Copyright 2020, Precio Fishbone.
-      Last updated on Jan 09, 2020.
+      Last updated on Apr 27, 2020.
 
     </p>
   </div>

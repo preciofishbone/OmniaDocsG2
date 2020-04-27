@@ -112,6 +112,7 @@
 <li class="toctree-l2"><a class="reference internal" href="../page-rollup/index.html">Page Rollup</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../variation-selector/index.html">Page Variation Selector</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../people-rollup/index.html">People Rollup</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../process-blocks/index.html">Process blocks</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../quick-links/index.html">Quick Links</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../related-links/index.html">Related Links</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../rss-reader/index.html">RSS Reader</a></li>
@@ -127,9 +128,10 @@
 <li class="toctree-l1"><a class="reference internal" href="../../general-assets/index.html">General assets</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../pages/index.html">Pages</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../working-with-documents/index.html">Working with Documents</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../working-with-processes/index.html">Working with Processes</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../user-options/index.html">User options</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../setup/index.html">Setup</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../../roadmap/index.html">Roadmap</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../roadmap/index.html">In development</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../release-notes/index.html">Release Notes</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../guides/index.html">Guides</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../contribute-to-doc/index.html">Contribute to this Documentation</a></li>
@@ -218,7 +220,7 @@
 <h3>Display<a class="headerlink" href="#display" title="Permalink to this headline">¶</a></h3>
 <p>You can select “List View”, “Card” and “Group by site” here. Available settings differ depending on your choice.</p>
 <p>For <strong>List View</strong> you can set the following:</p>
-<img alt="../../_images/document-rollup-settings-display.png" src="../../_images/document-rollup-settings-display.png" />
+<img alt="../../_images/document-rollup-settings-display-new.png" src="../../_images/document-rollup-settings-display-new.png" />
 <ul class="simple">
 <li><strong>Add Column</strong>: Select additional columns to show in the list. Icon, Title, Link and Info icon are always shown.</li>
 <li><strong>Trim by Following Site</strong>: If this option is selected only documents from sites the logged in user follows are displayed in the list.</li>
@@ -230,11 +232,11 @@
 <li><strong>Padding</strong>: Use this setting for padding around the contents in the block.</li>
 </ul>
 <p>For <strong>Card</strong> view the following settings are available:</p>
-<img alt="../../_images/document-rollup-settings-display-card.png" src="../../_images/document-rollup-settings-display-card.png" />
+<img alt="../../_images/document-rollup-settings-display-card-new.png" src="../../_images/document-rollup-settings-display-card-new.png" />
 <ul class="simple">
 <li><strong>Title</strong>: Select what to show as the title: “Title”, “Document Type”, “Document Owner”, “Published”, Modified or Document Title..</li>
 <li><strong>Modified At</strong>: Here you select the information (field) to show for a document.</li>
-<li><strong>Show Modified By Info</strong>: Select the option to show who was the last to modify the document.</li>
+<li><strong>Modified By</strong>: You select information (field) to show for who the document was modified by.</li>
 <li><strong>Trim by Following Site</strong>: If this option is selected only documents from sites the logged in user follows are displayed in the list.</li>
 <li><strong>Sort By</strong>: Select the column the list should be sorted by.</li>
 <li><strong>Paging</strong>: Select paging for the list here. It can be “No paging”, “Classic” or “Scroll”.</li>
@@ -244,11 +246,11 @@
 <li><strong>Padding</strong>: Use this setting for padding around the contents in the block.</li>
 </ul>
 <p>For <strong>Group By Site</strong> these settings are available:</p>
-<img alt="../../_images/document-rollup-settings-display-group.png" src="../../_images/document-rollup-settings-display-group.png" />
+<img alt="../../_images/document-rollup-settings-display-group-new.png" src="../../_images/document-rollup-settings-display-group-new.png" />
 <ul class="simple">
 <li><strong>Title</strong>: Select what to show as the title: “Title”, “Document Type”, “Document Owner”, “Published”, Modified or Document Title..</li>
 <li><strong>Modified At</strong>: Here you select the information (field) to show for a document.</li>
-<li><strong>Show Modified By Info</strong>: Select the option to show who was the last to modify the document.</li>
+<li><strong>Modified By</strong>: You select information (field) to show for who the document was modified by.</li>
 <li><strong>Always Show Letter Avatar</strong>: If letter avatars always should be shown, select this option.</li>
 <li><strong>Trim by Following Site</strong>: If this option is selected only documents from sites the logged in user follows are displayed in the list.</li>
 <li><strong>Sort By</strong>: Select the column the list should be sorted by.</li>
@@ -332,7 +334,7 @@
 <h3>Query<a class="headerlink" href="#id3" title="Permalink to this headline">¶</a></h3>
 <p>The following settings are made for Query:</p>
 <img alt="../../_images/document-rollup-controlled-6.png" src="../../_images/document-rollup-controlled-6.png" />
-<p>Note the star (*) in the Query Field, meaning All (in this case Published Documents).</p>
+<p>Note the star (*) in the Query Field, meaning All (in this case Published Controlled Documents).</p>
 </div>
 <div class="section" id="id4">
 <h3>Filter<a class="headerlink" href="#id4" title="Permalink to this headline">¶</a></h3>
@@ -373,7 +375,7 @@
   <div role="contentinfo">
     <p>
         &copy; Copyright 2020, Precio Fishbone.
-      Last updated on Jan 09, 2020.
+      Last updated on Apr 27, 2020.
 
     </p>
   </div>

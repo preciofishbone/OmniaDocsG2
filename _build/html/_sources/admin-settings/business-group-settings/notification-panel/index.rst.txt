@@ -5,7 +5,7 @@ The Notification Panel is a concept in Omnia. The purpose is to help end users f
 
 A Notification Panel can be placed on any page, or in the Action Manu, to show different notifications. You can create several Notification Panels for different purposes.
 
-.. image:: notification-panel.png
+.. image:: notification-panel-new.png
 
 Create a new Notification Panel
 *********************************
@@ -13,11 +13,11 @@ To create a new Notification Panel, do the following:
 
 1. Click the plus.
 
-.. image:: notification-panel-click-plus.png
+.. image:: notification-panel-click-plus2.png
 
 2. Use the following settings:
 
-.. image:: notification-panel-settings-new3.png
+.. image:: notification-panel-settings-new4.png
 
 + **Title**: You can add a block title here if you wish. Note the setting to show the title or not (see below under *Layout*).
 + **Add Category**: Click here to add a new Category. 
@@ -30,7 +30,7 @@ To create a new Notification Panel, do the following:
 3. Click "ADD" to create the Category.
 4. Click the cog wheel to access the settings for the Category, for example.
 
-.. image:: notification-category-more-settings-cogwheel-4.png
+.. image:: notification-category-more-settings-cogwheel-4new.png
 
 Category settings
 --------------------
@@ -60,7 +60,7 @@ Layout
 ---------
 Here you can set the following:
 
-.. image:: notification-panel-layout.png
+.. image:: notification-panel-layout-new.png
 
 + **Show icon**: To show an icon for each category, select this option (Default=selected).
 + **Show label**: To show the label for each category, select this option (Default=deselected).
@@ -74,7 +74,7 @@ Custom colors
 --------------
 Default colors are set in Omnia Admin. Custom colors for different parts of the Notification Panel can be set here.
 
-.. image:: notification-panel-custom-colors.png
+.. image:: notification-panel-custom-colors-new.png
 
 
 

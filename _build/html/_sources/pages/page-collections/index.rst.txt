@@ -9,26 +9,26 @@ If the Feature “Default Page Collections and Page Types” has been activated,
 
 Page Collection Settings
 *************************
-A number of settings can be made for the Page Collection, this way:
+A number of settings can be edited for the Page Collection, this way:
 
 1. Edit a page in the Publishing App and open the Page menu.
 2. Click the main navigation node for the Page Collection.
 
 In this example, the two Page Collections Start and News has been created in the Publishing App, and "Start" is selected:
 
-.. image:: page-collection-general.png
+.. image:: page-collection-general-news.png
 
 3. Click "Settings".
 
-.. image:: page-collection-click-settings.png
+.. image:: page-collection-click-settings-new.png
+
+4. Click "Edit" at the bottom to edit the settings.
+
+.. image:: page-collection-click-edit.png
 
 4. Use the following settings:
 
-.. image:: page-collection-settings.png
-
-For the Page Collection "Start" edit mode is always active. For other Page Collections you have to activate edit mode by clicking here:
-
-.. image:: page-collection-edit-mode.png
+.. image:: page-collection-settings-new.png
 
 Use the settings this way:
 
@@ -37,10 +37,10 @@ Use the settings this way:
 + **Show Url**: If the Url for the new page should be shown for the editor when creating a page, select this option. The Url can then be edited.
 + **Show Properties**: If available Page Properties should be shown for the editor when creating a page, select this option. The Properties can then be edited in that stage. Page Properties can always be edited after the page has been created.
 + **Auto Publish**: This is a setting probably most relevant for Communities. If this option is selected a new page is always published automatically. It's only applicable when a new page is created, not when it's updated.
-+ **Page Types**: Select which of the Page Types should be available for an editor to select when creating a page.
++ **Page Types**: Select which of the Page Types available in the tenant, that should be available for an editor to select when creating a page in this Page Collection.
 + **Enable Approval**: If Approval should be needed for creation of new pages, enable this. If not enabled, editors can publish new pages themselves. See more info about Approval settings below.
 + **Reset notification when page is modified**: This setting defines when a notification that a page is new should be shown for users, for example in the Notification Panel. Normally it's only when the page is created, not when it's updated. If this option is activated the page is considered to be new every time it's updated and a new version is published. Therefore it's probably more relevant for pages in Communities than for Publishing Pages.
-+ **Enable Activity Points**: This option is a preparation for future functionality.
++ **Enable Activity Points**: This option is a preparation for future functionality. 
 
 Settings for Approval
 ----------------------
@@ -50,7 +50,7 @@ When Approval is activated, the following settings are available:
 
 You select who can approve the creation of a page:
 
-+ Anyone - The Author can select any colleague as approver when a page is published. see below for more information.
++ Anyone - The Author can select any colleague as approver when a page is published. See below for more information.
 + Limited list of people - you define the approvers using the field shown (see below). You can define one or more approvers but only one approval is needed each time, from any of the approvers.
 + Based on person property - you select property from the list shown (see below).
 
@@ -74,7 +74,7 @@ To save the changes to the Page Collection settings, you need to publish. You ca
 
 Creating a new Page Collection
 ******************************
-If nedded, a new Page Collection can be created. Do the following:
+If needed, a new Page Collection can be created. Do the following:
 
 1. Edit any page and open the navigation.
 2. Select "Settings" and then click "+ Page Collection".

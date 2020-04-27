@@ -5,27 +5,41 @@ Using Shared Links a Tenant Administrator, (or any other user added in the Permi
 
 Some links can be mandatory and it's also possible to target links to certain groups. 
 
-The end user can access the Shared Links in the My Links control. The list contains all active links. The user can decide which non-mandatory links to display and can add personal links there. Here's an example:
-
-.. image:: my-linksexample-new.png
-
 These links can also be accessed through a Quick Links block on any page, see: :doc:`The Quick Links block </blocks/quick-links/index>`
 
 There can be Shared Links specifically for a Business Profile. Such links are created and edited through the Shared Links option under the Business Profile. Options for Tenant Shared Links and Business Profile Shared Links are identical. Shared Links for a Business Profile can coexist with Shared Links for the Tenant.
 
 **Note!** Do not delete or alter the links to Office 365 applications, if present. They are needed for the App Launcher menu in Omnia.
 
+The end user experience
+*************************
+The end user can access the Shared Links in the My Links control. The list contains all active links. The user can decide which non-mandatory links to display and can add personal links there. Here's an example:
+
+.. image:: my-linksexample-new.png
+
+Settings
+**********
+The following settings are available:
+
+.. image:: shared-links-admin-settings.png
+
+In the list of Shared Links, click the pen to edit a link or the dust bin to delete a link.
+
+.. image:: shared-links-edit-new.png
+
+When editing a link, all options available when creating a new link can be edited, see above.
+
 Create a Shared Link
-**********************
+---------------------
 Do the following:
 
 1. Click the plus.
 
-.. image:: shared-links-click-plus-new.png
+.. image:: shared-links-click-plus-new2.png
 
 2. Set the following:
 
-.. image:: shared-links-settings2.png
+.. image:: shared-links-settings3.png
 
 (Not all options are shown in the image.)
 
@@ -44,49 +58,37 @@ Do the following:
 All languages to be used here must be setup in the Tenant Settings, see: :doc:`Tenant Settings </admin-settings/tenant-settings/settings/index>`
 
 Targeting a Shared Link
-*************************
+------------------------
 To target a link, do the following. Note that Properties for targeting must be set up first, see that section on this page: :doc:`Properties </admin-settings/tenant-settings/properties/index>`
 
 1. Click "Add Targeting Filter".
 
-.. image:: add-targeting-filter.png
+.. image:: add-targeting-filter-new.png
 
 2. Open the list and select Property.
 
-.. image:: targeting-property.png
+.. image:: targeting-property-new.png
  
 3. Select one or more children properties, if applicable.
 
-.. image:: select-children-properties.png
+.. image:: select-children-properties-new.png
  
 Or:
 3. Select to include all children properties.
 
-.. image:: select-children-all.png
+.. image:: select-children-all-new.png
   
 To delete a targeting filter, just click the x.
 
-.. image:: delete-targeting-filter.png
-
-Edit or delete a Shared Link
-*****************************
-In the list of Shared Links, click the pen to edit a link or the dust bin to delete a link.
-
-.. image:: shared-links-edit.png
-
-When editing a link, all options available when creating a new link can be edited, see above.
+.. image:: delete-targeting-filter-new.png
 
 Permissions for Shared Links
 *****************************
-Shared Links has a seperate Permissions setting, meaning any user can be set as a Shared Links administrator. This includes external users that has been invited in the Asher AD, meaing they can log in with their own Office 365 account. 
+Shared Links has a seperate Permissions setting, so any user can be set as a Shared Links administrator. This includes external users that has been invited in the Asher AD, meaning they can log in with their own Office 365 account. 
 
-1. Click "Permissions".
+Add all users that should be Shared Links administrators here:
 
-.. image:: shared-links-click-permissions.png
-
-2. Add all users that should be Shared Links administrators here:
-
-.. image:: shared-links-click-permissions-list.png
+.. image:: shared-links-click-permissions-list-new.png
 
 Note that Tenant Administrators always can work with Shared Links even though they are not listed here.
 

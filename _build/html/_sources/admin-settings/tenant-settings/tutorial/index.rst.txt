@@ -51,13 +51,12 @@ Do the follwing to edit an existing Tutorial:
 The following fields are avilable for each step in the Tutorial:
 
 + **Title**: This is the title shown for users. You can add a title in all languages used in the tenant, the default language mandatory. Which langauge will be shown for a user depends on that user's preferred language setting.
-+ **Image Url**: When you have added an image for the step, the url is shown here.
 + **Add Image**: To add an image to the step, click this link and use the Media Picker. It's not mandatory to add an image. See this page for more information about the Media Picker: :doc:`The Media Picker </general-assets/media-picker/index>`
 + **Content**: Use this field to add the text for this step. Some basic formatting options are available. You can add Content in all languages used in the tenant, the default language mandatory. Which langauge will be shown for a user depends on that user's preferred language setting.
 
 Further down, the following settings are available:
 
-.. image:: tutorial-settings-2.png
+.. image:: tutorial-settings2-new.png
 
 When you have added a number of steps you can use the dots in the bar to go to another steop, to edit that step.
 
@@ -68,27 +67,27 @@ When you add a step, you can see that another dot is created in the navigation b
 .. tutorial-new-step.png
 
 + **Preview tutorial**: When you want to check how the tutorial will look for users, select this button. 
-+ **Source Setting**: To select pages where this Tutorial should be available, click here. The number to the right of the link indicates the number of pages selected.
++ **Target Settings**: To select pages where this Tutorial should be available, click here. The number to the right of the link indicates the number of pages selected.
 
 3. Use these settings to select pages:
 
-.. image:: source-settings.png
+.. image:: source-settings-new.png
 
-You can edit a source, just add or delete. To delete, click the dust bin for the source.
+You can edit a target, just add or delete. To delete, click the dust bin for the target.
 
 To add a page, do the following:
 
-1. Click "Add Source".
+1. Click "Add Target".
 
-.. image:: click-add-source.png
+.. image:: click-add-source-new.png
 
 Use these settings:
 
-.. image:: source-settings.png
+.. image:: source-settings2-new.png
 
-+ **Source Type**: It's always Page, and it's already selected.
++ **Target Type**: It's always Page, and it's already selected.
 + **Path**: Add or paste the path to the page here. See the second image above for examples of paths.
-+ **Start Mode**: Select Start Mode here. Note that you can select different Start Modes for different sources (pages), for the same Tutorial.
++ **Start Mode**: Select Start Mode here. Note that you can select different Start Modes for different pages, for the same Tutorial.
 
 The following is available under "Start Mode":
 
@@ -96,7 +95,7 @@ The following is available under "Start Mode":
 
 The Tool Tip Alert will be shown on the Tutorial icon.
 
-+ **Add**: When you have entered the settings for a source, you must click "Add" to add the source to the list.
++ **Add**: When you have entered the settings for a page, you must click "Add" to add the page to the list.
 + **Save**: When all sources are added, click here to save the source settings.
 
 Delete a step
@@ -106,7 +105,7 @@ To delete a step in the Tutorial, do the following:
 1. Go to the step using the navigation bar with the dots.
 2. Click the dust bin:
 
-.. image:: delete-step.png
+.. image:: delete-step-new.png
 
 Reorder steps
 **************
@@ -114,7 +113,7 @@ The Tutorial steps are always ordered as you create them, a new step always plac
 
 1. Activate the "Reorder" button.
 
-.. image:: reorder-button.png
+.. image:: reorder-button-new.png
 
 Something like the following is shown:
 

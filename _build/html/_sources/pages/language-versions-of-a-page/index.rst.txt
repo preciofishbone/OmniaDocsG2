@@ -1,8 +1,19 @@
 Language versions of a page
 ===========================================
 
-Do you need to publish a page in more than one language? Then you use the option "Page Variations".
+Do you need to publish a page in more than one language? Then you use the option "Page Variations". You can use the option for any variation of a page, not just language.
 
-You can use the option for any variation of a page, not just language.
+First a Publishing App Administrator must set up the variations in the Page Settings, see this page: :doc:`Publishing App settings </pages/page-settings/index>`
 
-You find the option among the Page Settings, see this page: :doc:`Publishing App settings </pages/page-settings/index>`
+When the Page Variations are set up, any page author can edit the page for that variation. To edit a page variation, for example for another language, do the following:
+
+1. Edit the page.
+2. Select variation to work with.
+
+.. image:: select-variation-new3.png
+
+3. Edit the blocks as usual.  
+
+.. image:: swedish-variations.png
+
+4. Save and publish as ususal.

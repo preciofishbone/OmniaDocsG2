@@ -42,7 +42,7 @@
     <link rel="top" title="Omnia  documentation" href="../../index.html"/>
         <link rel="up" title="Pages" href="../index.html"/>
         <link rel="next" title="Publishing App settings" href="../page-settings/index.html"/>
-        <link rel="prev" title="Edit page navigation" href="../edit-page-navigation/index.html"/> 
+        <link rel="prev" title="Edit Permissions for a page" href="../edit-permissions/index.html"/> 
 
   
   <script src="../../_static/js/modernizr.min.js"></script>
@@ -102,8 +102,10 @@
 <li class="toctree-l2"><a class="reference internal" href="../edit-page/index.html">Edit a page</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../language-versions-of-a-page/index.html">Language versions of a page</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../publish-page-changes/index.html">Publish page changes</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../version-history/index.html">Check Version History and use an earlier version</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../page-approval/index.html">Approve pages</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../edit-page-navigation/index.html">Edit page navigation</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../edit-permissions/index.html">Edit Permissions for a page</a></li>
 <li class="toctree-l2 current"><a class="current reference internal" href="#">Page Types</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../page-settings/index.html">Publishing App settings</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../page-statistics/index.html">Page Statistics</a></li>
@@ -112,9 +114,10 @@
 </ul>
 </li>
 <li class="toctree-l1"><a class="reference internal" href="../../working-with-documents/index.html">Working with Documents</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../working-with-processes/index.html">Working with Processes</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../user-options/index.html">User options</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../setup/index.html">Setup</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../../roadmap/index.html">Roadmap</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../roadmap/index.html">In development</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../release-notes/index.html">Release Notes</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../guides/index.html">Guides</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../contribute-to-doc/index.html">Contribute to this Documentation</a></li>
@@ -185,9 +188,9 @@
             
   <div class="section" id="page-types">
 <h1>Page Types<a class="headerlink" href="#page-types" title="Permalink to this headline">¶</a></h1>
-<p>An administrator or an editor with the correct permissions can work with Page Types. A page type contains sections where blocks can be placed for content. Sections can be targeted.</p>
+<p>If you are Publishing App administrator you can work with Page Types. A page type contains sections where blocks can be placed for content. Sections can be targeted.</p>
 <p>Some blocks can be added to a page type so they are a part of the layout presented to editors of a page based on the Page Type. See the bottom of this page for more information on blocks that belong to the Page Type.</p>
-<p>When a new page is created, the editor can choose page type from any available in the page type list.</p>
+<p>When a new page is created, the Editor or Author can choose page type from any available in the page type list.</p>
 <div class="section" id="edit-a-page-type">
 <h2>Edit a Page Type<a class="headerlink" href="#edit-a-page-type" title="Permalink to this headline">¶</a></h2>
 <p>To edit a page type, do the following:</p>
@@ -213,7 +216,7 @@
 </ol>
 <img alt="../../_images/page-types-click-edit-new.png" src="../../_images/page-types-click-edit-new.png" />
 <ol class="arabic simple" start="7">
-<li>To edit a section, click the section, and then the cog wheel.</li>
+<li>To edit settings for a section, click the section, and then the cog wheel.</li>
 </ol>
 <img alt="../../_images/page-types-edit-section-new.png" src="../../_images/page-types-edit-section-new.png" />
 <p>For information about various settings and how to place Blocks, see below.</p>
@@ -323,7 +326,7 @@
 <div class="section" id="advanced-settings">
 <h3>Advanced Settings<a class="headerlink" href="#advanced-settings" title="Permalink to this headline">¶</a></h3>
 <p>In the advanced settings you can use custom CSS styling for the section.</p>
-<img alt="../../_images/page-types-settings-advanced-new.png" src="../../_images/page-types-settings-advanced-new.png" />
+<img alt="pages\page-types\page-types-settings-advanced-new2.png" src="pages\page-types\page-types-settings-advanced-new2.png" />
 </div>
 </div>
 <div class="section" id="create-a-section-in-a-column">
@@ -358,6 +361,35 @@
 </ol>
 <img alt="../../_images/delete-section-2-new.png" src="../../_images/delete-section-2-new.png" />
 </div>
+<div class="section" id="move-a-section">
+<h2>Move a section<a class="headerlink" href="#move-a-section" title="Permalink to this headline">¶</a></h2>
+<p>Do the following to move a section to another placement on the page.</p>
+<ol class="arabic simple">
+<li>Click the section.</li>
+<li>Click the Move icon.</li>
+</ol>
+<img alt="../../_images/move-icon-section.png" src="../../_images/move-icon-section.png" />
+<p>Icons now show where you can move the section, for example:</p>
+<img alt="../../_images/can-be-moved-section.png" src="../../_images/can-be-moved-section.png" />
+<ol class="arabic simple" start="3">
+<li>Click the icon where you want the section and it’s moved there.</li>
+</ol>
+</div>
+<div class="section" id="copy-a-section">
+<h2>Copy a section<a class="headerlink" href="#copy-a-section" title="Permalink to this headline">¶</a></h2>
+<p>If you need a section with roughly the same settings somewhere else on the page, you can copy a section and place the copy where you want it, and then edit the settings. Do the following:</p>
+<ol class="arabic simple">
+<li>Click the section.</li>
+<li>Click the Copy icon.</li>
+</ol>
+<img alt="../../_images/copy-icon-section.png" src="../../_images/copy-icon-section.png" />
+<p>Icons now show where you can add the new section, the same way as when you move a section, for example:</p>
+<img alt="../../_images/section-can-be-copied.png" src="../../_images/section-can-be-copied.png" />
+<ol class="arabic simple" start="3">
+<li>Click the icon where you want the copied section and it’s placed there.</li>
+<li>Edit the settings that you want to change.</li>
+</ol>
+</div>
 <div class="section" id="adding-blocks-to-a-section">
 <h2>Adding blocks to a Section<a class="headerlink" href="#adding-blocks-to-a-section" title="Permalink to this headline">¶</a></h2>
 <p>Here’s how to add a block to a section:</p>
@@ -378,28 +410,40 @@
 <p>When you’re working on a section you can select to show it on different devices or not.</p>
 <p>Click this icon:</p>
 <img alt="../../_images/device-support-section-new.png" src="../../_images/device-support-section-new.png" />
-<p>Then you can decide on which devices to show this section:</p>
+<p>You can now use the following settings:</p>
 <img alt="../../_images/select-device-section-new.png" src="../../_images/select-device-section-new.png" />
+<p>To hide a section for a device, do the following:</p>
+<ol class="arabic simple">
+<li>Select the device.</li>
+<li>Click the pen for Visibility.</li>
+<li>Select Hide Section.</li>
+</ol>
+<p>To add som padding for the section, for a specific device, do the following:</p>
+<ol class="arabic simple">
+<li>Select the device.</li>
+<li>Click the pen for Section Padding.</li>
+<li>Set the padding.</li>
+</ol>
 </div>
 <div class="section" id="settings">
 <h2>Settings<a class="headerlink" href="#settings" title="Permalink to this headline">¶</a></h2>
 <p>On the “Settings” tab you can set the Properties for all pages created from this Page Type. In many cases it results in fields the page editor has to or can fill in for a page. You can select any of the properties defined in the tenant. See this page for more information about setting up properties: <a class="reference internal" href="../../admin-settings/tenant-settings/properties/index.html"><span class="doc">Tenant Settings - Properties</span></a></p>
 <p>Here’s an example with a Page Type with left navigation:</p>
-<img alt="../../_images/page-type-settings-left.png" src="../../_images/page-type-settings-left.png" />
+<img alt="../../_images/page-type-settings-left-new.png" src="../../_images/page-type-settings-left-new.png" />
 <p>It results in these fields being available on the Properties tab for a page:</p>
-<img alt="../../_images/page-type-settings-left-fields.png" src="../../_images/page-type-settings-left-fields.png" />
+<img alt="../../_images/page-type-settings-left-fields-new.png" src="../../_images/page-type-settings-left-fields-new.png" />
 <p>And here’s an example with a Page Type for News:</p>
-<img alt="../../_images/page-type-settings-news.png" src="../../_images/page-type-settings-news.png" />
+<img alt="../../_images/page-type-settings-news-new.png" src="../../_images/page-type-settings-news-new.png" />
 <p>Which results in these fields being available on the Properties tab for a News Article page:</p>
-<img alt="../../_images/page-type-settings-news-fields.png" src="../../_images/page-type-settings-news-fields.png" />
+<img alt="../../_images/page-type-settings-news-fields-new.png" src="../../_images/page-type-settings-news-fields-new.png" />
 <p>Set properties for the Page Type this way:</p>
 <ol class="arabic simple">
 <li>Select the properties to be used for this Page Type.</li>
-<li>Click the dot menu for more settings for a property.</li>
+<li>Click the cog wheel for more settings for a property.</li>
 </ol>
-<img alt="../../_images/page-type-settings-dot-menu.png" src="../../_images/page-type-settings-dot-menu.png" />
+<img alt="../../_images/page-type-settings-cogwheel.png" src="../../_images/page-type-settings-cogwheel.png" />
 <p>Something like the following is shown:</p>
-<img alt="../../_images/page-type-settings-dot-menu-settings.png" src="../../_images/page-type-settings-dot-menu-settings.png" />
+<img alt="../../_images/page-type-settings-dot-menu-settings-new.png" src="../../_images/page-type-settings-dot-menu-settings-new.png" />
 <p>The following settings can be available for a property:</p>
 <ul class="simple">
 <li><strong>Required</strong>: The editor creating the page has to enter information in the field.</li>
@@ -428,7 +472,7 @@
         <a href="../page-settings/index.html" class="btn btn-neutral float-right" title="Publishing App settings" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right"></span></a>
       
       
-        <a href="../edit-page-navigation/index.html" class="btn btn-neutral" title="Edit page navigation" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>
+        <a href="../edit-permissions/index.html" class="btn btn-neutral" title="Edit Permissions for a page" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>
       
     </div>
   
@@ -438,7 +482,7 @@
   <div role="contentinfo">
     <p>
         &copy; Copyright 2020, Precio Fishbone.
-      Last updated on Jan 09, 2020.
+      Last updated on Apr 27, 2020.
 
     </p>
   </div>

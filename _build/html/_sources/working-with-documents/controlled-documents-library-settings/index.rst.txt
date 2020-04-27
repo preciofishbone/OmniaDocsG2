@@ -1,14 +1,13 @@
 Controlled Documents Library Settings
 =======================================
 
-You must be Administrator (The permission group is most often called "Owners") of the Team Site - there can one or more - to be able to edit the settings for the three lists in the Controlled Documents library, and to edit permissions.
+You must be Administrator (The permission group is often called "Owners") of the Team Site - there can be one or more - to be able to edit the settings for the three lists in the Controlled Documents library, and to edit permissions.
 
 Settings for the tabs
 ***********************
-
 To access the seetings, go to the Controlled Documents library and click "Edit".
 
-.. image:: edit-controlled-library.png
+.. image:: edit-controlled-library-new.png
 
 General
 -----------
@@ -35,23 +34,25 @@ Drafts
 --------
 The following settings are available here:
 
-.. image:: edit-controlled-library-drafts.png
+.. image:: edit-controlled-library-drafts-new.png
 
 + **Default Ordering Field**: Select the column for default sort order for the list.
++ **Sort Direction**: Select Descending or Ascending her.
 + **Show Search Box**: If authors should be able to search for documents here, select this option.
-+ **Display columns in draft view**: To add a new column, select it in the list and click "Add". To remove a column. click the dust bin. If no dust bin is shown for a column it's mandatory, and therefore can't be removed. You can set the order of the columns by grabbing the Equal To icon for the column and drag it to another place in the list.
++ **Column**: Use this option to add a column to bes shown. Open the list, select the column and click "ADD".
++ **Display columns in draft view**: Here the selected columns are listed. To remove a column. click the dust bin. If no dust bin is shown for a column it's mandatory, and therefore can't be removed. You can set the order of the columns by grabbing the Equal To icon for the column and drag it to another place in the list.
 
 Published
 ------------
 The same type of settings as for Drafts are available here:
 
-.. image:: edit-controlled-library-published.png
+.. image:: edit-controlled-library-published-new.png
 
 See above for a description.
 
 Default Document Types
 ------------------------
-Use these settings to select one or more Document Types to be suggested when an author creates a new draft document in this Controlled Documents library.
+Use this setting to select one or more Document Types to be suggested when an author creates a new draft document in this Controlled Documents library.
 
 As an example, these settings:
 
@@ -59,9 +60,9 @@ As an example, these settings:
 
 Will result in the following:
 
-.. image:: default-types-example-2.png
+.. image:: default-types-example-2-new.png
 
-More information about how the New Document Wizard works is found here: :doc:`Using the Document Wizard </working-with-documents/using-the-document-wizard/index>`
+A user can always click "Show All" to see all available document types. More information about how the New Document Wizard works is found here: :doc:`Using the Document Wizard </working-with-documents/using-the-document-wizard/index>`
 
 To add a Document Type, do the following:
 
@@ -85,23 +86,23 @@ Do the following:
 
 1. Click "Permissions" in the Controlled Documents library.
 
-.. image:: click-permissions.png
+.. image:: click-permissions-new.png
 
 Something like the following is shown:
 
-.. image:: controlled-permissions.png
+.. image:: controlled-permissions-new.png
 
 You can add/remove groups and/or users to these lists.
 
 2. To edit permissions, open the list.
 
-.. image:: controlled-permissions-list.png
+.. image:: controlled-permissions-list-new.png
 
 You can also add groups or users by typing the name in the field.
 
 If permission groups are used, as in the example above, you can add and remove users in these groups by using the Sharepoint standard functionality "Advanced permissions settings".
 
-.. image:: advanced-permissions-settings.png
+.. image:: advanced-permissions-settings-new.png
 
 Note that external users that has been invited in the Asher AD can be added here as well. Users invited this way can log in with their own Office 365 account.
 
