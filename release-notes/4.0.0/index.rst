@@ -44,12 +44,13 @@ The UI will show the default variation page text on the left-hand side and the v
 Document Picker
 ************************************************
 
-There is a new possibility to configure the Document Picker centrally in Omnia Admin to make different tabs available for the author. Two typers of categories can be created, either you select a specific SharePoint document library or you create a Search Category that should be available.
+There is a new possibility to configure the Document Picker centrally in Omnia Admin to make different tabs available for the author. Two types of categories can be created, either you select a specific SharePoint document library or you create a Search Category that should be available.
 
 
 .. image:: document-picker-administration.png
 
-The new document picker will replace the old one when adding related links on web pages. It will also show any document library that has been configured for the current publishing app.
+The new document picker will replace the old one when adding related 
+s on web pages. It will also show any document library that has been configured for the current publishing app.
 
 .. image:: document-picker-ui.png
 
@@ -60,6 +61,8 @@ The new document picker will also be available in the document rollup. This will
 
 Improved Search
 ************************************************
+
+(#116729)
 
 It is now possible to configure a search box to be shown in the header of a business profile.
 
@@ -77,33 +80,33 @@ Improved Teamwork Navigation and Administration
 ************************************************
 
 
-(To be added to releasenotes soon!)
-(#116996, #114661, #114870, #117577, #114837, #116854, #117576)
+(To be added to release notes soon!)
+(#116996, #114661, #114870, #117577, #114837, #116854, #117576, #118444, #117581, #117854)
 
 Process Management
 ************************************************
 
-(To be added to releasenotes soon!)
+(To be added to release notes soon!)
 
 Communities
 ************************************************
 
-(To be added to releasenotes soon!)
+(To be added to release notes soon!)
 
 Improved Audit Log
 ************************************************
 
-(To be added to releasenotes soon!)
+(To be added to release notes soon!)
 
 User Profile Sync
 ************************************************
 
-(To be added to releasenotes soon!)
+(To be added to release notes soon!)
 
-Enable/Disable Business Profile Header (and Preallocated Height)
+Enable/Disable Business Profile Header (and Pre-allocated Height)
 *****************************************************************
 
-(To be added to releasenotes soon!)
+(To be added to release notes soon!)
 
 
 
@@ -133,6 +136,7 @@ Document Management
 ***********************
 - Support for vsdx icons.
 - The Tabs Drafts, Tasks, and Published now has a larger click area (#117861).
+- Built in properties are now visible in the properties dialog (#118418).
 
 Tenant Administration
 ***********************
@@ -145,8 +149,8 @@ Workplace
 - Date refiners now work as expected in advanced search (#114577, #115570).
 - Updated design in advanced search (#117305, #116824).
 - Updated design for action bar item tabs.
-- Updated design for shared links.
-- Action button has recieved many updates and multilingual support has been improved and it can now be used to create pages (#117303, #114101).
+- Updated design for shared links. (#116056).
+- Action button has received many updates and multilingual support has been improved and it can now be used to create pages (#117303, #114101, #118480, #117730).
 
 Fixes 
 ***********************
@@ -178,6 +182,7 @@ Fixes
 - Adding documents through related links now correctly lists deleted users (#117801).
 - Now possible to create two enterprise properties with the same displayname (#115627).
 - Fixed the page properties block to correctly rowbreak properties that does not fit (#118275).
+- AzureAD groups with special characters in thier name now correctly show up in people pickers (#118570).
 
 
 
