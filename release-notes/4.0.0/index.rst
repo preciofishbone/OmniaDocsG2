@@ -77,27 +77,33 @@ Improved Teamwork Navigation and Administration
 ************************************************
 
 
-
+(To be added to releasenotes soon!)
 (#116996, #114661, #114870, #117577, #114837, #116854, #117576)
 
 Process Management
 ************************************************
 
+(To be added to releasenotes soon!)
+
 Communities
 ************************************************
 
-
+(To be added to releasenotes soon!)
 
 Improved Audit Log
 ************************************************
 
+(To be added to releasenotes soon!)
+
 User Profile Sync
 ************************************************
+
+(To be added to releasenotes soon!)
 
 Enable/Disable Business Profile Header (and Preallocated Height)
 *****************************************************************
 
-
+(To be added to releasenotes soon!)
 
 
 
