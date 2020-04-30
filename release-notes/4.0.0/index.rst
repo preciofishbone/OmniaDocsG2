@@ -108,6 +108,11 @@ Enable/Disable Business Profile Header (and Pre-allocated Height)
 
 (To be added to release notes soon!)
 
+Tab control
+*****************************************************************
+
+(To be added to release notes soon!)
+
 
 
 Enhancements
@@ -120,6 +125,7 @@ Omnia
 - Improved keyboard controls.
 - Several performance improvements for both Omnia and SPFx.
 - Stability improvements to the color picker.
+- Improvements to block background color settings.
 
 Web Content Management
 ***********************
@@ -131,6 +137,7 @@ Web Content Management
 - Auto rolling of the news roller will be disabled if accessibility mode is turned on.
 - Custom block header size now starts at 1px instead of 30px.
 - The page rollup now works correctly in SPFx (#118051).
+- Scheduled pages can now be edited even after the schedule is set (#118473).
 
 Document Management
 ***********************
@@ -180,12 +187,13 @@ Fixes
 - Advanced search now always shows the correct item count. Also impacts results and paging in some scenarios (#114072, #115352, #116723, #114039, #115789, #117802, #115121, #115250).
 - External links in Shared Links now work correctly on IOS (#117048).
 - Adding documents through related links now correctly lists deleted users (#117801).
-- Now possible to create two enterprise properties with the same displayname (#115627).
-- Fixed the page properties block to correctly rowbreak properties that does not fit (#118275).
-- AzureAD groups with special characters in thier name now correctly show up in people pickers (#118570).
-
-
-
-
-
-
+- Now possible to create two enterprise properties with the same display name (#115627).
+- Fixed the page properties block to correctly row break properties that does not fit (#118275).
+- Azure AD groups with special characters in their name now correctly show up in people pickers (#118570).
+- Default date page properties now correctly work with days as a time setting (#118450).
+- Create new page via the page rollup now correctly works in all multi page collection scenarios (#115498, #117822).
+- Getting default properties for documents from site properties now work correctly (#117774).
+- Fixed alignment in some menus of Omnia admin (#118445).
+- Fixed a problem where navigating between ODM authoring sites would not work correctly when my sites was used for the navigation (#118034).
+- Team News Rollup now has correct localization for social dates. (#117788).
+- Auto publish now works correctly on all page collection configurations (#115434).
