@@ -7,29 +7,29 @@ Do the following to create a new Process:
 
 1. Click "NEW PROCESSES".
 
-(Image to be added)
+.. image:: click-new-process.png
 
 2. Select process type from the list and add title in any or all the languages available. Default language is mandatory.
 3. Click "CREATE".
 
-(Image to be added)
+.. image:: new-process-2.png
 
-Then the workspace for a process is shown. See below for descriptions.
+Then the workspace for a process is shown, see: :doc:`Using the workspace for processes </working-with-processes/authoring-processes/working-with-drafts/using-the-workspace/index>`
 
-(Image to be added)
+.. image:: new-process-3.png
 
 Using the left navigation
 **************************
 You can open the menu for the process to add process steps, linked processes or to edit the title.
 
-(Image to be added)
+.. image:: new-process-left-navigation.png
 
-Note that another way to add process steps is to work with the shapes. See below.
+Note that another way to add process steps is to work with the shapes, see: :doc:`The Drawing tab - authoring processes </working-with-processes/authoring-processes/working-with-drafts/drawing-tab/index>`
 
 You can open the menu for a process step to create process steps under a process step, add linked processes to that process step, edit the title, move the process step or delete it.
 
-(Image to be added)
+.. image:: new-process-steps.png
 
 You can open and close the left navigation by clicking this icon:
 
-(Image to be added)
+.. image:: close-left-navigation.png
