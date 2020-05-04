@@ -1,8 +1,6 @@
 Creating a draft process
 ============================
 
-**(This documentation is just started, more will be added soon.)**
-
 Do the following to create a new Process:
 
 1. Click "NEW PROCESSES".
