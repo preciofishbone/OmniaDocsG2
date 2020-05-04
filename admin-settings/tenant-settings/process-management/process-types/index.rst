@@ -36,8 +36,8 @@ Publish
 + **Allow Revisions**: Selecting this option you can allow authors to publish a revision of a process, instead of a full edition, for example for correcting typing errors. 
 + **Allow to bypass approval for Revisions**: If this option is active (shown when the option above is selected), it's up to the author to decide if approval is needed or not, when publishing a revision. Approval is still needed for publishing a new (full) edition of a process.
 + **Publishing approval**: Select if approval is to be used for this Process Type. If this option is NOT active, a process will be published immediately when an author clicks "Publish". If Publishing Approval is selected, you must also choose how approval will take place:
-- Anyone: The author can select any user of the portal as approver, when the process is published.
-- Limited list of users: Authors can select approvers from a defined list only. You create the list here.
+    - Anyone: The author can select any user of the portal as approver, when the process is published.
+    - Limited list of users: Authors can select approvers from a defined list only. You create the list here.
 
 6. Save when you're done.
 
@@ -48,13 +48,13 @@ Review
 .. image:: process-type-settings-review.png
 
 + **Review Reminder**: Select this option if a review reminder should be sent for the process. If this option is selected, you must also set the following:
-- Time after publishing: You can set how often a review reminder should be sent, in one of two ways. Here you can set a time span - a number of days, months or years.
-- Property: You can set how often a review reminder should be sent, in one of two ways. Here you can set a property for that purpose, a property a process author will fill in - a specific date or a specific retention date.
+    - Time after publishing: You can set how often a review reminder should be sent, in one of two ways. Here you can set a time span - a number of days, months or years.
+    - Property: You can set how often a review reminder should be sent, in one of two ways. Here you can set a property for that purpose, a property a process author will fill in - a specific date or a specific retention date.
 + **Send reminder in advance**: The reminder can be sent a number of days, months or years before the decided revision date. Set how far in advance it will be sent here.
 + **Review Reminder Recipients**: Select which role will recieve the reminders.
 + **Create Task**: A review reminder is always sent by e-mail. If a task should be created as well, select this option, and the then set the following:
-(Top list): Use the top list to set which role the task will be created for.
-Task expire in: Set a number od days, months or years for when the task will expire (the task will still be available, but marked as expired).
+    - (Top list): Use the top list to set which role the task will be created for.
+    - Task expire in: Set a number od days, months or years for when the task will expire (the task will still be available, but marked as expired).
 
 8. Save when you're done with the settings here.
 
