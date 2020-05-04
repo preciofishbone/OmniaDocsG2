@@ -1,6 +1,13 @@
 Process Management - Tenant settings
 ======================================
 
+The following settings are available here:
+
+.. image:: process-management-settings.png
+
+Select setting below for more information.
+
+
 .. toctree::
    :titlesonly:
 
