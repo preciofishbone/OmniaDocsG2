@@ -26,8 +26,8 @@ Use the following settings:
 + **Title**: You can add a title for the new shape, in any or all available languages. Default language for the tenant is mandatory.
 + **Freeform/Media**: Decide how to add the shape; Select "Freeform" to draw the shape, "Media" to upload an image.
 
-Add a freeform shape
----------------------
+Adding a freeform shape
+-----------------------
 When you have selected "Freeform" do the following:
 
 1. Click "DRAW SHAPE".
@@ -37,14 +37,14 @@ When you have selected "Freeform" do the following:
 5. To finish the shape, move the mouse to the first corner of the shape and click.
 6. Click "OK".
 
-.. image:: pm-shape-freeform.png
+.. image:: pm-shape-freeform-frame.png
 
 7. Clicks "Save".
 
 .. image:: pm-shape-freeform-save.png
 
-Add Media
-----------
+Adding Media
+------------
 When you have selected "Media", continue this way:
 
 1. "ADD IMAGE".

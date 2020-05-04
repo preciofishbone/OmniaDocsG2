@@ -17,4 +17,5 @@ Tenant Settings
    tutorial/index
    user-profile-completion/index
    document-management/index
+   process-management/index
    
