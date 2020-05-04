@@ -1,0 +1,6 @@
+Prerequisites
+===========================================
+
+1. Activate the Process Management tenant feature (af2678fd-e2d5-466f-b8fb-3c5a61a3defe).
+2. Go to SharePoint admin center > More features > Term store and create a new term set for Process Types.
+3. Go to Omnia Admin > Properties > Enterprise Properties and map the property Process Type to the newly created term set.

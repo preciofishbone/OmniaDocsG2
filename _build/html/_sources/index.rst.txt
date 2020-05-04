@@ -1,7 +1,7 @@
 Omnia (for modern SharePoint)
 ===============================
 
-.. note:: Please find Omnia (for classic SharePoint) documentation `here <https://omnia-docs.readthedocs.io/>`_.
+.. note:: Please find Omnia (for classic SharePoint) documentation `here <https://omnia-docs.readthedocs.io/>`_ | For questions, please contact omnia.documentation@preciofishbone.se. 
 
 Topics
 ------
@@ -14,6 +14,7 @@ Topics
    general-assets/index
    pages/index
    working-with-documents/index
+   working-with-processes/index
    user-options/index
    setup/index
    roadmap/index

@@ -5,54 +5,52 @@ A Noticification Panel can, among other options, be present in the Action Panel.
 
 Several different Notifications panels can be created for different purposes, where one of them can be displayed in the Action Menu. Others can be displayed through a block, on any page.
 
-.. image:: notification-panel-in-action.png
+.. image:: notification-panel-in-action-new.png
 
-A number - 10 in the example above - indicates the number of new messages for the user.
+A number - 1 in the example above - indicates the number of new messages for the user.
 
 Here's an example of what a Notification Panel can look like:
 
-.. image:: notification-panel-example.png
+.. image:: notification-panel-example-new.png
 
 What a Notification Panel will display depends on settings in Omnia Admin, but the following is an example, described from left to right:
 
 + **News**: Latest News from the News Archive, with the very latest at the top. Click to read the full news article. See example in the image above.
 + **Team News**: Latest News from the Team sites the user is a member of. Messages are grouped by Team site, for example:
 
-.. image:: team-site-news.png
+.. image:: team-site-news-new.png
 
 To see the messages from a Team site, click it. The latest messages from that Team site are then shown, the very latest at the top. It can look like this:
 
-.. image:: team-site-news-expanded.png
+.. image:: team-site-news-expanded-new.png
 
 Click the heading of a message to go the Team site to read the full message. The author's name is also clickable here and will take you the author's Delve page.
 
 + **Tasks**: When tasks are assigned to the user in a Team site, a notification will show up here. The tasks are grouped by Team site, for example:
 
-.. image:: team-site-tasks.png
+.. image:: team-site-tasks-new.png
 
-To work with a task the user expands the list for the Team site, and then clicks the task.
+In this example a new task has been assigned to the logged in user in the IT France Team Site. To work with a task the user expands the list for the Team site, and then clicks the task.
 
-.. image:: team-site-tasks-expanded.png
+.. image:: team-site-tasks-expanded-new.png
 
 To go to the Team site to see all tasks, click "View all tasks".
 
 + **Documents**: This lists all documents in Team sites the user is a member of, that are new or has been updated recently, the newest at the top. Here's an example:
 
-.. image:: documents-example.png
+.. image:: documents-example-new.png
 
-Here, you can take different actions depending on the link you click on:
+Here, different actions can be taken:
 
 - Click on the heading for a document to read the document. 
 - Click the name of the Team site to go to the Team site.
 - Click the author's name to go to his or her Delve page.
 
-+ **External**: This is a RSS Reader that can display a RSS feed. External is just the heading the administrator has chosen.
++ **Communities**: This is a list of new pages/articles in available communities, the latest at the top.
 
-.. image:: external-news.png
+.. image:: external-news-new.png
 
-+ **Subscription**: This is an implementation of Page Rollup to notifications from pages the user subscribes to.
-
-.. image:: subscription-example.png
+Click the heading or the image to read the page/article.
 
 Notification Panel as a block
 ******************************

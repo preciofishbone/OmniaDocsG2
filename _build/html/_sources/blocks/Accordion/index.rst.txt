@@ -30,7 +30,7 @@ Styling
 ---------
 Under "Styling" you can set colors and padding for the content.
 
-.. image:: accordion-settings-styling.png
+.. image:: accordion-settings-styling-new.png
 
 Layout and Advanced
 ---------------------
@@ -43,25 +43,25 @@ When the Accordion block has been added to a page, and the page has been publish
 1. Enter Write mode.
 2. Click the plus in the Accordion block.
 
-.. image:: accordion-click-plus.png
+.. image:: accordion-click-plus-2.png
 
-The following is shown:
+Something like the following is shown (available options depends on admin settings):
 
-.. image:: accordion-new-2.png
+.. image:: accordion-new-2-new.png
 
 3. Add an Accordion Title at the top. This is the expandable text.
 4. Add the text that should be shown when the title is expanded. Note the formatting options.
 
 Here's an example:
 
-.. image:: accordion-example-new.png
+.. image:: accordion-example-new2.png
 
 5. Click "SAVE".
 6. Add additional Accordions to the block the same way.
 
 To edit an Accordion, click the pen. To delete an Accordion, click the dust bin.
 
-.. image:: accordion-edit-delete-new.png
+.. image:: accordion-edit-delete-new2.png
 
 
 

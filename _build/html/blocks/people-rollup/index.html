@@ -41,7 +41,7 @@
         <link rel="search" title="Search" href="../../search.html"/>
     <link rel="top" title="Omnia  documentation" href="../../index.html"/>
         <link rel="up" title="Blocks" href="../index.html"/>
-        <link rel="next" title="Quick Links" href="../quick-links/index.html"/>
+        <link rel="next" title="Process blocks" href="../process-blocks/index.html"/>
         <link rel="prev" title="Page Variation Selector" href="../variation-selector/index.html"/> 
 
   
@@ -112,6 +112,7 @@
 <li class="toctree-l2"><a class="reference internal" href="../page-rollup/index.html">Page Rollup</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../variation-selector/index.html">Page Variation Selector</a></li>
 <li class="toctree-l2 current"><a class="current reference internal" href="#">People Rollup</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../process-blocks/index.html">Process blocks</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../quick-links/index.html">Quick Links</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../related-links/index.html">Related Links</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../rss-reader/index.html">RSS Reader</a></li>
@@ -127,9 +128,10 @@
 <li class="toctree-l1"><a class="reference internal" href="../../general-assets/index.html">General assets</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../pages/index.html">Pages</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../working-with-documents/index.html">Working with Documents</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../working-with-processes/index.html">Working with Processes</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../user-options/index.html">User options</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../setup/index.html">Setup</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../../roadmap/index.html">Roadmap</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../roadmap/index.html">In development</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../release-notes/index.html">Release Notes</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../guides/index.html">Guides</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../contribute-to-doc/index.html">Contribute to this Documentation</a></li>
@@ -227,22 +229,23 @@
 <p>In the image at the top of the page, Card view is used. See below for a Roller example.</p>
 <p>The following settings are available for the views:</p>
 <ul class="simple">
-<li><strong>Add Column</strong>: This is not columns in columns in a table. Think: What information do I want to show about the people? You must always add at least one column or nothing will be shown!</li>
+<li><strong>Add Column</strong>: This is not like columns in columns in a table. You should think: What information do I want to display about the people? You must always add at least one column or nothing will be shown!</li>
+<li>Adjust Columns**: Use this option the order in which the selected columns are shown.</li>
 <li><strong>Person Name</strong>: Select property to get the Person Name from.</li>
 <li><strong>Show Profile Image</strong>: Select this option to show the person’s image.</li>
 <li><strong>Slide Height</strong>: Set the height of the area to show the content in. Available for Roller view only.</li>
 <li><strong>Alignment Option</strong>: Set vertical alignment for the content. Available for Roller view only.</li>
 <li><strong>Justify Options</strong>: Set horizontal alignment for the content. Available for Roller view only.</li>
-<li><strong>Show Achivements</strong>: This option is a preparation for functionality to come. Available for Card view only.</li>
+<li><strong>Show Achivements</strong>: This option is a preparation for functionality to come. Not used yet. Available for Card view only.</li>
 <li><strong>Max no of Columns</strong>: Set the maximum number of columns to be displayed.</li>
 <li><strong>Sort By</strong>: Select the property to sort the list by.</li>
 <li><strong>Paging</strong>: Select how paging should work; “No Paging”, “Classic” or “Scroll”. See below for examples. Scroll is note applicabale for Roller view.</li>
-<li><strong>Item Limit</strong>: To limit the number of items being displayed, add a fixed number here. If you set a high number (for example the default, 50) as many people as meets the query criteria is shown, up to that number. If you set a low number, that is the number of people tha list will show, regardless of how many meets the query criteria. Set 0 for no Item Limit.</li>
+<li><strong>Page Size</strong>: To limit the number of items being displayed per “page”, add a fixed number here. Works together with Paging.</li>
 <li><strong>Left Zone Width, Right Zone Width</strong>: Here you can set the width of the left and right zones manually, in pixels, if needed.</li>
 </ul>
 <p>Here’s an example of a  Roller view, with Slide Height 150, Alignment Center, Justify Center, No Paging and Item Limit 5.</p>
 <img alt="../../_images/roller-view.png" src="../../_images/roller-view.png" />
-<p>Here’s an example of a Classic view (note the page icons at the bottom):</p>
+<p>Here’s an example of a Card view with Classic paging (note the page icons at the bottom):</p>
 <img alt="../../_images/people-rollup-classic-view.png" src="../../_images/people-rollup-classic-view.png" />
 <p><strong>Important note on “No Paging”</strong>: If you choose “No paging” and set “Item Limit” to a specific number, that is the number of people that will be available in the list, regardless of how many that actually meets the search criteria.</p>
 </div>
@@ -252,7 +255,7 @@
 <img alt="../../_images/peoplerollup-settings-query.png" src="../../_images/peoplerollup-settings-query.png" />
 <p>Follow these steps:</p>
 <ol class="arabic simple">
-<li>Select Query Type, Profile Query or Activity Query.</li>
+<li>Select Query Type; “Profile Query”, “Sharepoint Groups”, “Activity Query” or “User Fields on Page”.</li>
 <li>If you selected Activity Query, choose Activity period (also called Social Period in some other blocks). This sets how old the item can be to be displayed in the list. The default is “No limit”, but you c an also select One Week, Two Weeks or One Month.</li>
 <li>Select property for the query.</li>
 </ol>
@@ -280,11 +283,12 @@
 <div class="section" id="filter">
 <h3>Filter<a class="headerlink" href="#filter" title="Permalink to this headline">¶</a></h3>
 <p>Use these settings to add filters for the users to use. An example could be if a People Rollup block displays all colleagues in different departments, you may want to display a filter for departments so user can display a list of only colleagues in a certain department.</p>
-<img alt="../../_images/peoplerollup-settings-filter-new.png" src="../../_images/peoplerollup-settings-filter-new.png" />
+<img alt="../../_images/peoplerollup-settings-filter-new2.png" src="../../_images/peoplerollup-settings-filter-new2.png" />
 <ul class="simple">
 <li><strong>Position</strong>: Decide where to place the filters; top, left or right. Tip! The Top position for filters is most likely the best for this block.</li>
 <li><strong>Add filter</strong>: Click this button to add a filter.</li>
 <li><strong>Show Search Box</strong>: To display a Search Box so users can search the list, select this option.</li>
+<li><strong>Only Search when using filter</strong>: Select this to always start with an empty list. Users must always search or select a filter for any people posts to be listed.</li>
 </ul>
 <p>To add a new filter, do the following:</p>
 <ol class="arabic simple">
@@ -349,7 +353,7 @@
   
     <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
       
-        <a href="../quick-links/index.html" class="btn btn-neutral float-right" title="Quick Links" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right"></span></a>
+        <a href="../process-blocks/index.html" class="btn btn-neutral float-right" title="Process blocks" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right"></span></a>
       
       
         <a href="../variation-selector/index.html" class="btn btn-neutral" title="Page Variation Selector" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>
@@ -362,7 +366,7 @@
   <div role="contentinfo">
     <p>
         &copy; Copyright 2020, Precio Fishbone.
-      Last updated on Jan 09, 2020.
+      Last updated on Apr 27, 2020.
 
     </p>
   </div>

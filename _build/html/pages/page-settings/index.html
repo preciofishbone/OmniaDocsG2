@@ -102,8 +102,10 @@
 <li class="toctree-l2"><a class="reference internal" href="../edit-page/index.html">Edit a page</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../language-versions-of-a-page/index.html">Language versions of a page</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../publish-page-changes/index.html">Publish page changes</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../version-history/index.html">Check Version History and use an earlier version</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../page-approval/index.html">Approve pages</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../edit-page-navigation/index.html">Edit page navigation</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../edit-permissions/index.html">Edit Permissions for a page</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../page-types/index.html">Page Types</a></li>
 <li class="toctree-l2 current"><a class="current reference internal" href="#">Publishing App settings</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../page-statistics/index.html">Page Statistics</a></li>
@@ -112,9 +114,10 @@
 </ul>
 </li>
 <li class="toctree-l1"><a class="reference internal" href="../../working-with-documents/index.html">Working with Documents</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../working-with-processes/index.html">Working with Processes</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../user-options/index.html">User options</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../setup/index.html">Setup</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../../roadmap/index.html">Roadmap</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../roadmap/index.html">In development</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../release-notes/index.html">Release Notes</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../guides/index.html">Guides</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../contribute-to-doc/index.html">Contribute to this Documentation</a></li>
@@ -185,12 +188,13 @@
             
   <div class="section" id="publishing-app-settings">
 <h1>Publishing App settings<a class="headerlink" href="#publishing-app-settings" title="Permalink to this headline">¶</a></h1>
-<p>When editing page, a number of Publishing App settings are available by clicking here:</p>
+<p>A number of Publishing App settings are available. You have to be Publishing App administrator to use them.</p>
+<p>Open the Publishing App settings by clicking here:</p>
 <img alt="../../_images/page-settings.png" src="../../_images/page-settings.png" />
 <div class="section" id="general">
 <h2>General<a class="headerlink" href="#general" title="Permalink to this headline">¶</a></h2>
 <p>Set the following here:</p>
-<img alt="../../_images/page-settings-general-new2.png" src="../../_images/page-settings-general-new2.png" />
+<img alt="../../_images/page-settings-general-new3.png" src="../../_images/page-settings-general-new3.png" />
 <ul class="simple">
 <li><strong>Default Page Collection</strong>: The default Page Collection for the page can be set here.</li>
 <li><strong>Connected Sharepoint Site</strong>: The address to the Sharepoint Site is shown here.</li>
@@ -203,76 +207,81 @@
 </div>
 <div class="section" id="permissions">
 <h2>Permissions<a class="headerlink" href="#permissions" title="Permalink to this headline">¶</a></h2>
-<p>Use these settings for edit permissions in the Publishing App.</p>
-<img alt="../../_images/page-settings-permissions-new.png" src="../../_images/page-settings-permissions-new.png" />
+<p>Use these settings to Edit permissions in the Publishing App.</p>
+<img alt="../../_images/page-settings-permissions-new2.png" src="../../_images/page-settings-permissions-new2.png" />
+<ul class="simple">
+<li><strong>Administrators</strong>: Add and remove Publishing App administrators here as needed.</li>
+<li><strong>Resource Readers</strong>: Here you set the general Read permission for the Publishing App, needed for users to be able to read pages.</li>
+</ul>
 <p>Note that this permissions setting is valid for these settings only. To be able to edit Publishing App settings in Omnia Admin you need to be either a tenant administrator or administrator for the Business Profile.</p>
 <p>Regarding these settings a tenant administrator and business profile administrator can go here and add him or herself to the permissions list and that way gain access to the settings.</p>
 </div>
 <div class="section" id="variations">
 <h2>Variations<a class="headerlink" href="#variations" title="Permalink to this headline">¶</a></h2>
-<p>Here you set up the Page Variations to use in the Publishing App.</p>
-<img alt="../../_images/page-settings-variations-new.png" src="../../_images/page-settings-variations-new.png" />
-<div class="section" id="create-a-new-page-variation">
-<h3>Create a new Page Variation<a class="headerlink" href="#create-a-new-page-variation" title="Permalink to this headline">¶</a></h3>
-<p>To create a new variation for this page, do the following:</p>
+<p>Here you set up the Page Variations that should be possible to use in the Publishing App. It’s then up to Page Editors to use a variation, or not, for a page. A page variation is created for a page when it’s needed.</p>
+<img alt="../../_images/page-settings-variations-new2.png" src="../../_images/page-settings-variations-new2.png" />
+<p>You see the variations that has been set up so far, with information about for example targeting. A “Variaton” in the tenant’s default language is also listed here - note the green label in the image above. For all pages, a variation with the default language must always exist. That is what is added when a page is created the first time..</p>
+<p>To edit the settings for a variation, click the pen. To delete a variation, click the dust bin.</p>
+<img alt="../../_images/page-settings-variations-edit-delete.png" src="../../_images/page-settings-variations-edit-delete.png" />
+<p>When you edit a variation, the same settings as when you create a new variation are available, see below.</p>
+<div class="section" id="create-a-new-variation">
+<h3>Create a new variation<a class="headerlink" href="#create-a-new-variation" title="Permalink to this headline">¶</a></h3>
+<p>Note that you can use Variations for a lot of implementations, not just languages, even if that is probably the most common.</p>
+<p>Do the following to create a new variation:</p>
 <ol class="arabic simple">
-<li>Go to the page.</li>
-<li>Open the Pusblishing App Settings and select “VARIATIONS”.</li>
 <li>Click “ADD VARIATION”.</li>
+<li>Use the following settings.</li>
 </ol>
-<img alt="../../_images/page-settings-variatins-click-add-new.png" src="../../_images/page-settings-variatins-click-add-new.png" />
-<ol class="arabic simple" start="4">
-<li>Add settings for the new Page Variation (see below).</li>
-<li>Target the Page Variation, if needed (se below for instruction).</li>
-<li>Click “OK” to create the Page Variation.</li>
-</ol>
-</div>
-<div class="section" id="edit-the-settings-for-a-page-variation">
-<h3>Edit the settings for a Page Variation<a class="headerlink" href="#edit-the-settings-for-a-page-variation" title="Permalink to this headline">¶</a></h3>
-<p>To edit the settings for a Page Variation, do the following:</p>
-<ol class="arabic simple">
-<li>Go to the page.</li>
-<li>Open the Page Settings and select “VARIATIONS”.</li>
-<li>Click the pen for the Page Variation.</li>
-</ol>
-<img alt="../../_images/page-settings-variatins-edit-new.png" src="../../_images/page-settings-variatins-edit-new.png" />
-<ol class="arabic simple" start="4">
-<li>Edit settings for the new Page Variation and click “OK” to save the changes.</li>
-</ol>
-</div>
-<div class="section" id="edit-contents-of-a-page-variation">
-<h3>Edit contents of a Page Variation<a class="headerlink" href="#edit-contents-of-a-page-variation" title="Permalink to this headline">¶</a></h3>
-<p>When more than one variation of the page exists, the editor can select variation to work with in the list, in the lower left corner:</p>
-<img alt="../../_images/select-variation-new2.png" src="../../_images/select-variation-new2.png" />
-<p>Editing a Page Variation works exactly the same as editing a “normal” page.</p>
+<img alt="../../_images/variations-new.png" src="../../_images/variations-new.png" />
+<ul class="simple">
+<li><strong>Title</strong>: Add a title for the variation to be shown in the lists, for example the list where users can select variation. If needed, the title can be added in any or all of the languages set up in the tenant.</li>
+<li><strong>Icon Type</strong>: Select the Icon Type here, for excample “Flags”.</li>
+<li><strong>Icon</strong>: Selevt the icon (for exemple the flag) here.</li>
+<li><strong>Url Segment</strong>: Add a suitable Url Segment in this field.</li>
+<li><strong>Add Targeting Filter</strong>: To set up targeting for this variation, click here. It is not mandatory. See below for more information.</li>
+</ul>
+<p>Languages used for Titles, or for targering must be set in the Tenant Settings, see the heading “Languages” on this page: <a class="reference internal" href="../../admin-settings/tenant-settings/settings/index.html"><span class="doc">Tenant Settings</span></a></p>
 </div>
 <div class="section" id="targeting-a-page-variation">
 <h3>Targeting a Page Variation<a class="headerlink" href="#targeting-a-page-variation" title="Permalink to this headline">¶</a></h3>
+<p>Use targeting for a variation to set which variation of a page that will be displayed to the logged in user. Note that if a Variation Selector block is added to a page, users can always select any of the available variations. This is true even if no targeting is set up. See this page for information about the Variation Selector block: <a class="reference internal" href="../../blocks/variation-selector/index.html"><span class="doc">Variation Selector</span></a></p>
 <p><strong>Note!</strong> The Targeting Properties to use must be set up in Omnia Admin, see the section about Targeting Properties on this page: <a class="reference internal" href="../../admin-settings/tenant-settings/properties/index.html"><span class="doc">Properties</span></a></p>
 <p>To target a Page Variation, do the following:</p>
 <ol class="arabic simple">
 <li>Click “Add Targeting Filter” when editing a Page Variation’s settings.</li>
 </ol>
-<img alt="../../_images/page-variation-add-targeting-new.png" src="../../_images/page-variation-add-targeting-new.png" />
+<img alt="../../_images/page-variation-add-targeting-new2.png" src="../../_images/page-variation-add-targeting-new2.png" />
 <ol class="arabic simple" start="2">
 <li>Select Targeting Property from the list.</li>
 <li>As the next step you can select to include all Children, or you can target one or more of the Children specifically.</li>
 </ol>
-<p>Here’s an example with the Sweden and Denmark offices selected for the Office property.</p>
-<img alt="../../_images/page-targeting-sweden-new.png" src="../../_images/page-targeting-sweden-new.png" />
+<p>Here’s an example which will see to that all users that has French set as preferred language will see the French variation of the page.</p>
+<img alt="../../_images/page-targeting-french.png" src="../../_images/page-targeting-french.png" />
 <ol class="arabic simple" start="4">
 <li>Click “OK” to save your changes.</li>
 </ol>
-<p>You can add as many Targeting Properties for a Variation as is needed, this way. To remove a target, just click the X.</p>
+<p>You can add as many Targeting Properties for a Variation as is needed, this way (and remember that variations can be a lot more than just languages). To remove a target, just click the X.</p>
 <p>Note that the targeting settings also are shown in the Variations list, for example:</p>
-<img alt="../../_images/page-variation-example-new2.png" src="../../_images/page-variation-example-new2.png" />
+<img alt="../../_images/page-variation-example-new3.png" src="../../_images/page-variation-example-new3.png" />
+</div>
+<div class="section" id="edit-contents-of-a-page-variation">
+<h3>Edit contents of a Page Variation<a class="headerlink" href="#edit-contents-of-a-page-variation" title="Permalink to this headline">¶</a></h3>
+<p>When more than one variation of the page exists, an editor can select variation to work with in the list, in the lower left corner:</p>
+<img alt="../../_images/select-variation-new2.png" src="../../_images/select-variation-new2.png" />
+<p>If no variation exists yet for the page, the editor can select to create one.</p>
+<img alt="../../_images/variation-create-page.png" src="../../_images/variation-create-page.png" />
+<p>Editing a Page Variation works exactly the same way as editing a “normal” page.</p>
+</div>
 </div>
 <div class="section" id="statistics">
-<h3>Statistics<a class="headerlink" href="#statistics" title="Permalink to this headline">¶</a></h3>
-<p>For more advanced statistics in Omnia, this is the place to add the scripts you get from your statistics provider.</p>
-<img alt="../../_images/page-settings-statistics.png" src="../../_images/page-settings-statistics.png" />
+<h2>Statistics<a class="headerlink" href="#statistics" title="Permalink to this headline">¶</a></h2>
+<p>For more advanced statistics in Omnia, this is the place to add the scripts you get from your statistics provider, for example:</p>
+<img alt="../../_images/page-settings-statistics-new.png" src="../../_images/page-settings-statistics-new.png" />
 <p>Don’t forget to save. The “Save” button is located in the lower right corner.</p>
 </div>
+<div class="section" id="advanced">
+<h2>Advanced<a class="headerlink" href="#advanced" title="Permalink to this headline">¶</a></h2>
+<p>This tab is a preparation for functionality to come. Can’t be used at the moment.</p>
 </div>
 </div>
 
@@ -299,7 +308,7 @@
   <div role="contentinfo">
     <p>
         &copy; Copyright 2020, Precio Fishbone.
-      Last updated on Jan 09, 2020.
+      Last updated on Apr 27, 2020.
 
     </p>
   </div>

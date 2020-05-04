@@ -1,12 +1,14 @@
 Text
 ===========================================
-Use this block to add text anywhere on a page. 
+Use this block to add text anywhere on a page. The text block can be edited by any page editor using the Write mode.
 
 When adding text to the block some basic formatting is available. Here's an example with the formatting options for Rich Text:
 
 .. image:: text-formatting-rich.png
 
 Point at an icon and a Tool Tip will show what the option is for.
+
+Available options for Rich Text is set up in Omnia Admin, see the heading "RTF Editor" on this page: :doc:`Tenant Settings </admin-settings/tenant-settings/settings/index>`
 
 Note that HTML editing is done in a separate window so you can work with HTML if that is something you want.
 

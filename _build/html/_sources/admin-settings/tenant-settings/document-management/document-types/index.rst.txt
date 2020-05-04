@@ -5,20 +5,20 @@ When creating a new controlled document an author selects a Document Type. Docum
 
 The settings displays all existing Document Types, and Groups, if they are grouped, for example:
 
-.. image:: document-types-start.png
+.. image:: document-types-start-new.png
 
 The i icon can show information on syncronization of new or edited Document Types. Here's an example:
 
-.. image:: document-types-info.png
+.. image:: document-types-info-new.png
 
 Creating a new Group
 **********************
 To create a new a group, do the following:
 
-1. Point at any existing group.
+1. Click any existing group.
 2. Click the plus and select "Create Group".
 
-.. image:: doctype-select-group.png
+.. image:: doctype-select-group-new.png
  
 3. Add a Title in one or more languages (default language in the tenant is mandatory).
 
@@ -30,10 +30,10 @@ Creating a Document Type
 *****************************
 To create a new Document Type, do the following:
 
-1. Point at the group to create a Document Type in.
+1. Click the group to create a Document Type in.
 2. Click the plus and select "Create Document Type".
 
-.. image:: doctype-new-type.png
+.. image:: doctype-new-type-new.png
  
 2. Set all necessary settings and save.
 
@@ -45,7 +45,7 @@ You can sort if you want to present the list in a specific order to the editors.
 
 1. Select the group or Document Type to move and use the arrows.
 
-.. image:: doctype-sort.png
+.. image:: doctype-sort-new.png
 
 Edit or delete a Document Type or group
 ******************************************
@@ -61,7 +61,7 @@ To delete a Group or Document type, do the following:
 2. Available settings are now shown.
 3. Click the dust bin.
 
-.. image:: doctype-delete.png
+.. image:: doctype-delete-new.png
 
 Settings for Document Types
 ****************************
@@ -71,7 +71,7 @@ General
 --------
 The General tab contains the following settings:
 
-.. image:: document-type-general.png
+.. image:: document-type-general-new.png
 
 + **Title**: Add a Title for the Document Type in one or more of the tenant languages. Note that default language is mandatory.
 + **Property Set**: Property Sets is a ways of groping a number of properties into a set, which makes it easier to use a set of properties in several Document Types. Select a property set for the Document Type. When you have selected a Propety Set you can click the cogwheel to see which properties belong to the set. You will also see information about Placeholder Shortname and default value for the properties in the set.

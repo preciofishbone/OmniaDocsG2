@@ -15,14 +15,14 @@ Here you can set the following:
 
 .. image:: page-rollup-settings-query.png
 
-+ **Scope**: Select scope for the block; Publishing Apps or Page Collections. Then open the list below and select Publishing Apps/Page Collections.
++ **Scope**: Select scope for the block; Publishing Apps or Page Collections. Then open the list below and select Publishing Apps/Page Collections. (Subscriptions is also available in the lists but is not active yet, it's a preparation for functionality to come.)
 + **Exclude current page**: The default settings is to exclude the current page, but if you, for some reason, would like to include the current page, uncheck this option.
 
 When you have selected "Publishing Apps" or "Page Collections" as Scope, use the list to add one or more:
 
 .. image:: page-rollup-query-list.png
 
-For every Publishing App or Page Collection you can filter (meaning displaying just some of the pages) by exanding and selecting "Add filter".
+For every Publishing App or Page Collection you can filter (meaning displaying just some of the pages) by expanding and selecting "Add filter".
 
 .. image:: page-rollup-query-addfilter.png
 
@@ -42,7 +42,7 @@ Select View here. Note that a preview is shown in the block.
 
 .. image:: page-rollup-settings-display-border.png
 
-The following lists all available display settings. Which of them will be available depends on the display selected.
+The following lists all available display settings, with a note stating when a certain setting is available.
 
 + **Title (list)**: Select the property that contains the title for the item to display. Available for "Single Item" only.
 + **Description**: Select the property that contains the description for the item(s) to display. Available for "Single Item" only.

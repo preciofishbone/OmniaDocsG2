@@ -5,17 +5,114 @@ Upcoming Release 4.0.0 (Draft)
 
 New features
 ----------------------------------------
-- Omnia Process Management
-- Communities 2.0
-- Improvements on Team Collaboration listings (#116996, #114661, #114870, #117577, #114837, #116854).
- - Possible to remove Team Collaborations when there is an error or the O365 group is already deleted. (#117576).
-- Search experience in header and as a block.
-- Action button has recieved many updates multilingual support has been improved and it can now be used to create pages (#117303, #114101).
-- Pexels as a new Image provider (Please note that this not supported for IE11)
-- Translation workflow
-- Improved Audit Logging UI
-- Enhanced Document Picker
-- User Profile Sync
+
+Dynamic News Roller
+************************************************
+
+A new page rollup view is available that will make it possible, among other things, to show news on a start page in a horizontal scroll.
+
+.. image:: dynamicroller.png
+
+Pexels Connector
+************************************************
+
+It is now possible to enable Pexels images in the media picker. https://www.pexels.com provides high quality picture that are free to use.
+
+.. image:: pexels.png
+
+Note! This connector is not available for authors using Internet Explorer 11.
+
+Translation Workflow
+************************************************
+
+Variation authors can now be registered to variations in a publishing app. A variation author is responsible for a specific variation and will be notified via e-mail when the default variation page is updated with a new major version.
+
+.. image:: variation-author.png
+
+
+Version Compare UI
+************************************************
+
+To help variation authors to translate a page, a new UI is available for comparing versions.
+
+.. image:: compare-version-ui-icon.png
+
+The UI will show the default variation page text on the left-hand side and the variation text on the right-hand side. It is possible to visualize changes that was made from the previous published major version of the default variation text. If you need to scroll the two texts separately, you can turn on the Scroll switch.
+
+.. image:: compare-version-ui.png
+
+Document Picker
+************************************************
+
+There is a new possibility to configure the Document Picker centrally in Omnia Admin to make different tabs available for the author. Two types of categories can be created, either you select a specific SharePoint document library or you create a Search Category that should be available.
+
+
+.. image:: document-picker-administration.png
+
+The new document picker will replace the old one when adding related 
+s on web pages. It will also show any document library that has been configured for the current publishing app.
+
+.. image:: document-picker-ui.png
+
+The new document picker will also be available in the document rollup. This will make it possible to pick individual documents instead of using a query to display documents.
+
+.. image:: documentrollup-pickdocuments.png
+
+
+Improved Search
+************************************************
+
+(#116729)
+
+It is now possible to configure a search box to be shown in the header of a business profile.
+
+.. image:: search-in-header.png
+
+The Advanced Search block has been replaced by a Search block that can be configured to show either a quick or advanced search view with some additional display settings.
+
+.. image:: search-block.png
+
+A search category can be targeted to a specific group of people based on the targeting system in Omnia. The targeting settings will be used both in quick and advanced search.
+
+.. image:: search-categories-targeted.png
+
+Improved Teamwork Navigation and Administration
+************************************************
+
+
+(To be added to release notes soon!)
+(#116996, #114661, #114870, #117577, #114837, #116854, #117576, #118444, #117581, #117854)
+
+Process Management
+************************************************
+
+(To be added to release notes soon!)
+
+Communities
+************************************************
+
+(To be added to release notes soon!)
+
+Improved Audit Log
+************************************************
+
+(To be added to release notes soon!)
+
+User Profile Sync
+************************************************
+
+(To be added to release notes soon!)
+
+Enable/Disable Business Profile Header (and Pre-allocated Height)
+*****************************************************************
+
+(To be added to release notes soon!)
+
+Tab control
+*****************************************************************
+
+(To be added to release notes soon!)
+
 
 
 Enhancements
@@ -28,6 +125,7 @@ Omnia
 - Improved keyboard controls.
 - Several performance improvements for both Omnia and SPFx.
 - Stability improvements to the color picker.
+- Improvements to block background color settings.
 
 Web Content Management
 ***********************
@@ -39,11 +137,13 @@ Web Content Management
 - Auto rolling of the news roller will be disabled if accessibility mode is turned on.
 - Custom block header size now starts at 1px instead of 30px.
 - The page rollup now works correctly in SPFx (#118051).
+- Scheduled pages can now be edited even after the schedule is set (#118473).
 
 Document Management
 ***********************
 - Support for vsdx icons.
 - The Tabs Drafts, Tasks, and Published now has a larger click area (#117861).
+- Built in properties are now visible in the properties dialog (#118418).
 
 Tenant Administration
 ***********************
@@ -56,7 +156,8 @@ Workplace
 - Date refiners now work as expected in advanced search (#114577, #115570).
 - Updated design in advanced search (#117305, #116824).
 - Updated design for action bar item tabs.
-- Updated design for shared links.
+- Updated design for shared links. (#116056).
+- Action button has received many updates and multilingual support has been improved and it can now be used to create pages (#117303, #114101, #118480, #117730).
 
 Fixes 
 ***********************
@@ -86,11 +187,13 @@ Fixes
 - Advanced search now always shows the correct item count. Also impacts results and paging in some scenarios (#114072, #115352, #116723, #114039, #115789, #117802, #115121, #115250).
 - External links in Shared Links now work correctly on IOS (#117048).
 - Adding documents through related links now correctly lists deleted users (#117801).
-- Now possible to create two enterprise properties with the same displayname (#115627).
-- Fixed the page properties block to correctly rowbreak properties that does not fit (#118275).
-
-
-
-
-
-
+- Now possible to create two enterprise properties with the same display name (#115627).
+- Fixed the page properties block to correctly row break properties that does not fit (#118275).
+- Azure AD groups with special characters in their name now correctly show up in people pickers (#118570).
+- Default date page properties now correctly work with days as a time setting (#118450).
+- Create new page via the page rollup now correctly works in all multi page collection scenarios (#115498, #117822).
+- Getting default properties for documents from site properties now work correctly (#117774).
+- Fixed alignment in some menus of Omnia admin (#118445).
+- Fixed a problem where navigating between ODM authoring sites would not work correctly when my sites was used for the navigation (#118034).
+- Team News Rollup now has correct localization for social dates. (#117788).
+- Auto publish now works correctly on all page collection configurations (#115434).
