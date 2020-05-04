@@ -3,9 +3,9 @@ Process Types
 
 When an author creates a process he or she selects a Process Type. A Process type consists of a Property Set, one or more Process Templates and settings for how publishing, review and archive should be handled for the process.
 
-Before you continue here, make sure all Process Templates you will need has been created, see: :doc:`Process Templates </tenant-settings/process-management/process-templates/index>`
+Before you continue here, make sure all Process Templates you will need has been created, see: :doc:`Process Templates </admin-settings/tenant-settings/process-management/process-templates/index>`
 
-Also see to that the Property set you need has been created, see the heading "Property Sets" on this page: :doc:`Tenant Settingsv - Properties </tenant-settings/properties/index>`
+Also see to that the Property set you need has been created, see the heading "Property Sets" on this page: :doc:`Tenant Settingsv - Properties </admin-settings/tenant-settings/properties/index>`
 
 Creating a new Process Type
 *****************************

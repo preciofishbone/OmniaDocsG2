@@ -7,7 +7,7 @@ Click the pen to edit a Process Template or the dust bin to delete it.
 
 .. image:: process-templates-edit-delete.png
 
-Before you continue here, make sure all shapes you need has been added, see :doc:`Shape Gallery </tenant-settings/process-management/shape-gallery/index>`.
+Before you continue here, make sure all shapes you need has been added, see :doc:`Shape Gallery </admin-settings/tenant-settings/process-management/shape-gallery/index>`.
 
 Adding a new Process Template
 ******************************
