@@ -22,6 +22,13 @@ It is now possible to enable Pexels images in the media picker. https://www.pexe
 
 Note! This connector is not available for authors using Internet Explorer 11.
 
+Tab control
+*****************************************************************
+
+A new section is now available in the web content management editor that makes it possible to create tabs instead of columns. Within a tab, more sections and blocks can be added. The tabs can also be displayed as accordions.
+
+.. image:: wcm-tab-control.png
+
 Translation Workflow
 ************************************************
 
@@ -79,9 +86,11 @@ A search category can be targeted to a specific group of people based on the tar
 Improved Teamwork Navigation and Administration
 ************************************************
 
-
-(To be added to release notes soon!)
 (#116996, #114661, #114870, #117577, #114837, #116854, #117576, #118444, #117581, #117854)
+
+Teamwork Administration in Omnia Admin has been improved. The list has sorting and paging and additional information columns have been added to the list. It is possible to search for a Teamwork based on the title and Teamwork properties can be edited.
+
+.. image:: teamwork-administration.png
 
 Process Management
 ************************************************
@@ -96,7 +105,9 @@ Communities
 Improved Audit Log
 ************************************************
 
-(To be added to release notes soon!)
+A UI to read the audit log is now accessible in Omnia Admin under System > Audit logs. The audit log includes all permission changes in Omnia.
+
+.. image:: audit-log.png
 
 User Profile Sync
 ************************************************
@@ -106,12 +117,9 @@ User Profile Sync
 Enable/Disable Business Profile Header (and Pre-allocated Height)
 *****************************************************************
 
-(To be added to release notes soon!)
+It is possible to enable/disable the business profile header and navigation on a team site or publishing app by activating/removing the feature "Show Business Profile Header".
 
-Tab control
-*****************************************************************
-
-(To be added to release notes soon!)
+When the Business Profile Header is shown on a team site, the height is now pre-allocated until the whole page is loaded.
 
 
 
