@@ -18,12 +18,12 @@ Here's a short overview of what to use the tabs for:
 
 See these pages for more information:
 
-:doc:`Create a new draft from a published process </working-with-processes/authoring-processes/working-with-drafts/drawing-tab/index>`
-:doc:`Create a new draft from a published process </working-with-processes/authoring-processes/working-with-drafts/content-tab/index>`
-:doc:`Create a new draft from a published process </working-with-processes/authoring-processes/working-with-drafts/documents-tab/index>`
-:doc:`Create a new draft from a published process </working-with-processes/authoring-processes/working-with-drafts/links-tab/index>`
-:doc:`Create a new draft from a published process </working-with-processes/authoring-processes/working-with-drafts/tasks-tab/index>`
-:doc:`Create a new draft from a published process </working-with-processes/authoring-processes/working-with-drafts/properties-tab/index>`
++ :doc:`Create a new draft from a published process </working-with-processes/authoring-processes/working-with-drafts/drawing-tab/index>`
++ :doc:`Create a new draft from a published process </working-with-processes/authoring-processes/working-with-drafts/content-tab/index>`
++ :doc:`Create a new draft from a published process </working-with-processes/authoring-processes/working-with-drafts/documents-tab/index>`
++ :doc:`Create a new draft from a published process </working-with-processes/authoring-processes/working-with-drafts/links-tab/index>`
++ :doc:`Create a new draft from a published process </working-with-processes/authoring-processes/working-with-drafts/tasks-tab/index>`
++ :doc:`Create a new draft from a published process </working-with-processes/authoring-processes/working-with-drafts/properties-tab/index>`
 
 Design mode or Preview mode
 ****************************
