@@ -59,9 +59,11 @@ You can then add a heading in any of the available languages. Default language i
 
 Allowing authors to add shapes
 -------------------------------
-Not that you can allow authors to add new shapes even when using a Process Template.
+Note that you can allow authors to add new shapes even when using a Process Template.
 
 To make it possible for an author to draw shapes, select "Freeform" in the list.
+
+**Important Note!** If the author should be able to adde clickable areas to a bckground image, the Process Template must contain Freeform.
 
 .. image:: process-templates-freeform.png
 
