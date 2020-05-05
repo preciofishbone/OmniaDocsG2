@@ -1,15 +1,11 @@
 Using the workspace for processes
 =====================================
 
-**(This documentation is just started, more will be added soon.)
-
 You use the tabs when working with the process or a process step:
 
-(Image to be added)
+.. image:: pm-workspace-1.png
 
 All tabs are available for all process steps. Regarding Properties, you set them for the whole process.
-
-(Image to be added)
 
 Here's a short overview of what to use the tabs for:
 
@@ -31,8 +27,8 @@ See these pages for more information:
 
 Design mode or Preview mode
 ****************************
-You can use two different modes when working with a process; Design mode for editing the process or process step, an Preview to see what it will look like for users. You switch between the modes here:
+You can use two different modes when working with a process; Design mode for editing the process or a process step, and Preview to see what it will look like for users. You switch between the modes here:
 
-(Image to be added)
+.. image:: pm-modes.png
 
 See this page for more information about the preview: (link to be added):doc:`Preview a process </working-with-processes/authoring-processes/working-with-drafts/preview-a-process/index>`
