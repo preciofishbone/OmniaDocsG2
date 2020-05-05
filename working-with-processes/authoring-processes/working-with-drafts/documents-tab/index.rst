@@ -41,24 +41,19 @@ The Document Picker starts:
 
 .. image:: pm-documents-query-pick-2.png
 
-Use the Document Picker as described on this page: 
+3. Use the Document Picker as described on this page: :doc:`Document Picker </general-assets/document-picker/index>`
 
-Use it this way:
+The selected documents are shown in the list, for example:
 
-3. Select tab if more than one is shown.
+.. image:: pm-documents-query-pick-3.png
 
-(Image to be added)
+If you selected a document by mistake, click the dust bin.
 
-4. Select one or more documents.
-5. Click "OK".
+A preview of the document list is also shown, for example:
 
-The selected documents are now shown in the list. If you selected a document by mistake, click the dust bin.
+.. image:: pm-documents-query-pick-4.png
 
-A preview of the document list is also shown.
-
-(Image to be added)
-
-6. Continue this way until all documents you want to make available for this process or process step is selected.
+4. Continue this way until all documents you want to make available for this process or process step is selected.
 
 Using the Query Builder
 -------------------------
