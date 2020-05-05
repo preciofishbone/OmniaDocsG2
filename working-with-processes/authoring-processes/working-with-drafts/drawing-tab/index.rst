@@ -38,7 +38,7 @@ Something like the following is shown:
 
 .. image:: pm-drawing-shape-settings.png
 
-Exactly what is available here depends on settings for the Process Type, so this is just an example. For more information see: :doc:`Process Type </admin-settings/tenant-settings/process-management/process-types/index>`
+Exactly what is available here depends on settings for the Process Type, so this is just an example. For more information see: :doc:`Process Types </admin-settings/tenant-settings/process-management/process-types/index>`
 
 + **All Shapes**: If the list of shapes is very long, you can use this field to search for a shape.
 
@@ -61,7 +61,7 @@ To select a shape, just click it and the following settings is shown:
 
 .. image:: pm-drawing-shape-settings-settings-more.png
 
-+ **Font Size: Set the font size in pixels for the text here.
++ **Font Size**: Set the font size in pixels for the text here.
 + **Colors**: Use the options in this section to set details for colors, for the shape and text.
 
 When you select the option "Add Link", you can use the following settings:
@@ -86,7 +86,7 @@ You can use the tabs to edit the process steps.
 
 Adjust the shapes
 -------------------
-Note that when you add a new shape it is placed in upper left corner of the canvas. It that is not the intended position, use drag and drop to place the new shape. You can place a shape anywhere within the canvas.
+Note that when you add a new shape it's placed in the upper left corner of the canvas, and text above may not be seen. It that is not the intended position, use drag and drop to place the new shape. You can place a shape anywhere within the canvas.
 
 To adjust the size of the shape, click it and use the handles to drag to the desired size.
 
@@ -98,7 +98,7 @@ To edit the settings for a shape, click the shape and then click the pen.
 
 Clone a shape
 ---------------
-If you need a number of shapes that are similar, this is a very hand option.
+If you need a number of shapes that are similar, this is a handy option.
 
 1. Select the shape you want to clone.
 2. Click "CLONE SHAPE".
@@ -157,7 +157,7 @@ For more information on how to use the Media Picker, see: :doc:`Media Picker </g
 
 Adding clickable areas to a drawing
 -------------------------------------
-If you have uploaded a drawing you can place clickable areas on that drawing, to go to subprocesses and more.
+If you have uploaded a drawing you can place clickable areas on that drawing, to go to process steps and more.
 
 **Important Note!** To be able to add clickable areas, the Process Type must contain Freeform.
 
@@ -173,7 +173,7 @@ If you have uploaded a drawing you can place clickable areas on that drawing, to
 
 3. Edit the settings for the shape, see the heading "Settings for a shape", above. Note, here you set what will happen when the area is clicked.
 
-Tip! You probably don't want any colors for the clickable area, or maybe just a border color when the mouse hovers over the area. Click "Show more settings" to edit the colors.
+**Tip!** You probably don't want any colors for the clickable area, or maybe just a border color when the mouse hovers over the area. Click "Show more settings" to edit the colors.
 
 4. Click "Draw shape".
 
@@ -186,17 +186,17 @@ The drawing is now shown with the grid on top, for example:
 5. Click to set the start corner, move the mouse to the next corner and click to set it ... continue this way until you have "painted" the shape.
 6. Set the shape by clicking at the start corner once more.
 
-You now have the first clickable area in place and what is opened when a user clicks it depends on the setting in step 3.
+You now have the first clickable area in place and what is opened when a user clicks it depends on the setting in step 3. (In the image below "Highlight shapes" is on.)
 
 .. image:: clickable-5.png
 
 7. Click "OK" in the grid window.
 8. Click "OK" for the shape settings.
 
-To add additional clickable areas you have to go back to the step 1, but there's a neat trick if you are adding several clickable areas with the sam shape. A quick way of adding additional steps is this:
+To add additional clickable areas you have to go back to step 1, but there's a neat trick if you are adding several clickable areas with the same shape. A quick way of adding additional steps is this:
 
 9. Select the shape.
-10. Select "Clone shape".
+10. Select "CLONE SHAPE".
 
 .. image:: clickable-6.png
 

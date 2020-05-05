@@ -13,17 +13,17 @@ Here's a short overview of what to use the tabs for:
 + **Content**: Use this tab to add a description of the process or process step. You can usually use both text and images to do that.
 + **Document**: You use this tab to attach documents to the process or process step, documents that users can read.
 + **Links**: Here you can add useful links for users, for the process or process step.
-+ **Tasks**: Use this tab to wotk with a To Do-list for the process or process step. Note that this is not Sharepoint Tasks, just a To Do list.
++ **Tasks**: Use this tab to work with a To Do-list for the process or process step. Note that this is not Sharepoint Tasks, just a To Do list.
 + **Properties**: You use this tab to set the properties for the process. Available for the main level, the process, only.
 
 See these pages for more information:
 
-+ :doc:`Create a new draft from a published process </working-with-processes/authoring-processes/working-with-drafts/drawing-tab/index>`
-+ :doc:`Create a new draft from a published process </working-with-processes/authoring-processes/working-with-drafts/content-tab/index>`
-+ :doc:`Create a new draft from a published process </working-with-processes/authoring-processes/working-with-drafts/documents-tab/index>`
-+ :doc:`Create a new draft from a published process </working-with-processes/authoring-processes/working-with-drafts/links-tab/index>`
-+ :doc:`Create a new draft from a published process </working-with-processes/authoring-processes/working-with-drafts/tasks-tab/index>`
-+ :doc:`Create a new draft from a published process </working-with-processes/authoring-processes/working-with-drafts/properties-tab/index>`
++ :doc:`The Drawing tab </working-with-processes/authoring-processes/working-with-drafts/drawing-tab/index>`
++ :doc:`The Content tab </working-with-processes/authoring-processes/working-with-drafts/content-tab/index>`
++ :doc:`The Documents tab </working-with-processes/authoring-processes/working-with-drafts/documents-tab/index>`
++ :doc:`The Links tab </working-with-processes/authoring-processes/working-with-drafts/links-tab/index>`
++ :doc:`The Tasks tab </working-with-processes/authoring-processes/working-with-drafts/tasks-tab/index>`
++ :doc:`The Properties tab </working-with-processes/authoring-processes/working-with-drafts/properties-tab/index>`
 
 Design mode or Preview mode
 ****************************
@@ -31,4 +31,4 @@ You can use two different modes when working with a process; Design mode for edi
 
 .. image:: pm-modes.png
 
-See this page for more information about the preview: (link to be added):doc:`Preview a process </working-with-processes/authoring-processes/working-with-drafts/preview-a-process/index>`
+See this page for more information about the preview: :doc:`Preview a process </working-with-processes/authoring-processes/working-with-drafts/preview-a-process/index>`
