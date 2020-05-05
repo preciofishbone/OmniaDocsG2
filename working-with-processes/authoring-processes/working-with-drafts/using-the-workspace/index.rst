@@ -23,7 +23,7 @@ See these pages for more information:
 + :doc:`The Documents tab </working-with-processes/authoring-processes/working-with-drafts/documents-tab/index>`
 + :doc:`The Links tab </working-with-processes/authoring-processes/working-with-drafts/links-tab/index>`
 + :doc:`The Tasks tab </working-with-processes/authoring-processes/working-with-drafts/tasks-tab/index>`
-+ :doc:`The Properties tab </working-with-processes/authoring-processes/working-with-drafts/properties-tab/index>`
++ :doc:`The Properties tab </working-with-processes/authoring-processes/working-with-drafts/edit-properties/index>`
 
 Design mode or Preview mode
 ****************************

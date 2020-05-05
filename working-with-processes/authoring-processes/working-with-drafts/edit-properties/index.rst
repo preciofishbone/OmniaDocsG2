@@ -1,16 +1,13 @@
 Edit properties when authoring processes
 ==========================================
 
-**(This documentation is just started, more will be added soon.)**
+The other tabs available when editing a process is available for the main process and for process steps. On this tab you set properties for the whole process. Therefore the tab is available at the top level only.
+
+Available properties are set by the administrator creating the process type. Here's a simple example:
+
+.. image:: pm-properties-tab.png
+
+It's very important that you set the properties as they normally affect important functionality.
 
 Before pubishing a process, you will have to make sure that all mandatory properties are added. Also note that the properties can't be changed for a published process. You always have to publish a new edition to be able to change properties.
 
-Do the folllowing:
-
-1. Click the "Properties" tab.
-
-(Image to be added)
-
-Available properties are set by the administrator creating the process type, see (linke to be added).
-
-2. Edit the properties as needed and save.
