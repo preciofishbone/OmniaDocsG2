@@ -12,7 +12,7 @@ Use it this way:
 2. Select a document.
 3. Click "OK".
 
-If the list in the tab is long, used the navigation at the bottom of the page to go between pages:
+If the list in the tab is long, use the navigation at the bottom of the page to go between pages:
 
 .. image:: document-picker-navigation.png
 

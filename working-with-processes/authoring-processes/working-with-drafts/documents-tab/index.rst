@@ -39,7 +39,7 @@ To pick documents to display in the list, do the following:
 
 The Document Picker starts:
 
-.. image:: pm-documents-query-pick-2.png
+.. image:: document-picker.png
 
 3. Use the Document Picker as described on this page: :doc:`Document Picker </general-assets/document-picker/index>`
 
@@ -61,4 +61,4 @@ You use this Query Builder the same way as is described under "Query" for the Do
 
 Refiner
 ---------
-Refiner is used the same way as is described under the heading "Refiner" on the Document Rollup page, see link above.
+Refiner is used the same way as is described under the heading "Refiners" on the Document Rollup page, see link above.
