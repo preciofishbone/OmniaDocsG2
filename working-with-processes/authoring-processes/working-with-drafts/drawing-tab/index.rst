@@ -70,11 +70,7 @@ When you select the option "Add Link", you can use the following settings:
 
 Add a title for the link (default language mandatory), add or paste the URL and decide if the link should be opened in a new window or not.
 
-Click "OK" to save the shape.
-
-Click "CHANGE SHAPE" to go back a step to create an additonal shape.
-
-Click "CANCEL" to exit.
+Click "OK" to save the shape. Click "CHANGE SHAPE" to go back a step to create an additonal shape. The changes you have made and not saved are discarded. Click "CANCEL" to exit.
 
 .. image:: pm-drawing-shape-settings-save.png
 
@@ -201,7 +197,7 @@ To add additional clickable areas you have to go back to step 1, but there's a n
 .. image:: clickable-6.png
 
 10. Edit the settings for the copy (clone) and save.
-11. Move the new clickable area to the correct position.
+11. Move the new clickable area to the correct position and save.
 
 Change the size of a clickable area or move it
 --------------------------------------------------
