@@ -1,8 +1,6 @@
 Create a new draft from a published process
 =============================================
 
-**(This documentation is just started, more will be added soon.)**
-
 The work on a draft process for a new edition can be started whenever it’s convenient. The existing published edition is still available for readers until it’s replaced, when the new edition is published.
 
 To create a new draft of a published process, do the following:

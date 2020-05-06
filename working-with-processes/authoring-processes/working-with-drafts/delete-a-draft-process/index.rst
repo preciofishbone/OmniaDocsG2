@@ -1,8 +1,6 @@
 Delete a draft process
 =======================
 
-**(This documentation is just started, more will be added soon.)**
-
 If you need to delete a draft process, do the following:
 
 1. Select the process in the list.
