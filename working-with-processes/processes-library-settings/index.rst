@@ -61,7 +61,7 @@ You can add/remove groups and/or users to these fields, this way.
 
 2. To edit permissions, open the list to select a user.
 
-. image:: process-library-settings-permissions-details-list.png
+.. image:: process-library-settings-permissions-details-list.png
 
 You can also add groups or users by typing the name in the field.
 
