@@ -11,17 +11,31 @@ Assigned To Me
 ***************
 As it says, this list displays all tasks that have been assigned to you. 
 
-(image to be added)
+.. image:: pm-tasks-assigned-tome.png
 
 To work with a task, just click the Title, and then something like the following is shown:
 
-(Image to be added)
+.. image:: pm-tasks-assigned-task.png
 
-You can click the link to preview the process. To see additional information about the process, click the i-icon. Here's an example of process information:
+You can click the link to preview the process. 
 
-(Image to be added)
+Approve or reject a process
+-----------------------------
+When you approve a process for publication, the author receives a notification stating that has been done. 
 
-To go back to the list, click "Cancel".
+You approve publication of the process the following way:
+
+1. Click the link to check the process and then close it.
+2. Type a message if you want (not mandatory).
+3. Click "APPROVE".
+
+If you reject publication for a process, the author receives a notification about that, makes necessary changes and can after that publish again. 
+
+You reject publication of the process the following way:
+
+1. Click the link to check the process and then close it.
+2. Type a message of what needs to be changed (strictly speaking not mandatory, but something you should normally do).
+3. Click "REJECT".
 
 Assigned By Me
 ****************
