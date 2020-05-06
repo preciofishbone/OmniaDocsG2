@@ -37,11 +37,11 @@ Exactly which options are available here depends on a a number of settings. Thes
 4. Select approver and add a due date.
 5. Click "Send".
 
-image:: pm-publish-publish-send.png
+.. image:: pm-publish-publish-send.png
 
 When you click "Send", a task is created for the approver, and an e-mail is sent, with a link to the draft process. The task can look like this:
 
-image:: pm-approval-approve-reject.png
+.. image:: pm-approval-approve-reject.png
  
 The approver automatically has read access to the process, meaning the approver can use the Preview mode only, until the task is completed. If a Notification Panel is set up for Tasks, the approver is also notified in the notification panel, and can choose to open the task from there. 
 
