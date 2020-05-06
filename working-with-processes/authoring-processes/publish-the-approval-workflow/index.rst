@@ -25,7 +25,7 @@ To publish a process, do the following:
 
 Something like the following is shown:
 
-image:: pm-publish-publish-settings.png
+.. image:: pm-publish-publish-settings.png
 
 Exactly which options are available here depends on a a number of settings. These are the common ones:
 
@@ -45,7 +45,7 @@ image:: pm-approval-approve-reject.png
  
 The approver automatically has read access to the process, meaning the approver can use the Preview mode only, until the task is completed. If a Notification Panel is set up for Tasks, the approver is also notified in the notification panel, and can choose to open the task from there. 
 
-The workflow will be active until the task is completed and the process will be locked for editing during that time. This is noted byt the message "Waiting for approval" in the Drafts list:
+The workflow will be active until the task is completed and the process will be locked for editing during that time. This is noted by the message "Waiting for approval" in the Drafts list:
 
 .. image:: waiting-for-approval.png
 
