@@ -13,4 +13,4 @@ To create a new draft of a published process, do the following:
 
 The new draft is created and the "Drafts" tab is automatically activated. The work on the new draft is done exactly as the first time. That a process has been published before does not make any difference.
 
-**Note!** There can be only one draft of a given process. If there already is a draft for the process and an author tries to create another for, a message is shown stating that it's not possible. 
+**Note!** There can be only one draft of a given process. If there already is a draft for the process and an author tries to create another, a message is shown stating that it's not possible. 

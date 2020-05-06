@@ -5,13 +5,13 @@ When you edit a draft changes are saved automatically and it is noted this way:
 
 .. image:: pm-saved-data.png
 
-On the other hand, if you have made some changes you don't want to save, you can click this option to discard them:
+If you have made some changes you don't want to save, you can click this option to discard them:
 
-.. inmage:: pm-discard.png
+.. image:: pm-discard.png
 
 Check in your work
 --------------------
-When you work on a process it's automatically checked out to you, which means no one else can work on that process until you check in.
+When you work on a process it's automatically checked out to you, which means no one else can work on that process until it's checked in.
 
 If a process is checked out to someone, it's shown in the Process Libary, for example:
 

@@ -1,6 +1,8 @@
 Delete a draft process
 =======================
 
+**Important!** When you delete a draft process there is no way of retrieving it, so make sure you delete the right process!
+
 If you need to delete a draft process, do the following:
 
 1. Select the process in the list.

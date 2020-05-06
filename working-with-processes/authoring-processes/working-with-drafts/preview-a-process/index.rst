@@ -12,8 +12,6 @@ You can also preview the process without editing, this way:
 
 .. image:: pm-preview-menu.png
 
-You can go on editing the process from here by clicking "Design".
-
 When in Preview mode you can test how the process will look on different devices:
 
 .. image:: pm-preview-devices.png
