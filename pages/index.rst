@@ -11,6 +11,7 @@ In this part of the documentation you will find information concerning how to wo
    move-page/index
    delete-page/index
    edit-page/index
+   edit-page-variation/index
    language-versions-of-a-page/index
    publish-page-changes/index
    version-history/index
