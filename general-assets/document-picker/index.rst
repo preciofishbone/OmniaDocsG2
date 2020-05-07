@@ -22,9 +22,11 @@ Depending on settings in Omnia Admin, a search can be available, and it can also
 
 Settings for the Document Picker
 *********************************
-There are two settings in Omnia Admin that is relevant for the Document Picker:
+These are the settings in Omnia Admin that is relevant for the Document Picker:
 
-If a document library is set 
+If a document library is set up for the Publishing App, it becomes the default tab in the picker, see under the heading "Create a new Publishing App" om this page: :doc:`Publishing Apps </admin-settings/buseiness-group-settings/publishing-apps/index>`
+
+There are also settings in the Business Profile, specifically for the Document Picker, see: :doc:`Document Picker settings </admin-settings/buseiness-group-settings/settings/document-picker/index>`
 
 
 
