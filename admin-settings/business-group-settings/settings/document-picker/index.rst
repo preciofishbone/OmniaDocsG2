@@ -30,7 +30,7 @@ To create a new category, do the following:
 + **Title**: You can adda a title for the caterogory in any or all avaailable languages. Default language is mandatory.
 + **Sharepoint Library/Search category**: A Document Picker category can either be a Sharepoint library or a search category. Select what you will create here.
 + **Share point Library Url**: If you selected "Sharepoint Library" above, add the Url to the library here.
-+ **Search Categories**: If you selected "Search category" above, use this list to select search category. The search categories are set up for the Business Profile, see: :doc:`Searech settings </admin-settings/buseiness-group-settings/search/index>`
++ **Search Categories**: If you selected "Search category" above, use this list to select search category. The search categories are set up for the Business Profile, see: :doc:`Search settings </admin-settings/business-group-settings/search/index>`
 + **Allow user to upload document**: If you create a category for a Sharepoint library you can allow uppload to this libary in the Document Picker, by selecting this option.
 + **Add Filter**: If you are using a Search Category you can add filters to allow the users to filter the list in the Document Picker, see below for an example.
 
