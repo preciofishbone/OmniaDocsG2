@@ -15,7 +15,7 @@ Something like the following is shown:
 
 To the left you can see the text on the main page, to the right the text for the variation you're editing.
 
-If you would like to see what has been change, click this icon:
+If you would like to see what has been changed, click this icon:
 
 .. image:: edit-variations-3.png
 
@@ -23,7 +23,7 @@ Now you can clearly see what's been altered, for example:
 
 .. image:: edit-variations-4.png
 
-**Note!** The comparison is made between the two last versions of the main page. If you haven't edited the variation for a while there can be more changes made and they are not selected here - just the last changes are shown.
+**Note!** The comparison is made between the two last versions of the main page. If you haven't edited the variation for a while there can be more changes and they are not selected here - just the last changes are shown.
 
 You can of course edit the variation manually by typing the text in the right field and just use the information in the left field as a reminder, but as a quick way, machine translation is an integrated part of this functionality.
 
