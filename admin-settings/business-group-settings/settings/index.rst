@@ -17,7 +17,7 @@ For detailed information, select settings here:
    header/index
    footer/index
    block-title/index
-   central-image-locations/index
+   central-image-location/index
    document-picker/index
 
 
