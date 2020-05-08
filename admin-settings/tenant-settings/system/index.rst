@@ -2,7 +2,7 @@ System
 =============
 Here, the following can be set:
 
-.. image:: system-settings-new2.png
+.. image:: system-settings-new3.png
 
 Extensions
 ************
