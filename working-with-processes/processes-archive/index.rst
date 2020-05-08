@@ -9,3 +9,5 @@ Note that the archive is a separate site with it's own permissions. Normally jus
 
 In the archive, the processes there can be displayed, but not retrieved.
 
+Archived processes can be made available, if needed, through a Process Rollup block.
+
