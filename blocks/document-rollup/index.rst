@@ -7,7 +7,7 @@ The settings
 *************************
 The following settings are available:
 
-.. image:: document-rollup-settings-new3.png
+.. image:: document-rollup-settings-all.png
 
 General
 -----------------
@@ -67,15 +67,37 @@ For **Group By Site** these settings are available:
 
 Query
 ---------
+You can either choose to pic documents to be display in the block, or use the Query Builder.
+
+.. image:: document-rollup-query.png
+
+Pick Documents
+^^^^^^^^^^^^^^^^^
+To pick documents, click "ADD DOCUMENT".
+
+.. image:: document-rollup-pick.png
+
+The Document Picker opens and you use it to select documents.
+
+.. image:: document-rollup-document-picker.png
+
+Available categories (tabs) are set up in Omnia Admin, see: :doc:`Document Picker settings </admin-settings/business-group-settings/settings/document-picker/index>`
+
+See this page for more information on how to use the Document Picker: :doc:`The Document Picker </general-assets//document-picker/index>`
+
+Quey Builder
+^^^^^^^^^^^^^^
 Here you add queries, which is the detailed "settings" for what to display in the list:
 
-.. image:: document-rollup-settings-query-new.png
+.. image:: document-rollup-settings-query-new2.png
 
 1. Set scope for the document rollup: 
 
-+ All Documents - always available, meaning ALL documents the logged in user has permissions to read. Use the query settings below to limit what will be shown in the rollup. The rollup can then be set to display just "normal" documents or both normal and controlled documents. To rollup documents from one or more Teams Sites, use this option.
-+ Published Documents  - available only if Controlled Documents is active. Meaning ALL published CONTROLLED DOCUMENTS the logged in user has permissions to read. Use the query settings below to limit what will be shown in the rollup.
-+ Archived Documents - available only if Controlled Documents is active. Meaning all published Controlled Documents in the Archive. As permissions to read documents in the Archive normally is given to just a few, this is for specialized implementations.
+.. image:: document-rollup-settings-query-scope.png
+
++ **All Documents** - always available, meaning ALL documents the logged in user has permissions to read. Use the query settings below to limit what will be shown in the rollup. The rollup can then be set to display just "normal" documents or both normal and controlled documents. To rollup documents from one or more Teams Sites, use this option.
++ **Published Documents**  - available only if Controlled Documents is active. Meaning ALL published CONTROLLED DOCUMENTS the logged in user has permissions to read. Use the query settings below to limit what will be shown in the rollup.
++ **Archived Documents** - available only if Controlled Documents is active. Meaning all published Controlled Documents in the Archive. As permissions to read documents in the Archive normally is given to just a few, this is for specialized implementations.
 
 **Note!** Regardless of what you select here, the documents that will be displayed for a user are only those documents that the user has premissions to read.
 
@@ -84,7 +106,7 @@ Here you add queries, which is the detailed "settings" for what to display in th
 
 Here's a simple example of a Query for displaying documents that are published later than 2019-06-30:
 
-.. image:: documents-query-new2.png
+.. image:: documents-query-new3.png
 
 Also see another example under *Implementation example* below.
 
@@ -104,7 +126,7 @@ Select filters to show for the list.
 + **Position**: Set position for the filters here; "Top", "Left" or "Right".
 + **Add filter**: Click this option to add a property for filtering. You can add as many properties that are applicable, and set the detailed settings (for example From - To for "Published").
 
-Refiners
+Refiner
 -----------------
 Here you select refiners to show for the list:
 
@@ -151,7 +173,7 @@ Query
 ------
 The following settings are made for Query:
 
-.. image:: document-rollup-controlled-6.png
+.. image:: document-rollup-controlled-6new.png
 
 Note the star (*) in the Query Field, meaning All (in this case Published Controlled Documents).
 
