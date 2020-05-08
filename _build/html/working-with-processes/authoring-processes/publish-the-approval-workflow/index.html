@@ -185,39 +185,42 @@
             
   <div class="section" id="publish-the-approval-workflow-for-processes">
 <h1>Publish - the approval workflow for processes<a class="headerlink" href="#publish-the-approval-workflow-for-processes" title="Permalink to this headline">¶</a></h1>
-<p><a href="#id1"><span class="problematic" id="id2">**</span></a>(This documentation is just started, more will be added soon.)</p>
 <p>When a process has reached a final version, it must be published, and if approval is activated, be approved for publication, to be available for end users. To do that, you start an Approval Workflow.</p>
-<p>All metadata must be properly set before the Approval Workflow is started. Some metadata can be mandatory. If all mandatory metadata has not been added, the Approval Workflow can not be started.</p>
+<p>The process must be checked in and all metadata must be properly set before the Approval Workflow can be started. Some metadata can be mandatory. If all mandatory metadata has not been added, the Approval Workflow can not be started.</p>
 <p><strong>Note!</strong> Metadata can also have impact on who is available as approver.</p>
 <p>Also note that, if it’s the first time the process is published, a page needs to be set up, with use of the process blocks, to make it possible for end users to access the process.</p>
 <p>To publish a process, do the following:</p>
 <ol class="arabic simple">
 <li>Check that all metadata (Properties) are correct.</li>
-<li>Select the process.</li>
-<li>Open the dot menu and select “Publish”.</li>
 </ol>
-<p>(Image to be added)</p>
+<img alt="../../../_images/pm-publish-metadata.png" src="../../../_images/pm-publish-metadata.png" />
+<ol class="arabic simple" start="2">
+<li>Check in the process.</li>
+</ol>
+<img alt="../../../_images/pm-publish-checkin.png" src="../../../_images/pm-publish-checkin.png" />
+<ol class="arabic simple" start="3">
+<li>Open the dot menu for the process and select “Publish”.</li>
+</ol>
+<img alt="../../../_images/pm-publish-publish.png" src="../../../_images/pm-publish-publish.png" />
 <p>Something like the following is shown:</p>
-<p>(Image to be added)</p>
+<img alt="../../../_images/pm-publish-publish-settings.png" src="../../../_images/pm-publish-publish-settings.png" />
 <p>Exactly which options are available here depends on a a number of settings. These are the common ones:</p>
 <ul class="simple">
 <li><strong>Approver</strong>: You select one approver from the list, or accept the suggested. Available approvers depends on various settings and how the system is set up.</li>
-<li><strong>Approval Due Date</strong>: Here the author adds a date when the approval should be made, at the latest. This is just information for the approvers. The Approval workflow is not stopped if this date is pased.</li>
+<li><strong>Approval Due Date</strong>: Here you add a date when the approval should be made, at the latest. This is just information for the approver. The Approval workflow is not stopped if this date is passed.</li>
 <li><strong>Comments</strong>: Use this field for comments about what was edited/added in a new edition. The field is not shown when the first edition is published.</li>
 <li><strong>Read rights</strong>: The default selection is to use the Default Readers Group from the site’s permissions. If, for some reason, the Read Rights for this particular document should be different, you can select “Limit Read Access”, and enter the names of the readers, or any group memberships, for example AD groups.</li>
-<li><strong>Notify people</strong>: You can use this option to notify certain people or groups about the new edition of the document. The notification is sent when the document is approved. You can find more information about notifying people on this page: <span class="xref std std-doc">Read and understood - Notify and Read Receipt</span></li>
-<li><strong>Require Read Receipt</strong>: When notifying people, you can also select this option for read receipts to be sent to this Controlled Documents library.</li>
-<li><strong>Preview process</strong>: Click here to see a preview of how the approver will see the document, converted to PDF or not.</li>
 </ul>
-<ol class="arabic simple" start="5">
+<ol class="arabic simple" start="4">
 <li>Select approver and add a due date.</li>
 <li>Click “Send”.</li>
 </ol>
-<p>(Image to be added)</p>
+<img alt="../../../_images/pm-publish-publish-send.png" src="../../../_images/pm-publish-publish-send.png" />
 <p>When you click “Send”, a task is created for the approver, and an e-mail is sent, with a link to the draft process. The task can look like this:</p>
-<p>(Image to be added)</p>
-<p>The approver automatically has read access to the process (Note! Read access only!), until the task is completed. If a Notification Panel is set up for Tasks, the approver is also notified in the notification panel, about the new task, and can choose to open the task from there.</p>
-<p>The workflow will be active until the task is completed and the process will be locked for editing during that time.</p>
+<img alt="../../../_images/pm-approval-approve-reject.png" src="../../../_images/pm-approval-approve-reject.png" />
+<p>The approver automatically has read access to the process, meaning the approver can use the Preview mode only, until the task is completed. If a Notification Panel is set up for Tasks, the approver is also notified in the notification panel, and can choose to open the task from there.</p>
+<p>The workflow will be active until the task is completed and the process will be locked for editing during that time. This is noted by the message “Waiting for approval” in the Drafts list:</p>
+<img alt="../../../_images/waiting-for-approval.png" src="../../../_images/waiting-for-approval.png" />
 <div class="section" id="approved-or-rejected">
 <h2>Approved or Rejected<a class="headerlink" href="#approved-or-rejected" title="Permalink to this headline">¶</a></h2>
 <p>If the process is approved for publication, it’s now available for readers. You, the author, will receive an e-mail stating that.</p>
@@ -248,7 +251,7 @@
   <div role="contentinfo">
     <p>
         &copy; Copyright 2020, Precio Fishbone.
-      Last updated on May 05, 2020.
+      Last updated on May 08, 2020.
 
     </p>
   </div>
