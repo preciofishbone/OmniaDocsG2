@@ -15,11 +15,11 @@ When a Team Site has been set up for process authoring, the following will be av
 
 In a Team Site set up for process authoring, a library, usually called just "Processes", is available here:
 
-(Image to be added)
+.. image:: processes-library.png
 
 In the Procsses library, authors can find three tabs:
 
-(Image to be added)
+.. image:: processes-library-tabs.png
 
 "Drafts" is used when creating and editing drafts for new processes or when updating an existing process for a new edition. 
 

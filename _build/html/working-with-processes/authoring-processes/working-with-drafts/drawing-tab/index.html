@@ -42,7 +42,7 @@
     <link rel="top" title="Omnia  documentation" href="../../../../index.html"/>
         <link rel="up" title="Working with draft processes" href="../index.html"/>
         <link rel="next" title="The Content tab - authoring processes" href="../content-tab/index.html"/>
-        <link rel="prev" title="Creating a draft process" href="../creating-draft-process/index.html"/> 
+        <link rel="prev" title="Using the workspace for processes" href="../using-the-workspace/index.html"/> 
 
   
   <script src="../../../../_static/js/modernizr.min.js"></script>
@@ -101,6 +101,7 @@
 <li class="toctree-l2 current"><a class="reference internal" href="../../index.html">Authoring processes</a><ul class="current">
 <li class="toctree-l3 current"><a class="reference internal" href="../index.html">Working with draft processes</a><ul class="current">
 <li class="toctree-l4"><a class="reference internal" href="../creating-draft-process/index.html">Creating a draft process</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../using-the-workspace/index.html">Using the workspace for processes</a></li>
 <li class="toctree-l4 current"><a class="current reference internal" href="#">The Drawing tab - authoring processes</a></li>
 <li class="toctree-l4"><a class="reference internal" href="../content-tab/index.html">The Content tab - authoring processes</a></li>
 <li class="toctree-l4"><a class="reference internal" href="../documents-tab/index.html">The Documents tab - authoring processes</a></li>
@@ -201,14 +202,13 @@
             
   <div class="section" id="the-drawing-tab-authoring-processes">
 <h1>The Drawing tab - authoring processes<a class="headerlink" href="#the-drawing-tab-authoring-processes" title="Permalink to this headline">¶</a></h1>
-<p><strong>(This documentation is just started, more will be added soon.)</strong></p>
 <p>You use this tab to visualize the process or process step.</p>
 <div class="section" id="canvas-settings">
 <h2>Canvas Settings<a class="headerlink" href="#canvas-settings" title="Permalink to this headline">¶</a></h2>
 <p>To open the canvas settings, click the cog wheel.</p>
-<p>(Image to be added)</p>
+<img alt="../../../../_images/pm-drawing-canvas-1.png" src="../../../../_images/pm-drawing-canvas-1.png" />
 <p>Here you can set the following and you can edit these settings anytime.</p>
-<p>(Image to be added)</p>
+<img alt="../../../../_images/pm-drawing-canvas-2.png" src="../../../../_images/pm-drawing-canvas-2.png" />
 <ul class="simple">
 <li><strong>Width/Height</strong>: Set the size of the work area in pixels here.</li>
 <li><strong>GridX/GridY</strong>: The work area has a grid that shapes and clickable areas snap to. You set the size of a square in the grid here.</li>
@@ -216,83 +216,85 @@
 <li><strong>Highlight shapes</strong>: Select this option to display an outline around the shapes. This can be useful if, for example, the shapes color is similar to the background image.</li>
 </ul>
 <p>Here’s an example with grid lines visible:</p>
-<p>(Image to be added)</p>
+<img alt="../../../../_images/pm-drawing-canvas-3.png" src="../../../../_images/pm-drawing-canvas-3.png" />
 <p>Here’s an example with shapes outlined:</p>
-<p>(Image to be added)</p>
+<img alt="../../../../_images/pm-drawing-canvas-4.png" src="../../../../_images/pm-drawing-canvas-4.png" />
 <p><strong>Very important!</strong> The canvas setting is the same for all devices so you have to consider what canvas size is the most user friendly for the devices most commonly used in your organization for accessing the process.</p>
 </div>
 <div class="section" id="working-with-shapes">
 <h2>Working with shapes<a class="headerlink" href="#working-with-shapes" title="Permalink to this headline">¶</a></h2>
 <p>To add a shape, click “ADD SHAPE”.</p>
-<p>(Image to be added)</p>
+<img alt="../../../../_images/pm-addshape.png" src="../../../../_images/pm-addshape.png" />
 <p>Something like the following is shown:</p>
-<p>(Image to be added)</p>
-<p>Exactly what is available here depends on settings for the Process Type, so this is just an example.</p>
+<img alt="../../../../_images/pm-drawing-shape-settings.png" src="../../../../_images/pm-drawing-shape-settings.png" />
+<p>Exactly what is available here depends on settings for the Process Type, so this is just an example. For more information see: <a class="reference internal" href="../../../../admin-settings/tenant-settings/process-management/process-types/index.html"><span class="doc">Process Types</span></a></p>
 <ul class="simple">
 <li><strong>All Shapes</strong>: If the list of shapes is very long, you can use this field to search for a shape.</li>
-<li><strong>Workflow</strong>: Normally a number of workflow shapes are availble.</li>
-<li><strong>Arrows</strong>: Normally a number od arrow shapes are availble.</li>
-<li><strong>Custom</strong>: What is available here can differ a lot. Custom shapse may not be alloed at all. If custom shapes are allowed “Freeform” means you, the process author, can draw a new shape when needed. “Media” means you can upload an image to use as a shape for this process or process step. See below for more information.</li>
 </ul>
-</div>
+<p>Custom shapes may not be allowed at all. If custom shapes are allowed “Freeform” means you, the process author, can draw a new shape when needed. “Media” means you can upload an image to use as a shape for this process or process step.</p>
 <div class="section" id="settings-for-a-shape">
-<h2>Settings for a shape<a class="headerlink" href="#settings-for-a-shape" title="Permalink to this headline">¶</a></h2>
+<h3>Settings for a shape<a class="headerlink" href="#settings-for-a-shape" title="Permalink to this headline">¶</a></h3>
 <p>To select a shape, just click it and the following settings is shown:</p>
-<p>(Image to be added)</p>
+<img alt="../../../../_images/pm-drawing-shape-settings-settings.png" src="../../../../_images/pm-drawing-shape-settings-settings.png" />
 <ul class="simple">
-<li><strong>Shape Type</strong>: Here you decide what to use the shape for. Process Step is the default. You can alos choose “None”, which means it’s just an image; “Linked process” and “Link”. All selections except “None” creates a clickable shape. See below for more information. Note that to be able to create a linked process, other processes must already exist, to link to.</li>
-<li><strong>New</strong>: This settings is used for “Process Step”, “Linked Process” and “Link”. Decide to create a new process step, linked process or link, or an existing one.</li>
-<li><strong>Add Link</strong>: When you have selected “Link”, this option is shown. See below for more information.</li>
-<li><strong>Title</strong>: Add the text that should be displayed for the shape here, if a text should be displayed. You can see a proview to the right. You can add the title in all available languages.</li>
+<li><strong>Shape Type</strong>: Here you decide what to use the shape for. Process Step is the default. You can also choose “None”, which means it’s just an image; “Linked process” and “Link”. All selections except “None” creates a clickable shape. See below for more information. Note that to be able to create a linked process, other processes must already exist, to link to.</li>
+<li><strong>Select Process</strong>: When you have selected “Linked Process” in the top list, use this list to choose the process to link to.</li>
+<li><strong>Add Link</strong>: When you have selected “Link” in the top list, this option is shown. See below for more information.</li>
+<li><strong>Title</strong>: Add the text that should be displayed for the shape here, if a text should be displayed. You can see a preview to the right. You can add the title in any or all available languages.</li>
 <li><strong>Text Position</strong>: Set the position for the text: “On Shape”, “Above Shape” or “Below Shape”.</li>
 <li><strong>Text Alignment</strong>: Set text alignment here: “Center”, “Left” or “Right”.</li>
 <li><strong>Text Adjustment</strong>: Use the arrows to fine tune the placement of the text. Use the center icon to center the text.</li>
 <li><strong>Show more settings</strong>: Click to show the following settings:</li>
 </ul>
-<p>(Image to be added)</p>
+<img alt="../../../../_images/pm-drawing-shape-settings-settings-more.png" src="../../../../_images/pm-drawing-shape-settings-settings-more.png" />
 <ul class="simple">
-<li><a href="#id1"><span class="problematic" id="id2">**</span></a>Font Size: Set the font size for the text in pixels here.</li>
-<li><strong>Colors</strong>: Use te options in this section to set details for colors, for the shape and text.</li>
+<li><strong>Font Size</strong>: Set the font size in pixels for the text here.</li>
+<li><strong>Colors</strong>: Use the options in this section to set details for colors, for the shape and text.</li>
 </ul>
 <p>When you select the option “Add Link”, you can use the following settings:</p>
-<p>(Image to be added)</p>
-<p>Add a title for the link (default language mandatory), add or paste the URL and decide if the link should be opened on a new window or not.</p>
-<p>Click “OK” to save the shape.</p>
-<p>Click “CHANGE SHAPE” to go back a step to create an additonal shape.</p>
-<p>Click “CANCEL” to exit.</p>
-<p>If you created process steps when adding shapes, you can now see that they are list in the navigation.</p>
-<p>(Image to add)</p>
+<img alt="../../../../_images/pm-drawing-shape-settings-add-link.png" src="../../../../_images/pm-drawing-shape-settings-add-link.png" />
+<p>Add a title for the link (default language mandatory), add or paste the URL and decide if the link should be opened in a new window or not.</p>
+<p>Click “OK” to save the shape. Click “CHANGE SHAPE” to go back a step to create an additonal shape. The changes you have made and not saved are discarded. Click “CANCEL” to exit.</p>
+<img alt="../../../../_images/pm-drawing-shape-settings-save.png" src="../../../../_images/pm-drawing-shape-settings-save.png" />
+<p>If you created process steps when adding shapes, you can now see that they are listed in the navigation.</p>
+<img alt="../../../../_images/pm-drawing-process-step.png" src="../../../../_images/pm-drawing-process-step.png" />
 <p>You can use the tabs to edit the process steps.</p>
 </div>
 <div class="section" id="adjust-the-shapes">
-<h2>Adjust the shapes<a class="headerlink" href="#adjust-the-shapes" title="Permalink to this headline">¶</a></h2>
-<p>Note that when you add a new shape it is placed in upper left corner of the canvas. It that is not the intended position, use drag and drop to place the new shape. You can place a shape anywhere within the canvas.</p>
+<h3>Adjust the shapes<a class="headerlink" href="#adjust-the-shapes" title="Permalink to this headline">¶</a></h3>
+<p>Note that when you add a new shape it’s placed in the upper left corner of the canvas, and text above may not be seen. It that is not the intended position, use drag and drop to place the new shape. You can place a shape anywhere within the canvas.</p>
 <p>To adjust the size of the shape, click it and use the handles to drag to the desired size.</p>
-<p>(Image to be added)</p>
-<p>To edit the settings for the shape (see above), click the shape and then click the pen.</p>
-<p>(Image to be added)</p>
+<img alt="../../../../_images/pm-drawing-shape-size.png" src="../../../../_images/pm-drawing-shape-size.png" />
+<p>To edit the settings for a shape, click the shape and then click the pen.</p>
+<img alt="../../../../_images/pm-drawing-shape-edit.png" src="../../../../_images/pm-drawing-shape-edit.png" />
 </div>
 <div class="section" id="clone-a-shape">
-<h2>Clone a shape<a class="headerlink" href="#clone-a-shape" title="Permalink to this headline">¶</a></h2>
-<p>If you need a number of shapes that are similar, this is a very hand option.</p>
+<h3>Clone a shape<a class="headerlink" href="#clone-a-shape" title="Permalink to this headline">¶</a></h3>
+<p>If you need a number of shapes that are similar, this is a handy option.</p>
 <ol class="arabic simple">
 <li>Select the shape you want to clone.</li>
-<li>Click “CLONE”.</li>
+<li>Click “CLONE SHAPE”.</li>
+</ol>
+<img alt="../../../../_images/pm-drawing-shape-clone.png" src="../../../../_images/pm-drawing-shape-clone.png" />
+<ol class="arabic simple" start="3">
 <li>Select the new shape to change settings as needed.</li>
 </ol>
+<p>(Note that the cloned shape may be placed on top of the “mother” shape. You may have to move the new shape to see it.)</p>
 </div>
 <div class="section" id="delete-a-shape">
-<h2>Delete a shape<a class="headerlink" href="#delete-a-shape" title="Permalink to this headline">¶</a></h2>
+<h3>Delete a shape<a class="headerlink" href="#delete-a-shape" title="Permalink to this headline">¶</a></h3>
 <p>To delete a shape you no longer need, do the following.</p>
 <ol class="arabic simple">
 <li>Select the shape.</li>
 <li>Click “DELETE SHAPE”.</li>
 </ol>
+<img alt="../../../../_images/pm-drawing-shape-delete-1.png" src="../../../../_images/pm-drawing-shape-delete-1.png" />
 <p>The following is shown:</p>
-<p>(Image to be added)</p>
+<img alt="../../../../_images/pm-drawing-shape-delete-2.png" src="../../../../_images/pm-drawing-shape-delete-2.png" />
 <ol class="arabic simple" start="3">
 <li>Click “OK” to delete or “CANCEL” to change your mind.</li>
 </ol>
+</div>
 </div>
 <div class="section" id="create-a-drawing-for-a-process-step">
 <h2>Create a drawing for a process step<a class="headerlink" href="#create-a-drawing-for-a-process-step" title="Permalink to this headline">¶</a></h2>
@@ -300,86 +302,89 @@
 <ol class="arabic simple">
 <li>Select the process step.</li>
 </ol>
-<p>(Image to be added)</p>
+<img alt="../../../../_images/select-process-step.png" src="../../../../_images/select-process-step.png" />
 <p>2.Click “CREATE DRAWING”.</p>
-<p>(Image to be added)</p>
+<img alt="../../../../_images/create-drawing.png" src="../../../../_images/create-drawing.png" />
 <p>Now you can work with the process step’s drawing as described above.</p>
 </div>
 <div class="section" id="add-a-background-image">
 <h2>Add a background image<a class="headerlink" href="#add-a-background-image" title="Permalink to this headline">¶</a></h2>
-<p>The option for adding a background image is also available in the canvas settings. You can use this option either for just a nice background image, to place shapes on, or to upload a process image you have created in for example PowerPoint or Visio, to add clickable areas on. See below for more information about clickable areas.</p>
+<p>The option for adding a background image is also available in the canvas settings. You can use this option either for just a nice background image, to place shapes on, or to upload a process image you have created in for example PowerPoint or Visio, to add clickable areas on. For more information about clickable areas, see below.</p>
 <p>To add a background image:</p>
 <ol class="arabic simple">
 <li>Open the Canvas Settings.</li>
 <li>Click “Add Image”.</li>
 </ol>
-<p>(Image to be added)</p>
+<img alt="../../../../_images/pm-background-image-2.png" src="../../../../_images/pm-background-image-2.png" />
 <p>The Media Picker opens and you use it to upload an image from your computer or from any of the available resources, for example:</p>
-<p>(Image to be added)</p>
-<p>For more information on how to use the Media Picker, see: (link to be added)</p>
-</div>
+<img alt="../../../../_images/pm-background-image-3.png" src="../../../../_images/pm-background-image-3.png" />
+<p>For more information on how to use the Media Picker, see: <a class="reference internal" href="../../../../general-assets/media-picker/index.html"><span class="doc">Media Picker</span></a></p>
 <div class="section" id="adding-clickable-areas-to-a-drawing">
-<h2>Adding clickable areas to a drawing<a class="headerlink" href="#adding-clickable-areas-to-a-drawing" title="Permalink to this headline">¶</a></h2>
-<p>If you have uploaded a drawing you can place clickable areas on that drawing, to go to subprocesses and more.</p>
+<h3>Adding clickable areas to a drawing<a class="headerlink" href="#adding-clickable-areas-to-a-drawing" title="Permalink to this headline">¶</a></h3>
+<p>If you have uploaded a drawing you can place clickable areas on that drawing, to go to process steps and more.</p>
+<p><strong>Important Note!</strong> To be able to add clickable areas, the Process Type must contain Freeform.</p>
+<p><strong>Tip!</strong> Activating “Highlight shapes” in the grid settings can be useful when working with clickable areas.</p>
 <ol class="arabic simple">
 <li>Click “Add shape”.</li>
 </ol>
-<p>(image to be added)</p>
+<img alt="../../../../_images/clickable-1.png" src="../../../../_images/clickable-1.png" />
 <ol class="arabic simple" start="2">
 <li>Click “Freeform”.</li>
 </ol>
-<p>(Image to be added)</p>
+<img alt="../../../../_images/clickable-2.png" src="../../../../_images/clickable-2.png" />
 <ol class="arabic simple" start="3">
-<li>Edit the settings for the shape (see - link to be added).</li>
+<li>Edit the settings for the shape, see the heading “Settings for a shape”, above. Note, here you set what will happen when the area is clicked.</li>
 </ol>
-<p>Tip! You probably don’t want any colors for the clickable area, or maybe just a border color when the mouse hovers over the area. Click “Show more settings” to edit the colors.</p>
+<p><strong>Tip!</strong> You probably don’t want any colors for the clickable area, or maybe just a border color when the mouse hovers over the area. Click “Show more settings” to edit the colors.</p>
 <ol class="arabic simple" start="4">
 <li>Click “Draw shape”.</li>
 </ol>
-<p>(Image to be added).</p>
-<p>The drawing are now shown with the (rutnät on top), for example:</p>
-<p>(Image to be added)</p>
+<img alt="../../../../_images/clickable-3.png" src="../../../../_images/clickable-3.png" />
+<p>The drawing is now shown with the grid on top, for example:</p>
+<img alt="../../../../_images/clickable-4.png" src="../../../../_images/clickable-4.png" />
 <ol class="arabic simple" start="5">
 <li>Click to set the start corner, move the mouse to the next corner and click to set it … continue this way until you have “painted” the shape.</li>
 <li>Set the shape by clicking at the start corner once more.</li>
 </ol>
-<p>You now have the first clickable area in place and what is opened when a user clicks it depends on the setting in step 3.</p>
+<p>You now have the first clickable area in place and what is opened when a user clicks it depends on the setting in step 3. (In the image below “Highlight shapes” is on.)</p>
+<img alt="../../../../_images/clickable-5.png" src="../../../../_images/clickable-5.png" />
 <ol class="arabic simple" start="7">
-<li>Click “Save”.</li>
+<li>Click “OK” in the grid window.</li>
+<li>Click “OK” for the shape settings.</li>
 </ol>
-<p>To add additional clickable areas you have to go back to the step 1, but there’s a neat trick. A quick way of adding additional steps is this:</p>
-<ol class="arabic simple" start="8">
+<p>To add additional clickable areas you have to go back to step 1, but there’s a neat trick if you are adding several clickable areas with the same shape. A quick way of adding additional steps is this:</p>
+<ol class="arabic simple" start="9">
 <li>Select the shape.</li>
+<li>Select “CLONE SHAPE”.</li>
 </ol>
-<p>(Image to be added)</p>
-<p>9 Select “Clone shape”.</p>
-<p>(Image to be added).</p>
+<img alt="../../../../_images/clickable-6.png" src="../../../../_images/clickable-6.png" />
 <ol class="arabic simple" start="10">
 <li>Edit the settings for the copy (clone) and save.</li>
-<li>Move the clickable area to the correct position.</li>
+<li>Move the new clickable area to the correct position and save.</li>
 </ol>
 </div>
 <div class="section" id="change-the-size-of-a-clickable-area-or-move-it">
-<h2>Change the size of a clickable area or move it<a class="headerlink" href="#change-the-size-of-a-clickable-area-or-move-it" title="Permalink to this headline">¶</a></h2>
+<h3>Change the size of a clickable area or move it<a class="headerlink" href="#change-the-size-of-a-clickable-area-or-move-it" title="Permalink to this headline">¶</a></h3>
 <p>To change the size of a clickable area, do the following:</p>
 <ol class="arabic simple">
 <li>Click the area.</li>
 <li>Use the handles the resize the area.</li>
 </ol>
-<p>(Image to be added)</p>
+<img alt="../../../../_images/clickable-7.png" src="../../../../_images/clickable-7.png" />
 <p>To move a clickable area, just use drag and drop.</p>
 </div>
 <div class="section" id="edit-settings-for-a-clickable-area">
-<h2>Edit settings for a clickable area<a class="headerlink" href="#edit-settings-for-a-clickable-area" title="Permalink to this headline">¶</a></h2>
+<h3>Edit settings for a clickable area<a class="headerlink" href="#edit-settings-for-a-clickable-area" title="Permalink to this headline">¶</a></h3>
 <p>To edit settings for a clickable area, do the following:</p>
 <ol class="arabic simple">
 <li>Click the area.</li>
 <li>Click the pen icon.</li>
 </ol>
-<p>(Image to be added)</p>
+<img alt="../../../../_images/clickable-8.png" src="../../../../_images/clickable-8.png" />
 <ol class="arabic simple" start="3">
-<li>Change the settings and save. (See: <a class="reference internal" href="#"><span class="doc">Create a new draft from a published process</span></a>- for more information)</li>
+<li>Change the settings and save.</li>
 </ol>
+</div>
 </div>
 </div>
 
@@ -396,7 +401,7 @@
         <a href="../content-tab/index.html" class="btn btn-neutral float-right" title="The Content tab - authoring processes" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right"></span></a>
       
       
-        <a href="../creating-draft-process/index.html" class="btn btn-neutral" title="Creating a draft process" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>
+        <a href="../using-the-workspace/index.html" class="btn btn-neutral" title="Using the workspace for processes" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>
       
     </div>
   
@@ -406,7 +411,7 @@
   <div role="contentinfo">
     <p>
         &copy; Copyright 2020, Precio Fishbone.
-      Last updated on Apr 27, 2020.
+      Last updated on May 05, 2020.
 
     </p>
   </div>
