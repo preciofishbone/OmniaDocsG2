@@ -67,7 +67,7 @@ For **Group By Site** these settings are available:
 
 Query
 ---------
-You can either choose to pic documents to be display in the block, or use the Query Builder.
+You can either choose to pick documents to be display in the block, or use the Query Builder.
 
 .. image:: document-rollup-query.png
 
@@ -81,11 +81,11 @@ The Document Picker opens and you use it to select documents.
 
 .. image:: document-rollup-document-picker.png
 
-Available categories (tabs) are set up in Omnia Admin, see: :doc:`Document Picker settings </admin-settings/business-group-settings/settings/document-picker/index>`
+Available categories (shown as tabs in the picker) are set up in Omnia Admin, see: :doc:`Document Picker settings </admin-settings/business-group-settings/settings/document-picker/index>`
 
 See this page for more information on how to use the Document Picker: :doc:`The Document Picker </general-assets//document-picker/index>`
 
-Quey Builder
+Query Builder
 ^^^^^^^^^^^^^^
 Here you add queries, which is the detailed "settings" for what to display in the list:
 
@@ -104,11 +104,7 @@ Here you add queries, which is the detailed "settings" for what to display in th
 2. Use the three lists for base settings and the field to add a Query Parameter. 
 3. Click "Add" to add the Query. 
 
-Here's a simple example of a Query for displaying documents that are published later than 2019-06-30:
-
-.. image:: documents-query-new3.png
-
-Also see another example under *Implementation example* below.
+See an example under *Implementation example* below.
 
 Note that you can type the script directly in the field, if you know how. You can use all options in the Keyword Query Language (KQL). See this Microsoft page for reference: https://docs.microsoft.com/en-us/sharepoint/dev/general-development/keyword-query-language-kql-syntax-reference
 
