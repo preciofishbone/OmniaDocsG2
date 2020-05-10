@@ -11,7 +11,7 @@ Below you will find the steps needed in order to create a basic setup of Process
    processarchive/index
    processtypetemplates/index
    processlibrary/index
-   processnavigation/index
+   processdirectory/index
    
 
 

@@ -206,7 +206,7 @@
 <div class="section" id="the-settings">
 <h2>The settings<a class="headerlink" href="#the-settings" title="Permalink to this headline">¶</a></h2>
 <p>The following settings are available:</p>
-<img alt="../../_images/document-rollup-settings-new3.png" src="../../_images/document-rollup-settings-new3.png" />
+<img alt="../../_images/document-rollup-settings-all.png" src="../../_images/document-rollup-settings-all.png" />
 <div class="section" id="general">
 <h3>General<a class="headerlink" href="#general" title="Permalink to this headline">¶</a></h3>
 <p>Here you can set the following:</p>
@@ -262,30 +262,43 @@
 </div>
 <div class="section" id="query">
 <h3>Query<a class="headerlink" href="#query" title="Permalink to this headline">¶</a></h3>
+<p>You can either choose to pick documents to be display in the block, or use the Query Builder.</p>
+<img alt="../../_images/document-rollup-query.png" src="../../_images/document-rollup-query.png" />
+<div class="section" id="pick-documents">
+<h4>Pick Documents<a class="headerlink" href="#pick-documents" title="Permalink to this headline">¶</a></h4>
+<p>To pick documents, click “ADD DOCUMENT”.</p>
+<img alt="../../_images/document-rollup-pick.png" src="../../_images/document-rollup-pick.png" />
+<p>The Document Picker opens and you use it to select documents.</p>
+<img alt="../../_images/document-rollup-document-picker.png" src="../../_images/document-rollup-document-picker.png" />
+<p>Available categories (shown as tabs in the picker) are set up in Omnia Admin, see: <a class="reference internal" href="../../admin-settings/business-group-settings/settings/document-picker/index.html"><span class="doc">Document Picker settings</span></a></p>
+<p>See this page for more information on how to use the Document Picker: <a class="reference internal" href="../../general-assets/document-picker/index.html"><span class="doc">The Document Picker</span></a></p>
+</div>
+<div class="section" id="query-builder">
+<h4>Query Builder<a class="headerlink" href="#query-builder" title="Permalink to this headline">¶</a></h4>
 <p>Here you add queries, which is the detailed “settings” for what to display in the list:</p>
-<img alt="../../_images/document-rollup-settings-query-new.png" src="../../_images/document-rollup-settings-query-new.png" />
+<img alt="../../_images/document-rollup-settings-query-new2.png" src="../../_images/document-rollup-settings-query-new2.png" />
 <ol class="arabic simple">
 <li>Set scope for the document rollup:</li>
 </ol>
+<img alt="../../_images/document-rollup-settings-query-scope.png" src="../../_images/document-rollup-settings-query-scope.png" />
 <ul class="simple">
-<li>All Documents - always available, meaning ALL documents the logged in user has permissions to read. Use the query settings below to limit what will be shown in the rollup. The rollup can then be set to display just “normal” documents or both normal and controlled documents. To rollup documents from one or more Teams Sites, use this option.</li>
-<li>Published Documents  - available only if Controlled Documents is active. Meaning ALL published CONTROLLED DOCUMENTS the logged in user has permissions to read. Use the query settings below to limit what will be shown in the rollup.</li>
-<li>Archived Documents - available only if Controlled Documents is active. Meaning all published Controlled Documents in the Archive. As permissions to read documents in the Archive normally is given to just a few, this is for specialized implementations.</li>
+<li><strong>All Documents</strong> - always available, meaning ALL documents the logged in user has permissions to read. Use the query settings below to limit what will be shown in the rollup. The rollup can then be set to display just “normal” documents or both normal and controlled documents. To rollup documents from one or more Teams Sites, use this option.</li>
+<li><strong>Published Documents</strong>  - available only if Controlled Documents is active. Meaning ALL published CONTROLLED DOCUMENTS the logged in user has permissions to read. Use the query settings below to limit what will be shown in the rollup.</li>
+<li><strong>Archived Documents</strong> - available only if Controlled Documents is active. Meaning all published Controlled Documents in the Archive. As permissions to read documents in the Archive normally is given to just a few, this is for specialized implementations.</li>
 </ul>
 <p><strong>Note!</strong> Regardless of what you select here, the documents that will be displayed for a user are only those documents that the user has premissions to read.</p>
 <ol class="arabic simple" start="2">
 <li>Use the three lists for base settings and the field to add a Query Parameter.</li>
 <li>Click “Add” to add the Query.</li>
 </ol>
-<p>Here’s a simple example of a Query for displaying documents that are published later than 2019-06-30:</p>
-<img alt="../../_images/documents-query-new2.png" src="../../_images/documents-query-new2.png" />
-<p>Also see another example under <em>Implementation example</em> below.</p>
+<p>See an example under <em>Implementation example</em> below.</p>
 <p>Note that you can type the script directly in the field, if you know how. You can use all options in the Keyword Query Language (KQL). See this Microsoft page for reference: <a class="reference external" href="https://docs.microsoft.com/en-us/sharepoint/dev/general-development/keyword-query-language-kql-syntax-reference">https://docs.microsoft.com/en-us/sharepoint/dev/general-development/keyword-query-language-kql-syntax-reference</a></p>
 <p>Additionally you can set:</p>
 <ul class="simple">
 <li><strong>Day Limit</strong>: Use this option to limit the display of older documents. You first select property (for example Modified) and then select how old the documents can be to be displayed in the list.</li>
 <li><strong>Last modified by current user</strong>: Use this option to limit the rollup to documents the logged in user has edited, for example for a “My Latest Documents” implementation.</li>
 </ul>
+</div>
 </div>
 <div class="section" id="filter">
 <h3>Filter<a class="headerlink" href="#filter" title="Permalink to this headline">¶</a></h3>
@@ -296,8 +309,8 @@
 <li><strong>Add filter</strong>: Click this option to add a property for filtering. You can add as many properties that are applicable, and set the detailed settings (for example From - To for “Published”).</li>
 </ul>
 </div>
-<div class="section" id="refiners">
-<h3>Refiners<a class="headerlink" href="#refiners" title="Permalink to this headline">¶</a></h3>
+<div class="section" id="refiner">
+<h3>Refiner<a class="headerlink" href="#refiner" title="Permalink to this headline">¶</a></h3>
 <p>Here you select refiners to show for the list:</p>
 <img alt="../../_images/document-rollup-settings-refiners.png" src="../../_images/document-rollup-settings-refiners.png" />
 <ul class="simple">
@@ -333,7 +346,7 @@
 <div class="section" id="id3">
 <h3>Query<a class="headerlink" href="#id3" title="Permalink to this headline">¶</a></h3>
 <p>The following settings are made for Query:</p>
-<img alt="../../_images/document-rollup-controlled-6.png" src="../../_images/document-rollup-controlled-6.png" />
+<img alt="../../_images/document-rollup-controlled-6new.png" src="../../_images/document-rollup-controlled-6new.png" />
 <p>Note the star (*) in the Query Field, meaning All (in this case Published Controlled Documents).</p>
 </div>
 <div class="section" id="id4">
@@ -342,8 +355,8 @@
 <img alt="../../_images/document-rollup-controlled-7.png" src="../../_images/document-rollup-controlled-7.png" />
 <p>“Title &amp; …” is the option for Search, in this case a search for “Title &amp; Other Properties”.</p>
 </div>
-<div class="section" id="id5">
-<h3>Refiners<a class="headerlink" href="#id5" title="Permalink to this headline">¶</a></h3>
+<div class="section" id="refiners">
+<h3>Refiners<a class="headerlink" href="#refiners" title="Permalink to this headline">¶</a></h3>
 <p>Finally, Refiners are set up this way:</p>
 <img alt="../../_images/document-rollup-controlled-8.png" src="../../_images/document-rollup-controlled-8.png" />
 <p>At the top is the Refiner Option “Document Owner”, limited to 5 posts.</p>
@@ -375,7 +388,7 @@
   <div role="contentinfo">
     <p>
         &copy; Copyright 2020, Precio Fishbone.
-      Last updated on May 05, 2020.
+      Last updated on May 10, 2020.
 
     </p>
   </div>
