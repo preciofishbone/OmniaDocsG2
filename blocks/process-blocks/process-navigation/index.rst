@@ -1,7 +1,9 @@
 Process Navigation block
 ===========================
 
-(Nothing here yet, will be soon.)
+This is the navigation block for process pages. You can add a title, set indentation for navigation levelse, and add som padding if needed.
+
+.. image:: process-navigation-block.png
 
 Layout and Advanced
 ********************
