@@ -51,6 +51,7 @@ To select a shape, just click it and the following settings is shown:
 .. image:: pm-drawing-shape-settings-settings.png
 
 + **Shape Type**: Here you decide what to use the shape for. Process Step is the default. You can also choose "None", which means it's just an image; "Linked process" and "Link". All selections except "None" creates a clickable shape. See below for more information. Note that to be able to create a linked process, other processes must already exist, to link to. 
++ **Process step**: If you already have created the process steps, select the process step to go to when the shape is clicked, using this list.
 + **Select Process**: When you have selected "Linked Process" in the top list, use this list to choose the process to link to.
 + **Add Link**: When you have selected "Link" in the top list, this option is shown. See below for more information.
 + **Title**: Add the text that should be displayed for the shape here, if a text should be displayed. You can see a preview to the right. You can add the title in any or all available languages.
