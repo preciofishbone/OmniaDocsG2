@@ -19,7 +19,7 @@ The following settings are available for Display:
 
 .. image:: process-rollup-block-settings-display.png
 
-+ **Add Column**: Add the columns for the information to be shown on the list. Add least one column must be added or nothing will be shown.
++ **Add Column**: Add the columns for the information to be shown on the list. Add at least one column must be added or nothing will be shown.
 + **Adjust Columns**: (Displayed when you are adding columns.) Use this option for the order in which the selected columns are shown, left to right.
 + **Title**: You can add a title for the list in any or all availble languages. 
 + **View Page Url**: If you have created a page that will be used to display any process when a user clicks on it, add the Url to the page here. Note that you don't have to create a page for this purpose. If you don't, a system page will be used.
