@@ -26,7 +26,11 @@ Here's an example with shapes outlined:
 
 .. image:: pm-drawing-canvas-4.png
 
-**Very important!** The canvas setting is the same for all devices so you have to consider what canvas size is the most user friendly for the devices most commonly used in your organization for accessing the process.
+If the whole grid can't be displayed, icons for scrolling are shown, for example:
+
+.. image:: pm-drawing-scrolling.png
+
+**Very important!** The canvas setting is the same for all devices so you have to consider what canvas size is the most user friendly for the devices most commonly used in your organization for accessing the process. 
 
 Working with shapes
 *********************
