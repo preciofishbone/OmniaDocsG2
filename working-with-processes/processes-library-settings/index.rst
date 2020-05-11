@@ -47,6 +47,8 @@ Permissions
 ************
 If Process Management is set up for using permission groups, you can, as an Administrator (Owner) of the Team Site, edit these permissions.
 
+**Note!** Permissions for the Processes Library is NOT inherited from the Team site's permissions, they are alwyas separate.
+
 Do the following:
 
 1. Click "Permissions" in the Processes library

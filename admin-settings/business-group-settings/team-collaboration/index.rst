@@ -1,4 +1,4 @@
-Team Collaboration
+Teamwork
 ===========================================
 
 Use these settings go to any Team Site to, for example, edit settings. You can also create a new Team Site, or Attach an existing Team Site to Omnia.
