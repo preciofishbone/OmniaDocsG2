@@ -1,8 +1,6 @@
 Displaying processes for users
 =================================
 
-**(This documentation is just started, more will be added soon.)**
-
 When considering how to display processes for end users, you can use one of these approaches, or a combination of them:
 
 + Add a page and place a Process Rollup to list available processes.
