@@ -1,7 +1,11 @@
 Process Tasks block
 =======================
 
-(Nothing here yet, will be soon.)
+Use this block to display the To Do-list the process author added (on the Tasks tab) for the process. Note that this is is not Sharepoint tasks, just a To Do-list.
+
+You can add a title for the block and add som padding, if needed.
+
+.. image:: process-tasks-block.png
 
 Layout and Advanced
 ********************

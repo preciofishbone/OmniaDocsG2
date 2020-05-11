@@ -1,7 +1,16 @@
 Process Properties block
 ==========================
 
-(Nothing here yet, will be soon.)
+Use this block to display properties for the process - Process Owner is a good example of a property that can make sense to show for end users. 
+
+You can set the following:
+
+.. image:: process-properties-block.png
+
++ **Title**: You can add a titel for the block in any or all available languages.
++ **Select Property set**: You can select a property set to choose properties from here. Then the list of proprties below will show only the properties that belonmgs to the set. if no property set is selected, the list below will display all available properties.
++ **Select properties**: Select a property from this list. You can add several properties, but just one at a time. Click the plus to add additional properties.
++ **Padding**: You can set some padding if needed.
 
 Layout and Advanced
 ********************
