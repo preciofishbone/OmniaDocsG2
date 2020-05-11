@@ -1,7 +1,11 @@
 Process Documents block
 =========================
 
-(Nothing here yet, will be soon.)
+You use this block to display the documents relevant to the process, that was added on the Documents tab by the process author.
+
+You can add a Title for the block, in any or all available languages, if nedded.
+
+.. image:: process-documents-block.png
 
 Layout and Advanced
 ********************
