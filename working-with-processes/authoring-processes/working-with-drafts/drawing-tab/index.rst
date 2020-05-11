@@ -151,6 +151,8 @@ The Media Picker opens and you use it to upload an image from your computer or f
 
 For more information on how to use the Media Picker, see: :doc:`Media Picker </general-assets/media-picker/index>`
 
+**Note!** When you upload a background image, the canvas size adjusts automatically.
+
 Adding clickable areas to a drawing
 -------------------------------------
 If you have uploaded a drawing you can place clickable areas on that drawing, to go to process steps and more.
