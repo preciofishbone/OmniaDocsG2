@@ -38,7 +38,9 @@ Variations
 ************
 Here you set up the Page Variations that should be possible to use in the Publishing App. It's then up to Page Editors to use a variation, or not, for a page. A page variation is created for a page when it's needed.
 
-.. image:: page-settings-variations-new2.png
+It's also possible to add a variation author for each variation.
+
+.. image:: page-settings-variations-new3.png
 
 You see the variations that has been set up so far, with information about for example targeting. A "Variaton" in the tenant's default language is also listed here - note the green label in the image above. For all pages, a variation with the default language must always exist. That is what is added when a page is created the first time..
 
@@ -57,12 +59,13 @@ Do the following to create a new variation:
 1. Click "ADD VARIATION".
 2. Use the following settings.
 
-.. image:: variations-new.png
+.. image:: variations-new2.png
 
 + **Title**: Add a title for the variation to be shown in the lists, for example the list where users can select variation. If needed, the title can be added in any or all of the languages set up in the tenant. 
 + **Icon Type**: Select the Icon Type here, for excample "Flags".
 + **Icon**: Selevt the icon (for exemple the flag) here.
 + **Url Segment**: Add a suitable Url Segment in this field.
++ **Variation author**: You can add a variation author for this variation. See this page for more information: :doc:`Edit Page Variations </pages/edit-page-variations/index>`
 + **Add Targeting Filter**: To set up targeting for this variation, click here. It is not mandatory. See below for more information.
 
 Languages used for Titles, or for targering must be set in the Tenant Settings, see the heading "Languages" on this page: :doc:`Tenant Settings </admin-settings/tenant-settings/settings/index>`

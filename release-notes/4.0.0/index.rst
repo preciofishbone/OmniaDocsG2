@@ -95,12 +95,33 @@ Teamwork Administration in Omnia Admin has been improved. The list has sorting a
 Process Management
 ************************************************
 
-(To be added to release notes soon!)
+A new capability makes it possible to design and publish processes. Processes are managed in process libraries in team sites.
+
+.. image:: processmgmt-library.png
+
+.. image:: processmgmt-editor.png
+
+Process steps can be related to information such as description, documents, links and tasks.
+
+.. image:: processmgmt-developproducts.png
+
+The end user can navigate in the process via process navigation or shapes in the process drawing.
+
+.. image:: processmgmt-planning.png
+
 
 Communities
 ************************************************
 
-(To be added to release notes soon!)
+The community features in Omnia have been improved. A community includes makes it possible for any user to share their knowledge with others using knowledge articles and discussions.
+
+Subscriptions and an activity feed makes it possible for users to stay up to date with changes within communities.
+
+.. image:: community-knowledgearticles.png
+
+.. image:: community-knowledgearticle.png
+
+.. image:: community-discussion.png
 
 Improved Audit Log
 ************************************************
@@ -120,7 +141,6 @@ Enable/Disable Business Profile Header (and Pre-allocated Height)
 It is possible to enable/disable the business profile header and navigation on a team site or publishing app by activating/removing the feature "Show Business Profile Header".
 
 When the Business Profile Header is shown on a team site, the height is now pre-allocated until the whole page is loaded.
-
 
 
 Enhancements

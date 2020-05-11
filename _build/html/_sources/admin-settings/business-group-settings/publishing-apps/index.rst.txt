@@ -1,5 +1,5 @@
 Publishing Apps
-===========================================
+=================
 
 Within a Business Profile several Publishing Apps can be active for different settings. To be able to create a Publishing App, at least one Provisioning Template for Publishing Apps must be available. If none are, create a Provisioning Template first.
 
@@ -35,7 +35,7 @@ Available settings depends on how the template is set up. Here are some common e
 + **Title**: Add a Title for the Publishing App.
 + **Description**: Add a Description if needed.
 + **Sharepoint Alias**: The last part of the Url to the Publishing App is shown here. It can be edited if needed.
-+ **Document Library Url**: To make the Publishing App's Document library available in for example the Add Link asset, the full Sharepoint Url to the Document library must be added here.
++ **Document Library Url**: To make the Publishing App's Document library available in for example the Add Link asset and in the Document Picker, the full Sharepoint Url to the Document library must be added here.
 + **Allow User Upload Document**: The Administrator of the Publishing App will always be able to upload documents to the Document Library. If end users should be able to do that as well, select this option.
 
 4. Click "Next" and use the following settings:

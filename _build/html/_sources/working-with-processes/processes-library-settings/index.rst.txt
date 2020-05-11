@@ -1,47 +1,47 @@
 Process library settings
 =========================
 
-**(This documentation is just started, more will be added soon.)**
-
 You must be Administrator (The permission group is often called "Owners") of the Team Site - there can be one or more - to be able to edit the settings for the lists in the Processes library, and to edit permissions.
 
 Settings for the tabs
 ***********************
 To access the seetings, go to the Processes library and click "Edit". 
 
-(Image to be added)
+.. image:: process-library-settings-1.png
 
 General
 -----------
 Here you can use the following settings:
 
-(Image to be added)
+.. image:: process-library-settings-general.png
 
-+ **Title**: You can edit or add a Title for the list in all languages available for the tenant. The default language is mandatory. 
-+ **Open In Client App**: Per default, documents are opened in the online Office 365 application. If documents should be opened in the locally installed application instead, select this option. 
++ **Title**: You can edit or add a Title for the list in any or all languages available for the tenant. The default language is mandatory. 
 
 Display
 ----------
 Here you can set the following:
 
-(Image to be added)
+.. image:: process-library-settings-display.png
 
-+ **Default tab**: Decide which tab will be shown when an author enters the Controlled Documents library.
-+ **Padding**: Set some padding around the lists, if needed.
++ **Default tab**: Decide which tab will be shown when an author enters the Processes library.
 + **Hide Tasks Tab**: If the Tasks tab should not be displayed for authors, select this option.
 + **Preview Page Url**: You can add the Url to a page to be used for process previews here. If you don't, a default Omnia page will be used for previews.
 
 Published
 --------
-The following settings are available here:
+The following settings are available for the Published tab:
 
-(Image to be added)
+.. image:: process-library-settings-published.png
 
++ **Paging**: You can choose between no paging and classic paging.
 + **Default Ordering Field**: Select the column for default sort order for the list.
-+ **Sort Direction**: Select Descending or Ascending her.
-+ **Show Search Box**: If authors should be able to search for processes here, select this option.
++ **Sort Direction**: Select Descending or Ascending for the default ordering field here.
 + **Column**: Use this option to add a column to be shown. Open the list, select the column and click "ADD".
-+ **Display columns in draft view**: Here the selected columns are listed. To remove a column click the dust bin. If no dust bin is shown for a column it's mandatory, and therefore can't be removed. You can set the order of the columns by grabbing the Equal To icon for the column and drag it to another place in the list.
++ **Display columns in published view**: Here the selected columns are listed. To remove a column click the dust bin. If no dust bin is shown for a column it's mandatory, and therefore can't be removed. You can set the order of the columns by grabbing the Equal To icon for the column and drag it to another place in the list.
+
+You can also remove some of the columns by clicking the dust bin for that column and you can arrange the order of the columns (left to right). To do that, grab the far right icon for the column and use drag and drop.
+
+.. image:: process-library-settings-published-arrange.png
 
 Permissions
 ************
@@ -51,23 +51,19 @@ Do the following:
 
 1. Click "Permissions" in the Processes library
 
-(Image to be added)
+.. image:: process-library-settings-permissions.png
 
 Something like the following is shown:
 
-(Image to be added)
+.. image:: process-library-settings-permissions-details.png
 
-You can add/remove groups and/or users to these lists.
+You can add/remove groups and/or users to these fields, this way:
 
-2. To edit permissions, open the list.
+2. Open the list to select a user or group.
 
-(Image to be added)
+.. image:: process-library-settings-permissions-details-list.png
 
 You can also add groups or users by typing the name in the field.
-
-If permission groups are used, as in the example above, you can add and remove users in these groups by using the Sharepoint standard functionality "Advanced permissions settings". ??????
-
-(Image to be added)
 
 Note that external users that has been invited in the Asher AD can be added here as well. Users invited this way can log in with their own Office 365 account.
 

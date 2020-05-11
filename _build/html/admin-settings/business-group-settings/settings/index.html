@@ -41,7 +41,7 @@
         <link rel="search" title="Search" href="../../../search.html"/>
     <link rel="top" title="Omnia  documentation" href="../../../index.html"/>
         <link rel="up" title="Business Profile Settings" href="../index.html"/>
-        <link rel="next" title="Shared Links" href="../shared-links/index.html"/>
+        <link rel="next" title="Language settings (Business Profile)" href="language/index.html"/>
         <link rel="prev" title="Security" href="../security/index.html"/> 
 
   
@@ -103,7 +103,16 @@
 <li class="toctree-l3"><a class="reference internal" href="../publishing-apps/index.html">Publishing Apps</a></li>
 <li class="toctree-l3"><a class="reference internal" href="../search/index.html">Search</a></li>
 <li class="toctree-l3"><a class="reference internal" href="../security/index.html">Security</a></li>
-<li class="toctree-l3 current"><a class="current reference internal" href="#">Settings</a></li>
+<li class="toctree-l3 current"><a class="current reference internal" href="#">Settings</a><ul>
+<li class="toctree-l4"><a class="reference internal" href="language/index.html">Language settings (Business Profile)</a></li>
+<li class="toctree-l4"><a class="reference internal" href="theme/index.html">Theme for the Business Profile</a></li>
+<li class="toctree-l4"><a class="reference internal" href="header/index.html">Header settings for the Business Profile</a></li>
+<li class="toctree-l4"><a class="reference internal" href="footer/index.html">Footer (Business Profile)</a></li>
+<li class="toctree-l4"><a class="reference internal" href="block-title/index.html">Block Title settings (Business Profile)</a></li>
+<li class="toctree-l4"><a class="reference internal" href="central-image-location/index.html">Central Image Locations (Business Profile)</a></li>
+<li class="toctree-l4"><a class="reference internal" href="document-picker/index.html">Document Picker settings</a></li>
+</ul>
+</li>
 <li class="toctree-l3"><a class="reference internal" href="../shared-links/index.html">Shared Links</a></li>
 <li class="toctree-l3"><a class="reference internal" href="../team-collaboration/index.html">Team Collaboration</a></li>
 </ul>
@@ -191,210 +200,17 @@
   <div class="section" id="settings">
 <h1>Settings<a class="headerlink" href="#settings" title="Permalink to this headline">¶</a></h1>
 <p>Here the following settings can be edited:</p>
-<img alt="../../../_images/business-profile-settings-all-v3.png" src="../../../_images/business-profile-settings-all-v3.png" />
-<div class="section" id="language">
-<h2>Language<a class="headerlink" href="#language" title="Permalink to this headline">¶</a></h2>
-<p>Regarding Languages you can select to inherit settings from the tenant or set different Language settings here. Note that this setting is for the user interface, not for pages. See more information in the Language description for the tenant (link below).</p>
-<img alt="../../../_images/business-language-new2.png" src="../../../_images/business-language-new2.png" />
-<p>To inherit Languages from the tenant, just select that option, and you’re done.</p>
-<p>To set other language settings for a Business Profile, you add and remove languages exactly the same way as the settings for the tenant, see: <a class="reference internal" href="../../tenant-settings/settings/index.html"><span class="doc">Language settings</span></a></p>
-<p>If you need to publish a certain page in more than one language, you use the Option Page Variation, see the section Variations on this page: <a class="reference internal" href="../../../pages/page-settings/index.html"><span class="doc">Page Settings</span></a></p>
-</div>
-<div class="section" id="theme">
-<h2>Theme<a class="headerlink" href="#theme" title="Permalink to this headline">¶</a></h2>
-<p>Use these options to set Default Colors for the Business Profile. When working with a Block, an editor can often select other Colors, but if no other Color is chosen for the Block, these settings apply.</p>
-<img alt="../../../_images/business-profile-settings-theme-new2.png" src="../../../_images/business-profile-settings-theme-new2.png" />
-<ul class="simple">
-<li><strong>Theme</strong>: Select Theme from the list.</li>
-<li><strong>Primary</strong>: If needed, you can adjust the Primary Color.</li>
-<li><strong>Secondary</strong>: If needed, you can adjust the Secondary Color.</li>
-<li><strong>Additional Colors</strong>: To make sure editors can’t choose any other color freely, you can use this section to set up alternative colors that will be available. Click “Add Additonal Color” to add more colors, and the dust bin to delete a color. (Don’t forget to save when you’re done.)</li>
-</ul>
-</div>
-<div class="section" id="header">
-<h2>Header<a class="headerlink" href="#header" title="Permalink to this headline">¶</a></h2>
-<p>The following settings are avaible for the Header:</p>
-<img alt="../../../_images/business-profile-settings-header-new2.png" src="../../../_images/business-profile-settings-header-new2.png" />
-<div class="section" id="general">
-<h3>General<a class="headerlink" href="#general" title="Permalink to this headline">¶</a></h3>
-<p>Under General you can set Background Color for the Header, and Icon Color. In this example, the Background Color is Black, and the Icon Color is White:</p>
-<img alt="../../../_images/heading-example.png" src="../../../_images/heading-example.png" />
-<p>The Icon Color setting apply to the icons to the right.</p>
-</div>
-<div class="section" id="logo">
-<h3>Logo<a class="headerlink" href="#logo" title="Permalink to this headline">¶</a></h3>
-<p>Use these settings for the logo in the Heading.</p>
-<img alt="../../../_images/logo-in-heading.png" src="../../../_images/logo-in-heading.png" />
-<p>The following settings are available:</p>
-<img alt="../../../_images/logo-settings-bp.png" src="../../../_images/logo-settings-bp.png" />
-<ul class="simple">
-<li><strong>Url</strong>: Add the Url to the Logo Image here (or use the Media Picker, see below).</li>
-<li><strong>ADD IMAGE</strong>: To use the Media Picker to select Logo Image, click this link. See this page for information on how to use the Media Picker: <a class="reference internal" href="../../../general-assets/media-picker/index.html"><span class="doc">The Media Picker</span></a></li>
-<li><strong>Padding</strong>: Use these settings to add som padding around the Logo, if needed.</li>
-</ul>
-</div>
-<div class="section" id="mega-menu">
-<h3>Mega Menu<a class="headerlink" href="#mega-menu" title="Permalink to this headline">¶</a></h3>
-<p>The Mega Menu makes it possible for the end user to navigate to any page in the navigation structure. It is displayed across all sites in Omnia.</p>
-<img alt="../../../_images/mega-menu.png" src="../../../_images/mega-menu.png" />
-<p>The following settings are available:</p>
-<img alt="../../../_images/mega-menu-settings.png" src="../../../_images/mega-menu-settings.png" />
-<ul class="simple">
-<li><strong>Publishing App</strong>: If you use more than one Publishing App in this Business Profile, you can select Publishing App here.</li>
-<li><strong>Page Collection</strong>: Select Page Collection the Publishing Pages of the Business Profile.</li>
-<li><strong>Static Display Level</strong>: Defines the number of levels in the navigation term set that will always be displayed in the menu.</li>
-<li><strong>Dynamic Display Level</strong>: Defines the number of levels in the navigation term set that should be displayed in the mega menu when a user clicks an item in the static menu.</li>
-<li><strong>Max Height</strong>: As Default, the menu’s Height is dynamic, meaning it adapts to the Height needed. You can set a fixed Height in pixels if you wish.</li>
-<li><strong>Max Width</strong>: As Default, the menu’s Width is dynamic, meaning it adapts to the Width needed. You can set a fixed Wodth in pixels if you wish.</li>
-<li><strong>Background Color</strong>: As Default, the Background Color for the Mega Menu is the same as the Header, but you can set another Background Color if you wish.</li>
-<li><strong>Text Color</strong>: As Default, the Text Color for the Mega Menu is the same as the text in the Header, but you can set another Text Color if you wish.</li>
-<li><strong>Selected Border Color</strong>: Ypou can set Border Color separately if you wish. Default=no Color.</li>
-</ul>
-</div>
-<div class="section" id="action-menu">
-<h3>Action Menu<a class="headerlink" href="#action-menu" title="Permalink to this headline">¶</a></h3>
-<p>The Action Menu is this part of the Heading:</p>
-<img alt="../../../_images/action-menu-startpage.png" src="../../../_images/action-menu-startpage.png" />
-<p>You can use these settings:</p>
-<img alt="../../../_images/action-menu-settings-new.png" src="../../../_images/action-menu-settings-new.png" />
-<ul class="simple">
-<li><strong>Components</strong>: This column lists the Components that can be displayed in the Action Menu. “My Teams” and “Notification Panel” has additional settings, see below.</li>
-<li><strong>Display</strong>: You can decide which Components to display, and how: “Pinned” - is default, an Icon will be displayed; “Hidden” - if you don’t want the Component to be available; “Menu” - if you want to display the Component in the menu (the three standing dots) instead as an Icon.</li>
-<li><strong>Order</strong>:  You can decide the order for the Components you’re displaying, from left to right.</li>
-</ul>
-</div>
-<div class="section" id="my-teams-additional-settings">
-<h3>My Teams - additional settings<a class="headerlink" href="#my-teams-additional-settings" title="Permalink to this headline">¶</a></h3>
-<p>Click the cog wheel to set additional settings för My Teams. Here’s what you can set:</p>
-<img alt="../../../_images/my-sites-settings-new3.png" src="../../../_images/my-sites-settings-new3.png" />
-<div class="section" id="id1">
-<h4>General<a class="headerlink" href="#id1" title="Permalink to this headline">¶</a></h4>
-<ul class="simple">
-<li><strong>Following</strong>: Decides if the “Following” tab is displayed or not.</li>
-<li><strong>Member of</strong>: Decides if the “Member of” tab is displayed or not.</li>
-<li><strong>All</strong>: Decides if the “All” tab should be displayed or not. In this case “All” means the user can search for all Team related sites that ARE connected to Omnia.</li>
-<li><strong>All (Sharepoint Sites)</strong>: Decides if the “All” tab should be displayed or not. In this case “All” means the user can search for all Team related sites that are connected to Omnia and also Sharepoint Sites that are not connected to Omnia.</li>
-<li><strong>Order By</strong>: Sets the Sort Order for the list of sites.</li>
-<li><strong>Open in New Windows</strong>: Decides if the site is opened in a new window ore not.</li>
-<li><strong>Use Letter Avatar</strong>: Select to use Letter Avatars or not (see below for an example).</li>
-<li><strong>Exclude Personal Site</strong>: If personal sites should not be shown in the list, select this option. A personal site is the OneDrive site where a user’s files are stored.</li>
-</ul>
-<p>This an example where Letter Avatars are used:</p>
-<img alt="../../../_images/letter-avatars.png" src="../../../_images/letter-avatars.png" />
-</div>
-<div class="section" id="site-creation-settings">
-<h4>Site Creation Settings<a class="headerlink" href="#site-creation-settings" title="Permalink to this headline">¶</a></h4>
-<p>Here you can set the following:</p>
-<img alt="../../../_images/site-creation-settings-new2.png" src="../../../_images/site-creation-settings-new2.png" />
-<ul class="simple">
-<li><strong>Label</strong>: The default Label is “Create new site”. You can set another Label here. Note the a Label in the default language is mandatory, set other languages if needed.</li>
-<li><strong>Link</strong>:  If a custom form has been created for the Create Site function, the url to the form should be put in here. This is not the same as the collaboration templates Omnia can offer.</li>
-</ul>
-</div>
-<div class="section" id="custom-colors">
-<h4>Custom Colors<a class="headerlink" href="#custom-colors" title="Permalink to this headline">¶</a></h4>
-<p>Here you can set a Custom Color for the Icons for the sites.</p>
-</div>
-</div>
-<div class="section" id="notification-panel-additional-settings">
-<h3>Notification Panel - additional settings<a class="headerlink" href="#notification-panel-additional-settings" title="Permalink to this headline">¶</a></h3>
-<p>Here you can set type of Notification Panel.</p>
-<img alt="../../../_images/notification-panel-settings.png" src="../../../_images/notification-panel-settings.png" />
-</div>
-<div class="section" id="app-launcher">
-<h3>App Launcher<a class="headerlink" href="#app-launcher" title="Permalink to this headline">¶</a></h3>
-<p>These settings are for the App Launcher menu. It’s an Omnia Menu replacing the default Office 365 menu. The Applauncher uses the Shared Links functionality.</p>
-<img alt="../../../_images/applaunch-menu-example.png" src="../../../_images/applaunch-menu-example.png" />
-<p>You can set the following:</p>
-<img alt="../../../_images/applaunch-settings-new.png" src="../../../_images/applaunch-settings-new.png" />
-<ul class="simple">
-<li><strong>Enable</strong>: Use this option to decide to display the App Launch menu or not. Default=displayed.</li>
-<li><strong>App Launch Button</strong>: Here you set Custom colors for the App Launch button. If not set, the default color settings are used.</li>
-</ul>
-<div class="section" id="panel-settings-general">
-<h4>Panel Settings - General<a class="headerlink" href="#panel-settings-general" title="Permalink to this headline">¶</a></h4>
-<p>You can set the following here:</p>
-<img alt="../../../_images/panel-settings-general-new2.png" src="../../../_images/panel-settings-general-new2.png" />
-<ul class="simple">
-<li><strong>Title</strong>: You can add a title to the App Launch menu.</li>
-</ul>
-<img alt="../../../_images/app-launch-title.png" src="../../../_images/app-launch-title.png" />
-<ul class="simple">
-<li><strong>Sorted By</strong>: The list of apps can be sorted alphabetically, by Last Visited, or by a Custom sort (see below for Custom Sort Settings).</li>
-<li><strong>View Template</strong>: The list of apps can be displayed in four different ways: “Simple list”, “App Icons”, “Navigation View” or “App Launch”. See below for examples.</li>
-<li><strong>Categories</strong>: Select the types of links that should be displayed in App Launcher. Default = O365 App Launcher.</li>
-<li><strong>Use targeting</strong>: If it should be possible to use targeting for the links in App Launcher, select this option.</li>
-<li><strong>Include Personal Links</strong>: If Personal Links (=created by the user) should be displayed in App Launch, select this option.</li>
-<li><strong>Include Following links</strong>: Following links are non mandatory links that the user has chosen in his or her My Links list. If it should be possible for a block editor to select to show those links in a Quick Links block, check this box.</li>
-<li><strong>Categories</strong>: If it should be possible for a block editor to select to show categories in a Quick Links block, check this box.</li>
-<li><strong>Item Limit</strong>: Set the number of apps to be displayed on each “page” of the app list. Default=20.</li>
-</ul>
-<p>View Template “Simple List” example:</p>
-<img alt="../../../_images/app-launch-simple-list.png" src="../../../_images/app-launch-simple-list.png" />
-<p>View Template “App Icons” example:</p>
-<img alt="../../../_images/app-launch-app-icons.png" src="../../../_images/app-launch-app-icons.png" />
-<p>View Template “Navigation View” example:</p>
-<img alt="../../../_images/app-launch-navigation-view.png" src="../../../_images/app-launch-navigation-view.png" />
-<p>View Template “App launcher” example:</p>
-<img alt="../../../_images/app-launch-app-launch.png" src="../../../_images/app-launch-app-launch.png" />
-</div>
-<div class="section" id="panel-settings-custom-colors">
-<h4>Panel Settings - Custom Colors<a class="headerlink" href="#panel-settings-custom-colors" title="Permalink to this headline">¶</a></h4>
-<p>Use these options to set Custom Colors for the App Launch menu.</p>
-<img alt="../../../_images/app-launch-custom-colors-new.png" src="../../../_images/app-launch-custom-colors-new.png" />
-</div>
-<div class="section" id="panel-settings-custom-sort">
-<h4>Panel Settings - Custom Sort<a class="headerlink" href="#panel-settings-custom-sort" title="Permalink to this headline">¶</a></h4>
-<p>If you have selected “Custom” under “Sorted By”, this option are available:</p>
-<img alt="../../../_images/app-launch-custom-sort.png" src="../../../_images/app-launch-custom-sort.png" />
-<p>Use the arrows to move apps up or down in the list.</p>
-</div>
-</div>
-<div class="section" id="app-launcher-header-settings">
-<h3>App Launcher - Header Settings<a class="headerlink" href="#app-launcher-header-settings" title="Permalink to this headline">¶</a></h3>
-<p>You can set the following here:</p>
-<img alt="../../../_images/app-launch-header-new.png" src="../../../_images/app-launch-header-new.png" />
-<p>You can choose to use the global settings or custim settings, using the options shown in the image above.</p>
-</div>
-</div>
-<div class="section" id="footer">
-<h2>Footer<a class="headerlink" href="#footer" title="Permalink to this headline">¶</a></h2>
-<p>Use these settings to add a footer for the business profile’s pages.</p>
-<img alt="../../../_images/business-profile-footer.png" src="../../../_images/business-profile-footer.png" />
-<p>Decide whether the position of the footer should be positioned at the bottom of the page (Absolute) or the bottom of the screen (Fixed). Then create  the footer using HTML/CSS and Javascript.</p>
-<p>As an example, here’s how it looks when you select HTML:</p>
-<img alt="../../../_images/footer-html.png" src="../../../_images/footer-html.png" />
-</div>
-<div class="section" id="block-title">
-<h2>Block Title<a class="headerlink" href="#block-title" title="Permalink to this headline">¶</a></h2>
-<p>Use these options to set a default setting for Block Headings. Authors can edit these settings when working with Blocks, if needed.</p>
-<img alt="../../../_images/content-header-new.png" src="../../../_images/content-header-new.png" />
-<ul class="simple">
-<li><strong>Title Preview</strong>: Here you see a Preview when you make changes.</li>
-<li><strong>Text Margin</strong>: Set the Margin from the text to the border of the header.</li>
-<li><strong>Font Size</strong>: Set the Size of the text here.</li>
-<li><strong>Text Color</strong>: Set the Text Color here.</li>
-<li><strong>Text Align</strong>: The Header Text can be aligned left, right or middle, within the header.</li>
-<li><strong>Separator Size</strong>: This is spacing in pixels below the Heading Area (meaning, not just the text, but the whole Header). Default=2.</li>
-<li><strong>Separator Color</strong>: You can also set a Color for Separator area. Default=white.</li>
-</ul>
-</div>
-<div class="section" id="central-image-locations">
-<h2>Central Image Locations<a class="headerlink" href="#central-image-locations" title="Permalink to this headline">¶</a></h2>
-<p>You can set central image locations for the editors to use, mainly through the Media Picker. One or more locations can be set up in the list.</p>
-<p>You can also go to the Central Image Location from here, to handle the images there.</p>
-<img alt="../../../_images/central-image-locations-new.png" src="../../../_images/central-image-locations-new.png" />
-<p>Use the icons by the list, this way:</p>
-<p>Click the left most icon to go to the Image Location, for example to upload images.
-To edit the settings for an Image Location, click the pen.
-To delete an Image location, click the dust bin.</p>
-<p>To add a new Central Image Location, click the plus:</p>
-<img alt="../../../_images/central-image-locations-click-plus-new.png" src="../../../_images/central-image-locations-click-plus-new.png" />
-<p>Use these settings:</p>
-<img alt="../../../_images/central-image-locations-settings.png" src="../../../_images/central-image-locations-settings.png" />
-<ul class="simple">
-<li><strong>Url to Image Library</strong>: Type or paste the Url here.</li>
-<li><strong>Display Name</strong>: Add the name to be shown in the lists.</li>
+<img alt="../../../_images/business-profile-settings-all-v4.png" src="../../../_images/business-profile-settings-all-v4.png" />
+<p>For detailed information, select settings here:</p>
+<div class="toctree-wrapper compound">
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="language/index.html">Language settings (Business Profile)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="theme/index.html">Theme for the Business Profile</a></li>
+<li class="toctree-l1"><a class="reference internal" href="header/index.html">Header settings for the Business Profile</a></li>
+<li class="toctree-l1"><a class="reference internal" href="footer/index.html">Footer (Business Profile)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="block-title/index.html">Block Title settings (Business Profile)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="central-image-location/index.html">Central Image Locations (Business Profile)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="document-picker/index.html">Document Picker settings</a></li>
 </ul>
 </div>
 </div>
@@ -409,7 +225,7 @@ To delete an Image location, click the dust bin.</p>
   
     <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
       
-        <a href="../shared-links/index.html" class="btn btn-neutral float-right" title="Shared Links" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right"></span></a>
+        <a href="language/index.html" class="btn btn-neutral float-right" title="Language settings (Business Profile)" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right"></span></a>
       
       
         <a href="../security/index.html" class="btn btn-neutral" title="Security" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>
@@ -422,7 +238,7 @@ To delete an Image location, click the dust bin.</p>
   <div role="contentinfo">
     <p>
         &copy; Copyright 2020, Precio Fishbone.
-      Last updated on May 05, 2020.
+      Last updated on May 10, 2020.
 
     </p>
   </div>
