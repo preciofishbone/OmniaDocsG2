@@ -62,7 +62,7 @@ To select a shape, just click it and the following settings is shown:
 .. image:: pm-drawing-shape-settings-settings-more.png
 
 + **Font Size**: Set the font size in pixels for the text here.
-+ **Colors**: Use the options in this section to set details for colors, for the shape and text.
++ **Colors**: Use the options in this section to set details for colors, for the shape and text.  Note that you can set colors for three states of the shape: not selected, selected and hovered.
 
 When you select the option "Add Link", you can use the following settings:
 
