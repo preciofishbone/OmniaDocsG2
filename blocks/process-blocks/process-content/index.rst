@@ -1,7 +1,11 @@
 Process Content block
 =======================
 
-(Nothing here yet, will be soon.)
+Use this block to display the process content on - the content added on the Content tab when editing a process.
+
+You can add a title in any or all available languages, and add som padding, if needed.
+
+.. image:: process-content-block.png
 
 Layout and Advanced
 ********************
