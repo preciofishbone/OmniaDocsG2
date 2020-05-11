@@ -93,9 +93,15 @@ To adjust the size of the shape, click it and use the handles to drag to the des
 
 .. image:: pm-drawing-shape-size.png
 
+Edit a shape
+--------------
 To edit the settings for a shape, click the shape and then click the pen.
 
 .. image:: pm-drawing-shape-edit.png
+
+When you edit a shape for a process step, note that you can edit ALL settings for the process step in the Shape Settings, for example:
+
+.. image:: pm-drawing-shape-edit-tabs.png
 
 Clone a shape
 ---------------
