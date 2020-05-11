@@ -1,7 +1,11 @@
 Process Links block
 ======================
 
-(Nothing here yet, will be soon.)
+Use this block to display the links the process author added to the Links tab for the process.
+
+You can add a title on any or all the available languages, and add some padding, if nedded.
+
+.. image:: process-links-block.png
 
 Layout and Advanced
 ********************
