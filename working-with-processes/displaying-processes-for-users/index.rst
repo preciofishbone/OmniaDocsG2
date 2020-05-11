@@ -8,15 +8,37 @@ When considering how to display processes for end users, you can use one of thes
 + Add a page and place a Process Rollup to list available processes.
 + Add a separate page for every process and use a suitable Page Type.
 
+Using a Process Rollup
+*************************
 If you use a Process Rollup you don't have to create separate pages for the processes. When a user clicks a process in the Process Rollup, a system page is then used to display the process.
-
-If you decide to add a separate page for each process there's a Page Type ready for you to use. You can of course add your own Page Type(s) for processes or edit as well.
 
 Here's an excample of a page with a Process Rollup:
 
 .. image:: process-rollup-example.png
 
 For more information on how to set up a Process Rollup, see: :doc:`Process Management </blocks/process-blocks/process-rollup/index>`
+
+Creating a page to display a process
+**************************************
+If you decide to add a separate page for each process there's a Page Type ready for you to use. 
+
+.. image:: process-image-type.png
+
+When creating such a page, the only other thing you HAVE to do is to set which process should be displayed. You do that on the Properties tab of the page.
+
+.. image:: process-properties.png
+
+Here's an example of a process displayed with the Page Type Process:
+
+.. image:: process-image-type-example.png
+
+You can of course add your own Page Type(s) for processes as well.
+
+Other than choosing a Page Type suitable for processes, and selecting a process as the property, you work with the page the same way as any other page.
+
+For more information on how to work with pages, see: :doc:`Process Management </pages/index>`
+
+For a list of all Process blocks, see: :doc:`Process Management </blocks/process-blocks/index>`
 
 
 

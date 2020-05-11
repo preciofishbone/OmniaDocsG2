@@ -58,3 +58,7 @@ If you added a Search Box you can set a default search value, meaning this searc
  
 3. If you added several filters, select “Adjust Filters” the decide the order.
 
+Layout and Advanced
+********************
+The tabs Layout and Advanced are standard tabs, available for most blocks. For more information, see: :doc:`General Block Settings </blocks/general-block-settings/index>`
+
