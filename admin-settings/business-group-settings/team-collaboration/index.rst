@@ -75,7 +75,7 @@ See above for information about the options.
 
 Features for the teamwork
 ***************************
-To activate, remove or upgrade or deactivate features for a teamwork, you click the boxes icon. Something like the following is then shown (can vary depending on available functionality).
+To activate, remove or upgrade features for a teamwork, you click the boxes icon. Something like the following is then shown (can vary depending on available functionality).
 
 .. image:: team-collaboration-features.png
 
