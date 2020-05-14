@@ -1,7 +1,11 @@
-Upcoming Release 4.0.0 (Draft) 
+Release 4.0.0
 ========================================
 *NOTE: These release notes are a draft. Items might be added, altered or removed.*
 
+SPFx Upgrade
+-----------------------------------------
+
+To make full use of the new features in Omnia, the SPFx extension needs to be updated. The process of updating is the same as the process for installing it the first time. The package, and instructions on how to do this, can be found in Omnia Admin. If you need help, contact your Omnia consultant.
 
 New features
 ----------------------------------------
@@ -228,3 +232,9 @@ Fixes
 - Team News Rollup now has correct localization for social dates. (#117788).
 - Auto publish now works correctly on all page collection configurations (#115434).
 - Stability improvments to connect site to omnia (#117468).
+- Autopublish now works as expected on flat page collections (#115434).
+- Fixed an issue that would sometimes render images with a very large height (#115457, #115379, #115625, #116486, #118233).
+- Fixed an error in page settings that would require a page reload (#114604).
+- Fixed an issue where the current navigation would sometimes indicate it had children even though they were all hidden. (#118556).
+- All document templates now show up correctly when merging a controlled document(#118311).
+
