@@ -166,12 +166,14 @@ Web Content Management
 - Custom block header size now starts at 1px instead of 30px.
 - The page rollup now works correctly in SPFx (#118051).
 - Scheduled pages can now be edited even after the schedule is set (#118473).
+- The news roller can now be configured to not automatically rotate.
 
 Document Management
 ***********************
 - Support for vsdx icons.
 - The Tabs Drafts, Tasks, and Published now has a larger click area (#117861).
 - Built in properties are now visible in the properties dialog (#118418).
+- Its now possible to define a tenant wide base query for what Omnia considers a document. This base query will be used by omnia when loading documents from SharePoint. This will make it possible to show more filetypes in the document rollup. (#118655). 
 
 Tenant Administration
 ***********************
@@ -190,7 +192,7 @@ Workplace
 Fixes 
 ***********************
 - Fixed a design glitch in document libraries when the omnia header is used. 
-- People rollup roller view not auto rotates correctly (#117277).
+- People rollup roller view now auto rotates correctly (#117277).
 - Page rollup column adjustment now works when having only one column (#117154, #117304).
 - Correct default setting on date format when setting up a new environment (#114587).
 - Several fixes to the document rollup, including taxonomy properties now work correctly in the query builder (#117598).
@@ -225,3 +227,4 @@ Fixes
 - Fixed a problem where navigating between ODM authoring sites would not work correctly when my sites was used for the navigation (#118034).
 - Team News Rollup now has correct localization for social dates. (#117788).
 - Auto publish now works correctly on all page collection configurations (#115434).
+- Stability improvments to connect site to omnia (#117468).
