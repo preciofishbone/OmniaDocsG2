@@ -25,7 +25,7 @@ Available settings differ depending on which type of template you're creating, s
 
 The first step is the same for all template types. Do the following:
 
-2. For "Publishing", select "Community App" or "Teamwork" and use the following settings:
+2. For Base Definition select "Publishing", "Community App" or "Teamwork" and use the following settings:
 
 .. image:: provisioning-templates-create-publishing-2new.png
 
@@ -40,7 +40,7 @@ The first step is the same for all template types. Do the following:
 
 3. Click "Next".
 
-For the next step is for **Teamwork** only. These settings are not applicable for publising or for Community. For Teamwork, you can set the following:
+The next step is for **Teamwork** only. These settings are not applicable for Publising or for Community. For Teamwork, you can set the following:
 
 .. image:: provisioning-templates-create-team-3-new.png
 
@@ -107,8 +107,8 @@ As the next step you can set this:
 
 (All features are not shown in the image above.)
 
-+ **Process Archive**: Set if a process archive should be created when this template is used. Applicable only for Process Management standalone or for a Sharepoint Teamsite only.
-+ **Process Library**: Set if a process Library should be created when this template is used. Applicable only for a Sharepoint Teamsite only.
++ **Process Archive**: Set if a process archive should be created when this template is used. Applicable for a Sharepoint Teamsite only.
++ **Process Library**: Set if a process Library should be created when this template is used. Applicable for a Sharepoint Teamsite only.
 + **Apply Microsoft Teams to an Office 365 Group**: Here you can select that a Microsoft Teams Group should be created for the Office 365 Group.
 + **Create a new Wizard in Document Libraries**: For Document Management; if the New Document Wizard should be added to all document libraries in the site created from this template, check the box.
 + **Controlled Documents Library**: For Document Management; if a Controlled Documents library should be added to all document libraries in the site created from this template, check the box.
