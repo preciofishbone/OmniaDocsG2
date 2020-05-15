@@ -1,7 +1,7 @@
 Communities
 ============
 
-Use these settings go to any community site to, for example, edit settings. You can also create a new community site from here.
+Use these settings to go to any community site to, for example, edit settings. You can also create a new community site from here.
 
 For Community sites with "Approval" as site creation mode, you use the "Pending Approval" list to approve or reject creation of a site.
 
@@ -12,7 +12,7 @@ Use the icons this way:
 + The key to edit permissions.
 + The boxes to activate, deactivate and upgrade features.
 + The pen to edit some settings.
-+ The dust bin to delete the collaboration site. 
++ The dust bin to delete the site. 
 
 You can use the headings for Title, App Administrator, Provisioning Template and Created Date to sort the list.
 
@@ -70,7 +70,7 @@ To activate, remove or upgrade features for a community, you click the boxes ico
 
 .. image:: community-features.png
 
-What you can do is self explanatory, even though not that many faetures are actually relevant for a community, but be careful here and make sure you know exactly what will happen, especially if you plan to remove or upgrade a feature.
+What you can do is self explanatory, even though not that many features are actually relevant for a community, but be careful here and make sure you know exactly what will happen, especially if you plan to remove or upgrade a feature.
 
 Pending Approval
 *****************
