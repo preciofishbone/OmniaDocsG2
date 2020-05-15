@@ -9,6 +9,7 @@ Business Profile Settings
    notification-panel/index
    omnia-feed/index
    provisioning-templates/index
+   communities/index
    publishing-apps/index
    search/index
    security/index
