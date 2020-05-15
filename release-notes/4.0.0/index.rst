@@ -1,7 +1,11 @@
-Upcoming Release 4.0.0 (Draft) 
+Release 4.0.0
 ========================================
-*NOTE: These release notes are a draft. Items might be added, altered or removed.*
+*NOTE: Items might be added, altered or removed.*
 
+SPFx Upgrade Needed
+-----------------------------------------
+
+To make full use of the new features in Omnia, the SPFx extension needs to be updated. The process of updating is the same as the process for installing it the first time. The package, and instructions on how to do this, can be found in Omnia Admin. If you need help, contact your Omnia consultant.
 
 New features
 ----------------------------------------
@@ -51,13 +55,12 @@ The UI will show the default variation page text on the left-hand side and the v
 Document Picker
 ************************************************
 
-There is a new possibility to configure the Document Picker centrally in Omnia Admin to make different tabs available for the author. Two types of categories can be created, either you select a specific SharePoint document library or you create a Search Category that should be available.
+There is a new possibility to configure the Document Picker centrally in Omnia Admin to make different tabs available for the author. Two types of categories can be created, either you select a specific SharePoint document library, or you create a Search Category that should be available.
 
 
 .. image:: document-picker-administration.png
 
-The new document picker will replace the old one when adding related 
-s on web pages. It will also show any document library that has been configured for the current publishing app.
+The new document picker will replace the old one when adding related documents on web pages. It will also show any document library that has been configured for the current publishing app.
 
 .. image:: document-picker-ui.png
 
@@ -86,9 +89,9 @@ A search category can be targeted to a specific group of people based on the tar
 Improved Teamwork Navigation and Administration
 ************************************************
 
-(#116996, #114661, #114870, #117577, #114837, #116854, #117576, #118444, #117581, #117854)
+(#116996, #114661, #114870, #117577, #114837, #116854, #117576, #118444, #117581, #117854, #117428, #118658, #117394)
 
-Teamwork Administration in Omnia Admin has been improved. The list has sorting and paging and additional information columns have been added to the list. It is possible to search for a Teamwork based on the title and Teamwork properties can be edited.
+Teamwork Administration in Omnia Admin has been improved. The list has sorting, and paging also additional information columns have been added to the list. It is possible to search for a Teamwork based on the title and Teamwork properties can be edited.
 
 .. image:: teamwork-administration.png
 
@@ -109,13 +112,14 @@ The end user can navigate in the process via process navigation or shapes in the
 
 .. image:: processmgmt-planning.png
 
+Including fixes from beta (#118679)
 
 Communities
 ************************************************
 
 The community features in Omnia have been improved. A community includes makes it possible for any user to share their knowledge with others using knowledge articles and discussions.
 
-Subscriptions and an activity feed makes it possible for users to stay up to date with changes within communities.
+Subscriptions and an activity feed make it possible for users to stay up to date with changes within communities.
 
 .. image:: community-knowledgearticles.png
 
@@ -154,6 +158,12 @@ Omnia
 - Several performance improvements for both Omnia and SPFx.
 - Stability improvements to the color picker.
 - Improvements to block background color settings.
+- Default font sizes have been updated to
+ - p (normal): 16px
+ - h3: 20px
+ - h4: 16px, bold
+ - h5: 16px, italic
+ - h6: 14px, bold
 
 Web Content Management
 ***********************
@@ -165,13 +175,19 @@ Web Content Management
 - Auto rolling of the news roller will be disabled if accessibility mode is turned on.
 - Custom block header size now starts at 1px instead of 30px.
 - The page rollup now works correctly in SPFx (#118051).
+- Item padding settings of the page rollup has been corrected. (#118755).
 - Scheduled pages can now be edited even after the schedule is set (#118473).
+- The news roller can now be configured to not automatically rotate.
+- Team news rollup has received a design update and now supports to be filtered by followed sites.
+- It is now possible to use Everyone except external users as an editor group (#114609).
 
 Document Management
 ***********************
 - Support for vsdx icons.
 - The Tabs Drafts, Tasks, and Published now has a larger click area (#117861).
 - Built in properties are now visible in the properties dialog (#118418).
+- Its now possible to define a tenant wide base query for what Omnia considers a document. This base query will be used by omnia when loading documents from SharePoint. This will make it possible to show more filetypes in the document rollup. (#118655). 
+- Document rollup now supports two different current user tokens for easier setup  {CurrentUser.Id} and {CurrentUser.Name} (#118130).
 
 Tenant Administration
 ***********************
@@ -179,18 +195,19 @@ Tenant Administration
 
 Workplace
 ***********************
-- It is now possible to base search queries on page variation url segment. 
+- It is now possible to base search queries on page variation URL segment. 
 - Targeting for search categories. It is now possible to use the targeting engine on search categories. (#115142, #115263).
 - Date refiners now work as expected in advanced search (#114577, #115570).
 - Updated design in advanced search (#117305, #116824).
 - Updated design for action bar item tabs.
 - Updated design for shared links. (#116056).
 - Action button has received many updates and multilingual support has been improved and it can now be used to create pages (#117303, #114101, #118480, #117730).
+- Improved the quality of search results (#117462).
 
 Fixes 
 ***********************
 - Fixed a design glitch in document libraries when the omnia header is used. 
-- People rollup roller view not auto rotates correctly (#117277).
+- People rollup roller view now auto rotates correctly (#117277).
 - Page rollup column adjustment now works when having only one column (#117154, #117304).
 - Correct default setting on date format when setting up a new environment (#114587).
 - Several fixes to the document rollup, including taxonomy properties now work correctly in the query builder (#117598).
@@ -212,7 +229,8 @@ Fixes
 - Corrected mobile navigation when using multiple page collections in one navigation structure (#115759).
 - Document rollup now shows sorting arrows correctly when sorting (#117793, #118277).
 - Document rollup now correctly hides when there is no content in the rollup (#117827).
-- Advanced search now always shows the correct item count. Also impacts results and paging in some scenarios (#114072, #115352, #116723, #114039, #115789, #117802, #115121, #115250).
+- Document rollup can now search on both properties and content at the same time (#118129).
+- Advanced search now always shows the correct item count. Also impacts results and paging in some scenarios (#114072, #115352, #116723, #114039, #115789, #117802, #115121, #115250, #117462).
 - External links in Shared Links now work correctly on IOS (#117048).
 - Adding documents through related links now correctly lists deleted users (#117801).
 - Now possible to create two enterprise properties with the same display name (#115627).
@@ -225,3 +243,20 @@ Fixes
 - Fixed a problem where navigating between ODM authoring sites would not work correctly when my sites was used for the navigation (#118034).
 - Team News Rollup now has correct localization for social dates. (#117788).
 - Auto publish now works correctly on all page collection configurations (#115434).
+- Stability improvements to connect site to omnia (#117468).
+- Auto publish now works as expected on flat page collections (#115434).
+- Fixed an issue that would sometimes render images with a very large height (#115457, #115379, #115625, #116486, #118233, #118689).
+- Fixed an error in page settings that would require a page reload (#114604).
+- Fixed an issue where the current navigation would sometimes indicate it had children even though they were all hidden. (#118556).
+- All document templates now show up correctly when merging a controlled document(#118311).
+- The team collaboration approval email now points to the correct Business profile.
+- Corrected the datetime display that would sometimes show the wrong format and sometimes include time when date only was selected (#118801, #118754, #118781)
+- Corrected an IE11 specific rendering problem in the mega menu (#117973).
+- Timestamp has been removed from review reminder email (#118088).
+- Stability improvements made to the upload image dialog (#116781, 116863).
+- Team Collaboration Rollup now correctly handles large lists (#117428).
+- Fixes to the term picker (#118831).
+
+Fixes to the preview version
+*************************
+(#118657, #118679, #118755, #118685, #118765, #118699, #118641, #118741)
