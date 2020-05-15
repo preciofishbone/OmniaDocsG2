@@ -15,6 +15,7 @@ Topics
    pages/index
    working-with-documents/index
    working-with-processes/index
+   using-communities/index
    user-options/index
    setup/index
    roadmap/index
