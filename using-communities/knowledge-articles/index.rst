@@ -12,6 +12,7 @@ Select page for more information:
    read-knowledge-articles/index
    edit-knowledge-article/index
    comment-knowledge-article/index
+   like-share-rate/index
    create-article/index
 
 
