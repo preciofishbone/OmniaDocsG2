@@ -31,4 +31,8 @@ For more information, see: (link to be added)
 
 To go to a knowledge article, to read it or to comment (or both), click the link (the name).
 
+Here's an example of a Knowledge article:
+
+.. image:: knowledge-example-article.png
+
 For more information about a colleague, for example contact information, click the name to go the persons Delve page.
