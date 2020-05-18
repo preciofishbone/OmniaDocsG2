@@ -23,7 +23,7 @@ To like a comment or a reply, click "Like" in the comment field or Reply field.
 
 .. image:: knowledge-like-3.png
 
-Like no changes to unlike so it's pretty obvious what you can do now!
+Like now changes to unlike. You can like and unlike a Knowledge article or a comment anytime.
 
 .. image:: knowledge-like-4.png
 
@@ -43,7 +43,7 @@ You can set a rating for how valuable you think the information in the article i
 
 .. image:: knowledge-rating.png
 
-Note that you rate in halg steps if your careful when filling the stars. Here's an example with rating 3.5:
+Note that you can rate in half steps if you're careful when filling the stars. Here's an example with rating 3.5:
 
 .. image:: knowledge-rating-stars.png
 
