@@ -256,6 +256,7 @@ Fixes
 - Stability improvements made to the upload image dialog (#116781, 116863).
 - Team Collaboration Rollup now correctly handles large lists (#117428).
 - Fixes to the term picker (#118831).
+- Updates and fixes to system labels in English and Swedish (#115514,#117471, #116047, #117439, #118430, #118415, #114829) 
 
 Fixes to the preview version
 *************************
