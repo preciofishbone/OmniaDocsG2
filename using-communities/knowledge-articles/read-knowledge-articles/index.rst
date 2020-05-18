@@ -3,6 +3,8 @@ Read Knowledge articles
 
 **(This documentation is just started. More will be added soon).**
 
+A Community can be set up several ways but normally all coleagues can read all knowledge articles in all Communities in the tenant.
+
 A start page for Knowledge articles can look like this:
 
 .. image:: knowledge-start.png
