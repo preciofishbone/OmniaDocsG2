@@ -1,7 +1,7 @@
 Comment a Knowledge article
 =============================
 
-You can comment any Knowledge article you can read. You can even comment a comment. Here's how:
+Comments can be activated or not for a Knowledge article. The colleague creating the article sets that. If activated, you can comment any Knowledge article you can read. You can even comment a comment. Here's how:
 
 1. Open the Knowledge article.
 2. Click in the comment field, type your comment and click "POST".

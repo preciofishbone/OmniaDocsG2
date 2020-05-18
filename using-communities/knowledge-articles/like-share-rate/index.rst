@@ -1,4 +1,53 @@
-Like, share and rate a Knowledge article
-=========================================
+Like, share and rate a Knowledge articles
+==========================================
 
-(Nothing here yet, will be soon.)
+To show you appreciation for a Knowledge article you can like it and you can like comments as well. You can also share a Knowledge article with other colleagues.
+
+Like a Knowledge article or a comment
+****************************************
+The start page for Knowledge articles displays the number of likes for every article and the list "Popular" sorts the articles with the most likes in ascending order.
+
+Do the following to like an article:
+
+Click "Like" at the bottom of the article.
+
+.. image:: knowledge-like-1.png
+
+The Like icon now changes to show that you have liked the article (you can only like it once), for example:
+
+.. image:: knowledge-like-2.png
+
+You can click this icon to unlike the article, if you want to do that.
+
+To like a comment or a reply, click "Like" in the comment field or Reply field.
+
+.. image:: knowledge-like-3.png
+
+Like no changes to unlike so it's pretty obvious what you can do now!
+
+.. image:: knowledge-like-4.png
+
+Share a Knowledge article
+****************************
+To share an article with one or more colleagues, do the following:
+
+1. Click "Share".
+
+(More info will be added soon.)
+
+Rate a Knowledge article
+**************************
+The list "Top Rated", available on the start page for Knowledge articles, displays the article in rating order.
+
+You can set a rating for how valuable you think the information in the article is, just do it by selecting a number of stars:
+
+.. image:: knowledge-rating.png
+
+Note that you rate in halg steps if your careful when filling the stars. Here's an example with rating 3.5:
+
+.. image:: knowledge-rating-stars.png
+
+You can change your rating anytime.
+
+
+
