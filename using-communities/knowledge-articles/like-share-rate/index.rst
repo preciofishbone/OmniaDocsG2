@@ -1,4 +1,4 @@
-Like, share and rate a Knowledge articles
+Like, share and rate Knowledge articles
 ==========================================
 
 To show you appreciation for a Knowledge article you can like it and you can like comments as well. You can also share a Knowledge article with other colleagues.
