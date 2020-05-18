@@ -12,7 +12,7 @@ Select page for more information:
    read-knowledge-articles/index
    edit-knowledge-article/index
    comment-knowledge-article/index
-   create-knowledge-article/index
+   create-article/index
 
 
 
