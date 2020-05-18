@@ -45,17 +45,17 @@ You never have to add media if you don't want to, and the same goes for other ar
 
 Just click in the field to edit.
 
-8. To add content to a content field, click in the field an start typing.
+8. To add content to a text field, click in the field and start typing.
 
 .. image:: create-article-8.png
 
-Note that a number of options for formatting are available (which can differ from what is shown in the image above). It can also be possible to add links to the text (the link icon) or even to add images ot videos to the text (the image icon).
+Note that a number of options for formatting are available (which can differ from what is shown in the image above). It can also be possible to add links to the text (the link icon) or even to add images or videos to the text (the image icon).
 
 9. At the bottom of the page you can decide if you allow likes and comments, which you normally should do (meaning no changes are needed).
 
 .. image:: create-article-9.png
 
-Other areas that may be available, as Ratings and Related Content, that are part of the template we use here - you should not do anything with (or you even may not). They are there to be displayed for readers.
+Other areas that may be available, as Ratings and Related Content, that are part of the template we use here; you should not do anything with them (or you even may not). They are there to be displayed for readers.
 
 When you're done adding content:
 
