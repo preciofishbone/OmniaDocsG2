@@ -1,7 +1,7 @@
 Using Communities
 ===================
 
-**This documentation is just started, more will be added soon.**
+In this part of the documentation you will information on how to use Communities, both for editors options and from an end user's point of view.
 
 A community can be set up in different ways. Here's an example of a community start page:
 
@@ -17,9 +17,14 @@ You can click on any post in the list to go to that discussion, comment or knowl
 
 Select page for more information:
 
-+ :doc:`Participate in discussions </using-communities/discussions/index>`
-+ :doc:`Add or read knowledge articles </using-communities/knowledge-articles/index>`
-+ :doc:`Subscriptions </using-communities/subscriptions/index>`
+
+.. toctree::
+   :titlesonly:
+
+   discussions/index
+   knowledge-articles/index
+   subscriptions/index
+   settings/index
 
 
 
