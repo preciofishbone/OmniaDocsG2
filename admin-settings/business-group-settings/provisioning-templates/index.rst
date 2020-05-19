@@ -74,9 +74,7 @@ This setting is available for a **Facebook Workplace Group** Template:
 
 4. When you are done here, Click "Next".
 
-The next step is to select properties, which you can do for all types of templates (but for a Publishing there's no need to set any properties at the moment, so just go to the next step if you're creating a Publishing template). 
-
-All available properties are shown, for example:
+The next step is to select properties, which you can do for all types of templates. All available properties are shown, for example:
 
 .. image:: provisioning-templates-properties-new.png
 
@@ -107,17 +105,17 @@ As the next step you can set this:
 
 (All features are not shown in the image above.)
 
-+ **Process Archive**: Set if a process archive should be created when this template is used. Applicable for a Sharepoint Teamsite only.
-+ **Process Library**: Set if a process Library should be created when this template is used. Applicable for a Sharepoint Teamsite only.
++ **Process Archive**: Set if a process archive should be created when this template is used. Applicable for a Sharepoint Teamsites and Office 365 sites only.
++ **Process Library**: Set if a process Library should be created when this template is used. Applicable for a Sharepoint Teamsites and Office 365 sites only.
 + **Apply Microsoft Teams to an Office 365 Group**: Here you can select that a Microsoft Teams Group should be created for the Office 365 Group.
-+ **Create a new Wizard in Document Libraries**: For Document Management; if the New Document Wizard should be added to all document libraries in the site created from this template, check the box.
-+ **Controlled Documents Library**: For Document Management; if a Controlled Documents library should be added to all document libraries in the site created from this template, check the box.
-+ **Archived Documents**: Select this option if the feature "Archived Documents" should be activated automatically when a site is created from this template.
-+ **Project Site**: Select this option if the feature "Project Site" should be activated automatically when a site is created from this template.
++ **Create a new Wizard in Document Libraries**: For Document Management; if the New Document Wizard should be added to all document libraries in the site created from this template, check the box. Applicable for a Sharepoint Teamsites and Office 365 sites only
++ **Controlled Documents Library**: For Document Management; if a Controlled Documents library should be added to all document libraries in the site created from this template, check the box. Applicable for a Sharepoint Teamsites and Office 365 sites only
++ **Archived Documents**: Select this option if the feature "Archived Documents" should be activated automatically when a site is created from this template. Applicable for a Sharepoint Teamsites and Office 365 sites only
++ **Project Site**: Select this option if the feature "Project Site" should be activated automatically when a site is created from this template. Applicable for specialized set ups only.
 + **Default Page Collections and Page Types**: For Publishing templates; Select this option if the corresponding feature should be activated automatically when a site is created from this template. The default Page Collections and Page Types can be edited to suit your needs.
-+ **Show Business Profile Header**: For Publishing templates; if the header set up in the Business Profile should be used, select this option.
++ **Show Business Profile Header**: For Publishing templates; if the header set up in the Business Profile should be used, select this option. Applicable for Publishing App templates only.
 
-**Very important**: Make sure you select only the features that are applicable for the type of template you create, if any. Selecting the wrong feature here can cause problems when a site is created from the template. For example is only te feature at the bottom applicable for Publishing App templates.
+**Very important**: Make sure you select only the features that are applicable for the type of template you create, if any. Selecting the wrong feature here can cause problems when a site is created from the template. No feature shown here are applicable for Community site templates.
 
 9. Set the options here as needed and click "Next".
 
