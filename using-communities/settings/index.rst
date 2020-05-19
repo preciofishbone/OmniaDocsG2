@@ -12,7 +12,7 @@ You also need to have Page Editor permissions to a suitable page to set upp acce
 
 Prerequisite
 *************
-The only prerequisite is that a Provsioning template for Communites must have been created, see: `Provisioning templates </admin-settings/business-group-settings/provisioning-templates/index>`
+The only prerequisite is that a Provisioning template for Communites must have been created, see: `Provisioning templates </admin-settings/business-group-settings/provisioning-templates/index>`
 
 Creating a Community
 **********************
@@ -20,6 +20,9 @@ Do the following to create a community:
 
 1. Go to Omnia Admin.
 2. Open "Communities" in the Business Profile.
+
+.. image:: communities-bp.png
+
 3. Create a Community Site according to the description on this page: `Communities </admin-settings/business-group-settings/communities/index>`
 4. When the site has been created, note or copy the Url.
 5. Setup access to the community some way, using the Url. (More information about that below.)
