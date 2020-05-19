@@ -3,34 +3,35 @@ Setting up a Community
 
 Setting up a community is pretty straight forward. You need to be an Omnia Administrator or have separate access to the following in Omnia Admin:
 
-+ Provisioning templates
-+ Communities
++ Provisioning templates (if no Provisioning template for communities has been created yet).
++ Communities.
 
-Both these are part of the Business Profile settings.
+Both these are part of the Business Profile settings. See below for links to more information.
+
+You also need to have Page Editor permissions to a suitable page to set upp access to the community.
 
 Prerequisite
 *************
 The only prerequisite is that a Provsioning template for Communites must have been created, see: `Provisioning templates </admin-settings/business-group-settings/provisioning-templates/index>`
 
+Creating a Community
+**********************
+Do the following to create a community:
 
-**(This description is just started and it's not much here. Please come back to this page in a few days.)**
-
-This page is intended for page editors.
+1. Go to Omnia Admin.
+2. Open "Communities" in the Business Profile.
+3. Create a Community Site according to the description on this page: `Communities </admin-settings/business-group-settings/communities/index>`
+4. When the site has been created, note or copy the Url.
+5. Setup access to the community some way, using the Url. (More information about that below.)
 
 Setting up access to communities
 **********************************
-As default all colleagues has read access to all communities, and can also create discussions, knowledge articles and add comments. If needed, this can be set up some other way using the normal permission settings available in Omnia. 
-
-One thing you, as a page editor, will have to consider is how to create access to communities for the users. There's, for example, no dedicated blocks for that purpose. You set up access using the options available in Omnia. Here's an example using banners for access to the various communities available:
+You set up access using the options available in Omnia. Here's an example using banners for access to the various communities available:
 
 .. image:: communities-acccess-example.png
 
-(MY SUBSCRIPTIONS is an action button.)
+(MY SUBSCRIPTIONS is an action button in this example.)
 
-Settings in Omnia Admin
-*************************
-The settings available for an administrator in Omnia Admin is described here:
+This is just an example for inspiration. Access to communities can be set up many other ways in Omnia.
 
-+ :doc:`Provisioning templates </admin-settings/business-group-settings/provisioning-templates/index>`
-+ :doc:`Communities (listing) </admin-settings/business-group-settings/communities/index>`
 
