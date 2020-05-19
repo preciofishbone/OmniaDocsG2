@@ -54,7 +54,7 @@ For **Office 365 Group**, the following settings are available:
 + **Time Zones**: Select the correct Time Zone here.
 + **Privacy: For 365 Groups you can select either “Private” or “Public”. The text in the selections explains the difference.
 
-The following settings are available for a **Sharepoint Team Site** and for a **Sharepoint Communication Site**:
+The following settings are available for a **Sharepoint Team Site** and for a **Sharepoint Communication Site** (note that a "Sharepoint Communication Site" is not the same as a Community site):
 
 + **Site Design**: (See above for a description).
 + **Languages**: Select Language to be used for system texts in the site.
