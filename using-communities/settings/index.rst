@@ -1,5 +1,17 @@
-Community settings
-====================
+Setting up a Community
+========================
+
+Setting up a community is pretty straight forward. You need to be an Omnia Administrator or have separate access to the following in Omnia Admin:
+
++ Provisioning templates
++ Communities
+
+Both these are part of the Business Profile settings.
+
+Prerequisite
+*************
+The only prerequisite is that a Provsioning template for Communites must have been created, see: `Provisioning templates </admin-settings/business-group-settings/provisioning-templates/index>`
+
 
 **(This description is just started and it's not much here. Please come back to this page in a few days.)**
 

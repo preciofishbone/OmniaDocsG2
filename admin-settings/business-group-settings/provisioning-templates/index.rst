@@ -36,7 +36,7 @@ The first step is the same for all template types. Do the following:
 + **Show in Create New Wizard**: Select this option if the Template should be available in the user Wizard for creating new sites.
 + **Site Creation Mode**: Here you select if if Approval is required when users create sites from this Template. 
 
-**Very important!** At the moment we recommend that you always set "Approval" when creating a provisioning template for Community as it's not suitable for self service yet. An administrator needs to do some hands on when a Community is created.
+**Very important!** At the moment creating a community requires some hands on by an administrator. We therefore recommend that administrators create all communities for now. See to that "Show in Create New Wizard" is NOT selected and that "Site Creation Mode" is set to "Self Service" for Community templates.
 
 3. Click "Next".
 
