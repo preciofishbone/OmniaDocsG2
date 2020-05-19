@@ -43,7 +43,7 @@ After the community has been created there are some settings you may want to do.
 
 Settings for Activity Points
 -------------------------------
-You can select to award activity points for certain actions. When activity points is active, you can also choos to use badges, see below.
+You can select to award activity points for certain actions. When activity points is active, you can also choose to use badges, see below.
 
 Activity points are counted within the page collection.
 
@@ -65,13 +65,13 @@ To enable Activity Points, do the following:
 
 .. image:: community-page-edit-activity.png
 
-5. Set the points that should be awarded to a user when creating a page (Knowledge page or Discussion page), updating a page etce.
+5. Set the points that should be awarded to a user when creating a page (Knowledge page or Discussion page), updating a page etc.
 
 .. image:: community-page-edit-activity-points.png
 
 6. Publish the page.
 
-.. image:: community-page-edit-publish.png
+.. image:: community-page-edit-publish-new.png
 
 Using badges
 --------------------
