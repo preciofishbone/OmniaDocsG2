@@ -1,9 +1,7 @@
 Read Knowledge articles
 ============================================
 
-**(This documentation is just started. More will be added soon).**
-
-A Community can be set up several ways but normally all coleagues can read all knowledge articles in all Communities in the tenant.
+A community can be set up several ways but in the default setup all coleagues can read all knowledge articles in all communities in the tenant.
 
 A start page for Knowledge articles can look like this:
 
@@ -25,9 +23,7 @@ The words to the right display the tags for the articles.
 
 You can click a tag to subscribe to all knowledge articles.
 
-**Note!** Tags are global, so when you subscribe to a tag, you subscribe to that tag in knowledge articles in ALL active communities.
-
-For more information, see: (link to be added)
+**Note!** Tags are global, so when you subscribe to a tag, you subscribe to that tag in knowledge articles in ALL active communities in the tenant.
 
 To go to a knowledge article, to read it or to comment (or both), click the link (the name).
 
