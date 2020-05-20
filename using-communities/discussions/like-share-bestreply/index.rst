@@ -5,7 +5,7 @@ You can like and share a discussion and like comments. If you are the one that s
 
 Like a discussion or a comment
 **********************************
-The list "Popular" for discussions sort the list of discussion on likes, so the most liked discussion will be at the top.
+The list "Popular" for discussions sorts the list of discussion on likes, so the most liked discussion will be at the top.
 
 To like a discussion, just click "LIKE".
 
@@ -17,7 +17,7 @@ The Like icon now changes and you can use it to unlike the discussion:
 
 You can also like a comment:
 
-.. image:: discussion-like-3.png
+.. image:: discussion-like-3b.png
 
 You can change your mind about a comment you have liked, and unlike it.
 
@@ -25,7 +25,7 @@ You can change your mind about a comment you have liked, and unlike it.
 
 Share a discussion
 ****************************
-To share an discussion with a colleague, do the following:
+To share a discussion with a colleague, do the following:
 
 1. Click "Share".
 
@@ -45,4 +45,4 @@ That a comment is tagged as best reply is shown this way:
 
 You can click it to untag the comment for best reply, to tag some other comment.
 
-Best Reply can be a very important action if activity points and badges are activiated, see: :doc:`Setting up a Community </using-communities/setting/index>`
+Best Reply can be a very important action if activity points and badges are activiated, see: :doc:`Setting up a Community </using-communities/settings/index>`

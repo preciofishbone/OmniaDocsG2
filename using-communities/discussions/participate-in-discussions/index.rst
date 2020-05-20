@@ -8,11 +8,11 @@ You participate in a discussion by adding comments.
 
 .. image:: discussion-comment-1.png
 
-Note he the simple formatting options.
+Note the formatting options.
 
 You can always edit your own comments, like this:
 
-3. Click the pen and select edit.
+3. Click the pen and select "Edit".
 
 .. image:: discussion-comment-2.png
 
@@ -22,19 +22,19 @@ You can always edit your own comments, like this:
 
 Comment another comment
 *************************
-You can even comment any comment, this way:
+You can also comment any comment, this way:
 
 1. click "Reply".
 
 .. image:: discusson-comment-4.png
 
-2. Type you reply and click "POST".
+2. Type your reply and click "POST".
 
 .. image:: discussion-comment-5.png
 
 You can add a reply for the reply and continue that way.
 
-You can edit you your own replies the samse way as with comments, see above.
+You can edit your own replies the samse way as with comments, see above.
 
 Using mentions
 ***************
