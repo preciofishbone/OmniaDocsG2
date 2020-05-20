@@ -11,8 +11,8 @@ If you are already subscribing on this level, the option says "UNSUBSCRIBE" inst
 
 .. image:: unsubscribe-menu.png
 
-Subscribe to knowledge article or a discussion
-***********************************************
+Subscribe to a knowledge article or a discussion
+**************************************************
 To subscribe to a knowledge article or a discussion, do the following:
 
 1. Go to the knowledge article or discussion.
