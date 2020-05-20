@@ -23,7 +23,7 @@ The words to the right display the tags for the articles.
 
 You can click a tag to subscribe to all knowledge articles.
 
-**Note!** Tags are global, so when you subscribe to a tag, you subscribe to that tag in knowledge articles in ALL active communities in the tenant.
+**Note!** Tags are global, so when you subscribe to a tag, you subscribe to that tag in knowledge articles and discussions in ALL active communities in the tenant.
 
 To go to a knowledge article, to read it or to comment (or both), click the link (the name).
 
