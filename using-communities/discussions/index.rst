@@ -11,7 +11,7 @@ The list can be sorted on Latest, Popular or Most Commented. Popular counts the 
 
 .. image:: discussions-sorting.png
 
-Also note that the number of comments and likes is shown for every article, here:
+The Latest list is sorted on when the last comments was added, so the most active discussion is at the top. Also note that the number of comments and likes is shown for every article, here:
 
 .. image:: discusssions-start-notes.png
 
@@ -23,11 +23,11 @@ You can click a tag to subscribe to that tag.
 
 **Note!** Tags are global, so when you subscribe to a tag, you subscribe to that tag in discussions and knowledge articles in ALL active communities in the tenant.
 
-To go to a knowledge article, to read it or to comment (or both), click the link (the name).
+To go to a discussion, to read it or to comment (or both), click the link (the name).
 
-Here's an example of a Knowledge article:
+Here's an example of a discussion:
 
-.. image:: knowledge-example-article.png
+.. image:: discussion-example.png
 
 For more information about a colleague, for example contact information, click the name to go the persons Delve page.
 
@@ -35,5 +35,6 @@ For more information about a colleague, for example contact information, click t
 .. toctree::
    :titlesonly:
 
-   start-discusson/index
+   start-discussion/index
    participate-in-discussions/index
+   like-share-bestreply/index
