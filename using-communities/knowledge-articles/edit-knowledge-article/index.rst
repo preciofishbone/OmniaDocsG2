@@ -1,9 +1,7 @@
 Edit a Knowledge article
 ==========================
 
-**(This documentation is just started. More will be added soon.)**
-
-A Community can be set up in sevaral ways but the most common is probably that any colleague can edit a published Knowledge article, if needed. 
+A Community can be set up in sevaral ways but in the default setup any colleague can edit a published Knowledge article. All colleagues have author permissions for the Knowledge pages in the tenant.
 
 This is how it's done:
 
@@ -14,4 +12,4 @@ This is how it's done:
 
 3. Do the changes and save.
 
-When editing you can do all that is available when creating Knowledge article, see: :doc:`Create Knowledge article </using-communities/knowledge-articles/create-article/index>`
+When editing you can do all that is available when creating a Knowledge article, see: :doc:`Create Knowledge article </using-communities/knowledge-articles/create-article/index>`
