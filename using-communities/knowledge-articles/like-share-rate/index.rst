@@ -1,7 +1,9 @@
 Like, share and rate Knowledge articles
 ==========================================
 
-To show you appreciation for a Knowledge article you can like it and you can like comments as well. You can also share a Knowledge article with other colleagues.
+A community can be set up in several ways but in the defaul setup Like, Share and Rating are available. 
+
+To show you appreciation for a Knowledge article you can like it and you can like comments as well. You can also share a Knowledge article with other colleagues. 
 
 Like a Knowledge article or a comment
 ****************************************
@@ -29,11 +31,10 @@ Like now changes to unlike. You can like and unlike a Knowledge article or a com
 
 Share a Knowledge article
 ****************************
-To share an article with one or more colleagues, do the following:
+To share an article with a colleague, do the following:
 
 1. Click "Share".
-
-(More info will be added soon.)
+2. Add the e-mail address to the colleague and click "Send".
 
 Rate a Knowledge article
 **************************
