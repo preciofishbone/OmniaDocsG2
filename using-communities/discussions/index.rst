@@ -1,4 +1,4 @@
-Participate in discussions
+Discussions
 =============================
 
 Discussions can be set up other ways but in the default setup, any colleague can start a discussion and any colleague can participate in any discussion.
