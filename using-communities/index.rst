@@ -1,7 +1,7 @@
 Using Communities
 ===================
 
-In this part of the documentation you will information on how to use Communities, both for editors options and from an end user's point of view.
+In this part of the documentation you will find information on how to use Communities, both for editors options and from an end user's point of view.
 
 A community can be set up in different ways. Here's an example of a community start page:
 
