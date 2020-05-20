@@ -1,7 +1,7 @@
 Create a Knowledge article
 ============================
 
-**(This documentation is just started. More will be added soon.)**
+Communities can be set up in several ways but in the default setup, all users of the tenant can create and edit Knowledge articles, the same pernmissions apply as for authors of publishing pages.
 
 To create a knowledge article in a community, do the following:
 
@@ -19,7 +19,7 @@ As the knowledge article actually is a page, an Url is automatically created.
 
 .. image:: create-article-3.png
 
-When you create a new tag, it becomes available for tagging in all communities.
+When you create a new tag, it becomes available for tagging in all communities in the tenant.
 
 4. Click "CREATE".
 
@@ -37,7 +37,7 @@ What you actually can add depends on the template. Here's a common one:
 
 The Media Picker starts and you use it this way: :doc:`The Media Picker </general-assets/media-picker/index>`
 
-You never have to add media if you don't want to, and the same goes for other areas in the template - if you don't add media or text in an area, the area is not shown for readers.
+You never have to add media if you don't want to, and the same goes for other blocks in the template - if you don't add media or text in a block, the block is not shown for readers.
 
 7. You can edit the heading if it should not be the same as the page name.
 
@@ -51,7 +51,7 @@ Just click in the field to edit.
 
 Note that a number of options for formatting are available (which can differ from what is shown in the image above). It can also be possible to add links to the text (the link icon) or even to add images or videos to the text (the image icon).
 
-9. At the bottom of the page you can decide if you allow likes and comments, which you normally should do (meaning no changes are needed).
+9. At the bottom of the page you can decide if you allow likes and comments for the page, which you normally should do (meaning no changes are needed).
 
 .. image:: create-article-9.png
 
@@ -91,9 +91,9 @@ Here's an example with a preview for mobile phone:
 
 .. image:: create-article-16.png
 
-This is a simple walk through on how to create a knowledge article. Knowledge articles are omnia pages and therfore works the same way as other Omnia pages.
+This is a simple walk through on how to create a knowledge article. Knowledge articles are omnia pages and therefore have the same author options as for other pages.
 
-Concerning all options for publishing, see: :doc:`Publish page changes </pages/publish-page-changes/index>`
+Concerning all options for publishing (pr example information on how to schedule publishing, if that is available), see: :doc:`Publish page changes </pages/publish-page-changes/index>`
 
 
 
