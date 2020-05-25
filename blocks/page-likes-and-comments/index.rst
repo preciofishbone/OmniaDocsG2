@@ -1,7 +1,7 @@
 Page Likes and Comments
 ===========================================
 
-The block makes it possible for the end user to like and comment a specific web page, including news and community pages (knowledge articles and discussion) It is also possible to reply to comments and it can be possible to use mentions. Besides that, users can Share the page with others by e-mail.
+The block makes it possible for the end user to like and comment a specific web page, including news and community pages (knowledge articles and discussions) It is also possible to reply to comments and it can be possible to use mentions. Besides that, users can share the page with others by e-mail.
 
 .. image:: comments-and-likes.png
 
@@ -13,7 +13,7 @@ When a comment is deleted it works this way: If there are no answers to the comm
 
 Turning the options on or off
 -------------------------------
-When the block is added to a page (or to the Page Type), Authors can turn on or off likes and/or comments using Write mode.
+When the block is added to a page (or to the Page Type), authors can turn on or off likes and/or comments using Write mode.
 
 .. image:: page-likes-author.png
 
@@ -27,7 +27,7 @@ The following settings are available for the block:
 
 + **Title**: If a title should be shown for the block, add it in this field. If variations exists for the page, it looks like in the image above. Titles in other languages are set in the variations. If there is  no variations you can set the title in any or all the languages active in the tenant. 
 + **Enable Rich Text**: If you enable Rich Text, some basic formatting will be availble for users.          
-+ **Enable mention**: If it should be possible to use mentions in comments on this pahe or in this Page Type, select this option. Here's an example of a mention:
++ **Enable mention**: If it should be possible to use mentions in comments on this page or in this page type, select this option. Here's an example of a mention:
 
 .. image:: comment-mention.png
 
