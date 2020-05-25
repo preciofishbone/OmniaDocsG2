@@ -1,4 +1,4 @@
-Release 4.0.*
+Release 4.0.x
 ========================================
 *NOTE: Items might be added, altered or removed.*
 
