@@ -1,7 +1,7 @@
-The Rating block
+Rating
 ==================
 
-To use the Rating block is probably most interesting on community pages, such as Knowledge articles, but can be use on any type of content page or in any Page Type.
+The Rating block maybe makes the most sense on community pages, such as Knowledge articles, but can be used on any type of content page or in any Page Type.
 
 The block has two main uses, which can be in the same block or separately:
 
@@ -9,7 +9,7 @@ The block has two main uses, which can be in the same block or separately:
 
 .. image:: rating-block-example.png
 
-A user uses the stars to rate the page. It can be done in half steps or whole steps. In the image above, the rating is 4. A user can only rate a page once, but can change his or her rating anytime.
+A user uses the stars to rate the page. It can be done in half steps or whole steps. A user can only rate a page once, but can change his or her rating anytime.
 
 2. To display average rating. Here's an example of that:
 
