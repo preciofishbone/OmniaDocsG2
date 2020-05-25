@@ -27,7 +27,7 @@ Blocks
    people-rollup/index
    process-blocks/index
    quick-links/index
-   rate/index
+   rating/index
    related-links/index
    rss-reader/index
    search/index
