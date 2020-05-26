@@ -22,11 +22,11 @@ When you have selected "Publishing Apps" or "Page Collections" as Scope, use the
 
 .. image:: page-rollup-query-list.png
 
-For every Publishing App or Page Collection you can filter (meaning displaying just some of the pages) by expanding and selecting "Add filter".
+For every Publishing App or Page Collection you have selected, you can filter (meaning displaying just some of the pages) by expanding and selecting "Add filter".
 
 .. image:: page-rollup-query-addfilter.png
 
-Here's an example of a filter that will display pages that have been updated (Modified) tha last month:
+Here's an example of a filter that will display pages that have been updated (Modified) the last month:
 
 .. image:: page-rollup-query-filter-example.png
 
@@ -42,36 +42,43 @@ Select View here. Note that a preview is shown in the block.
 
 .. image:: page-rollup-settings-display-border.png
 
-The following lists all available display settings, with a note stating when a certain setting is available.
+The following lists all available display settings (shown in different order for different displays).  
 
-+ **Title (list)**: Select the property that contains the title for the item to display. Available for "Single Item" only.
-+ **Description**: Select the property that contains the description for the item(s) to display. Available for "Single Item" only.
-+ **Image**: Select the property that contains the image for the item(s) to display.
-+ **Date**: Select the property that contains the date for the item(s) to display.
-+ **Overlay**: If an overlay text should be shown on the image(s), add the text here. Available for "Roller" only.
-+ **Show Likes/Comments**: If the number of likes and comments should be displayed for the item, select this option. 
-+ **Show Rating**: If the rating for the page(s) displayed should be shown, select this option. Available for "Listing With Image" only.
-+ **Article Date**: Select the property that contains the article date for the item(s) to display. Available for "Single Item" only.
-+ **Image x and y**: Select the image format here. Available for "Single Item" only.
-+ **Open page as a dialog**: If the page should be opened in a dialog instead for in a page (new or current), select this option. 
-+ **Summary**: Select the property that contains the page summary for the item to display. 
+
+
++ **Autoplay**: If the roller should roll automatically, select this option. Available for "Dynamic Roller" only.
 + **Content**: Select the property that contains the page content for the item to display. Available for dialog display only.
 + **Content Image**: Select image to display, if any. Available for dialog display only.
-+ **Title (field)**: If a title should be shown for the block, add it in this field. If no variation exists for the page, you can set the title in the languages active in the tenant. If variations exists, only one title can be set. In that case, titles in other languages are set in the variations.
-+ **No result text**: Enter the text that will be shown if no page can be displayed.
-+ **Hide block when not data**: Select this option if the block should be hidden when there's nothing to display.
-+ **Trim duplicates**: If more than one Page Rollup block is added to a page, this option can be used to handle duplicates between the blocks. When the option is selected, you can enter a number indicating the priority for duplicates, for this block. If you set "1" for a block it means this block has priority showing a post that would have been a duplicate.
-+ **Paging**: Select paging here; "No paging", "Classic" or "Scroll".
-+ **Item limit**: To limit the number of items being displayed, add a fixed number here. Note that if combined with "No paging", the number of items you enter here are the only items users can access from the list.
-+ **Sort by**: Choose what the list should be sorted by, and then select ascending or descending.
-+ **Show create button**: To make it possible for editors to create a new page from here, select this option to add a button to the block heading, and type the name for the button. 
 + **Create button for page collection**: When you have selected "Show create button", this optipon is shown. Use it to select in which page collection the new page will be created.
-+ **Show link**: You can add a link button at the bottom of the list. The first page collection is default, but you can link to any target.
++ **Date**: Select the property that contains the date for the item(s) to display.
++ **Hide block when not data**: Select this option if the block should be hidden when there's nothing to display.
++ **Hide Read News**: If this list displays news, select this option to hide all news pages the logged in user has read.
++ **Image**: Select the property that contains the image for the item(s) to display.
++ **Image x and y**: Select the image format here. Available for "Single Item" only.
++ **Item limit**: To limit the number of items being displayed, add a fixed number here. Note that if combined with "No paging", the number of items you enter here are the only items users can access from the list.
 + **Link label**: Add the text to be shown for the link here. Available only if "Show link" is selected.
 + **Link url**: Add the url to open when a user clicks the link. Available only if "Show link" is selected.
++ **Loop**: Available for "Dynamic Roller" only. (A description will be added soon.)
++ **No result text**: Enter the text that will be shown if no page can be displayed.
++ **Number of slides to display**: Select number of slides, 1-12. Available for "Dynamic Roller" only.
 + **Open link in new tab**: If the link should be opened in a new tab (as opposed to in current window or dialog), select this option. Available only if "Show link" is selected.
-+ **Hide Read News**: If this list displays news, select this option to hide all news pages the logged in user has read.
-+ **Padding**: Add some padding between the list and the block border, if needed.
++ **Open page as a dialog**: If the page should be opened in a dialog instead for in a page (new or current), select this option. 
++ **Overlay**: If an overlay text should be shown on the image(s), add the text here. Available for "Roller" only.
++ **Paging**: Select paging here; "No paging", "Classic" or "Scroll".
++ **Show create button**: To make it possible for editors to create a new page from here, select this option to add a button to the block heading, and type the name for the button. 
++ **Show Likes/Comments**: If the number of likes and comments should be displayed for the item, select this option. 
++ **Show link**: You can add a link button at the bottom of the list. The first page collection is default, but you can link to any target.
++ **Show Navigation**: If navigation icons for the users to use for rolling should be shown, select this option. Available for "Dynamic Roller" only.
++ **Show Paging**: Available for "Dynamic Roller" only. (A description will be added soon.)
++ **Show Rating**: If the rating for the page(s) displayed should be shown, select this option. Available for "Listing With Image" only.
++ **Slider Type**: Select Horisontal slider or Vertical slider. Available for "Dynamic Roller" only.
++ **Slider Size**: Select the size of the slider here: Small, Medium, Large or Extra large. Available for "Dynamic Roller" only.
++ **Sort by**: Choose what the list should be sorted by, and then select ascending or descending.
++ **Summary**: Select the property that contains the page summary for the item to display. 
++ **Title**: If a title should be shown for the block, add it in this field. If no variation exists for the page, you can set the title in the languages active in the tenant. If variations exists, only one title can be set. In that case, titles in other languages are set in the variations.
+++ **Trim duplicates**: If more than one Page Rollup block is added to a page, this option can be used to handle duplicates between the blocks. When the option is selected, you can enter a number indicating the priority for duplicates, for this block. If you set "1" for a block it means this block has priority showing a post that would have been a duplicate.
+
+ **Padding**: Add some padding between the list and the block border, if needed.
 
 **Note!** For "List View" you also have to add at least one column, for the display to work. Here's an example with two columns added:
 
@@ -115,9 +122,9 @@ Using Page Variations you can select the following:
 
 .. image:: page-rollup-variations.png
 
-+ **User Variation**: Pages (incl News) will be listed that correspond with the logged in users preferred setting for the variation, for example language setting, in the user's profile. If some pages does not have a variation that correspond with the user's setting, the default variation will be listed.
-+ **Default Variation**: The default variations are always listed.
-+ **All Variations**: All variations are listed, meaning several copies of a page can be shown in the list, if the page has variations.
++ **User Variation**: Pages (including News) will be listed that correspond with the logged in users preferred setting for the variation, for example language setting, in the user's profile. If some pages does not have a variation that correspond with the user's setting, the default variation will be used.
++ **Default Variation**: The default variations are always used.
++ **All Variations**: All variations are used, meaning several copies of a page can be shown in the list, if the page has variations.
 
 You can find more information about variations under the heading "Variations" on this page: :doc:`Publishing App Settings </pages/page-settings/index>`
 
@@ -188,7 +195,7 @@ and these:
 + Page Variations: Default Variations.
 
 Most Commented News
--------------
+----------------------
 The purpose of this Page Rollup is as it says - to display a number of the most commented News.
 
 It can look like this for users:
@@ -212,7 +219,7 @@ and these:
 + Page Variations: User variation.
 
 Most Liked News
--------------
+-----------------
 The purpose of this Page Rollup is as it says - to display a number of the most liked News.
 
 It can look like this for users:
@@ -231,6 +238,32 @@ For this purpose the Page Rollup block can be set up like this:
 and these:
 
 .. image:: most-liked-example-2.png
+
++ Filters: none.
++ Page Variations: User variation.
+
+News - Dynamic Roller
+------------------------
+When a Dynamic Roller display is used for news, it can look lik this:
+
+.. image:: dynamic-roller-example.png
+
+For this purpose the Page Rollup block can be set up this way:
+
++ Query: Scope - Page Collections, News.
++ If this block is placed in the Page Type for News, "Exclude current page" can be a good idea to have selected. 
++ Social Period - Like: If you don't want old likes to affect the list, select a social period.
++ Display: Depends on how you want it to look. In the above example, these settings are used:
+
+.. image:: dynamic-roller-example-1.png
+
+and these:
+
+.. image:: dynamic-roller-example-2.png
+
+and, at last, these:
+
+.. image:: dynamic-roller-example-3.png
 
 + Filters: none.
 + Page Variations: User variation.
