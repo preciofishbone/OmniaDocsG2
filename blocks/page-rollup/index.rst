@@ -44,8 +44,6 @@ Select View here. Note that a preview is shown in the block.
 
 The following lists all available display settings (shown in different order for different displays).  
 
-
-
 + **Autoplay**: If the roller should roll automatically, select this option. Available for "Dynamic Roller" only.
 + **Content**: Select the property that contains the page content for the item to display. Available for dialog display only.
 + **Content Image**: Select image to display, if any. Available for dialog display only.
@@ -248,7 +246,7 @@ When a Dynamic Roller display is used for news, it can look lik this:
 
 .. image:: dynamic-roller-example.png
 
-For this purpose the Page Rollup block can be set up this way:
+In this example the Page Rollup block is set up this way:
 
 + Query: Scope - Page Collections, News.
 + If this block is placed in the Page Type for News, "Exclude current page" can be a good idea to have selected. 
@@ -261,7 +259,7 @@ and these:
 
 .. image:: dynamic-roller-example-2.png
 
-and, at last, these:
+and, finally, these:
 
 .. image:: dynamic-roller-example-3.png
 
