@@ -56,7 +56,7 @@ To create a new page type when you're editing a page, do the following:
 
 4. Select a base layout.
 
-.. image:: page-types-base-layout.png
+.. image:: page-types-base-layout2.png
 
 See the images on the icons for the layouts, for a simple preview of the layout.
 
@@ -66,7 +66,11 @@ See the images on the icons for the layouts, for a simple preview of the layout.
 
 General
 ----------
-Under General, the following can be set:
+What you can set under General depends on if you select a section with columns or a section with tabs. 
+
+General settings for a section with columns
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+For a section with columns, the following can be set:
 
 .. image:: page-types-general-new.png
 
@@ -81,7 +85,31 @@ To remove a column, click the dust bin. By clicking the pen, the following can b
 + **Chrome**: Set boxed or not for the column.
 + **Color**: The background color for the column can be set here.
 + **Elevation**: If the column should stand out from the page, use the slider to set how much.
-+ **Custom CSS**: You can use custom CSS for formatting the column.
++ **Custom CSS**: You can use custom CSS for formatting the column.^
+
+General settings for a section with tabs
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+For a section with tabs, the following can be set:
+
+.. image:: page-types-general-tabs.png
+
++ **Width Type**: Set dynamic width ("Full Page") or a fixed width in pixels. When you have selected Fixed, a slider is shown where you can set the width available for the tabs.
++ **Tabs**: Here you acn edit the settings for each tab, by clicking the pen (se information about these settings below.)
++ **Add tab**: Ta add a new tab, click here. A new row for the tab is added and you edit the settings as described below. To remove a tab, click the dust bin. 
++ **Tab Type**: You can choose to just have a "normaö" tab an accordion tab. The difference is that a "normal" tab displays it's content all the time, an accordion tab displays it's content when it's clicked.
++ **Show Active Slider**: Available for "normal" tabs. (More information about this will be added soon.)
++ **Tab Alignment"**: Available for "normal" tabs. (More information about this will be added soon.)
+
+By clicking the pen, the following can be set for a tab:
+
+.. image:: page-types-tabs-pen.png
+
++ **Label**: If a label should be shown for the tab, add the label here.
++ **Tooltip**: If a tooltip should be shwon for the tab, add it here.
++ **Icon**: First select the "Icon Type" and then select the icon in the list below. 
++ **Color**: The background color for the tab can be set here.
++ **Elevation**: If the tab should stand out from the page, use the slider to set how much.
++ **Custom CSS**: You can use custom CSS for formatting the tab.
 
 Spacing
 --------
@@ -95,12 +123,29 @@ Here you can set the following:
 
 Style
 ------
-This can be set for Style, for the active section:
+Available settings for Style depends on if it's a section with columns or a section with tabs.
 
-.. image:: page-types-style.png
+Style settings for columns
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+If it's a section with columns, this can be set for Style, for the active section:
+
+.. image:: page-types-style2.png
 
 + **Minimum Height**: You can make sure that this section always has a minimun height, regardless of what is shown in the section. Set the height in pixels here.
 + **Background color**: A default background color for sections are set in Omnia Admin. You can set another background color for this section here, if needed.
++ **Background image**: Another option is to use an image as background in this section. When you click "Add Image", the Media Picker starts, see this page for more information: :doc:`Media Picker </general-assets/media-picker/index>`
++ **Elevation**: With this setting you can make the content of the section “stand out” from the page. ^
+
+Style settings for tabs
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+If it's a section with tabs, this can be set for Style, for the active section:
+
+.. image:: page-types-style-tabs.png
+
++ **Minimum Height**: You can make sure that this section always has a minimun height, regardless of what is shown in the section. Set the height in pixels here.
++ **Background Color Tabs**: A default background color for sections are set in Omnia Admin. You can set another background color for the tabs in this section here, if needed.
++ **Text Color Tabs**: You can set text color for the tabs here.
++ **Background color**: A default background color for sections are set in Omnia Admin. You can set another background color for this section here (that is the whole section, not just the tab), if needed.
 + **Background image**: Another option is to use an image as background in this section. When you click "Add Image", the Media Picker starts, see this page for more information: :doc:`Media Picker </general-assets/media-picker/index>`
 + **Elevation**: With this setting you can make the content of the section “stand out” from the page. 
 
@@ -118,7 +163,7 @@ The global settings are set in Omnia Admin, see the bottom at this page: :doc:`H
 
 When selecting custom settings, the following is available:
 
-.. image:: page-types-settings-header-custom-new.png
+.. image:: page-types-settings-header-custom-new2.png
 
 This is the same settings as for the global settings, see the link above.
 
@@ -157,7 +202,7 @@ Advanced Settings
 ----------------------
 In the advanced settings you can use custom CSS styling for the section.
 
-.. image:: page-types-settings-advanced-new2.png
+.. image:: page-types-settings-advanced-new3.png
 
 Create a Section in a Column
 ******************************
