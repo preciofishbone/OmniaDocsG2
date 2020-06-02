@@ -91,9 +91,9 @@ Here's an example with a preview for mobile phone:
 
 .. image:: create-article-16.png
 
-This is a simple walk through on how to create a knowledge article. Knowledge articles are omnia pages and therefore have the same author options as for other pages.
+This is a simple walk through on how to create a knowledge article. Knowledge articles are Omnia pages and therefore have the same author options (Write mode) as for other pages.
 
-Concerning all options for publishing (pr example information on how to schedule publishing, if that is available), see: :doc:`Publish page changes </pages/publish-page-changes/index>`
+Concerning all options for publishing (for example information on how to schedule publishing, if that is available), see: :doc:`Publish page changes </pages/publish-page-changes/index>`
 
 
 
