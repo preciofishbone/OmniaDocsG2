@@ -1,7 +1,7 @@
 Create a Knowledge article
 ============================
 
-Communities can be set up in several ways but in the default setup, all users of the tenant can create and edit Knowledge articles, the same pernmissions apply as for authors of publishing pages.
+Communities can be set up in several ways but in the default setup, all users of the tenant can create and edit Knowledge articles, the same permissions apply as for authors of publishing pages, meaning all options in Write mode are available.
 
 To create a knowledge article in a community, do the following:
 
