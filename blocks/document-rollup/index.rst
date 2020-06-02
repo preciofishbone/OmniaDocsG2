@@ -67,7 +67,7 @@ For **Group By Site** these settings are available:
 
 Query
 ---------
-You can either choose to pick documents to be display in the block, or use the Query Builder.
+You can either choose to pick documents to be displayd in the block, or use the Query Builder.
 
 .. image:: document-rollup-query.png
 
