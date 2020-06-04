@@ -11,7 +11,7 @@ All knowledge articles created in this community are listed. The list can be sor
 
 .. image:: knowledge-sorting.png
 
-Top rated is when colleagues use the stars to rate an article, Popular counts the number of likes for each article.
+Top rated is when colleagues use the stars to rate an article. Each article has an average rating, and that is used for this list. Popular counts the number of likes for each article.
 
 Also note that the number of comments, likes and rating is shown for every article, here:
 
