@@ -56,7 +56,7 @@ The following lists all available display settings (shown in different order for
 + **Item limit**: To limit the number of items being displayed, add a fixed number here. Note that if combined with "No paging", the number of items you enter here are the only items users can access from the list.
 + **Link label**: Add the text to be shown for the link here. Available only if "Show link" is selected.
 + **Link url**: Add the url to open when a user clicks the link. Available only if "Show link" is selected.
-+ **Loop**: Available for "Dynamic Roller" only. (A description will be added soon.)
++ **Loop**: Available for "Roller" and "Dynamic Roller". Normally a roller stops when the last post is reached (and can restart after a short while). When this option is selected, there is no "end" and the roller just keeps rolling. Important note: When Loop is selected the arrows users can use to roll "manually" are not shown.
 + **No result text**: Enter the text that will be shown if no page can be displayed.
 + **Number of slides to display**: Select number of slides, 1-12. Available for "Dynamic Roller" only.
 + **Open link in new tab**: If the link should be opened in a new tab (as opposed to in current window or dialog), select this option. Available only if "Show link" is selected.
@@ -67,7 +67,7 @@ The following lists all available display settings (shown in different order for
 + **Show Likes/Comments**: If the number of likes and comments should be displayed for the item, select this option. 
 + **Show link**: You can add a link button at the bottom of the list. The first page collection is default, but you can link to any target.
 + **Show Navigation**: If navigation icons for the users to use for rolling should be shown, select this option. Available for "Dynamic Roller" only.
-+ **Show Paging**: Available for "Dynamic Roller" only. (A description will be added soon.)
++ **Show Paging**: Available for "Dynamic Roller" only. Small icons shown on exah post, users can use to page back and fort.
 + **Show Rating**: If the rating for the page(s) displayed should be shown, select this option. Available for "Listing With Image" only.
 + **Slider Type**: Select Horisontal slider or Vertical slider. Available for "Dynamic Roller" only.
 + **Slider Size**: Select the size of the slider here: Small, Medium, Large or Extra large. Available for "Dynamic Roller" only.
