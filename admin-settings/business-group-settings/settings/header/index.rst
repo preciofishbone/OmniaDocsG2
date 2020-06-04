@@ -14,7 +14,7 @@ Under General you can set the following:
 + **Background Color**: Set background color for the header here.
 + **Icon Color**: Set icon color here.
 + **Search Box on Header**: If a search box should be available in the header, select this option.
-+ **Default Search Box text to Query string (q) value**: Available when the option above is selected. (A description will be added soon.)
++ **Default Search Box text to Query string (q) value**: Available when the option above is selected. For advanced search implementations. (More info will be added soon.)
 
 Here's an example with black background color, white icon color and a search box:
 

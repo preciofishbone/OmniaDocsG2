@@ -14,7 +14,7 @@ The following settings are avilable:
 + **Title**: You can add a title for the block here. If variations exists, only one title can be set. In that case, titles in other languages are set in the variations. If no variation exists for the page, you can set the title in any or all languages active in the tenant. 
 + **Show Results in Dropdown**: If search results should be available in a dropdown list, select this option.
 + **Dropdown Max Height**: When the above option is selected you can set the maximum height in pixels for the dropdown.
-+ **Default Search Box text to Query string (q) value**: (A description will be added soon.)
++ **Default Search Box text to Query string (q) value**: For advanced search implementations. (More info will be added soon.)
 + **Trigger Search on Loaded**: If the above option is selected, select this option if a search should be executed when the page is loaded.
 + **Search mode**: Select search mode, Quick or Advanced.
 + **Padding**: You can add some padding if needed.
