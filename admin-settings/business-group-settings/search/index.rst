@@ -17,16 +17,14 @@ Search Categories
 -------------------
 To create a new Search Category, click the plus and use the following settings:
 
-.. image:: search-config-categories.png
+.. image:: search-config-categories-2.png
 
 + **Title**: Add a title for the Search Category.
 + **Search Result Source**: Select Source from the list.
 + **Search Query**: Add the Search Query here (see below for an example).
++ **Sort By**: Choose to sort by Relevance or Popularity.
 + **Search Templates**: Select one or more Search Templates from the list.
-
-Here's an example of a Search Category:
-
-.. image:: search-example-border.png
++ **Targeting filter**: A search category can be targeted to a specific group of people based on the targeting system in Omnia. This setting will be used both in Quick and Advanced search.
 
 The same settings are available when editing a Search Category.
 
@@ -40,7 +38,7 @@ In this example the selected Default search template is actually named that, but
 
 Quick Search
 ***************
-Quick Search is available in the Heading (can be turned off in settings):
+Quick Search is available in the Heading (can be turned off in settings) or through the Search block:
 
 .. image:: quick-search-start-page-new.png
 
@@ -51,9 +49,11 @@ For Quick Search, the following settings are available:
 + **Search Categories**: One or more Search Categories can be added (if more than one is available).
 + **Row Limit**: You can set Row Limit for each Search Category. Row Limit is the number of objects per Search Results "page".
 
+For more information about the Search block, see: :doc:`The Search block </blocks/search/index>`
+
 Advanced Search
 *****************
-When a search has been made in Quick Search, Advanced Search is available through by a link at the bottom, for example:
+When a search has been made in Quick Search, Advanced Search is available through by a link at the bottom. Advanced search can also be made available using the Search block.
 
 .. image:: advanced-search-in-quick-new.png
 
@@ -107,5 +107,5 @@ The user can now use the refiners to the left to for example just display docume
 
 .. image:: search-refiners-example-refined.png
 
-
+For more information on how to make Advanced search available through the Search block, see: :doc:`The Search block </blocks/search/index>`
 

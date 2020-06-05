@@ -3,15 +3,22 @@ Header settings for the Business Profile
 
 The following settings are avaible for the Header:
 
-.. image:: business-profile-settings-header-new2.png
+.. image:: business-profile-settings-header-new3.png
 
 General
 --------
-Under General you can set Background Color for the Header, and Icon Color. In this example, the Background Color is Black, and the Icon Color is White:
+Under General you can set the following:
 
-.. image:: heading-example.png
+.. image:: business-profile-settings-header-general.png
 
-The Icon Color setting apply to the icons to the right.
++ **Background Color**: Set background color for the header here.
++ **Icon Color**: Set icon color here.
++ **Search Box on Header**: If a search box should be available in the header, select this option.
++ **Default Search Box text to Query string (q) value**: Available when the option above is selected. For advanced search implementations. (More info will be added soon.)
+
+Here's an example with black background color, white icon color and a search box:
+
+.. image:: business-profile-settings-header-general-searchbox.png
 
 Logo
 ------
