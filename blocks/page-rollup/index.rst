@@ -67,7 +67,7 @@ The following lists all available display settings (shown in different order for
 + **Show Likes/Comments**: If the number of likes and comments should be displayed for the item, select this option. 
 + **Show link**: You can add a link button at the bottom of the list. The first page collection is default, but you can link to any target.
 + **Show Navigation**: If navigation icons for the users to use for rolling should be shown, select this option. Available for "Dynamic Roller" only.
-+ **Show Paging**: Available for "Dynamic Roller" only. Small icons shown on exah post, users can use to page back and fort.
++ **Show Paging**: Available for "Dynamic Roller" only. Small icons shown on exah post, users can use to page back and fort. See image below for an example.
 + **Show Rating**: If the rating for the page(s) displayed should be shown, select this option. Available for "Listing With Image" only.
 + **Slider Type**: Select Horisontal slider or Vertical slider. Available for "Dynamic Roller" only.
 + **Slider Size**: Select the size of the slider here: Small, Medium, Large or Extra large. Available for "Dynamic Roller" only.
@@ -87,6 +87,10 @@ This could show the following:
 .. image:: list-view-example.png
 
 "2 months ago" etc is the "Social" setting for date. If you would like to show exact dates instead, select "Normal".
+
+"Show paging" in settings for "Dynamic Roller" makes these icons available for navigation:
+
+.. image:: show-paging-dynamic.png
 
 Filter
 -------
