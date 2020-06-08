@@ -67,16 +67,16 @@ The following lists all available display settings (shown in different order for
 + **Show Likes/Comments**: If the number of likes and comments should be displayed for the item, select this option. 
 + **Show link**: You can add a link button at the bottom of the list. The first page collection is default, but you can link to any target.
 + **Show Navigation**: If navigation icons for the users to use for rolling should be shown, select this option. Available for "Dynamic Roller" only.
-+ **Show Paging**: Available for "Dynamic Roller" only. Small icons shown on exah post, users can use to page back and fort. See image below for an example.
++ **Show Paging**: Available for "Dynamic Roller" only. Small icons shown that users can use to page back and fort. See image below for an example.
 + **Show Rating**: If the rating for the page(s) displayed should be shown, select this option. Available for "Listing With Image" only.
 + **Slider Type**: Select Horisontal slider or Vertical slider. Available for "Dynamic Roller" only.
 + **Slider Size**: Select the size of the slider here: Small, Medium, Large or Extra large. Available for "Dynamic Roller" only.
 + **Sort by**: Choose what the list should be sorted by, and then select ascending or descending.
 + **Summary**: Select the property that contains the page summary for the item to display. 
 + **Title**: If a title should be shown for the block, add it in this field. If no variation exists for the page, you can set the title in the languages active in the tenant. If variations exists, only one title can be set. In that case, titles in other languages are set in the variations.
-++ **Trim duplicates**: If more than one Page Rollup block is added to a page, this option can be used to handle duplicates between the blocks. When the option is selected, you can enter a number indicating the priority for duplicates, for this block. If you set "1" for a block it means this block has priority showing a post that would have been a duplicate.
++ **Trim duplicates**: If more than one Page Rollup block is added to a page, this option can be used to handle duplicates between the blocks. When the option is selected, you can enter a number indicating the priority for duplicates, for this block. If you set "1" for a block it means this block has priority showing a post that would have been a duplicate.
 
- **Padding**: Add some padding between the list and the block border, if needed.
++ **Padding**: Add some padding between the list and the block border, if needed.
 
 **Note!** For "List View" you also have to add at least one column, for the display to work. Here's an example with two columns added:
 
