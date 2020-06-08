@@ -36,7 +36,7 @@ The first step is the same for all template types. Do the following:
 + **Show in Create New Wizard**: Select this option if the Template should be available in the user Wizard for creating new sites. Even if the template is not shown in the Create New Wizard, it's always available in "Communities" for Community templates, or in "Teamwork" for other templates, for administrators to use.
 + **Site Creation Mode**: Here you select if Approval is required when users create sites from this Template. 
 
-**Very important!** At the moment creating a community requires some hands on by an administrator. We therefore recommend that administrators create all communities for now. See to that "Show in Create New Wizard" is NOT selected. In this case, setting "Site Creation Mode" to "Self Service" for Community templates can be a good idea as it will make creation of communities straight forward.
+**Very important!** At the moment creating a community requires some hands on by an administrator. We therefore recommend that administrators create all communities for now - using the "Community" option in Omnia Admin. See to that "Show in Create New Wizard" is NOT selected. In this case, setting "Site Creation Mode" to "Self Service" for Community templates can be a good idea as it will make creation of communities straight forward.
 
 3. Click "Next".
 
@@ -113,7 +113,7 @@ As the next step you can set this:
 + **Archived Documents**: Select this option if the feature "Archived Documents" should be activated automatically when a site is created from this template. Applicable for a Sharepoint Teamsites and Office 365 sites only
 + **Project Site**: Select this option if the feature "Project Site" should be activated automatically when a site is created from this template. Applicable for specialized set ups only.
 + **Default Page Collections and Page Types**: For Publishing templates; Select this option if the corresponding feature should be activated automatically when a site is created from this template. The default Page Collections and Page Types can be edited to suit your needs.
-+ **Show Business Profile Header**: For Publishing templates; if the header set up in the Business Profile should be used, select this option. Applicable for Publishing App templates only.
++ **Show Business Profile Header**: For Publishing templates; if the header set up in the Business Profile should be used, select this option. Applicable for Publishing App templates only. When the Business Profile Header is shown on a team site, the height is pre-allocated until the whole page is loaded.
 
 **Very important**: Make sure you select only the features that are applicable for the type of template you create, if any. Selecting the wrong feature here can cause problems when a site is created from the template. No feature shown here are applicable for Community site templates.
 
