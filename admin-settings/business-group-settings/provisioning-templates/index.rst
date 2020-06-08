@@ -33,7 +33,7 @@ The first step is the same for all template types. Do the following:
 + **Description**: Add a Description if needed. You can add titles in a number of the languages available in the tenant. Default language is mandatory.
 + **Icon Type**: An icon is always shown for a Template. If you would like another icon for this Template, select the set of Icons here: "Font Awesome", "Fabric" or "Custom". When selecting "Custom" you can choose any image as the Icon.
 + **Icon**: When you have select Icon Type, use this list to select the icon. If you select "Custom", this list is not shown. Instead a "Url" field is shown, where you enter the Url for the image.
-+ **Show in Create New Wizard**: Select this option if the Template should be available in the user Wizard for creating new sites.
++ **Show in Create New Wizard**: Select this option if the Template should be available in the user Wizard for creating new sites. Even if the template is not shown in the Create New Wizard, it's always available in "Communities" for Community templates, or in "Teamwork" for other templates, for administrators to use.
 + **Site Creation Mode**: Here you select if Approval is required when users create sites from this Template. 
 
 **Very important!** At the moment creating a community requires some hands on by an administrator. We therefore recommend that administrators create all communities for now. See to that "Show in Create New Wizard" is NOT selected. In this case, setting "Site Creation Mode" to "Self Service" for Community templates can be a good idea as it will make creation of communities straight forward.
