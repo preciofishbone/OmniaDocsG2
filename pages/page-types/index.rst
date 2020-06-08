@@ -94,11 +94,11 @@ For a section with tabs, the following can be set:
 .. image:: page-types-general-tabs.png
 
 + **Width Type**: Set dynamic width ("Full Page") or a fixed width in pixels. When you have selected Fixed, a slider is shown where you can set the width available for the tabs.
-+ **Tabs**: Here you acn edit the settings for each tab, by clicking the pen (se information about these settings below.)
-+ **Add tab**: Ta add a new tab, click here. A new row for the tab is added and you edit the settings as described below. To remove a tab, click the dust bin. 
-+ **Tab Type**: You can choose to just have a "normaö" tab an accordion tab. The difference is that a "normal" tab displays it's content all the time, an accordion tab displays it's content when it's clicked.
++ **Tabs**: Here you can edit the settings for each tab, by clicking the pen. See information about these settings below.
++ **Add tab**: Ta add a new tab, click here. You edit the settings as described below. To remove a tab, click the dust bin. 
++ **Tab Type**: You can choose to just have a "normal" tab an accordion tab. The difference is that a "normal" tab displays it's content all the time, an accordion tab displays it's content when it's clicked.
 + **Show Active Slider**: Available for "normal" tabs. Indicates which tab is active.
-+ **Tab Alignment"**: Available for "normal" tabs. The tabs selected are aligned within where the tabs are placed.
++ **Tab Alignment"**: Available for "normal" tabs. The tabs are aligned within where the tabs are placed.
 
 By clicking the pen, the following can be set for a tab:
 
@@ -106,7 +106,7 @@ By clicking the pen, the following can be set for a tab:
 
 + **Label**: If a label should be shown for the tab, add the label here.
 + **Tooltip**: If a tooltip should be shwon for the tab, add it here.
-+ **Icon**: First select the "Icon Type" and then select the icon in the list below, if an icon should be shown. (If no icon should be shown, just don't select an icon).)
++ **Icon**: First select the "Icon Type" and then select the icon in the list below, if an icon should be shown. (If no icon should be shown, just don't select an icon, it doesn't matter that an Icon Type is selected.)
 + **Color**: The background color for the tab can be set here.
 + **Elevation**: If the tab should stand out from the page, use the slider to set how much.
 + **Custom CSS**: You can use custom CSS for formatting the tab.
