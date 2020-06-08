@@ -3,11 +3,17 @@ Features - Business Profile
 
 All available Features for the Business Profile is listed here and can be activated, deactivated and updated. Here's an example:
 
-.. image:: features-business-profile-new2.png
+.. image:: features-business-profile-new3.png
 
 Provisioning Templates
 ************************
 The purpose of these features is to provide a number of Provisioning Templates for an easy starting point. You can then edit the templates for your organization's needs, and of course add additional templates. Add the templates you would like to have in your Business Profile, by clicking "ACTIVATE".
+
+Providers
+**********
+Here you handle image and video providers - activating, upgrading, removing.
+
+**Note!** Pexel Search Provider - providing high quality photos - can not be used with Internet Explorer 11.
 
 Configuration
 **************
