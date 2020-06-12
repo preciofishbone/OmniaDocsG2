@@ -4,15 +4,31 @@ Draft Release 5.0.x
 
 New SharePoint file structure
 -----------------------------------------
+- 
 
 
-
-New features
+New Page lifecycle
 ----------------------------------------
 
-Dynamic News Roller
-************************************************
 
+Newsletter
+----------------------------------------
+
+
+MS Teams Apps and Deep links
+----------------------------------------
+
+
+Design updates
+----------------------------------------
+
+
+Rich text editor improvments
+----------------------------------------
+
+
+Dashboards and KPIs
+----------------------------------------
 
 
 
@@ -41,6 +57,9 @@ Tenant Administration
 Workplace
 ***********************
 
+Process Management
+***********************
+- Processes can now be shown in a teamsite.
 
 Fixes 
 ***********************
