@@ -1,7 +1,7 @@
 Action Button
 =====================
 
-Use this block to add clickable buttons (this option was formerly called Button Link). Use it to add one or more buttons on a page for clickable links, for Create Page buttons, to show My subscriptions or to subscribe/unsubscribe. You can add one more buttons in each Action Button block.
+Use it to add one or more buttons on a page for clickable links, for Create Page buttons, to show My subscriptions or to subscribe/unsubscribe. You can add one more buttons in each Action Button block. (This option was formerly called Button Link). 
 
 Settings
 ***********
@@ -29,15 +29,17 @@ To add a Button Link in this block, do the following:
 
 .. image:: button-link-settings.png
 
+(All options are not shown in the image above, but listed below).
+
 The General tab
 -------------------
 The following settings are available in this tab:
 
-+ **Type**: Select type if button here; Link, Create Page, My Subscriptions or Subscribe.
++ **Type**: Select type of button here; Link, Create Page, My Subscriptions or Subscribe.
 + **Text**: If there should be some text on the button, add it here.
 + **Tool tip**: Add the tool tip text for the button here.
 + **Unsubscribe Text**: A "Subscribe" button changes the text automatically when a user has clicked the button. Unsubscribe is suggested but you can change the text to something else.
-+ **Subscription Scope**: Available for Type Subscription. Select the scope here, meening what the user actually subscribes to; Page, Publishing App (=all pages in) or Page Collection (=all pages in).
++ **Subscription Scope**: Available for Type Subscription. Select the scope here, meening what the user actually subscribes to; the Page, Publishing App (=all pages in) or Page Collection (=all pages in).
 + **Url**: Type or paste the Url to go to when a user clicks the link. Available for Link type.
 + **Target**: Choose if the link should be opened in a new window, the current window, or in a dialog. Available for Link type.
 + **Dialog Position**: If you selected "Dialog" for Target, you can select where to place the dialog: Center, Full screen, Left or Right.
@@ -46,6 +48,8 @@ The following settings are available in this tab:
 The Style tab
 ---------------
 The following settings are available in this tab:
+
+.. image:: action-button-style.png
 
 + **Button Style**: You can select "Depressed", "Flat" or "Raised" as the style. Note that a flat button doesn't have any background color, so the text should normally be black for a flat button.
 + **Size**: The size of the button can be small, medium or large.
