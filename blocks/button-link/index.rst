@@ -1,17 +1,15 @@
 Action Button
 =====================
 
-Use this block to add clickable buttons anywhere on a page (this option was formerly called Button Link).
+Use this block to add clickable buttons (this option was formerly called Button Link). Use it to add one or more buttons on a page for clickable links, for Create Page buttons, to show My subscriptions or to subscribe/unsubscribe. You can add one more buttons in each Action Button block.
 
 Settings
 ***********
-The following settings can be used:
+Any existing buttons in this block are listed at the top. If no previous button exists, a "New Button" is added automatically. 
 
-.. image:: button-link-settings-new2.png
+.. image:: button-links-new2.png
 
-Any existing Button Links in this block are listed at the top. If no previous button exists, a "New Button" is added automatically. 
-
-To edit a button, click the pen (if just the first, automatic button is present, you don't have to do that, then the settings are aleays shown). To delete a button, click the dustbin.
+To edit a button, click the pen (if just the first, automatic button is present, you don't have to do that, then the settings are shown automatically). To delete a button, click the dustbin. When editing a button, the same settings as when you create a new button is available, see below.
 
 .. image:: button-link-settings-edit-delete-new2.png
 
@@ -29,7 +27,7 @@ To add a Button Link in this block, do the following:
 
 2. Click the pen for the new button and use the following settings:
 
-.. image:: button-link-new2.png
+.. image:: button-link-settings.png
 
 The General tab
 -------------------
