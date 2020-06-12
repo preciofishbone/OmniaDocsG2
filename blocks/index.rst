@@ -6,10 +6,10 @@ Blocks
 
    
    accordion/index
+   button-link/index
    announcements/index
    banner/index
    breadcrumb/index
-   button-link/index
    calendar-rollup/index
    current-navigation/index
    document-rollup/index
