@@ -14,7 +14,7 @@ Omnia
 - Targeting is now possible on custom Azure AD properties.
 - Several WCAG improvements.
 - Open term sets are now supported. (#117764, #118724, #119930)
-- Several improvments to the mobile experience on IOS.
+- Several improvements to the mobile experience on IOS.
 
 
 Web Content Management
@@ -43,8 +43,8 @@ Workplace
 ***********************
 - The high priority Announcement view now works in a block. 
 - Its now possible to configure default sort order for search categories (#118857).
-- Sort direction is now configurable. A search category can be sorted on Relevance, Popularity or an sortable enterprise property.
-- Improved error messages when trying to follow a Group you dont have access to. (#120336)
+- Sort direction is now configurable. A search category can be sorted on Relevance, Popularity or a sortable enterprise property.
+- Improved error messages when trying to follow a Group you don’t have access to. (#120336)
 
 Communities
 ***********************
@@ -88,10 +88,11 @@ Fixes
 - Colors now apply correctly to important announcements in a multi business profile scenario (#119616).
 - Fixed a bug that cause the preview in search to not work on some tenants (#117849, #120303).
 - Tag display is now WCAG compliant.
-- Fixed an issue with the tooltip on the Temwork rollup (#120336).
+- Fixed an issue with the tooltip on the Teamwork rollup (#120336).
 - Preview of process on search now works as expected.
 - Fixed an issue with the Action button that would cause the wrong icon to display.
 - Fixed an issue that caused the filters on the page rollup to not render correctly (#120067)
+
 
 
 
