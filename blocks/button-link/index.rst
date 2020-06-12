@@ -1,17 +1,19 @@
-Button Link
+Action Button
 =====================
 
-Use this block to add clickable buttons anywhere on a page.
+Use this block to add clickable buttons anywhere on a page (this option was formerly called Button Link).
 
 Settings
 ***********
 The following settings can be used:
 
-.. image:: button-link-settings-new.png
+.. image:: button-link-settings-new2.png
 
-Any existing Button Links in this block are listed at the top. To edit a button, click the pen. To delete a button, click the dustbin.
+Any existing Button Links in this block are listed at the top. If no previous button exists, a "New Button" is added automatically. 
 
-.. image:: button-link-settings-edit-delete-new.png
+To edit a button, click the pen (if just the first, automatic button is present, you don't have to do that, then the settings are aleays shown). To delete a button, click the dustbin.
+
+.. image:: button-link-settings-edit-delete-new2.png
 
 Note that you can see a preview of the button/buttons in the block as you're working on it (but the buttons are not saved and shown for others until you publish the page).
 
@@ -23,20 +25,30 @@ To add a Button Link in this block, do the following:
 
 1. Click "+ ADD BUTTON".
 
-.. image:: button-link-settings-add-button-new.png
+.. image:: button-link-settings-add-button-new2.png
 
-2. Use the following settings:
+2. Click the pen for the new button and use the following settings:
 
-.. image:: button-link-new.png
+.. image:: button-link-new2.png
 
-(All options are not shown in the image.)
+The General tab
+-------------------
+The following settings are available in this tab:
 
-+ **Url**: Type or paste the Url to go to when a user clicks the link.
++ **Type**: Select type if button here; Link, Create Page, My Subscriptions or Subscribe.
 + **Text**: If there should be some text on the button, add it here.
-+ **Icon Type**: To add an icon to the buttton, first select the Icon Type here.
-+ **Icon**: When you have selected the Icon Type, select the icon in this list. The icon is placed to the left of the button text.
-+ **Target**: Choose if the link should be opened in a new window, the current window, or in a dialog.
++ **Tool tip**: Add the tool tip text for the button here.
++ **Unsubscribe Text**: A "Subscribe" button changes the text automatically when a user has clicked the button. Unsubscribe is suggested but you can change the text to something else.
++ **Subscription Scope**: Available for Type Subscription. Select the scope here, meening what the user actually subscribes to; Page, Publishing App (=all pages in) or Page Collection (=all pages in).
++ **Url**: Type or paste the Url to go to when a user clicks the link. Available for Link type.
++ **Target**: Choose if the link should be opened in a new window, the current window, or in a dialog. Available for Link type.
 + **Dialog Position**: If you selected "Dialog" for Target, you can select where to place the dialog: Center, Full screen, Left or Right.
++ **Page Collection**: If you selected "Create Page" as type, select page collection to create the new page in.
+
+The Style tab
+---------------
+The following settings are available in this tab:
+
 + **Button Style**: You can select "Depressed", "Flat" or "Raised" as the style. Note that a flat button doesn't have any background color, so the text should normally be black for a flat button.
 + **Size**: The size of the button can be small, medium or large.
 + **Round**: For round button edges, select this option.
@@ -44,4 +56,7 @@ To add a Button Link in this block, do the following:
 + **Fill**: If the button should fill the whole width of the block, select this option.
 + **Background Color and Text Color**: Choose colors here. Note the comments about Flat button style and Outline above.
 + **Alignment**: (A description will be added later).
++ **Icon Type**: To add an icon to the buttton, first select the Icon Type here.
++ **Icon**: When you have selected the Icon Type, select the icon in this list. The icon is placed to the left of the button text.
++ **Alignment**: This option is available on both tabs. Select the alignment of the buttons within the block area.
 
