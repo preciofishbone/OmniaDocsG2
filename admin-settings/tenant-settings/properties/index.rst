@@ -138,7 +138,7 @@ Use the following settings:
 
 + **Title**: Add the Title to be shown for editors, for the Property, when targeting.
 + **Property**: Select Tenant Property from the list.
-+ **Type**: Select Type of targeting for this Property.
++ **Type**: Select Type of targeting for this Property; "Group Membership", "User Profile Property" or "Azure AD Property".
 
 Delete or edit Target Property
 --------------------------------
