@@ -19,7 +19,7 @@ The tabs Layout and Advanced contain general settings, see: :doc:`General Block 
 
 Add an Action Button
 ***********************
-To add a Button Link in this block, do the following:
+To add an Action Button in this block, do the following:
 
 1. Click "+ ADD BUTTON".
 
@@ -39,7 +39,7 @@ The following settings are available in this tab:
 + **Text**: If there should be some text on the button, add it here.
 + **Tool tip**: Add the tool tip text for the button here.
 + **Unsubscribe Text**: A "Subscribe" button changes the text automatically when a user has clicked the button. Unsubscribe is suggested but you can change the text to something else.
-+ **Subscription Scope**: Available for Type Subscription. Select the scope here, meening what the user actually subscribes to; the Page, Publishing App (=all pages in) or Page Collection (=all pages in).
++ **Subscription Scope**: Available for Type Subscription. Select the scope here, meaning what the user actually subscribes to; the Page, Publishing App (=all pages in) or Page Collection (=all pages in).
 + **Url**: Type or paste the Url to go to when a user clicks the link. Available for Link type.
 + **Target**: Choose if the link should be opened in a new window, the current window, or in a dialog. Available for Link type.
 + **Dialog Position**: If you selected "Dialog" for Target, you can select where to place the dialog: Center, Full screen, Left or Right.
@@ -47,7 +47,7 @@ The following settings are available in this tab:
 
 The Style tab
 ---------------
-The following settings are available in this tab:
+The following settings are available here:
 
 .. image:: action-button-style.png
 
