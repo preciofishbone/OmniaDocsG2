@@ -23,7 +23,7 @@ Use the following settings:
 
 + **Title**: Add a Title (name) for the Property. Default language is mandatory. Add Titles in the other Tenant Languages as needed.
 + **Internal name**: An internal name can or should in some instances be used instead of the Title, for example as a place holder. The internal name can not contain spaces.
-+ **Type**: Select the Property type. It can be "Data", "Datetime", "Enterprise Keywords", "Media", "Person", "Rich text", "Taxonomy", "Text" or "Yes/No". Most of the Types are self explanatory. "Data" is a system field that users never enter anything to. "Rich text" can be formatted by the editor. "Text" is plain text that the editor can not format.
++ **Type**: Select the Property type. It can be Data, Datetime, Enterprise Keywords, Media, "Person", Rich text, Taxonomy, Text or Yes/No. Most of the Types are self explanatory. "Data" is a system field that users never enter anything to. "Rich text" can be formatted by the editor. "Text" is plain text that the editor can not format.
 
 **Note!** Properties used for targeting mus be of the "Taxonomy" type.
 
@@ -138,7 +138,7 @@ Use the following settings:
 
 + **Title**: Add the Title to be shown for editors, for the Property, when targeting.
 + **Property**: Select Tenant Property from the list.
-+ **Type**: Select Type of targeting for this Property; "Group Membership", "User Profile Property" or "Azure AD Proper
++ **Type**: Select Type of targeting for this Property; Group Membership, User Profile Property or Azure AD Property.
 
 Delete or edit Target Property
 --------------------------------
