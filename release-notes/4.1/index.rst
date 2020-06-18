@@ -1,9 +1,7 @@
-Draft Release 4.1
+Release 4.1
 ========================================
-*NOTE: Items might be added, altered or removed.*
 
-
-Release 4.1.0
+4.1.0
 ========================================
 
 Enhancements
@@ -13,8 +11,10 @@ Omnia
 ***********************
 - Targeting is now possible on custom Azure AD properties.
 - Several WCAG improvements.
-- Open term sets are now supported. (#117764, #118724, #119930)
-- Several improvements to the mobile experience on IOS.
+- Open term sets are now supported. (#117764, #118724, #119930, #117753)
+- Several improvements to the mobile experience.
+- MS Teams apps now work with SSO. This enables the omnia based MS Teams apps to work in mobile and desktop clients.
+- The term store no longer requires English to be an available language (#119375, #120348).
 
 
 Web Content Management
@@ -26,9 +26,11 @@ Web Content Management
 Team Collaboration
 ***********************
 - Last visited will now be recorded when using the SharePoint provider to list sites.
+- Mobile UI improvements.
 
 Document Management
 ***********************
+- The document picker now supports using a folder as well as a library (#120351, #120122).
 
 People and networking
 ***********************
@@ -44,7 +46,11 @@ Workplace
 - The high priority Announcement view now works in a block. 
 - Its now possible to configure default sort order for search categories (#118857).
 - Sort direction is now configurable. A search category can be sorted on Relevance, Popularity or a sortable enterprise property.
-- Improved error messages when trying to follow a Group you don’t have access to. (#120336)
+- Improved error messages when trying to follow a Group you don’t have access to. (#120336).
+- Its now possible to configure whether query rules should be applied on not in search queries. This configuration helps solve apparently inconsistent search results (#120316)
+- Advanced search as a block has been improved.
+- MS Teams icon is now shown for sites in the Member Of provider (#116695).
+- Search now correctly resolves people when used as a property from search.
 
 Communities
 ***********************
@@ -77,6 +83,7 @@ Fixes
 - Enhancement to translation UI on low resolution screens.
 - Fixed an issue that would sometimes cause incorrect validation when publishing a document. 
 - Old Teamwork navigations now correctly run on page load. (#120088)
+- Teamwork navigation admin list now correctly updates when a Teamwork is removed.
 - Updates to the default Communities template.
 - Fixed an issue where deleted app instances would still show up in the admin UI.
 - Stability improvements in the Teamwork navigation (#118680).
@@ -92,6 +99,14 @@ Fixes
 - Preview of process on search now works as expected.
 - Fixed an issue with the Action button that would cause the wrong icon to display.
 - Fixed an issue that caused the filters on the page rollup to not render correctly (#120067)
+- Fixed an error where different in casing would identify the same user as two different.
+- Fixed an issue in the preview of shapes in the shape gallery.
+- Client-side validation on colors now work correctly when removing a color from a shape.
+- Corrected translation issues (#120333).
+- Fixed a styling issue on page links in related links.
+- Show more on refiners now works as expected in advanced search (#120347).
+- Corrected an issue related to syncing enterprise properties to the term store in Document Management and Process Management (#120338).
+
 
 
 
