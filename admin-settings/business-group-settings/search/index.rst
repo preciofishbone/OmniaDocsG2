@@ -54,7 +54,7 @@ For more information about the Search block, see: :doc:`The Search block </block
 
 Advanced Search
 *****************
-When a search has been made in Quick Search, Advanced Search is available through by a link at the bottom. Advanced search can also be made available using the Search block.
+When a search has been made in Quick Search, Advanced Search is available through a link at the bottom. Advanced search can also be made available using the Search block.
 
 .. image:: advanced-search-in-quick-new.png
 
@@ -64,16 +64,24 @@ Something like this is shown:
 
 To the left refiners are shown, if any are set up.
 
+For more information on how to make Advanced search available through the Search block, see: :doc:`The Search block </blocks/search/index>`
+
 Use these settings for Advanced Search:
 
-.. image:: advanced-search-new2.png
+.. image:: advanced-search-all.png
+
+General
+------------
+On this tab the following settings are available:
+
+.. image:: advanced-search-new3.png
 
 + **Refiner Positions**: Select where the Refiners will be placed - Left or Right.
 + **Search Categories**: Add one or more Search Categories to use in Advanced Search.
 
 Additional settings can be reached by clicking the pen for a Search Category:
 
-.. image:: advanced-search-pen-new.png
+.. image:: advanced-search-pen-new2.png
 
 Then these settings are available:
 
@@ -108,5 +116,8 @@ The user can now use the refiners to the left to for example just display docume
 
 .. image:: search-refiners-example-refined.png
 
-For more information on how to make Advanced search available through the Search block, see: :doc:`The Search block </blocks/search/index>`
+Custom Search Target
+----------------------
+(More information will be added soon.)
+
 
