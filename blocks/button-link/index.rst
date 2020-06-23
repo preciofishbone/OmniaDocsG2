@@ -39,7 +39,7 @@ The following settings are available in this tab:
 + **Text**: If there should be some text on the button, add it here.
 + **Tool tip**: Add the tool tip text for the button here.
 + **Unsubscribe Text**: A "Subscribe" button changes the text automatically when a user has clicked the button. Unsubscribe is suggested but you can change the text to something else.
-+ **Subscription Scope**: Available for Type Subscription. Select the scope here, meaning what the user actually subscribes to; the Page, Publishing App (=all pages in) or Page Collection (=all pages in).
++ **Subscription Scope**: Available for Type Subscription. Select the scope here, meaning what the user actually subscribes to; the Page (=all changes to the page, even comments and best reply for Knowledge pages), Publishing App (=all new pages in the Publishing App, but not changes to existing pages) or Page Collection (=all new pages in the Page Collection, but not changes to existing pages).
 + **Url**: Type or paste the Url to go to when a user clicks the link. Available for Link type.
 + **Target**: Choose if the link should be opened in a new window, the current window, or in a dialog. Available for Link type.
 + **Dialog Position**: If you selected "Dialog" for Target, you can select where to place the dialog: Center, Full screen, Left or Right.
