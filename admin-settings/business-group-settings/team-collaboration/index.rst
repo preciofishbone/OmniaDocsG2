@@ -103,7 +103,7 @@ If a Sharepoint or an Office 365 team site is deleted, it's placed in this list.
 
 .. image:: teamwork-inactive.png
 
-(More information about this list will be added soon.)
+An administrator can then check if the site really should be deleted or if it's made by mistake.
 
 Pending Approval
 *****************
