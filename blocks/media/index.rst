@@ -1,7 +1,7 @@
 Media
 ===========
 
-Use the Media block to add an image or a video anywhere on a page. The following file types can be used: tiff, pjp, pjpeg, jfif, tif, gif, svg, bmp, png, jpeg, svgz, jpg, webp, ico, xbm, dib.
+Use the Media block to add an image or a video anywhere on a page. The following file types can be used for images: tiff, pjp, pjpeg, jfif, tif, gif, svg, bmp, png, jpeg, svgz, jpg, webp, ico, xbm, dib.
 
 Settings
 ***************
