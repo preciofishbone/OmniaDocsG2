@@ -118,6 +118,9 @@ The user can now use the refiners to the left to for example just display docume
 
 Custom Search Target
 ----------------------
-(More information will be added soon.)
+If you activate this option you can change what will happen when a user clicks the Advanced Search link, for example after having made a Quick Search. This is useful for example if a specific Search Center should be used.
+
+.. image:: custom-search-target.png
+
 
 
