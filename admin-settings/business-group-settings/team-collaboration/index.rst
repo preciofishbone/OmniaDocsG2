@@ -3,6 +3,8 @@ Teamwork
 
 Use these settings go to any Teamwork site to, for example, edit settings. You can also create a new Teamwork site, or Attach an existing site to Omnia.
 
+Using the list "Inactive" you can handle sites with pending delete.
+
 For Team Sites with "Approval" as Site Creation Mode, you use the "Pending Approval" list to approve or reject creation of a Team Site.
 
 .. image:: team-collaboration-new3.png
@@ -99,11 +101,13 @@ The following is shown:
 
 Inactive
 **********
-If a Sharepoint or an Office 365 team site is deleted, it's placed in this list.
+When a site of the type Office 365 Team Site, Sharepoint Team Site and Sharepoint Communication Site is created, a Sharepoint site is created as a container for the site. A Yammer Group can also need a Sharepoint site, depending on how the Yammer Group is set up.
+
+When such a site is deleted, the underlying Sharepoint site may not be removed. When that happens a link to the site is placed in this list.
 
 .. image:: teamwork-inactive.png
 
-An administrator can then check if the site really should be deleted or if it's made by mistake.
+An administrator can then check if the site really should be deleted, and the Sharepoint site then also needs to be deleted, or if it's made by mistake and the site needs to be restored.
 
 Pending Approval
 *****************
