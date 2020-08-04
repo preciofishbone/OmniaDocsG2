@@ -101,7 +101,7 @@ The following is shown:
 
 Inactive
 **********
-When a site of the type Office 365 Team Site, Sharepoint Team Site and Sharepoint Communication Site is created, a Sharepoint site is created as a container for the site. A Yammer Group can also need a Sharepoint site, depending on how the Yammer Group is set up.
+When a site of the type Office 365 Team Site, Sharepoint Team Site or Sharepoint Communication Site is created, a Sharepoint site is created as a container for the site. A Yammer Group can also need a Sharepoint site, depending on how the Yammer Group is set up.
 
 When such a site is deleted, the underlying Sharepoint site may not be removed. When that happens a link to the site is placed in this list.
 
