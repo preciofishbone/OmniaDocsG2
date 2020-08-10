@@ -81,4 +81,86 @@ Click the cog wheel to set additional settings for Notification Panel. What you 
 
 .. image:: notification-panel-settings-action-menu.png
 
+App Launcher
+*************
+Omnia can replace the Office 365 App Launcher with the Onnia App Launcher, to make it fully configurable. Here you can edit settings for the Omnia App Launcher, for the Business Profile. 
+
+.. image:: omnia-app-launcher.png
+
+The following settings are available:
+
+.. image:: app-launcher-settings-overview.png
+
+There are also a number of Header settings avilable here, see below.
+
++ **Enable**: The first step is to decide to use the Omnia App Launcher or not (which means using the default Office 365 App launcher). 
+
+Note that there's a feature available for the tenant to install default App Launcher links to make it really easy to get going with the Omnia App Launcher. For more information, see: :doc:`Features - Tenant </admin-settings/tenant-settings/features/index>`
+
+App Launcher Button
+--------------------
+Here you can set background color, icon color and hover color, if you're not happy with the default color settings.
+
+General
+---------
+The following settings are available here:
+
+.. image:: app-launcher-settings-general.png
+
++ **Title**: Set the title for the App Launcher in any or all availbale languages. This is shown as the Tool Tip for the button.
++ **Sorted By**: Open the list and decide how to sort the icons; Custom, Alphabetic or Last Visited. If you choose Custom, use the option "Custom" below for sorting.
++ **View Template**: The icons can be viewed in a number of ways; Simple List, App Icons, Navigation View or App launcher. See below for examples.
++ **Include Non-mandatory links**: (A description will be added soon.) 
++ **Use Targeting**: (A description will be added soon.) 
++ **Include Personal Links**: (A description will be added soon.) 
++ **Include Following Links**: (A description will be added soon.) 
++ **Categories**: (A description will be added soon.) 
++ **Item Limit**: (A description will be added soon.) 
++ **Padding**: Add some padding between the mwnu's border and the icon list, if needed.
+
+In the following View Template examples, the sorting is Custom.
+
+Example of View Template Simple List:
+
+.. image:: app-launcher-settings-general-simple-list.png
+
+When the View Template App Icons is selected, the list can look something lika this:
+
+.. image:: app-launcher-settings-general-app-icons.png
+
+With the View Template Navigation View it can look like this:
+
+.. image:: app-launcher-settings-general-navigation-view.png
+
+(More information about this will be added soon.)
+
+The View Template App Launcher makes the list look like the Office 365 App launcher, for example:
+
+.. image:: app-launcher-settings-general-app-launcher.png
+
+Custom colors
+---------------
+Here you can set custom colors for the icons, if needed:
+
+.. image:: app-launcher-settings-custom-colors.png
+
+Custom Sort
+-------------
+If you selected Custom Sort under Sorted By, use these options to customize the sorting. Click the up arrow or the down arrow to move an icon in the list.
+
+.. image:: app-launcher-settings-custom-sort.png
+
+Header Settings
+-----------------
+Use these settings to customize the look of the heading for the Business Profile.
+
+.. image:: app-launcher-settings-header-settings.png
+
+(More information will be added soon.)
+
+
+
+
+
+
 
