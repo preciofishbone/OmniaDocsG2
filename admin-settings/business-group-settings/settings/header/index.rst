@@ -73,13 +73,64 @@ Teamwork Navigation - additional settings
 ----------------------------------------------
 Click the cog wheel to set additional settings for Teamwork Navigation. Here's what you can set:
 
-.. image:: my-sites-settings-new4.png
+.. image:: teamwork-navigation-overview.png
+
+You can edit which Categories (tabs) to display in Teamwork Navigation and you can work with a number of details for what is actually shown under each category. Using the option Create Teamwork you can edit the settings for what is to be displayed regarding Show Create New Site, and if that option should be available for users at all.
+
+Categories
+-----------
+You can edit categories this way:
+
+Click the dust bin to remove a category. Click the cog wheel to handle the detailed settings for a category. When editing settings for a category, the same settings are available as when creating a new category, see below.
+
+To add a new category, click ADD.
+
+.. image:: teamwork-navigation-add.png
+
+The following settings are available:
+
+.. image:: teamwork-navigation-add-settings.png
+
++ **Category Name**: Add a name for the category here, in some or alla the available languages.
+
+For Query, Display and Filter UI you can set:
+
+.. image:: teamwork-navigation-add-query.png
+
++ **Scope**: Open the list and select the type of query the execute for this catagory.
++ **Run Query On Load**: (A description will be added soon.)
+
+.. image:: teamwork-navigation-add-display.png
+
++ **View**: Select type for view for the list; List View or Navigation View. If you select List View you must also add at least one column.
++ **Title**: You can choose to add a title to be shown at the top of the list, to for example use for and explanation of what links is shown.
++ **Paging**: Use this option to decide how paging should be handled for this list; No paging, Classic or Scroll.
++ **Item Limit/Page Size**: Set the number of links that should be displayed before a Show more message is shown.
++ **Show Follow Status**: Set to show the stars for follow status, or not (se below for en example.)
++ **Open in New Window**: Decide if the teamwork should open in a new window or not, when the link is clicked.
++ **Padding**: Set some padding between the border of the list and the lit's content, if needed.
+
+Here's an example with Show Follow Status selected. A filled star indicates that the user follows the teamwork.
+
+.. image:: teamwork-navigation-add-display-follow.png
+
+Use the filter settings to make filters available for users, in the list.
+
+.. image:: teamwork-navigation-add-display-filterui.png
+
+(A description will be added soon.)
+
+Don't forget to save your changes, you have to click SAVE both for the detailed settings and under Action Menu for the changes to take effect.
 
 Notification Panel - additional settings
 ----------------------------------------------
 Click the cog wheel to set additional settings for Notification Panel. What you can do is to select which Notification Panel to display:
 
 .. image:: notification-panel-settings-action-menu.png
+
+What you can set here are settings for how the Notification Panel will be shown in the Action Menu. You create Notification Panels using the option in the settings for the Business Profile. For more information, see: :doc:`Notification Panel </admin-settings/business-group-settings/notification-panel/index>`
+
+(More information will be added here soon.)
 
 App Launcher
 *************
@@ -150,13 +201,7 @@ If you selected Custom Sort under Sorted By, use these options to customize the 
 
 .. image:: app-launcher-settings-custom-sort.png
 
-Header Settings
------------------
-Use these settings to customize the look of the heading for the Business Profile.
 
-.. image:: app-launcher-settings-header-settings.png
-
-(More information will be added soon.)
 
 
 
