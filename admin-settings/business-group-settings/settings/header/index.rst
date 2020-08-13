@@ -78,7 +78,7 @@ Click the cog wheel to set additional settings for Teamwork Navigation. Here's w
 You can edit which Categories (tabs) to display in Teamwork Navigation and you can work with a number of details for what is actually shown under each category. Using the option Create Teamwork you can edit the settings for what is to be displayed regarding Show Create New Site, and if that option should be available for users at all.
 
 Categories
------------
+''''''''''''
 You can edit categories this way:
 
 Click the dust bin to remove a category. Click the cog wheel to handle the detailed settings for a category. When editing settings for a category, the same settings are available as when creating a new category, see below.
@@ -95,7 +95,7 @@ The following settings are available:
 
 For Query, Display and Filter UI you can set:
 
-.. image:: teamwork-navigation-add-query.png
+.. image:: teamwork-navigation-addquery.png
 
 + **Scope**: Open the list and select the type of query the execute for this catagory.
 + **Run Query On Load**: (A description will be added soon.)
@@ -126,11 +126,47 @@ Notification Panel - additional settings
 ----------------------------------------------
 Click the cog wheel to set additional settings for Notification Panel. What you can do is to select which Notification Panel to display:
 
-.. image:: notification-panel-settings-action-menu.png
+.. image:: notification-panel-settings-notification-panel.png
 
 What you can set here are settings for how the Notification Panel will be shown in the Action Menu. You create Notification Panels using the option in the settings for the Business Profile. For more information, see: :doc:`Notification Panel </admin-settings/business-group-settings/notification-panel/index>`
 
-(More information will be added here soon.)
+General
+'''''''''
+Here you decide which Notification Panel to display.
+
+.. image:: business-notification-panel-general.png
+
+Layout
+''''''''
+Here you can set som layout options for this notification panel.
+
+.. image:: business-notification-panel-layout.png
+
++ **Vertical**: Select this to show the categories vertically instead of horisontally. See below for an example.
++ **Show Slider**: (A description will be added soon.)
++ **Fill Space**: (A description will be added soon.)
++ ** Show Icon**: Select this option to display icons for the categories.
++ **Show Label**: Select this option to display labels for the categories.
++ **Tab Alignment**: Use these settings to align the the tab text.
++ **Icon Alignment**: Use these settings to align the tab icons.
++ **Custom Size**: Use this to set a minimum stom size for the Notification Panel.
++ **Border Radius**: Use this setting to make the tab background a rounded shape. If you activate Border radius on all tabs, this effect is shown for all tabs, otherwise just for the first tab. See below for example.
+
+Heres an example with the categories shown vertically, with icon and label:
+
+.. image:: business-notification-panel-layout-example1.png
+
+This example show Border Radius set to 30:
+
+.. image:: business-notification-panel-layout-example2.png
+
+Custom Colors
+''''''''''''''
+Here's some color settings available:
+
+.. image:: business-notification-panel-custom-colors.png
+
+(All options are not shown in the image.)
 
 App Launcher
 *************
