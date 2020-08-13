@@ -48,7 +48,7 @@ Available settings depends on how the template is set up. Here are some common e
 
 Publishing App settings
 *************************
-Settings for the Publishing App is done in the Settings menu when working with pages, see: :doc:`Publishing App Settings </pages/page-settings/index>`
+Settings for a Publishing App is done in the Settings menu when working with pages, see: :doc:`Publishing App Settings </pages/page-settings/index>`
 
 Pending Approval
 *****************
