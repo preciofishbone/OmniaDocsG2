@@ -93,12 +93,18 @@ The following settings are available:
 
 + **Category Name**: Add a name for the category here, in some or alla the available languages.
 
-For Query, Display and Filter UI you can set:
+Query
+'''''''
+For Query you can set:
 
 .. image:: teamwork-navigation-addquery.png
 
 + **Scope**: Open the list and select the type of query the execute for this catagory.
 + **Run Query On Load**: (A description will be added soon.)
+
+Display
+'''''''''''
+Display has the follwing settings:
 
 .. image:: teamwork-navigation-add-display.png
 
@@ -115,6 +121,10 @@ Here's an example with Show Follow Status selected. A filled star indicates that
 .. image:: teamwork-navigation-add-display-follow.png
 
 Use the filter settings to make filters available for users, in the list.
+
+Filter UI
+''''''''''''''
+You can set this for Filtre UI:
 
 .. image:: teamwork-navigation-add-display-filterui.png
 
@@ -145,7 +155,7 @@ Here you can set som layout options for this notification panel.
 + **Vertical**: Select this to show the categories vertically instead of horisontally. See below for an example.
 + **Show Slider**: (A description will be added soon.)
 + **Fill Space**: (A description will be added soon.)
-+ ** Show Icon**: Select this option to display icons for the categories.
++ **Show Icon**: Select this option to display icons for the categories.
 + **Show Label**: Select this option to display labels for the categories.
 + **Tab Alignment**: Use these settings to align the the tab text.
 + **Icon Alignment**: Use these settings to align the tab icons.
