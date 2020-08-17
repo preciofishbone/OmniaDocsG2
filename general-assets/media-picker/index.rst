@@ -68,7 +68,7 @@ When an image has been selected, the following settings can be made:
 + **Custom**: Set a custom shape using the eight squares as handles. Just draw to the desired shape. When a custom image is used in a page image area the full width of the area is used and the height of the area is adapted.
 + **Landscape**, **Square** and "Portrair**: Click the preview and use the selection on the image to decide wich part of the image to show when it's used in landscape, square or portrait format.
 + **Filters**: Use the filters to adjust the image; Sepia coloring, Grayscale coloring, Brightness, Contrast and Saturation.
-+ **Info**: You can add a description of the image in this field. It's use by the system as a tool tip info.
++ **Info**: You can add an Alt Text for the image in this field. 
 
 Don't forget to save your changes when you're done.
 
