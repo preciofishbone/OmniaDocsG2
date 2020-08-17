@@ -22,7 +22,7 @@ Check Read Receipt Status
 Read Receipt Status can be checked for a document on the "Published" tab, this way:
 
 1.	Click the dot menu for the document.
-2.	Select "Read Receipt status". 
+2.	Select "Read Receipt Status". 
 
 .. image:: read-receipt-status-menu-new2.png
 
