@@ -77,6 +77,8 @@ Click the cog wheel to set additional settings for Teamwork Navigation. Here's w
 
 You can edit which Categories (tabs) to display in Teamwork Navigation and you can work with a number of details for what is actually shown under each category. Using the option Create Teamwork you can edit the settings for what is to be displayed regarding Show Create New Site, and if that option should be available for users at all.
 
+Note that a category is basically a Team Collaboration Rollup, so if you think along this line when you edit the settings for a category, you're on the right track.
+
 Categories
 ''''''''''''
 You can edit categories this way:
@@ -100,7 +102,9 @@ For Query you can set:
 .. image:: teamwork-navigation-addquery.png
 
 + **Scope**: Open the list and select the type of query the execute for this catagory.
-+ **Run Query On Load**: (A description will be added soon.)
++ **Run Query On Load**: For a shorter list of Teamworks, it most likely works fine to run a query when the list is opened, but for longer lists it may not. For a longer list, for example a list of all Teamworks, deselecting this option and instead displaying a search box, may be a better choice. 
+
+To add a search box, use the Filter settings, see below.
 
 Display
 '''''''''''
@@ -124,11 +128,13 @@ Use the filter settings to make filters available for users, in the list.
 
 Filter UI
 ''''''''''''''
-You can set this for Filtre UI:
+You can set this for Filter UI:
 
 .. image:: teamwork-navigation-add-display-filterui.png
 
-(A description will be added soon.)
++ **ADD FILTER**: Click to add filters. It's done the same as for the Teamwork Rollup block, see: :doc:`Team Collaboration Rollup </blocks/team-collaboration-rollup/index>`
++ **Show search box**: Select this option to display a search box at the top of the list. Also see the comments under Query above.
++ **Hide filter by default**: This could be a handy option to use together with Show search box. Select this option if you want to show filter after a search has been executed (not before).
 
 Don't forget to save your changes, you have to click SAVE both for the detailed settings and under Action Menu for the changes to take effect.
 
