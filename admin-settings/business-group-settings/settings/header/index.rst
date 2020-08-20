@@ -93,7 +93,7 @@ The following settings are available:
 
 .. image:: teamwork-navigation-add-settings.png
 
-+ **Category Name**: Add a name for the category here, in some or alla the available languages.
++ **Category Name**: Add a name for the category (tab) here, in some or all the available languages.
 
 Query
 '''''''
@@ -101,7 +101,7 @@ For Query you can set:
 
 .. image:: teamwork-navigation-addquery.png
 
-+ **Scope**: Open the list and select the type of query the execute for this catagory.
++ **Scope**: Open the list and select the type of query the execute for this category.
 + **Run Query On Load**: For a shorter list of Teamworks, it most likely works fine to run a query when the list is opened, but for longer lists it may not. For a longer list, for example a list of all Teamworks, deselecting this option and instead displaying a search box, may be a better choice. 
 
 To add a search box, use the Filter settings, see below.
@@ -134,7 +134,7 @@ You can set this for Filter UI:
 
 + **ADD FILTER**: Click to add filters. It's done the same as for the Teamwork Rollup block, see: :doc:`Team Collaboration Rollup </blocks/team-collaboration-rollup/index>`
 + **Show search box**: Select this option to display a search box at the top of the list. Also see the comments under Query above.
-+ **Hide filter by default**: This could be a handy option to use together with Show search box. Select this option if you want to show filter after a search has been executed (not before).
++ **Hide filter by default**: This could be a handy option to use together with Show search box. Select this option if you want to show filters after a search has been executed (not before).
 
 Don't forget to save your changes, you have to click SAVE both for the detailed settings and under Action Menu for the changes to take effect.
 
@@ -193,8 +193,6 @@ Omnia can replace the Office 365 App Launcher with the Onnia App Launcher, to ma
 The following settings are available:
 
 .. image:: app-launcher-settings-overview.png
-
-There are also a number of Header settings avilable here, see below.
 
 + **Enable**: The first step is to decide to use the Omnia App Launcher or not (which means using the default Office 365 App launcher). 
 
