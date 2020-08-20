@@ -101,13 +101,11 @@ The following is shown:
 
 Inactive
 **********
-When a site of the type Office 365 Team Site, Sharepoint Team Site or Sharepoint Communication Site is created, a Sharepoint site is created as a container for the site. A Yammer Group can also need a Sharepoint site, depending on how the Yammer Group is set up.
+When a site of the type Office 365 Team Site, Sharepoint Team Site or Sharepoint Communication Site is created, a Sharepoint site is created and is connected to the site. A Yammer Group can also need a Sharepoint site, depending on how the Yammer Group is set up.
 
-When such a site is deleted, the underlying Sharepoint site may not be removed. When that happens a link to the site is placed in this list.
+The connected Sharepoint site may be deleted for some reason, but when that happens the Omnia site may not. When that happens a link to the site is placed in this list, so an administrator can take actions.
 
 .. image:: teamwork-inactive.png
-
-An administrator can then check if the site really should be deleted, and the Sharepoint site then also needs to be deleted, or if it's made by mistake and the site needs to be restored.
 
 Pending Approval
 *****************
