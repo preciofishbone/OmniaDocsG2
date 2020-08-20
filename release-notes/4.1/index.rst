@@ -30,7 +30,7 @@ Fixes
 
 Fixes
 ****************************************
-- It’s now possible to upload lager files in the controlled documents library. (#114250, #119483, #117145).
+- It's now possible to upload lager files in the controlled documents library. (#114250, #119483, #117145).
 - Fixed an issue that would sometimes show the wrong columns in the document rollup (#120458).
 - Fixed on UI feedback issue on the controlled documents library (#120528).
 - Fixed an issue with the bottom padding for the teamwork navigation in mobile mode.
@@ -53,7 +53,6 @@ Fixes
 - Ensured search properties of the teamwork navigation (#120418).
 - Tabs now correctly hidden for users without permissions in the controlled document library (#120529).
 - Fixed an issue that would cause the review task not to be created correctly in Controlled Documents (#120447).
-- 
 
 Enhancements
 ****************************************
