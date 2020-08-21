@@ -148,6 +148,7 @@ What you actually do is using a Notification Panel block to display in the headi
 
 You create Notification Panels using the option in the settings for the Business Profile. For more information, see: :doc:`Notification Panel </admin-settings/business-group-settings/notification-panel/index>`
 
+
 App Launcher
 *************
 Omnia can replace the Office 365 App Launcher with the Onnia App Launcher, to make it fully configurable. Here you can edit settings for the Omnia App Launcher, for the Business Profile. 
