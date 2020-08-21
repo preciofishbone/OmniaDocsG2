@@ -1,7 +1,7 @@
 Header settings for the Business Profile
 ==========================================
 
-The following settings are avaible for the Header:
+The following settings are available for the Header:
 
 .. image:: business-profile-settings-header-new3.png
 
@@ -144,7 +144,7 @@ Click the cog wheel to set additional settings for Notification Panel. The follo
 
 .. image:: notification-panel-settings-notification-panel.png
 
-What you do is actually using a Notification block to display in the heading. Therefore, these settings are exactly the same as are described here: :doc:`The Notification Panel block </blocks/notification-panel/index>`
+What you actually do is using a Notification Panel block to display in the heading. Therefore, these settings are exactly the same as are described here: :doc:`The Notification Panel block </blocks/notification-panel/index>`
 
 You create Notification Panels using the option in the settings for the Business Profile. For more information, see: :doc:`Notification Panel </admin-settings/business-group-settings/notification-panel/index>`
 
