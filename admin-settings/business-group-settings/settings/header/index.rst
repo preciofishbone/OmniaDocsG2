@@ -6,7 +6,7 @@ The following settings are available for the Header:
 .. image:: business-profile-settings-header-new3.png
 
 General
---------
+*********
 Under General you can set the following:
 
 .. image:: business-profile-settings-header-general.png
@@ -21,7 +21,7 @@ Here's an example with black background color, white icon color and a search box
 .. image:: business-profile-settings-header-general-searchbox.png
 
 Logo
-------
+*******
 Use these settings for the logo in the Heading.
 
 .. image:: logo-in-heading.png
@@ -36,7 +36,7 @@ The following settings are available:
 + **Padding**: Use these settings to add som padding around the Logo, if needed.
 
 Mega Menu
-------------
+***********
 The Mega Menu makes it possible for the end user to navigate to any page in the navigation structure. It is displayed across all sites in Omnia. 
 
 .. image:: mega-menu.png
@@ -56,7 +56,7 @@ The following settings are available:
 + **Selected Border Color**: Ypou can set Border Color separately if you wish. Default=no Color.
 
 Action Menu
--------------
+**************
 The Action Menu is this part of the Heading:
 
 .. image:: action-menu-startpage.png
@@ -191,11 +191,9 @@ When the View Template App Icons is selected, the list can look something lika t
 
 .. image:: app-launcher-settings-general-app-icons.png
 
-With the View Template Navigation View it can look like this:
+With the Template Navigation View it can look like this:
 
 .. image:: app-launcher-settings-general-navigation-view.png
-
-(More information about this will be added soon.)
 
 The View Template App Launcher makes the list look like the Office 365 App launcher, for example:
 
