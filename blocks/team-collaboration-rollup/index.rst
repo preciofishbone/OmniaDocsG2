@@ -1,9 +1,9 @@
-Team Collaboration Rollup
+Teamwork Rollup
 ============================
 
-Use this block to show team sites and other collaboration sites the user has access to. Here's an example:
+Use this block to show team sites and other teamworks the user has access to. Here's an example:
 
-.. image:: sitedirectory-g2-new.png
+.. image:: sitedirectory-g2-new2.png
 
 Note that icons indicate if a Teams, Yammer or Facebook Workplace group is connected to the Team Site. Users can click the icon to go to the group.
 
@@ -12,35 +12,42 @@ Here's an example with all three types of icons:
 .. image:: sitedirectory-iconexamples.png
 
 Settings
-************************
+*********
 The following settings are available for the block:
 
-.. image:: team-collaboration-block-settings-new2.png
+.. image:: team-collaboration-block-settings-new3.png
 
 Query
 --------
-Here you set the type of sites to be shown in the list. 
+Here you can set the following:
 
-1. Select site type.
-2. Click "Add",
-3. Continue until all types that should be shown in the list are selected, for example:
+.. image:: teamwork-query.png
 
-.. image:: team-collaboration-block-settings-query.png
++ **Scope**: Select scope, for example All, Followed or Member of.
++ **Site Template**: Here you can set the type of teamwork to be shown in the list. 
++ **Run Query On Load**: Decide if the query should be run on load, so the list is filled with teamworks, or not. If a list is very long it can be a good idea to add a search box, and to deselect this option. You add a search box under Filter UI, see below. 
 
 Display
 ----------
-Select a View and use the following settings:
+Select a View (List View or Navigation View) and use the following settings:
 
 .. image:: team-collaboration-block-settings-display-new2.png
 
-+ **Add Column**: You must add at least one Column for the display to work.
++ **Add Column**: If you select List View, you must add at least one Column for the display to work. (Navigation View is fixed regarding the columns to display).
 + **Title**: If a title should be shown for the block, add it in this field. If no variation exists for the page, it looks like in the image above and you can set the title in the languages active in the tenant. If variations exists, only one title can be set. In that case, titles in other languages are set in the variations.	.
 + **Paging**: Select how paging should work; "No Paging", "Classic" or "Scroll".
++ **Icon Mode**: For Icon Mode you can select Letter Avatar or Template Icon. In the example images at the top, Letter Vatar is selected.
 + **Item Limit**: Set the number of sites to be shown on each "page" of the list.
 + **Sort By**: Select what to sort the list on, and then select Ascending or Descending sorting.
 + **Padding**: You can add some padding between the block's borders and the list.
++ **Show Follow status**: Follow status is indicated by a star, filled if the teamwork is followed, hollow if not, see below for an example.
++ **Open in new window**: For some (maybe all) of of the teamworks, it can be a good idea to open the link in a new window.
 
-Filter
+Here's an example of a Navigation View with follow status shown:
+
+.. image:: follow-status.png
+
+Filter UI
 ------------------
 Here you can add filters so users can filter (= choose to just see some) a long list.
 
