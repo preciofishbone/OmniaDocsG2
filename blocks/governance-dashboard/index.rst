@@ -11,7 +11,7 @@ Settings
 *********
 The following settings are available for the block:
 
-image:: dashboard-settings.png
+.. image:: dashboard-settings.png
 
 The tabs Layout and Advanced contain general settings, see: :doc:`General Block Settings </blocks/general-block-settings/index>`
 
