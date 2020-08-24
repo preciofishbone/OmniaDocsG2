@@ -1,4 +1,4 @@
-Governance Dassboard
+Governance Dashboard
 ======================
 
 Use this block to create overviews of Key Performance Indicators - for different kinds of pages, teamworks, communities and more.
