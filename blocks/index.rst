@@ -14,6 +14,7 @@ Blocks
    current-navigation/index
    document-rollup/index
    general-block-settings/index
+   governance-dashboard/index
    html-script/index
    media/index
    mega-menu/index
