@@ -106,7 +106,7 @@ To add a filter, do the following:
 
 .. image:: page-rollup-add-filter-list.png
 
-3. If you added a Search Box you can set a default search value, meaing this search will be carried out when the page with this block is opened. The user can then execute any search.
+3. If you added a Search Box you can set a default search value, meaning this search will be carried out when the page with this block is opened. The user can then execute any search.
 
 .. image:: page-rollup-search-default.png
 
