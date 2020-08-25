@@ -117,6 +117,8 @@ Filter
 --------
 Here you can add filters to show for the list, or add a search box.
 
+.. image:: document-rollup-filter.png
+
 What you can do here is described on this page: :doc:`Filter UI </blocks/general-block-settings/filters/index>`
 
 Refiner

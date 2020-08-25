@@ -44,6 +44,8 @@ Filter
 ------
 If users should be able to filter the list, use these options to add filters.
 
+.. image:: process-rollup-filter.png
+
 See this page for more information on how to add filters to a block: :doc:`Filter UI </blocks/general-block-settings/filters/index>`
 
 Layout and Advanced

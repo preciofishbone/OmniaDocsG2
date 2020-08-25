@@ -96,6 +96,8 @@ Filter
 -------
 If users should be able to filter the list and/or search here, use these options to add filters. 
 
+.. image:: page-rollup-filter.png
+
 See this page for information on how to use these options: :doc:`Filter UI </blocks/general-block-settings/filters/index>`
 
 Page Variations
