@@ -115,12 +115,9 @@ Additionally you can set:
 
 Filter
 --------
-Select filters to show for the list.
+Here you can add filters to show for the list, or add a search box.
 
-.. image:: document-rollup-settings-filter.png
-
-+ **Position**: Set position for the filters here; "Top", "Left" or "Right".
-+ **Add filter**: Click this option to add a property for filtering. You can add as many properties that are applicable, and set the detailed settings (for example From - To for "Published").
+What you can do here is described on this page: :doc:`Filter UI </blocks/general-block-settings/filters/index>`
 
 Refiner
 -----------------

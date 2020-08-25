@@ -94,29 +94,9 @@ This could show the following:
 
 Filter
 -------
-If users should be able to filter the list, use these options to add filters. A good example of when filters may be needed is in a News Center. See under *Page Rollup Implementations* for an example of how it can look for users.
+If users should be able to filter the list and/or search here, use these options to add filters. 
 
-To add a filter, do the following:
-
-1. Click "Add filter".
-
-.. image:: page-rollup-add-filter.png
-
-2. Open the list and add a property to filter on, or a Search box.
-
-.. image:: page-rollup-add-filter-list.png
-
-3. If you added a Search Box you can set a default search value, meaning this search will be carried out when the page with this block is opened. The user can then execute any search.
-
-.. image:: page-rollup-search-default.png
-
-4. If you added a Search Box, select additional Text Properties to be searched, if needed. The headings of the pages are always searched. If you select one or more properties here, the text in blocks on pages, using these properties, are also searched.
-
-5. Continue adding filters until you're done.
-
-.. image:: page-rollup-add-filter-done.png
-
-6. If you added several filters, select "Adjust Filters" the decide the order.
+See this page for information on how to use these options: :doc:`Filter UI </blocks/general-block-settings/filters/index>`
 
 Page Variations
 ----------------

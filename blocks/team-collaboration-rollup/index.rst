@@ -49,30 +49,9 @@ Here's an example of a Navigation View with follow status shown:
 
 Filter UI
 ------------------
-Here you can add filters so users can filter (= choose to just see some) a long list.
+Here you can add filters so users can filter (= choose to just see some) of a long list.
 
 .. image:: add-filter-new.png
-
-Do the following:
-
-1. Click "Add Filter".
-2. Open the list and select a property to filter on.
-
-.. image:: add-filter-1-new.png
-
-**Tip!** A Search Box is available at the top of the property list.
-
-3. Make additional selections for the property if needed.
-
-.. image:: add-filter-2-new.png
-
-If there's a metadata list to choose from it can look like this:
-
-.. image:: add-filter-3-new.png
-
-4. If sorting is needed, click "Adjust Filters" and use the arrows to adjust sorting. (Don't forget to click "Done" when you're finished).
-
-.. image:: adjust-filters-new.png
 
 Here is a common setup for filters, with a search box and filters for Project Manager, Modified and Project Type:
 
@@ -81,6 +60,8 @@ Here is a common setup for filters, with a search box and filters for Project Ma
 This setup results in the following:
 
 .. image:: team-rollup-example-2-new.png
+
+For more information on how to add filters, or a search box, see this page: :doc:`Filter UI </blocks/general-block-settings/filters/index>`
 
 Layout and Advanced
 **********************

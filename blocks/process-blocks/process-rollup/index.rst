@@ -44,19 +44,7 @@ Filter
 ------
 If users should be able to filter the list, use these options to add filters.
 
-To add a filter, do the following:
-
-1. Click “Add filter”.
-
-.. image:: process-rollup-block-settings-filter-1.png
- 
-2. Open the list and add a property to filter on, or a Search box.
-
-If you added a Search Box you can set a default search value, meaning this search will be carried out when the page with this block is opened. The user can then execute any search.
-
-.. image:: process-rollup-block-settings-filter-2.png
- 
-3. If you added several filters, select “Adjust Filters” the decide the order.
+See this page for more information on how to add filters to a block: :doc:`Filter UI </blocks/general-block-settings/filters/index>`
 
 Layout and Advanced
 ********************

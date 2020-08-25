@@ -79,11 +79,11 @@ Here's a simple example for teamworks, showing the total number of teamworks in 
 
 Filter UI
 ------------
-Here you can add filters available for users (image with two example filters):
+Here you can add filters available for users or a search box (image with two example filters):
 
 .. image:: dashboard-settings-filter.png
 
-How to add filters works the same for most blocks. See the lower part of this page for more information: :doc:`General Block Settings </blocks/general-block-settings/filters/index>`
+How to add filters works the same for most blocks. See this page for more information: :doc:`Filter UI </blocks/general-block-settings/filters/index>`
 
 
 
