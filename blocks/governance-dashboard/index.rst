@@ -83,7 +83,7 @@ Here you can add filters available for users (image with two example filters):
 
 .. image:: dashboard-settings-filter.png
 
-How to add filters works the same for most blocks. See this page for more information: :doc:`General Block Settings </blocks/general-block-settings/index>`
+How to add filters works the same for most blocks. See the lower part of this page for more information: :doc:`General Block Settings </blocks/general-block-settings/filters/index>`
 
 
 
