@@ -1,38 +1,16 @@
-Draft Release 5.0.x
+5.0.0
 ========================================
-*NOTE: Items might be added, altered or removed.*
-
-Newsletter
-----------------------------------------
-You can setup a Page Collection to allow for pages to be sent out as e-mail.
-
-.. image:: newsletter-settings.png
-
-This makes it possible to create an archive for Newsletters.
-
-
-
-
-MS Teams apps single sign on
-----------------------------------------
-A new app consent is needed to allow Microsoft Teams Single sign on. It contains the following added permissions:
-
-- offline_access	Delegated	Maintain access to data you have given it access to
-
-- openid			Delegated	Sign users in
-
-- profile			Delegated	View users' basic profile
-
 
 New SharePoint file structure
------------------------------------------
+****************************************
 - The file structure of SharePoint data has been remade to be more logical and human readable.
 - The SharePoint site pages can now be configured to contain Title, Summary, Content, Image.
+
 *NOTE: If search rules have been setup based on path, these must be updated to match the new content structure*
 
 
 New Page lifecycle
-----------------------------------------
+****************************************
 The old recycle bin has been replaced with a proper page lifecycle.
 
 - The "Advanced" page creation mode no longer exists (#117182). 
@@ -40,19 +18,17 @@ The old recycle bin has been replaced with a proper page lifecycle.
 Also fixes (#114801, #120924, #115549).
 
 
-
-
 MS Teams Apps and Deep links
-----------------------------------------
+****************************************
 - New Query strings for showing/hiding the Tenant and Business Profile header. (#119541)
 
 Design updates
-----------------------------------------
+****************************************
 Many new style options have been added to the page editor.
 
 
 Rich text editor improvements
-----------------------------------------
+****************************************
 The rich text editors have received many updates
 
 Tables
@@ -75,16 +51,13 @@ Settings
 - Styles can now be globally defined to be used for all text fields in Omnia. This allows the administrator to create headings directly in omnia without need for any custom development. (#114817).
 
 Dashboards and KPIs
-----------------------------------------
+****************************************
 - A new block has been introduced, allowing you to setup statistics dashboards to view the usage of your Omnia digital workplace.
 
 Admin Release Information
-----------------------------------------
+****************************************
 - Customer contact information has now been surfaced to the UI.
 
-
-Release 5.0.0
-========================================
 
 Enhancements and Fixes
 ------------------------------------
@@ -125,7 +98,6 @@ Web Content Management
 Document Management
 ***********************
 
-**Fixes**
 - Fixed an issue where the "Create draft" and "Unpublish" buttons would not show up in the document rollup (#118540).
 - Corrected the date format in the publish dialog (#1150589).
 
