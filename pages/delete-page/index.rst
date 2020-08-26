@@ -1,5 +1,5 @@
-Archive
-===========
+Archive a page
+================= 
 
 When working with the navigation you can archive a page that is no longer needed. This is instead of a delete option. Just remember that if other pages links to a page you archive, the links will no longer work. You have to edit or remove such links.
 
@@ -19,7 +19,7 @@ Here's how to archive a page:
 
 4. Select "ARCHIVE".
 
-.. image:: archive-manu2.png
+.. image:: archive-menu2.png
 
 Something like the following is shown:
 
@@ -31,33 +31,33 @@ Note the message "You are about to archive a lot of pages" which is telling you 
 
 Archiving a Page Collection
 ****************************
-Archiving a Page Collection works exactly the same as is described above. Just select the page collection's top node and select Archive.
+Archiving a Page Collection works exactly the same as described above. Just select the page collection's top node and select Archive.
 
 Archiving a Page Type
 **********************
-Page Types that are used for unarchived pages can not be archived. If you would like to archive pages and the page type used for these pages, archive the pages first, and then the page type.
+Page Types that are used for active pages (published or drafts) can not be archived. If you would like to archive pages and the page type used for these pages, archive the pages first, and then the page type.
 
 Restore or terminate an archived page
 *****************************************
 If you have Publishing App Administrator permissions you can restore or terminate an archived page, with eventual sub pages, for that Publishing App. Page Collections and Page Types works the same way.
 
-All archived pages for Publishing the App are available here:
+All archived pages for the Publishing App are available here:
 
 .. image:: archive.png
 
-All list of archived pages can look like this:
+A list of archived pages can look like this:
 
 .. image:: archive-list.png
 
-Note that four lists are available: Pages, Page Collections, Page Types and All. the four lists works the same, the differnce is the content.
+Note that four lists are available: Pages, Page Collections, Page Types and All. The four lists works the same, the differnce is the content.
 
 You can for example see who archived the post and the comment made by that person. Under Pages you can see the number of published pages to the left and the number of drafts to the right. 
 
 If the list is long you can use the filters at the top to search or filter the list.
 
-Terminate an archived post
+Terminate an archived page
 ----------------------------
-To save space you can terminate an archived page (with it's sub pages if applicable). It's done the same way for Page Collections and Page Types.
+To save space you can terminate an archived page (with it's sub pages drafts if applicable). It's done the same way for Page Collections and Page Types.
 
 **Note!** When you terminate an archived post it's really gone, so be careful here.
 
