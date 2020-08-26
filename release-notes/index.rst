@@ -4,6 +4,7 @@ Release Notes
 .. toctree::
    :titlesonly:
 
+   5.0/index
    4.1/index
    4.0.0/index
    3.4.6/index
