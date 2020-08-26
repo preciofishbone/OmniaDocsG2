@@ -1,4 +1,4 @@
-Draft Release 5.0.x
+Release 5 (DRAFT)
 ========================================
 *NOTE: Items might be added, altered or removed.*
 
@@ -6,7 +6,8 @@ Newsletter
 ----------------------------------------
 You can setup a Page Collection to allow for pages to be sent out as e-mail.
 
-.. image:: newsletters-settings.png
+.. image:: newsletter-settings.png
+
 
 This makes it possible to create an archive for Newsletters.
 
