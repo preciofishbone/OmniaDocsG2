@@ -42,7 +42,7 @@
     <link rel="top" title="Omnia  documentation" href="../../../index.html"/>
         <link rel="up" title="Business Profile Settings" href="../index.html"/>
         <link rel="next" title="Security" href="../security/index.html"/>
-        <link rel="prev" title="Publishing Apps" href="../publishing-apps/index.html"/> 
+        <link rel="prev" title="Publishing" href="../publishing-apps/index.html"/> 
 
   
   <script src="../../../_static/js/modernizr.min.js"></script>
@@ -100,12 +100,13 @@
 <li class="toctree-l3"><a class="reference internal" href="../notification-panel/index.html">Notification Panel</a></li>
 <li class="toctree-l3"><a class="reference internal" href="../omnia-feed/index.html">Omnia Feed - Business Profile Settings</a></li>
 <li class="toctree-l3"><a class="reference internal" href="../provisioning-templates/index.html">Provisioning Templates</a></li>
-<li class="toctree-l3"><a class="reference internal" href="../publishing-apps/index.html">Publishing Apps</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../communities/index.html">Communities</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../publishing-apps/index.html">Publishing</a></li>
 <li class="toctree-l3 current"><a class="current reference internal" href="#">Search</a></li>
 <li class="toctree-l3"><a class="reference internal" href="../security/index.html">Security</a></li>
 <li class="toctree-l3"><a class="reference internal" href="../settings/index.html">Settings</a></li>
 <li class="toctree-l3"><a class="reference internal" href="../shared-links/index.html">Shared Links</a></li>
-<li class="toctree-l3"><a class="reference internal" href="../team-collaboration/index.html">Team Collaboration</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../team-collaboration/index.html">Teamwork</a></li>
 </ul>
 </li>
 </ul>
@@ -115,6 +116,7 @@
 <li class="toctree-l1"><a class="reference internal" href="../../../pages/index.html">Pages</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../working-with-documents/index.html">Working with Documents</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../working-with-processes/index.html">Working with Processes</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../using-communities/index.html">Using Communities</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../user-options/index.html">User options</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../setup/index.html">Setup</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../roadmap/index.html">In development</a></li>
@@ -200,15 +202,16 @@
 <div class="section" id="search-categories">
 <h3>Search Categories<a class="headerlink" href="#search-categories" title="Permalink to this headline">¶</a></h3>
 <p>To create a new Search Category, click the plus and use the following settings:</p>
-<img alt="../../../_images/search-config-categories.png" src="../../../_images/search-config-categories.png" />
+<img alt="../../../_images/search-config-categories-2.png" src="../../../_images/search-config-categories-2.png" />
 <ul class="simple">
 <li><strong>Title</strong>: Add a title for the Search Category.</li>
 <li><strong>Search Result Source</strong>: Select Source from the list.</li>
 <li><strong>Search Query</strong>: Add the Search Query here (see below for an example).</li>
+<li><strong>Sort By</strong>: Choose property to sort by, or you can choose to sort by Relevance or Popularity (at the bottom of the list).</li>
+<li><strong>Sort Direction</strong>: When you have chosen a property to sort by, you can select a sort direction here.</li>
 <li><strong>Search Templates</strong>: Select one or more Search Templates from the list.</li>
+<li><strong>Targeting filter</strong>: A search category can be targeted to a specific group of people based on the targeting system in Omnia. This setting will be used both in Quick and Advanced search.</li>
 </ul>
-<p>Here’s an example of a Search Category:</p>
-<img alt="../../../_images/search-example-border.png" src="../../../_images/search-example-border.png" />
 <p>The same settings are available when editing a Search Category.</p>
 </div>
 <div class="section" id="search-templates">
@@ -220,7 +223,7 @@
 </div>
 <div class="section" id="quick-search">
 <h2>Quick Search<a class="headerlink" href="#quick-search" title="Permalink to this headline">¶</a></h2>
-<p>Quick Search is available in the Heading (can be turned off in settings):</p>
+<p>Quick Search is available in the Heading (can be turned off in settings) or through the Search block:</p>
 <img alt="../../../_images/quick-search-start-page-new.png" src="../../../_images/quick-search-start-page-new.png" />
 <p>For Quick Search, the following settings are available:</p>
 <img alt="../../../_images/quick-search-settings-new2.png" src="../../../_images/quick-search-settings-new2.png" />
@@ -228,22 +231,28 @@
 <li><strong>Search Categories</strong>: One or more Search Categories can be added (if more than one is available).</li>
 <li><strong>Row Limit</strong>: You can set Row Limit for each Search Category. Row Limit is the number of objects per Search Results “page”.</li>
 </ul>
+<p>For more information about the Search block, see: <a class="reference internal" href="../../../blocks/search/index.html"><span class="doc">The Search block</span></a></p>
 </div>
 <div class="section" id="advanced-search">
 <h2>Advanced Search<a class="headerlink" href="#advanced-search" title="Permalink to this headline">¶</a></h2>
-<p>When a search has been made in Quick Search, Advanced Search is available through by a link at the bottom, for example:</p>
+<p>When a search has been made in Quick Search, Advanced Search is available through a link at the bottom. Advanced search can also be made available using the Search block.</p>
 <img alt="../../../_images/advanced-search-in-quick-new.png" src="../../../_images/advanced-search-in-quick-new.png" />
 <p>Something like this is shown:</p>
 <img alt="../../../_images/advanced-search-example-new.png" src="../../../_images/advanced-search-example-new.png" />
 <p>To the left refiners are shown, if any are set up.</p>
+<p>For more information on how to make Advanced search available through the Search block, see: <a class="reference internal" href="../../../blocks/search/index.html"><span class="doc">The Search block</span></a></p>
 <p>Use these settings for Advanced Search:</p>
-<img alt="../../../_images/advanced-search-new2.png" src="../../../_images/advanced-search-new2.png" />
+<img alt="../../../_images/advanced-search-all.png" src="../../../_images/advanced-search-all.png" />
+<div class="section" id="general">
+<h3>General<a class="headerlink" href="#general" title="Permalink to this headline">¶</a></h3>
+<p>On this tab the following settings are available:</p>
+<img alt="../../../_images/advanced-search-new3.png" src="../../../_images/advanced-search-new3.png" />
 <ul class="simple">
 <li><strong>Refiner Positions</strong>: Select where the Refiners will be placed - Left or Right.</li>
 <li><strong>Search Categories</strong>: Add one or more Search Categories to use in Advanced Search.</li>
 </ul>
 <p>Additional settings can be reached by clicking the pen for a Search Category:</p>
-<img alt="../../../_images/advanced-search-pen-new.png" src="../../../_images/advanced-search-pen-new.png" />
+<img alt="../../../_images/advanced-search-pen-new2.png" src="../../../_images/advanced-search-pen-new2.png" />
 <p>Then these settings are available:</p>
 <img alt="../../../_images/advanced-search-category-settings-new.png" src="../../../_images/advanced-search-category-settings-new.png" />
 <ul class="simple">
@@ -271,6 +280,12 @@
 <p>The user can now use the refiners to the left to for example just display documents for the Product Family City Bikes, which is just three documents:</p>
 <img alt="../../../_images/search-refiners-example-refined.png" src="../../../_images/search-refiners-example-refined.png" />
 </div>
+<div class="section" id="custom-search-target">
+<h3>Custom Search Target<a class="headerlink" href="#custom-search-target" title="Permalink to this headline">¶</a></h3>
+<p>If you activate this option you can change what will happen when a user clicks the Advanced Search link, for example after having made a Quick Search. This is useful for example if a specific Search Center should be used.</p>
+<img alt="../../../_images/custom-search-target.png" src="../../../_images/custom-search-target.png" />
+</div>
+</div>
 </div>
 
 
@@ -286,7 +301,7 @@
         <a href="../security/index.html" class="btn btn-neutral float-right" title="Security" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right"></span></a>
       
       
-        <a href="../publishing-apps/index.html" class="btn btn-neutral" title="Publishing Apps" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>
+        <a href="../publishing-apps/index.html" class="btn btn-neutral" title="Publishing" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>
       
     </div>
   
@@ -296,7 +311,7 @@
   <div role="contentinfo">
     <p>
         &copy; Copyright 2020, Precio Fishbone.
-      Last updated on May 05, 2020.
+      Last updated on Aug 26, 2020.
 
     </p>
   </div>

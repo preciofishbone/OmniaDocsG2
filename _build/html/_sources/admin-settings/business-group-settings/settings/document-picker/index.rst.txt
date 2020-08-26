@@ -1,11 +1,9 @@
 Document Picker settings
 =============================
 
-Here you set up categories for the Document Picker. Each category is then available as a tab in the Documewnt Picker.
+Here you set up categories for the Document Picker. Each category is then available as a tab in the Documewnt Picker. 
 
-An example:
-
-These categories:
+Here's an example. These categories:
 
 .. image:: document-picker-categories.png
 
@@ -44,12 +42,12 @@ Is displayed this way in the Document Picker:
 
 .. image:: document-picker-filter-example-1.png
 
-Edir or remove Document Picker categories
+Edit or remove Document Picker categories
 ******************************************
 Use the pen to edit a category and the dust bin to delete it. 
 
 .. image:: dp-categpries-edit-delete.png
 
-A deleted Document category is removed from the Document Picker immidiately.
+A deleted Document category is removed from the Document Picker immediately.
 
 

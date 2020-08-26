@@ -63,9 +63,11 @@ Note that you can allow authors to add new shapes even when using a Process Temp
 
 To make it possible for an author to draw shapes, select "Freeform" in the list.
 
-**Important Note!** If the author should be able to adde clickable areas to a bckground image, the Process Template must contain Freeform.
+**Important Note!** If the author should be able to add clickable areas to a bckground image, the Process Template must contain Freeform.
 
 .. image:: process-templates-freeform.png
+
+**Tip!** If you add a Freeform shape intended for use for clickable areas on a background image, you should set the background colors to none, as such a Freeform shape will have to be transparent.
 
 To make it possible for an author to add images as shapes, select "Media" in the list.
 

@@ -6,14 +6,15 @@ Blocks
 
    
    accordion/index
+   button-link/index
    announcements/index
    banner/index
    breadcrumb/index
-   button-link/index
    calendar-rollup/index
    current-navigation/index
    document-rollup/index
    general-block-settings/index
+   governance-dashboard/index
    html-script/index
    media/index
    mega-menu/index
@@ -27,7 +28,7 @@ Blocks
    people-rollup/index
    process-blocks/index
    quick-links/index
-   rate/index
+   rating/index
    related-links/index
    rss-reader/index
    search/index
