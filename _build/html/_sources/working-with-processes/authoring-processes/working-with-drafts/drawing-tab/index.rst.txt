@@ -26,7 +26,11 @@ Here's an example with shapes outlined:
 
 .. image:: pm-drawing-canvas-4.png
 
-**Very important!** The canvas setting is the same for all devices so you have to consider what canvas size is the most user friendly for the devices most commonly used in your organization for accessing the process.
+If the whole grid can't be displayed, icons for scrolling are shown, for example:
+
+.. image:: pm-drawing-scrolling.png
+
+**Very important!** The canvas setting is the same for all devices so you have to consider what canvas size is the most user friendly for the devices most commonly used in your organization for accessing the process. 
 
 Working with shapes
 *********************
@@ -51,6 +55,7 @@ To select a shape, just click it and the following settings is shown:
 .. image:: pm-drawing-shape-settings-settings.png
 
 + **Shape Type**: Here you decide what to use the shape for. Process Step is the default. You can also choose "None", which means it's just an image; "Linked process" and "Link". All selections except "None" creates a clickable shape. See below for more information. Note that to be able to create a linked process, other processes must already exist, to link to. 
++ **Process step**: If you already have created the process steps, select the process step to go to when the shape is clicked, using this list.
 + **Select Process**: When you have selected "Linked Process" in the top list, use this list to choose the process to link to.
 + **Add Link**: When you have selected "Link" in the top list, this option is shown. See below for more information.
 + **Title**: Add the text that should be displayed for the shape here, if a text should be displayed. You can see a preview to the right. You can add the title in any or all available languages.
@@ -62,7 +67,7 @@ To select a shape, just click it and the following settings is shown:
 .. image:: pm-drawing-shape-settings-settings-more.png
 
 + **Font Size**: Set the font size in pixels for the text here.
-+ **Colors**: Use the options in this section to set details for colors, for the shape and text.
++ **Colors**: Use the options in this section to set details for colors, for the shape and text.  Note that you can set colors for three states of the shape: not selected, selected and hovered.
 
 When you select the option "Add Link", you can use the following settings:
 
@@ -88,9 +93,15 @@ To adjust the size of the shape, click it and use the handles to drag to the des
 
 .. image:: pm-drawing-shape-size.png
 
+Edit a shape
+--------------
 To edit the settings for a shape, click the shape and then click the pen.
 
 .. image:: pm-drawing-shape-edit.png
+
+When you edit a shape for a process step, note that you can edit ALL settings for the process step in the Shape Settings, for example:
+
+.. image:: pm-drawing-shape-edit-tabs.png
 
 Clone a shape
 ---------------
@@ -150,6 +161,8 @@ The Media Picker opens and you use it to upload an image from your computer or f
 .. image:: pm-background-image-3.png
 
 For more information on how to use the Media Picker, see: :doc:`Media Picker </general-assets/media-picker/index>`
+
+**Note!** When you upload a background image, the canvas size adjusts automatically.
 
 Adding clickable areas to a drawing
 -------------------------------------
