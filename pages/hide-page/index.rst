@@ -5,20 +5,20 @@ Using this option you can hide a page, draft or published, or a whole section of
 
 You can then unhide (Show) when it's time to make to page(s) available.
 
-While a page is hidden it can not be found through search, not by anyone, in fact even not by yourself. The only way to access a hidden page is through tha navigation when in edit mode.
+While a page is hidden it can not be found through search, not by anyone, in fact even not by yourself. The only way to access a hidden page is through the navigation when in edit mode.
 
-You can hide any number of sub pages in one go. Just select the main page and hide, and all sub pages are also hidden. The reverse is also true, unhide the main page and all sub pages are also unhidden.
+You can hide any number of sub pages in one go. Just select the main page and hide, and all sub pages are also hidden. The reverse is also true, unhide (Show) the main page and all sub pages are also unhidden.
 
 Hide a page
 ************
 To hide a page, do the following:
 
-1. Open a page for editing.
+1. Open any page for editing.
 2. Select the page in the navigation (sub pages are automatically selected).
 
 .. image:: hide-select.png
 
-3. Open the Action meny in the lower right corner.
+3. Open the Action menu in the lower right corner.
 
 .. image:: hide-menu.png
 
@@ -28,9 +28,9 @@ To hide a page, do the following:
 
 Something like the following is shown:
 
-..image:: hide-message.png
+.. image:: hide-message.png
 
-Note the message "A lot of pages could be affected" which is an indication of that sub pages exists.
+Note the message "A lot of pages could be affected" which is an indication that sub pages exists.
 
 5. Click OK to hide.
 
@@ -52,11 +52,11 @@ To show a hidden page and all it's sub pages, do the following:
 
 .. image:: unhide-show.png
 
-Something like to following is shown:
+Something like to following is displayed:
 
 .. image:: unhide-show-message.png
 
-3. Click OK to show the page with all sub pages.
+3. Click OK to show the page with all sub pages (drafts remain drafts of course).
 
 
 
