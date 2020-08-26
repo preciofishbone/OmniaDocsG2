@@ -2,7 +2,7 @@ Release 2.4
 ========================================
 
 New features and enhancements
-***********************
+******************************
 
 - RTF editor in the Accordion has been aligned with other RTF editors.
 - Made it possible to set all colors of the notification panel. Background Color, Active background color, Icon color, Active Icon color, Notification count color and border color.

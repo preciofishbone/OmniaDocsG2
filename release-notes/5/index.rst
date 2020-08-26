@@ -29,6 +29,7 @@ New SharePoint file structure
 -----------------------------------------
 - The file structure of SharePoint data has been remade to be more logical and human readable.
 - The SharePoint site pages can now be configured to contain Title, Summary, Content, Image.
+
 *NOTE: If search rules have been setup based on path, these must be updated to match the new content structure*
 
 

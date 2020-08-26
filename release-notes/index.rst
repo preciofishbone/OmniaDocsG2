@@ -4,8 +4,8 @@ Release Notes
 .. toctree::
    :titlesonly:
 
-   5.0/index
-   4.0/index
-   3.0/index
-   2.0/index
+   5/index
+   4/index
+   3/index
+   2/index
    omnia-feed/index
