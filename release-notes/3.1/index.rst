@@ -1,12 +1,6 @@
 Release 3.1
 ========================================
 
-.. toctree::
-   :titlesonly:
-
-   3.1.5/index
-   3.1.4/index
-
 New features
 ----------------------------------------
 - Omnia Feed is now supported in Omnia for Modern SharePoint Tenants.
@@ -64,3 +58,7 @@ People and Networking
 ***********************
 - Fixed a problem where the search box would not display in the people rollup.
 
+.. toctree::
+   :titlesonly:
+
+   versions

@@ -263,6 +263,4 @@ Fixes to the preview version
 .. toctree::
    :titlesonly:
 
-   4.0.3/index
-   4.0.8/index
-   4.0.9/index
+   versions
