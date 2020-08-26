@@ -56,7 +56,7 @@ Something like to following is displayed:
 
 .. image:: unhide-show-message.png
 
-3. Click OK to show the page with all sub pages.
+3. Click OK to show the page with all sub pages (drafts remain drafts of course).
 
 
 
