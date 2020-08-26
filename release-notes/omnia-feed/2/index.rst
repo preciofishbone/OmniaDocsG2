@@ -1,4 +1,4 @@
-Omnia Feed 2.0
+Omnia Feed 2
 ============================================================================
 
 Enhanced look and feel and improved performance.

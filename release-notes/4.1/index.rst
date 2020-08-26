@@ -1,16 +1,6 @@
 4.1
 ========================================
 
-.. toctree::
-   :titlesonly:
-
-   4.1.1/index
-   4.1.3/index
-   4.1.5/index
-   4.1.6/index
-   4.1.9/index
-   4.1.13/index
-
 Enhancements
 ------------------------------------
 
@@ -109,3 +99,13 @@ Fixes
 - Fixed a styling issue on page links in related links.
 - Show more on refiners now works as expected in advanced search (#120347).
 - Corrected an issue related to syncing enterprise properties to the term store in Document Management and Process Management (#120338).
+
+.. toctree::
+   :titlesonly:
+
+   4.1.1/index
+   4.1.3/index
+   4.1.5/index
+   4.1.6/index
+   4.1.9/index
+   4.1.13/index

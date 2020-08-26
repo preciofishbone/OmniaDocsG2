@@ -1,13 +1,6 @@
 Release 4
 ========================================
 
-.. toctree::
-   :titlesonly:
-
-   4.0.3/index
-   4.0.8/index
-   4.0.9/index
-
 SPFx Upgrade Needed
 -----------------------------------------
 
@@ -266,3 +259,10 @@ Fixes
 Fixes to the preview version
 *************************
 (#118657, #118679, #118755, #118685, #118765, #118699, #118641, #118741)
+
+.. toctree::
+   :titlesonly:
+
+   4.0.3/index
+   4.0.8/index
+   4.0.9/index

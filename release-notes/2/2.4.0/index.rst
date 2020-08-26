@@ -1,4 +1,4 @@
-Release 2.4
+2.4
 ========================================
 
 New features and enhancements

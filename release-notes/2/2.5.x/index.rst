@@ -1,4 +1,4 @@
-Release 2.5
+2.5
 ========================================
 
 New features and enhancements

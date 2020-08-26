@@ -1,4 +1,4 @@
-Release 2.1.1
+2.1.1
 ========================================
 
 New Features and Enhancements

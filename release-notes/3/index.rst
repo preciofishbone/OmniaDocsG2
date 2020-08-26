@@ -1,14 +1,6 @@
 Release 3
 ========================================
 
-.. toctree::
-   :titlesonly:
-
-   3.4.6/index
-   3.4.4/index
-   3.4.1/index
-   3.1.0/index
-
 New features
 ----------------------------------------
 
@@ -27,7 +19,6 @@ Here we can decide whether the position of the footer should be positioned at th
 - It is now possible to disable comments and/or likes for specific pages. This feature is available for users with Author permissions or higher:
 
 .. image:: allow-comments-and-likes.png
-
 
 Enhancements
 ------------------------------------
@@ -81,3 +72,14 @@ Fixes
 - The issue with attach site in Team Collaboration where the team site could not be attached is now resolved.
 - Issues that occure when delete pages are now resolved.
 - Page variation settings is now displayed correctly in notification panel.
+
+.. toctree::
+   :titlesonly:
+
+   3.1.0/index
+   3.4.1/index
+   3.4.4/index
+   3.4.6/index
+
+ 
+
