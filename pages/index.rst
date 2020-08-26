@@ -15,6 +15,7 @@ In this part of the documentation you will find information concerning how to wo
    language-versions-of-a-page/index
    publish-page-changes/index
    version-history/index
+   hide-page/index
    page-approval/index
    edit-page-navigation/index
    edit-permissions/index
