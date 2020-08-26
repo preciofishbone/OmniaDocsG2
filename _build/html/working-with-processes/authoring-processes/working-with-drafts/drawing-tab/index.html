@@ -125,6 +125,7 @@
 <li class="toctree-l2"><a class="reference internal" href="../../../displaying-processes-for-users/index.html">Displaying processes for users</a></li>
 </ul>
 </li>
+<li class="toctree-l1"><a class="reference internal" href="../../../../using-communities/index.html">Using Communities</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../../user-options/index.html">User options</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../../setup/index.html">Setup</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../../roadmap/index.html">In development</a></li>
@@ -219,6 +220,8 @@
 <img alt="../../../../_images/pm-drawing-canvas-3.png" src="../../../../_images/pm-drawing-canvas-3.png" />
 <p>Here’s an example with shapes outlined:</p>
 <img alt="../../../../_images/pm-drawing-canvas-4.png" src="../../../../_images/pm-drawing-canvas-4.png" />
+<p>If the whole grid can’t be displayed, icons for scrolling are shown, for example:</p>
+<img alt="../../../../_images/pm-drawing-scrolling.png" src="../../../../_images/pm-drawing-scrolling.png" />
 <p><strong>Very important!</strong> The canvas setting is the same for all devices so you have to consider what canvas size is the most user friendly for the devices most commonly used in your organization for accessing the process.</p>
 </div>
 <div class="section" id="working-with-shapes">
@@ -238,6 +241,7 @@
 <img alt="../../../../_images/pm-drawing-shape-settings-settings.png" src="../../../../_images/pm-drawing-shape-settings-settings.png" />
 <ul class="simple">
 <li><strong>Shape Type</strong>: Here you decide what to use the shape for. Process Step is the default. You can also choose “None”, which means it’s just an image; “Linked process” and “Link”. All selections except “None” creates a clickable shape. See below for more information. Note that to be able to create a linked process, other processes must already exist, to link to.</li>
+<li><strong>Process step</strong>: If you already have created the process steps, select the process step to go to when the shape is clicked, using this list.</li>
 <li><strong>Select Process</strong>: When you have selected “Linked Process” in the top list, use this list to choose the process to link to.</li>
 <li><strong>Add Link</strong>: When you have selected “Link” in the top list, this option is shown. See below for more information.</li>
 <li><strong>Title</strong>: Add the text that should be displayed for the shape here, if a text should be displayed. You can see a preview to the right. You can add the title in any or all available languages.</li>
@@ -249,7 +253,7 @@
 <img alt="../../../../_images/pm-drawing-shape-settings-settings-more.png" src="../../../../_images/pm-drawing-shape-settings-settings-more.png" />
 <ul class="simple">
 <li><strong>Font Size</strong>: Set the font size in pixels for the text here.</li>
-<li><strong>Colors</strong>: Use the options in this section to set details for colors, for the shape and text.</li>
+<li><strong>Colors</strong>: Use the options in this section to set details for colors, for the shape and text.  Note that you can set colors for three states of the shape: not selected, selected and hovered.</li>
 </ul>
 <p>When you select the option “Add Link”, you can use the following settings:</p>
 <img alt="../../../../_images/pm-drawing-shape-settings-add-link.png" src="../../../../_images/pm-drawing-shape-settings-add-link.png" />
@@ -265,8 +269,13 @@
 <p>Note that when you add a new shape it’s placed in the upper left corner of the canvas, and text above may not be seen. It that is not the intended position, use drag and drop to place the new shape. You can place a shape anywhere within the canvas.</p>
 <p>To adjust the size of the shape, click it and use the handles to drag to the desired size.</p>
 <img alt="../../../../_images/pm-drawing-shape-size.png" src="../../../../_images/pm-drawing-shape-size.png" />
+</div>
+<div class="section" id="edit-a-shape">
+<h3>Edit a shape<a class="headerlink" href="#edit-a-shape" title="Permalink to this headline">¶</a></h3>
 <p>To edit the settings for a shape, click the shape and then click the pen.</p>
 <img alt="../../../../_images/pm-drawing-shape-edit.png" src="../../../../_images/pm-drawing-shape-edit.png" />
+<p>When you edit a shape for a process step, note that you can edit ALL settings for the process step in the Shape Settings, for example:</p>
+<img alt="../../../../_images/pm-drawing-shape-edit-tabs.png" src="../../../../_images/pm-drawing-shape-edit-tabs.png" />
 </div>
 <div class="section" id="clone-a-shape">
 <h3>Clone a shape<a class="headerlink" href="#clone-a-shape" title="Permalink to this headline">¶</a></h3>
@@ -319,6 +328,7 @@
 <p>The Media Picker opens and you use it to upload an image from your computer or from any of the available resources, for example:</p>
 <img alt="../../../../_images/pm-background-image-3.png" src="../../../../_images/pm-background-image-3.png" />
 <p>For more information on how to use the Media Picker, see: <a class="reference internal" href="../../../../general-assets/media-picker/index.html"><span class="doc">Media Picker</span></a></p>
+<p><strong>Note!</strong> When you upload a background image, the canvas size adjusts automatically.</p>
 <div class="section" id="adding-clickable-areas-to-a-drawing">
 <h3>Adding clickable areas to a drawing<a class="headerlink" href="#adding-clickable-areas-to-a-drawing" title="Permalink to this headline">¶</a></h3>
 <p>If you have uploaded a drawing you can place clickable areas on that drawing, to go to process steps and more.</p>
@@ -411,7 +421,7 @@
   <div role="contentinfo">
     <p>
         &copy; Copyright 2020, Precio Fishbone.
-      Last updated on May 05, 2020.
+      Last updated on Jul 02, 2020.
 
     </p>
   </div>

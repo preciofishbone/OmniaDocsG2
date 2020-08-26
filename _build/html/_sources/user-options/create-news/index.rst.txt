@@ -3,7 +3,7 @@ Create News
 
 Colleagues with the right permission can create and publish news in a specific News Center. It's very common that only a dedicated group of authors can do that but it's also possible that all colleagues have this permission.
 
-If you have the permission necessary to create news, this button is shown in the News Archive. The button can alos be made available on other pages.
+If you have the permission necessary to create news, this button is shown in the News Archive. The button can also be made available on other pages.
 
 .. image:: create-news-button-new.png
 
@@ -25,7 +25,7 @@ Available blocks and more are dependant on how the Page Type fo news is set up.
 
 You can see that the file name you entered in the previous step is suggested as the News Articles heading ("Spring is in the air" in this example). It can be edited if needed.
 
-What you actuallt need to do depends on the Page Type (template) for news is set up. Here's som common steps:
+What you actually need to do depends on the Page Type (template) for news. Here's some common steps:
 
 3. Add an image for  the News Article. A part of that image can also be used as the image in a News list (which is automatic if used).
 4. Add a short introduction in the third block ("Put your news summary here ..."), under the heading, just click and write.
@@ -35,7 +35,7 @@ What you actuallt need to do depends on the Page Type (template) for news is set
 
 6. Add content to other blocks as necessary.
 
-Creating and editing a News Article works the same way as working with a publishing page regarding adding, removing and moving blocks and adding content. The difference is that this is special Page Type (Page Template) for News Articles only.
+Creating and editing a News Article works the same way as working with a publishing page regarding adding, removing and moving blocks and adding content. The difference is that this is a special Page Type (Page Template) for News Articles only.
 
 All general instrtuctions apply for working with blocks, see: :doc:`Working-with-blocks </blocks/working-with-blocks/index>`
 

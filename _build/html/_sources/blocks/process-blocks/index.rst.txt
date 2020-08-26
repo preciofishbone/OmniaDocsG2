@@ -13,6 +13,7 @@ Process blocks
    process-links/index
    process-navigation/index
    process-properties/index
+   process-rollup/index
    process-tasks/index
    process-title/index
    

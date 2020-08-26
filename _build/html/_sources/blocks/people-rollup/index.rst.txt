@@ -107,28 +107,7 @@ Use these settings to add filters for the users to use. An example could be if a
 
 .. image:: peoplerollup-settings-filter-new2.png
 
-+ **Position**: Decide where to place the filters; top, left or right. Tip! The Top position for filters is most likely the best for this block.
-+ **Add filter**: Click this button to add a filter.
-+ **Show Search Box**: To display a Search Box so users can search the list, select this option.
-+ **Only Search when using filter**: Select this to always start with an empty list. Users must always search or select a filter for any people posts to be listed.
-
-To add a new filter, do the following:
-
-1. Click "Add filter".
-
-.. image:: click-add-filter.png
-
-2. Open the list and select a property to filter on.
-
-.. image:: people-add-filter.png
-
-3. Add additional filter settings if needed.
-
-.. image:: peopleadd-filter-more.png
-
-4. Continue and add all filters the same way.
-
-**Important note on query and search**: If the query sets a limit of users that can meet the search criteria, the search can only be done within that limited group.
+For more information on how to ass filters, or a search box, see this page: :doc:`Filter UI </blocks/general-block-settings/filters/index>`
 
 Refiner
 ---------

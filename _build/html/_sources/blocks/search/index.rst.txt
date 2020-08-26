@@ -1,37 +1,52 @@
-Advanced Search
+Search
 ===========================================
 
-The Advanced Search block adds the same search functionality as the Advanced Search found in Quick Search. Settings for Search are set up in Omnia Admin, see: :doc:`Business Profile Settings - Search </admin-settings/business-group-settings/search/index>`
+The Search block can be used for Quick Search or Advanced Search. 
 
-
-**Note!** This block needs a very wide area.
-
-The user experience
-********************
-The first thing the user will see is this:
-
-.. image:: adv-search-1.png
-
-When the user has conducted a search something like the following is shown:
-
-.. image:: adv-search-2.png
-
-The search result diplays the number of hits in each search category. This search found 2 pages, 13 team documents, 3 published documents (meaning controlled documents) and 3 product manuals, all of which the logged in user has permissions to read.
-
-As the next step the user selects one of the search categories, for example:
-
-.. image:: adv-search-3.png
-
-If refiners has been set up (as in this example) the user can narrow down the search result, if the list is long.
-
-And finally, the user can click the link to open the page or document.
+**Note!** When used for Advanced Search, this block needs a really wide area, more or less the whole page.
 
 Settings
 **********
-You can add a title for the block if needed:
+The following settings are avilable:
 
-.. image:: advanced-search-settings-block-new2.png
+.. image:: search-block-settings-2.png
 
-If no variation exists for the page, it looks like in the image above and you can set the title in the languages active in the tenant. If variations exists, only one title can be set. In that case, titles in other languages are set in the variations.	
++ **Title**: You can add a title for the block here. If variations exists, only one title can be set. In that case, titles in other languages are set in the variations. If no variation exists for the page, you can set the title in any or all languages active in the tenant. 
++ **Show Results in Dropdown**: If search results should be available in a dropdown list, select this option.
++ **Dropdown Max Height**: When the above option is selected you can set the maximum height in pixels for the dropdown.
++ **Add @search parameter to the query string**: For advanced search implementations. With this option active you can add parameters to the search query string, for various implementations. 
++ **Trigger Search on Loaded**: If the above option is selected, select this option if a search should be executed when the page is loaded.
++ **Search mode**: Select search mode, Quick or Advanced.
++ **Padding**: You can add some padding if needed.
 
 The tabs Layout and Advanced contain general settings, see: :doc:`General Block Settings </blocks/general-block-settings/index>`
+
+Settings for Search are set up in Omnia Admin, see: :doc:`Business Profile Settings - Search </admin-settings/business-group-settings/search/index>`
+
+Quick search example
+*********************
+When a user has conducted a Quick search using this block, it can look like this:
+
+.. image:: quick-search-example-block.png
+
+For "People" the name can be clicked to go to the person's Delve page. For pages and documents users can point at the post and click this icon for a preview:
+
+.. image:: quick-search-example-block-preview.png
+
+More search hits can be available through the link at the bottom:
+
+.. image:: quick-search-example-block-more.png
+
+When this link is clicked, the Advanced Search opens.
+
+Advanced Search example
+*************************
+When a user has conducted an Advanced search using this block, it can look like this:
+
+.. image:: advanced-search-example-block.png
+
+Users can select categories at the top and refiners to the right.
+
+
+
+

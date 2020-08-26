@@ -1,7 +1,7 @@
 Hide a page
 ==============
 
-Using this option you can hide a published page, or a whole section of main page and sub pages. Even a page that has been published for a while, with any number of versions, can be hidden.
+Using this option you can hide a page, draft or published, or a whole section of main page and sub pages. Even a page that has been published for a while, with any number of versions, can be hidden.
 
 You can then unhide (Show) when it's time to make to page(s) available.
 
@@ -40,7 +40,7 @@ A hidden page is indicated this way in the navigation:
 
 Show a hidden page
 *********************
-You show a hidden main page and all it's sub pages in one go. You can show a sub page separately for a main page that is hidden.
+You show a hidden main page and all it's sub pages in one go. You can't show a sub page separately for a main page that is hidden.
 
 To show a hidden page and all it's sub pages, do the following:
 
