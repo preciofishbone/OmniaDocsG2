@@ -76,10 +76,7 @@ Fixes
 .. toctree::
    :titlesonly:
 
-   3.1.0/index
-   3.4.1/index
-   3.4.4/index
-   3.4.6/index
+   versions
 
  
 

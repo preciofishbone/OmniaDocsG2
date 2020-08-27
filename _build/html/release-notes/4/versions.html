@@ -8,7 +8,7 @@
   
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   
-  <title>Release 5 (DRAFT) &mdash; Omnia  documentation</title>
+  <title>4.0.3 &mdash; Omnia  documentation</title>
   
 
   
@@ -40,9 +40,9 @@
               href="../../genindex.html"/>
         <link rel="search" title="Search" href="../../search.html"/>
     <link rel="top" title="Omnia  documentation" href="../../index.html"/>
-        <link rel="up" title="Release Notes" href="../index.html"/>
-        <link rel="next" title="5.0.0" href="versions.html"/>
-        <link rel="prev" title="Release Notes" href="../index.html"/> 
+        <link rel="up" title="Release 4" href="index.html"/>
+        <link rel="next" title="Release 3" href="../3/index.html"/>
+        <link rel="prev" title="Release 4" href="index.html"/> 
 
   
   <script src="../../_static/js/modernizr.min.js"></script>
@@ -103,12 +103,14 @@
 <li class="toctree-l1"><a class="reference internal" href="../../setup/index.html">Setup</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../roadmap/index.html">In development</a></li>
 <li class="toctree-l1 current"><a class="reference internal" href="../index.html">Release Notes</a><ul class="current">
-<li class="toctree-l2 current"><a class="current reference internal" href="#">Release 5 (DRAFT)</a><ul>
-<li class="toctree-l3"><a class="reference internal" href="versions.html">5.0.0</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../5/index.html">Release 5 (DRAFT)</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../4.1/index.html">Release 4.1</a></li>
+<li class="toctree-l2 current"><a class="reference internal" href="index.html">Release 4</a><ul class="current">
+<li class="toctree-l3 current"><a class="current reference internal" href="#">4.0.3</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#id2">4.0.8</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#id4">4.0.9</a></li>
 </ul>
 </li>
-<li class="toctree-l2"><a class="reference internal" href="../4.1/index.html">Release 4.1</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../4/index.html">Release 4</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../3/index.html">Release 3</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../2/index.html">Release 2</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../omnia-feed/index.html">Omnia Feed (Mobile App)</a></li>
@@ -162,13 +164,15 @@
         
           <li><a href="../index.html">Release Notes</a> &raquo;</li>
         
-      <li>Release 5 (DRAFT)</li>
+          <li><a href="index.html">Release 4</a> &raquo;</li>
+        
+      <li>4.0.3</li>
     
     
       <li class="wy-breadcrumbs-aside">
         
             
-            <a href="../../_sources/release-notes/5/index.rst.txt" rel="nofollow"> View page source</a>
+            <a href="../../_sources/release-notes/4/versions.rst.txt" rel="nofollow"> View page source</a>
           
         
       </li>
@@ -181,65 +185,55 @@
           <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
            <div itemprop="articleBody">
             
-  <div class="section" id="release-5-draft">
-<h1>Release 5 (DRAFT)<a class="headerlink" href="#release-5-draft" title="Permalink to this headline">¶</a></h1>
-<div class="admonition note">
-<p class="first admonition-title">Note</p>
-<p class="last"><strong>This is a draft of the release notes. Text might be added, altered or removed.</strong></p>
-</div>
-<div class="admonition note">
-<p class="first admonition-title">Note</p>
-<p>A new app consent is needed to allow Microsoft Teams Single sign on. It contains the following added permissions:</p>
-<ul class="last simple">
-<li><strong>offline_access (Delegated)</strong> Maintain access to data you have given it access to</li>
-<li><strong>openid (Delegated)</strong> Sign users in</li>
-<li><strong>profile (Delegated)</strong>     View users’ basic profile</li>
-</ul>
-</div>
-<div class="section" id="newsletter">
-<h2>Newsletter<a class="headerlink" href="#newsletter" title="Permalink to this headline">¶</a></h2>
-<p>You can setup a Page Collection to allow for pages to be sent out as e-mail.</p>
-<img alt="../../_images/newsletter-settings.png" src="../../_images/newsletter-settings.png" />
-<p>This makes it possible to create an archive for Newsletters.</p>
-</div>
-<div class="section" id="page-lifecycle-improvements">
-<h2>Page Lifecycle Improvements<a class="headerlink" href="#page-lifecycle-improvements" title="Permalink to this headline">¶</a></h2>
-</div>
-<div class="section" id="text-block-improvements">
-<h2>Text Block Improvements<a class="headerlink" href="#text-block-improvements" title="Permalink to this headline">¶</a></h2>
+  <div class="section" id="id1">
+<h1>4.0.3<a class="headerlink" href="#id1" title="Permalink to this headline">¶</a></h1>
+<div class="section" id="fixes">
+<h2>Fixes<a class="headerlink" href="#fixes" title="Permalink to this headline">¶</a></h2>
 <ul class="simple">
-<li>Tables, Media, Links, Paste, Alignment</li>
-<li>Floating Toolbar</li>
-<li>Central Text Styles</li>
+<li>The new datatype “Tags” can now be made searchable in SharePoint.</li>
+<li>Adjustments to page content font sizes.</li>
+<li>Fixed a problem that would sometimes cause the page rollup not to render (#119619).</li>
+<li>Fixed a problem causing display breakpoint settings to become unavailable (#119761).</li>
+<li>Fixes to the new Teamwork navigation migration.</li>
+<li>Fixed a problem where it would not be possible to create a publishing app on the root (#119678).</li>
+<li>Fixed a problem causing the page rollup to not render its selections of page collections (#119547, #119919).</li>
+<li>The SPFx package version number is now updated to reflect the current omnia version. (However, the contents are the same.)</li>
+<li>Advanced search refiners now have the correct alignment.</li>
+<li>Fixed a problem where documents could not be approved when migrated from G1 (#118587, #119733).</li>
+<li>Fixed a problem where the document history would become unavailable on migrated documents (#119631).</li>
+<li>Fixed a problem where default sort order on taxonomy properties would not work correctly in the document rollup.</li>
 </ul>
 </div>
-<div class="section" id="design-improvements">
-<h2>Design Improvements<a class="headerlink" href="#design-improvements" title="Permalink to this headline">¶</a></h2>
+</div>
+<div class="section" id="id2">
+<h1>4.0.8<a class="headerlink" href="#id2" title="Permalink to this headline">¶</a></h1>
+<div class="section" id="id3">
+<h2>Fixes<a class="headerlink" href="#id3" title="Permalink to this headline">¶</a></h2>
 <ul class="simple">
-<li>Page Style</li>
-<li>Card View in Page and People Rollup</li>
-<li>Theming</li>
+<li>Fixed an issue that would cause comments to be from the system instead of the user when comment was posted from Omnia Feed.</li>
+<li>ODMDocumentHistory can now better handle invalid data.</li>
+<li>Stability updates for site creation when running tenant in User Account Mode.</li>
+<li>AzureAD Sync now has a setting to write over values in SharePoint profile will null or not (#120090).</li>
+<li>Fixed a permissing issue with review reminder tasks.</li>
+<li>Fixed an issue that cause base definitions to be missing for new tenants (#119864).</li>
+<li>Platform stability updates.</li>
+<li>SVG files can now be correctly used in the media block.</li>
 </ul>
 </div>
-<div class="section" id="microsoft-teams-integration">
-<h2>Microsoft Teams Integration<a class="headerlink" href="#microsoft-teams-integration" title="Permalink to this headline">¶</a></h2>
 </div>
-<div class="section" id="microsoft-search-integration">
-<h2>Microsoft Search Integration<a class="headerlink" href="#microsoft-search-integration" title="Permalink to this headline">¶</a></h2>
-</div>
-<div class="section" id="governance-dashboards">
-<h2>Governance Dashboards<a class="headerlink" href="#governance-dashboards" title="Permalink to this headline">¶</a></h2>
-</div>
-<div class="section" id="omnia-tenant-contacts">
-<h2>Omnia Tenant Contacts<a class="headerlink" href="#omnia-tenant-contacts" title="Permalink to this headline">¶</a></h2>
-</div>
-<div class="section" id="stacked-processes">
-<h2>Stacked Processes<a class="headerlink" href="#stacked-processes" title="Permalink to this headline">¶</a></h2>
-<div class="toctree-wrapper compound">
-<ul>
-<li class="toctree-l1"><a class="reference internal" href="versions.html">5.0.0</a></li>
+<div class="section" id="id4">
+<h1>4.0.9<a class="headerlink" href="#id4" title="Permalink to this headline">¶</a></h1>
+<div class="section" id="id5">
+<h2>Fixes<a class="headerlink" href="#id5" title="Permalink to this headline">¶</a></h2>
+<ul class="simple">
+<li>Teamwork sites with error now display in public display listings (#120096, #120127, #120285).</li>
+<li>Fixed an issue that would cause new manifests not to update when installing new extensions.</li>
+<li>Danish translation updates (#120289).</li>
+<li>Corrected the behavior of the current navigation in a multi publishing app scenario. (#118484).</li>
+<li>People rollup now works correctly in SPFx (#120283).</li>
+<li>Fixed an issue that would cause external links in quick links to open multiple tabs (#120142).</li>
+<li>The MS Teams Icon on the Teamwork listing now works as expected in IE11.</li>
 </ul>
-</div>
 </div>
 </div>
 
@@ -253,10 +247,10 @@
   
     <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
       
-        <a href="versions.html" class="btn btn-neutral float-right" title="5.0.0" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right"></span></a>
+        <a href="../3/index.html" class="btn btn-neutral float-right" title="Release 3" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right"></span></a>
       
       
-        <a href="../index.html" class="btn btn-neutral" title="Release Notes" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>
+        <a href="index.html" class="btn btn-neutral" title="Release 4" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>
       
     </div>
   
