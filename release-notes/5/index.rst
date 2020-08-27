@@ -10,7 +10,7 @@ Release 5 (DRAFT)
 
 
 Newsletter
-****************************************
+-----------------------------------------
 You can setup a Page Collection to allow for pages to be sent out as e-mail.
 
 
@@ -20,36 +20,37 @@ You can setup a Page Collection to allow for pages to be sent out as e-mail.
 This makes it possible to create an archive for Newsletters.
 
 Page Lifecycle Improvements
-****************************************
+-----------------------------------------
 
 Text Block Improvements
-****************************************
+-----------------------------------------
 - Tables, Media, Links, Paste, Alignment
 - Floating Toolbar
 - Central Text Styles
 
 Design Improvements
-****************************************
+-----------------------------------------
 - Page Style
 - Card View in Page and People Rollup
 - Theming
 
 Microsoft Teams Integration
-****************************************
+-----------------------------------------
 
 Microsoft Search Integration
-****************************************
+-----------------------------------------
 
 Governance Dashboards
-****************************************
+-----------------------------------------
 
 Omnia Tenant Contacts
-****************************************
+-----------------------------------------
 
 Stacked Processes
-****************************************
+-----------------------------------------
 
-
+Versions
+-----------------------------------------
 
 .. toctree::
    :titlesonly:
