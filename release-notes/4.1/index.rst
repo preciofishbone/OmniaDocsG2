@@ -1,10 +1,10 @@
-4.1
+Release 4.1
 ========================================
 
 Enhancements
 ------------------------------------
 
-Omnia
+General
 ***********************
 - Targeting is now possible on custom Azure AD properties.
 - Several WCAG improvements.
@@ -103,9 +103,4 @@ Fixes
 .. toctree::
    :titlesonly:
 
-   4.1.1/index
-   4.1.3/index
-   4.1.5/index
-   4.1.6/index
-   4.1.9/index
-   4.1.13/index
+   versions
