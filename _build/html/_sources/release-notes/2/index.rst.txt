@@ -97,6 +97,9 @@ Improvements
 ----------------------------------------
 - Admin interface restructure
 
+Versions
+****************************************
+
 .. toctree::
    :titlesonly:
 

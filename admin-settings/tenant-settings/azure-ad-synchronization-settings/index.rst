@@ -17,7 +17,7 @@ This is what's available:
 + **Batch Number**: (A description will be added soon).
 + **Delete log after number of days**: Set the number of days the log file will be available. Default: 14 days.
 
-Attthe bottom the synchronizations that has been set up are shown. By clicking the pen you can edit the same settings as when the synchronization was set up (see below).
+At the bottom the synchronizations that has been set up are shown. By clicking the pen you can edit the same settings as when the synchronization was set up (see below).
 
 To delete a synchronization from the list, click the dust bin.
 
