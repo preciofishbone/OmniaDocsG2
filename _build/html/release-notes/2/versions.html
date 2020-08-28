@@ -8,7 +8,7 @@
   
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   
-  <title>&lt;no title&gt; &mdash; Omnia  documentation</title>
+  <title>2.1.1 &mdash; Omnia  documentation</title>
   
 
   
@@ -39,7 +39,10 @@
         <link rel="index" title="Index"
               href="../../genindex.html"/>
         <link rel="search" title="Search" href="../../search.html"/>
-    <link rel="top" title="Omnia  documentation" href="../../index.html"/> 
+    <link rel="top" title="Omnia  documentation" href="../../index.html"/>
+        <link rel="up" title="Release 2" href="index.html"/>
+        <link rel="next" title="Omnia Feed (Mobile App)" href="../omnia-feed/index.html"/>
+        <link rel="prev" title="Release 2" href="index.html"/> 
 
   
   <script src="../../_static/js/modernizr.min.js"></script>
@@ -88,7 +91,7 @@
               
             
             
-              <ul>
+              <ul class="current">
 <li class="toctree-l1"><a class="reference internal" href="../../admin-settings/index.html">Admin Settings</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../blocks/index.html">Blocks</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../general-assets/index.html">General assets</a></li>
@@ -99,7 +102,25 @@
 <li class="toctree-l1"><a class="reference internal" href="../../user-options/index.html">User options</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../setup/index.html">Setup</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../roadmap/index.html">In development</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../index.html">Release Notes</a></li>
+<li class="toctree-l1 current"><a class="reference internal" href="../index.html">Release Notes</a><ul class="current">
+<li class="toctree-l2"><a class="reference internal" href="../5/index.html">Release 5 (DRAFT)</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../4.1/index.html">Release 4.1</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../4/index.html">Release 4</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../3/index.html">Release 3</a></li>
+<li class="toctree-l2 current"><a class="reference internal" href="index.html">Release 2</a><ul class="current">
+<li class="toctree-l3 current"><a class="current reference internal" href="#">2.1.1</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#id2">2.2</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#id5">2.3.1</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#id8">2.4</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#id11">2.5</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#id14">2.5.4</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#id16">2.6</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#id19">2.6.10</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="../omnia-feed/index.html">Omnia Feed (Mobile App)</a></li>
+</ul>
+</li>
 <li class="toctree-l1"><a class="reference internal" href="../../guides/index.html">Guides</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../contribute-to-doc/index.html">Contribute to this Documentation</a></li>
 </ul>
@@ -146,7 +167,11 @@
     
       <li><a href="../../index.html">Docs</a> &raquo;</li>
         
-      <li>&lt;no title&gt;</li>
+          <li><a href="../index.html">Release Notes</a> &raquo;</li>
+        
+          <li><a href="index.html">Release 2</a> &raquo;</li>
+        
+      <li>2.1.1</li>
     
     
       <li class="wy-breadcrumbs-aside">
@@ -165,7 +190,291 @@
           <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
            <div itemprop="articleBody">
             
-  
+  <div class="section" id="id1">
+<h1>2.1.1<a class="headerlink" href="#id1" title="Permalink to this headline">¶</a></h1>
+<div class="section" id="new-features-and-enhancements">
+<h2>New Features and Enhancements<a class="headerlink" href="#new-features-and-enhancements" title="Permalink to this headline">¶</a></h2>
+<ul class="simple">
+<li>Support for targeting using AzureAD properties</li>
+<li>Support for targeting on O365 Language</li>
+<li>Accordion block now hides completely if it has no content.</li>
+<li>WCM Editor: Performance enhancements in edit mode.</li>
+<li>Revised system labels in Swedish and English.</li>
+<li>Its now possible to edit provisioning templates deployed by the system</li>
+<li>Long titles in the current navigation now breaks into 2 rows.</li>
+<li>Tutorial has an updated design</li>
+</ul>
+</div>
+<div class="section" id="fixes">
+<h2>Fixes<a class="headerlink" href="#fixes" title="Permalink to this headline">¶</a></h2>
+<ul class="simple">
+<li>Omnia now works for users without a mailbox</li>
+<li>Several issues on mobile has been resolved.</li>
+<li>The back button in the browser now works as expected.</li>
+<li>Fixes to default enterprise properties.</li>
+<li>Notification panel: Fixes to problems related to having 2 notification panels on the same page</li>
+<li>Notification panel: Fixed a problem where the document rollup sometimes could not be configured in the notification panel.</li>
+<li>Using the logo to navigate now works correctly between publishing apps.</li>
+<li>WCM: Fixed a problem related to trim duplicates in the page rollup.</li>
+<li>WCM: Fixed a problem related to RTF page properties</li>
+<li>WCM: Fixed a problem with the Advanced button in the create page dialog</li>
+<li>WCM: Fixed a design issue with the Modal window for news</li>
+<li>WCM: Read news articles now correctly displays as read.</li>
+<li>WCM: Default page collection now works together with page variations</li>
+<li>Workplace: Updated overrides for refinable in advanced search.</li>
+<li>Workplace: User Profile Completeness: Fixed an issue related to setting profile image as a field</li>
+<li>Workplace: Site properties now works as expected when using the MSTeams feature.</li>
+<li>Unread notification now works correctly in document rollup.</li>
+<li>Deleted publishing apps do no longer show up when setting up different parts of the system.</li>
+<li>Button links now align correctly when placed next to each other.</li>
+<li>User profile Completion: Now validates required properties correctly.</li>
+<li>People Rollup: Now supports taxonomy/Boolean properties as filter.</li>
+<li>People Rollup: Better design.</li>
+</ul>
+</div>
+</div>
+<div class="section" id="id2">
+<h1>2.2<a class="headerlink" href="#id2" title="Permalink to this headline">¶</a></h1>
+<div class="section" id="id3">
+<h2>New Features and Enhancements<a class="headerlink" href="#id3" title="Permalink to this headline">¶</a></h2>
+<ul class="simple">
+<li>It’s now possible to configure the Quick links component / App selector to show non mandatory links.</li>
+<li>Keywords datatype are now supported in the page rollup (To display in list view, to use for Query and Filter).</li>
+<li>Updates to the Omnia Tenant header to align with new O365 design.</li>
+<li>Targeting information now updates instantly if User profile completness block is used.</li>
+<li>Updated labels for media block and Layout blocks.</li>
+<li>Added a free text search box to the people rollup</li>
+<li>New UI for buttons in the editor.</li>
+</ul>
+</div>
+<div class="section" id="id4">
+<h2>Fixes<a class="headerlink" href="#id4" title="Permalink to this headline">¶</a></h2>
+<ul class="simple">
+<li>Fixes to prevent a redirect loop when using page variations.</li>
+<li>Fixes to how page variation behaves in the page rollup.</li>
+<li>Preview mode now works as expected for non admin users.</li>
+<li>Fixed an issue related to z-index in team sites.</li>
+<li>Fixed a rendering issue in the current navigation.</li>
+<li>Fixed so deleting a search category also removes it from the selection in Quick Search or Advanced Search.</li>
+<li>Fixed a problem in the megamenu causing Dynamic levels not to work as intended.</li>
+</ul>
+</div>
+</div>
+<div class="section" id="id5">
+<h1>2.3.1<a class="headerlink" href="#id5" title="Permalink to this headline">¶</a></h1>
+<div class="section" id="id6">
+<h2>New Features and Enhancements<a class="headerlink" href="#id6" title="Permalink to this headline">¶</a></h2>
+<ul class="simple">
+<li>New design for the open page as modal from Page Rollup.</li>
+<li>App launcher design has been aligned with O365 changes.</li>
+<li>Quick Links block now has a setting to include followed links.</li>
+<li>Its now possible to take over/remove pages that have no published version.</li>
+<li>People picker suggestions and much more performant search experience.</li>
+<li>Client side error messages now show at the top of the screen.</li>
+<li>Renamed sections in the layout parts of the WCM editor.</li>
+<li>Impolemented the standard block header in the Advanced Search Block.</li>
+<li>New setting for setting the background color of the selected tab in the notification panel.</li>
+</ul>
+</div>
+<div class="section" id="id7">
+<h2>Fixes<a class="headerlink" href="#id7" title="Permalink to this headline">¶</a></h2>
+<ul class="simple">
+<li>Fixed a bug causeing related documents to get the wrong url</li>
+<li>Site Design dropdown is no longer shown to end users when creating a site.</li>
+<li>Fixed a permission bug causing Page Colleciton admins to sometimes get wrong read permissions.</li>
+<li>Link from page rollup to page collection now works as expected if open page as dialog is tunred on.</li>
+<li>Team Collaborations now provision correctly when approval is turned on and features are used in the template.</li>
+<li>Left navigation now behaves correctly when navigating between publishing apps using the mega menu.</li>
+<li>Roller view sometimes got a corrupt image when open in modal dialog was used.</li>
+<li>Variations selector now works as expected.</li>
+<li>401 pages that sometimes flashes by has been fixed.</li>
+<li>Fixed a bug where page properties could not be previewed.</li>
+<li>Removed a blur effect from the Content editor.</li>
+<li>Open in new window now works as expected for custom links in the structure.</li>
+<li>The default message for Quick search is now correct when no search has been made.</li>
+<li>Dialogs now always correctly render the close button in the top right corner.</li>
+<li>Multiple fixes and stability improvments to the RSS reader.</li>
+<li>Added correct validation to the urls when creating a new publishing app.</li>
+<li>When a min height is set on a section, the content now aligns at the top instead of the center.</li>
+<li>Quick Links with no background color set will now render as transparent instead of black.</li>
+<li>Link button now correctly opens in new tab if set as open in new tab.</li>
+<li>Document picker now correctly shows up in new environments and correctly resolves links if a custom fallback url is set.</li>
+</ul>
+</div>
+</div>
+<div class="section" id="id8">
+<h1>2.4<a class="headerlink" href="#id8" title="Permalink to this headline">¶</a></h1>
+<div class="section" id="id9">
+<h2>New features and enhancements<a class="headerlink" href="#id9" title="Permalink to this headline">¶</a></h2>
+<ul class="simple">
+<li>RTF editor in the Accordion has been aligned with other RTF editors.</li>
+<li>Made it possible to set all colors of the notification panel. Background Color, Active background color, Icon color, Active Icon color, Notification count color and border color.</li>
+<li>Default Business Profile Config feature, will automatically setup, App Launcher, Action menu in the top right and the Mega menu.</li>
+<li>Allow for selection of external users in all roles.</li>
+<li>Updated publishing app settings to make it easier to configure the document library to use.</li>
+<li>Added a tenant wide setting to turn client side error messages on or off.</li>
+<li>Updated the create page button on the page rollup to create pages in any page collection its connected to.</li>
+<li>Updated terminology on non O365 group Team Sites.</li>
+<li>Improved performance in the central image locations in some scenarios.</li>
+</ul>
+</div>
+<div class="section" id="id10">
+<h2>Fixes<a class="headerlink" href="#id10" title="Permalink to this headline">¶</a></h2>
+<ul class="simple">
+<li>Fixed some layout issues in the WCM editor.</li>
+<li>The preview of the Media Picker now works correctly in all supported browsers.</li>
+<li>Fixed an error where page variations would not create correctly.</li>
+<li>Updated the text in the Team Collaboration App provisioning email flow.</li>
+<li>Fixed a javascript console error that sometimes would occur on navigate.</li>
+<li>Updated names for default image ratios.</li>
+<li>Fixed an issue where the page was not correctly published in SharePoint.</li>
+<li>Fixes to related documents getting the wrong url when updated and a custom fallback url being used.</li>
+<li>Made sure deleting a publishing app clear up any allocated urls.</li>
+<li>Fixed an issue where a termset could cause client side error.</li>
+<li>Fixed an error making it difficult to remove a column on a section in the WCM.</li>
+<li>Fixed a number of navigation errors, sometimes causing current navigation and page rollup to get the wrong data.</li>
+<li>Fixed the default data features to create the page collections intended to be flat as a flat page collection.</li>
+<li>Fixed the current navigation sometimes indicating it has children when they were not there.</li>
+<li>Fixed Swedish translation on Share and Like button in comment control.</li>
+<li>Updated handling of enterprise properties on sites created via site designs.</li>
+<li>Removed frame from embedded youtube videos.</li>
+<li>Fixed an error sometimes causing a site request not being approved.</li>
+<li>Fixed a problem where the approval buttons would not display if the users had a different navigation node loaded in the editor.</li>
+<li>Fixed a design glitch in the quick search when content has very long titles.</li>
+<li>Fixed so help texts now works with RTF.</li>
+<li>Term picker now displays correctly at the bottom of the page.</li>
+<li>Fixed an issue related to editing custom links in the navigation structure.</li>
+<li>Fixed an issue with publishing app settings when on the root page.</li>
+<li>Fixes to the background image upload.</li>
+<li>Fixes to the mysites titles.</li>
+</ul>
+</div>
+</div>
+<div class="section" id="id11">
+<h1>2.5<a class="headerlink" href="#id11" title="Permalink to this headline">¶</a></h1>
+<div class="section" id="id12">
+<h2>New features and enhancements<a class="headerlink" href="#id12" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="omnia">
+<h3>Omnia<a class="headerlink" href="#omnia" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li>UI for selecting available RTE actions on both Tenant and block level.</li>
+<li>Possibility to turn end user error messages on or off.</li>
+<li>Display of taxonomy properties has been redone.</li>
+<li>Fixes to the login process to support a broader range of MFA scenarios</li>
+</ul>
+</div>
+<div class="section" id="team-collaboraion">
+<h3>Team Collaboraion<a class="headerlink" href="#team-collaboraion" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li>Provisioning of Communication sites. Its now possible to provision communication sites. They can be found as a template under the Team collaboration area.</li>
+<li>Support for Office 365 Naming policies. Omnia vill now validate Site names and urls against policies set in the tenant.</li>
+<li>When provisioning an O365 group with a MS Teams, the Conversations link in the group will now point to the MS Team.</li>
+</ul>
+</div>
+<div class="section" id="web-content-management">
+<h3>Web Content Management<a class="headerlink" href="#web-content-management" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li>Setting on the Related links block to open office documents in the Web Client.</li>
+<li>Enhanced default values for dates. Its now possible to set the default value to a relative time in the future i.e. Today + 6 weeks.</li>
+</ul>
+</div>
+<div class="section" id="document-management">
+<h3>Document Management<a class="headerlink" href="#document-management" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li>Document rollup now evaluates terms at query time instead of ad configuration time.</li>
+</ul>
+</div>
+</div>
+<div class="section" id="id13">
+<h2>Fixes<a class="headerlink" href="#id13" title="Permalink to this headline">¶</a></h2>
+<ul class="simple">
+<li>Updates to term picker to more clearly indicate if a term is not available for tagging</li>
+<li>Wrong language in Omnia Admin and the WCM Editor for some users.</li>
+<li>Fixes to the notification panel to support documents with ” ‘ ” - charaters in the filename.</li>
+<li>Several UI Fixes for IE11.</li>
+<li>Several UI Fixes for Safari.</li>
+<li>Fixes to the term picker not rendering correctly in the user profile completeness.</li>
+<li>Fixed an issue that caused new Tenant Features to not show up correctly.</li>
+<li>Updates to the third party statistics provider for a more consistent experience.</li>
+<li>Updates to social dates to correctly display in Swedish on likes and comments and advanced search.</li>
+<li>Fixed an issue where the system field [Current User] would not display.</li>
+<li>Fixed an issue where the Calendar rollup would not correctly fetch Personal calendars when in the notification panel.</li>
+<li>Fixes to the RTF Editor making it easier to remove images in IE11 and Edge.</li>
+<li>Fixed an issue where pages would not correctly render inside the notification panel in the header.</li>
+<li>Added missing translations for Provisioning Templates and confirmation emails.</li>
+<li>Added missing label in site creation form.</li>
+<li>Fixes to Section header being incorrectly placed when using a large column spacing.</li>
+</ul>
+</div>
+</div>
+<div class="section" id="id14">
+<h1>2.5.4<a class="headerlink" href="#id14" title="Permalink to this headline">¶</a></h1>
+<div class="section" id="id15">
+<h2>Fixes<a class="headerlink" href="#id15" title="Permalink to this headline">¶</a></h2>
+<ul class="simple">
+<li>Fallback to Tenant default language correctly when the users language is not set.</li>
+<li>Fixed an issue where the statistics provider would sometimes not execute correctly.</li>
+<li>Translation fixes for Swedish and Danish.</li>
+</ul>
+</div>
+</div>
+<div class="section" id="id16">
+<h1>2.6<a class="headerlink" href="#id16" title="Permalink to this headline">¶</a></h1>
+<div class="section" id="id17">
+<h2>New features and enhancements<a class="headerlink" href="#id17" title="Permalink to this headline">¶</a></h2>
+<ul class="simple">
+<li>Widening of the user profile completeness dialog.</li>
+<li>The attach site API can now be called from an extension.</li>
+<li>When creating a site through omnia using approval, the requester of the site becomes the owner, not the approver.</li>
+<li>The calendar rollup query limit increased to 90 days.</li>
+</ul>
+</div>
+<div class="section" id="id18">
+<h2>Fixes<a class="headerlink" href="#id18" title="Permalink to this headline">¶</a></h2>
+<ul class="simple">
+<li>Yammer group provisioning together with approval now works as expected.</li>
+<li>Fixed several issues related to page variations.</li>
+<li>Updates to Danish, German and French Translations.</li>
+<li>Fixed an issue that sometimes prevented Taxonomy metadata on pages to be saved.</li>
+<li>Fixed an error in the default content feature causing an enterprise property mapping to be wrong.</li>
+<li>Fixed an issue where images would sometimes not render in Safari.</li>
+<li>Fixes to the mobile global navigation to correctly handle page variations.</li>
+<li>Fixed an issue where default values for the document rollup sometimes would not show up.</li>
+<li>Fixed an issue with controlled documents stuck in publishing.</li>
+<li>Fixed an issue that caused the page statistics not to work correctly.</li>
+<li>Fixed an issue that made comments always run in Rich Text Mode.</li>
+<li>Fixed an issue that caused page property validation to be wrong when reusing content.</li>
+<li>Fixed the quickserach to have correct responsive behaviour on IOS.</li>
+</ul>
+</div>
+</div>
+<div class="section" id="id19">
+<h1>2.6.10<a class="headerlink" href="#id19" title="Permalink to this headline">¶</a></h1>
+<div class="section" id="enhancements">
+<h2>Enhancements<a class="headerlink" href="#enhancements" title="Permalink to this headline">¶</a></h2>
+<ul class="simple">
+<li>Performance improvements when having deep structures in the left navigation.</li>
+<li>Ensured compatability with Chrome version 80 (new cookie policy: <a class="reference external" href="https://blog.chromium.org/2019/05/improving-privacy-and-security-on-web.html?m=1">https://blog.chromium.org/2019/05/improving-privacy-and-security-on-web.html?m=1</a>).</li>
+</ul>
+</div>
+<div class="section" id="id20">
+<h2>Fixes<a class="headerlink" href="#id20" title="Permalink to this headline">¶</a></h2>
+<ul class="simple">
+<li>Fixed an issue where custom links would not work properly in IE.</li>
+<li>Fixed an Ui issue in Quick Search on mobile.</li>
+<li>Fixed an issue where Document Management authoring sites would not provision correctly.</li>
+<li>Improved stability when provisioning MS Teams teams.</li>
+<li>Fixes to page variations in rollups in certain configurations.</li>
+<li>Team collaboration sites now displays the correct owner when the site is created with approval.</li>
+<li>The indicator in the left navigation for child-nodes now displays correctly in all scenarios.</li>
+<li>Fixed an issue of the languge inheretence between the Tenant and it’s business profiles.</li>
+<li>Fixed an issue where users from active directory groups did not get the correct permission level when added as an announcement administrator.</li>
+<li>Fixed an issue where some documents could not be removed from sharepoint-sites linked to ODM.</li>
+<li>Fixed an issue where yammer group could sometimes not be created.</li>
+</ul>
+</div>
+</div>
+
 
            </div>
            <div class="articleComments">
@@ -174,13 +483,22 @@
           </div>
           <footer>
   
+    <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
+      
+        <a href="../omnia-feed/index.html" class="btn btn-neutral float-right" title="Omnia Feed (Mobile App)" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right"></span></a>
+      
+      
+        <a href="index.html" class="btn btn-neutral" title="Release 2" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>
+      
+    </div>
+  
 
   <hr/>
 
   <div role="contentinfo">
     <p>
         &copy; Copyright 2020, Precio Fishbone.
-      Last updated on Aug 27, 2020.
+      Last updated on Aug 28, 2020.
 
     </p>
   </div>

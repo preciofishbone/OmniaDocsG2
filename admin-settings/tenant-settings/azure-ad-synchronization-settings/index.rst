@@ -17,7 +17,7 @@ This is what's available:
 + **Batch Number**: (A description will be added soon).
 + **Delete log after number of days**: Set the number of days the log file will be available. Default: 14 days.
 
-Attthe bottom the synchronizations that has been set up are shown. By clicking the pen you can edit the same settings as when the synchronization was set up (see below).
+At the bottom the synchronizations that has been set up are shown. By clicking the pen you can edit the same settings as when the synchronization was set up (see below).
 
 To delete a synchronization from the list, click the dust bin.
 
@@ -29,7 +29,7 @@ To set up a new synchronization, do the following:
 
 .. image:: synchro-click-plus.png
 
-2. Use the followinf settings:
+2. Use the following settings:
 
 .. image:: azure-ad-settings.png
 
@@ -41,5 +41,5 @@ Here's an example:
 
 .. image:: azure-ad-settings-example.png
 
-3. Save when your here.
+3. Save when your finished here.
 4. Save your changes in the settings window.

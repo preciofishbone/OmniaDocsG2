@@ -73,6 +73,9 @@ Fixes
 - Issues that occure when delete pages are now resolved.
 - Page variation settings is now displayed correctly in notification panel.
 
+Versions
+-------------------------------------
+
 .. toctree::
    :titlesonly:
 

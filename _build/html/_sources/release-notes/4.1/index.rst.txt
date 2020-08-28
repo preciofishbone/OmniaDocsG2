@@ -100,6 +100,9 @@ Fixes
 - Show more on refiners now works as expected in advanced search (#120347).
 - Corrected an issue related to syncing enterprise properties to the term store in Document Management and Process Management (#120338).
 
+Versions
+-----------------------------------------
+
 .. toctree::
    :titlesonly:
 
