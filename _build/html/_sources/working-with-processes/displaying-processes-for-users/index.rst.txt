@@ -18,21 +18,19 @@ For more information on how to set up a Process Rollup, see: :doc:`Process Manag
 
 Creating a page to display a process
 **************************************
-If you decide to add a separate page for each process there's a Page Type ready for you to use. 
+If you decide to add a separate page for each process you should create a Page Type for that use. 
 
 .. image:: process-image-type.png
 
-When creating such a page, the only other thing you HAVE to do is to set which process should be displayed. You do that on the Properties tab of the page.
+When creating such a page, you HAVE to set the process to be displayed. You do that on the Properties tab of the page.
 
 .. image:: process-properties.png
 
-Here's an example of a process displayed with the Page Type Process:
+Here's an example of a process displayed with a Process Page Type:
 
 .. image:: process-image-type-example.png
 
-You can of course add your own Page Type(s) for processes as well.
-
-Other than choosing a Page Type suitable for processes, and selecting a process as the property, you work with the page the same way as any other page.
+Other than selecting a process as the property, you work with the page the same way as any other page.
 
 For more information on how to work with pages, see: :doc:`Process Management </pages/index>`
 
