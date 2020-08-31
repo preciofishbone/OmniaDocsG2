@@ -1,9 +1,9 @@
-The RTF Editor
+RTF Editor
 =================
 
 When editing text in Omnia, a RTF editor can be available. What is available in the editor is set up in Omnia Admin, and in a few cases in the block itself.
 
-For more information about the settings, see the RTF Editor section on this page: :doc:`Tenant - Settings </admin-settings/tenant-settings/Settings/index>`
+For more information about the settings, see the RTF Editor section on this page: :doc:`Tenant - Settings </admin-settings/tenant-settings/settings/index>`
 
 Using the RTF Editor
 **********************
@@ -41,7 +41,7 @@ Too add a link, do the following.
 
 .. image:: rtf-editor-all-link.png
 
-The Add Link general asset is shown. If you selected text, it's addad to the Title field:
+The Add Link general asset is shown. If you selected text, it's added to the Title field:
 
 .. image:: rtf-editor-all-link-title.png
 
@@ -50,13 +50,13 @@ See this page for more information: :doc:`Add Link </general-assets/add-link/ind
 To edit or remove a link:
 
 1. select some of the clickable text for the link.
-2. Use the icons.
+2. Use the icons in the floating toolbar.
 
 .. image:: rtf-editor-all-link-edit.png
 
 Add Media
 -----------
-Yous can add and image or a video to the text. This is how:
+You can add and image or a video to the text. This is how:
 
 1. Click where the image or video should be added.
 2. Click the Media icon.
@@ -115,7 +115,7 @@ A well known problem when pasting text from other sources into an HTML encironme
 
 .. image:: rtf-editor-test-only.png
 
-You can alos use this option os text you already have in the block. Just select the text and the option becomes available.
+You can also use this option on text you already have in the block. Just select the text and the option becomes available.
 
 Using Machine Translation
 ---------------------------
