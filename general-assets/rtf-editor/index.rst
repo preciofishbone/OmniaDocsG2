@@ -69,17 +69,17 @@ You can add and image or a video to the text. This is how:
 
 See this page for more information: :doc:`Media Picker </general-assets/media-picker/index>`
 
-The image fills up the whole width (same width as the text), the height ratio intact, for example:
+The image/video area area fills up the whole width (same width as the text), the height ratio intact, for example:
 
 .. image:: rtf-editor-media-example-image.png
 
-4. If you need to edit the image in some way, use the icons; the pen to edit the image in the Media Picker, the dust bin to remove and the icon with the three dots to set the width or align the image. 
+4. If you need to edit the image/vidoe area in some way, use the icons; the pen to edit in the Media Picker, the dust bin to remove and the icon with the three dots to set the width or alignment. 
 
-Here's an example with the image in a much smaller size and aligned to the middle of the text area:
+Here's an example with an image in a much smaller size and aligned to the middle of the text area:
 
 .. image:: rtf-editor-media-example-image-smaller.png
 
-Note the new icon to the right in the floating toolbar. You can use it to set the text flow in relation to the image.
+Note the new icon to the right in the floating toolbar. You can use it to set the text flow in relation to the image/video area.
 
 Add a table
 ------------
