@@ -41,7 +41,7 @@ When you select Custom Rich Text you can set the text tools that should be avail
 
 **Note!** Not all options are shown in the image.
 
-You work with these settings exactly the same way as when they are set up in Omnia Admin, see lonk above. 
+You work with these settings exactly the same way as when they are set up in Omnia Admin, see link above. 
 
 Layout and Advanced
 **********************
