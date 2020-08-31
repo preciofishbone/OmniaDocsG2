@@ -2,7 +2,7 @@ Text
 =============
 Use this block to add text anywhere on a page. The text block can be edited by any page editor using the Write mode.
 
-When adding text to the block some basic formatting is available. Here's an example with the formatting options for Rich Text:
+When adding text to the block some basic formatting can be available, depending on the type of text set for the block. Here's an example with the formatting options for Rich Text:
 
 .. image:: text-formatting-rich-new.png
 
@@ -20,16 +20,17 @@ The following settings are available for the block:
 
 + **Title**: If a title should be shown for the block, add it in this field. If no variation exists for the page, it looks like in the image above and you can set the title in the languages active in the tenant. If variations exists, only one title can be set. In that case, titles in other languages are set in the variations.
 + **Property to store data**: Select type of text to be used in this block; Title, Page Content or Page Summary. When one block on the page has data connected to a Property, that data can be reused in all blocks that uses the same Property. Page scoped. Not mandatory.
-+ **Mode**: Select mode for the text. For more information on Custom Rich Text, see below.
++ **Mode**: Select mode for the text. For Plain Text and Mulit-line Plain Text there are no formatting available. For more information on Custom Rich Text, see below.
 + **Formatting**: Select the default style here. Available for Plain Text and Multi-line Plain Text.
 + **Enable Machine Translation**: If machine translation should be available for this text block, select this option.
 + **Help text**: Here you can add a help text for the editor, for example to make it clear what kind of content should be added to the block. The help text is shown when no content is added, and when the block is edited. The help text is never shown to users as it's not shown for a published version of the page.
++ **Padding**: You can set some padding around the text if needed.
 
 Here's an example of help text:
 
 .. image:: help-text-new.png
 
-+ **Padding**: You can set some padding around the text if needed.
+For more information on how machine translation works, see the RTF Editor description (see link above).
 
 Custom Rich Text
 -----------------
@@ -41,7 +42,7 @@ When you select Custom Rich Text you can set the text tools that should be avail
 
 **Note!** Not all options are shown in the image.
 
-You work with these settings exactly the same way as when they are set up in Omnia Admin, see lonk above. 
+You work with these settings exactly the same way as when they are set up in Omnia Admin, see link above. 
 
 Layout and Advanced
 **********************
