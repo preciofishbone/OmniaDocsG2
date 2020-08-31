@@ -11,23 +11,114 @@ Release 5 (DRAFT)
 
 Newsletter
 -----------------------------------------
-You can setup a Page Collection to allow for pages to be sent out as e-mail.
-
+You can now setup a Page Collection to allow for pages to be sent out as e-mail.
 
 .. image:: newsletter-settings.png
 
-This makes it possible to create an archive for Newsletters.
+This makes it possible to implement a Newsletter solution.
 
 .. image:: newsletter-archive.png
+
+An important part of a newsletter would be to be able to manually pick which pages that should be shown in a page rollup. A new feature makes it possible to configure a page type to pick pages in write mode.
+
+.. image:: newsletter-pick-pages-settings.png
+
+The author can create a new newsletter, write an introduction and pick the news articles that should be sent out.
+
+.. image:: newsletter-pick-pages.png
+
+A new tab is available where it is possible for an author to decide the target group for the newsletter by putting in one or more e-mail addresses.
+
+.. image:: newsletter-recipients.png
+
+Before a newsletter is sent out, the author can send a preview to any e-mail address.
+
+.. image:: newsletter-send-preview.png
+
+.. image:: newsletter-outlook.png
 
 Page Lifecycle Improvements
 -----------------------------------------
 
+It is now possible for an editor to hide pages. This can be used to temporary unpublish a page or to prepare a new part of the content structure before it goes live.
+
+.. image:: page-lifecycle-hide.png
+
+When a page is hidden, all sub pages will also be hidden.
+
+.. image:: page-lifecycle-hide-2.png
+
+When a page is hidden, it is not only hidden in navigation, but also when trying to access the page using the full url and/or search.
+
+.. image:: page-lifecycle-hidden-404.png
+
+At any point it is possible for the editor to show a page and all its sub pages again.
+
+.. image:: page-lifecycle-show.png
+
+The Delete page action has been replaced with an Archive page action.
+
+.. image:: page-lifecycle-archive.png
+
+When a page is archived, it is possible to provide a comment on why the page or page should be archived.
+
+.. image:: page-lifecycle-archive-confirmation.png
+
+It is possible to archive a single page, a number of pages, a whole page collection or a page type. All archived objects will end up in the section Archive that can be accessed in the left-hand side menu.
+
+.. image:: page-lifecycle-archive-pages.png
+
+It is possible to restore pages, page collections and pages types from the archive. When an
+
+.. image:: page-lifecycle-archive-restore.png
+
 Text Block Improvements
 -----------------------------------------
-- Tables, Media, Links, Paste, Alignment
-- Floating Toolbar
-- Central Text Styles
+
+Tables
+*****************************************
+
+.. image:: rtf-table-styles.png
+
+.. image:: rtf-cell-style.png
+
+Media
+*****************************************
+
+.. image:: rtf-media-tools.png
+
+.. image:: rtf-media-fixed-width.png
+
+.. image:: rtf-media-text-flow.png
+
+Links
+*****************************************
+
+.. image:: rtf-links-add.png
+
+.. image:: rtf-links-add-2.png
+
+.. image:: rtf-links-update.png
+
+Paste
+*****************************************
+
+.. image:: rtf-links-add.png
+
+.. image:: rtf-links-add-2.png
+
+.. image:: rtf-links.update.png
+
+Alignment
+*****************************************
+
+.. image:: rtf-text-alignment
+
+Floating Toolbar
+*****************************************
+
+Central Text Styles
+*****************************************
 
 Design Improvements
 -----------------------------------------
