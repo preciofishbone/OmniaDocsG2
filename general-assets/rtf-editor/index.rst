@@ -56,7 +56,7 @@ To edit or remove a link:
 
 Add Media
 -----------
-You can add and image or a video to the text. This is how:
+You can add and an image or a video to the text. This is how:
 
 1. Click where the image or video should be added.
 2. Click the Media icon.
@@ -73,7 +73,7 @@ The image/video area area fills up the whole width (same width as the text), the
 
 .. image:: rtf-editor-media-example-image.png
 
-4. If you need to edit the image/vidoe area in some way, use the icons; the pen to edit in the Media Picker, the dust bin to remove and the icon with the three dots to set the width or alignment. 
+4. If you need to edit the image/viedo area in some way, use the icons; the pen to edit in the Media Picker, the dust bin to remove and the icon with the three dots to set the width or alignment. 
 
 Here's an example with an image in a much smaller size and aligned to the middle of the text area:
 
@@ -96,9 +96,9 @@ Something like the following now becomes available:
 
 .. image:: rtf-editor-table-edits.png
 
-Most of these option you recognize from other applications, as for example Microsoft Word.
+Most of these option you recognize from other applications, for example Microsoft Word.
 
-In the Table Style list, a number of styles are avilable:
+In the Table Styles list, a number of styles are available:
 
 .. image:: rtf-editor-table-edits-table-styles.png
 
@@ -108,7 +108,7 @@ You can also style an individual cell using the icon to the far right.
 
 Pasting text only
 -------------------
-A well known problem when pasting text from other sources into an HTML encironment is that styles and the like from the original text does not work - or is not wanted. To make that problem go away, you can paste the text as Text only.
+A well known problem when pasting text from other sources into an HTML environment is that styles and the like from the original text does not work - or is not wanted. To make that problem go away, you can paste the text as Text only.
 
 1. Paste the text.
 2. Click the Keep text only icon.
