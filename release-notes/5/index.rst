@@ -75,6 +75,8 @@ It is possible to restore pages, page collections and pages types from the archi
 Text Block Improvements
 -----------------------------------------
 
+The text block rich text editor has been improved based on feedback from our customers.
+
 Tables
 *****************************************
 
@@ -132,17 +134,21 @@ You can also select a portion of the rich text and clear the formatting by click
 Alignment
 *****************************************
 
+It is now possible to align paragraphs within a text block.
 
-
-.. image:: rtf-text-alignment
+.. image:: rtf-text-alignment.png
 
 Floating Toolbar
 *****************************************
+
+If the text block that is edited is longer than the page and you need to scroll down on the page, the toolbar of the rich text block will float on top of the page.
 
 .. image:: rtf-floating-toolbar.png
 
 Central Text Styles
 *****************************************
+
+Text styles that are used in text blocks can now be configured in Omnia Admin. It is also possible to add additional styles that can be used in the solution. If the styles are set to Inherit, it will use default system styles.
 
 .. image:: rtf-text-styles.png
 
@@ -152,13 +158,19 @@ Central Text Styles
 Design Improvements
 -----------------------------------------
 
+This release includes a number of design improvements to different components. Some of the improvements are listed below.
+
 Page Style
 *****************************************
+
+A new level of branding has been added to web content management. It is now possible to add a specific style to a single page or page type. Among the settings that are supported are background image and style and the possibility to set a specific theme for the blocks on the page.
 
 .. image:: designupdates-page-style.png
 
 Card View
 *****************************************
+
+The People Rollup and Page Rollup blocks have a new card based view that can be configured based on your needs.
 
 .. image:: designupdates-page-cards.png
 
@@ -167,17 +179,31 @@ Card View
 Microsoft Teams Integration
 -----------------------------------------
 
+It is possible to take your publishing pages and corporate news to the Microsoft Teams client using one or many Teams Apps.
+
 .. image:: teams-start-page.png
+
+Omnia supports single-sign-on in Teams app in order to fully support the Microsoft Teams mobile app experience.
 
 .. image:: teams-mobile.png
 
+Links that are created in Omnia (quick links, related links etc) support the possibility to use deep links in the Microsoft Teams client.
+
 .. image:: teams-deep-links.png
+
+Deep links can take you to almost any item, like channels, tabs and apps within Microsoft Teams.
 
 .. image:: teams-deep-links-2.png
 
+A new provisioning base template is now available for Teamwork. It is possible to configure a Microsoft Teams template with predefined channels, apps, tabs and settings.
+
 .. image:: teams-provisioning.png
 
+The Teamwork rollup can be used to create a specific Microsoft Teams app to allow a Teamwork directory to be published in the Microsoft Teams client.
+
 .. image:: teams-teamwork-directory.png
+
+From there, it is possible to run the Create Teamwork wizard as a block in horizontal mode.
 
 .. image:: teams-create-teamwork.png
 
@@ -186,7 +212,11 @@ Microsoft Teams Integration
 Microsoft Search Integration
 -----------------------------------------
 
+It is now possible to configure the sync from Publishing Apps in Omnia to SharePoint Site Pages. The configuration includes mapping of properties to specific fields in SharePoint, and the possibility create redirect Site Pages that will take the end user to the Omnia page instead of the backend Communication Site Page.
+
 .. image:: mssearch-sharepoint-sync.png
+
+These synced pages will be picked up by and displayed by Microsoft Search. When the user clicks on an item in the search result, the user will be redirected to the correct Omnia page.
 
 .. image:: mssearch-pages-in-result.png
 
@@ -194,22 +224,44 @@ Microsoft Search Integration
 Governance Dashboards
 -----------------------------------------
 
+A new block, Governane Dashboard, is now available and can be used to show important metrics in the solution. The first metrics deployed is for pages, communinities and teamwork. Each area also support specific filters that can be applied to the metrics.
+
 .. image:: governancedashboard-pages.png
+
+When the user clicks on a specific metric, a report will be shown. In this example, all pages that are waiting approval is shown.
 
 .. image:: governancedashboard-waiting-for-approval.png
 
+Specific metrics are targeted to communities in order to identify how comments and ratings are used by end users.
+
 .. image:: governancedashboard-communities.png
 
+Other metrics are targeted to teamwork. It makes it possible to identify how much Teamwork that are created within the solution based on different timespan.
+
 .. image:: governancedashboard-teamwork.png
+
+More metrics will be deployed to the solution going forward.
 
 
 Omnia Tenant Contacts
 -----------------------------------------
 
-,, image:: tenantcontacts.png
+There are three roles that can be added as tenant contacts in Omnia Admin:
+
+* Main Contacts: Will receive important announcements from the product team regarding for example retirement of features or major service interruptions.
+* Security Contacts: Will recieve a message from the product team on any suspected or ascertained security breach in the system.
+* Update Notification: Will receive an automatic e-mail from the system whenever the tenant has been updated with a new version of the core product or any extension.
+
+.. image:: tenantcontacts.png
+
+.. note:: It is very important that a main contact is registered in the tenant.
+
+.. note:: The e-mails that are sent out to inform about updates are sent from @preciofishbone.se. Make sure to check your junk mail or create a new rule in your e-mail system to trust this e-mail address.
 
 Stacked Processes
 -----------------------------------------
+
+A new setting has been added to the Process Drawing block to allow the process drawings to be stacked when the user navigates the processes.
 
 .. image:: stackedprocesses-step-1.png
 .. image:: stackedprocesses-step-2.png

@@ -94,6 +94,7 @@
               <ul class="current">
 <li class="toctree-l1 current"><a class="reference internal" href="../../index.html">Admin Settings</a><ul class="current">
 <li class="toctree-l2 current"><a class="reference internal" href="../index.html">Tenant Settings</a><ul class="current">
+<li class="toctree-l3"><a class="reference internal" href="../azure-ad-synchronization-settings/index.html">Azure AD Synchronization settings</a></li>
 <li class="toctree-l3"><a class="reference internal" href="../announcements/index.html">Announcements</a></li>
 <li class="toctree-l3"><a class="reference internal" href="../business-profiles/index.html">Business Profiles</a></li>
 <li class="toctree-l3"><a class="reference internal" href="../features/index.html">Features - Tenant</a></li>
@@ -118,6 +119,7 @@
 <li class="toctree-l1"><a class="reference internal" href="../../../pages/index.html">Pages</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../working-with-documents/index.html">Working with Documents</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../working-with-processes/index.html">Working with Processes</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../using-communities/index.html">Using Communities</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../user-options/index.html">User options</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../setup/index.html">Setup</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../roadmap/index.html">In development</a></li>
@@ -194,11 +196,20 @@
   <div class="section" id="settings">
 <h1>Settings<a class="headerlink" href="#settings" title="Permalink to this headline">¶</a></h1>
 <p>Here you can set the following:</p>
-<img alt="../../../_images/tenant-settings-new.png" src="../../../_images/tenant-settings-new.png" />
+<img alt="../../../_images/tenant-settings-new2.png" src="../../../_images/tenant-settings-new2.png" />
+<div class="section" id="general">
+<h2>General<a class="headerlink" href="#general" title="Permalink to this headline">¶</a></h2>
+<p>The following settings are available here:</p>
+<ul class="simple">
+<li><strong>Title</strong>: (A description will be added soon).</li>
+<li>Home Url**: Set the default home Url (the globe) and the Teams home Url.</li>
+</ul>
+<p>Save when you’re done.</p>
+</div>
 <div class="section" id="regional-settings">
 <h2>Regional Settings<a class="headerlink" href="#regional-settings" title="Permalink to this headline">¶</a></h2>
 <p>Use these settings for languages, date and time, for the tenant. Other settings for this can be set for a Business Profile.</p>
-<img alt="../../../_images/regional-settings.png" src="../../../_images/regional-settings.png" />
+<img alt="../../../_images/regional-settings-new.png" src="../../../_images/regional-settings-new.png" />
 <div class="section" id="languages">
 <h3>Languages<a class="headerlink" href="#languages" title="Permalink to this headline">¶</a></h3>
 <p>Use this setting to select the languages that should be available for the user interface in the tenant. These languages can also be used for Announcements and Shared Links.</p>
@@ -242,9 +253,10 @@
 </div>
 <div class="section" id="header">
 <h2>Header<a class="headerlink" href="#header" title="Permalink to this headline">¶</a></h2>
-<p>Here you can change the default settings for the the Header in the tenant. Additional settings, sometimes overriding the Tenant Settings, can be made for each Business Profile.</p>
-<div class="section" id="general">
-<h3>General<a class="headerlink" href="#general" title="Permalink to this headline">¶</a></h3>
+<p>Here you can change the default settings for the Header in the tenant. Additional settings, sometimes overriding the Tenant Settings, can be made for each Business Profile.</p>
+<img alt="../../../_images/tenant-settings-header1.png" src="../../../_images/tenant-settings-header1.png" />
+<div class="section" id="id1">
+<h3>General<a class="headerlink" href="#id1" title="Permalink to this headline">¶</a></h3>
 <p>Set Background Color and Text Color here.</p>
 <img alt="../../../_images/tenant-header-settings-new.png" src="../../../_images/tenant-header-settings-new.png" />
 </div>
@@ -265,28 +277,53 @@
 <div class="section" id="rtf-editor">
 <h2>RTF Editor<a class="headerlink" href="#rtf-editor" title="Permalink to this headline">¶</a></h2>
 <p>Use these settings to decide which default options should be available for the Rich Text Editor and the Limited Rich Text Editor, in the tenant.</p>
-<img alt="../../../_images/rtf-editor.png" src="../../../_images/rtf-editor.png" />
+<img alt="../../../_images/rtf-editor-new.png" src="../../../_images/rtf-editor-new.png" />
 <p><strong>Note!</strong> For some blocks a Custom RTF Editor can be created. If that is done it will override these settings.</p>
-<p>Both lists are handled the same way even if there is a lot more to choose from for the Rich Text Editor.</p>
+<p>Both lists are handled the same way.</p>
 <ol class="arabic simple">
 <li>Select and deselect options to be available in the editor and save when you’re done.</li>
 </ol>
-<img alt="../../../_images/rtf-editor-options.png" src="../../../_images/rtf-editor-options.png" />
+<img alt="../../../_images/rtf-editor-options-new.png" src="../../../_images/rtf-editor-options-new.png" />
 <p>(All options are not shown in the image above, there’s a lot more.)</p>
-<p>At the top you will see a preview of what the editor will look like with the selected options.</p>
-<p>“Text Translator” is the option for Machine Translations editors can use. All other options should be fairly self explanatory.</p>
-<div class="section" id="additional-settings">
-<h3>Additional settings<a class="headerlink" href="#additional-settings" title="Permalink to this headline">¶</a></h3>
-<p>For some options, settings can be available. In that case a cog wheel is shown:</p>
-<img alt="../../../_images/rtf-editor-cogwheel.png" src="../../../_images/rtf-editor-cogwheel.png" />
-<p>To edit the settings, click the cog wheel.</p>
-<p>For “Heading” you can select which format options should be available:</p>
-<img alt="../../../_images/rtf-editor-cogwheel-heading.png" src="../../../_images/rtf-editor-cogwheel-heading.png" />
+<p>At the top you will see a preview of what the RTF editor will look like with the selected options.</p>
+<p>Remove Formatting is not an option shown as an icon in the RTF editor. The option becomes available when it’s needed - when formatted text is selected or when text with formattion is pasted.</p>
+<p>Text Translator is the option for Machine Translations editors can use (Available at the bottom of the list, not activated in the image above).</p>
+<p>All other options should be fairly self explanatory.</p>
+<div class="section" id="settings-for-styles">
+<h3>Settings for Styles<a class="headerlink" href="#settings-for-styles" title="Permalink to this headline">¶</a></h3>
+<p>To edit the settings for Styles, click the cog wheel.</p>
+<img alt="../../../_images/tenant-settings-styles.png" src="../../../_images/tenant-settings-styles.png" />
+<p>Select the styles that should be available in the list.</p>
+<img alt="../../../_images/tenant-settings-styles-select.png" src="../../../_images/tenant-settings-styles-select.png" />
+<p><strong>Note!</strong> You can use Text Styles to configure styles. The enabled styles from Text Styles are those shown in the above list. See below for more information on Text Styles.</p>
 </div>
 <div class="section" id="reorder-the-options">
 <h3>Reorder the options<a class="headerlink" href="#reorder-the-options" title="Permalink to this headline">¶</a></h3>
 <p>If you would like to reorder the options in the editor, use these icons to drag and drop:</p>
-<img alt="../../../_images/rtf-editor-reorder.png" src="../../../_images/rtf-editor-reorder.png" />
+<img alt="../../../_images/rtf-editor-reorder-new.png" src="../../../_images/rtf-editor-reorder-new.png" />
+</div>
+</div>
+<div class="section" id="text-styles">
+<h2>Text Styles<a class="headerlink" href="#text-styles" title="Permalink to this headline">¶</a></h2>
+<p>Here you can edit the settings for the text styles used in the RTF editor, as well as create new styles.</p>
+<img alt="../../../_images/tenant-settings-text-styles.png" src="../../../_images/tenant-settings-text-styles.png" />
+<p>In the column Enabled you decide which styles should be available to choose for the RTF editor. They are listed under Styles in the settings described above and are also available in a few blocks where a custom RTF editor can be created.</p>
+<p>Click the cog wheel to edit the setting for a style. You can edit all settings available when creating a new style, see below.</p>
+<div class="section" id="create-a-new-text-style">
+<h3>Create a new text style<a class="headerlink" href="#create-a-new-text-style" title="Permalink to this headline">¶</a></h3>
+<p>Do the following:</p>
+<ol class="arabic simple">
+<li>Click the plus.</li>
+</ol>
+<img alt="../../../_images/text-styles-click-plus.png" src="../../../_images/text-styles-click-plus.png" />
+<ol class="arabic simple" start="2">
+<li>Use these settings:</li>
+</ol>
+<img alt="../../../_images/text-styles-settings.png" src="../../../_images/text-styles-settings.png" />
+<ul class="simple">
+<li><strong>Title</strong>: Add a title (name) for the style, in any or all available languages. Default tenant language is mandatory.</li>
+<li><strong>Inherit</strong>: To inherit style settings from the web browser (which can actually differ depending on the browser the user has), select this option. To set your own settings for the style, deselect the option and a settings field becomes available.</li>
+</ul>
 </div>
 </div>
 </div>
@@ -314,7 +351,7 @@
   <div role="contentinfo">
     <p>
         &copy; Copyright 2020, Precio Fishbone.
-      Last updated on May 05, 2020.
+      Last updated on Sep 01, 2020.
 
     </p>
   </div>
