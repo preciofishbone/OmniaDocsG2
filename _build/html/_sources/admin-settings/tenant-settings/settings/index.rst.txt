@@ -3,13 +3,24 @@ Settings
 
 Here you can set the following:
 
-.. image:: tenant-settings-new.png
+.. image:: tenant-settings-new2.png
+
+General
+********
+The following settings are available here:
+
+.. immage:: tenant-settings-general.png
+
++ **Title**: (A description will be added soon).
++ Home Url**: Set the default home Url (the globe) and the Teams home Url. 
+
+Save when you're done.
 
 Regional Settings
 ******************
 Use these settings for languages, date and time, for the tenant. Other settings for this can be set for a Business Profile.
 
-.. image:: regional-settings.png
+.. image:: regional-settings-new.png
 
 Languages
 -----------------
@@ -61,7 +72,9 @@ Don't forget to save when you're done.
 
 Header
 ********
-Here you can change the default settings for the the Header in the tenant. Additional settings, sometimes overriding the Tenant Settings, can be made for each Business Profile. 
+Here you can change the default settings for the Header in the tenant. Additional settings, sometimes overriding the Tenant Settings, can be made for each Business Profile. 
+
+.. image:: tenant-settings-header.png
 
 General
 ---------
@@ -89,39 +102,71 @@ RTF Editor
 ***********
 Use these settings to decide which default options should be available for the Rich Text Editor and the Limited Rich Text Editor, in the tenant. 
 
-.. image:: rtf-editor.png
+.. image:: rtf-editor-new.png
 
 **Note!** For some blocks a Custom RTF Editor can be created. If that is done it will override these settings.
 
-Both lists are handled the same way even if there is a lot more to choose from for the Rich Text Editor.
+Both lists are handled the same way.
 
 1. Select and deselect options to be available in the editor and save when you're done.
 
-.. image:: rtf-editor-options.png
+.. image:: rtf-editor-options-new.png
 
 (All options are not shown in the image above, there's a lot more.)
 
-At the top you will see a preview of what the editor will look like with the selected options.
+At the top you will see a preview of what the RTF editor will look like with the selected options.
 
-"Text Translator" is the option for Machine Translations editors can use. All other options should be fairly self explanatory.
+Remove Formatting is not an option shown as an icon in the RTF editor. The option becomes available when it's needed - when formatted text is selected or when text with formattion is pasted.
 
-Additional settings
+Text Translator is the option for Machine Translations editors can use (Available at the bottom of the list, not activated in the image above). 
+
+All other options should be fairly self explanatory.
+
+Settings for Styles
 --------------------
-For some options, settings can be available. In that case a cog wheel is shown:
+To edit the settings for Styles, click the cog wheel.
 
-.. image:: rtf-editor-cogwheel.png
+.. image:: tenant-settings-styles.png
 
-To edit the settings, click the cog wheel.
+Select the styles that should be available in the list.
 
-For "Heading" you can select which format options should be available:
+.. image:: tenant-settings-styles-select.png
 
-.. image:: rtf-editor-cogwheel-heading.png
+**Note!** You can use Text Styles to configure styles. The enabled styles from Text Styles are those shown in the above list. See below for more information on Text Styles.
 
 Reorder the options
 ---------------------
 If you would like to reorder the options in the editor, use these icons to drag and drop:
 
-.. image:: rtf-editor-reorder.png
+.. image:: rtf-editor-reorder-new.png
+
+Text Styles
+*************
+Here you can edit the settings for the text styles used in the RTF editor, as well as create new styles.
+
+.. image:: tenant-settings-text-styles.png
+
+In the column Enabled you decide which styles should be available to choose for the RTF editor. They are listed under Styles in the settings described above and are also available in a few blocks where a custom RTF editor can be created.
+
+Click the cog wheel to edit the setting for a style. You can edit all settings available when creating a new style, see below.
+
+Create a new text style
+-------------------------
+Do the following:
+
+1. Click the plus.
+
+.. image:: text-styles-click-plus.png
+
+2. Use these settings:
+
+.. image:: text-styles-settings.png
+
++ **Title**: Add a title (name) for the style, in any or all available languages. Default tenant language is mandatory.
++ **Inherit**: To inherit style settings from the web browser (which can actually differ depending on the browser the user has), select this option. To set your own settings for the style, deselect the option and a settings field becomes available.
+
+
+
 
 
 
