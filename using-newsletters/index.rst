@@ -1,4 +1,4 @@
-Working with Newsletters
+Using Newsletters
 ===========================
 
 **This part of the documentation is just started. More will be added soon.**
