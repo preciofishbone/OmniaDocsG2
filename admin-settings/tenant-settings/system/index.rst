@@ -67,6 +67,19 @@ What you can do in the settings is simply turning Audit logging on or off (which
 
 .. image:: audit-logs-list-settings-settings.png
 
+Tenant Contact
+***************
+It's very important that you add contact information here. This will be the main channel for information from Omnia. You can edit the contact information any time.
+
+.. image:: tenant-contact.png
+
++ **Main Contacts**: Here you add the main contact person(s) in your organization, for Omnia.
++ **Security**: This will (hopefully) be rarely used. If issues with security should arise, this is the person that will receive that information, to act on it.
++ **Update Notification**: Whenever updates will be executed, or will be available to act on, this contact person(s) will receive a notification when it is executed. Information will of course be available before this so you will be aware of updates som time before they are executed.
++ **Add External Main Contact, Security, Notification Email**: In these fields you can add email adresses to external partners that should recieve the same information.
+
+Don't forget to save when you're done.
+
 Queue logs
 ***********
 Administrators can use this option to troubleshoot issues on site provisioning and other long running operations.
