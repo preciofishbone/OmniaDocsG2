@@ -2,28 +2,21 @@ Release 5 (DRAFT)
 ========================================
 .. note:: **This is a draft of the release notes. Text might be added, altered or removed.**
 
-.. note:: A new app consent is needed to allow Microsoft Teams Single sign on. It contains the following added permissions:
-
-          - **offline_access (Delegated)** Maintain access to data you have given it access to
-          - **openid (Delegated)** Sign users in
-          - **profile (Delegated)**	View users' basic profile
-
-
 Newsletter
 -----------------------------------------
-You can now setup a Page Collection to allow for pages to be sent out as e-mail.
+You can now setup a Page Collection to allow for pages to be sent out by e-mail.
 
 .. image:: newsletter-settings.png
 
-This makes it possible to implement a Newsletter solution.
+This makes it possible to build a Newsletter solution for authors.
 
 .. image:: newsletter-archive.png
 
-An important part of a newsletter would be to be able to manually pick which pages that should be shown in a page rollup. A new feature makes it possible to configure a page type to pick pages in write mode.
+An important part of a newsletter is to be able to manually pick which news that should be shown in a rollup. A new feature makes it possible to configure a page type to pick pages in write mode.
 
 .. image:: newsletter-pick-pages-settings.png
 
-The author can create a new newsletter, write an introduction and pick the news articles that should be sent out.
+The author can now create a newsletter, write an introduction and pick the news articles that should be sent out.
 
 .. image:: newsletter-pick-pages.png
 
@@ -40,7 +33,7 @@ Before a newsletter is sent out, the author can send a preview to any e-mail add
 Page Lifecycle Improvements
 -----------------------------------------
 
-It is now possible for an editor to hide pages. This can be used to temporary unpublish a page or to prepare a new part of the content structure before it goes live.
+It is now possible for an editor to hide pages. This can be used to temporary unpublish a page or to prepare a new part of the intranet content structure before it goes live.
 
 .. image:: page-lifecycle-hide.png
 
@@ -60,7 +53,7 @@ The Delete page action has been replaced with an Archive page action.
 
 .. image:: page-lifecycle-archive.png
 
-When a page is archived, it is possible to provide a comment on why the page or page should be archived.
+When a page is archived, you should provide a comment on why the page or pages should be archived.
 
 .. image:: page-lifecycle-archive-confirmation.png
 
@@ -68,7 +61,7 @@ It is possible to archive a single page, a number of pages, a whole page collect
 
 .. image:: page-lifecycle-archive-pages.png
 
-It is possible to restore pages, page collections and pages types from the archive. When an
+It is possible to restore pages, page collections and pages types from the archive. You can also decide to terminate the archived item. This action is irreversible.
 
 .. image:: page-lifecycle-archive-restore.png
 
@@ -84,22 +77,22 @@ A new drop down for table styles is now available in the table toolbar. This mak
 
 .. image:: rtf-table-styles.png
 
-It is also possible to style a specific cell with a specific background color and border style.
+It is also possible to style a specific cell with a background color and border style.
 
 .. image:: rtf-cell-style.png
 
 Media
 *****************************************
 
-When adding an image or video in rich text using the media picker, it is now  easier to edit it by selecting the media and use the action buttons on the media.
+When adding an image or video in rich text using the media picker, it is now easier to edit it by selecting the media and use the action buttons on the media.
 
 .. image:: rtf-media-tools.png
 
-By default, the media will use 100% of the text block width, but it is possible to set a fixed width on the media if needed.
+By default, the media will use 100% of the text block width, but it is possible to set a fixed width if needed.
 
 .. image:: rtf-media-fixed-width.png
 
-When a fixed width is set, it is possible to align the media in the block and decide how the text should flow together with the media.
+When a fixed width is set, it is possible to align the media within the block and decide how the text should flow together with the media.
 
 .. image:: rtf-media-text-flow.png
 
@@ -119,7 +112,7 @@ Once a link has been added, it is easy to remove or update the link using the ac
 Paste
 *****************************************
 
-When you copy html from web site or Word or likewise and paste it into a rich text block...
+When you copy html from a web site or Word or likewise and paste it into a rich text block...
 
 .. image:: rtf-copy-from-web-site.png
 
@@ -148,7 +141,7 @@ If the text block that is edited is longer than the page and you need to scroll 
 Central Text Styles
 *****************************************
 
-Text styles that are used in text blocks can now be configured in Omnia Admin. It is also possible to add additional styles that can be used in the solution. If the styles are set to Inherit, it will use default system styles.
+Text styles that are used in text blocks can now be configured in Omnia Admin. It is possible to add custom styles that can be used in the solution. If the styles are set to Inherit, it will use default system styles.
 
 .. image:: rtf-text-styles.png
 
@@ -158,7 +151,7 @@ Text styles that are used in text blocks can now be configured in Omnia Admin. I
 Design Improvements
 -----------------------------------------
 
-This release includes a number of design improvements to different components. Some of the improvements are listed below.
+This release includes a number of design improvements. Some of the improvements are listed below.
 
 Page Style
 *****************************************
@@ -170,7 +163,7 @@ A new level of branding has been added to web content management. It is now poss
 Card View
 *****************************************
 
-The People Rollup and Page Rollup blocks have a new card based view that can be configured based on your needs.
+The People Rollup and Page Rollup blocks have a new card based view that can be configured based on needs.
 
 .. image:: designupdates-page-cards.png
 
@@ -179,11 +172,17 @@ The People Rollup and Page Rollup blocks have a new card based view that can be 
 Microsoft Teams Integration
 -----------------------------------------
 
-It is possible to take your publishing pages and corporate news to the Microsoft Teams client using one or many Teams Apps.
+.. note:: A new app consent is needed to allow Microsoft Teams Single sign on. It contains the following added permissions:
+
+          - **offline_access (Delegated)** Maintain access to data you have given it access to
+          - **openid (Delegated)** Sign users in
+          - **profile (Delegated)**	View users' basic profile
+
+It is possible to take your intranet to Microsoft Teams using one or many Teams Apps.
 
 .. image:: teams-start-page.png
 
-Omnia supports single-sign-on in Teams app in order to fully support the Microsoft Teams mobile app experience.
+Omnia supports single-sign-on in Teams Apps in order to fully support the Microsoft Teams mobile app experience.
 
 .. image:: teams-mobile.png
 
@@ -191,7 +190,7 @@ Links that are created in Omnia (quick links, related links etc) support the pos
 
 .. image:: teams-deep-links.png
 
-Deep links can take you to almost any item, like channels, tabs and apps within Microsoft Teams.
+Deep links can take you to almost any item like channels, tabs and apps within Microsoft Teams.
 
 .. image:: teams-deep-links-2.png
 
@@ -224,7 +223,7 @@ These synced pages will be picked up by and displayed by Microsoft Search. When 
 Governance Dashboards
 -----------------------------------------
 
-A new block, Governane Dashboard, is now available and can be used to show important metrics in the solution. The first metrics deployed is for pages, communinities and teamwork. Each area also support specific filters that can be applied to the metrics.
+A new block, Governane Dashboard, is now available and can be used to show important metrics in the solution. The first couple of metrics that is shipped with Omnia is targeted to pages, communinities and teamwork. Each area also support specific filters that can be applied to the metrics.
 
 .. image:: governancedashboard-pages.png
 
@@ -236,11 +235,11 @@ Specific metrics are targeted to communities in order to identify how comments a
 
 .. image:: governancedashboard-communities.png
 
-Other metrics are targeted to teamwork. It makes it possible to identify how much Teamwork that are created within the solution based on different timespan.
+Other metrics are targeted to teamwork. This will make it possible to identify how much Teamwork that is created within the solution based on different timespan.
 
 .. image:: governancedashboard-teamwork.png
 
-More metrics will be deployed to the solution going forward.
+More metrics will be deployed to Omnia going forward.
 
 
 Omnia Tenant Contacts
@@ -248,7 +247,7 @@ Omnia Tenant Contacts
 
 There are three roles that can be added as tenant contacts in Omnia Admin:
 
-* Main Contacts: Will receive important announcements from the product team regarding for example retirement of features or major service interruptions.
+* Main Contacts: Will receive important announcements from the product team regarding for retirement of features or major service interruptions.
 * Security Contacts: Will recieve a message from the product team on any suspected or ascertained security breach in the system.
 * Update Notification: Will receive an automatic e-mail from the system whenever the tenant has been updated with a new version of the core product or any extension.
 
@@ -256,12 +255,12 @@ There are three roles that can be added as tenant contacts in Omnia Admin:
 
 .. note:: It is very important that a main contact is registered in the tenant.
 
-.. note:: The e-mails that are sent out to inform about updates are sent from @preciofishbone.se. Make sure to check your junk mail or create a new rule in your e-mail system to trust this e-mail address.
+.. note:: The e-mails that are sent out to inform about updates are sent from no-reply@omniacloud.net. Make sure to check your junk mail or create a new rule in your e-mail system to trust this e-mail address.
 
 Stacked Processes
 -----------------------------------------
 
-A new setting has been added to the Process Drawing block to allow the process drawings to be stacked when the user navigates the processes.
+A new setting has been added to the Process Drawing block to allow the process drawings to be stacked on top of each other when the user navigates the processes.
 
 .. image:: stackedprocesses-step-1.png
 .. image:: stackedprocesses-step-2.png
