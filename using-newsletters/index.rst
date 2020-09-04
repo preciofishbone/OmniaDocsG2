@@ -15,7 +15,7 @@ When that setting is active, the following tab is displayed in the page settings
 
 .. image:: page-setting-newsletter.png
 
-In this field both groups and individual e-mail adresses can be entered.
+In this field both groups and individual e-mail adresses can be entered. This tab is available for Page Editors using Write mode.
 
 Implementation example
 ************************
