@@ -41,7 +41,7 @@ Use the settings this way:
 + **Enable Approval**: If Approval should be needed for creation of new pages, enable this. If not enabled, editors can publish new pages themselves. See more info about Approval settings below.
 + **Reset notification when page is modified**: This setting defines when a notification that a page is new should be shown for users, for example in the Notification Panel. Normally it's only when the page is created, not when it's updated. If this option is activated the page is considered to be new every time it's updated and a new version is published. Therefore it's probably more relevant for pages in Communities than for Publishing Pages.
 + **Enable Activity Points**: This option is a preparation for future functionality. 
-+ **Enable Send Page as E-mail**: Select this option if pages in the Page Collection should be available to send through e-mail. One example of when this is needed is in a Newsletter inplementaion.
++ **Enable Send Page as E-mail**: Select this option if pages in the Page Collection should be available to send through e-mail. One example of when this is needed is in a Newsletter inplementation.
 
 Settings for Approval
 ----------------------

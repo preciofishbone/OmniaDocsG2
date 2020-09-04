@@ -1,30 +1,34 @@
 Page Rollup
 ===========================================
 
-This block can be used for many purposes, for example to rollup new news, latest news and similar - and for much more regarding pages, not just for news.
+This block can be used for many purposes, for example to rollup new news, latest news and similar - and for much more regarding pages, not just for news. The Page Rollup is also an important part of a Newsletter implementation.
 
 Settings
 *********
 These settings are available for the block:
 
-.. image:: page-rollup-settings-new2.png
+.. image:: page-rollup-settings-new3.png
 
 Query
 ------
 Here you can set the following:
 
-.. image:: page-rollup-settings-query.png
+.. image:: page-rollup-settings-query-new.png
 
-+ **Scope**: Select scope for the block; Publishing Apps or Page Collections. Then open the list below and select Publishing Apps/Page Collections. (Subscriptions is also available in the lists but is not active yet, it's a preparation for functionality to come.)
-+ **Exclude current page**: The default settings is to exclude the current page, but if you, for some reason, would like to include the current page, uncheck this option.
++ **Pick Pages**: If the editor should be able to pick pages from a list, select this option.
++ **Pick in Write Mode**: Available when Pick Pages is selected. Select this option if editors should be able to pick pages in Write mode. If not selected, Design mode has to be used.
++ **ADD PAGE**: When you have selected Pick Pages, you can pick some pages to always be shown. Click this option and use the Page Picker. See this page for more information: :doc:`The Page Picker </general-assets/page-picker/index>`
++ **Use Query Builder**: If pages should be available through a query, select this option.
++ **Scope**: Whane you have selected Use Query Builder, select scope for the block; Publishing Apps or Page Collections. Then open the list below and select Publishing Apps/Page Collections. 
++ **Exclude current page**: Available when you chosen scope. The default settings is to exclude the current page, but if you, for some reason, would like to include the current page, uncheck this option.
 
 When you have selected "Publishing Apps" or "Page Collections" as Scope, use the list to add one or more:
 
-.. image:: page-rollup-query-list.png
+.. image:: page-rollup-query-list-new.png
 
 For every Publishing App or Page Collection you have selected, you can filter (meaning displaying just some of the pages) by expanding and selecting "Add filter".
 
-.. image:: page-rollup-query-addfilter.png
+.. image:: page-rollup-query-addfilter-new.png
 
 Here's an example of a filter that will display pages that have been updated (Modified) the last month:
 
