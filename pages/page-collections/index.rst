@@ -24,11 +24,11 @@ In this example, the two Page Collections Start and News has been created in the
 
 4. Click "Edit" at the bottom to edit the settings.
 
-.. image:: page-collection-click-edit.png
+.. image:: page-collection-click-edit-new.png
 
 4. Use the following settings:
 
-.. image:: page-collection-settings-new.png
+.. image:: page-collection-settings-new2.png
 
 Use the settings this way:
 
@@ -41,6 +41,7 @@ Use the settings this way:
 + **Enable Approval**: If Approval should be needed for creation of new pages, enable this. If not enabled, editors can publish new pages themselves. See more info about Approval settings below.
 + **Reset notification when page is modified**: This setting defines when a notification that a page is new should be shown for users, for example in the Notification Panel. Normally it's only when the page is created, not when it's updated. If this option is activated the page is considered to be new every time it's updated and a new version is published. Therefore it's probably more relevant for pages in Communities than for Publishing Pages.
 + **Enable Activity Points**: This option is a preparation for future functionality. 
++ **Enable Send Page as E-mail**: Select this option if pages in the Page Collection should be available to send through e-mail. One example of when this is needed is in a Newsletter inplementaion.
 
 Settings for Approval
 ----------------------
