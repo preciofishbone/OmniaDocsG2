@@ -37,8 +37,6 @@ And the following Style settings:
 
 .. image:: newsletter-archive-button-style-1.png
 
-.. image:: newsletter-archive-button-style-2.png
-
 The Page Rollup block has the following settings for Query:
 
 .. image:: newsletter-archive-page-query.png
@@ -46,6 +44,8 @@ The Page Rollup block has the following settings for Query:
 There are no settings for Social Period. The settings for Display are the following:
 
 .. image:: newsletter-archive-page-display-1.png
+
+and these:
 
 .. image:: newsletter-archive-page-display-2.png
 
