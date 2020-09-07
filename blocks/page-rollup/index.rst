@@ -32,28 +32,30 @@ For every Publishing App or Page Collection you have selected, you can filter (m
 
 Here's an example of a filter that will display pages that have been updated (Modified) the last month:
 
-.. image:: page-rollup-query-filter-example.png
+.. image:: page-rollup-query-filter-example-new.png
 
 Social Period
 --------------
 Use these settings to decide for how long likes, comments, ratings and page feedback should be displayed here. The default setting is "No limit" but you can select one week, two weeks or one month instead.
 
-.. image:: page-rollup-settings-social-new.png
+.. image:: page-rollup-settings-social-new2.png
 
 Display
 ----------
 Select View here. Note that a preview is shown in the block.
 
-.. image:: page-rollup-settings-display-border.png
+.. image:: page-rollup-settings-display-new.png
 
 The following lists all available display settings (shown in different order for different displays).  
 
 + **Autoplay**: If the roller should roll automatically, select this option. Available for "Dynamic Roller" only.
++ **Cards per Row**: Available for Card only.
++ **Contact**: Select the property to be displayed as Contact. Available for Newsletter only.
 + **Content**: Select the property that contains the page content for the item to display. Available for dialog display only.
 + **Content Image**: Select image to display, if any. Available for dialog display only.
 + **Create button for page collection**: When you have selected "Show create button", this optipon is shown. Use it to select in which page collection the new page will be created.
 + **Date**: Select the property that contains the date for the item(s) to display.
-+ **Hide block when not data**: Select this option if the block should be hidden when there's nothing to display.
++ **Hide block when no data**: Select this option if the block should be hidden when there's nothing to display.
 + **Hide Read News**: If this list displays news, select this option to hide all news pages the logged in user has read.
 + **Image**: Select the property that contains the image for the item(s) to display.
 + **Image x and y**: Select the image format here. Available for "Single Item" only.
@@ -66,6 +68,8 @@ The following lists all available display settings (shown in different order for
 + **Open link in new tab**: If the link should be opened in a new tab (as opposed to in current window or dialog), select this option. Available only if "Show link" is selected.
 + **Open page as a dialog**: If the page should be opened in a dialog instead for in a page (new or current), select this option. 
 + **Overlay**: If an overlay text should be shown on the image(s), add the text here. Available for "Roller" only.
++ **Page Content Character Limit**: If the number of characters displayed for Page Content should be limited, add the number here. The Content is simply jus cut after that. Available for Newsletter only.
++ **Page Summary Character Limit**: If the number of characters displayed for Page Summary should be limited, add the number here. The Summary is simply jus cut after that. Available for Newsletter only.
 + **Paging**: Select paging here; "No paging", "Classic" or "Scroll".
 + **Show create button**: To make it possible for editors to create a new page from here, select this option to add a button to the block heading, and type the name for the button. 
 + **Show Likes/Comments**: If the number of likes and comments should be displayed for the item, select this option. 
@@ -84,7 +88,7 @@ The following lists all available display settings (shown in different order for
 
 **Note!** For "List View" you also have to add at least one column, for the display to work. Here's an example with two columns added:
 
-.. image:: list-view-columns.png
+.. image:: list-view-columns-new.png
 
 This could show the following:
 
@@ -100,7 +104,7 @@ Filter
 -------
 If users should be able to filter the list and/or search here, use these options to add filters. 
 
-.. image:: page-rollup-filter.png
+.. image:: page-rollup-filter-new.png
 
 See this page for information on how to use these options: :doc:`Filter UI </blocks/general-block-settings/filters/index>`
 
@@ -108,7 +112,7 @@ Page Variations
 ----------------
 Using Page Variations you can select the following:
 
-.. image:: page-rollup-variations.png
+.. image:: page-rollup-variations-new.png
 
 + **User Variation**: Pages (including News) will be listed that correspond with the logged in users preferred setting for the variation, for example language setting, in the user's profile. If some pages does not have a variation that correspond with the user's setting, the default variation will be used.
 + **Default Variation**: The default variations are always used.
