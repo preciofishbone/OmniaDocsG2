@@ -6,6 +6,7 @@ Blocks
 
    
    accordion/index
+   activity-feed/index
    button-link/index
    announcements/index
    banner/index

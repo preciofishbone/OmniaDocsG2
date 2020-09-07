@@ -3,9 +3,11 @@ Notification Panel
 
 The Notification Panel is a concept in Omnia. The purpose is to help end users find out what information has been updated within different areas of the intranet.
 
-A Notification Panel can be placed on any page, or in the Action Manu, to show different notifications. You can create several Notification Panels for different purposes.
+A Notification Panel can be placed on any page through the Notification Panel block, or in the Action Manu, to show different notifications. You can create several Notification Panels for different purposes.
 
-.. image:: notification-panel-new.png
+The first you will see is the list of existing notification panels, for example:
+
+.. image:: notification-panel-new2.png
 
 Create a new Notification Panel
 *********************************
@@ -13,13 +15,13 @@ To create a new Notification Panel, do the following:
 
 1. Click the plus.
 
-.. image:: notification-panel-click-plus2.png
+.. image:: notification-panel-click-plus3.png
 
 2. Use the following settings:
 
-.. image:: notification-panel-settings-new4.png
+.. image:: notification-panel-settings-new5.png
 
-+ **Title**: You can add a block title here if you wish. Note the setting to show the title or not (see below under *Layout*).
++ **Title**: You can add a block title here if you wish. 
 + **Add Category**: Click here to add a new Category. 
 + **Category Title**: Add a Title for the new Category. You can add titles for all active languages.
 + **Icon Type**: Select an Icon Type.
@@ -30,11 +32,13 @@ To create a new Notification Panel, do the following:
 3. Click "ADD" to create the Category.
 4. Click the cog wheel to access the settings for the Category, for example.
 
-.. image:: notification-category-more-settings-cogwheel-4new.png
+.. image:: notification-category-more-settings-cogwheel-4new2.png
 
 Category settings
 --------------------
 The settings for a Category is the same as the settings for the corresponding Block, see:
+
+Activity Feed: :doc:`The Activitye Feed block </blocks/activity-feed/index>`
 
 Announcements: :doc:`The Announcements block </blocks/announcements/index>`
 
@@ -42,7 +46,7 @@ Calendar Rollup: :doc:`The Calendar Rollup block </blocks/calendar-rollup/index>
 
 Document Rollup: :doc:`The Document Rollup block </blocks/document-rollup/index>`
 
-HTML Scripts: :doc:`The HTML Scripts block </blocks/html-script/index>`
+HTML Script:doc:`The HTML Scripts block </blocks/html-script/index>`
 
 My Tasks: :doc:`The Tasks Rollup block </blocks/task-rollup/index>`
 
@@ -54,27 +58,6 @@ RSS Reader: :doc:`The RSS Reader block </blocks/rss-reader/index>`
 
 Team News Rollup: :doc:`The Team News Rollup block </blocks/team-news-rollup/index>`
 
-Trello Card Rollup: (Linke to be added).
-
-Layout
----------
-Here you can set the following:
-
-.. image:: notification-panel-layout-new.png
-
-+ **Show icon**: To show an icon for each category, select this option (Default=selected).
-+ **Show label**: To show the label for each category, select this option (Default=deselected).
-+ **Categories per row**: Set the number of categories to be shown per row. If more categories are shown a new row will be added automatically. 0 means any number of categories on one row.
-+ **Show block title**: (This option has now actual function at the moment).
-+ **Color and Background color**: Default settings for block heading are set in Omnia Admin. Color and Background color kan be changed here.
-+ **Padding**: Some padding between the block border and the content can be set here.
-+ **Margin**: (This option has now actual function at the moment).
-
-Custom colors
---------------
-Default colors are set in Omnia Admin. Custom colors for different parts of the Notification Panel can be set here.
-
-.. image:: notification-panel-custom-colors-new.png
 
 
 
