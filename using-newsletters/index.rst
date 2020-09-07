@@ -21,6 +21,10 @@ When you set up a Page Rollup to be used by Newsletter Editors, Pick Pages and P
 
 .. image:: page-rollup-pick-pages.png
 
+There's also a View called Newsletter that can be useful.
+
+.. image:: page-rollup-newsletter-view.png
+
 Implementation example
 ************************
 Here's a Newsletter implementation example. First an example of a newsletter archive:

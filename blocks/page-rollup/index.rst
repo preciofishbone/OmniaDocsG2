@@ -1,7 +1,7 @@
 Page Rollup
 ===========================================
 
-This block can be used for many purposes, for example to rollup new news, latest news and similar - and for much more regarding pages, not just for news. The Page Rollup is also an important part of a Newsletter implementation.
+This block can be used for many purposes, for example to rollup new news, latest news and similar - and for much more regarding pages, not just for news. The Page Rollup is, for example, an important part of a Newsletter implementation.
 
 Settings
 *********
@@ -17,10 +17,10 @@ Here you can set the following:
 
 + **Pick Pages**: If the editor should be able to pick pages from a list, select this option.
 + **Pick in Write Mode**: Available when Pick Pages is selected. Select this option if editors should be able to pick pages in Write mode. If not selected, Design mode has to be used.
-+ **ADD PAGE**: When you have selected Pick Pages, you can pick some pages to always be shown. Click this option and use the Page Picker. See this page for more information: :doc:`The Page Picker </general-assets/page-picker/index>`
++ **ADD PAGE**: When you have selected Pick Pages, you can pick some pages to always be shown. Click this option and use the Page Picker. See this page for more information: :doc:`Page Picker </general-assets/page-picker/index>`
 + **Use Query Builder**: If pages should be available through a query, select this option.
-+ **Scope**: Whane you have selected Use Query Builder, select scope for the block; Publishing Apps or Page Collections. Then open the list below and select Publishing Apps/Page Collections. 
-+ **Exclude current page**: Available when you chosen scope. The default settings is to exclude the current page, but if you, for some reason, would like to include the current page, uncheck this option.
++ **Scope**: When you have selected Use Query Builder, select scope for the block; Publishing Apps or Page Collections. Then open the list below and select Publishing Apps/Page Collections. 
++ **Exclude current page**: Available when you have chosen scope. The default settings is to exclude the current page, but if you, for some reason, would like to include the current page, uncheck this option.
 
 When you have selected "Publishing Apps" or "Page Collections" as Scope, use the list to add one or more:
 
@@ -86,15 +86,15 @@ The following lists all available display settings (shown in different order for
 
 + **Padding**: Add some padding between the list and the block border, if needed.
 
-**Note!** For "List View" you also have to add at least one column, for the display to work. Here's an example with two columns added:
+**Note!** For "List View" you also have to add at least one column, for the display to work. Here's an example with three columns added:
 
-.. image:: list-view-columns-new.png
+.. image:: list-view-columns-new2.png
 
 This could show the following:
 
-.. image:: list-view-example.png
+.. image:: list-view-example-new.png
 
-"2 months ago" etc is the "Social" setting for date. If you would like to show exact dates instead, select "Normal".
+"a month ago" etc is the "Social" setting for date. If you would like to show exact dates instead, select "Normal".
 
 "Show paging" in settings for "Dynamic Roller" makes these icons available for navigation:
 
