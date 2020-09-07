@@ -38,7 +38,7 @@ Category settings
 --------------------
 The settings for a Category is the same as the settings for the corresponding Block, see:
 
-Activity Feed: :doc:`The Activitye Feed block </blocks/activity-feed/index>`
+Activity Feed: :doc:`The Activity Feed block </blocks/activity-feed/index>`
 
 Announcements: :doc:`The Announcements block </blocks/announcements/index>`
 
