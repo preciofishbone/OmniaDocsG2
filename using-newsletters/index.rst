@@ -21,7 +21,7 @@ When you set up a Page Rollup to be used by Newsletter Editors, Pick Pages and P
 
 .. image:: page-rollup-pick-pages.png
 
-There's also a View called Newsletter that can be useful.
+There's also a View called Newsletter that can be useful. This view is suitable for e-mailing.
 
 .. image:: page-rollup-newsletter-view.png
 
