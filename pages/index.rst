@@ -22,6 +22,7 @@ In this part of the documentation you will find information concerning how to wo
    page-types/index
    page-settings/index
    page-statistics/index
+   page-style/index
    reports/index
    page-collections/index
    
