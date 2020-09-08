@@ -11,7 +11,7 @@ These are the settings for the block (example):
 
 .. image:: create-teamwork-settings.png
 
-(All available options in our test environment are not shown in the image.)
+(All available options are not shown in the image.)
 
 + **Title**: You can add a title for the block if you wish.
 + **Select template to show**: Select the templates that should be available here for users to select when creating the teamwork. The temmplates shown are those that has been set up in your environment in Omnia Admin, see above for a link to the description.
