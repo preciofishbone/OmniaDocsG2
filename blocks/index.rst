@@ -12,6 +12,7 @@ Blocks
    banner/index
    breadcrumb/index
    calendar-rollup/index
+   create-teamwork/index
    current-navigation/index
    document-rollup/index
    general-block-settings/index
