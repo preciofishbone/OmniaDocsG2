@@ -28,5 +28,9 @@ The following settings are available for the block:
 + **Item Limit**: Set the number of items to be shown in the list before a See more icon is shown (see above for an example). Default=10.
 + **Padding**: Set some padding between the block border and the list, if needded.
 
+The tabs Layout and Advanced contains general settings for blocks. For more information see: :doc:`General Block settings </blocks/general-block-settings/index>`
+
+
+
 
 

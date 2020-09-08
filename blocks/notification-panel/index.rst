@@ -7,9 +7,13 @@ Here's an example of a Notification Block as seen by users:
 
 .. image:: block-notification-panel-example.png
 
+The notification block can be displayed in the Action Menu or as a block on any page, which is described here. Wether the Notification Panel should be displayed in the Action Menu is set up in Omnia Admin, in Business Profile/Settings/Header/Action Menu. See this page for more information: :doc:`Header settings for the Business Profile </admin-settings/business-group-settings/settings/header/index>`
+
+As it's actually a Notification Panel block used in the Action Menu as well, it means the settings are identical to those described here, but they have to be made in Omnia Admin.
+
 Settings
 **********
-The following settings are available:
+The following settings are available for the block:
 
 .. image:: block-notifications-settings.png
 
