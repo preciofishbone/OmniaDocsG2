@@ -64,7 +64,7 @@ If you select Custom Theme, you can click the icon to select a theme from the li
 
 .. image:: page-style-settings-page-theming-theme.png
 
-The themes are set up for the Business Profile in Omnia Admin, see: :doc:`Theming - Preview </admin-setings/business-group-settings/theming-preview/index>`
+The themes are set up for the Business Profile in Omnia Admin, see: :doc:`Themes </admin-setings/business-group-settings/settings-themes/index>`
 
 When you have chosen a theme you can edit colors using the three Color fields:
 

@@ -16,7 +16,6 @@ Business Profile Settings
    settings/index
    shared-links/index
    team-collaboration/index
-   theming-preview/index
    
    
  
