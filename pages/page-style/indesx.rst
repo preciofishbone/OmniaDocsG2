@@ -1,7 +1,7 @@
 Page Style
 ==============
 
-This option makes it possible to set a certain style för a specific page. You must be able to edit the page in Design mode to be able to do this.
+This option makes it possible to set a certain style for a specific page. You must be able to edit the page in Design mode to be to do this.
 
 Do the following:
 
@@ -56,7 +56,7 @@ Under Header the following settings are found:
 
 Page Theming
 **************
-Here you can choose to set a custom theme for this page:
+Here you can choose to set a custom theme for this page. The themes are set up for the Business Profile in Omnia Admin, see:  :doc:`Theming - Preview </admin-setings/business-group-settings/theming-preview/index>`
 
 .. image:: page-style-settings-page-theming.png
 
