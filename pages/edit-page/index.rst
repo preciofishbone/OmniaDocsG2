@@ -128,3 +128,6 @@ Use the options at the bottom to do that:
 
 **Note!** A page is not shown to users until it has been published at least once. Changes to a published page are not shown to users until published.
 
+Page Style
+*************
+There's also a number of style options available for a  page, see: :doc:`Page Style </pages/page-style/index>`
