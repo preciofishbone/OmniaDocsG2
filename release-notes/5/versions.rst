@@ -14,7 +14,6 @@ General
 - Updated labels and wordings in many places of the application (#116801, #120576, #121034).
 - Saving permissions now works even if one of the users/groups fails (usually due to the user being deleted) (#120781).
 - Translated terms now work as expected (#121005).
-- 
 
 Web Content Management
 ***********************
@@ -78,6 +77,11 @@ Web Content Management
 - Corrected an issue that would sometimes prevent navigation to a page from the page rollup (#120420).
 - Its now possible to have scheduling and approval on the same page (#120769).
 - Corrected an issue that would prevent the create news button to not show up (#121678).
+- Page types can now be deleted if not used (#114141, #121724, #121873).
+- Action Button triggered dialog can now properly be closed (#115248, #115156).
+- Video in the media block can now be edited (#116080).
+- The notification count badge text and background color can now be explicitly set (#114605, #117706, #118278).
+- Editing a url to a node now behaves correctly (#114961).
 
 
 
@@ -103,7 +107,7 @@ Workplace
 
 - :doc:`MS Teams Integration </release-notes/5/index>` 
  - New Query strings for showing/hiding the Tenant and Business Profile header. (#119541)
-- People rollup have been reworked, with new design options and features (#120973, #114014).
+- People rollup have been reworked, with new design options and features (#120973, #114014, #114403, #121172, #116920, #120521).
 - The announcement comments feed now take all available screen space (#117248).
 - Corrected an issue where the header toolbar would show the wrong icons  (#117530).
 - Corrected the style of the User Profile Completion Wizard in SPFx (#114438).
@@ -120,8 +124,10 @@ Workplace
 - Fixed an issue that would prevent App Instance requests to be rejected if the template had been removed (#120901).
 - Fixed an issue in the My Site header component that prevented settings from being saved (#120818).
 - Corrected an issue where the people rollup would not render correctly when using SharePoint group query option together with being used in SPFx (#120283).
-- The people rollup has received a design overhaul (#114403, #121172, #116920, #120521).
-- Collaboration templates now sort alphabetically (#117977)
+- Collaboration templates now sort alphabetically (#117977).
+- Search now handles query rules properly, this solves issues with mismatch between standard SP Search and search in Omnia (#114847).
+- Profile Completeness now has a correctly implemented block title and new design options (#114212).
+- SharePoint alias validation now correctly prevents the user from progressing in the site provisioning (#114641).
 
 Communities
 ***********************
