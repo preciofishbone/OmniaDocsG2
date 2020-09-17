@@ -1,7 +1,7 @@
 Activity Feed
 =================
 
-Use this block to show activities for the subscriptions the logged in user has.
+Use this block to show activities for the subscriptions the logged in user has or for activities on content pages.
 
 Here's an example of an activity feed with the scope set to My Subscriptions:
 
@@ -38,9 +38,10 @@ The Scope setting results in the following:
 **Publishing App**: Lists all pages in the CURRENT publishing app that are either new or have been updated.
 **Page Collection**: Lists all pages in the CURRENT page collection that are either new or have been updated.
 
+Regarding what is consider an update on a page - more information about this will added soon.
+
 Generally, a user will never be able to read a page that person does not have access to, even if an activity may be present in the feed, meaning not all activities are security trimmed, but the pages always are. 
 
-Regarding what is consider an update on a page - more information about this will added soon.
 
 
 
