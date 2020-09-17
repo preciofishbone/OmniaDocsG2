@@ -24,7 +24,7 @@ Here you can add a Title to be displayed for the block:
 
 .. image:: peoplerollup-settings-general-new2.png
 
-If no varition exists for the page, it looks like in the image above and you can set the title in the languages active in the tenant. If a varition exists, only one title can be set. In that case, titles in other languages are set in the variations.	
+If variations exists for the page, it looks like in the image above and you set the title default language. Titles in other languages are set using the variations. If no varitions exists, you can add a title in any or all languages available in the tenant, in the block.	
 
 Display
 -----------
@@ -32,33 +32,29 @@ You can set the type of view to be used for the list here:
 
 .. image:: peoplerollup-settings-display-new.png
 
-You can choose to display the list as a Card view or Roller view.
-
-In the image at the top of the page, Card view is used. See below for a Roller example.
+You can choose to display the list as a Card view or Roller view. In the image at the top of the page, Card view is used. 
 
 The following settings are available for the views:
 
 + **Add Column**: This is not like columns in columns in a table. You should think: What information do I want to display about the people? You must always add at least one column or nothing will be shown!
 + Adjust Columns**: Use this option the order in which the selected columns are shown.
 + **Person Name**: Select property to get the Person Name from.
-+ **Show Profile Image**: Select this option to show the person's image.
-+ **Open in Dialog**: If you select this option, the person's information is opened in a dialog instead of in a window, when clicked.
++ **Show Profile Image**: Select this option to show the person's profile image.
++ **Open in Dialog**: If you select this option, the person's Delve page is opened in a dialog instead of in a window, when clicked.
 + **Dialog Position**: Here you can set the position for the dialog; Center, Left or Right.
-+ **Open in New tab**: If you select this option, the person's information is opened in a new tab instead of in a window, when clicked. 
++ **Open in New tab**: If you select this option, the person's Delve page is opened in a new tab instead of in a window, when clicked. 
 + **Auto Cycle**: Available for Roller. Select this option to make the roller auto cycle through availble persons.
-+ **Slide Height**: Set the height of the area to show the content in. Available for Roller view only.
-+ **Alignment Option**: Set vertical alignment for the content. Available for Roller view only.
-+ **Justify Options**: Set horizontal alignment for the content. Available for Roller view only.
++ **Slide Height**: Set the height of the area to show the content in. Available for Roller view.
++ **Alignment Option**: Set vertical alignment for the content. Available for Roller.
++ **Justify Options**: Set horizontal alignment for the content. Available for Roller view.
 + **Show Achivements**: This option is a preparation for functionality to come. Not used yet. Available for Card view only.
 + **Max no of Columns**: Set the maximum number of columns to be displayed.
 + **Sort By**: Select the property to sort the list by.
++ **Left Zone Width**: Available for Roller. Set the width of the zone to the left of the person shown.
++ ** Right Zone Width**: Available for Roller. Set the width of the zone to the right of the person shown.
 + **Paging**: Select how paging should work; “No Paging”, “Classic” or “Scroll”. See below for examples. Scroll is note applicabale for Roller view.
 + **Page Size**: To limit the number of items being displayed per "page", add a fixed number here. Works together with Paging. 
 + **Padding**: Use this option to add some padding between the list and the border of the block, if needed.
-
-Here's an example of a Roller view (will be added soon).
-
-(Image to be added))
 
 **Important note on "No Paging"**: If you choose "No paging" and set "Item Limit" to a specific number, that is the number of people that will be available in the list, regardless of how many that actually meets the search criteria.
 
@@ -96,7 +92,7 @@ It can result in something like this:
 
 Note that you can type the script directly in the field, if you know how. You can use all options in the Keyword Query Language (KQL). See this Microsoft page for reference: https://docs.microsoft.com/en-us/sharepoint/dev/general-development/keyword-query-language-kql-syntax-reference
 
-You can also add additional parameters, by using the method explained above or typing directly in the field. Here's an example when the script that collects users from two departments:
+You can also add additional parameters, by using the method explained above or typing directly in the field. Here's an example when the script collects users from two departments:
 
 .. image:: query-more-new.png
 
@@ -116,7 +112,7 @@ Use these settings to add refiners.
 
 .. image:: peoplerollup-settings-refiner-new.png
 
-+ **Position**: Decide where to put the refiners; top, left or right. 
++ **Position**: Decide where to place the refiners; top, left or right. 
 
 To add a refiner, do the following:
 

@@ -29,6 +29,7 @@ Blocks
    variation-selector/index
    people-rollup/index
    process-blocks/index
+   profile-completion/index
    quick-links/index
    rating/index
    related-links/index
@@ -40,7 +41,6 @@ Blocks
    team-news-rollup/index
    text/index
    trello-cards/index
-   user-profile-completion/index
    working-with-blocks/index
 
 
