@@ -38,10 +38,9 @@ When you have added a background image, you can use these settings:
 
 + **EDIT**: Click this link to edit the image in the Media Picker (see link above for more information.)
 + **DELETE**: Click here to remove the image from the page.
-+ **Size**: Set the size here; Auto, Cover or Custom. When you select Custom you can set a custom size in pixels.
++ **Size**: Set the size here; Auto, Cover or Custom. When you select Custom you can set a custom size in pixels. When you select Cover, the whole page is covered by the image. This may cause some parts of the image to not be shown, depending on the width/Height of the image. (More information about Auto will be added soon).
 + **Position**: Set the position of the image here. The result can be that different parts of the image is shown depending on what you selected for Size.
 + **Repeat**: If you did set a custom size for the image you can select if the image should be repeated. (You can set it for Auto and Cover as well, but ususally with no effect.)
-+ **Scroll behaviour**: For Scroll behaviour, for the background image, you can choose; Scroll, Fixed or Local. 
 + **Opacity**: You can set the opacity of the background image, using this slider.
 + **Blur Effect**: To blur the background image, use this slider.
 
