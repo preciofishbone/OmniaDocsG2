@@ -35,15 +35,10 @@ More on Scope
 The Scope setting results in the following:
 
 **My Subscriptions**: All activities for everything the logged in user subscribes to is listed.
-**Publishing App**: Lists all pages in the CURRENT publishing app that are either new or have been updated.
-**Page Collection**: Lists all pages in the CURRENT page collection that are either new or have been updated.
+**Publishing App**: Lists all pages in the CURRENT publishing app that are either new or have been updated. This is tied to the publication of a page, so whenever a new page is published, it results in an activity, whenever an existing page is republished, it results in an activity.
+**Page Collection**: Lists all pages in the CURRENT page collection that are either new or have been updated. This is tied to the publication of a page, the same way as for publishing apps.
 
-Regarding what is consider an update on a page - more information about this will added soon.
-
-Generally, a user will never be able to read a page that person does not have access to, even if an activity may be present in the feed, meaning not all activities are security trimmed, but the pages always are. 
-
-
-
+Generally, a user will never be able to read a page the person does not have permissions to read. In some unusal events, an activity may be present in the feed even if the user does not have access to the page, but if that should happen, the page is simply not shown when the link is clicked. 
 
 
 
