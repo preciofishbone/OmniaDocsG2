@@ -1,11 +1,11 @@
-User Profile Completion Settings
+User Profile Completion
 ==================================
 
-This is the settings for the user option "Strengthen Profile", found inte the Action Menu:
+This is the settings for the user option "Strengthen Profile", that can found inte the Action Menu:
 
 .. image:: strengthen-profile-new.png
 
-and for the User Profil Completion block.
+and for the User Profile Completion block.
 
 Another option is to set that a dialog should appear with certain intervals, see below.
 

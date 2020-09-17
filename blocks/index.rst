@@ -29,7 +29,7 @@ Blocks
    variation-selector/index
    people-rollup/index
    process-blocks/index
-   profile-completion/index
+   user-profile-completion/index
    quick-links/index
    rating/index
    related-links/index
