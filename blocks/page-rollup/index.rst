@@ -134,33 +134,38 @@ The purpose of a News Center is to display ALL published news for the users to r
 
 Here's an example of how the user interface can look:
 
-.. image:: page-rollup-example-news-center.png
+.. image:: page-rollup-example-news-center-new.png
 
 (The "Create News Article" button is shown only for those that has the permission to create News.)
 
 The Page Rollup can be set up the following way:
 
 + Query: Scope - Page Collections, News (the Page Collection with the name "News").
++ The option "Exclude current page" can be a good idea to have selected. 
++ The option "Enable partial word search" is also useful in this case.
 + Social Period: All default.
+
+.. image:: news-archive-example-1new.png
+
 + Display: Depends on how you want it to look. In the above example, these settings are used:
 
-.. image:: news-archive-example-1.png
+.. image:: news-archive-example-1new-display.png
 
 and these:
 
-.. image:: news-archive-example-2.png
+.. image:: news-archive-example-2new.png
 
 and finally, these:
 
-.. image:: news-archive-example-3.png
+.. image:: news-archive-example-3new.png
 
 Note the "Show create button" option, the label for that button and the option to set in which Page Collection these pages are created (in this case "News", the Page Collection selected under "Query").
 
 + Filters: A search box is always a good idea in a News Center. The users should most likely also be able to filter the list on one or more properties, for example:
 
-.. image:: news-archive-filters.png
+.. image:: news-archive-filters-new.png
 
-+ Page Variations: None. (If Page variions will be used, for example for different languages, it will be used on the pages. Or a separate News Center could be set up for News in other languages, or for any other purpose, for that matter.)
++ Page Variations: None. (If Page variations will be used, for example for different languages, it will be used on the pages. Or a separate News Center could be set up for News in other languages, or for any other purpose, for that matter.)
 
 Latest News
 -------------
@@ -168,20 +173,21 @@ The purpose of this Page Rollup is as it says - to display a number of the lates
 
 It can look like this for users:
 
-.. image:: page-rollup-latest-news-example.png
+.. image:: page-rollup-latest-news-example-new.png
 
 For this purpose the Page Rollup block can be set up like this:
 
 + Query: Scope - Page Collections, News.
 + The option "Exclude current page" can be a good idea to have selected. 
++ The option "Enable partial word search" is also useful in this case.
 + Social Period: All default.
 + Display: Depends on how you want it to look, of course. In the above example, these settings are used:
 
-.. image:: latest-news-example-1.png
+.. image:: latest-news-example-1new.png
 
 and these:
 
-.. image:: latest-news-example-2.png
+.. image:: latest-news-example-2new.png
 
 + Filters: none.
 + Page Variations: Default Variations.
@@ -201,11 +207,11 @@ For this purpose the Page Rollup block can be set up like this:
 + Social Period - Comment: If you don't want old comments to affect the list, select a social period.
 + Display: Depends on how you want it to look. In the above example, these settings are used:
 
-.. image:: most-commented-example-1.png
+.. image:: most-commented-example-1new.png
 
 and these:
 
-.. image:: most-commented-example-2.png
+.. image:: most-commented-example-2-new.png
 
 + Filters: none.
 + Page Variations: User variation.
@@ -225,11 +231,11 @@ For this purpose the Page Rollup block can be set up like this:
 + Social Period - Like: If you don't want old likes to affect the list, select a social period.
 + Display: Depends on how you want it to look. In the above example, these settings are used:
 
-.. image:: most-liked-example-1.png
+.. image:: most-liked-example-1new.png
 
 and these:
 
-.. image:: most-liked-example-2.png
+.. image:: most-liked-example-2new.png
 
 + Filters: none.
 + Page Variations: User variation.
@@ -238,7 +244,7 @@ News - Dynamic Roller
 ------------------------
 When a Dynamic Roller display is used for news, it can look lik this:
 
-.. image:: dynamic-roller-example.png
+.. image:: dynamic-roller-example-new.png
 
 In this example the Page Rollup block is set up this way:
 
@@ -247,15 +253,17 @@ In this example the Page Rollup block is set up this way:
 + Social Period - Like: If you don't want old likes to affect the list, select a social period.
 + Display: Depends on how you want it to look. In the above example, these settings are used:
 
-.. image:: dynamic-roller-example-1.png
+.. image:: dynamic-roller-example-1new.png
 
 and these:
 
-.. image:: dynamic-roller-example-2.png
+.. image:: dynamic-roller-example-2new.png
 
 and, finally, these:
 
-.. image:: dynamic-roller-example-3.png
+.. image:: dynamic-roller-example-3new.png
+
+(Padding is set to 0, not shown in the image above.)
 
 + Filters: none.
 + Page Variations: User variation.
