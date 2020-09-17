@@ -3,9 +3,11 @@ User Profile Completion
 
 This is the settings for the user option "Strengthen Profile", that can found inte the Action Menu:
 
-.. image:: strengthen-profile-new.png
+.. image:: strengthen-profile-new2.png
 
-and for the User Profile Completion block.
+and for the Profile Completion block, that can look like this:
+
+.. image:: profile-completion-example.png
 
 Another option is to set that a dialog should appear with certain intervals, see below.
 
@@ -18,7 +20,7 @@ General
 --------
 Here you can set these settings:
 
-.. image:: user-profile-general.png
+.. image:: user-profile-general-new.png
 
 (All options are not shown in the image.)
 
@@ -30,36 +32,36 @@ Here you can set these settings:
 + **Feeback email**: Add the email address that feedback from User profile Completion should be sent to.
 + **Levels**: Use these color settings to set what color to display for different levels pf completion. 
 
-.. image:: user-profile-general-example.png
+.. image:: user-profile-general-example-new.png
 
 Property mappings
 ------------------
 Use these settings to map user input to certain Properties.
 
-.. image:: user-profile-property-new.png
+.. image:: user-profile-property-new2.png
 
 To edit a property mapping, click the heading. The same settings as for a new profile property can be used, see below. To delete a profile property, click the dust bin.
 
 Heres an example of a property mapping:
 
-.. image:: property-mapping-1.png
+.. image:: property-mapping-1-new.png
 
 Create a new property mapping
 ------------------------------
 Here's how to create a new property mapping:
 
-1. Click "Add Section".
+1. Click Add Section.
 
-.. image:: click-add-section.png
+.. image:: click-add-section-new.png
 
 2. Add names and descriptions in one or more of the available languages (default language is mandatory).
-3. Click "Add Mapping".
+3. Click Add Mapping.
 
-.. image:: click-add-mapping.png
+.. image:: click-add-mapping-new.png
 
 Use the following settings:
 
-.. image:: mapping-settings.png
+.. image:: mapping-settings-new.png
 
 (Different options are shown depending on Type selected.)
 
