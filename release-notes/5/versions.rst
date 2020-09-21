@@ -14,6 +14,9 @@ General
 - Updated labels and wordings in many places of the application (#116801, #120576, #121034).
 - Saving permissions now works even if one of the users/groups fails (usually due to the user being deleted) (#120781).
 - Translated terms now work as expected (#121005).
+- Improved performance of Omnia in SPFx (#117481, #119580, #120670).
+- Added danish localization for social dates (#120083).
+
 
 Web Content Management
 ***********************
@@ -101,6 +104,7 @@ Tenant Administration
 
 Team Collaboration
 ***********************
+- Can now use template icon in listings instead of letter avatar.
 
 Workplace
 ***********************
