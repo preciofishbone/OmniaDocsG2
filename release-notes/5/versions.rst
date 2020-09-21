@@ -89,6 +89,7 @@ Web Content Management
 - The notification count badge text and background color can now be explicitly set (#114605, #117706, #118278).
 - Editing a URL to a node now behaves correctly (#114961).
 - Corrected an issue where reused content would not show as reused (#121614).
+- The indicator that a navigation node has children now shows correctly (#120305, #122251).
 
 
 
