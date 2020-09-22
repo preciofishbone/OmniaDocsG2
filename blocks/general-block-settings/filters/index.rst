@@ -15,7 +15,7 @@ The first step is:
 
 Settings for search box
 ------------------------
-If you added a Search Box a number od options becomes available under STYLE:
+If you added a Search Box a number of options becomes available under STYLE:
 
 .. image:: filter-search-settings-new.png
 
