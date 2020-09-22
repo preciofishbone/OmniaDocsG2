@@ -18,8 +18,8 @@ Here you can set the following:
 + **Pick Pages**: If the editor should be able to pick pages from a list, select this option.
 + **Pick in Write Mode**: Available when Pick Pages is selected. Select this option if editors should be able to pick pages in Write mode. If not selected, Design mode has to be used.
 + **ADD PAGE**: When you have selected Pick Pages, you can pick some pages to always be shown. Click this option and use the Page Picker. See this page for more information: :doc:`Page Picker </general-assets/page-picker/index>`
-+ **Use Query Builder**: If pages should be available through a query, select this option.
-+ **Scope**: When you have selected Use Query Builder, select scope for the block; Publishing Apps or Page Collections. Then open the list below and select Publishing Apps/Page Collections. 
++ **Use Query Builder**: If you want to use the query builder to set which pages should be available here, select this option.
++ **Scope**: When you have chosne to use the Query Builder, select scope for the block; Publishing Apps or Page Collections. Then open the list below and select Publishing Apps/Page Collections. 
 + **Exclude current page**: Available when you have chosen scope. The default settings is to exclude the current page, but if you, for some reason, would like to include the current page, uncheck this option.
 
 When you have selected "Publishing Apps" or "Page Collections" as Scope, use the list to add one or more:
