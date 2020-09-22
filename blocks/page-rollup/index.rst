@@ -98,7 +98,7 @@ This could show the following:
 
 "Show paging" in settings for "Dynamic Roller" makes these icons available for navigation:
 
-.. image:: show-paging-dynamic.png
+.. image:: show-paging-dynamic-new.png
 
 Filter
 -------
@@ -242,7 +242,7 @@ and these:
 
 News - Dynamic Roller
 ------------------------
-When a Dynamic Roller display is used for news, it can look lik this:
+When a Dynamic Roller display is used for news, it can look like this:
 
 .. image:: dynamic-roller-example-new.png
 
