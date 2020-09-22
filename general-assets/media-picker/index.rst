@@ -42,7 +42,7 @@ To select an image, double click or select the image and click "SELECT".
 
 Videos
 *******
-To add a video, select one of the providers that are set up, for example "Microsoft Stream" for your company's Office 365 Stream, or "YouTube".
+To add a video, select one of the providers that are set up, for example "Microsoft Stream" for your company's Microsoft 365 Stream, or "YouTube".
 
 .. image:: media-picker-video-new.png
 

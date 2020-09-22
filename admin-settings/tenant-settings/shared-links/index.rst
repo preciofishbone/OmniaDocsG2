@@ -9,7 +9,7 @@ These links can also be accessed through a Quick Links block on any page, see: :
 
 There can be Shared Links specifically for a Business Profile. Such links are created and edited through the Shared Links option under the Business Profile. Options for Tenant Shared Links and Business Profile Shared Links are identical. Shared Links for a Business Profile can coexist with Shared Links for the Tenant.
 
-**Note!** Do not delete or alter the links to Office 365 applications, if present. They are needed for the App Launcher menu in Omnia.
+**Note!** Do not delete or alter the links to Microsoft 365 applications, if present. They are needed for the App Launcher menu in Omnia.
 
 The end user experience
 *************************
@@ -84,7 +84,7 @@ To delete a targeting filter, just click the x.
 
 Permissions for Shared Links
 *****************************
-Shared Links has a seperate Permissions setting, so any user can be set as a Shared Links administrator. This includes external users that has been invited in the Asher AD, meaning they can log in with their own Office 365 account. 
+Shared Links has a seperate Permissions setting, so any user can be set as a Shared Links administrator. This includes external users that has been invited in the Asher AD, meaning they can log in with their own Microsoft 365 account. 
 
 Add all users that should be Shared Links administrators here:
 

@@ -148,7 +148,7 @@ What you actually do is using a Notification Panel block to display in the headi
 
 App Launcher
 ***************
-Omnia can replace the Office 365 App Launcher with the Onnia App Launcher, to make it fully configurable. Here you can edit settings for the Omnia App Launcher, for the Business Profile. 
+Omnia can replace the Microsoft 365 App Launcher with the Onnia App Launcher, to make it fully configurable. Here you can edit settings for the Omnia App Launcher, for the Business Profile. 
 
 .. image:: omnia-app-launcher.png
 
@@ -156,7 +156,7 @@ The following settings are available:
 
 .. image:: app-launcher-settings-overview.png
 
-+ **Enable**: The first step is to decide to use the Omnia App Launcher or not (which means using the default Office 365 App launcher). 
++ **Enable**: The first step is to decide to use the Omnia App Launcher or not (which means using the default Microsoft 365 App launcher). 
 
 Note that there's a feature available for the tenant to install default App Launcher links to make it really easy to get going with the Omnia App Launcher. For more information, see: :doc:`Features - Tenant </admin-settings/tenant-settings/features/index>`
 
@@ -195,7 +195,7 @@ With the Template Navigation View it can look like this:
 
 .. image:: app-launcher-settings-general-navigation-view.png
 
-The View Template App Launcher makes the list look like the Office 365 App launcher, for example:
+The View Template App Launcher makes the list look like the Microsoft 365 App launcher, for example:
 
 .. image:: app-launcher-settings-general-app-launcher.png
 

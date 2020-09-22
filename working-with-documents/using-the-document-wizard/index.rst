@@ -85,7 +85,7 @@ To create a new normal document, do the following:
 
 .. image:: normal-document-5-new.png
 
-OneDrive is your personal Office 365 OneDrive. If "Intranet" is selected - if available - a list of folders you have access to in the intranet is shown. The rest of the locations are normally available Team Sites.
+OneDrive is your personal Microsoft 365 OneDrive. If "Intranet" is selected - if available - a list of folders you have access to in the intranet is shown. The rest of the locations are normally available Team Sites.
 
 7. Select folder in that location.
 

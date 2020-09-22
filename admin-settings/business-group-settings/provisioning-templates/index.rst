@@ -145,12 +145,12 @@ There can be a number of features available. Here's an example:
 
 (All features are not shown in the image above.)
 
-+ **Process Archive**: Set if a process archive should be created when this template is used. Applicable for a Sharepoint Teamsites and Office 365 sites only.
-+ **Process Library**: Set if a process Library should be created when this template is used. Applicable for a Sharepoint Teamsites and Office 365 sites only.
-+ **Apply Microsoft Teams to an Office 365 Group**: Here you can select that a Microsoft Teams Group should be created for the Office 365 Group.
-+ **Create a new Wizard in Document Libraries**: For Document Management; if the New Document Wizard should be added to all document libraries in the site created from this template, check the box. Applicable for a Sharepoint Teamsites and Office 365 sites only.
-+ **Controlled Documents Library**: For Document Management; if a Controlled Documents library should be added to all document libraries in the site created from this template, check the box. Applicable for a Sharepoint Teamsites and Office 365 sites only.
-+ **Archived Documents**: Select this option if the feature "Archived Documents" should be activated automatically when a site is created from this template. Applicable for a Sharepoint Teamsites and Office 365 sites only.
++ **Process Archive**: Set if a process archive should be created when this template is used. Applicable for a Sharepoint Teamsites and Microsoft 365 sites only.
++ **Process Library**: Set if a process Library should be created when this template is used. Applicable for a Sharepoint Teamsites and Microsoft 365 sites only.
++ **Apply Microsoft Teams to an Office 365 Group**: Here you can select that a Microsoft Teams Group should be created for the Microsoft 365 Group.
++ **Create a new Wizard in Document Libraries**: For Document Management; if the New Document Wizard should be added to all document libraries in the site created from this template, check the box. Applicable for a Sharepoint Teamsites and Microsoft 365 sites only.
++ **Controlled Documents Library**: For Document Management; if a Controlled Documents library should be added to all document libraries in the site created from this template, check the box. Applicable for a Sharepoint Teamsites and Microsoft 365 sites only.
++ **Archived Documents**: Select this option if the feature "Archived Documents" should be activated automatically when a site is created from this template. Applicable for a Sharepoint Teamsites and Microsoft 365 sites only.
 + **Project Site**: Select this option if the feature "Project Site" should be activated automatically when a site is created from this template. Applicable for specialized set ups only.
 + **Default Page Collections and Page Types**: For Publishing templates; Select this option if the corresponding feature should be activated automatically when a site is created from this template. The default Page Collections and Page Types can be edited to suit your needs.
 + **Default Page Types for Event Management**: (A description will be added soon).
