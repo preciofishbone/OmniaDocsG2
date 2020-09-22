@@ -1,9 +1,13 @@
 Using Newsletters
 ===========================
 
-**This part of the documentation is just started. More will be added soon.**
+There's a number of options and settings in Omnia you can use for a newsletter implementation, to send internally or externally through e-mail. These options and settings are described here.
 
-There's a number of options and settings in Omnia you can use for a newsletter implementation, to send internally or externally through e-mail. These options and settings will be listed here.
+A Page Type for Newsletters
+*****************************
+You will need a Page Type set up for Newsletters. See the implementation example below for more information.
+
+You use the options available in Omnia, see: :doc:`Page Types </pages/page-types/index>`
 
 Important and useful settings
 ******************************
@@ -11,19 +15,23 @@ To be able to send (Newsletter) pages this setting must be activated for the Pag
 
 .. image:: newsletter-page-collection-setting.png
 
-When that setting is active, the following tab is displayed in the page settings so Newsletter Editors can enter the groups/e-mail adresses to send to:
+When this setting is active, the following tab is displayed in the page settings so Newsletter Editors can enter the groups/e-mail adresses to send to:
 
 .. image:: page-setting-newsletter.png
 
 In this field both groups and individual e-mail adresses can be entered. This tab is available for Page Editors using Write mode.
 
-When you set up a Page Rollup to be used by Newsletter Editors, Pick Pages and Pick in Write Mode are useful settings.
+Page Rollup block for Newsletters
+***********************************
+You will need a Page Rollup block on the Newsletter Editor's page. When you set up the Page Rollup, Pick Pages and Pick in Write Mode are useful settings.
 
 .. image:: page-rollup-pick-pages.png
 
-There's also a View called Newsletter that can be useful. This view is suitable for e-mailing.
+There's also a View called Newsletter. This view is suitable for e-mailing.
 
 .. image:: page-rollup-newsletter-view.png
+
+More information about the Page Rollup block is found on this page: :doc:`Page Types </blocks/page-rollup/index>`
 
 Implementation example
 ************************
@@ -57,9 +65,42 @@ There are no Filter settings. For Page Variations, this setting is made:
 
 .. image:: newsletter-archive-page-variations.png
 
-When a Newsletter Editor creates a newsletter he or she picks the News pages to be sent in the newsletter. Here's an example of a newsletter:
+Newsletters from the editor's point of view
+----------------------------------------------
+When a Newsletter Editor creates a newsletter, the first step is to crate a new page for the newsletter:
+
+.. image:: newsletter-editor-create.png
+
+(The Url is filled in automaically when the editor adds the Title for the new page.)
+
+The new page can look something like this:
+
+.. image:: newsletter-editor-page.png
+
+The editor can now use the blocks set up on the Page Type, in Write mode. In this implementation example, a text block for the newsletter heading and another text block for the newsletter text is available, as well as a Page Rollup block (that's "Pick Pages".)
+
+He or she enters some text for the newsletter, and picks the News pages to be sent in the newsletter, for example:
+
+.. image:: newsletter-editor-page-picking.png
+
+More information about how to use the Page Picker is found here: :doc:`The Page Picker </general-assets/page-picker/index>`
+
+If it's set up that way, some edit's to properties may be needed, and the email recipients must be added, everything available through Write mode. The editor just clicks NEXT to cycle through the steps.
+
+.. image:: newsletter-editor-page-settings.png
+
+When it's time to publish and send, the editor can preview the newsletter before publishing. The editor can also send the newsletter to someone for a last check before sending to the recipients.
+
+.. image:: newsletter-editor-send.png
+
+When all is done, the editor then publishes to send the newsletter. If needed, the newsletter can be saved as a draft, as all other pages, and sent later. If Scheduled Publishing is set up, it can be used for newsletters as well.
+
+You can find more information about publishing a page here: :doc:`Publish Page Changes </pages/publish-page-changes/index>`
+
+Here's an example of a newsletter:
 
 .. image:: newsletter-example.png
+
 
 
 
