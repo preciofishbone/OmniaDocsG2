@@ -1,6 +1,5 @@
-Release 5 (DRAFT)
+Release 5
 ========================================
-.. note:: **This is a draft of the release notes. Text might be added, altered or removed.**
 
 Newsletter
 -----------------------------------------

@@ -11,9 +11,15 @@ General
 - Fixed an issue that would cause instability when switching between categories (#Missing).
 - The "my computer" image provider can now be turned off using a feature (#118011).
 - When an external user signs on for the first time, the welcome message no longer shows an error (#118695).
-- Updated labels and wordings in many places of the application (#116801, #120576, #121034).
+- Updated labels and wordings in many places of the application (#116801, #120576, #121034, #121734, #119773, #120373, #120979).
 - Saving permissions now works even if one of the users/groups fails (usually due to the user being deleted) (#120781).
 - Translated terms now work as expected (#121005).
+- Improved performance of Omnia in SPFx (#117481, #119580, #120670).
+- Added danish localization for social dates (#120083).
+- Corrected display of profile images (#121415).
+- Better handling of deprecated terms (#121942).
+- Icons with multiple shades have been removed from pickers in this release since they are not compatible (#121479).
+
 
 Web Content Management
 ***********************
@@ -40,7 +46,7 @@ Web Content Management
  - Blockquote now has correct styling (#114751, #114918).
  - Improved link handling (#120401).
  - Corrected several issues where the editor styling would differ from display mode (#113594)
- - Also fixes (#118096,#118536, #116523, #117674, #117680, #120177, #120284, #115453, #115539, #114904, #117171, #121025).
+ - Also fixes (#118096, #118536, #116523, #117674, #117680, #120177, #120284, #115453, #115539, #114904, #117171, #121025).
 - :doc:`Governance block </release-notes/5/index>` 
 
 - Version history UI updated when there are many versions (#121377).
@@ -48,7 +54,7 @@ Web Content Management
 - Export to excel of the usage report now work better with more than 5000 pages (#120247).
 - Fixed an issue with resolving the "Everyone except external users" group in some tenants when creating new publishing apps (#121380).
 - Corrected a link formatting issue in notification emails from new comments (#121438).
-- When adding a new block, the cursor is now automatically focused in the search box for the blocks (#116574).
+- When adding a new block, the cursor is now automatically focused on the search box for the blocks (#116574).
 - Updates to the link picker to select "Automatic" as the default link selection (#117244).
 - Move block action now has a new icon (#115387).
 - Its now possible to reorder the exiting content in the accordion (#116623).
@@ -57,7 +63,7 @@ Web Content Management
 - Empty banners no longer takes any space (#114714, #115854, #118350).
 - Corrected thumbnail in page rollup for videos (#117123).
 - The page rollup now supports multilingual for the no result message (#117168).
-- The button "Go to news center" now supports multilingual (#118829).
+- The button "Go to news centre" now supports multilingual (#118829).
  
 - :doc:`Page Styling options </release-notes/5/index>` 
  - Prevented default colors to put white text on white backgrounds (#116995).
@@ -81,7 +87,9 @@ Web Content Management
 - Action Button triggered dialog can now properly be closed (#115248, #115156).
 - Video in the media block can now be edited (#116080).
 - The notification count badge text and background color can now be explicitly set (#114605, #117706, #118278).
-- Editing a url to a node now behaves correctly (#114961).
+- Editing a URL to a node now behaves correctly (#114961).
+- Corrected an issue where reused content would not show as reused (#121614).
+- The indicator that a navigation node has children now shows correctly (#120305, #122251).
 
 
 
@@ -101,6 +109,7 @@ Tenant Administration
 
 Team Collaboration
 ***********************
+- Can now use template icon in listings instead of letter avatar.
 
 Workplace
 ***********************
@@ -109,7 +118,7 @@ Workplace
  - New Query strings for showing/hiding the Tenant and Business Profile header. (#119541)
 - People rollup have been reworked, with new design options and features (#120973, #114014, #114403, #121172, #116920, #120521).
 - The announcement comments feed now take all available screen space (#117248).
-- Corrected an issue where the header toolbar would show the wrong icons  (#117530).
+- Corrected an issue where the header toolbar would show the wrong icons (#117530).
 - Corrected the style of the User Profile Completion Wizard in SPFx (#114438).
 - Ensured the image ratio of the tutorial (#118601).
 - The quick links block can now filter on links without any category (#116693).
@@ -120,14 +129,17 @@ Workplace
 - My links block now has a "Show less" button (#117214).
 - Corrected an issue that would make the important announcement get the wrong color (#114881).
 - Search in my links now works as expected when filtering (#114496, #117273, #117648).
-- Default O365 launcher link items has been updated and renamed where applicable (#117810, #117139).
+- Default O365 launcher link items have been updated and renamed where applicable (#117810, #117139).
 - Fixed an issue that would prevent App Instance requests to be rejected if the template had been removed (#120901).
 - Fixed an issue in the My Site header component that prevented settings from being saved (#120818).
 - Corrected an issue where the people rollup would not render correctly when using SharePoint group query option together with being used in SPFx (#120283).
 - Collaboration templates now sort alphabetically (#117977).
 - Search now handles query rules properly, this solves issues with mismatch between standard SP Search and search in Omnia (#114847).
+- Drop-down search now correctly closes when navigating to a result (#121937).
 - Profile Completeness now has a correctly implemented block title and new design options (#114212).
 - SharePoint alias validation now correctly prevents the user from progressing in the site provisioning (#114641).
+- Strengthen Profile block has a new design (#122074). 
+- Corrected and issue that would prevent the MS Teams Icon to show correctly (#121446).
 
 Communities
 ***********************
@@ -139,7 +151,7 @@ Process Management
 - Processes can now be shown in a TeamSite.
 
 
-Also fixes preview issues (#121345)
+Also fixes preview issues (#121345, #122132, #122150, #122209, #122073, #121995, #121892, #121931, #121944, #121760)
 
 
 
