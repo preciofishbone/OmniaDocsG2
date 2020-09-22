@@ -23,23 +23,23 @@ The first step is the same for all template types.
 
 .. image:: provisioning-templates-create-publishing-2new2.png
 
-+ **Base Defintion**: Select main type of template here; Publishing, Community or teamwork. The settings in the steps to come will differ depending on what you choose.
++ **Base Defintion**: Select main type of template here; Publishing, Community or Teamwork. The settings in the steps to come will differ depending on what you choose.
 + **Title**: Add a Title for the Template. You can add titles in a number of the languages available in the tenant. Default language is mandatory.
 + **Description**: Add a Description if needed. You can add titles in a number of the languages available in the tenant. Default language is mandatory.
-+ **Icon Type**: An icon is always shown for a Template. If you would like another icon for this Template, select the set of Icons here: "Font Awesome", "Fabric" or "Custom". When selecting "Custom" you can choose any image as the Icon.
-+ **Icon**: When you have select Icon Type, use this list to select the icon. If you select "Custom", a "Url" field is shown, where you enter the Url for the image.
-+ **Available for all users**: Select this option if the Template should be available for other's than administrator, for example in the user Wizard for creating new sites. If this option is selected, the template will be available only for administrators to use in Omnia Admin.
-+ **Site Creation Mode**: Here you select if Approval is required when users create sites from this Template. 
++ **Icon Type**: An icon is always shown for a template. If you would like another icon for this template, select the set of icons here: Font Awesome,, Microsoft, Flags or Custom. When selecting Custom you can choose any image as the icon.
++ **Icon**: When you have select Icon Type, use this list to select the icon. If you select Custom, a Url field is shown, where you enter the Url for the image.
++ **Available to All Users**: Select this option if the template should be available for other's than administrators, for example in the user Wizard for creating new teamworks. If this option is selected, the template will be available only for administrators to use in Omnia Admin.
++ **Site Creation Mode**: Here you select if approval is required when users create sites from this template. 
 
 If you select Approval, you must add one or more approvers right away:
 
 .. image:: provisioning-templates-approval.png
 
-**Very important!** At the moment creating a community requires some hands on by an administrator. We therefore recommend that administrators create all communities for now - using the "Community" option in Omnia Admin. See to that "Available for all users" is NOT selected. In this case, setting "Site Creation Mode" to "Self Service" for Community templates can be a good idea as it will make creation of communities straight forward.
+**Very important!** At the moment creating a community requires some hands on by an administrator. We therefore recommend that administrators create all communities for now - using the "Community" option in Omnia Admin. See to that "Available for all users" is NOT selected. In this case, setting Site Creation Mode to Self Service for community templates can be a good idea as it will make creation of communities straight forward.
 
 Teamwork Type
 ----------------
-The second step for Teamwork is to select type and set some settings:
+The second step for Teamwork is to select type and set some settings (for Publishing and Communities, this step is not used):
 
 .. image:: provisioning-templates-create-team-3-new2.png
 
@@ -47,38 +47,40 @@ The second step for Teamwork is to select type and set some settings:
 
 Microsoft 365 Group
 ---------------------
-For **Microsoft 365 Group**, the following settings are available:
+For Microsoft 365 Group, the following settings are available:
 
 .. image:: ms-365-group.png
 
 + **Site Design**: Here templates can be available, templates made according to Microsoft's standard for Site Design. Such templates can be used in Omnia.  Not mandatory. If no such templates are available, the list is empty. For more information about Site Design, see this Microsoft page: https://docs.microsoft.com/en-us/sharepoint/dev/declarative-customization/site-design-overview
-+ **Languages**: Select Language to be used for system texts in the site.
-+ **User can select language**: Select this option to enable Language selection by the user creating the site.
-+ **Time Zones**: Select the correct Time Zone here.
-+ **Privacy**: For 365 Groups you can select either “Private” or “Public”. The text in the selections explains the difference.
++ **Languages**: Select language to be used for system texts in the site.
++ **User can select language**: Select this option to enable language selection by the user creating the site.
++ **Time Zones**: Select the correct time zone here.
++ **Privacy**: For 365 Groups you can select either Private or Public. The text in the selections explains the difference.
 
-Sharepoint Team Site
----------------------
-The following settings are available for a **Sharepoint Team Site** and for a **Sharepoint Communication Site** (note that a Sharepoint Communication Site is not the same as a Community site):
+Sharepoint Team Site or Sharepoint Communication Site
+-------------------------------------------------------
+The following settings are available for a Sharepoint Team Site and for a Sharepoint Communication Site (note that a Sharepoint Communication Site is not the same as a Community site):
 
 .. image:: sharepoint-team-site.png
 
 + **Site Design**: Here templates can be available, templates made according to Microsoft's standard for Site Design. Such templates can be used in Omnia.  Not mandatory. If no such templates are available, the list is empty. For more information about Site Design, see this Microsoft page: https://docs.microsoft.com/en-us/sharepoint/dev/declarative-customization/site-design-overview
-+ **Languages**: Select Language to be used for system texts in the site.
-+ **User can select language**: Select this option to enable Language selection by the user creating the site.
-+ **Time Zones**: Select the correct Time Zone here.
-+ **Primary Site Collection Administrator**: If empty, the user creating or requesting the site will automatically become the Default Administrator (Owner) of the site. If a specific group or user should be administrator for all sites created from this template, add that group or user. Only on group or user can be added in this field.
++ **Languages**: Select language to be used for system texts in the site.
++ **User can select language**: Select this option to enable language selection by the user creating the site.
++ **Time Zones**: Select the correct time zone here.
++ **Primary Site Collection Administrator**: If empty, the user creating or requesting the site will automatically become the default administrator (Owner) of the site. If a specific group or user should be administrator for all sites created from this template, add that group or user. Only on group or user can be added in this field.
 + **Default Site Collection Administrators**: You can add (several) additional administrators here, if needed.
-+ **Default Visitors**: You can use this to set a default visitor group (read permissions) to all sites created from this template. Let's say it's a template for community pages - then probably all users of the intranet should have read permission to all pages in the site. 
++ **Default Visitors**: You can use this to set a default visitor group (read permissions) to all sites created from this template. 
 
 Microsoft Team
 ---------------
-Use these settings to configure a Microsoft Teams template with predefined channels, apps, tabs and settings. For CHANNELS the following settings are available:
+Use these settings to configure a Microsoft Teams template with predefined channels, apps, tabs and settings. 
+
+For CHANNELS the following settings are available:
 
 .. image:: microsoft-team-channels.png
 
-+ **Name** Type the name for the tab here.
-+ **App Types** Select type of app for the tab; Built-in meaning Microsoft Apps, or Organization for other Apps, which can, for example, be Omnia Apps.
++ **Name**: Type the name for the tab here.
++ **App Types**: Select type of app for the tab; Built-in meaning Microsoft Apps, or Organization for other Apps, which can, for example, be Omnia Apps.
 + **Installed Apps**: Open the list and select app.
 + **Content Url**: (A description will be added soon).
 + **Website Url**: (A description will be added soon).
@@ -97,15 +99,15 @@ For SETTINGS, this is available:
 
 Yammer Community
 -----------------
-The following setting is available for a **Yammer Community** Template:
+The following setting is available for a Yammer Community Template:
 
 .. image:: yammer-community.png
 
-+ **Client id**: Type Client id for the Yammer Network here.
++ **Client id**: Type the Client id for the Yammer Network here.
 
 Facebook Workplace Group
 -------------------------
-This setting is available for a **Facebook Workplace Group** Template:
+This setting is available for a Facebook Workplace Group Template:
 
 .. image:: facebook-workplace-group.png
 
@@ -121,7 +123,7 @@ Available properties must have been set up using the Tenant setting Properties, 
 
 Normally a lot more properties are available than shown in the image above.
 
-What you can do here is to select if a property should be required (meaning that it should be mandatory to add information for the property). For some properties you can also set that multiple values are allowed.
+What you can do here is to select the properties that should be available for this template, and set if a property should be required (meaning that it should be mandatory to add information for the property). For some properties you can also set that multiple values are allowed.
 
 Here's an example with Keywords, where you can set both. Click the dots to edit settings (if available).
 
@@ -154,11 +156,11 @@ There can be a number of features available. Here's an example:
 + **Default Page Types for Event Management**: (A description will be added soon).
 + **Show Business Profile Header**: If the header set up in the Business Profile should be used, select this option. Applicable for Publishing templates only. When the Business Profile Header is shown on a team site, the height is pre-allocated until the whole page is loaded.
 
-**Very important**: Make sure you select only the features that are applicable for the type of template you create, if any. Selecting the wrong feature here can cause problems when a site is created from the template. No feature shown here are applicable for Community site templates or XXXXXXXX.
+**Very important**: Make sure you select only the features that are applicable for the type of template you create, if any. Selecting the wrong feature here can cause problems when a site is created from the template. No feature shown here are applicable for Community site templates!
 
 Custom steps
 --------------
-Finally, you can select to add Custom Steps. If additional Custom Steps are developed, they are shown here.
+Finally, you can select to add custom steps. If additional custom steps are developed, they are shown here.
 
 If you add custom steps, something like the following can be shown:
 
