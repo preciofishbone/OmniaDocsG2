@@ -9,9 +9,13 @@ For physical pages, that is not part of the navigation structure (for example ne
 
 Settings for the block
 ************************
-The only setting available for the Breadcrumb block is padding.
+The following settings are available for the Breadcrumb block:
 
-.. image:: breadcrumb-settings-new.png
+.. image:: breadcrumb-settings-new2.png
+
+Select what you want added to the breadcrumb. You can also choose to exclude the current node from the breadcrumb.
+
+Note that the text for the tenant node can be set in Omnie Admin, it's the Title under General settings: :doc:`Settings - Tenant </admin-zsettings/tenant-settings/settings/index>`
 
 Layout and Advanced
 **********************
