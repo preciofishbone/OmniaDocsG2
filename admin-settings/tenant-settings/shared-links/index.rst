@@ -49,7 +49,7 @@ Do the following:
 + **Information**: This field can be used for additional information about the link. If you enter something here, an information icon is shown next to the link. Users can click the icon to read the information. Not mandatory. If you use more than on language in the tenant you can add the information in each language. Note that you must always add information in the default langauge, other languages are optional.
 + **Open in New Window**: Select to open the url in a new browser window. Normally a good idea for external links.
 + **Mandatory**: If selected, the link is always shown for all users (or the limited set of users, if targeted), and can not be deselected.
-+ **Icon Type**: An icon is always shown for a link. If you would like another icon for this link, select the set of Icons here: "Font Awesome", "Fabric" or "Custom". When selecting "Custom" you can choose any image as the Icon.
++ **Icon Type**: An icon is always shown for a link. If you would like another icon for this link, select the set of Icons here: "Font Awesome", "Microsoft" or "Custom". When selecting "Custom" you can choose any image as the Icon.
 + **Icon**: When you have select Icon Type, use this list to select the icon. If you select "Custom", this list is not shown. Instead a "Url" field is shown, where you enter the Url for the image.
 + **Icon Color**: You can set a Custom Color for the icon, if you wish. 
 + **Icon Background Color**: Set the background color for the icon here. If note set, default icon background color is used.

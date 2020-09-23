@@ -50,16 +50,16 @@ Users can normally add personal links to their My links list. Here's an instruct
 + **Category**: Select an existing Category from the list or create a new Category by typing in the field.
 + **Information**: Add information about the link for your own use. If added, an i-icon is shown by the link, see noted above.
 + **Open in new window**: If the link should be opened in a new window, select this option. If not selected the link opens in th same window.
-+ **Icon Type**: An Icon will be shown for each link. As the first step, you select Icon Type: "Font Awesome", "Fabric" or "Flags". 
++ **Icon Type**: An Icon will be shown for each link. As the first step, you select Icon Type: "Font Awesome", "Microsoft" or "Flags". 
 + **Icon**: When you have seleceted Icon Type, select the Icon using this list. See below for examples.
-+ **Icon color**: For Font Awesome and Fabric, Icon color can be selected.
-+ **Background color**: For Font Awesome and Fabric, a Background color for the icon, can be selcted.
++ **Icon color**: For Font Awesome and Microsoft, Icon color can be selected.
++ **Background color**: For Font Awesome and Microsoft, a Background color for the icon, can be selcted.
 
 Here are some examples of Font Awesome icons:
 
 .. image:: font-awesome.png
 
-Here are some examples of Fabric icons:
+Here are some examples of Microsoft icons:
 
 .. image:: fabric.png
 

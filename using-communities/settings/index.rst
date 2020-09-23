@@ -111,7 +111,7 @@ To activate and create badges, do the following:
 .. image:: badges-badges-settings.png
 
 + **Icon Type**: Select an icon type for the badge.
-+ **Icon**: if you selected "Font Awesome", "Fabric" or "Flags", use the list to select an icon.
++ **Icon**: if you selected "Font Awesome", "Microsoft" or "Flags", use the list to select an icon.
 + **Icon Url**: If you selected "Custom" above you can use any image as the icon. Add the Url to the icon here.
 + **Background Color**: You can add a background color for the icon if you wish.
 + **Title**: Add a Title (name) for the badge here.
