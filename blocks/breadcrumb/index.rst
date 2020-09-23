@@ -15,7 +15,7 @@ The following settings are available for the Breadcrumb block:
 
 Select what you want added to the breadcrumb. You can also choose to exclude the current node from the breadcrumb.
 
-Note that the text for the tenant node can be set in Omnie Admin, it's the Title under General settings: :doc:`Settings - Tenant </admin-zsettings/tenant-settings/settings/index>`
+Note that the text for the tenant node can be set in Omnie Admin, it's the Title under General settings: :doc:`Settings - Tenant </admin-settings/tenant-settings/settings/index>`
 
 Layout and Advanced
 **********************
