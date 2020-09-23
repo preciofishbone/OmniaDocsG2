@@ -19,7 +19,7 @@ When this setting is active, the following tab is displayed in the page settings
 
 .. image:: page-setting-newsletter.png
 
-In this field both groups and individual e-mail adresses can be entered. This tab is available for Page Editors using Write mode.
+In this field both groups and individual e-mail adresses can be entered. This tab is available for Page Editors, even using Write mode.
 
 Page Rollup block for Newsletters
 ***********************************
@@ -39,7 +39,7 @@ Here's a Newsletter implementation example. First an example of a newsletter arc
 
 .. image:: newsletter-archive.png
 
-The Page Type is set up with three blocks: a Text block for the heading, an Action Button block for the newsletter editor to use when creating a newslettter page, and finally a Page Rollup block to list the newsletter pages.
+The Page Type is set up with three blocks: a Text block for the heading, an Action Button block for the newsletter editor to use when creating a newslettter page, and finally a Page Rollup block to list the newsletter pages. The same Page type is used when en editor creates a newsletter, but then works slightly differently.
 
 The Action Button has the following General settings:
 
@@ -67,7 +67,7 @@ There are no Filter settings. For Page Variations, this setting is made:
 
 Newsletters from the editor's point of view
 ----------------------------------------------
-When a Newsletter Editor creates a newsletter, the first step is to create a new page for the newsletter, in this example by clicking the button CREATE NEWSLETTER:
+When a Newsletter Editor creates a newsletter, the first step is to create a new page for the newsletter, in this example by clicking the button CREATE NEWSLETTER, as seen in the image above:
 
 .. image:: newsletter-editor-create.png
 
@@ -77,7 +77,7 @@ The new page can look something like this:
 
 .. image:: newsletter-editor-page.png
 
-The editor can now use the blocks set up on the Page Type, in Write mode. In this implementation example, a text block for the newsletter heading and another text block for the newsletter text is available, as well as a Page Rollup block (that's "Pick Pages".)
+The editor can now use the blocks set up on the Page Type, in Write mode, or in Design mode. In this implementation example, a text block for the newsletter heading and another text block for the newsletter text is available, as well as a Page Rollup block (that's "Pick Pages".)
 
 He or she enters some text for the newsletter, and picks the News pages to be sent in the newsletter, for example:
 
@@ -85,7 +85,7 @@ He or she enters some text for the newsletter, and picks the News pages to be se
 
 More information about how to use the Page Picker is found here: :doc:`The Page Picker </general-assets/page-picker/index>`
 
-If it's set up that way, some edits to properties may be needed, and the email recipients must be added, everything available through Write mode. The editor just clicks NEXT to cycle through the steps.
+If it's set up that way, some edits to properties may be needed, and the email recipients must be added, everything available through Write mode and Design mode. The editor just clicks NEXT to cycle through the steps.
 
 .. image:: newsletter-editor-page-settings.png
 
