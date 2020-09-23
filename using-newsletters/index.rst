@@ -1,7 +1,7 @@
 Using Newsletters
 ===========================
 
-There's a number of options and settings in Omnia you can use for a newsletter implementation, to send internally or externally through e-mail. These options and settings are described here.
+There's a number of options and settings in Omnia you can use for a newsletter implementation, to send internally or externally through e-mail. These options and settings are described here, together with an implementation example.
 
 A Page Type for Newsletters
 *****************************
@@ -31,7 +31,7 @@ There's also a View called Newsletter. This view is suitable for e-mailing.
 
 .. image:: page-rollup-newsletter-view.png
 
-More information about the Page Rollup block is found on this page: :doc:`Page Types </blocks/page-rollup/index>`
+More information about the Page Rollup block is found on this page: :doc:`The Page Rollup block </blocks/page-rollup/index>`
 
 Implementation example
 ************************
@@ -67,7 +67,7 @@ There are no Filter settings. For Page Variations, this setting is made:
 
 Newsletters from the editor's point of view
 ----------------------------------------------
-When a Newsletter Editor creates a newsletter, the first step is to crate a new page for the newsletter:
+When a Newsletter Editor creates a newsletter, the first step is to create a new page for the newsletter, in this example by clicking the button CREATE NEWSLETTER:
 
 .. image:: newsletter-editor-create.png
 
@@ -85,7 +85,7 @@ He or she enters some text for the newsletter, and picks the News pages to be se
 
 More information about how to use the Page Picker is found here: :doc:`The Page Picker </general-assets/page-picker/index>`
 
-If it's set up that way, some edit's to properties may be needed, and the email recipients must be added, everything available through Write mode. The editor just clicks NEXT to cycle through the steps.
+If it's set up that way, some edits to properties may be needed, and the email recipients must be added, everything available through Write mode. The editor just clicks NEXT to cycle through the steps.
 
 .. image:: newsletter-editor-page-settings.png
 
