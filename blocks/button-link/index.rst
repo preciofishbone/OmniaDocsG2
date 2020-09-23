@@ -31,9 +31,9 @@ To add an Action Button in this block, do the following:
 
 (All options are not shown in the image above, but listed below).
 
-The General tab
+General
 -------------------
-The following settings are available in this tab:
+The following settings are available here:
 
 + **Type**: Select type of button here; Link, Create Page, My Subscriptions or Subscribe.
 + **Text**: If there should be some text on the button, add it here.
@@ -45,9 +45,9 @@ The following settings are available in this tab:
 + **Dialog Position**: If you selected "Dialog" for Target, you can select where to place the dialog: Center, Full screen, Left or Right.
 + **Page Collection**: If you selected "Create Page" as type, select page collection to create the new page in.
 
-The Style tab
+Style
 ---------------
-The following settings are available here:
+These settings are available for Style:
 
 .. image:: action-button-style.png
 
