@@ -5,19 +5,19 @@ This block can be used to show tasks assigned to the logged in user. Tasks from 
 
 All sites with tasks assigned to the user is displayed in a list. Here's an example with the list opened for one of the sites:
 
-.. image:: tasks-rollup-example-new.png
+.. image:: tasks-rollup-example-new2.png
 
 Settings
 *********
 The following settings are available:
 
-.. image:: tasks-rollup-settings-new2.png
+.. image:: tasks-rollup-settings-new3.png
 
 General
 ---------
 The following is availabled here:
 
-.. image:: tasks-rollup-settings-general-new2.png
+.. image:: tasks-rollup-settings-general-new3.png
 
 + **Title**: If a title should be shown for the block, add it in this field. If no variation exists for the page, it looks like in the image above and you can set the title in the languages active in the tenant. If variations exists, only one title can be set. In that case, titles in other languages are set in the variations.
 + **Row Limit**: The maximum number of tasks to show in the list.
@@ -25,13 +25,14 @@ The following is availabled here:
 + **Sort by**: Select which column the list should be sorted on, and then select ascending or descending.
 + **Always Show Letter Avatar**: Select if a letter avatar should always be shown instead of site image.
 + **View Template**: Select View Template here; "Simple list" or "Site Group List".
++ **Open in new window**: Select this option if tasks should be opened in a new window (default=selected).
 + **Padding**: You can add padding between the list and the block border if needed.
 
 Custom colors
 ----------------
-You should primarily set colors in Omnia Admin (System/Settings/Default colors). If you still would like custom colors for the block, you can set them using this tab.
+Here ypu can set custom colors for teh block.
 
-.. image:: tasks-rollup-settings-colors-new.png
+.. image:: tasks-rollup-settings-colors-new2.png
 
 Planner Tasks
 ---------------
