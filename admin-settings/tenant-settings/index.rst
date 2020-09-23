@@ -19,5 +19,6 @@ Tenant Settings
    user-profile-completion/index
    document-management/index
    process-management/index
+   webcontent-management/index
    
    
