@@ -1,7 +1,7 @@
 Document Rollup
 ===========================================
 
-Using The Document Rollup block an administrator can show suitable documents in a list.
+Using The Document Rollup block you can show suitable documents in a list.
 
 The settings
 *************************
@@ -69,13 +69,15 @@ Query
 ---------
 You can either choose to pick documents to be displayd in the block, or use the Query Builder.
 
-.. image:: document-rollup-query.png
+.. image:: document-rollup-query-new.png
 
 Pick Documents
 ^^^^^^^^^^^^^^^^^
 To pick documents, click "ADD DOCUMENT".
 
-.. image:: document-rollup-pick.png
+.. image:: document-rollup-pick-new.png
+
+(See below for a description of "Enable partial word search".)
 
 The Document Picker opens and you use it to select documents.
 
@@ -89,13 +91,13 @@ Query Builder
 ^^^^^^^^^^^^^^
 Here you add queries, which is the detailed "settings" for what to display in the list:
 
-.. image:: document-rollup-settings-query-new2.png
+.. image:: document-rollup-settings-query-new3.png
 
 1. Set scope for the document rollup: 
 
-.. image:: document-rollup-settings-query-scope.png
+.. image:: document-rollup-settings-query-scope-new.png
 
-+ **All Documents** - always available, meaning ALL documents the logged in user has permissions to read. Use the query settings below to limit what will be shown in the rollup. The rollup can then be set to display just "normal" documents or both normal and controlled documents. To rollup documents from one or more Teams Sites, use this option.
++ **All Documents** - always available, meaning ALL documents the logged in user has permissions to read. Use the query settings below to limit what will be shown in the rollup. The rollup can then be set to display just "normal" documents or both normal and controlled documents. To rollup documents from one or more Team Sites, use this option.
 + **Published Documents**  - available only if Controlled Documents is active. Meaning ALL published CONTROLLED DOCUMENTS the logged in user has permissions to read. Use the query settings below to limit what will be shown in the rollup.
 + **Archived Documents** - available only if Controlled Documents is active. Meaning all published Controlled Documents in the Archive. As permissions to read documents in the Archive normally is given to just a few, this is for specialized implementations.
 
@@ -112,6 +114,7 @@ Additionally you can set:
 
 + **Day Limit**: Use this option to limit the display of older documents. You first select property (for example Modified) and then select how old the documents can be to be displayed in the list.
 + **Last modified by current user**: Use this option to limit the rollup to documents the logged in user has edited, for example for a "My Latest Documents" implementation.
++ **Enable partial word search**: Normally the query for documents searches from left to right in the document's title. With this enabled, the search cam find what it's looking for wherever it's placed in the the title.
 
 Filter
 --------
