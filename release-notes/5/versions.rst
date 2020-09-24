@@ -98,7 +98,6 @@ Document Management
 
 - Fixed an issue where the "Create draft" and "Unpublish" buttons would not show up in the document rollup (#118540).
 - Corrected the date format in the publish dialog (#1150589).
-- The document rollup can now display Email icons (#116055, #117596).
 - Corrected an issue that would not render titles correctly when grouping by site (#117532).
 - Fixed the positioning of the create button in the create document wizard (#115681).
 - Time has been removed from the Date Time stamp in the Document management emails (#117442, #117574, #119927)
@@ -116,7 +115,9 @@ Workplace
 
 - :doc:`MS Teams Integration </release-notes/5/index>` 
  - New Query strings for showing/hiding the Tenant and Business Profile header. (#119541)
+- The People rollup can now display Email icons (#116055, #117596).
 - People rollup have been reworked, with new design options and features (#120973, #114014, #114403, #121172, #116920, #120521).
+- The document rollup can now display Email icons (#116055, #117596).
 - The announcement comments feed now take all available screen space (#117248).
 - Corrected an issue where the header toolbar would show the wrong icons (#117530).
 - Corrected the style of the User Profile Completion Wizard in SPFx (#114438).
