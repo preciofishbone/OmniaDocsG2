@@ -30,7 +30,7 @@ The following is availabled here:
 
 Custom colors
 ----------------
-Here ypu can set custom colors for teh block.
+Here you can set custom colors for the block.
 
 .. image:: tasks-rollup-settings-colors-new2.png
 

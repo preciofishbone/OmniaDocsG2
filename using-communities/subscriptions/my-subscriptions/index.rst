@@ -19,7 +19,7 @@ The middle tab lists all knowledge articles and discussion you subscribe to, for
 
 .. image:: my-subscriptions-2.png
 
-You can click the name to go to the page or discussion.
+You can click the title to go to the page or discussion.
 
 The tab to the right displays a list of all tags you subscribe to, for example:
 
