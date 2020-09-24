@@ -1,4 +1,13 @@
 Omnia Feed - Business Profile Settings
 ========================================
 
-See separate documentation for Omnia Feed for a description of these settings.
+(This documentation is just started, more will be added soon).
+
+The following settings are available for Omnia Feed, for the Business Profile:
+
+.. image:: business-profile-omnia-feed.png
+
+
+
+
+
