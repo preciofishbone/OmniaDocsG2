@@ -17,11 +17,13 @@ Search Categories
 -------------------
 To create a new Search Category, click the plus and use the following settings:
 
-.. image:: search-config-categories-2.png
+.. image:: search-config-categories-3.png
 
-+ **Title**: Add a title for the Search Category.
++ **Title**: Add a title for the Search Category, in some or all languges available in the tenant.
 + **Search Result Source**: Select Source from the list.
 + **Search Query**: Add the Search Query here (see below for an example).
++ **Enable Query Rules**: (A description will be added soon.)
++ **Enable partial word search**: Per default the search will onfly find whole words, so a search for Chris will find just that, not for example Christina. But if you select this option, the search will find parts of words as well, so both Chris, Christina and Christian, for example.
 + **Sort By**: Choose property to sort by, or you can choose to sort by Relevance or Popularity (at the bottom of the list).
 + **Sort Direction**: When you have chosen a property to sort by, you can select a sort direction here.
 + **Search Templates**: Select one or more Search Templates from the list.
