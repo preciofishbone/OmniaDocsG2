@@ -114,9 +114,9 @@ Workplace
 ***********************
 
 - :doc:`MS Teams Integration </release-notes/5/index>` 
- - New Query strings for showing/hiding the Tenant and Business Profile header. (#119541)
+- New Query strings for showing/hiding the Tenant and Business Profile header. (#119541)
 - The People rollup can now display Email icons (#116055, #117596).
-- People rollup have been reworked, with new design options and features (#120973, #114014, #114403, #121172, #116920, #120521).
+- The People rollup have been reworked, with new design options and features (#120973, #114014, #114403, #121172, #116920, #120521).
 - The document rollup can now display Email icons (#116055, #117596).
 - The announcement comments feed now take all available screen space (#117248).
 - Corrected an issue where the header toolbar would show the wrong icons (#117530).
