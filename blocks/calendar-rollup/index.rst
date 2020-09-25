@@ -60,11 +60,13 @@ Each calendar displayed in the block can be targeted and can be shown with a dif
 
 .. image:: expand-calendar-expanded-new.png
 
-The select another color, open the list. You can select any of the pre defined colors, or add a custom one.
+To select another color, open the list. You can select any of the pre defined colors, or add a custom one.
 
 .. image:: expand-calendar-color-new.png
 
 Targeting a calendar works the same way as when you target a block, see the Heading "Targeting" on this page: :doc:`General Block Settings </blocks/general-block-settings/index>`
+
+A note about targeting; You can always target the whole Calendar Rollup block as an alternative, if calendars should be shown or some and no calendars for others. See the link above.
 
 Display
 ---------

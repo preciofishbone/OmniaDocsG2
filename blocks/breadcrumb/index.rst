@@ -13,9 +13,16 @@ The following settings are available for the Breadcrumb block:
 
 .. image:: breadcrumb-settings-new2.png
 
-Select what you want added to the breadcrumb. You can also choose to exclude the current node from the breadcrumb.
++ **Include Tenant node**: Select this option to always display the Tenant Node. The text for this is set in Omnia Admin, in the Title field under Tenant-Settings-General.
++ **Include Business Profile node**: Select this option to always display the Business Profile node. The text for this is the name for the Business Profile as set in Omnia Admin, Tenant-Business Profiles.
++ **Include Publishing App default node**: This is especially useful if there are several Page Collections in a Publishning App, and you want to show that they belong together. The Title of the Publishing App is set when it's created and can later be edited in Omnia Admin under Publishing for the Business Profile.
++ **Exclude Current node**: To not show the current node in the breadcrum, select this option.
 
-Note that the text for the tenant node can be set in Omnie Admin, it's the Title under General settings: :doc:`Settings - Tenant </admin-settings/tenant-settings/settings/index>`
+For more information about the Tenant Title, see: :doc:`Settings Tenant </admin-settings/tenant-settings/settings/index>`
+
+For more information about the Business Profile Title, see: :doc:`Settings Tenant </admin-settings/tenant-settings/business-profiles/index>`
+
+For more information about how to change a Publishing App's Title, see: :doc:`Settings Tenant </admin-settings/business-profile-settings/Publishing/index>`
 
 Layout and Advanced
 **********************

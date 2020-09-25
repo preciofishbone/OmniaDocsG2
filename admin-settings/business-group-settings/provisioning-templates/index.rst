@@ -31,9 +31,11 @@ The first step is the same for all template types.
 + **Available to All Users**: Select this option if the template should be available for other's than administrators, for example in the user Wizard for creating new teamworks. If this option is selected, the template will be available only for administrators to use in Omnia Admin.
 + **Site Creation Mode**: Here you select if approval is required when users create sites from this template. 
 
-If you select Approval, you must add one or more approvers right away:
+If you select Approval, you must add one or more colleagues to receive notifications about pending approval:
 
 .. image:: provisioning-templates-approval.png
+
+You can select anyone from this list, but all approval takes place in the Pending Approval lists in Omnia Admin, so a colleague must be either Tenant Administrator or Business Profile Administrator for the Business Profile in question.
 
 **Very important!** At the moment creating a community requires some hands on by an administrator. We therefore recommend that administrators create all communities for now - using the "Community" option in Omnia Admin. See to that "Available for all users" is NOT selected. In this case, setting Site Creation Mode to Self Service for community templates can be a good idea as it will make creation of communities straight forward.
 
