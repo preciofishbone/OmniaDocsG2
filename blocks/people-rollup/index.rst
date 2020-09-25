@@ -37,7 +37,7 @@ You can choose to display the list as a Card view or Roller view. In the image a
 The following settings are available for the views:
 
 + **Add Column**: This is not like columns in columns in a table. You should think: What information do I want to display about the people? You must always add at least one column or nothing will be shown!
-+ Adjust Columns**: Use this option the order in which the selected columns are shown.
++ **Adjust Columns**: Use this option the order in which the selected columns are shown.
 + **Person Name**: Select property to get the Person Name from.
 + **Show Profile Image**: Select this option to show the person's profile image.
 + **Open in Dialog**: If you select this option, the person's Delve page is opened in a dialog instead of in a window, when clicked.
@@ -50,6 +50,7 @@ The following settings are available for the views:
 + **Show Achivements**: This option is a preparation for functionality to come. Not used yet. Available for Card view only.
 + **Max no of Columns**: Set the maximum number of columns to be displayed.
 + **Sort By**: Select the property to sort the list by.
++ **Style**: Style (the field) - Here you can choose to display a Mail Icon that the users can click to send an email to a person. See below for an example.
 + **Left Zone Width**: Available for Roller. Set the width of the zone to the left of the person shown.
 + ** Right Zone Width**: Available for Roller. Set the width of the zone to the right of the person shown.
 + **Paging**: Select how paging should work; “No Paging”, “Classic” or “Scroll”. See below for examples. Scroll is note applicabale for Roller view.
@@ -57,6 +58,10 @@ The following settings are available for the views:
 + **Padding**: Use this option to add some padding between the list and the border of the block, if needed.
 
 **Important note on "No Paging"**: If you choose "No paging" and set "Item Limit" to a specific number, that is the number of people that will be available in the list, regardless of how many that actually meets the search criteria.
+
+Here's an example with a Card View displaying the Mail Icon (see top right if each card):
+
+.. image:: people-rollup-mail-icon.png
 
 Query
 -----------
