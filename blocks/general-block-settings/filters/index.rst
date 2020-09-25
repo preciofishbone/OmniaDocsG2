@@ -10,7 +10,7 @@ The first step is:
 + **Position**: Choose where to place the filters; Top, Left or Right.
 + **Add filter**: To add filters, click this link. See below for more information.
 + **Show Search Box**: To add a search box, select this option. You can do that without adding filters.
-+ **Only search when using filter**: If you select this option the list is empty when the user enters the page. The user must chose any or some of the filters for the search to be executed.
++ **Only search when using filter**: If you select this option the list is empty when the user enters the page. The user must choose a filter for the search to be executed.
 + **Hide filter by default**: If you chose a search box you can select this option. Then no filters are shown until users has executed a search and got a search result.
 
 Settings for search box

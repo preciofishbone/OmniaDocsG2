@@ -66,7 +66,7 @@ To select another color, open the list. You can select any of the pre defined co
 
 Targeting a calendar works the same way as when you target a block, see the Heading "Targeting" on this page: :doc:`General Block Settings </blocks/general-block-settings/index>`
 
-A note about targeting; You can always target the whole Calendar Rollup block as an alternative, if calendars should be shown or some and no calendars for others. See the link above.
+You can always target the whole Calendar Rollup block as an alternative, if calendars should be shown for some and no calendars for others. See the link above.
 
 Display
 ---------

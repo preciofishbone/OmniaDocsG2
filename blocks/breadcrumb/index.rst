@@ -18,11 +18,11 @@ The following settings are available for the Breadcrumb block:
 + **Include Publishing App default node**: This is especially useful if there are several Page Collections in a Publishning App, and you want to show that they belong together. The Title of the Publishing App is set when it's created and can later be edited in Omnia Admin under Publishing for the Business Profile.
 + **Exclude Current node**: To not show the current node in the breadcrum, select this option.
 
-For more information about the Tenant Title, see: :doc:`Settings Tenant </admin-settings/tenant-settings/settings/index>`
+For more information about the Tenant Title, see: :doc:`Settings (Tenant) </admin-settings/tenant-settings/settings/index>`
 
-For more information about the Business Profile Title, see: :doc:`Settings Tenant </admin-settings/tenant-settings/business-profiles/index>`
+For more information about the Business Profile Title, see: :doc:`Business Profiles </admin-settings/tenant-settings/business-profiles/index>`
 
-For more information about how to change a Publishing App's Title, see: :doc:`Settings Tenant </admin-settings/business-profile-settings/Publishing/index>`
+For more information about how to change a Publishing App's Title, see: :doc:`Publishing </admin-settings/business-profile-settings/Publishing-apps/index>`
 
 Layout and Advanced
 **********************
