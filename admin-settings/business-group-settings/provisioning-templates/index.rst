@@ -95,7 +95,9 @@ For SETTINGS, this is available:
 
 .. image:: microsoft-team-settings.png
 
-(A description of these settings will be added soon.)
+To learn what the different options are for, point at the i icon, for example:
+
+.. image:: microsoft-team-settings-info.png
 
 Yammer Community
 -----------------
