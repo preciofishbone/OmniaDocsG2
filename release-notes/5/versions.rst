@@ -14,11 +14,12 @@ General
 - Updated labels and wordings in many places of the application (#116801, #120576, #121034, #121734, #119773, #120373, #120979).
 - Saving permissions now works even if one of the users/groups fails (usually due to the user being deleted) (#120781).
 - Translated terms now work as expected (#121005).
-- Improved performance of Omnia in SPFx (#117481, #119580, #120670).
+- Improved performance and stability of Omnia in SPFx (#117481, #119580, #120670, #121712, #122258).
 - Added danish localization for social dates (#120083).
 - Corrected display of profile images (#121415).
 - Better handling of deprecated terms (#121942).
 - Icons with multiple shades have been removed from pickers in this release since they are not compatible (#121479).
+- Term pickers now correctly handle multilingual terms (#121730, #121005).
 
 
 Web Content Management
@@ -63,7 +64,7 @@ Web Content Management
 - Empty banners no longer takes any space (#114714, #115854, #118350).
 - Corrected thumbnail in page rollup for videos (#117123).
 - The page rollup now supports multilingual for the no result message (#117168).
-- The button "Go to news centre" now supports multilingual (#118829).
+- The button "Go to news center" now supports multilingual (#118829).
  
 - :doc:`Page Styling options </release-notes/5/index>` 
  - Prevented default colors to put white text on white backgrounds (#116995).
@@ -90,6 +91,9 @@ Web Content Management
 - Editing a URL to a node now behaves correctly (#114961).
 - Corrected an issue where reused content would not show as reused (#121614).
 - The indicator that a navigation node has children now shows correctly (#120305, #122251).
+- Action button text is now correctly centered (#122128).
+- Current navigation now renders indicators that have children correctly (#120305, #122251).
+-
 
 
 
@@ -100,7 +104,10 @@ Document Management
 - Corrected the date format in the publish dialog (#1150589).
 - Corrected an issue that would not render titles correctly when grouping by site (#117532).
 - Fixed the positioning of the create button in the create document wizard (#115681).
-- Time has been removed from the Date Time stamp in the Document management emails (#117442, #117574, #119927)
+- Time has been removed from the Date Time stamp in the Document management emails (#117442, #117574, #119927).
+- Fixed an issue preventing the document history from being shown (#122171). 
+- Improved stability of the publish flow (#120526, #121733).
+- Removing a document type no longer cause issues to related documents (#122177).
 
 Tenant Administration
 ***********************
@@ -135,12 +142,14 @@ Workplace
 - Fixed an issue in the My Site header component that prevented settings from being saved (#120818).
 - Corrected an issue where the people rollup would not render correctly when using SharePoint group query option together with being used in SPFx (#120283).
 - Collaboration templates now sort alphabetically (#117977).
-- Search now handles query rules properly, this solves issues with mismatch between standard SP Search and search in Omnia (#114847).
+- Search now handles query rules properly, this solves issues with mismatch between standard SP search and search in Omnia (#114847, #121794).
 - Drop-down search now correctly closes when navigating to a result (#121937).
 - Profile Completeness now has a correctly implemented block title and new design options (#114212).
 - SharePoint alias validation now correctly prevents the user from progressing in the site provisioning (#114641).
 - Strengthen Profile block has a new design (#122074). 
 - Corrected and issue that would prevent the MS Teams Icon to show correctly (#121446).
+- Azure AD sync now correctly syncs Cloud only extension properties (#122229).
+- Its now possible to configure if wildcard search will be used or not for search-based components (#114451).
 
 Communities
 ***********************
@@ -152,7 +161,7 @@ Process Management
 - Processes can now be shown in a TeamSite.
 
 
-Also fixes preview issues (#121345, #122132, #122150, #122209, #122073, #121995, #121892, #121931, #121944, #121760)
+Also fixes preview issues (#121345, #122132, #122150, #122209, #122073, #121995, #121892, #121931, #121944, #121760, #122242, #121995)
 
 
 
