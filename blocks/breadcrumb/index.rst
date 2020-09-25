@@ -22,7 +22,7 @@ For more information about the Tenant Title, see: :doc:`Settings (Tenant) </admi
 
 For more information about the Business Profile Title, see: :doc:`Business Profiles </admin-settings/tenant-settings/business-profiles/index>`
 
-For more information about how to change a Publishing App's Title, see: :doc:`Publishing </admin-settings/business-profile-settings/Publishing-apps/index>`
+For more information about how to change a Publishing App's Title, see: :doc:`Publishing </admin-settings/business-group-settings/Publishing-apps/index>`
 
 Layout and Advanced
 **********************
