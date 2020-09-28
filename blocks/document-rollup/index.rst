@@ -7,7 +7,7 @@ The settings
 *************************
 The following settings are available:
 
-.. image:: document-rollup-settings-all.png
+.. image:: document-rollup-settings-all-new.png
 
 General
 -----------------
@@ -81,7 +81,7 @@ To pick documents, click "ADD DOCUMENT".
 
 The Document Picker opens and you use it to select documents.
 
-.. image:: document-rollup-document-picker.png
+.. image:: document-rollup-document-picker-new.png
 
 Available categories (shown as tabs in the picker) are set up in Omnia Admin, see: :doc:`Document Picker settings </admin-settings/business-group-settings/settings/document-picker/index>`
 
@@ -114,7 +114,7 @@ Additionally you can set:
 
 + **Day Limit**: Use this option to limit the display of older documents. You first select property (for example Modified) and then select how old the documents can be to be displayed in the list.
 + **Last modified by current user**: Use this option to limit the rollup to documents the logged in user has edited, for example for a "My Latest Documents" implementation.
-+ **Enable partial word search**: Normally the query for documents searches from left to right in the document's title. With this enabled, the search cam find what it's looking for wherever it's placed in the the title.
++ **Enable partial word search**: Normally the query for documents searches for whole words (document titles, document owner names etc). With this enabled, the search searches in parts of words as well. 
 
 Filter
 --------
