@@ -141,7 +141,7 @@ Implementation example
 ***********************
 Here's an example of how it can look for users when a Document Rollup block is set up for Controlled Documents access:
 
-.. image:: document-rollup-controlled-1.png
+.. image:: document-rollup-controlled-1new.png
 
 Note that Document Type is shown and that the list can be refined on Document Owner and Document Type. There's also a Search available.
 
@@ -151,27 +151,27 @@ General
 --------
 Here, just the Title for the list is added in this example:
 
-.. image:: document-rollup-controlled-2.png
+.. image:: document-rollup-controlled-2new.png
 
 Display
 --------
 For Display the following settings are made in this example:
 
-.. image:: document-rollup-controlled-3.png
+.. image:: document-rollup-controlled-3new.png
 
 And these:
 
-.. image:: document-rollup-controlled-4.png
+.. image:: document-rollup-controlled-4new.png
 
 The "Classic" Paging results in a navigation at the bottom of the list:
 
-.. image:: document-rollup-controlled-5.png
+.. image:: document-rollup-controlled-5new.png
 
 Query
 ------
 The following settings are made for Query:
 
-.. image:: document-rollup-controlled-6new.png
+.. image:: document-rollup-controlled-6new2.png
 
 Note the star (*) in the Query Field, meaning All (in this case Published Controlled Documents).
 
@@ -179,19 +179,15 @@ Filter
 --------
 The following filters are set up:
 
-.. image:: document-rollup-controlled-7.png
-
-"Title & ..." is the option for Search, in this case a search for "Title & Other Properties".
+.. image:: document-rollup-controlled-7new.png
 
 Refiners
 -----------
 Finally, Refiners are set up this way:
 
-.. image:: document-rollup-controlled-8.png
+.. image:: document-rollup-controlled-8new.png
 
-At the top is the Refiner Option "Document Owner", limited to 5 posts.
-
-Next is the Refiner Option "Document Type" with no limit.
+As you can see, there are four refiners set up. (But only two of them are visible in the example image for the Controlled Documents rollup.)
 
 
 
