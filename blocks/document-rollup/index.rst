@@ -143,8 +143,6 @@ Here's an example of how it can look for users when a Document Rollup block is s
 
 .. image:: document-rollup-controlled-1new.png
 
-Note that Document Type is shown and that the list can be refined on Document Owner and Document Type. There's also a Search available.
-
 The following settings are used (see above for more information about the fields and options):
 
 General
