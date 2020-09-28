@@ -100,6 +100,10 @@ This could show the following:
 
 .. image:: show-paging-dynamic-new.png
 
+Here's a simple example of a Card view used for navigation purposes:
+
+.. image:: card-view-example-pages.png
+
 Filter
 -------
 If users should be able to filter the list and/or search here, use these options to add filters. 
