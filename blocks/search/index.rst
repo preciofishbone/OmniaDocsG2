@@ -5,7 +5,7 @@ The Search block can be used for Quick Search or Advanced Search.
 
 **Note!** When used for Advanced Search, this block needs a really wide area, more or less the whole page.
 
-Settings for Search are set up in Omnia Admin, see: :doc:`Business Profile Settings - Search </admin-settings/business-group-settings/search/index>
+Settings for Search are set up in Omnia Admin, see: :doc:`Business Profile Settings - Search </admin-settings/business-group-settings/search/index>`
 
 Settings
 **********
@@ -22,7 +22,7 @@ The General settings are:
 .. image:: search-block-settings-general.png
 
 + **Title**: You can add a title for the block here. If variations exists, only one title can be set. In that case, titles in other languages are set in the variations. If no variation exists for the page, you can set the title in any or all languages active in the tenant. 
-+ **Auto Focus search Box**: (A description will be added soon).
++ **Auto Focus search Box**: If this option is active, the search box is automatically in focus when a user opens the page, meaning the user can start seraching directly wihtout having to click in the search bos first.
 + **Show Results in Dropdown**: If search results should be available in a dropdown list, select this option.
 + **Dropdown Max Height**: When the above option is selected you can set the maximum height in pixels for the dropdown.
 + **Add @search parameter to the query string**: For advanced search implementations. With this option active you can add parameters to the search query string, for various implementations. 
