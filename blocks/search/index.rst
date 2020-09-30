@@ -1,17 +1,28 @@
 Search
-===========================================
+============
 
 The Search block can be used for Quick Search or Advanced Search. 
 
 **Note!** When used for Advanced Search, this block needs a really wide area, more or less the whole page.
 
+Settings for Search are set up in Omnia Admin, see: :doc:`Business Profile Settings - Search </admin-settings/business-group-settings/search/index>
+
 Settings
 **********
 The following settings are avilable:
 
-.. image:: search-block-settings-2.png
+.. image:: search-block-settings-3.png
+
+The tabs Layout and Advanced contain general settings, see: :doc:`General Block Settings </blocks/general-block-settings/index>`
+
+General
+---------
+The General settings are:
+
+.. image:: search-block-settings-general.png
 
 + **Title**: You can add a title for the block here. If variations exists, only one title can be set. In that case, titles in other languages are set in the variations. If no variation exists for the page, you can set the title in any or all languages active in the tenant. 
++ **Auto Focus search Box**: (A description will be added soon).
 + **Show Results in Dropdown**: If search results should be available in a dropdown list, select this option.
 + **Dropdown Max Height**: When the above option is selected you can set the maximum height in pixels for the dropdown.
 + **Add @search parameter to the query string**: For advanced search implementations. With this option active you can add parameters to the search query string, for various implementations. 
@@ -19,9 +30,13 @@ The following settings are avilable:
 + **Search mode**: Select search mode, Quick or Advanced.
 + **Padding**: You can add some padding if needed.
 
-The tabs Layout and Advanced contain general settings, see: :doc:`General Block Settings </blocks/general-block-settings/index>`
+Style
+--------
+For Style for the search box, the following settings are available:
 
-Settings for Search are set up in Omnia Admin, see: :doc:`Business Profile Settings - Search </admin-settings/business-group-settings/search/index>`
+.. image:: search-block-settings-style.png
+
+You can try out different style settings and see the result in the block on the fly.
 
 Quick search example
 *********************
