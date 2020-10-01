@@ -44,6 +44,8 @@ When a user has conducted a Quick search using this block, it can look like this
 
 .. image:: quick-search-example-block.png
 
+Search categories (in this example People, Pages and Documents) are set up in Omnia Admnin, see the Heading "Quick Search" on this page: :doc:`Business Profile Settings - Search </admin-settings/business-group-settings/search/index>`
+
 For "People" the name can be clicked to go to the person's Delve page. For pages and documents users can point at the post and click this icon for a preview:
 
 .. image:: quick-search-example-block-preview.png
@@ -60,7 +62,7 @@ When a user has conducted an Advanced search using this block, it can look like 
 
 .. image:: advanced-search-example-block.png
 
-Users can select categories at the top and refiners to the right.
+Refiners, Refiner position and Search categories are set in Omnia Admnin, see the Heading "Advanced Search" on this page: :doc:`Business Profile Settings - Search </admin-settings/business-group-settings/search/index>`
 
 
 
