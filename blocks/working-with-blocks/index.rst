@@ -22,9 +22,8 @@ Editing a block's settings
 ***************************
 To edit a block's settings, do the following:
 
-1. Edit the page in Design Mode.
-2. Click the block.
-3. Click the cog wheel for the block, for example:
+1. Click the block.
+2. Click the cog wheel for the block, for example:
 
 .. image:: edit-block-settings-new2.png
 
@@ -32,7 +31,7 @@ Information about how to change specific settings for a block is found in the bl
 
 Moving a block
 ***************
-Do the following to move a block tp another placement on the page.
+Do the following to move a block to another placement on the page.
 
 1. Click the block.
 2. Click the Move icon.
@@ -77,11 +76,11 @@ The settings are now shown, for example:
 
 .. image:: device-settings.png
 
-You edit the settings the same way as you do in the block's settings, see the description of the block - but here the settings apply specifically to the selected device
+You edit the settings the same way as you do in the block's settings, see the description of the block, but here the settings apply specifically to the selected device.
 
 Show the block or not on different devices
 -------------------------------------------
-Using the LAYOUT settings you can decide on which devices to show this block at all.
+Using the LAYOUT settings you can decide on which devices to not show this block at all.
 
 1. Click LAYOUT.
 2. Click the pen to change settings.
@@ -96,13 +95,12 @@ Removing a block
 *****************
 To remove a block. do the following:
 
-1. Edit the page in Design Mode.
-2. Click the block.
-3. Click the dust bin to remove the block:
+1. Click the block.
+2. Click the dust bin to remove the block:
 
 .. image:: block-remove-new3.png
 
-**Note!** A block that belongs to the Page Type is locked and can not be removed. It is shown this way:
+**Note!** A block that belongs to the Page Type is locked and can not be removed, nor edited. It is shown this way:
 
 .. image:: locked-block-new4.png
 
