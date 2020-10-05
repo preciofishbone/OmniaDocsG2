@@ -52,4 +52,19 @@ Settings for a Publishing App is done in the Settings menu when working with pag
 
 Pending Approval
 *****************
-If Approval for page creation and edits are activated for the Publishing App, this is one of the places where an administrator can work with approval or rejection.
+If Approval for page creation and edits are activated for the Provisioning Template, this is one of the places where an administrator can work with approval or rejection.
+
+The list can look like this:
+
+.. image:: publishing-pending-approval.png
+
+To approve or reject, click the link and browse the settings. And here you decide:
+
+.. image:: publishing-pending-approval-approve.png
+
+If you click Approve, the publishing site is created and the colleague requesting the approval is notified. If you click Reject you add a comment of what needs to be done before the site can be approved:
+
+.. image:: publishing-pending-approval-comment.png
+
+
+
