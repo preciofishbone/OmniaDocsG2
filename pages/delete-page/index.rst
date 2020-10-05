@@ -39,7 +39,7 @@ Page Types that are used for active pages (published or drafts) can not be archi
 
 Archiving a Variation
 ***********************
-You can archive a variation separate from the main page if needed. Just open the variation and archive the same way as you do a page. An archived variation can be restored or terminated the same way as a page, see below.
+You can archive a variation separately from the main page if needed. Just open the variation and archive the same way as you do a page. An archived variation can be restored or terminated the same way as a page, see below. If the main page is archived, variations of that page are always arechived as well.
 
 Restore or terminate an archived page
 *****************************************

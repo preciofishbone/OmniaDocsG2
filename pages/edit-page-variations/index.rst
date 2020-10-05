@@ -57,7 +57,7 @@ The variation author needs the same permisions as the author of the main page, t
 
 Archive variations
 ********************
-You can archive a variation even if the main page should not be archived.
+You can archive a variation even if the main page should not be archived. (If the main page is archived, any variations for that page are always archived as well.)
 
 1. Open the variation.
 2. Open the action menu and select ARCHIVE.
