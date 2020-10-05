@@ -55,6 +55,27 @@ The variation author is notified through e-mail when a main page, with a variati
 
 The variation author needs the same permisions as the author of the main page, to be able to edit the variation for a page.
 
+Archive variations
+********************
+You can archive a variation even if the main page should not be archived.
+
+1. Open the variation.
+2. Open the action menu and select ARCHIVE.
+
+Something like the following is shown:
+
+.. image:: archive-variation.png
+
+3. Type a comment and clikc OK.
+
+A variation can be restored or terminated the same way as pages in the archive.
+
+.. image:: archive-variation-archive.png
+
+More information about archiving, restoring and terminating is found here: :doc:`Archive a page </pages/delete-page/index/index>`
+
+
+
 
 
 

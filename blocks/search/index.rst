@@ -62,7 +62,7 @@ When a user has conducted an Advanced search using this block, it can look like 
 
 .. image:: advanced-search-example-block.png
 
-Refiners, Refiner position and Search categories are set in Omnia Admnin, see the Heading "Advanced Search" on this page: :doc:`Business Profile Settings - Search </admin-settings/business-group-settings/search/index/advanced-search>`
+Refiners, Refiner position and Search categories are set in Omnia Admnin, see the Heading "Advanced Search" on this page: :doc:`Business Profile Settings - Search </admin-settings/business-group-settings/search/index>`
 
 
 

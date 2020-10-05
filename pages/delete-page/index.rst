@@ -37,6 +37,10 @@ Archiving a Page Type
 **********************
 Page Types that are used for active pages (published or drafts) can not be archived. If you would like to archive pages and the page type used for these pages, archive the pages first, and then the page type.
 
+Archiving a Variation
+***********************
+You can archive a variation separate from the main page if needed. Just open the variation and archive the same way as you do a page. An archived variation can be restored or terminated the same way as a page, see below.
+
 Restore or terminate an archived page
 *****************************************
 If you have Publishing App Administrator permissions you can restore or terminate an archived page, with eventual sub pages, for that Publishing App. Page Collections and Page Types works the same way.
