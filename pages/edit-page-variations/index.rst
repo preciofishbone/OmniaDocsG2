@@ -66,13 +66,13 @@ Something like the following is shown:
 
 .. image:: archive-variation.png
 
-3. Type a comment and clikc OK.
+3. Type a comment and click OK.
 
 A variation can be restored or terminated the same way as pages in the archive.
 
 .. image:: archive-variation-archive.png
 
-More information about archiving, restoring and terminating is found here: :doc:`Archive a page </pages/delete-page/index/index>`
+More information about archiving, restoring and terminating is found here: :doc:`Archive a page </pages/delete-page/index>`
 
 
 
