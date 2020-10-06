@@ -164,5 +164,47 @@ Process Management
 Also fixes preview issues (#121345, #122132, #122150, #122209, #122073, #121995, #121892, #121931, #121944, #121760, #122242, #121995)
 
 
+5.1
+========================================
+
+Fixes
+****************************************
+- UI for saving external contacts have been improved (#122295).
+- The error log of the SharePoint Full sync can now be viewed in the UI.
+- Logic on following sites have been improved. A followed site in omnia always follows the site in SharePoint. A site followed in SharePoint will automatically become followed in omnia (with some delay) (#123336).
+- It is now possible to force letter avatars in the Team news rollup.
+- Its now possible to turn off all system emails which is useful when running migrations (#122027, #122010)
+- Name change of sites is now synced between Omnia and all connected resources (SPO, MS Teams, Outlook).
+- Omnia welcome screen as been disabled, leading to quicker page loads.
+- Structure for omnia pages have been changed.
+- Several issues have been fixed there Omnia would affect look and feel of standard SPO components.
+- An Issue where a search category title would sometimes render as "undefined" in omnia admin has been fixed.
+- The Page rollup view "Card view" has gotten several updates for an improved experience in both mobile and desktop (#122104). 
+- Term picker UI and UX improved for small spaces (#122221).
+- Several UI issues have been fixed in the Document rollup display breakpoints settings UI.
+- Default value on datetime properties, now correctly selects the time. 
+- People rollup width settings have been adjusted. 
+- Labels for "Enable partial search" have been consolidated.
+- Quick links can now be correctly opened on IOS. 
+- Language picker now shows correct available languages in all scenarios in Process Management and Document Management.
+- Personal sites are now correctly excluded from the Teamwork rollup when a custom SharePoint Domain is used (#123163).
+- The UX feedback when approving a Teamwork has been improved.
+- Site properties can now only be edited by the Owner. Not members. 
+- Improved the stability of the Process Management edit UI (#122252).
+- Fixed an error when client validation would prevent sending a controlled document for comments.
+- Fixed an error where Boolean default values would not work correctly in the Teamwork rollup filters.
+- Corrected the padding of the Teamwork search when there is no result (#121893).
+- Fixed text alignment in the RTF editor when combining tables with different text alignments.
+- The process datatype now works correctly as a filter for all rollups where it is available.
+- Fixed an issue where teamwork rollup filters would sometimes not work for term properties (#123350).
+- Fixed an issue where newlines would be inserted in the wrong place in the RTF editor when bullet lists were used (#123315).
+- Yes/No filters now work correctly in People Rollup.
+- Filters can now be correctly placed to the right or left of the content in people rollup.
+- The site logo is now correctly displayed when grouping by site in the Team news rollup.
+- My subscription block now correctly refreshes without a page reload.
+- Its now possible to list all teamwork cross business profiles.
+- Min width for block has been adjusted (#123093).
+- Block titles can now be displayed in the notification panel (#123430, #123438).
+- Added support for ms-excel and ms-word links in RTF.
 
 
