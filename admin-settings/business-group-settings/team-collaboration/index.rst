@@ -22,9 +22,9 @@ You can also search the list.
 
 .. image:: team-collaboration-search.png
 
-Create a Team Site
-*********************
-To create a Team Site from here, do the following:
+Create a Teamwork Site
+***********************
+To create a Teamwork Site from here, do the following:
 
 1. Click the plus.
 
@@ -45,7 +45,7 @@ To create a Team Site from here, do the following:
 Available options depend on the template chosen. Here's some common ones:
 
 + **Title**: Add a Title (name) for the Team Site here.
-+ **Description**: It's a good idea to add a Description of the Team Site's purpose here, but it's not mandatory.
++ **Description**: It's a good idea to add a Description of the Teamwork site's purpose here, but it's not mandatory.
 + **Show in public listings**: If links to this teamwork should show up in listings available for all colleagues, select this option. Default: selected.
 + **Sharepoint Alias**: The last part of the address to the site is created automatically but can be edited if necessary. If the name (address) already exists an alternative address is suggested.
 + **Languages**: The same language as the main Business Profile language is suggested. Another language can be selected if needed.  
@@ -65,7 +65,7 @@ Available options depend on the template chosen. Here's some common ones:
 
 6. Click "CREATE" to create the Team Site.
 
-**Note!** When the Team Site has been created, the above settings can not be edited here.
+**Note!** When the Teamwork site has been created, the above settings can not be edited here.
 
 Edit settings
 --------------
@@ -83,13 +83,13 @@ To activate, remove or upgrade features for a teamwork, you click the boxes icon
 
 What you can do is self explanatory, but be careful here and make sure you know exactly what will happen, especially if you plan to remove or upgrade a feature.
 
-Attach a Team Site
-*******************
-Using this option you can attach any Team Site to Omnia. When a Team Site is attached you can handle the site through Omnia the same way as a Team Site created through Omnia.
+Attach a Teamwork Site
+************************
+Using this option you can attach any Teamwork Site to Omnia. When a Teamwork Site is attached you can handle the site through Omnia the same way as a Teamwork Site created through Omnia.
 
 Do the following:
 
-1. Copy the Url for the Team Site you want to attach.
+1. Copy the Url for the Teamwork Site you want to attach.
 2. Go to Team Collaboration settings and click the plus.
 3. Select "Attach Site".
 
@@ -109,7 +109,7 @@ The connected Sharepoint site may be deleted for some reason, but when that happ
 
 Pending Approval
 *****************
-When a user creates a Team Site where Approval is needed, an administrator uses this list to approve or reject creation of the site. Here's an example:
+When a user creates a Teamwork site where Approval is needed, an administrator uses this list to approve or reject creation of the site. Here's an example:
 
 .. image:: pending-approval-new2.png
 
@@ -121,7 +121,7 @@ Approval (or Rejection) is done this way:
 
 .. image:: pending-approval-approve-new2.png
 
-If you approve the creation of the team site a message is sent to the person requesting the site, and the site is created.
+If you approve the creation of the Teamwork site a message is sent to the person requesting the site, and the site is created.
 
 If you reject, the following is shown:
 
@@ -129,9 +129,9 @@ If you reject, the following is shown:
 
 4. Type a message stating what needs to be done for approval, and click "Save" to send the message.
 
-The person requesting the site receives the message and can then start a new Team Site creation with your comments in mind. 
+The person requesting the site receives the message and can then start a new Teamwork site creation with your comments in mind. 
 
-**Note!** Requesting a Team Site must always be done from start each time. If rejected, nothing from the request is saved.
+**Note!** Requesting a Teamwork Site must always be done from start each time. If rejected, nothing from the request is saved.
 
 
 
