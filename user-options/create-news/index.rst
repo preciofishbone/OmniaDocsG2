@@ -69,7 +69,7 @@ A preview is now shown. Note that you can test how the News article will look on
 
 .. image:: news-devices-new2.png
 
-10. Save the news article as a draft to continue working on it later, or publish it directly. There can alos be other publishing options available. In this example approval is needed before a news article can be published and scheduled publishing is also available.
+10. Save the news article as a draft to continue working on it later, or publish it directly. There can also be other publishing options available. In this example approval is needed before a news article can be published and scheduled publishing is also available.
 
 .. image:: news-publish-new3.png
 
