@@ -21,13 +21,13 @@ Something like the following is shown:
 
 .. image:: create-news-template-new3.png
 
-Available blocks and more depends on how the Page Type for news is set up. 
+Available blocks and more depends on how the Page Type (page template) for news is set up. 
 
-You can see that the file name you entered in the previous step is suggested as the News Articles heading ("Spring is in the air" in this example). It can be edited if needed.
+You can see that the file name you entered in the previous step is suggested as the bews article's heading ("Spring is in the air" in this example). It can be edited if needed.
 
 What you actually need to do depends on the Page Type (template) for news. Here's some common steps that you should be able to do using Write mode:
 
-3. Add an image for  the News Article. A part of that image can also be used as the image in a News list (which is automatic if used).
+3. Add an image. A part of that image can also be used as the image in a News list (which is automatic if used).
 4. Add a short introduction in the third block ("Put your news summary here ..."), under the heading, just click and write.
 5. Add the content in the Text block below the introduction.
 
@@ -35,15 +35,13 @@ What you actually need to do depends on the Page Type (template) for news. Here'
 
 6. Add content to other blocks as necessary.
 
-Creating and editing a news article works the same way as working with a publishing page regarding adding, removing and moving blocks and adding content. The difference is that this is a special page type (template) for news articles only.
-
 You most likely will just need permissions to use Write mode to be able to create and publish a news article. 
 
-When you use the Media block to add an image (which you most likealy will do), you use the Media Picker, see this page for more information: :doc:`The Media Picker </general-assets/media-picker/index>`
+When you use the Media block to add an image (which you most likely will do), you use the Media Picker. See this page for more information: :doc:`The Media Picker </general-assets/media-picker/index>`
 
 Regarding the Text block, see this page for more information about the available options for text, links and images: :doc:`The RTF Editor </general-assets/rtf-editor/index>`
 
-If you have permissions to use Design mode you can edit the settings for the block, see: :doc:`Working with blocks </blocks/working-with-blocks/index>`
+If you have permissions to use Design mode you can edit the settings for the blocks, see: :doc:`Working with blocks </blocks/working-with-blocks/index>`
 
 For more information about a specific block, select the block in this list: :doc:`About blocks </blocks/index>`
 
@@ -59,7 +57,7 @@ Available properties depends on how the Page Type for News is set up. Here's an 
 
 + **Article Date**: Todays date is added to the field. The date can be edited if needed. In a news list, the articles are sorted on Article Date. If you're working on an article for a while, the date will not be updated automatically, so you may have to edit it before publishing.
 + **Page Contact**: This is shown under the image on the news article's page. Your name is added automatically. If someone else should be the Page Contact, remove your name and add the colleague's name.
-+ **Top Story**: Regard it as "a very important news setting", if present. In certain news listings, top storys can be viewed differently from other news. 
++ **Top Story**: Regard it as "a very important news setting", if present. In certain news listings, top stories can be viewed differently from other news. 
 
 Metadata tagging for News can be set up in many ways and also used in many ways, for example to display different news articles for different user groups. "Promoted Until", "News Channel", "Location", "Mandatory Read" and "Keywords" are examples of metadata, and you will receive information from your organization about how to use the metadata.
 
@@ -69,11 +67,11 @@ A preview is now shown. Note that you can test how the News article will look on
 
 .. image:: news-devices-new2.png
 
-10. Save the news article as a draft to continue working on it later, or publish it directly. There can alos be other publishing options available. In this example approval is needed before a news article can be published and scheduled publishing is also available.
+10. Save the news article as a draft to continue working on it later, or publish it directly. There can also be other publishing options available. In this example approval is needed before a news article can be published and scheduled publishing is also available.
 
 .. image:: news-publish-new3.png
 
-To use scheduled publishing, if availble, and to get som more information about the publishing options see this page for more information: :doc:`Publish page changes </pages/publish-page-changes/index>`
+To get som more information about the publishing options, for example scheduled publishing, if available, see this page for more information: :doc:`Publish page changes </pages/publish-page-changes/index>`
 
 Continue working on a saved News Article
 *****************************************
@@ -84,13 +82,11 @@ Do the following:
 
 .. image:: news-open-editor-new2.png
 
-3. Find the News Article in the list and click it.
+3. Find the news article in the list and click it.
 
 .. image:: news-open-new2.png
 
 You can now edit the contents and publish it when it's finished, as described above.
-
-As said above, a news article is a page, so all options for pages in Omnia are availble for news articles as well.
 
 
 
