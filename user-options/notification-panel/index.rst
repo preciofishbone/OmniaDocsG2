@@ -5,17 +5,17 @@ A Noticification Panel can be present in the Action Panel or on any page. The pu
 
 Several different Notifications panels can be created for different purposes, where one of them can be displayed in the Action Menu. Others can be displayed through a block, on any page.
 
-A number - 1 in the example above - indicates the number of new messages for the user:
+A number - 3 in the example above - indicates the number of new messages for the user:
 
 .. image:: notification-panel-in-action-new2.png
 
-Here's an example of what a Notification Panel can look like:
+Here's an example of what can be found in a Notification Panel:
 
 .. image:: notification-panel-example-new2.png
 
 What a Notification Panel will display depends on settings in Omnia Admin. The following is an example, described from left to right:
 
-+ **News**: Latest News from the News Archive, with the very latest at the top. Click to read the full news article. See example in the image above.
++ **News**: (See image above). Latest News from the News Archive, with the very latest at the top. Click to read the full news article. See example in the image above.
 + **Team News**: Latest News from the Team sites the user is a member of. Messages are grouped by Team site, for example:
 
 .. image:: team-site-news-new2.png
