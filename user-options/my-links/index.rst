@@ -25,7 +25,7 @@ The administrator setting up the link can add additional information about a lin
 
 Show a link or not
 *******************
-To decide which non mandatory links should be available, the stars will be used. In this image all links are shown (Show all links selected). Links with umfilled stars will not be shown (unless Shoa all links is selected). The links with a filled star will always be shown.
+To decide which non mandatory links should be available, the stars will be used. In this image all links are shown (Show all links selected). Links with unfilled stars will not be shown (unless Show all links is selected). The links with a filled star will always be shown.
 
 .. image:: my-links-stars-new.png
 

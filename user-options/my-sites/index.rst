@@ -5,7 +5,7 @@ Teamwork Navigation can display links to several types of sites and groups, incl
 
 .. image:: my-sites-example-new3.png
 
-Available tabs can be set up in a number of ways. Here's an example:
+Available tabs can be set up in a number of ways. 
 
 The user can follow or unfollow a site by clicking the star. An unfilled star indicates that the site is not followed and a filled star indicates that the user follows the site. 
 
@@ -16,7 +16,7 @@ Two things will happen when a user follows a site:
 
 If there is a Yammer Group and/or, Facebook Workplave or Teams Group connected to a site, it is indicated by an icon. You can click the icon to go to the Yammer Group, Facebook Workplace or Teams Group.
 
-Here's an example of a list with four facebook icons and one Yammer icon:
+In the image above you can see the Teams Group icon. Here's an example of a list with four facebook icons and one Yammer icon:
 
 .. image:: teamwork-navigation-icons.png
 
@@ -30,7 +30,7 @@ Here's an example with some common fields and options:
 
 1. Click "Create Teamwork".
 
-.. image:: click-new-site-new2.png
+.. image:: click-new-site-new.png
 
 2. Select the site or group to create.
 
