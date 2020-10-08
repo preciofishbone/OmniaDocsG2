@@ -13,11 +13,11 @@ The Page Rollup block can be used on any publishing page in Omnia. Another commo
 
 To read a news article, click the heading or the image.
 
-The News article can now be read. You can often read other new news articles here, without having to go back a step, for example:
+The news article can now be read. You can often read other new news articles here, without having to go back a step, for example:
 
 .. image:: news-read-new2.png
 
-When reading a News article, you can often like, share and comment the article:
+When reading a news article, you can often like, share and comment the article:
 
 .. image:: news-comment-new2.png
 

@@ -83,9 +83,12 @@ Categories
 ''''''''''''
 You can edit categories this way:
 
-Click the dust bin to remove a category. Click the cog wheel to handle the detailed settings for a category. When editing settings for a category, the same settings are available as when creating a new category, see below.
++ Click the dust bin to remove a category.
++ Click the cog wheel to handle the detailed settings for a category. 
 
-To add a new category, click ADD.
+When editing settings for a category, the same settings are available as when creating a new category, see below.
+
++ To add a new category, click ADD.
 
 .. image:: teamwork-navigation-add.png
 
@@ -174,8 +177,8 @@ The following settings are available here:
 + **Sorted By**: Open the list and decide how to sort the icons; Custom, Alphabetic or Last Visited. If you choose Custom, use the option "Custom" below for sorting.
 + **View Template**: The icons can be viewed in a number of ways; Simple List, App Icons, Navigation View or App launcher. See below for examples.
 + **Include Non-mandatory links**: (A description will be added soon.) 
-+ **Use Targeting**: (A description will be added soon.) 
-+ **Include Personal Links**: (A description will be added soon.) 
++ **Use Targeting**: (A description will be added soon.)  
++ **Include Personal Links**: (A description will be added soon.)  
 + **Include Following Links**: (A description will be added soon.) 
 + **Categories**: (A description will be added soon.) 
 + **Item Limit**: (A description will be added soon.) 

@@ -5,48 +5,48 @@ To make it easier for users to complete the most important parts of their profil
 
 The option can be available in the Action Menu:
 
-.. image:: strengthen-profile-menu-new.png
+.. image:: strengthen-profile-menu-new2.png
 
 The option can also be made available through a block, on any page. It can look like this:
 
-.. image:: strengthen-profile-block.png
+.. image:: strengthen-profile-block2.png
 
 Here's an example of what the user will see:
 
-.. image:: strengthen-profile-example.png
+.. image:: strengthen-profile-example-new.png
 
-The steps are numbered, the active step marked with a color (in the above example red).
+The steps are numbered, the active step marked with a color (in the above example blue).
 
 If this icon is present, the user can add a comment:
 
-.. image:: strengthen-profile-icon.png
+.. image:: strengthen-profile-icon-new.png
 
-This can be useful if some informatation is shown that needs to be updated, but are not available for the user to edit here.
+This can be useful if some information is shown that needs to be updated, but are not available for the user to edit here.
 
 Do the following:
 
 1. Make the necessary changes.
 2. Click "Save" if changes has been made, or "Skip" if not.
 
-.. image:: strengthen-profile-skip.png
+.. image:: strengthen-profile-skip-new.png
 
 3. To go to the next step, click the step.
 
 Here's an example of step 2:
 
-.. image:: strengthen-profile-step2.png
+.. image:: strengthen-profile-step2-new.png
 
 To remove a post in a field, click the x.
 
-.. image:: click-x.png
+.. image:: click-x-new.png
 
 To add a post to a field, click this icon:
 
-.. image:: click-list-icon.png
+.. image:: click-list-icon-new.png
 
 A list is shown where you can select the post/posts you want to add, for example:
 
-.. image:: posts-to-add.png
+.. image:: posts-to-add-new.png
 
 Normally, several posts can be selected.
 
@@ -58,13 +58,13 @@ To close a list, click outside it.
 
 Here's an example of step 3:
 
-.. image:: step3-example.png
+.. image:: step3-example-new.png
 
 7. Do the same here; click the x to remove, click tag icon to add.
 8. Save or skip when you're done.
-9. To close the option, click "Close".
+9. To close Strenghten Profile, click "Close".
 
-.. image:: click-close.png
+.. image:: click-close-new.png
 
 Settings for Strenghten Profile
 *********************************
