@@ -44,7 +44,7 @@ To add a post to a field, click this icon:
 
 .. image:: click-list-icon-new.png
 
-A list is shown where you can select the post/posts you want to add, for example:
+A list is shown where you can select the post/posts you want to add or removve, for example:
 
 .. image:: posts-to-add-new.png
 
