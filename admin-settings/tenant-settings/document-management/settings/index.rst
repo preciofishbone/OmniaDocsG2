@@ -22,9 +22,7 @@ Here you set the prefix for the Document id for this tenant.
 
 .. image:: document-management-settings-format-new2.png
 
-When a new controlled document is published the first time, a document id is set for the document, based on the prefix from the settings. This document id is then the same in all future editions of the document and is an important part of tracking published editions of the document. Here's an example:
-
-.. image:: document-format-example-new.png
+When a new controlled document is published the first time, a document id is set for the document, based on the prefix from the settings. This document id is then the same in all future editions of the document and is an important part of tracking published editions of the document. 
 
 **Note!** The Document Format can be changed even after creation of Controlled Documents has started, but it's not really recommended. Still, if it's done, existing documents will keep their prefix and only new documents will get the new one.
 
