@@ -116,13 +116,14 @@ Tenant Administration
 Team Collaboration
 ***********************
 - Can now use template icon in listings instead of letter avatar.
+- Site owners can now correctly edit site metadata (#122285).
 
 Workplace
 ***********************
 
 - :doc:`MS Teams Integration </release-notes/5/index>` 
 - New Query strings for showing/hiding the Tenant and Business Profile header. (#119541)
-- The People rollup can now display Email icons (#116055, #117596).
+- The Document rollup can now display Email icons (#116055, #117596).
 - The People rollup have been reworked, with new design options and features (#120973, #114014, #114403, #121172, #116920, #120521).
 - The document rollup can now display Email icons (#116055, #117596).
 - The announcement comments feed now take all available screen space (#117248).
@@ -164,7 +165,7 @@ Process Management
 Also fixes preview issues (#121345, #122132, #122150, #122209, #122073, #121995, #121892, #121931, #121944, #121760, #122242, #121995)
 
 
-5.1
+5.1.0
 ========================================
 
 Fixes
@@ -206,5 +207,24 @@ Fixes
 - Min width for block has been adjusted (#123093).
 - Block titles can now be displayed in the notification panel (#123430, #123438).
 - Added support for ms-excel and ms-word links in RTF.
+- Improved capabilities in searching for phone numbers (#121624).
+ 
+5.0.3
+========================================
+- Corrected load of certain taxonomy properties in ODM (#123244).
+- Full sync stability updates (#122371).
 
-
+5.1.5
+========================================
+- Enterprise keywords now correctly support multiple choice.
+- Corrected style of the Teamwork rollup when used in SPFx. (#123469)
+- Taxonomy refiners in the document rollup now correctly shows translated terms.
+- Links in RTF now support ms-excel correctly (#123508).
+- Corrected translation labels in document management (#122405).
+- Corrected language fallback to use Business profile language if preferred language is null.
+- Read access is now correctly granted to variations of a Page Collection root page. 
+- Performance improvement when loading a page to set up as a reusable page.
+- OPM emails now show the correct approver in its content (#123615).
+- Variations URL-segments are now correctly validated to be lower case.  
+- Corrected an issue that would sometimes prevent finding a published process (#123516).
+- Corrected settings migration for the page rollup and document rollup (#123638).
