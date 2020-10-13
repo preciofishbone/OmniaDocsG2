@@ -159,7 +159,7 @@ The following settings are available:
 
 .. image:: app-launcher-settings-overview.png
 
-+ **Enable**: The first step is to decide to use the Omnia App Launcher or not (which means using the default Microsoft 365 App launcher). 
++ **Enable**: The first step is to decide to use the Omnia App Launcher or not (not means using the default Microsoft 365 App launcher). 
 
 Note that there's a feature available for the tenant to install default App Launcher links to make it really easy to get going with the Omnia App Launcher. For more information, see: :doc:`Features - Tenant </admin-settings/tenant-settings/features/index>`
 
@@ -176,12 +176,12 @@ The following settings are available here:
 + **Title**: Set the title for the App Launcher in any or all availbale languages. This is shown as the Tool Tip for the button.
 + **Sorted By**: Open the list and decide how to sort the icons; Custom, Alphabetic or Last Visited. If you choose Custom, use the option "Custom" below for sorting.
 + **View Template**: The icons can be viewed in a number of ways; Simple List, App Icons, Navigation View or App launcher. See below for examples.
-+ **Include Non-mandatory links**: (A description will be added soon.) 
++ **Include Non-mandatory links**: Mandatory links are always displayed. Select this option if non-mandatory links, in the link categories selected, should be displayed as well.
 + **Use Targeting**: (A description will be added soon.)  
-+ **Include Personal Links**: (A description will be added soon.)  
++ **Include Personal Links**: If the logged in user's personal links, created using My Links, should be displayed as well in the App Launcher, select this option. Note that one or more categories that contain personal links will have to be selected below.
 + **Include Following Links**: (A description will be added soon.) 
-+ **Categories**: (A description will be added soon.) 
-+ **Item Limit**: (A description will be added soon.) 
++ **Categories**: Select one or more categories of links to display in the App Launcher. Each link os categorized when set up either for the Tenant or for the Business Profile. 
++ **Item Limit**: Set the number of links that should be displayed in the list, before "All Apps" or similar is shown. 
 + **Padding**: Add some padding between the mwnu's border and the icon list, if needed.
 
 In the following View Template examples, the sorting is Custom.
