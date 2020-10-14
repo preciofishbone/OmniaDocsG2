@@ -47,6 +47,7 @@ This example will create a "Team" site.
 
 + **Title**: This is the name that will be shown for the site in lists and when searching.
 + **Description**: A Description is not mandatory but is very helpful when colleagues search for sites.
++ **Show in Public Listings**: If this option is available, deselect if the site should not be shown in lists all colleagues has access to.
 + **Sharepoint Alias**: The last part of the address to the site is created automatically but can be edited if necessary. If the name (address) already exists an alternative address is suggested.
 + **Languages**: The same language as the main Business Profile language is suggested. Another language can be selected if needed.  
 + **Time Zones**: Normally the correct Time Zone is already selected. Can be changed if needed.
@@ -55,6 +56,8 @@ This example will create a "Team" site.
 6. Set the following:
 
 .. image:: create-site-2-new2.png
+
++ **Enterprise Properties**: Properties has many uses in Omnia. Which ones will be available is set up in the template for the teamwork. In this example this could be used to set which Office this site will be used for. See for example this page for more information about properties: :doc:`Properties </admin-settings/tenant-settings/properties/index>`
 
 And now, this short example is finished. There can be additional parts of the process, depending on how the template is set up.
 
