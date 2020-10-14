@@ -153,7 +153,7 @@ App Launcher
 ***************
 Omnia can replace the Microsoft 365 App Launcher with the Onnia App Launcher, to make it fully configurable. Here you can edit settings for the Omnia App Launcher, for the Business Profile. 
 
-.. image:: omnia-app-launcher.png
+.. image:: omnia-app-launcher-new.png
 
 The following settings are available:
 
