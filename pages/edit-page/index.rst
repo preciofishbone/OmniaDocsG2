@@ -71,15 +71,15 @@ It's possible to reuse contents from another page. The page where you want to re
 
 1. Open the action menu at the bottom right:
 
-.. image:: open-action-menu-new4.png
+.. image:: open-action-menu-new5.png
 
 2. Select "REUSE CONTENT".
 
-.. image:: select-reuse-content-new2.png
+.. image:: select-reuse-content-new3.png
 
 3. Add a page Url and click "Resolve".
 
-.. image:: add-page-url-new.png
+.. image:: add-page-url-new2.png
 
 A tip is to either have copied the page Url earlier, or to open another browser window, go the page, copy the Url and paste it here.
 
