@@ -165,6 +165,12 @@ Process Management
 Also fixes preview issues (#121345, #122132, #122150, #122209, #122073, #121995, #121892, #121931, #121944, #121760, #122242, #121995)
 
 
+5.0.3
+========================================
+- Corrected load of certain taxonomy properties in ODM (#123244).
+- Full sync stability updates (#122371).
+
+
 5.1.0
 ========================================
 
@@ -208,11 +214,6 @@ Fixes
 - Block titles can now be displayed in the notification panel (#123430, #123438).
 - Added support for ms-excel and ms-word links in RTF.
 - Improved capabilities in searching for phone numbers (#121624).
- 
-5.0.3
-========================================
-- Corrected load of certain taxonomy properties in ODM (#123244).
-- Full sync stability updates (#122371).
 
 5.1.5
 ========================================
