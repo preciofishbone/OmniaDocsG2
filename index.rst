@@ -1,7 +1,7 @@
-Omnia (for modern SharePoint)
+Omnia for Microsoft 365
 ===============================
 
-.. note:: Please find Omnia (for classic SharePoint) documentation `here <https://omnia-docs.readthedocs.io/>`_ | For questions, please contact omnia.documentation@preciofishbone.se. 
+.. note:: Please find Omnia for SharePoint documentation `here <https://omnia-docs.readthedocs.io/>`_ | For questions, please contact omnia.documentation@preciofishbone.se. 
 
 Topics
 ------
