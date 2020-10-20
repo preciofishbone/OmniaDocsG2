@@ -151,7 +151,7 @@ What you actually do is using a Notification Panel block to display in the headi
 
 App Launcher
 ***************
-You can create the feeling that when entering Omnia the suer is still in Microsoft 365 by adding the Onnia App Launcher. The Omnia App Launcher is fully configurable. It's placed in the same position as the App Launcher in Microsoft 365. Here you can edit the settings. 
+You can create the feeling that when entering Omnia the user is still in Microsoft 365, by adding the Onnia App Launcher. The Omnia App Launcher is fully configurable. It's placed in the same position as the App Launcher in Microsoft 365. Here you can edit the settings. 
 
 .. image:: omnia-app-launcher-new.png
 
@@ -178,8 +178,8 @@ The following settings are available here:
 + **View Template**: The icons can be viewed in a number of ways; Simple List, App Icons, Navigation View or App launcher. See below for examples.
 + **Include Non-mandatory links**: Mandatory links are always displayed. Select this option if non-mandatory links, in the link categories selected, should be displayed as well.
 + **Use Targeting**: Targeting is set per link in the Shared Links sections, one available for the tenant, and one available for the Business Profile. Here you can choose to use the links targeting setting or not. If this box is selected, the targeting setting is used.  
-+ **Include Personal Links**: If the logged in user's personal links, created using My Links, should be displayed as well in the App Launcher, select this option. Note that one or more categories that contain personal links will have to be selected below.
-+ **Include Following Links**: Users can follow links My Links. If these links should be available in the App Launcher as well, select this option.  
++ **Include Personal Links**: If the logged in user's personal links, created using My Links, should be displayed in the App Launcher as well , select this option. Note that one or more categories that contain personal links will have to be selected below.
++ **Include Following Links**: Users can follow links in My Links. If these links should be available in the App Launcher as well, select this option. Note that one or more categories that contain followed links will have to be selected below.
 + **Categories**: Select one or more categories of links to display in the App Launcher. Each link os categorized when set up either for the Tenant or for the Business Profile. 
 + **Item Limit**: Set the number of links that should be displayed in the list, before "All Apps" or similar is shown. 
 + **Padding**: Add some padding between the mwnu's border and the icon list, if needed.
