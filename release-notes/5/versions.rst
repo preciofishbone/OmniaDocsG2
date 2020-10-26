@@ -229,3 +229,17 @@ Fixes
 - Variations URL-segments are now correctly validated to be lower case.  
 - Corrected an issue that would sometimes prevent finding a published process (#123516).
 - Corrected settings migration for the page rollup and document rollup (#123638).
+
+5.1.14
+==========================================
+- It is now possible to have a customizable "Fallback" page, in case omnia is down. Contact your Omnia consultant to get it set up.
+- Action button is now available for the notification panel (#122037).
+- Corrected an issue where filter settings would be incorrectly set when upgrading from 4.1 (#123638)
+- Correct an issue where certain metadata fields would create duplicate inserts in an ODM document (#121793)
+- Increased stability of the Azure AD sync. (#123393, #121707)
+- Fixed an issue where some navigation nodes could not be moved (#123775).
+- Fixed an issue when newly created Business Profiles would get the wrong context (#123997).
+- Several improvements to the "Full sync to SharePoint" feature (#123770, #123622).
+- Fixed an issue where Info Screen would disable the Business Profile footer.
+- Fixed an issue that prevented the action button from correctly linking to an internal omnia page (#123894, #123868)
+- Fixed an issue where the browser back button would sometimes not work (#123824).
