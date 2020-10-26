@@ -88,7 +88,7 @@ The General tab contains the following settings:
 
 Don't forget to save when you're done.
 
-Here's an example when a Create New Document icon are shown in a Document Rollup list.
+Here's an example when a Create New Document icon is shown in a Document Rollup list.
 
 .. image:: document-rollup-create-new-icon.png
 
@@ -96,16 +96,17 @@ Publish
 ---------
 On the Publish tab you can set the following:
 
-.. image:: document-types-publish-new.png
+.. image:: document-types-publish-new-frame.png
 
 + **Replace tokens inside document on poublishing**: When a document is published, the placeholders (tokens) will be replaced with metadata, but for a document that will be used as a template, you will probably not want that to happen. If you are creating a Document Type to be used for templates, deselect this option.
 + **Allow Revisions**: Selecting this option you can allow authors to publish a revision of a document that does not require approval, for example for correcting typing errors. If this option is active, it's up to the author to decide if approval is needed or not. Approval is still needed for publication of a new edition of a document.
 + **Publishing approval**: Select if approval is to be used for this Document Type. If this option is NOT active, a document will be published immediately when an author clicks "Publish". If Publishing Approval is selected, you must also choose how approval will take place:
-- Anyone: The author can select any user of the portal as approver, when the document is published.
-- Limited list of users: Authors can select approvers from a defined list only. You create the list here.
-- Term-driven: Authors can select approvers from a defined list only. Which approvers will be available depends on the Properties selected for the documents. You select the term(s) here. When you have selected one or more terms you can use the cogwheel to set approvers for individual terms in the set.
-- Based on person property: You select one of the person properties defined, for example Document owner or Approver.
-- Group: This setting will use the permission group for approvers in the Team Site. Needs "Approvers Group" to be selected in Settings for Document Management.
+
+    - Anyone: The author can select any user of the portal as approver, when the document is published.
+    - Limited list of users: Authors can select approvers from a defined list only. You create the list here.
+    - Term-driven: Authors can select approvers from a defined list only. Which approvers will be available depends on the Properties selected for the documents. You select the term(s) here. When you have selected one or more terms you can use the cogwheel to set approvers for individual terms in the set.
+    - Based on person property: You select one of the person properties defined, for example Document owner or Approver.
+    - Group: This setting will use the permission group for approvers in the Team Site. Needs "Approvers Group" to be selected in Settings for Document Management.
 + **Conversion**: Select if conversion to PDF will be available, and then choose how.
 
 Don't forget to save your changes.
