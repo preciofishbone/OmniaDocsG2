@@ -20,4 +20,4 @@ Here's an example of a "Waiting for approval" list:
 
 .. image:: dm-statistics-details-new.png
 
-If you need to check any document, click the link to go to the Controlled Documents library in that site. You ofc ourse need to have right permissions to be able to open the library.
+If you need to check a document, click the link to go to the Controlled Documents library in that site. You of course need to have the right permissions to be able to open the library.
