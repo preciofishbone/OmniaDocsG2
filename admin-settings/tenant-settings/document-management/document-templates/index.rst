@@ -59,7 +59,7 @@ I you selected to add a template for normal documents, continue this way;
 
 1. Select one or more categories if you wish.
 
-.. image:: dm-template-new4-new2.png
+.. image:: dm-template-new4-new2-frame.png
 
 2. Select language and click "Add Document Template for this language".
 
