@@ -13,7 +13,7 @@ When editing a template, the same options are available as when creating a new t
 
 Categories
 *****************
-If there are many templates you can use Categories to group them. Categories are applicable for normal templates only.
+If there are many templates you can use Categories to group them. Categories are applicable for normal templates only. (Controlled Documents are grouped by Document Type, not done here).
 
 The first step is to create the Cateogories you will use (you can of course add more Categories later) and then add Categories when adding or editing templates. Using Categories is never mandatory, and even if you use them, some templates can still have no Category. On the other hand, a template can belong to more than one Category.
 
@@ -97,7 +97,7 @@ To upload a document to use as a template:
 
 Template for Controlled Documents
 **********************************
-When you are creating a template for Controlled Documents you don't use categories. Controlled Documents are grouped by Document Types, which you don't work with here. See this page for more information: :doc:`Page Types </admin-settings/tenant-settings/document-management/document-types/index>`
+When you are creating a template for Controlled Documents you don't use categories. Controlled Documents are grouped by Document Types, which you don't work with here. See this page for more information: :doc:`Document Types </admin-settings/tenant-settings/document-management/document-types/index>`
 
 The rest of the steps are the same as above.
 
