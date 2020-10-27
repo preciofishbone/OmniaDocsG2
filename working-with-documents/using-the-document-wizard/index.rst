@@ -1,11 +1,15 @@
 Using the Create the New Document Wizard
 ============================================
 
-The Document Wizard can used when creating new documents. If it is, it can be available for creating normal documents and/or Controlled Documents, depending on settings. It will replace the way you create documents in a Controlled Documents library and it can also be available in the Action Menu:
+The Create New Document Wizard can be used to create either Controlled Documents or normal documents. A new document created in the wizard can be saved in any libray the logged in user has access to (a Controlled Documents library for a Controlled Document or a Documents library for a normal document). 
+
+To be available, the Create New Document Wizard must be activated in the Features for each Teamwork App. It can be activated for just the Controlled Documents library, or for both the Controlled Documents library and the normal Documents libraries.
+
+The wizard is used when you create a new document in the Controlled Documents library and it can also be available in the Action Menu:
 
 .. image:: action-menu-document-wizard.png
 
-If the Document Wizard is available this way, you can use it to create Controlled Documents in any Controlled Documents Library you have access to.
+The setting for making the wizard available in the action menu is found in the Header settings for the Business Profile. See the heading "Action Menu" on this page for more information about the setting: :doc:`Header settings for the Business Profile </admin-sattings/business-group-settings/settings/header/index>`
 
 Creating a new Controlled Document
 ************************************
@@ -25,11 +29,11 @@ There can be different sets of document types depending on language chosen. If y
 
 The Document Types are set up in Omnia Admin. The first list you will see here is normally the most commonly used document types. A Document Type contains a number of templates. You may have to open a group to find the Document Type you're after.
 
-4. Some settings are most likely needed. Which settings depends on the Document Type. Here's an example:
+4. Some settings are most likely needed, depending on the Document Type. Here's an example:
 
 .. image:: new-controlled-4-new2.png
 
-5. Select template. You must click on the template, even if there's only one.
+5. Select template document. You must click on the template, even if there's only one.
 6. Add a title for the new document.
 7. Edit the file name if needed.
 
@@ -41,13 +45,13 @@ The Document Types are set up in Omnia Admin. The first list you will see here i
 
 If you are creating a new document in a Controlled Documents library, the active site is selected in the "suggested" list. If you have started the wizard from the Action Menu, no location can be suggested, as is shown in the above image.
 
-To select where to save the document, use the lists "Suggested", "Followed" and "All" to navigate to the site. Note that all three lists may not be shown depending on settings in Omnia Admin. If "All" is present, you use that tab to search for a library,
+To select where to save the document, use the lists "Suggested", "Followed" and "All" to navigate to the site. Use "All" to search for a library,
 
 9. Click "Create".
 
 .. image:: new-controlled-7-new2.png
 
-The document is now created in the chosen location and you can work on it the normal way. The location is normally opened automatically so you can start working on the document right away.
+The document is now created in the chosen location and you can work on it the usual way. The location is normally opened automatically so you can start working on the document right away.
 
 .. image:: new-controlled-8-new2.png
 
@@ -104,6 +108,6 @@ When you have selected library, and folder if necessary:
 
 .. image:: normal-document-7-new2.png
 
-The document template is normally opened and you can start working on it. 
+The document is normally opened and you can start working on it. 
 
 
