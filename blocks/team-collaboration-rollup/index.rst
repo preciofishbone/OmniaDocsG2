@@ -21,11 +21,12 @@ Query
 --------
 Here you can set the following:
 
-.. image:: teamwork-query.png
+.. image:: teamwork-query-new.png
 
 + **Scope**: Select scope, for example All, Followed or Member of.
 + **Site Template**: Here you can set the type of teamwork to be shown in the list. 
 + **Run Query On Load**: Decide if the query should be run on load, so the list is filled with teamworks, or not. If a list is very long it can be a good idea to add a search box, and to deselect this option. You add a search box under Filter UI, see below. 
++ **Enable partial word search**: If enabled, the query can find parts of words, if not enabled, just whole words. 
 
 Display
 ----------

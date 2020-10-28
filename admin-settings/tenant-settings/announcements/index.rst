@@ -47,6 +47,8 @@ Use the following settings:
 + **Allow comments**: Decide to allow comments or not. The default is to not allow comments. If allowed, users can add comments, and even comment other comments (and so can you of course) the same way as for example for news.
 + **Targeting filter**: An Announcement can be targeted, which means just displayed to a defined group of users. See below for information on how to do that.
 
+**Important Note!** If there are no Annoncements block placed on a suitable page and Announcements is not added as a category to the Notification Panel, Announcements with Normal priority are simply not shown!
+
 Here's an example of an Announcement with high priority:
 
 .. image:: high-priority-new.png
@@ -139,7 +141,7 @@ Set the following:
 
 Permissions for Announcements
 ********************************
-Announcements has a seperate Permissions setting, so any user can be set as an Announcement administrator, including external users that has been invited in the Asher AD, meaning they can log in with their own Office 365 account. 
+Announcements has a seperate Permissions setting, so any user can be set as an Announcement administrator, including external users that has been invited in the Asher AD, meaning they can log in with their own Microsoft 365 account. 
 
 Add all users that should be Announcements administrators here:
 

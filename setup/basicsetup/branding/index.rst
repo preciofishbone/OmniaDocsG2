@@ -3,7 +3,7 @@
 
 1. Go to Omnia Admin.
 2. Click on Tenant > Settings in the left-hand navigation.
-3. Go to the Header tab and select a background and icon color for the top tenant chrome. The recommendation is that this setting matches the Office 365 suite bar.
+3. Go to the Header tab and select a background and icon color for the top tenant chrome. The recommendation is that this setting matches the Microsoft 365 suite bar.
 4. Select a logo and add the url that the logo should point to.
 
 .. image:: tenant-settings-header.png

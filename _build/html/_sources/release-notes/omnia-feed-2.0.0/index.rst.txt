@@ -6,9 +6,9 @@ Enhanced look and feel and improved performance.
 Omnia feed has received a major technical upgrade. The design is brand new; the performance and experience has been significantly improved. Now the app is prepared for new features throughout the year. 
 
 
-Support for Omnia for Modern SharePoint.
+Support for Omnia for Microsoft 365.
 -----------------------------------------------------------
-Omnia Feed now supports Omnia for Modern SharePoint. When using an Omnia Tenant using Omnia for modern SharePoint, you will be able to tailor the feed for each business profile. It is also possible to brand the app using a theme color and a logo.
+Omnia Feed now supports Omnia for Microsoft 365. When using an Omnia Tenant using Omnia for Microsoft 365, you will be able to tailor the feed for each business profile. It is also possible to brand the app using a theme color and a logo.
 
 
 

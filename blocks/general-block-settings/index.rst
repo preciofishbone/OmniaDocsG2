@@ -3,53 +3,70 @@ General Block Settings
 
 The Layout tab and the Advanced tab contains settings that are general for most blocks, but scoped for each block. 
 
-.. image:: general-block.png
-
 Adding filters to a block, if it's possible, works the same for most blocks. Find a general description of how to do that here: :doc:`Filter UI </blocks/general-block-settings/filters/index>`
 
 Layout
 *********
-The Layout tab contain the following settings:
+The Layout tab contain the following settings. You can also set the minimum height for the block, using the slider.
 
-.. image:: layout-tab-new.png
+.. image:: layout-tab-new2.png
 
 Spacing
 --------
 Use this setting to add some space from the block's border in to the content.
 
-.. image:: general-spacing.png
+.. image:: general-spacing-new.png
 
-Style
-------
-Use these settings for block style:
+Theming
+--------
+If you would like to set a custom style for this block, click Custom Theme, and these settings becomes available:
 
-.. image:: general-style.png
+.. image:: general-style-new.png
 
-+ **Chrome**: Select to have no Chrome setting or Boxed.
-+ **Background color**: A default background color for blocks are set in Omnia Admin. You can set another background color for this block here, if needed.
-+ **Elevation**: With this setting you can make the content of the block "stand out" from the page. See below for examples.
++ **Background, Foreground and Text Color**: Here you can set custom colors for this block.
++ **Show Advanced Settings**: Click here for some additional settings (see below).
 
-In this example there's no elevation set for the block:
+To use another theme for the block, click the icon:
 
-.. image:: no-elevation.png
+.. image:: block-theming.png
 
-And here the elevation is set to 2:
+The available themes are listed, for example:
 
-.. image:: elevation-2.png
+.. image:: block-theming-list.png
 
-The difference is noticeable at the left side and at the bottom.
+The themes are set up for the Business Profile in Omnia Admin, see: :doc:`Theme </admin-settings/business-group-settings/settings/theme/index>`
+
+When you have chosen a theme you can edit colors for background, foreground and text, if needed. Note that the theme and colors you chose are shown in the block for a preview.
+
+When you select Show Advanced Settings, the following settings becomes available:
+
+.. image:: block-theming-advanced.png
+
+You can try out these settings for various effects. Changes ar shown in the block so you can see the effect.
 
 Header
 --------
-For Header you can choose to use the global settings (set up in Omnia Admin) or use Custom Settings for this block.
+For Header you can choose to use the global settings (set up in Omnia Admin) or use Custom Settings for this block. You can also select an icon, if one should be shown (If you don't salect an icon, Icon Type has no effect.)
 
-.. image:: layout-header-new.png
+.. image:: layout-header-new2.png
 
-For Custom Header Settings you can set the following:
+For Custom Header Settings you can set the following for TEXT:
 
-.. image:: layout-header-custom-new.png
+.. image:: layout-header-custom-new2.png
 
-"Separator Size" sets the distance from the heading to the content in the block. The rest of the settings - it's obvious what they do.
+The following is available for STYLE:
+
+.. image:: layout-header-custom-style.png
+
++ **Follow Theming**: Select this to follow the theming you selected under Theming. If you don't you can select a custom background color.
+
+The rest of the options should be self explanatory.
+
+And these settings are available for ICON:
+
+.. image:: layout-header-custom-icon.png
+
+It's just to try different settings and see the effect in the block.
 
 Targeting
 -------------
@@ -69,5 +86,5 @@ Advanced
 ***********
 For some blocks you can use Custom CSS settings. You then use this tab.
 
-.. image:: layout-css-new.png
+.. image:: layout-css-new2.png
 

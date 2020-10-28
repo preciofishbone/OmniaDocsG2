@@ -83,9 +83,12 @@ Categories
 ''''''''''''
 You can edit categories this way:
 
-Click the dust bin to remove a category. Click the cog wheel to handle the detailed settings for a category. When editing settings for a category, the same settings are available as when creating a new category, see below.
++ Click the dust bin to remove a category.
++ Click the cog wheel to handle the detailed settings for a category. 
 
-To add a new category, click ADD.
+When editing settings for a category, the same settings are available as when creating a new category, see below.
+
++ To add a new category, click ADD.
 
 .. image:: teamwork-navigation-add.png
 
@@ -148,15 +151,15 @@ What you actually do is using a Notification Panel block to display in the headi
 
 App Launcher
 ***************
-Omnia can replace the Office 365 App Launcher with the Onnia App Launcher, to make it fully configurable. Here you can edit settings for the Omnia App Launcher, for the Business Profile. 
+You can create the feeling that when entering Omnia the user is still in Microsoft 365, by adding the Onnia App Launcher. The Omnia App Launcher is fully configurable. It's placed in the same position as the App Launcher in Microsoft 365. Here you can edit the settings. 
 
-.. image:: omnia-app-launcher.png
+.. image:: omnia-app-launcher-new.png
 
 The following settings are available:
 
 .. image:: app-launcher-settings-overview.png
 
-+ **Enable**: The first step is to decide to use the Omnia App Launcher or not (which means using the default Office 365 App launcher). 
++ **Enable**: The first step is to decide to use the Omnia App Launcher or not. If it's not enabled, the space is simply empty.
 
 Note that there's a feature available for the tenant to install default App Launcher links to make it really easy to get going with the Omnia App Launcher. For more information, see: :doc:`Features - Tenant </admin-settings/tenant-settings/features/index>`
 
@@ -173,13 +176,13 @@ The following settings are available here:
 + **Title**: Set the title for the App Launcher in any or all availbale languages. This is shown as the Tool Tip for the button.
 + **Sorted By**: Open the list and decide how to sort the icons; Custom, Alphabetic or Last Visited. If you choose Custom, use the option "Custom" below for sorting.
 + **View Template**: The icons can be viewed in a number of ways; Simple List, App Icons, Navigation View or App launcher. See below for examples.
-+ **Include Non-mandatory links**: (A description will be added soon.) 
-+ **Use Targeting**: (A description will be added soon.) 
-+ **Include Personal Links**: (A description will be added soon.) 
-+ **Include Following Links**: (A description will be added soon.) 
-+ **Categories**: (A description will be added soon.) 
-+ **Item Limit**: (A description will be added soon.) 
-+ **Padding**: Add some padding between the mwnu's border and the icon list, if needed.
++ **Include Non-mandatory links**: Mandatory links are always displayed. Select this option if non-mandatory links, in the link categories selected, should be displayed as well.
++ **Use Targeting**: Targeting is set per link in the Shared Links sections, one available for the Tenant, and one available for the Business Profile. Here you can choose to use the links targeting setting or not. Default=not selected, meaning the targeting setting for the link is not used.  
++ **Include Personal Links**: If the logged in user's personal links, created using My Links, should be displayed in the App Launcher as well , select this option. Note that one or more categories that contain personal links will have to be selected below, for any personal links to show up.
++ **Include Following Links**: Users can follow links in My Links. If these links should be available in the App Launcher as well, select this option. Note that one or more categories that contain followed links will have to be selected below, for any followed links to show up.
++ **Categories**: Select one or more categories of links to display in the App Launcher. Each link is categorized when set up, either for the Tenant or for the Business Profile. 
++ **Item Limit**: Set the number of links that should be displayed in the list, before "All Apps" or similar is shown. 
++ **Padding**: Add some padding between the menu's border and the list, if needed.
 
 In the following View Template examples, the sorting is Custom.
 
@@ -195,7 +198,7 @@ With the Template Navigation View it can look like this:
 
 .. image:: app-launcher-settings-general-navigation-view.png
 
-The View Template App Launcher makes the list look like the Office 365 App launcher, for example:
+The View Template App Launcher makes the list look like the Microsoft 365 App launcher, for example:
 
 .. image:: app-launcher-settings-general-app-launcher.png
 

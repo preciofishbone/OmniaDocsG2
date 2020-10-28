@@ -24,4 +24,4 @@ To make it possible for someone else to work on the process, check it in this wa
 
 .. image:: pm-check-in.png
 
-Note that if someone else has checked out a process you need to edit, you can take control of the process to be able to edit it. (More information about this will be added soon).
+Note that if someone else has checked out a process you need to edit, you can take control of the process to be able to edit it. 
