@@ -94,14 +94,15 @@
               <ul class="current">
 <li class="toctree-l1"><a class="reference internal" href="../../../admin-settings/index.html">Admin Settings</a></li>
 <li class="toctree-l1 current"><a class="reference internal" href="../../index.html">Blocks</a><ul class="current">
+<li class="toctree-l2"><a class="reference internal" href="../../button-link/index.html">Action Button</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../../announcements/index.html">Announcements</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../../banner/index.html">Banner</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../../breadcrumb/index.html">Breadcrumb</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../../button-link/index.html">Button Link</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../../calendar-rollup/index.html">Calendar Rollup</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../../current-navigation/index.html">Current Navigation</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../../document-rollup/index.html">Document Rollup</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../../general-block-settings/index.html">General Block Settings</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../governance-dashboard/index.html">Governance Dashboard</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../../html-script/index.html">HTML/Script</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../../media/index.html">Media</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../../mega-menu/index.html">Mega Menu</a></li>
@@ -127,11 +128,12 @@
 </ul>
 </li>
 <li class="toctree-l2"><a class="reference internal" href="../../quick-links/index.html">Quick Links</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../rating/index.html">Rating</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../../related-links/index.html">Related Links</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../../rss-reader/index.html">RSS Reader</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../../search/index.html">Advanced Search</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../search/index.html">Search</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../../task-rollup/index.html">Task Rollup</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../../team-collaboration-rollup/index.html">Team Collaboration Rollup</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../team-collaboration-rollup/index.html">Teamwork Rollup</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../../team-news-rollup/index.html">Team News Rollup</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../../text/index.html">Text</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../../user-profile-completion/index.html">User Profile Completion</a></li>
@@ -219,8 +221,20 @@
   <div class="section" id="process-drawing-block">
 <h1>Process Drawing block<a class="headerlink" href="#process-drawing-block" title="Permalink to this headline">¶</a></h1>
 <p>Use this block to display the process drawing for the process.</p>
-<p>You can add a title on any or all the available languages, and add some padding, if nedded.</p>
-<img alt="../../../_images/process-drawing-block.png" src="../../../_images/process-drawing-block.png" />
+<div class="section" id="settings">
+<h2>Settings<a class="headerlink" href="#settings" title="Permalink to this headline">¶</a></h2>
+<p>The block has the following settings:</p>
+<img alt="../../../_images/process-drawing-block-new.png" src="../../../_images/process-drawing-block-new.png" />
+<ul class="simple">
+<li><strong>Title</strong>: You can add a title in any or all the available languages, and add some padding, if nedded.</li>
+<li><strong>Padding</strong>: Add some padding between the block frame and the content, if needed.</li>
+<li><strong>Stack Process</strong>: Normally when you select a sub process, the drawinf for main process is closed, and the drawing for the main process is not shown. Select this option if you want the main process’s drawing, and all the drawings for the selected steps, to be shown at the same time.</li>
+</ul>
+<p>Here’s an example when Stack Process is selected. Develop Products is selected in the main process and both that drawing and the drawing for Develop product are shown.</p>
+<img alt="../../../_images/stack-process-example.png" src="../../../_images/stack-process-example.png" />
+<p>The user can close the drawing for a sub process by clicking the x</p>
+<img alt="../../../_images/stack-process-close.png" src="../../../_images/stack-process-close.png" />
+</div>
 <div class="section" id="layout-and-advanced">
 <h2>Layout and Advanced<a class="headerlink" href="#layout-and-advanced" title="Permalink to this headline">¶</a></h2>
 <p>The tabs Layout and Advanced are standard tabs, available for most blocks. For more information, see: <a class="reference internal" href="../../general-block-settings/index.html"><span class="doc">General Block Settings</span></a></p>
@@ -250,7 +264,7 @@
   <div role="contentinfo">
     <p>
         &copy; Copyright 2020, Precio Fishbone.
-      Last updated on Jul 02, 2020.
+      Last updated on Oct 26, 2020.
 
     </p>
   </div>
