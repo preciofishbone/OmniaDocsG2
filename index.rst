@@ -19,7 +19,6 @@ Topics
    using-newsletters/index
    user-options/index
    setup/index
-   roadmap/index
    release-notes/index
    guides/index
    contribute-to-doc/index

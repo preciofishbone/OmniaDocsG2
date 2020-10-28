@@ -1,7 +1,7 @@
 Using the Create the New Document Wizard
 ============================================
 
-The Create New Document Wizard can be used to create either Controlled Documents or normal documents. A new document created in the wizard can be saved in any libray the logged in user has access to (a Controlled Documents library for a Controlled Document or a Documents library for a normal document). 
+The Create New Document Wizard can be used to create either Controlled Documents or normal documents. A new document created in the wizard can be saved in any libray the loged in user has access to (a Controlled Documents library for a Controlled Document or a Documents library for a normal document). 
 
 To be available, the Create New Document Wizard must be activated in the Features for each Teamwork App. It can be activated for just the Controlled Documents library, or for both the Controlled Documents library and the normal Documents libraries.
 
@@ -9,7 +9,7 @@ The wizard is used when you create a new document in the Controlled Documents li
 
 .. image:: action-menu-document-wizard.png
 
-The setting for making the wizard available in the action menu is found in the Header settings for the Business Profile. See the heading "Action Menu" on this page for more information about the setting: :doc:`Header settings for the Business Profile </admin-sattings/business-group-settings/settings/header/index>`
+The setting for making the wizard available in the action menu is found in the Header settings for the Business Profile. See the heading "Action Menu" on this page for more information about the setting: :doc:`Header settings for the Business Profile </admin-settings/business-group-settings/settings/header/index>`
 
 Creating a new Controlled Document
 ************************************
