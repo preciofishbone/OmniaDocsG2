@@ -1,8 +1,6 @@
 Working with tasks when authoring processes
 ==============================================
 
-**This documentation is just started. More will be added soon.**
-
 Using the Tasks tab you can see three different lists:
 
 .. image:: pm-tasks-options.png

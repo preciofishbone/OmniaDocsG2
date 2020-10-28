@@ -21,7 +21,7 @@ The following settings are available for Display:
 
 + **Add Column**: Add the columns for the information to be shown on the list. Add at least one column must be added or nothing will be shown.
 + **Adjust Columns**: (Displayed when you are adding columns.) Use this option for the order in which the selected columns are shown, left to right.
-+ **Title**: You can add a title for the list in any or all availble languages. 
++ **Title**: If variatons exists for the page, it looks like in the image above and then you can only set the title in the default language. Titles in other languages are set in the variations. If no variations exists, you can add a title for the list in any or all available languages. 
 + **View Page Url**: If you have created a page that will be used to display any process when a user clicks on it, add the Url to the page here. Note that you don't have to create a page for this purpose. If you don't, a system page will be used.
 + **Open in a new window**: Select this option if the clicked process should be opened in a new window.
 + **Paging**: Select how paging should work; “No Paging”, “Classic” or “Scroll”. 
@@ -30,15 +30,17 @@ The following settings are available for Display:
 + **Descending/Ascending**: Select Descending or Ascending sorting here.
 + **Padding**: Add some padding if nedded.
 
-Display
+Query
 ---------
 Select to display published processes or archived processes.
 
-.. image:: process-rollup-block-settings-query.png
+.. image:: process-rollup-block-settings-query-new.png
 
 If all published or archived processes should be available in the list, that's it, you don't need to actually add a query.
 
 If just some of the processes should be displayed, add a query the same way as in other similar Rollup blocks.
+
++ **Enable partial word search**: If this option is enabled, the query searches for parts of words as well as for whole words. If not enable, only for whole words.
 
 Filter
 ------

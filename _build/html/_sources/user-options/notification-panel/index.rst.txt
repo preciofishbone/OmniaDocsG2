@@ -1,44 +1,40 @@
 Notification Panel
 ===========================================
 
-A Noticification Panel can, among other options, be present in the Action Panel. The purpose is to help users find out what information has been updated within different areas of the intranet.
+A Noticification Panel can be present in the Action Panel or on any page. The purpose is to help users find out what information has been updated within different areas of the intranet.
 
 Several different Notifications panels can be created for different purposes, where one of them can be displayed in the Action Menu. Others can be displayed through a block, on any page.
 
-.. image:: notification-panel-in-action-new.png
+A number - 3 in the example above - indicates the number of new messages for the user:
 
-A number - 1 in the example above - indicates the number of new messages for the user.
+.. image:: notification-panel-in-action-new2.png
 
-Here's an example of what a Notification Panel can look like:
+Here's an example of what can be found in a Notification Panel:
 
-.. image:: notification-panel-example-new.png
+.. image:: notification-panel-example-new2.png
 
-What a Notification Panel will display depends on settings in Omnia Admin, but the following is an example, described from left to right:
+What a Notification Panel will display depends on settings in Omnia Admin. The following is an example, described from left to right:
 
-+ **News**: Latest News from the News Archive, with the very latest at the top. Click to read the full news article. See example in the image above.
++ **News**: (See image above). Latest News from the News Archive, with the very latest at the top. Click to read the full news article. See example in the image above.
 + **Team News**: Latest News from the Team sites the user is a member of. Messages are grouped by Team site, for example:
 
-.. image:: team-site-news-new.png
+.. image:: team-site-news-new2.png
 
 To see the messages from a Team site, click it. The latest messages from that Team site are then shown, the very latest at the top. It can look like this:
 
-.. image:: team-site-news-expanded-new.png
+.. image:: team-site-news-expanded-new2.png
 
 Click the heading of a message to go the Team site to read the full message. The author's name is also clickable here and will take you the author's Delve page.
 
-+ **Tasks**: When tasks are assigned to the user in a Team site, a notification will show up here. The tasks are grouped by Team site, for example:
++ **Tasks**: When tasks are assigned to the user in a Team site, a notification will show up here. The tasks are grouped by Team site: Here's an example with the list opened for one of the sites:
 
-.. image:: team-site-tasks-new.png
-
-In this example a new task has been assigned to the logged in user in the IT France Team Site. To work with a task the user expands the list for the Team site, and then clicks the task.
-
-.. image:: team-site-tasks-expanded-new.png
+.. image:: team-site-tasks-new2.png
 
 To go to the Team site to see all tasks, click "View all tasks".
 
 + **Documents**: This lists all documents in Team sites the user is a member of, that are new or has been updated recently, the newest at the top. Here's an example:
 
-.. image:: documents-example-new.png
+.. image:: documents-example-new2.png
 
 Here, different actions can be taken:
 
@@ -48,7 +44,7 @@ Here, different actions can be taken:
 
 + **Communities**: This is a list of new pages/articles in available communities, the latest at the top.
 
-.. image:: external-news-new.png
+.. image:: external-news-new2.png
 
 Click the heading or the image to read the page/article.
 

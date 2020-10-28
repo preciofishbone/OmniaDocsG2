@@ -6,11 +6,13 @@ Blocks
 
    
    accordion/index
+   activity-feed/index
    button-link/index
    announcements/index
    banner/index
    breadcrumb/index
    calendar-rollup/index
+   create-teamwork/index
    current-navigation/index
    document-rollup/index
    general-block-settings/index
@@ -27,6 +29,7 @@ Blocks
    variation-selector/index
    people-rollup/index
    process-blocks/index
+   user-profile-completion/index
    quick-links/index
    rating/index
    related-links/index
@@ -38,7 +41,6 @@ Blocks
    team-news-rollup/index
    text/index
    trello-cards/index
-   user-profile-completion/index
    working-with-blocks/index
 
 

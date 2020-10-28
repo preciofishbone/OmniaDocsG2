@@ -16,7 +16,7 @@ Here you can use the following settings:
 .. image:: edit-controlled-library-general.png
 
 + **Title**: You can edit or add a Title for the list in all languages available for the tenant. The default language is mandatory. 
-+ **Open In Client App**: Per default, documents are opened in the online Office 365 application. If documents should be opened in the locally installed application instead, select this option. 
++ **Open In Client App**: Per default, documents are opened in the online Microsoft 365 application. If documents should be opened in the locally installed application instead, select this option. 
 
 Display
 ----------
@@ -104,7 +104,7 @@ If permission groups are used, as in the example above, you can add and remove u
 
 .. image:: advanced-permissions-settings-new.png
 
-Note that external users that has been invited in the Asher AD can be added here as well. Users invited this way can log in with their own Office 365 account.
+Note that external users that has been invited in the Asher AD can be added here as well. Users invited this way can log in with their own Microsoft 365 account.
 
 
 
