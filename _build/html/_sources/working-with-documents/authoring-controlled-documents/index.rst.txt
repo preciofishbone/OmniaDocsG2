@@ -1,11 +1,11 @@
 Authoring Controlled Documents
 =================================
 
-This section is for Authors of Controlled Documents. The work always take place in a Controlled Documents Library in a Team Site. Who is allowed to author and approve (if approval is needed) is set up in Omnia Admin under Document Management.
+This section is intended for Authors of Controlled Documents. The work always takes place in a Controlled Documents library in a Team Site. Who is allowed to author and approve (if approval is needed) is set up in Omnia Admin under Document Management. See this for more information on defining author permissions: :doc:`Document Management Settings </admin-settings/tenant-settings/document-management/settings/index>`
 
 When a Team Site has been set up for Controlled Documents authoring, the following will be available for Controlled Document authors:
 
-+ A documents library (Controlled Documents) that only users defined in the author’s permission group can work with.
++ A documents library (Controlled Documents).
 + A Send for Comments Workflow.
 + A Publish Workflow.
 + A Tasks list.
@@ -19,17 +19,17 @@ When a Team Site has been set up for Controlled Documents authoring, the followi
 
 In a Team Site set up for Controlled Documents authoring, a library, usually called just "Controlled Documents", is available here:
 
-.. image:: controlled-documents-new.png
+.. image:: controlled-documents-new2.png
 
 In the Controlled Documents library, authors can find three tabs:
 
-.. image:: controlled-documents-library-new2.png
+.. image:: controlled-documents-library-new3.png
 
-"Drafts" is used when creating and editing drafts for new Controlled Documents or when updating an existing document for a new edition. Note that there are several options available for creating a new draft document, see below.
++ **Drafts** is used when creating and editing drafts for new Controlled Documents or when updating an existing document for a new edition. Note that there are several options available for creating a new draft document, see below.
 
-"Tasks" is a list of tasks for the documents – either for review or for publication – both active and finished.
++ **Tasks** is a list of tasks for the documents – either for review or for publication – both active and finished.
 
-When a document is published (approved for publication) it is removed from Drafts and is available on the "Published" tab. Here the options for creating a new draft, unpublishing and Document History are available, together with a number of additional options, see: :doc:`Working with Published documents </working-with-documents/authoring-controlled-documents/working-with-published-documents/index>`.
++ **Published** display all published document in this Controlled Documents library. When a document is published it is removed from Drafts and is available on this tab. Here the options for creating a new draft, unpublishing and Document History are available, together with a number of additional options, see: :doc:`Working with Published documents </working-with-documents/authoring-controlled-documents/working-with-published-documents/index>`.
 
 Most headings can be used to sort a list.
 
