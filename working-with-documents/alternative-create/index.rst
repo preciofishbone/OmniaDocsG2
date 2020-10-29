@@ -15,7 +15,7 @@ Here's an example where the wizard can be started by clicking an icon in the Act
 
 How to use the wizard to create a new Controlled Document is described on this page: :doc:`Using the Create New Document Wizard </working-with-documents/using-the-document-wizard/index>`
 
-When the document is created and saved in the right Controlled Documents library as a draft, the work on the document continues the same way as for any other draft document, as described here: :doc:`Working with drafts </working-with-documents/authoring-controlled-documents/working-with-drafts/index>`
+When the document is created and saved in the right Controlled Documents library, the work on the document continues the same way as for any other draft document, as described here: :doc:`Working with drafts </working-with-documents/authoring-controlled-documents/working-with-drafts/index>`
 
 Creating a new draft document from a Document Rollup
 ********************************************************************
