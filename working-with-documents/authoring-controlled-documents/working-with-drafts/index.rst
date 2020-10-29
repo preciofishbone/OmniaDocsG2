@@ -33,31 +33,31 @@ Do the following to upload a document:
 
 1. Click "Add" and select "Upload".
 
-.. image:: upload-document-1-new2.png
+.. image:: upload-document-1-new3.png
 
 2. Use drag and drop or click "Browse" to select one or more documents to upload.
 
-.. image:: upload-document-2-new2.png
+.. image:: upload-document-2-new3.png
 
-3. If you selected a document by mistake, just click the x to remove it from the list.
+3. If you selected a document by mistake, just point at the file name and click the x to remove it from the list.
 4. If you need to edit a file name, just click and enter a new one.
 5. Click "UPLOAD".
 
-.. image:: upload-document-3-new2.png
+.. image:: upload-document-3-new3.png
 
 Edit a document's properties
 *****************************
-You may need to edit a document's properties before publishing, if you uploaded a document, and if any of the properties needs to be changed for a draft. Note that a document's properties can't be changed for a published document. You always have to publish a new edition of a document to be able to change properties.
+You may need to edit a document's properties before publishing, if you uploaded a document, or if any of the properties needs to be changed for a draft. Note that a document's properties can't be changed for a published document. You always have to publish a new edition of a document to be able to change properties.
 
 Do the folllowing:
 
 1. Select the document and click "Properties".
 
-.. image:: edit-properties-1-new3.png
+.. image:: edit-properties-1-new4.png
 
 If this option is not shown you can open the dot menu for the document and select "Properties" there.
 
-If you are doing this for an uploaded document that is not connected to a template you can now select template.
+If you are doing this for an uploaded document that is not connected to a template you can now select template.  (This is not shown for a document that already has a template tied to it, see below).
 
 2. Select language if needed, to see the correct list of templates.
 
