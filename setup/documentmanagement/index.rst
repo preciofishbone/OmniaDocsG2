@@ -186,4 +186,17 @@ Now you will have to wait a few minutes before the controlled document has been 
 - RefinableDate14 > ows_q_DATE_ODMPublishedTo
 
 .. image:: search-refinabledates.png
+
+45. Go to Omnia Admin > Properties > Enterprise Properties.
+46. Edit and update the search configuration for the following enterprise properties.
+
+.. image:: property-approvedby.png
+.. image:: property-documentid.png
+.. image:: property-documentidnumber.png
+.. image:: property-documenttype.png
+.. image:: property-documenttypeid.png
+.. image:: property-edition.png
+.. image:: property-published.png
+.. image:: property-reviewdate.png
+
  
