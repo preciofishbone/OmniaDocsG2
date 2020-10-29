@@ -94,11 +94,13 @@
               <ul class="current">
 <li class="toctree-l1"><a class="reference internal" href="../../admin-settings/index.html">Admin Settings</a></li>
 <li class="toctree-l1 current"><a class="reference internal" href="../index.html">Blocks</a><ul class="current">
+<li class="toctree-l2"><a class="reference internal" href="../activity-feed/index.html">Activity Feed</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../button-link/index.html">Action Button</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../announcements/index.html">Announcements</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../banner/index.html">Banner</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../breadcrumb/index.html">Breadcrumb</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../calendar-rollup/index.html">Calendar Rollup</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../create-teamwork/index.html">Create Teamwork</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../current-navigation/index.html">Current Navigation</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../document-rollup/index.html">Document Rollup</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../general-block-settings/index.html">General Block Settings</a></li>
@@ -114,6 +116,7 @@
 <li class="toctree-l2"><a class="reference internal" href="../variation-selector/index.html">Page Variation Selector</a></li>
 <li class="toctree-l2 current"><a class="current reference internal" href="#">People Rollup</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../process-blocks/index.html">Process blocks</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../user-profile-completion/index.html">Profile Completion</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../quick-links/index.html">Quick Links</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../rating/index.html">Rating</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../related-links/index.html">Related Links</a></li>
@@ -123,7 +126,6 @@
 <li class="toctree-l2"><a class="reference internal" href="../team-collaboration-rollup/index.html">Teamwork Rollup</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../team-news-rollup/index.html">Team News Rollup</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../text/index.html">Text</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../user-profile-completion/index.html">User Profile Completion</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../working-with-blocks/index.html">Working with blocks</a></li>
 </ul>
 </li>
@@ -132,9 +134,9 @@
 <li class="toctree-l1"><a class="reference internal" href="../../working-with-documents/index.html">Working with Documents</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../working-with-processes/index.html">Working with Processes</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../using-communities/index.html">Using Communities</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../using-newsletters/index.html">Using Newsletters</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../user-options/index.html">User options</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../setup/index.html">Setup</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../../roadmap/index.html">In development</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../release-notes/index.html">Release Notes</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../guides/index.html">Guides</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../contribute-to-doc/index.html">Contribute to this Documentation</a></li>
@@ -212,110 +214,119 @@
 <li>List members or owners in a group site.</li>
 <li>Create a people directory.</li>
 </ul>
-<p>Here are two examples of the user interface. New Recruitments and People on the Move are different People Rollup blocks.</p>
-<img alt="../../_images/people-rollup-example.png" src="../../_images/people-rollup-example.png" />
+<p>Here are two examples of the user interface. New Recruitments and People on the Move are different People Rollup blocks. The view used here is Card.</p>
+<img alt="../../_images/people-rollup-example-new.png" src="../../_images/people-rollup-example-new.png" />
 <div class="section" id="settings">
 <h2>Settings<a class="headerlink" href="#settings" title="Permalink to this headline">¶</a></h2>
 <p>The following settings are available:</p>
-<img alt="../../_images/peoplerollup-settings-new2.png" src="../../_images/peoplerollup-settings-new2.png" />
+<img alt="../../_images/peoplerollup-settings-new3.png" src="../../_images/peoplerollup-settings-new3.png" />
 <div class="section" id="general">
 <h3>General<a class="headerlink" href="#general" title="Permalink to this headline">¶</a></h3>
 <p>Here you can add a Title to be displayed for the block:</p>
-<img alt="../../_images/peoplerollup-settings-general-new.png" src="../../_images/peoplerollup-settings-general-new.png" />
-<p>If no varition exists for the page, it looks like in the image above and you can set the title in the languages active in the tenant. If a varition exists, only one title can be set. In that case, titles in other languages are set in the variations.</p>
+<img alt="../../_images/peoplerollup-settings-general-new2.png" src="../../_images/peoplerollup-settings-general-new2.png" />
+<p>If variations exists for the page, it looks like in the image above and you set the title default language. Titles in other languages are set using the variations. If no varitions exists, you can add a title in any or all languages available in the tenant, in the block.</p>
 </div>
 <div class="section" id="display">
 <h3>Display<a class="headerlink" href="#display" title="Permalink to this headline">¶</a></h3>
 <p>You can set the type of view to be used for the list here:</p>
-<img alt="../../_images/peoplerollup-settings-display.png" src="../../_images/peoplerollup-settings-display.png" />
-<p>You can choose to display the list as a Card view or Roller view.</p>
-<p>In the image at the top of the page, Card view is used. See below for a Roller example.</p>
+<img alt="../../_images/peoplerollup-settings-display-new.png" src="../../_images/peoplerollup-settings-display-new.png" />
+<p>You can choose to display the list as a Card view or Roller view. In the image at the top of the page, Card view is used.</p>
 <p>The following settings are available for the views:</p>
 <ul class="simple">
 <li><strong>Add Column</strong>: This is not like columns in columns in a table. You should think: What information do I want to display about the people? You must always add at least one column or nothing will be shown!</li>
-<li>Adjust Columns**: Use this option the order in which the selected columns are shown.</li>
+<li><strong>Adjust Columns</strong>: Use this option the order in which the selected columns are shown.</li>
 <li><strong>Person Name</strong>: Select property to get the Person Name from.</li>
-<li><strong>Show Profile Image</strong>: Select this option to show the person’s image.</li>
-<li><strong>Slide Height</strong>: Set the height of the area to show the content in. Available for Roller view only.</li>
-<li><strong>Alignment Option</strong>: Set vertical alignment for the content. Available for Roller view only.</li>
-<li><strong>Justify Options</strong>: Set horizontal alignment for the content. Available for Roller view only.</li>
+<li><strong>Show Profile Image</strong>: Select this option to show the person’s profile image.</li>
+<li><strong>Open in Dialog</strong>: If you select this option, the person’s Delve page is opened in a dialog instead of in a window, when clicked.</li>
+<li><strong>Dialog Position</strong>: Here you can set the position for the dialog; Center, Left or Right.</li>
+<li><strong>Open in New tab</strong>: If you select this option, the person’s Delve page is opened in a new tab instead of in a window, when clicked.</li>
+<li><strong>Auto Cycle</strong>: Available for Roller. Select this option to make the roller auto cycle through availble persons.</li>
+<li><strong>Slide Height</strong>: Set the height of the area to show the content in. Available for Roller view.</li>
+<li><strong>Alignment Option</strong>: Set vertical alignment for the content. Available for Roller.</li>
+<li><strong>Justify Options</strong>: Set horizontal alignment for the content. Available for Roller view.</li>
 <li><strong>Show Achivements</strong>: This option is a preparation for functionality to come. Not used yet. Available for Card view only.</li>
 <li><strong>Max no of Columns</strong>: Set the maximum number of columns to be displayed.</li>
 <li><strong>Sort By</strong>: Select the property to sort the list by.</li>
+<li><strong>Style</strong>: Style (the field) - Here you can choose to display a Mail Icon that the users can click to send an email to a person. See below for an example.</li>
+<li><strong>Left Zone Width</strong>: Available for Roller. Set the width of the zone to the left of the person shown.</li>
+<li>** Right Zone Width**: Available for Roller. Set the width of the zone to the right of the person shown.</li>
 <li><strong>Paging</strong>: Select how paging should work; “No Paging”, “Classic” or “Scroll”. See below for examples. Scroll is note applicabale for Roller view.</li>
 <li><strong>Page Size</strong>: To limit the number of items being displayed per “page”, add a fixed number here. Works together with Paging.</li>
-<li><strong>Left Zone Width, Right Zone Width</strong>: Here you can set the width of the left and right zones manually, in pixels, if needed.</li>
+<li><strong>Padding</strong>: Use this option to add some padding between the list and the border of the block, if needed.</li>
 </ul>
-<p>Here’s an example of a  Roller view, with Slide Height 150, Alignment Center, Justify Center, No Paging and Item Limit 5.</p>
-<img alt="../../_images/roller-view.png" src="../../_images/roller-view.png" />
-<p>Here’s an example of a Card view with Classic paging (note the page icons at the bottom):</p>
-<img alt="../../_images/people-rollup-classic-view.png" src="../../_images/people-rollup-classic-view.png" />
 <p><strong>Important note on “No Paging”</strong>: If you choose “No paging” and set “Item Limit” to a specific number, that is the number of people that will be available in the list, regardless of how many that actually meets the search criteria.</p>
+<p>Here’s an example with a Card View displaying the Mail Icon (see top right if each card):</p>
+<img alt="../../_images/people-rollup-mail-icon.png" src="../../_images/people-rollup-mail-icon.png" />
 </div>
 <div class="section" id="query">
 <h3>Query<a class="headerlink" href="#query" title="Permalink to this headline">¶</a></h3>
 <p>Here you can work with the Query for what to display in the block.</p>
-<img alt="../../_images/peoplerollup-settings-query.png" src="../../_images/peoplerollup-settings-query.png" />
+<img alt="../../_images/peoplerollup-settings-query-new.png" src="../../_images/peoplerollup-settings-query-new.png" />
 <p>Follow these steps:</p>
 <ol class="arabic simple">
-<li>Select Query Type; “Profile Query”, “Sharepoint Groups”, “Activity Query” or “User Fields on Page”.</li>
+<li>Select Query Type; “Profile Query”, “Sharepoint Groups”, “User Fields on Page” or “Activity Query”.</li>
 <li>If you selected Activity Query, choose Activity period (also called Social Period in some other blocks). This sets how old the item can be to be displayed in the list. The default is “No limit”, but you c an also select One Week, Two Weeks or One Month.</li>
 <li>Select property for the query.</li>
 </ol>
-<img alt="../../_images/query-property-1.png" src="../../_images/query-property-1.png" />
-<img alt="../../_images/query-property-2.png" src="../../_images/query-property-2.png" />
+<img alt="../../_images/query-property-1-new.png" src="../../_images/query-property-1-new.png" />
 <ol class="arabic simple" start="4">
 <li>Set additional query parameters. Exactly what needs to be done depends on the property chosen.</li>
 </ol>
 <p>Here’s an example with parameters set for Department:</p>
-<img alt="../../_images/query-parameters.png" src="../../_images/query-parameters.png" />
+<img alt="../../_images/query-parameters-new.png" src="../../_images/query-parameters-new.png" />
 <ol class="arabic simple" start="5">
 <li>Type a parameter if neded (needed for Manual or Query Parameter).</li>
 </ol>
-<img alt="../../_images/query-type-parameter.png" src="../../_images/query-type-parameter.png" />
+<img alt="../../_images/query-type-parameter-new.png" src="../../_images/query-type-parameter-new.png" />
 <ol class="arabic simple" start="6">
 <li>Click “ADD” to add the query from your settings.</li>
 </ol>
-<img alt="../../_images/query-add.png" src="../../_images/query-add.png" />
+<img alt="../../_images/query-add-new.png" src="../../_images/query-add-new.png" />
 <p>It can result in something like this:</p>
-<img alt="../../_images/query-added.png" src="../../_images/query-added.png" />
+<img alt="../../_images/query-added-new.png" src="../../_images/query-added-new.png" />
 <p>Note that you can type the script directly in the field, if you know how. You can use all options in the Keyword Query Language (KQL). See this Microsoft page for reference: <a class="reference external" href="https://docs.microsoft.com/en-us/sharepoint/dev/general-development/keyword-query-language-kql-syntax-reference">https://docs.microsoft.com/en-us/sharepoint/dev/general-development/keyword-query-language-kql-syntax-reference</a></p>
-<p>You can also add additional parameters. by using the method explained above or typing directly in the field. Here’s an example when the script collects users from two departments:</p>
-<img alt="../../_images/query-more.png" src="../../_images/query-more.png" />
+<p>You can also add additional parameters, by using the method explained above or typing directly in the field. Here’s an example when the script collects users from two departments:</p>
+<img alt="../../_images/query-more-new.png" src="../../_images/query-more-new.png" />
+<ol class="arabic simple" start="7">
+<li>If partial word search should be executed in the query, select that option.</li>
+</ol>
 </div>
 <div class="section" id="filter">
 <h3>Filter<a class="headerlink" href="#filter" title="Permalink to this headline">¶</a></h3>
 <p>Use these settings to add filters for the users to use. An example could be if a People Rollup block displays all colleagues in different departments, you may want to display a filter for departments so user can display a list of only colleagues in a certain department.</p>
-<img alt="../../_images/peoplerollup-settings-filter-new2.png" src="../../_images/peoplerollup-settings-filter-new2.png" />
-<p>For more information on how to ass filters, or a search box, see this page: <a class="reference internal" href="../general-block-settings/filters/index.html"><span class="doc">Filter UI</span></a></p>
+<img alt="../../_images/peoplerollup-settings-filter-new3.png" src="../../_images/peoplerollup-settings-filter-new3.png" />
+<p>For more information on how to add filters, or a search box, see this page: <a class="reference internal" href="../general-block-settings/filters/index.html"><span class="doc">Filter UI</span></a></p>
 </div>
 <div class="section" id="refiner">
 <h3>Refiner<a class="headerlink" href="#refiner" title="Permalink to this headline">¶</a></h3>
 <p>Use these settings to add refiners.</p>
-<img alt="../../_images/peoplerollup-settings-refiner.png" src="../../_images/peoplerollup-settings-refiner.png" />
+<img alt="../../_images/peoplerollup-settings-refiner-new.png" src="../../_images/peoplerollup-settings-refiner-new.png" />
 <ul class="simple">
-<li><strong>Position</strong>: Decide where to put the refiners; top, left or right.</li>
+<li><strong>Position</strong>: Decide where to place the refiners; top, left or right.</li>
 </ul>
 <p>To add a refiner, do the following:</p>
 <ol class="arabic simple">
 <li>Set position for the refiner(s).</li>
 <li>Click “Add refiner”.</li>
 </ol>
-<img alt="../../_images/people-rollup-add-refiner.png" src="../../_images/people-rollup-add-refiner.png" />
+<img alt="../../_images/people-rollup-add-refiner-new.png" src="../../_images/people-rollup-add-refiner-new.png" />
 <ol class="arabic simple" start="3">
 <li>Open the list and select a property as refiner.</li>
 </ol>
-<img alt="../../_images/people-rollup-add-refiner-list.png" src="../../_images/people-rollup-add-refiner-list.png" />
+<img alt="../../_images/people-rollup-add-refiner-list-new.png" src="../../_images/people-rollup-add-refiner-list-new.png" />
 <ol class="arabic simple" start="4">
 <li>Select sorting and limit, if needed.</li>
+<li>Click Add refiner.</li>
 </ol>
-<img alt="../../_images/people-rollup-add-refiner-sort.png" src="../../_images/people-rollup-add-refiner-sort.png" />
-<ol class="arabic simple" start="5">
+<img alt="../../_images/people-rollup-add-refiner-sort-new.png" src="../../_images/people-rollup-add-refiner-sort-new.png" />
+<ol class="arabic simple" start="6">
 <li>Add eventual additional refiners the same way.</li>
 <li>If you have added more than one refiner, use “Adjust refiners” to decide the order.</li>
+<li>For additional settings, click Style.</li>
 </ol>
+<img alt="../../_images/people-rollup-style.png" src="../../_images/people-rollup-style.png" />
 <p>Here’s an example of a refiner present at the top. Users can choose to show colleagues from just one of the two departements:</p>
-<img alt="../../_images/people-rollup-example-refiners.png" src="../../_images/people-rollup-example-refiners.png" />
+<img alt="../../_images/people-rollup-example-refiners-new.png" src="../../_images/people-rollup-example-refiners-new.png" />
 </div>
 </div>
 <div class="section" id="layout-and-advanced">
@@ -347,7 +358,7 @@
   <div role="contentinfo">
     <p>
         &copy; Copyright 2020, Precio Fishbone.
-      Last updated on Oct 26, 2020.
+      Last updated on Oct 28, 2020.
 
     </p>
   </div>

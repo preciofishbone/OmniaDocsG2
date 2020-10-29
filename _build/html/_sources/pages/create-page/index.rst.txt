@@ -64,6 +64,11 @@ When the last Wizard step has been edited, something like the following is shown
 
 **Note!** A new page is never shown for users until it's published at least once.
 
+Page Style
+*************
+There's a number of style options available for a  page, see: :doc:`Page Style </pages/page-style/index>`
+
+
 
 
 

@@ -1,55 +1,61 @@
 Page Rollup
 ===========================================
 
-This block can be used for many purposes, for example to rollup new news, latest news and similar - and for much more regarding pages, not just for news.
+This block can be used for many purposes, for example to rollup new news, latest news and similar - and for much more regarding pages, not just for news. The Page Rollup is, for example, an important part of a Newsletter implementation.
 
 Settings
 *********
 These settings are available for the block:
 
-.. image:: page-rollup-settings-new2.png
+.. image:: page-rollup-settings-new3.png
 
 Query
 ------
 Here you can set the following:
 
-.. image:: page-rollup-settings-query.png
+.. image:: page-rollup-settings-query-new.png
 
-+ **Scope**: Select scope for the block; Publishing Apps or Page Collections. Then open the list below and select Publishing Apps/Page Collections. (Subscriptions is also available in the lists but is not active yet, it's a preparation for functionality to come.)
-+ **Exclude current page**: The default settings is to exclude the current page, but if you, for some reason, would like to include the current page, uncheck this option.
++ **Pick Pages**: If the editor should be able to pick pages from a list, select this option.
++ **Pick in Write Mode**: Available when Pick Pages is selected. Select this option if editors should be able to pick pages in Write mode. If not selected, Design mode has to be used.
++ **ADD PAGE**: When you have selected Pick Pages, you can pick some pages to always be shown. Click this option and use the Page Picker. See this page for more information: :doc:`Page Picker </general-assets/page-picker/index>`
++ **Use Query Builder**: If you want to use the query builder to set which pages should be available here, select this option.
++ **Scope**: When you have chosne to use the Query Builder, select scope for the block; Publishing Apps or Page Collections. Then open the list below and select Publishing Apps/Page Collections. 
++ **Exclude current page**: Available when you have chosen scope. The default settings is to exclude the current page, but if you, for some reason, would like to include the current page, uncheck this option.
 
 When you have selected "Publishing Apps" or "Page Collections" as Scope, use the list to add one or more:
 
-.. image:: page-rollup-query-list.png
+.. image:: page-rollup-query-list-new.png
 
 For every Publishing App or Page Collection you have selected, you can filter (meaning displaying just some of the pages) by expanding and selecting "Add filter".
 
-.. image:: page-rollup-query-addfilter.png
+.. image:: page-rollup-query-addfilter-new.png
 
 Here's an example of a filter that will display pages that have been updated (Modified) the last month:
 
-.. image:: page-rollup-query-filter-example.png
+.. image:: page-rollup-query-filter-example-new.png
 
 Social Period
 --------------
 Use these settings to decide for how long likes, comments, ratings and page feedback should be displayed here. The default setting is "No limit" but you can select one week, two weeks or one month instead.
 
-.. image:: page-rollup-settings-social-new.png
+.. image:: page-rollup-settings-social-new2.png
 
 Display
 ----------
 Select View here. Note that a preview is shown in the block.
 
-.. image:: page-rollup-settings-display-border.png
+.. image:: page-rollup-settings-display-new.png
 
 The following lists all available display settings (shown in different order for different displays).  
 
 + **Autoplay**: If the roller should roll automatically, select this option. Available for "Dynamic Roller" only.
++ **Cards per Row**: Available for Card only.
++ **Contact**: Select the property to be displayed as Contact. Available for Newsletter only.
 + **Content**: Select the property that contains the page content for the item to display. Available for dialog display only.
 + **Content Image**: Select image to display, if any. Available for dialog display only.
 + **Create button for page collection**: When you have selected "Show create button", this optipon is shown. Use it to select in which page collection the new page will be created.
 + **Date**: Select the property that contains the date for the item(s) to display.
-+ **Hide block when not data**: Select this option if the block should be hidden when there's nothing to display.
++ **Hide block when no data**: Select this option if the block should be hidden when there's nothing to display.
 + **Hide Read News**: If this list displays news, select this option to hide all news pages the logged in user has read.
 + **Image**: Select the property that contains the image for the item(s) to display.
 + **Image x and y**: Select the image format here. Available for "Single Item" only.
@@ -62,6 +68,8 @@ The following lists all available display settings (shown in different order for
 + **Open link in new tab**: If the link should be opened in a new tab (as opposed to in current window or dialog), select this option. Available only if "Show link" is selected.
 + **Open page as a dialog**: If the page should be opened in a dialog instead for in a page (new or current), select this option. 
 + **Overlay**: If an overlay text should be shown on the image(s), add the text here. Available for "Roller" only.
++ **Page Content Character Limit**: If the number of characters displayed for Page Content should be limited, add the number here. The Content is simply jus cut after that. Available for Newsletter only.
++ **Page Summary Character Limit**: If the number of characters displayed for Page Summary should be limited, add the number here. The Summary is simply jus cut after that. Available for Newsletter only.
 + **Paging**: Select paging here; "No paging", "Classic" or "Scroll".
 + **Show create button**: To make it possible for editors to create a new page from here, select this option to add a button to the block heading, and type the name for the button. 
 + **Show Likes/Comments**: If the number of likes and comments should be displayed for the item, select this option. 
@@ -78,25 +86,29 @@ The following lists all available display settings (shown in different order for
 
 + **Padding**: Add some padding between the list and the block border, if needed.
 
-**Note!** For "List View" you also have to add at least one column, for the display to work. Here's an example with two columns added:
+**Note!** For "List View" you also have to add at least one column, for the display to work. Here's an example with three columns added:
 
-.. image:: list-view-columns.png
+.. image:: list-view-columns-new2.png
 
 This could show the following:
 
-.. image:: list-view-example.png
+.. image:: list-view-example-new.png
 
-"2 months ago" etc is the "Social" setting for date. If you would like to show exact dates instead, select "Normal".
+"a month ago" etc is the "Social" setting for date. If you would like to show exact dates instead, select "Normal".
 
 "Show paging" in settings for "Dynamic Roller" makes these icons available for navigation:
 
-.. image:: show-paging-dynamic.png
+.. image:: show-paging-dynamic-new.png
+
+Here's a simple example of a Card view used for navigation purposes:
+
+.. image:: card-view-example-pages.png
 
 Filter
 -------
 If users should be able to filter the list and/or search here, use these options to add filters. 
 
-.. image:: page-rollup-filter.png
+.. image:: page-rollup-filter-new.png
 
 See this page for information on how to use these options: :doc:`Filter UI </blocks/general-block-settings/filters/index>`
 
@@ -104,7 +116,7 @@ Page Variations
 ----------------
 Using Page Variations you can select the following:
 
-.. image:: page-rollup-variations.png
+.. image:: page-rollup-variations-new.png
 
 + **User Variation**: Pages (including News) will be listed that correspond with the logged in users preferred setting for the variation, for example language setting, in the user's profile. If some pages does not have a variation that correspond with the user's setting, the default variation will be used.
 + **Default Variation**: The default variations are always used.
@@ -126,33 +138,38 @@ The purpose of a News Center is to display ALL published news for the users to r
 
 Here's an example of how the user interface can look:
 
-.. image:: page-rollup-example-news-center.png
+.. image:: page-rollup-example-news-center-new.png
 
 (The "Create News Article" button is shown only for those that has the permission to create News.)
 
 The Page Rollup can be set up the following way:
 
 + Query: Scope - Page Collections, News (the Page Collection with the name "News").
++ The option "Exclude current page" can be a good idea to have selected. 
++ The option "Enable partial word search" is also useful in this case.
 + Social Period: All default.
+
+.. image:: news-archive-example-1new.png
+
 + Display: Depends on how you want it to look. In the above example, these settings are used:
 
-.. image:: news-archive-example-1.png
+.. image:: news-archive-example-1new-display.png
 
 and these:
 
-.. image:: news-archive-example-2.png
+.. image:: news-archive-example-2new.png
 
 and finally, these:
 
-.. image:: news-archive-example-3.png
+.. image:: news-archive-example-3new.png
 
 Note the "Show create button" option, the label for that button and the option to set in which Page Collection these pages are created (in this case "News", the Page Collection selected under "Query").
 
 + Filters: A search box is always a good idea in a News Center. The users should most likely also be able to filter the list on one or more properties, for example:
 
-.. image:: news-archive-filters.png
+.. image:: news-archive-filters-new.png
 
-+ Page Variations: None. (If Page variions will be used, for example for different languages, it will be used on the pages. Or a separate News Center could be set up for News in other languages, or for any other purpose, for that matter.)
++ Page Variations: None. (If Page variations will be used, for example for different languages, it will be used on the pages. Or a separate News Center could be set up for News in other languages, or for any other purpose, for that matter.)
 
 Latest News
 -------------
@@ -160,20 +177,21 @@ The purpose of this Page Rollup is as it says - to display a number of the lates
 
 It can look like this for users:
 
-.. image:: page-rollup-latest-news-example.png
+.. image:: page-rollup-latest-news-example-new.png
 
 For this purpose the Page Rollup block can be set up like this:
 
 + Query: Scope - Page Collections, News.
 + The option "Exclude current page" can be a good idea to have selected. 
++ The option "Enable partial word search" is also useful in this case.
 + Social Period: All default.
 + Display: Depends on how you want it to look, of course. In the above example, these settings are used:
 
-.. image:: latest-news-example-1.png
+.. image:: latest-news-example-1new.png
 
 and these:
 
-.. image:: latest-news-example-2.png
+.. image:: latest-news-example-2new.png
 
 + Filters: none.
 + Page Variations: Default Variations.
@@ -193,11 +211,11 @@ For this purpose the Page Rollup block can be set up like this:
 + Social Period - Comment: If you don't want old comments to affect the list, select a social period.
 + Display: Depends on how you want it to look. In the above example, these settings are used:
 
-.. image:: most-commented-example-1.png
+.. image:: most-commented-example-1new.png
 
 and these:
 
-.. image:: most-commented-example-2.png
+.. image:: most-commented-example-2-new.png
 
 + Filters: none.
 + Page Variations: User variation.
@@ -217,20 +235,20 @@ For this purpose the Page Rollup block can be set up like this:
 + Social Period - Like: If you don't want old likes to affect the list, select a social period.
 + Display: Depends on how you want it to look. In the above example, these settings are used:
 
-.. image:: most-liked-example-1.png
+.. image:: most-liked-example-1new.png
 
 and these:
 
-.. image:: most-liked-example-2.png
+.. image:: most-liked-example-2new.png
 
 + Filters: none.
 + Page Variations: User variation.
 
 News - Dynamic Roller
 ------------------------
-When a Dynamic Roller display is used for news, it can look lik this:
+When a Dynamic Roller display is used for news, it can look like this:
 
-.. image:: dynamic-roller-example.png
+.. image:: dynamic-roller-example-new.png
 
 In this example the Page Rollup block is set up this way:
 
@@ -239,15 +257,17 @@ In this example the Page Rollup block is set up this way:
 + Social Period - Like: If you don't want old likes to affect the list, select a social period.
 + Display: Depends on how you want it to look. In the above example, these settings are used:
 
-.. image:: dynamic-roller-example-1.png
+.. image:: dynamic-roller-example-1new.png
 
 and these:
 
-.. image:: dynamic-roller-example-2.png
+.. image:: dynamic-roller-example-2new.png
 
 and, finally, these:
 
-.. image:: dynamic-roller-example-3.png
+.. image:: dynamic-roller-example-3new.png
+
+(Padding is set to 0, not shown in the image above.)
 
 + Filters: none.
 + Page Variations: User variation.

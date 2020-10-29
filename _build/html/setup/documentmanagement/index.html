@@ -99,12 +99,11 @@
 <li class="toctree-l1"><a class="reference internal" href="../../working-with-documents/index.html">Working with Documents</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../working-with-processes/index.html">Working with Processes</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../using-communities/index.html">Using Communities</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../using-newsletters/index.html">Using Newsletters</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../user-options/index.html">User options</a></li>
 <li class="toctree-l1 current"><a class="reference internal" href="../index.html">Setup</a><ul class="current">
 <li class="toctree-l2"><a class="reference internal" href="../basicsetup/index.html">Basic Setup</a></li>
-<li class="toctree-l2 current"><a class="current reference internal" href="#">Setup Document Management</a><ul class="simple">
-</ul>
-</li>
+<li class="toctree-l2 current"><a class="current reference internal" href="#">Setup Document Management</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../processmanagement/index.html">Setup Process Management</a></li>
 </ul>
 </li>
@@ -178,8 +177,186 @@
             
   <div class="section" id="setup-document-management">
 <h1>Setup Document Management<a class="headerlink" href="#setup-document-management" title="Permalink to this headline">¶</a></h1>
+<div class="admonition note">
+<p class="first admonition-title">Note</p>
+<p class="last">In order for Document Managemnet features to appear in the UI, the Document Management extension needs to be installed and the Controlled Documents feature needs to be activated. Please consult with your local partner.</p>
+</div>
 <p>Below you will find the steps needed in order to create a basic setup of Document Management.</p>
-<div class="toctree-wrapper compound">
+<div class="section" id="document-types">
+<h2>Document Types<a class="headerlink" href="#document-types" title="Permalink to this headline">¶</a></h2>
+<ol class="arabic simple">
+<li>Go to the SharePoint Admin Center.</li>
+<li>Click on Content Services &gt; Term store in the left-hand navigation.</li>
+<li>Make sure to add the Working Languages that you would like to support in the Document Management System. Note! This is a global setting. It will affect all services dependent on the term store.</li>
+</ol>
+<img alt="../../_images/termstore-workinglanguages.png" src="../../_images/termstore-workinglanguages.png" />
+<ol class="arabic simple" start="4">
+<li>Create a new term set for Document Types.</li>
+</ol>
+<img alt="../../_images/documenttypes.png" src="../../_images/documenttypes.png" />
+<ol class="arabic simple" start="5">
+<li>Go to Omnia Admin &gt; Properties &gt; Enterprise Properties.</li>
+<li>Find the property Document Type and click on the edit icon.</li>
+<li>Connect the property to the terms set Document Types and save.</li>
+</ol>
+<img alt="../../_images/documenttypes.png" src="../../_images/documenttypes.png" />
+<ol class="arabic simple" start="8">
+<li>Go to SharePoint Admin Center.</li>
+<li>Click on More features &gt; Search.</li>
+<li>Click on Manage Search Schema.</li>
+<li>Filter on “refinablestring50”.</li>
+</ol>
+</div>
+<div class="section" id="document-title">
+<h2>Document Title<a class="headerlink" href="#document-title" title="Permalink to this headline">¶</a></h2>
+<img alt="../../_images/refinablestring50.png" src="../../_images/refinablestring50.png" />
+<ol class="arabic simple" start="12">
+<li>Edit the managed property and map the following crawled properties.</li>
+</ol>
+<img alt="../../_images/refinablestring50mapping.png" src="../../_images/refinablestring50mapping.png" />
+<ol class="arabic simple" start="13">
+<li>Go to Omnia Admin &gt; Properties &gt; Enterprise Properties.</li>
+<li>Find the property Title and click on the edit icon.</li>
+<li>Check the SharePoint Searchable checkbox and use RefinableString50 as the default Managed Property and check all search boxes.</li>
+</ol>
+<img alt="../../_images/edittitle-refinablestring50.png" src="../../_images/edittitle-refinablestring50.png" />
+</div>
+<div class="section" id="document-archive">
+<h2>Document Archive<a class="headerlink" href="#document-archive" title="Permalink to this headline">¶</a></h2>
+<ol class="arabic simple" start="16">
+<li>Go to the Business Profile in which you want to host the central controlled documents archive.</li>
+<li>Go to Provisioning Template and create a new template that can be used for system sites.</li>
+</ol>
+<img alt="../../_images/provisioningtemplate-system.png" src="../../_images/provisioningtemplate-system.png" />
+<ol class="arabic simple" start="18">
+<li>Click on Teamwork in Omnia Admin and create a new site for the controlled documents archive based on the System Site template.</li>
+</ol>
+<img alt="../../_images/create-site.png" src="../../_images/create-site.png" />
+<ol class="arabic simple" start="19">
+<li>Activate the feature Archived Documents on the newly created site.</li>
+<li>Click on Document Management in Omnia Admin and click on Settings.</li>
+<li>Put in the full url to the newly created site in the Archive Site Url and save.</li>
+</ol>
+</div>
+<div class="section" id="document-authors">
+<h2>Document Authors<a class="headerlink" href="#document-authors" title="Permalink to this headline">¶</a></h2>
+<ol class="arabic simple" start="22">
+<li>Go to Omnia Admin &gt; Document Management &gt; Settings.</li>
+<li>Take a decision on how you want to define controlled documents authors within your solution:</li>
+</ol>
+<ul class="simple">
+<li>Document Authors Group: This will create an explicit SharePoint Group on the site that is used as the document authors group.</li>
+<li>Site Owners: You need to have the role of the site owner (or M365 Group owner) to be able to edit controlled documents.</li>
+<li>Site Owners and Members: You need to be at least a site member (or M365 Group member) to be able to edit controlled documents.</li>
+</ul>
+<ol class="arabic simple" start="24">
+<li>Check the Approvers Group checkbox if you want to allow sites to have a specific list that can be used to define a group of site specific approvers.</li>
+</ol>
+<img alt="../../_images/settings-provisioning-controlleddocs.png" src="../../_images/settings-provisioning-controlleddocs.png" />
+</div>
+<div class="section" id="basic-document-template">
+<h2>Basic Document Template<a class="headerlink" href="#basic-document-template" title="Permalink to this headline">¶</a></h2>
+<ol class="arabic simple" start="25">
+<li>Go to Omnia Admin &gt; Document Management &gt; Document Templates.</li>
+<li>Create a new Document Template for a blank Word document.</li>
+</ol>
+<img alt="../../_images/blank-word-document-template.png" src="../../_images/blank-word-document-template.png" />
+</div>
+<div class="section" id="basic-property-set">
+<h2>Basic Property Set<a class="headerlink" href="#basic-property-set" title="Permalink to this headline">¶</a></h2>
+<ol class="arabic simple" start="27">
+<li>Go to Omnia Admin &gt; Properties &gt; Enterprise Properties.</li>
+<li>Create a new person property for Document Owner.</li>
+</ol>
+<img alt="../../_images/add-property-documentowner.png" src="../../_images/add-property-documentowner.png" />
+<ol class="arabic simple" start="29">
+<li>Go to Omnia Admin &gt; Properties &gt; Property Sets.</li>
+<li>Create a new property set for a basic controlled document.</li>
+<li>Add the Document Owner property and make it required.</li>
+</ol>
+<img alt="../../_images/controlleddocument-propertyset.png" src="../../_images/controlleddocument-propertyset.png" />
+</div>
+<div class="section" id="basic-document-type">
+<h2>Basic Document Type<a class="headerlink" href="#basic-document-type" title="Permalink to this headline">¶</a></h2>
+<ol class="arabic simple" start="32">
+<li>Go to Omnia Admin &gt; Document Management &gt; Document Types.</li>
+<li>Create a first document type that can be used for templates in the system.</li>
+</ol>
+<img alt="../../_images/create-documenttype-general.png" src="../../_images/create-documenttype-general.png" />
+<img alt="../../_images/create-documenttype-publish.png" src="../../_images/create-documenttype-publish.png" />
+<img alt="../../_images/create-documenttype-review.png" src="../../_images/create-documenttype-review.png" />
+<img alt="../../_images/create-documenttype-archive.png" src="../../_images/create-documenttype-archive.png" />
+</div>
+<div class="section" id="first-team-site">
+<h2>First Team Site<a class="headerlink" href="#first-team-site" title="Permalink to this headline">¶</a></h2>
+<p>In order to create a first controlled document that can be indexed by SharePoint Search, we need to create a first site. If you already have existing team sites in your solution that are attached to Omnia, you can use one of those and activate the feature Controlled Documents Library on that site. In this example we will create a new provisioning template for Departments that will activate this feature by default.</p>
+<ol class="arabic simple" start="34">
+<li>Go to Omnia Admin and select your default business profile.</li>
+<li>Click on Provisioning Templates.</li>
+<li>Create a new provisioning template for departments.</li>
+</ol>
+<img alt="../../_images/add-provisioningtemplate-department-step1.png" src="../../_images/add-provisioningtemplate-department-step1.png" />
+<img alt="../../_images/add-provisioningtemplate-department-step2.png" src="../../_images/add-provisioningtemplate-department-step2.png" />
+<img alt="../../_images/add-provisioningtemplate-department-step3.png" src="../../_images/add-provisioningtemplate-department-step3.png" />
+<img alt="../../_images/add-provisioningtemplate-department-step4.png" src="../../_images/add-provisioningtemplate-department-step4.png" />
+<ol class="arabic simple" start="37">
+<li>Create a new site based on the provisioning template.</li>
+</ol>
+<img alt="../../_images/create-department-step1.png" src="../../_images/create-department-step1.png" />
+<img alt="../../_images/create-department-step2.png" src="../../_images/create-department-step2.png" />
+<ol class="arabic simple" start="38">
+<li>Go to the newly created site and click on Controlled Documents in the left-hand navigation</li>
+<li>Click on Permissions in the right-hand corner of the controlled documents library.</li>
+</ol>
+<img alt="../../_images/controlled-documents-permissions.png" src="../../_images/controlled-documents-permissions.png" />
+<ol class="arabic simple" start="40">
+<li>Add a default readers group (in this example Everyone except External Users).</li>
+</ol>
+<img alt="../../_images/controlled-documents-permissions2.png" src="../../_images/controlled-documents-permissions2.png" />
+</div>
+<div class="section" id="publish-a-controlled-document">
+<h2>Publish a Controlled Document<a class="headerlink" href="#publish-a-controlled-document" title="Permalink to this headline">¶</a></h2>
+<ol class="arabic simple" start="41">
+<li>Create and publish a new controlled document.</li>
+</ol>
+<img alt="../../_images/published-controlleddocument.png" src="../../_images/published-controlleddocument.png" />
+<ol class="arabic simple" start="42">
+<li>Create a draft and publish a new edition. (Note! We do this to be able to crawl a document in the archive as well).</li>
+</ol>
+</div>
+<div class="section" id="default-search-properties">
+<h2>Default Search Properties<a class="headerlink" href="#default-search-properties" title="Permalink to this headline">¶</a></h2>
+<p>Now you will have to wait a few minutes before the controlled document has been indexed by SharePoint Search.</p>
+<ol class="arabic simple" start="42">
+<li>Go to SharePoint admin center &gt; More features &gt; Search.</li>
+<li>Click on Managed Search Schema.</li>
+<li>Map the following Managed and Crawled Properties. (Note! This is just a recommendation and any refinable managed properties can be used.)</li>
+</ol>
+<ul class="simple">
+<li>RefinableString51 &gt; ows_ODMDocId</li>
+<li>RefinableString52 &gt; ows_ODMDocumentType</li>
+<li>RefinableString54 &gt; ows_ODMApprovedBy</li>
+<li>RefinableString55 &gt; ows_ODMContentLanguage</li>
+<li>RefinableString56 &gt; ows_SiteName</li>
+<li>RefinableString57 &gt; ows_SPSiteUrl</li>
+<li>RefinableString59 &gt; ows_q_USER_ODMApprovedBy</li>
+<li>RefinableString60 &gt; ows_taxid_ODMDocumentType</li>
+</ul>
+<img alt="../../_images/search-refinablestrings.png" src="../../_images/search-refinablestrings.png" />
+<ul class="simple">
+<li>RefinableInt30 &gt; ows_ODMDocIdNumber</li>
+<li>RefinableInt31 &gt; ows_ODMEdition</li>
+<li>RefinableInt32 &gt; ows_ODMDocumentTypeId</li>
+</ul>
+<img alt="../../_images/search-refinableints.png" src="../../_images/search-refinableints.png" />
+<ul class="simple">
+<li>RefinableDate10 &gt; ows_q_DATE_ODMPublished</li>
+<li>RefinableDate11 &gt; ows_q_DATE_ODMApproved</li>
+<li>RefinableDate12 &gt; ows_q_DATE_ODMReviewDate</li>
+<li>RefinableDate13 &gt; ows_q_DATE_ODMPublishedFrom</li>
+<li>RefinableDate14 &gt; ows_q_DATE_ODMPublishedTo</li>
+</ul>
+<img alt="../../_images/search-refinabledates.png" src="../../_images/search-refinabledates.png" />
 </div>
 </div>
 
