@@ -126,9 +126,9 @@
 <li class="toctree-l1"><a class="reference internal" href="../../../../working-with-documents/index.html">Working with Documents</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../../working-with-processes/index.html">Working with Processes</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../../using-communities/index.html">Using Communities</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../../using-newsletters/index.html">Using Newsletters</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../../user-options/index.html">User options</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../../setup/index.html">Setup</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../../../../roadmap/index.html">In development</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../../release-notes/index.html">Release Notes</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../../guides/index.html">Guides</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../../contribute-to-doc/index.html">Contribute to this Documentation</a></li>
@@ -269,8 +269,14 @@
 <div class="section" id="categories">
 <h4>Categories<a class="headerlink" href="#categories" title="Permalink to this headline">¶</a></h4>
 <p>You can edit categories this way:</p>
-<p>Click the dust bin to remove a category. Click the cog wheel to handle the detailed settings for a category. When editing settings for a category, the same settings are available as when creating a new category, see below.</p>
-<p>To add a new category, click ADD.</p>
+<ul class="simple">
+<li>Click the dust bin to remove a category.</li>
+<li>Click the cog wheel to handle the detailed settings for a category.</li>
+</ul>
+<p>When editing settings for a category, the same settings are available as when creating a new category, see below.</p>
+<ul class="simple">
+<li>To add a new category, click ADD.</li>
+</ul>
 <img alt="../../../../_images/teamwork-navigation-add.png" src="../../../../_images/teamwork-navigation-add.png" />
 <p>The following settings are available:</p>
 <img alt="../../../../_images/teamwork-navigation-add-settings.png" src="../../../../_images/teamwork-navigation-add-settings.png" />
@@ -326,12 +332,12 @@
 </div>
 <div class="section" id="app-launcher">
 <h2>App Launcher<a class="headerlink" href="#app-launcher" title="Permalink to this headline">¶</a></h2>
-<p>Omnia can replace the Office 365 App Launcher with the Onnia App Launcher, to make it fully configurable. Here you can edit settings for the Omnia App Launcher, for the Business Profile.</p>
-<img alt="../../../../_images/omnia-app-launcher.png" src="../../../../_images/omnia-app-launcher.png" />
+<p>You can create the feeling that when entering Omnia the user is still in Microsoft 365, by adding the Onnia App Launcher. The Omnia App Launcher is fully configurable. It’s placed in the same position as the App Launcher in Microsoft 365. Here you can edit the settings.</p>
+<img alt="../../../../_images/omnia-app-launcher-new.png" src="../../../../_images/omnia-app-launcher-new.png" />
 <p>The following settings are available:</p>
 <img alt="../../../../_images/app-launcher-settings-overview.png" src="../../../../_images/app-launcher-settings-overview.png" />
 <ul class="simple">
-<li><strong>Enable</strong>: The first step is to decide to use the Omnia App Launcher or not (which means using the default Office 365 App launcher).</li>
+<li><strong>Enable</strong>: The first step is to decide to use the Omnia App Launcher or not. If it’s not enabled, the space is simply empty.</li>
 </ul>
 <p>Note that there’s a feature available for the tenant to install default App Launcher links to make it really easy to get going with the Omnia App Launcher. For more information, see: <a class="reference internal" href="../../../tenant-settings/features/index.html"><span class="doc">Features - Tenant</span></a></p>
 <div class="section" id="app-launcher-button">
@@ -346,13 +352,13 @@
 <li><strong>Title</strong>: Set the title for the App Launcher in any or all availbale languages. This is shown as the Tool Tip for the button.</li>
 <li><strong>Sorted By</strong>: Open the list and decide how to sort the icons; Custom, Alphabetic or Last Visited. If you choose Custom, use the option “Custom” below for sorting.</li>
 <li><strong>View Template</strong>: The icons can be viewed in a number of ways; Simple List, App Icons, Navigation View or App launcher. See below for examples.</li>
-<li><strong>Include Non-mandatory links</strong>: (A description will be added soon.)</li>
-<li><strong>Use Targeting</strong>: (A description will be added soon.)</li>
-<li><strong>Include Personal Links</strong>: (A description will be added soon.)</li>
-<li><strong>Include Following Links</strong>: (A description will be added soon.)</li>
-<li><strong>Categories</strong>: (A description will be added soon.)</li>
-<li><strong>Item Limit</strong>: (A description will be added soon.)</li>
-<li><strong>Padding</strong>: Add some padding between the mwnu’s border and the icon list, if needed.</li>
+<li><strong>Include Non-mandatory links</strong>: Mandatory links are always displayed. Select this option if non-mandatory links, in the link categories selected, should be displayed as well.</li>
+<li><strong>Use Targeting</strong>: Targeting is set per link in the Shared Links sections, one available for the Tenant, and one available for the Business Profile. Here you can choose to use the links targeting setting or not. Default=not selected, meaning the targeting setting for the link is not used.</li>
+<li><strong>Include Personal Links</strong>: If the logged in user’s personal links, created using My Links, should be displayed in the App Launcher as well , select this option. Note that one or more categories that contain personal links will have to be selected below, for any personal links to show up.</li>
+<li><strong>Include Following Links</strong>: Users can follow links in My Links. If these links should be available in the App Launcher as well, select this option. Note that one or more categories that contain followed links will have to be selected below, for any followed links to show up.</li>
+<li><strong>Categories</strong>: Select one or more categories of links to display in the App Launcher. Each link is categorized when set up, either for the Tenant or for the Business Profile.</li>
+<li><strong>Item Limit</strong>: Set the number of links that should be displayed in the list, before “All Apps” or similar is shown.</li>
+<li><strong>Padding</strong>: Add some padding between the menu’s border and the list, if needed.</li>
 </ul>
 <p>In the following View Template examples, the sorting is Custom.</p>
 <p>Example of View Template Simple List:</p>
@@ -361,7 +367,7 @@
 <img alt="../../../../_images/app-launcher-settings-general-app-icons.png" src="../../../../_images/app-launcher-settings-general-app-icons.png" />
 <p>With the Template Navigation View it can look like this:</p>
 <img alt="../../../../_images/app-launcher-settings-general-navigation-view.png" src="../../../../_images/app-launcher-settings-general-navigation-view.png" />
-<p>The View Template App Launcher makes the list look like the Office 365 App launcher, for example:</p>
+<p>The View Template App Launcher makes the list look like the Microsoft 365 App launcher, for example:</p>
 <img alt="../../../../_images/app-launcher-settings-general-app-launcher.png" src="../../../../_images/app-launcher-settings-general-app-launcher.png" />
 </div>
 <div class="section" id="custom-colors">
@@ -400,7 +406,7 @@
   <div role="contentinfo">
     <p>
         &copy; Copyright 2020, Precio Fishbone.
-      Last updated on Oct 26, 2020.
+      Last updated on Oct 28, 2020.
 
     </p>
   </div>

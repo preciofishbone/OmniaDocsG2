@@ -94,11 +94,13 @@
               <ul class="current">
 <li class="toctree-l1"><a class="reference internal" href="../../../admin-settings/index.html">Admin Settings</a></li>
 <li class="toctree-l1 current"><a class="reference internal" href="../../index.html">Blocks</a><ul class="current">
+<li class="toctree-l2"><a class="reference internal" href="../../activity-feed/index.html">Activity Feed</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../../button-link/index.html">Action Button</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../../announcements/index.html">Announcements</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../../banner/index.html">Banner</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../../breadcrumb/index.html">Breadcrumb</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../../calendar-rollup/index.html">Calendar Rollup</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../create-teamwork/index.html">Create Teamwork</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../../current-navigation/index.html">Current Navigation</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../../document-rollup/index.html">Document Rollup</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../../general-block-settings/index.html">General Block Settings</a></li>
@@ -127,6 +129,7 @@
 <li class="toctree-l3"><a class="reference internal" href="../process-title/index.html">Process Title block</a></li>
 </ul>
 </li>
+<li class="toctree-l2"><a class="reference internal" href="../../user-profile-completion/index.html">Profile Completion</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../../quick-links/index.html">Quick Links</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../../rating/index.html">Rating</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../../related-links/index.html">Related Links</a></li>
@@ -136,7 +139,6 @@
 <li class="toctree-l2"><a class="reference internal" href="../../team-collaboration-rollup/index.html">Teamwork Rollup</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../../team-news-rollup/index.html">Team News Rollup</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../../text/index.html">Text</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../../user-profile-completion/index.html">User Profile Completion</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../../working-with-blocks/index.html">Working with blocks</a></li>
 </ul>
 </li>
@@ -145,9 +147,9 @@
 <li class="toctree-l1"><a class="reference internal" href="../../../working-with-documents/index.html">Working with Documents</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../working-with-processes/index.html">Working with Processes</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../using-communities/index.html">Using Communities</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../using-newsletters/index.html">Using Newsletters</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../user-options/index.html">User options</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../setup/index.html">Setup</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../../../roadmap/index.html">In development</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../release-notes/index.html">Release Notes</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../guides/index.html">Guides</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../contribute-to-doc/index.html">Contribute to this Documentation</a></li>
@@ -234,7 +236,7 @@
 <ul class="simple">
 <li><strong>Add Column</strong>: Add the columns for the information to be shown on the list. Add at least one column must be added or nothing will be shown.</li>
 <li><strong>Adjust Columns</strong>: (Displayed when you are adding columns.) Use this option for the order in which the selected columns are shown, left to right.</li>
-<li><strong>Title</strong>: You can add a title for the list in any or all availble languages.</li>
+<li><strong>Title</strong>: If variatons exists for the page, it looks like in the image above and then you can only set the title in the default language. Titles in other languages are set in the variations. If no variations exists, you can add a title for the list in any or all available languages.</li>
 <li><strong>View Page Url</strong>: If you have created a page that will be used to display any process when a user clicks on it, add the Url to the page here. Note that you don’t have to create a page for this purpose. If you don’t, a system page will be used.</li>
 <li><strong>Open in a new window</strong>: Select this option if the clicked process should be opened in a new window.</li>
 <li><strong>Paging</strong>: Select how paging should work; “No Paging”, “Classic” or “Scroll”.</li>
@@ -244,12 +246,15 @@
 <li><strong>Padding</strong>: Add some padding if nedded.</li>
 </ul>
 </div>
-<div class="section" id="id1">
-<h3>Display<a class="headerlink" href="#id1" title="Permalink to this headline">¶</a></h3>
+<div class="section" id="query">
+<h3>Query<a class="headerlink" href="#query" title="Permalink to this headline">¶</a></h3>
 <p>Select to display published processes or archived processes.</p>
-<img alt="../../../_images/process-rollup-block-settings-query.png" src="../../../_images/process-rollup-block-settings-query.png" />
+<img alt="../../../_images/process-rollup-block-settings-query-new.png" src="../../../_images/process-rollup-block-settings-query-new.png" />
 <p>If all published or archived processes should be available in the list, that’s it, you don’t need to actually add a query.</p>
 <p>If just some of the processes should be displayed, add a query the same way as in other similar Rollup blocks.</p>
+<ul class="simple">
+<li><strong>Enable partial word search</strong>: If this option is enabled, the query searches for parts of words as well as for whole words. If not enable, only for whole words.</li>
+</ul>
 </div>
 <div class="section" id="filter">
 <h3>Filter<a class="headerlink" href="#filter" title="Permalink to this headline">¶</a></h3>
@@ -287,7 +292,7 @@
   <div role="contentinfo">
     <p>
         &copy; Copyright 2020, Precio Fishbone.
-      Last updated on Oct 26, 2020.
+      Last updated on Oct 28, 2020.
 
     </p>
   </div>

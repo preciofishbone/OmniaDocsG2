@@ -14,7 +14,7 @@ Note that every Business Profile has it's own Permissions list. A Tenant Adminis
 
 To add an administrator, add the name the same way as in other name fields. To delete an administrator here, just click the x. 
 
-Note that external users that has been invited in the Asher AD can be added here as well. Users invited this way can log in with their own Office 365 account.
+Note that external users that has been invited in the Asher AD can be added here as well. Users invited this way can log in with their own Microsoft 365 account.
 
 Secrets
 ********

@@ -94,11 +94,13 @@
               <ul class="current">
 <li class="toctree-l1"><a class="reference internal" href="../../admin-settings/index.html">Admin Settings</a></li>
 <li class="toctree-l1 current"><a class="reference internal" href="../index.html">Blocks</a><ul class="current">
+<li class="toctree-l2"><a class="reference internal" href="../activity-feed/index.html">Activity Feed</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../button-link/index.html">Action Button</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../announcements/index.html">Announcements</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../banner/index.html">Banner</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../breadcrumb/index.html">Breadcrumb</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../calendar-rollup/index.html">Calendar Rollup</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../create-teamwork/index.html">Create Teamwork</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../current-navigation/index.html">Current Navigation</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../document-rollup/index.html">Document Rollup</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../general-block-settings/index.html">General Block Settings</a></li>
@@ -114,6 +116,7 @@
 <li class="toctree-l2"><a class="reference internal" href="../variation-selector/index.html">Page Variation Selector</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../people-rollup/index.html">People Rollup</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../process-blocks/index.html">Process blocks</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../user-profile-completion/index.html">Profile Completion</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../quick-links/index.html">Quick Links</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../rating/index.html">Rating</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../related-links/index.html">Related Links</a></li>
@@ -123,7 +126,6 @@
 <li class="toctree-l2"><a class="reference internal" href="../team-collaboration-rollup/index.html">Teamwork Rollup</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../team-news-rollup/index.html">Team News Rollup</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../text/index.html">Text</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../user-profile-completion/index.html">User Profile Completion</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../working-with-blocks/index.html">Working with blocks</a></li>
 </ul>
 </li>
@@ -132,9 +134,9 @@
 <li class="toctree-l1"><a class="reference internal" href="../../working-with-documents/index.html">Working with Documents</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../working-with-processes/index.html">Working with Processes</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../using-communities/index.html">Using Communities</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../using-newsletters/index.html">Using Newsletters</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../user-options/index.html">User options</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../setup/index.html">Setup</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../../roadmap/index.html">In development</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../release-notes/index.html">Release Notes</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../guides/index.html">Guides</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../contribute-to-doc/index.html">Contribute to this Documentation</a></li>
@@ -205,43 +207,49 @@
             
   <div class="section" id="page-rollup">
 <h1>Page Rollup<a class="headerlink" href="#page-rollup" title="Permalink to this headline">¶</a></h1>
-<p>This block can be used for many purposes, for example to rollup new news, latest news and similar - and for much more regarding pages, not just for news.</p>
+<p>This block can be used for many purposes, for example to rollup new news, latest news and similar - and for much more regarding pages, not just for news. The Page Rollup is, for example, an important part of a Newsletter implementation.</p>
 <div class="section" id="settings">
 <h2>Settings<a class="headerlink" href="#settings" title="Permalink to this headline">¶</a></h2>
 <p>These settings are available for the block:</p>
-<img alt="../../_images/page-rollup-settings-new2.png" src="../../_images/page-rollup-settings-new2.png" />
+<img alt="../../_images/page-rollup-settings-new3.png" src="../../_images/page-rollup-settings-new3.png" />
 <div class="section" id="query">
 <h3>Query<a class="headerlink" href="#query" title="Permalink to this headline">¶</a></h3>
 <p>Here you can set the following:</p>
-<img alt="../../_images/page-rollup-settings-query.png" src="../../_images/page-rollup-settings-query.png" />
+<img alt="../../_images/page-rollup-settings-query-new.png" src="../../_images/page-rollup-settings-query-new.png" />
 <ul class="simple">
-<li><strong>Scope</strong>: Select scope for the block; Publishing Apps or Page Collections. Then open the list below and select Publishing Apps/Page Collections. (Subscriptions is also available in the lists but is not active yet, it’s a preparation for functionality to come.)</li>
-<li><strong>Exclude current page</strong>: The default settings is to exclude the current page, but if you, for some reason, would like to include the current page, uncheck this option.</li>
+<li><strong>Pick Pages</strong>: If the editor should be able to pick pages from a list, select this option.</li>
+<li><strong>Pick in Write Mode</strong>: Available when Pick Pages is selected. Select this option if editors should be able to pick pages in Write mode. If not selected, Design mode has to be used.</li>
+<li><strong>ADD PAGE</strong>: When you have selected Pick Pages, you can pick some pages to always be shown. Click this option and use the Page Picker. See this page for more information: <a class="reference internal" href="../../general-assets/page-picker/index.html"><span class="doc">Page Picker</span></a></li>
+<li><strong>Use Query Builder</strong>: If you want to use the query builder to set which pages should be available here, select this option.</li>
+<li><strong>Scope</strong>: When you have chosne to use the Query Builder, select scope for the block; Publishing Apps or Page Collections. Then open the list below and select Publishing Apps/Page Collections.</li>
+<li><strong>Exclude current page</strong>: Available when you have chosen scope. The default settings is to exclude the current page, but if you, for some reason, would like to include the current page, uncheck this option.</li>
 </ul>
 <p>When you have selected “Publishing Apps” or “Page Collections” as Scope, use the list to add one or more:</p>
-<img alt="../../_images/page-rollup-query-list.png" src="../../_images/page-rollup-query-list.png" />
+<img alt="../../_images/page-rollup-query-list-new.png" src="../../_images/page-rollup-query-list-new.png" />
 <p>For every Publishing App or Page Collection you have selected, you can filter (meaning displaying just some of the pages) by expanding and selecting “Add filter”.</p>
-<img alt="../../_images/page-rollup-query-addfilter.png" src="../../_images/page-rollup-query-addfilter.png" />
+<img alt="../../_images/page-rollup-query-addfilter-new.png" src="../../_images/page-rollup-query-addfilter-new.png" />
 <p>Here’s an example of a filter that will display pages that have been updated (Modified) the last month:</p>
-<img alt="../../_images/page-rollup-query-filter-example.png" src="../../_images/page-rollup-query-filter-example.png" />
+<img alt="../../_images/page-rollup-query-filter-example-new.png" src="../../_images/page-rollup-query-filter-example-new.png" />
 </div>
 <div class="section" id="social-period">
 <h3>Social Period<a class="headerlink" href="#social-period" title="Permalink to this headline">¶</a></h3>
 <p>Use these settings to decide for how long likes, comments, ratings and page feedback should be displayed here. The default setting is “No limit” but you can select one week, two weeks or one month instead.</p>
-<img alt="../../_images/page-rollup-settings-social-new.png" src="../../_images/page-rollup-settings-social-new.png" />
+<img alt="../../_images/page-rollup-settings-social-new2.png" src="../../_images/page-rollup-settings-social-new2.png" />
 </div>
 <div class="section" id="display">
 <h3>Display<a class="headerlink" href="#display" title="Permalink to this headline">¶</a></h3>
 <p>Select View here. Note that a preview is shown in the block.</p>
-<img alt="../../_images/page-rollup-settings-display-border.png" src="../../_images/page-rollup-settings-display-border.png" />
+<img alt="../../_images/page-rollup-settings-display-new.png" src="../../_images/page-rollup-settings-display-new.png" />
 <p>The following lists all available display settings (shown in different order for different displays).</p>
 <ul class="simple">
 <li><strong>Autoplay</strong>: If the roller should roll automatically, select this option. Available for “Dynamic Roller” only.</li>
+<li><strong>Cards per Row</strong>: Available for Card only.</li>
+<li><strong>Contact</strong>: Select the property to be displayed as Contact. Available for Newsletter only.</li>
 <li><strong>Content</strong>: Select the property that contains the page content for the item to display. Available for dialog display only.</li>
 <li><strong>Content Image</strong>: Select image to display, if any. Available for dialog display only.</li>
 <li><strong>Create button for page collection</strong>: When you have selected “Show create button”, this optipon is shown. Use it to select in which page collection the new page will be created.</li>
 <li><strong>Date</strong>: Select the property that contains the date for the item(s) to display.</li>
-<li><strong>Hide block when not data</strong>: Select this option if the block should be hidden when there’s nothing to display.</li>
+<li><strong>Hide block when no data</strong>: Select this option if the block should be hidden when there’s nothing to display.</li>
 <li><strong>Hide Read News</strong>: If this list displays news, select this option to hide all news pages the logged in user has read.</li>
 <li><strong>Image</strong>: Select the property that contains the image for the item(s) to display.</li>
 <li><strong>Image x and y</strong>: Select the image format here. Available for “Single Item” only.</li>
@@ -254,6 +262,8 @@
 <li><strong>Open link in new tab</strong>: If the link should be opened in a new tab (as opposed to in current window or dialog), select this option. Available only if “Show link” is selected.</li>
 <li><strong>Open page as a dialog</strong>: If the page should be opened in a dialog instead for in a page (new or current), select this option.</li>
 <li><strong>Overlay</strong>: If an overlay text should be shown on the image(s), add the text here. Available for “Roller” only.</li>
+<li><strong>Page Content Character Limit</strong>: If the number of characters displayed for Page Content should be limited, add the number here. The Content is simply jus cut after that. Available for Newsletter only.</li>
+<li><strong>Page Summary Character Limit</strong>: If the number of characters displayed for Page Summary should be limited, add the number here. The Summary is simply jus cut after that. Available for Newsletter only.</li>
 <li><strong>Paging</strong>: Select paging here; “No paging”, “Classic” or “Scroll”.</li>
 <li><strong>Show create button</strong>: To make it possible for editors to create a new page from here, select this option to add a button to the block heading, and type the name for the button.</li>
 <li><strong>Show Likes/Comments</strong>: If the number of likes and comments should be displayed for the item, select this option.</li>
@@ -269,24 +279,26 @@
 <li><strong>Trim duplicates</strong>: If more than one Page Rollup block is added to a page, this option can be used to handle duplicates between the blocks. When the option is selected, you can enter a number indicating the priority for duplicates, for this block. If you set “1” for a block it means this block has priority showing a post that would have been a duplicate.</li>
 <li><strong>Padding</strong>: Add some padding between the list and the block border, if needed.</li>
 </ul>
-<p><strong>Note!</strong> For “List View” you also have to add at least one column, for the display to work. Here’s an example with two columns added:</p>
-<img alt="../../_images/list-view-columns.png" src="../../_images/list-view-columns.png" />
+<p><strong>Note!</strong> For “List View” you also have to add at least one column, for the display to work. Here’s an example with three columns added:</p>
+<img alt="../../_images/list-view-columns-new2.png" src="../../_images/list-view-columns-new2.png" />
 <p>This could show the following:</p>
-<img alt="../../_images/list-view-example.png" src="../../_images/list-view-example.png" />
-<p>“2 months ago” etc is the “Social” setting for date. If you would like to show exact dates instead, select “Normal”.</p>
+<img alt="../../_images/list-view-example-new.png" src="../../_images/list-view-example-new.png" />
+<p>“a month ago” etc is the “Social” setting for date. If you would like to show exact dates instead, select “Normal”.</p>
 <p>“Show paging” in settings for “Dynamic Roller” makes these icons available for navigation:</p>
-<img alt="../../_images/show-paging-dynamic.png" src="../../_images/show-paging-dynamic.png" />
+<img alt="../../_images/show-paging-dynamic-new.png" src="../../_images/show-paging-dynamic-new.png" />
+<p>Here’s a simple example of a Card view used for navigation purposes:</p>
+<img alt="../../_images/card-view-example-pages.png" src="../../_images/card-view-example-pages.png" />
 </div>
 <div class="section" id="filter">
 <h3>Filter<a class="headerlink" href="#filter" title="Permalink to this headline">¶</a></h3>
 <p>If users should be able to filter the list and/or search here, use these options to add filters.</p>
-<img alt="../../_images/page-rollup-filter.png" src="../../_images/page-rollup-filter.png" />
+<img alt="../../_images/page-rollup-filter-new.png" src="../../_images/page-rollup-filter-new.png" />
 <p>See this page for information on how to use these options: <a class="reference internal" href="../general-block-settings/filters/index.html"><span class="doc">Filter UI</span></a></p>
 </div>
 <div class="section" id="page-variations">
 <h3>Page Variations<a class="headerlink" href="#page-variations" title="Permalink to this headline">¶</a></h3>
 <p>Using Page Variations you can select the following:</p>
-<img alt="../../_images/page-rollup-variations.png" src="../../_images/page-rollup-variations.png" />
+<img alt="../../_images/page-rollup-variations-new.png" src="../../_images/page-rollup-variations-new.png" />
 <ul class="simple">
 <li><strong>User Variation</strong>: Pages (including News) will be listed that correspond with the logged in users preferred setting for the variation, for example language setting, in the user’s profile. If some pages does not have a variation that correspond with the user’s setting, the default variation will be used.</li>
 <li><strong>Default Variation</strong>: The default variations are always used.</li>
@@ -306,43 +318,49 @@
 <h3>News Archive/News Center<a class="headerlink" href="#news-archive-news-center" title="Permalink to this headline">¶</a></h3>
 <p>The purpose of a News Center is to display ALL published news for the users to read. Normally a News Editor can create and edit news artcicles from there.</p>
 <p>Here’s an example of how the user interface can look:</p>
-<img alt="../../_images/page-rollup-example-news-center.png" src="../../_images/page-rollup-example-news-center.png" />
+<img alt="../../_images/page-rollup-example-news-center-new.png" src="../../_images/page-rollup-example-news-center-new.png" />
 <p>(The “Create News Article” button is shown only for those that has the permission to create News.)</p>
 <p>The Page Rollup can be set up the following way:</p>
 <ul class="simple">
 <li>Query: Scope - Page Collections, News (the Page Collection with the name “News”).</li>
+<li>The option “Exclude current page” can be a good idea to have selected.</li>
+<li>The option “Enable partial word search” is also useful in this case.</li>
 <li>Social Period: All default.</li>
+</ul>
+<img alt="../../_images/news-archive-example-1new.png" src="../../_images/news-archive-example-1new.png" />
+<ul class="simple">
 <li>Display: Depends on how you want it to look. In the above example, these settings are used:</li>
 </ul>
-<img alt="../../_images/news-archive-example-1.png" src="../../_images/news-archive-example-1.png" />
+<img alt="../../_images/news-archive-example-1new-display.png" src="../../_images/news-archive-example-1new-display.png" />
 <p>and these:</p>
-<img alt="../../_images/news-archive-example-2.png" src="../../_images/news-archive-example-2.png" />
+<img alt="../../_images/news-archive-example-2new.png" src="../../_images/news-archive-example-2new.png" />
 <p>and finally, these:</p>
-<img alt="../../_images/news-archive-example-3.png" src="../../_images/news-archive-example-3.png" />
+<img alt="../../_images/news-archive-example-3new.png" src="../../_images/news-archive-example-3new.png" />
 <p>Note the “Show create button” option, the label for that button and the option to set in which Page Collection these pages are created (in this case “News”, the Page Collection selected under “Query”).</p>
 <ul class="simple">
 <li>Filters: A search box is always a good idea in a News Center. The users should most likely also be able to filter the list on one or more properties, for example:</li>
 </ul>
-<img alt="../../_images/news-archive-filters.png" src="../../_images/news-archive-filters.png" />
+<img alt="../../_images/news-archive-filters-new.png" src="../../_images/news-archive-filters-new.png" />
 <ul class="simple">
-<li>Page Variations: None. (If Page variions will be used, for example for different languages, it will be used on the pages. Or a separate News Center could be set up for News in other languages, or for any other purpose, for that matter.)</li>
+<li>Page Variations: None. (If Page variations will be used, for example for different languages, it will be used on the pages. Or a separate News Center could be set up for News in other languages, or for any other purpose, for that matter.)</li>
 </ul>
 </div>
 <div class="section" id="latest-news">
 <h3>Latest News<a class="headerlink" href="#latest-news" title="Permalink to this headline">¶</a></h3>
 <p>The purpose of this Page Rollup is as it says - to display a number of the latest News.</p>
 <p>It can look like this for users:</p>
-<img alt="../../_images/page-rollup-latest-news-example.png" src="../../_images/page-rollup-latest-news-example.png" />
+<img alt="../../_images/page-rollup-latest-news-example-new.png" src="../../_images/page-rollup-latest-news-example-new.png" />
 <p>For this purpose the Page Rollup block can be set up like this:</p>
 <ul class="simple">
 <li>Query: Scope - Page Collections, News.</li>
 <li>The option “Exclude current page” can be a good idea to have selected.</li>
+<li>The option “Enable partial word search” is also useful in this case.</li>
 <li>Social Period: All default.</li>
 <li>Display: Depends on how you want it to look, of course. In the above example, these settings are used:</li>
 </ul>
-<img alt="../../_images/latest-news-example-1.png" src="../../_images/latest-news-example-1.png" />
+<img alt="../../_images/latest-news-example-1new.png" src="../../_images/latest-news-example-1new.png" />
 <p>and these:</p>
-<img alt="../../_images/latest-news-example-2.png" src="../../_images/latest-news-example-2.png" />
+<img alt="../../_images/latest-news-example-2new.png" src="../../_images/latest-news-example-2new.png" />
 <ul class="simple">
 <li>Filters: none.</li>
 <li>Page Variations: Default Variations.</li>
@@ -360,9 +378,9 @@
 <li>Social Period - Comment: If you don’t want old comments to affect the list, select a social period.</li>
 <li>Display: Depends on how you want it to look. In the above example, these settings are used:</li>
 </ul>
-<img alt="../../_images/most-commented-example-1.png" src="../../_images/most-commented-example-1.png" />
+<img alt="../../_images/most-commented-example-1new.png" src="../../_images/most-commented-example-1new.png" />
 <p>and these:</p>
-<img alt="../../_images/most-commented-example-2.png" src="../../_images/most-commented-example-2.png" />
+<img alt="../../_images/most-commented-example-2-new.png" src="../../_images/most-commented-example-2-new.png" />
 <ul class="simple">
 <li>Filters: none.</li>
 <li>Page Variations: User variation.</li>
@@ -380,9 +398,9 @@
 <li>Social Period - Like: If you don’t want old likes to affect the list, select a social period.</li>
 <li>Display: Depends on how you want it to look. In the above example, these settings are used:</li>
 </ul>
-<img alt="../../_images/most-liked-example-1.png" src="../../_images/most-liked-example-1.png" />
+<img alt="../../_images/most-liked-example-1new.png" src="../../_images/most-liked-example-1new.png" />
 <p>and these:</p>
-<img alt="../../_images/most-liked-example-2.png" src="../../_images/most-liked-example-2.png" />
+<img alt="../../_images/most-liked-example-2new.png" src="../../_images/most-liked-example-2new.png" />
 <ul class="simple">
 <li>Filters: none.</li>
 <li>Page Variations: User variation.</li>
@@ -390,8 +408,8 @@
 </div>
 <div class="section" id="news-dynamic-roller">
 <h3>News - Dynamic Roller<a class="headerlink" href="#news-dynamic-roller" title="Permalink to this headline">¶</a></h3>
-<p>When a Dynamic Roller display is used for news, it can look lik this:</p>
-<img alt="../../_images/dynamic-roller-example.png" src="../../_images/dynamic-roller-example.png" />
+<p>When a Dynamic Roller display is used for news, it can look like this:</p>
+<img alt="../../_images/dynamic-roller-example-new.png" src="../../_images/dynamic-roller-example-new.png" />
 <p>In this example the Page Rollup block is set up this way:</p>
 <ul class="simple">
 <li>Query: Scope - Page Collections, News.</li>
@@ -399,11 +417,12 @@
 <li>Social Period - Like: If you don’t want old likes to affect the list, select a social period.</li>
 <li>Display: Depends on how you want it to look. In the above example, these settings are used:</li>
 </ul>
-<img alt="../../_images/dynamic-roller-example-1.png" src="../../_images/dynamic-roller-example-1.png" />
+<img alt="../../_images/dynamic-roller-example-1new.png" src="../../_images/dynamic-roller-example-1new.png" />
 <p>and these:</p>
-<img alt="../../_images/dynamic-roller-example-2.png" src="../../_images/dynamic-roller-example-2.png" />
+<img alt="../../_images/dynamic-roller-example-2new.png" src="../../_images/dynamic-roller-example-2new.png" />
 <p>and, finally, these:</p>
-<img alt="../../_images/dynamic-roller-example-3.png" src="../../_images/dynamic-roller-example-3.png" />
+<img alt="../../_images/dynamic-roller-example-3new.png" src="../../_images/dynamic-roller-example-3new.png" />
+<p>(Padding is set to 0, not shown in the image above.)</p>
 <ul class="simple">
 <li>Filters: none.</li>
 <li>Page Variations: User variation.</li>
@@ -435,7 +454,7 @@
   <div role="contentinfo">
     <p>
         &copy; Copyright 2020, Precio Fishbone.
-      Last updated on Oct 26, 2020.
+      Last updated on Oct 28, 2020.
 
     </p>
   </div>

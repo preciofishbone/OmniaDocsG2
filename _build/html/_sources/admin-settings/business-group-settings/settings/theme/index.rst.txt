@@ -1,9 +1,9 @@
 Theme for the Business Profile
 =================================
 
-Use these options to set Default Colors for the Business Profile. When working with a Block, an editor can often select other Colors, but if no other Color is chosen for the Block, these settings apply.
+Here you can set colors for the available themes. 
 
-.. image:: business-profile-settings-theme-new2.png
+.. image:: business-profile-settings-theme-new3.png
 
 + **Theme**: Select Theme from the list. 
 + **Primary**: If needed, you can adjust the Primary Color. 

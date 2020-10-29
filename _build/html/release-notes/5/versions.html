@@ -40,9 +40,9 @@
               href="../../genindex.html"/>
         <link rel="search" title="Search" href="../../search.html"/>
     <link rel="top" title="Omnia  documentation" href="../../index.html"/>
-        <link rel="up" title="Release 5 (DRAFT)" href="index.html"/>
+        <link rel="up" title="Release 5" href="index.html"/>
         <link rel="next" title="Release 4.1" href="../4.1/index.html"/>
-        <link rel="prev" title="Release 5 (DRAFT)" href="index.html"/> 
+        <link rel="prev" title="Release 5" href="index.html"/> 
 
   
   <script src="../../_static/js/modernizr.min.js"></script>
@@ -99,12 +99,16 @@
 <li class="toctree-l1"><a class="reference internal" href="../../working-with-documents/index.html">Working with Documents</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../working-with-processes/index.html">Working with Processes</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../using-communities/index.html">Using Communities</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../using-newsletters/index.html">Using Newsletters</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../user-options/index.html">User options</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../setup/index.html">Setup</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../../roadmap/index.html">In development</a></li>
 <li class="toctree-l1 current"><a class="reference internal" href="../index.html">Release Notes</a><ul class="current">
-<li class="toctree-l2 current"><a class="reference internal" href="index.html">Release 5 (DRAFT)</a><ul class="current">
+<li class="toctree-l2 current"><a class="reference internal" href="index.html">Release 5</a><ul class="current">
 <li class="toctree-l3 current"><a class="current reference internal" href="#">5.0.0</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#id2">5.0.3</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#id3">5.1.0</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#id4">5.1.5</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#id5">5.1.14</a></li>
 </ul>
 </li>
 <li class="toctree-l2"><a class="reference internal" href="../4.1/index.html">Release 4.1</a></li>
@@ -162,7 +166,7 @@
         
           <li><a href="../index.html">Release Notes</a> &raquo;</li>
         
-          <li><a href="index.html">Release 5 (DRAFT)</a> &raquo;</li>
+          <li><a href="index.html">Release 5</a> &raquo;</li>
         
       <li>5.0.0</li>
     
@@ -195,10 +199,15 @@
 <li>Fixed an issue that would cause instability when switching between categories (#Missing).</li>
 <li>The “my computer” image provider can now be turned off using a feature (#118011).</li>
 <li>When an external user signs on for the first time, the welcome message no longer shows an error (#118695).</li>
-<li>Updated labels and wordings in many places of the application (#116801, #120576, #121034).</li>
+<li>Updated labels and wordings in many places of the application (#116801, #120576, #121034, #121734, #119773, #120373, #120979).</li>
 <li>Saving permissions now works even if one of the users/groups fails (usually due to the user being deleted) (#120781).</li>
 <li>Translated terms now work as expected (#121005).</li>
-<li></li>
+<li>Improved performance and stability of Omnia in SPFx (#117481, #119580, #120670, #121712, #122258).</li>
+<li>Added danish localization for social dates (#120083).</li>
+<li>Corrected display of profile images (#121415).</li>
+<li>Better handling of deprecated terms (#121942).</li>
+<li>Icons with multiple shades have been removed from pickers in this release since they are not compatible (#121479).</li>
+<li>Term pickers now correctly handle multilingual terms (#121730, #121005).</li>
 </ul>
 </div>
 <div class="section" id="web-content-management">
@@ -234,7 +243,7 @@
 <li>Blockquote now has correct styling (#114751, #114918).</li>
 <li>Improved link handling (#120401).</li>
 <li>Corrected several issues where the editor styling would differ from display mode (#113594)</li>
-<li>Also fixes (#118096,#118536, #116523, #117674, #117680, #120177, #120284, #115453, #115539, #114904, #117171, #121025).</li>
+<li>Also fixes (#118096, #118536, #116523, #117674, #117680, #120177, #120284, #115453, #115539, #114904, #117171, #121025).</li>
 </ul>
 </div></blockquote>
 <ul class="simple">
@@ -244,7 +253,7 @@
 <li>Export to excel of the usage report now work better with more than 5000 pages (#120247).</li>
 <li>Fixed an issue with resolving the “Everyone except external users” group in some tenants when creating new publishing apps (#121380).</li>
 <li>Corrected a link formatting issue in notification emails from new comments (#121438).</li>
-<li>When adding a new block, the cursor is now automatically focused in the search box for the blocks (#116574).</li>
+<li>When adding a new block, the cursor is now automatically focused on the search box for the blocks (#116574).</li>
 <li>Updates to the link picker to select “Automatic” as the default link selection (#117244).</li>
 <li>Move block action now has a new icon (#115387).</li>
 <li>Its now possible to reorder the exiting content in the accordion (#116623).</li>
@@ -277,6 +286,16 @@
 <li>Corrected an issue that would sometimes prevent navigation to a page from the page rollup (#120420).</li>
 <li>Its now possible to have scheduling and approval on the same page (#120769).</li>
 <li>Corrected an issue that would prevent the create news button to not show up (#121678).</li>
+<li>Page types can now be deleted if not used (#114141, #121724, #121873).</li>
+<li>Action Button triggered dialog can now properly be closed (#115248, #115156).</li>
+<li>Video in the media block can now be edited (#116080).</li>
+<li>The notification count badge text and background color can now be explicitly set (#114605, #117706, #118278).</li>
+<li>Editing a URL to a node now behaves correctly (#114961).</li>
+<li>Corrected an issue where reused content would not show as reused (#121614).</li>
+<li>The indicator that a navigation node has children now shows correctly (#120305, #122251).</li>
+<li>Action button text is now correctly centered (#122128).</li>
+<li>Current navigation now renders indicators that have children correctly (#120305, #122251).</li>
+<li></li>
 </ul>
 </div>
 <div class="section" id="document-management">
@@ -284,10 +303,12 @@
 <ul class="simple">
 <li>Fixed an issue where the “Create draft” and “Unpublish” buttons would not show up in the document rollup (#118540).</li>
 <li>Corrected the date format in the publish dialog (#1150589).</li>
-<li>The document rollup can now display Email icons (#116055, #117596).</li>
 <li>Corrected an issue that would not render titles correctly when grouping by site (#117532).</li>
 <li>Fixed the positioning of the create button in the create document wizard (#115681).</li>
-<li>Time has been removed from the Date Time stamp in the Document management emails (#117442, #117574, #119927)</li>
+<li>Time has been removed from the Date Time stamp in the Document management emails (#117442, #117574, #119927).</li>
+<li>Fixed an issue preventing the document history from being shown (#122171).</li>
+<li>Improved stability of the publish flow (#120526, #121733).</li>
+<li>Removing a document type no longer cause issues to related documents (#122177).</li>
 </ul>
 </div>
 <div class="section" id="tenant-administration">
@@ -298,21 +319,21 @@
 </div>
 <div class="section" id="team-collaboration">
 <h2>Team Collaboration<a class="headerlink" href="#team-collaboration" title="Permalink to this headline">¶</a></h2>
+<ul class="simple">
+<li>Can now use template icon in listings instead of letter avatar.</li>
+<li>Site owners can now correctly edit site metadata (#122285).</li>
+</ul>
 </div>
 <div class="section" id="workplace">
 <h2>Workplace<a class="headerlink" href="#workplace" title="Permalink to this headline">¶</a></h2>
 <ul class="simple">
 <li><a class="reference internal" href="index.html"><span class="doc">MS Teams Integration</span></a></li>
-</ul>
-<blockquote>
-<div><ul class="simple">
 <li>New Query strings for showing/hiding the Tenant and Business Profile header. (#119541)</li>
-</ul>
-</div></blockquote>
-<ul class="simple">
-<li>People rollup have been reworked, with new design options and features (#120973, #114014).</li>
+<li>The Document rollup can now display Email icons (#116055, #117596).</li>
+<li>The People rollup have been reworked, with new design options and features (#120973, #114014, #114403, #121172, #116920, #120521).</li>
+<li>The document rollup can now display Email icons (#116055, #117596).</li>
 <li>The announcement comments feed now take all available screen space (#117248).</li>
-<li>Corrected an issue where the header toolbar would show the wrong icons  (#117530).</li>
+<li>Corrected an issue where the header toolbar would show the wrong icons (#117530).</li>
 <li>Corrected the style of the User Profile Completion Wizard in SPFx (#114438).</li>
 <li>Ensured the image ratio of the tutorial (#118601).</li>
 <li>The quick links block can now filter on links without any category (#116693).</li>
@@ -323,12 +344,19 @@
 <li>My links block now has a “Show less” button (#117214).</li>
 <li>Corrected an issue that would make the important announcement get the wrong color (#114881).</li>
 <li>Search in my links now works as expected when filtering (#114496, #117273, #117648).</li>
-<li>Default O365 launcher link items has been updated and renamed where applicable (#117810, #117139).</li>
+<li>Default O365 launcher link items have been updated and renamed where applicable (#117810, #117139).</li>
 <li>Fixed an issue that would prevent App Instance requests to be rejected if the template had been removed (#120901).</li>
 <li>Fixed an issue in the My Site header component that prevented settings from being saved (#120818).</li>
 <li>Corrected an issue where the people rollup would not render correctly when using SharePoint group query option together with being used in SPFx (#120283).</li>
-<li>The people rollup has received a design overhaul (#114403, #121172, #116920, #120521).</li>
-<li>Collaboration templates now sort alphabetically (#117977)</li>
+<li>Collaboration templates now sort alphabetically (#117977).</li>
+<li>Search now handles query rules properly, this solves issues with mismatch between standard SP search and search in Omnia (#114847, #121794).</li>
+<li>Drop-down search now correctly closes when navigating to a result (#121937).</li>
+<li>Profile Completeness now has a correctly implemented block title and new design options (#114212).</li>
+<li>SharePoint alias validation now correctly prevents the user from progressing in the site provisioning (#114641).</li>
+<li>Strengthen Profile block has a new design (#122074).</li>
+<li>Corrected and issue that would prevent the MS Teams Icon to show correctly (#121446).</li>
+<li>Azure AD sync now correctly syncs Cloud only extension properties (#122229).</li>
+<li>Its now possible to configure if wildcard search will be used or not for search-based components (#114451).</li>
 </ul>
 </div>
 <div class="section" id="communities">
@@ -342,8 +370,94 @@
 <ul class="simple">
 <li>Processes can now be shown in a TeamSite.</li>
 </ul>
-<p>Also fixes preview issues (#121345)</p>
+<p>Also fixes preview issues (#121345, #122132, #122150, #122209, #122073, #121995, #121892, #121931, #121944, #121760, #122242, #121995)</p>
 </div>
+</div>
+<div class="section" id="id2">
+<h1>5.0.3<a class="headerlink" href="#id2" title="Permalink to this headline">¶</a></h1>
+<ul class="simple">
+<li>Corrected load of certain taxonomy properties in ODM (#123244).</li>
+<li>Full sync stability updates (#122371).</li>
+</ul>
+</div>
+<div class="section" id="id3">
+<h1>5.1.0<a class="headerlink" href="#id3" title="Permalink to this headline">¶</a></h1>
+<div class="section" id="fixes">
+<h2>Fixes<a class="headerlink" href="#fixes" title="Permalink to this headline">¶</a></h2>
+<ul class="simple">
+<li>UI for saving external contacts have been improved (#122295).</li>
+<li>The error log of the SharePoint Full sync can now be viewed in the UI.</li>
+<li>Logic on following sites have been improved. A followed site in omnia always follows the site in SharePoint. A site followed in SharePoint will automatically become followed in omnia (with some delay) (#123336).</li>
+<li>It is now possible to force letter avatars in the Team news rollup.</li>
+<li>Its now possible to turn off all system emails which is useful when running migrations (#122027, #122010)</li>
+<li>Name change of sites is now synced between Omnia and all connected resources (SPO, MS Teams, Outlook).</li>
+<li>Omnia welcome screen as been disabled, leading to quicker page loads.</li>
+<li>Structure for omnia pages have been changed.</li>
+<li>Several issues have been fixed there Omnia would affect look and feel of standard SPO components.</li>
+<li>An Issue where a search category title would sometimes render as “undefined” in omnia admin has been fixed.</li>
+<li>The Page rollup view “Card view” has gotten several updates for an improved experience in both mobile and desktop (#122104).</li>
+<li>Term picker UI and UX improved for small spaces (#122221).</li>
+<li>Several UI issues have been fixed in the Document rollup display breakpoints settings UI.</li>
+<li>Default value on datetime properties, now correctly selects the time.</li>
+<li>People rollup width settings have been adjusted.</li>
+<li>Labels for “Enable partial search” have been consolidated.</li>
+<li>Quick links can now be correctly opened on IOS.</li>
+<li>Language picker now shows correct available languages in all scenarios in Process Management and Document Management.</li>
+<li>Personal sites are now correctly excluded from the Teamwork rollup when a custom SharePoint Domain is used (#123163).</li>
+<li>The UX feedback when approving a Teamwork has been improved.</li>
+<li>Site properties can now only be edited by the Owner. Not members.</li>
+<li>Improved the stability of the Process Management edit UI (#122252).</li>
+<li>Fixed an error when client validation would prevent sending a controlled document for comments.</li>
+<li>Fixed an error where Boolean default values would not work correctly in the Teamwork rollup filters.</li>
+<li>Corrected the padding of the Teamwork search when there is no result (#121893).</li>
+<li>Fixed text alignment in the RTF editor when combining tables with different text alignments.</li>
+<li>The process datatype now works correctly as a filter for all rollups where it is available.</li>
+<li>Fixed an issue where teamwork rollup filters would sometimes not work for term properties (#123350).</li>
+<li>Fixed an issue where newlines would be inserted in the wrong place in the RTF editor when bullet lists were used (#123315).</li>
+<li>Yes/No filters now work correctly in People Rollup.</li>
+<li>Filters can now be correctly placed to the right or left of the content in people rollup.</li>
+<li>The site logo is now correctly displayed when grouping by site in the Team news rollup.</li>
+<li>My subscription block now correctly refreshes without a page reload.</li>
+<li>Its now possible to list all teamwork cross business profiles.</li>
+<li>Min width for block has been adjusted (#123093).</li>
+<li>Block titles can now be displayed in the notification panel (#123430, #123438).</li>
+<li>Added support for ms-excel and ms-word links in RTF.</li>
+<li>Improved capabilities in searching for phone numbers (#121624).</li>
+</ul>
+</div>
+</div>
+<div class="section" id="id4">
+<h1>5.1.5<a class="headerlink" href="#id4" title="Permalink to this headline">¶</a></h1>
+<ul class="simple">
+<li>Enterprise keywords now correctly support multiple choice.</li>
+<li>Corrected style of the Teamwork rollup when used in SPFx. (#123469)</li>
+<li>Taxonomy refiners in the document rollup now correctly shows translated terms.</li>
+<li>Links in RTF now support ms-excel correctly (#123508).</li>
+<li>Corrected translation labels in document management (#122405).</li>
+<li>Corrected language fallback to use Business profile language if preferred language is null.</li>
+<li>Read access is now correctly granted to variations of a Page Collection root page.</li>
+<li>Performance improvement when loading a page to set up as a reusable page.</li>
+<li>OPM emails now show the correct approver in its content (#123615).</li>
+<li>Variations URL-segments are now correctly validated to be lower case.</li>
+<li>Corrected an issue that would sometimes prevent finding a published process (#123516).</li>
+<li>Corrected settings migration for the page rollup and document rollup (#123638).</li>
+</ul>
+</div>
+<div class="section" id="id5">
+<h1>5.1.14<a class="headerlink" href="#id5" title="Permalink to this headline">¶</a></h1>
+<ul class="simple">
+<li>It is now possible to have a customizable “Fallback” page, in case omnia is down. Contact your Omnia consultant to get it set up.</li>
+<li>Action button is now available for the notification panel (#122037).</li>
+<li>Corrected an issue where filter settings would be incorrectly set when upgrading from 4.1 (#123638)</li>
+<li>Correct an issue where certain metadata fields would create duplicate inserts in an ODM document (#121793)</li>
+<li>Increased stability of the Azure AD sync. (#123393, #121707)</li>
+<li>Fixed an issue where some navigation nodes could not be moved (#123775).</li>
+<li>Fixed an issue when newly created Business Profiles would get the wrong context (#123997).</li>
+<li>Several improvements to the “Full sync to SharePoint” feature (#123770, #123622).</li>
+<li>Fixed an issue where Info Screen would disable the Business Profile footer.</li>
+<li>Fixed an issue that prevented the action button from correctly linking to an internal omnia page (#123894, #123868)</li>
+<li>Fixed an issue where the browser back button would sometimes not work (#123824).</li>
+</ul>
 </div>
 
 
@@ -359,7 +473,7 @@
         <a href="../4.1/index.html" class="btn btn-neutral float-right" title="Release 4.1" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right"></span></a>
       
       
-        <a href="index.html" class="btn btn-neutral" title="Release 5 (DRAFT)" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>
+        <a href="index.html" class="btn btn-neutral" title="Release 5" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>
       
     </div>
   
@@ -369,7 +483,7 @@
   <div role="contentinfo">
     <p>
         &copy; Copyright 2020, Precio Fishbone.
-      Last updated on Oct 26, 2020.
+      Last updated on Oct 28, 2020.
 
     </p>
   </div>

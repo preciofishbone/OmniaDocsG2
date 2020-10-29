@@ -117,9 +117,9 @@
 <li class="toctree-l1"><a class="reference internal" href="../../../working-with-documents/index.html">Working with Documents</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../working-with-processes/index.html">Working with Processes</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../using-communities/index.html">Using Communities</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../using-newsletters/index.html">Using Newsletters</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../user-options/index.html">User options</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../setup/index.html">Setup</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../../../roadmap/index.html">In development</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../release-notes/index.html">Release Notes</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../guides/index.html">Guides</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../contribute-to-doc/index.html">Contribute to this Documentation</a></li>
@@ -194,114 +194,145 @@
 <h1>Provisioning Templates<a class="headerlink" href="#provisioning-templates" title="Permalink to this headline">¶</a></h1>
 <p>Use these options to create Provisioning Templates for Team Sites of different types, or Publishing Apps.</p>
 <p>All existing templates are displayed in the list, for example:</p>
-<img alt="../../../_images/provisioning-templates-new3.png" src="../../../_images/provisioning-templates-new3.png" />
+<img alt="../../../_images/provisioning-templates-new4.png" src="../../../_images/provisioning-templates-new4.png" />
 <p>Use the icons to edit or delete a template.</p>
-<img alt="../../../_images/provisioning-templates-edit-delete-new3.png" src="../../../_images/provisioning-templates-edit-delete-new3.png" />
 <p>When editing a template, the same options as when creating a template is available, see below.</p>
 <div class="section" id="create-a-provisioning-template">
 <h2>Create a Provisioning Template<a class="headerlink" href="#create-a-provisioning-template" title="Permalink to this headline">¶</a></h2>
-<p>To create a Template, do the following:</p>
-<ol class="arabic simple">
-<li>Click the plus.</li>
-</ol>
-<img alt="../../../_images/provisioning-templates-create-1new.png" src="../../../_images/provisioning-templates-create-1new.png" />
-<p>Available settings differ depending on which type of template you’re creating, see below.</p>
-<p>The first step is the same for all template types. Do the following:</p>
-<ol class="arabic simple" start="2">
-<li>For Base Definition select “Publishing”, “Community App” or “Teamwork” and use the following settings:</li>
-</ol>
-<img alt="../../../_images/provisioning-templates-create-publishing-2new.png" src="../../../_images/provisioning-templates-create-publishing-2new.png" />
+<p>To create a Template, click the plus:</p>
+<img alt="../../../_images/provisioning-templates-create-1new2.png" src="../../../_images/provisioning-templates-create-1new2.png" />
+<div class="section" id="settings-for-all-templates">
+<h3>Settings for all templates<a class="headerlink" href="#settings-for-all-templates" title="Permalink to this headline">¶</a></h3>
+<p>The first step is the same for all template types.</p>
+<img alt="../../../_images/provisioning-templates-create-publishing-2new2.png" src="../../../_images/provisioning-templates-create-publishing-2new2.png" />
 <ul class="simple">
+<li><strong>Base Defintion</strong>: Select main type of template here; Publishing, Community or Teamwork. The settings in the steps to come will differ depending on what you choose.</li>
 <li><strong>Title</strong>: Add a Title for the Template. You can add titles in a number of the languages available in the tenant. Default language is mandatory.</li>
 <li><strong>Description</strong>: Add a Description if needed. You can add titles in a number of the languages available in the tenant. Default language is mandatory.</li>
-<li><strong>Icon Type</strong>: An icon is always shown for a Template. If you would like another icon for this Template, select the set of Icons here: “Font Awesome”, “Fabric” or “Custom”. When selecting “Custom” you can choose any image as the Icon.</li>
-<li><strong>Icon</strong>: When you have select Icon Type, use this list to select the icon. If you select “Custom”, this list is not shown. Instead a “Url” field is shown, where you enter the Url for the image.</li>
-<li><strong>Show in Create New Wizard</strong>: Select this option if the Template should be available in the user Wizard for creating new sites. Even if the template is not shown in the Create New Wizard, it’s always available in “Communities” for Community templates, or in “Teamwork” for other templates, for administrators to use.</li>
-<li><strong>Site Creation Mode</strong>: Here you select if Approval is required when users create sites from this Template.</li>
+<li><strong>Icon Type</strong>: An icon is always shown for a template. If you would like another icon for this template, select the set of icons here: Font Awesome,, Microsoft, Flags or Custom. When selecting Custom you can choose any image as the icon.</li>
+<li><strong>Icon</strong>: When you have select Icon Type, use this list to select the icon. If you select Custom, a Url field is shown, where you enter the Url for the image.</li>
+<li><strong>Available to All Users</strong>: Select this option if the template should be available for other’s than administrators, for example in the user Wizard for creating new teamworks. If this option is selected, the template will be available only for administrators to use in Omnia Admin.</li>
+<li><strong>Site Creation Mode</strong>: Here you select if approval is required when users create sites from this template.</li>
 </ul>
-<p><strong>Very important!</strong> At the moment creating a community requires some hands on by an administrator. We therefore recommend that administrators create all communities for now - using the “Community” option in Omnia Admin. See to that “Show in Create New Wizard” is NOT selected. In this case, setting “Site Creation Mode” to “Self Service” for Community templates can be a good idea as it will make creation of communities straight forward.</p>
-<ol class="arabic simple" start="3">
-<li>Click “Next”.</li>
-</ol>
-<p>The next step is for <strong>Teamwork</strong> only. These settings are not applicable for Publising or for Community. For Teamwork, you can set the following:</p>
-<img alt="../../../_images/provisioning-templates-create-team-3-new.png" src="../../../_images/provisioning-templates-create-team-3-new.png" />
+<p>If you select Approval, you must add one or more colleagues to receive notifications about pending approval:</p>
+<img alt="../../../_images/provisioning-templates-approval.png" src="../../../_images/provisioning-templates-approval.png" />
+<p>You can select anyone from this list, but all approval takes place in the Pending Approval lists in Omnia Admin, so a colleague must be either Tenant Administrator or Business Profile Administrator for the Business Profile in question.</p>
+<p><strong>Very important!</strong> At the moment creating a community requires some hands on by an administrator. We therefore recommend that administrators create all communities for now - using the “Community” option in Omnia Admin. See to that “Available for all users” is NOT selected. In this case, setting Site Creation Mode to Self Service for community templates can be a good idea as it will make creation of communities straight forward.</p>
+</div>
+<div class="section" id="teamwork-type">
+<h3>Teamwork Type<a class="headerlink" href="#teamwork-type" title="Permalink to this headline">¶</a></h3>
+<p>The second step for Teamwork is to select type and set some settings (for Publishing and Communities, this step is not used):</p>
+<img alt="../../../_images/provisioning-templates-create-team-3-new2.png" src="../../../_images/provisioning-templates-create-team-3-new2.png" />
 <ul class="simple">
-<li><strong>Type</strong>: Select template to base the new template on; “Office 365 Group, Sharepoint Team Site”, “Sharepoint Communication Site”, “Yammer Group” or “Facebook Workplace Group”. This can be changed when an existing Provisioning Template is edited.</li>
+<li><strong>Type</strong>: Select template to base the new template on; Microsoft 365 Group, Sharepoint Team Site, Sharepoint Communication Site, Microsoft Team, Yammer Community or Facebook Workplace Group. This can be changed when an existing Provisioning Template is edited.</li>
 </ul>
-<p>For <strong>Office 365 Group</strong>, the following settings are available:</p>
+</div>
+<div class="section" id="microsoft-365-group">
+<h3>Microsoft 365 Group<a class="headerlink" href="#microsoft-365-group" title="Permalink to this headline">¶</a></h3>
+<p>For Microsoft 365 Group, the following settings are available:</p>
+<img alt="../../../_images/ms-365-group.png" src="../../../_images/ms-365-group.png" />
 <ul class="simple">
 <li><strong>Site Design</strong>: Here templates can be available, templates made according to Microsoft’s standard for Site Design. Such templates can be used in Omnia.  Not mandatory. If no such templates are available, the list is empty. For more information about Site Design, see this Microsoft page: <a class="reference external" href="https://docs.microsoft.com/en-us/sharepoint/dev/declarative-customization/site-design-overview">https://docs.microsoft.com/en-us/sharepoint/dev/declarative-customization/site-design-overview</a></li>
-<li><strong>Languages</strong>: Select Language to be used for system texts in the site.</li>
-<li><strong>User can select language</strong>: Select this option to enable Language selection by the user creating the site.</li>
-<li><strong>Time Zones</strong>: Select the correct Time Zone here.</li>
-<li><a href="#id1"><span class="problematic" id="id2">**</span></a>Privacy: For 365 Groups you can select either “Private” or “Public”. The text in the selections explains the difference.</li>
+<li><strong>Languages</strong>: Select language to be used for system texts in the site.</li>
+<li><strong>User can select language</strong>: Select this option to enable language selection by the user creating the site.</li>
+<li><strong>Time Zones</strong>: Select the correct time zone here.</li>
+<li><strong>Privacy</strong>: For 365 Groups you can select either Private or Public. The text in the selections explains the difference.</li>
 </ul>
-<p>The following settings are available for a <strong>Sharepoint Team Site</strong> and for a <strong>Sharepoint Communication Site</strong> (note that a “Sharepoint Communication Site” is not the same as a Community site):</p>
+</div>
+<div class="section" id="sharepoint-team-site-or-sharepoint-communication-site">
+<h3>Sharepoint Team Site or Sharepoint Communication Site<a class="headerlink" href="#sharepoint-team-site-or-sharepoint-communication-site" title="Permalink to this headline">¶</a></h3>
+<p>The following settings are available for a Sharepoint Team Site and for a Sharepoint Communication Site (note that a Sharepoint Communication Site is not the same as a Community site):</p>
+<img alt="../../../_images/sharepoint-team-site.png" src="../../../_images/sharepoint-team-site.png" />
 <ul class="simple">
-<li><strong>Site Design</strong>: (See above for a description).</li>
-<li><strong>Languages</strong>: Select Language to be used for system texts in the site.</li>
-<li><strong>User can select language</strong>: Select this option to enable Language selection by the user creating the site.</li>
-<li><strong>Time Zones</strong>: Select the correct Time Zone here.</li>
-<li><strong>Primary Site Collection Administrator</strong>: If empty, the user creating or requesting the site will automatically become the Default Administrator (Owner) of the site. If a specific group or user should be administrator for all sites created from this template, add that group or user. Only on group or user can be added in this field.</li>
+<li><strong>Site Design</strong>: Here templates can be available, templates made according to Microsoft’s standard for Site Design. Such templates can be used in Omnia.  Not mandatory. If no such templates are available, the list is empty. For more information about Site Design, see this Microsoft page: <a class="reference external" href="https://docs.microsoft.com/en-us/sharepoint/dev/declarative-customization/site-design-overview">https://docs.microsoft.com/en-us/sharepoint/dev/declarative-customization/site-design-overview</a></li>
+<li><strong>Languages</strong>: Select language to be used for system texts in the site.</li>
+<li><strong>User can select language</strong>: Select this option to enable language selection by the user creating the site.</li>
+<li><strong>Time Zones</strong>: Select the correct time zone here.</li>
+<li><strong>Primary Site Collection Administrator</strong>: If empty, the user creating or requesting the site will automatically become the default administrator (Owner) of the site. If a specific group or user should be administrator for all sites created from this template, add that group or user. Only on group or user can be added in this field.</li>
 <li><strong>Default Site Collection Administrators</strong>: You can add (several) additional administrators here, if needed.</li>
-<li><strong>Default Visitors</strong>: You can use this to set a default visitor group (read permissions) to all sites created from this template. Let’s say it’s a template for community pages - then probably all users of the intranet should have read permission to all pages in the site.</li>
+<li><strong>Default Visitors</strong>: You can use this to set a default visitor group (read permissions) to all sites created from this template.</li>
 </ul>
-<p>The following setting is available for a <strong>Yammer Group</strong> Template:</p>
+</div>
+<div class="section" id="microsoft-team">
+<h3>Microsoft Team<a class="headerlink" href="#microsoft-team" title="Permalink to this headline">¶</a></h3>
+<p>Use these settings to configure a Microsoft Teams template with predefined channels, apps, tabs and settings.</p>
+<p>For CHANNELS the following settings are available:</p>
+<img alt="../../../_images/microsoft-team-channels.png" src="../../../_images/microsoft-team-channels.png" />
 <ul class="simple">
-<li><strong>Client id</strong>: Type Client id for the Yammer Network here.</li>
+<li><strong>Name</strong>: Type the name for the tab here.</li>
+<li><strong>App Types</strong>: Select type of app for the tab; Built-in meaning Microsoft Apps, or Organization for other Apps, which can, for example, be Omnia Apps.</li>
+<li><strong>Installed Apps</strong>: Open the list and select app.</li>
+<li><strong>Content Url</strong>: (A description will be added soon).</li>
+<li><strong>Website Url</strong>: (A description will be added soon).</li>
 </ul>
-<p>This setting is available for a <strong>Facebook Workplace Group</strong> Template:</p>
+<p>To add addtional tabs click the plus:</p>
+<img alt="../../../_images/microsoft-team-channels-another.png" src="../../../_images/microsoft-team-channels-another.png" />
+<p>Use the settings as explained above.</p>
+<p>For SETTINGS, this is available:</p>
+<img alt="../../../_images/microsoft-team-settings.png" src="../../../_images/microsoft-team-settings.png" />
+<p>To learn what the different options are for, point at the i icon, for example:</p>
+<img alt="../../../_images/microsoft-team-settings-info.png" src="../../../_images/microsoft-team-settings-info.png" />
+</div>
+<div class="section" id="yammer-community">
+<h3>Yammer Community<a class="headerlink" href="#yammer-community" title="Permalink to this headline">¶</a></h3>
+<p>The following setting is available for a Yammer Community Template:</p>
+<img alt="../../../_images/yammer-community.png" src="../../../_images/yammer-community.png" />
+<ul class="simple">
+<li><strong>Client id</strong>: Type the Client id for the Yammer Network here.</li>
+</ul>
+</div>
+<div class="section" id="facebook-workplace-group">
+<h3>Facebook Workplace Group<a class="headerlink" href="#facebook-workplace-group" title="Permalink to this headline">¶</a></h3>
+<p>This setting is available for a Facebook Workplace Group Template:</p>
+<img alt="../../../_images/facebook-workplace-group.png" src="../../../_images/facebook-workplace-group.png" />
 <ul class="simple">
 <li><strong>Workplace Domain</strong>: Add the Facebook Workplace name here.</li>
 </ul>
-<ol class="arabic simple" start="4">
-<li>When you are done here, Click “Next”.</li>
-</ol>
-<p>The next step is to select properties, which you can do for all types of templates. All available properties are shown, for example:</p>
-<img alt="../../../_images/provisioning-templates-properties-new.png" src="../../../_images/provisioning-templates-properties-new.png" />
+</div>
+<div class="section" id="edit-properties">
+<h3>Edit Properties<a class="headerlink" href="#edit-properties" title="Permalink to this headline">¶</a></h3>
+<p>For Publishing and Communities, this will be step number 2, for Teamwork it will be step 3. All available properties are shown, for example:</p>
+<img alt="../../../_images/provisioning-templates-properties-new2.png" src="../../../_images/provisioning-templates-properties-new2.png" />
 <p>Available properties must have been set up using the Tenant setting Properties, see: <a class="reference internal" href="../../tenant-settings/properties/index.html"><span class="doc">Tenant Settings - Properties</span></a></p>
 <p>Normally a lot more properties are available than shown in the image above.</p>
-<p>What you can do here is to select if a property should be required (meaning that it should be mandatory to add information for the property when creating a site). For some properties you can also set that multiple values are allowed.</p>
-<p>Here’s an example with Keywords, where you can set both:</p>
-<ol class="arabic simple" start="5">
-<li>Select the property and then click the dot menu.</li>
-</ol>
-<img alt="../../../_images/template-properties-dot-menu-new.png" src="../../../_images/template-properties-dot-menu-new.png" />
-<ol class="arabic simple" start="6">
-<li>Select if the property is required and/or if multiple values should be allowed:</li>
-</ol>
-<img alt="../../../_images/template-property-required-new.png" src="../../../_images/template-property-required-new.png" />
-<ol class="arabic simple" start="7">
-<li>Click “Save”</li>
-<li>When all property settings are done, click “Next”, at the bottom of the properties list.</li>
-</ol>
-<img alt="../../../_images/provisioning-templates-pubapp4.png" src="../../../_images/provisioning-templates-pubapp4.png" />
-<p>As the next step you can set this:</p>
-<img alt="../../../_images/template-features-new2.png" src="../../../_images/template-features-new2.png" />
+<p>What you can do here is to select the properties that should be available for this template, and set if a property should be required (meaning that it should be mandatory to add information for the property). For some properties you can also set that multiple values are allowed.</p>
+<p>Here’s an example with Keywords, where you can set both. Click the dots to edit settings (if available).</p>
+<img alt="../../../_images/template-properties-dot-menu-new2.png" src="../../../_images/template-properties-dot-menu-new2.png" />
+<p>The available settings for the property are shown, for example:</p>
+<img alt="../../../_images/template-property-required-new2.png" src="../../../_images/template-property-required-new2.png" />
+<p>Don’t forget to save the settings for a property, and when you’re done, you click NEXT at the bottom of the property page (you have to scroll all the way down).</p>
+<img alt="../../../_images/provisioning-templates-pubapp4-new.png" src="../../../_images/provisioning-templates-pubapp4-new.png" />
+</div>
+<div class="section" id="provisioning-template-features">
+<h3>Provisioning Template Features<a class="headerlink" href="#provisioning-template-features" title="Permalink to this headline">¶</a></h3>
+<p>There can be a number of features available. Here’s an example:</p>
+<img alt="../../../_images/template-features-new2new.png" src="../../../_images/template-features-new2new.png" />
 <p>(All features are not shown in the image above.)</p>
 <ul class="simple">
-<li><strong>Process Archive</strong>: Set if a process archive should be created when this template is used. Applicable for a Sharepoint Teamsites and Office 365 sites only.</li>
-<li><strong>Process Library</strong>: Set if a process Library should be created when this template is used. Applicable for a Sharepoint Teamsites and Office 365 sites only.</li>
-<li><strong>Apply Microsoft Teams to an Office 365 Group</strong>: Here you can select that a Microsoft Teams Group should be created for the Office 365 Group.</li>
-<li><strong>Create a new Wizard in Document Libraries</strong>: For Document Management; if the New Document Wizard should be added to all document libraries in the site created from this template, check the box. Applicable for a Sharepoint Teamsites and Office 365 sites only</li>
-<li><strong>Controlled Documents Library</strong>: For Document Management; if a Controlled Documents library should be added to all document libraries in the site created from this template, check the box. Applicable for a Sharepoint Teamsites and Office 365 sites only</li>
-<li><strong>Archived Documents</strong>: Select this option if the feature “Archived Documents” should be activated automatically when a site is created from this template. Applicable for a Sharepoint Teamsites and Office 365 sites only</li>
+<li><strong>Process Archive</strong>: Set if a process archive should be created when this template is used. Applicable for a Sharepoint Teamsites and Microsoft 365 sites only.</li>
+<li><strong>Process Library</strong>: Set if a process Library should be created when this template is used. Applicable for a Sharepoint Teamsites and Microsoft 365 sites only.</li>
+<li><strong>Apply Microsoft Teams to an Office 365 Group</strong>: Here you can select that a Microsoft Teams Group should be created for the Microsoft 365 Group.</li>
+<li><strong>Create a new Wizard in Document Libraries</strong>: For Document Management; if the New Document Wizard should be added to all document libraries in the site created from this template, check the box. Applicable for a Sharepoint Teamsites and Microsoft 365 sites only.</li>
+<li><strong>Controlled Documents Library</strong>: For Document Management; if a Controlled Documents library should be added to all document libraries in the site created from this template, check the box. Applicable for a Sharepoint Teamsites and Microsoft 365 sites only.</li>
+<li><strong>Archived Documents</strong>: Select this option if the feature “Archived Documents” should be activated automatically when a site is created from this template. Applicable for a Sharepoint Teamsites and Microsoft 365 sites only.</li>
 <li><strong>Project Site</strong>: Select this option if the feature “Project Site” should be activated automatically when a site is created from this template. Applicable for specialized set ups only.</li>
 <li><strong>Default Page Collections and Page Types</strong>: For Publishing templates; Select this option if the corresponding feature should be activated automatically when a site is created from this template. The default Page Collections and Page Types can be edited to suit your needs.</li>
-<li><strong>Show Business Profile Header</strong>: For Publishing templates; if the header set up in the Business Profile should be used, select this option. Applicable for Publishing App templates only. When the Business Profile Header is shown on a team site, the height is pre-allocated until the whole page is loaded.</li>
+<li><strong>Default Page Types for Event Management</strong>: (A description will be added soon).</li>
+<li><strong>Show Business Profile Header</strong>: If the header set up in the Business Profile should be used, select this option. Applicable for Publishing templates only. When the Business Profile Header is shown on a team site, the height is pre-allocated until the whole page is loaded.</li>
 </ul>
-<p><strong>Very important</strong>: Make sure you select only the features that are applicable for the type of template you create, if any. Selecting the wrong feature here can cause problems when a site is created from the template. No feature shown here are applicable for Community site templates.</p>
-<ol class="arabic simple" start="9">
-<li>Set the options here as needed and click “Next”.</li>
-</ol>
-<p>Finally, you can select to add Custom Steps. If additional Custom Steps are developed, they are shown here.</p>
-<p>If you do, something like the following is shown:</p>
-<img alt="../../../_images/custom-steps.png" src="../../../_images/custom-steps.png" />
-<p>You can choose to add some standard “Custom steps” as shown in the image above. If additional Custom Steps are developed, they are shown here.</p>
-<ol class="arabic simple" start="10">
-<li>When all settings are done here, or if you selected not to add custom steps, click “ADD” to create the Template.</li>
-</ol>
-<img alt="../../../_images/provisioning-templates-4-new.png" src="../../../_images/provisioning-templates-4-new.png" />
+<p><strong>Very important</strong>: Make sure you select only the features that are applicable for the type of template you create, if any. Selecting the wrong feature here can cause problems when a site is created from the template. No feature shown here are applicable for Community site templates!</p>
+</div>
+<div class="section" id="custom-steps">
+<h3>Custom steps<a class="headerlink" href="#custom-steps" title="Permalink to this headline">¶</a></h3>
+<p>Finally, you can select to add custom steps. If additional custom steps are developed, they are shown here.</p>
+<p>If you add custom steps, something like the following can be shown:</p>
+<img alt="../../../_images/custom-steps-new.png" src="../../../_images/custom-steps-new.png" />
+</div>
+</div>
+<div class="section" id="create-the-provisioning-template">
+<h2>Create the Provisioning Template<a class="headerlink" href="#create-the-provisioning-template" title="Permalink to this headline">¶</a></h2>
+<p>When all settings are done here, click “ADD” to create the Template.</p>
+<img alt="../../../_images/provisioning-templates-4-new2.png" src="../../../_images/provisioning-templates-4-new2.png" />
 </div>
 </div>
 
@@ -328,7 +359,7 @@
   <div role="contentinfo">
     <p>
         &copy; Copyright 2020, Precio Fishbone.
-      Last updated on Oct 26, 2020.
+      Last updated on Oct 28, 2020.
 
     </p>
   </div>

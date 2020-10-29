@@ -12,36 +12,35 @@ To add a block to a page, do the following:
 1. Edit the page in Design Mode.
 2. Click on the block that will be before or after the new block so you can se the pluses, and click on the appropriate one (the top one to place the new block above or the bottom one to place the block below).
 
-.. image:: block-click-plus-new.png
+.. image:: block-click-plus-new2.png
 
 3. Find the block you want to add and select it.
 
-.. image:: block-select.png
+.. image:: block-select-new.png
 
 Editing a block's settings
 ***************************
 To edit a block's settings, do the following:
 
-1. Edit the page in Design Mode.
-2. Click the block.
-3. Click the cog wheel for the block, for example:
+1. Click the block.
+2. Click the cog wheel for the block, for example:
 
-.. image:: edit-block-settings-new.png
+.. image:: edit-block-settings-new2.png
 
 Information about how to change specific settings for a block is found in the block's detailed description.
 
 Moving a block
 ***************
-Do the following to move a block tp another placement on the page.
+Do the following to move a block to another placement on the page.
 
 1. Click the block.
 2. Click the Move icon.
 
-.. image:: move-icon-new.png
+.. image:: move-icon-new2.png
 
 Icons now show where you can move the block, for example:
 
-.. image:: block-can-be-moved-new.png
+.. image:: block-can-be-moved-new2.png
 
 3. Click the icon where you want the block and it's moved there.
 
@@ -52,64 +51,58 @@ If you need a block with roughly the same settings somewhere else on the page, y
 1. Click the block.
 2. Click the Copy icon.
 
-.. image:: copy-icon.png
+.. image:: copy-icon-new.png
 
-Icons now show where you can move the block, the same way as when you move a block, for example:
-
-.. image:: block-can-be-copied.png
+Icons now show where you can place the copied block, the same way as when you move a block, see above.
 
 3. Click the icon where you want the copied block and it's placed there.
 4. Edit the settings that you want to change.
 
-Show the block or not on different devices
-********************************************
-When you're working on a block you can select to show it on different devices or not.
+Display settings for blocks
+******************************
+When you're working on a block you can select how to show it on different devices, or to not display the block at all on some devices.
 
 Click this icon:
 
-.. image:: device-support-new.png
+.. image:: device-support-new2.png
 
-Then you can decide on which devices to show this block.
+Depending on which block it is, there can be some settings available (if not this is empty).
 
-1. Click the device you want to change settings for.
-2. Click "Enable display breakpoint settings.
+To access the settings, click Enable display breakpoint settings.
 
-.. image:: device-click-enable.png
+.. image:: device-settings-edit-new2.png
 
-Settings
----------
-A number of settings are now shown, that you can alter for the selected device specifically. Available settings differ depending on the block. Here's an example:
+The settings are now shown, for example:
 
-.. image:: device-settings-edit.png
+.. image:: device-settings.png
 
-You edit the settings the same way as you do in the block's settings, see the description of the block.
+You edit the settings the same way as you do in the block's settings, see the description of the block, but here the settings apply specifically to the selected device.
 
-Layout
---------
-Use the Layout tab if you want to hide the block for the device. Here's how you do that:
+Show the block or not on different devices
+-------------------------------------------
+Using the LAYOUT settings you can decide on which devices to not show this block at all.
 
-1. Click the Layout tab.
-2. Click the pen to edit the Visibilty setting.
+1. Click LAYOUT.
+2. Click the pen to change settings.
 
-.. image:: device-visibility.png
+.. image:: device-support-pen.png
 
-3. Select Hide block.
+2. Click to hide the block on this device, or if hidden, click to no longer hide.
 
-.. image:: device-hide.png
+.. image:: device-click-enable-new.png
 
 Removing a block
 *****************
 To remove a block. do the following:
 
-1. Edit the page in Design Mode.
-2. Click the block.
-3. Click the dust bin to remove the block:
+1. Click the block.
+2. Click the dust bin to remove the block:
 
-.. image:: block-remove-new2.png
+.. image:: block-remove-new3.png
 
-**Note!** A block that belongs to the Page Type is locked and can not be removed. It is shown this way:
+**Note!** A block that belongs to the Page Type is locked and can not be removed, nor edited. It is shown this way:
 
-.. image:: locked-block-new2.png
+.. image:: locked-block-new4.png
 
 Editing contents of a block
 ****************************

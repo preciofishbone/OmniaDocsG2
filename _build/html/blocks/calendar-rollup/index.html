@@ -41,7 +41,7 @@
         <link rel="search" title="Search" href="../../search.html"/>
     <link rel="top" title="Omnia  documentation" href="../../index.html"/>
         <link rel="up" title="Blocks" href="../index.html"/>
-        <link rel="next" title="Current Navigation" href="../current-navigation/index.html"/>
+        <link rel="next" title="Create Teamwork" href="../create-teamwork/index.html"/>
         <link rel="prev" title="Breadcrumb" href="../breadcrumb/index.html"/> 
 
   
@@ -94,11 +94,13 @@
               <ul class="current">
 <li class="toctree-l1"><a class="reference internal" href="../../admin-settings/index.html">Admin Settings</a></li>
 <li class="toctree-l1 current"><a class="reference internal" href="../index.html">Blocks</a><ul class="current">
+<li class="toctree-l2"><a class="reference internal" href="../activity-feed/index.html">Activity Feed</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../button-link/index.html">Action Button</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../announcements/index.html">Announcements</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../banner/index.html">Banner</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../breadcrumb/index.html">Breadcrumb</a></li>
 <li class="toctree-l2 current"><a class="current reference internal" href="#">Calendar Rollup</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../create-teamwork/index.html">Create Teamwork</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../current-navigation/index.html">Current Navigation</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../document-rollup/index.html">Document Rollup</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../general-block-settings/index.html">General Block Settings</a></li>
@@ -114,6 +116,7 @@
 <li class="toctree-l2"><a class="reference internal" href="../variation-selector/index.html">Page Variation Selector</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../people-rollup/index.html">People Rollup</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../process-blocks/index.html">Process blocks</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../user-profile-completion/index.html">Profile Completion</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../quick-links/index.html">Quick Links</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../rating/index.html">Rating</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../related-links/index.html">Related Links</a></li>
@@ -123,7 +126,6 @@
 <li class="toctree-l2"><a class="reference internal" href="../team-collaboration-rollup/index.html">Teamwork Rollup</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../team-news-rollup/index.html">Team News Rollup</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../text/index.html">Text</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../user-profile-completion/index.html">User Profile Completion</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../working-with-blocks/index.html">Working with blocks</a></li>
 </ul>
 </li>
@@ -132,9 +134,9 @@
 <li class="toctree-l1"><a class="reference internal" href="../../working-with-documents/index.html">Working with Documents</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../working-with-processes/index.html">Working with Processes</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../using-communities/index.html">Using Communities</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../using-newsletters/index.html">Using Newsletters</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../user-options/index.html">User options</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../setup/index.html">Setup</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../../roadmap/index.html">In development</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../release-notes/index.html">Release Notes</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../guides/index.html">Guides</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../contribute-to-doc/index.html">Contribute to this Documentation</a></li>
@@ -216,61 +218,57 @@
 <div class="section" id="settings">
 <h2>Settings<a class="headerlink" href="#settings" title="Permalink to this headline">¶</a></h2>
 <p>Use these settings for the block:</p>
-<img alt="../../_images/calendar-rollup-settings.png" src="../../_images/calendar-rollup-settings.png" />
+<img alt="../../_images/calendar-rollup-settings-new.png" src="../../_images/calendar-rollup-settings-new.png" />
 <div class="section" id="query">
 <h3>Query<a class="headerlink" href="#query" title="Permalink to this headline">¶</a></h3>
-<p>Use this tab to add calendars.</p>
-<img alt="../../_images/calendar-rollup-query.png" src="../../_images/calendar-rollup-query.png" />
+<p>Here you select calendars.</p>
+<img alt="../../_images/calendar-rollup-query-new.png" src="../../_images/calendar-rollup-query-new.png" />
 <ul class="simple">
-<li><strong>Select Calendar Type</strong>: You can select to add Office Group Calendars or Personal Group Calendars.</li>
-<li><strong>Select Calendar Group</strong>: If you have selected “Office Group” above you use this field to search for a calendar. If you selected “Personal Group Calendars” above you select a calendar group: “My Calendars”, “Other Calendars”, “People’s Calendars” or “Shared Calendars”.</li>
-<li><strong>Select Calendar</strong>: If you select “Personal Group” for Calendar Type, use this list to select a calendar.</li>
+<li><strong>Select Calendar Type</strong>: You can select to add Microsoft 365 group calendars or the current user’s calendar.</li>
+<li><strong>Select Microsoft 365 Group</strong>: If you have selected “Microsoft 365 group” above you use this field to search for a calendar.</li>
 </ul>
 </div>
-<div class="section" id="to-add-an-office-group-calendar">
-<h3>To add an Office Group Calendar<a class="headerlink" href="#to-add-an-office-group-calendar" title="Permalink to this headline">¶</a></h3>
+<div class="section" id="to-add-a-micorosoft-365-group-calendar">
+<h3>To add a Micorosoft 365 Group Calendar<a class="headerlink" href="#to-add-a-micorosoft-365-group-calendar" title="Permalink to this headline">¶</a></h3>
 <p>Do the following:</p>
 <ol class="arabic simple">
-<li>Select “Office Group”.</li>
-<li>Click in the “Select Office Group” field and search for a calendar.</li>
-<li>Select the calender</li>
+<li>Select “Microsoft 365 Group”.</li>
+<li>Click in the “Select Microsoft 365 Group” field and search for calendars.</li>
+<li>Select one or more calenders.</li>
 <li>Click “Add”.</li>
 </ol>
-<img alt="../../_images/calendar-office-add.png" src="../../_images/calendar-office-add.png" />
-</div>
-<div class="section" id="ta-add-a-personal-group-calendar">
-<h3>Ta add a Personal Group Calendar<a class="headerlink" href="#ta-add-a-personal-group-calendar" title="Permalink to this headline">¶</a></h3>
-<p>Do the following:</p>
-<ol class="arabic simple">
-<li>Select “Personal Group”.</li>
-<li>Open the list “Select Calendar Groups” and select a calendar group.</li>
-<li>Open the list “Select Calendar” and select the calendar.</li>
-<li>Click “Add”.</li>
-</ol>
-<img alt="../../_images/calendar-personal-add.png" src="../../_images/calendar-personal-add.png" />
+<img alt="../../_images/calendar-office-add-new.png" src="../../_images/calendar-office-add-new.png" />
 <ol class="arabic simple" start="5">
-<li>Continue until all calendars you wish to display in this block are selected.</li>
+<li>Continue until all calendars are added to the list.</li>
 </ol>
-<p>Here’s an example:</p>
-<img alt="../../_images/calendar-query-example.png" src="../../_images/calendar-query-example.png" />
-<p>Note that in this example “IT Department” is an office group calendar, and “Vacation” is a shared, personal calendar.</p>
+</div>
+<div class="section" id="ta-add-the-current-user-s-calendar">
+<h3>Ta add the current user’s calendar<a class="headerlink" href="#ta-add-the-current-user-s-calendar" title="Permalink to this headline">¶</a></h3>
+<p>Do the following:</p>
+<ol class="arabic simple">
+<li>Select “Current User”.</li>
+<li>Click “Add”.</li>
+</ol>
+<p>Here’s an example with two HR calendars and the current user’s calendar selected;</p>
+<img alt="../../_images/calendar-rollup-example-new.png" src="../../_images/calendar-rollup-example-new.png" />
 </div>
 <div class="section" id="targeting-and-color-for-each-calendar">
 <h3>Targeting and Color for each calendar<a class="headerlink" href="#targeting-and-color-for-each-calendar" title="Permalink to this headline">¶</a></h3>
 <p>Each calendar displayed in the block can be targeted and can be shown with a different color. These settings are available when you expand a calendar.</p>
-<img alt="../../_images/expand-calendar.png" src="../../_images/expand-calendar.png" />
-<img alt="../../_images/expand-calendar-expanded.png" src="../../_images/expand-calendar-expanded.png" />
-<p>The select another color, just click the colored dot or the color code. You can select any of the pre defined colors, or add a custom one.</p>
-<img alt="../../_images/expand-calendar-color.png" src="../../_images/expand-calendar-color.png" />
+<img alt="../../_images/expand-calendar-new.png" src="../../_images/expand-calendar-new.png" />
+<img alt="../../_images/expand-calendar-expanded-new.png" src="../../_images/expand-calendar-expanded-new.png" />
+<p>To select another color, open the list. You can select any of the pre defined colors, or add a custom one.</p>
+<img alt="../../_images/expand-calendar-color-new.png" src="../../_images/expand-calendar-color-new.png" />
 <p>Targeting a calendar works the same way as when you target a block, see the Heading “Targeting” on this page: <a class="reference internal" href="../general-block-settings/index.html"><span class="doc">General Block Settings</span></a></p>
+<p>You can always target the whole Calendar Rollup block as an alternative, if calendars should be shown for some and no calendars for others. See the link above.</p>
 </div>
 <div class="section" id="display">
 <h3>Display<a class="headerlink" href="#display" title="Permalink to this headline">¶</a></h3>
 <p>Here you can set the following:</p>
-<img alt="../../_images/calendar-rollup-display-new2.png" src="../../_images/calendar-rollup-display-new2.png" />
+<img alt="../../_images/calendar-rollup-display-new3.png" src="../../_images/calendar-rollup-display-new3.png" />
 <ul class="simple">
-<li><strong>Listing</strong>: In this list you can select type of display (Only Listing is available for now, more options to come).</li>
-<li><strong>Title</strong>: If a title should be shown for the block, add it in this field. If no variation exists for the page, it looks like in the image above and you can set the title in the languages active in the tenant. If variation exists, only one title can be set. In that case, titles in other languages are set in the variations.</li>
+<li><strong>View</strong>: Select the view for the list here. (Only Listing is available for now.)</li>
+<li><strong>Title</strong>: If a title should be shown for the block, add it in this field. If variation exists, it looks like in the image above, and only one title can be set. In that case, titles in other languages are set in the variations. If no variation exists for the page, you can set the title in the languages active in the tenant.</li>
 <li><strong>Item Limit</strong>: Set the number of items to display on each “page” of the list.</li>
 <li><strong>Padding</strong>: Set some padding around the list if needed.</li>
 </ul>
@@ -292,7 +290,7 @@
   
     <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
       
-        <a href="../current-navigation/index.html" class="btn btn-neutral float-right" title="Current Navigation" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right"></span></a>
+        <a href="../create-teamwork/index.html" class="btn btn-neutral float-right" title="Create Teamwork" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right"></span></a>
       
       
         <a href="../breadcrumb/index.html" class="btn btn-neutral" title="Breadcrumb" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>
@@ -305,7 +303,7 @@
   <div role="contentinfo">
     <p>
         &copy; Copyright 2020, Precio Fishbone.
-      Last updated on Oct 26, 2020.
+      Last updated on Oct 28, 2020.
 
     </p>
   </div>
