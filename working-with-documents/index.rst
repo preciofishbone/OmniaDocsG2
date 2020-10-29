@@ -14,6 +14,7 @@ Select section for more information:
    controlled-documents-library-settings/index
    controlled-documents-archive/index
    reading-controlled-documents/index
+   alternative-create/index
    using-the-document-wizard/index
 
   

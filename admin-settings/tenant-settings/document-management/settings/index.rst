@@ -9,6 +9,8 @@ General
 *********
 You can set this on the "General" tab:
 
+.. image:: document-management-settings-general-new.png
+
 + **Authors of Controlled Documents**: Here you can set the type of permissions to be used in Controlled Documents libraries in the tenant. 
 
     - "Document Authors Group": This is the default setting. A specific permission group will be used for authors.

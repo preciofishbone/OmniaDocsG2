@@ -243,3 +243,14 @@ Fixes
 - Fixed an issue where Info Screen would disable the Business Profile footer.
 - Fixed an issue that prevented the action button from correctly linking to an internal omnia page (#123894, #123868)
 - Fixed an issue where the browser back button would sometimes not work (#123824).
+
+5.1.15
+==========================================
+- Strengthen profile can now display taxonomy properties if the user’s language is not available in the term store (#123571).
+- Tags can now be used to setup related pages.
+- .xls files now correctly open in webapp or desktop app depending on the settings on the Document Rollup (#124047).
+- Performance of fetching followed sites has been improved. 
+- Documents larger than 4 Mb can now be saved to OneDrive from the create document wizard. (#123907).
+- Top contributors in people rollup now render correctly even when their contributions are older (#123853).
+- Creating a page from an action button now render the correct form in the case you have never accessed the editor.
+- Current navigation arrows now render correctly depending on if the node has children or not. (#120305, #122251).

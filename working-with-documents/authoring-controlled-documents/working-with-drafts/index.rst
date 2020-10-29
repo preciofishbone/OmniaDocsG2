@@ -3,7 +3,7 @@ Working with Drafts
 
 "Drafts" is used when creating and editing drafts for new Controlled Documents or when updating an existing document for a new edition. Note that there are several options available for creating a new draft document, see below.
 
-When a document is published (approved for publication) it is removed from Drafts and is available on the "Published" tab. 
+When a document is published (approved for publication if that is needed) it is removed from Drafts and is available on the "Published" tab. 
 
 Most headings in the Drafts list can be used to sort the list.
 
@@ -17,11 +17,11 @@ Do the following to create a new Controlled Document:
 
 1. Click "Add" and select "New".
 
-.. image:: new-controlled-document-1-new2.png
+.. image:: new-controlled-document-1-new3.png
 
-.. image:: new-controlled-document-2-new2.png
+.. image:: new-controlled-document-2-new3.png
 
-The Create New Document Wizard starts and you use ut to create the document. See this page for information on how to use the wizard: :doc:`Using the Document Wizard </working-with-documents/using-the-document-wizard/index>`
+Creating new documents can be set up in different ways. A very common setting is to use the Create New Document Wizard. See this page for information on how to use the wizard: :doc:`Using the Document Wizard </working-with-documents/using-the-document-wizard/index>`
 
 Upload documents
 ---------------------
