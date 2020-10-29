@@ -1,7 +1,7 @@
 Release 6 DRAFT
 ========================================
 
-**Note!** These release notes are a draft. Items might be added, edited or removed.
+.. note::  These release notes are a draft. Items might be added, edited or removed.
 
 Tenant Page Types and default content
 -----------------------------------------

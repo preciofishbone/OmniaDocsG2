@@ -1,7 +1,7 @@
 6.0.0
 ========================================
 
-**Note!** These release notes are a draft. Items might be added, edited or removed.
+.. note::  These release notes are a draft. Items might be added, edited or removed.
 
 General
 ***********************
