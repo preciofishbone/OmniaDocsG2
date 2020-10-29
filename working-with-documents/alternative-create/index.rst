@@ -23,17 +23,17 @@ For authors with the right permissions a number of options can be available thro
 
 .. image:: i-icon-viewer.png
 
-**Inportant comment**: The link "CREATE NEW DOCUMENT" you see in the list is not intended for authors of Controlled Documents. This link makes it possible for any unser to create a new document from a document template.
+**Inportant comment**: The link "CREATE NEW DOCUMENT" you see in the list is NOT intended for authors of Controlled Documents. This link makes it possible for any unser to create a new document from a document template.
 
 Here's an example of an information window for a Controlled Document:
 
 .. image:: i-icon-viewer-displayed.png
 
-Any user can see the information and the two links at the top (Show Document History and Go To Document Library) but need the right permissions to be able to see the history or go to the Controlled Documents library.
+A Document Rollup only lists document the loged in user has rights to read. And read rights includes rights to see the document history and to see and read other published Controlled Documents in the same site. See the two links at the top in the image above.
 
-The buttons UNPUBLISH and CREATE DRAFT are only shown if the user has Author permissions in the Controlled Documents library where the document is saved.
+The buttons UNPUBLISH and CREATE DRAFT are only shown if the user has Author permissions.
 
-The author can now click CREATE DRAFT to create a new draft for the document. It can be very handy if, for example, the author discovers that the document needs to be edited after having read the document.
+The author can now click CREATE DRAFT to create a new draft for the document. It is a quick way of opening the document for editing if, for example, the author discovers that some changes are needed after having read the document.
 
 This works the same way as creating a new draft from the Published tab in the Controlled Documents library, see: :doc:`Working with published documents </working-with-documents/authoring-controlled-documents/working-with-published-documents/index>`
 
