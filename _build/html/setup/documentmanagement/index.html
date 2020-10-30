@@ -179,13 +179,13 @@
 <h1>Setup Document Management<a class="headerlink" href="#setup-document-management" title="Permalink to this headline">¶</a></h1>
 <div class="admonition note">
 <p class="first admonition-title">Note</p>
-<p class="last">In order for Document Managemnet features to appear in the UI, the Document Management extension needs to be installed and the Controlled Documents feature needs to be activated. Please consult with your local partner.</p>
+<p class="last">In order for Document Managemnet features to appear in the UI, the Document Management extension needs to be installed and the Controlled Documents feature needs to be activated. Please consult with your local partner to set up these prerequisites.</p>
 </div>
 <p>Below you will find the steps needed in order to create a basic setup of Document Management.</p>
 <div class="section" id="document-types">
 <h2>Document Types<a class="headerlink" href="#document-types" title="Permalink to this headline">¶</a></h2>
 <ol class="arabic simple">
-<li>Go to the SharePoint Admin Center.</li>
+<li>Go to the SharePoint admin center.</li>
 <li>Click on Content Services &gt; Term store in the left-hand navigation.</li>
 <li>Make sure to add the Working Languages that you would like to support in the Document Management System. Note! This is a global setting. It will affect all services dependent on the term store.</li>
 </ol>
@@ -199,16 +199,16 @@
 <li>Find the property Document Type and click on the edit icon.</li>
 <li>Connect the property to the terms set Document Types and save.</li>
 </ol>
-<img alt="../../_images/documenttypes.png" src="../../_images/documenttypes.png" />
+<img alt="../../_images/documenttypes2.png" src="../../_images/documenttypes2.png" />
+</div>
+<div class="section" id="document-title">
+<h2>Document Title<a class="headerlink" href="#document-title" title="Permalink to this headline">¶</a></h2>
 <ol class="arabic simple" start="8">
 <li>Go to SharePoint Admin Center.</li>
 <li>Click on More features &gt; Search.</li>
 <li>Click on Manage Search Schema.</li>
 <li>Filter on “refinablestring50”.</li>
 </ol>
-</div>
-<div class="section" id="document-title">
-<h2>Document Title<a class="headerlink" href="#document-title" title="Permalink to this headline">¶</a></h2>
 <img alt="../../_images/refinablestring50.png" src="../../_images/refinablestring50.png" />
 <ol class="arabic simple" start="12">
 <li>Edit the managed property and map the following crawled properties.</li>
@@ -223,6 +223,10 @@
 </div>
 <div class="section" id="document-archive">
 <h2>Document Archive<a class="headerlink" href="#document-archive" title="Permalink to this headline">¶</a></h2>
+<div class="admonition note">
+<p class="first admonition-title">Note</p>
+<p class="last">If you have Process Management setup, you can ignore step 16 - 17.</p>
+</div>
 <ol class="arabic simple" start="16">
 <li>Go to the Business Profile in which you want to host the central controlled documents archive.</li>
 <li>Go to Provisioning Template and create a new template that can be used for system sites.</li>
@@ -231,7 +235,7 @@
 <ol class="arabic simple" start="18">
 <li>Click on Teamwork in Omnia Admin and create a new site for the controlled documents archive based on the System Site template.</li>
 </ol>
-<img alt="../../_images/create-site.png" src="../../_images/create-site.png" />
+<img alt="../../_images/controlleddocuments-archive.png" src="../../_images/controlleddocuments-archive.png" />
 <ol class="arabic simple" start="19">
 <li>Activate the feature Archived Documents on the newly created site.</li>
 <li>Click on Document Management in Omnia Admin and click on Settings.</li>
@@ -395,7 +399,7 @@
   <div role="contentinfo">
     <p>
         &copy; Copyright 2020, Precio Fishbone.
-      Last updated on Oct 29, 2020.
+      Last updated on Oct 30, 2020.
 
     </p>
   </div>
