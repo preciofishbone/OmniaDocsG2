@@ -244,7 +244,7 @@ Fixes
 - Fixed an issue that prevented the action button from correctly linking to an internal omnia page (#123894, #123868)
 - Fixed an issue where the browser back button would sometimes not work (#123824).
 
-5.1.15
+5.1.16
 ==========================================
 - Strengthen profile can now display taxonomy properties if the user’s language is not available in the term store (#123571).
 - Tags can now be used to setup related pages.
@@ -254,3 +254,7 @@ Fixes
 - Top contributors in people rollup now render correctly even when their contributions are older (#123853).
 - Creating a page from an action button now render the correct form in the case you have never accessed the editor.
 - Current navigation arrows now render correctly depending on if the node has children or not. (#120305, #122251).
+- Fixes to the archive functionality that could affect older tenants. (#124214, #123931, #123922, #124206).
+- Updated Danish labels.
+- The People rollup dialog view no longer triggers a re-render of the content when opened (#121944).
+
