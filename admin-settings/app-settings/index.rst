@@ -33,7 +33,7 @@ Under Settings, the following is available:
 
 Edit settings
 ---------------
-Here you can edit the settings for the App (site), which was set when the App was created. The settings available depends on the Provisioning Template selected for the App. See this page for more information: :doc:`Provisioning Templates </admin-settings/busines-group-settings/provisioning-templates/index>`
+Here you can edit the settings for the App (site), which was set when the App was created. The settings available depends on the Provisioning Template selected for the App. See this page for more information: :doc:`Provisioning Templates </admin-settings/business-group-settings/provisioning-templates/index>`
 
 .. image:: app-settings-settings-edit-1.png
 

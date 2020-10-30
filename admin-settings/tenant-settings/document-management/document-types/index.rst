@@ -111,7 +111,7 @@ On the Publish tab you can set the following:
 
 Don't forget to save your changes.
 
-**Important note!** How Publish will work is set when Document Management is activated for a site. If the settings here are changed, it does not change the setting in existing sites. If you want the Publish setting to change in existing sites, you must update the Document Management feature in each site. See the heading "Features" on this page for more information: :doc:`App settings </admin-settings/app-settings/index>`
+**Important note!** How Publish will work is set when Document Management is activated for a site. If the settings here are changed, it does not change the setting in existing sites. If you want that to happen, you must update the Document Management feature in each site. See the heading "Features" on this page for more information: :doc:`App settings </admin-settings/app-settings/index>`
 
 Review
 ---------
