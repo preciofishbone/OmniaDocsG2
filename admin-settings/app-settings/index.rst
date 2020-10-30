@@ -17,7 +17,7 @@ Here you activate, update or remove features for the App (site), for example:
 
 .. image:: app-settings-features.png
 
-An example: If your organization is using Document Management, you must go here to activate the Controlled Documents library for sites where working with Controlled Documents should be possible. (In this example Controlled Documents is already activated.)
+An example: If your organization is using Document Management, you must go here to activate the Controlled Documents library for sites where working with Controlled Documents should be possible. (In this example Controlled Documents is already activated). If any updates to that Features is needed, you go here as well.
 
 Security
 **********
@@ -39,11 +39,11 @@ Here you can edit the settings for the App (site), which was set when the App wa
 
 Switching Template
 -------------------
-If necessary, you can change to another Provisiong Template for the App (site) here, but the recommendation is that you do that only on Apps that are not really use yet.
+If necessary, you can change to another Provisiong Template for the App (site) here, but the recommendation is that you do that only for Apps that are not really use yet.
 
 .. image:: app-settings-settings-template.png
 
-First select Profile and then select Template for the profile. (Available templates depend on the profle chosen.)
+First select Profile and then select Template for the profile. (Available templates depend on the profle chosen).
 
 
 

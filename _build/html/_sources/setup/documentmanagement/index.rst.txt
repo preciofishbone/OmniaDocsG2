@@ -1,14 +1,14 @@
 Setup Document Management
 ===========================================
 
-.. note:: In order for Document Managemnet features to appear in the UI, the Document Management extension needs to be installed and the Controlled Documents feature needs to be activated. Please consult with your local partner.
+.. note:: In order for Document Managemnet features to appear in the UI, the Document Management extension needs to be installed and the Controlled Documents feature needs to be activated. Please consult with your local partner to set up these prerequisites.
 
 Below you will find the steps needed in order to create a basic setup of Document Management.
 
 Document Types
 -------------------------------------------
 
-1. Go to the SharePoint Admin Center.
+1. Go to the SharePoint admin center.
 2. Click on Content Services > Term store in the left-hand navigation.
 3. Make sure to add the Working Languages that you would like to support in the Document Management System. Note! This is a global setting. It will affect all services dependent on the term store.
 
@@ -22,15 +22,15 @@ Document Types
 6. Find the property Document Type and click on the edit icon.
 7. Connect the property to the terms set Document Types and save.
 
-.. image:: documenttypes.png
+.. image:: documenttypes2.png
+
+Document Title
+-------------------------------------------
 
 8. Go to SharePoint Admin Center.
 9. Click on More features > Search.
 10. Click on Manage Search Schema.
 11. Filter on “refinablestring50”.
-
-Document Title
--------------------------------------------
 
 .. image:: refinablestring50.png
 
@@ -47,6 +47,8 @@ Document Title
 Document Archive
 -------------------------------------------
 
+.. note:: If you have Process Management setup, you can ignore step 16 - 17.
+
 16. Go to the Business Profile in which you want to host the central controlled documents archive.
 17. Go to Provisioning Template and create a new template that can be used for system sites.
 
@@ -54,7 +56,7 @@ Document Archive
 
 18. Click on Teamwork in Omnia Admin and create a new site for the controlled documents archive based on the System Site template.
 
-.. image:: create-site.png
+.. image:: controlleddocuments-archive.png
 
 19. Activate the feature Archived Documents on the newly created site.
 20. Click on Document Management in Omnia Admin and click on Settings.
