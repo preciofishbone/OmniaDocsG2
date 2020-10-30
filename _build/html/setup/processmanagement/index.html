@@ -41,7 +41,7 @@
         <link rel="search" title="Search" href="../../search.html"/>
     <link rel="top" title="Omnia  documentation" href="../../index.html"/>
         <link rel="up" title="Setup" href="../index.html"/>
-        <link rel="next" title="Prerequisites" href="prerequisites/index.html"/>
+        <link rel="next" title="Setup a Process Library" href="processlibrary/index.html"/>
         <link rel="prev" title="Setup Document Management" href="../documentmanagement/index.html"/> 
 
   
@@ -105,9 +105,6 @@
 <li class="toctree-l2"><a class="reference internal" href="../basicsetup/index.html">Basic Setup</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../documentmanagement/index.html">Setup Document Management</a></li>
 <li class="toctree-l2 current"><a class="current reference internal" href="#">Setup Process Management</a><ul>
-<li class="toctree-l3"><a class="reference internal" href="prerequisites/index.html">Prerequisites</a></li>
-<li class="toctree-l3"><a class="reference internal" href="processarchive/index.html">Setup the Archive</a></li>
-<li class="toctree-l3"><a class="reference internal" href="processtypetemplates/index.html">Setup Process Types and Templates</a></li>
 <li class="toctree-l3"><a class="reference internal" href="processlibrary/index.html">Setup a Process Library</a></li>
 <li class="toctree-l3"><a class="reference internal" href="processdirectory/index.html">Setup Process Directory</a></li>
 </ul>
@@ -184,15 +181,80 @@
             
   <div class="section" id="setup-process-management">
 <h1>Setup Process Management<a class="headerlink" href="#setup-process-management" title="Permalink to this headline">¶</a></h1>
+<div class="admonition note">
+<p class="first admonition-title">Note</p>
+<p class="last">In order for Process Managemnet features to appear in the UI, the Process Management extension needs to be installed and the Process Management feature needs to be activated. Please consult with your local partner to set up these prerequisites.</p>
+</div>
 <p>Below you will find the steps needed in order to create a basic setup of Process Management.</p>
+<div class="section" id="process-types">
+<h2>Process Types<a class="headerlink" href="#process-types" title="Permalink to this headline">¶</a></h2>
+<ol class="arabic simple">
+<li>Go to the SharePoint admin center.</li>
+<li>Click on Content Services &gt; Term store in the left-hand navigation.</li>
+<li>Make sure to add the Working Languages that you would like to support in the Document Management System. Note! This is a global setting. It will affect all services dependent on the term store.</li>
+</ol>
+<img alt="../../_images/termstore-workinglanguages1.png" src="../../_images/termstore-workinglanguages1.png" />
+<ol class="arabic simple" start="4">
+<li>Create a new term set for Process Types.</li>
+</ol>
+<img alt="../../_images/processtypes.png" src="../../_images/processtypes.png" />
+<ol class="arabic simple" start="5">
+<li>Go to Omnia Admin &gt; Properties &gt; Enterprise Properties.</li>
+<li>Find the property Process Type and click on the edit icon.</li>
+<li>Connect the property to the terms set Process Types and save.</li>
+</ol>
+<img alt="setup\processmanagement\processtypes2.png" src="setup\processmanagement\processtypes2.png" />
+</div>
+<div class="section" id="process-archive">
+<h2>Process Archive<a class="headerlink" href="#process-archive" title="Permalink to this headline">¶</a></h2>
+<div class="admonition note">
+<p class="first admonition-title">Note</p>
+<p class="last">If you have Document Management setup, you can ignore step 16 - 17.</p>
+</div>
+<ol class="arabic simple" start="16">
+<li>Go to the Business Profile in which you want to host the central controlled documents archive.</li>
+<li>Go to Provisioning Template and create a new template that can be used for system sites.</li>
+</ol>
+<img alt="setup\processmanagement\provisioningtemplate-system.png" src="setup\processmanagement\provisioningtemplate-system.png" />
+<ol class="arabic simple" start="18">
+<li>Click on Teamwork in Omnia Admin and create a new site for the process archive based on the System Site template.</li>
+</ol>
+<img alt="../../_images/process-archive.png" src="../../_images/process-archive.png" />
+<ol class="arabic simple" start="19">
+<li>Activate the feature Process Archive on the newly created site.</li>
+<li>Click on Process Management in Omnia Admin and click on Settings.</li>
+<li>Put in the full url to the newly created site in the Archive Site Url and save.</li>
+</ol>
+</div>
+<div class="section" id="process-type-templates">
+<h2>Process Type Templates<a class="headerlink" href="#process-type-templates" title="Permalink to this headline">¶</a></h2>
+<ol class="arabic simple" start="22">
+<li>Go to Omnia Admin &gt; Process Management &gt; Process Templates.</li>
+<li>Create a new Process Template and add a number of shapes to the template. Make sure to include Media and Freeform if you want the process author to be able to create their own shapes when designing the process.</li>
+</ol>
+<img alt="../../_images/setup-process-templates.png" src="../../_images/setup-process-templates.png" />
+<ol class="arabic simple" start="24">
+<li>Go to Omnia Admin &gt; Properties &gt; Enterprise Property. Create a new Person property for Process Owner.</li>
+</ol>
+<img alt="../../_images/setup-processowner.png" src="../../_images/setup-processowner.png" />
+<ol class="arabic simple" start="25">
+<li>Go to Omnia Admin &gt; Properties &gt; Property Sets. Create a new Property Set that can be used for your processes. Include the new Process Owner property.</li>
+</ol>
+<img alt="../../_images/setup-process-propertyset.png" src="../../_images/setup-process-propertyset.png" />
+<ol class="arabic simple" start="26">
+<li>Go to Omnia Admin &gt; Process Management &gt; Process Types.</li>
+<li>Create a new Process Type.</li>
+</ol>
+<img alt="../../_images/setup-processtype-general.png" src="../../_images/setup-processtype-general.png" />
+<img alt="../../_images/setup-processtype-publish.png" src="../../_images/setup-processtype-publish.png" />
+<img alt="../../_images/setup-processtype-review.png" src="../../_images/setup-processtype-review.png" />
+<img alt="../../_images/setup-processtype-archive.png" src="../../_images/setup-processtype-archive.png" />
 <div class="toctree-wrapper compound">
 <ul>
-<li class="toctree-l1"><a class="reference internal" href="prerequisites/index.html">Prerequisites</a></li>
-<li class="toctree-l1"><a class="reference internal" href="processarchive/index.html">Setup the Archive</a></li>
-<li class="toctree-l1"><a class="reference internal" href="processtypetemplates/index.html">Setup Process Types and Templates</a></li>
 <li class="toctree-l1"><a class="reference internal" href="processlibrary/index.html">Setup a Process Library</a></li>
 <li class="toctree-l1"><a class="reference internal" href="processdirectory/index.html">Setup Process Directory</a></li>
 </ul>
+</div>
 </div>
 </div>
 
@@ -206,7 +268,7 @@
   
     <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
       
-        <a href="prerequisites/index.html" class="btn btn-neutral float-right" title="Prerequisites" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right"></span></a>
+        <a href="processlibrary/index.html" class="btn btn-neutral float-right" title="Setup a Process Library" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right"></span></a>
       
       
         <a href="../documentmanagement/index.html" class="btn btn-neutral" title="Setup Document Management" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>
@@ -219,7 +281,7 @@
   <div role="contentinfo">
     <p>
         &copy; Copyright 2020, Precio Fishbone.
-      Last updated on Oct 29, 2020.
+      Last updated on Oct 30, 2020.
 
     </p>
   </div>
