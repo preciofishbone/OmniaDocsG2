@@ -7,7 +7,11 @@ Settings for the tabs
 ***********************
 To access the seetings, go to the Controlled Documents library and click "Edit".
 
-.. image:: edit-controlled-library-new.png
+.. image:: edit-controlled-library-new2.png
+
+Here, the following settings are available:
+
+.. image:: edit-controlled-library-settings-all.png
 
 General
 -----------
@@ -32,23 +36,21 @@ Here you can set the following:
 
 Drafts
 --------
-The following settings are available here:
+The following settings are available for the Drafts tab:
 
 .. image:: edit-controlled-library-drafts-new.png
 
 + **Default Ordering Field**: Select the column for default sort order for the list.
-+ **Sort Direction**: Select Descending or Ascending her.
-+ **Show Search Box**: If authors should be able to search for documents here, select this option.
-+ **Column**: Use this option to add a column to bes shown. Open the list, select the column and click "ADD".
-+ **Display columns in draft view**: Here the selected columns are listed. To remove a column. click the dust bin. If no dust bin is shown for a column it's mandatory, and therefore can't be removed. You can set the order of the columns by grabbing the Equal To icon for the column and drag it to another place in the list.
++ **Sort Direction**: Select Descending or Ascending here.
++ **Show Search Box**: If authors should be able to search for documents in the list, select this option.
++ **Column**: Use this option to add a column to be shown. Open the list, select the column and click "ADD".
++ **Display columns in draft view**: Here the selected columns are listed. To remove a column, click the dust bin. If no dust bin is shown for a column it's mandatory, and therefore can't be removed. You can set the order of the columns by grabbing the Equal To icon for the column and drag it to another place in the list.
 
 Published
 ------------
-The same type of settings as for Drafts are available here:
+The same type of settings as for Drafts are available here. See above for a description.
 
 .. image:: edit-controlled-library-published-new.png
-
-See above for a description.
 
 Default Document Types
 ------------------------
@@ -56,27 +58,29 @@ Use this setting to select one or more Document Types to be suggested when an au
 
 As an example, these settings:
 
-.. image:: default-types-example-1.png
+.. image:: default-types-example-2.png
 
 Will result in the following:
 
-.. image:: default-types-example-2-new.png
+.. image:: default-types-example-2-wizard.png
 
-A user can always click "Show All" to see all available document types. More information about how the New Document Wizard works is found here: :doc:`Using the Document Wizard </working-with-documents/using-the-document-wizard/index>`
+A user can always click "Show All" to see all available document types. More information about how the Document Wizard works is found here: :doc:`Using the Create New Document Wizard </working-with-documents/using-the-document-wizard/index>`
 
 To add a Document Type, do the following:
 
 1. Click in the field.
 
-.. image:: document-type-add-1.png
+.. image:: document-type-add-1-new.png
 
 2. Use the list to select one or more Document Types. 
 
-.. image:: document-type-add-2.png
+.. image:: document-type-add-2-new.png
 
 If the Document Types are grouped (as in the image above) you may need to expand a group to select a Document Type there. 
 
 Also note that you can deselect Document Types as well using this list.
+
+For more information about Document Types, see this page: :doc:`Document Types </admin-settings/tenant-settings/document-management/document-types/index>`
 
 Permissions
 ************
@@ -86,25 +90,23 @@ Do the following:
 
 1. Click "Permissions" in the Controlled Documents library.
 
-.. image:: click-permissions-new.png
+.. image:: click-permissions-new2.png
 
 Something like the following is shown:
 
-.. image:: controlled-permissions-new.png
+.. image:: controlled-permissions-new2.png
 
-You can add/remove groups and/or users to these lists.
+You can add/remove groups and/or users in these lists.
 
-2. To edit permissions, open the list.
+If permission groups are used, as in the example above, you can add and remove users in these groups by using the Sharepoint standard functionality "Advanced permissions settings" - found under "Site Permissions" in the settings for the site. 
 
-.. image:: controlled-permissions-list-new.png
-
-You can also add groups or users by typing the name in the field.
-
-If permission groups are used, as in the example above, you can add and remove users in these groups by using the Sharepoint standard functionality "Advanced permissions settings".
-
-.. image:: advanced-permissions-settings-new.png
+.. image:: advanced-permissions-settings-new2.png
 
 Note that external users that has been invited in the Asher AD can be added here as well. Users invited this way can log in with their own Microsoft 365 account.
+
+Settings for Document Management is found under that heading in Omnia Admin, see this part of the documentation for more information: :doc:`Document Management </admin-settings/tenant-settings/document-management/index>`
+
+
 
 
 
