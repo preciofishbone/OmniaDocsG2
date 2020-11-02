@@ -28,9 +28,13 @@ This is an instruction that may be needed for integration between Omnia and Shar
 
 Custom Email Service
 *********************
-This may be needed for some specialized implementations.
+If this setting is disabled, Omnia will use the SharePoint API:s for sending e-mails.
+In some scenarios, for example when working with external users or when you want e-mails from Omnia to be sent from a specific e-mail address, you can enable this setting.
+Enabling this allows you to select a user account (best practice is to setup a dedicated account). Omnia will then send e-mails using this dedicated user account via the Exchange API:s.
 
-Adit logs
+*Note: The selected user account need to have a cloud Exchange mailbox*
+
+Audit Logs
 ***********
 This option logs some important events in Omnia. In this version the following is logged:
 
@@ -82,7 +86,7 @@ Don't forget to save when you're done.
 
 The e-mails that are sent about updates are sent from no-reply@omniacloud.net. You must make sure to check your junk mail or create a new rule in your e-mail system to trust this e-mail address.
 
-Queue logs
+Queue Logs
 ***********
 Administrators can use this option to troubleshoot issues on site provisioning and other long running operations.
 
