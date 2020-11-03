@@ -1,7 +1,7 @@
 Authoring Controlled Documents
 =================================
 
-This section is intended for Authors of Controlled Documents. The work normally takes place in a Controlled Documents library in a Team Site (but also see :doc:`Alternative ways of creating Controlled Documents </working-with-documents/authoring-controlled-documents/alternayive-create/index>`). 
+This section is intended for Authors of Controlled Documents. The work normally takes place in a Controlled Documents library in a Team Site (but also see :doc:`Alternative ways of creating Controlled Documents </working-with-documents/authoring-controlled-documents/alternative-create/index>`). 
 
 Who is allowed to author and approve (if approval is needed) is set up in Omnia Admin under Document Management. See this for more information on defining author permissions: :doc:`Document Management Settings </admin-settings/tenant-settings/document-management/settings/index>`
 
@@ -31,7 +31,7 @@ In the Controlled Documents library, authors can find three tabs:
 
 + **Tasks** (if shown) is a list of tasks for the documents – either for review or for publication – both active and finished.
 
-+ **Published** display all published document in this Controlled Documents library. When a document is published it is removed from Drafts and is available on this tab. Here the options for creating a new draft, unpublishing and Document History are available, together with a number of additional options, see: :doc:`Working with Published documents </working-with-documents/authoring-controlled-documents/working-with-published-documents/index>`.
++ **Published** display all published document in this Controlled Documents library. When a document is published it is removed from Drafts and is available on this tab. Here the options for creating a new draft, unpublishing and Document History are available, together with a number of additional options.
 
 Most headings can be used to sort a list.
 
