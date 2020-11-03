@@ -61,13 +61,13 @@ If you are doing this for an uploaded document that is not connected to a templa
 
 2. Select language if needed, to see the correct list of templates.
 
-.. image:: edit-properties-2b-new2.png
+.. image:: edit-properties-2b-new3.png
 
 3. Select a template to connect to the uploaded document. To see a list of all available templates, click "Show All".
 
 Now properties for the document are shown (and this is what is shown for a document you have created). It differs depending on the template (or rather the Document Type the template belongs to). Here's an example:
 
-.. image:: edit-properties-2-new2.png
+.. image:: edit-properties-2-new3.png
 
 **Note!** You can even choose another template for the document here, if needed. Click the x for the existing template and select another template. Don't forget to select language if needed.
 
