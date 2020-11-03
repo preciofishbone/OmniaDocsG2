@@ -1,7 +1,7 @@
 Authoring Controlled Documents
 =================================
 
-This section is intended for Authors of Controlled Documents. The work normally takes place in a Controlled Documents library in a Team Site (but also see :doc:`Alternative ways of creating Controlled Documents </working-with-documents/authoring-controlled-documents/alternative-create/index>`). 
+This section is intended for Authors of Controlled Documents. The work normally takes place in a Controlled Documents library in a Team Site (but also see :doc:`Alternative ways of creating Controlled Documents </working-with-documents/alternative-create/index>`). 
 
 Who is allowed to author and approve (if approval is needed) is set up in Omnia Admin under Document Management. See this for more information on defining author permissions: :doc:`Document Management Settings </admin-settings/tenant-settings/document-management/settings/index>`
 
