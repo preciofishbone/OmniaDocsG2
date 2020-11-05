@@ -259,7 +259,7 @@ Fixes
 - The People rollup dialog view no longer triggers a re-render of the content when opened (#121944).
 
 
-5.1.19
+5.1.20
 ==========================================
 - The notification panel now closes on navigate on mobile devices (#123301).
 - Ensured Document Management file size upload limit (#119483).
@@ -271,6 +271,7 @@ Fixes
 - Improved stability in the controlled documents publish flow (#124145).
 - The RTF feature "Keep text only" has been improved. It is also now always included by default
 - Improved the search as you type experience for filters in rollups.
+- Corrected an issue where Editors would not get enough permissions via AD-groups (#124279).
 
 
 
