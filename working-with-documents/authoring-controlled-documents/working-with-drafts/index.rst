@@ -82,13 +82,13 @@ Do the following:
 1. Click "Add" and select "Move".
 2. Open the library.
 
-.. image:: draft-move-2-new2.png
+.. image:: draft-move-2-new3.png
 
 3. Open a folder if needed.
 4. Select one or more documents to move.
 5. Click "GET DOCUMENT".
 
-.. image:: draft-move-3-new2.png
+.. image:: draft-move-3-new3.png
 
 Now the selected document(s) are moved from the original Documents library and into the Controlled Documents library as drafts.
 
@@ -100,23 +100,23 @@ Note that work with appendices (uploading new ones, deleting existing) can only 
 
 Also note that a Document Type contains a setting that states if appendices are allowed or not. For a document tied to a Document Type with appendices not allowed, the Appendices option is not available.
 
-An icon indicates if appendices are attached to a document, and states the number of appendices. (An Appendices columne can also be shown). 
+An icon indicates if appendices are attached to a document, and states the number of appendices. (An Appendices column can also be shown). 
 
 In this example the document has 1 appendice:
 
-.. image:: appendix-example-new2.png
+.. image:: appendix-example-new3.png
 
 Upload or remove appendices this way:
 
 1.	Open the dot menu for the document to add appendices to. 
 
-.. image:: upload-appendice-1-new2.png
+.. image:: upload-appendice-1-new3.png
 
 2. Select "Appendices".
 
-.. image:: upload-appendice-2-new2.png
+.. image:: upload-appendice-2-new3.png
 
-**Note!** You must have added all necessary properties to a document before you can upload appendices.
+**Note!** You must have added all necessary properties to a document before you can upload appendices. This is indicated by the option "Appendices" being gray and not available.
 
 A list of existing appendices is now shown, if any. You can upload a new appendice or make a copy of a published document to use as an appendice, see below.
 
@@ -126,27 +126,33 @@ To upload a new appendice, do the following:
  
 1.	Click "Upload".
 
-.. image:: upload-appendice-3-new3.png
+.. image:: upload-appendice-3-new4.png
 
 2. Use drag and drop or click "Browse" to select one or more documents to upload.
 
-.. image:: upload-appendice-4-new2.png
+.. image:: upload-appendice-4-new3.png
 
-3. If you happen to select a document that should not be uploaded, just click the x to remove it.
+3. If you happen to select a document that should not be uploaded, just point at the document and click the x to remove it.
 4. If you need to edit the file name, just click it and add a new one.
 5. Click "UPLOAD".
 
-.. image:: upload-appendice-5-new2.png
+.. image:: upload-appendice-5-new3.png
  
 When the upload is finished the file(s) is visible in the Appendices list for the document, for example:
 
-.. image:: upload-appendice-6-new2.png
+.. image:: upload-appendice-6-new3.png
 
-A document can be opened from here by clicking the link. Use the options to the right of the file name to edit or delete the file from the list.
+An Appendice document can be opened from here by clicking the link. 
+
+Use the options to the right of the file name to edit or delete the file from the list.
+
+Here's a **tip**: You can open the Appendices window directly from the list. Just click the icon or the link in the Appendiecs column, if available.
+
+.. image:: upload-appendice-7.png
  
 Appendices can be added to this list continuously up to publication of the document. If appendices needs to be removed or added for a published document, a new edition of the document must be published.
 
-**Note!** An appendix uploaded as shown above will not be visible in the Drafts list, but will only exist as a part of the main document. When a document with appendices is published, both the main document and the appendices are approved in one go. The appendices does not have to be approved separately (but also see below).
+**Note!** An appendix uploaded as shown above will not be visible as a document in the Drafts list, but will only exist as a part of the main document. When a document with appendices is published, both the main document and the appendices are approved in one go. The appendices does not have to be approved separately (but also see below).
 
 Published documents as Appendices - Copy from other document
 ---------------------------------------------------------------
@@ -157,18 +163,18 @@ Another option is to add a copy of a published document as an Appendice. All pub
 1. Open the dot menu for the document where you want to add appendices, and select "Appendices".
 2. Click "Copy from other Document" in the window shown.
 
-.. image::  upload-copy-1-new2.png
+.. image::  upload-copy-1-new3.png
 
 The following is shown:
 
-.. image:: upload-copy-2-new2.png
+.. image:: upload-copy-2-new3.png
  
 3. Search for the document. 
 4. Select the document(s) to add (a copy of) as appendice(s).
 5. Choose to overwrite existing appendices or not. This option is useful if a new version of a document you use as a appendice has been published and you want to replace the old copy with the new edition.
 6. Click "Copy".
 
-.. image:: upload-copy-3-new2.png
+.. image:: upload-copy-3-new3.png
  
 The documents added to the Appendices list this way is handled exactly the same way as a document uploaded as an appendix, see above. (And remember that it is a copy of the original document.)
 
@@ -182,37 +188,41 @@ To create a new draft of a published document, do the following:
 2.	Click the dot menu for the document.
 3.	Select "Create Draft".
 
-.. image:: create-draft-1-new2.png
+.. image:: create-draft-1-new3.png
 
 4. If the document is not tied to a template, it can now be done. In that case something like the following is shown:
 
-.. image:: select-template.png
+.. image:: select-template-new.png
 
 If you select "Yes", open the list and select a template.
 
-.. image:: select-template-select.png
+.. image:: select-template-select-new.png
 
-Or (if the document already is tied to a template):
+The author will also be notified if the template the document is based on, is updated, see below.
+
+Or (if the document already is tied to a template that is not updated):
 
 4. Select which edition to base the new draft on.
 
-.. image:: create-draft-2-new2.png
+.. image:: create-draft-2-new3.png
 
 As you see you can even upload a document to base the new draft on. This can be useful for example when you want to publish a new edition of a document you have uploaded as it is. Perhaps you have received a new version of a document from a supplier?
 
-If you select "Previous Edition", you can open the list and select which of the previous published editions you want to base the new Draft on. If you want to have a look at that edition before deciding, you can download a copy of the previous edition you selected in the list, by clicking this icon:
+If you select "Previous Edition", you can open the list and select which of the previous published editions you want to base the new Draft on. If you want to have a look at that edition before deciding, you can download a copy of the previous edition you selected in the list, by first selecting the edition and then clicking this icon:
 
-.. image:: create-draft-3-new2.png
+.. image:: create-draft-3-new3.png
 
 5. When you're done there, click "Create Draft".
 
 The new draft is created and the "Drafts" tab is automatically activated. The work on the new draft is done exactly as the first time. That a document has been published before does not make any difference.
 
-**Note!** There can be only one draft of a given document. If there already is a draft for the document and an author tries to create another on, a message is shown stating that it's not possible. 
+**Note!** There can be only one draft of a given document. If there already is a draft for the document and an author tries to create another one, a message is shown stating that it's not possible. 
  
 New drafts and templates
 ***************************
-If there is a new version of the template used for the document, the author will be notified and can choose to use the new version of the template, or stick to the old one.
+If there is a new version of the template used for the document, the author will be notified and can choose to use the new version of the template, or stick to the old one, for example:
+
+.. image:: create-draft-updated-template.png
 
 A special case is when a new draft is created from a Word or Excel document that was uploaded rather than created from scratch. When a new draft for a second edition is created, the template can be altered (or rather selected). But using a template for an uploaded document is never mandatory, the document can always be used as is.
 
