@@ -43,7 +43,7 @@ Do the following to upload a document:
 4. If you need to edit a file name, just click and enter a new one.
 5. Click "UPLOAD".
 
-.. image:: upload-document-3-new3.png
+.. image:: upload-document-3-new4.png
 
 Edit a document's properties
 *****************************
@@ -136,7 +136,7 @@ To upload a new appendice, do the following:
 4. If you need to edit the file name, just click it and add a new one.
 5. Click "UPLOAD".
 
-.. image:: upload-appendice-5-new3.png
+.. image:: upload-appendice-5-new4.png
  
 When the upload is finished the file(s) is visible in the Appendices list for the document, for example:
 
@@ -188,7 +188,7 @@ To create a new draft of a published document, do the following:
 2.	Click the dot menu for the document.
 3.	Select "Create Draft".
 
-.. image:: create-draft-1-new3.png
+.. image:: create-draft-1-new4.png
 
 4. If the document is not tied to a template, it can now be done. In that case something like the following is shown:
 
