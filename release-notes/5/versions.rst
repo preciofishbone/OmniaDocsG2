@@ -258,13 +258,20 @@ Fixes
 - Updated Danish labels.
 - The People rollup dialog view no longer triggers a re-render of the content when opened (#121944).
 
-5.1.17
+
+5.1.19
 ==========================================
 - The notification panel now closes on navigate on mobile devices (#123301).
 - Ensured Document Management file size upload limit (#119483).
 - The default page collection setting now pre-populates correctly in the settings form (#124191,#124247)
 - Open in client app on related links now behaves as expected for all supported file types (#124220).
 - Updated translations for Event Management in Danish and Swedish.
+- A section in accordion mode can now be edited even when empty (#124285).
+- Corrected an issue that prevented the controlled document feature to be activated on some sites (#124331).
+- Improved stability in the controlled documents publish flow (#124145).
+- The RTF feature "Keep text only" has been improved. It is also now always included by default
+- Improved the search as you type experience for filters in rollups.
+
 
 
 
