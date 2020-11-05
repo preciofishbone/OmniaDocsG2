@@ -258,3 +258,14 @@ Fixes
 - Updated Danish labels.
 - The People rollup dialog view no longer triggers a re-render of the content when opened (#121944).
 
+5.1.17
+==========================================
+- The notification panel now closes on navigate on mobile devices (#123301).
+- Ensured Document Management file size upload limit (#119483).
+- The default page collection setting now pre-populates correctly in the settings form (#124191,#124247)
+- Open in client app on related links now behaves as expected for all supported file types (#124220).
+- Updated translations for Event Management in Danish and Swedish.
+
+
+
+
