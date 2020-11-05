@@ -188,11 +188,11 @@ To create a new draft of a published document, do the following:
 2.	Click the dot menu for the document.
 3.	Select "Create Draft".
 
-.. image:: create-draft-1-new5.png
+.. image:: create-draft-1-new3.png
 
 4. If the document is not tied to a template, it can now be done. In that case something like the following is shown:
 
-.. image:: select-template-new.png
+.. image:: select-template-new2.png
 
 If you select "Yes", open the list and select a template.
 
@@ -200,7 +200,7 @@ If you select "Yes", open the list and select a template.
 
 The author will also be notified if the template the document is based on, is updated, see below.
 
-Or (if the document already is tied to a template that is not updated):
+If the document already is tied to a template that is not updated, this is shown:
 
 4. Select which edition to base the new draft on.
 
