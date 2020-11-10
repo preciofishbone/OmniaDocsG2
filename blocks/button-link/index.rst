@@ -52,7 +52,7 @@ The following settings are available here:
 + **Reserve Text**: (A description will be added soon.) Available for Event Management.
 + **Apply Text**: (A description will be added soon.) Available for Event Management.
 
-Regarding the options for Button Type (for Event Management:
+Regarding the options for Button Type (for Event Management):
 
 + Sign Up: Used by the logged in user to register for an event.
 + Sign Up Other: Used by the logged in user to register others - colleagues or external partners - for an event.
