@@ -15,11 +15,13 @@ Options in Outlook is used to display the event in the participants calendars an
 
 See these pages for more information:
 
+:doc:`Action Button block </blocks/button-link/index>`
+
 :doc:`Event Participant List block </blocks/blocks-event-management/event-participant-list/index>`
 
 :doc:`Event Participant Counter block </blocks/blocks-event-management/event-participant-counter/index>`
 
-:doc:`Action Button block </blocks/button-link/index>`
+
 
 
 
