@@ -277,10 +277,12 @@ Fixes
 5.1.21
 ==========================================
 - (Preview) It's now possible for a user to set their system language to be used in Omnia. This will take priority over any language set in O365. 
+- It's now possible to enable a login flow that will allow Safari devices with ITP turned on correctly authenticate against Omnia Attached sites.
 - Corrected an issue where default visitors would not always be correctly applied to new sites. 
 - Corrected an issue that made term driven approval does not work properly for Controlled Documents (#124076).
 - Corrected a migration issue that would occur when one authoring site had more than 5000 documents(#124333, #124334, #124090).
 - Fixed an issue where new processes would not show up in the process rollup (#124329).
+
 
 
 
