@@ -21,6 +21,8 @@ See these pages for more information:
 
 :doc:`Event Participant Counter block </blocks/blocks-event-management/event-participant-counter/index>`
 
+:doc:`Create a new event </working-with-events/creating-new-event/index>`
+
 
 
 
