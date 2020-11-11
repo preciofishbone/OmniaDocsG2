@@ -3,11 +3,13 @@ Working with Events
 
 **This documentation is just (really just) started. More will be added here soon.**
 
-You create an Event Centre, a Page Collection, to house pages for different events, quite like what you do for News with the News Centre. You use a Page Rollup in the Event Centre to list the Event Pages. For this purpose an Event List view is available for Display in the Page Rollup.
+You create an Event Centre, a Page Collection, to house pages for different events, quite like what you do for News with the News Centre. You use a doc:`Page Rollup block </blocks/page-rollup/index>` in the Event Centre to list the Event Pages. For this purpose an Event List view is available for Display in the Page Rollup.
 
 You need at least one Page Type for Events, so editors can create pages for different events. On that Page Type you use the :doc:`Action Button block </blocks/button-link/index>` to add three Actions Buttons so colleagues can register for themseleves, register for others, and cancel their registration. You must use the type "Event Management" for the Action Buttons for this to work (on the Page Type for Event Pages, but not on the "Event Centre" page).
 
-There's two specific blocks available for Event Management - :doc:`Event Participant List </blocks/blocks-event-management/event-participant-list/index>` and :doc:`Event Participant Counter </blocks/blocks-event-management/event-participant-counter/index>`. In all other aspects, you use available options for Page Types in Omnia to create pages with the information you want to display for the Event.
+**Note!** In Features for an App in Omnia Admin, you can activate the feature called "Default Page types for Event Management", to get a Page Type for that purpose, if you don't want to create one yourself.
+
+There's two specific blocks available for Event Management; :doc:`Event Participant List </blocks/blocks-event-management/event-participant-list/index>` and :doc:`Event Participant Counter </blocks/blocks-event-management/event-participant-counter/index>`. In all other aspects, you use available options for Page Types in Omnia to create pages with the information you want to display for the Event.
 
 On an Event Page it will be possible for colleagues, and even external partners, to register for participating in the event. 
 
