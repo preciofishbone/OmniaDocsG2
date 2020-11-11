@@ -13,6 +13,7 @@ On an Event Page it will be possible for colleagues, and even external partners,
 
 Options in Outlook is used to display the event in the participants calendars and for communication between the participants and the event.
 
+
 .. toctree::
    :titlesonly:
 
