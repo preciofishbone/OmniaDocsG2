@@ -7,7 +7,7 @@ You create an Event Centre, a Page Collection, to house pages for different even
 
 You need at least one Page Type for Events, so editors can create pages for different events. On that Page Type you use the Action Button block to add three Actions Buttons so colleagues can register for themseleves, register for others, and cancel their registration. You must use the type "Event Management" for the Action Buttons for this to work (on the Page Type for Event Pages, but not on the "Event Centre" page).
 
-There's two specific blocks available for Event Management - Event Participant List and Event Participant Counter. In all other aspects, you use available options for Page Types in Omnia to create pages with the information you want to display for the Event.
+There's two specific blocks available for Event Management - :doc:`Event Participant List </blocks/blocks-event-management/event-participant-list/index>` and :doc:`Event Participant Counter </blocks/blocks-event-management/event-participant-list/index>`. In all other aspects, you use available options for Page Types in Omnia to create pages with the information you want to display for the Event.
 
 On an Event Page it will be possible for colleagues, and even external partners, to register for participating in the event. 
 
