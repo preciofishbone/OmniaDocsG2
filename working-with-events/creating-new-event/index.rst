@@ -21,9 +21,11 @@ Something like the following is shown:
 + **Disable self service registration**: Info will be added soon.)
 + **Event ends**: Add the date for the end of the event.
 + **Event starts**: Add a date for the start of the event.
-+ ** Maximum number of partpicipants**: Set the maximum number of participants for the event here. This can have two possible effects, depending on how 
++ **Maximum number of partpicipants**: Set the maximum number of participants for the event here. This can have two possible effects, depending on how 
 + **Registration closes**: Set the date for the last day registration is possible.
 + **Registration opens**: Set the date for the first day registration is possible for this event.
+
+4. Click CREATE when your done, to create the Event page.
 
 
 
