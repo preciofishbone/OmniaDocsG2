@@ -13,17 +13,10 @@ On an Event Page it will be possible for colleagues, and even external partners,
 
 Options in Outlook is used to display the event in the participants calendars and for communication between the participants and the event.
 
-See these pages for more information:
+.. toctree::
+   :titlesonly:
 
-:doc:`Action Button block </blocks/button-link/index>`
-
-:doc:`Event Participant List block </blocks/blocks-event-management/event-participant-list/index>`
-
-:doc:`Event Participant Counter block </blocks/blocks-event-management/event-participant-counter/index>`
-
-:doc:`Create a new event </working-with-events/creating-new-event/index>`
-
-
+   creating-new-event/index
 
 
 
