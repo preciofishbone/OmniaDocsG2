@@ -18,10 +18,10 @@ Something like the following is shown:
 + **Url**: (Info will be added soon.)
 + **Allow to register others**: The logged in user can always register himself or herself and at the same time register a number of not named participants. If any user should be able to register other NAMED participants as well, select this option. This is done through a separate button.
 + **Deadline to cancel registration**: Here you can add a date when it's no longer possible to cancel registrations for the event.
-+ **Disable self service registration**: Info will be added soon.)
++ **Disable self service registration**: If you enable this option, would be participants can only register to the Standby list.
 + **Event ends**: Add the date for the end of the event.
 + **Event starts**: Add a date for the start of the event.
-+ **Maximum number of partpicipants**: Set the maximum number of participants for the event here. This can have two possible effects, depending on how the event is set up; 1. If a wait list is possible, would be participants are listed in the waiting list when this number is reached, 2. If a wait list is not possible, no additional registrations can take place when this number is reached.
++ **Maximum number of partpicipants**: Set the maximum number of participants for the event here. This can have two possible effects, depending on how the events is set up here (setting is done in the Page Type); 1. If a Standby list is possible, would be participants are listed in the Standby list when this number is reached, 2. If a Standby list is not possible, no additional registrations can take place when this number is reached.
 + **Registration closes**: Set the date for the last day registration is possible.
 + **Registration opens**: Set the date for the first day registration is possible for this event.
 
