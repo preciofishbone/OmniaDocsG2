@@ -17,6 +17,8 @@ Options in Outlook is used to display the event in the participants calendars an
 
 The list of participants can be exported to Excel and it will be possible for an administrator/page editor to e-mail all participants.
 
+Administrators (page editors) can edit the information added by participants and even remove participants, if needed.
+
 
 .. toctree::
    :titlesonly:
