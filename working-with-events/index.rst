@@ -24,6 +24,7 @@ Administrators (page editors) can edit the information added by participants and
    :titlesonly:
 
    creating-new-event/index
+   implementation-example/index
 
 
 
