@@ -29,7 +29,7 @@ Something like the following is shown:
 
 Edit settings
 ***************
-If any of the settings needs to be edited for an existing page, use the page's Properties, for example:
+If any of the settings needs to be edited for an existing event (page), use the page's Properties, for example:
 
 .. image:: new-event-1-edit.png
 
