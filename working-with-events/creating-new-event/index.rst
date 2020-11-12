@@ -27,6 +27,14 @@ Something like the following is shown:
 
 4. Click CREATE when your done, to create the Event page.
 
+Edit settings
+***************
+If any of the settings needs to be edited for an existing page, use the page's Properties, for example:
+
+.. image:: new-event-1-edit.png
+
+
+
 
 
 
