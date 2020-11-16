@@ -12,6 +12,8 @@ In this example a site for different training events has been set up. First ther
 
 .. image:: event-implementation-2.png
 
+The button CREATE TRAINING EVENT can only be seen and used by administrator/page editors.
+
 Each training is described the following way:
 
 .. image:: event-implementation-4.png
@@ -38,6 +40,77 @@ What we see here is the view for the administrators/page editors. The icons to t
 
 The buttons at the bottom can be used, as the names clearly indicates, to export the participant list to Excel and to send an e-mail to all participants.
 
+The settings
+***************
+The following settings has been used for the pages:
+
+Upcoming events
+-----------------
+This page is the same type of page as for example a News Center. 
+
+.. image:: event-implementation-2.png
+
+A breadcrumb block is added at the top for navigation. 
+
+The rest of the page is a Page Rollup with these settings for Query:
+
+.. image:: event-implementation-query.png
+
+No settings for Social Period.
+
+The following settings for Display:
+
+.. image:: event-implementation-display-1.png
+
+To work for Event Management, View must be set to Event List here.
+
+These settings, also for Display:
+
+.. image:: event-implementation-display-2.png
+
+And finally, these Display settings:
+
+.. image:: event-implementation-display-3.png
+
+For Filter, the settings are to display a Search Box and to enable Partial Word Search:
+
+.. image:: event-implementation-filter.png
+
+Page Variations just uses the defaul choice:
+
+.. image:: event-implementation-page-variations.png
+
+Settings for the Event Pages
+------------------------------
+When a administrator/page editor creates a new event, the following settings are available in this example, and can be edited later:
+
+.. image:: event-implementation-settings-1.png
+
+It is here the administrator/page editor adds all data about the event; for example when i starts and ends and the maximum number of participants.
+
+For more information about these options, see: :doc:`Creating a new event </working-with-events/creating-new-event/index>`.
+
+The Page Type for the event pages consists of a number of blocks. Important to mention is the following:
+
+The buttons in the Action Button block must have the Type "Event Management" to work this purpose.
+
+.. image:: event-implementation-settings-2.png
+
+The two special Event Management blocks are set up the following way.
+
+The Event Participant Counter block:
+
+.. image:: event-implementation-settings-3.png
+
+And the Event Participant List block:
+
+.. image:: event-implementation-settings-4.png
+
+More information about the two Event Management blocks is found here:
+
+:doc:`Blocks for Event Management </blocks/blocks-for-event-management/index>`
+
+The rest of the sections and blocks used on the Page Type are set up depending on the information being displayed, by using options available for any Page Type.
 
 
 
