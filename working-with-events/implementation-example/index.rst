@@ -18,13 +18,15 @@ Each training is described the following way:
 
 There can be three buttons available for registration: SIGN UP, CANCEL and SIGN UP OTHER. The buttons can of course be named something else, but their purpose is described by their name here. 
 
-The reason why the SIGN UP button is not visible, is because the logged in user already has registered. He or she can then cancel the registration or register other named participants. 
+The reason why the SIGN UP button is not visible above, is because the logged in user already has registered. He or she can then cancel the registration or register other named participants. 
+
+When the logged in user has not yet registered, it can look like this:
 
 .. image:: event-implementation-buttons.png
 
 (The CANCEL button is not shown until the logged in user has registered).
 
-You can also se that this training event has 20 seats available and is now fully booked.
+You can also see that this training event has 20 seats available and is now fully booked.
 
 .. image:: event-implementation-booked.png
 
@@ -106,9 +108,7 @@ And the Event Participant List block:
 
 .. image:: event-implementation-settings-4.png
 
-More information about the two Event Management blocks is found here:
-
-:doc:`Blocks for Event Management </blocks/blocks-for-event-management/index>`
+More information about the two Event Management blocks is found here: :doc:`Blocks for Event Management </blocks/blocks-for-event-management/index>`
 
 The rest of the sections and blocks used on the Page Type are set up depending on the information being displayed, by using options available for any Page Type.
 
