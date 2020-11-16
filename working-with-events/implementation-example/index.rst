@@ -2,8 +2,6 @@ Event Management - implementation example
 ==========================================
 Here's an example of how Event management can be implemented.
 
-**(Just started, more will be added soon.)**
-
 In this example a site for different training events has been set up. First there's a landing page set up using banners for navigation:
 
 .. image:: event-implementation-1.png
