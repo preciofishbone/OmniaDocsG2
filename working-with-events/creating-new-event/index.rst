@@ -12,7 +12,7 @@ Something like the following is shown:
 
 .. image:: new-event-1.png
 
-3. Fill in the data for the event.
+3. Fill in the data for the event. The Properties available here depends on how Event Management is set up in Omnia Admin, but the following are common properties:
 
 + **Title**: Add a title for the event here.
 + **Url**: (Info will be added soon.)
@@ -29,7 +29,7 @@ Something like the following is shown:
 
 Edit settings
 ***************
-If any of the settings needs to be edited for an existing event (page), use the page's Properties, for example:
+If any of the settings needs to be edited for an existing event (page), use the page Properties, for example:
 
 .. image:: new-event-1-edit.png
 

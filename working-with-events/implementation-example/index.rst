@@ -6,7 +6,7 @@ In this example a site for different training events has been set up. First ther
 
 .. image:: event-implementation-1.png
 
-"Upcoming sessions" lists the training events that users can register for:
+"Upcoming sessions", lists the training events that users can register for:
 
 .. image:: event-implementation-2-new.png
 
