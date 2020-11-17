@@ -8,7 +8,7 @@ In this example a site for different training events has been set up. First ther
 
 "Upcoming sessions" lists the training events that users can register for:
 
-.. image:: event-implementation-2.png
+.. image:: event-implementation-2-new.png
 
 The button CREATE TRAINING EVENT can only be seen and used by administrator/page editors.
 
