@@ -72,11 +72,11 @@ And finally, these Display settings:
 
 .. image:: event-implementation-display-3.png
 
-No settings for filter and Page Variations (other than default).
+No settings for Filter and Page Variations (other than default).
 
 Settings for the Event (Training) Pages
 -----------------------------------------
-When a administrator/page editor creates a new event, the following settings are available in this example, and can be edited later:
+When a administrator/page editor creates a new event - meaning a new Event Page - the following settings are available in this example, and can be edited later:
 
 .. image:: event-implementation-settings-1.png
 
@@ -86,7 +86,7 @@ For more information about these options, see: :doc:`Creating a new event </work
 
 The Page Type for the event pages consists of a number of blocks. Important to mention is the following:
 
-The buttons in the Action Button block must have the Type "Event Management" to work this purpose.
+The buttons in the Action Button block must have the Type "Event Management" to work for this purpose.
 
 .. image:: event-implementation-settings-2.png
 
