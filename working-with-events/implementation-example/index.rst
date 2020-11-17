@@ -52,9 +52,7 @@ This page is the same type of page as for example a News Center.
 
 .. image:: event-implementation-2.png
 
-A breadcrumb block is added at the top for navigation. 
-
-The rest of the page is a Page Rollup with these settings for Query:
+A Page Rollup block is used, with these settings for Query:
 
 .. image:: event-implementation-query.png
 
@@ -64,7 +62,7 @@ The following settings for Display:
 
 .. image:: event-implementation-display-1.png
 
-To work for Event Management, View must be set to Event List here.
+To work for Event Management, View must be set to "Event List" here.
 
 These settings, also for Display:
 
@@ -74,21 +72,15 @@ And finally, these Display settings:
 
 .. image:: event-implementation-display-3.png
 
-For Filter, the settings are to display a Search Box and to enable Partial Word Search:
+No settings for filter and Page Variations (other than default).
 
-.. image:: event-implementation-filter.png
-
-Page Variations just uses the defaul choice:
-
-.. image:: event-implementation-page-variations.png
-
-Settings for the Event Pages
-------------------------------
+Settings for the Event (Training) Pages
+-----------------------------------------
 When a administrator/page editor creates a new event, the following settings are available in this example, and can be edited later:
 
 .. image:: event-implementation-settings-1.png
 
-It is here the administrator/page editor adds all data about the event; for example when i starts and ends and the maximum number of participants.
+It is here the administrator/page editor adds all data about the event; for example when it starts and ends and the maximum number of participants. These properties may have to be set up specifically in Omnia Admin before they can be used here.
 
 For more information about these options, see: :doc:`Creating a new event </working-with-events/creating-new-event/index>`.
 
@@ -108,7 +100,7 @@ And the Event Participant List block:
 
 .. image:: event-implementation-settings-4.png
 
-More information about the two Event Management blocks is found here: :doc:`Blocks for Event Management </blocks/blocks-for-event-management/index>`
+More information about the two Event Management blocks is found here: :doc:`Blocks for Event Management </blocks/blocks-event-management/index>`
 
 The rest of the sections and blocks used on the Page Type are set up depending on the information being displayed, by using options available for any Page Type.
 
