@@ -23,17 +23,19 @@ When you click the pen for a registration, the following can be edited:
 
 .. image:: editing-icons-edit.png
 
-You can add or edit Phone number, decrese or increase number of people associated with this registration, and a Comment.
+You can add or edit Phone number, decrese or increase number of people associated with this registration, and add a Comment.
 
 Don't forget to save when you're done.
 
-The same actions are available for the Reservation List as well, if any is allowed.
+The same actions are available for the Reservation List as well, but there's a difference. In this case you use the people icon to move the registration to the patricipant list.
 
 Export the list to Excel
 **************************
 You can export the participant list to Excel if needed, by clicking this button:
 
 .. image:: editing-excel-button.png
+
+**Note!** With this option you export the participant list, not anything from the Reservation list.
 
 Send e-mail to all participants
 ********************************
