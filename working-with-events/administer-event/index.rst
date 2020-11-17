@@ -1,0 +1,46 @@
+Administer an Event
+=======================
+
+There's a number of actions available for administrators (page editors) of an event. These actions are described here.
+
+If you need to edit properties for an event, you do that in the Page Properties, see the bottom of this page: :doc:`Creating a new event </working-with-events/creating-new-event/index>`
+
+Editing registrations
+***********************
+You can add registrations if needed, using these icons:
+
+.. image:: editing-icons.png
+
+Note that these icons are only displayed if you have editing permissions for the page.
+
+When you click the person icon you move the participant, along with all people registered for the person, to the Reservation List.
+
+When you click the dust bin, you remove that whole registration.
+
+**Note!** An event can be set up to not have an Reservation List. That is selected, and can be edited, in the Page Properties.
+
+When you click the pen for a registration, the following can be edited:
+
+.. image:: editing-icons-edit.png
+
+You can add or edit Phone number, decrese or increase number of people associated with this registration, and a Comment.
+
+Don't forget to save when you're done.
+
+The same actions are available for the Reservation List as well, if any is allowed.
+
+Export the list to Excel
+**************************
+You can export the participant list to Excel if needed, by clicking this button:
+
+.. image:: editing-excel-button.png
+
+Send e-mail to all participants
+********************************
+You can send an e-mail to all participants by clicking this button:
+
+.. image:: event-editing-email-button.png
+
+
+
+
