@@ -23,7 +23,7 @@ The system recognizes the user and adds Name and Email automatically.
 + **Number of people**: Default is 1 but the user can register a number of users that will accompony him or her to the event.
 + **Comment**: A Comment can be added, but it's not mandatory. This field can be used to note information about allergies, food preferences or other information that the organizer of the event may need to know.
 
-Note the information that the event will be added to the persons personal calendar.
+Note the information that the event will be added to the person's personal calendar.
 
 An important aspect of registering a number of people here is that the only person that gets the event added to his or her calender is the person registering. If you want to make sure the event is added to all patricipant's calender, use the option to sign up others instead.  
 
@@ -55,11 +55,11 @@ External users can be registered using this option. Do the following:
 
 1. Click "Add external user?".
 
-image:: register-other-3.png
+.. image:: register-other-3.png
 
 2. Add information about the external participant:
 
-image:: register-other-4.png
+.. image:: register-other-4.png
 
 3. Add the information needed (see above for field descriptions).
 
@@ -69,7 +69,7 @@ Depending on how the Event is set up, it can be possible to register to a Reserv
 
 Here's an example how it can look when resevation is possible:
 
-image:: register-reservation.png
+.. image:: register-reservation.png
 
 In this example the logged in user has already registered, and therefore no button to register his or herself is available, but the user can still register others to the Reservation List.
 
@@ -79,13 +79,13 @@ Editing ones registration
 **************************
 A user can always edit the registrations he or she has made. Here's an example:
 
-image:: register-edit.png
+.. image:: register-edit.png
 
 The user in this case is Adele Vance. She has registered herself and Tony Bergh (using Register Other in the latter case).
 
-She can now use the pen to edit the registrations - all options described above are avaailable - or click the dust bin to remove the registration.
+She can now use the pen to edit the registrations - all options described above are available - or click the dust bin to remove the registration.
 
-Note that Even Administers can edit or remove any registration, if needed, see: :doc:`Administer and Event </working-with-events/administer-event/index>`
+Note that Event Administers can edit or remove any registration, if needed, see: :doc:`Administer and Event </working-with-events/administer-event/index>`
 
 
 
