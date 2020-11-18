@@ -25,7 +25,7 @@ The system recognizes the user and adds Name and Email automatically.
 
 Note the information that the event will be added to the person's personal calendar.
 
-An important aspect of registering a number of people here is that the only person that gets the event added to his or her calender is the person registering. If you want to make sure the event is added to all patricipant's calender, use the option to sign up others instead.  
+An important aspect of registering a number of people here is that the only person that gets the event added to his or her calender, and will receive any e-mails regarding the event, is the person registering. If you want to make sure the event is added to all patricipant's calender, use the option to sign up others instead.  
 
 2. Click to save the registration (SIGN UP in this example).
 
@@ -43,9 +43,9 @@ The next step is to select user:
 
 .. image:: register-other-2.png
 
-The user can search for colleagues the usual way here. Note that only one participant can be registered each time using this option.
+You can seaerch for colleagues the usual way here. Note that only one participant can be registered each time using this option.
 
-The main difference when using this option instead of just adding a number of people when registering one self, is that in this case, The event is added to the colleagues calendar and when e-mails are sent from the event, colleagues registered this way will receive the e-mails.
+The main difference when using this option instead of just adding a number of people when registering one self, is that in this case, the event is added to the colleague's calendar and when e-mails are sent from the event, colleagues registered this way will receive the e-mails.
 
 (How this works for external participants registered this way will be added soon.)
 
@@ -65,9 +65,9 @@ External users can be registered using this option. Do the following:
 
 Sign up to Reservation List
 ******************************
-Depending on how the Event is set up, it can be possible to register to a Reservation list when the event is fully booked, in case one of the registered patricipants can't attend. If the event is not set up for reservations, it's simply not possible to register when all seats are taken.
+Depending on how the Event is set up, it can be possible to register to a Reservation list when the event is fully booked, in case one of the registered participants can't attend. If the event is not set up for reservations, it's simply not possible to register when all seats are taken.
 
-Here's an example how it can look when resevation is possible:
+Here's an example how it can look when reservation is possible:
 
 .. image:: register-reservation.png
 
