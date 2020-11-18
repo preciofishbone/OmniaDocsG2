@@ -3,9 +3,9 @@ Creating a new Event
 
 **(This documentation is just started. More will be added soon)**
 
-This information is intended for administrators/page editors that needs to create a new event in an Event Centre.
+This information is intended for Event Administrators (page editors) that needs to create a new event in an Event Center.
 
-1. Go to the Event Centre.
+1. Go to the Event Center.
 2. Click the button for creating events.
 
 Something like the following is shown:

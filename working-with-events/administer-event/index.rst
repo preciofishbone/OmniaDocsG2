@@ -1,7 +1,9 @@
 Administer an Event
 =======================
 
-There's a number of actions available for administrators (page editors) of an event. These actions are described here.
+There's a number of actions available for Event Administrators of an event. These actions are described here.
+
+The options are available in Write mode.
 
 If you need to edit properties for an event, you do that in the Page Properties, see the bottom of this page: :doc:`Creating a new event </working-with-events/creating-new-event/index>`
 
