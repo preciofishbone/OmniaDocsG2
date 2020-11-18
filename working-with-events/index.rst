@@ -17,7 +17,7 @@ You need at least one Page Type for Events, so Event Administrators can create p
 
 There's two specific blocks available for Event Management; :doc:`Event Participant List </blocks/blocks-event-management/event-participant-list/index>` and :doc:`Event Participant Counter </blocks/blocks-event-management/event-participant-counter/index>`. In all other aspects, you use available options for Page Types in Omnia to create pages with the information you want to display for the Event.
 
-Event Administrators only needs to have Author permissions. They can edit the information added by participants and even remove participants, if needed. The list of participants can be exported to Excel.
+Event Administrators only needs to have Author permissions. Besides being able to create new events (pages), they can edit the information added by participants and even remove participants, if needed. The list of participants can be exported to Excel.
 
 
 .. toctree::
