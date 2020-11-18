@@ -7,7 +7,7 @@ If you need to edit properties for an event, you do that in the Page Properties,
 
 Editing registrations
 ***********************
-You can add registrations if needed, using these icons:
+You can edit registrations if needed, using these icons:
 
 .. image:: editing-icons.png
 
