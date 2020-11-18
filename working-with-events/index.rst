@@ -25,6 +25,7 @@ Event Administrators only needs to have Author permissions. Besides being able t
 
    creating-new-event/index
    administer-event/index
+   register-for-event/index
    implementation-example/index
 
 
