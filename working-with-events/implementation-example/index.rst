@@ -50,7 +50,7 @@ Upcoming events
 -----------------
 This page is the same type of page as for example a News Center. 
 
-.. image:: event-implementation-2.png
+.. image:: event-implementation-2-new.png
 
 A Page Rollup block is used, with these settings for Query:
 
