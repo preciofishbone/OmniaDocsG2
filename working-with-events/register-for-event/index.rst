@@ -3,8 +3,6 @@ Register for an event
 
 Information on this page describes the Event options available for all users.
 
-**(This documentation is just started, more will be added soon).**
-
 Register myself and maybe some more
 *************************************
 Users can always register for an event this way:

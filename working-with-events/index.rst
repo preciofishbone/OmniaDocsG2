@@ -3,13 +3,13 @@ Working with Events
 
 **This documentation is just started. More will be added here soon.**
 
-Using a number of options in Omnia, together with a few dedicated options, you can publish information about different kinds of events (training sessions is one example) and handle registration of participants for the event.
+Using a number of options in Omnia, together with a few dedicated options, you can publish information about different kinds of events (training sessions is one example) and can handle registration of participants for the event.
 
-By connecting the Omnia Events functionality to Outlook, options in Outlook can be used to display the event in the participants calendars and for communication between the participants and the event.
+By connecting the Omnia Event functionality to Outlook, options in Outlook can be used to display the event in the participants calendars and for communication between the participants and the event.
 
-On an Event Page it will be possible for colleagues, and even external external users that has been invited in the Asher AD, to register or to be registered for participating in the event, and to cancel registrations, if needed.
+On an Event Page it is possible for colleagues, and even external users that has been invited in the Asher AD, to register or to be registered for participating in the event, and to edit or cancel registrations, if needed.
 
-You create a Page Collection to use specifically for events. In that Page Collection you add an Event Centre (Quite like what you do when adding a News Center for news), among other pages that may be needed for describing the events. For the purpose of listing events, an "Event List" view is available for Display in the Page Rollup block.
+You create a Page Collection to use specifically for events. In that Page Collection you add an Event Center (quite like what you do when adding a News Center for news), among other pages that may be needed for describing the events. For the purpose of listing events, an "Event List" view is available for Display in the Page Rollup block.
 
 You need at least one Page Type for Events, so Event Administrators can create pages for different events. On that Page Type you use the :doc:`Action Button block </blocks/button-link/index>` to add three Actions Buttons so colleagues can register for themseleves, register for others, and cancel their registration. You must use the type "Event Management" for the Action Buttons for this to work (on the Page Type for Event Pages, but not on the "Event Centre" page).
 

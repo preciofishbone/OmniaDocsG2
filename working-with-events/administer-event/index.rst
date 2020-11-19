@@ -29,7 +29,7 @@ You can add or edit Phone number, decrese or increase number of people associate
 
 Don't forget to save when you're done.
 
-The same actions are available for the Reservation List as well, but there's a difference. In this case you use the people icon to move the registration to the patricipant list.
+The same actions are available for the Reservation List as well, but there's a difference. In this case you use the people icon to move the registration to the participant list.
 
 Export the list to Excel
 **************************
