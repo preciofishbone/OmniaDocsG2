@@ -75,7 +75,7 @@ In this example the logged in user has already registered, and therefore no butt
 
 The same options as above is available when registering to the Reservation List, as when registering to the Participant List, see above.
 
-Editing ones registration
+Editing a registration
 **************************
 A user can always edit the registrations he or she has made. Here's an example:
 
