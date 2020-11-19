@@ -56,8 +56,7 @@ The following lists all available display settings (shown in different order for
 + **Create button for page collection**: When you have selected "Show create button", this optipon is shown. Use it to select in which page collection the new page will be created.
 + **Date**: Select the property that contains the date for the item(s) to display.
 + **Hide block when no data**: Select this option if the block should be hidden when there's nothing to display.
-+ **Hide Read News**: If this list displays news, select this option to hide all news pages the logged in user has read.
-+ **Hide visited pages**: Select this option to hide all pages the logged in user has visited.
++ **Hide visited pages**: Select this option to hide all pages the logged in user has visited. This affects all pages, including news.
 + **Image**: Select the property that contains the image for the item(s) to display.
 + **Image x and y**: Select the image format here. Available for "Single Item" only.
 + **Item limit**: To limit the number of items being displayed, add a fixed number here. Note that if combined with "No paging", the number of items you enter here are the only items users can access from the list.
