@@ -54,10 +54,12 @@ The following settings are available here:
 
 Regarding the options for Button Type (for Event Management):
 
-+ Sign Up: Used by the logged in user to register for an event.
++ Sign Up: Used by the logged in user to register for an event. 
 + Sign Up Other: Used by the logged in user to register others - colleagues or external partners - for an event.
-+ Add To Outlook: (A description will be added soon).
-+ Cancel: Used by the logged in user to cancel his or her registration (more about how this works will be added soon).
++ Add To Outlook: In the case Event Management is set up to use a specific calendar, this button can added to make it possible for users to add the event to their personal calendar.
++ Cancel: Used by the logged in user to cancel the registration he or she has made in their own name, ie done by using the button "Sign Up". 
+
+For more information about the buttons and more works for Event Management, see: :doc:`Working with Events </working-with-events/index>`
 
 Style
 ---------------
@@ -71,7 +73,6 @@ These settings are available for Style:
 + **Outline**: For an outlined button, select this option. Note that the outline has the same color as the text, and there's no background color, so the text color should normally be black, if you select Outline.
 + **Fill**: If the button should fill the whole width of the block, select this option.
 + **Background Color and Text Color**: Choose colors here. Note the comments about Flat button style and Outline above.
-+ **Alignment**: (A description will be added later).
 + **Icon Type**: To add an icon to the buttton, first select the Icon Type here.
 + **Icon**: When you have selected the Icon Type, select the icon in this list. The icon is placed to the left of the button text.
 + **Alignment**: This option is available on both tabs. Select the alignment of the buttons within the block area.

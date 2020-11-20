@@ -1,6 +1,6 @@
 Event Management
 ===================
-Under Event Management you can select Publishing Apps in the Business Profile, to edit settings for Event Management.
+Here you can select Publishing Apps in the Business Profile, to edit settings for Event Management.
 
 Here's an example of a list of Publishing Apps:
 
@@ -26,9 +26,9 @@ Here's the settings for Event Management:
 
 Use them this way:
 
-+ **Calendar**: Select the calendar for Event Managements in this Page C ollection.
-+ **Description**: (Will be added soon.)
-+ **Location** (A description will be added soon.)
++ **Calendar**: Select the calendar for Event Management in this Page Collection.
++ **Description**: Select the property to be used for the description of the event, shown in the calenders.
++ **Location** Select the property to be used for the location of the event, shown in the calenders.
 
 Don't forget to save when you're done.
 
