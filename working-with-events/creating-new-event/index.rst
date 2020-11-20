@@ -15,7 +15,6 @@ Something like the following is shown:
 3. Fill in the data for the event. The Properties available here depends on how Event Management is set up in Omnia Admin, but the following are common properties:
 
 + **Title**: Add a title for the event here.
-+ **Url**: (Info will be added soon.)
 + **Allow to register others**: The logged in user can always register himself or herself and at the same time register a number of not named participants. If any user should be able to register other NAMED participants as well, select this option. This is done through a separate button.
 + **Deadline to cancel registration**: Here you can add a date when it's no longer possible to cancel registrations for the event.
 + **Disable self service registration**: If you enable this option, would be participants can only register to the Standby list.

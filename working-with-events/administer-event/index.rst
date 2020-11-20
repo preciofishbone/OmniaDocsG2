@@ -1,7 +1,7 @@
 Administer an Event
 =======================
 
-There's a number of actions available for Event Administrators of an event. These actions are described here.
+There's a number of actions available for Event Administrators. These actions are described here.
 
 The options are available in Write mode.
 
@@ -29,7 +29,9 @@ You can add or edit Phone number, decrese or increase number of people associate
 
 Don't forget to save when you're done.
 
-The same actions are available for the Reservation List as well, but there's a difference. In this case you use the people icon to move the registration to the participant list.
+The same actions are available for the Reservation List as well. In this case you use the people icon to move the registration to the participant list.
+
+**Note! When a participant is removed from that list, the first colleage from the Reservations list is automatically moved to the Participant list, if that colleague does not have 
 
 Export the list to Excel
 **************************
