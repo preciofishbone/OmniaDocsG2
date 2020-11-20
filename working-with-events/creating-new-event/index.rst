@@ -29,8 +29,11 @@ If any of the settings needs to be edited for an existing event (page), use the 
 
 .. image:: new-event-1-edit-new.png
 
+Descriptions of two additional options that can be available here:
 
++ **Allow to register others**: The logged in user can always register himself or herself and at the same time register a number of not named participants. If any user should be able to register other NAMED participants as well, select this option. This is done through a separate button.
 
++ **Disable self service registration**: If you enable this option, would be participants can only register to the Standby list.
 
 
 
