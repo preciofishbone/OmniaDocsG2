@@ -10,5 +10,6 @@ Below you will setup instructions for different parts of Omnia.
    basicsetup/index
    documentmanagement/index
    processmanagement/index
+   eventmanagement/index
 
 
