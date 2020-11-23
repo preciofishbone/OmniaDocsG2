@@ -1,17 +1,21 @@
 Action Button
 =====================
 
-Use it to add one or more buttons on a page for clickable links, for Create Page buttons, to show My subscriptions or to subscribe/unsubscribe. You can add one more buttons in each Action Button block. (This option was formerly called Button Link). 
+Use this block to add one or more buttons on a page for clickable links or other actions; Create Page buttons, to show My subscriptions or to subscribe/unsubscribe. This block is also used when using Event Management.
+
+You can add one more buttons in each Action Button block. (This option was formerly called Button Link). 
 
 Settings
 ***********
 Any existing buttons in this block are listed at the top. If no previous button exists, a "New Button" is added automatically. 
 
-.. image:: button-links-new2.png
+.. image:: button-links-new3.png
 
-To edit a button, click the pen (if just the first, automatic button is present, you don't have to do that, then the settings are shown automatically). To delete a button, click the dustbin. When editing a button, the same settings as when you create a new button is available, see below.
+To edit a button, click the pen (if just the first, automatic button is present, you don't have to do that, then the settings are shown automatically). To delete a button, click the dustbin. If just one button is available in the block, no dustbin is available (if you don't want a button here, delete the block.)
 
-.. image:: button-link-settings-edit-delete-new2.png
+.. image:: button-link-settings-edit-delete-new3.png
+
+When editing a button, the same settings as when you create a new button is available, see below.
 
 Note that you can see a preview of the button/buttons in the block as you're working on it (but the buttons are not saved and shown for others until you publish the page).
 
@@ -23,11 +27,11 @@ To add an Action Button in this block, do the following:
 
 1. Click "+ ADD BUTTON".
 
-.. image:: button-link-settings-add-button-new2.png
+.. image:: button-link-settings-add-button-new3.png
 
 2. Click the pen for the new button and use the following settings:
 
-.. image:: button-link-settings.png
+.. image:: button-link-settings-new.png
 
 (All options are not shown in the image above, but listed below).
 
@@ -35,29 +39,40 @@ General
 -------------------
 The following settings are available here:
 
-+ **Type**: Select type of button here; Link, Create Page, My Subscriptions or Subscribe.
-+ **Text**: If there should be some text on the button, add it here.
-+ **Tool tip**: Add the tool tip text for the button here.
-+ **Unsubscribe Text**: A "Subscribe" button changes the text automatically when a user has clicked the button. Unsubscribe is suggested but you can change the text to something else.
++ **Type**: Select type of button here; Link, Create Page, My Subscriptions, Subscribe or Event Management. 
++ **Text**: Add text to be shown on the button here. If variations exists for the page, you add text in the default language here. Other languages are handled by the variation. If no varations exists, you can add text in several languages here.
++ **Tool tip**: Add the tool tip text for the button here. (Same apply for variations as above.)
++ **Unsubscribe Text**: A "Subscribe" button changes the text automatically when a user has clicked the button. Unsubscribe is suggested but you can change the text to something else. (Same apply for variations as above.)
 + **Subscription Scope**: Available for Type Subscription. Select the scope here, meaning what the user actually subscribes to; the Page (=all changes to the page, even comments and best reply for Knowledge pages), Publishing App (=all new pages in the Publishing App, but not changes to existing pages) or Page Collection (=all new pages in the Page Collection, but not changes to existing pages).
 + **Url**: Type or paste the Url to go to when a user clicks the link. Available for Link type.
 + **Target**: Choose if the link should be opened in a new window, the current window, or in a dialog. Available for Link type.
 + **Dialog Position**: If you selected "Dialog" for Target, you can select where to place the dialog: Center, Full screen, Left or Right.
 + **Page Collection**: If you selected "Create Page" as type, select page collection to create the new page in.
++ **Button Type**: Decide what this button will do; Sign Up, Sign Up Other, Add To Outlook or Cancel. Available for Event Management. (Se below for more information.)
++ **Reserve Text**: (A description will be added soon.) Available for Event Management.
++ **Apply Text**: (A description will be added soon.) Available for Event Management.
+
+Regarding the options for Button Type (for Event Management):
+
++ Sign Up: Used by the logged in user to register for an event. 
++ Sign Up Other: Used by the logged in user to register others - colleagues or external partners - for an event.
++ Add To Outlook: In the case Event Management is set up to use a specific calendar, this button can added to make it possible for users to add the event to their personal calendar.
++ Cancel: Used by the logged in user to cancel the registration he or she has made in their own name, ie done by using the button "Sign Up". 
+
+For more information about the buttons and more works for Event Management, see: :doc:`Working with Events </working-with-events/index>`
 
 Style
 ---------------
 These settings are available for Style:
 
-.. image:: action-button-style.png
+.. image:: action-button-style-new.png
 
-+ **Button Style**: You can select "Depressed", "Flat" or "Raised" as the style. Note that a flat button doesn't have any background color, so the text should normally be black for a flat button.
++ **Button Style**: You can select Depressed, Flat or Raised as the style. Note that a flat button doesn't have any background color, so the text should normally be black for a flat button.
 + **Size**: The size of the button can be small, medium or large.
 + **Round**: For round button edges, select this option.
 + **Outline**: For an outlined button, select this option. Note that the outline has the same color as the text, and there's no background color, so the text color should normally be black, if you select Outline.
 + **Fill**: If the button should fill the whole width of the block, select this option.
 + **Background Color and Text Color**: Choose colors here. Note the comments about Flat button style and Outline above.
-+ **Alignment**: (A description will be added later).
 + **Icon Type**: To add an icon to the buttton, first select the Icon Type here.
 + **Icon**: When you have selected the Icon Type, select the icon in this list. The icon is placed to the left of the button text.
 + **Alignment**: This option is available on both tabs. Select the alignment of the buttons within the block area.
