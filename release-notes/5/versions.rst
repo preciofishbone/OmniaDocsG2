@@ -274,7 +274,7 @@ Fixes
 - Corrected an issue where Editors would not get enough permissions via AD-groups (#124279).
 
 
-5.1.21
+5.1.22
 ==========================================
 - (Preview) It's now possible for a user to set their system language to be used in Omnia. This will take priority over any language set in O365. 
 - It's now possible to enable a login flow that will allow Safari devices with ITP turned on correctly authenticate against Omnia Attached sites.
@@ -282,6 +282,19 @@ Fixes
 - Corrected an issue that made term driven approval does not work properly for Controlled Documents (#124076).
 - Corrected a migration issue that would occur when one authoring site had more than 5000 documents(#124333, #124334, #124090).
 - Fixed an issue where new processes would not show up in the process rollup (#124329).
+
+5.1.23
+==========================================
+- Advanced search refiner can now use Tax Id mapped properties like the document rollup (#124283)
+- Fixed an issue that would prevent variation pages from being created (#124517).
+- Stability improvements to page publish flow (#124569, #124292, #124487, #124700, ).
+- Fixed an issue in related links that would cause 2 tabs to be opened in Edge and Chrome (#124649, #124259, #124587, #124708)
+- Corrected an issue that would cause filters with spaces in them to not work correctly in people rollup (#122028).
+- New teams are now correctly provisioned as private if set to provision as such.
+- Corrected an issue that would sometimes show a term outside of its parent in the term picker (#1245880).
+- Fixed an issue related to having a controlled document as a template for controlled documents (#124334).
+- Corrected an issue with date only fields related to Daylight savings (#124531).
+- An App Instance Admin can now change template (And business profile) of its site.
 
 
 

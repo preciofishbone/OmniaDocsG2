@@ -1,7 +1,7 @@
 Working with Events
 ===========================
 
-**This documentation is just started. More will be added here soon.**
+**This documentation is a first version. More will be added here soon.**
 
 Using a number of options in Omnia, together with a few dedicated options, you can publish information about different kinds of events (training sessions is one example) and can handle registration of participants for the event.
 
