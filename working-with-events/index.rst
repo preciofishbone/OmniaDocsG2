@@ -9,7 +9,7 @@ By connecting the Omnia Event functionality to Outlook, options in Outlook can b
 
 On an Event Page it is possible for colleagues, and even external users that has been invited in the Asher AD, to register or to be registered for participating in the event, and to edit or cancel registrations, if needed.
 
-Before you can set up anything else, there's a few things you need to do. See this page for more information: :doc:`Setup Event Management </setup/eventmagament/index>`
+Before you can set up anything else, there's a few things you need to do. See this page for more information: :doc:`Setup Event Management </setup/eventmanagament/index>`
 
 You create a Page Collection to use specifically for events. In that Page Collection you add an Event Center (quite like what you do when adding a News Center for news), among other pages that may be needed for describing the events. For the purpose of listing events, an "Event List" view is available for Display in the Page Rollup block.
 
