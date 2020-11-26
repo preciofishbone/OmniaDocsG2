@@ -19,7 +19,7 @@ Something like the following is shown:
 + **Event ends**: Add the date for the end of the event.
 + **Maximum number of partpicipants**: Set the maximum number of participants for the event here. This can have two possible effects, depending on how the events are set up here (setting is done in the Page Type); 1. If a Standby list is possible, would be participants are listed in the Standby list when this number is reached, 2. If a Standby list is not possible, no additional registrations can take place when this number is reached.
 
-"Training" is an example of a propertyr used where the use can select which event (training in this case) to register for.
+"Training" is an example of a property where the user can select which event (training in this case) to register for.
 
 4. Click CREATE when your done, to create the Event page.
 
