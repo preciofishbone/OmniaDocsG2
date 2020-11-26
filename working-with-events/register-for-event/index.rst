@@ -23,7 +23,7 @@ The system recognizes the user and adds Name and Email automatically.
 
 Note the information that the event will be added to the person's personal calendar.
 
-An important aspect of registering a number of people here is that the only person that gets the event added to his or her calender, and will receive any e-mails regarding the event, is the person registering. If you want to make sure the event is added to all patricipant's calender, use the option to sign up others instead.  
+An important aspect of registering a number of people here is that the only person that gets the event added to his or her calender, and will receive any e-mails regarding the event, is the person registering. If you want to make sure the event is added to all participants calenders, use the option to sign up others instead, i available.  
 
 2. Click to save the registration (SIGN UP in this example).
 
