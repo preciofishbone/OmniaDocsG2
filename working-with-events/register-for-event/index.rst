@@ -63,7 +63,7 @@ External users can be registered using this option. Do the following:
 
 Sign up to Reservation List
 ******************************
-Depending on how the Event is set up, it can be possible to register to a Reservation list when the event is fully booked, in case one of the registered participants can't attend. If the event is not set up for reservations, it's simply not possible to register when all seats are taken.
+Depending on how the Event is set up, it can be possible to register to a Reservation list (Standby List) when the event is fully booked, in case one of the registered participants can't attend. If the event is not set up for reservations, it's simply not possible to register when all seats are taken.
 
 Here's an example how it can look when reservation is possible:
 

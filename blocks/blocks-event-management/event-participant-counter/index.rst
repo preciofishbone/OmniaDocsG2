@@ -1,9 +1,11 @@
 Event Participant Counter block
 =================================
 
-**(This documentation is just started. More will be added soon)**
-
 This block is used to show the number of participants that has registered for the event and the number of possible participants.
+
+Here's an example when an Event is fully booked:
+
+.. image:: event-management-counter.png
 
 Settings
 *********
