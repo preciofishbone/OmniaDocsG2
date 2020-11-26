@@ -17,7 +17,7 @@ Important Event options:
 + Event managers only needs Author permissions.
 + Event Management can be connected to an Outlook calendar for further options. 
 
-There's a number of settings available to decide how Event Management will work. It can for example be set that a Reservation list should not be available and that users should not be able to register others.
+There's a number of settings available to decide how Event Management will work. It can for example be set that a Reservation list should not be available and that users should not be able to register for others.
 
 There's two specific blocks available for Event Management (see the links below). In all other aspects, you use available options in Omnia for Page Types to create pages with the information you want to display for the Event.
 
