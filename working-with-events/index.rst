@@ -25,8 +25,8 @@ There's two specific blocks available for Event Management (see the links below)
 .. toctree::
    :titlesonly:
 
-   eventmanagement/index
-   blocks-event-management/index
+   /setup/eventmanagement/index
+   /blocks/blocks-event-management/index
    creating-new-event/index
    administer-event/index
    register-for-event/index
