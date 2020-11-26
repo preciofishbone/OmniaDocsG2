@@ -59,7 +59,7 @@ Regarding the options for Button Type (for Event Management):
 + Add To Outlook: In the case Event Management is set up to use a specific calendar, this button can added to make it possible for users to add the event to their personal calendar.
 + Cancel: Used by the logged in user to cancel the registration he or she has made in their own name, ie done by using the button "Sign Up". 
 
-For more information about the buttons and more works for Event Management, see: :doc:`Working with Events </working-with-events/index>`
+For more information about how the buttons and more works for Event Management, see: :doc:`Working with Events </working-with-events/index>`
 
 Style
 ---------------
