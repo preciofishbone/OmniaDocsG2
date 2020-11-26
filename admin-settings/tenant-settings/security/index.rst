@@ -26,19 +26,21 @@ The following settings can be available here:
 
 System Account
 ------------------
-System account is a standard extension for specialized implementations only.
+System account is a standard extension for specialized implementations only, normally used by developers.
 
 .. image:: tenant-secrets-system.png
 
 Azure AD Sync Account
 -----------------------
-(A description will be added soon.)
+If you're using Azure AD Synchronization, add the account that executes the scheduling here. Should be a Sharepoint Global Admin account.
 
 .. image:: tenant-secrets-sync.png
+
+For more information about Azure AD Synchronization, see: :doc:`Azure AD Synchronization Settings </admin-settings/tenant-settings/azure-ad-synchronization-settings/index>`
 
 Event Management Service Account
 ----------------------------------
 
-If you will be using Event Management with a connection to calendars in Outlook, here you must add the service account that will be used to read and write from the calendars.
+If you will be using Event Management with a connection to calendars in Outlook, here you must add the service account that will be used to read and write from the calendars. (Don't forget that this account needs permissions to that particular calendar.)
 
 .. image:: tenant-secrets-event.png
