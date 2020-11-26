@@ -1,7 +1,7 @@
 Register for an event
 =======================
 
-Information on this page describes the Event options available for all users.
+Information on this page describes the Event options available for all users. External users that has been invited in the Asher AD, can use the Event options the same way as is described here.
 
 Register myself and maybe some more
 *************************************
@@ -45,8 +45,6 @@ You can seaerch for colleagues the usual way here. Note that only one participan
 
 The main difference when using this option instead of just adding a number of people when registering one self, is that in this case, the event is added to the colleague's calendar and when e-mails are sent from the event, colleagues registered this way will receive the e-mails.
 
-(How this works for external participants registered this way will be added soon.)
-
 Add external user
 --------------------
 External users can be registered using this option. Do the following:
@@ -60,6 +58,8 @@ External users can be registered using this option. Do the following:
 .. image:: register-other-4.png
 
 3. Add the information needed (see above for field descriptions).
+
+An external user registered this way can be any external user. If an Event Administrattor sends en e-mail to participants, external users will receive the e-mail.
 
 Sign up to Reservation List
 ******************************

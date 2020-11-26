@@ -1,8 +1,6 @@
 Creating a new Event
 ======================
 
-**(This documentation is just started. More will be added soon)**
-
 This information is intended for Event Administrators (page editors) that needs to create a new event in an Event Center. Event Administrators must have at least Author permissions.
 
 1. Go to the Event Center.
