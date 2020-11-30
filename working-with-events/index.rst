@@ -1,7 +1,7 @@
 Working with Events
 ===========================
 
-Using a number of options in Omnia, together with a few dedicated options, you can publish information about different kinds of events (training sessions is one example) and can handle registration of participants for the event.
+Using a number of options in Omnia, together with a few dedicated options, information can be pubkished about different kinds of events (training sessions is one example) and Event Managers can handle registration of participants for the event.
 
 Important Event options:
 
@@ -11,11 +11,14 @@ Important Event options:
 + Users can register a number of (not named) colleagues that will accompany them to the event.
 + A user can register for others.
 + Users can edit or remove their own registrations.
-+ External users that has been invited in the Asher AD, can use the Event options.
++ External users that has been invited in the Asher AD, can use the Event Management options.
 + Event Managers can create new events, can edit all registrations and remove registrations if needed.
 + Event Managers can export the Participant list to Excel and can communicate with participants through e-mail.
 + Event managers only needs Author permissions.
-+ Event Management can be connected to an Outlook calendar for further options. 
+
+If Event Management is connected to an Outlook Calendar, this additional option is used:
+
++ The Participant List displays a Status icon to indicate if the registered user has accepted the event in his or her calendar, or not. 
 
 There's a number of settings available to decide how Event Management will work. It can for example be set that a Reservation list should not be available and that users should not be able to register for others.
 

@@ -17,7 +17,7 @@ When you click the person icon you move the participant, along with all people r
 
 When you click the dust bin, you remove that whole registration.
 
-**Note!** An event can be set up to not have a Reservation List. That is selected, and can be edited, in the Page Properties.
+**Note!** An event can be set up to not have a Standby List (Reservation List). That is selected, and can be edited, in Page Properties.
 
 When you click the pen for a registration, the following can be edited:
 
@@ -29,7 +29,15 @@ Don't forget to save when you're done.
 
 The same actions are available for the Reservation List. In this case you use the people icon to move the registration to the Participant list.
 
-**Note!** When a participant is removed from the Participant list, the first colleage from the Reservations list is automatically moved to the Participant list, if the associated number of people does not exceed 
+**Note!** When a participant is removed from the Participant list, the first colleage from the Reservations list is automatically moved to the Participant list, if the associated number of people does not exceed the limit.
+
+Event Management connected to a calendar
+-----------------------------------------
+If Event Management is connected to an Outlook calendar, a Status column is displayed, indicating if the registered user has accepted the event in his or her calendar, or not. Here's an example:
+
+.. image:: event-management-status-icon.png
+
+In this example, Robert Johnson has accepted the event in his calendar, while Chanel Rosario has not.
 
 Export the list to Excel
 **************************

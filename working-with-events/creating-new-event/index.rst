@@ -1,7 +1,7 @@
 Creating a new Event
 ======================
 
-This information is intended for Event Administrators (page editors) that needs to create a new event in an Event Center. Event Administrators must have at least Author permissions.
+This information is intended for Event Administrators that needs to create a new event in an Event Center. Event Administrators must have at least Author permissions.
 
 1. Go to the Event Center.
 2. Click the button for creating events.
@@ -15,7 +15,7 @@ Something like the following is shown:
 + **Title**: Add a title for the event here.
 + **Event starts**: Add a date for the start of the event (mandatory).
 + **Event ends**: Add the date for the end of the event.
-+ **Maximum number of partpicipants**: Set the maximum number of participants for the event here. This can have two possible effects, depending on how the events are set up here (setting is done in the Page Type); 1. If a Standby list is possible, would be participants are listed in the Standby list when this number is reached, 2. If a Standby list is not possible, no additional registrations can take place when this number is reached.
++ **Maximum number of partpicipants**: Set the maximum number of participants for the event here. This can have two possible effects, depending on how the events are set up here (setting is done in the Page Type); 1. If a Standby list (Reservation List) is allowed, would be participants are listed in the Standby list when this number is reached, 2. If a Standby list is not allowed, no additional registrations can take place when this number is reached.
 
 "Training" is an example of a property where the user can select which event (training in this case) to register for.
 
@@ -29,7 +29,7 @@ If any of the settings needs to be edited for an existing event (page), use the 
 
 Descriptions of two additional options that can be available here:
 
-+ **Allow to register others**: The logged in user can always register himself or herself and at the same time register a number of not named participants. If any user should be able to register other NAMED participants as well, select this option. This is done through a separate button.
++ **Allow to register others**: The logged in user can always register himself or herself and at the same time register a number of not named participants. If any user should be able to register other NAMED participants as well, select this option. This is done through a separate button. 
 
 + **Disable self service registration**: If you enable this option, would be participants can only register to the Standby list.
 
