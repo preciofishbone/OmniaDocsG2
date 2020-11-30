@@ -13,11 +13,11 @@ You can edit registrations if needed, using these icons:
 
 Note that these icons are only displayed if you have editing permissions for the page.
 
-When you click the person icon you move the participant, along with all people registered for that person, to the Reservation List.
+When you click the person icon you move the participant, along with all people registered for that person, to the Standby List.
 
 When you click the dust bin, you remove that whole registration.
 
-**Note!** An event can be set up to not have a Standby List (Reservation List). That is selected, and can be edited, in Page Properties.
+**Note!** An event can be set up to not have a Standby List. That is selected, and can be edited, in Page Properties.
 
 When you click the pen for a registration, the following can be edited:
 
@@ -27,9 +27,9 @@ You can add or edit Phone number, decrese or increase number of people associate
 
 Don't forget to save when you're done.
 
-The same actions are available for the Reservation List. In this case you use the people icon to move the registration to the Participant list.
+The same actions are available for the Standby List. In this case you use the people icon to move the registration to the Participant list.
 
-**Note!** When a participant is removed from the Participant list, the first colleage from the Reservations list is automatically moved to the Participant list, if the associated number of people does not exceed the limit.
+**Note!** When a participant is removed from the Participant list, the first colleage from the Standby list is automatically moved to the Participant list, if the associated number of people does not exceed the limit.
 
 Event Management connected to a calendar
 -----------------------------------------
@@ -45,7 +45,7 @@ You can export the Participant list to Excel if needed, by clicking this button:
 
 .. image:: editing-excel-button.png
 
-**Note!** With this option you export the Participant list, not anything from the Reservation list.
+**Note!** With this option you export the Participant list, not anything from the Standby list.
 
 Send e-mail to all participants
 ********************************

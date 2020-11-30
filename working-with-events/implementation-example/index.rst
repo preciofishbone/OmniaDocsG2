@@ -38,7 +38,7 @@ As you can see both Joe Bergman and Robert Johnson has registered an additional 
 
 Reservations is possible and there's one name on that list, waiting for the possibility that one of the registered patricipants will not be able to attend.
 
-What we see here is the view for Event Administrators (Page Authors). The icons to the right of each registration and the buttons at the bottom are only shown for them. They can use the icons to move a registration to the reservation list, edit the registration, for example to change the number of not named participants, and even remove a registration.
+What we see here is the view for Event Administrators (Page Authors). The icons to the right of each registration and the buttons at the bottom are only shown for them. They can use the icons to move a registration to the Standby list, edit the registration, for example to change the number of not named participants, and even remove a registration.
 
 The buttons at the bottom can be used, as the names clearly indicates, to export the participant list to Excel and to send an e-mail to all participants.
 
@@ -80,7 +80,7 @@ When a administrator/page editor creates a new event - meaning a new Event Page 
 
 .. image:: event-implementation-settings-1.png
 
-It is here the administrator/page editor adds all data about the event; for example when it starts and ends and the maximum number of participants. These properties may have to be set up specifically in Omnia Admin before they can be used here.
+It is here the administrator/page editor adds all data about the event; for example when it starts and ends and the maximum number of participants. Some properties may have to be set up specifically in Omnia Admin before they can be used here.
 
 For more information about these options, see: :doc:`Creating a new event </working-with-events/creating-new-event/index>`.
 

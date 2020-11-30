@@ -10,12 +10,12 @@ Something like the following is shown:
 
 .. image:: new-event-1-new.png
 
-3. Fill in the data for the event. The Properties available here depends on how Event Management is set up in Omnia Admin, but the following are common properties:
+3. Fill in the data for the event. The Properties available here depends on how Event Management is set up in Omnia Admin. The following are common properties:
 
 + **Title**: Add a title for the event here.
 + **Event starts**: Add a date for the start of the event (mandatory).
 + **Event ends**: Add the date for the end of the event.
-+ **Maximum number of partpicipants**: Set the maximum number of participants for the event here. This can have two possible effects, depending on how the events are set up here (setting is done in the Page Type); 1. If a Standby list (Reservation List) is allowed, would be participants are listed in the Standby list when this number is reached, 2. If a Standby list is not allowed, no additional registrations can take place when this number is reached.
++ **Maximum number of partpicipants**: Set the maximum number of participants for the event here. This can have two possible effects, depending on how the events are set up here (setting is done in the Page Type); 1. If a Standby list is allowed, would be participants are listed in the Standby list when this number is reached, 2. If a Standby list is not allowed, no additional registrations can take place when this number is reached.
 
 "Training" is an example of a property where the user can select which event (training in this case) to register for.
 

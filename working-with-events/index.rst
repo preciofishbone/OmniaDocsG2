@@ -6,8 +6,8 @@ Using a number of options in Omnia, together with a few dedicated options, infor
 Important Event options:
 
 + Users can register to a Participant list. The list keeps track of available seats.
-+ Users can register to a Reservation list if all seats are taken.
-+ Colleagues will automatically be moved from the Reservation list to the Participant list and can also be moved manually by an Event Manager.
++ Users can register to a Standby list if all seats are taken.
++ Colleagues will automatically be moved from the Standby list to the Participant list and can also be moved manually by an Event Manager.
 + Users can register a number of (not named) colleagues that will accompany them to the event.
 + A user can register for others.
 + Users can edit or remove their own registrations.
@@ -18,7 +18,7 @@ Important Event options:
 
 If Event Management is connected to an Outlook Calendar, this additional option is used:
 
-+ The Participant List displays a Status icon to indicate if the registered user has accepted the event in his or her calendar, or not. 
++ The Participant List displays a Status icon to indicate if the registered user has accepted the event in his or her calendar. 
 
 There's a number of settings available to decide how Event Management will work. It can for example be set that a Reservation list should not be available and that users should not be able to register for others.
 

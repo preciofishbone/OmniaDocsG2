@@ -18,12 +18,12 @@ Something like the following is then available:
 The system recognizes the user and adds Name and Email automatically.
 
 + **Phone**: a Phone number can be added, but it's not mandatory.
-+ **Number of people**: Default is 1 but the user can register a number of users that will accompony him or her to the event.
++ **Number of people**: Default is 1 but the user can register a number of users that will accompany him or her to the event.
 + **Comment**: A Comment can be added, but it's not mandatory. This field can be used to note information about allergies, food preferences or other information that the organizer of the event may need to know.
 
 Note the information that the event will be added to the person's personal calendar.
 
-An important aspect of registering a number of people here is that the only person that gets the event added to his or her calender, and will receive any e-mails regarding the event, is the person registering. If you want to make sure the event is added to all participants calenders, use the option to sign up others instead, i available.  
+An important aspect of registering a number of people here is that the only person that gets the event added to his or her calender, and will receive any e-mails regarding the event, is the person registering. If you want to make sure the event is added to all participants calenders, use the option to sign up others instead, if available.  
 
 2. Click to save the registration (SIGN UP in this example).
 
@@ -63,15 +63,15 @@ An external user registered this way can be any external user. If an Event Admin
 
 Sign up to Reservation List
 ******************************
-Depending on how the Event is set up, it can be possible to register to a Reservation list (Standby List) when the event is fully booked, in case one of the registered participants can't attend. If the event is not set up for reservations, it's simply not possible to register when all seats are taken.
+Depending on how the Event is set up, it can be possible to register to a Standby list (Reservation List) when the event is fully booked, in case one of the registered participants can't attend. If the event is not set up for Standby, it's simply not possible to register when all seats are taken.
 
 Here's an example how it can look when reservation is possible:
 
 .. image:: register-reservation.png
 
-In this example the logged in user has already registered, and therefore no button to register his or herself is available, but the user can still register others to the Reservation List.
+In this example the logged in user has already registered, and therefore no button to register his or herself is available, but the user can still register others to the Standby List.
 
-The same options as above is available when registering to the Reservation List, as when registering to the Participant List, see above.
+The same options as above is available when registering to the Standby List, as when registering to the Participant List, see above.
 
 Editing a registration
 **************************
