@@ -59,7 +59,7 @@ External users can be registered using this option. Do the following:
 
 3. Add the information needed (see above for field descriptions).
 
-An external user registered this way can be any external user. If an Event Administrattor sends en e-mail to participants, external users will receive the e-mail.
+An external user registered this way can be any external user. If an Event Administrator sends en e-mail to participants, external users will receive the e-mail.
 
 Sign up to Reservation List
 ******************************
