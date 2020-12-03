@@ -14,7 +14,7 @@ Below you will find the steps needed in order to create a basic setup of Event M
 
 .. image:: add-pagecollection-for-eventsmanagement.png
 
-4. Set the newly create Page Collection as default in the Publishing App settings.
+4. Set the newly created Page Collection as default in the Publishing App settings.
 5. Set reader and author permissions on the Page Collection.
 6. Go to Omnia Admin in context of the new Publishing App and activate the app instance feature "Default Page types for Event Management".
 7. Refresh the page and go to the Page Collection settings.
@@ -38,7 +38,6 @@ Below you will find the steps needed in order to create a basic setup of Event M
 
 .. image:: eventlist-rollup.png
 
-
 Connect to Outlook
 -------------------
 
@@ -56,7 +55,7 @@ Follow these steps to enable integration with Outlook.
 
 18. Add the service account as a member to the new Group. (Note! If the service account doesn't have an Outlook license, you have to add the account to the group using Azure AD).
 
-19. Go to Omnia Admin in context of the training publishing app.
+19. Go to Omnia Admin in context of the publishing app.
 20. Go to the current business profile and click on Event Management > Publishing Apps.
 21. Select the publishing app and page collection where your event management solution is located and map the properties.
 
