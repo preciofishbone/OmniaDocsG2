@@ -51,7 +51,7 @@ There’s information about each published edition available. To see it, do the 
  
 Here’s an example:
 
-.. image:: published-history-new2.png
+.. image:: published-history-new2-frame.png
  
 You can see the publication date for each edition, the author’s comment, if any, and who the document was approved by. The option "Workflow History" for an edition will show information about when workflows was used and the comments entered during the workflows, so here you can even see information from Send for Comments workflows used for the document.
 
