@@ -32,7 +32,7 @@ Enterprise Properties improvements
 --------------------------------------
 
 - Possibility to manage categories.
-- Term Picker updated to support categories.
+- Enterprise Property Picker updated to support categories.
 - Delete/Recycle Bin.
 
 Member step in Create Teamwork wizard
