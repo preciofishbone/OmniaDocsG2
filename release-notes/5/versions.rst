@@ -297,7 +297,7 @@ Fixes
 - An App Instance Admin can now change template (And business profile) of its site.
 
 
-5.1.26
+5.1.27
 ==========================================
 - An infrastructure change that prevented new App Instances from being created has been resolved.
 - An issue where Mobile first users would not get access has been resolved (#125242).
@@ -305,7 +305,6 @@ Fixes
 - Page types now correctly updates in the left navigation when the name is changed (#125096).
 - Performance of navigation via quick links has been improved.
 - The display name of external users will now be available to developers (#124922).
-- Sorting on most liked has been corrected.
 - People rollup can now correctly use people in a SharePoint group as a data source.
 - Old settings on the Action button would now be correctly understood by the new component (#124554).
 
