@@ -5,15 +5,15 @@ There is always at least one archive for a Document Management installation, reg
 
 The addresses to the Archive(s) are shown in Document Managment Settings in Omnia Admin.
 
-.. image:: dm-archive-address-new.png
+.. image:: dm-archive-address-new2.png
 
-To be able to access the Archive, you must have permission to do so. This permission is completely separate from any set in the Team site. The Archive exists in a different Site Collection. 
+To be able to access the Archive, you must have permission to do so. This permission is completely separate from any set in the Team site. The Archive exists in a different Page Collection. 
 
 A copy of all published document's editions are normally placed in an archive, but for some Document Types that really don't need to be archived, it can be turned off. In which archive douments of a certain Document Type should be archived (if there are several archives) can also be set for the Document Type. See the heading "Archive" on this page: :doc:`Document Types </admin-settings/tenant-settings/document-management/document-types/index>`
 
 The following information is available in the archive:
 
-.. image:: archived-documents-new.png
+.. image:: archived-documents-new2.png
  
 You can search for documents and sort the list on the headings, to make it easier to find information about a certain document edition.
 
@@ -21,7 +21,7 @@ To have a look at the contents of a specific edition of a document, click the do
 
 You can see information about an edition by clicking the i-icon.
 
-.. image:: archive-icon-new.png
+.. image:: archive-icon-new2.png
 
 Here's an example:
 
