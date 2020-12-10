@@ -17,7 +17,5 @@ Open the list for a field and select the property to map to.
 
 These synced pages will be picked up by and displayed by Microsoft Search. When the user clicks on an item in the search result, the user will be redirected to the correct Omnia page. 
 
-**Note!** An administrator can override these sync settings for a specific Page Type, see the heading "Settings" on this page for more information:
-
-:doc:`Pages </pages/page-types/index>`
+**Note!** An administrator can override these sync settings for a specific Page Type, see the heading "Settings" on this page for more information:  :doc:`Page Types </pages/page-types/index>`
 
