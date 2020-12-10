@@ -3,7 +3,7 @@ Features - Tenant
 
 All available Features for the Tenant is listed here and can be activated, deactivated and updated when needed. Here's an example:
 
-.. image:: features-tenant-new4.png
+.. image:: features-tenant-new6.png
 
 Default Enterprise Properties
 ******************************

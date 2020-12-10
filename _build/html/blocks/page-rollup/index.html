@@ -95,6 +95,7 @@
 <li class="toctree-l1"><a class="reference internal" href="../../admin-settings/index.html">Admin Settings</a></li>
 <li class="toctree-l1 current"><a class="reference internal" href="../index.html">Blocks</a><ul class="current">
 <li class="toctree-l2"><a class="reference internal" href="../activity-feed/index.html">Activity Feed</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../blocks-event-management/index.html">Blocks for Event Management</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../button-link/index.html">Action Button</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../announcements/index.html">Announcements</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../banner/index.html">Banner</a></li>
@@ -133,6 +134,7 @@
 <li class="toctree-l1"><a class="reference internal" href="../../pages/index.html">Pages</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../working-with-documents/index.html">Working with Documents</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../working-with-processes/index.html">Working with Processes</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../working-with-events/index.html">Working with Events</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../using-communities/index.html">Using Communities</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../using-newsletters/index.html">Using Newsletters</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../user-options/index.html">User options</a></li>
@@ -207,7 +209,7 @@
             
   <div class="section" id="page-rollup">
 <h1>Page Rollup<a class="headerlink" href="#page-rollup" title="Permalink to this headline">¶</a></h1>
-<p>This block can be used for many purposes, for example to rollup new news, latest news and similar - and for much more regarding pages, not just for news. The Page Rollup is, for example, an important part of a Newsletter implementation.</p>
+<p>This block can be used for many purposes, for example to rollup new news, latest news and similar - and for much more regarding pages, not just for news. The Page Rollup is, for example, an important part of a Newsletter implementation, and for an Event Management implementation.</p>
 <div class="section" id="settings">
 <h2>Settings<a class="headerlink" href="#settings" title="Permalink to this headline">¶</a></h2>
 <p>These settings are available for the block:</p>
@@ -221,7 +223,7 @@
 <li><strong>Pick in Write Mode</strong>: Available when Pick Pages is selected. Select this option if editors should be able to pick pages in Write mode. If not selected, Design mode has to be used.</li>
 <li><strong>ADD PAGE</strong>: When you have selected Pick Pages, you can pick some pages to always be shown. Click this option and use the Page Picker. See this page for more information: <a class="reference internal" href="../../general-assets/page-picker/index.html"><span class="doc">Page Picker</span></a></li>
 <li><strong>Use Query Builder</strong>: If you want to use the query builder to set which pages should be available here, select this option.</li>
-<li><strong>Scope</strong>: When you have chosne to use the Query Builder, select scope for the block; Publishing Apps or Page Collections. Then open the list below and select Publishing Apps/Page Collections.</li>
+<li><strong>Scope</strong>: When you have chosen to use the Query Builder, select scope for the block; Publishing Apps or Page Collections. Then open the list below and select Publishing Apps/Page Collections.</li>
 <li><strong>Exclude current page</strong>: Available when you have chosen scope. The default settings is to exclude the current page, but if you, for some reason, would like to include the current page, uncheck this option.</li>
 </ul>
 <p>When you have selected “Publishing Apps” or “Page Collections” as Scope, use the list to add one or more:</p>
@@ -250,7 +252,7 @@
 <li><strong>Create button for page collection</strong>: When you have selected “Show create button”, this optipon is shown. Use it to select in which page collection the new page will be created.</li>
 <li><strong>Date</strong>: Select the property that contains the date for the item(s) to display.</li>
 <li><strong>Hide block when no data</strong>: Select this option if the block should be hidden when there’s nothing to display.</li>
-<li><strong>Hide Read News</strong>: If this list displays news, select this option to hide all news pages the logged in user has read.</li>
+<li><strong>Hide visited pages</strong>: Select this option to hide all pages the logged in user has visited. This affects all pages, including news.</li>
 <li><strong>Image</strong>: Select the property that contains the image for the item(s) to display.</li>
 <li><strong>Image x and y</strong>: Select the image format here. Available for “Single Item” only.</li>
 <li><strong>Item limit</strong>: To limit the number of items being displayed, add a fixed number here. Note that if combined with “No paging”, the number of items you enter here are the only items users can access from the list.</li>
@@ -454,7 +456,7 @@
   <div role="contentinfo">
     <p>
         &copy; Copyright 2020, Precio Fishbone.
-      Last updated on Oct 29, 2020.
+      Last updated on Dec 10, 2020.
 
     </p>
   </div>

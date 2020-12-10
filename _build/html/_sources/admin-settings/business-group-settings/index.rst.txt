@@ -5,6 +5,7 @@ Business Profile Settings
    :titlesonly:
 
    announcements/index
+   event-management/index
    features/index
    notification-panel/index
    omnia-feed/index

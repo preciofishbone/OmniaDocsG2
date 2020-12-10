@@ -320,11 +320,13 @@ On the "Settings" tab you can set the Properties for all pages created from this
 
 Here's an example with a Page Type with left navigation:
 
-.. image:: page-type-settings-left-new.png
+.. image:: page-type-settings-left-new2.png
 
-It results in these fields being available on the Properties tab for a page:
+(For a description of "Override Sharepoint Sync Settings", see below.)
 
-.. image:: page-type-settings-left-fields-new.png
+If properties was selected as in the image above it would result in these fields being available on the Properties tab for a page:
+
+.. image:: page-type-settings-left-fields-new2.png
 
 And here's an example with a Page Type for News:
 
@@ -356,6 +358,22 @@ The following settings can be available for a property:
 + **Category**: This a preparation for future functionality. No need to enter anything here now.
 + **Default value**: A default value can be entered here. A defalt value can be edited by the author. What is possible to select here differs with type of property. 
 + **Limit Edit Permission**: You can limit Edit Permission for this property if needed. In that case, add one or more users here.
+
+Override Sharepoint Sync Settings
+------------------------------------
+Sharepoint Sync Settings are set in Omnia Admin (available under Web Content Management), for the whole tenant. If you need som other synchronization for pages created from this Page Type, you can override the tenant settings and create a specific synchronization here.
+
+When you activate this option, the following is shown:
+
+.. image:: page-type-settings-override-message.png
+
+And then something like the following is available:
+
+.. image:: page-type-settings-override.png
+
+The settings are used exactly the same way here as the settings for the tenant. See this page for more information:
+
+:doc:`General Block Settings </admin-settings/tenant-settings/web-content-management/index>`
 
 Archive a Page type
 **********************

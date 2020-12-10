@@ -1,7 +1,7 @@
-Webcontent Management
+Web Content Management
 ========================
 
-Here's just one option so  far:
+Here's just one option so far:
 
 .. image:: webcontent-management.png
 
