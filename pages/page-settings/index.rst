@@ -5,28 +5,38 @@ A number of Publishing App settings are available. You have to be Publishing App
 
 Open the Publishing App settings by clicking here:
 
-.. image:: page-settings.png
+.. image:: page-settings-new.png
 
 General 
 *********
 Set the following here:
 
-.. image:: page-settings-general-new3.png
+.. image:: page-settings-general-new4.png
 
 + **Default Page Collection**: The default Page Collection for the page can be set here.
 + **Connected Sharepoint Site**: The address to the Sharepoint Site is shown here.
++ **Full Sync etc**: When some (rare) actions has been executed, a new sync to Sharepoint may be needed. For more information, see below.
 
 Set the following, needed for page reports to work:
 
 + **Contact Property**: Select the property used to store information about the user being page contact.
 + **Review Date Property**: Select the property used to store information about review date for pages.
 
+Sync to Sharepoint
+--------------------
+This sync is a map of some properties to Sharepoint fields, either as set up in Omnia Admin, or set up specifically for a Page Type, as an override.
+
+For more information about the Admin settings, see: :doc:`Web Content Management </admin-settings/tenant-settings/webcontent-management/index>`
+
+For more information about the override, see the heading "Settings" on this page: :doc:`Page Types </pages/page-types/index>`
+
 Permissions
 ************
 Use these settings to Edit permissions in the Publishing App. 
 
-.. image:: page-settings-permissions-new2.png
+.. image:: page-settings-permissions-new3.png
 
++ **Allow Mobile Login**: This setting is intended to offer login to certain parts of Omnia for first line workers, partners and similar. The user needs the Kaizala app and a viable account. 
 + **Administrators**: Add and remove Publishing App administrators here as needed.
 + **Resource Readers**: Here you set the general Read permission for the Publishing App, needed for users to be able to read pages.
 
