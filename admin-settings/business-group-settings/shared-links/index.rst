@@ -11,7 +11,16 @@ The options available here are:
 
 .. image:: business-profile-shared-links.png
 
-+ **Shared links**: Options for Tenant Shared Links and Business Profile Shared Links are identical. For information on how to create and edit Shared Links, see: :doc:`Shared Links (Tenant) </admin-settings/tenant-settings/shared-links/index>`
-+ **Permissions**: Shared Links for this Business Profile has a seperate Permissions setting, so any user can be set as a Shared Links administrator. This includes external users that has been invited in the Asher AD, meaning they can log in with their own Microsoft 365 account. Add all users that should be Shared Links administrators for the Business profil here.
+Shared links
+**************
+Options for Tenant Shared Links and Business Profile Shared Links are identical. For information on how to create and edit Shared Links, see: :doc:`Shared Links (Tenant) </admin-settings/tenant-settings/shared-links/index>`
+
+Permissions
+*************
+Shared Links for this Business Profile has a seperate Permissions setting, so any user can be set as a Shared Links administrator. This includes external users that has been invited in the Asher AD, meaning they can log in with their own Microsoft 365 account. 
+
+.. image:: business-profile-shared-links-permissions.png
+
+Add all users that should be Shared Links administrators for the Business profile here.
 
 Note that Business Profile Administrators always can work with Shared Links even though they are not listed here.
