@@ -21,5 +21,6 @@ Topics
    user-options/index
    setup/index
    release-notes/index
+   roadmap/index
    guides/index
    contribute-to-doc/index

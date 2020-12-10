@@ -13,5 +13,3 @@ Below you will find the steps needed in order to create a basic setup of Omnia f
    publishingapp/index
    branding/index
    applauncher/index
-
-

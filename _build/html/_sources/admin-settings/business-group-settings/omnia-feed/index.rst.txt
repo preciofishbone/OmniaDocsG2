@@ -5,7 +5,7 @@ Omnia Feed - Business Profile Settings
 
 Using Omnia Feed, users can read News from your intranet in their mobile device. Apps can be downloaded from the usual channels, for example App Store for iPhone.
 
-From the user's point of view, here's and example of a News feed on an iPhone (just a test image):
+From the user's point of view, here's an example of a News feed on an iPhone (just a test image):
 
 .. image:: omnia-fee-example-iphone.png
 

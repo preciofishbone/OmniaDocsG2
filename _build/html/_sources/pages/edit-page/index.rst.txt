@@ -1,7 +1,7 @@
 Edit a page
 ===========================================
 
-To be able to edit a publishing page you need to have Editor permissions for that page. Then you can use Design mode to add, move and remove blocks and edit contents. If you have Author permissions you can edit contents in some blocks.
+The permissions needed to edit a publishing page depends on what is needed. With Editor permissions you can use Design mode to add, move and remove blocks and edit contents. If you have Author permissions you can edit contents in some blocks, using Write mode.
 
 **Note!** To be able to edit the top page in a Page Collection (often the start page) you must have Page Collection permissions.
 
@@ -27,7 +27,7 @@ When you go to a page to edit this way, you may have to reactivate Edit mode. In
 
 Edit Contents
 **************
-If you are going to just edit contents, for example in a text block, select the "Write" mode (which is the default selection). 
+If you have Author permissions for the page, Write mode is available for editing contents in some blocks. (If you have Editor permissions, you can edit the blocks the same way). 
 
 .. image:: write-mode-new2.png
 
@@ -51,7 +51,7 @@ You edit each block (the ones you can edit) as is described on the page for the 
 
 Edit Blocks
 ************
-To edit the blocks, that is, to add and delete blocks on the page, and to work with the block settings, you use Design mode (you have to have editor permissions to be able to do that):
+To edit the blocks, that is, to add and delete blocks on the page, and to work with the block settings, you use Design mode (you must have editor permissions to be able to do that):
 
 .. image:: enter-design-mode-new.png
 
@@ -102,7 +102,7 @@ It's possible to change Page Type, if you have Editor permissions, but be aware 
 
 Edit Page Properties
 *********************
-If needed, you can edit the Page Properties, if you have Editor permissions.
+If needed, you can edit the Page Properties, if you have at least Author permissions.
 
 1. Enter Edit mode if it's not already active.
 2. Click "PROPERTIES" at the top.

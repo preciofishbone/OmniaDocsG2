@@ -42,7 +42,7 @@
     <link rel="top" title="Omnia  documentation" href="../../index.html"/>
         <link rel="up" title="Blocks" href="../index.html"/>
         <link rel="next" title="Announcements" href="../announcements/index.html"/>
-        <link rel="prev" title="Activity Feed" href="../activity-feed/index.html"/> 
+        <link rel="prev" title="Event Participant Counter block" href="../blocks-event-management/event-participant-counter/index.html"/> 
 
   
   <script src="../../_static/js/modernizr.min.js"></script>
@@ -95,6 +95,7 @@
 <li class="toctree-l1"><a class="reference internal" href="../../admin-settings/index.html">Admin Settings</a></li>
 <li class="toctree-l1 current"><a class="reference internal" href="../index.html">Blocks</a><ul class="current">
 <li class="toctree-l2"><a class="reference internal" href="../activity-feed/index.html">Activity Feed</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../blocks-event-management/index.html">Blocks for Event Management</a></li>
 <li class="toctree-l2 current"><a class="current reference internal" href="#">Action Button</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../announcements/index.html">Announcements</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../banner/index.html">Banner</a></li>
@@ -133,6 +134,7 @@
 <li class="toctree-l1"><a class="reference internal" href="../../pages/index.html">Pages</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../working-with-documents/index.html">Working with Documents</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../working-with-processes/index.html">Working with Processes</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../working-with-events/index.html">Working with Events</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../using-communities/index.html">Using Communities</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../using-newsletters/index.html">Using Newsletters</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../user-options/index.html">User options</a></li>
@@ -207,13 +209,15 @@
             
   <div class="section" id="action-button">
 <h1>Action Button<a class="headerlink" href="#action-button" title="Permalink to this headline">¶</a></h1>
-<p>Use it to add one or more buttons on a page for clickable links, for Create Page buttons, to show My subscriptions or to subscribe/unsubscribe. You can add one more buttons in each Action Button block. (This option was formerly called Button Link).</p>
+<p>Use this block to add one or more buttons on a page for clickable links or other actions; Create Page buttons, to show My subscriptions or to subscribe/unsubscribe. This block is also used when using Event Management.</p>
+<p>You can add one more buttons in each Action Button block. (This option was formerly called Button Link).</p>
 <div class="section" id="settings">
 <h2>Settings<a class="headerlink" href="#settings" title="Permalink to this headline">¶</a></h2>
 <p>Any existing buttons in this block are listed at the top. If no previous button exists, a “New Button” is added automatically.</p>
-<img alt="../../_images/button-links-new2.png" src="../../_images/button-links-new2.png" />
-<p>To edit a button, click the pen (if just the first, automatic button is present, you don’t have to do that, then the settings are shown automatically). To delete a button, click the dustbin. When editing a button, the same settings as when you create a new button is available, see below.</p>
-<img alt="../../_images/button-link-settings-edit-delete-new2.png" src="../../_images/button-link-settings-edit-delete-new2.png" />
+<img alt="../../_images/button-links-new3.png" src="../../_images/button-links-new3.png" />
+<p>To edit a button, click the pen (if just the first, automatic button is present, you don’t have to do that, then the settings are shown automatically). To delete a button, click the dustbin. If just one button is available in the block, no dustbin is available (if you don’t want a button here, delete the block.)</p>
+<img alt="../../_images/button-link-settings-edit-delete-new3.png" src="../../_images/button-link-settings-edit-delete-new3.png" />
+<p>When editing a button, the same settings as when you create a new button is available, see below.</p>
 <p>Note that you can see a preview of the button/buttons in the block as you’re working on it (but the buttons are not saved and shown for others until you publish the page).</p>
 <p>The tabs Layout and Advanced contain general settings, see: <a class="reference internal" href="../general-block-settings/index.html"><span class="doc">General Block Settings</span></a></p>
 </div>
@@ -223,39 +227,49 @@
 <ol class="arabic simple">
 <li>Click “+ ADD BUTTON”.</li>
 </ol>
-<img alt="../../_images/button-link-settings-add-button-new2.png" src="../../_images/button-link-settings-add-button-new2.png" />
+<img alt="../../_images/button-link-settings-add-button-new3.png" src="../../_images/button-link-settings-add-button-new3.png" />
 <ol class="arabic simple" start="2">
 <li>Click the pen for the new button and use the following settings:</li>
 </ol>
-<img alt="../../_images/button-link-settings.png" src="../../_images/button-link-settings.png" />
+<img alt="../../_images/button-link-settings-new.png" src="../../_images/button-link-settings-new.png" />
 <p>(All options are not shown in the image above, but listed below).</p>
 <div class="section" id="general">
 <h3>General<a class="headerlink" href="#general" title="Permalink to this headline">¶</a></h3>
 <p>The following settings are available here:</p>
 <ul class="simple">
-<li><strong>Type</strong>: Select type of button here; Link, Create Page, My Subscriptions or Subscribe.</li>
-<li><strong>Text</strong>: If there should be some text on the button, add it here.</li>
-<li><strong>Tool tip</strong>: Add the tool tip text for the button here.</li>
-<li><strong>Unsubscribe Text</strong>: A “Subscribe” button changes the text automatically when a user has clicked the button. Unsubscribe is suggested but you can change the text to something else.</li>
+<li><strong>Type</strong>: Select type of button here; Link, Create Page, My Subscriptions, Subscribe or Event Management.</li>
+<li><strong>Text</strong>: Add text to be shown on the button here. If variations exists for the page, you add text in the default language here. Other languages are handled by the variation. If no varations exists, you can add text in several languages here.</li>
+<li><strong>Tool tip</strong>: Add the tool tip text for the button here. (Same apply for variations as above.)</li>
+<li><strong>Unsubscribe Text</strong>: A “Subscribe” button changes the text automatically when a user has clicked the button. Unsubscribe is suggested but you can change the text to something else. (Same apply for variations as above.)</li>
 <li><strong>Subscription Scope</strong>: Available for Type Subscription. Select the scope here, meaning what the user actually subscribes to; the Page (=all changes to the page, even comments and best reply for Knowledge pages), Publishing App (=all new pages in the Publishing App, but not changes to existing pages) or Page Collection (=all new pages in the Page Collection, but not changes to existing pages).</li>
 <li><strong>Url</strong>: Type or paste the Url to go to when a user clicks the link. Available for Link type.</li>
 <li><strong>Target</strong>: Choose if the link should be opened in a new window, the current window, or in a dialog. Available for Link type.</li>
 <li><strong>Dialog Position</strong>: If you selected “Dialog” for Target, you can select where to place the dialog: Center, Full screen, Left or Right.</li>
 <li><strong>Page Collection</strong>: If you selected “Create Page” as type, select page collection to create the new page in.</li>
+<li><strong>Button Type</strong>: Decide what this button will do; Sign Up, Sign Up Other, Add To Outlook or Cancel. Available for Event Management. (Se below for more information.)</li>
+<li><strong>Reserve Text</strong>: (A description will be added soon.) Available for Event Management.</li>
+<li><strong>Apply Text</strong>: (A description will be added soon.) Available for Event Management.</li>
 </ul>
+<p>Regarding the options for Button Type (for Event Management):</p>
+<ul class="simple">
+<li>Sign Up: Used by the logged in user to register for an event.</li>
+<li>Sign Up Other: Used by the logged in user to register others - colleagues or external partners - for an event.</li>
+<li>Add To Outlook: In the case Event Management is set up to use a specific calendar, this button can added to make it possible for users to add the event to their personal calendar.</li>
+<li>Cancel: Used by the logged in user to cancel the registration he or she has made in their own name, ie done by using the button “Sign Up”.</li>
+</ul>
+<p>For more information about how the buttons and more works for Event Management, see: <a class="reference internal" href="../../working-with-events/index.html"><span class="doc">Working with Events</span></a></p>
 </div>
 <div class="section" id="style">
 <h3>Style<a class="headerlink" href="#style" title="Permalink to this headline">¶</a></h3>
 <p>These settings are available for Style:</p>
-<img alt="../../_images/action-button-style.png" src="../../_images/action-button-style.png" />
+<img alt="../../_images/action-button-style-new.png" src="../../_images/action-button-style-new.png" />
 <ul class="simple">
-<li><strong>Button Style</strong>: You can select “Depressed”, “Flat” or “Raised” as the style. Note that a flat button doesn’t have any background color, so the text should normally be black for a flat button.</li>
+<li><strong>Button Style</strong>: You can select Depressed, Flat or Raised as the style. Note that a flat button doesn’t have any background color, so the text should normally be black for a flat button.</li>
 <li><strong>Size</strong>: The size of the button can be small, medium or large.</li>
 <li><strong>Round</strong>: For round button edges, select this option.</li>
 <li><strong>Outline</strong>: For an outlined button, select this option. Note that the outline has the same color as the text, and there’s no background color, so the text color should normally be black, if you select Outline.</li>
 <li><strong>Fill</strong>: If the button should fill the whole width of the block, select this option.</li>
 <li><strong>Background Color and Text Color</strong>: Choose colors here. Note the comments about Flat button style and Outline above.</li>
-<li><strong>Alignment</strong>: (A description will be added later).</li>
 <li><strong>Icon Type</strong>: To add an icon to the buttton, first select the Icon Type here.</li>
 <li><strong>Icon</strong>: When you have selected the Icon Type, select the icon in this list. The icon is placed to the left of the button text.</li>
 <li><strong>Alignment</strong>: This option is available on both tabs. Select the alignment of the buttons within the block area.</li>
@@ -277,7 +291,7 @@
         <a href="../announcements/index.html" class="btn btn-neutral float-right" title="Announcements" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right"></span></a>
       
       
-        <a href="../activity-feed/index.html" class="btn btn-neutral" title="Activity Feed" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>
+        <a href="../blocks-event-management/event-participant-counter/index.html" class="btn btn-neutral" title="Event Participant Counter block" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>
       
     </div>
   
@@ -287,7 +301,7 @@
   <div role="contentinfo">
     <p>
         &copy; Copyright 2020, Precio Fishbone.
-      Last updated on Oct 29, 2020.
+      Last updated on Dec 10, 2020.
 
     </p>
   </div>

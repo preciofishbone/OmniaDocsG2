@@ -1,7 +1,7 @@
 Page Rollup
 ===========================================
 
-This block can be used for many purposes, for example to rollup new news, latest news and similar - and for much more regarding pages, not just for news. The Page Rollup is, for example, an important part of a Newsletter implementation.
+This block can be used for many purposes, for example to rollup new news, latest news and similar - and for much more regarding pages, not just for news. The Page Rollup is, for example, an important part of a Newsletter implementation, and for an Event Management implementation.
 
 Settings
 *********
@@ -19,7 +19,7 @@ Here you can set the following:
 + **Pick in Write Mode**: Available when Pick Pages is selected. Select this option if editors should be able to pick pages in Write mode. If not selected, Design mode has to be used.
 + **ADD PAGE**: When you have selected Pick Pages, you can pick some pages to always be shown. Click this option and use the Page Picker. See this page for more information: :doc:`Page Picker </general-assets/page-picker/index>`
 + **Use Query Builder**: If you want to use the query builder to set which pages should be available here, select this option.
-+ **Scope**: When you have chosne to use the Query Builder, select scope for the block; Publishing Apps or Page Collections. Then open the list below and select Publishing Apps/Page Collections. 
++ **Scope**: When you have chosen to use the Query Builder, select scope for the block; Publishing Apps or Page Collections. Then open the list below and select Publishing Apps/Page Collections. 
 + **Exclude current page**: Available when you have chosen scope. The default settings is to exclude the current page, but if you, for some reason, would like to include the current page, uncheck this option.
 
 When you have selected "Publishing Apps" or "Page Collections" as Scope, use the list to add one or more:
@@ -56,7 +56,7 @@ The following lists all available display settings (shown in different order for
 + **Create button for page collection**: When you have selected "Show create button", this optipon is shown. Use it to select in which page collection the new page will be created.
 + **Date**: Select the property that contains the date for the item(s) to display.
 + **Hide block when no data**: Select this option if the block should be hidden when there's nothing to display.
-+ **Hide Read News**: If this list displays news, select this option to hide all news pages the logged in user has read.
++ **Hide visited pages**: Select this option to hide all pages the logged in user has visited. This affects all pages, including news.
 + **Image**: Select the property that contains the image for the item(s) to display.
 + **Image x and y**: Select the image format here. Available for "Single Item" only.
 + **Item limit**: To limit the number of items being displayed, add a fixed number here. Note that if combined with "No paging", the number of items you enter here are the only items users can access from the list.

@@ -109,10 +109,11 @@
 <li class="toctree-l3"><a class="reference internal" href="../user-profile-completion/index.html">User Profile Completion</a></li>
 <li class="toctree-l3"><a class="reference internal" href="../document-management/index.html">Document Management</a></li>
 <li class="toctree-l3"><a class="reference internal" href="../process-management/index.html">Process Management - Tenant settings</a></li>
-<li class="toctree-l3"><a class="reference internal" href="../webcontent-managament/index.html">Webcontent Management</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../webcontent-managament/index.html">Web Content Management</a></li>
 </ul>
 </li>
 <li class="toctree-l2"><a class="reference internal" href="../../business-group-settings/index.html">Business Profile Settings</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../app-settings/index.html">App settings</a></li>
 </ul>
 </li>
 <li class="toctree-l1"><a class="reference internal" href="../../../blocks/index.html">Blocks</a></li>
@@ -120,6 +121,7 @@
 <li class="toctree-l1"><a class="reference internal" href="../../../pages/index.html">Pages</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../working-with-documents/index.html">Working with Documents</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../working-with-processes/index.html">Working with Processes</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../working-with-events/index.html">Working with Events</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../using-communities/index.html">Using Communities</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../using-newsletters/index.html">Using Newsletters</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../user-options/index.html">User options</a></li>
@@ -197,20 +199,36 @@
   <div class="section" id="security">
 <h1>Security<a class="headerlink" href="#security" title="Permalink to this headline">¶</a></h1>
 <p>The following settings are found here:</p>
-<img alt="../../../_images/security-tenant.png" src="../../../_images/security-tenant.png" />
+<img alt="../../../_images/security-tenant-new.png" src="../../../_images/security-tenant-new.png" />
 <div class="section" id="permissions">
 <h2>Permissions<a class="headerlink" href="#permissions" title="Permalink to this headline">¶</a></h2>
 <p>Use this setting to add and remove Tenant Administrators. Only Tenant Administrators can use this setting and other settings under “Tenant” in Omnia Admin.</p>
 <p>A Tenant Administrator can also edit all the settings for all Business Profiles within the Tenant.</p>
-<img alt="../../../_images/tenant-permissions.png" src="../../../_images/tenant-permissions.png" />
+<img alt="../../../_images/tenant-permissions-new.png" src="../../../_images/tenant-permissions-new.png" />
 <p>To delete an administrator here, just click the x. To add an administrator, add the name the same way as in other name fields.</p>
 <p>External users that has been invited in the Asher AD can be added here as well. Users invited this way can log in with their own Microsoft 365 account.</p>
 <p><strong>Note!</strong> There must always be at least one Tenant Administrator. If there is only one, that administrator can not be removed until an additional one has been added.</p>
 </div>
 <div class="section" id="secrets">
 <h2>Secrets<a class="headerlink" href="#secrets" title="Permalink to this headline">¶</a></h2>
-<p>When an extension has been installed for the Business Profile, get the security key/token and enter it here.</p>
-<p>You will most likely see “System Account” among the secrets. It’s a standard extension for specialized implementations only.</p>
+<p>The following settings can be available here:</p>
+<img alt="../../../_images/tenant-secrets.png" src="../../../_images/tenant-secrets.png" />
+<div class="section" id="system-account">
+<h3>System Account<a class="headerlink" href="#system-account" title="Permalink to this headline">¶</a></h3>
+<p>System account is a standard extension for specialized implementations only, normally used by developers.</p>
+<img alt="../../../_images/tenant-secrets-system.png" src="../../../_images/tenant-secrets-system.png" />
+</div>
+<div class="section" id="azure-ad-sync-account">
+<h3>Azure AD Sync Account<a class="headerlink" href="#azure-ad-sync-account" title="Permalink to this headline">¶</a></h3>
+<p>If you’re using Azure AD Synchronization, add the account that executes the scheduling here. Should be a Sharepoint Global Admin account.</p>
+<img alt="../../../_images/tenant-secrets-sync.png" src="../../../_images/tenant-secrets-sync.png" />
+<p>For more information about Azure AD Synchronization, see: <a class="reference internal" href="../azure-ad-synchronization-settings/index.html"><span class="doc">Azure AD Synchronization Settings</span></a></p>
+</div>
+<div class="section" id="event-management-service-account">
+<h3>Event Management Service Account<a class="headerlink" href="#event-management-service-account" title="Permalink to this headline">¶</a></h3>
+<p>If you will be using Event Management with a connection to calendars in Outlook, you must add the service account that will be used to read and write from the calendars in the tenant. (Don’t forget that this account needs permissions to that calendar.)</p>
+<img alt="../../../_images/tenant-secrets-event.png" src="../../../_images/tenant-secrets-event.png" />
+</div>
 </div>
 </div>
 
@@ -237,7 +255,7 @@
   <div role="contentinfo">
     <p>
         &copy; Copyright 2020, Precio Fishbone.
-      Last updated on Oct 29, 2020.
+      Last updated on Dec 10, 2020.
 
     </p>
   </div>

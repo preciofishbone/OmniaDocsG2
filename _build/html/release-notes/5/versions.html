@@ -113,6 +113,9 @@
 <li class="toctree-l3"><a class="reference internal" href="#id5">5.1.14</a></li>
 <li class="toctree-l3"><a class="reference internal" href="#id6">5.1.16</a></li>
 <li class="toctree-l3"><a class="reference internal" href="#id7">5.1.20</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#id8">5.1.22</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#id9">5.1.23</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#id10">5.1.27</a></li>
 </ul>
 </li>
 <li class="toctree-l2"><a class="reference internal" href="../4.1/index.html">Release 4.1</a></li>
@@ -495,6 +498,45 @@
 <li>Corrected an issue where Editors would not get enough permissions via AD-groups (#124279).</li>
 </ul>
 </div>
+<div class="section" id="id8">
+<h1>5.1.22<a class="headerlink" href="#id8" title="Permalink to this headline">¶</a></h1>
+<ul class="simple">
+<li>(Preview) It’s now possible for a user to set their system language to be used in Omnia. This will take priority over any language set in O365.</li>
+<li>It’s now possible to enable a login flow that will allow Safari devices with ITP turned on correctly authenticate against Omnia Attached sites.</li>
+<li>Corrected an issue where default visitors would not always be correctly applied to new sites.</li>
+<li>Corrected an issue that made term driven approval does not work properly for Controlled Documents (#124076).</li>
+<li>Corrected a migration issue that would occur when one authoring site had more than 5000 documents(#124333, #124334, #124090).</li>
+<li>Fixed an issue where new processes would not show up in the process rollup (#124329).</li>
+</ul>
+</div>
+<div class="section" id="id9">
+<h1>5.1.23<a class="headerlink" href="#id9" title="Permalink to this headline">¶</a></h1>
+<ul class="simple">
+<li>Advanced search refiner can now use Tax Id mapped properties like the document rollup (#124283)</li>
+<li>Fixed an issue that would prevent variation pages from being created (#124517).</li>
+<li>Stability improvements to page publish flow (#124569, #124292, #124487, #124700, ).</li>
+<li>Fixed an issue in related links that would cause 2 tabs to be opened in Edge and Chrome (#124649, #124259, #124587, #124708)</li>
+<li>Corrected an issue that would cause filters with spaces in them to not work correctly in people rollup (#122028).</li>
+<li>New teams are now correctly provisioned as private if set to provision as such.</li>
+<li>Corrected an issue that would sometimes show a term outside of its parent in the term picker (#1245880).</li>
+<li>Fixed an issue related to having a controlled document as a template for controlled documents (#124334).</li>
+<li>Corrected an issue with date only fields related to Daylight savings (#124531).</li>
+<li>An App Instance Admin can now change template (And business profile) of its site.</li>
+</ul>
+</div>
+<div class="section" id="id10">
+<h1>5.1.27<a class="headerlink" href="#id10" title="Permalink to this headline">¶</a></h1>
+<ul class="simple">
+<li>An infrastructure change that prevented new App Instances from being created has been resolved.</li>
+<li>An issue where Mobile first users would not get access has been resolved (#125242).</li>
+<li>The SPFx package downloaded from Omnia Admin now has the correct filename.</li>
+<li>Page types now correctly updates in the left navigation when the name is changed (#125096).</li>
+<li>Performance of navigation via quick links has been improved.</li>
+<li>The display name of external users will now be available to developers (#124922).</li>
+<li>People rollup can now correctly use people in a SharePoint group as a data source.</li>
+<li>Old settings on the Action button would now be correctly understood by the new component (#124554).</li>
+</ul>
+</div>
 
 
            </div>
@@ -519,7 +561,7 @@
   <div role="contentinfo">
     <p>
         &copy; Copyright 2020, Precio Fishbone.
-      Last updated on Nov 10, 2020.
+      Last updated on Dec 10, 2020.
 
     </p>
   </div>
