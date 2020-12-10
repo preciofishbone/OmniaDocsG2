@@ -1,9 +1,11 @@
 In Development
 ===========================================
 
+As part of the Omnia roadmap, the following features are in development and planned to be rolled out during 2021.
+
 .. note:: Items may be added or removed from this list at any time.
 
-Digital Workplace Features
+Workplace Features
 --------------------------------------------
 
 * Possibility to configure header on tenant level and inherit on business profile level.
