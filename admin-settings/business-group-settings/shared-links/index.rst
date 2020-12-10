@@ -7,4 +7,11 @@ Some links can be mandatory and it's also possible to target links to certain gr
 
 These links can also be accessed through a Quick Links block on any page, see: :doc:`The Quick Links block </blocks/quick-links/index>`
 
-Options for Tenant Shared Links and Business Profile Shared Links are identical. For information on how to create and edit Shared Links, see: :doc:`Shared Links (Tenant) </admin-settings/tenant-settings/shared-links/index>`
+The options available here are:
+
+.. image:: business-profile-shared-links.png
+
++ **Shared links**: Options for Tenant Shared Links and Business Profile Shared Links are identical. For information on how to create and edit Shared Links, see: :doc:`Shared Links (Tenant) </admin-settings/tenant-settings/shared-links/index>`
++ **Permissions**: Shared Links for this Business Profile has a seperate Permissions setting, so any user can be set as a Shared Links administrator. This includes external users that has been invited in the Asher AD, meaning they can log in with their own Microsoft 365 account. Add all users that should be Shared Links administrators for the Business profil here.
+
+Note that Business Profile Administrators always can work with Shared Links even though they are not listed here.
