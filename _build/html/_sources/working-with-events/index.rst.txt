@@ -1,20 +1,39 @@
 Working with Events
 ===========================
 
-**This documentation is just (really just) started. More will be added here soon.**
+Using a number of options in Omnia, together with a few dedicated options, information can be pubkished about different kinds of events (training sessions is one example) and Event Managers can handle registration of participants for the event.
 
-You create an Event Centre, a Page Collection, to house pages for different events, quite like what you do for News with the News Centre. You need at least one Page Type for Events, so editors can create pages for different events. You use a Page Rollup in the Event Centre to list the Event Pages.
+Important Event options:
 
-There's two specific blocks available for Event Management - Event Participant List and Event Participant Counter. In all other aspects, you use available options for Page Types in Omnia to create pages with the information you want to display for the Event.
++ Users can register to a Participant list. The list keeps track of available seats.
++ Users can register to a Standby list if all seats are taken.
++ Colleagues will automatically be moved from the Standby list to the Participant list and can also be moved manually by an Event Manager.
++ Users can register a number of (not named) colleagues that will accompany them to the event.
++ A user can register for others.
++ Users can edit or remove their own registrations.
++ External users that has been invited in the Asher AD, can use the Event Management options.
++ Event Managers can create new events, can edit all registrations and remove registrations if needed.
++ Event Managers can export the Participant list to Excel and can communicate with participants through e-mail.
++ Event managers only needs Author permissions.
 
-On an Event Page it will be possible for colleagues, and even external partners, to register for participating in the event. 
+If Event Management is connected to an Outlook Calendar, this additional option is used:
 
-Options in Outlook will be used to display the event in the participants calendars and for communication between the participants and the event.
++ The Participant List displays a Status icon to indicate if the registered user has accepted the event in his or her calendar. 
 
-See these pages for more information:
+There's a number of settings available to decide how Event Management will work. It can for example be set that a Reservation list should not be available and that users should not be able to register for others.
 
-(Will be added)
+There's two specific blocks available for Event Management (see the links below). In all other aspects, you use available options in Omnia for Page Types so Event Administrators can create pages with the information they want to display for the Event.
 
+
+.. toctree::
+   :titlesonly:
+
+   /setup/eventmanagement/index
+   /blocks/blocks-event-management/index
+   creating-new-event/index
+   administer-event/index
+   register-for-event/index
+   implementation-example/index
 
 
 

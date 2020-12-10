@@ -1,7 +1,9 @@
 Azure AD Synchronization settings
 ===================================
 
-Use these advanced settings to make sure person properties are synchronized from Azure AD to Sharepoint.   
+Use these advanced settings to make sure person properties are synchronized from Azure AD to Sharepoint. 
+
+**Note!** For this to work, you have to set the Azure AD Sync Account. See that heading on this page for more information: :doc:`Security </admin-settings/tenant-settings/security/index>`
 
 This is what's available:
 
@@ -19,7 +21,8 @@ At the bottom the synchronizations that has been set up are shown. By clicking t
 
 To delete a synchronization from the list, click the dust bin.
 
-Set up a new synchronization
+For a scheduled synchronization you also need to add an account in the Security settings (Secrets), see: :doc:`Security </admin-settings/tenant-settings/security/index>`
+
 *****************************
 To set up a new synchronization, do the following:
 

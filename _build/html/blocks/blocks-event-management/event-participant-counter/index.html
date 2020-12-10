@@ -39,7 +39,10 @@
         <link rel="index" title="Index"
               href="../../../genindex.html"/>
         <link rel="search" title="Search" href="../../../search.html"/>
-    <link rel="top" title="Omnia  documentation" href="../../../index.html"/> 
+    <link rel="top" title="Omnia  documentation" href="../../../index.html"/>
+        <link rel="up" title="Blocks for Event Management" href="../index.html"/>
+        <link rel="next" title="Action Button" href="../../button-link/index.html"/>
+        <link rel="prev" title="Events Participant block" href="../event-participant-list/index.html"/> 
 
   
   <script src="../../../_static/js/modernizr.min.js"></script>
@@ -88,14 +91,26 @@
               
             
             
-              <ul>
+              <ul class="current">
 <li class="toctree-l1"><a class="reference internal" href="../../../admin-settings/index.html">Admin Settings</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../index.html">Blocks</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../general-assets/index.html">General assets</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../pages/index.html">Pages</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../working-with-documents/index.html">Working with Documents</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../working-with-processes/index.html">Working with Processes</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../../../working-with-events/index.html">Working with Events</a></li>
+<li class="toctree-l1 current"><a class="reference internal" href="../../../working-with-events/index.html">Working with Events</a><ul class="current">
+<li class="toctree-l2"><a class="reference internal" href="../../../setup/eventmanagement/index.html">Setup Event Management</a></li>
+<li class="toctree-l2 current"><a class="reference internal" href="../index.html">Blocks for Event Management</a><ul class="current">
+<li class="toctree-l3"><a class="reference internal" href="../event-participant-list/index.html">Events Participant block</a></li>
+<li class="toctree-l3 current"><a class="current reference internal" href="#">Event Participant Counter block</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="../../../working-with-events/creating-new-event/index.html">Creating a new Event</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../../working-with-events/administer-event/index.html">Administer an Event</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../../working-with-events/register-for-event/index.html">Register for an event</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../../working-with-events/implementation-example/index.html">Event Management - implementation example</a></li>
+</ul>
+</li>
 <li class="toctree-l1"><a class="reference internal" href="../../../using-communities/index.html">Using Communities</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../using-newsletters/index.html">Using Newsletters</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../user-options/index.html">User options</a></li>
@@ -147,6 +162,10 @@
     
       <li><a href="../../../index.html">Docs</a> &raquo;</li>
         
+          <li><a href="../../index.html">Blocks</a> &raquo;</li>
+        
+          <li><a href="../index.html">Blocks for Event Management</a> &raquo;</li>
+        
       <li>Event Participant Counter block</li>
     
     
@@ -168,8 +187,20 @@
             
   <div class="section" id="event-participant-counter-block">
 <h1>Event Participant Counter block<a class="headerlink" href="#event-participant-counter-block" title="Permalink to this headline">¶</a></h1>
-<p><strong>(This documentation is just started.)</strong></p>
 <p>This block is used to show the number of participants that has registered for the event and the number of possible participants.</p>
+<p>Here’s an example when an Event is fully booked:</p>
+<img alt="../../../_images/event-management-counter.png" src="../../../_images/event-management-counter.png" />
+<div class="section" id="settings">
+<h2>Settings<a class="headerlink" href="#settings" title="Permalink to this headline">¶</a></h2>
+<p>The following settings are available for the block:</p>
+<img alt="../../../_images/event-counter-settings.png" src="../../../_images/event-counter-settings.png" />
+<ul class="simple">
+<li><strong>Title</strong>: Here you can add a title for the block. If variations exists, you add a title in the default language. All other languages are handled by variations. If no variations exists, you can add a title in several languages here.</li>
+<li><strong>Icon Type</strong>: Select an Icon Type here.</li>
+<li><strong>Icon</strong>: Choose the Icon in the Icon Type you have selected.</li>
+<li><strong>Padding</strong>: If some padding is needed between the block edges and the list, add it here.</li>
+</ul>
+</div>
 </div>
 
 
@@ -180,13 +211,22 @@
           </div>
           <footer>
   
+    <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
+      
+        <a href="../../button-link/index.html" class="btn btn-neutral float-right" title="Action Button" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right"></span></a>
+      
+      
+        <a href="../event-participant-list/index.html" class="btn btn-neutral" title="Events Participant block" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>
+      
+    </div>
+  
 
   <hr/>
 
   <div role="contentinfo">
     <p>
         &copy; Copyright 2020, Precio Fishbone.
-      Last updated on Nov 10, 2020.
+      Last updated on Dec 10, 2020.
 
     </p>
   </div>

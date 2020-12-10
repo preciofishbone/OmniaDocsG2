@@ -22,11 +22,11 @@ To create a new Notification Panel, do the following:
 .. image:: notification-panel-settings-new5.png
 
 + **Title**: You can add a block title here if you wish. 
-+ **Add Category**: Click here to add a new Category. 
++ **Category**: Click the plus here to add a new Category. 
 + **Category Title**: Add a Title for the new Category. You can add titles for all active languages.
 + **Icon Type**: Select an Icon Type.
 + **Icon**: Choose the Icon in the Icon Type you have selected.
-+ **View Control**: Here you select what you will display in the Category. See below, under *Category settings* for more information.
++ **View Controls**: Here you select what you will display in the Category. See below, under *Category settings* for more information.
 + **Notification**: Select Automatic or Custom for the Category. 
 
 3. Click "ADD" to create the Category.

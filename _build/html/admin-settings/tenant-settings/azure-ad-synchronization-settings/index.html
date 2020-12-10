@@ -109,10 +109,11 @@
 <li class="toctree-l3"><a class="reference internal" href="../user-profile-completion/index.html">User Profile Completion</a></li>
 <li class="toctree-l3"><a class="reference internal" href="../document-management/index.html">Document Management</a></li>
 <li class="toctree-l3"><a class="reference internal" href="../process-management/index.html">Process Management - Tenant settings</a></li>
-<li class="toctree-l3"><a class="reference internal" href="../webcontent-managament/index.html">Webcontent Management</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../webcontent-managament/index.html">Web Content Management</a></li>
 </ul>
 </li>
 <li class="toctree-l2"><a class="reference internal" href="../../business-group-settings/index.html">Business Profile Settings</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../app-settings/index.html">App settings</a></li>
 </ul>
 </li>
 <li class="toctree-l1"><a class="reference internal" href="../../../blocks/index.html">Blocks</a></li>
@@ -120,6 +121,7 @@
 <li class="toctree-l1"><a class="reference internal" href="../../../pages/index.html">Pages</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../working-with-documents/index.html">Working with Documents</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../working-with-processes/index.html">Working with Processes</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../working-with-events/index.html">Working with Events</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../using-communities/index.html">Using Communities</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../using-newsletters/index.html">Using Newsletters</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../user-options/index.html">User options</a></li>
@@ -197,6 +199,7 @@
   <div class="section" id="azure-ad-synchronization-settings">
 <h1>Azure AD Synchronization settings<a class="headerlink" href="#azure-ad-synchronization-settings" title="Permalink to this headline">¶</a></h1>
 <p>Use these advanced settings to make sure person properties are synchronized from Azure AD to Sharepoint.</p>
+<p><strong>Note!</strong> For this to work, you have to set the Azure AD Sync Account. See that heading on this page for more information: <a class="reference internal" href="../security/index.html"><span class="doc">Security</span></a></p>
 <p>This is what’s available:</p>
 <img alt="../../../_images/azure-ad-overview.png" src="../../../_images/azure-ad-overview.png" />
 <ul class="simple">
@@ -210,9 +213,7 @@
 </ul>
 <p>At the bottom the synchronizations that has been set up are shown. By clicking the pen you can edit the same settings as when the synchronization was set up (see below).</p>
 <p>To delete a synchronization from the list, click the dust bin.</p>
-<div class="section" id="set-up-a-new-synchronization">
-<h2>Set up a new synchronization<a class="headerlink" href="#set-up-a-new-synchronization" title="Permalink to this headline">¶</a></h2>
-<p>To set up a new synchronization, do the following:</p>
+<p>For a scheduled synchronization you also need to add an account in the Security settings (Secrets), see: <a class="reference internal" href="../security/index.html"><span class="doc">Security</span></a></p>
 <ol class="arabic simple">
 <li>Click the plus.</li>
 </ol>
@@ -232,7 +233,6 @@
 <li>Save when your finished here.</li>
 <li>Save your changes in the settings window.</li>
 </ol>
-</div>
 <div class="section" id="events">
 <h2>Events<a class="headerlink" href="#events" title="Permalink to this headline">¶</a></h2>
 <p>In the list each synchronization is described with Type, Status and start- and end time. The top icon for each post will show more details. Here’s where you will see detailed log if you selected “Log Details”.</p>
@@ -263,7 +263,7 @@
   <div role="contentinfo">
     <p>
         &copy; Copyright 2020, Precio Fishbone.
-      Last updated on Oct 29, 2020.
+      Last updated on Dec 10, 2020.
 
     </p>
   </div>
