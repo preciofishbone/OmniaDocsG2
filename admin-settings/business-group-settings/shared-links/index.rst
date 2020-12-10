@@ -13,6 +13,10 @@ The options available here are:
 
 Shared links
 **************
+A list of Shared links for the Business Profile can look like this:
+
+.. image:: business-profile-shared-links-list.png
+
 Options for Tenant Shared Links and Business Profile Shared Links are identical. For information on how to create and edit Shared Links, see: :doc:`Shared Links (Tenant) </admin-settings/tenant-settings/shared-links/index>`
 
 Permissions
