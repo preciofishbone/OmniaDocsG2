@@ -26,7 +26,9 @@ Sync to Sharepoint
 --------------------
 This sync is a map of some properties to Sharepoint fields, either as set up in Omnia Admin, or set up specifically for a Page Type, as an override.
 
-For more information about the Admin settings, see: :doc:`Web Content Management </admin-settings/tenant-settings/webcontent-management/index>`
+When a (rare) action has been executed, for example an override created for a Page Type, you have to conduct a full sync, using the buttons here.
+
+For more information about the Admin settings, see: :doc:`Web Content Management </admin-settings/tenant-settings/webcontent-managament/index>`
 
 For more information about the override, see the heading "Settings" on this page: :doc:`Page Types </pages/page-types/index>`
 
