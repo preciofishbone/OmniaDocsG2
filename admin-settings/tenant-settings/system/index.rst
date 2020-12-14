@@ -2,7 +2,7 @@ System
 =============
 Here, the following can be set:
 
-.. image:: system-settings-new4.png
+.. image:: system-settings-new5.png
 
 Extensions
 ************
@@ -15,6 +15,14 @@ Default SharePoint Context Url
 Here the Default SharePoint address can be set/edited.
 
 .. image:: system-default-sharepoint.png
+
+Authentification
+*****************
+The following can be enabled here:
+
+.. image:: system-authentification.png
+
+If Safari users in your organization has the Intelligent Tracking Prevention activated, this option has to be enabled in Omnia.
 
 Error Information
 ******************
