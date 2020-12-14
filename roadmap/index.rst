@@ -28,7 +28,7 @@ Improvements to Search
 * Microsoft Search as an alternative to SharePoint Search when configuring search categories in Omnia.
 * Search Statistics. Easy-to-use reports for administrators.
 * Possibility to search for Shared Links.
-* Possibility to use hit highlighted summary when using SharePoint Search as the provider in a search caregory.
+* Possibility to use hit highlighted summary when using SharePoint Search as the provider in a search category.
 * Search Bookmarks. A way for administrators to register best bets for certain keywords.
 
 Improvements to Links
