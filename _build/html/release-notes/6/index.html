@@ -98,6 +98,7 @@
 <li class="toctree-l1"><a class="reference internal" href="../../pages/index.html">Pages</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../working-with-documents/index.html">Working with Documents</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../working-with-processes/index.html">Working with Processes</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../working-with-events/index.html">Working with Events</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../using-communities/index.html">Using Communities</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../using-newsletters/index.html">Using Newsletters</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../user-options/index.html">User options</a></li>
@@ -115,6 +116,7 @@
 <li class="toctree-l2"><a class="reference internal" href="../omnia-feed/index.html">Omnia Feed (Mobile App)</a></li>
 </ul>
 </li>
+<li class="toctree-l1"><a class="reference internal" href="../../roadmap/index.html">In Development</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../guides/index.html">Guides</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../contribute-to-doc/index.html">Contribute to this Documentation</a></li>
 </ul>
@@ -188,70 +190,101 @@
 <p class="first admonition-title">Note</p>
 <p class="last">These are draft release notes. Information might be added, edited and removed.</p>
 </div>
-<div class="section" id="tenant-page-types-and-default-content">
-<h2>Tenant Page Types and Default Content<a class="headerlink" href="#tenant-page-types-and-default-content" title="Permalink to this headline">¶</a></h2>
-<ul class="simple">
-<li>Possibility to manage Page Types on tenant level allowing for global handling across Business Profiles and Publishing Apps.</li>
-<li>All Page Types have configurable default data, giving editors greater control and convenience.</li>
-</ul>
+<div class="section" id="tenant-page-types">
+<h2>Tenant Page Types<a class="headerlink" href="#tenant-page-types" title="Permalink to this headline">¶</a></h2>
+<p>It will now be possible to manage Page Types on tenant level.</p>
+<img alt="../../_images/tenant-page-types-1.png" src="../../_images/tenant-page-types-1.png" />
+<img alt="../../_images/tenant-page-types-2.png" src="../../_images/tenant-page-types-2.png" />
+<p>This allows for global use across Business Profiles and Publishing Apps.</p>
+<img alt="../../_images/tenant-page-types-3.png" src="../../_images/tenant-page-types-3.png" />
+</div>
+<div class="section" id="default-content-in-page-types">
+<h2>Default Content in Page Types<a class="headerlink" href="#default-content-in-page-types" title="Permalink to this headline">¶</a></h2>
+<p>All blocks that allow content to be edited in write mode, now have the possibility to have default content.</p>
+<img alt="../../_images/default-content-1.png" src="../../_images/default-content-1.png" />
+<p>The default content can be allowed to be overwritten or not.</p>
+<p>If the default content is allowed to be overwritten, it can be copied to the page on creation or used as a fallback if the author leaves the content empty.</p>
+<p>If the default content is not allowed to be overwritten, the default content in the page type will always be shown on a page.</p>
+<img alt="../../_images/default-content-2.png" src="../../_images/default-content-2.png" />
 </div>
 <div class="section" id="media-picker-improvements">
 <h2>Media Picker improvements<a class="headerlink" href="#media-picker-improvements" title="Permalink to this headline">¶</a></h2>
-<ul class="simple">
-<li>Compression Settings.</li>
-<li>Rollup Ratio Settings.</li>
-<li>Light editing possibilities with scaling, cropping, filters etc.</li>
-<li>Improved Media Picker UX.</li>
-</ul>
+<p>The image scaling feature of the Media Picker has been highly improved. The author will be presented with a number of options on how to scale the image on selection.</p>
+<img alt="../../_images/mediapicker-scaling.png" src="../../_images/mediapicker-scaling.png" />
+<p>The scaling options included compression are configurable in Omnia Admin.</p>
+<img alt="../../_images/mediapicker-settings-scaling.png" src="../../_images/mediapicker-settings-scaling.png" />
+<img alt="../../_images/mediapicker-settings-scaling-2.png" src="../../_images/mediapicker-settings-scaling-2.png" />
+<p>It is possible to force a specific scaling in media/banner blocks.</p>
+<img alt="../../_images/mediablock-settings-forcescaling.png" src="../../_images/mediablock-settings-forcescaling.png" />
+<p>The Media Picker UX has been improved. The rollup ratios are separated from the main image.</p>
+<img alt="../../_images/mediapicker-cropping.png" src="../../_images/mediapicker-cropping.png" />
+<p>The image ratios are configurable in Omnia Admin.</p>
+<img alt="../../_images/mediapicker-settings-ratios.png" src="../../_images/mediapicker-settings-ratios.png" />
+<p>The available ratios within a media/banner block can be set in the block settings.</p>
+<img alt="../../_images/mediapicker-settings-ratios.png" src="../../_images/mediapicker-settings-ratios.png" />
+<p>The Media Picker allows for light image editing using the possibility to flip and put filters on the image.</p>
+<img alt="../../_images/mediapicker-flip.png" src="../../_images/mediapicker-flip.png" />
+<img alt="../../_images/mediapicker-filters.png" src="../../_images/mediapicker-filters.png" />
+</div>
+<div class="section" id="automatic-page-creation">
+<h2>Automatic Page Creation<a class="headerlink" href="#automatic-page-creation" title="Permalink to this headline">¶</a></h2>
+<p>An administrator can setup rules on a Page Collection regarding automatic page creation.</p>
+<p>Whenever a page is published in the Page Collection and match a specific rule, a copy of the page will be published to another Page Collection in the tenant.</p>
+<p>This can be used to allow for news articles to be published to for example a partner or customer portal.</p>
 </div>
 <div class="section" id="reusable-content-improvements">
 <h2>Reusable Content improvements<a class="headerlink" href="#reusable-content-improvements" title="Permalink to this headline">¶</a></h2>
-<ul class="simple">
-<li>Automatic page creation rules.</li>
-<li>Better workflow when source page is updated.</li>
-</ul>
+<p>The reusable content feature in Omnia has been redesigned. It now allows reused pages to be found in search and the page author workflow has improved.</p>
 </div>
 <div class="section" id="team-news-rollup-improvements">
 <h2>Team News Rollup improvements<a class="headerlink" href="#team-news-rollup-improvements" title="Permalink to this headline">¶</a></h2>
-<ul class="simple">
-<li>Possibility to configure a custom query when rolling up Team News.</li>
-</ul>
+<p>The settings in the Team News Rollup has improved. It is now possible to provide a custom query in the Query section of the block.
+The custom query can be used to only get team news with certain properties, such as “Show on start page”. It can also be used to include or exclude certain sites.
+In the example below, it is used to exclude all news from Communication Sites.</p>
+<img alt="../../_images/teamnews-customquery.png" src="../../_images/teamnews-customquery.png" />
 </div>
 <div class="section" id="enterprise-properties-improvements">
 <h2>Enterprise Properties improvements<a class="headerlink" href="#enterprise-properties-improvements" title="Permalink to this headline">¶</a></h2>
-<ul class="simple">
-<li>Possibility to manage categories.</li>
-<li>Term Picker updated to support categories.</li>
-<li>Delete/Recycle Bin.</li>
-</ul>
+<p>To simplify the administration of Enterprise Properties and Property Sets, they can now be categorized.</p>
+<img alt="../../_images/enterpriseproperties-categories-admin.png" src="../../_images/enterpriseproperties-categories-admin.png" />
+<p>A set of categories are added out of the box and additional can be added later.</p>
+<img alt="../../_images/enterpriseproperties-categories-admin2.png" src="../../_images/enterpriseproperties-categories-admin2.png" />
+<p>The Enterprise Property Picker is updated to support categories.</p>
+<img alt="../../_images/enterpriseproperties-picker.png" src="../../_images/enterpriseproperties-picker.png" />
+<p>A recycle bin has been added for Enterprise Properties and Property Sets. This makes it possible to soft delete properties without breaking any current implementations.
+In the recycle bin UI it is possible to restore properties or terminate them.</p>
+<img alt="../../_images/enterpriseproperties-recyclebin.png" src="../../_images/enterpriseproperties-recyclebin.png" />
 </div>
 <div class="section" id="member-step-in-create-teamwork-wizard">
 <h2>Member step in Create Teamwork wizard<a class="headerlink" href="#member-step-in-create-teamwork-wizard" title="Permalink to this headline">¶</a></h2>
-<ul class="simple">
-<li>A new step has been added to provisioning templates that allow users to add owners and members for different types of Teamwork.</li>
-</ul>
+<p>A new step has been added to provisioning templates that allow users to add owners and members for different types of Teamwork.</p>
+<img alt="../../_images/create-teamwork-membersstep.png" src="../../_images/create-teamwork-membersstep.png" />
 </div>
 <div class="section" id="layout-explorer-and-templates">
 <h2>Layout Explorer and Templates<a class="headerlink" href="#layout-explorer-and-templates" title="Permalink to this headline">¶</a></h2>
-<ul class="simple">
-<li>Possibility to manage the layout in a page using a Layout Explorer.</li>
-<li>Predefined templates that can be used when creating new layouts.</li>
-</ul>
+<p>On the right-hand side in the design mode, a new toolbar has been added that includes the possibility to access all sections, columns and blocks using a layout explorer.</p>
+<img alt="../../_images/layoutexplorer.png" src="../../_images/layoutexplorer.png" />
+<p>In this new toolbar, you can also use a number of predefined layouts to get a quick start when creating new layouts for your start page or page type.</p>
+<img alt="../../_images/layouttemplates.png" src="../../_images/layouttemplates.png" />
 </div>
 <div class="section" id="process-management-improvements">
 <h2>Process Management Improvements<a class="headerlink" href="#process-management-improvements" title="Permalink to this headline">¶</a></h2>
-<ul class="simple">
-<li>Page Rollup in Process Steps.</li>
-<li>Feedback.</li>
-<li>Move Process.</li>
-</ul>
+<p>The Action Button can be configured to allow feedback to a process.</p>
+<img alt="../../_images/process-feedback.png" src="../../_images/process-feedback.png" />
+<p>The feedback will be sent to the process owner and available in the team site where the process is located.</p>
+<img alt="../../_images/process-feedback-teamsite.png" src="../../_images/process-feedback-teamsite.png" />
+<p>It is now possible to move a process from one team site to another.</p>
+<img alt="../../_images/move-process.png" src="../../_images/move-process.png" />
 </div>
 <div class="section" id="document-management-improvements">
 <h2>Document Management Improvements<a class="headerlink" href="#document-management-improvements" title="Permalink to this headline">¶</a></h2>
-<ul class="simple">
-<li>Retention and Termination of documents.</li>
-<li>Bulk Update.</li>
-</ul>
+<p>A retention policy can be set on document types. The retention policy will calculate a rentention date when a controlled document is published.</p>
+<img alt="../../_images/retention-policy.png" src="../../_images/retention-policy.png" />
+<p>The retention date will be used as a basis to send information to a Retention Manager about expiring documents. The Retention Manager can take a decision whether to keep the document or terminate it from the system.</p>
+<img alt="../../_images/document-termination.png" src="../../_images/document-termination.png" />
+<p>When a document is terminated from the system, all files that belong to the controlled document will be deleted and can not be restored.</p>
+<p>An administrator can bulk update properties on Controlled Documents from within Omnia Admin.</p>
+<img alt="../../_images/documents-bulk-update.png" src="../../_images/documents-bulk-update.png" />
 </div>
 <div class="section" id="versions">
 <h2>Versions<a class="headerlink" href="#versions" title="Permalink to this headline">¶</a></h2>
@@ -286,7 +319,7 @@
   <div role="contentinfo">
     <p>
         &copy; Copyright 2020, Precio Fishbone.
-      Last updated on Oct 30, 2020.
+      Last updated on Dec 14, 2020.
 
     </p>
   </div>

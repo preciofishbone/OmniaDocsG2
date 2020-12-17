@@ -9,7 +9,7 @@ Workplace Features
 --------------------------------------------
 
 * Possibility to configure header on tenant level and inherit on business profile level.
-* New improved business profile header with possibility to render horizontially or vertically in different devices/clients.
+* New improved business profile header with possibility to render horizontally or vertically in different devices/clients.
 * Dynamic megamenu. Build your megamenu using a combination of traditional navigation and blocks.
 * People Info Card. An alternative to using Delve to get more information about a user.
 
@@ -26,9 +26,9 @@ Improvements to Search
 --------------------------------------------
 
 * Microsoft Search as an alternative to SharePoint Search when configuring search categories in Omnia.
-* Search Statisics. Easy-to-use reports for administrators.
+* Search Statistics. Easy-to-use reports for administrators.
 * Possibility to search for Shared Links.
-* Possibility to use hit highlighted summary when using SharePoint Search as the provider in a search caregory.
+* Possibility to use hit highlighted summary when using SharePoint Search as the provider in a search category.
 * Search Bookmarks. A way for administrators to register best bets for certain keywords.
 
 Improvements to Links
