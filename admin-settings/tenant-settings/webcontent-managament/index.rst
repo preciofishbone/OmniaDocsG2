@@ -37,7 +37,7 @@ Page Types
 
 In Omnia v6, Tenant Page Types can be created, to be used in any Publishing App in the tenant.
 
-Any Tenant Page Types will be available here:
+Any Tenant Page Type will be available here:
 
 .. image:: WCM-page-types-v6.png
 

@@ -361,7 +361,7 @@ The following settings can be available for a property:
 
 Override Sharepoint Sync Settings
 ------------------------------------
-Sharepoint Sync Settings are set in Omnia Admin (available under Web Content Management), for the whole tenant. If you need some other synchronization for pages created from this Page Type, you can override the tenant settings and create a specific synchronization here.
+Sharepoint Sync Settings are set in Omnia Admin (available under Web Content Management), for the whole tenant. If you need some other synchronization for pages created in this Publishing App, you can override the tenant settings and create a specific synchronization here.
 
 When you activate this option, the following is shown:
 
@@ -375,7 +375,7 @@ The settings are used exactly the same way here as the settings for the tenant. 
 
 :doc:`Web Content Management </admin-settings/tenant-settings/webcontent-management/index>`
 
-When you have set up the sync here, you must execute a full sync to Sharepoint, as the message staded - for this Publishing App. Go to the Publishing App settings and click this button:
+When you have set up the sync here, you must execute a full sync to Sharepoint, as the message stated - for this Publishing App. Go to the Publishing App settings and click this button:
 
 .. image:: page-type-settings-sync-button.png
 
