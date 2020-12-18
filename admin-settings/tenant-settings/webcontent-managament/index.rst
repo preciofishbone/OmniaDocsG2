@@ -43,6 +43,8 @@ The Tenant Page Types are handled from here:
 
 You work with the Tenant Page Types exactly the same way as the Publishing App Page Types, as described here: :doc:`Page Types </pages/page-types/index>`
 
+The "only" difference is that the Tenant Page Types are created and edited here, they are not visible in the list "Page Types" in the Publishing App.
+
 Activating Tenant Page Types
 -------------------------------
 You activate Tenant Page Types the same way as the Publishing App Page Types, in the settings for the Page Collection:
@@ -55,7 +57,7 @@ The Page Types can then be used by Page Editors to create pages, the same way as
 
 Moving a Page Type to Tenant
 ------------------------------
-If you already have one or more Page Types you want to use as is, or use as a base for a Tenant Page Type, when upgrading to Omnia v6, you can easily "make a Tenant Page Type" of them. 
+If you already have one or more Page Types you want to use as a Tenant Page Type, when upgrading to Omnia v6, you can easily "make a Tenant Page Type" of them. 
 
 Select the Page Type and choose "Move To Tenant" in the menu:
 
@@ -63,7 +65,7 @@ Select the Page Type and choose "Move To Tenant" in the menu:
 
 All pages using the moved Page Type will continue using it, but the Page Type will now fully function as a Tenant Page Type. (See for example the comment about updating a Page Type above).
 
-**Note!** The moved Page Type is removed from the list of Page Types in the Publishing App - it can longer be edited there. As it is a Tenant Page Type from now on, it must be edited in Omnia Admin. 
+**Note!** The moved Page Type is removed from the list of Page Types in the Publishing App - it can no longer be edited there. As it is a Tenant Page Type from now on, it must be edited in Omnia Admin. 
 
 Archiving a Tenant Page Type
 -------------------------------
