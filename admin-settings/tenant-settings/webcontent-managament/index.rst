@@ -45,7 +45,7 @@ The Tenant Page Types are handled from here:
 
 You work with the Tenant Page Types exactly the same way as the Publishing App Page Types, as described here: :doc:`Page Types </pages/page-types/index>`
 
-The "only" difference is that the Tenant Page Types are created and edited here, they are not visible in the list "Page Types" in the Publishing App.
+The "only" difference is that the Tenant Page Types are created and edited here, they are not visible in the list "Page Types" in the Publishing App, but are available when an editor creates a new page.
 
 Activating Tenant Page Types
 -------------------------------
@@ -71,6 +71,10 @@ All pages using the moved Page Type will continue using it, but the Page Type wi
 
 Archiving a Tenant Page Type
 -------------------------------
+You can archive a Tenant Page Type the same way as Page Types in the Publishing App:
+
+.. image:: WCM-page-types-archive-menu.png
+
 Archived Tenant Page Types are placed in the Tenant Archive:
 
 .. image:: WCM-page-types-archive-new.png
