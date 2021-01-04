@@ -4,11 +4,9 @@ Tenant Settings
 .. toctree::
    :titlesonly:
 
-   azure-ad-synchronization-settings/index
    announcements/index
    business-profiles/index
    features/index
-   localization/index
    omnia-feed/index
    properties/index
    security/index

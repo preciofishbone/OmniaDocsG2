@@ -1,5 +1,5 @@
 Localization
-===========================================
+===================
 
 The localization editor is used to view translations of different labels in different languages, edit these translations, and export the translated labels.
 
@@ -33,4 +33,3 @@ Available languages are set up under Tenant-Settings-Regional settings, see: :do
 The texts that needs to be translated are now exported to a json file. The file is placed in the Downloads folder on your computer.
 
 .. image:: json-file.png
-
