@@ -2,7 +2,7 @@ System
 =============
 Here, the following can be set:
 
-.. image:: system-settings-new5.png
+.. image:: system-settings-new6.png
 
 Select section for more information:
 
