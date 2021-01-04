@@ -45,4 +45,4 @@ Archived Tenant Page Types are placed in the Tenant Archive:
 
 .. image:: WCM-page-types-archive-new.png
 
-This archive works the same way as the archive for the Publishing App Page Types, see: :doc:`Archive or restore a Page Types </pages/page-types/archive-restore-page-type/index>`
+This archive works the same way as the archive for the Publishing App Page Types, see: :doc:`Archive or restore a Page Type </pages/page-types/archive-restore-page-type/index>`
