@@ -3,7 +3,7 @@ Hide a page
 
 Using this option you can hide a page, draft or published, or a whole section of main page and sub pages. Even a page that has been published for a while, with any number of versions, can be hidden.
 
-You can then unhide (Show) when it's time to make to page(s) available.
+You can then unhide (Show) when it's time to make the page(s) available.
 
 While a page is hidden it can not be found through search, not by anyone, in fact even not by yourself. The only way to access a hidden page is through the navigation when in edit mode.
 
