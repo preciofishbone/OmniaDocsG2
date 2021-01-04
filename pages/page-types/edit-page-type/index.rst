@@ -28,4 +28,6 @@ To edit a page type, do the following:
 
 .. image:: page-types-edit-section-new.png
 
-For information about various settings and how to place Blocks, see (link to be added).
+For information about various settings, see :doc:`Create new Page Type </pages/page-types/create-new-page-type/index>`
+
+For information about sections and blocks see :doc:`Working with Sections and Blocks </pages/page-types/working-with-sections-and-blocks/index>`.

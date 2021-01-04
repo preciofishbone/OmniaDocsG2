@@ -120,7 +120,7 @@ Here you can set the following:
 
 You can then decide to use the global settings for the business profile, or custom settings. 
 
-The global settings are set in Omnia Admin, see the bottom at this page: :doc:`Header Settings </admin-settings/business-group-settings/settings/index>`
+The global settings are set in Omnia Admin, see the bottom of this page: :doc:`Header Settings </admin-settings/business-group-settings/settings/index>`
 
 When selecting custom settings, the following is available:
 
