@@ -56,9 +56,7 @@ And then something like the following is available:
 
 .. image:: page-type-settings-override.png
 
-The settings are used exactly the same way here as the settings for the tenant. See this page for more information:
-
-:doc:`Web Content Management </admin-settings/tenant-settings/webcontent-management/index>`
+The settings are used exactly the same way here as the settings for the tenant. See this page for more information: :doc:`Sharepoint Sync </admin-settings/tenant-settings/webcontent-managament/sharepoint-sync/index>`
 
 When you have set up the sync here, you must execute a full sync to Sharepoint, as the message stated. Go to the Publishing App settings and click this button:
 
