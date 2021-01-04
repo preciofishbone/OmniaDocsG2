@@ -19,4 +19,5 @@ Select section for more information:
    working-with-sections-and-blocks/index
    archive-restore-page-type/index
    page-type-settings/index
+   admin-settings/tenant-settings/webcontent-managament/page-types/index
 

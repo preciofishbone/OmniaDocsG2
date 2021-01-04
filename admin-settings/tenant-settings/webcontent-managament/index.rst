@@ -11,20 +11,12 @@ Coming in Omnia version 6 are the following options:
 
 Select section for more information:
 
-Sharepoint Sync
-Permission
-Page Types
+.. toctree::
+   :titlesonly:
 
+   sharepoint-sync/index
+   permission/index
+   page-types/index
+   
 
-
-Sharepoint Sync
-*****************
-
-
-Permission
-************
-
-
-Page Types
-*************
 
