@@ -8,8 +8,8 @@ Tenant Settings
    business-profiles/index
    features/index
    omnia-feed/index
-   properties/index
    security/index
+   properties/index
    settings/index
    shared-links/index
    system/index
