@@ -1,4 +1,4 @@
-Header Tenant Settings
+Header settings
 ========================
 
 Here you can change the default settings for the Header in the tenant. Additional settings, sometimes overriding the Tenant Settings, can be made for each Business Profile. 

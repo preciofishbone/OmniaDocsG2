@@ -1,4 +1,4 @@
-RTF Editor Settings
+RTF Editor settings
 ====================
 
 Use these settings to decide which default options should be available for the Rich Text Editor and the Limited Rich Text Editor, in the tenant. 

@@ -1,4 +1,4 @@
-Regional Tenant Settings
+Regional settings
 ==========================
 
 Use these settings for languages, date and time, for the tenant. Other settings for this can be set for a Business Profile.
