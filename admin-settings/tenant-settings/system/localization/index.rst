@@ -13,20 +13,19 @@ In order to view the labels that have yet not been translated, select **have Mis
 
 .. image:: localization-service.png
 
-When View Mode and Service has been selected, a list a shown. In this example everything in Web Content Management that don't have a translation yet is listed.
+When View Mode and Service has been selected, a list is shown. In this example everything in Web Content Management that don't have a translation yet is listed.
 
-You can point at the I-icon for information about which languages, of the available languages, are missing.
+You can point at the i-icon for information about which languages, of the available languages, are missing.
 
 .. image:: localization-info.png
 
-+ **Language**: Select language for the output here, from the available tenant languages. If the purpose is translating untranslated labels, then select both English and the language you wish to translate them to. This will help
-this will assist the user in knowing more specifically what each label does:
++ **Language**: Select language for the output here, from the available tenant languages. If the purpose is translating untranslated labels, then select both English and the language you wish to translate them to. This will assist the user in knowing more specifically what each label does:
 
 .. image:: localization-language.png
 
 Available languages are set up under Tenant-Settings-Regional settings, see: :doc:`Regional settings </admin-settings/tenant-settings/settings/index>`
 
-+ **Export**: When you have finished the settings , click this button to export to a file.
++ **Export**: When you have finished the settings, click this button to export to a file.
 
 .. image:: localization-button.png
 
