@@ -1,7 +1,7 @@
 General Tenant settings
 ===========================
 
-Here you add settings for the start link. This is used when a user clicks the logo an can be used in the breadcrumb.
+Here you add settings for the start link, the link executed when a user clicks the logo.
 
 .. image:: tenant-settings-general.png
 

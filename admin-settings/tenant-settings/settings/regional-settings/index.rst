@@ -3,10 +3,10 @@ Regional settings
 
 Use these settings for languages, date and time, for the tenant. Other settings for this can be set for a Business Profile.
 
-(New image)
+.. image:: regional-settings-tenant.png
 
 Languages
------------------
+*************
 Use this setting to select the languages that should be available for the user interface in the tenant. These languages can also be used for Announcements and Shared Links. 
 
 You can add and remove languages here any time.
@@ -44,7 +44,7 @@ Language displayed for a user
 What language a specific user will see for the interface, in Announcement messages and Shared links, depends on the user's Preferred Language setting in the Azure AD.
 
 Date And Time
---------------
+****************
 For Date And Time you can set the following:
 
 .. image:: date-time.png
