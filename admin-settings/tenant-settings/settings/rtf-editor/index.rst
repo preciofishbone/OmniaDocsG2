@@ -17,8 +17,6 @@ Both lists are handled the same way.
 
 At the top you will see a preview of what the RTF editor will look like with the selected options.
 
-Remove Formatting is not an option shown as an icon in the RTF editor. The option becomes available when it's needed - when formatted text is selected or when text with formattion is pasted.
-
 Text Translator is the option for Machine Translations editors can use (Available at the bottom of the list, not activated in the image above). 
 
 All other options should be fairly self explanatory.

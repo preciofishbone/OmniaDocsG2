@@ -3,7 +3,7 @@ Text Styles
 
 Here you can edit the settings for the text styles used in the RTF editor, as well as create new styles.
 
-.. image:: tenant-settings-text-styles.png
+.. image:: tenant-settings-text-styles-new.png
 
 In the column Enabled you decide which styles should be available to choose for the RTF editor. They are listed under Styles in the settings described above and are also available in a few blocks where a custom RTF editor can be created.
 
@@ -15,7 +15,7 @@ Do the following:
 
 1. Click the plus.
 
-.. image:: text-styles-click-plus.png
+.. image:: text-styles-click-plus-new.png
 
 2. Use these settings:
 

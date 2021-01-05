@@ -11,7 +11,7 @@ Use this setting to select the languages that should be available for the user i
 
 You can add and remove languages here any time.
 
-Language versions of pages are handled differently. Page Variations are used for this purpose, see the heading "Variations" on this page:  :doc:`Page Settings </pages/page-settings/index>`
+Language versions of pages are handled differently. Page Variations are used for this purpose, see the heading "Variations" on this page:  :doc:`Publishing App Settings </pages/page-settings/index>`
 
 There must always be a language selected as Default Language, in this example English (United States):
 
