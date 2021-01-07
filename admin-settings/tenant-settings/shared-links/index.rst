@@ -1,7 +1,7 @@
 Shared Links
 =======================
 
-Using Shared Links a Tenant Administrator, (or any other user added in the Permissions list, see below) can create links that user can access through "My Links". It makes it possible to create a central list of links, in Omnia Admin, to resources that are commonly used within the organization. 
+Using Shared Links a Tenant Administrator, (or any other user added in the Permissions list, see below) can create links that users can access through "My Links". It makes it possible to create a central list of links, in Omnia Admin, to resources that are commonly used within the organization. 
 
 Some links can be mandatory and it's also possible to target links to certain groups. 
 
@@ -15,19 +15,24 @@ The end user experience
 *************************
 The end user can access the Shared Links in the My Links control. The list contains all active links. The user can decide which non-mandatory links to display and can add personal links there. Here's an example:
 
-.. image:: my-linksexample-new.png
+.. image:: my-linksexample-new2.png
+
+For more information about how to use My Links, see: :doc:`My Links</user-options/my-links/index>`
 
 Settings
 **********
 The following settings are available:
 
-.. image:: shared-links-admin-settings.png
+.. image:: shared-links-admin-settings2.png
+
+Shared links
+-----------------
 
 In the list of Shared Links, click the pen to edit a link or the dust bin to delete a link.
 
-.. image:: shared-links-edit-new.png
+.. image:: shared-links-edit-new2.png
 
-When editing a link, all options available when creating a new link can be edited, see above.
+When editing a link, all options available when creating a new link can be edited, see below.
 
 Create a Shared Link
 ---------------------
@@ -35,11 +40,11 @@ Do the following:
 
 1. Click the plus.
 
-.. image:: shared-links-click-plus-new2.png
+.. image:: shared-links-click-plus-new3.png
 
 2. Set the following:
 
-.. image:: shared-links-settings3.png
+.. image:: shared-links-settings4.png
 
 (Not all options are shown in the image.)
 
@@ -63,24 +68,25 @@ To target a link, do the following. Note that Properties for targeting must be s
 
 1. Click "Add Targeting Filter".
 
-.. image:: add-targeting-filter-new.png
+.. image:: add-targeting-filter-new2.png
 
 2. Open the list and select Property.
 
-.. image:: targeting-property-new.png
+.. image:: targeting-property-new2.png
  
 3. Select one or more children properties, if applicable.
 
-.. image:: select-children-properties-new.png
+.. image:: select-children-properties-new2.png
  
 Or:
+
 3. Select to include all children properties.
 
-.. image:: select-children-all-new.png
+.. image:: select-children-all-new2.png
   
 To delete a targeting filter, just click the x.
 
-.. image:: delete-targeting-filter-new.png
+.. image:: delete-targeting-filter-new2.png
 
 Permissions for Shared Links
 *****************************
@@ -88,7 +94,7 @@ Shared Links has a seperate Permissions setting, so any user can be set as a Sha
 
 Add all users that should be Shared Links administrators for the tenant here:
 
-.. image:: shared-links-click-permissions-list-new.png
+.. image:: shared-links-click-permissions-list-new2.png
 
 Note that Tenant Administrators always can work with Shared Links even though they are not listed here.
 
