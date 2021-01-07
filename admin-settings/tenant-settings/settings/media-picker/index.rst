@@ -19,7 +19,7 @@ To edit a scaling setting, click the pen. See *Create a new scaling setting* bel
 
 To remove a scaling setting, click the dust bin.
 
-The warning when an image exceeds the file size limit can look like this in Omnia v6.
+The warning when an image exceeds the file size limit can look like this in Omnia v6:
 
 .. image:: image-message.png
 
