@@ -5,7 +5,7 @@ Within a Tenant several Business Profiles can be used, for different settings fo
 
 Settings for Teamwork, the Notification Panel, Search and Provisioning Templates are also found among the Business Profile settings.
 
-When adding and editing settings for a specific Business Profile, you must first select the Profile in this list. The available settings for the Business Profile is then listed below.
+When adding and editing settings for a specific Business Profile, you must first select the Profile in this list. The available settings for the Business Profile are then available.
 
 .. image:: business-profile-settings-new2.png
 
