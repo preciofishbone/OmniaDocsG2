@@ -9,7 +9,7 @@ Note that an option to create Announcements for a specific Business Group also i
 
 Announcements
 ***************
-All existing Announcements, either active or not, are shown in the list. From there you can edit or delete an Announcement.
+All existing Announcements, active or not, are shown in the list. From there you can edit or delete an Announcement.
 
 .. image:: announcements-list-new.png
 
@@ -45,7 +45,7 @@ Use the following settings:
 
 Here's an example of an Announcement with high priority:
 
-.. image:: high-priority-new2.png
+.. image:: high-priority-new3.png
 
 Here's an example of Announcements displayed in the Announcements block:
 
