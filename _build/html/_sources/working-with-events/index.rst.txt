@@ -1,7 +1,7 @@
 Working with Events
 ===========================
 
-Using a number of options in Omnia, together with a few dedicated options, information can be pubkished about different kinds of events (training sessions is one example) and Event Managers can handle registration of participants for the event.
+Using a number of options in Omnia, together with a few dedicated options, information can be published about different kinds of events (training sessions is one example) and Event Managers can handle registration of participants for the event.
 
 Important Event options:
 

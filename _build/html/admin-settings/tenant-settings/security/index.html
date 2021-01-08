@@ -8,7 +8,7 @@
   
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   
-  <title>Security &mdash; Omnia  documentation</title>
+  <title>Permissions &mdash; Omnia  documentation</title>
   
 
   
@@ -41,8 +41,8 @@
         <link rel="search" title="Search" href="../../../search.html"/>
     <link rel="top" title="Omnia  documentation" href="../../../index.html"/>
         <link rel="up" title="Tenant Settings" href="../index.html"/>
-        <link rel="next" title="Settings" href="../settings/index.html"/>
-        <link rel="prev" title="Properties" href="../properties/index.html"/> 
+        <link rel="next" title="Properties" href="../properties/index.html"/>
+        <link rel="prev" title="Omnia Feed - Tenant Settings" href="../omnia-feed/index.html"/> 
 
   
   <script src="../../../_static/js/modernizr.min.js"></script>
@@ -94,19 +94,16 @@
               <ul class="current">
 <li class="toctree-l1 current"><a class="reference internal" href="../../index.html">Admin Settings</a><ul class="current">
 <li class="toctree-l2 current"><a class="reference internal" href="../index.html">Tenant Settings</a><ul class="current">
-<li class="toctree-l3"><a class="reference internal" href="../azure-ad-synchronization-settings/index.html">Azure AD Synchronization settings</a></li>
 <li class="toctree-l3"><a class="reference internal" href="../announcements/index.html">Announcements</a></li>
 <li class="toctree-l3"><a class="reference internal" href="../business-profiles/index.html">Business Profiles</a></li>
 <li class="toctree-l3"><a class="reference internal" href="../features/index.html">Features - Tenant</a></li>
-<li class="toctree-l3"><a class="reference internal" href="../localization/index.html">Localization</a></li>
 <li class="toctree-l3"><a class="reference internal" href="../omnia-feed/index.html">Omnia Feed - Tenant Settings</a></li>
+<li class="toctree-l3 current"><a class="current reference internal" href="#">Permissions</a></li>
 <li class="toctree-l3"><a class="reference internal" href="../properties/index.html">Properties</a></li>
-<li class="toctree-l3 current"><a class="current reference internal" href="#">Security</a></li>
 <li class="toctree-l3"><a class="reference internal" href="../settings/index.html">Settings</a></li>
 <li class="toctree-l3"><a class="reference internal" href="../shared-links/index.html">Shared Links</a></li>
 <li class="toctree-l3"><a class="reference internal" href="../system/index.html">System</a></li>
 <li class="toctree-l3"><a class="reference internal" href="../tutorial/index.html">Tutorial</a></li>
-<li class="toctree-l3"><a class="reference internal" href="../user-profile-completion/index.html">User Profile Completion</a></li>
 <li class="toctree-l3"><a class="reference internal" href="../document-management/index.html">Document Management</a></li>
 <li class="toctree-l3"><a class="reference internal" href="../process-management/index.html">Process Management - Tenant settings</a></li>
 <li class="toctree-l3"><a class="reference internal" href="../webcontent-managament/index.html">Web Content Management</a></li>
@@ -127,6 +124,7 @@
 <li class="toctree-l1"><a class="reference internal" href="../../../user-options/index.html">User options</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../setup/index.html">Setup</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../release-notes/index.html">Release Notes</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../roadmap/index.html">In Development</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../guides/index.html">Guides</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../contribute-to-doc/index.html">Contribute to this Documentation</a></li>
 </ul>
@@ -177,7 +175,7 @@
         
           <li><a href="../index.html">Tenant Settings</a> &raquo;</li>
         
-      <li>Security</li>
+      <li>Permissions</li>
     
     
       <li class="wy-breadcrumbs-aside">
@@ -196,15 +194,16 @@
           <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
            <div itemprop="articleBody">
             
-  <div class="section" id="security">
-<h1>Security<a class="headerlink" href="#security" title="Permalink to this headline">¶</a></h1>
+  <div class="section" id="permissions">
+<h1>Permissions<a class="headerlink" href="#permissions" title="Permalink to this headline">¶</a></h1>
 <p>The following settings are found here:</p>
-<img alt="../../../_images/security-tenant-new.png" src="../../../_images/security-tenant-new.png" />
-<div class="section" id="permissions">
-<h2>Permissions<a class="headerlink" href="#permissions" title="Permalink to this headline">¶</a></h2>
+<img alt="../../../_images/security-tenant-new2.png" src="../../../_images/security-tenant-new2.png" />
+<p>(In previous Omnia versions, this menu option was called Security).</p>
+<div class="section" id="users-and-groups">
+<h2>Users and Groups<a class="headerlink" href="#users-and-groups" title="Permalink to this headline">¶</a></h2>
 <p>Use this setting to add and remove Tenant Administrators. Only Tenant Administrators can use this setting and other settings under “Tenant” in Omnia Admin.</p>
 <p>A Tenant Administrator can also edit all the settings for all Business Profiles within the Tenant.</p>
-<img alt="../../../_images/tenant-permissions-new.png" src="../../../_images/tenant-permissions-new.png" />
+<img alt="../../../_images/tenant-permissions-new2.png" src="../../../_images/tenant-permissions-new2.png" />
 <p>To delete an administrator here, just click the x. To add an administrator, add the name the same way as in other name fields.</p>
 <p>External users that has been invited in the Asher AD can be added here as well. Users invited this way can log in with their own Microsoft 365 account.</p>
 <p><strong>Note!</strong> There must always be at least one Tenant Administrator. If there is only one, that administrator can not be removed until an additional one has been added.</p>
@@ -222,7 +221,7 @@
 <h3>Azure AD Sync Account<a class="headerlink" href="#azure-ad-sync-account" title="Permalink to this headline">¶</a></h3>
 <p>If you’re using Azure AD Synchronization, add the account that executes the scheduling here. Should be a Sharepoint Global Admin account.</p>
 <img alt="../../../_images/tenant-secrets-sync.png" src="../../../_images/tenant-secrets-sync.png" />
-<p>For more information about Azure AD Synchronization, see: <a class="reference internal" href="../azure-ad-synchronization-settings/index.html"><span class="doc">Azure AD Synchronization Settings</span></a></p>
+<p>For more information about Azure AD Synchronization, see: <span class="xref std std-doc">Azure AD Synchronization Settings</span></p>
 </div>
 <div class="section" id="event-management-service-account">
 <h3>Event Management Service Account<a class="headerlink" href="#event-management-service-account" title="Permalink to this headline">¶</a></h3>
@@ -242,10 +241,10 @@
   
     <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
       
-        <a href="../settings/index.html" class="btn btn-neutral float-right" title="Settings" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right"></span></a>
+        <a href="../properties/index.html" class="btn btn-neutral float-right" title="Properties" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right"></span></a>
       
       
-        <a href="../properties/index.html" class="btn btn-neutral" title="Properties" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>
+        <a href="../omnia-feed/index.html" class="btn btn-neutral" title="Omnia Feed - Tenant Settings" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>
       
     </div>
   
@@ -254,8 +253,8 @@
 
   <div role="contentinfo">
     <p>
-        &copy; Copyright 2020, Precio Fishbone.
-      Last updated on Dec 10, 2020.
+        &copy; Copyright 2021, Precio Fishbone.
+      Last updated on Jan 08, 2021.
 
     </p>
   </div>
