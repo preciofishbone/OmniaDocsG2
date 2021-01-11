@@ -60,7 +60,7 @@ Do the following:
 + **Icon Background Color**: Set the background color for the icon here. If note set, default icon background color is used.
 + **Targeting Filter**: Use these settings for targeting, for the link. See below for instructions.
 
-All languages to be used here must be setup in the Tenant Settings, see: :doc:`Tenant Settings </admin-settings/tenant-settings/settings/index>`
+All languages to be used here must be setup in the Tenant Settings, see: :doc:`Regional Settings </admin-settings/tenant-settings/settings/regional-settings/index>`
 
 Targeting a Shared Link
 ------------------------

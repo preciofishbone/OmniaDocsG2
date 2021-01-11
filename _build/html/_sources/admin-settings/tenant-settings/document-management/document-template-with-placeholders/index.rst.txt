@@ -3,7 +3,7 @@ Creating a Document Template with Place Holders
 
 A document property place holder starts with [[ and ends with ]] and can be placed anywhere inside a DOCX document or within the header/footer of an XLSX document. Place holders support any document property. 
 
-**Important Note!** In a template you probably want the published copy of the template to include the placeholders. To ensure that the placeholders are not replaced by document properties on the template, you need to escape the placeholders using the character “\\”. An escaped placeholder would look like this:
+.. note:: In a template you probably want the published copy of the template to include the placeholders. To ensure that the placeholders are not replaced by document properties on the template, you need to escape the placeholders using the character “\\”. An escaped placeholder would look like this:
 
 \\[\\[_PubDate\\]\\]
 
@@ -41,3 +41,7 @@ If you want dates to be displayed with the appropriate format you can use the fo
 [[_PubDate]]
 
 **Tip:** If you want to prevent authors from deleting place holders within the document (for example in a header), you can put them inside locked content controls added using the “Developer” tab in Word. Note that this tab is not shown as default, it has to be added using the settings.
+
+.. note:: When a controlled document is merged with a document template, the number of different header/footer sections in the template must match the number of different header/footer sections in the controlled documents. (For example, if you try to upload a controlled document and merge it with a document template that has a first page header and a second header, the template also has to include a first page header and a second header.)
+
+.. note:: When a document is merged with a template, neither the document or the template is allowed to have any shapes in the header/footer. If you want a line, use borders instead of a line shape. (Note! Text boxes are also considered shapes. Don't use it. Add a table to structure the text instead.)

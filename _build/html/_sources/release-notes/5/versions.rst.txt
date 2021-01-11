@@ -308,5 +308,32 @@ Fixes
 - People rollup can now correctly use people in a SharePoint group as a data source.
 - Old settings on the Action button would now be correctly understood by the new component (#124554).
 
+5.1.30
+============================================
+(Omnia 5.1.21 / WCM 5.1.30)
+
+- Fixed an issue that caused sorting on most liked and most commented would not work correctly. 
+- Enabled extended support for configurations with IE11 and Windows 7.
+- Fixed a language targeting issue related to login names in uppercase. 
+- Fixed an issue that would assign read access in SharePoint incorrectly, leading to incomplete search results for some users. (#125118, #125449, #125632, #125712, #125767).
+- Updated the link picker to correctly handle edits of the “Open in new tab” setting (#125087).
+- Improved error handling when Emails cannot be sent on Teamwork creation. (#123155).
+- Fixed an issue where text pasted from notepad did not include newlines. 
+- Fixed a translation issue in the Event Management default properties (#125713).
+- Updated Danish translations across the solution.  
+- Fixed an issue with reports when using multiple variations of a page collection root page (#125454).
+- Corrected an issue where site titles would not get their data in all different localizations of SharePoint (#125009).
+- Improved stability of the PDF conversion feature (#124331).
+- Improved stability in controlled document creation especially when using multiple languages (#125287, #125482, #125540).
+- Better compatibility for the Azure AD sync connection.
+- Fixed a routing issue in OPM that would sometimes show the wrong version in preview (#124155, #124453).
+- When not select to “Allow to bypass approval for Revisions” the user can now correctly see the approval option (#125473).
+- Fixed an issue that prevented the global image back to load if illegal characters where used in the filename. (#125447, #125643).
+
+
+
+
+
+
 
 

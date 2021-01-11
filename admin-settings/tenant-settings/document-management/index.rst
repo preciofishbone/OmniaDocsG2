@@ -15,7 +15,7 @@ Select section for a description:
    settings/index
    document-types/index
    document-templates/index
-   document-templat'e-with-placeholders/index
+   document-template-with-placeholders/index
    expired-reviews/index
    statistics/index
   

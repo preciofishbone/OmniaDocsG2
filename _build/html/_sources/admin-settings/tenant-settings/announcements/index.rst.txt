@@ -3,27 +3,21 @@ Announcements
 
 Here a Tenant Administrator (or any other user added under Permissions for Announcements, see below) can create Announcements that can be displayed over the whole tenant, normally at the top. Tenant Announcements can also be shown through the Announcements block. For more information about the block, see: :doc:`The Announcements block </blocks/announcements/index>`
 
-.. image:: announcements-new.png
+.. image:: announcements-new2.png
 
 Note that an option to create Announcements for a specific Business Group also is available. The options are identical, the only difference is where Announcements are shown.
 
 Announcements
 ***************
-All existing Announcements, either active or not, are shown in the list. From there you can edit or delete an Announcement.
+All existing Announcements, active or not, are shown in the list. From there you can edit or delete an Announcement.
 
-.. image:: announcements-list.png
+.. image:: announcements-list-new.png
 
 For explanation of Priority and Order, see below.
 
-To edit an Announcement, click the pen:
-
-.. image:: announcement-pen-new.png
-
-Everything added when a new Announcement is created can be edited, see above.
+To edit an Announcement, click the pen. Everything added when a new Announcement is created can be edited, see below.
 
 To delete an Announcement that is no longer needed, clik the dust bin.
-
-.. image:: announcement-dust-bin-new.png
 
 Create an Announcement
 ------------------------
@@ -31,7 +25,7 @@ To create a new Announcement, do the following:
 
 1. Click the plus.
 
-.. image:: tenant-announcements-clickplus.png
+.. image:: tenant-announcements-clickplus-new.png
 
 Use the following settings:
 
@@ -51,15 +45,15 @@ Use the following settings:
 
 Here's an example of an Announcement with high priority:
 
-.. image:: high-priority-new.png
+.. image:: high-priority-new3.png
 
 Here's an example of Announcements displayed in the Announcements block:
 
-.. image:: announcements-block.png
+.. image:: announcements-block-new.png
 
 For more information, see: The Announcements block: :doc:`The Announcements block </blocks/announcements/index>`
 
-All languages to be used here must be setup in the Tenant Settings, see: :doc:`Tenant Settings </admin-settings/tenant-settings/settings/index>`
+All languages to be used here must be setup in the Tenant, see: :doc:`Regional Settings </admin-settings/tenant-settings/settings/regional-settings/index>`
 
 Targeting Announcements
 -------------------------
@@ -89,23 +83,21 @@ Settings for Announcements
 ***************************
 Click the cog wheel to enter the settings:
 
-.. image:: cog-wheel-settings-new2.png
+.. image:: cog-wheel-settings-new3.png
 
 You can set the following:
 
-.. image:: announcement-settings-new.png
+.. image:: announcement-settings-new2.png
 
 Types
 ------
 Here you can add and edit Types that can be used in an Announcements to indicate what type of content the Announcement has.
 
-The existing Types are listed, with selected icons shown. Edit and delete the Types using the pen or dust bin:
-
-.. image:: types-pen-dustbin-new.png
+The existing Types are listed, with selected icons shown. Edit and delete the Types using the pen or dust bin.
 
 To create a new Type, click the plus:
 
-.. image:: types-create-new2.png
+.. image:: types-create-new3.png
 
 Set the following:
 
@@ -122,13 +114,11 @@ Status
 --------
 Here you can add and edit Status options that can be used in an Announcements to indicate the status for the Announcement, for example the level or problem or Spotted/Solving/Solved.
 
-The existing Types are Status options, with selected color shown. Edit and delete the Status options using the pen or dust bin:
-
-.. image:: status-pen-dustbin-new.png
+The existing Types are Status options, with selected color shown. Edit and delete the Status options using the pen or dust bin.
 
 To create a new Status option, click the plus:
 
-.. image:: status-create-new2.png
+.. image:: status-create-new3.png
 
 Set the following:
 
@@ -145,7 +135,7 @@ Announcements has a seperate Permissions setting, so any user can be set as an A
 
 Add all users that should be Announcements administrators here:
 
-.. image:: announcements-permissions-new.png
+.. image:: announcements-permissions-new2.png
 
 Note that Tenant Administrators always can work with Announcements even though they are not listed here.
 
