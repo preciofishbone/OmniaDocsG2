@@ -5,7 +5,7 @@ Documents Bulk Update
 
 This option is available in Omnia v6 only.
 
-Use this option to bulk update any of the defined document management properties. Note that not all properties can be replaced. One exeample is Approver. 
+Use this option to bulk update any of the defined document management properties. Note that not all properties can be updated this way. One exeample is Approver. 
 
 .. image:: documents-bulk-update-1.png
 
@@ -20,9 +20,6 @@ A list of published documents that has the selected property defined is displaye
 4. Click "REPLACE".
 
 .. image:: documents-bulk-update-2.png
-
-
-
 
 
 
