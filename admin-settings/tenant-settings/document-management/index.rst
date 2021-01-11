@@ -20,6 +20,7 @@ Select section for a description:
    document-template-with-placeholders/index
    expired-reviews/index
    statistics/index
+   documents-bulk-update/index
   
    
 
