@@ -1,0 +1,432 @@
+
+
+<!DOCTYPE html>
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en" > <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en" > <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <title>Create a new Page Type &mdash; Omnia  documentation</title>
+  
+
+  
+  
+    <link rel="shortcut icon" href="../../../_static/favicon.ico"/>
+  
+  
+  
+
+  
+
+  
+  
+    
+
+  
+
+  
+  
+    <link rel="stylesheet" href="../../../_static/css/theme.css" type="text/css" />
+  
+
+  
+    <link rel="stylesheet" href="../../../_static/custom.css?v=4" type="text/css" />
+  
+
+  
+        <link rel="index" title="Index"
+              href="../../../genindex.html"/>
+        <link rel="search" title="Search" href="../../../search.html"/>
+    <link rel="top" title="Omnia  documentation" href="../../../index.html"/>
+        <link rel="up" title="Page Types" href="../index.html"/>
+        <link rel="next" title="Working with Sections and Blocks" href="../working-with-sections-and-blocks/index.html"/>
+        <link rel="prev" title="Edit a Page Type" href="../edit-page-type/index.html"/> 
+
+  
+  <script src="../../../_static/js/modernizr.min.js"></script>
+
+</head>
+
+<body class="wy-body-for-nav" role="document">
+
+   
+  <div class="wy-grid-for-nav">
+
+    
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search">
+          
+
+          
+            <a href="../../../index.html" class="icon icon-home"> Omnia
+          
+
+          
+          </a>
+
+          
+            
+            
+          
+
+          
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="../../../search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+
+          
+        </div>
+
+        <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
+          
+            
+            
+              
+            
+            
+              <ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="../../../admin-settings/index.html">Admin Settings</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../blocks/index.html">Blocks</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../general-assets/index.html">General assets</a></li>
+<li class="toctree-l1 current"><a class="reference internal" href="../../index.html">Pages</a><ul class="current">
+<li class="toctree-l2"><a class="reference internal" href="../../create-page/index.html">Create a page</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../move-page/index.html">Move a page</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../delete-page/index.html">Archive a page</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../edit-page/index.html">Edit a page</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../edit-page-variations/index.html">Edit Page Variations</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../language-versions-of-a-page/index.html">Language versions of a page</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../publish-page-changes/index.html">Publish page changes</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../version-history/index.html">Check Version History and use an earlier version</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../hide-page/index.html">Hide a page</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../page-approval/index.html">Approve pages</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../edit-page-navigation/index.html">Edit page navigation</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../edit-permissions/index.html">Edit Permissions for a page</a></li>
+<li class="toctree-l2 current"><a class="reference internal" href="../index.html">Page Types</a><ul class="current">
+<li class="toctree-l3"><a class="reference internal" href="../edit-page-type/index.html">Edit a Page Type</a></li>
+<li class="toctree-l3 current"><a class="current reference internal" href="#">Create a new Page Type</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../working-with-sections-and-blocks/index.html">Working with Sections and Blocks</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../archive-restore-page-type/index.html">Archive or restore a Page type</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../page-type-settings/index.html">Page Type Settings</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="../../page-settings/index.html">Publishing App settings</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../page-statistics/index.html">Page Statistics</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../page-style/index.html">Page Style</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../reports/index.html">Reports</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../page-collections/index.html">Page Collections</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="../../../working-with-documents/index.html">Working with Documents</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../working-with-processes/index.html">Working with Processes</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../working-with-events/index.html">Working with Events</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../using-communities/index.html">Using Communities</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../using-newsletters/index.html">Using Newsletters</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../user-options/index.html">User options</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../setup/index.html">Setup</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../release-notes/index.html">Release Notes</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../roadmap/index.html">In Development</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../guides/index.html">Guides</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../contribute-to-doc/index.html">Contribute to this Documentation</a></li>
+</ul>
+
+            
+          
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+
+      
+      <nav class="wy-nav-top" role="navigation" aria-label="top navigation">
+        
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="../../../index.html">Omnia</a>
+        
+      </nav>
+
+
+      
+      <div class="wy-nav-content">
+        <div class="rst-content">
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div role="navigation" aria-label="breadcrumbs navigation">
+
+  <ul class="wy-breadcrumbs">
+    
+      <li><a href="../../../index.html">Docs</a> &raquo;</li>
+        
+          <li><a href="../../index.html">Pages</a> &raquo;</li>
+        
+          <li><a href="../index.html">Page Types</a> &raquo;</li>
+        
+      <li>Create a new Page Type</li>
+    
+    
+      <li class="wy-breadcrumbs-aside">
+        
+            
+            <a href="../../../_sources/pages/page-types/create-new-page-type/index.rst.txt" rel="nofollow"> View page source</a>
+          
+        
+      </li>
+    
+  </ul>
+
+  
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+            
+  <div class="section" id="create-a-new-page-type">
+<h1>Create a new Page Type<a class="headerlink" href="#create-a-new-page-type" title="Permalink to this headline">¶</a></h1>
+<p>To create a new page type when you’re editing a page, do the following:</p>
+<ol class="arabic simple">
+<li>Click the plus for Page Types.</li>
+</ol>
+<img alt="../../../_images/page-types-click-plus1.png" src="../../../_images/page-types-click-plus1.png" />
+<ol class="arabic simple" start="2">
+<li>Add a name for the new page type and click “CREATE”.</li>
+</ol>
+<img alt="../../../_images/page-types-click-create1.png" src="../../../_images/page-types-click-create1.png" />
+<ol class="arabic simple" start="3">
+<li>Click the plus to add a section.</li>
+</ol>
+<img alt="../../../_images/page-types-add-section1.png" src="../../../_images/page-types-add-section1.png" />
+<ol class="arabic simple" start="4">
+<li>Select a base layout.</li>
+</ol>
+<img alt="../../../_images/page-types-base-layout21.png" src="../../../_images/page-types-base-layout21.png" />
+<p>See the images on the icons for the layouts, for a simple preview of the layout.</p>
+<ol class="arabic simple" start="5">
+<li>Use the section settings:</li>
+</ol>
+<img alt="../../../_images/page-types-section-settings-new1.png" src="../../../_images/page-types-section-settings-new1.png" />
+<div class="section" id="general">
+<h2>General<a class="headerlink" href="#general" title="Permalink to this headline">¶</a></h2>
+<p>What you can set under General depends on if you select a section with columns or a section with tabs.</p>
+<div class="section" id="general-settings-for-a-section-with-columns">
+<h3>General settings for a section with columns<a class="headerlink" href="#general-settings-for-a-section-with-columns" title="Permalink to this headline">¶</a></h3>
+<p>For a section with columns, the following can be set:</p>
+<img alt="../../../_images/page-types-general-new1.png" src="../../../_images/page-types-general-new1.png" />
+<ul class="simple">
+<li><strong>Width Type</strong>: Set dynamic width (“Full Page”) or a fixed width in pixels. When you have selected Fixed, a slider is shown where you can set the width.</li>
+<li><strong>Column</strong>: Using the sliders, set a width for each of the column. Default = same width for every column.</li>
+<li><strong>Add Column</strong>: You can add a column if needed. The same settings as above can then be used for the new column.</li>
+</ul>
+<p>To remove a column, click the dust bin. By clicking the pen, the following can be set for a column:</p>
+<img alt="../../../_images/page-types-columns-pen1.png" src="../../../_images/page-types-columns-pen1.png" />
+<ul class="simple">
+<li><strong>Chrome</strong>: Set boxed or not for the column.</li>
+<li><strong>Color</strong>: The background color for the column can be set here.</li>
+<li><strong>Elevation</strong>: If the column should stand out from the page, use the slider to set how much.</li>
+<li><strong>Custom CSS</strong>: You can use custom CSS for formatting the column.^</li>
+</ul>
+</div>
+<div class="section" id="general-settings-for-a-section-with-tabs">
+<h3>General settings for a section with tabs<a class="headerlink" href="#general-settings-for-a-section-with-tabs" title="Permalink to this headline">¶</a></h3>
+<p>For a section with tabs, the following can be set:</p>
+<img alt="../../../_images/page-types-general-tabs1.png" src="../../../_images/page-types-general-tabs1.png" />
+<ul class="simple">
+<li><strong>Width Type</strong>: Set dynamic width (“Full Page”) or a fixed width in pixels. When you have selected Fixed, a slider is shown where you can set the width available for the tabs.</li>
+<li><strong>Tabs</strong>: Here you can edit the settings for each tab, by clicking the pen. See information about these settings below.</li>
+<li><strong>Add tab</strong>: Ta add a new tab, click here. You edit the settings as described below. To remove a tab, click the dust bin.</li>
+<li><strong>Tab Type</strong>: You can choose to just have a “normal” tab an accordion tab. The difference is that a “normal” tab displays it’s content all the time, an accordion tab displays it’s content when it’s clicked.</li>
+<li><strong>Show Active Slider</strong>: Available for “normal” tabs. Indicates which tab is active.</li>
+<li><strong>Tab Alignment”</strong>: Available for “normal” tabs. The tabs are aligned within where the tabs are placed.</li>
+</ul>
+<p>By clicking the pen, the following can be set for a tab:</p>
+<img alt="../../../_images/page-types-tabs-pen1.png" src="../../../_images/page-types-tabs-pen1.png" />
+<ul class="simple">
+<li><strong>Label</strong>: If a label should be shown for the tab, add the label here.</li>
+<li><strong>Tooltip</strong>: If a tooltip should be shwon for the tab, add it here.</li>
+<li><strong>Icon</strong>: First select the “Icon Type” and then select the icon in the list below, if an icon should be shown. (If no icon should be shown, just don’t select an icon, it doesn’t matter that an Icon Type is selected.)</li>
+<li><strong>Color</strong>: The background color for the tab can be set here.</li>
+<li><strong>Elevation</strong>: If the tab should stand out from the page, use the slider to set how much.</li>
+<li><strong>Custom CSS</strong>: You can use custom CSS for formatting the tab.</li>
+</ul>
+</div>
+</div>
+<div class="section" id="spacing">
+<h2>Spacing<a class="headerlink" href="#spacing" title="Permalink to this headline">¶</a></h2>
+<p>Here you can set the following:</p>
+<img alt="../../../_images/page-types-spacing1.png" src="../../../_images/page-types-spacing1.png" />
+<ul class="simple">
+<li><strong>Section Padding</strong>: Here you can set some padding within the active section.</li>
+<li><strong>Column Spacing</strong>: Here you can set the spacing between the columns in this section.</li>
+<li><strong>Block Spacing</strong>: You can set spacing between blocks in this section.</li>
+</ul>
+</div>
+<div class="section" id="style">
+<h2>Style<a class="headerlink" href="#style" title="Permalink to this headline">¶</a></h2>
+<p>Available settings for Style depends on if it’s a section with columns or a section with tabs.</p>
+<div class="section" id="style-settings-for-columns">
+<h3>Style settings for columns<a class="headerlink" href="#style-settings-for-columns" title="Permalink to this headline">¶</a></h3>
+<p>If it’s a section with columns, this can be set for Style, for the active section:</p>
+<img alt="../../../_images/page-types-style21.png" src="../../../_images/page-types-style21.png" />
+<ul class="simple">
+<li><strong>Minimum Height</strong>: You can make sure that this section always has a minimun height, regardless of what is shown in the section. Set the height in pixels here.</li>
+<li><strong>Background color</strong>: A default background color for sections are set in Omnia Admin. You can set another background color for this section here, if needed.</li>
+<li><strong>Background image</strong>: Another option is to use an image as background in this section. When you click “Add Image”, the Media Picker starts, see this page for more information: <a class="reference internal" href="../../../general-assets/media-picker/index.html"><span class="doc">Media Picker</span></a></li>
+<li><strong>Elevation</strong>: With this setting you can make the content of the section “stand out” from the page. ^</li>
+</ul>
+</div>
+<div class="section" id="style-settings-for-tabs">
+<h3>Style settings for tabs<a class="headerlink" href="#style-settings-for-tabs" title="Permalink to this headline">¶</a></h3>
+<p>If it’s a section with tabs, this can be set for Style, for the active section:</p>
+<img alt="../../../_images/page-types-style-tabs1.png" src="../../../_images/page-types-style-tabs1.png" />
+<ul class="simple">
+<li><strong>Minimum Height</strong>: You can make sure that this section always has a minimun height, regardless of what is shown in the section. Set the height in pixels here.</li>
+<li><strong>Background Color Tabs</strong>: A default background color for sections are set in Omnia Admin. You can set another background color for the tabs in this section here, if needed.</li>
+<li><strong>Text Color Tabs</strong>: You can set text color for the tabs here.</li>
+<li><strong>Background color</strong>: A default background color for sections are set in Omnia Admin. You can set another background color for this section here (that is the whole section, not just the tab), if needed.</li>
+<li><strong>Background image</strong>: Another option is to use an image as background in this section. When you click “Add Image”, the Media Picker starts, see this page for more information: <a class="reference internal" href="../../../general-assets/media-picker/index.html"><span class="doc">Media Picker</span></a></li>
+<li><strong>Elevation</strong>: With this setting you can make the content of the section “stand out” from the page.</li>
+</ul>
+</div>
+</div>
+<div class="section" id="header">
+<h2>Header<a class="headerlink" href="#header" title="Permalink to this headline">¶</a></h2>
+<p>Here you can set the following:</p>
+<img alt="../../../_images/page-types-settings-header1.png" src="../../../_images/page-types-settings-header1.png" />
+<ul class="simple">
+<li><strong>Title</strong>: If you want a Title to be displayed for the section, add it here. Not mandatory.</li>
+</ul>
+<p>You can then decide to use the global settings for the business profile, or custom settings.</p>
+<p>The global settings are set in Omnia Admin, see the bottom of this page: <a class="reference internal" href="../../../admin-settings/business-group-settings/settings/index.html"><span class="doc">Header Settings</span></a></p>
+<p>When selecting custom settings, the following is available:</p>
+<img alt="../../../_images/page-types-settings-header-custom-new21.png" src="../../../_images/page-types-settings-header-custom-new21.png" />
+<p>This is the same settings as for the global settings, see the link above.</p>
+</div>
+<div class="section" id="targeting">
+<h2>Targeting<a class="headerlink" href="#targeting" title="Permalink to this headline">¶</a></h2>
+<p>A section can be targeted by using this setting:</p>
+<img alt="../../../_images/page-types-settings-targeting-new1.png" src="../../../_images/page-types-settings-targeting-new1.png" />
+<p>Targeting must have been setup in Omnia Admin for this to work, see that section on this page: <a class="reference internal" href="../../../admin-settings/tenant-settings/properties/index.html"><span class="doc">Properties</span></a></p>
+<p>To set up targeting for the section, do the following:</p>
+<ol class="arabic simple">
+<li>Click “Add Targeting Filter”.</li>
+<li>Select Property for Targeting.</li>
+</ol>
+<img alt="../../../_images/page-types-settings-targeting-property-new1.png" src="../../../_images/page-types-settings-targeting-property-new1.png" />
+<ol class="arabic simple" start="3">
+<li>Select one or more children for the property.</li>
+</ol>
+<img alt="../../../_images/page-types-settings-targeting-properties-metadata-new1.png" src="../../../_images/page-types-settings-targeting-properties-metadata-new1.png" />
+<p>Or:</p>
+<ol class="arabic simple" start="3">
+<li>Select “Include Children”, to include all children pf the property.</li>
+</ol>
+<img alt="../../../_images/page-types-settings-targeting-properties-children-new1.png" src="../../../_images/page-types-settings-targeting-properties-children-new1.png" />
+<ol class="arabic simple" start="4">
+<li>Click “Add Targeting Filter” to add additional filters.</li>
+</ol>
+<img alt="../../../_images/page-types-settings-targeting-additional-new1.png" src="../../../_images/page-types-settings-targeting-additional-new1.png" />
+<p>To remove a targeting filter, just click the X.</p>
+</div>
+<div class="section" id="advanced-settings">
+<h2>Advanced Settings<a class="headerlink" href="#advanced-settings" title="Permalink to this headline">¶</a></h2>
+<p>In the advanced settings you can use custom CSS styling for the section.</p>
+<img alt="../../../_images/page-types-settings-advanced-new31.png" src="../../../_images/page-types-settings-advanced-new31.png" />
+</div>
+</div>
+
+
+           </div>
+           <div class="articleComments">
+            
+           </div>
+          </div>
+          <footer>
+  
+    <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
+      
+        <a href="../working-with-sections-and-blocks/index.html" class="btn btn-neutral float-right" title="Working with Sections and Blocks" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right"></span></a>
+      
+      
+        <a href="../edit-page-type/index.html" class="btn btn-neutral" title="Edit a Page Type" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>
+      
+    </div>
+  
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>
+        &copy; Copyright 2021, Precio Fishbone.
+      Last updated on Jan 08, 2021.
+
+    </p>
+  </div>
+  Built with <a href="http://sphinx-doc.org/">Sphinx</a> using a <a href="https://github.com/snide/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>. 
+
+</footer>
+
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+  
+
+
+  
+
+    <script type="text/javascript">
+        var DOCUMENTATION_OPTIONS = {
+            URL_ROOT:'../../../',
+            VERSION:'',
+            COLLAPSE_INDEX:false,
+            FILE_SUFFIX:'.html',
+            HAS_SOURCE:  true,
+            SOURCELINK_SUFFIX: '.txt'
+        };
+    </script>
+      <script type="text/javascript" src="../../../_static/jquery.js"></script>
+      <script type="text/javascript" src="../../../_static/underscore.js"></script>
+      <script type="text/javascript" src="../../../_static/doctools.js"></script>
+      <script type="text/javascript" src="../../../_static/helpfulness.js?v=4"></script>
+      <script type="text/javascript" src="../../../_static/disqus.js"></script>
+
+  
+
+  
+  
+    <script type="text/javascript" src="../../../_static/js/theme.js"></script>
+  
+
+  
+  
+  <script type="text/javascript">
+      jQuery(function () {
+          SphinxRtdTheme.StickyNav.enable();
+      });
+  </script>
+   
+
+</body>
+</html>

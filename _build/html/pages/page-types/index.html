@@ -41,7 +41,7 @@
         <link rel="search" title="Search" href="../../search.html"/>
     <link rel="top" title="Omnia  documentation" href="../../index.html"/>
         <link rel="up" title="Pages" href="../index.html"/>
-        <link rel="next" title="Publishing App settings" href="../page-settings/index.html"/>
+        <link rel="next" title="Edit a Page Type" href="edit-page-type/index.html"/>
         <link rel="prev" title="Edit Permissions for a page" href="../edit-permissions/index.html"/> 
 
   
@@ -108,7 +108,14 @@
 <li class="toctree-l2"><a class="reference internal" href="../page-approval/index.html">Approve pages</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../edit-page-navigation/index.html">Edit page navigation</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../edit-permissions/index.html">Edit Permissions for a page</a></li>
-<li class="toctree-l2 current"><a class="current reference internal" href="#">Page Types</a></li>
+<li class="toctree-l2 current"><a class="current reference internal" href="#">Page Types</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="edit-page-type/index.html">Edit a Page Type</a></li>
+<li class="toctree-l3"><a class="reference internal" href="create-new-page-type/index.html">Create a new Page Type</a></li>
+<li class="toctree-l3"><a class="reference internal" href="working-with-sections-and-blocks/index.html">Working with Sections and Blocks</a></li>
+<li class="toctree-l3"><a class="reference internal" href="archive-restore-page-type/index.html">Archive or restore a Page type</a></li>
+<li class="toctree-l3"><a class="reference internal" href="page-type-settings/index.html">Page Type Settings</a></li>
+</ul>
+</li>
 <li class="toctree-l2"><a class="reference internal" href="../page-settings/index.html">Publishing App settings</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../page-statistics/index.html">Page Statistics</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../page-style/index.html">Page Style</a></li>
@@ -118,11 +125,13 @@
 </li>
 <li class="toctree-l1"><a class="reference internal" href="../../working-with-documents/index.html">Working with Documents</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../working-with-processes/index.html">Working with Processes</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../working-with-events/index.html">Working with Events</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../using-communities/index.html">Using Communities</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../using-newsletters/index.html">Using Newsletters</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../user-options/index.html">User options</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../setup/index.html">Setup</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../release-notes/index.html">Release Notes</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../roadmap/index.html">In Development</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../guides/index.html">Guides</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../contribute-to-doc/index.html">Contribute to this Documentation</a></li>
 </ul>
@@ -193,352 +202,18 @@
   <div class="section" id="page-types">
 <h1>Page Types<a class="headerlink" href="#page-types" title="Permalink to this headline">¶</a></h1>
 <p>If you are Publishing App administrator you can work with Page Types. A page type contains sections where blocks can be placed for content. Sections can be targeted.</p>
-<p>Some blocks can be added to a page type so they are a part of the layout presented to editors of a page based on the Page Type. See the bottom of this page for more information on blocks that belong to the Page Type.</p>
-<p>When a new page is created, the Editor or Author can choose page type from any available in the page type list.</p>
-<p>An unsued Page Type can be archived (and then kept or deleted), see the bottom of this page.</p>
-<div class="section" id="edit-a-page-type">
-<h2>Edit a Page Type<a class="headerlink" href="#edit-a-page-type" title="Permalink to this headline">¶</a></h2>
-<p>To edit a page type, do the following:</p>
-<ol class="arabic simple">
-<li>Go to any page.</li>
-<li>Edit the page.</li>
-</ol>
-<img alt="../../_images/page-types-edit-page-new.png" src="../../_images/page-types-edit-page-new.png" />
-<ol class="arabic simple" start="3">
-<li>Open this menu (if it doesn’t open automatically):</li>
-</ol>
-<img alt="../../_images/page-types-open-menu-new.png" src="../../_images/page-types-open-menu-new.png" />
-<ol class="arabic simple" start="4">
-<li>Open the list of page types at the bottom:</li>
-</ol>
-<img alt="../../_images/page-types-open-list-new.png" src="../../_images/page-types-open-list-new.png" />
-<ol class="arabic simple" start="5">
-<li>Select the page type you want to edit.</li>
-</ol>
-<img alt="../../_images/page-types-edit-select-new.png" src="../../_images/page-types-edit-select-new.png" />
-<ol class="arabic simple" start="6">
-<li>Click “Edit”.</li>
-</ol>
-<img alt="../../_images/page-types-click-edit-new.png" src="../../_images/page-types-click-edit-new.png" />
-<ol class="arabic simple" start="7">
-<li>To edit settings for a section, click the section, and then the cog wheel.</li>
-</ol>
-<img alt="../../_images/page-types-edit-section-new.png" src="../../_images/page-types-edit-section-new.png" />
-<p>For information about various settings and how to place Blocks, see below.</p>
-</div>
-<div class="section" id="create-a-new-page-type">
-<h2>Create a new Page Type<a class="headerlink" href="#create-a-new-page-type" title="Permalink to this headline">¶</a></h2>
-<p>To create a new page type when you’re editing a page, do the following:</p>
-<ol class="arabic simple">
-<li>Click the plus for Page Types.</li>
-</ol>
-<img alt="../../_images/page-types-click-plus.png" src="../../_images/page-types-click-plus.png" />
-<ol class="arabic simple" start="2">
-<li>Add a name for the new page type and click “CREATE”.</li>
-</ol>
-<img alt="../../_images/page-types-click-create.png" src="../../_images/page-types-click-create.png" />
-<ol class="arabic simple" start="3">
-<li>Click the plus to add a section.</li>
-</ol>
-<img alt="../../_images/page-types-add-section.png" src="../../_images/page-types-add-section.png" />
-<ol class="arabic simple" start="4">
-<li>Select a base layout.</li>
-</ol>
-<img alt="../../_images/page-types-base-layout2.png" src="../../_images/page-types-base-layout2.png" />
-<p>See the images on the icons for the layouts, for a simple preview of the layout.</p>
-<ol class="arabic simple" start="5">
-<li>Use the section settings:</li>
-</ol>
-<img alt="../../_images/page-types-section-settings-new.png" src="../../_images/page-types-section-settings-new.png" />
-<div class="section" id="general">
-<h3>General<a class="headerlink" href="#general" title="Permalink to this headline">¶</a></h3>
-<p>What you can set under General depends on if you select a section with columns or a section with tabs.</p>
-<div class="section" id="general-settings-for-a-section-with-columns">
-<h4>General settings for a section with columns<a class="headerlink" href="#general-settings-for-a-section-with-columns" title="Permalink to this headline">¶</a></h4>
-<p>For a section with columns, the following can be set:</p>
-<img alt="../../_images/page-types-general-new.png" src="../../_images/page-types-general-new.png" />
-<ul class="simple">
-<li><strong>Width Type</strong>: Set dynamic width (“Full Page”) or a fixed width in pixels. When you have selected Fixed, a slider is shown where you can set the width.</li>
-<li><strong>Column</strong>: Using the sliders, set a width for each of the column. Default = same width for every column.</li>
-<li><strong>Add Column</strong>: You can add a column if needed. The same settings as above can then be used for the new column.</li>
+<p>Some blocks can be added to a page type so they are a part of the layout presented to editors of a page based on the Page Type.</p>
+<p>When a new page is created, the Editor or Author can choose page type from any available in the page type list, or any Tenant Page Type, if available.</p>
+<p>An unused Page Type can be archived (and then kept or deleted).</p>
+<p>Select section for more information:</p>
+<div class="toctree-wrapper compound">
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="edit-page-type/index.html">Edit a Page Type</a></li>
+<li class="toctree-l1"><a class="reference internal" href="create-new-page-type/index.html">Create a new Page Type</a></li>
+<li class="toctree-l1"><a class="reference internal" href="working-with-sections-and-blocks/index.html">Working with Sections and Blocks</a></li>
+<li class="toctree-l1"><a class="reference internal" href="archive-restore-page-type/index.html">Archive or restore a Page type</a></li>
+<li class="toctree-l1"><a class="reference internal" href="page-type-settings/index.html">Page Type Settings</a></li>
 </ul>
-<p>To remove a column, click the dust bin. By clicking the pen, the following can be set for a column:</p>
-<img alt="../../_images/page-types-columns-pen.png" src="../../_images/page-types-columns-pen.png" />
-<ul class="simple">
-<li><strong>Chrome</strong>: Set boxed or not for the column.</li>
-<li><strong>Color</strong>: The background color for the column can be set here.</li>
-<li><strong>Elevation</strong>: If the column should stand out from the page, use the slider to set how much.</li>
-<li><strong>Custom CSS</strong>: You can use custom CSS for formatting the column.^</li>
-</ul>
-</div>
-<div class="section" id="general-settings-for-a-section-with-tabs">
-<h4>General settings for a section with tabs<a class="headerlink" href="#general-settings-for-a-section-with-tabs" title="Permalink to this headline">¶</a></h4>
-<p>For a section with tabs, the following can be set:</p>
-<img alt="../../_images/page-types-general-tabs.png" src="../../_images/page-types-general-tabs.png" />
-<ul class="simple">
-<li><strong>Width Type</strong>: Set dynamic width (“Full Page”) or a fixed width in pixels. When you have selected Fixed, a slider is shown where you can set the width available for the tabs.</li>
-<li><strong>Tabs</strong>: Here you can edit the settings for each tab, by clicking the pen. See information about these settings below.</li>
-<li><strong>Add tab</strong>: Ta add a new tab, click here. You edit the settings as described below. To remove a tab, click the dust bin.</li>
-<li><strong>Tab Type</strong>: You can choose to just have a “normal” tab an accordion tab. The difference is that a “normal” tab displays it’s content all the time, an accordion tab displays it’s content when it’s clicked.</li>
-<li><strong>Show Active Slider</strong>: Available for “normal” tabs. Indicates which tab is active.</li>
-<li><strong>Tab Alignment”</strong>: Available for “normal” tabs. The tabs are aligned within where the tabs are placed.</li>
-</ul>
-<p>By clicking the pen, the following can be set for a tab:</p>
-<img alt="../../_images/page-types-tabs-pen.png" src="../../_images/page-types-tabs-pen.png" />
-<ul class="simple">
-<li><strong>Label</strong>: If a label should be shown for the tab, add the label here.</li>
-<li><strong>Tooltip</strong>: If a tooltip should be shwon for the tab, add it here.</li>
-<li><strong>Icon</strong>: First select the “Icon Type” and then select the icon in the list below, if an icon should be shown. (If no icon should be shown, just don’t select an icon, it doesn’t matter that an Icon Type is selected.)</li>
-<li><strong>Color</strong>: The background color for the tab can be set here.</li>
-<li><strong>Elevation</strong>: If the tab should stand out from the page, use the slider to set how much.</li>
-<li><strong>Custom CSS</strong>: You can use custom CSS for formatting the tab.</li>
-</ul>
-</div>
-</div>
-<div class="section" id="spacing">
-<h3>Spacing<a class="headerlink" href="#spacing" title="Permalink to this headline">¶</a></h3>
-<p>Here you can set the following:</p>
-<img alt="../../_images/page-types-spacing.png" src="../../_images/page-types-spacing.png" />
-<ul class="simple">
-<li><strong>Section Padding</strong>: Here you can set some padding within the active section.</li>
-<li><strong>Column Spacing</strong>: Here you can set the spacing between the columns in this section.</li>
-<li><strong>Block Spacing</strong>: You can set spacing between blocks in this section.</li>
-</ul>
-</div>
-<div class="section" id="style">
-<h3>Style<a class="headerlink" href="#style" title="Permalink to this headline">¶</a></h3>
-<p>Available settings for Style depends on if it’s a section with columns or a section with tabs.</p>
-<div class="section" id="style-settings-for-columns">
-<h4>Style settings for columns<a class="headerlink" href="#style-settings-for-columns" title="Permalink to this headline">¶</a></h4>
-<p>If it’s a section with columns, this can be set for Style, for the active section:</p>
-<img alt="../../_images/page-types-style2.png" src="../../_images/page-types-style2.png" />
-<ul class="simple">
-<li><strong>Minimum Height</strong>: You can make sure that this section always has a minimun height, regardless of what is shown in the section. Set the height in pixels here.</li>
-<li><strong>Background color</strong>: A default background color for sections are set in Omnia Admin. You can set another background color for this section here, if needed.</li>
-<li><strong>Background image</strong>: Another option is to use an image as background in this section. When you click “Add Image”, the Media Picker starts, see this page for more information: <a class="reference internal" href="../../general-assets/media-picker/index.html"><span class="doc">Media Picker</span></a></li>
-<li><strong>Elevation</strong>: With this setting you can make the content of the section “stand out” from the page. ^</li>
-</ul>
-</div>
-<div class="section" id="style-settings-for-tabs">
-<h4>Style settings for tabs<a class="headerlink" href="#style-settings-for-tabs" title="Permalink to this headline">¶</a></h4>
-<p>If it’s a section with tabs, this can be set for Style, for the active section:</p>
-<img alt="../../_images/page-types-style-tabs.png" src="../../_images/page-types-style-tabs.png" />
-<ul class="simple">
-<li><strong>Minimum Height</strong>: You can make sure that this section always has a minimun height, regardless of what is shown in the section. Set the height in pixels here.</li>
-<li><strong>Background Color Tabs</strong>: A default background color for sections are set in Omnia Admin. You can set another background color for the tabs in this section here, if needed.</li>
-<li><strong>Text Color Tabs</strong>: You can set text color for the tabs here.</li>
-<li><strong>Background color</strong>: A default background color for sections are set in Omnia Admin. You can set another background color for this section here (that is the whole section, not just the tab), if needed.</li>
-<li><strong>Background image</strong>: Another option is to use an image as background in this section. When you click “Add Image”, the Media Picker starts, see this page for more information: <a class="reference internal" href="../../general-assets/media-picker/index.html"><span class="doc">Media Picker</span></a></li>
-<li><strong>Elevation</strong>: With this setting you can make the content of the section “stand out” from the page.</li>
-</ul>
-</div>
-</div>
-<div class="section" id="header">
-<h3>Header<a class="headerlink" href="#header" title="Permalink to this headline">¶</a></h3>
-<p>Here you can set the following:</p>
-<img alt="../../_images/page-types-settings-header.png" src="../../_images/page-types-settings-header.png" />
-<ul class="simple">
-<li><strong>Title</strong>: If you want a Title to be displayed for the section, add it here. Not mandatory.</li>
-</ul>
-<p>You can then decide to use the global settings for the business profile, or custom settings.</p>
-<p>The global settings are set in Omnia Admin, see the bottom at this page: <a class="reference internal" href="../../admin-settings/business-group-settings/settings/index.html"><span class="doc">Header Settings</span></a></p>
-<p>When selecting custom settings, the following is available:</p>
-<img alt="../../_images/page-types-settings-header-custom-new2.png" src="../../_images/page-types-settings-header-custom-new2.png" />
-<p>This is the same settings as for the global settings, see the link above.</p>
-</div>
-<div class="section" id="targeting">
-<h3>Targeting<a class="headerlink" href="#targeting" title="Permalink to this headline">¶</a></h3>
-<p>A section can be targeted by using this setting:</p>
-<img alt="../../_images/page-types-settings-targeting-new.png" src="../../_images/page-types-settings-targeting-new.png" />
-<p>Targeting must have been setup in Omnia Admin for this to work, see that section on this page: <a class="reference internal" href="../../admin-settings/tenant-settings/properties/index.html"><span class="doc">Properties</span></a></p>
-<p>To set up targeting for the section, do the following:</p>
-<ol class="arabic simple">
-<li>Click “Add Targeting Filter”.</li>
-<li>Select Property for Targeting.</li>
-</ol>
-<img alt="../../_images/page-types-settings-targeting-property-new.png" src="../../_images/page-types-settings-targeting-property-new.png" />
-<ol class="arabic simple" start="3">
-<li>Select one or more children for the property.</li>
-</ol>
-<img alt="../../_images/page-types-settings-targeting-properties-metadata-new.png" src="../../_images/page-types-settings-targeting-properties-metadata-new.png" />
-<p>Or:</p>
-<ol class="arabic simple" start="3">
-<li>Select “Include Children”, to include all children pf the property.</li>
-</ol>
-<img alt="../../_images/page-types-settings-targeting-properties-children-new.png" src="../../_images/page-types-settings-targeting-properties-children-new.png" />
-<ol class="arabic simple" start="4">
-<li>Click “Add Targeting Filter” to add additional filters.</li>
-</ol>
-<img alt="../../_images/page-types-settings-targeting-additional-new.png" src="../../_images/page-types-settings-targeting-additional-new.png" />
-<p>To remove a targeting filter, just click the X.</p>
-</div>
-<div class="section" id="advanced-settings">
-<h3>Advanced Settings<a class="headerlink" href="#advanced-settings" title="Permalink to this headline">¶</a></h3>
-<p>In the advanced settings you can use custom CSS styling for the section.</p>
-<img alt="../../_images/page-types-settings-advanced-new3.png" src="../../_images/page-types-settings-advanced-new3.png" />
-</div>
-</div>
-<div class="section" id="create-a-section-in-a-column">
-<h2>Create a Section in a Column<a class="headerlink" href="#create-a-section-in-a-column" title="Permalink to this headline">¶</a></h2>
-<p>If needed, you can create a section in a column and then select a layout for the column and set all other section’s settings. Here’s how:</p>
-<ol class="arabic simple">
-<li>Click the plus for the column.</li>
-</ol>
-<img alt="../../_images/column-layout-click-plus.png" src="../../_images/column-layout-click-plus.png" />
-<ol class="arabic simple" start="2">
-<li>Open the Layout list.</li>
-</ol>
-<img alt="../../_images/column-layout-list.png" src="../../_images/column-layout-list.png" />
-<ol class="arabic simple" start="3">
-<li>Select layout for the column.</li>
-</ol>
-<img alt="../../_images/column-layout-list-open.png" src="../../_images/column-layout-list-open.png" />
-<ol class="arabic simple" start="4">
-<li>Set the section’s settings (see above).</li>
-</ol>
-<p>If needed, you can even go a step further and create a new section in one of the new columns.</p>
-</div>
-<div class="section" id="delete-a-section">
-<h2>Delete a section<a class="headerlink" href="#delete-a-section" title="Permalink to this headline">¶</a></h2>
-<p>If you need to delete a section, here’s how to do it:</p>
-<ol class="arabic simple">
-<li>Click in the section (not on any plus).</li>
-</ol>
-<img alt="../../_images/delete-section-1.png" src="../../_images/delete-section-1.png" />
-<ol class="arabic simple" start="2">
-<li>Click the dust bin for the section.</li>
-</ol>
-<img alt="../../_images/delete-section-2-new.png" src="../../_images/delete-section-2-new.png" />
-</div>
-<div class="section" id="move-a-section">
-<h2>Move a section<a class="headerlink" href="#move-a-section" title="Permalink to this headline">¶</a></h2>
-<p>Do the following to move a section to another placement on the page.</p>
-<ol class="arabic simple">
-<li>Click the section.</li>
-<li>Click the Move icon.</li>
-</ol>
-<img alt="../../_images/move-icon-section.png" src="../../_images/move-icon-section.png" />
-<p>Icons now show where you can move the section, for example:</p>
-<img alt="../../_images/can-be-moved-section.png" src="../../_images/can-be-moved-section.png" />
-<ol class="arabic simple" start="3">
-<li>Click the icon where you want the section and it’s moved there.</li>
-</ol>
-</div>
-<div class="section" id="copy-a-section">
-<h2>Copy a section<a class="headerlink" href="#copy-a-section" title="Permalink to this headline">¶</a></h2>
-<p>If you need a section with roughly the same settings somewhere else on the page, you can copy a section and place the copy where you want it, and then edit the settings. Do the following:</p>
-<ol class="arabic simple">
-<li>Click the section.</li>
-<li>Click the Copy icon.</li>
-</ol>
-<img alt="../../_images/copy-icon-section.png" src="../../_images/copy-icon-section.png" />
-<p>Icons now show where you can add the new section, the same way as when you move a section, for example:</p>
-<img alt="../../_images/section-can-be-copied.png" src="../../_images/section-can-be-copied.png" />
-<ol class="arabic simple" start="3">
-<li>Click the icon where you want the copied section and it’s placed there.</li>
-<li>Edit the settings that you want to change.</li>
-</ol>
-</div>
-<div class="section" id="adding-blocks-to-a-section">
-<h2>Adding blocks to a Section<a class="headerlink" href="#adding-blocks-to-a-section" title="Permalink to this headline">¶</a></h2>
-<p>Here’s how to add a block to a section:</p>
-<ol class="arabic simple">
-<li>Click the plus for the section.</li>
-<li>Select block to add.</li>
-</ol>
-<img alt="../../_images/section-add-block.png" src="../../_images/section-add-block.png" />
-<p>Here’s an example with a block added:</p>
-<img alt="../../_images/section-block-added-new.png" src="../../_images/section-block-added-new.png" />
-<p>You add additional blocks, work with the settings, move or delete blocks the same way as editors do when editing a page, see: <a class="reference internal" href="../../blocks/working-with-blocks/index.html"><span class="doc">Working with Blocks</span></a></p>
-<p><strong>Note!</strong> When editing a page, blocks that belong to the Page Type is locked, meaning they can not be moved or deleted, and settings for those blocks can’t be edited. But content can be edited, if applicable, using Write mode.</p>
-<img alt="../../_images/using-write-mode.png" src="../../_images/using-write-mode.png" />
-<p>More information on editing blocks when editing a page, is found here: <a class="reference internal" href="../edit-page/index.html"><span class="doc">Edit a Page</span></a></p>
-</div>
-<div class="section" id="decide-to-show-a-section-on-a-device-or-not">
-<h2>Decide to show a section on a device or not<a class="headerlink" href="#decide-to-show-a-section-on-a-device-or-not" title="Permalink to this headline">¶</a></h2>
-<p>When you’re working on a section you can select to show it on different devices or not.</p>
-<p>Click this icon:</p>
-<img alt="../../_images/device-support-section-new.png" src="../../_images/device-support-section-new.png" />
-<p>You can now use the following settings:</p>
-<img alt="../../_images/select-device-section-new.png" src="../../_images/select-device-section-new.png" />
-<p>To hide a section for a device, do the following:</p>
-<ol class="arabic simple">
-<li>Select the device.</li>
-<li>Click the pen for Visibility.</li>
-<li>Select Hide Section.</li>
-</ol>
-<p>To add som padding for the section, for a specific device, do the following:</p>
-<ol class="arabic simple">
-<li>Select the device.</li>
-<li>Click the pen for Section Padding.</li>
-<li>Set the padding.</li>
-</ol>
-</div>
-<div class="section" id="settings">
-<h2>Settings<a class="headerlink" href="#settings" title="Permalink to this headline">¶</a></h2>
-<p>On the “Settings” tab you can set the Properties for all pages created from this Page Type. In many cases it results in fields the page editor has to or can fill in for a page. You can select any of the properties defined in the tenant. See this page for more information about setting up properties: <a class="reference internal" href="../../admin-settings/tenant-settings/properties/index.html"><span class="doc">Tenant Settings - Properties</span></a></p>
-<p>Here’s an example with a Page Type with left navigation:</p>
-<img alt="../../_images/page-type-settings-left-new.png" src="../../_images/page-type-settings-left-new.png" />
-<p>It results in these fields being available on the Properties tab for a page:</p>
-<img alt="../../_images/page-type-settings-left-fields-new.png" src="../../_images/page-type-settings-left-fields-new.png" />
-<p>And here’s an example with a Page Type for News:</p>
-<img alt="../../_images/page-type-settings-news-new.png" src="../../_images/page-type-settings-news-new.png" />
-<p>Which results in these fields being available on the Properties tab for a News Article page:</p>
-<img alt="../../_images/page-type-settings-news-fields-new.png" src="../../_images/page-type-settings-news-fields-new.png" />
-<p>Set properties for the Page Type this way:</p>
-<ol class="arabic simple">
-<li>Select the properties to be used for this Page Type.</li>
-<li>Click the cog wheel for more settings for a property.</li>
-</ol>
-<img alt="../../_images/page-type-settings-cogwheel.png" src="../../_images/page-type-settings-cogwheel.png" />
-<p>Something like the following is shown:</p>
-<img alt="../../_images/page-type-settings-dot-menu-settings-new.png" src="../../_images/page-type-settings-dot-menu-settings-new.png" />
-<p>The following settings can be available for a property:</p>
-<ul class="simple">
-<li><strong>Required</strong>: The editor creating the page has to enter information in the field.</li>
-<li><strong>Allow multiple values</strong>: For some properties multiple values are possible. If you will allow the editor to enter more than one value, check this option. If multiple values is not possible for the property, this option is not shown.</li>
-<li><strong>Show in new page</strong>: If the property (field) should be available in the New Page Wizard when creating a page, select this option.</li>
-<li><strong>Show in edit properties</strong>: If the property should be available on the Properties tab for a page created from this Page Type, select this option.</li>
-<li><strong>Date only</strong>: If it’s a date/time field, both date and time can be set, or only the date. If you would like juat the date to be set, not the time, select this option.</li>
-<li><strong>Receive e-mail</strong>: This is available for most people properties. If the colleague set for this property should receive e-mails, select this option.</li>
-<li><strong>Category</strong>: This a preparation for future functionality. No need to enter anything here now.</li>
-<li><strong>Default value</strong>: A default value can be entered here. A defalt value can be edited by the author. What is possible to select here differs with type of property.</li>
-<li><strong>Limit Edit Permission</strong>: You can limit Edit Permission for this property if needed. In that case, add one or more users here.</li>
-</ul>
-</div>
-<div class="section" id="archive-a-page-type">
-<h2>Archive a Page type<a class="headerlink" href="#archive-a-page-type" title="Permalink to this headline">¶</a></h2>
-<p>An unused Page Type can be archived. If the Page Type is used for any active page, it can’t be archived. If the pages are archived, the Page Type can also be archived.</p>
-<p>Do the following to archive a Page Type:</p>
-<ol class="arabic simple">
-<li>Select the Page Type.</li>
-</ol>
-<img alt="../../_images/archive-page-type-select.png" src="../../_images/archive-page-type-select.png" />
-<ol class="arabic simple" start="2">
-<li>Open the action menu and select ARCHIVE.</li>
-</ol>
-<img alt="../../_images/archive-page-type-select-menu.png" src="../../_images/archive-page-type-select-menu.png" />
-<ol class="arabic simple" start="3">
-<li>Type a comment and click OK.</li>
-</ol>
-<img alt="../../_images/archive-page-type-select-menu-ok.png" src="../../_images/archive-page-type-select-menu-ok.png" />
-</div>
-<div class="section" id="restore-or-delete-a-page-type">
-<h2>Restore or delete a Page Type<a class="headerlink" href="#restore-or-delete-a-page-type" title="Permalink to this headline">¶</a></h2>
-<p>An archived Page Type can be restored if you should need it again. An archived Page Type can also be deleted if needed.</p>
-<ol class="arabic simple">
-<li>Edit any page.</li>
-<li>Select ARCHIVE.</li>
-</ol>
-<img alt="../../_images/archive-page-type-restore-menu.png" src="../../_images/archive-page-type-restore-menu.png" />
-<ol class="arabic simple" start="3">
-<li>Select PAGE TYPES.</li>
-</ol>
-<img alt="../../_images/archive-page-type-restore-menu-select.png" src="../../_images/archive-page-type-restore-menu-select.png" />
-<ol class="arabic simple" start="4">
-<li>Use the icons to the right to restore or delete an archived Page Type.</li>
-</ol>
-<img alt="../../_images/archive-page-type-restore-icons.png" src="../../_images/archive-page-type-restore-icons.png" />
 </div>
 </div>
 
@@ -552,7 +227,7 @@
   
     <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
       
-        <a href="../page-settings/index.html" class="btn btn-neutral float-right" title="Publishing App settings" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right"></span></a>
+        <a href="edit-page-type/index.html" class="btn btn-neutral float-right" title="Edit a Page Type" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right"></span></a>
       
       
         <a href="../edit-permissions/index.html" class="btn btn-neutral" title="Edit Permissions for a page" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>
@@ -564,8 +239,8 @@
 
   <div role="contentinfo">
     <p>
-        &copy; Copyright 2020, Precio Fishbone.
-      Last updated on Oct 29, 2020.
+        &copy; Copyright 2021, Precio Fishbone.
+      Last updated on Jan 08, 2021.
 
     </p>
   </div>

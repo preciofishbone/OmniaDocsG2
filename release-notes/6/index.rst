@@ -59,13 +59,18 @@ The image ratios are configurable in Omnia Admin.
 
 The available ratios within a media/banner block can be set in the block settings.
 
-.. image:: mediapicker-settings-ratios.png
+.. image:: mediablock-settings-cropratios.png
 
 The Media Picker allows for light image editing using the possibility to flip and put filters on the image.
 
 .. image:: mediapicker-flip.png
 
 .. image:: mediapicker-filters.png
+
+Reusable Content improvements
+--------------------------------------
+
+The reusable content feature in Omnia has been redesigned. It now allows reused pages to be found in search and the page author workflow has improved.
 
 Automatic Page Creation
 --------------------------------------
@@ -75,12 +80,6 @@ An administrator can setup rules on a Page Collection regarding automatic page c
 Whenever a page is published in the Page Collection and match a specific rule, a copy of the page will be published to another Page Collection in the tenant.
 
 This can be used to allow for news articles to be published to for example a partner or customer portal.
-
-
-Reusable Content improvements
---------------------------------------
-
-The reusable content feature in Omnia has been redesigned. It now allows reused pages to be found in search and the page author workflow has improved.
 
 Team News Rollup improvements
 --------------------------------------
@@ -129,6 +128,9 @@ In this new toolbar, you can also use a number of predefined layouts to get a qu
 
 .. image:: layouttemplates.png
 
+Page Properties Improvements
+--------------------------------------
+
 Process Management Improvements
 --------------------------------------
 
@@ -143,6 +145,10 @@ The feedback will be sent to the process owner and available in the team site wh
 It is now possible to move a process from one team site to another.
 
 .. image:: move-process.png
+
+A process can now have one or more pages related to it using a page rollup.
+
+.. image:: process-pick-pages.png
 
 Document Management Improvements
 --------------------------------------
