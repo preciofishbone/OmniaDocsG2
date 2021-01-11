@@ -141,7 +141,7 @@ Use this tab to decide if this Document Type should be archived or not. If the D
 
 Retention
 ------------
-(Retention is so far a preparation for functionality to come. Not active for the moment.)
+(Only available in Omnia v6).
 
 If Retention is activated, this tab is shown for all Document Types:
 
@@ -155,7 +155,7 @@ Then you can set the following:
 
 .. image:: document-types-retention-settings-new.png
 
-+ **Calculated**: You can select to calculate the number of years or months on either when the document was first published or when it was last published.
++ **Calculated**: You can select to calculate the number of years or months on when the document was first published or when it was last published.
 + **Property**: Another way is to select a property for retention, for example Retention Date.
 
 When the set Retention time has passed, the Retention Manager will receive an e-mail. The e-mail includes a link to a page where the document can be terminated (completely removed from the system). 
