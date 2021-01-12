@@ -1,4 +1,101 @@
-Info Screen settings
+Info Screen
 =====================
 
-(Will be added soon).
+When you select Info Screen in the Business Profile Settings, something like the following is shown:
+
+.. image:: info-screen-list.png
+
+You can set up several screens and they are displayed in this list.
+
+Use the pen to edit settings or the dustin bin to delete a screen setup. All settings can be edited for an existing setup, see below.
+
+This icon you can use to proview a setup:
+
+.. image:: info-screen-list-icon.png
+
+Create a new Info Screen setup
+*******************************
+Do the following to add a new screen setup:
+
+1. Click the plus.
+
+.. image:: info-screen-list-clickplus.png
+
+2. Use the following settings (and don't forget to save when you're done).
+
+News settings
+******************
+Here, the following can be set:
+
+.. image:: info-screen-settings-news.png
+
+Aa the first step add a Title for the Info Screen setup.
+
+Query
+---------
+You can either pick one or more pages to display or use the Query Builder.
+
+.. image:: info-screen-settings-query.png
+
+(Pick in Write mode is not applicable here).
+
+If you choose to use the Query Builder, it's used the same way as in the Page Rollup. See the heading "Query" on this page: :doc:`Page Rollup </blocks/page-rollup/index>`
+
+If you choose to pick pages, this is how it's done:
+
+1. Click ADD PAGE.
+
+.. image:: info-screen-settings-query-pickpages.png
+
+2. Use the Page Picker to select one or more pages.
+
+.. image:: info-screen-settings-query-page-picker.png
+
+You can add additional pages by repeating this step, if needed.
+
+See this page for more information: :doc:`Page Picker </general-assets/page-picker/index>`
+
+Social Period 
+---------------
+Social Period is used the same way as in the Page Rollup block. See the heading "Social Period" on this page: :doc:`Page Rollup </blocks/page-rollup/index>`
+
+Display
+---------
+For display you can choose "One Column Full Width", "One Column Wide Width" or "One Column Normal Omnia Width". The available settings fields are the same for all three .
+
+For the six topmost fields, you selct the Property to get the information from. Just open the list and select property.
+
+.. image:: info-screen-settings-display-fields.png
+
+Here's a description of the rest of the settings:
+
+.. image:: info-screen-settings-display-settings.png
+
++ **Delay Time scroll (seconds)**: Set the delay time before next scroll, meaning how long a page will be shown.
++ **Scrolling Speed**: Use the slider to set speed of the scroll.
++ **Delay Time scroll (seconds)**: (A description will be added soon).
++ **Scrolls Whole Page**: (A description will be added soon).
++ **Show Likes/Comments**: Select if Page Likes and Comments should be shown on the screen.
++ **Logo Url**: To display a logo, add the url here.
++ **Logo Position**: You can select to display the logo Top Right, Bottom Right, Top Left or Bottom Left.
++ **Logo Visibility**: You can turn Logo display on or off here.
++ **Logo Size**: Use the slider to set logo display size.
++ **Indicator Position**: You can select to display the Indicator Top Right, Bottom Right, Top Left or Bottom Left.
++ **Slides Indicator Color**: Use this option if you need to change Slides Indicator Color.
++ **Count Down Text Color**: Use this option if you need to change the Count Down Text Color.
++ **Indicator Visibility**: You can turn Indicator display on or off here.
+
+Media Settings
+*****************
+Use this option if you want to show a video on the screen, instead of pages.
+
+.. image:: info-screen-settings-media.png
+
+The settings are simply:
+
+.. image:: info-screen-settings-media-settings.png
+
++ **Title**: Add a title to display for viedoe (mandatory).
++ **Video**: Click the icon in this field to start Media Picker to select the video.
+
+For more information on how to use Media Picker, see this page: :doc:`Media Picker </general-assets/media-picker/index>`

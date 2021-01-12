@@ -8,7 +8,6 @@ Here the following settings can be edited:
 For detailed information, select settings here:
 
 
-
 .. toctree::
    :titlesonly:
 
