@@ -19,6 +19,7 @@ For detailed information, select settings here:
    block-title/index
    central-image-location/index
    document-picker/index
+   info-screen/index
 
 
 

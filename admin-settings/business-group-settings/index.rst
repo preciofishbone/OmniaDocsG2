@@ -17,7 +17,6 @@ Business Profile Settings
    settings/index
    shared-links/index
    team-collaboration/index
-   info-screen/index
    
    
  
