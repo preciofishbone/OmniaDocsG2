@@ -63,3 +63,11 @@ New Functionalities for Rich Text Content
 Omnia Feed will now display code block, qoute block, and image-text-flow from Omnia's page content correctly.
 
 .. image:: app-detail-view-with-rich-text.png
+
+Versions
+-----------------------------------------
+
+.. toctree::
+   :titlesonly:
+
+   versions
