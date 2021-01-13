@@ -42,7 +42,7 @@
     <link rel="top" title="Omnia  documentation" href="../../index.html"/>
         <link rel="up" title="Pages" href="../index.html"/>
         <link rel="next" title="Page Statistics" href="../page-statistics/index.html"/>
-        <link rel="prev" title="Page Types" href="../page-types/index.html"/> 
+        <link rel="prev" title="Page Type Settings" href="../page-types/page-type-settings/index.html"/> 
 
   
   <script src="../../_static/js/modernizr.min.js"></script>
@@ -118,11 +118,13 @@
 </li>
 <li class="toctree-l1"><a class="reference internal" href="../../working-with-documents/index.html">Working with Documents</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../working-with-processes/index.html">Working with Processes</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../working-with-events/index.html">Working with Events</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../using-communities/index.html">Using Communities</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../using-newsletters/index.html">Using Newsletters</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../user-options/index.html">User options</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../setup/index.html">Setup</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../release-notes/index.html">Release Notes</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../roadmap/index.html">In Development</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../guides/index.html">Guides</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../contribute-to-doc/index.html">Contribute to this Documentation</a></li>
 </ul>
@@ -194,26 +196,35 @@
 <h1>Publishing App settings<a class="headerlink" href="#publishing-app-settings" title="Permalink to this headline">¶</a></h1>
 <p>A number of Publishing App settings are available. You have to be Publishing App administrator to use them.</p>
 <p>Open the Publishing App settings by clicking here:</p>
-<img alt="../../_images/page-settings.png" src="../../_images/page-settings.png" />
+<img alt="../../_images/page-settings-new.png" src="../../_images/page-settings-new.png" />
 <div class="section" id="general">
 <h2>General<a class="headerlink" href="#general" title="Permalink to this headline">¶</a></h2>
 <p>Set the following here:</p>
-<img alt="../../_images/page-settings-general-new3.png" src="../../_images/page-settings-general-new3.png" />
+<img alt="../../_images/page-settings-general-new4.png" src="../../_images/page-settings-general-new4.png" />
 <ul class="simple">
 <li><strong>Default Page Collection</strong>: The default Page Collection for the page can be set here.</li>
 <li><strong>Connected Sharepoint Site</strong>: The address to the Sharepoint Site is shown here.</li>
+<li><strong>Full Sync etc</strong>: (For a description of these buttons, see below).</li>
 </ul>
 <p>Set the following, needed for page reports to work:</p>
 <ul class="simple">
 <li><strong>Contact Property</strong>: Select the property used to store information about the user being page contact.</li>
 <li><strong>Review Date Property</strong>: Select the property used to store information about review date for pages.</li>
 </ul>
+<div class="section" id="sync-to-sharepoint">
+<h3>Sync to Sharepoint<a class="headerlink" href="#sync-to-sharepoint" title="Permalink to this headline">¶</a></h3>
+<p>This sync is a map of some properties to Sharepoint fields, either as set up in Omnia Admin, or set up specifically for a Page Type, as an override.</p>
+<p>When some (rare) actions has been executed, for example an override created for a Page Type, a new sync to Sharepoint may be needed, using the buttons here.</p>
+<p>For more information about the Admin settings, see: <a class="reference internal" href="../../admin-settings/tenant-settings/webcontent-managament/index.html"><span class="doc">Web Content Management</span></a></p>
+<p>For more information about the override, see the heading “Settings” on this page: <a class="reference internal" href="../page-types/index.html"><span class="doc">Page Types</span></a></p>
+</div>
 </div>
 <div class="section" id="permissions">
 <h2>Permissions<a class="headerlink" href="#permissions" title="Permalink to this headline">¶</a></h2>
 <p>Use these settings to Edit permissions in the Publishing App.</p>
-<img alt="../../_images/page-settings-permissions-new2.png" src="../../_images/page-settings-permissions-new2.png" />
+<img alt="../../_images/page-settings-permissions-new3.png" src="../../_images/page-settings-permissions-new3.png" />
 <ul class="simple">
+<li><strong>Allow Mobile Login</strong>: This setting is intended to offer login to certain parts of Omnia for first line workers, partners and similar. The user needs the Kaizala app and a viable account.</li>
 <li><strong>Administrators</strong>: Add and remove Publishing App administrators here as needed.</li>
 <li><strong>Resource Readers</strong>: Here you set the general Read permission for the Publishing App, needed for users to be able to read pages.</li>
 </ul>
@@ -304,7 +315,7 @@
         <a href="../page-statistics/index.html" class="btn btn-neutral float-right" title="Page Statistics" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right"></span></a>
       
       
-        <a href="../page-types/index.html" class="btn btn-neutral" title="Page Types" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>
+        <a href="../page-types/page-type-settings/index.html" class="btn btn-neutral" title="Page Type Settings" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>
       
     </div>
   
@@ -313,8 +324,8 @@
 
   <div role="contentinfo">
     <p>
-        &copy; Copyright 2020, Precio Fishbone.
-      Last updated on Oct 29, 2020.
+        &copy; Copyright 2021, Precio Fishbone.
+      Last updated on Jan 08, 2021.
 
     </p>
   </div>

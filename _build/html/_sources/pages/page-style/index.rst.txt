@@ -1,7 +1,7 @@
 Page Style
 ==============
 
-This option makes it possible to set a certain style for a specific page. You must be able to edit the page in Design mode to be to do this.
+This option makes it possible to set a certain style for a specific page. You must be able to edit the page in Design mode to to do this.
 
 Do the following:
 

@@ -41,8 +41,8 @@
         <link rel="search" title="Search" href="../../../search.html"/>
     <link rel="top" title="Omnia  documentation" href="../../../index.html"/>
         <link rel="up" title="Tenant Settings" href="../index.html"/>
-        <link rel="next" title="Security" href="../security/index.html"/>
-        <link rel="prev" title="Omnia Feed - Tenant Settings" href="../omnia-feed/index.html"/> 
+        <link rel="next" title="Settings" href="../settings/index.html"/>
+        <link rel="prev" title="Permissions" href="../security/index.html"/> 
 
   
   <script src="../../../_static/js/modernizr.min.js"></script>
@@ -94,25 +94,23 @@
               <ul class="current">
 <li class="toctree-l1 current"><a class="reference internal" href="../../index.html">Admin Settings</a><ul class="current">
 <li class="toctree-l2 current"><a class="reference internal" href="../index.html">Tenant Settings</a><ul class="current">
-<li class="toctree-l3"><a class="reference internal" href="../azure-ad-synchronization-settings/index.html">Azure AD Synchronization settings</a></li>
 <li class="toctree-l3"><a class="reference internal" href="../announcements/index.html">Announcements</a></li>
 <li class="toctree-l3"><a class="reference internal" href="../business-profiles/index.html">Business Profiles</a></li>
 <li class="toctree-l3"><a class="reference internal" href="../features/index.html">Features - Tenant</a></li>
-<li class="toctree-l3"><a class="reference internal" href="../localization/index.html">Localization</a></li>
 <li class="toctree-l3"><a class="reference internal" href="../omnia-feed/index.html">Omnia Feed - Tenant Settings</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../security/index.html">Permissions</a></li>
 <li class="toctree-l3 current"><a class="current reference internal" href="#">Properties</a></li>
-<li class="toctree-l3"><a class="reference internal" href="../security/index.html">Security</a></li>
 <li class="toctree-l3"><a class="reference internal" href="../settings/index.html">Settings</a></li>
 <li class="toctree-l3"><a class="reference internal" href="../shared-links/index.html">Shared Links</a></li>
 <li class="toctree-l3"><a class="reference internal" href="../system/index.html">System</a></li>
 <li class="toctree-l3"><a class="reference internal" href="../tutorial/index.html">Tutorial</a></li>
-<li class="toctree-l3"><a class="reference internal" href="../user-profile-completion/index.html">User Profile Completion</a></li>
 <li class="toctree-l3"><a class="reference internal" href="../document-management/index.html">Document Management</a></li>
 <li class="toctree-l3"><a class="reference internal" href="../process-management/index.html">Process Management - Tenant settings</a></li>
-<li class="toctree-l3"><a class="reference internal" href="../webcontent-managament/index.html">Webcontent Management</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../webcontent-managament/index.html">Web Content Management</a></li>
 </ul>
 </li>
 <li class="toctree-l2"><a class="reference internal" href="../../business-group-settings/index.html">Business Profile Settings</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../app-settings/index.html">App settings</a></li>
 </ul>
 </li>
 <li class="toctree-l1"><a class="reference internal" href="../../../blocks/index.html">Blocks</a></li>
@@ -120,11 +118,13 @@
 <li class="toctree-l1"><a class="reference internal" href="../../../pages/index.html">Pages</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../working-with-documents/index.html">Working with Documents</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../working-with-processes/index.html">Working with Processes</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../working-with-events/index.html">Working with Events</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../using-communities/index.html">Using Communities</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../using-newsletters/index.html">Using Newsletters</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../user-options/index.html">User options</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../setup/index.html">Setup</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../release-notes/index.html">Release Notes</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../roadmap/index.html">In Development</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../guides/index.html">Guides</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../contribute-to-doc/index.html">Contribute to this Documentation</a></li>
 </ul>
@@ -211,12 +211,26 @@
 <ul class="simple">
 <li><strong>Title</strong>: Add a Title (name) for the Property. Default language is mandatory. Add Titles in the other Tenant Languages as needed.</li>
 <li><strong>Internal name</strong>: An internal name can or should in some instances be used instead of the Title, for example as a place holder. The internal name can not contain spaces.</li>
-<li><strong>Type</strong>: Select the Property type. It can be Data, Datetime, Enterprise Keywords, Media, “Person”, Rich text, Taxonomy, Text or Yes/No. Most of the Types are self explanatory. “Data” is a system field that users never enter anything to. “Rich text” can be formatted by the editor. “Text” is plain text that the editor can not format.</li>
+<li><strong>Type</strong>: Select the Property type. It can be Data, Datetime, Enterprise Keywords, Language, Media, Number, Person, Process, Rich text, Tags, Taxonomy, Text or Yes/No. Most of the Types are self explanatory. “Data” is a system field that users never enter anything to. “Rich text” can be formatted by the editor. “Text” is plain text that the editor can not format.</li>
 </ul>
-<p><strong>Note!</strong> Properties used for targeting mus be of the “Taxonomy” type.</p>
+<p><strong>Note!</strong> Properties used for targeting must be of the “Taxonomy” type.</p>
+<p>Depending on Type chosen, additional settings can be shown, for example:</p>
+<img alt="../../../_images/tenant-properties-settings-more.png" src="../../../_images/tenant-properties-settings-more.png" />
+<ul class="simple">
+<li><strong>Queryable</strong>: Select if it should be possible to use this property in a query. Some properties can not be queryable. If so, this option is gray.</li>
+<li><strong>Sharepoint Searchable</strong>: Select if this property should be searchable by Sharepoint.</li>
+</ul>
+</div>
+<div class="section" id="editing-a-property">
+<h3>Editing a property<a class="headerlink" href="#editing-a-property" title="Permalink to this headline">¶</a></h3>
+<p>When editing a property, all settings you encounter when creating a property can be edited, and a few more. What is available for editing differs from property to property. Here’s an example:</p>
+<img alt="../../../_images/tenant-properties-settings-edit.png" src="../../../_images/tenant-properties-settings-edit.png" />
+<p><strong>Note!</strong> If you change setting for Sharepoint Searchable it’s only valid for new pages created from here on. If you want this setting to be active for all existing pages as well, you must execute a full sync for all Publishing Apps using this property, using these buttons in the Publishing App settings:</p>
+<img alt="../../../_images/tenant-properties-settings-sync.png" src="../../../_images/tenant-properties-settings-sync.png" />
+</div>
 </div>
 <div class="section" id="mapping-a-user-profile-property">
-<h3>Mapping a user profile property<a class="headerlink" href="#mapping-a-user-profile-property" title="Permalink to this headline">¶</a></h3>
+<h2>Mapping a user profile property<a class="headerlink" href="#mapping-a-user-profile-property" title="Permalink to this headline">¶</a></h2>
 <p>In order to map an Omnia property to a user profile property, we need to first find the user profile property in sharepoint. In order to do that, lets look at this example:</p>
 <p>Here we will try mapping the property Department:</p>
 <img alt="../../../_images/userprofile.png" src="../../../_images/userprofile.png" />
@@ -241,7 +255,6 @@ as it does now. Mapping it looks like the following:</p>
 <p>Use the dust bin to delete a property, or the pen to edit one:</p>
 <img alt="../../../_images/tenant-properties-delete-edit.png" src="../../../_images/tenant-properties-delete-edit.png" />
 <p>Note that some Properties can not be deleted, but they can be edited. For them only the pen is shown.</p>
-</div>
 </div>
 <div class="section" id="property-sets">
 <h2>Property Sets<a class="headerlink" href="#property-sets" title="Permalink to this headline">¶</a></h2>
@@ -318,10 +331,10 @@ as it does now. Mapping it looks like the following:</p>
   
     <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
       
-        <a href="../security/index.html" class="btn btn-neutral float-right" title="Security" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right"></span></a>
+        <a href="../settings/index.html" class="btn btn-neutral float-right" title="Settings" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right"></span></a>
       
       
-        <a href="../omnia-feed/index.html" class="btn btn-neutral" title="Omnia Feed - Tenant Settings" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>
+        <a href="../security/index.html" class="btn btn-neutral" title="Permissions" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>
       
     </div>
   
@@ -330,8 +343,8 @@ as it does now. Mapping it looks like the following:</p>
 
   <div role="contentinfo">
     <p>
-        &copy; Copyright 2020, Precio Fishbone.
-      Last updated on Oct 29, 2020.
+        &copy; Copyright 2021, Precio Fishbone.
+      Last updated on Jan 08, 2021.
 
     </p>
   </div>

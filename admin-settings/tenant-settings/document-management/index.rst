@@ -7,6 +7,8 @@ Here you handle all the settings for Document Management.
 
 **Note!** The Feature "Controlled Documents" must be activated for these settings to show up.
 
+In Omnia v6, the option "Documents Bulk Update", is also available.
+
 Select section for a description:
 
 .. toctree::
@@ -15,9 +17,10 @@ Select section for a description:
    settings/index
    document-types/index
    document-templates/index
-   document-templat'e-with-placeholders/index
+   document-template-with-placeholders/index
    expired-reviews/index
    statistics/index
+   documents-bulk-update/index
   
    
 
