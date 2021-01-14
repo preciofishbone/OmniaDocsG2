@@ -1,11 +1,9 @@
 Client Security and Recommendations
 ====================================
 
-**(This documentation is just started, more will be added/edited soon).**
-
 This option was previously called Big Picture.
 
-Recommend ways to setup Info Screen
+About setting up Info Screen
 ************************************
 
 Since Info Screen can be seen as an only-display extension, meaning that it does not require much or any user interaction once its setup, therefore we recommend a few ways to set it up:

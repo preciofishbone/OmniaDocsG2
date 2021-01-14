@@ -29,15 +29,13 @@ Here, the following can be set:
 
 .. image:: info-screen-settings-news.png
 
-Aa the first step add a Title for the Info Screen setup.
+As the first step add a Title for the Info Screen setup.
 
 Query
 ---------
 You can either pick one or more pages to display or use the Query Builder.
 
 .. image:: info-screen-settings-query.png
-
-(Pick in Write mode is not applicable here).
 
 If you choose to use the Query Builder, it's used the same way as in the Page Rollup. See the heading "Query" on this page: :doc:`Page Rollup </blocks/page-rollup/index>`
 
@@ -47,13 +45,15 @@ If you choose to pick pages, this is how it's done:
 
 .. image:: info-screen-settings-query-pickpages.png
 
+(Pick in Write mode is not applicable here).
+
 2. Use the Page Picker to select one or more pages.
 
 .. image:: info-screen-settings-query-page-picker.png
 
 You can add additional pages by repeating this step, if needed.
 
-See this page for more information: :doc:`Page Picker </general-assets/page-picker/index>`
+See this page for more information about how to pick pages: :doc:`Page Picker </general-assets/page-picker/index>`
 
 Social Period 
 ---------------
@@ -71,10 +71,10 @@ Here's a description of the rest of the settings:
 
 .. image:: info-screen-settings-display-settings.png
 
-+ **Delay Time scroll (seconds)**: Set the delay time before next scroll, meaning how long a page will be shown.
++ **Delay Time scroll (seconds)**: Set the delay time before next scroll.
 + **Scrolling Speed**: Use the slider to set speed of the scroll.
-+ **Delay Time scroll (seconds)**: (A description will be added soon).
-+ **Scrolls Whole Page**: (A description will be added soon).
++ **Delay Time scroll (seconds)**: Set the delay time after a scroll.
++ **Scrolls Whole Page**: Select this if you want the whole page to scroll.
 + **Show Likes/Comments**: Select if Page Likes and Comments should be shown on the screen.
 + **Logo Url**: To display a logo, add the url here.
 + **Logo Position**: You can select to display the logo Top Right, Bottom Right, Top Left or Bottom Left.
