@@ -61,9 +61,9 @@ Social Period is used the same way as in the Page Rollup block. See the heading 
 
 Display
 ---------
-For display you can choose "One Column Full Width", "One Column Wide Width" or "One Column Normal Omnia Width". The available settings fields are the same for all three .
+For display you can choose "One Column Full Width", "One Column Wide Width" or "One Column Normal Omnia Width". The available settings fields are the same for all three.
 
-For the six topmost fields, you selct the Property to get the information from. Just open the list and select property.
+For the six topmost fields, you select the Property to get the information from. Just open the list and select property.
 
 .. image:: info-screen-settings-display-fields.png
 
