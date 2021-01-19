@@ -140,7 +140,7 @@ You can set this for Filter UI:
 
 .. image:: teamwork-navigation-add-display-filterui.png
 
-+ **ADD FILTER**: Click to add filters. It's done the same as for the Teamwork Rollup block, see: :doc:`Team Collaboration Rollup </blocks/team-collaboration-rollup/index>`
++ **ADD FILTER**: Click to add filters. It's done the same as for the Teamwork Rollup block, see: :doc:`Teamwork Rollup </blocks/team-collaboration-rollup/index>`
 + **Show search box**: Select this option to display a search box at the top of the list. Also see the comments under Query above.
 + **Hide filter by default**: This could be a handy option to use together with Show search box. Select this option if you want to show filters after a search has been executed (not before).
 
