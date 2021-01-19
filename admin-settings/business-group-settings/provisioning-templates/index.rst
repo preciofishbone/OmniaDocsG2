@@ -21,7 +21,7 @@ Settings for all templates
 ----------------------------
 The first step is the same for all template types.
 
-.. image:: provisioning-templates-create-publishing-2new2.png
+.. image:: provisioning-templates-create-publishing-2new3.png
 
 + **Base Defintion**: Select main type of template here; Publishing, Community or Teamwork. The settings in the steps to come will differ depending on what you choose.
 + **Title**: Add a Title for the Template. You can add titles in a number of the languages available in the tenant. Default language is mandatory.
@@ -29,6 +29,7 @@ The first step is the same for all template types.
 + **Icon Type**: An icon is always shown for a template. If you would like another icon for this template, select the set of icons here: Font Awesome,, Microsoft, Flags or Custom. When selecting Custom you can choose any image as the icon.
 + **Icon**: When you have select Icon Type, use this list to select the icon. If you select Custom, a Url field is shown, where you enter the Url for the image.
 + **Available to All Users**: Select this option if the template should be available for other's than administrators, for example in the user Wizard for creating new teamworks. If this option is selected, the template will be available only for administrators to use in Omnia Admin.
++ **Property Set**: You can select a property set here, to be used for the template, meaning a number of properties that the colleague creating the site will or will have to fill in when the template is used. Available in Omnia v6 only. 
 + **Site Creation Mode**: Here you select if approval is required when users create sites from this template. 
 
 If you select Approval, you must add one or more colleagues to receive notifications about pending approval:
@@ -119,6 +120,8 @@ This setting is available for a Facebook Workplace Group Template:
 
 Edit Properties
 ----------------
+**Note!** This step is not available in Omnia v6. It is replaced by selecting a Property set, see above.
+
 For Publishing and Communities, this will be step number 2, for Teamwork it will be step 3. All available properties are shown, for example:
 
 .. image:: provisioning-templates-properties-new2.png
