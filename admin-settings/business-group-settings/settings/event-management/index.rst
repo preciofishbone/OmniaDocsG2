@@ -2,27 +2,29 @@ Event Management
 ===================
 Here you can select Publishing Apps in the Business Profile, to edit settings for Event Management.
 
+.. image:: bp-event-management-new.png
+
 Here's an example of a list of Publishing Apps:
 
-.. image:: bp-event-management.png
+.. image:: bp-event-management-apps.png
 
-You can click a link to go to the Publishing App, for example to check that it is the one you plan to edit.
+You can click a link to go to the Publishing App, for example to check that if it is the one you plan to edit.
 
 To edit settings for Event Management, click the pen for the Publishing App.
 
-.. image:: bp-event-management-pen.png
+.. image:: bp-event-management-pen-new.png
 
 The Page Collections in the Publishing App is now shown, for example:
 
-.. image:: bp-event-management-collections.png
+.. image:: bp-event-management-collections-new.png
 
-You can click a link to go the Page Collection, for example to check that it is the one you plan to edit.
+You can click a link to go the Page Collection, for example to check that if it is the one you plan to edit.
 
 To edit Event Management settings, click the cogwheel for the Page Collection.
 
 Here's the settings for Event Management:
 
-.. image:: bp-event-management-collections-settings.png
+.. image:: bp-event-management-collections-settings-new.png
 
 Use them this way:
 
@@ -32,5 +34,5 @@ Use them this way:
 
 Don't forget to save when you're done.
 
-For more information about Event Manegment, see: :doc:`Working with Events </working-with-events/index>`
+For more information about Event Management, see: :doc:`Working with Events </working-with-events/index>`
 

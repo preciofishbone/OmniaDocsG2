@@ -23,7 +23,6 @@ For detailed information, select settings here:
    content-header/index
    central-image-location/index
    media-Picker/index
-   event-management/index
    document-picker/index
    info-screen/index
 
