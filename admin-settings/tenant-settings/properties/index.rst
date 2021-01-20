@@ -1,8 +1,6 @@
 Properties
 ===========================================
 
-**(Something has happened with the images on this page - working on it.)**
-
 The following is found here:
 
 .. image:: properties-new.png

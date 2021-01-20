@@ -3,15 +3,21 @@ Enterprise Properties (v6)
 
 **(This documentation is just started, more will be added/edited soon.)**
 
-Here you add ALL Properties that should be used within the Tenant. If you, for example, would like to enable targeting, the Properties to be used for targeting must be added here.
+Here you add ALL Properties that should be used within the Tenant. The list displays all existing properties organized after category, for example:
 
-.. image:: enterprise-properties.png
+.. image:: enterprise-properties-list.png
+
+Open a category to see the list of properties. Here's an example:
+
+.. image:: enterprise-properties-list-example.png
+
+Click to pen to edit a property. See below for editable settings.
 
 Adding a Property
 *********************
 To add a Property, click the plus.
 
-.. image:: enterprise-properties-click-plus.png
+.. image:: enterprise-properties-click-plus-v6.png
 
 Use the following settings:
 
