@@ -1,5 +1,8 @@
-Mapping a user profile property
-===================================
+Mapping a user profile property (v6)
+=====================================
+
+**(This text is so far just a copy of the description of earlier functionality. Will be edited soon.)**
+
 In order to map an Omnia property to a user profile property, we need to first find the user profile property in sharepoint. In order to do that, lets look at this example:
 
 Here we will try mapping the property Department:
