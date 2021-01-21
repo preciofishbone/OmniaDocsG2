@@ -98,4 +98,4 @@ The settings are simply:
 + **Title**: Add a title to display for viedoe (mandatory).
 + **Video**: Click the icon in this field to start Media Picker to select the video.
 
-For more information on how to use Media Picker, see this page: :doc:`Media Picker </general-assets/media-picker/index>`
+For more information on how to use Media Picker, see :doc:`Media Picker </general-assets/media-picker/index>`
