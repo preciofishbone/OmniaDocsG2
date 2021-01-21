@@ -7,7 +7,7 @@
 - Replacing images in news articles are now working correctly in Omnia Feed (#123589).
 - Improved performance and stability.
 
-5.2.0
+5.2.16
 ========================================
 
 - Images added after the news articles have been synced to Omnia Feed now shown correctly.
@@ -18,6 +18,8 @@
 - Small UI fix for the highlight of articles with new comments.
 - Improved UX by show an indicator while images are being loaded.
 - Fixed the link to Privacy Policy.
+- Fixed an issue on iOS when the cursor on the textbox for login form always jump to the beginning when text is too long.
+
 
 Versions
 -----------------------------------------

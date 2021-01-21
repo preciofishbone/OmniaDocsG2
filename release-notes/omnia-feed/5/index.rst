@@ -1,12 +1,14 @@
-Release 5 (DRAFT)
+Release 5
 ========================================
-
-.. note::  These are draft release notes. Information might be added, edited and removed.
 
 Multiple Feed Tabs
 --------------------------------------
 
-It will now be possible to create multiple tabs in Omnia Feed.
+When the new version is deployed, Omnia Feed settings will needed to be migrated to the new format before the new features can be used. Before the migration, the app will shown the same tabs as the previous version.
+
+.. image:: admin-settings-migration.png
+
+After the settings is migrated, it will now be possible to create multiple tabs in Omnia Feed.
 
 .. image:: admin-settings-tabs-list.png
 .. image:: app-query-tabs.png
