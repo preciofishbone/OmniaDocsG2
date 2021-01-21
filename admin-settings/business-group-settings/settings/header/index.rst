@@ -22,7 +22,7 @@ Here's an example with blue background color, white icon color and a search box:
 
 Logo
 *******
-Use these settings for the logo in the Heading.
+Use these settings for the Business Profiles's logo in the Heading.
 
 .. image:: logo-in-heading-new2.png
 
@@ -30,7 +30,6 @@ The following settings are available:
 
 .. image:: logo-settings-bp-new.png
 
-+ **Url**: Add the Url to the Logo Image here (or use the Media Picker, see below).
 + **Logo Text**: Here you can add a text for the logo, if applicable. You can add it in any or all available tenant languages.
 + **ADD IMAGE**: To use the Media Picker to select Logo Image, click this link. See this page for information on how to use the Media Picker: :doc:`The Media Picker </general-assets/media-picker/index>`
 + **Padding**: Use these settings to add som padding around the Logo, if needed.
@@ -98,6 +97,14 @@ The following settings are available:
 
 + **Category Name**: Add a name for the category (tab) here, in some or all the available languages.
 
+General
+----------
+Here you can add a Block Title if needed. 
+
+.. image:: teamwork-navigation-general.png
+
+The Title is shown under the Categories.
+
 Query
 '''''''
 For Query you can set:
@@ -105,9 +112,9 @@ For Query you can set:
 .. image:: teamwork-navigation-addquery-new.png
 
 + **Scope**: Open the list and select the type of query to execute for this category.
-+ **Only Current Business Profile**: Below you can select Business Profile to execute the query in. If you want to do that for the Current Business profile, select this option.
++ **Only Current Business Profile**: Below you can select Business Profile to execute the query in. If you want to do that for the Current Business profile only, select this option.
 + **Business Profile**: You can select a Business Profile for the query in this list.
-+ **Site Template**: Here you can select one or more Site Templates for the query, meaning all sites that are created from this template, in the selected Business Profile. Don't forget to click ADD when you have salected a Tamplate.
++ **Site Template**: Here you can select one or more Site Templates for the query, meaning all sites that are created from this template, in the selected Business Profile. Don't forget to click ADD when you have salected a Tamplate. It's not mandatory. If you don't select Site Templates here, the query is run for all sites.
 + **Run Query On Load**: For a shorter list of Teamworks, it most likely works fine to run a query when the list is opened, but for longer lists it may not. For a longer list, for example a list of all Teamworks, deselecting this option and instead displaying a search box, may be a better choice. 
 
 To add a search box, use the Filter settings, see below.
