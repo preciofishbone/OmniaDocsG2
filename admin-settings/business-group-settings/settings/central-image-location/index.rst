@@ -1,25 +1,25 @@
-Central Image Locations (Business Profile)
+Media Picker settings (Business Profile)
 ===========================================
 
-You can set central image locations for the editors to use, mainly through the Media Picker. One or more locations can be set up in the list.
+You can set central image locations for the editors to use through the Media Picker. One or more locations can be set up in the list:
 
-You can also go to the Central Image Location from here, to handle the images there.
+.. image:: central-image-locations.png
 
-.. image:: central-image-locations-new.png
+Click the pen to edit the settings for a Central Image Location, or click the dust bin to delete it.
 
-Use the icons by the list, this way:
+You can also go to the Central Image Location from here, to handle the images there - by clicking this icon:
 
-Click the left most icon to go to the Image Location, for example to upload images.
-To edit the settings for an Image Location, click the pen.
-To delete an Image location, click the dust bin.
+.. image:: central-image-locations-new2.png
 
+Add a new Central Image Location
+**********************************
 To add a new Central Image Location, click the plus:
 
-.. image:: central-image-locations-click-plus-new.png
+.. image:: central-image-locations-click-plus-new2.png
 
 Use these settings:
 
-.. image:: central-image-locations-settings.png
+.. image:: central-image-locations-settings-new.png
 
 + **Url to Image Library**: Type or paste the Url here.
 + **Display Name**: Add the name to be shown in the lists.

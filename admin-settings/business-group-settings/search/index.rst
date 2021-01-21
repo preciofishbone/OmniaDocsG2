@@ -17,7 +17,7 @@ Search Categories
 -------------------
 To create a new Search Category, click the plus and use the following settings:
 
-.. image:: search-config-categories-3.png
+.. image:: search-config-categories-4.png
 
 + **Title**: Add a title for the Search Category, in some or all languges available in the tenant.
 + **Search Result Source**: Select Source from the list.
@@ -41,9 +41,11 @@ In this example the selected Default search template is actually named that, but
 
 Quick Search
 ***************
-Quick Search is available in the Heading (can be turned off in settings) or through the Search block:
+Quick Search is available in the Heading (can be turned off in settings):
 
-.. image:: quick-search-start-page-new.png
+.. image:: quick-search-start-page-new2.png
+
+Quick Search can also be available through the Search block.
 
 For Quick Search, the following settings are available:
 

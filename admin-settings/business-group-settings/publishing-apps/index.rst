@@ -5,7 +5,7 @@ Within a Business Profile several Publishing Apps can be active for different se
 
 The existing Publishing Apps are shown in a list:
 
-.. image:: publishing-apps-list-new2.png
+.. image:: publishing-apps-list-new3.png
 
 Use the icons this way:
 
@@ -14,21 +14,23 @@ Use the icons this way:
 + The pen to edit the settings (same as when creating a new, see below).
 + The dust bin to delete a Publishing App that has been created by mistake.
 
+For description of settings you can edit, see below.
+
 Create a new Publishing App
 *****************************
 Do the following:
 
 1. Click the plus.
 
-.. image:: publishing-apps-click-plus-new2.png
+.. image:: publishing-apps-click-plus-new3.png
 
 2. Select a Provisioning Template.
 
-.. image:: publishing-app-template.png
+.. image:: publishing-app-template-new.png
 
 3. Use the following settings:
 
-.. image:: publishing-apps-settings-new2.png
+.. image:: publishing-app-template-new2.png
 
 Available settings depends on how the template is set up. Here are some common examples:
 
@@ -40,7 +42,7 @@ Available settings depends on how the template is set up. Here are some common e
 
 4. Click "Next" and use the following settings:
 
-.. image:: publishing-apps-settings-2.png
+.. image:: publishing-apps-settings-3.png
 
 + **App Administrators**: The active Administrator (you) is automatically added as App Administrator. Add or delete administrators as needed. 
 

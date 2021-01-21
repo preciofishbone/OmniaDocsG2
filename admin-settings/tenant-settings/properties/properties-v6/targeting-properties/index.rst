@@ -1,7 +1,7 @@
 Targeting Properties (v6)
 ===========================
 
-**(This documentation is just started, more will be added/edited soon.)**
+**(This documentation is so far just a copy of the description from earlier Omnia version. More will be added/edited soon.)**
 
 Here you define which Properties to use for Targeting. 
 
