@@ -17,7 +17,7 @@ To Terminate a Property, click this icon:
 
 .. image:: property-recycle-bin-terminate.png
 
-Note that when you Terminate a Property, it's truly and finally removed from Omnia. 
+Note that when you Terminate a Property, it's truly and finally removed from Omnia. It can no longer be used anywhere, and there's a risk that current  implementations using the Property will be broken.
 
 
 
