@@ -32,7 +32,7 @@ Use the following settings:
 Available settings depend on type of property. Here's som common examples:
 
 + **Required**: If this Property must be filled in, select this option.
-+ **Allow multiple values**: If it should be possible to select more than one value in this field, select this option. Available for applicabale fields only.
++ **Allow multiple values**: If it should be possible to select more than one value in this field, select this option. Available for applicable fields only.
 + **Limit Level**: For a property that can contain several levels - for example Country, City, Office etc - you can limit the levels to choose from here.
 
 6. Continue the same way until you have added all the properties for the set.
