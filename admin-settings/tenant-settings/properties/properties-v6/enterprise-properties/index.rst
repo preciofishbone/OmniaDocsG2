@@ -1,8 +1,6 @@
 Enterprise Properties (v6)
 =============================
 
-**(This documentation is just started, more will be added/edited soon.)**
-
 Here you add ALL Properties that should be used within the Tenant. The list displays all existing properties organized after category, for example:
 
 .. image:: enterprise-properties-list.png

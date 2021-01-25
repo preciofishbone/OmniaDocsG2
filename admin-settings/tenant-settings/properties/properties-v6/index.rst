@@ -1,8 +1,6 @@
 Properties - Omnia v6
 ========================
 
-**(This documentation have just taken it first steps - more will be added and edited soon.)**
-
 The following options for Properties are available in Omnia v6:
 
 .. image:: properties-v6.png

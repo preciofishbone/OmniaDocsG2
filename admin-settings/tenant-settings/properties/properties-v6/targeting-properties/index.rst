@@ -1,8 +1,6 @@
 Targeting Properties (v6)
 ===========================
 
-**(This documentation is just started, more will be added soon.)**
-
 Here you define which Properties to use for Targeting. 
 
 .. image:: targeting-properties-v6.png
