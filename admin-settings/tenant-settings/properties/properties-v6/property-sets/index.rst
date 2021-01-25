@@ -31,10 +31,10 @@ Use the following settings:
 
 + **Required**: If this Property must be filled in, select this option.
 + **Allow multiple values**: If it should be possible to select more than one value in this field, select this option. Available for applicabale fields only.
-+ **Limit Level**: 
++ **Limit Level**: For a property that can contain several levels - for example Country, City, Office etc - you can limit the levels to choose from here.
 
 6. Continue the same way until you have added all the properties for the set.
-7. To change the order, grab a property by the icon to the far right, and drop the property where you want it.
+7. To change the order, use the icon to the far right, and drag and drop.
 
 .. image:: property-set-add-drag-v6.png
 
