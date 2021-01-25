@@ -18,7 +18,7 @@ Select section for more information:
    property-sets/index
    queryable-properties/index
    recycle-bin/index
-   targeting-propertirs/index
+   targeting-properties/index
 
 
 
