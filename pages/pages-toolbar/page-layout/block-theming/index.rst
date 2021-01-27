@@ -19,7 +19,7 @@ Advanced Settings
 ------------------
 If you choose to show advanced settings, here's what you can do:
 
-. image:: block-theming-theme-advanced.png
+.. image:: block-theming-theme-advanced.png
 
 When you try them out, previews are shown in the blocks on the page.
 

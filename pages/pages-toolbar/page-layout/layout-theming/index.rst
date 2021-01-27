@@ -17,6 +17,6 @@ When you have chosen a theme you can edit colors using the Color fields availabl
 
 Advanced Settings
 ------------------
-The advanced settings are not applicable for Layout Theming, please disregard.
+The advanced settings are not applicable for Layout Theming - but it is for Block Theming.
 
 
