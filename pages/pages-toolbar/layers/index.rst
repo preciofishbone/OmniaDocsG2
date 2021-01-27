@@ -3,6 +3,6 @@ Layers
 
 In the Layout Explorer (Layers) you can see an overview over all sections and block used on the page, for example:
 
-.. image: layout-explorer.png
+.. image:: layout-explorer.png
 
 You can click any section or block to activate it for editing. Note that focus is not moved automatically. You may have to scroll to find the section or block.
