@@ -11,9 +11,8 @@ The following options are found in the toolbar. Select page for more information
    :titlesonly:
 
    page-layout/index
-   layout-theming/index
-   block-theming/index
-   block-header/index
+   layers/index
+   layout-templates/index
 
 
 
