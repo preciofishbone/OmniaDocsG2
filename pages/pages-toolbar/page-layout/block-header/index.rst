@@ -11,7 +11,7 @@ Then these settings become available:
 
 It is the settings set up for the Business Profile, in Omnia Admin, you can edit specifically for this page. 
 
-See this page for more information: :doc:`Content Header </admin-settings/business-profile-settings/settings/content-header/index>`
+See this page for more information: :doc:`Content Header </admin-settings/business-group-settings/settings/block-title/index>`
 
 
 
