@@ -22,7 +22,7 @@ Settings for background image
 -------------------------------
 When you have added a background image, you can use these settings:
 
-.. image:: background-image-settings.png
+.. image:: background-image-settings-v6.png
 
 + **EDIT**: Click this link to edit the image in the Media Picker (see link above for more information.)
 + **DELETE**: Click here to remove the image from the page.

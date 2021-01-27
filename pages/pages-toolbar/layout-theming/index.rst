@@ -13,4 +13,10 @@ The themes are set up for the Business Profile in Omnia Admin, see: :doc:`Theme 
 
 When you have chosen a theme you can edit colors using the Color fields available. For example:
 
-.. image:: page-style-settings-page-theming-theme-fields.png
+.. image:: layout-theming-theme-set.png
+
+Advanced Settings
+------------------
+The advanced settings are not applicable for Layout Theming, please disregard.
+
+
