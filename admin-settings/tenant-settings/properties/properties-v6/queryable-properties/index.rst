@@ -7,7 +7,7 @@ Three lists are available here:
 
 .. image:: queryable-all.png
 
-In these list, you ad Properties that should be queryable in Omnias database.
+In these list, you add Properties that should be queryable in Omnias database. The Properties are used in the Query Builder, in various blocks.
 
 To be available here, a property must first be added to Enterprise Properties. 
 
