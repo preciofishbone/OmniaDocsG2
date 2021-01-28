@@ -1,6 +1,8 @@
 Media Picker (v6)
 ===================
 
+**(This documentation is not yet finished, but will be very soon).**
+
 This is how you can use the Media Picker in Omnia v6.
 
 The Media Picker can be used to add an image or a video to a block or to the page content. Any image on the editor's computer can be selected, as well as from any central image location registered in Omnia Admin. An image can be pasted from the clipboard as well. Besides that, additional providers can be set in Omnia Admin.
@@ -58,38 +60,6 @@ The message can look like this:
 
 A desciption of the settings that can be made for the Media Picker is found here: :doc:`Media Picker Settings </admin-settings/tenant-settings/settings/media-picker/index>`
 
-Settings for an image
-***********************
-When an image has been selected, the following settings can be made:
-
-.. image:: media-picker-image-settings-new.png
-
-+ **Custom**: Set a custom shape using the eight squares as handles. Just draw to the desired shape. When a custom image is used in a page image area the full width of the area is used and the height of the area is adapted.
-+ **Landscape**, **Square** and "Portrair**: Click the preview and use the selection on the image to decide wich part of the image to show when it's used in landscape, square or portrait format.
-+ **Filters**: Use the filters to adjust the image; Sepia coloring, Grayscale coloring, Brightness, Contrast and Saturation.
-+ **Info**: You can add an Alt Text for the image in this field. 
-
-Don't forget to save your changes when you're done.
-
-
-Videos
-*******
-To add a video, select one of the providers that are set up, for example "Microsoft Stream" for your company's Microsoft 365 Stream, or "YouTube".
-
-.. image:: media-picker-video-new.png
-
-Here's how to add a video:
-
-1. Go to the video.
-2. Copy the Url for the video.
-3. Paste the Url here.
-
-Now the following settings are available:
-
-.. image:: media-picker-video-settings-new.png
-
-+ **Start at**: If the video should not start at the beginning, set when it should start. Use the format minutes:seconds.
-+ **Autoplay**: If the video should start automatically when a user opens the page, select this option.
 
 
 
