@@ -1,8 +1,6 @@
 Media Picker (v6)
 ===================
 
-**(This documentation is not yet finished, but will be very soon).**
-
 This is how you can use the Media Picker in Omnia v6.
 
 The Media Picker can be used to add an image or a video to a block or to the page content. Any image on the editor's computer can be selected, as well as from any central image location registered in Omnia Admin. An image can be pasted from the clipboard as well. Besides that, additional providers can be set in Omnia Admin.
