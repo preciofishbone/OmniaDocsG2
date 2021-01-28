@@ -70,16 +70,14 @@ To edit, point at the image and the following tools becomes available:
 
 Point at an icon in the toolbar and you'll see what it's for, from left to right: Crop, Flip, Filter and Reset.
 
-Don't forget to save by clicking "OK", to save you changes.
+Don't forget to save your changes by clicking "OK".
 
 Crop an image
 -------------------
 Select the Crop tool and use the settings this way:
 
-+ **Landscape**, **Square** and "Portrair**: Click the preview and use the selection on the image to decide wich part of the image to show when it's used in landscape, square or portrait format.
++ **Landscape**, **Square** and "Portrait**: Click the preview and use the selection on the image to decide wich part of the image to show when it's used in landscape, square or portrait format.
 + **Custom**: Set a custom shape using the eight squares as handles. Just draw to the desired shape. When a custom image is used in a page image area the full width of the area is used and the height of the area is adapted.
-
-"Crop" is selected in the image above.
 
 Flip an image
 ---------------

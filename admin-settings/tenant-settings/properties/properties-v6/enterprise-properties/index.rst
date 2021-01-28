@@ -9,7 +9,7 @@ Open a category to see the list of properties. Here's an example:
 
 .. image:: enterprise-properties-list-example.png
 
-Click the pen to edit a property. See below for editable settings.
+Click the pen to edit a property. See below for editable settings. If it's possible to delete a property (meaning move it to the Property Recycle Bin) a dust bin is displayed.
 
 Adding a Property
 *********************
@@ -39,8 +39,6 @@ Editing a property
 When editing a property, a few more settings can be available. What is available for editing differs from property to property. Here's an example:
 
 .. image:: tenant-properties-settings-edit-new.png
-
-
 
 **Note!** If you change setting for Sharepoint Searchable it's only valid for new pages created from here on. If you want this setting to be active for all existing pages as well, you must execute a full sync for all Publishing Apps using this property, using these buttons in the Publishing App settings:
 
