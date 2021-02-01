@@ -32,9 +32,7 @@ When you click ADD CONTENT, the following is shown:
 
 .. image:: accordion-add-content.png
 
-You add conent here the same way as described under *Adding Accordion Text* below.
-
-+ **Page Property to store data**: Select property for the possibibilty to reuse content anywhere else on the page.
+You add content here the same way as described under *Adding Accordion Text* below. You can use the WRITE tab to set if this default content can be edited or not, see below.
 
 Styling
 ---------
@@ -45,6 +43,15 @@ Under "Styling" you can set colors and padding:
 Layout
 ----------
 The LAYOUT tab contains general settings, see: :doc:`General Block Settings </blocks/general-block-settings/index>`
+
+Write
+-----------
+Here you can set the following:
+
+.. image:: accordion-write-tab.png
+
++ **Enable overwrite in write mode**: If it should be possible for editors to overrite the default content in the block, this option should be on. If not, click to set the option to off.
++ **Page Property to store data**: Select property for the possibibilty to reuse content anywhere else on the page.
 
 Adding Accordion Text
 ************************
