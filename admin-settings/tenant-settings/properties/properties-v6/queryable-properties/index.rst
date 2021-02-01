@@ -5,7 +5,7 @@ Three lists are available here:
 
 .. image:: queryable-all.png
 
-In these list, you add Properties that should be queryable in Omnias database. The Properties are used in the Query Builder, so far in these blocks:
+In these lists, you add Properties that should be queryable in Omnias database. The Properties are used in the Query Builder, so far in these blocks:
 
 + **App Instances**: In Teamwork Rollup.
 + **Pages**: In Page Rollup.
