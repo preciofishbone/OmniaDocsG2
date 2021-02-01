@@ -9,7 +9,7 @@ In these list, you add Properties that should be queryable in Omnias database. T
 
 + **App Instances**: In Teamwork Rollup.
 + **Pages**: In Page Rollup.
-+ **Processes*: In Process Rollup.
++ **Processes**: In Process Rollup.
 
 To be available to add here, a property must first be added to Enterprise Properties. 
 
