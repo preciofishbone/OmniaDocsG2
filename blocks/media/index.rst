@@ -48,7 +48,7 @@ Using the WRITE tab you can set the following:
 
 .. image:: media-block-write-tab.png
 
-+ **Enable overwrite in write mode**: If it should be possible for editors to replpace or remove the default content in the block, this option should be on. If not, off.
++ **Enable overwrite in write mode**: If it should be possible for editors to replace or remove the default content in the block, this option should be on. If not, off.
 + **Property to store data**: Select Property be used in this block. When one block on the page has data connected to a Property, that data can be reused in all blocks that uses the same Property. Page scoped. Not mandatory.
 
 Add a video or an image
