@@ -1,15 +1,17 @@
 Queryable Properties (v6)
 ===========================
 
-**(This documentation is just started, more will be added soon).**
-
 Three lists are available here:
 
 .. image:: queryable-all.png
 
-In these list, you add Properties that should be queryable in Omnias database. The Properties are used in the Query Builder, in various blocks.
+In these list, you add Properties that should be queryable in Omnias database. The Properties are used in the Query Builder, so far in these blocks:
 
-To be available here, a property must first be added to Enterprise Properties. 
++ **App Instances**: In Teamwork Rollup.
++ **Pages**: In Page Rollup.
++ **Processes*: In Process Rollup.
+
+To be available to add here, a property must first be added to Enterprise Properties. 
 
 The lists are handled the same way, App Instances as an example.
 
