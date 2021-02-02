@@ -87,6 +87,8 @@ You add additional blocks, work with the settings, move or delete blocks the sam
 
 More information on editing blocks when editing a page, is found here: :doc:`Edit a Page </pages/edit-page/index>`
 
+**Note!** For blocks that can be edited in Write mode, you can add default content and set if this content could be edited or not, see the description of the blocks in question.
+
 Decide to show a section on a device or not
 **********************************************
 When you're working on a section you can select to show it on different devices or not.
