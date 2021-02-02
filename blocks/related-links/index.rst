@@ -1,41 +1,69 @@
 Related Links
 ===========================================
 
-Use this block to add links to related pages or documents in the tenant, or use a Custom link to link to any web page. You can also add headings. Links and headings can be added using Write mode.
+Use this block to add links to related pages or documents in the tenant, or use a Custom link to link to any web page. You can also add headings. 
+
+It is possoble to add default content to this block and you can set if it should be possible to edit the default content or not. 
+
+If no default content is added, or if editing the default content is allowed, links and headings can be added or edited using Write mode. If default content is added and then locked, nothing can be added to the block.
 
 Here's an example of how users will see related links:
 
 .. image:: related-links-example-new.png
 
-Settings
-*********
+Block Settings
+****************
 The following settings are available for the block:
 
-.. image:: related-links-settings-new.png
+.. image:: related-links-settings-new2.png
 
-+ **Title**: If a title should be shown for the block, add it in this field. If no variation exists for the page, it looks like in the image above and you can set the title in the languages active in the tenant. If variations exists, only one title can be set. In that case, titles in other languages are set in the variations.
-+ **Property to store data**: Select property from the list. When one block on the page has data connected to a property, that data can be reused in all blocks that uses the same property. Page scoped. Not mandatory.
+Settings
+------------
+The following settings are availble on the SETTINGS tab:
+
++ **Title**: If a title should be shown for the block, add it in this field. If variations exists, only one title can be set, as is this image. In that case, titles in other languages are set in the variations. If no variations exist for the page, you can set the title in the languages active in the tenant. 
++ **Open in Office Web Apps**: When it's a document link; if you want the links to open in Office Web Apps (meaning Microsoft 365), instead fo locally installed applications, select this option.
++ **ADD CONTENT**: Click here to add deafault content to the block. Also see below.
 + **Padding**: Add some padding between the block edges and the links list, if needed.
 
-Layout and Advanced
+Add default content
 ---------------------
-The tabs Layout and Advanced contain general settings, see: :doc:`General Block Settings </blocks/general-block-settings/index>`
+When you click ADD CONTENT the the following is shown:
+
+.. image:: related-links-block-add.png
+
+You work with links and headings the same way as described below.
+
+You can use the WRITE tab to set if editors should be able to edit the default content or not, see below.
+
+Layout
+-----------
+The LAYOUT tab contains general settings, see: :doc:`General Block Settings </blocks/general-block-settings/index>`
+
+Write
+-----------
+Using the WRITE tab you can set the following:
+
+.. image:: links-block-write-tab.png
+
++ **Enable overwrite in write mode**: If it should be possible for editors to edit the default content in the block, this option should be on. If not, click to set it to off.
++ **Property to store data**: Select property from the list. When one block on the page has data connected to a property, that data can be reused in all blocks that uses the same property. Page scoped. Not mandatory.
 
 Adding links and headers
 *************************
-Any editor can add and edit links and headers in the block, using Write mode.
+Depending on settings (see above) it can be allowed to edit links and headers, or not. If it is allowed, any editor can add and edit links and headers in the block, using Write mode.
 
 .. image:: related-links-writemode.png
 
 Adding a link
------------
+---------------
 When you click "Add link" the Add link general asset is opened. See this page for more information on how to add links: :doc:`Add link </general-assets/add-link/index>`
 
 Adding a header
 -----------------
 If you need to add a header to the link list, click "ADD HEADER", type the header and click "ADD".
 
-.. image:: add-link-header.png
+.. image:: add-link-header-new.png
 
 Arranging the list
 *******************
