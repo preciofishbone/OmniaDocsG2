@@ -45,9 +45,9 @@ Besides that, you can set the order, by grabbing this icon and use drag and drop
 
 Add default content
 ---------------------
-When you click ADD CONTENT the Banner Editor starts and you use it to add default content the same as is described below under *The Benner Editor*.
+When you click ADD CONTENT the Banner Editor starts and you use it to add default content the same way as is described below under *The Banner Editor*.
 
-You can use the WRITE tab to set if editors should be able to edit the default content or not, see below.
+You can use the WRITE tab to set if editors should be able to edit the default content in Write mode or not, see below.
 
 Layout
 **********
