@@ -19,17 +19,17 @@ Banner settings
 ****************
 The following Banner settings are available (also see *The Banner Editor*, below):
 
-.. image:: banner-settings-new3banner-settings-new3.png
+.. image:: banner-settings-new3.png
 
 Settings
 ---------
-Here's what is available on the Settings tab (see image above):
+Here's what is available on the Settings tab:
 
-+ **Title**: If a title should be shown for the block, add it in this field. If no variation exists for the page, it looks like in the image above and you can set the title in the languages active in the tenant. If variations exists, only one title can be set. In that case, titles in other languages are set in the variations.
-+ **Default Scaling**: You can select a default scaling for the image here. Possible scalings are set up in Omnia Admin.
++ **Title**: If a title should be shown for the block, add it in this field. If variations exist for the page, it looks like in the image. Then titles in other languages are added in the varation. If no variations exist you can set the title in the languages active in the tenant here.
++ **Default Scaling**: You can select a default scaling for the image used in the banner. Possible scalings are set up in Omnia Admin.
 + **Force Default Scaling**: (A description will be added soon.)
-+ **Crop Ratios**: Use this list to set up which Crop Ratios editors should be able to choose from in this block. For more information, see below.
-+ **ADD CONTENT**: Click here to add deafault content to the block. Also see below.
++ **Crop Ratios**: Use this list to set up which Crop Ratios editors should be able to choose from when editing in Write mode, for the image in this block. For more information, see below.
++ **ADD CONTENT**: Click here to add default content to the block. Also see below.
 
 Set Crop Ratios
 ---------------------
