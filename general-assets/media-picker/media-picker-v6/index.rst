@@ -111,15 +111,15 @@ In this part of Media Picker, you can add an Alt Text for the image and some inf
 
 Edit a page image in Write mode
 ************************************
-When editing a page image in write mode, the following is available i Media Picker:
+When editing a page image in write mode, the following is available in Media Picker:
 
 .. image:: media-picker-image-settings-v6-edit-write.png
 
-Point at the image and use the toolbar for editing, as descirbed above. Click "OK" to save the changes, or "CLOSE" to disgard them.
+Point at the image and use the toolbar for editing, as described above. Click "OK" to save the changes, or "CLOSE" to discard them.
 
 Videos
 *******
-To add a video, select one of the providers that are set up, for example "Microsoft Stream" for your company's Microsoft 365 Stream, or "YouTube".
+To add a video, select one of the providers that are set up, for example your company's Microsoft 365 Stream, or YouTube.
 
 .. image:: media-picker-video-v6.png
 
