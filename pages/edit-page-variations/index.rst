@@ -49,7 +49,7 @@ Varition author
 *****************
 A Variation author can be added for each variation. That is done in the publishing app settings, see: :doc:`Publishing App Settings </pages/page-settings/index>`
 
-Note that there can be only one variation author for each variation, regardless on how many page the variation is used.
+Note that there can be only one variation author for each variation, regardless on how many pages the variation is used.
 
 The variation author is notified through e-mail when a main page, with a variation of the variation authors type, is updated.
 
