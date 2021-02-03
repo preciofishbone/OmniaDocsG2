@@ -13,7 +13,7 @@ General
 --------
 Here you can add a title for block:
 
-.. image:: page-rollup-settings-general.png
+.. image:: page-rollup-settings-general-frame.png
 
 If any variations exist, as in the example above, titles in other languages are handled through variations. If not variations exist you can add titles in any or alla languages in the tenant.
 
@@ -111,7 +111,7 @@ Style settings
 ----------------
 For Roller, Dynamic Roller and Card, extra Style settings are available, for example (Card):
 
- image:: page-roller-style.png
+.. image:: page-roller-style.png
 
 You can try out these settings. A preview is shown in the block.
 
