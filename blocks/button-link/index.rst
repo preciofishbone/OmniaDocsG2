@@ -7,7 +7,7 @@ You can add one more buttons in each Action Button block. (This option was forme
 
 Settings
 ***********
-Any existing buttons in this block are listed at the top, if any. 
+The following settings are available:
 
 .. image:: button-links-new4.png
 
