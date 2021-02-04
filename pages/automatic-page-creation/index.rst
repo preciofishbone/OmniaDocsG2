@@ -1,6 +1,6 @@
 Automatic Page Creation
 =========================
-**(This documentation is just started - really just - more will be added soon).
+**(This documentation is just started - really just - more will be added soon).**
 
 In Omnia v6 an administrator can setup rules in a Page Collection for automatic page creation.
 
