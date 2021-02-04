@@ -3,7 +3,7 @@ Omnia Feed - Business Profile Settings
 
 (This documentation is just started, more will be added soon).
 
-Using Omnia Feed, users can read News from your intranet in their mobile device. Apps can be downloaded from the usual channels, for example App Store for iPhone.
+Using a Omnia Feed app, users can read News from your intranet on their mobile device. Apps can be downloaded from the usual channels, for example App Store for iPhone.
 
 Settings
 **********
@@ -23,6 +23,8 @@ Use this tab for settings for Omnia Feed's views.
 
 What you do here is to select property in Omnia that contain the information for the different views.
 
+Note that properties must have been set up in Omnia Admin to be available to select here, see: :doc:`General Block Settings </admin-settings/Tenant-settings/properties/index>`
+
 Share View Settings:
 
 .. image:: omnia-feed-view-settings-share-view.png
@@ -33,15 +35,15 @@ MyFeed View Settings:
 
 Detail View Settings:
 
-.. image:: omnia-feed-view-settings-detailed-view.png
+.. image:: omnia-feed-view-settings-detailed-view-new.png
 
 Tabs
 -----
-Here you can set up and edit tabs that should be available in Omnia Feed for this Business Profile. Here's an example:
+Here you can set up and edit available tabs in the Omnia Feed app,for this Business Profile. Here's an example:
 
 .. image:: omnia-feed-view-settings-tabs.png
 
-Click the pen to edit or the dust bin to remove. You can edit all settings the same way as when creating a new tab, except Type.
+Click the pen to edit or the dust bin to remove. You can edit all settings the same way as when creating a new tab, except Type. See below for more information about the settings.
 
 Add a new tab
 ---------------
@@ -68,19 +70,19 @@ For Query you can set the following:
 .. image:: omnia-feed-view-settings-tabs-new-query.png
 
 + **Sort By**: You can sort the list of pages by "Last Activity" or "Article Date". (More information about what this means in detail will be added soon.)
-+ **Enable Push Notification For New Page**: Select this option if users should recieve a Push Notificatipon when a new page has been added to the page collection(s) you have defined.
++ **Enable Push Notification For New Page**: Select this option if users should recieve a Push Notificatipon when a new page has been added to the page collection(s) set up.
 + **Enter page collection url and resolve**: Type or paste the page collection url and click the button.
 + **Select page collection**: If you entered a correct url in the field above, the name of the Page Collection is shown here and you can click ADD to use it. 
 
-If needed, you can additional Page Collections the same way.
+If needed, you can add additional Page Collections the same way.
 
 Additional settings for Page Collections
 -------------------------------------------
 By expanding the Page Collection you can set the following:
 
- image:: omnia-feed-view-settings-tabs-collection.png
+.. image:: omnia-feed-view-settings-tabs-collection.png
 
- + **Title Format**: There's a number of predefined title formats you can choose, and there's also a custom option where you can type any text as the title.
++ **Title Format**: There's a number of predefined title formats you can choose, and there's also a custom option where you can type any text as the title.
 + **Add Filter**: (A description of how this works in detail will be added soon.)
 
 
