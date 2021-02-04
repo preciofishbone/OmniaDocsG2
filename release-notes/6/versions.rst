@@ -42,7 +42,7 @@ Document Management
 ***********************
 - Features for retention and termination.
 - Bulk update.
-- In place records management are now used to make ODM documents read only.
+- Published ODM documents are now set as read only on a file level.
 - Several changes to improve stability of the publish flow.
 - Retention date can now be based on any enterprise property (#115742).
 
