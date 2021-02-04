@@ -89,7 +89,7 @@ The properties that are or can be reused on the target page are listed, for exam
 
 .. image:: reuse-content-list.png
 
-If you don't want to reuse content from a property that is listed, clik the dust bin to remove it from the list.
+If you don't want to reuse content from a certain property, click the dust bin to remove it from the list.
 
 If additional properties are available, you can add any of them - so the content can be reused - using the "Select Property" list.
 
