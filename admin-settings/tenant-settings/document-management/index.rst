@@ -7,7 +7,7 @@ Here you handle all the settings for Document Management.
 
 **Note!** The Feature "Controlled Documents" must be activated for these settings to show up.
 
-In Omnia v6, the option "Documents Bulk Update", is also available.
+In Omnia v6, the options "Documents Bulk Update" and Document Tewrmination, is also available.
 
 Select section for a description:
 
@@ -21,6 +21,7 @@ Select section for a description:
    expired-reviews/index
    statistics/index
    documents-bulk-update/index
+   document-termination/index
   
    
 
