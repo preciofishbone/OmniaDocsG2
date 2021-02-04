@@ -11,8 +11,6 @@ Use the pen to edit a category or the dust bin to delete it.
 
 You can also change the order in wich categories will be shown in varioues list. Just grab the titel and move the category to the desired position.
 
-For settings that can be edited, see below.
-
 Create a new category
 ***********************
 To create a new category, do the following:
@@ -24,6 +22,8 @@ To create a new category, do the following:
 2. Type a Titel (Name) and save.
 
 .. image:: properties-categories-settings.png
+
+The field "Order" displays the order set in the list when the category is edited, where 10 is the top position, followed by 20, 30 etc.
 
 
 

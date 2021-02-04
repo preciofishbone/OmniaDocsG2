@@ -3,7 +3,9 @@ Page Types
 
 If you are Publishing App administrator you can work with Page Types. A page type contains sections where blocks can be placed for content. Sections can be targeted.
 
-Some blocks can be added to a page type so they are a part of the layout presented to editors of a page based on the Page Type. 
+Some blocks can be added to a page type so they are a part of the layout presented to editors of a page based on the Page Type.
+
+In Omnia v6, default content can be added to blocks and you can set if it's allowed to edit this content or not. This option is available for blocks that can be edited in Write mode.
 
 When a new page is created, the Editor or Author can choose page type from any available in the page type list, or any Tenant Page Type, if available.
 

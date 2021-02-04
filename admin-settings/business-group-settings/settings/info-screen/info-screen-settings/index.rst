@@ -71,9 +71,9 @@ Here's a description of the rest of the settings:
 
 .. image:: info-screen-settings-display-settings.png
 
-+ **Delay Time scroll (seconds)**: Set the delay time before next scroll.
++ **Delay Time Before scroll (seconds)**: Set the delay time before next scroll.
 + **Scrolling Speed**: Use the slider to set speed of the scroll.
-+ **Delay Time scroll (seconds)**: Set the delay time after a scroll.
++ **Delay Time after scroll (seconds)**: Set the delay time after a scroll.
 + **Scrolls Whole Page**: Select this if you want the whole page to scroll.
 + **Show Likes/Comments**: Select if Page Likes and Comments should be shown on the screen.
 + **Logo Url**: To display a logo, add the url here.
@@ -98,4 +98,4 @@ The settings are simply:
 + **Title**: Add a title to display for viedoe (mandatory).
 + **Video**: Click the icon in this field to start Media Picker to select the video.
 
-For more information on how to use Media Picker, see this page: :doc:`Media Picker </general-assets/media-picker/index>`
+For more information on how to use Media Picker, see :doc:`Media Picker </general-assets/media-picker/index>`

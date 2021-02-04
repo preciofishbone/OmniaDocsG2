@@ -10,6 +10,7 @@ In this part of the documentation you will find information concerning how to wo
    create-page/index
    move-page/index
    delete-page/index
+   automatic-page-creation/index
    edit-page/index
    edit-page-variations/index
    language-versions-of-a-page/index
@@ -25,4 +26,5 @@ In this part of the documentation you will find information concerning how to wo
    page-style/index
    reports/index
    page-collections/index
+   pages-toolbar/index
    
