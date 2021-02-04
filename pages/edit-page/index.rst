@@ -83,17 +83,17 @@ The following is shown:
 
 3. Click ADD SOURCE PAGE.
 
-The Page Picker starts and you use to select a source page or variation. See this page for more information: :doc:`Page Picker </general-assets/page-picker/index>`
+The Page Picker starts and you use it to select a source page or variation. See this page for more information: :doc:`Page Picker </general-assets/page-picker/index>`
 
 The properties that are or can be reused on the target page are listed, for example:
 
 .. image:: reuse-content-list.png
 
-If you don't want to reuse content from a property that is listed, clik the dust bin to trmovr it from the list.
+If you don't want to reuse content from a property that is listed, clik the dust bin to remove it from the list.
 
-If additional properties are availabl, you can add any of them using the "Select Property" list.
+If additional properties are available, you can add any of them - so the content can be reused - using the "Select Property" list.
 
-Also note that blocks resusing content are indicated this way:
+Also note that blocks reusing content are indicated this way:
 
 .. image:: reuse-content-on-page.png
 
