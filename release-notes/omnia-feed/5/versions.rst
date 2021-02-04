@@ -3,7 +3,7 @@
 
 - Fixed an issue where images with large size sometime cannot  be displayed (#125486).
 - Added missing Danish localization for some admin settings (#125102).
-- Fixed several issues where users cannot access an business profile in Omnia Feed because of unauthorized error (#124324, #123881, #124146, #123961, #125257, #124718).
+- Fixed several issues where users cannot access an business profile in Omnia Feed because of unauthorized error (#124324, #123881, #124146, #123961, #125257, #124718). IMPORTANT: For this fix to work, it is required to give consent to the Omnia app again.
 - Replacing images in news articles are now working correctly in Omnia Feed (#123589).
 - Improved performance and stability.
 
@@ -19,6 +19,13 @@
 - Improved UX by show an indicator while images are being loaded.
 - Fixed the link to Privacy Policy.
 - Fixed an issue on iOS when the cursor on the textbox for login form always jump to the beginning when text is too long.
+
+
+5.2.19
+========================================
+- Fixed an issue where some users with specific domains cannot login to Omnia Feed.
+- Omnia Feed now works correctly with Microsoft Authenticator on Android.
+- Fixed UI glitch in the header for some iOS devices.
 
 
 Versions

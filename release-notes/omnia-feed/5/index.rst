@@ -54,9 +54,14 @@ It will now be possible to click on push notifications about new articles or com
 Related Links for News Articles
 --------------------------------------
 
+It is now possible to configure a related link property in Omnia to be shown in Omnia Feed.
+
+.. image:: admin-settings-related-links.png
+
 Related links from news articles will now be shown in the detail view in Omnia Feed.
 
 .. image:: app-detail-view-with-related-links.png
+
 
 
 New Functionalities for Rich Text Content
