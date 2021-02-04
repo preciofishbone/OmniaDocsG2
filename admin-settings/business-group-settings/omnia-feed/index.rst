@@ -1,7 +1,7 @@
-Omnia Feed - Business Profile Settings
+Omnia Feed settings
 ========================================
 
-(This documentation is just started, more will be added soon).
+**(This documentation is recently started, more will be added soon).**
 
 Using a Omnia Feed app, users can read News from your intranet on their mobile device. Apps can be downloaded from the usual channels, for example App Store for iPhone.
 
@@ -23,7 +23,9 @@ Use this tab for settings for Omnia Feed's views.
 
 What you do here is to select property in Omnia that contain the information for the different views.
 
-Note that properties must have been set up in Omnia Admin to be available to select here, see: :doc:`General Block Settings </admin-settings/Tenant-settings/properties/index>`
+Note that properties must have been set up in Omnia Admin to be available to select here, see: :doc:`Properties </admin-settings/Tenant-settings/properties/index>`
+
+(If you're using Omnia v6, you should click the link on the Properties page to get the correct description).
 
 Share View Settings:
 
