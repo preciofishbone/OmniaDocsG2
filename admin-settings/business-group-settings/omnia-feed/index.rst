@@ -55,7 +55,7 @@ And use these settings:
 
 + **Title**: Add a title for the tab.
 + **Icon Type**: If you want an icon for the tab, select icon type here.
-+ **Icon**: Choose icon from the selected tab here. If you leave this field empty, no icon is shown.
++ **Icon**: Choose icon from the selected type here. If you leave this field empty, no icon is shown.
 + **Only Show For First Line Workee**: (A description will be added soon.)
 + **Type**: Select Type of tab here; Query, Link or Embedded Link. For more information, see below.
 
