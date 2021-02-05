@@ -21,7 +21,7 @@ Use this tab for settings for Omnia Feed's views.
 
 .. image:: omnia-feed-view-settings.png
 
-What you do here is to select property in Omnia that contain the information for the different views.
+What you do here is to select properties in Omnia that contain the information needed for the different views.
 
 Note that properties must have been set up in Omnia Admin to be available to select here, see: :doc:`Properties </admin-settings/Tenant-settings/properties/index>`
 
@@ -37,7 +37,7 @@ MyFeed View Settings:
 
 Detail View Settings:
 
-.. image:: omnia-feed-view-settings-detailed-view-new.png
+.. image:: omnia-feed-view-settings-detailed-view.png
 
 Tabs
 -----

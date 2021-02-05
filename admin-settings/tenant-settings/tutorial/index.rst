@@ -3,6 +3,8 @@ Tutorial
 
 Using this option in Omnia Admin a Tenant Administrator can create and edit Tutorials for selected publishing pages. 
 
+**A tip!** If needed, you can create Cookies Consent information, using the Tutorial options. See this page for more information: 
+
 The User Experience
 *******************
 A Tutorial can be set up to start automatically when a page is opened (see more info below). But if it's not, users select the "Tutorial" icon in the heading:
