@@ -17,6 +17,8 @@ This is how:
 
 .. image:: language-setting-select.png
 
+The list contains all languages that are set up in Omnia Admin, see: :doc:`Regional Settings </admin-settings/tenent-settings/settings/regional-settings/index>`
+
 All Omnia system labels are now shown in the selected language.
 
 The setting is saved automatically and is valid over sessions, meaning til language is set next time.
