@@ -10,11 +10,17 @@ General
 - Better handling of enterprise properties (#123320).
 - Tenant and Business Profile logo is now saved as real image resources instead of base64.
 - Current user language can now be set by the user; this is especially useful if the Windows AD property for language is not set.
-- Themeing is now generally available for all blocks and the editor.
+- Theming is now generally available for all blocks and the editor.
+- The login form for Kaizala users now supports correct keyboard controls.
+- A new control for selecting enterprise properties has been introduced. It will be used through the entire system. 
+- New structure and organization in Omnia Admin.
+- New option for properties “Queryable properties”. This pane replaces the old queryable checkbox on each property, and allow for editing the queryable option.
+
 
 Web Content Management
 ***********************
 - Page types are now available on tenant level, see general release notes.
+- A new media picker is now available, see general release notes (#126458).
 - Its now possible to reuse content between variations of a page.
 - Open in dialog on People Rollup no longer affects the email link (#123092).
 - The page rollup feature "Exclude current page" now works correctly with variation pages (#121376, #121378).
@@ -29,7 +35,12 @@ Web Content Management
 - Page rollup can now be sorted on numbers.
 - Increased performance of the page rollup.
 - Its now possible to query a page rollup towards a specific variation, as well as the current page or the current user.
-- Stability improvments to the page sync. (#)
+- Stability improvements to the page sync. (#)
+- Options for video embed has been expanded to correctly handle autoplay and mute. Note all options are not available in videos from stream.
+- Several updates to the page picker.
+- The dynamic roller view has gotten several stability updates (#124584).
+- New design for the RTF quote style. 
+- 
 
 Teamwork
 ***********************
@@ -37,6 +48,9 @@ Teamwork
 - Properties for a teamwork template now uses property sets, allowing you to set dependent properties and ordering of properties (#123320).
 - Document management and Process management MS Teams tabs can now be easily configured in the Template.
 - Its now possible to add members and owners when creating a new teamwork.
+- Confirmation emails are no longer sent when editing Teamwork.
+- Validation when creating new Teamwork has been improved (#120614).
+- 
 
 Document Management
 ***********************
@@ -54,4 +68,5 @@ For Developers
 ***********************
 - Omnia now uses the .NET Standard CSOM. 
 - Several of the Omnia Core Extensions have been merged into one. 
+- Better error handling when creating client context.
 
