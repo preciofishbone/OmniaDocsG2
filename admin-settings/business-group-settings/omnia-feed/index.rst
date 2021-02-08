@@ -5,6 +5,8 @@ Omnia Feed can be set up in many different ways to make it possible for users to
 
 The Omnia Feed app can be downloaded from the usual sources, for example App Store for iPhone.
 
+**Important Note!** Omnia Feed is "Forward Only" meaning that a page that has been sent to a user can't be recalled. This is important to remember for example when creating or editing a query. 
+
 Settings
 **********
 The following settings are available for Omnia Feed, for the Business Profile:
@@ -75,7 +77,7 @@ For Query you can set the following:
 
 .. image:: omnia-feed-view-settings-tabs-new-query.png
 
-+ **Sort By**: You can sort the list of pages by "Last Activity" or "Article Date". Last Activity means any activity on the page, even for example comments. Regarding Article Data it depends on the property defined for this - set up for the Share View under View Settings. 
++ **Sort By**: You can sort the list of pages by "Last Activity" or "Article Date". Last Activity means any activity on the page, even for example comments. Regarding Article Data it depends on the property defined for this - set up for the Share View under View Settings. See above.
 + **Enable Push Notification For New Page**: Select this option if users should recieve a Push Notificatipon when a new page has been added to the page collection(s) set up.
 + **Enter page collection url and resolve**: Type or paste the page collection url and click the button.
 + **Select page collection**: If you entered a correct url in the field above, the name of the Page Collection is shown here and you can click ADD to use it. 
