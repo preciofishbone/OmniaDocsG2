@@ -75,12 +75,12 @@ Web Content Management
 - Fixed an issue where the action buttons would not correctly render as multilingual (#125063).
 - System properties (Non removable properties) can now be added to page types. 
 
-###Reusable content
+### Reusable content
 - The flow for creating reusable content has been greatly improved, see general release notes (#122365, #124250).
 - The page picker is now supported when selecting a page to reuse.
 - Its now possible to reuse content between variations of a page. (#120352).
 
-###Page Rollup
+### Page Rollup
 - Several performance improvements for all page queries (#123670)
 - Its now possible to query a page rollup towards a specific variation, as well as the current page or the current user. The feature implementation has moved to the Query tab. (#124743).
 - The dynamic roller view has gotten several stability updates and more consistent handling regarding number of slides (#124584).
@@ -92,7 +92,7 @@ Web Content Management
 - The loop setting for the Dynamic roller now works as expected. (#123925).
 - Page Rollups now works correctly in SPFx (#125238).
 
-###RTF Updates
+### RTF Updates
 - New design for the RTF quote style. 
 - Text and image flow have received several fixes.
 - Link color is now part of the settings (#124162, #124053, #123917).
