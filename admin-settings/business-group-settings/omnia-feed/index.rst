@@ -1,4 +1,4 @@
-Omnia Feed settings - Business Profile Settings
+Omnia Feed - Business Profile Settings
 =================================================
 
 Omnia Feed can be set up in many different ways to make it possible for users to read information from your organization's intranet, on their mobile device. A good example is News, but it can be any page(s) really, and anything that can be accessed by a link.
@@ -23,7 +23,7 @@ Use this tab for settings for Omnia Feed's views.
 
 What you do here is to select properties in Omnia that contain the information needed for the different views.
 
-Note that properties must have been set up in Omnia Admin to be available to select here, see: :doc:`Properties </admin-settings/Tenant-settings/properties/index>`
+Note that properties must have been set up in Omnia Admin to be available to select here, see: :doc:`Properties </admin-settings/tenant-settings/properties/index>`
 
 (If you're using Omnia v6, you should click the link on the Properties page to get the correct description).
 
@@ -64,7 +64,7 @@ And use these settings:
 + **Title**: Add a title for the tab.
 + **Icon Type**: If you want an icon for the tab, select icon type here.
 + **Icon**: Choose icon from the selected type here. If you leave this field empty, no icon is shown.
-+ **Only Show For First Line Worker**: If this tan should be shown for Kaizala users only, select this option.
++ **Only Show For First Line Worker**: If this tab should be shown for Kaizala users only, select this option.
 + **Type**: Select Type of tab here; Query (=Page Rollup), Link or Embedded Link. For more information, see below.
 
 For Types Link or Embedded Link here:
