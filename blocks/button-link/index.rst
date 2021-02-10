@@ -42,6 +42,10 @@ The following settings are available here:
 + **Reserve Text**: (A description will be added soon.) Available for Event Management.
 + **Apply Text**: (A description will be added soon.) Available for Event Management.
 
+Regarding Process feedback:
+
+The feedback will be sent to the process owner and will be available in the team site where the process is located. Feedback can be accessed on the PUBLISHED tab using the menu option "Feedback".
+
 Regarding the options for Button Type (for Event Management):
 
 + Sign Up: Used by the logged in user to register for an event. 
