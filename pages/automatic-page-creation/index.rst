@@ -34,11 +34,11 @@ When you select this option, the following is shown:
 
 .. image:: automatic-page-3.png
 
-Click ADD to set one or more rules. The first step, when creating a rule, is to select a property.
+Click ADD to set the first rules. The first step, when creating a rule, is to select a property.
 
 .. image:: automatic-page-4.png
 
-Set additional settings as neded. Here's a very simple example. Pages should only be copied if they are created by Anna Karlsson.
+Here's a very simple example. Pages should only be copied if they are created by Anna Karlsson.
 
 If needed, click ADD again and set the next rule. 
 
