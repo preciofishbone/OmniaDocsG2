@@ -13,7 +13,7 @@ The following settings are available:
 
 + **Title**: If a title should be shown for the block, add it in this field. If no variation exists for the page, it looks like in the image above and you can set the title in the languages active in the tenant. If one or more varitions exists, only one title can be set. In that case, titles in other languages are set in the variations.
 + **Default Scaling**: You can select a default scaling here. Possible scalings are set up in Omnia Admin.
-+ **Force Default Scaling**: Use this setting to see to that all images are scaled the same - using the default scaling. With this option selected, page editors and authors can not select scaling.
++ **Force Default Scaling**: Use this setting to see to that all images are scaled the same when they are added - using the default scaling. With this option selected, page editors and authors can not select scaling and the dialog "This image has a bigger file size than recommended" is not shown.
 + **Crop Ratios**: Use this list to set up which Crop Ratios editors should be able to choose from in this block. For more information, see below.
 + **ADD CONTENT**: Click here to add deafalt content to the block. Also see below.
 + **Padding**: You can add some space between the block's borders and the content, if needed.
