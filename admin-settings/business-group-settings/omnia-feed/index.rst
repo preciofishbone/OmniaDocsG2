@@ -75,7 +75,7 @@ For Types Link or Embedded Link here:
 
 .. image:: omnia-feed-view-settings-tabs-new-link.png
 
-Link tabs can for example be used as a shortcut to other applications (time report, HR system, etc). Embedded Link is most often used to show the home page of an Omnia intranet, but it can also be used to show some specific Omnia functionality that is not actually a part of Omnia Feed. Two examples are displayingg the My Links list or the My Tasks list. If used for that purpose, just rememeber that this is just a link. Omnia notifications (for tasks, documents or similar) can not be displayed in Omnia Feed.
+Link tabs can for example be used as a shortcut to other applications (time report, HR system, etc). Embedded Link is most often used to show the home page of an Omnia intranet, but it can also be used to show some specific Omnia functionality that is not actually a part of Omnia Feed. Two examples are displaying the My Links list or the My Tasks list. If used for that purpose, just rememeber that this is just a link. Omnia notifications (for tasks, documents or more) can not be displayed in Omnia Feed.
 
 For Query you can set the following:
 
@@ -103,7 +103,7 @@ Here's a simple example where only the pages tagged with North Europe for Market
 
 Omnia Feed and permissions
 ******************************
-To be able to access a page - news or any other Omnia page - users will need read permission for that page, meaning permissions in Omnia apply. Omnia Feed has no separate permissions settings. Therefore, users can only see feed notifications for and read the pages they are allowed to read as set in Omnia.
+To be able to access a page - news or any other Omnia page - users will need read permission for that page, meaning permissions in Omnia apply. This is normally set on Page Collection level. Omnia Feed has no separate permissions settings. Therefore, users can only see feed notifications for and read the pages they are allowed to read as set in Omnia.
 
 Resetting the app
 ******************
