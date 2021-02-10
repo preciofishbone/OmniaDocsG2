@@ -58,6 +58,8 @@ The message can look like this:
 
 A desciption of the settings that can be made for Media Picker is found here: :doc:`Media Picker Settings </admin-settings/tenant-settings/settings/media-picker/index>`
 
+**Note!** In the Media block a default scaling can be set. If it is, no dialog for a big image is shown. Instead, all images added will be scaled to the default scaling automatically.
+
 Settings for an image
 ***********************
 When an image has been selected, the following settings can be made:

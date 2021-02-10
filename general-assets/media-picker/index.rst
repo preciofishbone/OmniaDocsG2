@@ -82,5 +82,4 @@ If a user uploads an image that is too big, a warning is shown and the user can 
 
 The setting for maximum image size is set in Omnia Admin.
 
-**Note!** In the Media block a default scaling can be set. If it is, no dialog for a big image is shown. Instead, all images added will be scaled to the default scaling automatically.
 
