@@ -19,6 +19,12 @@ View Process
 *******************
 Use this option to go the page set up to where end users can acccess the process. If no page has been set up yet, the process is shown on a system fallback page.
 
+Feedback
+*********
+In Omnia v6 and later, an Action Button can be set up to make it possible for users to send feedback on a process. Such feedback will be sent to the process owner and will be available through this option.
+
+For more information on how to set upp Action Buttons, see: :doc:`General Block Settings </blocks/action-button/index>`
+
 Process History
 ******************
 There’s information about each published edition available. To see it, do the following:
