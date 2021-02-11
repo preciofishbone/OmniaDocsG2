@@ -9,6 +9,8 @@ You can archive a whole Page Collection the same way as is described here and yo
 
 All colleagues with editor permissions to a page can archive that page. To be able to restore an archived page you must be Publishing App Administrator. There's one archive per Publishing App.
 
+For more technical information about archiving pages, see the bottom of this description.
+
 Here's how to archive a page:
 
 1. Go to the page (if it's a page you haven't published you must edit any page and then open the edit navigation to go to the page to archive).
@@ -98,6 +100,18 @@ Now something like the following is shown:
 .. image:: archive-parent-restore-2.png
 
 Use the right part to select the parent node for the archived page/pages to be placed under. Note that you can browse the list the find a sub page that should be the parent node. Click OK when you're finished.
+
+More about archiving pages in Omnia - on the technical side
+****************************************************************
+Archived pages are stored in a document library in the Communication Site backend in SharePoint and will be stored there until someone decides to manually delete them.
+
+When a page is archived, the information is removed from the Omnia database and only stored in Sharepoint. The page and its media is moved to a specific archive catalog in the backend connected SharePoint site.
+
+When a page is terminated in Omnia, it is moved to the recycle bin in SharePoint.
+
+Så här gör omnia. Omnias sidor ligger i SharePoint i två olika format.
+
+
 
 
 
