@@ -20,6 +20,7 @@ Topics
    using-newsletters/index
    user-options/index
    setup/index
+   cookies-consent-information/index
    release-notes/index
    roadmap/index
    guides/index
