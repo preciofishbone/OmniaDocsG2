@@ -31,7 +31,7 @@ The following settings are available here:
 + **Type**: Select type of button here; Link, Add as favourite, Process feedback, Event Management, Create Page, My Subscriptions or Subscribe. 
 + **Text**: Add text to be shown on the button here. If variations exists for the page, you add text in the default language here. Other languages are handled by the variation. If no varations exists, you can add text in several languages here (as in the image).
 + **Tool tip**: Add the tool tip text for the button here. (Same apply for variations as above.)
-+ **Category**: Available as "Add Favourite". (A description will be added soon).
++ **Category**: Available as "Add Favourite". If the Favourite should be added to a specific Category, add the category here.
 + **Unsubscribe Text**: A "Subscribe" button changes the text automatically when a user has clicked the button. Unsubscribe is suggested but you can change the text to something else. (Same apply for variations as above.)
 + **Subscription Scope**: Available for Type Subscription. Select the scope here, meaning what the user actually subscribes to; the Page (=all changes to the page, even comments and best reply for Knowledge pages), Publishing App (=all new pages in the Publishing App, but not changes to existing pages) or Page Collection (=all new pages in the Page Collection, but not changes to existing pages).
 + **Url**: Type or paste the Url to go to when a user clicks the link. Available for Link type.
@@ -45,6 +45,8 @@ The following settings are available here:
 Regarding Process feedback:
 
 The feedback will be sent to the process owner and will be available in the team site where the process is located. Feedback can be accessed on the PUBLISHED tab using the menu option "Feedback".
+
+Also note that the button must be placed in a Process Context to work.
 
 Regarding the options for Button Type (for Event Management):
 
