@@ -15,7 +15,7 @@ You should set this Tutorial to be available at the start page and to start auto
 
 It can look something like this in the Tutorial window:
 
-.. image:: cookies-consent.png
+.. image:: cookies-consent-new2.png
 
 For more information on how to create a Tutorial, see: :doc:`Tutorial </admin-settings/tenant-settings/tutorial/index>`
 
