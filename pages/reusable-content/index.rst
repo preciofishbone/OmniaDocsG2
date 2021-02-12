@@ -3,12 +3,16 @@ Reusable Content
 
 **(This documentation is just started. More will be added soon).**
 
-Content from one Omnia page can be reused on another Omnia page. It's true for variations as well.
+Content from one Omnia page can be reused on another Omnia page. It's true for variations as well. To be more precise, it is content from defined properties that are being reused, so applicable blocks must be present on the target page, for information to show up. 
+
+A property that are not shown for users can be reused as well, for example Review date.
 
 Note that "Enable reuse content" must be turned in the Publishing App settings for this to be available, see: :doc:`Publishing Appm Settings </pages/page-settings/index>`
 
-On the source page you don't have to do anything than make sure the information that should be reused is up to date.
+On the source page you don't have to do anything else than make sure the information that should be reused is up to date.
 
+Reuse Content
+*******************
 When you are editing a page where you want to reuse content from another page, do this:
 
 1. Open the action menu at the bottom right:
@@ -38,6 +42,10 @@ If additional properties are available, you can add any of them - so the content
 Also note that blocks reusing content are indicated this way:
 
 .. image:: reuse-content-on-page.png
+
+If you are reusing properties used for settings, that is indicated as well, for example:
+
+.. image:: reuse-content-on-page-settings-properties.png
 
 Automatic Page Creation
 ****************************
