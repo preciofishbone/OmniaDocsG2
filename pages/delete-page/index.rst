@@ -105,7 +105,7 @@ Archiving pages in Omnia - on the technical side
 **************************************************
 Archived pages are stored in a document library in the Communication Site backend in SharePoint and will be stored there until someone decides to manually delete them.
 
-When a page is archived, the information is removed from the Omnia database and only stored in Sharepoint. The page and its media is moved to a specific archive catalog in the backend connected SharePoint site.
+When a page is archived, the information is removed from the Omnia database and is only stored in Sharepoint. The page and it's media is moved to a specific archive catalog in the backend connected SharePoint site.
 
 When a page is terminated in Omnia, it is moved to the recycle bin in SharePoint.
 
