@@ -10,7 +10,7 @@ In this part of the documentation you will find information concerning how to wo
    create-page/index
    move-page/index
    delete-page/index
-   reusable-contents/index
+   reusable-content/index
    automatic-page-creation/index
    edit-page/index
    edit-page-variations/index
