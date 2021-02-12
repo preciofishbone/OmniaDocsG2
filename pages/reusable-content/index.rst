@@ -1,13 +1,11 @@
 Reusable Content
 ===================
 
-**(This documentation is ongoing. More will be added soon).**
-
 Content from one Omnia page can be reused on another Omnia page. It's true for variations as well. To be more precise, it is content from defined properties that are being reused, so applicable blocks must be present on the target page, for information to show up. 
 
 A property that are not shown for users can be reused as well, for example Review date.
 
-Note that blocks with reused content are locked on the target page. They can no be edited there. Reused content can only be edited on the source page. Therefore you should probably not reuse for example Title, as you most likely will want a different title on the target page.
+Note that blocks with reused content are locked on the target page. They can no be edited there. Reused content can only be edited on the source page. Therefore you may not want to reuse for example Title, as you most likely will want a different title on the target page.
 
 Also note that "Enable reuse content" must be turned in the Publishing App settings for this to be available, see: :doc:`Publishing App Settings </pages/page-settings/index>`
 
