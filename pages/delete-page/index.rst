@@ -101,15 +101,14 @@ Now something like the following is shown:
 
 Use the right part to select the parent node for the archived page/pages to be placed under. Note that you can browse the list the find a sub page that should be the parent node. Click OK when you're finished.
 
-More about archiving pages in Omnia - on the technical side
-****************************************************************
+Archiving pages in Omnia - on the technical side
+**************************************************
 Archived pages are stored in a document library in the Communication Site backend in SharePoint and will be stored there until someone decides to manually delete them.
 
 When a page is archived, the information is removed from the Omnia database and only stored in Sharepoint. The page and its media is moved to a specific archive catalog in the backend connected SharePoint site.
 
 When a page is terminated in Omnia, it is moved to the recycle bin in SharePoint.
 
-Så här gör omnia. Omnias sidor ligger i SharePoint i två olika format.
 
 
 
