@@ -37,7 +37,7 @@ The properties that are or can be reused on the target page are listed, for exam
 
 If you don't want to reuse content from a certain property, click the dust bin to remove it from the list.
 
-If additional properties are available, you can add any of them - so the content can be reused - using the "Select Property" list.
+If additional properties are available, you can add any of them - so the content can be reused - using the "Select Property" list. You can edit the reuse list any time you are editing the target page, so you cab add or ermove reusable propeties as needed.
 
 Also note that blocks reusing content are indicated this way:
 
