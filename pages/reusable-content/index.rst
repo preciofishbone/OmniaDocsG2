@@ -1,7 +1,7 @@
 Reusable Content
 ===================
 
-**(This documentation is just started. More will be added soon).**
+**(This documentation is ongoing. More will be added soon).**
 
 Content from one Omnia page can be reused on another Omnia page. It's true for variations as well. To be more precise, it is content from defined properties that are being reused, so applicable blocks must be present on the target page, for information to show up. 
 
