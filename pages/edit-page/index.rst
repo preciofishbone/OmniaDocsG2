@@ -69,33 +69,7 @@ Reuse content
 **************
 It's possible to reuse contents from another page or another variation. The page where you want to reuse content must be in Edit mode. Do the following:
 
-1. Open the action menu at the bottom right:
-
-.. image:: open-action-menu-new6.png
-
-2. Select REUSEABLE CONTENT.
-
-.. image:: select-reuse-content-new4.png
-
-The following is shown:
-
-.. image:: select-reuse-content2.png
-
-3. Click ADD SOURCE PAGE.
-
-The Page Picker starts and you use it to select a source page or variation. See this page for more information: :doc:`Page Picker </general-assets/page-picker/index>`
-
-The properties that are or can be reused on the target page are listed, for example:
-
-.. image:: reuse-content-list.png
-
-If you don't want to reuse content from a certain property, click the dust bin to remove it from the list.
-
-If additional properties are available, you can add any of them - so the content can be reused - using the "Select Property" list.
-
-Also note that blocks reusing content are indicated this way:
-
-.. image:: reuse-content-on-page.png
+For more information about how to reuse content, see: :doc:`Reusable Content </pages/reusable-content/index>`
 
 Change Page Type
 *****************
