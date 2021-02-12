@@ -7,7 +7,7 @@ Content from one Omnia page can be reused on another Omnia page. It's true for v
 
 A property that are not shown for users can be reused as well, for example Review date.
 
-Note that "Enable reuse content" must be turned in the Publishing App settings for this to be available, see: :doc:`Publishing Appm Settings </pages/page-settings/index>`
+Note that "Enable reuse content" must be turned in the Publishing App settings for this to be available, see: :doc:`Publishing App Settings </pages/page-settings/index>`
 
 On the source page you don't have to do anything else than make sure the information that should be reused is up to date.
 
