@@ -3,7 +3,7 @@ Current Navigation
 
 The current navigation block makes it possible for the end user to navigate to siblings, parent nodes and parent node siblings. 
 
-.. image:: current-navigation-example-new.png
+.. image:: current-navigation-example.png
 
 The Current Navigation can be set to be shown, as most blocks can, in all or some of the three Display Breakpoint settings, available when the block is edited; Extra Small, Small, Medium or Large. See the heading "Display settings for blocks" on this page for more information: :doc:`Working with blocks </blocks/working-with-blocks/index>`
 
