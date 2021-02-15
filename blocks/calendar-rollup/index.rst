@@ -17,13 +17,21 @@ Settings
 *********
 Use these settings for the block:
 
-.. image:: calendar-rollup-settings-new.png
+.. image:: calendar-rollup-settings-new2.png
+
++ **Title**: If a title should be shown for the block, add it in this field. If variation exists, it looks like in the image above, and only one title can be set. In that case, titles in other languages are set in the variations. If no variation exists for the page, you can set the title in the languages active in the tenant. 
+
+General
+---------
+Under General you can add a title for the block.
+
+.. image:: calendar-rollup-settings-general.png
 
 Query
 -------
 Here you select calendars.
 
-.. image:: calendar-rollup-query-new.png
+.. image:: calendar-rollup-query-new2.png
 
 + **Select Calendar Type**: You can select to add Microsoft 365 group calendars or the current user's calendar.
 + **Select Microsoft 365 Group**: If you have selected "Microsoft 365 group" above you use this field to search for a calendar. 
@@ -72,16 +80,15 @@ Display
 ---------
 Here you can set the following:
 
-.. image:: calendar-rollup-display-new3.png
+.. image:: calendar-rollup-display-new4.png
 
 + **View**: Select the view for the list here. (Only Listing is available for now.)
-+ **Title**: If a title should be shown for the block, add it in this field. If variation exists, it looks like in the image above, and only one title can be set. In that case, titles in other languages are set in the variations. If no variation exists for the page, you can set the title in the languages active in the tenant. 
 + **Item Limit**: Set the number of items to display on each "page" of the list.
 + **Padding**: Set some padding around the list if needed.
 
-Layout and Advanced
-**********************
-The tabs Layout and Advanced contain general settings, see: :doc:`General Block Settings </blocks/general-block-settings/index>`
+Layout and Write
+*********************
+The WRITE TAB is not used here. The LAYOUT tab contains general settings, see: :doc:`General Block Settings </blocks/general-block-settings/index>`
 
 
 
