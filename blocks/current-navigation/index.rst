@@ -3,19 +3,15 @@ Current Navigation
 
 The current navigation block makes it possible for the end user to navigate to siblings, parent nodes and parent node siblings. 
 
-.. image:: current-navigation-example.png
+.. image:: current-navigation-example-new.png
 
-The current navigation settings are page layout scoped. The settings are valid for a specific page layout within the current site collection.
-
-The current navigation is responsive. In a certain width (optimized for mobile phones and tablets) the current navigation will be hidden. The mobile navigation will then be used instead.
-
-.. image:: mobile-navigation.png
+The Current Navigation can be set to be shown, as most blocks can, in all or some of the three Display Breakpoint settings, available when the block is edited; Extra Small, Small, Medium or Large. See the heading "Display settings for blocks" on this page for more information: :doc:`Working with blocks </blocks/working-with-blocks/index>`
 
 The settings
 *************
 These settings are available:.
 
-.. image:: current-navigation-settings-new2.png
+.. image:: current-navigation-settings-new3.png
 
 + **Title**: If you would like a title to be shown for the block, add the title here.
 + **Start Level**: The current navigation will start on a specific level in the navigation structure. 1 = Start, 2 = Second level, 3= Third level etc. The default value is 3.
@@ -31,9 +27,9 @@ This is how the same current navigation will look with Show Parent Siblings NOT 
 
 .. image:: show-parent-not-g2.png
 
-Layout and Advanced
-**********************
-The tabs Layout and Advanced contain general settings, see: :doc:`General Block Settings </blocks/general-block-settings/index>`
+Layout and Write
+*********************
+The WRITE TAB is not used here. The LAYOUT tab contains general settings, see: :doc:`General Block Settings </blocks/general-block-settings/index>`
 
 
 

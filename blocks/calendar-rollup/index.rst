@@ -31,7 +31,7 @@ Query
 -------
 Here you select calendars.
 
-.. image:: calendar-rollup-query-new2.png
+.. image:: calendar-rollup-query-new.png
 
 + **Select Calendar Type**: You can select to add Microsoft 365 group calendars or the current user's calendar.
 + **Select Microsoft 365 Group**: If you have selected "Microsoft 365 group" above you use this field to search for a calendar. 
