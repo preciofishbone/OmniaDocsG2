@@ -24,7 +24,9 @@ The following settings are available for the block:
 + **Date Format**: Add a Date Format here, if needed. Default=YYY-MM-DD.
 + **Padding**: If some padding is needed between the block edges and the lists, add it here.
 
-The tabs Layout and Advanced contain general settings, see: :doc:`General Block Settings </blocks/general-block-settings/index>`
+Layout and Write
+*********************
+The WRITE TAB is not used here. The LAYOUT tab contains general settings, see: :doc:`General Block Settings </blocks/general-block-settings/index>`
 
 
 
