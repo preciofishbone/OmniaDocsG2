@@ -21,12 +21,14 @@ To select template(s), just click on them, and click again to deselect. Here's a
 
 This would result in the following being displayed for users (it may look different depending on layout settings):
 
-.. image:: create-teamwork-selected-example-new.png
+.. image:: create-teamwork-selected-example-new2.png
 
 A user just clicks the desired template and the wizard starts, with a number of steps, according to what has been set up for the template.
 
+From the user's point of view it works the same once the wizard has started. An example of how it can look is found here: :doc:`Teamwork Navigation </user-options/teamwork-navigation/index>`
 
-
+Layout and Write
+*********************
 The WRITE tab is not used here. The LAYOUT tab contains general block settings. See this page for more information: :doc:`General Block Settings </blocks/general-block-settings/index>`
 
 
