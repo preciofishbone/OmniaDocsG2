@@ -22,9 +22,9 @@ In the image above you can see the Teams Group icon. Here's an example of a list
 
 Create Teamwork
 *************************
-End users can be allowed to create a new site or group using the option here. Depending on settings approval, can be needed. If it's not needed, the site or group will be created when the user clicks "Create". If approval is needed, a request is sent to an administrator for processing.
+End users can be allowed to create a new site or group using the option here. Depending on settings, approval can be needed. If it's not needed, the site or group will be created when the user clicks "Create". If approval is needed, a request is sent to an administrator for processing.
 
-Another way users can be allowed to create teamworks, is through the Create Teamwork block. It works the same way as described here. See this page for more information: :doc:`Create Teamwork block </blocks/create-teamwork/index>`
+Another way users can be allowed to create teamworks, is through the Create Teamwork block. See this page for more information: :doc:`Create Teamwork block </blocks/create-teamwork/index>`
 
 What the option is called and which fields and options will be available when creating a site or group can differ depending on how the Provisioning Template is set up.
 
@@ -65,7 +65,7 @@ This example will create a "Team" site.
 
 .. image:: create-site-2-member.png
 
-There should be at least two owners (administrators) of a Teamwork, but there should normally not be more than a few, as the owner has extensive permission to the Teamwork's settings.
+There should be at least two owners (administrators) of a Teamwork, but there should normally not be more than a few, as site owners has extensive permissions to the Teamwork's settings.
 
 Members can be added now or later.
 
@@ -75,7 +75,7 @@ When all is done:
 
 8. Click "Create".
 
-.. image:: create-site-3new2.png
+.. image:: create-site-3new3.png
 
 The "Create" option can also say "Send for approval", depending on what is set up in the template. If the button's label is "Create", the site/group is created when you click the button. If the button's label is "Send for approval", an administrator must approve your request before the site/group can be created. When the administrator has done his or her job, you will be notified.
 
