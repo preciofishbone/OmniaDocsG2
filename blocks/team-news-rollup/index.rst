@@ -35,6 +35,8 @@ Use the top field to add a custom query. The custom query can be used to only sh
 + **Include Legacy Announcements**: If you're using the earlier Omnia solution for Team Announcements, select this option to show them here.
 + **Filter by followed sites**: If team news only from the sites the user follows should be shown, select this option.
 
+ote that you can type the script directly in the field, if you know how. You can use all options in the Keyword Query Language (KQL). See this Microsoft page for reference: https://docs.microsoft.com/en-us/sharepoint/dev/general-development/keyword-query-language-kql-syntax-reference
+
 Display
 ---------
 Here, the following can be set:
