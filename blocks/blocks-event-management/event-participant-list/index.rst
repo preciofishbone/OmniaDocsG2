@@ -1,4 +1,4 @@
-Events Participant block
+Events Participant List
 ==========================
 
 Use this block to list participants that has registered for an event.
@@ -13,7 +13,7 @@ Settings
 *********
 The following settings are available for the block:
 
-.. image:: events-participant-settings.png
+.. image:: events-participant-settings-new.png
 
 + **Event Participant List**: Here you can add a title for the block. If variations exists, you add a title in the default language. All other languages are handled by variations. If no variations exists, you can add a title in several languages here.
 + **Paging**: Select paging for the lists here; No paging, Classic or Scroll.
