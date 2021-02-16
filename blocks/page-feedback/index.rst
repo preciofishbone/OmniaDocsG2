@@ -1,15 +1,13 @@
 Page Feedback
 =====================
 
-This block makes it possible for users to send feedback about the page to the owner of the page. Here's an example:
-
-.. image:: page-feedback-plain-new2.png
+This block makes it possible for users to send feedback about the page to the owner of the page. 
 
 The user just types the message in the field and clicks "Post".
 
 .. image:: page-feedback-plain-new2x.png
 
-If Rich Text has been enabled, some formatting options are available, here's an example:
+If Rich Text has been enabled for the block (see below), some formatting options are available, here's an example:
 
 .. image:: page-feedback-rich-new2.png
 
