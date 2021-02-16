@@ -67,7 +67,7 @@ Here's an example for Pages to keep track of the number of published pages, the 
 
 .. image:: dashboard-settings-metrics-row3-new.png
 
- and with 1 Metric per row:
+and with 1 Metric per row:
 
 .. image:: dashboard-settings-metrics-row1-new.png
 
