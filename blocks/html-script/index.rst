@@ -39,7 +39,7 @@ Note that if any default content is added, and if edting is not allowed as set o
 
 To add HTML code in Write mode, if it is allowed, click "ADD CONTENT". 
 
-.. image:: html-add-content.png
+.. image:: html-add-content-new.png
 
 When you do the following is shown:
 
