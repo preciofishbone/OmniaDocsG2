@@ -62,7 +62,7 @@ Note that you can type the script directly in the field, if you know how. You ca
 
 You can also add additional parameters, by using the method explained above or typing directly in the field. Here's an example when the script collects users from two departments:
 
-.. image:: query-more-new2.png
+.. image:: query-more-new.png
 
 Display
 -----------
