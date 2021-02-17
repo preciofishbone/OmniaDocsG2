@@ -21,7 +21,7 @@ General
 ---------
 You can add a Title for the block here:
 
-.. image:: teamwork-general.png
+.. image:: teamwork-general-border.png
 
 If variations exists, only one title can be set, as in the above image. In that case, titles in other languages are set in the variations. If no variation exists for the page, you can set the title in the languages active in the tenant.
 
