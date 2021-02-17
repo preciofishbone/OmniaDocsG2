@@ -25,9 +25,9 @@ Here you select the properties to display.
 
 .. image:: page-properties-block-display.png
 
-+ **Select Properties**: Use the list the select properties for the information you want to display. Click the plus to add the property, and make sure it's selected.
++ **Select Properties**: Use the list the select properties for the information you want to display. Click the plus to add the property.
 
-For each propertie you add, you can set some style options. Click here to set them:
+For each property you add, you can set some style options. Click here to set them:
 
 .. image:: page-properties-block-display-style.png
 
@@ -52,7 +52,7 @@ Use the Style tab for these settings:
 + **Padding** You can add some padding around the content of the block, or for each item, if needed.
 + **Label Position**: You can set the label position at the top or to the left.
 + **Horizontal**: If you want the properties to be shown side by side instead, which may make sense if you add the block to a broader part of the page, select this option.
-+ **Hide Separator**: When you select Horizontal, you can choose to use a searator line, or not.
++ **Hide Separator**: When you select Horizontal, you can choose to use a separator line, or not.
 
 Here's an example with the information shown horizontally, with a separator:
 
