@@ -16,21 +16,59 @@ Settings
 *************************
 The following settings are available:
 
-.. image:: peoplerollup-settings-new3.png
+.. image:: peoplerollup-settings-new4.png
 
 General
 ----------------
 Here you can add a Title to be displayed for the block:
 
-.. image:: peoplerollup-settings-general-new2.png
+.. image:: peoplerollup-settings-general-new3.png
 
 If variations exists for the page, it looks like in the image above and you set the title default language. Titles in other languages are set using the variations. If no varitions exists, you can add a title in any or all languages available in the tenant, in the block.	
+
+Query
+-----------
+Here you can work with the Query for what to display in the block.
+
+.. image:: peoplerollup-settings-query-new2.png
+
+Follow these steps:
+
+1. Select Query Type; "Profile Query", "Sharepoint Groups", "User Fields on Page" or "Activity Query".
+2. If you selected Activity Query, choose Activity period (also called Social Period in some other blocks). This sets how old the item can be to be displayed in the list. The default is "No limit", but you c an also select One Week, Two Weeks or One Month.
+3. Select property for the query.
+
+.. image:: query-property-1-new2.png
+
+4. Set additional query parameters. Exactly what needs to be done depends on the property chosen.
+
+Here's an example with parameters set for Department:
+
+.. image:: query-parameters-new2.png
+
+5. Type a parameter if neded (needed for Manual or Query Parameter).
+
+.. image:: query-type-parameter-new2.png
+
+6. Click "ADD" to add the query from your settings.
+
+.. image:: query-add-new2.png
+
+It can result in something like this:
+
+.. image:: query-added-new2.png
+
+Note that you can type the script directly in the field, if you know how. You can use all options in the Keyword Query Language (KQL). See this Microsoft page for reference: https://docs.microsoft.com/en-us/sharepoint/dev/general-development/keyword-query-language-kql-syntax-reference
+
+You can also add additional parameters, by using the method explained above or typing directly in the field. Here's an example when the script collects users from two departments:
+
+.. image:: query-more-new2.png
 
 Display
 -----------
 You can set the type of view to be used for the list here:
 
-.. image:: peoplerollup-settings-display-new.png
+.. image:: peoplerollup-settings-display-new2.png
 
 You can choose to display the list as a Card view or Roller view. In the image at the top of the page, Card view is used. 
 
@@ -62,46 +100,6 @@ The following settings are available for the views:
 Here's an example with a Card View displaying the Mail Icon (see top right if each card):
 
 .. image:: people-rollup-mail-icon.png
-
-Query
------------
-Here you can work with the Query for what to display in the block.
-
-.. image:: peoplerollup-settings-query-new.png
-
-Follow these steps:
-
-1. Select Query Type; "Profile Query", "Sharepoint Groups", "User Fields on Page" or "Activity Query".
-2. If you selected Activity Query, choose Activity period (also called Social Period in some other blocks). This sets how old the item can be to be displayed in the list. The default is "No limit", but you c an also select One Week, Two Weeks or One Month.
-3. Select property for the query.
-
-.. image:: query-property-1-new.png
-
-4. Set additional query parameters. Exactly what needs to be done depends on the property chosen.
-
-Here's an example with parameters set for Department:
-
-.. image:: query-parameters-new.png
-
-5. Type a parameter if neded (needed for Manual or Query Parameter).
-
-.. image:: query-type-parameter-new.png
-
-6. Click "ADD" to add the query from your settings.
-
-.. image:: query-add-new.png
-
-It can result in something like this:
-
-.. image:: query-added-new.png
-
-Note that you can type the script directly in the field, if you know how. You can use all options in the Keyword Query Language (KQL). See this Microsoft page for reference: https://docs.microsoft.com/en-us/sharepoint/dev/general-development/keyword-query-language-kql-syntax-reference
-
-You can also add additional parameters, by using the method explained above or typing directly in the field. Here's an example when the script collects users from two departments:
-
-.. image:: query-more-new.png
-
-7. If partial word search should be executed in the query, select that option. 
 
 Filter
 -------
@@ -145,7 +143,7 @@ Here's an example of a refiner present at the top. Users can choose to show coll
 
 .. image:: people-rollup-example-refiners-new.png
 
-Layout and Advanced
-**********************
-The tabs Layout and Advanced contain general settings, see: :doc:`General Block Settings </blocks/general-block-settings/index>`
+Layout and Write
+*********************
+The WRITE Tab is not used here. The LAYOUT tab contains general settings, see: :doc:`General Block Settings </blocks/general-block-settings/index>`
 

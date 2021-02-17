@@ -15,7 +15,7 @@ The only setting that can be done for the block is this:
 
 .. image:: page-variation-setting-new2.png
 
-+ **Hide if no variations exist for the page**: Select if the block should be hidden if not variations exist for the page, or if it should be alwyas shown. 
++ **Hide if no variations exist for the page**: Select if the block should be hidden if not variations exist for the page, or if it should always be shown. 
 
 If the block is part of a Page Type this setting can't be edited.
 
