@@ -32,5 +32,9 @@ The following settings are available:
 + **Show submit rating**: If it should be possible for users to submit rating in the block, select this option.
 + **Enter rate content description**: If you selected the option above, enter a text in this field for a message to users, for example "Please rate this page".
 
+Layout and Write
+*********************
+The WRITE Tab is not used here. The LAYOUT tab contains general settings, see: :doc:`General Block Settings </blocks/general-block-settings/index>`
+
 
 
