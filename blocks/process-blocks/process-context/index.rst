@@ -5,13 +5,13 @@ You use this block to make sure the Property Process is available on the Propert
 
 Just select "Process" for Page Property and your done.
 
-.. image:: process-context-block.png
+.. image:: process-context-block-new.png
 
 **Note!** On a page where you plan to add a Process Rollup, you can NOT use this block.
 
-Layout and Advanced
-********************
-The tabs Layout and Advanced are standard tabs, available for most blocks. For more information, see: :doc:`General Block Settings </blocks/general-block-settings/index>`
+Layout and Write
+*********************
+The WRITE Tab is not used here. The LAYOUT tab contains general settings, see: :doc:`General Block Settings </blocks/general-block-settings/index>`
 
 
 

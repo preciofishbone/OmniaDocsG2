@@ -5,8 +5,8 @@ Use this block to display the process content - the content added on the Content
 
 You can add a title in any or all available languages, and add som padding, if needed.
 
-.. image:: process-content-block.png
+.. image:: process-content-block-new.png
 
-Layout and Advanced
-********************
-The tabs Layout and Advanced are standard tabs, available for most blocks. For more information, see: :doc:`General Block Settings </blocks/general-block-settings/index>`
+Layout and Write
+*********************
+The WRITE Tab is not used here. The LAYOUT tab contains general settings, see: :doc:`General Block Settings </blocks/general-block-settings/index>`

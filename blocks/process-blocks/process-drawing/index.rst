@@ -7,7 +7,7 @@ Settings
 ***********
 The block has the following settings:
 
-.. image:: process-drawing-block-new.png
+.. image:: process-drawing-block-new2.png
 
 + **Title**: You can add a title in any or all the available languages, and add some padding, if nedded.
 + **Padding**: Add some padding between the block frame and the content, if needed.
@@ -21,7 +21,7 @@ The user can close the drawing for a sub process by clicking the x
 
 .. image:: stack-process-close.png
 
-Layout and Advanced
-********************
-The tabs Layout and Advanced are standard tabs, available for most blocks. For more information, see: :doc:`General Block Settings </blocks/general-block-settings/index>`
+Layout and Write
+*********************
+The WRITE TAB is not used here. The LAYOUT tab contains general settings, see: :doc:`General Block Settings </blocks/general-block-settings/index>`
 
