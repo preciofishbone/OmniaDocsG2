@@ -1,7 +1,7 @@
 Process Pages block
 ========================
 
-**(A description will be added soon).**
+You use this block to display the pages relevant to the process, that was added on the Pages tab by the process author.
 
 You can add a title for the block and add som padding, if needed.
 
