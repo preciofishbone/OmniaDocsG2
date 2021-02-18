@@ -1,13 +1,15 @@
 Reusable Content
 ===================
 
+A prerequisite is that "Enable reuse content" must be turned on in the Publishing App settings for Reusable Content to be available, see: :doc:`Publishing App Settings </pages/page-settings/index>`
+
 Content from one Omnia page can be reused on another Omnia page. It's true for variations as well. To be more precise, it is content from defined properties that are being reused, so applicable blocks must be present on the target page, for information to show up. 
 
 A property that are not shown for users can be reused as well, for example Review date.
 
-Note that blocks with reused content are locked on the target page. They can not be edited there. Reused content can only be edited on the source page. Therefore you may not want to reuse for example Title, as you most likely will want a different title on the target page.
+Note that blocks with reused content are locked on the target page. They can not be edited there. Reused content can only be edited on the source page. 
 
-Also note that "Enable reuse content" must be turned on in the Publishing App settings for this to be available, see: :doc:`Publishing App Settings </pages/page-settings/index>`
+Regarding permissions, the editor working with the reusable content on the source page must have editing permissions on the target pages as well, for publishing to the target pages to work.
 
 Reuse Content
 *******************
@@ -44,6 +46,10 @@ Also note that blocks reusing content are indicated this way:
 If you are reusing properties used for settings, that is indicated as well, for example:
 
 .. image:: reuse-content-on-page-settings-properties.png
+
+Editing the source page
+*************************
+When the source page is edited and then published, a check is executed. The target pages are listed and it's noted if publication to the tgarget pages worked. 
 
 Automatic Page Creation
 ****************************

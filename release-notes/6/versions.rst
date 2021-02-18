@@ -46,9 +46,9 @@ Web Content Management
 ***********************
 - Page types are now available on tenant level, see general release notes.
 - Default content can now be specified, see general release notes. (#124775).
-- Layout Templates are not available, this allows you to start a page type or root page collection from a predefined layout instead of empty.
+- Layout Templates are now available, this allows you to start a page type or root page collection from a predefined layout instead of empty.
 - Edit mode on mobile has gotten several upgrades.
-- A new media picker is now available, see general release notes (#114223, #114919, #126458).
+- The media picker has been improved, see general release notes (#114223, #114919, #126458).
 - Open in dialog on People Rollup no longer affects the email link (#123092).
 - People rollup now correctly displays people fields (#123705).
 - Fixed an issue with deleting variations (#118456).
