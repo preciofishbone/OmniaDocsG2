@@ -11,7 +11,7 @@ The block has the following settings:
 
 + **Title**: You can add a title in any or all the available languages, and add some padding, if nedded.
 + **Padding**: Add some padding between the block frame and the content, if needed.
-+ **Stack Process**: Normally when you select a sub process, the drawing for main process is closed, the drawing for the main process is not shown. Select this option if you want the main process's drawing, and all the drawings for the selected steps, to be shown at the same time. 
++ **Stack Process**: Normally when you select a sub process, the drawing for main process is closed. Select this option if you want the main process's drawing, and all the drawings for the selected steps, to be shown at the same time. 
 
 Here's an example when Stack Process is selected. Develop Products is selected in the main process and both that drawing and the drawing for Develop product are shown.
 
