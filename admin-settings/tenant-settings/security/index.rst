@@ -16,7 +16,7 @@ A Tenant Administrator can also edit all the settings for all Business Profiles 
 
 To delete an administrator here, just click the x. To add an administrator, add the name the same way as in other name fields.
 
-External users that has been invited in the Asher AD can be added here as well. Users invited this way can log in with their own Microsoft 365 account.
+External users that has been invited in the Azure AD can be added here as well. Users invited this way can log in with their own Microsoft 365 account.
 
 **Note!** There must always be at least one Tenant Administrator. If there is only one, that administrator can not be removed until an additional one has been added.
 
