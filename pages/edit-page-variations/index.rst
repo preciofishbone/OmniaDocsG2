@@ -1,7 +1,7 @@
 Edit Page Variations
 ========================
 
-If page variations is used editors with permissions to edit a certain page can always edit the page varitions as well.
+If page variations is used editors with permissions to edit a certain page can always edit the page varitions as well. Besides that Varation Authors can be appointed, see below.
 
 When a page variation exists for a page, omnia keeps track of changes on the main page. When the main page has been edited, compare icons are displayed to notify the author about where changes has been made, when a varation is being edited.
 
@@ -45,7 +45,7 @@ If there is a lot of text, a scroll bar is available. Sometimes it can be handy 
 
 When you're finished, just close the compare window. You then save, or discard, changes the normal way.
 
-Varition author
+Variation author
 *****************
 A Variation author can be added for each variation. That is done in the publishing app settings, see: :doc:`Publishing App Settings </pages/page-settings/index>`
 
@@ -54,6 +54,10 @@ Note that there can be only one variation author for each variation, regardless 
 The variation author is notified through e-mail when a main page, with a variation of the variation authors type, is updated.
 
 The variation author needs the same permisions as the author of the main page, to be able to edit the variation for a page.
+
+Variations and Reusable Content
+*********************************
+Variations can be used as Reusable Content, the same way as other pages, see: :doc:`Reusable Content </pages/reusable-content/index>`
 
 Archive variations
 ********************

@@ -1,6 +1,10 @@
 Cookies Consent information
 ===============================
 
+Omnia only stores cookies needed for authentication, nothing else.
+
+Neither Omnia nor Microsoft 365 can run without these cookies.
+
 If you need to add Cookies Consent information, a tip is to use the Tutorial for this purpose. 
 
 You should set this Tutorial to be available at the start page and to start automatically.
