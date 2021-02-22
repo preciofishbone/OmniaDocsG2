@@ -1,7 +1,7 @@
 Edit Page Variations
 ========================
 
-If page variations is used editors with permissions to edit a certain page can always edit the page varitions as well. Besides that Varation Authors can be appointed, see below.
+If page variations is used editors with permissions to edit a certain page can always edit the page varitions as well. Besides that, Varation Authors can be appointed, see below.
 
 When a page variation exists for a page, omnia keeps track of changes on the main page. When the main page has been edited, compare icons are displayed to notify the author about where changes has been made, when a varation is being edited.
 
@@ -57,7 +57,7 @@ The variation author needs the same permisions as the author of the main page, t
 
 Variations and Reusable Content
 *********************************
-Variations can be used as Reusable Content, the same way as other pages, see: :doc:`Reusable Content </pages/reusable-content/index>`
+In Omnia v6, variations can be used as Reusable Content, the same way as other pages, see: :doc:`Reusable Content </pages/reusable-content/index>`
 
 Archive variations
 ********************
