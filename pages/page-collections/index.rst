@@ -7,7 +7,7 @@ A Page Collection contains, as the name imply, a number of pages.
 
 If the Feature “Default Page Collections and Page Types” has been activated, two Page Collections has been created; Start and News. If needed, additional Page Collections can be created within the Publishing App.
 
-For Page Collections setting, see this page: :doc:`Page Collection settings </pages/page-collections/page-collection-permissions/index>`
+For Page Collections permissions, see this page: :doc:`Page Collection permissions </pages/page-collections/page-collection-permissions/index>`
 
 Page Collection Settings
 *************************
