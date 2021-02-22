@@ -49,7 +49,11 @@ If you are reusing properties used for settings, that is indicated as well, for 
 
 Editing the source page
 *************************
-When the source page is edited and then published, a check is executed. The target pages are listed and it's noted if publication to the tgarget pages worked. 
+When the source page is edited and then published, a check is executed. Published target pages are listed and it's noted if publication to the tgarget pages worked. 
+
+Here's an example:
+
+.. image:: reuse-content-published.png
 
 Automatic Page Creation
 ****************************
