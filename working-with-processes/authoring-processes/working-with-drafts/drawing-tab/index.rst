@@ -17,15 +17,11 @@ Here you can set the following and you can edit these settings anytime.
 + **Width/Height**: Set the size of the work area in pixels here.
 + **GridX/GridY**: The work area has a grid that shapes and clickable areas snap to. You set the size of a square in the grid here.
 + **Show gridlines**: Select this option if you want the grid lines to be visible. 
-+ **Highlight shapes**: Select this option to display an outline around the shapes. This can be useful if, for example, the shapes color is similar to the background image.
++ **Highlight shapes**: Select this option to display an outline around the shapes. This can be useful if, for example, the shapes color is similar to the background image. Another example is when creating transparent, clickable areas, see below.
 
 Here's an example with grid lines visible:
 
 .. image:: pm-drawing-canvas-3new.png
-
-Here's an example with shapes outlined:
-
-.. image:: pm-drawing-canvas-4-new.png
 
 If the whole grid can't be displayed, icons for scrolling are shown, for example:
 
