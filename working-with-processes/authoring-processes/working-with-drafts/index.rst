@@ -34,7 +34,7 @@ Select section for more information:
    drawing-tab/index
    content-tab/index
    documents-tab/index
-   pages-tab(index)
+   pages-tab/index
    links-tab/index
    tasks-tab/index
    edit-properties/index
