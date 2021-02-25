@@ -224,7 +224,7 @@ To change the size of a clickable area, do the following:
 
 Note that you rotate the area using this handle:
 
-.. image:: clickable-7-new.png
+.. image:: clickable-7-new-frame.png
 
 To move a clickable area, just use drag and drop.
 
@@ -235,6 +235,6 @@ To edit settings for a clickable area, do the following:
 1. Click the area.
 2. Click the pen icon.
 
-.. image:: clickable-8-new.png
+.. image:: clickable-8-new-frame.png
 
 3. Change the settings and save.
