@@ -7,11 +7,12 @@ Canvas Settings
 ****************
 To open the canvas settings, click the cog wheel.
 
-.. image:: pm-drawing-canvas-1.png
+.. image:: pm-drawing-canvas-1-new.png
 
 Here you can set the following and you can edit these settings anytime.
 
-.. image:: pm-drawing-canvas-2.png
+.. image:: pm-drawing-canvas-2-new.png
+
 
 + **Width/Height**: Set the size of the work area in pixels here.
 + **GridX/GridY**: The work area has a grid that shapes and clickable areas snap to. You set the size of a square in the grid here.
