@@ -31,11 +31,20 @@ Here you can set the following:
 
 .. image:: teamwork-query-new2.png
 
-+ **Scope**: Select scope, for example All, Followed or Member of.
++ **Scope**: Select scope, for example All, Followed or Member of. (See more information about this below.)
 + **Only Current Business Profile**: If only Teamworks from the current business profile should be listed, select this option.
 + **Business Profile**: Another option is to select a specific Business Profile. If you do not select any Business Profile, all Teamworks in the tenant can be listed, that is not private.
 + **Site Template**: Here you can set on or more types of teamwork to be shown in the list. 
 + **Run Query On Load**: Decide if the query should be run on load, so the list is filled with teamworks, or not. If a list is very long it can be a good idea to add a search box, and to deselect this option. You add a search box under Filter UI, see below. 
+
+Regarding Scope, here's more detailed information:
+
++ All (public): All Teamwork App Instances where "Show in public listings" is checked. (Omnia Database)
++ Followed: All followed Teamwork App Instances. (Omnia Database)
++ Last Visited: All last visited Teamwork App Instances. (Omnia Database)
++ All (SharePoint Sites): All sites in SharePoint. (SharePoint Search)
++ Followed (SharePoint Sites): All followed sites in SP. (SharePoint Social API)
++ Member of (Office 365 Groups): Member of Office 365 Groups. (MS Graph)
 
 Display
 ----------
