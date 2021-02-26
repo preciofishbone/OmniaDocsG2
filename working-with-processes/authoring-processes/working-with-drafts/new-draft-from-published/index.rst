@@ -9,7 +9,7 @@ To create a new draft of a published process, do the following:
 2.	Click the dot menu for the process.
 3.	Select "Create Draft".
 
-.. image:: pm-published-create-draft.png
+.. image:: pm-published-create-draft-new.png
 
 The new draft is created and the "Drafts" tab is automatically activated. The work on the new draft is done exactly as the first time. That a process has been published before does not make any difference.
 
