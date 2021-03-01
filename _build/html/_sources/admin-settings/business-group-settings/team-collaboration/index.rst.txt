@@ -7,7 +7,7 @@ Using the list "Inactive" you can handle sites with pending delete.
 
 For Team Sites with "Approval" as Site Creation Mode, you use the "Pending Approval" list to approve or reject creation of a Team Site.
 
-.. image:: team-collaboration-new3.png
+.. image:: team-collaboration-new4.png
 
 Use the icons this way:
 
@@ -20,7 +20,7 @@ You can use the headings for App Administrator, Provisioning Template and Create
 
 You can also search the list.
 
-.. image:: team-collaboration-search.png
+.. image:: team-collaboration-search-new.png
 
 Create a Teamwork Site
 ***********************
@@ -28,19 +28,19 @@ To create a Teamwork Site from here, do the following:
 
 1. Click the plus.
 
-.. image:: team-collaboration-clickplus-new3.png
+.. image:: team-collaboration-clickplus-new4.png
 
 2. Select "Create New".
 
-.. image:: team-collaboration-select-new3.png
+.. image:: team-collaboration-select-new4.png
 
 3. Select Provisioning Template. See this page for more information: :doc:`Provisioning Templates </admin-settings/business-group-settings/provisioning-templates/index>`
 
-.. image:: team-collaboration-template-new2.png
+.. image:: team-collaboration-template-new3.png
 
-4. Set the following settings.
+4. Edit the settings.
 
-.. image:: team-collaboration-settings-1new2.png
+.. image:: team-collaboration-settings-1new3.png
 
 Available options depend on the template chosen. Here's some common ones:
 
@@ -54,14 +54,14 @@ Available options depend on the template chosen. Here's some common ones:
 5. When done, click "Next".
 6. Now, set the following:
 
-.. image:: team-collaboration-settings-2-new.png
+.. image:: team-collaboration-settings-2-new2.png
 
 + **App Administrator**: You are automatically added as the Administrator of the site. Add or remove Administrators as needed.
 
 7. Click "Next".
 8. Set Enterprise Properties if nedded.
 
-.. image:: team-collaboration-settings-3.png
+.. image:: team-collaboration-settings-4.png
 
 6. Click "CREATE" to create the Team Site.
 
@@ -71,7 +71,7 @@ Edit settings
 --------------
 When you click the pen for a teamwork, the following settings are available for editing:
 
-.. image:: team-collaboration-edit.png
+.. image:: team-collaboration-edit3.png
 
 See above for information about the options.
 
@@ -79,7 +79,7 @@ Features for the teamwork
 ***************************
 To activate, remove or upgrade features for a teamwork, you click the boxes icon. Something like the following is then shown (can vary depending on available functionality).
 
-.. image:: team-collaboration-features.png
+.. image:: team-collaboration-features-new.png
 
 What you can do is self explanatory, but be careful here and make sure you know exactly what will happen, especially if you plan to remove or upgrade a feature.
 
@@ -95,7 +95,7 @@ Do the following:
 
 The following is shown:
 
-.. image:: team-collaboration-attach-new.png
+.. image:: team-collaboration-attach-new2.png
 
 3. Paste the Url and click "Resolve".
 
@@ -105,13 +105,13 @@ When a site of the type Microsoft 365 Team Site, Sharepoint Team Site or Sharepo
 
 The connected Sharepoint site may be deleted for some reason, but when that happens the Omnia site may not. When that happens a link to the site is placed in this list, so an administrator can take actions.
 
-.. image:: teamwork-inactive.png
+.. image:: teamwork-inactive-new.png
 
 Pending Approval
 *****************
 When a user creates a Teamwork site where Approval is needed, an administrator uses this list to approve or reject creation of the site. Here's an example:
 
-.. image:: pending-approval-new2.png
+.. image:: pending-approval-new3.png
 
 Approval (or Rejection) is done this way:
 
@@ -119,13 +119,13 @@ Approval (or Rejection) is done this way:
 2. Check the name, settings and so on for the site.
 3. If everything is OK, click "Approve", or if changes are needed, click "Reject".
 
-.. image:: pending-approval-approve-new2.png
+.. image:: pending-approval-approve-new3.png
 
 If you approve the creation of the Teamwork site a message is sent to the person requesting the site, and the site is created.
 
 If you reject, the following is shown:
 
-.. image:: pending-approval-reject-new2.png
+.. image:: pending-approval-reject-new3.png
 
 4. Type a message stating what needs to be done for approval, and click "Save" to send the message.
 

@@ -139,6 +139,7 @@
 <li class="toctree-l1"><a class="reference internal" href="../../using-newsletters/index.html">Using Newsletters</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../user-options/index.html">User options</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../setup/index.html">Setup</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../cookies-consent-information/index.html">Cookies Consent information</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../release-notes/index.html">Release Notes</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../roadmap/index.html">In Development</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../guides/index.html">Guides</a></li>
@@ -210,26 +211,49 @@
             
   <div class="section" id="related-links">
 <h1>Related Links<a class="headerlink" href="#related-links" title="Permalink to this headline">¶</a></h1>
-<p>Use this block to add links to related pages or documents in the tenant, or use a Custom link to link to any web page. You can also add headings. Links and headings can be added using Write mode.</p>
+<p>Use this block to add links to related pages or documents in the tenant, or use a Custom link to link to any web page. You can also add headings.</p>
+<p>It is possoble to add default content to this block and you can set if it should be possible to edit the default content or not.</p>
+<p>If no default content is added, or if editing the default content is allowed, links and headings can be added or edited using Write mode. If default content is added and then locked, nothing can be added to the block.</p>
 <p>Here’s an example of how users will see related links:</p>
 <img alt="../../_images/related-links-example-new.png" src="../../_images/related-links-example-new.png" />
-<div class="section" id="settings">
-<h2>Settings<a class="headerlink" href="#settings" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="block-settings">
+<h2>Block Settings<a class="headerlink" href="#block-settings" title="Permalink to this headline">¶</a></h2>
 <p>The following settings are available for the block:</p>
-<img alt="../../_images/related-links-settings-new.png" src="../../_images/related-links-settings-new.png" />
+<img alt="../../_images/related-links-settings-new2.png" src="../../_images/related-links-settings-new2.png" />
+<div class="section" id="settings">
+<h3>Settings<a class="headerlink" href="#settings" title="Permalink to this headline">¶</a></h3>
+<p>The following settings are availble on the SETTINGS tab:</p>
 <ul class="simple">
-<li><strong>Title</strong>: If a title should be shown for the block, add it in this field. If no variation exists for the page, it looks like in the image above and you can set the title in the languages active in the tenant. If variations exists, only one title can be set. In that case, titles in other languages are set in the variations.</li>
-<li><strong>Property to store data</strong>: Select property from the list. When one block on the page has data connected to a property, that data can be reused in all blocks that uses the same property. Page scoped. Not mandatory.</li>
+<li><strong>Title</strong>: If a title should be shown for the block, add it in this field. If variations exists, only one title can be set, as is this image. In that case, titles in other languages are set in the variations. If no variations exist for the page, you can set the title in the languages active in the tenant.</li>
+<li><strong>Open in Office Web Apps</strong>: When it’s a document link; if you want the links to open in Office Web Apps (meaning Microsoft 365), instead fo locally installed applications, select this option.</li>
+<li><strong>ADD CONTENT</strong>: Click here to add deafault content to the block. Also see below.</li>
 <li><strong>Padding</strong>: Add some padding between the block edges and the links list, if needed.</li>
 </ul>
-<div class="section" id="layout-and-advanced">
-<h3>Layout and Advanced<a class="headerlink" href="#layout-and-advanced" title="Permalink to this headline">¶</a></h3>
-<p>The tabs Layout and Advanced contain general settings, see: <a class="reference internal" href="../general-block-settings/index.html"><span class="doc">General Block Settings</span></a></p>
+</div>
+<div class="section" id="add-default-content">
+<h3>Add default content<a class="headerlink" href="#add-default-content" title="Permalink to this headline">¶</a></h3>
+<p>When you click ADD CONTENT the the following is shown:</p>
+<img alt="../../_images/related-links-block-add.png" src="../../_images/related-links-block-add.png" />
+<p>You work with links and headings the same way as described below.</p>
+<p>You can use the WRITE tab to set if editors should be able to edit the default content or not, see below.</p>
+</div>
+<div class="section" id="layout">
+<h3>Layout<a class="headerlink" href="#layout" title="Permalink to this headline">¶</a></h3>
+<p>The LAYOUT tab contains general settings, see: <a class="reference internal" href="../general-block-settings/index.html"><span class="doc">General Block Settings</span></a></p>
+</div>
+<div class="section" id="write">
+<h3>Write<a class="headerlink" href="#write" title="Permalink to this headline">¶</a></h3>
+<p>Using the WRITE tab you can set the following:</p>
+<img alt="../../_images/links-block-write-tab.png" src="../../_images/links-block-write-tab.png" />
+<ul class="simple">
+<li><strong>Enable overwrite in write mode</strong>: If it should be possible for editors to edit the default content in the block, this option should be on. If not, click to set it to off.</li>
+<li><strong>Property to store data</strong>: Select property from the list. When one block on the page has data connected to a property, that data can be reused in all blocks that uses the same property. Page scoped. Not mandatory.</li>
+</ul>
 </div>
 </div>
 <div class="section" id="adding-links-and-headers">
 <h2>Adding links and headers<a class="headerlink" href="#adding-links-and-headers" title="Permalink to this headline">¶</a></h2>
-<p>Any editor can add and edit links and headers in the block, using Write mode.</p>
+<p>Depending on settings (see above) it can be allowed to edit links and headers, or not. If it is allowed, any editor can add and edit links and headers in the block, using Write mode.</p>
 <img alt="../../_images/related-links-writemode.png" src="../../_images/related-links-writemode.png" />
 <div class="section" id="adding-a-link">
 <h3>Adding a link<a class="headerlink" href="#adding-a-link" title="Permalink to this headline">¶</a></h3>
@@ -238,7 +262,7 @@
 <div class="section" id="adding-a-header">
 <h3>Adding a header<a class="headerlink" href="#adding-a-header" title="Permalink to this headline">¶</a></h3>
 <p>If you need to add a header to the link list, click “ADD HEADER”, type the header and click “ADD”.</p>
-<img alt="../../_images/add-link-header.png" src="../../_images/add-link-header.png" />
+<img alt="blocks\related-links\add-link-header-new.png" src="blocks\related-links\add-link-header-new.png" />
 </div>
 </div>
 <div class="section" id="arranging-the-list">
@@ -284,7 +308,7 @@
   <div role="contentinfo">
     <p>
         &copy; Copyright 2021, Precio Fishbone.
-      Last updated on Jan 08, 2021.
+      Last updated on Mar 01, 2021.
 
     </p>
   </div>

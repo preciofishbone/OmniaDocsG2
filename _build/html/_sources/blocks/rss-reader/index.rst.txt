@@ -15,7 +15,7 @@ The following settings can be used:
 
 Start by selecting "Display" and the rest of the settings will be shown. 
 
-.. image:: rss-reader-settings-new.png
+.. image:: rss-reader-settings-new2.png
 
 The following settings are available:
 
@@ -32,7 +32,7 @@ Here's an example of an RSS list with Classic Paging:
 
 .. image:: classic-paging.png
 
-Layout and Advanced
-**********************
-The tabs Layout and Advanced contain general settings, see: :doc:`General Block Settings </blocks/general-block-settings/index>`
+Layout and Write
+*********************
+The WRITE Tab is not used here. The LAYOUT tab contains general settings, see: :doc:`General Block Settings </blocks/general-block-settings/index>`
 

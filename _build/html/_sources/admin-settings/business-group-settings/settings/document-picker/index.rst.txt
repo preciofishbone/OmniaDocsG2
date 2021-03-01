@@ -1,7 +1,7 @@
 Document Picker settings
 =============================
 
-Here you set up categories for the Document Picker. Each category is then available as a tab in the Documewnt Picker. 
+Here you set up categories for the Document Picker. Each category is then available as a tab in the Document Picker. 
 
 Here's an example. These categories:
 

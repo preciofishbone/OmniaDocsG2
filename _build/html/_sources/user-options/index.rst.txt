@@ -8,6 +8,7 @@ In this section you will find an overview of the Omnia user options that are not
    :titlesonly:
 
    create-news/index
+   current-user-language/index
    my-links/index
    my-sites/index
    notification-panel/index

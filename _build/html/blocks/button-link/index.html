@@ -42,7 +42,7 @@
     <link rel="top" title="Omnia  documentation" href="../../index.html"/>
         <link rel="up" title="Blocks" href="../index.html"/>
         <link rel="next" title="Announcements" href="../announcements/index.html"/>
-        <link rel="prev" title="Event Participant Counter block" href="../blocks-event-management/event-participant-counter/index.html"/> 
+        <link rel="prev" title="Event Participant Counter" href="../blocks-event-management/event-participant-counter/index.html"/> 
 
   
   <script src="../../_static/js/modernizr.min.js"></script>
@@ -139,6 +139,7 @@
 <li class="toctree-l1"><a class="reference internal" href="../../using-newsletters/index.html">Using Newsletters</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../user-options/index.html">User options</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../setup/index.html">Setup</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../cookies-consent-information/index.html">Cookies Consent information</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../release-notes/index.html">Release Notes</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../roadmap/index.html">In Development</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../guides/index.html">Guides</a></li>
@@ -210,37 +211,31 @@
             
   <div class="section" id="action-button">
 <h1>Action Button<a class="headerlink" href="#action-button" title="Permalink to this headline">¶</a></h1>
-<p>Use this block to add one or more buttons on a page for clickable links or other actions; Create Page buttons, to show My subscriptions or to subscribe/unsubscribe. This block is also used when using Event Management.</p>
+<p>Use this block to add one or more buttons on a page for clickable links or other actions; Create Page buttons, to show My subscriptions, to subscribe/unsubscribe or to send feedback for a process. This block is also used when using Event Management.</p>
 <p>You can add one more buttons in each Action Button block. (This option was formerly called Button Link).</p>
 <div class="section" id="settings">
 <h2>Settings<a class="headerlink" href="#settings" title="Permalink to this headline">¶</a></h2>
-<p>Any existing buttons in this block are listed at the top. If no previous button exists, a “New Button” is added automatically.</p>
-<img alt="../../_images/button-links-new3.png" src="../../_images/button-links-new3.png" />
-<p>To edit a button, click the pen (if just the first, automatic button is present, you don’t have to do that, then the settings are shown automatically). To delete a button, click the dustbin. If just one button is available in the block, no dustbin is available (if you don’t want a button here, delete the block.)</p>
-<img alt="../../_images/button-link-settings-edit-delete-new3.png" src="../../_images/button-link-settings-edit-delete-new3.png" />
-<p>When editing a button, the same settings as when you create a new button is available, see below.</p>
-<p>Note that you can see a preview of the button/buttons in the block as you’re working on it (but the buttons are not saved and shown for others until you publish the page).</p>
-<p>The tabs Layout and Advanced contain general settings, see: <a class="reference internal" href="../general-block-settings/index.html"><span class="doc">General Block Settings</span></a></p>
+<p>The following settings are available:</p>
+<img alt="../../_images/button-links-new4.png" src="../../_images/button-links-new4.png" />
 </div>
 <div class="section" id="add-an-action-button">
 <h2>Add an Action Button<a class="headerlink" href="#add-an-action-button" title="Permalink to this headline">¶</a></h2>
+<p>Note that you can see a preview of the button/buttons in the block as you’re working on it.</p>
 <p>To add an Action Button in this block, do the following:</p>
 <ol class="arabic simple">
 <li>Click “+ ADD BUTTON”.</li>
+<li>Use the following settings:</li>
 </ol>
-<img alt="../../_images/button-link-settings-add-button-new3.png" src="../../_images/button-link-settings-add-button-new3.png" />
-<ol class="arabic simple" start="2">
-<li>Click the pen for the new button and use the following settings:</li>
-</ol>
-<img alt="../../_images/button-link-settings-new.png" src="../../_images/button-link-settings-new.png" />
+<img alt="../../_images/button-link-settings-new3.png" src="../../_images/button-link-settings-new3.png" />
 <p>(All options are not shown in the image above, but listed below).</p>
 <div class="section" id="general">
 <h3>General<a class="headerlink" href="#general" title="Permalink to this headline">¶</a></h3>
 <p>The following settings are available here:</p>
 <ul class="simple">
-<li><strong>Type</strong>: Select type of button here; Link, Create Page, My Subscriptions, Subscribe or Event Management.</li>
-<li><strong>Text</strong>: Add text to be shown on the button here. If variations exists for the page, you add text in the default language here. Other languages are handled by the variation. If no varations exists, you can add text in several languages here.</li>
+<li><strong>Type</strong>: Select type of button here; Link, Add as favourite, Process feedback, Event Management, Create Page, My Subscriptions or Subscribe.</li>
+<li><strong>Text</strong>: Add text to be shown on the button here. If variations exists for the page, you add text in the default language here. Other languages are handled by the variation. If no varations exists, you can add text in several languages here (as in the image).</li>
 <li><strong>Tool tip</strong>: Add the tool tip text for the button here. (Same apply for variations as above.)</li>
+<li><strong>Category</strong>: Available as “Add Favourite”. If the Favourite should be added to a specific Category, add the category here.</li>
 <li><strong>Unsubscribe Text</strong>: A “Subscribe” button changes the text automatically when a user has clicked the button. Unsubscribe is suggested but you can change the text to something else. (Same apply for variations as above.)</li>
 <li><strong>Subscription Scope</strong>: Available for Type Subscription. Select the scope here, meaning what the user actually subscribes to; the Page (=all changes to the page, even comments and best reply for Knowledge pages), Publishing App (=all new pages in the Publishing App, but not changes to existing pages) or Page Collection (=all new pages in the Page Collection, but not changes to existing pages).</li>
 <li><strong>Url</strong>: Type or paste the Url to go to when a user clicks the link. Available for Link type.</li>
@@ -251,6 +246,9 @@
 <li><strong>Reserve Text</strong>: (A description will be added soon.) Available for Event Management.</li>
 <li><strong>Apply Text</strong>: (A description will be added soon.) Available for Event Management.</li>
 </ul>
+<p>Regarding Process feedback:</p>
+<p>The feedback will be sent to the process owner and will be available in the team site where the process is located. Feedback can be accessed on the PUBLISHED tab using the menu option “Feedback”.</p>
+<p>Also note that the button must be placed in a Process Context to work.</p>
 <p>Regarding the options for Button Type (for Event Management):</p>
 <ul class="simple">
 <li>Sign Up: Used by the logged in user to register for an event.</li>
@@ -277,6 +275,21 @@
 </ul>
 </div>
 </div>
+<div class="section" id="layout">
+<h2>Layout<a class="headerlink" href="#layout" title="Permalink to this headline">¶</a></h2>
+<p>The LAYOUT tab contains general settings, see: <a class="reference internal" href="../general-block-settings/index.html"><span class="doc">General Block Settings</span></a></p>
+</div>
+<div class="section" id="write">
+<h2>Write<a class="headerlink" href="#write" title="Permalink to this headline">¶</a></h2>
+<p>On this tab you decide if settings for the block (the buttons) should available for editing in Write mode or not.</p>
+<img alt="../../_images/button-block-write.png" src="../../_images/button-block-write.png" />
+</div>
+<div class="section" id="edit-an-action-button">
+<h2>Edit an Action Button<a class="headerlink" href="#edit-an-action-button" title="Permalink to this headline">¶</a></h2>
+<p>To edit a button, click the pen. To delete a button, click the dustbin.</p>
+<img alt="../../_images/button-link-settings-edit-delete-new4.png" src="../../_images/button-link-settings-edit-delete-new4.png" />
+<p>When editing a button, the same settings as when you create a new button is available, see above.</p>
+</div>
 </div>
 
 
@@ -292,7 +305,7 @@
         <a href="../announcements/index.html" class="btn btn-neutral float-right" title="Announcements" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right"></span></a>
       
       
-        <a href="../blocks-event-management/event-participant-counter/index.html" class="btn btn-neutral" title="Event Participant Counter block" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>
+        <a href="../blocks-event-management/event-participant-counter/index.html" class="btn btn-neutral" title="Event Participant Counter" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>
       
     </div>
   
@@ -302,7 +315,7 @@
   <div role="contentinfo">
     <p>
         &copy; Copyright 2021, Precio Fishbone.
-      Last updated on Jan 08, 2021.
+      Last updated on Feb 17, 2021.
 
     </p>
   </div>

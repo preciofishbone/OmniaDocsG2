@@ -139,6 +139,7 @@
 <li class="toctree-l1"><a class="reference internal" href="../../using-newsletters/index.html">Using Newsletters</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../user-options/index.html">User options</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../setup/index.html">Setup</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../cookies-consent-information/index.html">Cookies Consent information</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../release-notes/index.html">Release Notes</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../roadmap/index.html">In Development</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../guides/index.html">Guides</a></li>
@@ -210,73 +211,28 @@
             
   <div class="section" id="document-rollup">
 <h1>Document Rollup<a class="headerlink" href="#document-rollup" title="Permalink to this headline">¶</a></h1>
-<p>Using The Document Rollup block you can show suitable documents in a list.</p>
-<div class="section" id="the-settings">
-<h2>The settings<a class="headerlink" href="#the-settings" title="Permalink to this headline">¶</a></h2>
+<p>Using The Document Rollup block you can show suitable documents in a list. For implementation examples, see the bottom of this page.</p>
+<div class="section" id="settings">
+<h2>Settings<a class="headerlink" href="#settings" title="Permalink to this headline">¶</a></h2>
 <p>The following settings are available:</p>
-<img alt="../../_images/document-rollup-settings-all-new.png" src="../../_images/document-rollup-settings-all-new.png" />
+<img alt="../../_images/document-rollup-settings-all-new2.png" src="../../_images/document-rollup-settings-all-new2.png" />
 <div class="section" id="general">
 <h3>General<a class="headerlink" href="#general" title="Permalink to this headline">¶</a></h3>
 <p>Here you can set the following:</p>
-<img alt="../../_images/document-rollup-settings-general-new3.png" src="../../_images/document-rollup-settings-general-new3.png" />
+<img alt="../../_images/document-rollup-settings-general-new4.png" src="../../_images/document-rollup-settings-general-new4.png" />
 <ul class="simple">
 <li><strong>Title</strong>: If a title should be shown for the block, add it in this field. If no variation exists for the page, it looks like in the image above and you can set the title in the languages active in the tenant. If variations exists, only one title can be set. In that case, titles in other languages are set in the variations.</li>
 <li><strong>Open in Client App</strong>: Documents are by default opened in the online app. If document should be opened in the client app instead, select this option.</li>
 </ul>
 </div>
-<div class="section" id="display">
-<h3>Display<a class="headerlink" href="#display" title="Permalink to this headline">¶</a></h3>
-<p>You can select “List View”, “Card” and “Group by site” here. Available settings differ depending on your choice.</p>
-<p>For <strong>List View</strong> you can set the following:</p>
-<img alt="../../_images/document-rollup-settings-display-new.png" src="../../_images/document-rollup-settings-display-new.png" />
-<ul class="simple">
-<li><strong>Add Column</strong>: Select additional columns to show in the list. Icon, Title, Link and Info icon are always shown.</li>
-<li><strong>Trim by Following Site</strong>: If this option is selected only documents from sites the logged in user follows are displayed in the list.</li>
-<li><strong>Sort By</strong>: Select the column the list should be sorted by.</li>
-<li><strong>Paging</strong>: Select paging for the list here. It can be “No paging”, “Classic” or “Scroll”.</li>
-<li><strong>Item Limit</strong>: Set the item limit to display in each “page” of the list.</li>
-<li><strong>Left Column Width</strong>: Set the left column width in pixels here.</li>
-<li><strong>Right Column Width</strong>: Set the right column width in pixels here.</li>
-<li><strong>Padding</strong>: Use this setting for padding around the contents in the block.</li>
-</ul>
-<p>For <strong>Card</strong> view the following settings are available:</p>
-<img alt="../../_images/document-rollup-settings-display-card-new.png" src="../../_images/document-rollup-settings-display-card-new.png" />
-<ul class="simple">
-<li><strong>Title</strong>: Select what to show as the title: “Title”, “Document Type”, “Document Owner”, “Published”, Modified or Document Title..</li>
-<li><strong>Modified At</strong>: Here you select the information (field) to show for a document.</li>
-<li><strong>Modified By</strong>: You select information (field) to show for who the document was modified by.</li>
-<li><strong>Trim by Following Site</strong>: If this option is selected only documents from sites the logged in user follows are displayed in the list.</li>
-<li><strong>Sort By</strong>: Select the column the list should be sorted by.</li>
-<li><strong>Paging</strong>: Select paging for the list here. It can be “No paging”, “Classic” or “Scroll”.</li>
-<li><strong>Item Limit</strong>: Set the item limit to display in each “page” of the list.</li>
-<li><strong>Left Column Width</strong>: Set the left column width in pixels here.</li>
-<li><strong>Right Column Width</strong>: Set the right column width in pixels here.</li>
-<li><strong>Padding</strong>: Use this setting for padding around the contents in the block.</li>
-</ul>
-<p>For <strong>Group By Site</strong> these settings are available:</p>
-<img alt="../../_images/document-rollup-settings-display-group-new.png" src="../../_images/document-rollup-settings-display-group-new.png" />
-<ul class="simple">
-<li><strong>Title</strong>: Select what to show as the title: “Title”, “Document Type”, “Document Owner”, “Published”, Modified or Document Title..</li>
-<li><strong>Modified At</strong>: Here you select the information (field) to show for a document.</li>
-<li><strong>Modified By</strong>: You select information (field) to show for who the document was modified by.</li>
-<li><strong>Always Show Letter Avatar</strong>: If letter avatars always should be shown, select this option.</li>
-<li><strong>Trim by Following Site</strong>: If this option is selected only documents from sites the logged in user follows are displayed in the list.</li>
-<li><strong>Sort By</strong>: Select the column the list should be sorted by.</li>
-<li><strong>Item Limit</strong>: Set the item limit to display in each “page” of the list.</li>
-<li><strong>Left Column Width</strong>: Set the left column width in pixels here.</li>
-<li><strong>Right Column Width</strong>: Set the right column width in pixels here.</li>
-<li><strong>Padding</strong>: Use this setting for padding around the contents in the block.</li>
-</ul>
-</div>
 <div class="section" id="query">
 <h3>Query<a class="headerlink" href="#query" title="Permalink to this headline">¶</a></h3>
 <p>You can either choose to pick documents to be displayd in the block, or use the Query Builder.</p>
-<img alt="../../_images/document-rollup-query-new.png" src="../../_images/document-rollup-query-new.png" />
+<img alt="../../_images/document-rollup-query-new2.png" src="../../_images/document-rollup-query-new2.png" />
 <div class="section" id="pick-documents">
 <h4>Pick Documents<a class="headerlink" href="#pick-documents" title="Permalink to this headline">¶</a></h4>
 <p>To pick documents, click “ADD DOCUMENT”.</p>
-<img alt="../../_images/document-rollup-pick-new.png" src="../../_images/document-rollup-pick-new.png" />
-<p>(See below for a description of “Enable partial word search”.)</p>
+<img alt="../../_images/document-rollup-pick-new2.png" src="../../_images/document-rollup-pick-new2.png" />
 <p>The Document Picker opens and you use it to select documents.</p>
 <img alt="../../_images/document-rollup-document-picker-new.png" src="../../_images/document-rollup-document-picker-new.png" />
 <p>Available categories (shown as tabs in the picker) are set up in Omnia Admin, see: <a class="reference internal" href="../../admin-settings/business-group-settings/settings/document-picker/index.html"><span class="doc">Document Picker settings</span></a></p>
@@ -285,11 +241,10 @@
 <div class="section" id="query-builder">
 <h4>Query Builder<a class="headerlink" href="#query-builder" title="Permalink to this headline">¶</a></h4>
 <p>Here you add queries, which is the detailed “settings” for what to display in the list:</p>
-<img alt="../../_images/document-rollup-settings-query-new3.png" src="../../_images/document-rollup-settings-query-new3.png" />
 <ol class="arabic simple">
 <li>Set scope for the document rollup:</li>
 </ol>
-<img alt="../../_images/document-rollup-settings-query-scope-new.png" src="../../_images/document-rollup-settings-query-scope-new.png" />
+<img alt="../../_images/document-rollup-settings-query-scope-new2.png" src="../../_images/document-rollup-settings-query-scope-new2.png" />
 <ul class="simple">
 <li><strong>All Documents</strong> - always available, meaning ALL documents the logged in user has permissions to read. Use the query settings below to limit what will be shown in the rollup. The rollup can then be set to display just “normal” documents or both normal and controlled documents. To rollup documents from one or more Team Sites, use this option.</li>
 <li><strong>Published Documents</strong>  - available only if Controlled Documents is active. Meaning ALL published CONTROLLED DOCUMENTS the logged in user has permissions to read. Use the query settings below to limit what will be shown in the rollup.</li>
@@ -306,33 +261,78 @@
 <ul class="simple">
 <li><strong>Day Limit</strong>: Use this option to limit the display of older documents. You first select property (for example Modified) and then select how old the documents can be to be displayed in the list.</li>
 <li><strong>Last modified by current user</strong>: Use this option to limit the rollup to documents the logged in user has edited, for example for a “My Latest Documents” implementation.</li>
-<li><strong>Enable partial word search</strong>: Normally the query for documents searches for whole words (document titles, document owner names etc). With this enabled, the search searches in parts of words as well.</li>
 </ul>
 </div>
+</div>
+<div class="section" id="display">
+<h3>Display<a class="headerlink" href="#display" title="Permalink to this headline">¶</a></h3>
+<p>You can select “List View”, “Card” and “Group by site” here. Available settings differ depending on your choice.</p>
+<p>For <strong>List View</strong> you can set the following:</p>
+<img alt="../../_images/document-rollup-settings-display-new3.png" src="../../_images/document-rollup-settings-display-new3.png" />
+<ul class="simple">
+<li><strong>Add Column</strong>: Select additional columns to show in the list. Icon, Title, Link and Info icon are always shown.</li>
+<li><strong>Trim by Following Site</strong>: If this option is selected only documents from sites the logged in user follows are displayed in the list.</li>
+<li><strong>Sort By</strong>: Select the column the list should be sorted by.</li>
+<li><strong>Paging</strong>: Select paging for the list here. It can be “No paging”, “Classic” or “Scroll”.</li>
+<li><strong>Item Limit</strong>: Set the item limit to display in each “page” of the list.</li>
+<li><strong>Padding</strong>: Use this setting for padding around the contents in the block.</li>
+</ul>
+<p>If you select “Adjust Columns” - displayed when you have selected columns - you can set the width for the columns, if needed:</p>
+<img alt="../../_images/document-rollup-settings-display-width.png" src="../../_images/document-rollup-settings-display-width.png" />
+<p>For <strong>Card</strong> view the following settings are available:</p>
+<img alt="../../_images/document-rollup-settings-display-card-new2.png" src="../../_images/document-rollup-settings-display-card-new2.png" />
+<ul class="simple">
+<li><strong>Title</strong>: Select what to show as the title: “Title”, “Document Type”, “Document Owner”, “Published”, Modified or Document Title..</li>
+<li><strong>Modified At</strong>: Here you select the information (field) to show for a document.</li>
+<li><strong>Modified By</strong>: You select information (field) to show for who the document was modified by.</li>
+<li><strong>Trim by Following Site</strong>: If this option is selected only documents from sites the logged in user follows are displayed in the list.</li>
+<li><strong>Sort By</strong>: Select the column the list should be sorted by.</li>
+<li><strong>Paging</strong>: Select paging for the list here. It can be “No paging”, “Classic” or “Scroll”.</li>
+<li><strong>Item Limit</strong>: Set the item limit to display in each “page” of the list.</li>
+<li><strong>Padding</strong>: Use this setting for padding around the contents in the block.</li>
+</ul>
+<p>For <strong>Group By Site</strong> these settings are available:</p>
+<img alt="../../_images/document-rollup-settings-display-group-new2.png" src="../../_images/document-rollup-settings-display-group-new2.png" />
+<ul class="simple">
+<li><strong>Title</strong>: Select what to show as the title: “Title”, “Document Type”, “Document Owner”, “Published”, Modified or Document Title..</li>
+<li><strong>Modified At</strong>: Here you select the information (field) to show for a document.</li>
+<li><strong>Modified By</strong>: You select information (field) to show for who the document was modified by.</li>
+<li><strong>Always Show Letter Avatar</strong>: If letter avatars always should be shown, select this option.</li>
+<li><strong>Trim by Following Site</strong>: If this option is selected only documents from sites the logged in user follows are displayed in the list.</li>
+<li><strong>Sort By</strong>: Select the column the list should be sorted by.</li>
+<li><strong>Item Limit</strong>: Set the item limit to display in each “page” of the list.</li>
+<li><strong>Padding</strong>: Use this setting for padding around the contents in the block.</li>
+</ul>
 </div>
 <div class="section" id="filter">
 <h3>Filter<a class="headerlink" href="#filter" title="Permalink to this headline">¶</a></h3>
 <p>Here you can add filters to show for the list, or add a search box.</p>
-<img alt="../../_images/document-rollup-filter.png" src="../../_images/document-rollup-filter.png" />
+<img alt="../../_images/document-rollup-filter-new.png" src="../../_images/document-rollup-filter-new.png" />
 <p>What you can do here is described on this page: <a class="reference internal" href="../general-block-settings/filters/index.html"><span class="doc">Filter UI</span></a></p>
 </div>
 <div class="section" id="refiner">
 <h3>Refiner<a class="headerlink" href="#refiner" title="Permalink to this headline">¶</a></h3>
-<p>Here you select refiners to show for the list:</p>
-<img alt="../../_images/document-rollup-settings-refiners.png" src="../../_images/document-rollup-settings-refiners.png" />
+<p>Here you select refiners users can use to refine the list:</p>
+<img alt="../../_images/document-rollup-settings-refiners-new.png" src="../../_images/document-rollup-settings-refiners-new.png" />
 <ul class="simple">
 <li><strong>Position</strong>: Set position for the refiners here; “Top”, “Left” or “Right”.</li>
 <li><strong>Add refiner</strong>: Click this option to add a a property to use as a refiner. You can add as many properties as is applicable. For each refiner added you can set sort order; “Alphabetical” or “Count”. You can also set a limit.</li>
 </ul>
+<p>Here’s an example:</p>
+<img alt="../../_images/document-rollup-settings-refiners-example.png" src="../../_images/document-rollup-settings-refiners-example.png" />
+<p>Click “Adjust Refiners” to edit the order.</p>
+<p>Using STYLE you can set Elevation, Background and Border Radius:</p>
+<img alt="../../_images/document-rollup-settings-refiners-style.png" src="../../_images/document-rollup-settings-refiners-style.png" />
 </div>
 </div>
-<div class="section" id="layout-and-advanced">
-<h2>Layout and Advanced<a class="headerlink" href="#layout-and-advanced" title="Permalink to this headline">¶</a></h2>
-<p>The tabs Layout and Advanced contain general settings, see: <a class="reference internal" href="../general-block-settings/index.html"><span class="doc">General Block Settings</span></a></p>
+<div class="section" id="layout-and-write">
+<h2>Layout and Write<a class="headerlink" href="#layout-and-write" title="Permalink to this headline">¶</a></h2>
+<p>The WRITE Tab is not used here. The LAYOUT tab contains general settings, see: <a class="reference internal" href="../general-block-settings/index.html"><span class="doc">General Block Settings</span></a></p>
 </div>
 <div class="section" id="implementation-example">
 <h2>Implementation example<a class="headerlink" href="#implementation-example" title="Permalink to this headline">¶</a></h2>
 <p>Here’s an example of how it can look for users when a Document Rollup block is set up for Controlled Documents access:</p>
+<p>(Images will be updated to v6 soon.)</p>
 <img alt="../../_images/document-rollup-controlled-1new.png" src="../../_images/document-rollup-controlled-1new.png" />
 <p>The following settings are used (see above for more information about the fields and options):</p>
 <div class="section" id="id1">
@@ -392,7 +392,7 @@
   <div role="contentinfo">
     <p>
         &copy; Copyright 2021, Precio Fishbone.
-      Last updated on Jan 08, 2021.
+      Last updated on Feb 17, 2021.
 
     </p>
   </div>

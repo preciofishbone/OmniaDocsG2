@@ -330,6 +330,13 @@ Fixes
 - When not select to “Allow to bypass approval for Revisions” the user can now correctly see the approval option (#125473).
 - Fixed an issue that prevented the global image back to load if illegal characters where used in the filename. (#125447, #125643).
 
+5.1.33
+============================================
+(Omnia 5.1.24 / WCM 5.1.33 / Workplace 5.1.12)
+
+- Event management does not longer send unnecessary messages about edited events (#126042).
+- Everyone except external users again works correctly for ODM authoring sites.
+- Fixed an error causing OPM images not to be updated correctly (#126422).
 
 
 

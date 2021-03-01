@@ -21,14 +21,12 @@ Settings
 **********
 The following settings are available for the block:
 
-.. image:: activity-feed-settings.png
+.. image:: activity-feed-settings-new.png
 
 + **Title**: You can add a title to be shown in the block. 
 + **Scope**: Select where the activities listed should come from: My Subscritions, the Publishing App or the Page Collection. See more information about the scope below.
 + **Item Limit**: Set the number of items to be shown in the list before a See more icon is shown (see above for an example). Default=10.
 + **Padding**: Set some padding between the block border and the list, if needded.
-
-The tabs Layout and Advanced contains general settings for blocks. For more information see: :doc:`General Block settings </blocks/general-block-settings/index>`
 
 More on Scope
 ---------------
@@ -40,5 +38,7 @@ The Scope setting results in the following:
 
 Generally, a user will never be able to read a page the person does not have permissions to read. In some unusal events, an activity may be present in the feed even if the user does not have access to the page, but if that should happen, the page is simply not shown when the link is clicked. 
 
-
+Layout and Write
+******************
+The Write tab is nbot used here. The Layout tab contains general settings for blocks. For more information see: :doc:`General Block settings </blocks/general-block-settings/index>`
 

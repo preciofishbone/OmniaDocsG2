@@ -1,27 +1,25 @@
 General Block Settings
 ===========================================
 
-The Layout tab and the Advanced tab contains settings that are general for most blocks, but scoped for each block. 
+The Layout tab contains settings that are general for most blocks, but scoped for each block. 
 
 Adding filters to a block, if it's possible, works the same for most blocks. Find a general description of how to do that here: :doc:`Filter UI </blocks/general-block-settings/filters/index>`
 
-Layout
-*********
-The Layout tab contain the following settings. You can also set the minimum height for the block, using the slider.
+The Layout tab contain the following settings:
 
-.. image:: layout-tab-new2.png
+.. image:: layout-tab-new4.png
 
 Spacing
---------
-Use this setting to add some space from the block's border in to the content.
+*********
+Use this setting to add some space from the block's border in to the content and set the minimum height for the block.
 
-.. image:: general-spacing-new.png
+.. image:: general-spacing-new2.png
 
 Theming
---------
-If you would like to set a custom style for this block, click Custom Theme, and these settings becomes available:
+**********
+If you would like to set a custom style for this block, click "Custom Theme", and these settings becomes available:
 
-.. image:: general-style-new.png
+.. image:: general-style-new3.png
 
 + **Background, Foreground and Text Color**: Here you can set custom colors for this block.
 + **Show Advanced Settings**: Click here for some additional settings (see below).
@@ -40,12 +38,12 @@ When you have chosen a theme you can edit colors for background, foreground and 
 
 When you select Show Advanced Settings, the following settings becomes available:
 
-.. image:: block-theming-advanced.png
+.. image:: block-theming-advanced-new.png
 
-You can try out these settings for various effects. Changes ar shown in the block so you can see the effect.
+You can try out these settings for various effects. You can see a preview in the block.
 
 Header
---------
+*********
 For Header you can choose to use the global settings (set up in Omnia Admin) or use Custom Settings for this block. You can also select an icon, if one should be shown (If you don't salect an icon, Icon Type has no effect.)
 
 .. image:: layout-header-new2.png
@@ -66,10 +64,10 @@ And these settings are available for ICON:
 
 .. image:: layout-header-custom-icon.png
 
-It's just to try different settings and see the effect in the block.
+You can just try out different settings and see the effect in the block.
 
 Targeting
--------------
+************
 A lot of blocks can be targeted to one or more groups using Targeting Properties. The Targeting Properties must be set up in Omnia Admin, see the section on this page: :doc:`Properties </admin-settings/tenant-settings/properties/index>`
 
 To target a block, open the settings for the block and select "Add Targeting Filter".
@@ -82,9 +80,9 @@ Then select Targeting Property from the list. As the next step you can select to
 
 You can add as many Targeting Properties for a block as is needed, this way. To remove a target, just click the X.
 
-Advanced
+Custom CSS
 ***********
-For some blocks you can use Custom CSS settings. You then use this tab.
+For some blocks you can use Custom CSS settings. You then use this option:
 
 .. image:: layout-css-new2.png
 

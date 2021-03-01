@@ -42,8 +42,8 @@ Available options depend on the template chosen. Here's some common ones:
 + **Description**: It's a good idea to add a description of the site's purpose here, but it's not mandatory.
 + **Show in public listings**: If links to this community should show up in listings available for all colleagues, select this option. Default: selected.
 + **Omnia Alias**: The last part of the address to the site is created automatically but can be edited if necessary. If the name (address) already exists an alternative address is suggested.
-+ **Enable discussion**: If the Discussion functionality should be used in the community, select this option.  
-+ **Enable knowledge articles**: If the Knowledge article functionality should be used in the community, select this option.
++ **Enable discussion**: If the Discussion functionality should be used in the community, select this option. Note that this can't be edited later, you must decide now.
++ **Enable knowledge articles**: If the Knowledge article functionality should be used in the community, select this option. Note that this can't be edited later, you must decide now.
 
 4. When done, click "Next".
 5. Now, set the following:
@@ -60,9 +60,13 @@ Edit settings
 --------------
 When you click the pen for a community, the following settings are available for editing:
 
-(Image to be added.)
+.. image:: community-settings-edit.png
 
-See above for information about the options.
++ **Title**: The Title (name) for the community site can be edited here.
++ **Description**: The Description can be edited (added).
++ **Show in public listings**: Se above for an explanation.
++ **Document Library Url**: If you use a Document Library in the Community, the Url can be edited here.
++ **Allow User Upload Document**: Select this option if users should be able to upload documents to the library.
 
 Features for the community
 ***************************
