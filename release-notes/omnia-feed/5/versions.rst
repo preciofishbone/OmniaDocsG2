@@ -27,6 +27,11 @@
 - Omnia Feed now works correctly with Microsoft Authenticator on Android.
 - Fixed UI glitch in the header for some iOS devices.
 
+5.2.20
+========================================
+- Fixed the issue with news targeting does not work correctly when page has an variation with only draft version. (#126481)
+- Imrpoved the stability of the API for resolving page collection from URL in Omnia Feed settings.
+
 
 Versions
 -----------------------------------------
