@@ -32,9 +32,9 @@ Here's an example of a process displayed with a Process Page Type:
 
 Other than selecting a process as the property, you work with the page the same way as any other page.
 
-For more information on how to work with pages, see: :doc:`Process Management </pages/index>`
+For more information on how to work with pages, see: :doc:`Pages </pages/index>`
 
-For a list of all Process blocks, see: :doc:`Process Management </blocks/process-blocks/index>`
+For a list of all Process blocks, see: :doc:`Process blocks </blocks/process-blocks/index>`
 
 
 
