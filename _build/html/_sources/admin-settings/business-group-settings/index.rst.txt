@@ -9,11 +9,11 @@ Business Profile Settings
    features/index
    notification-panel/index
    omnia-feed/index
+   security/index
    provisioning-templates/index
    communities/index
    publishing-apps/index
    search/index
-   security/index
    settings/index
    shared-links/index
    team-collaboration/index

@@ -11,7 +11,7 @@ Settings
 ***********************
 The following settings are available:
 
-.. image:: user-profile-settings-new2.png 
+.. image:: user-profile-settings-new3.png 
 
 General
 --------
@@ -23,7 +23,7 @@ If variations exists, it looks like in the image above and you set the title in 
 
 Style
 ------
-Use this tab to select style for the percentage. If you selec Line, there's nothing more to it. If you select Circle, you can set:
+Use this tab to select style for the percentage. If you select Line, there's nothing more to it. If you select Circle, you can set:
 
 .. image:: user-profile-settings-style.png
 
@@ -32,12 +32,14 @@ Use this tab to select style for the percentage. If you selec Line, there's noth
 + **Size**: Select the size of the circle using this slider.
 + **Border Size**: Select the thickness of the circle border using this slider.
 
-For information on the general settings (Layout and Advanced), see: :doc:`General Block Settings </blocks/general-block-settings/index>`
+Layout and Write
+*********************
+The WRITE Tab is not used here. The LAYOUT tab contains general settings, see: :doc:`General Block Settings </blocks/general-block-settings/index>`
 
 Settings in Omnia Admin
 **************************
 All settings for the Strengthen Profile content are done in Omnia Admin. There you, for example, can set that a dialog should be shown in certain intervals, prompting the user to complete his or her profile.
 
-For more information about the settings in Omnia Admin, see: :doc:`User Profile Completion </admin-settings/tenant-settings/user-profile-completion/index>`
+For more information about the settings in Omnia Admin, see: :doc:`User Profile Completion </admin-settings/tenant-settings/settings/user-profile-completion/index>`
 
 

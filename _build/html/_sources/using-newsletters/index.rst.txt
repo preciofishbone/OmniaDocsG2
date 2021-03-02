@@ -9,6 +9,14 @@ You will need a Page Type set up for Newsletters. See the implementation example
 
 You use the options available in Omnia, see: :doc:`Page Types </pages/page-types/index>`
 
+**Important Note!** When planning a Page Type that will be used as a base to send information in e-mails, be aware that only these three blocks are supported for e-mail send outs:
+
++ Text.
++ Page Rollup.
++ Media.
+
+Other blocks can of course be used on the page itself, but will then not be present in the e-mails.
+
 Important and useful settings
 ******************************
 To be able to send (Newsletter) pages this setting must be activated for the Page Collection:

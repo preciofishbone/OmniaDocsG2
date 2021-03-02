@@ -8,7 +8,7 @@
   
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   
-  <title>Release 6 (DRAFT) &mdash; Omnia  documentation</title>
+  <title>Release 6 &mdash; Omnia  documentation</title>
   
 
   
@@ -103,8 +103,9 @@
 <li class="toctree-l1"><a class="reference internal" href="../../using-newsletters/index.html">Using Newsletters</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../user-options/index.html">User options</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../setup/index.html">Setup</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../cookies-consent-information/index.html">Cookies Consent information</a></li>
 <li class="toctree-l1 current"><a class="reference internal" href="../index.html">Release Notes</a><ul class="current">
-<li class="toctree-l2 current"><a class="current reference internal" href="#">Release 6 (DRAFT)</a><ul>
+<li class="toctree-l2 current"><a class="current reference internal" href="#">Release 6</a><ul>
 <li class="toctree-l3"><a class="reference internal" href="versions.html">6.0.0</a></li>
 </ul>
 </li>
@@ -165,7 +166,7 @@
         
           <li><a href="../index.html">Release Notes</a> &raquo;</li>
         
-      <li>Release 6 (DRAFT)</li>
+      <li>Release 6</li>
     
     
       <li class="wy-breadcrumbs-aside">
@@ -184,12 +185,8 @@
           <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
            <div itemprop="articleBody">
             
-  <div class="section" id="release-6-draft">
-<h1>Release 6 (DRAFT)<a class="headerlink" href="#release-6-draft" title="Permalink to this headline">¶</a></h1>
-<div class="admonition note">
-<p class="first admonition-title">Note</p>
-<p class="last">These are draft release notes. Information might be added, edited and removed.</p>
-</div>
+  <div class="section" id="release-6">
+<h1>Release 6<a class="headerlink" href="#release-6" title="Permalink to this headline">¶</a></h1>
 <div class="section" id="tenant-page-types">
 <h2>Tenant Page Types<a class="headerlink" href="#tenant-page-types" title="Permalink to this headline">¶</a></h2>
 <p>It will now be possible to manage Page Types on tenant level.</p>
@@ -200,18 +197,18 @@
 </div>
 <div class="section" id="default-content-in-page-types">
 <h2>Default Content in Page Types<a class="headerlink" href="#default-content-in-page-types" title="Permalink to this headline">¶</a></h2>
-<p>All blocks that allow content to be edited in write mode, now have the possibility to have default content.</p>
+<p>All blocks that allow content to be edited in write mode, now have the possibility to have content in design mode as well. This makes it possible to create default content in Page Types.</p>
 <img alt="../../_images/default-content-1.png" src="../../_images/default-content-1.png" />
-<p>The default content can be allowed to be overwritten or not.</p>
-<p>If the default content is allowed to be overwritten, it can be copied to the page on creation or used as a fallback if the author leaves the content empty.</p>
-<p>If the default content is not allowed to be overwritten, the default content in the page type will always be shown on a page.</p>
+<p>The content in design mode can be allowed to be overwritten or not.</p>
+<p>If the default content in a Page Type is allowed to be overwritten, it can be copied to the page on creation.</p>
+<p>If the default content is not allowed to be overwritten, the default content in the Page Type will always be shown on a page.</p>
 <img alt="../../_images/default-content-2.png" src="../../_images/default-content-2.png" />
 </div>
 <div class="section" id="media-picker-improvements">
 <h2>Media Picker improvements<a class="headerlink" href="#media-picker-improvements" title="Permalink to this headline">¶</a></h2>
 <p>The image scaling feature of the Media Picker has been highly improved. The author will be presented with a number of options on how to scale the image on selection.</p>
 <img alt="../../_images/mediapicker-scaling.png" src="../../_images/mediapicker-scaling.png" />
-<p>The scaling options included compression are configurable in Omnia Admin.</p>
+<p>The scaling options are configurable in Omnia Admin.</p>
 <img alt="../../_images/mediapicker-settings-scaling.png" src="../../_images/mediapicker-settings-scaling.png" />
 <img alt="../../_images/mediapicker-settings-scaling-2.png" src="../../_images/mediapicker-settings-scaling-2.png" />
 <p>It is possible to force a specific scaling in media/banner blocks.</p>
@@ -229,12 +226,15 @@
 <div class="section" id="reusable-content-improvements">
 <h2>Reusable Content improvements<a class="headerlink" href="#reusable-content-improvements" title="Permalink to this headline">¶</a></h2>
 <p>The reusable content feature in Omnia has been redesigned. It now allows reused pages to be found in search and the page author workflow has improved.</p>
+<img alt="../../_images/reusable-content.png" src="../../_images/reusable-content.png" />
 </div>
 <div class="section" id="automatic-page-creation">
 <h2>Automatic Page Creation<a class="headerlink" href="#automatic-page-creation" title="Permalink to this headline">¶</a></h2>
 <p>An administrator can setup rules on a Page Collection regarding automatic page creation.</p>
 <p>Whenever a page is published in the Page Collection and match a specific rule, a copy of the page will be published to another Page Collection in the tenant.</p>
+<img alt="../../_images/automatic-page-creation-1.png" src="../../_images/automatic-page-creation-1.png" />
 <p>This can be used to allow for news articles to be published to for example a partner or customer portal.</p>
+<img alt="../../_images/automatic-page-creation-2.png" src="../../_images/automatic-page-creation-2.png" />
 </div>
 <div class="section" id="team-news-rollup-improvements">
 <h2>Team News Rollup improvements<a class="headerlink" href="#team-news-rollup-improvements" title="Permalink to this headline">¶</a></h2>
@@ -269,6 +269,9 @@ In the recycle bin UI it is possible to restore properties or terminate them.</p
 </div>
 <div class="section" id="page-properties-improvements">
 <h2>Page Properties Improvements<a class="headerlink" href="#page-properties-improvements" title="Permalink to this headline">¶</a></h2>
+<p>The Page Properties block has been updated to support some additional styling and the possibility to render the properties horizontally.</p>
+<img alt="../../_images/page-properties-settings.png" src="../../_images/page-properties-settings.png" />
+<img alt="../../_images/page-properties-display.png" src="../../_images/page-properties-display.png" />
 </div>
 <div class="section" id="process-management-improvements">
 <h2>Process Management Improvements<a class="headerlink" href="#process-management-improvements" title="Permalink to this headline">¶</a></h2>
@@ -324,7 +327,7 @@ In the recycle bin UI it is possible to restore properties or terminate them.</p
   <div role="contentinfo">
     <p>
         &copy; Copyright 2021, Precio Fishbone.
-      Last updated on Jan 08, 2021.
+      Last updated on Mar 01, 2021.
 
     </p>
   </div>

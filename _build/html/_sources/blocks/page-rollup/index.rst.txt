@@ -7,20 +7,28 @@ Settings
 *********
 These settings are available for the block:
 
-.. image:: page-rollup-settings-new3.png
+.. image:: page-rollup-settings-new4.png
+
+General
+--------
+Here you can add a title for block:
+
+.. image:: page-rollup-settings-general-frame.png
+
+If any variations exist, as in the example above, titles in other languages are handled through variations. If not variations exist you can add titles in any or alla languages in the tenant.
 
 Query
 ------
 Here you can set the following:
 
-.. image:: page-rollup-settings-query-new.png
+.. image:: page-rollup-settings-query-new2.png
 
 + **Pick Pages**: If the editor should be able to pick pages from a list, select this option.
 + **Pick in Write Mode**: Available when Pick Pages is selected. Select this option if editors should be able to pick pages in Write mode. If not selected, Design mode has to be used.
 + **ADD PAGE**: When you have selected Pick Pages, you can pick some pages to always be shown. Click this option and use the Page Picker. See this page for more information: :doc:`Page Picker </general-assets/page-picker/index>`
 + **Use Query Builder**: If you want to use the query builder to set which pages should be available here, select this option.
 + **Scope**: When you have chosen to use the Query Builder, select scope for the block; Publishing Apps or Page Collections. Then open the list below and select Publishing Apps/Page Collections. 
-+ **Exclude current page**: Available when you have chosen scope. The default settings is to exclude the current page, but if you, for some reason, would like to include the current page, uncheck this option.
++ **Exclude current page**: Available when you have chosen scope. The default setting is to exclude the current page, but if you, for some reason, would like to include the current page, uncheck this option.
 
 When you have selected "Publishing Apps" or "Page Collections" as Scope, use the list to add one or more:
 
@@ -34,19 +42,13 @@ Here's an example of a filter that will display pages that have been updated (Mo
 
 .. image:: page-rollup-query-filter-example-new.png
 
-Social Period
---------------
-Use these settings to decide for how long likes, comments, ratings and page feedback should be displayed here. The default setting is "No limit" but you can select one week, two weeks or one month instead.
-
-.. image:: page-rollup-settings-social-new2.png
-
 Display
 ----------
 Select View here. Note that a preview is shown in the block.
 
 .. image:: page-rollup-settings-display-new.png
 
-The following lists all available display settings (shown in different order for different displays).  
+The following lists all available display settings, shown in different order for different displays, here listed in alphabetical order.  
 
 + **Autoplay**: If the roller should roll automatically, select this option. Available for "Dynamic Roller" only.
 + **Cards per Row**: Available for Card only.
@@ -56,13 +58,14 @@ The following lists all available display settings (shown in different order for
 + **Create button for page collection**: When you have selected "Show create button", this optipon is shown. Use it to select in which page collection the new page will be created.
 + **Date**: Select the property that contains the date for the item(s) to display.
 + **Hide block when no data**: Select this option if the block should be hidden when there's nothing to display.
-+ **Hide visited pages**: Select this option to hide all pages the logged in user has visited. This affects all pages, including news.
++ **Hide if read**: SSelect this option to hide all pages the logged in user has visited. This affects all pages, including news.
 + **Image**: Select the property that contains the image for the item(s) to display.
++ **Image Ratio**: Select ratio for the image; Landscape, Square or Wide. 
 + **Image x and y**: Select the image format here. Available for "Single Item" only.
 + **Item limit**: To limit the number of items being displayed, add a fixed number here. Note that if combined with "No paging", the number of items you enter here are the only items users can access from the list.
 + **Link label**: Add the text to be shown for the link here. Available only if "Show link" is selected.
 + **Link url**: Add the url to open when a user clicks the link. Available only if "Show link" is selected.
-+ **Loop**: Available for "Roller" and "Dynamic Roller". Normally a roller stops when the last post is reached (and can restart after a short while). When this option is selected, there is no "end" and the roller just keeps rolling. Important note: When Loop is selected the arrows users can use to roll "manually" are not shown.
++ **Loop**: Available for Dynamic Roller. Normally a roller stops when the last post is reached (and can restart after a short while). When this option is selected, there is no "end" and the roller just keeps rolling. Important note: When Loop is selected the arrows users can use to roll "manually" are not shown.
 + **No result text**: Enter the text that will be shown if no page can be displayed.
 + **Number of slides to display**: Select number of slides, 1-12. Available for "Dynamic Roller" only.
 + **Open link in new tab**: If the link should be opened in a new tab (as opposed to in current window or dialog), select this option. Available only if "Show link" is selected.
@@ -104,6 +107,14 @@ Here's a simple example of a Card view used for navigation purposes:
 
 .. image:: card-view-example-pages.png
 
+Style settings
+----------------
+For Roller, Dynamic Roller and Card, extra Style settings are available, for example (Card):
+
+.. image:: page-roller-style.png
+
+You can try out these settings. A preview is shown in the block.
+
 Filter
 -------
 If users should be able to filter the list and/or search here, use these options to add filters. 
@@ -112,21 +123,15 @@ If users should be able to filter the list and/or search here, use these options
 
 See this page for information on how to use these options: :doc:`Filter UI </blocks/general-block-settings/filters/index>`
 
-Page Variations
-----------------
-Using Page Variations you can select the following:
+Social Period
+--------------
+Use these settings to decide for how long likes, comments, ratings and page feedback should be displayed here. The default setting is "No limit" but you can select one week, two weeks or one month instead.
 
-.. image:: page-rollup-variations-new.png
+.. image:: page-rollup-settings-social-new2.png
 
-+ **User Variation**: Pages (including News) will be listed that correspond with the logged in users preferred setting for the variation, for example language setting, in the user's profile. If some pages does not have a variation that correspond with the user's setting, the default variation will be used.
-+ **Default Variation**: The default variations are always used.
-+ **All Variations**: All variations are used, meaning several copies of a page can be shown in the list, if the page has variations.
-
-You can find more information about variations under the heading "Variations" on this page: :doc:`Publishing App Settings </pages/page-settings/index>`
-
-Layout and Advanced
+Layout and Write
 **********************
-The tabs Layout and Advanced contain general settings, see: :doc:`General Block Settings </blocks/general-block-settings/index>`
+The WRITE tab is not used here. The Layout tab contains general settings, see: :doc:`General Block Settings </blocks/general-block-settings/index>`
 
 Page Rollup implementations
 ****************************

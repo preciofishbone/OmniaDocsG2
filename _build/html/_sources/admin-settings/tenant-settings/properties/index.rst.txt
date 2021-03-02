@@ -5,6 +5,8 @@ The following is found here:
 
 .. image:: properties-new.png
 
+For working with Properties in Omnia v6, see: :doc:`Properties - Omnia v6 </admin-settings/tenant-settings/properties/properties-v6/index>`
+
 Enterprise Properties
 **********************
 Here you add ALL Properties that should be used within the Tenant. If you, for example, would like to enable targeting, the Properties to be used for targeting must be added here.

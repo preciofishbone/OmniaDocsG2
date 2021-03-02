@@ -11,9 +11,7 @@ Settings
 **********
 The following settings are avilable:
 
-.. image:: search-block-settings-3.png
-
-The tabs Layout and Advanced contain general settings, see: :doc:`General Block Settings </blocks/general-block-settings/index>`
+.. image:: search-block-settings-3new.png
 
 General
 ---------
@@ -37,6 +35,10 @@ For Style for the search box, the following settings are available:
 .. image:: search-block-settings-style.png
 
 You can try out different style settings and see the result in the block on the fly.
+
+Layout and Write
+*********************
+The WRITE Tab is not used here. The LAYOUT tab contains general settings, see: :doc:`General Block Settings </blocks/general-block-settings/index>`
 
 Quick search example
 *********************

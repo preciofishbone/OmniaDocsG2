@@ -11,7 +11,7 @@ Settings for the block
 ************************
 The following settings are available for the Breadcrumb block:
 
-.. image:: breadcrumb-settings-new2.png
+.. image:: breadcrumb-settings-new3.png
 
 + **Include Tenant node**: Select this option to always display the Tenant Node. The text for this is set in Omnia Admin, in the Title field under Tenant-Settings-General.
 + **Include Business Profile node**: Select this option to always display the Business Profile node. The text for this is the name for the Business Profile as set in Omnia Admin, Tenant-Business Profiles.
@@ -24,6 +24,6 @@ For more information about the Business Profile Title, see: :doc:`Business Profi
 
 For more information about how to change a Publishing App's Title, see: :doc:`Publishing </admin-settings/business-group-settings/publishing-apps/index>`
 
-Layout and Advanced
-**********************
-The tabs Layout and Advanced contain general settings, see: :doc:`General Block Settings </blocks/general-block-settings/index>`
+Layout and Write
+*********************
+The WRITE TAB is not used here. The LAYOUT tab contains general settings, see: :doc:`General Block Settings </blocks/general-block-settings/index>`

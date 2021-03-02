@@ -49,4 +49,5 @@ Select section for more information:
    read-and-understood/index
    related-documents/index
    alternative-create/index
+   unlocking-locked-documents/index
    

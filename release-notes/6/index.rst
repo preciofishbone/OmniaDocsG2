@@ -1,7 +1,5 @@
-Release 6 (DRAFT)
+Release 6
 ========================================
-
-.. note::  These are draft release notes. Information might be added, edited and removed.
 
 Tenant Page Types
 --------------------------------------
@@ -19,15 +17,15 @@ This allows for global use across Business Profiles and Publishing Apps.
 Default Content in Page Types
 --------------------------------------
 
-All blocks that allow content to be edited in write mode, now have the possibility to have default content.
+All blocks that allow content to be edited in write mode, now have the possibility to have content in design mode as well. This makes it possible to create default content in Page Types.
 
 .. image:: default-content-1.png
 
-The default content can be allowed to be overwritten or not.
+The content in design mode can be allowed to be overwritten or not.
 
-If the default content is allowed to be overwritten, it can be copied to the page on creation or used as a fallback if the author leaves the content empty.
+If the default content in a Page Type is allowed to be overwritten, it can be copied to the page on creation.
 
-If the default content is not allowed to be overwritten, the default content in the page type will always be shown on a page.
+If the default content is not allowed to be overwritten, the default content in the Page Type will always be shown on a page.
 
 .. image:: default-content-2.png
 
@@ -39,7 +37,7 @@ The image scaling feature of the Media Picker has been highly improved. The auth
 
 .. image:: mediapicker-scaling.png
 
-The scaling options included compression are configurable in Omnia Admin.
+The scaling options are configurable in Omnia Admin.
 
 .. image:: mediapicker-settings-scaling.png
 
@@ -72,6 +70,8 @@ Reusable Content improvements
 
 The reusable content feature in Omnia has been redesigned. It now allows reused pages to be found in search and the page author workflow has improved.
 
+.. image:: reusable-content.png
+
 Automatic Page Creation
 --------------------------------------
 
@@ -79,7 +79,11 @@ An administrator can setup rules on a Page Collection regarding automatic page c
 
 Whenever a page is published in the Page Collection and match a specific rule, a copy of the page will be published to another Page Collection in the tenant.
 
+.. image:: automatic-page-creation-1.png
+
 This can be used to allow for news articles to be published to for example a partner or customer portal.
+
+.. image:: automatic-page-creation-2.png
 
 Team News Rollup improvements
 --------------------------------------
@@ -130,6 +134,12 @@ In this new toolbar, you can also use a number of predefined layouts to get a qu
 
 Page Properties Improvements
 --------------------------------------
+
+The Page Properties block has been updated to support some additional styling and the possibility to render the properties horizontally.
+
+.. image:: page-properties-settings.png
+
+.. image:: page-properties-display.png
 
 Process Management Improvements
 --------------------------------------
