@@ -49,7 +49,7 @@ The approver automatically has read access to the process, meaning the approver 
 
 The workflow will be active until the task is completed and the process will be locked for editing during that time. This is noted by the message "Waiting for approval" in the Drafts list:
 
-.. image:: waiting-for-approval-new.png
+.. image:: waiting-for-approval-new-frame.png
 
 Approved or Rejected
 *********************
@@ -63,7 +63,7 @@ An active Approval Workflow canm be cancelled if needed. Here's how:
 
 1. Click "Waiting for Approval".
 
-.. image:: cancel-approval-1.png
+.. image:: cancel-approval-1-frame.png
 
 2. Click "CANCEL APPROVAL WORKFLOW".
 
