@@ -30,7 +30,7 @@
 5.2.20
 ========================================
 - Fixed the issue with news targeting does not work correctly when page has a variation with only draft version. (#126481)
-- Imrpoved the stability of the API for resolving page collection from URL in Omnia Feed settings.
+- Improved the stability of the API for resolving page collection from URL in Omnia Feed settings.
 
 
 Versions
