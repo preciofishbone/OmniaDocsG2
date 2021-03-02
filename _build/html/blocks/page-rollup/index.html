@@ -139,6 +139,7 @@
 <li class="toctree-l1"><a class="reference internal" href="../../using-newsletters/index.html">Using Newsletters</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../user-options/index.html">User options</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../setup/index.html">Setup</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../cookies-consent-information/index.html">Cookies Consent information</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../release-notes/index.html">Release Notes</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../roadmap/index.html">In Development</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../guides/index.html">Guides</a></li>
@@ -214,18 +215,24 @@
 <div class="section" id="settings">
 <h2>Settings<a class="headerlink" href="#settings" title="Permalink to this headline">¶</a></h2>
 <p>These settings are available for the block:</p>
-<img alt="../../_images/page-rollup-settings-new3.png" src="../../_images/page-rollup-settings-new3.png" />
+<img alt="../../_images/page-rollup-settings-new4.png" src="../../_images/page-rollup-settings-new4.png" />
+<div class="section" id="general">
+<h3>General<a class="headerlink" href="#general" title="Permalink to this headline">¶</a></h3>
+<p>Here you can add a title for block:</p>
+<img alt="../../_images/page-rollup-settings-general-frame.png" src="../../_images/page-rollup-settings-general-frame.png" />
+<p>If any variations exist, as in the example above, titles in other languages are handled through variations. If not variations exist you can add titles in any or alla languages in the tenant.</p>
+</div>
 <div class="section" id="query">
 <h3>Query<a class="headerlink" href="#query" title="Permalink to this headline">¶</a></h3>
 <p>Here you can set the following:</p>
-<img alt="../../_images/page-rollup-settings-query-new.png" src="../../_images/page-rollup-settings-query-new.png" />
+<img alt="../../_images/page-rollup-settings-query-new2.png" src="../../_images/page-rollup-settings-query-new2.png" />
 <ul class="simple">
 <li><strong>Pick Pages</strong>: If the editor should be able to pick pages from a list, select this option.</li>
 <li><strong>Pick in Write Mode</strong>: Available when Pick Pages is selected. Select this option if editors should be able to pick pages in Write mode. If not selected, Design mode has to be used.</li>
 <li><strong>ADD PAGE</strong>: When you have selected Pick Pages, you can pick some pages to always be shown. Click this option and use the Page Picker. See this page for more information: <a class="reference internal" href="../../general-assets/page-picker/index.html"><span class="doc">Page Picker</span></a></li>
 <li><strong>Use Query Builder</strong>: If you want to use the query builder to set which pages should be available here, select this option.</li>
 <li><strong>Scope</strong>: When you have chosen to use the Query Builder, select scope for the block; Publishing Apps or Page Collections. Then open the list below and select Publishing Apps/Page Collections.</li>
-<li><strong>Exclude current page</strong>: Available when you have chosen scope. The default settings is to exclude the current page, but if you, for some reason, would like to include the current page, uncheck this option.</li>
+<li><strong>Exclude current page</strong>: Available when you have chosen scope. The default setting is to exclude the current page, but if you, for some reason, would like to include the current page, uncheck this option.</li>
 </ul>
 <p>When you have selected “Publishing Apps” or “Page Collections” as Scope, use the list to add one or more:</p>
 <img alt="../../_images/page-rollup-query-list-new.png" src="../../_images/page-rollup-query-list-new.png" />
@@ -234,16 +241,11 @@
 <p>Here’s an example of a filter that will display pages that have been updated (Modified) the last month:</p>
 <img alt="../../_images/page-rollup-query-filter-example-new.png" src="../../_images/page-rollup-query-filter-example-new.png" />
 </div>
-<div class="section" id="social-period">
-<h3>Social Period<a class="headerlink" href="#social-period" title="Permalink to this headline">¶</a></h3>
-<p>Use these settings to decide for how long likes, comments, ratings and page feedback should be displayed here. The default setting is “No limit” but you can select one week, two weeks or one month instead.</p>
-<img alt="../../_images/page-rollup-settings-social-new2.png" src="../../_images/page-rollup-settings-social-new2.png" />
-</div>
 <div class="section" id="display">
 <h3>Display<a class="headerlink" href="#display" title="Permalink to this headline">¶</a></h3>
 <p>Select View here. Note that a preview is shown in the block.</p>
 <img alt="../../_images/page-rollup-settings-display-new.png" src="../../_images/page-rollup-settings-display-new.png" />
-<p>The following lists all available display settings (shown in different order for different displays).</p>
+<p>The following lists all available display settings, shown in different order for different displays, here listed in alphabetical order.</p>
 <ul class="simple">
 <li><strong>Autoplay</strong>: If the roller should roll automatically, select this option. Available for “Dynamic Roller” only.</li>
 <li><strong>Cards per Row</strong>: Available for Card only.</li>
@@ -253,13 +255,14 @@
 <li><strong>Create button for page collection</strong>: When you have selected “Show create button”, this optipon is shown. Use it to select in which page collection the new page will be created.</li>
 <li><strong>Date</strong>: Select the property that contains the date for the item(s) to display.</li>
 <li><strong>Hide block when no data</strong>: Select this option if the block should be hidden when there’s nothing to display.</li>
-<li><strong>Hide visited pages</strong>: Select this option to hide all pages the logged in user has visited. This affects all pages, including news.</li>
+<li><strong>Hide if read</strong>: SSelect this option to hide all pages the logged in user has visited. This affects all pages, including news.</li>
 <li><strong>Image</strong>: Select the property that contains the image for the item(s) to display.</li>
+<li><strong>Image Ratio</strong>: Select ratio for the image; Landscape, Square or Wide.</li>
 <li><strong>Image x and y</strong>: Select the image format here. Available for “Single Item” only.</li>
 <li><strong>Item limit</strong>: To limit the number of items being displayed, add a fixed number here. Note that if combined with “No paging”, the number of items you enter here are the only items users can access from the list.</li>
 <li><strong>Link label</strong>: Add the text to be shown for the link here. Available only if “Show link” is selected.</li>
 <li><strong>Link url</strong>: Add the url to open when a user clicks the link. Available only if “Show link” is selected.</li>
-<li><strong>Loop</strong>: Available for “Roller” and “Dynamic Roller”. Normally a roller stops when the last post is reached (and can restart after a short while). When this option is selected, there is no “end” and the roller just keeps rolling. Important note: When Loop is selected the arrows users can use to roll “manually” are not shown.</li>
+<li><strong>Loop</strong>: Available for Dynamic Roller. Normally a roller stops when the last post is reached (and can restart after a short while). When this option is selected, there is no “end” and the roller just keeps rolling. Important note: When Loop is selected the arrows users can use to roll “manually” are not shown.</li>
 <li><strong>No result text</strong>: Enter the text that will be shown if no page can be displayed.</li>
 <li><strong>Number of slides to display</strong>: Select number of slides, 1-12. Available for “Dynamic Roller” only.</li>
 <li><strong>Open link in new tab</strong>: If the link should be opened in a new tab (as opposed to in current window or dialog), select this option. Available only if “Show link” is selected.</li>
@@ -292,27 +295,27 @@
 <p>Here’s a simple example of a Card view used for navigation purposes:</p>
 <img alt="../../_images/card-view-example-pages.png" src="../../_images/card-view-example-pages.png" />
 </div>
+<div class="section" id="style-settings">
+<h3>Style settings<a class="headerlink" href="#style-settings" title="Permalink to this headline">¶</a></h3>
+<p>For Roller, Dynamic Roller and Card, extra Style settings are available, for example (Card):</p>
+<img alt="../../_images/page-roller-style.png" src="../../_images/page-roller-style.png" />
+<p>You can try out these settings. A preview is shown in the block.</p>
+</div>
 <div class="section" id="filter">
 <h3>Filter<a class="headerlink" href="#filter" title="Permalink to this headline">¶</a></h3>
 <p>If users should be able to filter the list and/or search here, use these options to add filters.</p>
 <img alt="../../_images/page-rollup-filter-new.png" src="../../_images/page-rollup-filter-new.png" />
 <p>See this page for information on how to use these options: <a class="reference internal" href="../general-block-settings/filters/index.html"><span class="doc">Filter UI</span></a></p>
 </div>
-<div class="section" id="page-variations">
-<h3>Page Variations<a class="headerlink" href="#page-variations" title="Permalink to this headline">¶</a></h3>
-<p>Using Page Variations you can select the following:</p>
-<img alt="../../_images/page-rollup-variations-new.png" src="../../_images/page-rollup-variations-new.png" />
-<ul class="simple">
-<li><strong>User Variation</strong>: Pages (including News) will be listed that correspond with the logged in users preferred setting for the variation, for example language setting, in the user’s profile. If some pages does not have a variation that correspond with the user’s setting, the default variation will be used.</li>
-<li><strong>Default Variation</strong>: The default variations are always used.</li>
-<li><strong>All Variations</strong>: All variations are used, meaning several copies of a page can be shown in the list, if the page has variations.</li>
-</ul>
-<p>You can find more information about variations under the heading “Variations” on this page: <a class="reference internal" href="../../pages/page-settings/index.html"><span class="doc">Publishing App Settings</span></a></p>
+<div class="section" id="social-period">
+<h3>Social Period<a class="headerlink" href="#social-period" title="Permalink to this headline">¶</a></h3>
+<p>Use these settings to decide for how long likes, comments, ratings and page feedback should be displayed here. The default setting is “No limit” but you can select one week, two weeks or one month instead.</p>
+<img alt="../../_images/page-rollup-settings-social-new2.png" src="../../_images/page-rollup-settings-social-new2.png" />
 </div>
 </div>
-<div class="section" id="layout-and-advanced">
-<h2>Layout and Advanced<a class="headerlink" href="#layout-and-advanced" title="Permalink to this headline">¶</a></h2>
-<p>The tabs Layout and Advanced contain general settings, see: <a class="reference internal" href="../general-block-settings/index.html"><span class="doc">General Block Settings</span></a></p>
+<div class="section" id="layout-and-write">
+<h2>Layout and Write<a class="headerlink" href="#layout-and-write" title="Permalink to this headline">¶</a></h2>
+<p>The WRITE tab is not used here. The Layout tab contains general settings, see: <a class="reference internal" href="../general-block-settings/index.html"><span class="doc">General Block Settings</span></a></p>
 </div>
 <div class="section" id="page-rollup-implementations">
 <h2>Page Rollup implementations<a class="headerlink" href="#page-rollup-implementations" title="Permalink to this headline">¶</a></h2>
@@ -457,7 +460,7 @@
   <div role="contentinfo">
     <p>
         &copy; Copyright 2021, Precio Fishbone.
-      Last updated on Jan 08, 2021.
+      Last updated on Feb 17, 2021.
 
     </p>
   </div>

@@ -1,37 +1,26 @@
 Action Button
 =====================
 
-Use this block to add one or more buttons on a page for clickable links or other actions; Create Page buttons, to show My subscriptions or to subscribe/unsubscribe. This block is also used when using Event Management.
+Use this block to add one or more buttons on a page for clickable links or other actions; Create Page buttons, to show My subscriptions, to subscribe/unsubscribe or to send feedback for a process. This block is also used when using Event Management.
 
 You can add one more buttons in each Action Button block. (This option was formerly called Button Link). 
 
 Settings
 ***********
-Any existing buttons in this block are listed at the top. If no previous button exists, a "New Button" is added automatically. 
+The following settings are available:
 
-.. image:: button-links-new3.png
-
-To edit a button, click the pen (if just the first, automatic button is present, you don't have to do that, then the settings are shown automatically). To delete a button, click the dustbin. If just one button is available in the block, no dustbin is available (if you don't want a button here, delete the block.)
-
-.. image:: button-link-settings-edit-delete-new3.png
-
-When editing a button, the same settings as when you create a new button is available, see below.
-
-Note that you can see a preview of the button/buttons in the block as you're working on it (but the buttons are not saved and shown for others until you publish the page).
-
-The tabs Layout and Advanced contain general settings, see: :doc:`General Block Settings </blocks/general-block-settings/index>`
+.. image:: button-links-new4.png
 
 Add an Action Button
 ***********************
+Note that you can see a preview of the button/buttons in the block as you're working on it.
+
 To add an Action Button in this block, do the following:
 
 1. Click "+ ADD BUTTON".
+2. Use the following settings:
 
-.. image:: button-link-settings-add-button-new3.png
-
-2. Click the pen for the new button and use the following settings:
-
-.. image:: button-link-settings-new.png
+.. image:: button-link-settings-new3.png
 
 (All options are not shown in the image above, but listed below).
 
@@ -39,9 +28,10 @@ General
 -------------------
 The following settings are available here:
 
-+ **Type**: Select type of button here; Link, Create Page, My Subscriptions, Subscribe or Event Management. 
-+ **Text**: Add text to be shown on the button here. If variations exists for the page, you add text in the default language here. Other languages are handled by the variation. If no varations exists, you can add text in several languages here.
++ **Type**: Select type of button here; Link, Add as favourite, Process feedback, Event Management, Create Page, My Subscriptions or Subscribe. 
++ **Text**: Add text to be shown on the button here. If variations exists for the page, you add text in the default language here. Other languages are handled by the variation. If no varations exists, you can add text in several languages here (as in the image).
 + **Tool tip**: Add the tool tip text for the button here. (Same apply for variations as above.)
++ **Category**: Available as "Add Favourite". If the Favourite should be added to a specific Category, add the category here.
 + **Unsubscribe Text**: A "Subscribe" button changes the text automatically when a user has clicked the button. Unsubscribe is suggested but you can change the text to something else. (Same apply for variations as above.)
 + **Subscription Scope**: Available for Type Subscription. Select the scope here, meaning what the user actually subscribes to; the Page (=all changes to the page, even comments and best reply for Knowledge pages), Publishing App (=all new pages in the Publishing App, but not changes to existing pages) or Page Collection (=all new pages in the Page Collection, but not changes to existing pages).
 + **Url**: Type or paste the Url to go to when a user clicks the link. Available for Link type.
@@ -51,6 +41,12 @@ The following settings are available here:
 + **Button Type**: Decide what this button will do; Sign Up, Sign Up Other, Add To Outlook or Cancel. Available for Event Management. (Se below for more information.)
 + **Reserve Text**: (A description will be added soon.) Available for Event Management.
 + **Apply Text**: (A description will be added soon.) Available for Event Management.
+
+Regarding Process feedback:
+
+The feedback will be sent to the process owner and will be available in the team site where the process is located. Feedback can be accessed on the PUBLISHED tab using the menu option "Feedback".
+
+Also note that the button must be placed in a Process Context to work.
 
 Regarding the options for Button Type (for Event Management):
 
@@ -76,4 +72,23 @@ These settings are available for Style:
 + **Icon Type**: To add an icon to the buttton, first select the Icon Type here.
 + **Icon**: When you have selected the Icon Type, select the icon in this list. The icon is placed to the left of the button text.
 + **Alignment**: This option is available on both tabs. Select the alignment of the buttons within the block area.
+
+Layout
+*********
+The LAYOUT tab contains general settings, see: :doc:`General Block Settings </blocks/general-block-settings/index>`
+
+Write
+******
+On this tab you decide if settings for the block (the buttons) should available for editing in Write mode or not. 
+
+.. image:: button-block-write.png
+
+Edit an Action Button
+**********************
+To edit a button, click the pen. To delete a button, click the dustbin. 
+
+.. image:: button-link-settings-edit-delete-new4.png
+
+When editing a button, the same settings as when you create a new button is available, see above.
+
 

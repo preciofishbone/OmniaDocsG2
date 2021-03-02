@@ -139,6 +139,7 @@
 <li class="toctree-l1"><a class="reference internal" href="../../using-newsletters/index.html">Using Newsletters</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../user-options/index.html">User options</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../setup/index.html">Setup</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../cookies-consent-information/index.html">Cookies Consent information</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../release-notes/index.html">Release Notes</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../roadmap/index.html">In Development</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../guides/index.html">Guides</a></li>
@@ -211,27 +212,47 @@
   <div class="section" id="team-news-rollup">
 <h1>Team News Rollup<a class="headerlink" href="#team-news-rollup" title="Permalink to this headline">¶</a></h1>
 <p>Use this block to show team news for the logged in user. Here’s a simple example of how it can look:</p>
-<img alt="../../_images/team-news-example-1.png" src="../../_images/team-news-example-1.png" />
+<img alt="../../_images/team-news-example-1-new.png" src="../../_images/team-news-example-1-new.png" />
 <p>The user can click the team to see a list of news items from that team, for example (with dummy text):</p>
-<img alt="../../_images/team-news-example-2.png" src="../../_images/team-news-example-2.png" />
-<div class="section" id="settings">
-<h2>Settings<a class="headerlink" href="#settings" title="Permalink to this headline">¶</a></h2>
+<img alt="../../_images/team-news-example-2-new.png" src="../../_images/team-news-example-2-new.png" />
+<div class="section" id="block-settings">
+<h2>Block Settings<a class="headerlink" href="#block-settings" title="Permalink to this headline">¶</a></h2>
 <p>The following settings are available:</p>
-<img alt="../../_images/team-news-rollup-settings-new3.png" src="../../_images/team-news-rollup-settings-new3.png" />
+<img alt="../../_images/team-news-rollup-settings-new4.png" src="../../_images/team-news-rollup-settings-new4.png" />
+<div class="section" id="general">
+<h3>General<a class="headerlink" href="#general" title="Permalink to this headline">¶</a></h3>
+<p>Under General, you can add a title for the block:</p>
+<img alt="../../_images/team-news-rollup-settings-general.png" src="../../_images/team-news-rollup-settings-general.png" />
+</div>
+<div class="section" id="query">
+<h3>Query<a class="headerlink" href="#query" title="Permalink to this headline">¶</a></h3>
+<p>The following settings are available here:</p>
+<img alt="../../_images/team-news-rollup-settings-query.png" src="../../_images/team-news-rollup-settings-query.png" />
+<p>Use the top field to add a custom query. The custom query can be used to only show team news with certain properties. It can also be used to include or exclude certain sites. In the example below, it is used to exclude all news from Communication Sites:</p>
+<img alt="../../_images/team-news-rollup-settings-query-exmple.png" src="../../_images/team-news-rollup-settings-query-exmple.png" />
 <ul class="simple">
-<li><strong>Title</strong>: If a title should be shown for the block, add it in this field. If no variation exists for the page, you can set the title in the languages active in the tenant. If variations exists (as in this example), only one title can be set. In that case, titles in other languages are set in the variations.</li>
-<li><strong>Row Limit</strong>: Decide the number of rows to show for each “page” of the list.</li>
 <li><strong>Day Limit</strong>: Set the number od days a team news should be displayed here, from the day it’s pubslihed.</li>
-<li><strong>View</strong>: Select view for the list; “List” or “Grouped by site”.</li>
 <li><strong>Include Legacy Announcements</strong>: If you’re using the earlier Omnia solution for Team Announcements, select this option to show them here.</li>
 <li><strong>Filter by followed sites</strong>: If team news only from the sites the user follows should be shown, select this option.</li>
+</ul>
+<p>ote that you can type the script directly in the field, if you know how. You can use all options in the Keyword Query Language (KQL). See this Microsoft page for reference: <a class="reference external" href="https://docs.microsoft.com/en-us/sharepoint/dev/general-development/keyword-query-language-kql-syntax-reference">https://docs.microsoft.com/en-us/sharepoint/dev/general-development/keyword-query-language-kql-syntax-reference</a></p>
+</div>
+<div class="section" id="display">
+<h3>Display<a class="headerlink" href="#display" title="Permalink to this headline">¶</a></h3>
+<p>Here, the following can be set:</p>
+<img alt="../../_images/team-news-rollup-settings-display.png" src="../../_images/team-news-rollup-settings-display.png" />
+<ul class="simple">
+<li><strong>Row Limit</strong>: Decide the number of rows to show for each “page” of the list.</li>
+<li><strong>View</strong>: Select view for the list; “List” or “Grouped by site”.</li>
+<li><strong>Order By</strong>: Select what to sort the lists by.</li>
 <li><strong>Show thumbnail image</strong>: If a thumbnail image should be shown for the news post, select this option.</li>
 <li><strong>Padding</strong>: You can add some padding between the list and the block border if needed.</li>
 </ul>
 </div>
-<div class="section" id="layout-and-advanced">
-<h2>Layout and Advanced<a class="headerlink" href="#layout-and-advanced" title="Permalink to this headline">¶</a></h2>
-<p>The tabs Layout and Advanced contain general settings, see: <a class="reference internal" href="../general-block-settings/index.html"><span class="doc">General Block Settings</span></a></p>
+</div>
+<div class="section" id="layout-and-write">
+<h2>Layout and Write<a class="headerlink" href="#layout-and-write" title="Permalink to this headline">¶</a></h2>
+<p>The Write tab is not used here. The Layout tab contains general settings, see: <a class="reference internal" href="../general-block-settings/index.html"><span class="doc">General Block Settings</span></a></p>
 </div>
 </div>
 
@@ -258,7 +279,7 @@
   <div role="contentinfo">
     <p>
         &copy; Copyright 2021, Precio Fishbone.
-      Last updated on Jan 08, 2021.
+      Last updated on Feb 17, 2021.
 
     </p>
   </div>

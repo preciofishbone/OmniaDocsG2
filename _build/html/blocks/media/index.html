@@ -139,6 +139,7 @@
 <li class="toctree-l1"><a class="reference internal" href="../../using-newsletters/index.html">Using Newsletters</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../user-options/index.html">User options</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../setup/index.html">Setup</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../cookies-consent-information/index.html">Cookies Consent information</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../release-notes/index.html">Release Notes</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../roadmap/index.html">In Development</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../guides/index.html">Guides</a></li>
@@ -210,29 +211,57 @@
             
   <div class="section" id="media">
 <h1>Media<a class="headerlink" href="#media" title="Permalink to this headline">¶</a></h1>
-<p>Use the Media block to add an image or a video anywhere on a page. The following file types can be used for images: tiff, pjp, pjpeg, jfif, tif, gif, svg, bmp, png, jpeg, svgz, jpg, webp, ico, xbm, dib.</p>
+<p>Use the Media block to add an image or a video anywhere on a page. The following file types can be used for images: tiff, pjp, pjpeg, jfif, tif, gif, svg, bmp, png, jpeg, svg, jpg, webp, ico, xbm, dib.</p>
+<p>You can also add default content (image or video) to the block and set if it should be possible to edit the default content or not.</p>
 <div class="section" id="settings">
 <h2>Settings<a class="headerlink" href="#settings" title="Permalink to this headline">¶</a></h2>
 <p>The following settings are available:</p>
-<img alt="../../_images/media-settings-new.png" src="../../_images/media-settings-new.png" />
+<img alt="../../_images/media-settings-new3.png" src="../../_images/media-settings-new3.png" />
 <ul class="simple">
 <li><strong>Title</strong>: If a title should be shown for the block, add it in this field. If no variation exists for the page, it looks like in the image above and you can set the title in the languages active in the tenant. If one or more varitions exists, only one title can be set. In that case, titles in other languages are set in the variations.</li>
-<li><strong>Property to store data</strong>: Select Property be used in this block. When one block on the page has data connected to a Property, that data can be reused in all blocks that uses the same Property. Page scoped. Not mandatory.</li>
+<li><strong>Default Scaling</strong>: You can select a default scaling here, but if you don’t force (se below) add can be changed when an image is added. Possible scalings are set up in Omnia Admin.</li>
+<li><strong>Force Default Scaling</strong>: Use this setting to see to that all images are scaled the same when they are added - using the default scaling. With this option selected, page editors and authors can not select scaling and the dialog “This image has a bigger file size than recommended” is not shown.</li>
+<li><strong>Crop Ratios</strong>: Use this list to set up which Crop Ratios editors should be able to choose from in this block. For more information, see below.</li>
+<li><strong>ADD CONTENT</strong>: Click here to add deafalt content to the block. Also see below.</li>
 <li><strong>Padding</strong>: You can add some space between the block’s borders and the content, if needed.</li>
 </ul>
-<p>The tabs Layout and Advanced contain general settings, see: <a class="reference internal" href="../general-block-settings/index.html"><span class="doc">General Block Settings</span></a></p>
+<div class="section" id="set-crop-ratios">
+<h3>Set Crop Ratios<a class="headerlink" href="#set-crop-ratios" title="Permalink to this headline">¶</a></h3>
+<p>Available Crop Ratios are set up in Omnia Admin. Here you can set which of these should be available to choose from in this block.</p>
+<img alt="../../_images/media-block-crop-ratios.png" src="../../_images/media-block-crop-ratios.png" />
+<p>To add a Crop Ratio, open the list and click ADD. To delete a Crop Ratio, click the dust bin.</p>
+<p>Besides that, you can set the order, by grabbing this icon and use drag and drop:</p>
+<img alt="../../_images/media-block-crop-ratios-order.png" src="../../_images/media-block-crop-ratios-order.png" />
 </div>
-<div class="section" id="add-video-or-image">
-<h2>Add video or image<a class="headerlink" href="#add-video-or-image" title="Permalink to this headline">¶</a></h2>
-<p>To add the image or video, click “ADD IMAGE”.</p>
+<div class="section" id="add-default-content">
+<h3>Add default content<a class="headerlink" href="#add-default-content" title="Permalink to this headline">¶</a></h3>
+<p>When you click ADD CONTENT the Media Picker starts and you use it to add an image or a video.</p>
+<p>See this page for more information on how to use the Media Picker: <a class="reference internal" href="../../general-assets/media-picker/media-picker-v6/index.html"><span class="doc">The Media Picker</span></a></p>
+<p>You can use the WRITE tab to set if editors should be able to edit the default content or not, see below.</p>
+</div>
+</div>
+<div class="section" id="layout">
+<h2>Layout<a class="headerlink" href="#layout" title="Permalink to this headline">¶</a></h2>
+<p>The LAYOUT tab contains general settings, see: <a class="reference internal" href="../general-block-settings/index.html"><span class="doc">General Block Settings</span></a></p>
+</div>
+<div class="section" id="write">
+<h2>Write<a class="headerlink" href="#write" title="Permalink to this headline">¶</a></h2>
+<p>Using the WRITE tab you can set the following:</p>
+<img alt="../../_images/media-block-write-tab.png" src="../../_images/media-block-write-tab.png" />
+<ul class="simple">
+<li><strong>Enable overwrite in write mode</strong>: If it should be possible for editors to replace or remove the default content in the block, this option should be on. If not, off.</li>
+<li><strong>Property to store data</strong>: Select Property be used in this block. When one block on the page has data connected to a Property, that data can be reused in all blocks that uses the same Property. Page scoped. Not mandatory.</li>
+</ul>
+</div>
+<div class="section" id="add-a-video-or-an-image">
+<h2>Add a video or an image<a class="headerlink" href="#add-a-video-or-an-image" title="Permalink to this headline">¶</a></h2>
+<p>To add an image or a video, click “ADD IMAGE”.</p>
 <img alt="../../_images/media-block-new.png" src="../../_images/media-block-new.png" />
-<p>You then use the Media Picker to select image or video.</p>
-<img alt="../../_images/media-picker-new-media.png" src="../../_images/media-picker-new-media.png" />
-<p>See this page for more information: <a class="reference internal" href="../../general-assets/media-picker/index.html"><span class="doc">The Media Picker</span></a></p>
+<p>You then use the Media Picker to select image or video. See this page for more information: <a class="reference internal" href="../../general-assets/media-picker/media-picker-v6/index.html"><span class="doc">The Media Picker</span></a></p>
 </div>
 <div class="section" id="add-or-remove-video-or-image">
 <h2>Add or remove video or image<a class="headerlink" href="#add-or-remove-video-or-image" title="Permalink to this headline">¶</a></h2>
-<p>When any media is present in the block, the block can be edited in Write mode, using the icons:</p>
+<p>When any media is present in the block, it may be possible to edit the block in Write mode, depending on settings - see above. If it is allowed, use these icons:</p>
 <img alt="../../_images/media-block-edit.png" src="../../_images/media-block-edit.png" />
 <p>Click the pen to select another image or video using the Media Picker. Click the dust bin to remove.</p>
 </div>
@@ -261,7 +290,7 @@
   <div role="contentinfo">
     <p>
         &copy; Copyright 2021, Precio Fishbone.
-      Last updated on Jan 08, 2021.
+      Last updated on Feb 17, 2021.
 
     </p>
   </div>
