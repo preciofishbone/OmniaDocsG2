@@ -50,7 +50,7 @@ and:
 
 .. image:: quick-search-example-block-2.png
 
-Search categories (in this example People, Pages, Documents and News) are set up in Omnia Admnin, see the Heading "Quick Search" on this page: :doc:`Business Profile Settings - Search </admin-settings/business-group-settings/search/index>`
+Search categories (in this example People, Pages, Documents and News) are set up in Omnia Admin, see the Heading "Quick Search" on this page: :doc:`Business Profile Settings - Search </admin-settings/business-group-settings/search/index>`
 
 For "People" the name can be clicked to go to the person's Delve page. For pages (including news) and documents, users can point at the post and click this icon for a preview:
 
