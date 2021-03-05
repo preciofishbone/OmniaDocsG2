@@ -68,7 +68,7 @@ Here's an example of step 3:
 
 Settings for Strenghten Profile
 *********************************
-All settings are done in Omnia Admin, see: :doc:`User Profile Completion </admin-settings/tenant-settings/user-profile-completion/index>`
+All settings are done in Omnia Admin, see: :doc:`User Profile Completion </admin-settings/tenant-settings/settings/user-profile-completion/index>`
 
 
 

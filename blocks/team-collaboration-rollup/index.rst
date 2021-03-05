@@ -1,5 +1,5 @@
 Teamwork Rollup
-============================
+======================
 
 Use this block to show team sites and other teamworks the user has access to. Here's an example:
 
