@@ -1,7 +1,7 @@
 Edit Page Variations
 ========================
 
-If page variations is used editors with permissions to edit a certain page can always edit the page varitions as well. Besides that, Varation Authors can be appointed, see below.
+For each Varation specific Variations Authors can be set up, see below. If not, all authors of the main page can edit the variations as well.
 
 When a page variation exists for a page, omnia keeps track of changes on the main page. When the main page has been edited, compare icons are displayed to notify the author about where changes has been made, when a varation is being edited.
 
