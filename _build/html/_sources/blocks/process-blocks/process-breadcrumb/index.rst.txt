@@ -7,8 +7,8 @@ This block is used to show the breadcrumb on a process page. Heres an example:
 
 The only thing you can set is some padding if needed.
 
-.. image:: process-breadcrumb-setting.png
+.. image:: process-breadcrumb-setting-new.png
 
-Layout and Advanced
-********************
-The tabs Layout and Advanced are standard tabs, available for most blocks. For more information, see: :doc:`General Block Settings </blocks/general-block-settings/index>`
+Layout and Write
+*********************
+The WRITE Tab is not used here. The LAYOUT tab contains general settings, see: :doc:`General Block Settings </blocks/general-block-settings/index>`
