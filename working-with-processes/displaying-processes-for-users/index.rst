@@ -12,7 +12,7 @@ If you use a Process Rollup you don't have to create separate pages for the proc
 
 Here's an excample of a page with a Process Rollup:
 
-.. image:: process-rollup-example.png
+.. image:: process-rollup-example-new.png
 
 For more information on how to set up a Process Rollup, see: :doc:`Process Management </blocks/process-blocks/process-rollup/index>`
 
@@ -28,13 +28,13 @@ When creating such a page, you HAVE to set the process to be displayed. You do t
 
 Here's an example of a process displayed with a Process Page Type:
 
-.. image:: process-image-type-example.png
+.. image:: process-image-type-example-new.png
 
 Other than selecting a process as the property, you work with the page the same way as any other page.
 
-For more information on how to work with pages, see: :doc:`Process Management </pages/index>`
+For more information on how to work with pages, see: :doc:`Pages </pages/index>`
 
-For a list of all Process blocks, see: :doc:`Process Management </blocks/process-blocks/index>`
+For a list of all Process blocks, see: :doc:`Process blocks </blocks/process-blocks/index>`
 
 
 

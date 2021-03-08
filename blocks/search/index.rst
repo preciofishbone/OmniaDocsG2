@@ -44,17 +44,25 @@ Quick search example
 *********************
 When a user has conducted a Quick search using this block, it can look like this:
 
-.. image:: quick-search-example-block.png
+.. image:: quick-search-example-block-new.png
 
-Search categories (in this example People, Pages and Documents) are set up in Omnia Admnin, see the Heading "Quick Search" on this page: :doc:`Business Profile Settings - Search </admin-settings/business-group-settings/search/index>`
+and:
 
-For "People" the name can be clicked to go to the person's Delve page. For pages and documents users can point at the post and click this icon for a preview:
+.. image:: quick-search-example-block-2.png
 
-.. image:: quick-search-example-block-preview.png
+Search categories (in this example People, Pages, Documents and News) are set up in Omnia Admin, see the Heading "Quick Search" on this page: :doc:`Business Profile Settings - Search </admin-settings/business-group-settings/search/index>`
+
+For "People" the name can be clicked to go to the person's Delve page. For pages (including news) and documents, users can point at the post and click this icon for a preview:
+
+.. image:: quick-search-example-block-preview-new.png
+
+A page preview can look like this:
+
+.. image:: quick-search-example-block-preview-shown.png
 
 More search hits can be available through the link at the bottom:
 
-.. image:: quick-search-example-block-more.png
+.. image:: quick-search-example-block-more-new.png
 
 When this link is clicked, the Advanced Search opens.
 
@@ -62,9 +70,9 @@ Advanced Search example
 *************************
 When a user has conducted an Advanced search using this block, it can look like this:
 
-.. image:: advanced-search-example-block.png
+.. image:: advanced-search-example-block-new.png
 
-Refiners, Refiner position and Search categories are set in Omnia Admnin, see the Heading "Advanced Search" on this page: :doc:`Business Profile Settings - Search </admin-settings/business-group-settings/search/index>`
+Refiners, Refiner position and Search categories are set up in Omnia Admnin, see the Heading "Advanced Search" on this page: :doc:`Business Profile Settings - Search </admin-settings/business-group-settings/search/index>`
 
 
 
