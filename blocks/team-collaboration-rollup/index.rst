@@ -3,11 +3,11 @@ Teamwork Rollup
 
 Use this block to show team sites and other teamworks the user has access to. Here's an example:
 
-.. image:: sitedirectory-g2-new2.png
+.. image:: sitedirectory-g2-new3.png
 
-Note that icons indicate if a Teams, Yammer or Facebook Workplace group is connected to the Team Site. Users can click the icon to go to the group.
+Note that icons indicate if a Teams, Yammer or Facebook Workplace group is connected to the Team Site. Users can click the icon to go to the group. In the image above a Teams group is connected to each Team Site.
 
-Here's an example with all three types of icons:
+Here's another example, with all three types of icons:
 
 .. image:: sitedirectory-iconexamples.png
 
