@@ -139,6 +139,10 @@ To add a refiner, do the following:
 
 .. image:: people-rollup-style.png
 
++ **Elevation**: If you want the refiner area to be elevated, use this slider to set how much.
++ **Background**: If the block background is white, use this option to set a gray background for the Refiner area. If the background for the block is set to something else than white, turning on this option does not make any difference.
++ **Border Radius**: Use this slider to set rounded corners for the Refiner area.
+
 Here's an example of a refiner present at the top. Users can choose to show colleagues from just one of the two departements:
 
 .. image:: people-rollup-example-refiners-new.png
