@@ -1,7 +1,7 @@
 Unlocking locked documents
 ============================
 
-In some very rare instances (we haven't even be able to recreate it in our test environment, so far), Sharepoint can fail to unlock a locked Controlled document.
+In some very rare instances (we haven't even been able to recreate it in our test environment, so far), Sharepoint can fail to unlock a locked Controlled document.
 
 If this happens you will see a message about this in the Status column.
 
