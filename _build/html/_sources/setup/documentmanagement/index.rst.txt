@@ -177,7 +177,6 @@ Now you will have to wait a few minutes before the controlled document has been 
 
 - RefinableInt30 > ows_ODMDocIdNumber
 - RefinableInt31 > ows_ODMEdition
-- RefinableInt32 > ows_ODMDocumentTypeId
 
 .. image:: search-refinableints.png
 
@@ -196,7 +195,6 @@ Now you will have to wait a few minutes before the controlled document has been 
 .. image:: property-documentid.png
 .. image:: property-documentidnumber.png
 .. image:: property-documenttype.png
-.. image:: property-documenttypeid.png
 .. image:: property-edition.png
 .. image:: property-published.png
 .. image:: property-reviewdate.png

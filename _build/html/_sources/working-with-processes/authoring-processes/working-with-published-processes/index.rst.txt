@@ -23,7 +23,7 @@ Feedback
 *********
 In Omnia v6 and later, an Action Button can be set up to make it possible for users to send feedback on a process. Such feedback will be sent to the process owner and will be available through this option.
 
-For more information on how to set upp Action Buttons, see: :doc:`General Block Settings </blocks/action-button/index>`
+For more information on how to set upp Action Buttons, see: :doc:`Action Button </blocks/button-link/index>`
 
 Process History
 ******************
@@ -37,6 +37,12 @@ Here’s an example:
 .. image:: pm-published-history.png
  
 You can see the publication date for each edition, the author’s comment, if any, and who the process was approved by. You can click the link to view the process.
+
+Move Process
+***************
+In Omnia v6, a process can be moved to any other Team Site, if needed.
+
+(A description of this option will be added soon.)
 
 Unpublish Process
 ********************

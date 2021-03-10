@@ -124,6 +124,7 @@
 <li class="toctree-l3"><a class="reference internal" href="../process-drawing/index.html">Process Drawing block</a></li>
 <li class="toctree-l3"><a class="reference internal" href="../process-links/index.html">Process Links block</a></li>
 <li class="toctree-l3"><a class="reference internal" href="../process-navigation/index.html">Process Navigation block</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../process-pages/index.html">Process Pages block</a></li>
 <li class="toctree-l3"><a class="reference internal" href="../process-properties/index.html">Process Properties block</a></li>
 <li class="toctree-l3 current"><a class="current reference internal" href="#">Process Rollup block</a></li>
 <li class="toctree-l3"><a class="reference internal" href="../process-tasks/index.html">Process Tasks block</a></li>
@@ -152,6 +153,7 @@
 <li class="toctree-l1"><a class="reference internal" href="../../../using-newsletters/index.html">Using Newsletters</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../user-options/index.html">User options</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../setup/index.html">Setup</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../cookies-consent-information/index.html">Cookies Consent information</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../release-notes/index.html">Release Notes</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../roadmap/index.html">In Development</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../guides/index.html">Guides</a></li>
@@ -231,19 +233,20 @@
 <div class="section" id="the-settings">
 <h2>The settings<a class="headerlink" href="#the-settings" title="Permalink to this headline">¶</a></h2>
 <p>Use these settings for the block:</p>
-<img alt="../../../_images/process-rollup-block-settings.png" src="../../../_images/process-rollup-block-settings.png" />
+<img alt="../../../_images/process-rollup-block-settings-new.png" src="../../../_images/process-rollup-block-settings-new.png" />
 <div class="section" id="display">
 <h3>Display<a class="headerlink" href="#display" title="Permalink to this headline">¶</a></h3>
 <p>The following settings are available for Display:</p>
-<img alt="../../../_images/process-rollup-block-settings-display.png" src="../../../_images/process-rollup-block-settings-display.png" />
+<img alt="../../../_images/process-rollup-block-settings-display-new.png" src="../../../_images/process-rollup-block-settings-display-new.png" />
+<p>(All options are not shown in the image.)</p>
 <ul class="simple">
-<li><strong>Add Column</strong>: Add the columns for the information to be shown on the list. Add at least one column must be added or nothing will be shown.</li>
+<li><strong>Add Column</strong>: Add the columns for the information to be shown on the list. At least one column must be added or nothing will be shown.</li>
 <li><strong>Adjust Columns</strong>: (Displayed when you are adding columns.) Use this option for the order in which the selected columns are shown, left to right.</li>
-<li><strong>Title</strong>: If variatons exists for the page, it looks like in the image above and then you can only set the title in the default language. Titles in other languages are set in the variations. If no variations exists, you can add a title for the list in any or all available languages.</li>
+<li><strong>Title</strong>: If variatons exists for the page, you can only set the title in the default language. Titles in other languages are set in the variations. If no variations exists, it looks like in the image above, and you can add a title in any or all available languages.</li>
 <li><strong>View Page Url</strong>: If you have created a page that will be used to display any process when a user clicks on it, add the Url to the page here. Note that you don’t have to create a page for this purpose. If you don’t, a system page will be used.</li>
 <li><strong>Open in a new window</strong>: Select this option if the clicked process should be opened in a new window.</li>
 <li><strong>Paging</strong>: Select how paging should work; “No Paging”, “Classic” or “Scroll”.</li>
-<li><strong>Page Size</strong>: To limit the number of processes being displayed per “page”, add a fixed number here. Works together with Paging.</li>
+<li><strong>Item Limit</strong>: To limit the number of processes being displayed per “page”, add a fixed number here. Works together with Paging.</li>
 <li><strong>Sort By</strong>: Select the property to sort the list by.</li>
 <li><strong>Descending/Ascending</strong>: Select Descending or Ascending sorting here.</li>
 <li><strong>Padding</strong>: Add some padding if nedded.</li>
@@ -252,23 +255,21 @@
 <div class="section" id="query">
 <h3>Query<a class="headerlink" href="#query" title="Permalink to this headline">¶</a></h3>
 <p>Select to display published processes or archived processes.</p>
-<img alt="../../../_images/process-rollup-block-settings-query-new.png" src="../../../_images/process-rollup-block-settings-query-new.png" />
+<img alt="../../../_images/process-rollup-block-settings-query-new2.png" src="../../../_images/process-rollup-block-settings-query-new2.png" />
 <p>If all published or archived processes should be available in the list, that’s it, you don’t need to actually add a query.</p>
 <p>If just some of the processes should be displayed, add a query the same way as in other similar Rollup blocks.</p>
-<ul class="simple">
-<li><strong>Enable partial word search</strong>: If this option is enabled, the query searches for parts of words as well as for whole words. If not enable, only for whole words.</li>
-</ul>
+<p>You can use all options in the Keyword Query Language (KQL). See this Microsoft page for reference: <a class="reference external" href="https://docs.microsoft.com/en-us/sharepoint/dev/general-development/keyword-query-language-kql-syntax-reference">https://docs.microsoft.com/en-us/sharepoint/dev/general-development/keyword-query-language-kql-syntax-reference</a></p>
 </div>
 <div class="section" id="filter">
 <h3>Filter<a class="headerlink" href="#filter" title="Permalink to this headline">¶</a></h3>
 <p>If users should be able to filter the list, use these options to add filters.</p>
-<img alt="../../../_images/process-rollup-filter.png" src="../../../_images/process-rollup-filter.png" />
+<img alt="../../../_images/process-rollup-filter-new.png" src="../../../_images/process-rollup-filter-new.png" />
 <p>See this page for more information on how to add filters to a block: <a class="reference internal" href="../../general-block-settings/filters/index.html"><span class="doc">Filter UI</span></a></p>
 </div>
 </div>
-<div class="section" id="layout-and-advanced">
-<h2>Layout and Advanced<a class="headerlink" href="#layout-and-advanced" title="Permalink to this headline">¶</a></h2>
-<p>The tabs Layout and Advanced are standard tabs, available for most blocks. For more information, see: <a class="reference internal" href="../../general-block-settings/index.html"><span class="doc">General Block Settings</span></a></p>
+<div class="section" id="layout-and-write">
+<h2>Layout and Write<a class="headerlink" href="#layout-and-write" title="Permalink to this headline">¶</a></h2>
+<p>The WRITE Tab is not used here. The LAYOUT tab contains general settings, see: <a class="reference internal" href="../../general-block-settings/index.html"><span class="doc">General Block Settings</span></a></p>
 </div>
 </div>
 
@@ -295,7 +296,7 @@
   <div role="contentinfo">
     <p>
         &copy; Copyright 2021, Precio Fishbone.
-      Last updated on Jan 08, 2021.
+      Last updated on Mar 08, 2021.
 
     </p>
   </div>

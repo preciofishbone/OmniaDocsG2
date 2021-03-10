@@ -129,6 +129,7 @@
 <li class="toctree-l1"><a class="reference internal" href="../../../../using-newsletters/index.html">Using Newsletters</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../../user-options/index.html">User options</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../../setup/index.html">Setup</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../../cookies-consent-information/index.html">Cookies Consent information</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../../release-notes/index.html">Release Notes</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../../roadmap/index.html">In Development</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../../guides/index.html">Guides</a></li>
@@ -206,20 +207,20 @@
 <h1>Process Types<a class="headerlink" href="#process-types" title="Permalink to this headline">¶</a></h1>
 <p>When an author creates a process he or she selects a Process Type. A Process type consists of a Property Set, one or more Process Templates and settings for how publishing, review and archive should be handled for the process.</p>
 <p>Before you continue here, make sure all Process Templates you will need has been created, see: <a class="reference internal" href="../process-templates/index.html"><span class="doc">Process Templates</span></a></p>
-<p>Also see to that the Property set you need has been created, see the heading “Property Sets” on this page: <a class="reference internal" href="../../properties/index.html"><span class="doc">Tenant Settings - Properties</span></a></p>
+<p>Also see to that the Property set you need has been created, see the heading “Property Sets” on this page: <a class="reference internal" href="../../properties/index.html"><span class="doc">Tenant Settings - Properties</span></a> (Note the separate link if you’re using Omnia v6).</p>
 <div class="section" id="creating-a-new-process-type">
 <h2>Creating a new Process Type<a class="headerlink" href="#creating-a-new-process-type" title="Permalink to this headline">¶</a></h2>
 <ol class="arabic simple">
 <li>Select the top “folder”.</li>
 <li>Click the plus.</li>
 </ol>
-<img alt="../../../../_images/process-type-create.png" src="../../../../_images/process-type-create.png" />
+<img alt="../../../../_images/process-type-create-new.png" src="../../../../_images/process-type-create-new.png" />
 <div class="section" id="general">
 <h3>General<a class="headerlink" href="#general" title="Permalink to this headline">¶</a></h3>
 <ol class="arabic simple" start="3">
 <li>Use the following settings:</li>
 </ol>
-<img alt="../../../../_images/process-type-settings-general.png" src="../../../../_images/process-type-settings-general.png" />
+<img alt="../../../../_images/process-type-settings-general-new.png" src="../../../../_images/process-type-settings-general-new.png" />
 <ul class="simple">
 <li><strong>Title</strong>: Add a title for the process type, in one or more languages. Default language for the tenant is mandatory.</li>
 <li><strong>Property Set</strong>: Select property set from the list. For more information about property sets, see the ink above.</li>
@@ -235,13 +236,18 @@
 <ol class="arabic simple" start="5">
 <li>Set how publishing of the process should work.</li>
 </ol>
-<img alt="../../../../_images/process-type-settings-publish.png" src="../../../../_images/process-type-settings-publish.png" />
+<img alt="../../../../_images/process-type-settings-publish-new.png" src="../../../../_images/process-type-settings-publish-new.png" />
 <ul class="simple">
 <li><strong>Allow Revisions</strong>: Selecting this option you can allow authors to publish a revision of a process, instead of a full edition, for example for correcting typing errors.</li>
 <li><strong>Allow to bypass approval for Revisions</strong>: If this option is active (shown when the option above is selected), it’s up to the author to decide if approval is needed or not, when publishing a revision. Approval is still needed for publishing a new (full) edition of a process.</li>
 <li><strong>Publishing approval</strong>: Select if approval is to be used for this Process Type. If this option is NOT active, a process will be published immediately when an author clicks “Publish”. If Publishing Approval is selected, you must also choose how approval will take place:</li>
-<li><em>Anyone</em>: The author can select any user of the portal as approver, when the process is published.</li>
-<li><em>Limited list of users</em>: Authors can select approvers from a defined list only. You create the list here.</li>
+</ul>
+<img alt="../../../../_images/process-type-settings-publish-approval.png" src="../../../../_images/process-type-settings-publish-approval.png" />
+<ul class="simple">
+<li><strong>Anyone</strong>: The author can select any user of the portal as approver, when the process is published.</li>
+<li><strong>Limited list of users</strong>: Authors can select approvers from a defined list only. You create the list here.</li>
+<li><strong>Term-driven</strong>: Authors can select approvers from a defined list only. Which approvers will be available depends on the Properties selected for the process. You select the term(s) here. When you have selected one or more terms you can use the cogwheel to set approvers for individual terms in the set.</li>
+<li><strong>Based on person property</strong>: You select one of the person properties defined, for example Process owner.</li>
 </ul>
 <ol class="arabic simple" start="6">
 <li>Save when you’re done.</li>
@@ -252,16 +258,17 @@
 <ol class="arabic simple" start="7">
 <li>Here you handle settings for review reminder.</li>
 </ol>
-<img alt="../../../../_images/process-type-settings-review.png" src="../../../../_images/process-type-settings-review.png" />
+<img alt="../../../../_images/process-type-settings-review-new.png" src="../../../../_images/process-type-settings-review-new.png" />
 <ul class="simple">
+<li><strong>Feedback Recipients</strong>: A process related page can be set up (using the Action Button block) to make it possible for users to send feedback about the process. Select which role will recieve the reminders. The feedback will also be availble on the Published tab in the site where the process is edited.</li>
 <li><strong>Review Reminder</strong>: Select this option if a review reminder should be sent for the process. If this option is selected, you must also set the following:</li>
 <li><em>Time after publishing</em>: You can set how often a review reminder should be sent, in one of two ways. Here you can set a time span - a number of days, months or years.</li>
 <li><em>Property</em>: You can set how often a review reminder should be sent, in one of two ways. Here you can set a property for that purpose, a property a process author will fill in - a specific date or a specific retention date.</li>
 <li><strong>Send reminder in advance</strong>: The reminder can be sent a number of days, months or years before the decided revision date. Set how far in advance it will be sent here.</li>
 <li><strong>Review Reminder Recipients</strong>: Select which role will recieve the reminders.</li>
 <li><strong>Create Task</strong>: A review reminder is always sent by e-mail. If a task should be created as well, select this option, and the then set the following:</li>
-<li><em>(Top list)</em>: Use the top list to set which role the task will be created for.</li>
-<li><em>Task expire in</em>: Set a number od days, months or years for when the task will expire (the task will still be available, but marked as expired).</li>
+<li><em>(Top list)</em>: Shown when “Create Task” is selected. Use the top list to set which role the task will be created for.</li>
+<li><em>Task expire in</em>: Shown when “Create Task” is selected. Set a number od days, months or years for when the task will expire (the task will still be available, but marked as expired).</li>
 </ul>
 <ol class="arabic simple" start="8">
 <li>Save when you’re done with the settings here.</li>
@@ -269,8 +276,8 @@
 </div>
 <div class="section" id="archive">
 <h3>Archive<a class="headerlink" href="#archive" title="Permalink to this headline">¶</a></h3>
-<p>Here you set if archiving should be available for the process. If you select this option, you can enter the url to the archive site to be used, or leave the field empty to use the default archive in the tenant.</p>
-<img alt="../../../../_images/process-type-settings-archive.png" src="../../../../_images/process-type-settings-archive.png" />
+<p>Here you set if archiving should be available for the process. If you select this option, you can enter the url to an archive site to be used, or leave the field empty to use the default archive in the tenant.</p>
+<img alt="../../../../_images/process-type-settings-archive-new.png" src="../../../../_images/process-type-settings-archive-new.png" />
 <p>If archiving is selected, a copy of the process is placed in the archive when a published process is unpublished.</p>
 <ol class="arabic simple" start="9">
 <li>Save when you’re done with all settings.</li>
@@ -280,12 +287,30 @@
 <div class="section" id="editing-a-process-type">
 <h2>Editing a Process Type<a class="headerlink" href="#editing-a-process-type" title="Permalink to this headline">¶</a></h2>
 <p>To edit a process type, just click it in the main list. All settings described above can be edited.</p>
-<img alt="../../../../_images/process-type-edit.png" src="../../../../_images/process-type-edit.png" />
+<img alt="../../../../_images/process-type-edit-new.png" src="../../../../_images/process-type-edit-new.png" />
+<p>On the General tab you can now see the Unique id for the process, for example:</p>
+<img alt="../../../../_images/process-type-id.png" src="../../../../_images/process-type-id.png" />
+</div>
+<div class="section" id="sorting-process-types">
+<h2>Sorting Process Types<a class="headerlink" href="#sorting-process-types" title="Permalink to this headline">¶</a></h2>
+<p>If you want the Process Types to be shown for authors in a speceific order, use the triangles to move a process up or down in the list:</p>
+<img alt="../../../../_images/process-type-move.png" src="../../../../_images/process-type-move.png" />
+</div>
+<div class="section" id="delete-a-process-type">
+<h2>Delete a Process Type<a class="headerlink" href="#delete-a-process-type" title="Permalink to this headline">¶</a></h2>
+<p>A Process Type that is no longer used can be deleted.</p>
+<ol class="arabic simple">
+<li>Click the Process Type to open it for editing.</li>
+<li>Click the dust bin.</li>
+</ol>
+<img alt="../../../../_images/process-type-delete.png" src="../../../../_images/process-type-delete.png" />
 </div>
 <div class="section" id="syncronising-of-process-types">
 <h2>Syncronising of Process Types<a class="headerlink" href="#syncronising-of-process-types" title="Permalink to this headline">¶</a></h2>
 <p>Process Types are syncronized to term sets. Information about the last syncronization is found by clicking the i-icon.</p>
-<img alt="../../../../_images/process-type-i-icon-frame.png" src="../../../../_images/process-type-i-icon-frame.png" />
+<img alt="../../../../_images/process-type-i-icon-new.png" src="../../../../_images/process-type-i-icon-new.png" />
+<p>Here’s an example:</p>
+<img alt="../../../../_images/process-type-i-icon-example.png" src="../../../../_images/process-type-i-icon-example.png" />
 </div>
 </div>
 
@@ -312,7 +337,7 @@
   <div role="contentinfo">
     <p>
         &copy; Copyright 2021, Precio Fishbone.
-      Last updated on Jan 08, 2021.
+      Last updated on Mar 08, 2021.
 
     </p>
   </div>

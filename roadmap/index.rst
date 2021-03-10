@@ -13,6 +13,13 @@ Workplace Features
 * Dynamic megamenu. Build your megamenu using a combination of traditional navigation and blocks.
 * People Info Card. An alternative to using Delve to get more information about a user.
 
+Forms
+--------------------------------------------
+
+* Possibility to publish Quick Polls that can be used for minor surveys on a start page.
+* Possibility to create Surveys that can be used to follow up on topics such as employment satisfaction, well-being etc. Metrics can be used to follow trends.
+* Possibility to create Checkups that can be used in online micro training sessions.
+
 Improvements to Multilingual and Variations
 --------------------------------------------
 

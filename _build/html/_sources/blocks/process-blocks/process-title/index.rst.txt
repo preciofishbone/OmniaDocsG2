@@ -3,9 +3,9 @@ Process Title block
 
 Use this block to display the process title (added for the process by the process author).
 
-You can add block title (in that case shown over the process title) and select formatting for the process title.
+You can add a block title (in that case shown over the process title) and select formatting for the process title.
 
-.. image:: process-title-block.png
+.. image:: process-title-block-new.png
 
 Layout and Advanced
 ********************

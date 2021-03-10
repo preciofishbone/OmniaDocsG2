@@ -37,7 +37,7 @@ When you activate Reusable Content, the following is shown:
 
 .. image:: utomatic-page-reusable.png
 
-Select a property that should have a Reusable content connection in the target page, and lick ADD.
+Select a property that should have a Reusable content connection in the target page, and click ADD.
 
 Add all Reusable content properties this way.
 
@@ -53,7 +53,7 @@ Here's an example of mapping you have to do:
 
 .. image:: automatic-page-mapped.png
 
-In this example, the target Page Collection has two variations set up. You have to map variations from the source page to the two variations in the target page. If there should be more (possible) variations for the source page, it does not matter. In this example there are four (possible) variations for the source page, and some of them are the same as for the target page. The mapping can then look like this:
+In this example, the target Page Collection has two variations set up. You have to map variations from the source page to the two variations in the target page. If there are more (possible) variations for the source page, it does not matter. In this example there are four (possible) variations for the source page, and some of them are the same as for the target page. The mapping can then look like this:
 
 .. image:: automatic-page-mapped-example-1.png
 
@@ -67,15 +67,17 @@ When you select this option, the following is shown:
 
 .. image:: automatic-page-3.png
 
-Click ADD to set the first rules. The first step, when creating a rule, is to select a property.
+Click ADD to set the first rule. The first step, when creating a rule, is to select a property.
 
 .. image:: automatic-page-4.png
 
-Here's a very simple example. Pages should only be copied if they are created by Anna Karlsson.
+Here's a very simple example. Pages should only be copied if they are created by Anna Karlsson:
+
+.. image:: automatic-page-example.png
 
 If needed, click ADD again and set the next rule. 
 
-Note that, in case you set up several rules here, all rules must be met for a copy to be created. It's an AND relation between rules. If there is possible to select multiple values for a property within a rule, it's an OR relation between values. 
+Note that, in case you set up several rules here, all rules must be met for a copy to be created. It's an AND relation between rules. If it is possible to select multiple values for a property within a rule, it's an OR relation between values. 
 
 
 

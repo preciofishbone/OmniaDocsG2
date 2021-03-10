@@ -199,8 +199,9 @@
 <h1>Reusable Content<a class="headerlink" href="#reusable-content" title="Permalink to this headline">¶</a></h1>
 <p>Content from one Omnia page can be reused on another Omnia page. It’s true for variations as well. To be more precise, it is content from defined properties that are being reused, so applicable blocks must be present on the target page, for information to show up.</p>
 <p>A property that are not shown for users can be reused as well, for example Review date.</p>
-<p>Note that blocks with reused content are locked on the target page. They can no be edited there. Reused content can only be edited on the source page. Therefore you may not want to reuse for example Title, as you most likely will want a different title on the target page.</p>
-<p>Also note that “Enable reuse content” must be turned in the Publishing App settings for this to be available, see: <a class="reference internal" href="../page-settings/index.html"><span class="doc">Publishing App Settings</span></a></p>
+<p>A prerequisite for Reusable Content to be available, is that “Enable reuse content” is turned on in the Publishing App settings, see: <a class="reference internal" href="../page-settings/index.html"><span class="doc">Publishing App Settings</span></a></p>
+<p>Note that blocks with reused content are locked on the target page. They can not be edited there. Reused content can only be edited on the source page.</p>
+<p>Regarding permissions, the editor working with the reusable content on the source page must have editing permissions on the target pages as well, for publishing to the target pages to work.</p>
 <div class="section" id="reuse-content">
 <h2>Reuse Content<a class="headerlink" href="#reuse-content" title="Permalink to this headline">¶</a></h2>
 <p>When you are editing a page where you want to reuse content from another page, do this:</p>
@@ -221,11 +222,17 @@
 <p>The properties that are or can be reused on the target page are listed, for example:</p>
 <img alt="../../_images/reuse-content-list.png" src="../../_images/reuse-content-list.png" />
 <p>If you don’t want to reuse content from a certain property, click the dust bin to remove it from the list.</p>
-<p>If additional properties are available, you can add any of them - so the content can be reused - using the “Select Property” list. You can edit the reuse list any time you are editing the target page, so you cab add or ermove reusable propeties as needed.</p>
+<p>If additional properties are available, you can add any of them - so the content can be reused - using the “Select Property” list. You can edit the reuse list any time you are editing the target page, so you can add or remove reusable properties as needed.</p>
 <p>Also note that blocks reusing content are indicated this way:</p>
 <img alt="../../_images/reuse-content-on-page.png" src="../../_images/reuse-content-on-page.png" />
 <p>If you are reusing properties used for settings, that is indicated as well, for example:</p>
 <img alt="../../_images/reuse-content-on-page-settings-properties.png" src="../../_images/reuse-content-on-page-settings-properties.png" />
+</div>
+<div class="section" id="editing-the-source-page">
+<h2>Editing the source page<a class="headerlink" href="#editing-the-source-page" title="Permalink to this headline">¶</a></h2>
+<p>When the source page is edited and then published, a check is executed. Published target pages are listed and it’s noted if publication to the target pages worked.</p>
+<p>Here’s an example:</p>
+<img alt="../../_images/reuse-content-published.png" src="../../_images/reuse-content-published.png" />
 </div>
 <div class="section" id="automatic-page-creation">
 <h2>Automatic Page Creation<a class="headerlink" href="#automatic-page-creation" title="Permalink to this headline">¶</a></h2>
@@ -256,7 +263,7 @@
   <div role="contentinfo">
     <p>
         &copy; Copyright 2021, Precio Fishbone.
-      Last updated on Feb 17, 2021.
+      Last updated on Mar 08, 2021.
 
     </p>
   </div>

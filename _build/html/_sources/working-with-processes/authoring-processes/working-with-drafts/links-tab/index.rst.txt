@@ -3,6 +3,8 @@ The Links tab - authoring processes
 
 Use this tab to add a number of useful links for the process or process step. You can also add headers to organize the list.
 
+.. image:: processes-links-tab.png
+
 Add a link
 -----------
 Do the following to add a link:
@@ -10,7 +12,7 @@ Do the following to add a link:
 1. Click "+ ADD LINK".
 2. Use the following settings:
 
-.. image:: pm-links-tab-add.png
+.. image:: pm-links-tab-add-new.png
 
 + **Title**: This will be the clickable text for the link. Add it in all or any available languages. Default tenant language is required.
 + **Url**: Type or paste url here.
@@ -25,7 +27,7 @@ If you need headings to organize the link list, here's ahow to add them:
 1. Click "+ ADD HEADING
 2. Type the heading here:
 
-.. image:: pm-links-tab-heading.png
+.. image:: pm-links-tab-heading-new.png
 
 3. Click "OK" to add the heading.
 

@@ -15,27 +15,46 @@ Settings
 *********
 The following settings are available for the block:
 
-.. image:: team-collaboration-block-settings-new3.png
+.. image:: team-collaboration-block-settings-new4.png
+
+General
+---------
+You can add a Title for the block here:
+
+.. image:: teamwork-general-border.png
+
+If variations exists, only one title can be set, as in the above image. In that case, titles in other languages are set in the variations. If no variation exists for the page, you can set the title in the languages active in the tenant.
 
 Query
 --------
 Here you can set the following:
 
-.. image:: teamwork-query-new.png
+.. image:: teamwork-query-new2.png
 
-+ **Scope**: Select scope, for example All, Followed or Member of.
-+ **Site Template**: Here you can set the type of teamwork to be shown in the list. 
++ **Scope**: Select scope, for example All, Followed or Member of. (See more information about this below.)
++ **Only Current Business Profile**: If only Teamworks from the current business profile should be listed, select this option.
++ **Business Profile**: Another option is to select a specific Business Profile. If you do not select any Business Profile, all Teamworks in the tenant can be listed, that is not private.
++ **Site Template**: Here you can set on or more types of teamwork to be shown in the list. 
 + **Run Query On Load**: Decide if the query should be run on load, so the list is filled with teamworks, or not. If a list is very long it can be a good idea to add a search box, and to deselect this option. You add a search box under Filter UI, see below. 
-+ **Enable partial word search**: If enabled, the query can find parts of words, if not enabled, just whole words. 
+
+Regarding Scope, here's more detailed information:
+
++ All (public): All Teamwork App Instances where "Show in public listings" is checked. (Omnia Database)
++ Followed: All followed Teamwork App Instances. (Omnia Database)
++ Last Visited: All last visited Teamwork App Instances. (Omnia Database)
++ All (SharePoint Sites): All sites in SharePoint. (SharePoint Search)
++ Followed (SharePoint Sites): All followed sites in SP. (SharePoint Social API)
++ Member of (Office 365 Groups): Member of Office 365 Groups. (MS Graph)
 
 Display
 ----------
 Select a View (List View or Navigation View) and use the following settings:
 
-.. image:: team-collaboration-block-settings-display-new2.png
+.. image:: team-collaboration-block-settings-display-new3.png
+
+(All options are not shown in the image.)
 
 + **Add Column**: If you select List View, you must add at least one Column for the display to work. (Navigation View is fixed regarding the columns to display).
-+ **Title**: If a title should be shown for the block, add it in this field. If no variation exists for the page, it looks like in the image above and you can set the title in the languages active in the tenant. If variations exists, only one title can be set. In that case, titles in other languages are set in the variations.	.
 + **Paging**: Select how paging should work; "No Paging", "Classic" or "Scroll".
 + **Icon Mode**: For Icon Mode you can select Letter Avatar or Template Icon. In the example images at the top, Letter Vatar is selected.
 + **Item Limit**: Set the number of sites to be shown on each "page" of the list.
@@ -52,21 +71,13 @@ Filter UI
 ------------------
 Here you can add filters so users can filter (= choose to just see some) of a long list.
 
-.. image:: add-filter-new.png
-
-Here is a common setup for filters, with a search box and filters for Project Manager, Modified and Project Type:
-
-.. image:: team-rollup-filter-example-new.png
-
-This setup results in the following:
-
-.. image:: team-rollup-example-2-new.png
+.. image:: add-filter-new2.png
 
 For more information on how to add filters, or a search box, see this page: :doc:`Filter UI </blocks/general-block-settings/filters/index>`
 
-Layout and Advanced
-**********************
-The tabs Layout and Advanced contain general settings, see: :doc:`General Block Settings </blocks/general-block-settings/index>`
+Layout and Write
+*********************
+The WRITE TAB is not used here. The LAYOUT tab contains general settings, see: :doc:`General Block Settings </blocks/general-block-settings/index>`
 
 
 

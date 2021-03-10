@@ -19,7 +19,7 @@ In a Team Site set up for process authoring, a library, usually called just "Pro
 
 In the Procsses library, authors can find three tabs:
 
-.. image:: processes-library-tabs.png
+.. image:: processes-library-tabs-new.png
 
 "Drafts" is used when creating and editing drafts for new processes or when updating an existing process for a new edition. 
 
