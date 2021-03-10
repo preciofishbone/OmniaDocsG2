@@ -11,7 +11,7 @@ Settings
 **********
 The following settings are avilable:
 
-.. image:: search-block-settings-3new.png
+.. image:: search-block-settings-3new2.png
 
 General
 ---------

@@ -338,6 +338,14 @@ Fixes
 - Everyone except external users again works correctly for ODM authoring sites.
 - Fixed an error causing OPM images not to be updated correctly (#126422).
 
+5.1.33b
+=============================================
+(Omnia 5.1.26 / Workplace 5.1.12 / WCM 5.1.33 / DM 5.1.17)
+
+- Moving ODM documents now works as expected (#125839).
+- Social dates are now translated into additional languages (Latvian, Estonian and Lithuanian) (#126318).
+- Fixed an error that caused the entered password of Azure AD sync to be incorrect.
+
 
 
 

@@ -36,7 +36,7 @@ Do the following to move a block to another placement on the page.
 1. Click the block.
 2. Click the Move icon.
 
-.. image:: move-icon-new2.png
+.. image:: move-icon-new2-2.png
 
 Icons now show where you can move the block, for example:
 
@@ -51,7 +51,7 @@ If you need a block with roughly the same settings somewhere else on the page, y
 1. Click the block.
 2. Click the Copy icon.
 
-.. image:: copy-icon-new.png
+.. image:: copy-icon-new-2.png
 
 Icons now show where you can place the copied block, the same way as when you move a block, see above.
 

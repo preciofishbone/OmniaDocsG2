@@ -3,18 +3,18 @@ Preview a process - authoring processes
 
 While you're working on a draft process, you can, whenever you need, enter Preview mode by clicking here:
 
-.. image:: pm-enter-preview-mode.png
+.. image:: pm-enter-preview-mode-new.png
 
 You can also preview the process without editing, this way:
 
 1. Open the dot menu for the process.
 2. Select "Preview".
 
-.. image:: pm-preview-menu.png
+.. image:: pm-preview-menu-new.png
 
 When in Preview mode you can test how the process will look on different devices:
 
-.. image:: pm-preview-devices.png
+.. image:: pm-preview-devices-new.png
 
 Important note about preview and different devices
 ---------------------------------------------------

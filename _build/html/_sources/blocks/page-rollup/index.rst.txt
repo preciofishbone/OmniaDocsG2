@@ -42,6 +42,14 @@ Here's an example of a filter that will display pages that have been updated (Mo
 
 .. image:: page-rollup-query-filter-example-new.png
 
+Filter on a specific variation
+--------------------------------
+If just pages with a certain variation (language or other variation) should be listed in the Rollup, it can be done this way:
+
+(Only News in Swedish will be listed in this example.)
+
+.. image:: page-rollup-variation-example.png
+
 Display
 ----------
 Select View here. Note that a preview is shown in the block.
