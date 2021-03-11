@@ -133,14 +133,14 @@ To add a refiner, do the following:
 
 .. image:: people-rollup-add-refiner-sort-new.png
 
-6. Add eventual additional refiners the same way.
+6. Add additional refiners the same way, if needed.
 7. If you have added more than one refiner, use "Adjust refiners" to decide the order.
 8. For additional settings, click Style.
 
 .. image:: people-rollup-style.png
 
 + **Elevation**: If you want the refiner area to be elevated, use this slider to set how much.
-+ **Background**: If the block background is white, use this option to set a gray background for the Refiner area. If the background for the block is set to something else than white, turning on this option does not make any difference.
++ **Background**: Use this option to add a gray tint to the Refiner area, to make it a little bit darker than the rest of the block. If the background for the block is white the Refiner area is distinctively gray. If the background for the block is black this option makes no difference.
 + **Border Radius**: Use this slider to set rounded corners for the Refiner area.
 
 Here's an example of a refiner present at the top. Users can choose to show colleagues from just one of the two departements:
