@@ -129,7 +129,7 @@ To add a refiner, do the following:
 .. image:: people-rollup-add-refiner-list-new.png
 
 4. Select sorting and limit, if needed.
-5. Click Add refiner.
+5. Click "Add refiner".
 
 .. image:: people-rollup-add-refiner-sort-new.png
 
