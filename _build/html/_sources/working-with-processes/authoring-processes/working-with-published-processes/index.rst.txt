@@ -3,11 +3,11 @@ Working with published processes
 
 The Published tab lists the latest edition of all published processes from this Processes library. 
 
-.. image:: pm-published-list.png
+.. image:: pm-published-list-new.png
 
 All options are found in the dot menu for a process:
 
-.. image:: pm-published-menu.png
+.. image:: pm-published-menu-new.png
 
 Create Draft
 **************
@@ -23,26 +23,39 @@ Feedback
 *********
 In Omnia v6 and later, an Action Button can be set up to make it possible for users to send feedback on a process. Such feedback will be sent to the process owner and will be available through this option.
 
+.. image:: process-feedback.png
+
 For more information on how to set upp Action Buttons, see: :doc:`Action Button </blocks/button-link/index>`
 
 Process History
 ******************
 There’s information about each published edition available. To see it, do the following:
 
-1.	Click the dot menu for the process
-2.	Select "Process History".
+1. Click the dot menu for the process.
+2. Select "Process History".
+
+.. image:: process-history.png
  
 Here’s an example:
 
-.. image:: pm-published-history.png
+.. image:: pm-published-history-new.png
  
-You can see the publication date for each edition, the author’s comment, if any, and who the process was approved by. You can click the link to view the process.
+You can see the publication date for each edition, the author’s comment, if any, and who the process was approved by. You can click the link to view the edition of the process.
 
 Move Process
 ***************
-In Omnia v6, a process can be moved to any other Team Site, if needed.
+In Omnia v6, a process can be moved to any other Team Site, if needed. Here's how:
 
-(A description of this option will be added soon.)
+1. Go to the target Team Site and copy the Url.
+2. Go to the source Team Saite and click the dot menu for the process.
+3. Select "Move Process".
+
+.. image:: process-move-1.png
+
+4. Paste Url to the target Team Site, or type the Url if you haven't copied it.
+5. Click RESOLVE.
+6. If the Url is correct, the name of the target Team Site should now be shown.
+7. Click MOVE.
 
 Unpublish Process
 ********************
@@ -53,4 +66,4 @@ A process can't be unpublished if a draft has been created for that process. The
 
 When "Unpublish" is selected, you get a second chance to change your mind:
 
-.. image:: pm-unpublish-message.png
+.. image:: pm-unpublish-message-new.png

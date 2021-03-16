@@ -115,6 +115,7 @@
 <li class="toctree-l1"><a class="reference internal" href="../../../using-newsletters/index.html">Using Newsletters</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../user-options/index.html">User options</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../setup/index.html">Setup</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../cookies-consent-information/index.html">Cookies Consent information</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../release-notes/index.html">Release Notes</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../roadmap/index.html">In Development</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../guides/index.html">Guides</a></li>
@@ -189,45 +190,59 @@
   <div class="section" id="publish-the-approval-workflow-for-processes">
 <h1>Publish - the approval workflow for processes<a class="headerlink" href="#publish-the-approval-workflow-for-processes" title="Permalink to this headline">¶</a></h1>
 <p>When a process has reached a final version, it must be published, and if approval is activated, be approved for publication, to be available for end users. To do that, you start an Approval Workflow.</p>
-<p>The process must be checked in and all metadata must be properly set before the Approval Workflow can be started. Some metadata can be mandatory. If all mandatory metadata has not been added, the Approval Workflow can not be started.</p>
-<p><strong>Note!</strong> Metadata can also have impact on who is available as approver.</p>
+<p>The process must be checked in and all mandatory properties must be set before the Approval Workflow can be started. If all mandatory properties has not been added, the Approval Workflow can not be started.</p>
+<p><strong>Note!</strong> Properties can also have impact on who is available as approver.</p>
 <p>Also note that, if it’s the first time the process is published, a page needs to be set up, with use of the process blocks, to make it possible for end users to access the process.</p>
 <p>To publish a process, do the following:</p>
 <ol class="arabic simple">
 <li>Check that all metadata (Properties) are correct.</li>
 </ol>
-<img alt="../../../_images/pm-publish-metadata.png" src="../../../_images/pm-publish-metadata.png" />
+<img alt="../../../_images/pm-publish-metadata-new.png" src="../../../_images/pm-publish-metadata-new.png" />
 <ol class="arabic simple" start="2">
 <li>Check in the process.</li>
 </ol>
-<img alt="../../../_images/pm-publish-checkin.png" src="../../../_images/pm-publish-checkin.png" />
+<img alt="../../../_images/pm-publish-checkin-new.png" src="../../../_images/pm-publish-checkin-new.png" />
 <ol class="arabic simple" start="3">
 <li>Open the dot menu for the process and select “Publish”.</li>
 </ol>
-<img alt="../../../_images/pm-publish-publish.png" src="../../../_images/pm-publish-publish.png" />
+<img alt="../../../_images/pm-publish-publish-new.png" src="../../../_images/pm-publish-publish-new.png" />
 <p>Something like the following is shown:</p>
-<img alt="../../../_images/pm-publish-publish-settings.png" src="../../../_images/pm-publish-publish-settings.png" />
+<img alt="../../../_images/pm-publish-publish-settings-new.png" src="../../../_images/pm-publish-publish-settings-new.png" />
 <p>Exactly which options are available here depends on a a number of settings. These are the common ones:</p>
 <ul class="simple">
+<li><strong>Publish New Edition/New Revision</strong>: If this is allowed, the author can decide if a new edition or a new revision should be published. A Revision does not need approval, and should most likely just be used for very simple edits, like typing errors, but it’s up to your organization to decide. This option is not shown the first time a process is published, as the first publication must be an Edition.</li>
 <li><strong>Approver</strong>: You select one approver from the list, or accept the suggested. Available approvers depends on various settings and how the system is set up.</li>
 <li><strong>Approval Due Date</strong>: Here you add a date when the approval should be made, at the latest. This is just information for the approver. The Approval workflow is not stopped if this date is passed.</li>
-<li><strong>Comments</strong>: Use this field for comments about what was edited/added in a new edition. The field is not shown when the first edition is published.</li>
+<li><strong>Comments</strong>: Use this field for comments about what was edited/added in a new edition/revision. The field is not shown when the first edition is published. The field is mandatory when available.</li>
 <li><strong>Read rights</strong>: The default selection is to use the Default Readers Group from the site’s permissions. If, for some reason, the Read Rights for this particular document should be different, you can select “Limit Read Access”, and enter the names of the readers, or any group memberships, for example AD groups.</li>
 </ul>
 <ol class="arabic simple" start="4">
 <li>Select approver and add a due date.</li>
+<li>Type a comment if the field is available.</li>
 <li>Click “Send”.</li>
 </ol>
-<img alt="../../../_images/pm-publish-publish-send.png" src="../../../_images/pm-publish-publish-send.png" />
+<img alt="../../../_images/pm-publish-publish-send-new.png" src="../../../_images/pm-publish-publish-send-new.png" />
 <p>When you click “Send”, a task is created for the approver, and an e-mail is sent, with a link to the draft process. The task can look like this:</p>
-<img alt="../../../_images/pm-approval-approve-reject.png" src="../../../_images/pm-approval-approve-reject.png" />
+<img alt="../../../_images/pm-approval-publish-send.png" src="../../../_images/pm-approval-publish-send.png" />
 <p>The approver automatically has read access to the process, meaning the approver can use the Preview mode only, until the task is completed. If a Notification Panel is set up for Tasks, the approver is also notified in the notification panel, and can choose to open the task from there.</p>
 <p>The workflow will be active until the task is completed and the process will be locked for editing during that time. This is noted by the message “Waiting for approval” in the Drafts list:</p>
-<img alt="../../../_images/waiting-for-approval.png" src="../../../_images/waiting-for-approval.png" />
+<img alt="../../../_images/waiting-for-approval-new-frame.png" src="../../../_images/waiting-for-approval-new-frame.png" />
 <div class="section" id="approved-or-rejected">
 <h2>Approved or Rejected<a class="headerlink" href="#approved-or-rejected" title="Permalink to this headline">¶</a></h2>
 <p>If the process is approved for publication, it’s now available for readers. You, the author, will receive an e-mail stating that.</p>
 <p>If it’s rejected, there’s some changes the approver would like you to do. You will receive an e-mail stating that the process was rejected and a message from the approver. After changes has been made, you start a new Approval Workflow the same way as before.</p>
+</div>
+<div class="section" id="cancel-an-approval-workflow">
+<h2>Cancel an Approval workflow<a class="headerlink" href="#cancel-an-approval-workflow" title="Permalink to this headline">¶</a></h2>
+<p>An active Approval Workflow canm be cancelled if needed. Here’s how:</p>
+<ol class="arabic simple">
+<li>Click “Waiting for Approval”.</li>
+</ol>
+<img alt="../../../_images/cancel-approval-1-frame.png" src="../../../_images/cancel-approval-1-frame.png" />
+<ol class="arabic simple" start="2">
+<li>Click “CANCEL APPROVAL WORKFLOW”.</li>
+</ol>
+<img alt="../../../_images/cancel-approval-2.png" src="../../../_images/cancel-approval-2.png" />
 </div>
 </div>
 
@@ -254,7 +269,7 @@
   <div role="contentinfo">
     <p>
         &copy; Copyright 2021, Precio Fishbone.
-      Last updated on Jan 08, 2021.
+      Last updated on Mar 15, 2021.
 
     </p>
   </div>
