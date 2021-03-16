@@ -1,10 +1,6 @@
 Omnia Feed - Business Profile Settings
 =================================================
 
-Omnia Feed can be set up in many different ways to make it possible for users to read information from your organization's intranet, on their mobile device. A good example is News, but it can be any page(s) really, and anything that can be accessed by a link.
-
-The Omnia Feed app can be downloaded from the usual sources, for example App Store for iPhone.
-
 **Important Note!** Omnia Feed is "Forward Only" meaning that a page that has been sent to a user can't be recalled. This is important to remember for example when creating or editing a query. 
 
 Settings
