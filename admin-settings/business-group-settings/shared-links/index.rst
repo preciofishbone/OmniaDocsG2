@@ -21,7 +21,7 @@ Options for Tenant Shared Links and Business Profile Shared Links are identical.
 
 Permissions
 *************
-Shared Links for this Business Profile has a seperate Permissions setting, so any user can be set as a Shared Links administrator. This includes external users that has been invited in the Asher AD, meaning they can log in with their own Microsoft 365 account. 
+Shared Links for this Business Profile has a seperate Permissions setting, so any user can be set as a Shared Links administrator. This includes external users that has been invited in the Azure AD, meaning they can log in with their own Microsoft 365 account. 
 
 .. image:: business-profile-shared-links-permissions.png
 

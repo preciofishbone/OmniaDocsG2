@@ -346,9 +346,10 @@ Fixes
 - Social dates are now translated into additional languages (Latvian, Estonian and Lithuanian) (#126318).
 - Fixed an error that caused the entered password of Azure AD sync to be incorrect.
 
+5.1.33c
+============================================
+(Omnia 5.1.26 / Workplace 5.1.13 / WCM 5.1.33 / DM 5.1.19 )
 
-
-
-
-
+- Fixed an issue where notifications where not correctly updated (#126404).
+- Fixed an issue in the Create Document Wizard where all sites would not be searchable (#126154).
 
