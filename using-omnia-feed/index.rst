@@ -37,7 +37,7 @@ Logging out is simply done by selecting "Sign out".
 
 To select another Business Profile (if available), select the Business Profile and choose another one on this page:
 
-.. image:: omnia-feed-settings-bp.png
+.. image:: omnia-feed-settings-bp-new.png
 
 Also note that the App Version is displayed here:
 
@@ -45,11 +45,9 @@ Also note that the App Version is displayed here:
 
 Omnia Feed implementation example
 -----------------------------------
-**(We are still working on this part of the documentation, will be ready in a day or two).**
-
 The following settings in Omnia Admin:
 
-(Image to be added))
+(Image to be added)
 
 results in the following tabs to be shown in the app:
 
