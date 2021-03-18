@@ -45,7 +45,7 @@ Also note that the App Version is displayed here:
 
 Omnia Feed implementation example
 -----------------------------------
-**(We are still working on this part od the documentation, will be ready in a day or two).
+**(We are still working on this part of the documentation, will be ready in a day or two).
 
 The following settings in Omnia Admin:
 
