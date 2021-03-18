@@ -9,7 +9,7 @@ Omnia Feed can be set up in many different ways to make it possible for users to
 
 Here's an example:
 
-.. image:: omnia-feed-test.png
+.. image:: omnia-feed-test-50p.png
 
 The Omnia Feed app can be downloaded from the usual sources, for example App Store for iPhone.
 
