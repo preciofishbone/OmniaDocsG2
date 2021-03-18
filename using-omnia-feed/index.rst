@@ -59,19 +59,19 @@ My Feed and Product News are two different Page Rollups.
 
 When reading news, users can see likes and comments for each News Article. 
 
-.. image:: omnia-feed-likes.png
+.. image:: omnia-feed-likes-new.png
 
 A user can like a News Article by selecting the hearth. 
 
 To add a comment, scroll down to the end of the article and select "Add a comment".
 
-.. image:: omnia-feed-add-comment.png
+.. image:: omnia-feed-add-comment-new.png
 
 Type the comment and click "Post comment".
 
 In this implementation example, there's also a link to the Omnia Intranet. It may need an additional login:
 
-.. image:: omnia-feed-intranet.png
+.. image:: omnia-feed-intranet-new.png
 
 
 
