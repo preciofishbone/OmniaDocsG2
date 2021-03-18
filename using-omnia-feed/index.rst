@@ -11,7 +11,7 @@ Here's an example:
 
 .. image:: omnia-feed-test-50p.png
 
-The Omnia Feed app can be downloaded from the usual sources, for example App Store for iPhone.
+The Omnia Feed app can be downloaded from the usual sources, for example App Store for iPhone.  
 
 Settings are found in Omnia Admnin. There are settings for the tenant, mainly used by AM and the Omnia Feed Team to set up the tenant, and then settings for each Business Profile. See this page for more iformation: :doc:`Omnia Feed - Business Profile Settings </admin-settings/business-group-settings/omnia-feed/index>`
 
