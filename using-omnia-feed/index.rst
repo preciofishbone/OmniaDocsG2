@@ -45,11 +45,11 @@ Also note that the App Version is displayed here:
 
 Omnia Feed implementation example
 -----------------------------------
-**(We are still working on this part of the documentation, will be ready in a day or two).
+**(We are still working on this part of the documentation, will be ready in a day or two).**
 
 The following settings in Omnia Admin:
 
-.. image:: omnia-feed-settings-admin.png
+(Image to be added))
 
 results in the following tabs to be shown in the app:
 
@@ -57,19 +57,19 @@ results in the following tabs to be shown in the app:
 
 My Feed and Product News are two different Page Rollups.
 
-When reading news, users can likes and comments for each News Article. 
+When reading news, users can see likes and comments for each News Article. 
 
-image:: omnia-feed-likes.png
+.. image:: omnia-feed-likes.png
 
 A user can like a News Article by selecting the hearth. To add a comment, scroll down to the end of the article and select "Add a comment".
 
-image:: omnia-feed-add-comment.png
+.. image:: omnia-feed-add-comment.png
 
 Type the comment and click "Post comment".
 
 In this implementation example, there's also a link to the Omnia Intranet. It may need an additional login:
 
-image:: omnia-feed-intranet.png
+.. image:: omnia-feed-intranet.png
 
 
 
