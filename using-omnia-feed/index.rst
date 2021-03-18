@@ -9,7 +9,7 @@ Omnia Feed can be set up in many different ways to make it possible for users to
 
 Here's an example:
 
-.. image:: omnia-feed-test-50p.png
+.. image:: omnia-feed-test-new.png
 
 Any number of tabs can be set up for access to different resources. A tab can be set up for:
 
@@ -31,7 +31,7 @@ The settings are available here:
 
 Available settings are the following:
 
-.. image:: omnia-feed-settings-available.png
+.. image:: omnia-feed-settings-available-new.png
 
 Logging out is simply done by selecting "Sign out".
 
@@ -59,19 +59,19 @@ My Feed and Product News are two different Page Rollups.
 
 When reading news, users can see likes and comments for each News Article. 
 
-.. image:: omnia-feed-likes.png
+.. image:: omnia-feed-likes-new.png
 
 A user can like a News Article by selecting the hearth. 
 
 To add a comment, scroll down to the end of the article and select "Add a comment".
 
-.. image:: omnia-feed-add-comment.png
+.. image:: omnia-feed-add-comment-new.png
 
 Type the comment and click "Post comment".
 
 In this implementation example, there's also a link to the Omnia Intranet. It may need an additional login:
 
-.. image:: omnia-feed-intranet.png
+.. image:: omnia-feed-intranet-new.png
 
 
 
