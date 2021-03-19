@@ -59,13 +59,9 @@ When reading news, users can see likes and comments for each News Article.
 
 .. image:: omnia-feed-likes-new.png
 
-A user can like a News Article by selecting the hearth. 
-
-To add a comment, scroll down to the end of the article and select "Add a comment".
+A user can like a News Article by selecting the hearth. To add a comment, the user scrolls down to the end of the article.
 
 .. image:: omnia-feed-add-comment-new.png
-
-Type the comment and click "Post comment".
 
 In this implementation example, there's also a link to the start page of the Omnia Intranet. It may need an additional login:
 
