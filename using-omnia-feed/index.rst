@@ -1,7 +1,7 @@
 Using Omnia Feed
 ===================
 
-**(This documentation is just started. More will be added very soon.)**
+**(This documentation is ongoing. More will be added soon.)**
 
 With Omnia Feed users can stay connected to the organization's Omnia Intranet wherever they are. 
 
@@ -17,7 +17,7 @@ Any number of tabs can be set up for access to different resources. A tab can be
 + An Embedded link, which can be used to show the home page of an Omnia intranet, or to show some specific Omnia functionality - for example My Links or My Tasks.
 + An External link, which for example can be used as a shortcut to other applications (time report, HR system, etc).
 
-Settings are found in Omnia Admnin. There are settings for the tenant, mainly used by AM and the Omnia Feed Team to set up the tenant, and then settings for each Business Profile, where for example the tabs are set up. See this page for more iformation: :doc:`Omnia Feed - Business Profile Settings </admin-settings/business-group-settings/omnia-feed/index>`
+Settings are found in Omnia Admin. There are settings for the tenant, mainly used by AM and the Omnia Feed Team to set up the tenant, and then settings for each Business Profile, where for example the tabs are set up. See this page for more iformation: :doc:`Omnia Feed - Business Profile Settings </admin-settings/business-group-settings/omnia-feed/index>`
 
 The Omnia Feed App
 *******************
@@ -67,9 +67,9 @@ To add a comment, scroll down to the end of the article and select "Add a commen
 
 Type the comment and click "Post comment".
 
-In this implementation example, there's also a link to the Omnia Intranet. It may need an additional login:
+In this implementation example, there's also a link to the start page of the Omnia Intranet. It may need an additional login:
 
-.. image:: omnia-feed-intranet-new.png
+.. image:: omnia-feed-intranet-new2.png
 
 
 
