@@ -3,87 +3,96 @@ Setup Omnia in Microsoft Teams
 
 **(This instruction is just started. Text and images will be edited.)**
 
-Create app manifest using Microsoft App Studio
-************************************************
+Here's how to setup Omnia in Microsoft Teams.
+
 1. Add the App Studio app to Microsoft Teams.
 
-.. image:: app-studio.png
+.. image:: app-studio-new.png
+
+..image:: app-studio-2.png
 
 2. Open App Studio and select "Manifest editor", and then "Create a new app".
 
-.. image:: new-app.png
+.. image:: new-app-new.png
 
-3. Enter short name and Full name for the app (can not be the same).
+3. Enter Short name and Full name for the app (can not be the same).
 
-.. image:: app-name.png
+.. image:: app-name-new.png
 
 4. Click "Generate" to generate a GUID for the app. 
 
-.. image:: generate.png
+.. image:: generate-new.png
+
+5. Add Package Name and Version.
 
 Package Name can be anything, but best practice is to use the reverse URL for Omnia. Version number should follow a logic – possibly let it follow Omnia version number.
 
-5. Fill in both Short description and Full description. 
+6. Enter both a Short description and a Full description. 
 
-.. image:: descriptions.png
+.. image:: descriptions-new.png
 
-Under Developer information it may be up to the customer what they want. The information is displayed under About information app. 
+Developer information - here it may be up to the customer what they want. The information is displayed under About information app. 
 
-6. Partner Information is optional, but here Precio Fishbone's Microsoft Partner ID can be inserted.
+7. Partner Information is optional, but here Precio Fishbone's Microsoft Partner ID can be inserted.
 
-.. image:: partner-info.png
+.. image:: partner-info-new.png
 
-7. If necessary, insert the Privacy statement url and Terms of use.
+8. If necessary, insert the Privacy statement url and Terms of use.
 
-.. image:: privacy.png
+.. image:: privacy-new.png
 
-8. Two different icons are needed. 192x192 appears in the information about the app, and 32x32 is used as an app icon on the left side of Teams. 
+9. Two different icons are needed. 192x192 appears in the information about the app, and 32x32 is used as an app icon on the left side of Teams. 
 
-.. image:: branding.png
+.. image:: branding-new.png
 
-9. Select "Full Screen Mode" to display the app without a header bar. 
+10. Select "Full Screen Mode" for display without a header bar. 
 
-.. image:: screen-mode.png
+.. image:: screen-mode-new.png
 
-10. Under Capabilities, click "Tabs", and then "add" under Add a personal tab. 
+11. Under Capabilities, click "Tabs", and then "Add" under Add a personal tab. 
 
-.. image:: capabilites.png
+.. image:: capabilites-new.png
 
-11. Fill in the following information:
+12. Add the following information:
 
-.. image:: personal-tab.png
+.. image:: personal-tab-new.png
 
 + **Name**: Tab name.
 + **Entity ID**: unique ID without spaces.
 + **Content URL**: Omnia URL including any parameters for displaying top navigation and mega menu. Example: https://preciodemo.omniacloud.net/en-us/home?inTeamsSSO=true&tenantheader=false&bpheader=true
 + **Website URL**: Parameter home page URL. Example: https://preciodemo.omniacloud.net/en-us/home (Might leave out the language code depending on your needs).
- 
-12. Click "Domains and permissions". 
 
-.. image:: domains-png
+13. Save when you'r done.
+14. Select "Domains and permissions". 
 
-13. To find Omnia's Application ID in Azure AD, sign in to https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/Overview
-14. Click "Enterprise applications".
+.. image:: domains-new.png
 
-.. image:: enterprise-application.png
+15. To find Omnia's Application ID in Azure AD, sign in to https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/Overview
+16. Click "Enterprise applications".
 
-15. Search for Omnia and find the right app that points to https://auth.omniacloud.net.
+.. image:: enterprise-application-new.png
 
-.. image:: points.png
+17. Search for Omnia and find the right app that points to https://auth.omniacloud.net.
 
-16. Copy Application ID from properties. 
+.. image:: points-new.png
 
-.. image:: application-id.png
+18. Copy Application ID from properties. 
 
-17. Back in app studio under Domains and permissions, the copied Azure AD App ID and Single-Sign-On URL are inserted in the format: api://<tenant>.omniacloud.net/<AAD App ID>.
+.. image:: application-id-new.png
 
-.. image:: app-id.png
+19. Go back to Domains and permissions and insert the copied Azure AD App ID and Single-Sign-On URL, format: api://<tenant>.omniacloud.net/<AAD App ID>.
 
-18. Switch to Test and Distribute and select "Install". 
+.. image:: app-id-new.png
 
-.. image:: test-distribute.png
+20. Select "Test and Distribute" and click "Install". 
 
-Now the app will be installed in the user's personal Teams and can be viewed on the left side navigation in Teams. 
+.. image:: test-distribute-new.png
+
+21. Click "Add".
+
+.. image:: test-distribute2.png
+
+Now the app is installed in the user's personal Teams and can is displayed in the Teams navigation to the left. 
  
 Installing for all users in Teams
 ***********************************
@@ -109,4 +118,4 @@ All users can now add the app to Teams themselves, but if you want to install it
 
 The app is now under Pinned apps and can be moved up and down in the order.
 
-It may take some time before is available for users. If that still doesn't happen, check that users are members of the right Permission policy in Teams admin.
+It may take some time before it' available for users. If it doesn't work, check that users are members of the right Permission policy in Teams admin.
