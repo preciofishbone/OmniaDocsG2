@@ -13,7 +13,7 @@ Here's an example:
 
 Any number of tabs can be set up for access to different resources. A tab can be set up for:
 
-+ A Page Rollup to list news or other pages.
++ A Rollupo (similar to a Page Rollup) to list news or other pages.
 + An Embedded link, which can be used to show the home page of an Omnia intranet, or to show some specific Omnia functionality - for example My Links or My Tasks.
 + An External link, which for example can be used as a shortcut to other applications (time report, HR system, etc).
 
