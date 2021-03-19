@@ -1,7 +1,7 @@
 Setup Omnia in Microsoft Teams
 ===============================
 
-**(This instruction is just startedn. Text and images will be edited.)**
+**(This instruction is just started. Text and images will be edited.)**
 
 Create app manifest using Microsoft App Studio
 ************************************************
@@ -45,9 +45,9 @@ Under Developer information it may be up to the customer what they want. The inf
 
 .. image:: screen-mode.png
 
-10. Under Capabilities, click "Tabs", and then add under Add a personal tab. 
+10. Under Capabilities, click "Tabs", and then "add" under Add a personal tab. 
 
-.. image:: capabilities.png
+.. image:: capabilites.png
 
 11. Fill in the following information:
 
