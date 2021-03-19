@@ -1,7 +1,7 @@
 Setup Omnia in Microsoft Teams
 ===============================
 
-**(This instruction is just startedn. Text and images will be edited.)**
+**(This instruction is just started. Text and images will be edited.)**
 
 Create app manifest using Microsoft App Studio
 ************************************************
