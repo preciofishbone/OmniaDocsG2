@@ -1,4 +1,25 @@
-6.0.0
+6.1.0 - Draft
+========================================
+- The sort by field in Search Category settings can now be cleared.
+- Mandatory Boolean page properties are now handled correctly (#127641).
+- Displaying notifications on updated pages now works as expected outside of communities (#127643).
+- The search dropdown on a block now has the same width as the block.
+- Info Screen has gotten several stability updates.
+- Page Rollup has gotten several stability updates.
+- Process Management has gotten several stability updates.
+- The new Media picker has gotten several stability updates.
+- Data migrations for the Notification panel have been improved.
+- Several color theme related issues have been fixed.
+- The page picker now correctly shows the value you search for.
+- It is now possible to have a search box in the Document Picker.
+- People rollup now correctly handle zone width.
+- Default content community layout buttons can now be edited.
+- Fixed an issue preventing display breakpoints from working in the page rollup.
+- User profile competition now works as expected when a description is not filled in.
+
+
+
+6.0.2
 ========================================
 
 Permissions updates
