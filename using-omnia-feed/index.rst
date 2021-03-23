@@ -13,7 +13,7 @@ Here's an example:
 
 Any number of tabs can be set up for access to different resources. A tab can be set up for:
 
-+ A Rollupo (similar to a Page Rollup) to list news or other pages.
++ A Rollup (similar to a Page Rollup) to list news or other pages.
 + An Embedded link, which can be used to show the home page of an Omnia intranet, or to show some specific Omnia functionality - for example My Links or My Tasks.
 + An External link, which for example can be used as a shortcut to other applications (time report, HR system, etc).
 
@@ -43,8 +43,12 @@ Also note that the App Version is displayed here:
 
 .. image:: omnia-feed-settings-version.png
 
+Microsoft Authenticator or a Company Portal
+---------------------------------------------
+If your organiztion is using Microsoft Authenticator or a Company Portal, Omnia Feed will request permission to access the contacts list. This is required for the Omnia app to work with Microsoft Authenticator or a Company Portal.
+
 Omnia Feed implementation example
------------------------------------
+*************************************
 The following settings in Omnia Admin:
 
 (Image to be added)
