@@ -1,7 +1,6 @@
 6.0.0
 ========================================
 
-.. note::  These release notes are a draft. Items might be added, edited or removed.
 Permissions updates
 ************************
 
