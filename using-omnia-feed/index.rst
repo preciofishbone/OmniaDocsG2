@@ -43,9 +43,9 @@ Also note that the App Version is displayed here:
 
 .. image:: omnia-feed-settings-version.png
 
-Microsoft Authenticator or a Company Portal
+Microsoft Authenticator or similar
 ---------------------------------------------
-If your organiztion is using Microsoft Authenticator or a Company Portal, Omnia Feed will request permission to access the contacts list. This is required for the Omnia app to work with Microsoft Authenticator or a Company Portal.
+If your organization is using Microsoft Authenticator, a Company Portal, or similar, Omnia Feed will request permission to access the contacts list. This is required for the Omnia app to work with Microsoft Authenticator and similar solutions.
 
 Omnia Feed implementation example
 *************************************
