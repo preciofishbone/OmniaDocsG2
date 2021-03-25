@@ -5,9 +5,7 @@ Here's how to setup Omnia in Microsoft Teams.
 
 1. Add the App Studio app to Microsoft Teams.
 
-.. image:: app-studio-new.png
-
-.. image:: app-studio-2.png
+.. image:: app-studio-new2.jpg
 
 2. Open App Studio and select "Manifest editor", and then "Create a new app".
 
@@ -29,9 +27,11 @@ Package Name can be anything, but best practice is to use the reverse URL for Om
 
 .. image:: descriptions-new2.jpg
 
+7. Add Developer information and Partner Information.
+
 Developer information - here it may be up to the customer what they want. The information is displayed under About information app. 
 
-7. Partner Information is optional, but here Precio Fishbone's Microsoft Partner ID can be inserted.
+Partner Information is optional, but here Precio Fishbone's Microsoft Partner ID can be inserted.
 
 .. image:: partner-info-new2.jpg
 
@@ -41,7 +41,7 @@ Developer information - here it may be up to the customer what they want. The in
 
 9. Two different icons are needed. 192x192 appears in the information about the app, and 32x32 is used as an app icon on the left side of Teams. 
 
-.. image:: branding-new2.jpg
+.. image:: branding-new2-frame.jpg
 
 10. Select "Full Screen Mode" for display without a header bar. 
 
@@ -61,6 +61,7 @@ Developer information - here it may be up to the customer what they want. The in
 + **Website URL**: Parameter home page URL. Example: https://preciodemo.omniacloud.net/en-us/home (Might leave out the language code depending on your needs).
 
 13. Save when you're done.
+
 14. Select "Domains and permissions". 
 
 .. image:: domains-new2.jpg
@@ -79,11 +80,9 @@ Developer information - here it may be up to the customer what they want. The in
 
 .. image:: app-id-new2.jpg
 
-20. Select "Test and Distribute" and click "Install". 
+20. Select "Test and distribute" and click "Install". 
 
 .. image:: test-distribute-new2.jpg
-
-21. Click "Add".
 
 Now the app is installed in the user's personal Teams and is displayed in the Teams navigation to the left. 
  
@@ -101,14 +100,16 @@ All users can now add the app to Teams themselves, but if you want to install it
 
 5. Click "Setup policies".
 
-.. image:: setup-policies.png
+.. image:: setup-policies-new.jpg
 
 6. Click "Global (Org-wide default)" or an alternative policy if you only want to install for selected users. 
 7. Under Pinned apps, click "Add apps" to install the app for all users and pin it to the left side of Teams. 
-8. In the app permission policy, select "Global" and search for the app. Click Add to add it.
+8. In the app permission policy, select "Global" and search for the app. Click "Add" to add it.
 
-.. image:: add-pinned-apps.png
+.. image:: add-pinned-apps-new.jpg
 
 The app is now under Pinned apps and can be moved up and down in the order.
+
+.. image:: add-pinned-apps-example.jpg
 
 It may take some time before it' available for users. If it doesn't work, check that users are members of the right Permission policy in Teams admin.
