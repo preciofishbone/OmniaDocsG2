@@ -9,7 +9,7 @@ Here's how to setup Omnia in Microsoft Teams.
 
 2. Open App Studio and select "Manifest editor", and then "Create a new app".
 
-.. image:: new-app-new.png
+.. image:: create-new-app-new.png
 
 3. Enter Short name and Full name for the app (can not be the same).
 
