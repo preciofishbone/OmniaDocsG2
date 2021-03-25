@@ -112,4 +112,4 @@ The app is now under Pinned apps and can be moved up and down in the order.
 
 .. image:: add-pinned-apps-example.jpg
 
-It may take some time before it' available for users. If it doesn't work, check that users are members of the right Permission policy in Teams admin.
+It may take some time before it's available for users. If it doesn't work, check that users are members of the right Permission policy in Teams admin.
