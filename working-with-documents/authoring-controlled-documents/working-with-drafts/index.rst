@@ -235,3 +235,16 @@ If a template is selected, this document is from now on related to the template 
 
 Even if a template is not selected for the second edition, the author gets a new chance the next time a new draft is created.
 
+More on what happens when a document is merged with a template
+-----------------------------------------------------------------
+Here's some more information about what will happen if you choose to merge a document with a template.
+
+The following will not be changed in your document, regardless of the template used:
+
++ Fonts and Formats.
++ Page Size and Orientation.
++ Margins.
++ Contents and references.
+
+Header and footer may change, especially where text and numbering are placed. Also make sure that the corect language is selected for all parts of your document, to avoid any unnecessary changes regarding header and/or footer in your document.
+
