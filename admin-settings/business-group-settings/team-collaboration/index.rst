@@ -135,6 +135,6 @@ The person requesting the site receives the message and can then start a new Tea
 
 Important note about Site Ownership when approving
 *****************************************************
-Because of caching issues in Sharepoint, it can take some time, even up to 2 hours after approval, before site ownership will work as intended - as set in the Teamwork Creation Wizard in Omnia. During this initial period, Site Owners may not have access to the site.
+Because of caching issues in Sharepoint, it can take some time, even up to 2 hours after approval, before site ownership will work as intended - as set in the Teamwork Creation Wizard in Omnia. During this time, the Approver will have Owner permissions. 
 
 
