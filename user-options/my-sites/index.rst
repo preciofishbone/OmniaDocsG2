@@ -81,7 +81,7 @@ The "Create" option can also say "Send for approval", depending on what is set u
 
 Important note about Site Ownership when approval is needed
 ****************************************************************
-Because of caching issues in Sharepoint, it will take some time before Site Owners can access a site. It can take up to 2 hours after the site Owners has recieved a notification that says the request was approved. 
+Because of caching issues in Sharepoint, it can take some time, even up to 2 hours after approval, before site ownership will work as intended - as set in the Teamwork Creation Wizard in Omnia. During this initial period, Site Owners may not have access to the site.
 
 Templates for site creation
 ****************************
