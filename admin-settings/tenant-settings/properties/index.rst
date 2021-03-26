@@ -5,7 +5,7 @@ The following is found here:
 
 .. image:: properties-new.png
 
-For working with Properties in Omnia v6, see: :doc:`Properties - Omnia v6 </admin-settings/tenant-settings/properties/properties-v6/index>`
+**For working with Properties in Omnia v6, see**: :doc:`Properties - Omnia v6 </admin-settings/tenant-settings/properties/properties-v6/index>`
 
 Enterprise Properties
 **********************
