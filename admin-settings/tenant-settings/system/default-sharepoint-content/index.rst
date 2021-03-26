@@ -3,7 +3,7 @@ Default Sharepoint Context Url
 
 Here the Default SharePoint address can be set/edited.
 
-.. image:: system-default-sharepoint.png
+.. image:: system-default-sharepoint-new.png
 
 The Url can point to a Classic Sharepoint site as well as a Modern site.
 
