@@ -41,7 +41,7 @@ The following fields and options are available for the steps in the Tutorial:
 
 When you add a step, you can see that another dot is created in the navigation bar. Click the dot to go to a step for editing.
 
-.. tutorial-new-step-new.png
+.. image:: tutorial-new-step-new.png
 
 Reorder or delete steps
 -------------------------
@@ -49,7 +49,7 @@ The Reorder option is a convenient option for displaying the steps you have crea
 
 .. image:: tutorial-reorder.png
 
-You can display the text for a step på expanding the step:
+You can display the text for a step by expanding the step:
 
 .. image:: tutorial-reorder-expand.png
 
@@ -68,7 +68,7 @@ To delete a step that is no longer needed, do the following:
 
 Edit or delete the image
 ---------------------------
-When you had added an image for a step, you can edit or delete it the same way as you do for an image on a page.
+When you have added an image for a step, you can edit or delete it the same way as you do for an image on a page.
 
 .. image:: tutorial-edit-image.png
 
@@ -78,7 +78,7 @@ For image editing in Omnia v6, see this page: :doc:`Media Picker (v6) </general-
 
 Target settings
 ------------------
-Use these settings to select pages and set how the tutorial should be available:
+Use these settings to select the pages where the tutorial should be available, and to set how it should be available:
 
 .. image:: source-settings-new2.png
 
@@ -100,7 +100,13 @@ The following is available under "Start Mode":
 
 .. image:: tutorial-start-mode-new.png
 
-The Tool Tip Alert will be shown on the Tutorial icon.
++ **Start the tutorial automatically**: The tutorial starts when the user enters the page, but when the user has closed the tutorial, it can still be available as an icon or in the menu, if set up that way.
++ **User starts tutorial manually**: The tutorial can be made availabel through the Action Menu, either as an icon or in the menu. Note that this has to be set up as well in the Header settings for the Business Profile.
++ **Show alert for new version**. If the tutoorials are availble through an icon and a tutorial is updated, a Tool Tip Alert will be shown on the Tutorial icon. 
+
+When you're done with a target setting, or with all target settings for a tutorial, use Add and Save this way:
+
+.. image:: tutorial-add-save.png
 
 + **Add**: When you have entered the settings for a page, you must click "Add" to add the page to the list.
 + **Save**: When all sources are added, click here to save the source settings.
@@ -139,7 +145,7 @@ In the header for the Business Profile, it has been set that tutorials should be
 
 The user experience:
 
-The steps will be shonw for users this way:
+The steps will be shown for users this way:
 
 .. image:: tutorial-example-7.png
 .. image:: tutorial-example-8.png
@@ -153,11 +159,11 @@ In this example, the tutorial starts automatically the first time the user enter
 
 .. image:: tutorial-example-11.png
 
-If the settings for the Business Profile Header had been Menu
+If the settings for the Business Profile Header had been "Menu":
 
 .. image:: tutorial-example-12.png
 
-no icon would have been shown and the tutorial would be availabel in the menu instead:
+no icon would have been shown and the tutorial would have been available in the menu instead:
 
 .. image:: tutorial-example-13.png
 
