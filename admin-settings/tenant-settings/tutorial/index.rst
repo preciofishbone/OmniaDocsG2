@@ -23,7 +23,7 @@ Do the following to edit an existing Tutorial:
 
 2. Use the following settings:
 
-.. image:: tutorial-settings-1-new.png
+.. image:: tutorial-settings-1-new-frame.png
 
 + **Title (top)**: Add/edit the title for the Tutorial (not shown for users). You can add a title in all languages used in the tenant, the default language is mandatory.
 + **Add step**: Use the button to add a new tutorial step after the last step. 
@@ -45,11 +45,11 @@ When you add a step, you can see that another dot is created in the navigation b
 
 Reorder or delete steps
 -------------------------
-The Reorder option is a convenient option for displaying the steps you have created, and to manage the order.
+The Reorder option is a convenient option of displaying the steps you have created, and to manage the order.
 
 .. image:: tutorial-reorder.png
 
-You can display the text for a step by expanding the step:
+You can display the text for a step by expanding:
 
 .. image:: tutorial-reorder-expand.png
 
@@ -57,7 +57,7 @@ To reorder the steps, use drag and drop.
 
 To delete a step that is no longer needed, do the following:
 
-1. Select the step by clicking on the dot.
+1. Select the step by clicking the dot.
 
 .. image:: tutorial-delete-step-1.png
 
@@ -101,8 +101,8 @@ The following is available under "Start Mode":
 .. image:: tutorial-start-mode-new.png
 
 + **Start the tutorial automatically**: The tutorial starts when the user enters the page, but when the user has closed the tutorial, it can still be available as an icon or in the menu, if set up that way.
-+ **User starts tutorial manually**: The tutorial can be made availabel through the Action Menu, either as an icon or in the menu. Note that this has to be set up as well in the Header settings for the Business Profile.
-+ **Show alert for new version**. If the tutoorials are availble through an icon and a tutorial is updated, a Tool Tip Alert will be shown on the Tutorial icon. 
++ **User starts tutorial manually**: The tutorial can be made available through the Action Menu, either as an icon or in the menu. Note that this has to be set up as well in the Header settings for the Business Profile.
++ **Show alert for new version**. If the tutorials are available through an icon and a tutorial is updated, a Tool Tip Alert will be shown on the Tutorial icon. 
 
 When you're done with a target setting, or with all target settings for a tutorial, use Add and Save this way:
 
