@@ -16,6 +16,14 @@
 - Default content community layout buttons can now be edited.
 - Fixed an issue preventing display breakpoints from working in the page rollup.
 - User profile competition now works as expected when a description is not filled in.
+- Fixed an issue that caused rounded corners in the top navigation. (#127893).
+- The document rollup now correctly restores settings of the search box when edited (#127131).
+- The click guard now works correctly in design mode.
+- Fixed an issue where the data of the document rollup would not render in edit mode.
+- Corrected the ratio of the tutorial to be more like 5.1.
+- Hidden pages now works correctly in the Dashboard block.
+- Margins corrected in the action menu.
+- The opacity effect has been removed from the page listing with image.
 
 
 
