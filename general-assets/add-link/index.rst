@@ -1,7 +1,7 @@
 Add link
 ===========================================
 
-Add link is used when a link is about to be added in a block and a few other instances. 
+Add link is used when a link is added in a block and a few other instances. 
 
 .. image:: add-link-new.png
 
