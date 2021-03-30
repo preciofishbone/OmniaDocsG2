@@ -56,7 +56,7 @@ Available options depend on the template chosen. Here's some common ones:
 
 (If approval is needed, the option is "SEND FOR APPROVAL").
 
-.. note.. When the community site has been created, the above settings can not be edited here.
+.. note:: When the community site has been created, the above settings can not be edited here.
 
 Edit settings
 --------------
@@ -102,4 +102,4 @@ If you reject, the following is shown:
 
 The colleague requesting the site receives the message and can then start a new community site creation with your comments in mind. 
 
-.. note .. Requesting a site must always be done from start each time. If rejected, nothing from the request is saved.
+.. note:: Requesting a site must always be done from start each time. If rejected, nothing from the request is saved.
