@@ -1,7 +1,7 @@
 Communities
 ============
 
-Use these settings to go to any community site to, for example, edit settings. You can also create a new community site from here.
+Use these options to go to any community site to, for example, edit settings. You can also create a new community site from here.
 
 For Community sites with "Approval" as site creation mode, you use the "Pending Approval" list to approve or reject creation of a site.
 
