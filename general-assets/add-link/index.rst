@@ -3,7 +3,7 @@ Add link
 
 Add link is used when a link is added in a block and a few other instances. 
 
-.. image:: add-link-new.png
+.. image:: add-link-new2.png
 
 You can use this asset to add a link to a page or document in the tenant, or create a Custom link to any web page. A mailto link can be created using a Custom link.
 
@@ -18,27 +18,37 @@ The following settings are available:
 
 Here are some examples of Font Awesome icons:
 
-.. image:: font-awesome.png
+.. image:: font-awesome-new.png
 
 Here are some examples of Microsoft icons:
 
-.. image:: fabric.png
+.. image:: fabric-new.png
 
 If you select "Flags" you can add a colord flag as an icon, for example:
 
-.. image:: flags.png
+.. image:: flags-new.png
 
 Save after each link added.
 
 Page
 ******
-First, select Page Collection in the list at the top. If the Page Collection isn't present in the list, select "Others..." so you can add the Url to any Page Collection.
+To add a link to a page, do the following:
 
-.. image:: add-link-page-new.png
+1. Select Publishing App, if needed.
 
-As the next step, navigate to the page and select it. Here's an example:
+.. image:: add-link-page-1.png
 
-.. image:: add-link-page-example-new.png
+2. Select Page Collection. 
+
+.. image:: add-link-page-new2.png
+
+If the Page Collection isn't present in the list, select "Others..." so you can add the Url to any Page Collection.
+
+.. image:: select-other.png
+
+3. As the next step, navigate to the page and select it. Here's an example:
+
+.. image:: add-link-page-example-new2.png
 
 Then use the options as above (Title, Open in new window and Icon).
 
