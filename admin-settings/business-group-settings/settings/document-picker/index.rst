@@ -11,7 +11,7 @@ Are available this way in the picker:
 
 .. image:: document-picker.png
 
-Note that if a document library is set up for the Publishing App, this document library becomes the default tab in the Document Picker. For more information see: :doc:`Publishing Apps </admin-settings/buseiness-group-settings/publishing-apps/index>`
+Note that if a document library is set up for the Publishing App, this document library becomes the default tab in the Document Picker. For more information see: :doc:`Publishing Apps </admin-settings/business-group-settings/publishing-apps/index>`
 
 Create a new category
 ***********************
