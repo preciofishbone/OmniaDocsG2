@@ -1,5 +1,8 @@
-6.1.0 - Draft
+6.1.0
 ========================================
+(Omnia 6.1.0 / Workplace 6.1.1 / WCM 6.1.1 / MS 6.1.1 )
+
+
 - The sort by field in Search Category settings can now be cleared.
 - Mandatory Boolean page properties are now handled correctly (#127641).
 - Displaying notifications on updated pages now works as expected outside of communities (#127643).
@@ -24,7 +27,12 @@
 - Hidden pages now works correctly in the Dashboard block.
 - Margins corrected in the action menu.
 - The opacity effect has been removed from the page listing with image.
-
+- Fixed a bug that caused redirect links not to work if not already logged in (#127592).
+- Updated width settings of the document rollup for a better responsive behavior (#127685).
+- Corrected the feedback block detail view, now has correct background color (#127621).
+- Fixed a bug that caused a bullet point to be rendered next to summary elements (#127486, #127655).
+- Fixed an issue with multiple notification panels on the same page (#127762).
+- Corrected display of people properties in DM documents (#117207).
 
 
 6.0.2

@@ -50,15 +50,17 @@ If the Page Collection isn't present in the list, select "Others..." so you can 
 
 .. image:: add-link-page-example-new2.png
 
-Then use the options as above (Title, Open in new window and Icon).
+4. Then use the options as above (Title, Open in new window and Icon).
 
-Save after each Page link added.
+5. Save after each Page link added.
 
 Document
 *********
 To add a link to a Document, use the following options:
 
 .. image:: add-link-document-new.png
+
+This is available options in omnia, versions prior to v6.
 
 + **Search**: Use this field to search for a Document.
 + **Upload**: Click here to upload a Document to link to.
@@ -72,6 +74,8 @@ Here's an example with a Document selected:
 Then use the rest of the options as above (Open in new window and Icon).
 
 Save after each Document link added.
+
+If you're using **Omnia v6 or later**, the Document Picker is used here. For more information see: :doc:`Document Picker </general-assets/document-picker/index>`
 
 
 
