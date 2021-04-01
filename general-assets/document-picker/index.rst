@@ -3,7 +3,7 @@ Document Picker
 
 The Document Picker is used in various places in Omnia where documents is selected. What will actually be available in the picker depends on settings in Omnia Admin. Here's an example:
 
-.. image:: document-picker-example.png
+.. image:: document-picker-example-new.png
 
 Use the Document Picker this way:
 
@@ -13,11 +13,11 @@ Use the Document Picker this way:
 
 If the list in the tab is long, use the navigation at the bottom of the page to go between pages:
 
-.. image:: document-picker-navigation.png
+.. image:: document-picker-navigation-new.png
 
-Depending on settings in Omnia Admin, a search can be available, and it can also be possible to filter the lists on a property, in this example on Document Type:
+Depending on settings in Omnia Admin, a search can be available, and it can also be possible to filter the lists on a property, in this example on Document Type. A second step can be aveilable for the property, as "Applies To" in this example. 
 
-.. image:: document-picker-search.png
+.. image:: document-picker-search-new.png
 
 Settings for the Document Picker
 *********************************
