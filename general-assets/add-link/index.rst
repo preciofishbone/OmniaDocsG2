@@ -60,7 +60,7 @@ To add a link to a Document, use the following options:
 
 .. image:: add-link-document-new.png
 
-This is the available options in omnia, versions prior to v6. If you're using Omnia v6, see below.
+This is the available options in Omnia, versions prior to v6. If you're using Omnia v6, see below.
 
 + **Search**: Use this field to search for a Document.
 + **Upload**: Click here to upload a Document to link to.
