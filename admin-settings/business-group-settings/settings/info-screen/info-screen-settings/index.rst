@@ -1,15 +1,15 @@
 Info Screen
 =====================
 
-When you select Info Screen in the Business Profile Settings, something like the following is shown:
+When you select "Info Screen" in the Business Profile Settings, something like the following is shown:
 
 .. image:: info-screen-list.png
 
 You can set up several screens and they are displayed in this list.
 
-Use the pen to edit settings or the dustin bin to delete a screen setup. All settings can be edited for an existing setup, see below.
+Use the pen to edit settings or the dust bin to delete a screen setup. All settings can be edited for an existing setup, see below.
 
-This icon you can use to proview a setup:
+You can use this icon to proview a setup:
 
 .. image:: info-screen-list-icon.png
 
@@ -29,7 +29,7 @@ Here, the following can be set:
 
 .. image:: info-screen-settings-news.png
 
-As the first step add a Title for the Info Screen setup.
+As the first step, add a Title for the Info Screen setup.
 
 Query
 ---------
@@ -37,7 +37,7 @@ You can either pick one or more pages to display or use the Query Builder.
 
 .. image:: info-screen-settings-query.png
 
-If you choose to use the Query Builder, it's used the same way as in the Page Rollup. See the heading "Query" on this page: :doc:`Page Rollup </blocks/page-rollup/index>`
+If you choose to use the Query Builder, it's used the same way as in the Page Rollup. See the heading "Query" on this page: :doc:`Page Rollup </blocks/page-rollup/index.html#query>`
 
 If you choose to pick pages, this is how it's done:
 
@@ -57,7 +57,7 @@ See this page for more information about how to pick pages: :doc:`Page Picker </
 
 Social Period 
 ---------------
-Social Period is used the same way as in the Page Rollup block. See the heading "Social Period" on this page: :doc:`Page Rollup </blocks/page-rollup/index>`
+Social Period is used the same way as in the Page Rollup block. See the heading "Social Period" on this page: :doc:`Page Rollup </blocks/page-rollup/index.hmtl#social-period>`
 
 Display
 ---------
