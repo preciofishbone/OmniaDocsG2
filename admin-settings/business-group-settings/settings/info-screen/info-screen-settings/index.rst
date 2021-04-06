@@ -37,7 +37,7 @@ You can either pick one or more pages to display or use the Query Builder.
 
 .. image:: info-screen-settings-query.png
 
-If you choose to use the Query Builder, it's used the same way as in the Page Rollup. See the heading "Query" on this page: :doc:`Page Rollup </blocks/page-rollup/index.html#query>`
+If you choose to use the Query Builder, it's used the same way as in the Page Rollup. See the heading "Query" on this page: :doc:`Page Rollup </blocks/page-rollup/index/query>`
 
 If you choose to pick pages, this is how it's done:
 
@@ -57,7 +57,7 @@ See this page for more information about how to pick pages: :doc:`Page Picker </
 
 Social Period 
 ---------------
-Social Period is used the same way as in the Page Rollup block. See the heading "Social Period" on this page: :doc:`Page Rollup </blocks/page-rollup/index.hmtl#social-period>`
+Social Period is used the same way as in the Page Rollup block. See the heading "Social Period" on this page: :doc:`Page Rollup </blocks/page-rollup/index#social-period>`
 
 Display
 ---------
