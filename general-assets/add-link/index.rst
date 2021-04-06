@@ -56,7 +56,7 @@ If the Page Collection isn't present in the list, select "Others..." so you can 
 
 Document
 *********
-To add a link to a Document, use the following options:
+To add a link to a Document, use the following options. 
 
 .. image:: add-link-document-new.png
 

@@ -1,7 +1,7 @@
 Document Picker
 =================
 
-The Document Picker is used in various places in Omnia where documents is selected. What will actually be available in the picker depends on settings in Omnia Admin. Here's an example:
+The Document Picker is available in Omnia v6, and is used in various places in Omnia where documents is selected. What will actually be available in the picker depends on settings in Omnia Admin. Here's an example:
 
 .. image:: document-picker-example-new.png
 
