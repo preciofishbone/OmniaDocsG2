@@ -39,13 +39,15 @@ The following settings are available for Search Category:
 + **Hide filter per default**: If you select this options, filters are hidden but users can choose to display them. 
 + **Add Filter**: If you are using a Search Category you can add filters to allow the users to filter the list in the Document Picker, see below for an example.
 
-For a search box you can add a text to be shown in the field before a search is conducted, and select what to search on:
+For a search box you can set some additional settings:
 
 .. image:: dp-categories-search-options.png
 
-Per default the search will onfly find whole words, but if you select this option, the search will find parts of words as well.
++ **Search Text**: Add a text to be shown in the field before a search is conducted.
++ **Search on Document Title and**: You can select one or more additional properties to search on here (not mandatory). As stated in the label, a search on Document Title is always conducted.
++ **Enable partial word search**: Per default the search will only find whole words, but if you select this option, the search will find parts of words as well.
 
-If "Hide filter per defaul" is selected, a "Show Filter" options is displayed, for example:
+If "Hide filter per default" is selected, a "Show Filter" options is displayed for users, for example:
 
 .. image:: dp-categories-search-options-hidden.png
 
@@ -53,7 +55,7 @@ The following filter settings:
 
 .. image:: dp-categories-new-4-new.png
 
-Is displayed this way in the Document Picker:
+is displayed this way in the Document Picker:
 
 .. image:: document-picker-filter-example-1-new.png
 
