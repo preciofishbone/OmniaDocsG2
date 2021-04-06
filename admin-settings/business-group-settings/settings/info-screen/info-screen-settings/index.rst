@@ -95,7 +95,7 @@ The settings are simply:
 
 .. image:: info-screen-settings-media-settings.png
 
-+ **Title**: Add a title to display for viedoe (mandatory).
++ **Title**: Add a title to display for video (mandatory).
 + **Video**: Click the icon in this field to start Media Picker to select the video.
 
 For more information on how to use Media Picker, see :doc:`Media Picker </general-assets/media-picker/index>`
