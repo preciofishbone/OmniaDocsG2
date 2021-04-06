@@ -39,7 +39,7 @@ Here you can edit the settings for the App (site), which was set when the App wa
 
 Switching Template
 -------------------
-If necessary, you can change to another Provisiong Template for the App (site) here, but the recommendation is that you do that only for Apps that are not really use yet.
+If necessary, you can change to another Provisiong Template for the App (site) here, but the recommendation is that you do that only for Apps that are not really used yet.
 
 .. image:: app-settings-settings-template.png
 
