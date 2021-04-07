@@ -1,7 +1,7 @@
-Mapping a user profile property (v6)
+Mapping a user profile property
 =====================================
 
-**(How this works in Omnia v6 will be added soon.)**
+**(This will be checked against Omnia v6 soon.)**
 
 This is how it works in Omnia versions prior to v6:
 
