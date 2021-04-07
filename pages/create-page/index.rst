@@ -64,9 +64,13 @@ When the last Wizard step has been edited, something like the following is shown
 
 **Note!** A new page is never shown for users until it's published at least once.
 
-Page Style
-*************
-There's a number of style options available for a  page, see: :doc:`Page Style </pages/page-style/index>`
+Page Style and Layout Templates
+************************************
+In Omnia versions prior to v6, there's a number of style options available for a page, see: :doc:`Page Style </pages/page-style/index>`
+
+In Omnia v6, Page Style is moved to the new Layout Explorer, see this page for more information: :doc:`Page Style in v6 </general-assets/layout-explorer/page-layout/page-style/index>`
+
+In Omnia v6, there's also a number of Layout Templates you can use, if you wish, for a new page. :doc:`Layout Templates </general-assets/layout-explorer/layout-templates/index>`
 
 
 
