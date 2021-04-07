@@ -74,7 +74,7 @@ When you have added an image for a step, you can edit or delete it the same way 
 
 Use the pen to edit, the X to delete the image.
 
-For image editing in Omnia v6, see this page: :doc:`Media Picker (v6) </general-assets/media-picker/media-picker-v6/index>`
+For image editing, see this page: :doc:`Media Picker </general-assets/media-picker/index>`
 
 Target settings
 ------------------
