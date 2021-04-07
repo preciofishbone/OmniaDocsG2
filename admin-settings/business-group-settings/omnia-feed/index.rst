@@ -25,8 +25,6 @@ What you do here is to select properties in Omnia that contain the information n
 
 Note that properties must have been set up in Omnia Admin to be available to select here, see: :doc:`Properties </admin-settings/tenant-settings/properties/index>`
 
-(If you're using Omnia v6, you should click the link on the Properties page to get the correct description).
-
 Share View Settings:
 
 .. image:: omnia-feed-view-settings-share-view.png
