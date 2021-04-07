@@ -56,26 +56,7 @@ If the Page Collection isn't present in the list, select "Others..." so you can 
 
 Document
 *********
-To add a link to a Document, use the following options. 
-
-.. image:: add-link-document-new.png
-
-This is the available options in Omnia, versions prior to v6. If you're using Omnia v6, see below.
-
-+ **Search**: Use this field to search for a Document.
-+ **Upload**: Click here to upload a Document to link to.
-+ **Documents**: If the Document is present in any folder in the Document library here, use the folders to navigate to the Document and select it.
-+ **Title**: The Document name is automatically added as the Title. Edit it if needed.
-
-Here's an example with a Document selected:
-
-.. image:: add-link-document-example-new.png
-
-Then use the rest of the options as above (Open in new window and Icon).
-
-Save after each Document link added.
-
-If you're using **Omnia v6**, the Document Picker is used here. For more information see: :doc:`Document Picker </general-assets/document-picker/index>`
+When you want to link to a document, the options are exactly the same as those in "Document Picker". For more information see: :doc:`Document Picker </general-assets/document-picker/index>`
 
 
 
