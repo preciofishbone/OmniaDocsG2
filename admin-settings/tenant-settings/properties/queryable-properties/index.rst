@@ -1,4 +1,4 @@
-Queryable Properties (v6)
+Queryable Properties
 ===========================
 
 Three lists are available here:

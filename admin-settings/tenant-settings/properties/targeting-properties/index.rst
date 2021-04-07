@@ -1,4 +1,4 @@
-Targeting Properties (v6)
+Targeting Properties
 ===========================
 
 Here you define which Properties to use for Targeting. 

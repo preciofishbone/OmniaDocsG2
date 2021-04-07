@@ -1,4 +1,4 @@
-Property Sets (v6)
+Property Sets
 ====================
 
 This is as the name says, an option where you can create sets of several Enterprise Properties and handle the set instead of each individual property. 

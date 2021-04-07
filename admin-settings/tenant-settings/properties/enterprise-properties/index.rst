@@ -1,4 +1,4 @@
-Enterprise Properties (v6)
+Enterprise Properties
 =============================
 
 Here you add ALL Properties that should be used within the Tenant. The list displays all existing properties organized after category, for example:
