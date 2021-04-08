@@ -32,13 +32,13 @@ Something like the following is shown:
 
 If you selected a page that has sub pages, you are made aware of the fact by the message "A lot of pages could be affected":
 
- image:: hide-message-several.png
+.. image:: hide-message-several.png
 
 5. Click OK to hide.
 
 A hidden page is indicated this way:
 
-.. image:: pages-hidden-new.png
+.. image:: pages-hidden-new-frame.png
 
 Show a hidden page
 *********************
