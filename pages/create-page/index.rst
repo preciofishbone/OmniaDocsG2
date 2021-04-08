@@ -66,9 +66,9 @@ When the last Wizard step has been edited, something like the following is shown
 
 Page Style and Layout Templates
 ************************************
-In the Layout Explorer, there's a number of Layout Templates you can use, if you wish, for a new page. See: :doc:`Layout Templates </general-assets/layout-explorer/layout-templates/index>`
+In Layout Explorer, there's a number of Layout Templates you can use, if you wish, for a new page. See: :doc:`Layout Templates </general-assets/layout-explorer/layout-templates/index>`
 
-In Layout Explorer there are as number of Page Style settings as well, see this page for more information: :doc:`Page Style in v6 </general-assets/layout-explorer/page-layout/page-style/index>`
+In Layout Explorer there are a number of Page Style settings as well, see this page for more information: :doc:`Page Style </general-assets/layout-explorer/page-layout/page-style/index>`
 
 
 
