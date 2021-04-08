@@ -1,7 +1,9 @@
 Create a new Page Type
 ========================
 
-To create a new page type when you're editing a page, do the following:
+To create a new page type when you're editing a page, do the following.
+
+Note that if your organization works with Tenant Page Types you first have to consider if should add it as a Tenant Page Type or a Local Page Type. For more information, see this page: :doc:`Tenant Page Types </admin-settings/tenant-settings/webcontent-managament/page-types/index>`
 
 1. Click the plus for Page Types.
 
