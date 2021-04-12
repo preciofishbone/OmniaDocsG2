@@ -1,3 +1,14 @@
+6.1.7
+========================================
+(Omnia 6.1.2 / Workplace 6.1.1 / WCM 6.1.7 / MS 6.1.2 )
+
+- Big performance improvement for the Page Rollup.
+- Its now easier to have text on multiple lines on OPM shapes (#125370).
+- Taxonomy refiners based on term ids correctly resolve in quick search and advanced search.
+- Corrected an issue that would occur in the upgrade from 5.1 for page types with background images.
+- Implemented better handling of language fallback when en-us is not an available language. 
+- Corrected an issue that would occur in the upgrade from 5.1 in the icons of a block header.
+
 6.1.0
 ========================================
 (Omnia 6.1.0 / Workplace 6.1.1 / WCM 6.1.1 / MS 6.1.1 )
