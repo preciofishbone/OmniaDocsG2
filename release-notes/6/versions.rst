@@ -1,6 +1,6 @@
 6.1.7
 ========================================
-(Omnia 6.1.2 / Workplace 6.1.1 / WCM 6.1.7 / MS 6.1.2 )
+(Omnia 6.1.2 / Workplace 6.1.1 / WCM 6.1.7 / MS 6.1.3 )
 
 - Big performance improvement for the Page Rollup.
 - Its now easier to have text on multiple lines on OPM shapes (#125370).
