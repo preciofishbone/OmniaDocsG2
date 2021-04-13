@@ -52,7 +52,7 @@ Some default blocks can already be in place for the Page Type, and besides that 
 
 Available properties and if they are mandatory or not, are set up in settings for the Page Type.
 
-Page Contact and Review Date are two common properties. The page contact is often used for page owner to receive page feedback, if applicable, but other property field can be used for that purpose. Review Date is just a date for a reminder that it may be time to review the page in case it needs an update. Set the Review as you see fit, but a review at least once a year is probably a good idea.
+Page Contact and Review Date are two common properties. The page contact is often used for page owner to receive page feedback, if applicable, but other property fields can be used for that purpose. Review Date is just a date for a reminder that it may be time to review the page in case it needs an update. Set the Review as you see fit, but a review at least once a year is probably a good idea.
 
 8. Click "Next" to go the next Wizard step.
 
