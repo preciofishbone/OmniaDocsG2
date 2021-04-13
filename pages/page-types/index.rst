@@ -7,7 +7,7 @@ Some blocks can be added to a page type so they are a part of the layout present
 
 In Omnia v6 and later, default content can be added to blocks and you can set if it's allowed to edit this content or not. This option is available for blocks that can be edited in Write mode. 
 
-.. note:: If default content is edited in a Page Type, it is valid for new pages created from the Page Type only. The default content is not updated in existing pages.
+**Important Note!** If default content is edited in a Page Type, it is valid for new pages created from the Page Type only. The default content is not updated in existing pages.
 
 When a new page is created, the Editor or Author can choose page type from any available in the page type list, or any Tenant Page Type, if available.
 
