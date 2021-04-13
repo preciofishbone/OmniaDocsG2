@@ -21,7 +21,7 @@ The Like icon now changes to show that you have liked the article (you can only 
 
 You can click this icon to unlike the article, if you want to do that.
 
-To like a comment or a reply, click "Like" in the comment field or Reply field.
+To like a comment or a reply, click "Like" in the comment field or in the reply field.
 
 .. image:: knowledge-like-3.png
 
@@ -40,7 +40,7 @@ Rate a Knowledge article
 **************************
 The list "Top Rated", available on the start page for Knowledge articles, displays the article in rating order.
 
-You can set a rating for how valuable you think the information in the article is, just do it by selecting a number of stars:
+You can set a rating for how valuable you think the information in the article is. Just do it by selecting a number of stars:
 
 .. image:: knowledge-rating.png
 
