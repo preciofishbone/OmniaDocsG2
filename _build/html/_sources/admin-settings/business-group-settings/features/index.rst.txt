@@ -3,7 +3,7 @@ Features - Business Profile
 
 All available Features for the Business Profile is listed here and can be activated, deactivated and updated. Here's an example:
 
-.. image:: features-business-profile-new3.png
+.. image:: features-business-profile-new4.png
 
 Provisioning Templates
 ************************

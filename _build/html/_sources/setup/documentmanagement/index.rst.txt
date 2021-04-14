@@ -193,7 +193,6 @@ Now you will have to wait a few minutes before the controlled document has been 
 
 .. image:: property-approvedby.png
 .. image:: property-documentid.png
-.. image:: property-documentidnumber.png
 .. image:: property-documenttype.png
 .. image:: property-edition.png
 .. image:: property-published.png

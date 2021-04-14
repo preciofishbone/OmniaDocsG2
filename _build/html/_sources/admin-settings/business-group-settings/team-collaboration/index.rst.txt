@@ -133,5 +133,8 @@ The person requesting the site receives the message and can then start a new Tea
 
 **Note!** Requesting a Teamwork Site must always be done from start each time. If rejected, nothing from the request is saved.
 
+Important note about Site Ownership when approving
+*****************************************************
+Because of caching issues in Sharepoint, it can take some time, even up to 2 hours after approval, before site ownership will work as intended - as set in the Teamwork Creation Wizard in Omnia. During this time, the Approver will have Owner permissions. 
 
 

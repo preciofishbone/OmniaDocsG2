@@ -39,12 +39,14 @@ Here you can set the following:
 
 Regarding Scope, here's more detailed information:
 
-+ All (public): All Teamwork App Instances where "Show in public listings" is checked. (Omnia Database)
-+ Followed: All followed Teamwork App Instances. (Omnia Database)
-+ Last Visited: All last visited Teamwork App Instances. (Omnia Database)
-+ All (SharePoint Sites): All sites in SharePoint. (SharePoint Search)
-+ Followed (SharePoint Sites): All followed sites in SP. (SharePoint Social API)
-+ Member of (Office 365 Groups): Member of Office 365 Groups. (MS Graph)
+Note that the first three scopes only include teamwork connected to Omnia that are assigned a provisioning template and can be found in the Teamwork list within Omnia admin.
+
++ All (public): All Teamwork App Instances where "Show in public listings" is checked. (Omnia Database).
++ Followed: All followed Teamwork App Instances. (Omnia Database).
++ Last Visited: All last visited Teamwork App Instances. (Omnia Database).
++ All (SharePoint Sites): All sites in SharePoint. (SharePoint Search).
++ Followed (SharePoint Sites): All followed sites in SP. (SharePoint Social API).
++ Member of (Office 365 Groups): Member of Office 365 Groups. (MS Graph).
 
 Display
 ----------

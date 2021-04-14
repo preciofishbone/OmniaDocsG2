@@ -21,7 +21,7 @@ Use this option to go the page set up to where end users can acccess the process
 
 Feedback
 *********
-In Omnia v6 and later, an Action Button can be set up to make it possible for users to send feedback on a process. Such feedback will be sent to the process owner and will be available through this option.
+An Action Button can be set up to make it possible for users to send feedback on a process. Such feedback will be sent to the process owner and will be available through this option.
 
 .. image:: process-feedback.png
 

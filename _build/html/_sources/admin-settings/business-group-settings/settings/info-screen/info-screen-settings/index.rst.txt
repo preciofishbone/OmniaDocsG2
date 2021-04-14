@@ -1,15 +1,15 @@
 Info Screen
 =====================
 
-When you select Info Screen in the Business Profile Settings, something like the following is shown:
+When you select "Info Screen" in the Business Profile Settings, something like the following is shown:
 
 .. image:: info-screen-list.png
 
 You can set up several screens and they are displayed in this list.
 
-Use the pen to edit settings or the dustin bin to delete a screen setup. All settings can be edited for an existing setup, see below.
+Use the pen to edit settings or the dust bin to delete a screen setup. All settings can be edited for an existing setup, see below.
 
-This icon you can use to proview a setup:
+You can use this icon to proview a setup:
 
 .. image:: info-screen-list-icon.png
 
@@ -29,7 +29,7 @@ Here, the following can be set:
 
 .. image:: info-screen-settings-news.png
 
-As the first step add a Title for the Info Screen setup.
+As the first step, add a Title for the Info Screen setup.
 
 Query
 ---------
@@ -95,7 +95,7 @@ The settings are simply:
 
 .. image:: info-screen-settings-media-settings.png
 
-+ **Title**: Add a title to display for viedoe (mandatory).
++ **Title**: Add a title to display for video (mandatory).
 + **Video**: Click the icon in this field to start Media Picker to select the video.
 
 For more information on how to use Media Picker, see :doc:`Media Picker </general-assets/media-picker/index>`

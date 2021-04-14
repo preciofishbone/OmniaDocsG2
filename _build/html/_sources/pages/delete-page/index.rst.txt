@@ -17,11 +17,11 @@ Here's how to archive a page:
 2. Edit the page.
 3. Open the action menu at the bottom right.
 
-.. image:: archive-menu1.png
+.. image:: archive-menu1-new.png
 
 4. Select "ARCHIVE".
 
-.. image:: archive-menu2.png
+.. image:: archive-menu2-new.png
 
 Something like the following is shown:
 

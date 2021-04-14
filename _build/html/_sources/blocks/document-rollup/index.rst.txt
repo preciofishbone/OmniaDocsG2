@@ -132,9 +132,13 @@ Here's an example:
 
 Click "Adjust Refiners" to edit the order.
 
-Using STYLE you can set Elevation, Background and Border Radius:
+Using STYLE you can set the following:
 
 .. image:: document-rollup-settings-refiners-style.png
+
++ **Elevation**: If you want the refiner area to be elevated, use this slider to set how much.
++ **Background**: Use this option to add a gray tint to the Refiner area, to make it a little bit darker than the rest of the block. If the background for the block is white the Refiner area is distinctively gray. If the background for the block is black this option makes no difference.
++ **Border Radius**: Use this slider to set rounded corners for the Refiner area.
 
 Layout and Write
 *********************

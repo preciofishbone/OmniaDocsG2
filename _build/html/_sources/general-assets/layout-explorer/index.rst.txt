@@ -5,7 +5,7 @@ In Omnia v6 a Layout Explorer has been added. Regarding Pages, it's available wh
 
 .. image:: page-toolbar.png
 
-The following options are found in the Layout Explorer. Select page for more information:
+The following options are found in Layout Explorer. Select page for more information:
 
 .. toctree::
    :titlesonly:

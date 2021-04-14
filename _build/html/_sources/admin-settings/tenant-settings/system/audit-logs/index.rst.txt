@@ -8,7 +8,7 @@ This option logs some important events in Omnia. In this version the following i
 
 The listing can look like this:
 
-.. image:: audit-logs-list.png
+.. image:: audit-logs-list-new.png
 
 + **Title**: Here you can see a description of what has been changed.
 + **Logged By**: The name of the person that did the change is shown here.
@@ -16,22 +16,20 @@ The listing can look like this:
 
 You can filter the list on dates, category and person, by using the fields at the top.
 
-.. image:: audit-logs-list-filter.png
-
 Further information can be accessed through the i-icon:
 
-.. image:: audit-logs-icon.png
+.. image:: audit-logs-icon-new.png
 
 Here's an example:
 
-.. image:: audit-logs-icon-example.png
+.. image:: audit-logs-icon-example-new.png
 
 The settings
 **************
 You access the setting by clicking the cogwheel.
 
-.. image:: audit-logs-list-settings.png
+.. image:: audit-logs-list-settings-new.png
 
 What you can do in the settings is simply turning Audit logging on or off (which is also logged).
 
-.. image:: audit-logs-list-settings-settings.png
+.. image:: audit-logs-list-settings-settings-new.png

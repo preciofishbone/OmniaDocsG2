@@ -1,10 +1,6 @@
 Omnia Feed - Business Profile Settings
 =================================================
 
-Omnia Feed can be set up in many different ways to make it possible for users to read information from your organization's intranet, on their mobile device. A good example is News, but it can be any page(s) really, and anything that can be accessed by a link.
-
-The Omnia Feed app can be downloaded from the usual sources, for example App Store for iPhone.
-
 **Important Note!** Omnia Feed is "Forward Only" meaning that a page that has been sent to a user can't be recalled. This is important to remember for example when creating or editing a query. 
 
 Settings
@@ -28,8 +24,6 @@ Use this tab for settings for Omnia Feed's views.
 What you do here is to select properties in Omnia that contain the information needed for the different views.
 
 Note that properties must have been set up in Omnia Admin to be available to select here, see: :doc:`Properties </admin-settings/tenant-settings/properties/index>`
-
-(If you're using Omnia v6, you should click the link on the Properties page to get the correct description).
 
 Share View Settings:
 

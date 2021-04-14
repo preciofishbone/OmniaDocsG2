@@ -8,7 +8,7 @@
   
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   
-  <title>6.0.0 &mdash; Omnia  documentation</title>
+  <title>6.1.0 &mdash; Omnia  documentation</title>
   
 
   
@@ -101,12 +101,14 @@
 <li class="toctree-l1"><a class="reference internal" href="../../working-with-events/index.html">Working with Events</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../using-communities/index.html">Using Communities</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../using-newsletters/index.html">Using Newsletters</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../using-omnia-feed/index.html">Using Omnia Feed</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../user-options/index.html">User options</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../setup/index.html">Setup</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../cookies-consent-information/index.html">Cookies Consent information</a></li>
 <li class="toctree-l1 current"><a class="reference internal" href="../index.html">Release Notes</a><ul class="current">
 <li class="toctree-l2 current"><a class="reference internal" href="index.html">Release 6</a><ul class="current">
-<li class="toctree-l3 current"><a class="current reference internal" href="#">6.0.0</a></li>
+<li class="toctree-l3 current"><a class="current reference internal" href="#">6.1.0</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#id2">6.0.2</a></li>
 </ul>
 </li>
 <li class="toctree-l2"><a class="reference internal" href="../5/index.html">Release 5</a></li>
@@ -168,7 +170,7 @@
         
           <li><a href="index.html">Release 6</a> &raquo;</li>
         
-      <li>6.0.0</li>
+      <li>6.1.0</li>
     
     
       <li class="wy-breadcrumbs-aside">
@@ -188,11 +190,43 @@
            <div itemprop="articleBody">
             
   <div class="section" id="id1">
-<h1>6.0.0<a class="headerlink" href="#id1" title="Permalink to this headline">¶</a></h1>
-<div class="admonition note">
-<p class="first admonition-title">Note</p>
-<p class="last">These release notes are a draft. Items might be added, edited or removed.</p>
+<h1>6.1.0<a class="headerlink" href="#id1" title="Permalink to this headline">¶</a></h1>
+<p>(Omnia 6.1.0 / Workplace 6.1.1 / WCM 6.1.1 / MS 6.1.1 )</p>
+<ul class="simple">
+<li>The sort by field in Search Category settings can now be cleared.</li>
+<li>Mandatory Boolean page properties are now handled correctly (#127641).</li>
+<li>Displaying notifications on updated pages now works as expected outside of communities (#127643).</li>
+<li>The search dropdown on a block now has the same width as the block.</li>
+<li>Info Screen has gotten several stability updates.</li>
+<li>Page Rollup has gotten several stability updates.</li>
+<li>Process Management has gotten several stability updates.</li>
+<li>The new Media picker has gotten several stability updates.</li>
+<li>Data migrations for the Notification panel have been improved.</li>
+<li>Several color theme related issues have been fixed.</li>
+<li>The page picker now correctly shows the value you search for.</li>
+<li>It is now possible to have a search box in the Document Picker.</li>
+<li>People rollup now correctly handle zone width.</li>
+<li>Default content community layout buttons can now be edited.</li>
+<li>Fixed an issue preventing display breakpoints from working in the page rollup.</li>
+<li>User profile competition now works as expected when a description is not filled in.</li>
+<li>Fixed an issue that caused rounded corners in the top navigation. (#127893).</li>
+<li>The document rollup now correctly restores settings of the search box when edited (#127131).</li>
+<li>The click guard now works correctly in design mode.</li>
+<li>Fixed an issue where the data of the document rollup would not render in edit mode.</li>
+<li>Corrected the ratio of the tutorial to be more like 5.1.</li>
+<li>Hidden pages now works correctly in the Dashboard block.</li>
+<li>Margins corrected in the action menu.</li>
+<li>The opacity effect has been removed from the page listing with image.</li>
+<li>Fixed a bug that caused redirect links not to work if not already logged in (#127592).</li>
+<li>Updated width settings of the document rollup for a better responsive behavior (#127685).</li>
+<li>Corrected the feedback block detail view, now has correct background color (#127621).</li>
+<li>Fixed a bug that caused a bullet point to be rendered next to summary elements (#127486, #127655).</li>
+<li>Fixed an issue with multiple notification panels on the same page (#127762).</li>
+<li>Corrected display of people properties in DM documents (#117207).</li>
+</ul>
 </div>
+<div class="section" id="id2">
+<h1>6.0.2<a class="headerlink" href="#id2" title="Permalink to this headline">¶</a></h1>
 <div class="section" id="permissions-updates">
 <h2>Permissions updates<a class="headerlink" href="#permissions-updates" title="Permalink to this headline">¶</a></h2>
 </div>
@@ -222,12 +256,14 @@
 <li>The default context URL can now point to a Modern site.</li>
 <li>RTF custom settings now correctly fallback to default settings if custom settings removed.</li>
 <li>Embedded images are now supported in comments.</li>
-<li>Scaling and ratios are now configurable in Omnia Admin (#115473, #114224, #118327, #120242, #116642). (TODO FEATURE NOTES).</li>
+<li>Scaling and ratios are now configurable in Omnia Admin (#115473, #114224, #118327, #120242, #116642, #126567).</li>
+<li>Filtered images now result in server side stored edited images. Fixing issues in the rollups (#115388, #118815).</li>
 <li>An Omnia App Instance can now connect to a site without injecting any code, useful for connecting sites that have other custom code running via SPFx. The SPFx injection has been moved to an Omnia Feature.</li>
-<li>Rich text standard typography has been updated. (TODO FEATURE NOTES).</li>
+<li>Rich text standard typography has been updated.</li>
 <li>The M365 App launcher has gotten style updates to match the changes of M365.</li>
 <li>Console log has been cleaned up.</li>
-<li>All labels for official Omnia languages have been updated in this release. (#123528).</li>
+<li>All labels for official Omnia languages have been updated in this release. (#123528, #125414, #116552, #113838, #126160, ).</li>
+<li>Better compression (Brotli) have been enabled for all resources resulting in better performance.</li>
 </ul>
 </div>
 <div class="section" id="workplace">
@@ -257,7 +293,7 @@
 <li>Stability improvements to the page sync.</li>
 <li>Options for video embed has been expanded to correctly handle auto play and mute. Note: all options are not available in videos from MS Stream.</li>
 <li>The accordion block now has correct padding settings.</li>
-<li>Page properties can now be rendered in many new ways (TODO ENSURE FEATURE RELEASE NOTES).</li>
+<li>Page properties can now be rendered in many new ways (See general release notes).</li>
 <li>Shape dividers are now available for the people rollup.</li>
 <li>People rollup now supports refiners based on term ids, useful in a multilingual environment with many translated terms.</li>
 <li>Multi-value filters now have the correct AND/OR logic in people rollup.</li>
@@ -270,11 +306,21 @@
 <li>Tooltips now show correctly on Tab sections (#125115, #126105).</li>
 <li>Fixed an issue where the action buttons would not correctly render as multilingual (#125063).</li>
 <li>System properties (Non removable properties) can now be added to page types.</li>
+<li>An action button can now be configured to add the current page to my personal links.</li>
+<li>Fixed an issue with the people rollup, it no longer causes incorrect results when clearing a refiner (#117366).</li>
+<li>People rollup now has an action for clearing a search (#119982).</li>
+<li>People rollup now has better handling of width (#124474).</li>
+<li>People rollup can now base its queries on current page metadata.</li>
+<li>Fixed a navigation issue where settings would not reload correctly when navigating between business profiles without reloading the page (#126923).</li>
+<li>Fixed an issue with the URL segment storage in SharePoint (#124243).</li>
+<li>Corrected localization for dates in the Calendar Rollup and the Task Rollup. (#113575, #113582).</li>
+<li>Corrected an issue in the Notification panel settings that would occur when switching business profiles without reloading the page (#115247).</li>
+<li>Device breakpoints no longer show tabs with empty settings. The tabs are hidden instead. (#113972).</li>
 </ul>
 <div class="section" id="reusable-content">
 <h3>Reusable content<a class="headerlink" href="#reusable-content" title="Permalink to this headline">¶</a></h3>
 <ul class="simple">
-<li>The flow for creating reusable content has been greatly improved, see general release notes (#122365, #124250).</li>
+<li>The flow for creating reusable content has been greatly improved, see general release notes (#122365, #124250, #126920).</li>
 <li>The page picker is now supported when selecting a page to reuse.</li>
 <li>Its now possible to reuse content between variations of a page. (#120352).</li>
 </ul>
@@ -290,8 +336,11 @@
 <li>Updates to the card view of the page rollup.</li>
 <li>The image ratio for page rollups is now configurable (#125021).</li>
 <li>DateTime and Integer fields will now correctly sort instead of sorting as strings.</li>
-<li>The loop setting for the Dynamic roller now works as expected. (#123925).</li>
+<li>The loop setting, and number of items displayed for the Dynamic roller now works as expected. (#123925, #122082).</li>
 <li>Page Rollups now works correctly in SPFx (#125238).</li>
+<li>Open in dialogue no longer shows placeholder image (#115500).</li>
+<li>List view padding now works correctly when showing the no result message (#120774).</li>
+<li>Variations are now selected in the query section. It is now possible to select specific variations. (#114179).</li>
 </ul>
 </div>
 <div class="section" id="rtf-updates">
@@ -313,6 +362,7 @@
 <li>Confirmation emails are no longer sent when editing Teamwork.</li>
 <li>Validation when creating new Teamwork has been improved (#120614, #122066).</li>
 <li>Multiple App Administrators can now be assigned. If resource is an O365 group, the owners will be automatically synced. This will allow for the owner group to edit site properties (#124469).</li>
+<li>Fixed an issue that would sometimes cause the edit properties panel to not render correctly (#126141).</li>
 </ul>
 </div>
 <div class="section" id="document-management">
@@ -325,6 +375,7 @@
 <li>Retention date can now be based on any enterprise property (#115742).</li>
 <li>Create new document action can now be added to any action button.</li>
 <li>Custom sort order for Terms now propagate correctly into the Document Management UI (#123926).</li>
+<li>Fixed an issue where sites would not be found when searching in the Create New Document Wizard (#126154)</li>
 </ul>
 </div>
 <div class="section" id="process-management">
@@ -334,6 +385,15 @@
 <li>The process rollup now supports filters based on datetime.</li>
 <li>Archiving a process now works as expected (#124024).</li>
 <li>Fixed an issue with process navigation using the back button (#125663, #125264).</li>
+<li>Fixed an issue that impacted direct linking to processes (#126398).</li>
+<li>Process steps can now have pages as well as documents as related information.</li>
+</ul>
+</div>
+<div class="section" id="event-management">
+<h2>Event Management<a class="headerlink" href="#event-management" title="Permalink to this headline">¶</a></h2>
+<ul class="simple">
+<li>Fixed an issue where having no participant limits would result in rendering Int.Max in the UI (#125038).</li>
+<li>Corrected an issue in the Admin UI where a table would have the wrong headings (#126597, #127623).</li>
 </ul>
 </div>
 <div class="section" id="for-developers">
@@ -344,6 +404,10 @@
 <li>Better error handling when creating client context.</li>
 <li>When creating a SharePoint ClientContext, its now possible to use a username and password.</li>
 </ul>
+</div>
+<div class="section" id="preview">
+<h2>Preview<a class="headerlink" href="#preview" title="Permalink to this headline">¶</a></h2>
+<p>Also fixes preview issues (#126520, #126517, #126259)</p>
 </div>
 </div>
 
@@ -370,7 +434,7 @@
   <div role="contentinfo">
     <p>
         &copy; Copyright 2021, Precio Fishbone.
-      Last updated on Mar 08, 2021.
+      Last updated on Apr 14, 2021.
 
     </p>
   </div>

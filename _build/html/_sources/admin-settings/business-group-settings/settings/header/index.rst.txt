@@ -111,13 +111,24 @@ For Query you can set:
 
 .. image:: teamwork-navigation-addquery-new.png
 
-+ **Scope**: Open the list and select the type of query to execute for this category.
++ **Scope**: Select scope, for example All, Followed or Member of. (See more information about this below.).
 + **Only Current Business Profile**: Below you can select Business Profile to execute the query in. If you want to do that for the Current Business profile only, select this option.
 + **Business Profile**: You can select a Business Profile for the query in this list.
 + **Site Template**: Here you can select one or more Site Templates for the query, meaning all sites that are created from this template, in the selected Business Profile. Don't forget to click ADD when you have salected a Tamplate. It's not mandatory. If you don't select Site Templates here, the query is run for all sites.
 + **Run Query On Load**: For a shorter list of Teamworks, it most likely works fine to run a query when the list is opened, but for longer lists it may not. For a longer list, for example a list of all Teamworks, deselecting this option and instead displaying a search box, may be a better choice. 
 
 To add a search box, use the Filter settings, see below.
+
+Regarding Scope, here’s more detailed information:
+
+Note that the first three scopes only include teamwork connected to Omnia that are assigned a provisioning template and can be found in the Teamwork list within Omnia admin.
+
++ All (public): All Teamwork App Instances where "Show in public listings" is checked. (Omnia Database).
++ Followed: All followed Teamwork App Instances. (Omnia Database).
++ Last Visited: All last visited Teamwork App Instances. (Omnia Database).
++ All (SharePoint Sites): All sites in SharePoint. (SharePoint Search).
++ Followed (SharePoint Sites): All followed sites in SharePoint. (SharePoint Social API).
++ Member of (Office 365 Groups): Member of Office 365 Groups. (MS Graph).
 
 Display
 '''''''''''

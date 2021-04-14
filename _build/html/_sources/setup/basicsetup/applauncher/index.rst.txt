@@ -6,10 +6,10 @@
 3. Go to the default Business Profile and Settings > Header.
 4. Open the App Launcher section and make sure to change the following:
   * Enable the App Launcher.
-  * Make a Custom sort order.
+  * Open the General accordion and set Custom sort order.
   * Include Non-mandatory Links.
   * Select the category Apps.
   * Set item limit to 30.
-  * Make a custom Header Setting and set the Top and Bottom margin to 0px.
+  * Sort the links according to needs.
 
 .. image:: applauncher.png
