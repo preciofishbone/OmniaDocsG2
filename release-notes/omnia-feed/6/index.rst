@@ -4,7 +4,7 @@ Release 6
 Support variation query
 --------------------------------------
 
-It is now possible to configure a tab in Omnia Feed to show a specific variation or select variation based on user's profile.
+It is now possible to configure each tab in Omnia Feed to show a specific variation or to select variation based on user's profile.
 
 .. image:: admin-settings-variation-query.png
 
