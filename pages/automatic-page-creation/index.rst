@@ -19,7 +19,7 @@ Click the plus and the following settings becomes available:
 
 .. image:: automatic-page-2.png
 
-(Not all options are shown in the image.)
+(Not all options are shown in the image, but are listed below.)
 
 + **Name**: Add name for the rule.
 + **Page Creation Rule**: If pages in this Page Collection always should be copied, select "Always Create". If pages should be copied only when certain prerequisites are met, select "Only Create If". See below for more information about this.
