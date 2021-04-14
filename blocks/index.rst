@@ -41,7 +41,6 @@ Blocks
    team-collaboration-rollup/index
    team-news-rollup/index
    text/index
-   trello-cards/index
    working-with-blocks/index
 
 

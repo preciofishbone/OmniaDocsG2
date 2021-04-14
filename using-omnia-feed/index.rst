@@ -15,7 +15,7 @@ Any number of tabs can be set up for access to different resources. A tab can be
 + An Embedded link, which can be used to show the home page of an Omnia intranet, or to show some specific Omnia functionality - for example My Links or My Tasks.
 + An External link, which for example can be used as a shortcut to other applications (time report, HR system, etc).
 
-Settings are found in Omnia Admin. There are settings for the tenant, mainly used by AM and the Omnia Feed Team to set up the tenant, and then settings for each Business Profile, where for example the tabs are set up. See this page for more iformation: :doc:`Omnia Feed - Business Profile Settings </admin-settings/business-group-settings/omnia-feed/index>`
+Settings are found in Omnia Admin. There are settings for the tenant, mainly used by AM and the Omnia Feed Team to set up the tenant, and then settings for each Business Profile, where for example the tabs are set up. See this page for more information: :doc:`Omnia Feed - Business Profile Settings </admin-settings/business-group-settings/omnia-feed/index>`
 
 The Omnia Feed App
 *******************
