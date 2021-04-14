@@ -118,4 +118,4 @@ Use the options at the bottom to do that:
 
 Page Style
 *************
-There's also a number of style options available for a  page, see: :doc:`Page Style </general-assets/layout-explorer/page-style/index>`
+There's also a number of style options available for a  page, see: :doc:`Page Style </general-assets/layout-explorer/page-layout/page-style/index>`
