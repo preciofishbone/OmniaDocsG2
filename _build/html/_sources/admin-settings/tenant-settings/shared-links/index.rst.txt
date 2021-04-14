@@ -90,7 +90,7 @@ To delete a targeting filter, just click the x.
 
 Permissions for Shared Links
 *****************************
-Shared Links has a seperate Permissions setting, so any user can be set as a Shared Links administrator. This includes external users that has been invited in the Asher AD, meaning they can log in with their own Microsoft 365 account. 
+Shared Links has a seperate Permissions setting, so any user can be set as a Shared Links administrator. This includes external users that has been invited in the Azure AD, meaning they can log in with their own Microsoft 365 account. 
 
 Add all users that should be Shared Links administrators for the tenant here:
 

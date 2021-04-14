@@ -82,7 +82,7 @@ It's possible to change Page Type, if you have Editor permissions, but be aware 
 
 3. Select "CHANGE PAGE TYPE".
 
-.. image:: change-page-type-new.png
+.. image:: change-page-type-new2.png
 
 4. Open the list and select another Page Type.
 

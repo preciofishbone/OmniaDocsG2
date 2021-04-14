@@ -1,7 +1,7 @@
 Settings
 ====================
 
-Here you can set the following (Omnia v6):
+Here you can set the following:
 
 .. image:: tenant-settings-new3.png
 

@@ -16,40 +16,46 @@ A number of settings can be edited for the Page Collection, this way:
 1. Edit a page in the Publishing App and open the Page menu.
 2. Click the main navigation node for the Page Collection.
 
-In this example, the two Page Collections Start and News has been created in the Publishing App, and "Start" is selected:
+In this example, three Page Collections has been added in the Publishing App, besides Start and News, and "Start" is selected:
 
-.. image:: page-collection-general-news.png
+.. image:: page-collection-general-news2.png
 
 3. Click "Settings".
 
-.. image:: page-collection-click-settings-new.png
+.. image:: page-collection-click-settings-new2.png
 
 4. Click "Edit" at the bottom to edit the settings.
 
-.. image:: page-collection-click-edit-new.png
+.. image:: page-collection-click-edit-new2.png
 
 4. Use the following settings:
 
-.. image:: page-collection-settings-new2.png
+.. image:: page-collection-settings-new3.png
+
+and these:
+
+.. image:: page-collection-settings-more.png
+
 
 Use the settings this way:
 
 + **Title**: The Title for the Page Collection is shown here. It can be edited if needed. It's updated everywhere it's shown when the changes here are published.
-+ **Create Page Dialogue**: You can set the title for the dialogue displayed when an editor has selected to create a new page. If you leave this field blank, the dialogue title will be "Create New Page".
++ **Create Page Dialog**: You can set the title for the dialog displayed when an editor has selected to create a new page. If you leave this field blank, the dialog title will be "Create New Page".
 + **Show Url**: If the Url for the new page should be shown for the editor when creating a page, select this option. The Url can then be edited.
 + **Show Properties**: If available Page Properties should be shown for the editor when creating a page, select this option. The Properties can then be edited in that stage. Page Properties can always be edited after the page has been created.
 + **Auto Publish**: This is a setting probably most relevant for Communities. If this option is selected a new page is always published automatically. It's only applicable when a new page is created, not when it's updated.
-+ **Page Types**: Select which of the Page Types available in the tenant, that should be available for an editor to select when creating a page in this Page Collection.
-+ **Enable Approval**: If Approval should be needed for creation of new pages, enable this. If not enabled, editors can publish new pages themselves. See more info about Approval settings below.
++ **Page Types**: Select which of the Page Types that should be available for an editor to select when creating a page in this Page Collection. It can be Local Page Types or Tenant Page Types. Tenant Page Types are indicated by the text "(Tenant)". For more information, see this page: :doc:`Tenant Page Types </admin-settings/webcontent-managament/page-types/index>`
++ **Automatic Page Creation**: A copy of a page can be published automatically to another Page Collection when certain rules are met. These rules can be set up here. For more information, see this page: :doc:`Automatic Page Creation </pages/automatic-page-creation/index>`
++ **Enable Approval**: If Approval should be needed for publication of pages (new pages and updates), enable this. If not enabled, editors can publish themselves. See more info about Approval settings below.
++ **Enable Activity Tracking**: For a Community, Activity Tracking can be activated. See the heading *Settings for Activity Points* on this page, for more information: :doc:`Setting up a Community </using-communities/settings/index>` 
 + **Reset notification when page is modified**: This setting defines when a notification that a page is new should be shown for users, for example in the Notification Panel. Normally it's only when the page is created, not when it's updated. If this option is activated the page is considered to be new every time it's updated and a new version is published. Therefore it's probably more relevant for pages in Communities than for Publishing Pages.
-+ **Enable Activity Points**: This option is a preparation for future functionality. 
 + **Enable Send Page as E-mail**: Select this option if pages in the Page Collection should be available to send through e-mail. One example of when this is needed is in a Newsletter inplementation.
 
 Settings for Approval
 ----------------------
 When Approval is activated, the following settings are available:
 
-.. image:: page-collection-approval-settings.png
+.. image:: page-collection-approval-settings-new.png
 
 You select who can approve the creation of a page:
 
@@ -59,17 +65,19 @@ You select who can approve the creation of a page:
 
 When "Anyone" is selected the following is shown when an editor sends the page for approval:
 
-.. image:: approval-anyone.png
+.. image:: approval-anyone-new.png
 
 The author adds the approver to the field "Approver", types a message and sends the approval request.
 
 When selecting "Limited list of people", you add approvers by typing their names in the field displayed:
 
-.. image:: limited-list.png
+.. image:: limited-list-new.png
 
 When you select "Based on person property", you open the list and select property. Normally just one or two properties are available. Page Contact is an example of a field that can be relevant, if such a property is set up.
 
-.. image:: based-on-person.png
+.. image:: based-on-person-new.png
+
+For more information, see this page: :doc:`Properties </admin-settings/tenant-setting/properties/index>` 
 
 Saving Page Collection settings
 ********************************
@@ -82,7 +90,7 @@ If needed, a new Page Collection can be created. Do the following:
 1. Edit any page and open the navigation.
 2. Select "Settings" and then click "+ Page Collection".
 
-.. image:: settings-page-collection-border.png
+.. image:: settings-page-collection-border-new.png
 
 3. Choose to use a Navigation Structure or just Flat, meaning no navigation structure.
 
@@ -92,7 +100,7 @@ One example where "Flat" is a relevant choice, is when creating a new Page Colle
 5. An Url is added, based on the name. It can be edited if needed.
 6. Click "Create".
 
-.. image:: create-page-collection.png
+.. image:: create-page-collection-new.png
 
 The new Page Collection is created and placed in the editors navigation. You can now add pages and everything else that is described in the "Pages" section of this documentation.
 

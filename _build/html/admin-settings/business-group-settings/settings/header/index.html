@@ -130,6 +130,7 @@
 <li class="toctree-l1"><a class="reference internal" href="../../../../working-with-events/index.html">Working with Events</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../../using-communities/index.html">Using Communities</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../../using-newsletters/index.html">Using Newsletters</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../../using-omnia-feed/index.html">Using Omnia Feed</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../../user-options/index.html">User options</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../../setup/index.html">Setup</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../../cookies-consent-information/index.html">Cookies Consent information</a></li>
@@ -299,13 +300,23 @@
 <p>For Query you can set:</p>
 <img alt="../../../../_images/teamwork-navigation-addquery-new.png" src="../../../../_images/teamwork-navigation-addquery-new.png" />
 <ul class="simple">
-<li><strong>Scope</strong>: Open the list and select the type of query to execute for this category.</li>
+<li><strong>Scope</strong>: Select scope, for example All, Followed or Member of. (See more information about this below.).</li>
 <li><strong>Only Current Business Profile</strong>: Below you can select Business Profile to execute the query in. If you want to do that for the Current Business profile only, select this option.</li>
 <li><strong>Business Profile</strong>: You can select a Business Profile for the query in this list.</li>
 <li><strong>Site Template</strong>: Here you can select one or more Site Templates for the query, meaning all sites that are created from this template, in the selected Business Profile. Don’t forget to click ADD when you have salected a Tamplate. It’s not mandatory. If you don’t select Site Templates here, the query is run for all sites.</li>
 <li><strong>Run Query On Load</strong>: For a shorter list of Teamworks, it most likely works fine to run a query when the list is opened, but for longer lists it may not. For a longer list, for example a list of all Teamworks, deselecting this option and instead displaying a search box, may be a better choice.</li>
 </ul>
 <p>To add a search box, use the Filter settings, see below.</p>
+<p>Regarding Scope, here’s more detailed information:</p>
+<p>Note that the first three scopes only include teamwork connected to Omnia that are assigned a provisioning template and can be found in the Teamwork list within Omnia admin.</p>
+<ul class="simple">
+<li>All (public): All Teamwork App Instances where “Show in public listings” is checked. (Omnia Database).</li>
+<li>Followed: All followed Teamwork App Instances. (Omnia Database).</li>
+<li>Last Visited: All last visited Teamwork App Instances. (Omnia Database).</li>
+<li>All (SharePoint Sites): All sites in SharePoint. (SharePoint Search).</li>
+<li>Followed (SharePoint Sites): All followed sites in SharePoint. (SharePoint Social API).</li>
+<li>Member of (Office 365 Groups): Member of Office 365 Groups. (MS Graph).</li>
+</ul>
 </div>
 <div class="section" id="display">
 <h4>Display<a class="headerlink" href="#display" title="Permalink to this headline">¶</a></h4>
@@ -422,7 +433,7 @@
   <div role="contentinfo">
     <p>
         &copy; Copyright 2021, Precio Fishbone.
-      Last updated on Feb 17, 2021.
+      Last updated on Apr 14, 2021.
 
     </p>
   </div>

@@ -9,6 +9,4 @@
 
 4. A number of Enterprise Properties will now be deployed to the solution. (You may need to refresh the page to show the properties).
 
-.. image:: default-enterprise-properties.png
-
 **Note!** In order for the properties to be fully functional in rollups based on SharePoint Search, they need to be mapped to the correct crawled properties in SharePoint.
