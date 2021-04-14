@@ -3,11 +3,11 @@ How to subscribe
 
 You can subscribe on all levels of a community.
 
-You can subscribe to all activities in the community, all Knowledge articles or all Discussions on a community by clicking "SUBSCRIBE" in the menu:
+You can subscribe to all activities in the community, all Knowledge articles and all Discussions in a community by clicking "SUBSCRIBE" in the menu:
 
 .. image:: subscribe-menu.png
 
-If you are already subscribing on this level, the option says "UNSUBSCRIBE" instead. Click it to insubscribe on that level.
+If you are already subscribing on this level, the option says "UNSUBSCRIBE" instead. Click it to unsubscribe on that level.
 
 .. image:: unsubscribe-menu.png
 
@@ -36,7 +36,7 @@ Then click "OK" here:
 
 .. image:: subscribe-tag-message.png
 
-If you click a tag you are already subscribing to, you can select to unsubscribe.
+If you click a tag you are already subscribing to, you can choose to unsubscribe.
 
 .. image:: unsubscribe-tag-message.png
 

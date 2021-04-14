@@ -196,7 +196,7 @@ The following settings are available here:
 
 .. image:: app-launcher-settings-general-new.png
 
-+ **Title**: Set the title for the App Launcher in any or all availbale languages. This is shown as the Tool Tip for the button.
++ **Title**: Set the title for the App Launcher in any or all available languages. This is shown as the Tool Tip for the button.
 + **Sorted By**: Open the list and decide how to sort the icons; Custom, Alphabetic or Last Visited. If you choose Custom, use the option "Custom" below for sorting.
 + **View Template**: The icons can be viewed in a number of ways; Simple List, App Icons, Navigation View or App launcher. See below for examples.
 + **Include Non-mandatory links**: Mandatory links are always displayed. Select this option if non-mandatory links, in the link categories selected, should be displayed as well.
@@ -204,7 +204,7 @@ The following settings are available here:
 + **Include Personal Links**: If the logged in user's personal links, created using My Links, should be displayed in the App Launcher as well , select this option. Note that one or more categories that contain personal links will have to be selected below, for any personal links to show up.
 + **Include Following Links**: Users can follow links in My Links. If these links should be available in the App Launcher as well, select this option. Note that one or more categories that contain followed links will have to be selected below, for any followed links to show up.
 + **Categories**: Select one or more categories of links to display in the App Launcher. Each link is categorized when set up, either for the Tenant or for the Business Profile. 
-+ **Hide Empty Result Text**: (A description will be added soon).
++ **Hide Empty Result Text**: If the message that no links where found should not be shown, select this option.
 + **Item Limit**: Set the number of links that should be displayed in the list, before "All Apps" or similar is shown. 
 + **Padding**: Add some padding between the menu's border and the list, if needed.
 
