@@ -11,7 +11,7 @@ Important Event options:
 + Users can register a number of (not named) colleagues that will accompany them to the event.
 + A user can register for others.
 + Users can edit or remove their own registrations.
-+ External users that has been invited in the Asher AD, can use the Event Management options.
++ External users that has been invited in the Azure AD, can use the Event Management options.
 + Event Managers can create new events, can edit all registrations and remove registrations if needed.
 + Event Managers can export the Participant list to Excel and can communicate with participants through e-mail.
 + Event managers only needs Author permissions.

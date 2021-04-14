@@ -18,6 +18,7 @@ Topics
    working-with-events/index
    using-communities/index
    using-newsletters/index
+   using-omnia-feed/index
    user-options/index
    setup/index
    cookies-consent-information/index

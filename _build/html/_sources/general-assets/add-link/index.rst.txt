@@ -1,9 +1,9 @@
 Add link
 ===========================================
 
-Add link is used when a link is about to be added in a block and a few other instances. 
+Add link is used when a link is added in a block and a few other instances. 
 
-.. image:: add-link-new.png
+.. image:: add-link-new2.png
 
 You can use this asset to add a link to a page or document in the tenant, or create a Custom link to any web page. A mailto link can be created using a Custom link.
 
@@ -18,50 +18,45 @@ The following settings are available:
 
 Here are some examples of Font Awesome icons:
 
-.. image:: font-awesome.png
+.. image:: font-awesome-new.png
 
 Here are some examples of Microsoft icons:
 
-.. image:: fabric.png
+.. image:: fabric-new.png
 
 If you select "Flags" you can add a colord flag as an icon, for example:
 
-.. image:: flags.png
+.. image:: flags-new.png
 
 Save after each link added.
 
 Page
 ******
-First, select Page Collection in the list at the top. If the Page Collection isn't present in the list, select "Others..." so you can add the Url to any Page Collection.
+To add a link to a page, do the following:
 
-.. image:: add-link-page-new.png
+1. Select Publishing App, if needed.
 
-As the next step, navigate to the page and select it. Here's an example:
+.. image:: add-link-page-1.png
 
-.. image:: add-link-page-example-new.png
+2. Select Page Collection. 
 
-Then use the options as above (Title, Open in new window and Icon).
+.. image:: add-link-page-new2.png
 
-Save after each Page link added.
+If the Page Collection isn't present in the list, select "Others..." so you can add the Url to any Page Collection.
+
+.. image:: select-other.png
+
+3. As the next step, navigate to the page and select it. Here's an example:
+
+.. image:: add-link-page-example-new2.png
+
+4. Then use the options as above (Title, Open in new window and Icon).
+
+5. Save after each Page link added.
 
 Document
 *********
-To add a link to a Document, use the following options:
-
-.. image:: add-link-document-new.png
-
-+ **Search**: Use this field to search for a Document.
-+ **Upload**: Click here to upload a Document to link to.
-+ **Documents**: If the Document is present in any folder in the Document library here, use the folders to navigate to the Document and select it.
-+ **Title**: The Document name is automatically added as the Title. Edit it if needed.
-
-Here's an example with a Document selected:
-
-.. image:: add-link-document-example-new.png
-
-Then use the rest of the options as above (Open in new window and Icon).
-
-Save after each Document link added.
+When you want to link to a document, the options are exactly the same as those in "Document Picker". For more information see: :doc:`Document Picker </general-assets/document-picker/index>`
 
 
 

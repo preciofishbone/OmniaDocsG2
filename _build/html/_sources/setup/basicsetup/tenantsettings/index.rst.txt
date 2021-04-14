@@ -6,3 +6,5 @@
 3. Click on Settings in the left-hand navigation and setup regional settings such as Language and Date/Time format for the tenant.
 
 .. image:: tenant-settings-languages.png
+
+.. image:: tenant-settings-datetime.png

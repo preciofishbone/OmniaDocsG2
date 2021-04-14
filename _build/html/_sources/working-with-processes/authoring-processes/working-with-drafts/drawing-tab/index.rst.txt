@@ -159,7 +159,7 @@ To add a background image:
 
 The Media Picker opens and you use it to upload an image from your computer or from any of the available resources.
 
-For more information on how to use the Media Picker, see: :doc:`Media Picker </general-assets/media-picker/index>` (If you're using Omnia v6, note the separate link for the correct description.)
+For more information on how to use the Media Picker, see: :doc:`Media Picker </general-assets/media-picker/index>`
 
 **Note!** When you upload a background image, the canvas size adjusts automatically.
 

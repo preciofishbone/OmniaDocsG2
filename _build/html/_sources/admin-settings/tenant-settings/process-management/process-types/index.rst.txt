@@ -5,7 +5,7 @@ When an author creates a process he or she selects a Process Type. A Process typ
 
 Before you continue here, make sure all Process Templates you will need has been created, see: :doc:`Process Templates </admin-settings/tenant-settings/process-management/process-templates/index>`
 
-Also see to that the Property set you need has been created, see the heading "Property Sets" on this page: :doc:`Tenant Settings - Properties </admin-settings/tenant-settings/properties/index>` (Note the separate link if you're using Omnia v6).
+Also see to that the Property set you need has been created, see: :doc:`Property Sets </admin-settings/tenant-settings/properties/property-sets/index>` 
 
 Creating a new Process Type
 *****************************

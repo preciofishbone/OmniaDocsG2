@@ -6,18 +6,18 @@ Authors can use the Send for Comments Workflow to get input from one or more col
 The option can be run as many times as needed before the publishing of an edition, but there can only be one such workflow active at a time, for each document. On the other hand, using this workflow is optional. You, the author, can always choose to publish directly. 
 
 **Note!**
-Everyone that is appointed as reviewer automatically receives edit access to the document when the workflow is active, and that access is removed when the colleague’s task is completed. Also note that publication is not allowed while a Review Workflow is active for the document.
+Everyone that is appointed as reviewer automatically receives edit access to the document when the workflow is active, and that access is removed when the colleague’s task is completed. Also note that publication is not allowed while a Send for Comments Workflow is active for the document.
 
 To start the workflow, do the following:
 
 1. Select the document.
 2. Open the dot menu and select "Send for Comments".
 
-.. image:: send-for-comments-1-new2.png
+.. image:: send-for-comments-1-new3.png
 
 The following is shown:
 
-.. image:: send-for-comments-2-new2.png
+.. image:: send-for-comments-2-new3.png
 
 + **Reviewers**: In Reviewers, all colleagues to send to (=appoint as reviewers) is added. Normally, any colleague can be added here. 
 + **Message**: A message to the reviewers is added here. Note that you can only use one message even if you send to several reviewers. 
@@ -34,17 +34,17 @@ Reviewers can also be notified in the notification panel about the new task, if 
 
 The workflow will be active until the due date of the workflow is reached, all tasks are completed or the workflow is cancelled by the author.
 
-Check status and cancel a Send for Coments workflow
+Check status and cancel a Send for Comments workflow
 *******************************************************
 In the column "Status" you can see what's going on with a document. You can also use that column to check status for a Send for Comments workflow, meaning who has reviewed and who has not. You can also cancel a workflow if needed. Do the following:
 
 1. Click "Sent for Comments" in the "Status" column.
 
-.. image:: check-cancel-1-new2.png
+.. image:: check-cancel-1-new3.png
 
 Something like the following is shown:
 
-.. image:: check-cancel-2-new2.png
+.. image:: check-cancel-2-new3.png
 
 Here you can see the due date noted for the workflow and on a row for each reviewer you can see if her or she has reviewed yet and the comment, if review was done.
 
@@ -54,7 +54,7 @@ To cancel, do the following:
 
 1. Click "Cancel Workflow".
 
-.. image:: check-cancel-3-new2.png
+.. image:: check-cancel-3-new3.png
 
 You can also check status for both Send for Comments workflow and Publish workflow on the Tasks tab, See this page for more information: :doc:`Working with Tasks </working-with-documents/authoring-controlled-documents/working-with-tasks/index>`
 
@@ -65,7 +65,7 @@ A workflow History is available for all draft documents, showing all finished or
 1. Select the document.
 2. Open the dot menu and select "Workflow History".
 
-.. image:: workflow-history-new2.png
+.. image:: workflow-history-new3.png
 
 Something like the following is shown:
 

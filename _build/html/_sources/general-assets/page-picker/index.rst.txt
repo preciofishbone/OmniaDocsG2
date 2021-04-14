@@ -3,7 +3,7 @@ Page Picker
 
 You can use the Page Picker to select pages to show in a list. Only Published and shown pages are available to pick. In Omnia v6, Variations can be picked as well, if available.
 
-.. image:: page-picker.png
+.. image:: page-picker-new2.png
 
 Use the Page Picker this way:
 
