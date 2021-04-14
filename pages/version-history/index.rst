@@ -7,7 +7,7 @@ Do the following to see Version History:
 
 1. Go to the page.
 2. If you're editing the page, save the draft or discard changes, or the Version History option will not be available.
-3. Open the action menu and select "VERSION HISTORY".
+3. Open the action menu and select VERSION HISTORY.
 
 .. image:: page-version-history-menu-new2.png
 
@@ -23,7 +23,7 @@ Click the information about when the version was saved, to see who made the chan
 
 .. image:: page-version-history-who-new.png
 
-To check a version of the page, click the version number. The dot turns to red for the version being shown.
+To check a version of the page, click the version number. The version being shown are indicated by a colored dot.
 
 .. image:: check-version-new.png
 
