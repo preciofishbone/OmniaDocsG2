@@ -30,7 +30,7 @@ When some (rare) actions has been executed, for example an override created for 
 
 For more information about the Admin settings, see: :doc:`Web Content Management </admin-settings/tenant-settings/webcontent-managament/index>`
 
-For more information about the override, see the heading "Settings" on this page: :doc:`Page Types </pages/page-types/index>`
+For more information about the override, see this page: :doc:`Page Type Settings </pages/page-types/page-type-settings/index>`
 
 Permissions
 ************
