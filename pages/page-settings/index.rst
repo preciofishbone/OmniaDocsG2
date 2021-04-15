@@ -83,7 +83,7 @@ Do the following to create a new variation:
 + **Variation author**: You can add a variation author for this variation. See this page for more information: :doc:`Edit Page Variations </pages/edit-page-variations/index>`
 + **Add Targeting Filter**: To set up targeting for this variation, click here. It is not mandatory. See below for more information.
 
-Languages used for Titles, or for targering must be set in the Tenant Settings, see the heading "Languages" on this page: :doc:`Tenant Settings </admin-settings/tenant-settings/settings/index>`
+Languages used for Titles, or for targering, must be set up in the Tenant Settings, see this page: :doc:`Regional Settings </admin-settings/tenant-settings/settings/regional-settings/index>`
 
 Targeting a Page Variation
 ----------------------------
