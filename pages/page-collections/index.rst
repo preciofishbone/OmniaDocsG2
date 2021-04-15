@@ -81,7 +81,7 @@ When you select "Based on person property", you open the list and select propert
 
 Based on person property can result in more colleagues being available for approval. Authors can only choose between these colleagues when selecting approver.
 
-For more information, see this page: :doc:`Properties </admin-settings/tenant-setting/properties/index>` 
+For more information, see this page: :doc:`Properties </admin-settings/tenant-settings/properties/index>` 
 
 Saving Page Collection settings
 ********************************
