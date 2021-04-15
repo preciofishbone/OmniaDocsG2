@@ -52,26 +52,29 @@ Here you set up the Page Variations that should be possible to use in the Publis
 
 It's also possible to add a variation author for each variation.
 
-.. image:: page-settings-variations-new3.png
+.. image:: page-settings-variations-new4.png
 
-You see the variations that has been set up so far, with information about for example targeting. A "Variaton" in the tenant's default language is also listed here - note the green label in the image above. For all pages, a variation with the default language must always exist. That is what is added when a page is created the first time..
+You see the variations that has been set up so far, with information about for example targeting. A "Variaton" in the tenant's default language is also listed here - note the label "Default" in the image above. For all pages, a variation with the default language must always exist. That is what is added when a page is created the first time
 
 To edit the settings for a variation, click the pen. To delete a variation, click the dust bin.
 
-.. image:: page-settings-variations-edit-delete.png
+.. image:: page-settings-variations-edit-delete-new.png
 
 When you edit a variation, the same settings as when you create a new variation are available, see below.
 
 Create a new variation
 -----------------------
-Note that you can use Variations for a lot of implementations, not just languages, even if that is probably the most common.
+Note that you can use Variations for a lot of implementations, not just languages, even if language versions of a page probably is the most common.
 
 Do the following to create a new variation:
 
-1. Click "ADD VARIATION".
+1. Click ADD VARIATION.
+
+.. image:: click-add-variation.png
+
 2. Use the following settings.
 
-.. image:: variations-new2.png
+.. image:: variations-new3.png
 
 + **Title**: Add a title for the variation to be shown in the lists, for example the list where users can select variation. If needed, the title can be added in any or all of the languages set up in the tenant. 
 + **Icon Type**: Select the Icon Type here, for excample "Flags".
@@ -92,14 +95,14 @@ To target a Page Variation, do the following:
 
 1. Click "Add Targeting Filter" when editing a Page Variation's settings.
 
-.. image:: page-variation-add-targeting-new2.png
+.. image:: page-variation-add-targeting-new3.png
 
 2. Select Targeting Property from the list. 
 3. As the next step you can select to include all Children, or you can target one or more of the Children specifically. 
 
 Here's an example which will see to that all users that has French set as preferred language will see the French variation of the page.
 
-.. image:: page-targeting-french.png
+.. image:: page-targeting-french-new.png
 
 4. Click "OK" to save your changes.
 
@@ -107,31 +110,28 @@ You can add as many Targeting Properties for a Variation as is needed, this way 
 
 Note that the targeting settings also are shown in the Variations list, for example:
 
-.. image:: page-variation-example-new3.png
+.. image:: page-variation-example-new4.png
 
 Edit contents of a Page Variation
 --------------------------------------
 When more than one variation of the page exists, an editor can select variation to work with in the list, in the lower left corner:
 
-.. image:: select-variation-new2.png
+.. image:: select-variation-new3.png
 
 If no variation exists yet for the page, the editor can select to create one.
 
-.. image:: variation-create-page.png
+.. image:: variation-create-page-new.png
 
-Editing a Page Variation works exactly the same way as editing a "normal" page.
+Editing a Page Variation works exactly the same way as editing the default page.
 
 Statistics
 *************
 For more advanced statistics in Omnia, this is the place to add the scripts you get from your statistics provider, for example: 
 
-.. image:: page-settings-statistics-new.png
+.. image:: page-settings-statistics-new2.png
 
 Don't forget to save. The "Save" button is located in the lower right corner.
 
-Advanced
-**********
-This tab is a preparation for functionality to come. Can't be used at the moment.
 
 
 
