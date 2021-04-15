@@ -44,7 +44,7 @@ Use the settings this way:
 + **Show Url**: If the Url for the new page should be shown for the editor when creating a page, select this option. The Url can then be edited.
 + **Show Properties**: If available Page Properties should be shown for the editor when creating a page, select this option. The Properties can then be edited in that stage. Page Properties can always be edited after the page has been created.
 + **Auto Publish**: This is a setting probably most relevant for Communities. If this option is selected a new page is always published automatically. It's only applicable when a new page is created, not when it's updated.
-+ **Page Types**: Select which of the Page Types that should be available for an editor to select when creating a page in this Page Collection. It can be Local Page Types or Tenant Page Types. Tenant Page Types are indicated by the text "(Tenant)". For more information, see this page: :doc:`Tenant Page Types </admin-settings/webcontent-managament/page-types/index>`
++ **Page Types**: Select which of the Page Types that should be available for an editor to select when creating a page in this Page Collection. It can be Local Page Types or Tenant Page Types. Tenant Page Types are indicated by the text "(Tenant)". For more information, see this page: :doc:`Tenant Page Types </admin-settings/tenant-settings/webcontent-managament/page-types/index>`
 + **Automatic Page Creation**: A copy of a page can be published automatically to another Page Collection when certain rules are met. These rules can be set up here. For more information, see this page: :doc:`Automatic Page Creation </pages/automatic-page-creation/index>`
 + **Enable Approval**: If Approval should be needed for publication of pages (new pages and updates), enable this. If not enabled, editors can publish themselves. See more info about Approval settings below.
 + **Enable Activity Tracking**: For a Community, Activity Tracking can be activated. See the heading *Settings for Activity Points* on this page, for more information: :doc:`Setting up a Community </using-communities/settings/index>` 
@@ -73,9 +73,13 @@ When selecting "Limited list of people", you add approvers by typing their names
 
 .. image:: limited-list-new.png
 
+Authors can then only choose between the colleagues in the list when selecting approver.
+
 When you select "Based on person property", you open the list and select property. Normally just one or two properties are available. Page Contact is an example of a field that can be relevant, if such a property is set up.
 
 .. image:: based-on-person-new.png
+
+Based on person property can result in more colleagues being available for approval. Authors can only choose between these colleagues when selecting approver.
 
 For more information, see this page: :doc:`Properties </admin-settings/tenant-setting/properties/index>` 
 

@@ -16,7 +16,7 @@ The Add link general asset is opened and you use it to create the link.
 
 .. image:: add-link-asset-new.png
 
-See this page for more information (but note that you can anly create a Custom link here): :doc:`Add link </general-assets/add-link/index>`
+See this page for more information (but note that you can only create a Custom link here): :doc:`Add link </general-assets/add-link/index>`
 
 Edit navigation
 ****************

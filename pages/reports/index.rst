@@ -21,7 +21,7 @@ You can sort the lists on most column headings by pointing at the heading and th
 
 Usage
 *********
-This list contains all pages in the Publishing App (see the top image). You can filter the list by using the fields and lists at the top.
+This list contains all pages in the Publishing App (see image above). You can filter the list by using the fields and lists at the top.
 
 You can use the links in the "Page" column to go to a page, and the links in the "Contact" column to go to a colleagues Delve page, where for example contact information is shown.
 
