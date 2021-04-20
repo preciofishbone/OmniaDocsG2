@@ -32,7 +32,7 @@ You can also set some layout options for this notification panel as displayed in
 .. image:: block-notifications-settings-layout-new2.png
 
 + **Vertical**: Select this to show the categories vertically instead of horisontally. See below for an example.
-+ **Show Slider**: (A description will be added soon.)
++ **Show Slider**: This adds a thin line under or to the left of the active catergory(tab), depending on settings.  
 + **Fill Space**: Select this option to let the icons and/or labels fill the whole available space. This has no effect if the space is narrow.
 + **Show Icon**: Select this option to display icons for the categories.
 + **Show Label**: Select this option to display labels for the categories.
