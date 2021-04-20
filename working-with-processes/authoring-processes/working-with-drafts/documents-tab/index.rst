@@ -1,7 +1,7 @@
 The Documents tab - authoring processes
 ===========================================
 
-Use this tab to link to create a Documents Rollup, with documents applicabale for the process or process step. 
+Use this tab to create a Documents Rollup, with documents applicabale for the process or process step. 
 
 .. image:: process-documents.png
 
