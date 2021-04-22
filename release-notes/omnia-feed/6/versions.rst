@@ -7,6 +7,13 @@
 - Old announcements set to show again in Omnia will now also being shown in Omnia Feed.
 - Improved stability for notifications.
 
+6.1.1
+========================================
+
+- Fixed the error with authentication when selecting business profiles (#128400).
+- Queries based on taxonomy properties now work correctly with empty value.
+- Updated the placeholder text on login form.
+
 Versions
 -----------------------------------------
 
