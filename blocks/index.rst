@@ -42,6 +42,7 @@ Blocks
    team-news-rollup/index
    text/index
    working-with-blocks/index
+   omnia-block-webpart/index
 
 
 
