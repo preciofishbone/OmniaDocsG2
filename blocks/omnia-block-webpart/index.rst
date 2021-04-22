@@ -1,7 +1,7 @@
 Using the Omnia Block web part
 ================================
 
-Some of the blocks in Omnia can be used in any Team site, including Community sites. To add a block there, you use th Omnia Block web part.
+Some of the blocks in Omnia can be used in any Team site, including Community sites. To add a block there, you use the Omnia Block web part.
 
 This is how:
 
@@ -34,7 +34,7 @@ The settings are shown, for example:
 
 You use the settings for the block exactly the same way as when the block is placed on an Omnia page. See the description for the block here: :doc:`Blocks </blocks/index>`
 
-Note! In an environment that has been upgraded from an earlier version of Omnia, an older web part can still be available, just called Omnia. You should not use that web part any more.
+**Note!** In an environment that has been upgraded from an earlier version of Omnia, an older web part can still be available, just called Omnia. You should not use that web part any more.
 
 .. image:: webpart-block-dontuse.png
 
