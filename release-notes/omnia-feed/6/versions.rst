@@ -10,7 +10,7 @@
 6.1.1
 ========================================
 
-- Fixed the error with authentication when selecting business profiles (#128400).
+- Fixed the authentication error when selecting business profiles (#128400).
 - Queries based on taxonomy properties now work correctly with empty value.
 - Updated the placeholder text on login form.
 
