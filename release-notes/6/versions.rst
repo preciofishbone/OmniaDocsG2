@@ -29,7 +29,7 @@
 - People rollup now correctly handle zone width.
 - Default content community layout buttons can now be edited.
 - Fixed an issue preventing display breakpoints from working in the page rollup.
-- User profile competition now works as expected when a description is not filled in.
+- User profile completion now works as expected when a description is not filled in.
 - Fixed an issue that caused rounded corners in the top navigation. (#127893).
 - The document rollup now correctly restores settings of the search box when edited (#127131).
 - The click guard now works correctly in design mode.
