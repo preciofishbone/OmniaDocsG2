@@ -7,9 +7,11 @@ The Tenant Page Types are handled from here:
 
 .. image:: WCM-page-types-v6-new.png
 
-You work with the Tenant Page Types exactly the same way as the Publishing App Page Types, as described here: :doc:`Page Types </pages/page-types/index>`
+You work with the Tenant Page Types exactly the same way as the Local Page Types, as described here: :doc:`Page Types </pages/page-types/index>`
 
 The "only" difference is that the Tenant Page Types are created and edited here, they are not visible in the list "Page Types" in the Publishing App, but are available when an editor creates a new page.
+
+**A tip!** If you go to a suitable page before going to Omnia Admin, the Preview will work when you edit Tentn Page Types.
 
 Activating Tenant Page Types
 ******************************
@@ -25,13 +27,13 @@ Moving a Page Type to Tenant
 *******************************
 If you already have one or more Page Types you want to use as a Tenant Page Type, when upgrading to Omnia v6, you can easily "make a Tenant Page Type" of them. 
 
-Select the Page Type and choose "Move To Tenant" in the menu:
+Select the Page Type and choose "Promote To Tenant" in the menu:
 
-.. image:: WCM-page-types-move-to-tenant.png
+.. image:: WCM-page-types-move-to-tenant-new.png
 
-All pages using the moved Page Type will continue using it, but the Page Type will now fully function as a Tenant Page Type. (See for example the comment about updating a Page Type above).
+All pages using the promoted Page Type will continue using it, but the Page Type will now fully function as a Tenant Page Type. (See for example the comment about updating a Page Type above).
 
-**Note!** The moved Page Type is removed from the list of Page Types in the Publishing App - it can no longer be edited there. As it is a Tenant Page Type from now on, it must be edited in Omnia Admin. 
+**Note!** The promoted Page Type is removed from the list of Page Types in the Publishing App - it can no longer be edited there. As it is a Tenant Page Type from now on, it must be edited in Omnia Admin. 
 
 Archiving a Tenant Page Type
 ******************************
@@ -43,4 +45,4 @@ Archived Tenant Page Types are placed in the Tenant Archive:
 
 .. image:: WCM-page-types-archive-new.png
 
-This archive works the same way as the archive for the Publishing App Page Types, see: :doc:`Archive or restore a Page Type </pages/page-types/archive-restore-page-type/index>`
+This archive works the same way as the archive for the Local Page Types, see: :doc:`Archive or restore a Page Type </pages/page-types/archive-restore-page-type/index>`
