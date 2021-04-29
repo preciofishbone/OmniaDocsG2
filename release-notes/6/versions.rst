@@ -1,3 +1,18 @@
+6.1.12
+========================================
+(Omnia 6.1.9 / Workplace 6.1.2 / WCM 6.1.12 / MS 6.1.5 )
+
+- Big performance improvement for the Page Rollup in trim duplicate scenarios with many pages.
+- Added new setting to page rollups, page query limit. Use this to optimize start page performance.
+- Corrected translations for nl-be.
+- Stability improvements for Controlled Documents. 
+- Corrected an issue where the page rollup would not render correctly if it had an empty filter.
+- Corrected an issue where taxonomy properties filtering would not work after an upgrade from 5.1 (#128637)
+- Color theme is now correctly kept in the Accordion when updating from 5.1.
+- Fixed an issue with terminating Enterprise properties. 
+- Corrected an issue with activating ODM on migrated sites (#128385).
+
+
 6.1.7
 ========================================
 (Omnia 6.1.2 / Workplace 6.1.1 / WCM 6.1.7 / MS 6.1.3 )
