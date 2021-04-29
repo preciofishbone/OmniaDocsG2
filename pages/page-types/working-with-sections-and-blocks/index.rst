@@ -3,7 +3,7 @@ Working with Sections and Blocks
 
 This describes how to work with Sections and Blocks for a Page Type. You work the same way with Local Page Types and Tenant Page Types.
 
-For the very first steps when creating a new Page Type, see: :doc:`General Block Settings </pages/create-new-page-type/index>`
+For the very first steps when creating a new Page Type, see: :doc:`General Block Settings </pages/page-types/create-new-page-type/index>`
 
 Create a Section in a Column
 ******************************
@@ -46,7 +46,7 @@ Do the following to move a section to another placement on the page.
 1. Click the section.
 2. Click the Move icon.
 
-.. image:: move-icon-section-new.png
+.. image:: move-icon-section-new2.png
 
 Icons now show where you can move the section, for example:
 
