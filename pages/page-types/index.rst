@@ -21,6 +21,7 @@ Select section for more information:
    edit-page-type/index
    create-new-page-type/index
    working-with-sections-and-blocks/index
+   section-settinngs/index
    archive-restore-page-type/index
    page-type-settings/index
    admin-settings/tenant-settings/webcontent-managament/page-types/index
