@@ -17,13 +17,13 @@ A list of published documents that has the selected property defined is displaye
 
 4. In "New Value", add the value that should replace the one you selected.
 5. Select all documents that should replace the value.
-4. Click REPLACE.
+6. Click REPLACE.
 
 .. image:: documents-bulk-update-2.png
 
 Be aware that, if there are many documents selected, the update may take some time.
 
-When the update is finished, the update is noted in the document history.
+When the update is finished, the update is noted in the document history of each document.
 
 Bulk update and templates
 ***************************
