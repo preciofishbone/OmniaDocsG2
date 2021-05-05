@@ -3,7 +3,7 @@ Working with Sections and Blocks
 
 This describes how to work with Sections and Blocks for a Page Type. You work the same way with Local Page Types and Tenant Page Types.
 
-For the very first steps when creating a new Page Type, see: :doc:`General Block Settings </pages/page-types/create-new-page-type/index>`
+For the very first steps when creating a new Page Type, see: :doc:`Create new Page Type </pages/page-types/create-new-page-type/index>`
 
 Create a Section in a Column
 ******************************
