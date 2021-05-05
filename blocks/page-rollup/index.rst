@@ -15,7 +15,7 @@ Here you can add a title for block:
 
 .. image:: page-rollup-settings-general-frame.png
 
-If any variations exist, as in the example above, titles in other languages are handled through variations. If not variations exist you can add titles in any or alla languages in the tenant.
+If any variations exist, as in the example above, titles in other languages are handled through variations. If no variations exist you can add titles in any or all languages in the tenant.
 
 Query
 ------
@@ -47,7 +47,7 @@ Here's an example of a filter that will display pages that have been updated (Mo
 
 Filter on a specific variation
 --------------------------------
-If just pages with a certain variation (language or other variation) should be listed in the Rollup, it can be done this way:
+If just pages with a certain variation (language or other variation) should be listed in the rollup, it can be done this way:
 
 (Only News in Swedish will be listed in this example.)
 
@@ -62,14 +62,15 @@ Select View here. Note that a preview is shown in the block.
 The following lists all available display settings, shown in different order for different displays, here listed in alphabetical order.  
 
 + **Autoplay**: If the roller should roll automatically, select this option. Available for "Dynamic Roller" only.
-+ **Cards per Row**: Available for Card only.
++ **Cards per Row**: Available for Card only. As it says, set the number of cards to show per row.
 + **Contact**: Select the property to be displayed as Contact. Available for Newsletter only.
-+ **Content**: Select the property that contains the page content for the item to display. Available for dialog display only.
++ **Content**: Select the property that contains the page content for the item to display. Available for Newsletter only.
 + **Content Image**: Select image to display, if any. Available for dialog display only.
 + **Create button for page collection**: When you have selected "Show create button", this optipon is shown. Use it to select in which page collection the new page will be created.
 + **Date**: Select the property that contains the date for the item(s) to display.
++ **Delay between slides**: Set the time between slides in milli seconds.
 + **Hide block when no data**: Select this option if the block should be hidden when there's nothing to display.
-+ **Hide if read**: SSelect this option to hide all pages the logged in user has visited. This affects all pages, including news.
++ **Hide if read**: Select this option to hide all pages the logged in user has visited. This affects all pages, including news.
 + **Image**: Select the property that contains the image for the item(s) to display.
 + **Image Ratio**: Select ratio for the image; Landscape, Square or Wide. 
 + **Image x and y**: Select the image format here. Available for "Single Item" only.
@@ -82,10 +83,12 @@ The following lists all available display settings, shown in different order for
 + **Open link in new tab**: If the link should be opened in a new tab (as opposed to in current window or dialog), select this option. Available only if "Show link" is selected.
 + **Open page as a dialog**: If the page should be opened in a dialog instead for in a page (new or current), select this option. 
 + **Overlay**: If an overlay text should be shown on the image(s), add the text here. Available for "Roller" only.
++ **Padding**: Add some padding between the list and the block border, if needed.
 + **Page Content Character Limit**: If the number of characters displayed for Page Content should be limited, add the number here. The Content is simply jus cut after that. Available for Newsletter only.
 + **Page Summary Character Limit**: If the number of characters displayed for Page Summary should be limited, add the number here. The Summary is simply jus cut after that. Available for Newsletter only.
 + **Paging**: Select paging here; "No paging", "Classic" or "Scroll".
 + **Show create button**: To make it possible for editors to create a new page from here, select this option to add a button to the block heading, and type the name for the button. 
++ **Show Default image**: (An explanation will be addded soon).
 + **Show Likes/Comments**: If the number of likes and comments should be displayed for the item, select this option. 
 + **Show link**: You can add a link button at the bottom of the list. The first page collection is default, but you can link to any target.
 + **Show Navigation**: If navigation icons for the users to use for rolling should be shown, select this option. Available for "Dynamic Roller" only.
@@ -97,9 +100,7 @@ The following lists all available display settings, shown in different order for
 + **Summary**: Select the property that contains the page summary for the item to display. 
 + **Title**: If a title should be shown for the block, add it in this field. If no variation exists for the page, you can set the title in the languages active in the tenant. If variations exists, only one title can be set. In that case, titles in other languages are set in the variations.
 
-+ **Padding**: Add some padding between the list and the block border, if needed.
-
-**Note!** For "List View" you also have to add at least one column, for the display to work. Here's an example with three columns added:
+**Note!** For "List View" and "Event List", you also have to add at least one column, for the display to work. Here's an example with three columns added for List View:
 
 .. image:: list-view-columns-new3.png
 
@@ -123,7 +124,7 @@ For Roller, Dynamic Roller and Card, extra Style settings are available, for exa
 
 .. image:: page-roller-style.png
 
-You can try out these settings. A preview is shown in the block.
+Just try out these settings. A preview is shown in the block.
 
 Filter
 -------
