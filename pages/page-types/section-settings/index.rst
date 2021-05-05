@@ -13,54 +13,48 @@ General settings for a section with columns
 ------------------------------------------------
 For a section with columns, the following can be set:
 
-.. image:: page-types-general-new.png
+.. image:: page-types-general-new3.png
 
 + **Width Type**: Set dynamic width ("Full Page") or a fixed width in pixels. When you have selected Fixed, a slider is shown where you can set the width.
-+ **Column**: Using the sliders, set a width for each of the column. Default = same width for every column.
++ **Columns**: Using the sliders, set a width for each of the column. Default = same width for every column.
 + **Add Column**: You can add a column if needed. The same settings as above can then be used for the new column. 
 
-To remove a column, click the dust bin. By clicking the pen, the following can be set for a column:
+To remove a column, click the dust bin. 
 
-.. image:: page-types-columns-pen.png
+For columns with fixed width, the following can be set:
 
-+ **Chrome**: Set boxed or not for the column.
-+ **Color**: The background color for the column can be set here.
-+ **Elevation**: If the column should stand out from the page, use the slider to set how much.
-+ **Custom CSS**: You can use custom CSS for formatting the column.^
+.. image:: fixed-width-column.png
+
+Use the slider to set the fixed column width. You can also set Alignment for the content in the section.
 
 General settings for a section with tabs
 -----------------------------------------
 For a section with tabs, the following can be set:
 
-.. image:: page-types-general-tabs.png
+.. image:: page-types-general-tabs-new.png
 
-+ **Width Type**: Set dynamic width ("Full Page") or a fixed width in pixels. When you have selected Fixed, a slider is shown where you can set the width available for the tabs.
 + **Tabs**: Here you can edit the settings for each tab, by clicking the pen. See information about these settings below.
 + **Add tab**: Ta add a new tab, click here. You edit the settings as described below. To remove a tab, click the dust bin. 
-+ **Tab Type**: You can choose to just have a "normal" tab an accordion tab. The difference is that a "normal" tab displays it's content all the time, an accordion tab displays it's content when it's clicked.
-+ **Show Active Slider**: Available for "normal" tabs. Indicates which tab is active.
-+ **Tab Alignment"**: Available for "normal" tabs. The tabs are aligned within where the tabs are placed.
 
 By clicking the pen, the following can be set for a tab:
 
-.. image:: page-types-tabs-pen.png
+.. image:: page-types-tabs-pen-new.png
 
 + **Label**: If a label should be shown for the tab, add the label here.
 + **Tooltip**: If a tooltip should be shwon for the tab, add it here.
 + **Icon**: First select the "Icon Type" and then select the icon in the list below, if an icon should be shown. (If no icon should be shown, just don't select an icon, it doesn't matter that an Icon Type is selected.)
-+ **Color**: The background color for the tab can be set here.
-+ **Elevation**: If the tab should stand out from the page, use the slider to set how much.
-+ **Custom CSS**: You can use custom CSS for formatting the tab.
 
 Spacing
 ***********
 Here you can set the following:
 
-.. image:: page-types-spacing.png
+.. image:: page-types-spacing-new.png
 
 + **Section Padding**: Here you can set some padding within the active section.
 + **Column Spacing**: Here you can set the spacing between the columns in this section.
 + **Block Spacing**: You can set spacing between blocks in this section. 
++ **Minimum Height**: You can make sure that this section always has a minimun height, regardless of what is shown in the section. Use the slider to set the minimum height.
++ **Use Full Height**: (A description will be added soon).
 
 Style
 ************
