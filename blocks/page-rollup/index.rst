@@ -21,26 +21,29 @@ Query
 ------
 Here you can set the following:
 
-.. image:: page-rollup-settings-query-new2.png
+.. image:: page-rollup-settings-query-new3.png
 
 + **Pick Pages**: If the editor should be able to pick pages from a list, select this option.
 + **Pick in Write Mode**: Available when Pick Pages is selected. Select this option if editors should be able to pick pages in Write mode. If not selected, Design mode has to be used.
 + **ADD PAGE**: When you have selected Pick Pages, you can pick some pages to always be shown. Click this option and use the Page Picker. See this page for more information: :doc:`Page Picker </general-assets/page-picker/index>`
 + **Use Query Builder**: If you want to use the query builder to set which pages should be available here, select this option.
 + **Scope**: When you have chosen to use the Query Builder, select scope for the block; Publishing Apps or Page Collections. Then open the list below and select Publishing Apps/Page Collections. 
-+ **Exclude current page**: Available when you have chosen scope. The default setting is to exclude the current page, but if you, for some reason, would like to include the current page, uncheck this option.
++ **Exclude current page**: Available when you have chosen scope for the Query Builder. The default setting is to exclude the current page, but if you, for some reason, would like to include the current page, uncheck this option.
++ **Trim duplicates**: Available for the Query Builder. If more than one Page Rollup block is added to a page, this option can be used to handle duplicates between the blocks. When the option is selected, you can enter a number indicating the priority for duplicates, for this block. If you set "1" for a block it means this block has priority showing a post that would have been a duplicate. 
++ **Query Item Limit**: Available for the Query Builder. Use the slider, or type the number (1-99) to set the number of pages that should be retrieved to make sure all duplicates are found. You should not set this number higher than you really need, as higher numbers may have an impact on performance. Note that when you change the number, "Max Display Limit" is also changed, see below.
++ **Page Size**: Available for Pick Pages. Use the slider, or type the number (1-99) to set the number of items (pages) that should be displayed on each "page" of the list. Also see under *Display* below for additional settings for the list. 
 
 When you have selected "Publishing Apps" or "Page Collections" as Scope, use the list to add one or more:
 
-.. image:: page-rollup-query-list-new.png
+.. image:: page-rollup-query-list-new2.png
 
 For every Publishing App or Page Collection you have selected, you can filter (meaning displaying just some of the pages) by expanding and selecting "Add filter".
 
-.. image:: page-rollup-query-addfilter-new.png
+.. image:: page-rollup-query-addfilter-new2.png
 
 Here's an example of a filter that will display pages that have been updated (Modified) the last month:
 
-.. image:: page-rollup-query-filter-example-new.png
+.. image:: page-rollup-query-filter-example-new2.png
 
 Filter on a specific variation
 --------------------------------
@@ -48,7 +51,7 @@ If just pages with a certain variation (language or other variation) should be l
 
 (Only News in Swedish will be listed in this example.)
 
-.. image:: page-rollup-variation-example.png
+.. image:: page-rollup-variation-example-new.png
 
 Display
 ----------
@@ -70,7 +73,7 @@ The following lists all available display settings, shown in different order for
 + **Image**: Select the property that contains the image for the item(s) to display.
 + **Image Ratio**: Select ratio for the image; Landscape, Square or Wide. 
 + **Image x and y**: Select the image format here. Available for "Single Item" only.
-+ **Item limit**: To limit the number of items being displayed, add a fixed number here. Note that if combined with "No paging", the number of items you enter here are the only items users can access from the list.
++ **Max Display Limit**: To limit the number of items being displayed, add a fixed number here. Note that if combined with "No paging", the number of items you enter here are the only items users can access from the list. Also note that if you change this value, the "Query Item Limit" is also changed, see above.
 + **Link label**: Add the text to be shown for the link here. Available only if "Show link" is selected.
 + **Link url**: Add the url to open when a user clicks the link. Available only if "Show link" is selected.
 + **Loop**: Available for Dynamic Roller. Normally a roller stops when the last post is reached (and can restart after a short while). When this option is selected, there is no "end" and the roller just keeps rolling. Important note: When Loop is selected the arrows users can use to roll "manually" are not shown.
@@ -93,13 +96,12 @@ The following lists all available display settings, shown in different order for
 + **Sort by**: Choose what the list should be sorted by, and then select ascending or descending.
 + **Summary**: Select the property that contains the page summary for the item to display. 
 + **Title**: If a title should be shown for the block, add it in this field. If no variation exists for the page, you can set the title in the languages active in the tenant. If variations exists, only one title can be set. In that case, titles in other languages are set in the variations.
-+ **Trim duplicates**: If more than one Page Rollup block is added to a page, this option can be used to handle duplicates between the blocks. When the option is selected, you can enter a number indicating the priority for duplicates, for this block. If you set "1" for a block it means this block has priority showing a post that would have been a duplicate.
 
 + **Padding**: Add some padding between the list and the block border, if needed.
 
 **Note!** For "List View" you also have to add at least one column, for the display to work. Here's an example with three columns added:
 
-.. image:: list-view-columns-new2.png
+.. image:: list-view-columns-new3.png
 
 This could show the following:
 
