@@ -79,38 +79,62 @@ At the bottom, the selected Crop Ratios are listed, for example:
 .. image:: page-types-style-crop-ratios.png
 
 + **Elevation**: With this setting you can make the content of the section “stand out” from the page. Use the slider to set how much.
-+ **Background color**: A default background color for sections are set in Omnia Admin. You can set another background color for this section here, if needed.
-+ **Background image**: Another option is to use an image as background in this section. When you click "Add Image", the Media Picker starts, see this page for more information: :doc:`Media Picker </general-assets/media-picker/index>`
++ **Background color**: A default background color for sections are set in Omnia Admin. You can set another background color for this section here, if needed. You can try out RANDOM or set the color using ADD COLOR.
++ **Background image**: Another option is to use an image as background in this section. When you click "Add Image", the Media Picker starts. See this page for more information: :doc:`Media Picker </general-assets/media-picker/index>`
++ **Editable in Write Mode**: As Default, Design Mode is needed to edit background image. If it should be possible using Write Mode as well, select this option.
++ **Crop Ratios**: Crop Ratios are set up in Omnia Admin for the Media Picker. Here you can decide which of these should be available for authors to use in this section. To add a Crop Ratio, select it in the list and click the plus. To remove a Crop ratio, click the dust bin. You can also set the order in which the Crop Ratios are shown, by drag and drop.
 
+For more information about Crop Ratios, se this page: :doc:`Media Picker Settings </admin-settings/tenant-settings/settings/media-picker-settings/index>`
 
 Style settings for tabs
 --------------------------
-If it's a section with tabs, this can be set for Style, for the active section:
+If it's a section with tabs, additional settings can be set for Style, for the active section:
 
-.. image:: page-types-style-tabs.png
+.. image:: page-types-style-tabs-new.png
 
-+ **Minimum Height**: You can make sure that this section always has a minimun height, regardless of what is shown in the section. Set the height in pixels here.
-+ **Background Color Tabs**: A default background color for sections are set in Omnia Admin. You can set another background color for the tabs in this section here, if needed.
-+ **Text Color Tabs**: You can set text color for the tabs here.
-+ **Background color**: A default background color for sections are set in Omnia Admin. You can set another background color for this section here (that is the whole section, not just the tab), if needed.
-+ **Background image**: Another option is to use an image as background in this section. When you click "Add Image", the Media Picker starts, see this page for more information: :doc:`Media Picker </general-assets/media-picker/index>`
-+ **Elevation**: With this setting you can make the content of the section “stand out” from the page. 
+(Not all options are shown in the image, but listed below).
+
++ **Tab Type**: You can select "Tab" or "Accordion" as Tab Type.
++ **Vertical**: If the labels for the tabs should be shown vertically, select this option.
++ **Show Active Slider**: If the active tab should be indicated, select this option.
++ **Fill Space**: If the tab labels should fill the available space, either horisontally or vertically, depending on what you have chosen, select this option.
++ **Tab Alignment**: Here you can set Alignment for the tab labels.
++ **Icon Alignment**: If you are using an icon you can set Icon Alignment within the available space for the icon.
++ **Custom Size**: If you would like to set minimum height and width for the tabs, select this option, and then use the sliders.
++ **Border Radius**: Use this slider to set the border radius betweem tabs in the section.
++ **Color**: Select "Color" for various color settings for the tabs. 
+
+Effects
+--------
+Additional effects are avilable her, for both sections with columns and sections with tabs:
+
+.. image:: sections-effects.png
+
+Try them and see the effect - a preview is shown in the active section.
+
+Block Theming
+**************
+Theme for blocks are set up in the Business Profile settings. If you would like to change them for this section, select "Custom Theme":
+
+.. image:: section-custom-theme.png
+
+What you can select here is the same as for the whole page, see: :doc:`Layout Theming </general-assets/layout-explorer/page-layout/layout-tehming/index>`
 
 Header
 ****************
 Here you can set the following:
 
-.. image:: page-types-settings-header.png
+.. image:: page-types-settings-header-new.png
 
 + **Title**: If you want a Title to be displayed for the section, add it here. Not mandatory.
-
-You can then decide to use the global settings for the business profile, or custom settings. 
++ **Icon Type/Icon**: If you would like to use an icon, first select type and then icon from the list.
++ **Custom Settings**: You can then decide to use the global settings for the business profile, or use custom settings. 
 
 The global settings are set in Omnia Admin, see the bottom of this page: :doc:`Header Settings </admin-settings/business-group-settings/settings/index>`
 
 When selecting custom settings, the following is available:
 
-.. image:: page-types-settings-header-custom-new2.png
+.. image:: page-types-settings-header-custom-new3.png
 
 This is the same settings as for the global settings, see the link above.
 
@@ -118,7 +142,7 @@ Targeting
 ***************
 A section can be targeted by using this setting:
 
-.. image:: page-types-settings-targeting-new.png
+.. image:: page-types-settings-targeting-new2.png
 
 Targeting must have been setup in Omnia Admin for this to work, see that section on this page: :doc:`Properties </admin-settings/tenant-settings/properties/index>`
 
@@ -127,27 +151,27 @@ To set up targeting for the section, do the following:
 1. Click "Add Targeting Filter".
 2. Select Property for Targeting.
 
-.. image:: page-types-settings-targeting-property-new.png
+.. image:: page-types-settings-targeting-property-new2.png
 
 3. Select one or more children for the property.
 
-.. image:: page-types-settings-targeting-properties-metadata-new.png
+.. image:: page-types-settings-targeting-properties-metadata-new2.png
 
 Or:
 
 3. Select "Include Children", to include all children pf the property.
 
-.. image:: page-types-settings-targeting-properties-children-new.png
+.. image:: page-types-settings-targeting-properties-children-new2.png
 
 4. Click "Add Targeting Filter" to add additional filters.
 
-.. image:: page-types-settings-targeting-additional-new.png
+.. image:: page-types-settings-targeting-additional-new2.png
 
 To remove a targeting filter, just click the X.
 
-Advanced Settings
+Custom CSS
 *******************
-In the advanced settings you can use custom CSS styling for the section.
+Here you can use custom CSS styling for the section.
 
-.. image:: page-types-settings-advanced-new3.png
+.. image:: page-types-settings-advanced-new4.png
 
