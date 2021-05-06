@@ -54,7 +54,15 @@ Here you can set the following:
 + **Column Spacing**: Here you can set the spacing between the columns in this section.
 + **Block Spacing**: You can set spacing between blocks in this section. 
 + **Minimum Height**: You can make sure that this section always has a minimun height, regardless of what is shown in the section. Use the slider to set the minimum height in pixels.
-+ **Use Full Height**: (A description will be added soon).
++ **Use Full Height**: This option is a way of making sure a layout with more than one column or section is balanced. When this option is selected, all adjacent sections has the same length. See below for examples.
+
+Here's an example with "Use Full Height" on:
+
+.. image:: full-height-on.png
+
+And here's the same page with the option off for the left section:
+
+.. image:: full-height-off.png
 
 Style
 ************
