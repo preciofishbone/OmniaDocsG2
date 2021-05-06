@@ -88,7 +88,7 @@ The following lists all available display settings, shown in different order for
 + **Page Summary Character Limit**: If the number of characters displayed for Page Summary should be limited, add the number here. The Summary is simply jus cut after that. Available for Newsletter only.
 + **Paging**: Select paging here; "No paging", "Classic" or "Scroll".
 + **Show create button**: To make it possible for editors to create a new page from here, select this option to add a button to the block heading, and type the name for the button. 
-+ **Show Default image**: (An explanation will be addded soon).
++ **Show Default image**: If there is no image available for a page, a placeholder image can be used. If that image should be used, select this option.
 + **Show Likes/Comments**: If the number of likes and comments should be displayed for the item, select this option. 
 + **Show link**: You can add a link button at the bottom of the list. The first page collection is default, but you can link to any target.
 + **Show Navigation**: If navigation icons for the users to use for rolling should be shown, select this option. Available for "Dynamic Roller" only.

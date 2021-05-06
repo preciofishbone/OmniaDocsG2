@@ -53,7 +53,7 @@ Here you can set the following:
 + **Section Padding**: Here you can set some padding within the active section.
 + **Column Spacing**: Here you can set the spacing between the columns in this section.
 + **Block Spacing**: You can set spacing between blocks in this section. 
-+ **Minimum Height**: You can make sure that this section always has a minimun height, regardless of what is shown in the section. Use the slider to set the minimum height.
++ **Minimum Height**: You can make sure that this section always has a minimun height, regardless of what is shown in the section. Use the slider to set the minimum height in pixels.
 + **Use Full Height**: (A description will be added soon).
 
 Style
@@ -64,12 +64,16 @@ Style settings for columns
 ------------------------------
 If it's a section with columns, this can be set for Style, for the active section:
 
-.. image:: page-types-style2.png
+.. image:: page-types-style-new2.png
 
-+ **Minimum Height**: You can make sure that this section always has a minimun height, regardless of what is shown in the section. Set the height in pixels here.
+At the bottom, the selected Crop Ratios are listed, for example:
+
+.. image:: page-types-style-crop-ratios.png
+
++ **Elevation**: With this setting you can make the content of the section “stand out” from the page. Use the slider to set how much.
 + **Background color**: A default background color for sections are set in Omnia Admin. You can set another background color for this section here, if needed.
 + **Background image**: Another option is to use an image as background in this section. When you click "Add Image", the Media Picker starts, see this page for more information: :doc:`Media Picker </general-assets/media-picker/index>`
-+ **Elevation**: With this setting you can make the content of the section “stand out” from the page. ^
+
 
 Style settings for tabs
 --------------------------
