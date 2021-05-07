@@ -112,6 +112,8 @@ Additional effects are avilable here, for both sections with columns and section
 
 Try them and see the effect - a preview is shown in the active section.
 
+And don't forget to test Divider Effects - there are som really cool effects in that list.
+
 Block Theming
 **************
 Theme for blocks are set up in the Business Profile settings. If you would like to change them for this section, select "Custom Theme":
