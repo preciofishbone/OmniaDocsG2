@@ -84,7 +84,7 @@ At the bottom, the selected Crop Ratios are listed, for example:
 + **Editable in Write Mode**: As Default, Design Mode is needed to edit background image. If it should be possible using Write Mode as well, select this option.
 + **Crop Ratios**: Crop Ratios are set up in Omnia Admin for the Media Picker. Here you can decide which of these should be available for authors to use in this section. To add a Crop Ratio, select it in the list and click the plus. To remove a Crop ratio, click the dust bin. You can also set the order in which the Crop Ratios are shown, by drag and drop.
 
-For more information about Crop Ratios, se this page: :doc:`Media Picker Settings </admin-settings/tenant-settings/settings/media-picker-settings/index>`
+For more information about Crop Ratios, se this page: :doc:`Media Picker Settings </admin-settings/tenant-settings/settings/media-picker/index>`
 
 Style settings for tabs
 --------------------------
@@ -101,12 +101,12 @@ If it's a section with tabs, additional settings can be set for Style, for the a
 + **Tab Alignment**: Here you can set Alignment for the tab labels.
 + **Icon Alignment**: If you are using an icon you can set Icon Alignment within the available space for the icon.
 + **Custom Size**: If you would like to set minimum height and width for the tabs, select this option, and then use the sliders.
-+ **Border Radius**: Use this slider to set the border radius betweem tabs in the section.
++ **Border Radius**: Use this slider to set the border radius between tabs in the section.
 + **Color**: Select "Color" for various color settings for the tabs. 
 
 Effects
 --------
-Additional effects are avilable her, for both sections with columns and sections with tabs:
+Additional effects are avilable here, for both sections with columns and sections with tabs:
 
 .. image:: sections-effects.png
 
@@ -118,7 +118,7 @@ Theme for blocks are set up in the Business Profile settings. If you would like 
 
 .. image:: section-custom-theme.png
 
-What you can select here is the same as for the whole page, see: :doc:`Layout Theming </general-assets/layout-explorer/page-layout/layout-tehming/index>`
+What you can select here is the same as for the whole page, see: :doc:`Layout Theming </general-assets/layout-explorer/page-layout/layout-theming/index>`
 
 Header
 ****************
@@ -128,15 +128,15 @@ Here you can set the following:
 
 + **Title**: If you want a Title to be displayed for the section, add it here. Not mandatory.
 + **Icon Type/Icon**: If you would like to use an icon, first select type and then icon from the list.
-+ **Custom Settings**: You can then decide to use the global settings for the business profile, or use custom settings. 
++ **Custom Settings**: If you don't want to use the global settings for the business profile, for this section, Select Custom Settings. 
 
-The global settings are set in Omnia Admin, see the bottom of this page: :doc:`Header Settings </admin-settings/business-group-settings/settings/index>`
+The global settings are set in Omnia Admin, see this page: :doc:`Content Header (Business Profile) </admin-settings/business-group-settings/settings/block-title/index>`
 
 When selecting custom settings, the following is available:
 
 .. image:: page-types-settings-header-custom-new3.png
 
-This is the same settings as for the global settings, see the link above.
+This is the same settings as Content Header settings for the Business Profile, see the link above.
 
 Targeting
 ***************
