@@ -7,7 +7,7 @@ Here you can work with theming for the Business Profile:
 
 Color Palette
 ****************
-Use these setings to define the Color Palette that should be available in the Busniess Profile.
+Use these setings to define the Color Palette that should be available in the Business Profile.
 
 + **Primary**: If needed, you can adjust the Primary Color. 
 + **Secondary**: If needed, you can adjust the Secondary Color.
@@ -17,7 +17,7 @@ When you select "Additional Colors" you can add Custom Colors.
 
 .. image:: theme-custom.png
 
-You can add any colour using the blender, the Color slider, the Black and White slider, and even add the exact hex number for a color.
+You can add any colour using the blender, the Color slider, the Black and White slider, and even add the exact hex number for a color to add.
 
 .. image:: theme-custom-blender.png
 
@@ -25,13 +25,20 @@ Theme mappings
 ****************
 As the heading suggests, you use these settings to map default themes for to the Editor, for Layout, the Layout Dialog and for blocks.
 
-Use the list to the left to select a theme and the list to the right for an accessability theme.
+The mappings are used for the following:
+
++ Layout - themes for the root page section.
++ Layout Dialog - themes for dialogs shown for users.
++ Block - default block themes.
++ Editor - themes for the WCM editor.
+
+Use the list to the left to select a normal theme and the list to the right for an accessability theme.
 
 .. image:: theme-mappings.png
 
 Theme Definitions
 *********************
-In a number of occasions, especially when working with pages, a theme can be selected. A number of themes are available out of the box, and you can also add addtional themes.
+In a number of occasions, especially when working with pages, a theme can be selected. A number of themes are available out of the box, and you can also add addtional themes. 
 
 .. image:: theme-definitions.png
 
@@ -77,6 +84,10 @@ Edit or delete custom themes
 Themes you or anyone else in your organisation has created can be edited (the pen), or deleted (the dust bin).
 
 .. image:: themes-edit-delete.png
+
+Themes and inheritance
+************************
+A theme can be set for the Page Type. When the page type is edited, themes can be set for sections, overwriting the theme settings there. Unique block settings will overwrite theme settings for the sections.
 
 
 
