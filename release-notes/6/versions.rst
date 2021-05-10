@@ -10,10 +10,23 @@
 - Fixed an issue preventing information text to be removed in the new media picker(#128008).
 - Event management enterprise properties have been converted into system properties.
 - Community tags now accept Swedish letters again (åäö) (#127968).
+- Layout templates have gotten several tweaks.
+- Corrected a setup issue in ODM, where incorrect Managed properties would cause creating drafts from published documents to not work correctly (#125287).
+- Stability fixes to Tenant page types.
+- Pasting images in RTF will not correctly upload the image using the Omnia image picker.
+- Process Type metadata can now be correctly shown on the process rollup.
+- Using the speed dial to enter design mode now correctly enters design mode and not edit mode.
+- The people rollup feature "User fields on page" now works as expected.
+- Using a custom navigation node title for a page now works as expected.
+- ODM Tasks completion messages have been improved, it now correctly indicates if the task was completed or cancelled.
+- Fixed a migration issue causing action buttons added in 5.1 to sometimes not be editable in 6.x.
+
+
 
 6.1.15
 ========================================
 (Omnia 6.1.10 / Workplace 6.1.3 / WCM 6.1.15 / MS 6.1.8 )
+
 - Fixed an issue where Omnia Admin would not show enough options to Business Profile Admins (#128501).
 - Corrected an upgrade issue that would sometimes occur for images in OPM. 
 - Fixed an issue in the page rollup with the scroll paging.
@@ -94,9 +107,6 @@
 
 6.0.2
 ========================================
-
-Permissions updates
-************************
 
 
 Notes
