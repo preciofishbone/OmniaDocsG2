@@ -6,12 +6,20 @@
 6.1.15
 ========================================
 (Omnia 6.1.10 / Workplace 6.1.3 / WCM 6.1.15 / MS 6.1.8 )
+- Fixed an issue where Omnia Admin would not show enough options to Business Profile Admins (#128501).
+- Corrected an upgrade issue that would sometimes occur for images in OPM. 
+- Fixed an issue in the page rollup with the scroll paging.
+- Corrected an issue with targeting when the user has no value in the targeting property. (#128677)-
 
 
 6.1.13
 ========================================
 (Omnia 6.1.9 / Workplace 6.1.2 / WCM 6.1.13 / MS 6.1.5 )
 
+- Permissions for the AzureAD Sync features are now automatically ensured on upgrades. 
+- Added Swedish translations to new labels related to Query Limit.
+- When adding a queryable property, it will now correctly make existing content queryable without republish.
+- Updated API to fetch MSTeams links, resolving issues displaying the MSTeams Icon in Teamwork rollup (#128558).
 
 6.1.12
 ========================================
