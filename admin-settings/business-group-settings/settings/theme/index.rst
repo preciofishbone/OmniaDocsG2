@@ -5,19 +5,19 @@ Here you can work with theming for the Business Profile:
 
 .. image:: theme-all.png
 
-Coloar Palette
+Color Palette
 ****************
-Use these setings to define the Coilor Palettet that should be available in the Busniess Profile.
+Use these setings to define the Color Palette that should be available in the Busniess Profile.
 
 + **Primary**: If needed, you can adjust the Primary Color. 
 + **Secondary**: If needed, you can adjust the Secondary Color.
 + **Additional Colors**: To make sure editors can't choose any other color freely, you can use this section to set up alternative colors that will be available. Click "Add Additonal Color" to add more colors, and the dust bin to delete a color. (Don't forget to save when you're done.)
 
-When you select "Additional Colors" you add Custom Colors.
+When you select "Additional Colors" you can add Custom Colors.
 
 .. image:: theme-custom.png
 
-You can these add any colour using the blender, the Color slider, the Black and White slider, and even add the exact hex number for a color.
+You can add any colour using the blender, the Color slider, the Black and White slider, and even add the exact hex number for a color.
 
 .. image:: theme-custom-blender.png
 
@@ -31,19 +31,19 @@ Use the list to the left to select a theme and the list to the right for an acce
 
 Theme Definitions
 *********************
-In a number of occasions, especially when working with pages, a theme can be selected. Here you define the themes that should be available.
+In a number of occasions, especially when working with pages, a theme can be selected. A number of themes are available out of the box, and you can also add addtional themes.
 
 .. image:: theme-definitions.png
 
-These default themes canät be edited or deleted, but you can create new themes, see below.
+These default themes can't be edited or deleted.
 
-Use the screen icon for a preview of a theme. Here's an example of the "Light woth color":
+Use the screen icon for a preview of a theme. Here's a preview of "Light with color":
 
 .. image:: theme-light-color.png
 
-And here's the "Dark" theme:
+And here's "Color"":
 
-.. image:: theme-dark.png
+.. image:: theme-color.png
 
 Create a new theme
 -----------------------
@@ -54,9 +54,9 @@ To create a new theme, do the following:
 .. image:: create-theme-click-plus.png
 
 2. Add a Theme Name.
-3. Set the colors for the BODY and CHROME.
+3. Set the colors for BODY and CHROME.
 
-You can also select en existing theme as a starting point, by clicking here:
+You can also select an existing theme as a starting point, by clicking here:
 
 .. image:: create-theme-click-theme.png
 
@@ -66,7 +66,7 @@ Available are these:
 
 .. image:: create-theme-advanced.png
 
-5. You can see a proview of the progress any time, by clicking here:
+5. You can see a preview of the theme you're creating, by clicking here:
 
 .. image:: create-theme-preview.png
 
