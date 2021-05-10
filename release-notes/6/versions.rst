@@ -2,6 +2,14 @@
 ========================================
 (Omnia 6.2.x / Workplace 6.2.x / WCM 6.2.x / MS 6.2.x )
 
+- Improved performance in loading of static resources.
+- Corrected an issue with reordering related links (#128578).
+- Search as you type experience is improved (#123522).
+- It is now possible to define link styles for RTF, allowing you to configure them to be underlined by default (#125728).
+- Corrected theme for the "show more" dialog for likes(#128262).
+- Fixed an issue preventing information text to be removed in the new media picker(#128008).
+- Event management enterprise properties have been converted into system properties.
+- Community tags now accept Swedish letters again (åäö) (#127968).
 
 6.1.15
 ========================================
@@ -172,7 +180,7 @@ Web Content Management
 - Device breakpoints no longer show tabs with empty settings. The tabs are hidden instead. (#113972).
 Reusable content
 -------------------
-- The flow for creating reusable content has been greatly improved, see general release notes (#122365, #124250, #126920).
+- The flow for creating reusable content has been greatly improved, see general release notes (#122365, #124250, #126920, #128074).
 - The page picker is now supported when selecting a page to reuse.
 - Its now possible to reuse content between variations of a page. (#120352).
 
