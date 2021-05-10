@@ -26,6 +26,7 @@
 6.1.15
 ========================================
 (Omnia 6.1.10 / Workplace 6.1.3 / WCM 6.1.15 / MS 6.1.8 )
+
 - Fixed an issue where Omnia Admin would not show enough options to Business Profile Admins (#128501).
 - Corrected an upgrade issue that would sometimes occur for images in OPM. 
 - Fixed an issue in the page rollup with the scroll paging.
