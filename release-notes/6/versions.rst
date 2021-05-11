@@ -1,6 +1,6 @@
-6.2 - Draft
+6.2
 ========================================
-(Omnia 6.2.x / Workplace 6.2.x / WCM 6.2.x / MS 6.2.x )
+(Omnia 6.2.0 / Workplace 6.2.1 / WCM 6.2.1 / MS 6.2.1 )
 
 - Improved performance in loading of static resources.
 - Corrected an issue with reordering related links (#128578).
