@@ -1,3 +1,10 @@
+6.2.2
+========================================
+(Omnia 6.2.0 / Workplace 6.2.2 / WCM 6.2.2 / MS 6.2.1 )
+
+- Additional performance improvements for the page rollup.
+- Page now reloads correctly when switching language in the omnia user menu.
+
 6.2
 ========================================
 (Omnia 6.2.0 / Workplace 6.2.1 / WCM 6.2.1 / MS 6.2.1 )
