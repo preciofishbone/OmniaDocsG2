@@ -1,6 +1,13 @@
-6.2 - Draft
+6.2.2
 ========================================
-(Omnia 6.2.x / Workplace 6.2.x / WCM 6.2.x / MS 6.2.x )
+(Omnia 6.2.0 / Workplace 6.2.2 / WCM 6.2.2 / MS 6.2.1 )
+
+- Additional performance improvements for the page rollup.
+- Page now reloads correctly when switching language in the omnia user menu.
+
+6.2
+========================================
+(Omnia 6.2.0 / Workplace 6.2.1 / WCM 6.2.1 / MS 6.2.1 )
 
 - Improved performance in loading of static resources.
 - Corrected an issue with reordering related links (#128578).
@@ -18,9 +25,26 @@
 - Using the speed dial to enter design mode now correctly enters design mode and not edit mode.
 - The people rollup feature "User fields on page" now works as expected.
 - Using a custom navigation node title for a page now works as expected.
-- ODM Tasks completion messages have been improved, it now correctly indicates if the task was completed or cancelled.
+- ODM Tasks completion messages have been improved, it now correctly indicates if the task was completed or cancelled. (#115443).
 - Fixed a migration issue causing action buttons added in 5.1 to sometimes not be editable in 6.x.
-
+- Fixed an issue where moved controlled documents would display in both the source and target sites for a while.
+- Feedback form for ODM has gotten a new design (#115119).
+- Fixed an issue in event management preventing un-registration for copied events (#126503).
+- Better UI feedback when publishing pages with missing mandatory metadata (#127265).
+- Fixed error message in WCM editor that previously stated "this.editorstore..." it now displays the correct message.
+- Terms now behave consistently in a multilingual setting when picking terms. (#127034).
+- Fixed an issue in OPM setting focus to the wrong tab when adding shapes.
+- Corrected an issue with 10px extra padding automatically being added to the Listing with image page rollup view.
+- Updated several labels and spellings.
+- RTF Heading dropdown now renders like the settings. 
+- Added placeholder for all blocks. (The placeholder is used when the block has no data to show in edit mode).
+- Shared links now correctly open on IOS. 
+- If no image is mapped in the page rollup views, the placeholder image no longer shows.
+- Svgs can no longer be uploaded as a template in ODM. 
+- The media picker can now correctly bypass its functionality to support all file formats in its native format. 
+- Document rollup grouped by site now uses the image proxy to get the SharePoint image. 
+- Fixed an issue where header theming would get incorrect settings.
+- Document type changes now correctly propagate to all ODM Authoring sites. (#128387).
 
 
 6.1.15
