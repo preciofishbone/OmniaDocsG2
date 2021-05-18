@@ -72,7 +72,7 @@ For **List View** you can set the following:
 
 .. image:: document-rollup-settings-display-new3.png
 
-+ **Add Column**: Select the columns to show in the list. Note! If users should be able to send feedback on controlled documents, add the column "Feedback Icon". In the rollups shown in the implemantation section below, the Feedback icon is the icon to the far right. An information icon can also be very useful as it displays more information about the document.
++ **Add Column**: Select the columns to show in the list. Note! If users should be able to send feedback on controlled documents, add the column "Feedback Icon". In the rollups shown in the implementation section below, the Feedback icon is the icon to the far right. An information icon can also be very useful as it displays more information about the document.
 + **Trim by Following Site**: If this option is selected only documents from sites the logged in user follows are displayed in the list.
 + **Sort By**: Select the column the list should be sorted by.
 + **Paging**: Select paging for the list here. It can be "No paging", "Classic" or "Scroll".
