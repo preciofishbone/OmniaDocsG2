@@ -1,11 +1,11 @@
 Mapping a user profile property
 =====================================
 
-In order to map an Omnia property to a user profile property, we need to first find the user profile property in sharepoint. 
+In order to map an Omnia property to a user profile property, you need to first find the user profile property in Sharepoint. 
 
 1. Go to the site.
 2. Go to the admin portal (for example by typing https://admin.microsoft.com).
-3. Select Sharepoint admin center.
+3. Select the Sharepoint admin center.
 
 .. image:: sharepoint-admin-center.png
 
@@ -21,7 +21,7 @@ In order to map an Omnia property to a user profile property, we need to first f
 
 .. image:: sharepoint-admin-manage-profiles-user.png
 
-In order for a user profile property to be used in omnia, it has to be mapped first, and in order for it to be mapped, you need to know the name of the property, which can be found in search.
+In order for a user profile property to be used in Omnia, it has to be mapped first, and in order for it to be mapped, you need to know the name of the property, which can be found in search.
 
 .. image:: sharepoint-admin-manage-profiles-search.png
 
@@ -33,7 +33,7 @@ In order for a user profile property to be used in omnia, it has to be mapped fi
 
 .. image:: sharepoint-admin-manage-manage-schema-department.png
 
-In this example you can see othat the name of the Managed property is indeed Department, and the crawled properties are People:Department and ows_department.
+In this example you can see that the name of the Managed property is indeed Department, and the crawled properties are People:Department and ows_department.
 
 Also notice that Department is of type Text, it is also queryable, retrievable and refinable but not searchable or sortable, which means that when you map it on omnia, it needs to have the same attributes if you want it have the same functionality.
 
