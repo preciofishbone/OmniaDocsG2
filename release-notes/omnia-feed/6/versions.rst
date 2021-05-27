@@ -19,10 +19,11 @@
 
 - Fixed the issue that comments count is not consistent between My Feed view and Detail view.
 - Fixed the UI issue on iPhone X or later where the Omnia Feed navigation bar is overlapping with iOS task bar.
-- News now fall back to default variation correctly when current variation is deleted.
+- News will show default variation correctly when current variation is deleted.
 - Links to Microsoft Office documents will now be opened on avaiable supported applications or prompt the user to install one.
-- Fixed the issue that Embedded Link and Link tabs cannot display links to Omnia with custom domain.
+- Fixed the issue that Embedded Link and Link tabs cannot display links to Omnia custom domain.
 - Pushed notifications will now open the correct variation based on targeting.
+- Fixed the issue that page collection title format of the first tab is applied for the same page collection in all tabs.
 
 
 Versions
