@@ -1,3 +1,13 @@
+6.2.5
+========================================
+(Omnia 6.2.2 / Workplace 6.2.4 / WCM 6.2.4 / MS 6.2.5)
+
+- Performance updates for the Page Rollup.
+- Send for comments in ODM will now work even if email send outs fail (#128539).
+- Delete and Unpublish now works correctly for ODM sites where an On-Hold policy has been applied.
+- Fixed an issue with documents incorrectly displaying as published in the draft library (#129289, #129313).
+- Fixed an issue with moving documents (#125839, #129256).
+
 6.2.3
 ========================================
 (Omnia 6.2.1 / Workplace 6.2.3 / WCM 6.2.2 / MS 6.2.4)
