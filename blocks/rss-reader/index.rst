@@ -9,7 +9,7 @@ It can look like this:
 
 Users can click the heading of an item to go to the source and read more.
 
-.. note:: The RSS Reader supports RSS 2.0 and Atom 1.0 only. RSS notes must also be umcompressed.
+.. note:: The RSS Reader supports RSS 2.0 and Atom 1.0 only. RSS notes must also be uncompressed.
 
 Settings
 **********

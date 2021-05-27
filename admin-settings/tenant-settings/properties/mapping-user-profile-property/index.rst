@@ -39,7 +39,7 @@ Also notice that Department is of type Text, it is also queryable, retrievable a
 
 Mapping in Omnia (example Department): 
 
-.. image:: tenant-properties-mapping.png
+.. image:: tenant-properties-mapping-new.png
 
 Department is now a usable property that functions as both a value displayer and a refiner in blocks like People roll up and features like the search.
 
