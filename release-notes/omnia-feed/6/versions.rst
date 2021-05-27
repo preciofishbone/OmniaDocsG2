@@ -14,6 +14,17 @@
 - Queries based on taxonomy properties now work correctly with empty value.
 - Updated the placeholder text on login form.
 
+6.2.2
+========================================
+
+- Fixed the issue that comments count is not consistent between My Feed view and Detail view.
+- Fixed the UI issue on iPhone X or later where the Omnia Feed navigation bar is overlapping with iOS task bar.
+- News now fall back to default variation correctly when current variation is deleted.
+- Links to Microsoft Office documents will now be opened on avaiable supported applications or prompt the user to install one.
+- Fixed the issue that Embedded Link and Link tabs cannot display links to Omnia with custom domain.
+- Pushed notifications will now open the correct variation based on targeting.
+
+
 Versions
 -----------------------------------------
 
