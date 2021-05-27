@@ -1,3 +1,24 @@
+6.2.5
+========================================
+(Omnia 6.2.2 / Workplace 6.2.4 / WCM 6.2.4 / MS 6.2.5)
+
+- Performance updates for the Page Rollup.
+- Send for comments in ODM will now work even if email send outs fail (#128539).
+- Delete and Unpublish now works correctly for ODM sites where an On-Hold policy has been applied.
+- Fixed an issue with documents incorrectly displaying as published in the draft library (#129289, #129313).
+- Fixed an issue with moving documents (#125839, #129256).
+
+6.2.3
+========================================
+(Omnia 6.2.1 / Workplace 6.2.3 / WCM 6.2.2 / MS 6.2.4)
+
+- Fixed an issue causing deleted draft documents incorrectly showing up. (#128575).
+- Fixed an issue where the draft library would not show up correctly (#129003).
+- The content header now loads correctly on the first page load (#129004, #129014, #128991, #128525, #129072, #128635).
+- Fixed an issue where OPM processes would fail saving its data to SharePoint. (#129189, #128390)
+- Several stability fixes to the page rollup when invalid config is used. The rollups will now load anyway. (#129119, #129160, #129177, #129232, #129250, #129259).
+- Fixed an issue with ODM that would occur due to a language mismatch between Omnia and the Term store.
+
 6.2.2
 ========================================
 (Omnia 6.2.0 / Workplace 6.2.2 / WCM 6.2.2 / MS 6.2.1 )
