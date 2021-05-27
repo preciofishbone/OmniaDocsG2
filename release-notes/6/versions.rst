@@ -1,6 +1,6 @@
 6.2.5
 ========================================
-(Omnia 6.2.2 / Workplace 6.2.4 / WCM 6.2.4 / MS 6.2.5)
+(Omnia 6.2.3 / Workplace 6.2.4 / WCM 6.2.4 / MS 6.2.5)
 
 - Performance updates for the Page Rollup.
 - Send for comments in ODM will now work even if email send outs fail (#128539).
