@@ -103,6 +103,8 @@ If it's a section with tabs, additional settings can be set for Style, for the a
 + **Custom Size**: If you would like to set minimum height and width for the tabs, select this option, and then use the sliders.
 + **Border Radius**: Use this slider to set the border radius between tabs in the section.
 + **Color**: Select "Color" for various color settings for the tabs. 
++ **Collapsed Accordion**: Used for Tab Typ Accordion only. If this option is selected, only one accordion will be expanded at a time.
++ **Flat Header**: (A description will be added soon.)
 
 Effects
 --------
