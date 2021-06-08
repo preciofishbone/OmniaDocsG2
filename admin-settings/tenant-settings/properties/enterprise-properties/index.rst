@@ -11,6 +11,8 @@ Open a category to see the list of properties. Here's an example:
 
 Click the pen to edit a property. See below for editable settings. If it's possible to delete a property (meaning move it to the Property Recycle Bin) a dust bin is displayed.
 
+**Note!** Term sets to be used as properties for targeting in Omnia, must be set to "Available for tagging" in Sharepoint, but we recommend that you set this for all Sharepoint term sets.
+
 Adding a Property
 *********************
 To add a Property, click the plus.
