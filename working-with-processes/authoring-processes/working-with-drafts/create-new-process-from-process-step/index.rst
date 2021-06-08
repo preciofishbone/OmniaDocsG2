@@ -24,3 +24,5 @@ When you click OK, the new process is created and you can work with it the same 
 .. image:: new-process-copied.png
 
 Note that this is a copy, there is no connection between the new process and the process step it was copied from. You can delete the process step or continue to work with it separately.
+
+Also note that if the process step uses the parent's drawing, this drawing is NOT copied.
