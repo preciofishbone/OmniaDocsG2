@@ -1,3 +1,13 @@
+6.2.7
+========================================
+(Omnia 6.2.4 / Workplace 6.2.4 / WCM 6.2.7 / MS 6.2.7)
+
+- Improved rendering performance for large structures.
+- Links in RTF now works as expected when not having the color picker as an action in the RTF editor (#129495).
+- Fixed an issue with duplicated rendering in the ODM authoring sites when using the move feature (#129678, #129330, #129678).
+- Fixed an upgrade issue for banners and accordion that would occur when content has been added to a component owned by the page type (#129597, #129552).
+
+
 6.2.5
 ========================================
 (Omnia 6.2.3 / Workplace 6.2.4 / WCM 6.2.4 / MS 6.2.5)
