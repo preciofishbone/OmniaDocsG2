@@ -19,8 +19,8 @@ The following is shown:
 
 4. Click OK to create the new process (or CANCEL to change your mind).
 
-The new process is created and you can work with it the same way as all other processes.
+When you click OK, the new process is created and you can work with it the same way as all other processes.
 
 .. image:: new-process-copied.png
 
-Note that this is a copy, there is no connection between the new process and the process step it was copied from. You can delete the process step or continue to work with it separately from the process it was copied to.
+Note that this is a copy, there is no connection between the new process and the process step it was copied from. You can delete the process step or continue to work with it separately.
