@@ -7,6 +7,7 @@ Business Profile Settings
    announcements/index
    event-management/index
    features/index
+   forms/index
    notification-panel/index
    omnia-feed/index
    security/index
