@@ -41,6 +41,8 @@
 (Omnia 6.2.0 / Workplace 6.2.1 / WCM 6.2.1 / MS 6.2.1 )
 
 - Improved performance in loading of static resources.
+- Table styles in OPM now works as expected (#126863).
+- Current page is now supported when making queries in the People Rollup. (#114971).
 - Corrected an issue with reordering related links (#128578).
 - Search as you type experience is improved (#123522).
 - It is now possible to define link styles for RTF, allowing you to configure them to be underlined by default (#125728).
