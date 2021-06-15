@@ -1,6 +1,7 @@
 6.2.8
 ========================================
 (Omnia 6.2.4 / Workplace 6.2.4 / WCM 6.2.7 / MS 6.2.7)
+
 - Performance improvements for the page rollup.
 - Stability improvements to the ODM publish and unpublish flows (#128841, #129280, #129862, #129861, #129777).
 
