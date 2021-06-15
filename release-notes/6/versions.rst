@@ -1,3 +1,24 @@
+6.3.0 - DRAFT
+========================================
+(Omnia 6.3.0 / Workplace 6.3.1 / WCM 6.3.1 / MS 6.3.1)
+
+New Features
+**************************
+
+-  Search image/icon display sizes are now configurable. Allowing for same size images in all scenarios. (#114546).
+- 
+
+
+Fixes
+***************************
+
+- The document picker on a publishing app can now be used without a document library being configured on the publishing app (#128044).
+- Fixed an issue that made certain Bing images not work. 
+- Document rollup partial word search now works as expected when using Full Text search option on filters.
+- Fixed an issue with picking page collections in the notification panel (#125877).
+- 
+
+
 6.2.8
 ========================================
 (Omnia 6.2.4 / Workplace 6.2.4 / WCM 6.2.7 / MS 6.2.7)
