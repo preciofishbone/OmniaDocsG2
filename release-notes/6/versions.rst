@@ -5,19 +5,32 @@
 New Features
 **************************
 
--  Search image/icon display sizes are now configurable. Allowing for same size images in all scenarios. (#114546).
+- Search image/icon display sizes are now configurable. Allowing for same size images in all scenarios. (#114546).
+- The RSS Feed will now clearly specify that it only supports RSS 2.0, Atom 1.0 or newer. 
+- The new Media Picker now supports .svg files as an image source (#123514).
+- A Search box for all enterprise properties are now available. 
 - 
-
 
 Fixes
 ***************************
 
 - The document picker on a publishing app can now be used without a document library being configured on the publishing app (#128044).
-- Fixed an issue that made certain Bing images not work. 
+- Fixed an issue that made certain Bing images fail to render. 
 - Document rollup partial word search now works as expected when using Full Text search option on filters.
 - Fixed an issue with picking page collections in the notification panel (#125877).
+- Made it easier to add content to an accordion block.
+- Exif orientation metadata are now stripped from images when using scaling in Omnia. This will prevent upside down images.
+- Take Control now works as expected for pages that have never been published. 
+- Fixed an issue that prevented confirmation emails to be sent out when approving a site (#128549).
+- Updated compatibility with certain RSS Feeds.
+- Copy event now includes Created By (#126505).
+- Fixed an issue where removed features would still be in provisioning templates (#129117, #129705, #129697).
+- Height of the Taxonomy and Enterprise property picker has been increased (#129264).
+- Different Info Screen configurations now correctly get different urls (#128803).
+- Fixed a rendering issue with the tab control (#129209, #129674).
+- Updated localizations. 
+- Flag Icons no longer have rounded corners in the icon picker.
 - 
-
 
 6.2.8
 ========================================
