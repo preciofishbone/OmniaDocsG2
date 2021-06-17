@@ -49,14 +49,14 @@ The settings are the same for all form types. All settings you use when creating
 
 + **Title**: Add a Title for the form here, in any or all of the available languages.
 + **Use Points**: On per default for Surveys, but can be changed.
-+ **Use Correct Answer**: If it should be possible to show correct answers, after the user has submitted and answers, select this option. Selected per default for Checkups.
-+ **Enable "Check your answers"**: Available when "Use Correct Answer" is selected. When this option is selectedm users can click "Check your answers" to see th answers.
-+ **Enable Save for for later**: If the user should be able to save the progress so far and continue later, select this option.
-+ **Enable Submission**: If it should be possible for users to submit an answer, and just not read the information, select this option. It's always selected and can't be unchecked for Surrveys and Polls. For Checkups it's unchecked pere default.
-+ **One respons per person**: When Enable Submission is selected, you can schoose if a user should be able to use the form just once, or several times. Selected per default for Surveys.
-+ **Make responses anonymus**: When Enable Submission is selected, you can schoose to make answers anonymus. If you do, it's not possible for administrators on any level to trace user submissions. Selected per default for Polls.
++ **Use Correct Answer**: If it should be possible to show correct answers, after the user has submitted answers, select this option. On per default for Checkups.
++ **Enable "Check your answers"**: Available when "Use Correct Answer" is selected. When this option is selected, users can click "Check your answers" to see the answers.
++ **Enable Save for for later**: If the user should be able to save the progress so far and continue later, select this option. If not selected, users have to finsish the Survey/Poll/Checkup in one go.
++ **Enable Submission**: If it should be possible for users to submit an answer, and just not read the information, select this option. It's always on and can't be unchecked for Surrveys and Polls. For Checkups it's unchecked per default.
++ **One respons per person**: When Enable Submission is selected, you can schoose if a user should be able to submit answers just once, or several times. On per default for Surveys.
++ **Make responses anonymus**: When Enable Submission is selected, you can schoose to make answers anonymus. If you do, it's not possible for administrators on any level to trace user submissions. On per default for Polls.
 + **Custom submit label**: When Enable Submission is selected, you can add a label here if needed.
-+ **On Submission**: When Enable Submission is selected, you select what will happen on submission: "Show message" meaning the message you can add above, "Show user respone" and/or "Show all responses" - meaning al user responses for this Surevy or Poll, so far.
++ **On Submission**: When Enable Submission is selected, you select what will happen on submission: "Show message" meaning the message you can add above, "Show user respone" and/or "Show all responses" - meaning all user responses for this Surevy or Poll, so far.
 + **Open**: Select this option for dates when the form should be available, and then add Start date and End date.
 
 Don't forget to save the settings.
@@ -103,13 +103,13 @@ You can use all general sections and blocks when working with the graphical pres
 
 You can find more information about how to work with sections here: :doc:`Working with sections and blocks </pages/page-types/working-with-sections-and-blocks/index>`
 
-Information about sections settings is found here: :doc:`Settings for sections </pages/page-types/settings-for-sections/index>`
+Information about sections settings is found here: :doc:`Settings for sections </pages/page-types/section-settings/index>`
 
 More information about how to work with blocks is found here: :doc:`Working with blocks </blocks/working-with-blocks/index>`
 
 When working with the a form's graphicla presentation, a specific block is available - Form Question. You can find more information about that block here: (Linke to be added).
 
-As always, don't forget to save shen you're finished:
+As always, don't forget to save when you're finished:
 
 .. image:: forms-save.png
 
