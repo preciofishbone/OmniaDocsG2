@@ -24,7 +24,7 @@ Secrets
 ********
 The following settings can be available here:
 
-.. image:: tenant-secrets.png
+.. image:: tenant-secrets-new.png
 
 System Account
 ------------------
@@ -46,3 +46,13 @@ Event Management Service Account
 If you will be using Event Management with a connection to calendars in Outlook, you must add the service account that will be used to read and write from the calendars in the tenant. (Don't forget that this account needs permissions to that calendar.)
 
 .. image:: tenant-secrets-event.png
+
+Azure AD Sharepoint Sync App
+-------------------------------
+In the process of enabling Sharepoint App Only, Client Id and Client Secret needs to be added here.
+
+.. image:: sharepoint-sync-app.png
+
+For more information, see the instruction available when you click the link "Config instruction" in the "Azure AD Sync" settings in Omnia Admin (available under "System").
+
+For more information on Azure AD Sync, see: :doc:`General Block Settings </admin-settings/tenant-settings/system/azure-ad-sync/index>`
