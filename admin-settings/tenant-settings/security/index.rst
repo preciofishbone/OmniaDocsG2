@@ -55,4 +55,4 @@ In the process of enabling Sharepoint App Only, Client Id and Client Secret need
 
 For more information, see the instruction available when you click the link "Config instruction" in the "Azure AD Sync" settings in Omnia Admin (available under "System").
 
-For more information on Azure AD Sync, see: :doc:`General Block Settings </admin-settings/tenant-settings/system/azure-ad-sync/index>`
+For more information on Azure AD Sync, see: :doc:`Azure AD Synchronization settings </admin-settings/tenant-settings/system/azure-ad-sync/index>`
