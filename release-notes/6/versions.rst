@@ -1,3 +1,87 @@
+6.3.0 - DRAFT
+========================================
+(Omnia 6.3.0 / Workplace 6.3.1 / WCM 6.3.1 / MS 6.3.1)
+
+New Features
+**************************
+
+- Search image/icon display sizes are now configurable. Allowing for same size images in all scenarios. (#114546).
+- The RSS Feed will now clearly specify that it only supports RSS 2.0, Atom 1.0 or newer. 
+- The new Media Picker now supports .svg files as an image source (#123514).
+- A Search box for all enterprise properties is now available. 
+- The page rollup can now apply client-side optimizations for much better perceived performance.
+- Several performance improvements to page loading.
+- The URLs to pages are now available in all excel exports of page reports.
+- The Azure AD Sync feature is updated to use a SharePoint Addin App identity instead of a user account, this will allow the tenant to turn of legacy sign in and still use the Azure AD Sync. 
+- Office 365 groups can now be used for permissions in WCM (#128519).
+- Automatic page creation now works without using reusable content and can work together with quick publish (#128047). 
+- Automatic page creation can now create pages as drafts and has better support in a multi variation scenario.
+- Localization has been added to the date refiner control. (#122160).
+- Improvements to the "Keep Text Only" feature. It now removes external style tags (#128638, #128344, #128832).
+
+Fixes
+***************************
+
+- The document picker on a publishing app can now be used without a document library being configured on the publishing app (#128044).
+- Fixed an issue that made certain Bing images fail.
+- Document rollup partial word search now works as expected when using Full Text search option on filters.
+- Fixed an issue with picking page collections in the notification panel (#125877).
+- Made it easier to add content to an accordion block.
+- Exif orientation metadata are now stripped from images when using scaling in Omnia. This will prevent upside down images.
+- Take Control now works as expected for pages that have never been published. 
+- Fixed an issue that prevented confirmation emails to be sent out when approving a site (#128549).
+- Updated compatibility with certain RSS Feeds.
+- Copy event now includes Created By (#126505).
+- Fixed an issue where removed features would still be in provisioning templates (#129117, #129705, #129697).
+- Height of the Taxonomy and Enterprise property picker has been increased (#129264).
+- Different Info Screen configurations now correctly get different URLs (#128803).
+- Fixed a rendering issue with the tab control (#129209, #129674, #126082, #127587).
+- Updated localizations. (#117437, #113842, )
+- Flag Icons no longer have rounded corners in the icon picker. 
+- Fixed an issue for creating repeated events in Event Management. 
+- Corrected several theme bugs including but not limited to the app icons view for shared links, the scheduling dialog, and the likes details dialog. (#128222).
+- Fixed an issue preventing the saving of new text styles (#129333).
+- Its now possible to add background images to processes when using OPM from inside MS Teams (#129307)
+- Fixed an issue where more settings in the OPM authoring site would open a new tab (#128195).
+- Space is no longer unintentionally added when using the HTML mode in the RTF editor. (#124930).
+- The Document History placeholder in ODM now supports translations (#125776).
+- Fixed an issue preventing the App Icons view from removing shared links. (#128739).
+- Corrected an issue with the User Language replacement in the Document and People Rollups. (#128175).
+- Improved validation feedback for page properties (#128686).
+- Fixed an issue with the accordion block header style. (#128317).
+- Fixed a caching issue that would happen when navigating between OPM authoring sites (#126427).  
+- Page history now shows the correct time format (#128800, #125616).
+- Improvements to the page rollup settings UI.
+- Fixed an issue that would sometimes not create a review reminder email on a document type. 
+- Review reminder emails no longer contain broken links to the process.
+- Fixed a caching problem in the WCM editor that would give the impression you were on the wrong page.
+- Search no longer closes after opening a result in a new tab (#129124).
+- Events in event management without a reserve list now act like they do not have a reserve list (#127000).
+- Fixed an issue where you could not activate OPM Authoring on a site with illegal characters in the site title (#128504, #128056).
+- Fixed an issue with central image locations, all images are now shown (#128810).
+- Fixed an issue with variations where their navigation node would not update correctly without reloading the page (#128842).
+- UI fixes for IOS.
+- Fixed an issue with "Open in client app" in ODM (#128392).
+- External links now open correctly in a new tab when set to do so.
+- Script/HTML now works as intended inside of a tab section. (#128248).
+- SVG images can now be dragged into the media picker (#118432).
+- Design updates to the select template UI of teamwork creation. 
+- Team news rollup icon and title now align correctly in SPFx.
+
+For developers
+***************************
+- Getting visited pages are now part of OmniaFX.
+
+
+6.2.8
+========================================
+(Omnia 6.2.4 / Workplace 6.2.4 / WCM 6.2.9 / MS 6.2.8)
+
+- Performance improvements for the page rollup.
+- Stability improvements to the ODM publish and unpublish flows (#128841, #129280, #129862, #129861, #129777).
+- Fixed a styling issue for banners.
+
+
 6.2.7
 ========================================
 (Omnia 6.2.4 / Workplace 6.2.4 / WCM 6.2.7 / MS 6.2.7)
