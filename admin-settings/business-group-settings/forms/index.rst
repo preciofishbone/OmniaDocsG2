@@ -63,8 +63,6 @@ Don't forget to save the settings.
 
 Working with the graphical presentation
 ****************************************
-When working with the graphical presentation of a form, you can use normal blocks and some of the settings available for pages. There are also a few specific blocks for forms.
-
 It can look like this (Survey as an example):
 
 .. image:: surveys-1.png
@@ -87,15 +85,15 @@ The general settings for the graphical presentation are found here:
 
 Use the left most icon to select a canvas size (workspace area):
 
-image:: forms-settings-graphical-workspace.png
+.. image:: forms-settings-graphical-workspace.png
 
 Use the icon in the middle to set colors:
 
-image:: forms-settings-graphical-colors.png
+.. image:: forms-settings-graphical-colors.png
 
 Use the right most icon to set padding:
 
-image:: forms-settings-graphical-padding.png
+.. image:: forms-settings-graphical-padding.png
 
 Working with sections and blocks
 -----------------------------------
@@ -111,7 +109,7 @@ More information about how to work with blocks is found here: :doc:`Working with
 
 When working with the a form's graphicla presentation, a specific block is available - Form Question. You can find more information about that block here: (Linke to be added).
 
-As always, don't forget to seva shen you're finished:
+As always, don't forget to save shen you're finished:
 
 .. image:: forms-save.png
 
