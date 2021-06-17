@@ -8,6 +8,7 @@ Blocks
    accordion/index
    activity-feed/index
    blocks-event-management/index
+   blocks-forms/index
    button-link/index
    announcements/index
    banner/index
