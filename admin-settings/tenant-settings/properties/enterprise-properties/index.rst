@@ -3,7 +3,9 @@ Enterprise Properties
 
 Here you add ALL Properties that should be used within the Tenant. The list displays all existing properties organized after category, for example:
 
-.. image:: enterprise-properties-list.png
+.. image:: enterprise-properties-list-new.png
+
+To find a property for editing, you can either search (note the search field at the top), or browse by category.
 
 Open a category to see the list of properties. Here's an example:
 
