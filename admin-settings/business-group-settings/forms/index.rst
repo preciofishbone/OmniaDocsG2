@@ -39,7 +39,7 @@ Do the following to create a new form:
 
 When you create a new form, the graphical presentation is opened when you click Save for the settings. (When you edit settings for an existing form, it's not).
 
-You can find more information about the Form block here: (link to be added).
+You can find more information about the Form block here: :doc:`Form block </blocks/blocks-forms/form/index>`
 
 Settings
 ***********
@@ -107,7 +107,7 @@ Information about sections settings is found here: :doc:`Settings for sections <
 
 More information about how to work with blocks is found here: :doc:`Working with blocks </blocks/working-with-blocks/index>`
 
-When working with the a form's graphicla presentation, a specific block is available - Form Question. You can find more information about that block here: (Linke to be added).
+When working with the a form's graphical presentation, a specific block is available - Form Question. You can find more information about that block here: :doc:`Form Question </blocks/blocks-forms/form-question/index>`.
 
 As always, don't forget to save when you're finished:
 
