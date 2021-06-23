@@ -5,6 +5,8 @@ Use these advanced settings to make sure person properties are synchronized from
 
 **Note!** For this to work, you have to set the Azure AD Sync Account. See that heading on this page for more information: :doc:`Security </admin-settings/tenant-settings/security/index>`
 
+Also note: The Azure AD Sync can now be set up to use SharePoint Addin App identity instead of a user account. This will allow the tenant to turn of legacy sign in and still use the Azure AD Sync, see *Enable Sharepoint App-Only* below.
+
 This is what's available:
 
 .. image:: azure-ad-overview-new2.png

@@ -18,6 +18,8 @@ New Features
 - Automatic page creation can now create pages as drafts and has better support in a multi variation scenario.
 - Localization has been added to the date refiner control. (#122160).
 - Improvements to the "Keep Text Only" feature. It now removes external style tags (#128638, #128344, #128832).
+- Create new document wizard has gotten several UX improvements.  (#128162).
+
 
 Fixes
 ***************************
@@ -67,6 +69,15 @@ Fixes
 - SVG images can now be dragged into the media picker (#118432).
 - Design updates to the select template UI of teamwork creation. 
 - Team news rollup icon and title now align correctly in SPFx.
+- Permissions no longer conflict when using ODM on the Publishing app backing communication site (#127795).
+- Design fixes to the Manage Link dialog (#129800).
+- Queries based on page properties now work well when the property is not set (#129029, #129016).
+- Data properties are now possible to set as SharePoint searchable. (#125055).
+- Design updates to the ODM Read Receipt (#129305).
+- Document rollup refiner width now works as expected (#129459).
+- Fixed a caching issue for the page content(#129746).
+- Corrected an issue that would push the wrong page title into browser history, giving the impression the back button led to the wrong page (#128302).
+
 
 For developers
 ***************************
