@@ -1,4 +1,4 @@
-6.3.0 - DRAFT
+6.3.0
 ========================================
 (Omnia 6.3.0 / Workplace 6.3.1 / WCM 6.3.1 / MS 6.3.1)
 
@@ -77,7 +77,9 @@ Fixes
 - Document rollup refiner width now works as expected (#129459).
 - Fixed a caching issue for the page content(#129746).
 - Corrected an issue that would push the wrong page title into browser history, giving the impression the back button led to the wrong page (#128302).
-
+- Reverted permission changes done in 6.x back to 5.1 logic. O365 groups can now be used for permissions in most places.
+- Setting the order of RTF actions in Omnia admin is now much more stable.
+- Corrected an issue with caching page data (#130086).
 
 For developers
 ***************************
