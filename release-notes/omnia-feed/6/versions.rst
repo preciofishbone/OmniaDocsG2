@@ -25,7 +25,7 @@
 - Pushed notifications will now open the correct variation based on targeting.
 - Fixed the issue that page collection title format of the first tab is applied for the same page collection in all tabs.
 
-6.3
+6.3.0
 ========================================
 
 - Articles read in Omnia will now also be marked as read in Omnia Feed, and vice versa.
