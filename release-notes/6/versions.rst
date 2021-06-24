@@ -80,6 +80,7 @@ Fixes
 - Reverted permission changes done in 6.x back to 5.1 logic. O365 groups can now be used for permissions in most places.
 - Setting the order of RTF actions in Omnia admin is now much more stable.
 - Corrected an issue with caching page data (#130086).
+- ODM Stability improvments (#129852).
 
 For developers
 ***************************
