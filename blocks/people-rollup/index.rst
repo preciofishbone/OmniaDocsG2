@@ -30,6 +30,8 @@ Query
 -----------
 Here you can work with the Query for what to display in the block.
 
+**Important Note!** The maximum return of people or groups is 4096. If the result would be more than this, the query will fail.
+
 .. image:: peoplerollup-settings-query-new2.png
 
 Follow these steps:
