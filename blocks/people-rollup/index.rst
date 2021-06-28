@@ -30,7 +30,7 @@ Query
 -----------
 Here you can work with the Query for what to display in the block.
 
-**Important Note!** The maximum return of people or groups is 4096. If the result would be more than this, the query will fail.
+**Important Note!** The query type SharePoint Groups can be used to rollup the members of a SharePoint group. This query type is limited to list approximately 50 users. If the group contains more users than can be listed, you may get the following error: "The query failed - The maximum allowed value is 4096 Paramter name: QueryTemplate". If you run into this limitation, please use the Profile Query instead.
 
 .. image:: peoplerollup-settings-query-new2.png
 
