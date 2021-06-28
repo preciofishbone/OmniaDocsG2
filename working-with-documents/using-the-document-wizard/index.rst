@@ -42,13 +42,13 @@ The Document Types are set up in Omnia Admin. The first list you will see here i
 
 .. image:: new-controlled-5-new4.png
 
-9. Select where to save the new document. 
+9. Choose where to save the new document. 
 
 .. image:: new-controlled-6-new3.png
 
-If you are creating a new document in a Controlled Documents library, the active site is selected in the "suggested" list. If you have started the wizard from the Action Menu, some common locations can be suggested, as is shown in the above image.
+If you are creating a new document in a Controlled Documents library, the active site is selected in the SUGGESTED list. If you have started the wizard from the Action Menu, some common locations can be suggested, as is shown in the above image.
 
-10. To select where to save the document, use the lists "Suggested", "Followed" and "All" to navigate to the site. Use "All" to search for a library,
+10. To select where to save the document, use the lists SUGGESTES, FOLLOWED and ALL to navigate to the site. Use ALL to search for a library,
 11. Click CREATE.
 
 .. image:: new-controlled-7-new3.png
@@ -80,7 +80,7 @@ To create a new normal document, do the following:
 
 .. image:: normal-document-3-new3.png
 
-5. Add a Title, edit the File Name and add other information that may be needed for the template, depending on how it is set up.
+5. Add a Title, edit the File Name and add other information that may be needed for the template, depending on how it'See set up.
 
 .. image:: normal-document-4-new3.png
 
@@ -88,7 +88,7 @@ To create a new normal document, do the following:
 
 .. image:: normal-document-5-new3.png
 
-OneDrive is your personal Microsoft 365 OneDrive. If "Intranet" is selected - if available - a list of folders you have access to in the intranet is shown. The rest of the locations are normally available Team Sites. If you select "All" you can search for a document libary.
+OneDrive is your personal Microsoft 365 OneDrive. If "Intranet" is selected - if available - a list of folders you have access to in the intranet is shown. The rest of the locations are normally available Team Sites. If you select ALL you can search for a document libary.
 
 7. Select folder in that location.
 
@@ -110,6 +110,6 @@ When you have selected library, and folder if necessary:
 
 .. image:: normal-document-7-new3.png
 
-The document is normally opened and you can start working on it. 
+The document is normally opened so you can start working on it. 
 
 
