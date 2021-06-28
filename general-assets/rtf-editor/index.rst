@@ -3,7 +3,7 @@ RTF Editor
 
 When editing text in Omnia, a RTF editor can be available. What is available in the editor is set up in Omnia Admin, and in a few cases in the block itself.
 
-For more information about the settings, see: :doc:`Tenant - Settings </admin-settings/tenant-settings/settings/rtf-editor/index>`
+For more information about the settings, see: :doc:`RTF Editor Settings </admin-settings/tenant-settings/settings/rtf-editor/index>`
 
 Using the RTF Editor
 **********************
