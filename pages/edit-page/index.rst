@@ -1,7 +1,7 @@
 Edit a page
 ===========================================
 
-The permissions needed to edit a publishing page depends on what is needed. With Editor permissions you can use Design mode to add, move and remove blocks and edit contents. If you have Author permissions you can edit contents in some blocks, using Write mode.
+The permissions needed to edit a publishing page depends on what is to be done. With Editor permissions you can use Design mode to add, move and remove blocks and edit contents. If you have Author permissions you can edit contents in some blocks, using Write mode.
 
 **Note!** To be able to edit the top page in a Page Collection (often the start page) you must have Page Collection permissions.
 
