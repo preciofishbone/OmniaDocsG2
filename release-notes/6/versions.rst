@@ -1,3 +1,14 @@
+6.3.2
+========================================
+(Omnia 6.3.2 / Workplace 6.3.2 / WCM 6.3.2 / MS 6.3.1)
+
+- Stability fixes in Controlled Documents for migrated sites (#129852).
+- Fixed a layout issue in the Document Rollup (#130290).
+- Fixed an issue with date filtering on Events (#130153).
+- Fixed an issue with enabling and disabling mentions in comments. 
+- Corrected an issue with opening Omnia links in a new window from OPM (#130019).
+- Fixed an issue with info screen that would cause images to not render correctly (#129854).
+
 6.3.0
 ========================================
 (Omnia 6.3.0 / Workplace 6.3.1 / WCM 6.3.1 / MS 6.3.1)
