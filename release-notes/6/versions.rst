@@ -1,3 +1,14 @@
+6.3.6
+========================================
+(Omnia 6.3.4 / Workplace 6.3.3 / WCM 6.3.6 / MS 6.3.4)
+
+- Fixed an issue related to outlook integration in Event Management (#130596).
+- Fixed an issue related to multiple variations in combination with automatic page creation (#130692).
+- Fixed a cache issue that would cause old versions of a page to be shown to some users (#130653, #130562, #130680).
+- Fixed an issue on the process rollup. Searched process now open the correct page. (#130181).
+- Ensured stability of the variation picker block (#130496).
+
+
 6.3.4
 ========================================
 (Omnia 6.3.3 / Workplace 6.3.2 / WCM 6.3.4 / MS 6.3.3)
@@ -31,7 +42,7 @@ Fixes
 - Fixed an issue with date filtering on Events (#130153).
 - Fixed an issue with enabling and disabling mentions in comments. 
 - Corrected an issue with opening Omnia links in a new window from OPM (#130019).
-- Fixed an issue with info screen that would cause images to not render correctly (#129854).
+- Fixed an issue with info screen that would cause images to not render correctly (#129854, #130522).
 
 6.3.0
 ========================================
