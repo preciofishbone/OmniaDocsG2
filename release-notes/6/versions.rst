@@ -1,3 +1,12 @@
+6.3.4
+========================================
+(Omnia 6.3.3 / Workplace 6.3.2 / WCM 6.3.4 / MS 6.3.3)
+
+- Several improvements to the Create Document Wizard.
+- Fixed a migration issue for 5.1 -> 6.x upgrades (#130566).
+- Fixed an issue that would cause the wrong variation to be displayed (#130240).
+- Fixed a navigation issue with the Dynamic Roller (#130306).
+
 6.3.3
 ========================================
 (Omnia 6.3.3 / Workplace 6.3.2 / WCM 6.3.3 / MS 6.3.1)
@@ -5,13 +14,13 @@
 New Features
 **************************
 
-- When moving a Controlled Document, it is now possible to replace any users that doesn't exist anymore.
+- When moving a Controlled Document, it is now possible to replace any users that doesn't exist anymore. (#129277).
 
 Fixes
 **************************
 
 - The accordion now uses the Rich Text editor instead of the Limited Rich Text Editor (#130488).
-- The process rollup now correctly shows the process publish date (#130488)
+- The process rollup now correctly shows the process publish date (#130398)
 
 6.3.2
 ========================================
