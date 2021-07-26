@@ -1,3 +1,18 @@
+6.3.3
+========================================
+(Omnia 6.3.3 / Workplace 6.3.2 / WCM 6.3.3 / MS 6.3.1)
+
+New Features
+**************************
+
+- When moving a Controlled Document, it is now possible to replace any users that doesn't exist anymore.
+
+Fixes
+**************************
+
+- The accordion now uses the Rich Text editor instead of the Limited Rich Text Editor (#130488).
+- The process rollup now correctly shows the process publish date (#130488)
+
 6.3.2
 ========================================
 (Omnia 6.3.2 / Workplace 6.3.2 / WCM 6.3.2 / MS 6.3.1)
