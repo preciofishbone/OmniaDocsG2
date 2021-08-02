@@ -1,7 +1,15 @@
+6.3.8
+========================================
+(Omnia 6.3.6 / Workplace 6.3.3 / WCM 6.3.8 / MS 6.3.4)
+
+- Fixed an issue in our auth service together with file downloads causing reports to not be downloadable (#130848, #130878).
+- Fixed a permission related issue in ODM (#129497).
+
 6.3.6
 ========================================
 (Omnia 6.3.4 / Workplace 6.3.3 / WCM 6.3.6 / MS 6.3.4)
 
+- Fixed a graphical glitch in the dialog for My Teamwork (#129686, #129028).
 - Fixed an issue related to outlook integration in Event Management (#130596).
 - Fixed an issue related to multiple variations in combination with automatic page creation (#130692).
 - Fixed a cache issue that would cause old versions of a page to be shown to some users (#130653, #130562, #130680).
