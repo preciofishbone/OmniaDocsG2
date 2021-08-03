@@ -1,3 +1,57 @@
+6.3.8
+========================================
+(Omnia 6.3.6 / Workplace 6.3.3 / WCM 6.3.8 / MS 6.3.4)
+
+- Fixed an issue in our auth service together with file downloads causing reports to not be downloadable (#130848, #130878).
+- Fixed a permission related issue in ODM (#129497).
+
+6.3.6
+========================================
+(Omnia 6.3.4 / Workplace 6.3.3 / WCM 6.3.6 / MS 6.3.4)
+
+- Fixed a graphical glitch in the dialog for My Teamwork (#129686, #129028).
+- Fixed an issue related to outlook integration in Event Management (#130596).
+- Fixed an issue related to multiple variations in combination with automatic page creation (#130692).
+- Fixed a cache issue that would cause old versions of a page to be shown to some users (#130653, #130562, #130680).
+- Fixed an issue on the process rollup. Searched process now open the correct page. (#130181).
+- Ensured stability of the variation picker block (#130496).
+
+
+6.3.4
+========================================
+(Omnia 6.3.3 / Workplace 6.3.2 / WCM 6.3.4 / MS 6.3.3)
+
+- Several improvements to the Create Document Wizard.
+- Fixed a migration issue for 5.1 -> 6.x upgrades (#130566).
+- Fixed an issue that would cause the wrong variation to be displayed (#130240).
+- Fixed a navigation issue with the Dynamic Roller (#130306).
+
+6.3.3
+========================================
+(Omnia 6.3.3 / Workplace 6.3.2 / WCM 6.3.3 / MS 6.3.1)
+
+New Features
+**************************
+
+- When moving a Controlled Document, it is now possible to replace any users that doesn't exist anymore. (#129277).
+
+Fixes
+**************************
+
+- The accordion now uses the Rich Text editor instead of the Limited Rich Text Editor (#130488).
+- The process rollup now correctly shows the process publish date (#130398)
+
+6.3.2
+========================================
+(Omnia 6.3.2 / Workplace 6.3.2 / WCM 6.3.2 / MS 6.3.1)
+
+- Stability fixes in Controlled Documents for migrated sites (#129852).
+- Fixed a layout issue in the Document Rollup (#130290).
+- Fixed an issue with date filtering on Events (#130153).
+- Fixed an issue with enabling and disabling mentions in comments. 
+- Corrected an issue with opening Omnia links in a new window from OPM (#130019).
+- Fixed an issue with info screen that would cause images to not render correctly (#129854, #130522).
+
 6.3.0
 ========================================
 (Omnia 6.3.0 / Workplace 6.3.1 / WCM 6.3.1 / MS 6.3.1)

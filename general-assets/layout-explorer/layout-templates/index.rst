@@ -15,3 +15,5 @@ When you have chosen a template, the layout of the Page Type will change to show
 
 You can try several templates before you decide. Nothing is saved until you save a draft or publish the new Page Type.
 
+You can also select another Layout Template when editing a Page Type but beware that a lot of changes can be made if you already have added content, or even added or removed blocks, for the Page Type.
+
