@@ -19,4 +19,15 @@ Tenant Settings
    process-management/index
    webcontent-managament/index
    
-   
+There are a number of options that will be available in Omnia 6.5. Click for an introdution:
+
+.. toctree::
+   :titlesonly:
+
+   dashboard/index
+   permissions/index
+   sign-off-requests/index
+
+Additional 6.5 options can also be found under "System", "Settings" and "Properties", see above.
+
+
