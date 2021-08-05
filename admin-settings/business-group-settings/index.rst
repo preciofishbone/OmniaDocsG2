@@ -18,24 +18,14 @@ Business Profile Settings
    shared-links/index
    team-collaboration/index
 
-Note that this menu is differently organized in Omnia 6.5, as seen below. For new functionality, some introductory information is shown (click to read). 
+Note that this menu is differently organized in Omnia 6.5. For new options, click to read some introductory information. 
 
-.. toctree::
-   :titlesonly:
+:doc:`Permissions </admin-settings/business-group-settings/permissions/index>`
 
-   permissions/index
-   settings/index
-   omnia-feed/index
-   features/index
-   search/index
-   provisioning-templates/index
-   workplace/index
-   publishing/index
-   communities/index
-   teamwork/index
-   forms/index
-   shared-links/index
-   announcements/index
+:doc:`Workplace </admin-settings/business-group-settings/workplace/index>`
+
+:doc:`Forms </admin-settings/business-group-settings/forms/index>`
+
 
    
    
