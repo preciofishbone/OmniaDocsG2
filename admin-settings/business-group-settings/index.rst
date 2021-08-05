@@ -18,9 +18,7 @@ Business Profile Settings
    shared-links/index
    team-collaboration/index
 
-Note that this menu is differently organized in Omnia 6.5, as seen below.
-
-For new functionality, some introductory information is shown. 
+Note that this menu is differently organized in Omnia 6.5, as seen below. For new functionality, some introductory information is shown (click to read). 
 
 .. toctree::
    :titlesonly:
