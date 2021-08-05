@@ -32,7 +32,7 @@ Here you can set the following:
 + **Trim duplicates**: Available for the Query Builder. If more than one Page Rollup block is added to a page, this option can be used to handle duplicates between the blocks. When the option is selected, you can enter a number indicating the priority for duplicates, for this block. If you set "1" for a block it means this block has priority showing a post that would have been a duplicate. 
 + **Query Item Limit**: Available for the Query Builder. Use the slider, or type the number (1-99) to set the number of pages that should be retrieved to make sure all duplicates are found. You should not set this number higher than you really need, as higher numbers may have an impact on performance. Note that when you change the number, "Max Display Limit" is also changed, see below.
 + **Page Size**: Available for Query Builder. Use the slider, or type the number (1-99) to set the number of items (pages) that should be displayed on each "page" of the list. Also see under *Display* below for additional settings for the list. 
-+ **Cache on Client**: This setting can be used to speed up rendering on subsequent page loads. This is is done by storing data in the browser. Default: selected.
++ **Cache on client**: This setting can be used to speed up rendering on subsequent page loads. This is is done by storing data in the browser cache. Default: selected.
 
 When you have selected "Publishing Apps" or "Page Collections" as Scope, use the list to add one or more:
 
