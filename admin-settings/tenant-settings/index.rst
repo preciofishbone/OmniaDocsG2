@@ -19,7 +19,7 @@ Tenant Settings
    process-management/index
    webcontent-managament/index
    
-There are a number of options that will be available in Omnia 6.5. Click for an introdution:
+There are a number of options that will be available in Omnia 6.5. Click for an introduction:
 
 .. toctree::
    :titlesonly:

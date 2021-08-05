@@ -18,6 +18,12 @@ Select section for more information:
    text-styles/index
    user-profile-completion/index
 
+In Omnia 6.5 a new option will be added to this menu (click for an introduction):
+
+.. toctree::
+   :titlesonly:
+
+   user-profile-card/index
 
 
 

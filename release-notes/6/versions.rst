@@ -1,6 +1,15 @@
+6.3.9
+========================================
+(Omnia 6.3.6 / Workplace 6.3.4 / WCM 6.3.9 / MS 6.3.5)
+
+- Fixed a caching issue that would sometimes lead the scheduling not being editable (#130473).
+- OPM Task assignment emails now have the full intended content (#129229).
+- Fixed an issue that prevented ODM approval emails to be sent in some cases (#130953).
+
+
 6.3.8
 ========================================
-(Omnia 6.3.6 / Workplace 6.3.3 / WCM 6.3.8 / MS 6.3.4)
+(Omnia 6.3.5 / Workplace 6.3.3 / WCM 6.3.8 / MS 6.3.4)
 
 - Fixed an issue in our auth service together with file downloads causing reports to not be downloadable (#130848, #130878).
 - Fixed a permission related issue in ODM (#129497).
