@@ -21,7 +21,7 @@ Select section for more information:
    spfx-instruction/index
    tenant-contact/index
    
-In Omnia 6.5 a new option will be added to this menu (click for an introduction):
+In Omnia 6.5 a new option will be added to this menu (click for prel documentation):
 
 .. toctree::
    :titlesonly:
