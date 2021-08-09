@@ -23,9 +23,11 @@ If needed, you can create a section in a column and then select a layout for the
 
 4. Set the section's settings.
 
-For a description of available settings for the section, see: (Link to be added)
+For a description of available settings for the section, see: :doc:`Settings for sections </pages/page-types/section-settings/index>`
 
 If needed, you can even go a step further and create a new section in one of the new columns.
+
+In Omnia 6.5 a new layout for sections is available: Stepper. This layout is useful when organizing information in steps. It's also used with the new Forms functionality. See below for more information.
 
 Delete a section
 *****************
@@ -115,3 +117,16 @@ To add som padding for the section, for a specific device, do the following:
 1. Select the device.
 2. Click the pen for Section Padding.
 3. Set the padding.
+
+Using the Stepper section
+***************************
+In Omnia 6.5 a Stepper section is available.
+
+.. image:: stepper-section.png
+
+When working with a Stepper section you can add a label for each step and add and remove steps. 
+
+.. image:: working-with-stepper.png
+
+All settings for sections are available for the Stepper section.
+

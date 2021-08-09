@@ -20,6 +20,7 @@ Blocks
    general-block-settings/index
    governance-dashboard/index
    html-script/index
+   iframe/index
    media/index
    mega-menu/index
    my-subscriptions/index
