@@ -1,7 +1,110 @@
 Enterprise Glossary
 =====================
 
-Here a new option in Omnia 6.5 will be described. A short introduction:
+**This is an ongoing, preliminary documentation for new functionality to come in Omnia 6.5.**
 
-Can be used for taxonomies/terms for more details. It can, for example be to brand the terms, connect the term to a page for more information and terms can even be created specifically to provide more information where it's needed.
+Enterprise Glossary can be used for taxonomies/terms for more details. It can, for example, be to brand the terms, connect the term to a page for more information. Terms can even be created specifically to provide more information where it's needed.
+
+The existing glossary sets are listed here:
+
+.. image:: enterprise-glossary-list.png
+
+You use the icons to (from left to right):
+
++ Edit taxonomy mapping.
++ Edit look and feel.
++ Edit settings for the information page (if used).
++ Delete the glossary set.
+
+Create a new glossary set
+***************************
+To create a new glossary set, do the following:
+
+1. Click the plus.
+
+.. image:: new-glossary-1.png
+
+2. Map the glossary set to taxonomy.
+
+.. image:: new-glossary-2.png
+
+If you don't want to connect the glossary set to an information page - for example if it's branding you want to do - you're cone now.
+
+To connect to an information page, do the following:
+
+1. Select "Page" for Details provider.
+
+.. image:: new-glossary-3.png
+
+2. Set the settings needed (a more detailed description will be added soon.)
+
+.. image:: new-glossary-4.png
+
+When you are done:
+
+3. Click create.
+
+.. image:: new-glossary-5.png
+
+Edit taxonomy mapping 
+***************************
+When you click the icon to edit taxonomy mapping, the following is shown (for example):
+
+.. image:: edit-taxonomy-1.png
+
+To remove the existing mapping, to be able to remap, click the x:
+
+.. image:: edit-taxonomy-1b.png
+
+For a preview of the information, click the taxonomy label:
+
+.. image:: edit-taxonomy-1c.png
+
+Here's a simlple example of a preview:
+
+.. image:: edit-taxonomy-preview.png
+
+The information shown is the Summary from the connected page. The user can click READ MORE to go to the page, for the full information.
+
+To edit the mapping, click the icon to the right:
+
+.. image:: edit-taxonomy-2.png
+
+Use the following to edit the mapping:
+
+.. image:: edit-taxonomy-3.png
+
+The Page Picker is used here. For more information, see the heading "Navigating and picking", on this page: :doc:`Page Picker </general-assets/page-picker/index>`
+
+Edit look and feel
+********************
+When you click the icon to edit look and feel, the following is shown (for example):
+
+.. image:: taxonomy-lookandfeel-1.png
+
+You can see a preview of the look and feel here.
+
+To edit, click the icon to the right:
+
+.. image:: taxonomy-lookandfeel-2.png
+
+Use the fields to edit background color, text color, icon type and icon.
+
+.. image:: taxonomy-lookandfeel-3.png
+
+When you're done, click OK to save the changes (or CANCEL to ignore them.)
+
+Edit settings for the information page
+*******************************************
+When you click the icon to edit the settings for the information page, the following is shown (for example):
+
+.. image taxonomy-edit-information-page.png
+
+Don't forget to click OK to save he changes.
+
+
+
+
+
+
 
