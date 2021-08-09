@@ -20,11 +20,9 @@ Business Profile Settings
 
 Note that this menu is differently organized in Omnia 6.5. For new options, click to read some introductory information. 
 
-:doc:`Permissions </admin-settings/business-group-settings/permissions/index>`
-
-:doc:`Workplace </admin-settings/business-group-settings/workplace/index>`
-
-:doc:`Forms </admin-settings/business-group-settings/forms/index>`
++ :doc:`Permissions </admin-settings/business-group-settings/permissions/index>`
++ :doc:`Workplace </admin-settings/business-group-settings/workplace/index>`
++ :doc:`Forms </admin-settings/business-group-settings/forms/index>`
 
 
    
