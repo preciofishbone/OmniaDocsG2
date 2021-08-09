@@ -38,6 +38,7 @@ Blocks
    related-links/index
    rss-reader/index
    search/index
+   sign-off-request/index
    subscribe/index
    task-rollup/index
    team-collaboration-rollup/index
