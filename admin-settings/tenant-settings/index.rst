@@ -24,13 +24,6 @@ There are a number of options that will be available in Omnia 6.5. Click for an 
 + :doc:`Dashboard </admin-settings/tenant-settings/dashboard/index>`
 + :doc:`Sign-off Requests </admin-settings/tenant-settings/sign-off-requests/index>`
 
-.. toctree::
-   :titlesonly:
-
-   dashboard/index
-   permissions/index
-   sign-off-requests/index
-
 Additional 6.5 options can also be found under "System", "Settings" and "Properties".
 
 
