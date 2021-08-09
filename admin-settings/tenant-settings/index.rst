@@ -8,7 +8,7 @@ Tenant Settings
    business-profiles/index
    features/index
    omnia-feed/index
-   security/index
+   permissions/index
    properties/index
    settings/index
    shared-links/index
@@ -21,6 +21,9 @@ Tenant Settings
    
 There are a number of options that will be available in Omnia 6.5. Click for an introduction:
 
++ :doc:`Dashboard </admin-settings/tenant-settings/dashboard/index>`
++ :doc:`Sign-off Requests </admin-settings/tenant-settings/sign-off-requests/index>`
+
 .. toctree::
    :titlesonly:
 
@@ -28,6 +31,6 @@ There are a number of options that will be available in Omnia 6.5. Click for an 
    permissions/index
    sign-off-requests/index
 
-Additional 6.5 options can also be found under "System", "Settings" and "Properties", see above.
+Additional 6.5 options can also be found under "System", "Settings" and "Properties".
 
 
