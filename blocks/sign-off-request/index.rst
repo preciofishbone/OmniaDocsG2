@@ -5,4 +5,5 @@ This is a new block to come in Omnia 6.5. It will be used for Sign-off Requests 
 
 A documentation will be added soon.
 
-Settings will be available in tenant settings: :doc:` Settings for Sign-off Requests </admin-settings/tenant-settings/sign-off-requests/index>`
+Settings will be available in tenant settings: :doc:`Settings for Sign-off Requests </admin-settings/tenant-settings/sign-off-requests/index>`
+
