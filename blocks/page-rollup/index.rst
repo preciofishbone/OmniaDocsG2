@@ -88,6 +88,7 @@ The following lists all available display settings, shown in different order for
 + **Page Content Character Limit**: If the number of characters displayed for Page Content should be limited, add the number here. The Content is simply jus cut after that. Available for Newsletter only.
 + **Page Summary Character Limit**: If the number of characters displayed for Page Summary should be limited, add the number here. The Summary is simply jus cut after that. Available for Newsletter only.
 + **Paging**: Select paging here; "No paging", "Classic" or "Scroll".
++ **Person**: New option to come in Omnia 6.5. Can be used to show properties in Card view.
 + **Show create button**: To make it possible for editors to create a new page from here, select this option to add a button to the block heading, and type the name for the button. 
 + **Show Default image**: If there is no image available for a page, a placeholder image can be used. If that image should be used, select this option.
 + **Show Likes/Comments**: If the number of likes and comments should be displayed for the item, select this option. 
@@ -98,7 +99,8 @@ The following lists all available display settings, shown in different order for
 + **Slider Type**: Select Horisontal slider or Vertical slider. Available for "Dynamic Roller" only.
 + **Slider Size**: Select the size of the slider here: Small, Medium, Large or Extra large. Available for "Dynamic Roller" only.
 + **Sort by**: Choose what the list should be sorted by, and then select ascending or descending.
-+ **Summary**: Select the property that contains the page summary for the item to display. 
++ **Summary**: Select the property that contains the page summary for the item to display.
++ **Term properties**: New option in Omnia 6.5. Can be used to show properties in Card view.
 + **Title**: If a title should be shown for the block, add it in this field. If no variation exists for the page, you can set the title in the languages active in the tenant. If variations exists, only one title can be set. In that case, titles in other languages are set in the variations.
 
 **Note!** For "List View" and "Event List", you also have to add at least one column, for the display to work. Here's an example with three columns added for List View:
