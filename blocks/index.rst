@@ -15,6 +15,7 @@ Blocks
    breadcrumb/index
    calendar-rollup/index
    create-teamwork/index
+   community-rollup/index
    current-navigation/index
    document-rollup/index
    general-block-settings/index
@@ -32,6 +33,7 @@ Blocks
    variation-selector/index
    people-rollup/index
    process-blocks/index
+   publishing-app-rollup/index
    user-profile-completion/index
    quick-links/index
    rating/index

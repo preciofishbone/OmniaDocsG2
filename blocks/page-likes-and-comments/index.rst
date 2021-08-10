@@ -11,6 +11,8 @@ It is possible for the end user to edit and delete a comment, made by the user, 
 
 When a comment is deleted it works this way: If there are no answers to the comment it will just be removed. If there are answers, the  comment will be replaced with a text that states that it has been deleted and by whom. Everyone can delete their own comments. A Site Collection administrator can delete any comment. 
 
+In Omnia 6.5 this block has improved. Find more information at the bottom of the page.
+
 Turning the options on or off
 -------------------------------
 When the block is added to a page (or to the Page Type), authors can turn on or off likes and/or comments using Write mode.
@@ -48,4 +50,40 @@ Images can be added to comments, if the Limited RTF Editor is set up that way. T
 .. image:: comments-image.png
 
 For this icon to be available it must be added to the Limited RTF Editor in Omnia Admin settings. See this page for more information: :doc:`RTF Editor settings </admin-settings/tenant-settings/settings/rtf-editor/index>`
+
+Page Likes and Comments block in Omnia 6.5
+*******************************************
+In Omnia 6.5 this block will have some new options.
+
+
+Settings in 6.5
+-----------------
+The General tab will have the following options in Omnia 6.5:
+
+.. image:: likes-65-general.png
+
+Here's descriptions of the new options:
+
++ **Allow Likes**: If it should be able to like a comment, select this option.
++ **Allow Share**: If it should be possible to share a comment, select this option - meaning the possibility to send a comment to another user by e-mail.
++ **Sorting**: Here you choose how to sort the comments; older first or newer first.
++ **Paging size**: Add a number (1-99) to set the number of items (comments) that should be displayed on each “page” of the list.
+
+There will also be a Style tab available in Omnia 6.5:
+
+.. image:: likes-65-style.png
+
+The padding settings have been moved here and it's also possible to set styling for the "cards" (meaning each comment with subcomments). By selecting "Custom Card styling" you can set the following:
+
+.. image:: likes-65-style-card.png
+
+For Advanced settings, the following is available:
+
+.. image:: likes-65-style-card-advanced.png
+
+All other settings that is described above also apply for Omnia 6.5.
+
+
+
+
 
