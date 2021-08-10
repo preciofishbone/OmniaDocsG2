@@ -55,9 +55,8 @@ Page Likes and Comments block in Omnia 6.5
 *******************************************
 In Omnia 6.5 this block will have some new options.
 
-
 Settings in 6.5
------------------
+^^^^^^^^^^^^^^^^
 The General tab will have the following options in Omnia 6.5:
 
 .. image:: likes-65-general.png
@@ -73,7 +72,7 @@ There will also be a Style tab available in Omnia 6.5:
 
 .. image:: likes-65-style.png
 
-The padding settings have been moved here and it's also possible to set styling for the "cards" (meaning each comment with subcomments). By selecting "Custom Card styling" you can set the following:
+The padding settings have been moved here and it's also possible to set styling for the "cards" (meaning each comment with sub comments). By selecting "Custom Card styling" you can set the following:
 
 .. image:: likes-65-style-card.png
 
