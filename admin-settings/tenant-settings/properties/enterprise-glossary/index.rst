@@ -3,7 +3,7 @@ Enterprise Glossary
 
 **This is an ongoing, preliminary documentation for new functionality to come in Omnia 6.5.**
 
-Enterprise Glossary can be used for taxonomies/terms for more details. It can, for example, be to brand the terms, connect the term to a page for more information. Terms can even be created specifically to provide more information where it's needed.
+Enterprise Glossary can be used for taxonomies/terms for more details. It can, for example, be to brand the term or to connect the term to a page for more information. Terms can even be created specifically to provide more information where it's needed.
 
 The existing glossary sets are listed here:
 
@@ -28,7 +28,7 @@ To create a new glossary set, do the following:
 
 .. image:: new-glossary-2.png
 
-If you don't want to connect the glossary set to an information page - for example if it's branding you want to do - you're cone now.
+If you don't want to connect the glossary set to an information page - for example if it's branding you want to do - you're done now.
 
 To connect to an information page, do the following:
 
@@ -36,9 +36,19 @@ To connect to an information page, do the following:
 
 .. image:: new-glossary-3.png
 
-2. Set the settings needed (a more detailed description will be added soon.)
+2. Set the settings needed. 
 
 .. image:: new-glossary-4.png
+
++ **Show Read More**: This is a link to the information page. If you just want to show the Summary from the page as information, deselect this option.
++ **Image**: Select the property to use for the image.
++ **Image Ratio**: Select image ratio to be shown in the information dialog.
++ **Name**: (A description will be added soon).
++ **Summary**: Select property for the summary. This is what will be shown in the information dialog (see below).
++ **Description**: (A description  - of the Description (!) - will be added soon).
++ **Person**: Select property for the name to be shown in the information dialog (see below).
+
+See below for an example of information connected to a term. 
 
 When you are done:
 
@@ -82,7 +92,7 @@ When you click the icon to edit look and feel, the following is shown (for examp
 
 .. image:: taxonomy-lookandfeel-1.png
 
-You can see a preview of the look and feel here.
+You can see a preview of the look and feel here (text color, background color etc).
 
 To edit, click the icon to the right:
 
@@ -98,7 +108,7 @@ Edit settings for the information page
 *******************************************
 When you click the icon to edit the settings for the information page, the following is shown (for example):
 
-.. image taxonomy-edit-information-page.png
+.. image:: taxonomy-edit-information-page.png
 
 Don't forget to click OK to save he changes.
 
