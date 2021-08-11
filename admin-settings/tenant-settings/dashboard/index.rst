@@ -1,7 +1,7 @@
 Dashboard
 ===========
 
-Dashboard functionality has been greatly improved in Omniá 6.5. Here you will find and ongoing, preliminary documentation.
+Dashboard functionality has been greatly improved in Omnia 6.5. Here you will find an ongoing, preliminary documentation.
 
 You can display the dashboard in a Publishing App, as before, by using the Dashboard block. In 6.5 the dashboard is also available in Omnia Admin.
 
@@ -11,7 +11,7 @@ The Dashboard in Omnia Admin can look like this:
 
 .. image:: admin-dashboard-usage.png
 
-Under usage, information about active readers and active contributors are shown. What should be considered an active reader or an active contributor is defined in the Metric settings, see link above.
+Under Usage, information about active readers and active contributors are shown. What should be considered an active reader or an active contributor is defined in the Metrics settings, see link above.
 
 Under Page Status, something like the following is shown:
 
@@ -23,7 +23,7 @@ For Underused Content, something like the following can be shown:
 
 .. image:: admin-dashboard-underused-content.png
 
-What should be considered underused content is defined in the Metric settings, see link above.
+What should be considered underused content is defined in the Metrics settings, see link above.
 
 Regarding Reach - a description will be added soon.
 
