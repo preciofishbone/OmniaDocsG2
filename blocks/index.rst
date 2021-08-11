@@ -7,13 +7,14 @@ Blocks
    
    accordion/index
    activity-feed/index
+   announcements/index
    blocks-event-management/index
    blocks-forms/index
    button-link/index
-   announcements/index
    banner/index
    breadcrumb/index
    calendar-rollup/index
+   create-app/index
    create-teamwork/index
    community-rollup/index
    current-navigation/index
@@ -48,6 +49,7 @@ Blocks
    text/index
    working-with-blocks/index
    omnia-block-webpart/index
+
 
 
 
