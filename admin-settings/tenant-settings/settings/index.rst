@@ -18,7 +18,7 @@ Select section for more information:
    text-styles/index
    user-profile-completion/index
 
-In Omnia 6.5 metrics settings are also available here, see: + :doc:`Metric settings </admin-settings/settings/metrics/index>`
+In Omnia 6.5 metrics settings are also available here, see: :doc:`Metric settings </admin-settings/settings/metrics/index>`
 
 
 
