@@ -3,7 +3,7 @@ Communities
 
 Use these options to go to any community site to, for example, edit settings. You can also create a new community site from here.
 
-**Note!** The Admin settings for Communities will be quite different in Omnia 6.5. See this page for more information: :doc:`Communties in Omnia 6.5 </admin-settings/business-group-settings/communities/communities65/index>`
+**Note!** The Admin settings for Communities will be quite different in Omnia 6.5. See this page for more information: :doc:`Communties in Omnia 6.5 </admin-settings/business-group-settings/communities/communities-65/index>`
 
 For Community sites with "Approval" as site creation mode, you use the "Pending Approval" list to approve or reject creation of a site.
 
