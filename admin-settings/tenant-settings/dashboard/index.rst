@@ -3,9 +3,9 @@ Dashboard
 
 Dashboard functionality has been greatly improved in Omnia 6.5. Here you will find an ongoing, preliminary documentation.
 
-You can display the dashboard in a Publishing App, as before, by using the Dashboard block. In 6.5 the dashboard is also available in Omnia Admin.
+In omnia 6.5, the complete dashboard has been moved to Omnia Admin (that is what is described here). A block will still be available, now called Metrics, to display status for either Teamwork or Pages or User Activity.
 
-You can now edit some of the metrics settings, see: :doc:`Metric settings </admin-settings/tenant-settings/settings/metrics/index>`
+You can edit some of the metrics settings, see: :doc:`Metric settings </admin-settings/tenant-settings/settings/metrics/index>`
 
 The Dashboard in Omnia Admin can look like this:
 
