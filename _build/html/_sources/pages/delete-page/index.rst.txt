@@ -19,7 +19,7 @@ Here's how to archive a page:
 
 .. image:: archive-menu1-new.png
 
-4. Select "ARCHIVE".
+4. Select ARCHIVE.
 
 .. image:: archive-menu2-new.png
 
@@ -29,11 +29,11 @@ Something like the following is shown:
 
 Note the message "You are about to archive a lot of pages" which is telling you that the page you have chosen has sub pages.
 
-5. Type a comment (Mandatory!) and click "OK" to archive the page (or "CANCEL" if you change your mind).
+5. Type a comment (Mandatory!) and click OK to archive the page, or CANCEL if you change your mind.
 
 Archiving a Page Collection
 ****************************
-Archiving a Page Collection works exactly the same as described above. Just select the page collection's top node and select Archive.
+Archiving a Page Collection works exactly the same as described above. Just select the page collection's top node and select ARCHIVE.
 
 Archiving a Page Type
 **********************
@@ -41,7 +41,7 @@ Page Types that are used for active pages (published or drafts) can not be archi
 
 Archiving a Variation
 ***********************
-You can archive a variation separately from the main page if needed. Just open the variation and archive the same way as you do a page. An archived variation can be restored or terminated the same way as a page, see below. If the main page is archived, variations of that page are always arechived as well.
+You can archive a variation separately from the main page if needed. Just open the variation and archive the same way as you do a page. An archived variation can be restored or terminated the same way as a page, see below. If the main page is archived, variations of that page are always archived as well.
 
 Restore or terminate an archived page
 *****************************************
@@ -63,11 +63,11 @@ If the list is long you can use the filters at the top to search or filter the l
 
 Terminate an archived page
 ----------------------------
-To save space you can terminate an archived page (with it's sub pages drafts if applicable). It's done the same way for Page Collections and Page Types.
+To save space you can terminate an archived page (with it's sub pages and drafts if applicable). It's done the same way for Page Collections and Page Types.
 
-**Note!** When you terminate an archived post it's really gone, so be careful here.
+**Note!** When you terminate an archived page it's really gone, so be careful here.
 
-You click the dust bin to terminate the post. Just be really careful so you click on the right row!
+You click the dust bin to terminate the page. Just be really careful so you click on the right row!
 
 You get a second chance to change your mind:
 
@@ -77,7 +77,7 @@ If you're not certain, just click CLOSE here and nothing will happen.
 
 Restore an archived page
 **************************
-To restore an archived page (with it's sub pages and drafts if that's applicable) do the following. Restoring a Page Collection or a Page Type works the same way.
+To restore an archived page (with it's sub pages and drafts if that's applicable), do the following. Restoring a Page Collection or a Page Type works the same way.
 
 1. Click this icon on the right row:
 

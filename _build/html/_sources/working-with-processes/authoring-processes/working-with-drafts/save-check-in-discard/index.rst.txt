@@ -20,7 +20,7 @@ If a process is checked out to someone, it's shown in the Process Libary, for ex
 To make it possible for someone else to work on the process, check it in this way:
 
 1. Open the process.
-2. Click "CHECK IN".
+2. Click CHECK IN.
 
 .. image:: pm-check-in-new.png
 

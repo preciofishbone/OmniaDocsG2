@@ -29,7 +29,7 @@ Here's an example of a discussion:
 
 .. image:: discussion-example.png
 
-For more information about a colleague, for example contact information, click the name to go the persons Delve page.
+For more information about a colleague, for example contact information, click the name to go the person's Delve page.
 
 
 .. toctree::

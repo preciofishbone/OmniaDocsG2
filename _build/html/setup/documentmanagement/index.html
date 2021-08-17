@@ -185,7 +185,7 @@
 <h1>Setup Document Management<a class="headerlink" href="#setup-document-management" title="Permalink to this headline">¶</a></h1>
 <div class="admonition note">
 <p class="first admonition-title">Note</p>
-<p class="last">In order for Document Managemnet features to appear in the UI, the Document Management extension needs to be installed and the Controlled Documents feature needs to be activated. Please consult with your local partner to set up these prerequisites.</p>
+<p class="last">In order for Document Management features to appear in the UI, the OmniaManagementSystem extension needs to be installed and the Controlled Documents feature needs to be activated. Please consult with your local partner to set up these prerequisites.</p>
 </div>
 <p>Below you will find the steps needed in order to create a basic setup of Document Management.</p>
 <div class="section" id="document-types">
@@ -206,6 +206,10 @@
 <li>Connect the property to the terms set Document Types and save.</li>
 </ol>
 <img alt="../../_images/documenttypes2.png" src="../../_images/documenttypes2.png" />
+<div class="admonition note">
+<p class="first admonition-title">Note</p>
+<p class="last">This activity can’t be undone in the UI. If the property needs to be reconnected, a support ticket needs to be submitted.</p>
+</div>
 </div>
 <div class="section" id="document-title">
 <h2>Document Title<a class="headerlink" href="#document-title" title="Permalink to this headline">¶</a></h2>
@@ -235,7 +239,7 @@
 </div>
 <ol class="arabic simple" start="16">
 <li>Go to the Business Profile in which you want to host the central controlled documents archive.</li>
-<li>Go to Provisioning Template and create a new template that can be used for system sites.</li>
+<li>Go to Provisioning Templates and create a new template that can be used for system sites.</li>
 </ol>
 <img alt="../../_images/provisioningtemplate-system.png" src="../../_images/provisioningtemplate-system.png" />
 <ol class="arabic simple" start="18">
@@ -243,7 +247,7 @@
 </ol>
 <img alt="../../_images/controlleddocuments-archive.png" src="../../_images/controlleddocuments-archive.png" />
 <ol class="arabic simple" start="19">
-<li>Activate the feature Archived Documents on the newly created site.</li>
+<li>Activate the features Archived Documents and SPFx Infrastructure on the newly created site.</li>
 <li>Click on Document Management in Omnia Admin and click on Settings.</li>
 <li>Put in the full url to the newly created site in the Archive Site Url and save.</li>
 </ol>
@@ -376,6 +380,23 @@
 <img alt="../../_images/property-edition.png" src="../../_images/property-edition.png" />
 <img alt="../../_images/property-published.png" src="../../_images/property-published.png" />
 <img alt="../../_images/property-reviewdate.png" src="../../_images/property-reviewdate.png" />
+<ol class="arabic simple" start="47">
+<li>Create another draft of a controlled document and publish it. (Note! This is necessary in order for SharePoint Search to map the crawled properties to the managed properties.)</li>
+</ol>
+</div>
+<div class="section" id="controlled-document-template">
+<h2>Controlled Document Template<a class="headerlink" href="#controlled-document-template" title="Permalink to this headline">¶</a></h2>
+<ol class="arabic simple" start="48">
+<li>Go to Omnia Admin &gt; Document Management.</li>
+</ol>
+</div>
+<div class="section" id="search-category">
+<h2>Search Category<a class="headerlink" href="#search-category" title="Permalink to this headline">¶</a></h2>
+<p>XX. Go to Omnia Admin &gt; Business Profile &gt; Search.
+XX. Click on Search Config and add a new Seach Category.
+XX. Add a new Search Category for Published (Controlled) Documents.</p>
+<img alt="../../_images/create-search-category-1.png" src="../../_images/create-search-category-1.png" />
+<img alt="../../_images/create-search-category-2.png" src="../../_images/create-search-category-2.png" />
 </div>
 </div>
 
@@ -402,7 +423,7 @@
   <div role="contentinfo">
     <p>
         &copy; Copyright 2021, Precio Fishbone.
-      Last updated on Apr 14, 2021.
+      Last updated on May 04, 2021.
 
     </p>
   </div>

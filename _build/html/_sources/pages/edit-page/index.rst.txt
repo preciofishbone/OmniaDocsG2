@@ -47,11 +47,11 @@ You can:
 
 You edit each block (the ones you can edit) as is described on the page for the respective block: :doc:`Blocks </blocks/index>`
 
-**Note!** Even locked Content Blocks can be edited this way.
+**Note!** Even Content in Blocks that are locked on the Page Type can be edited this way - if settings in the block allow it.
 
 Edit Blocks
 ************
-To edit the blocks, that is, to add and delete blocks on the page, and to work with the block settings, you use Design mode (you must have editor permissions to be able to do that):
+To edit the blocks, that is, to add and delete blocks on the page, and to work with the block settings, you use Design mode (you must have Editor permissions to be able to do that):
 
 .. image:: enter-design-mode-new.png
 
@@ -59,7 +59,7 @@ How to work with blocks is described on this page: :doc:`Working with blocks </b
 
 Default blocks
 ***************
-The default blocks that belongs to the Page Type is generally locked, which means that you can add and edit contents, but you can't move or delete them, and not edit the settings. Although, you can normally add other blocks both above and below locked blocks, if you have Editor permissions.
+The default blocks that belong to the Page Type is generally locked, which means that you may add and edit contents, but you can't move or delete them, and not edit the settings. Although, you can normally add other blocks both above and below locked blocks, if you have Editor permissions.
 
 When you click a block you can see that it's locked this way:
 
@@ -73,14 +73,14 @@ For more information about how to reuse content, see: :doc:`Reusable Content </p
 
 Change Page Type
 *****************
-It's possible to change Page Type, if you have Editor permissions, but be aware that some blocks are more suitable to wider sections of the page, so you may have to edit blocks after changing Page Type. Do the following;
+It's possible to change Page Type, if you have Editor permissions, but be aware that some blocks are more suitable to wider sections of the page, so you may have to move or otherwise edit blocks after changing Page Type. Do the following;
 
 1. Enter Edit mode if it's not already active.
 2. Open the action menu at the bottom right.
 
 .. image:: open-action-menu-new4.png
 
-3. Select "CHANGE PAGE TYPE".
+3. Select CHANGE PAGE TYPE.
 
 .. image:: change-page-type-new2.png
 
@@ -98,11 +98,11 @@ If needed, you can edit the Page Properties, if you have at least Author permiss
 .. image:: edit-properties-new.png
 
 3. Edit the Properties as needed.
-4. Click "CONTENT" to go back to editing the page.
+4. Click CONTENT to go back to editing the page.
 
 .. image:: page-properties-shown-new.png
 
-**Note!** Some blocks can display information from the Page Properties. In this example "Page Contact" displays the name from the "Page Contact" field in the Page Properties.
+**Note!** Some blocks can display information from Page Properties. In this example "Page Contact" displays the name from the "Page Contact" field in the Page Properties.
 
 .. image:: page-contact-example-new.png
 
@@ -118,4 +118,4 @@ Use the options at the bottom to do that:
 
 Page Style
 *************
-There's also a number of style options available for a  page, see: :doc:`Page Style </pages/page-style/index>`
+There's also a number of style options available for a  page, see: :doc:`Page Style </general-assets/layout-explorer/page-layout/page-style/index>`

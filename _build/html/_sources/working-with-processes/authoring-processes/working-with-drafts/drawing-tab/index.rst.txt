@@ -31,7 +31,7 @@ If the whole grid can't be displayed, icons for scrolling are shown, for example
 
 Working with shapes
 *********************
-To add a shape, click "ADD SHAPE".
+To add a shape, click ADD SHAPE.
 
 .. image:: pm-addshape-new.png
 
@@ -74,7 +74,7 @@ When you have selected "Link" as Shape Type, you can click "Add Link", and can u
 + **Title**: Add a title for the link (default language mandatory).
 + **Url**: Add or paste the URL and decide if the link should be opened in a new window or not.
 
-Click "OK" to save the shape. Click "CHANGE SHAPE" to go back a step to create an additonal shape. The changes you have made and not saved are discarded. Click "CANCEL" to exit.
+Click OK to save the shape. Click CHANGE SHAPE to go back a step to create an additonal shape. The changes you have made and not saved are discarded. Click CANCEL to exit.
 
 .. image:: pm-drawing-shape-settings-save-new.png
 
@@ -109,7 +109,7 @@ Clone a shape
 If you need a number of shapes that are similar, this is a handy option.
 
 1. Select the shape you want to clone.
-2. Click "CLONE SHAPE".
+2. Click CLONE SHAPE.
 
 .. image:: pm-drawing-shape-clone-new.png
 
@@ -122,7 +122,7 @@ Delete a shape
 To delete a shape you no longer need, do the following.
 
 1. Select the shape.
-2. Click "DELETE SHAPE".
+2. Click DELETE SHAPE.
 
 .. image:: pm-drawing-shape-delete-1-new.png
 
@@ -130,7 +130,7 @@ The following is shown:
 
 .. image:: pm-drawing-shape-delete-2-new.png
 
-3. Click "OK" to delete or "CANCEL" to change your mind.
+3. Click OK to delete or CANCEL to change your mind.
 
 Create a drawing for a process step
 **************************************
@@ -140,7 +140,7 @@ Regarding a drawing for a process step, the default setting is that the main pro
 
 .. image:: select-process-step-new.png
 
-2.Click "CREATE DRAWING".
+2.Click CREATE DRAWING.
 
 .. image:: create-drawing-new.png
 
@@ -204,7 +204,7 @@ You now have the first clickable area in place and what is opened when a user cl
 To add additional clickable areas you have to go back to step 1, but there's a neat trick if you are adding several clickable areas with the same shape. A quick way of adding additional steps is this:
 
 9. Select the shape.
-10. Select "CLONE SHAPE".
+10. Select CLONE SHAPE.
 
 .. image:: clickable-6-new.png
 

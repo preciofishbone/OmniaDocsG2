@@ -1,7 +1,7 @@
 Create a Knowledge article
 ============================
 
-Communities can be set up in several ways but in the default setup, all users of the tenant can create and edit Knowledge articles, the same permissions apply as for authors of publishing pages, meaning all options in Write mode are available.
+Communities can be set up in several ways but in the default setup, all users of the tenant can create and edit Knowledge articles. The same permissions apply as for authors of publishing pages, meaning all options in Write mode are available.
 
 To create a knowledge article in a community, do the following:
 
@@ -9,7 +9,7 @@ To create a knowledge article in a community, do the following:
 
 .. image:: create-article-1.png
 
-2. Type a Title for the article. The title will be used for the name of the page, for example shown in the start page for knowledge articles, and as the heading for the page. You can edit the title later if needed.
+2. Type a Title for the article. The title will be used for the name of the page, for example shown on the start page for knowledge articles, and as the heading for the page. You can edit the title later if needed.
 
 As the knowledge article actually is a page, an Url is automatically created.
 
@@ -91,7 +91,7 @@ Here's an example with a preview for mobile phone:
 
 .. image:: create-article-16.png
 
-This is a simple walk through on how to create a knowledge article. Knowledge articles are Omnia pages and therefore have the same author options (Write mode) as for other pages.
+This is a simple walk through on how to create a knowledge article. Knowledge articles are Omnia pages and therefore have the same author options (Write mode) as other pages.
 
 Concerning all options for publishing (for example information on how to schedule publishing, if that is available), see: :doc:`Publish page changes </pages/publish-page-changes/index>`
 

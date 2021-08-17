@@ -106,7 +106,7 @@ To remove a block. do the following:
 
 Editing contents of a block
 ****************************
-To work with blocks as is described above a user needs the permissions to use Design Mode (Editor). Page Authors are not allowed to use Design mode, but can use Write mode to edit the contents of a block.
+To work with blocks as is described above a user needs permissions to use Design Mode (Editor). Page Authors are not allowed to use Design mode, but can use Write mode to edit the contents of some blocks.
 
 .. image:: write-mode-new.png
 
