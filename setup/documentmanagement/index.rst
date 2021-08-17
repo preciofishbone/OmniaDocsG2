@@ -1,7 +1,7 @@
 Setup Document Management
 ===========================================
 
-.. note:: In order for Document Managemnet features to appear in the UI, the Document Management extension needs to be installed and the Controlled Documents feature needs to be activated. Please consult with your local partner to set up these prerequisites.
+.. note:: In order for Document Management features to appear in the UI, the OmniaManagementSystem extension needs to be installed and the Controlled Documents feature needs to be activated. Please consult with your local partner to set up these prerequisites.
 
 Below you will find the steps needed in order to create a basic setup of Document Management.
 
@@ -23,6 +23,8 @@ Document Types
 7. Connect the property to the terms set Document Types and save.
 
 .. image:: documenttypes2.png
+
+.. note:: This activity can't be undone in the UI. If the property needs to be reconnected, a support ticket needs to be submitted.
 
 Document Title
 -------------------------------------------
@@ -50,7 +52,7 @@ Document Archive
 .. note:: If you have Process Management setup, you can ignore step 16 - 17.
 
 16. Go to the Business Profile in which you want to host the central controlled documents archive.
-17. Go to Provisioning Template and create a new template that can be used for system sites.
+17. Go to Provisioning Templates and create a new template that can be used for system sites.
 
 .. image:: provisioningtemplate-system.png
 
@@ -58,7 +60,7 @@ Document Archive
 
 .. image:: controlleddocuments-archive.png
 
-19. Activate the feature Archived Documents on the newly created site.
+19. Activate the features Archived Documents and SPFx Infrastructure on the newly created site.
 20. Click on Document Management in Omnia Admin and click on Settings.
 21. Put in the full url to the newly created site in the Archive Site Url and save.
 
@@ -197,5 +199,23 @@ Now you will have to wait a few minutes before the controlled document has been 
 .. image:: property-edition.png
 .. image:: property-published.png
 .. image:: property-reviewdate.png
+
+47. Create another draft of a controlled document and publish it. (Note! This is necessary in order for SharePoint Search to map the crawled properties to the managed properties.)
+
+Controlled Document Template
+--------------------------------------------
+
+48. Go to Omnia Admin > Document Management.
+
+Search Category
+--------------------------------------------
+
+XX. Go to Omnia Admin > Business Profile > Search.
+XX. Click on Search Config and add a new Seach Category.
+XX. Add a new Search Category for Published (Controlled) Documents.
+
+.. image:: create-search-category-1.png
+
+.. image:: create-search-category-2.png
 
  

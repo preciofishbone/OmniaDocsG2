@@ -34,7 +34,7 @@ To publish a page, do the following:
 
 (You can publish directly but saving the draft first is a safer way.)
 
-4. Click "PUBLISH".
+4. Click PUBLISH.
 
 .. image:: click-publish-new2.png
 

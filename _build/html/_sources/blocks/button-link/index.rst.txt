@@ -39,8 +39,8 @@ The following settings are available here:
 + **Dialog Position**: If you selected "Dialog" for Target, you can select where to place the dialog: Center, Full screen, Left or Right.
 + **Page Collection**: If you selected "Create Page" as type, select page collection to create the new page in.
 + **Button Type**: Decide what this button will do; Sign Up, Sign Up Other, Add To Outlook or Cancel. Available for Event Management. (Se below for more information.)
-+ **Reserve Text**: (A description will be added soon.) Available for Event Management.
-+ **Apply Text**: (A description will be added soon.) Available for Event Management.
++ **Reserve Text**: Available for Event Management.
++ **Apply Text**: Available for Event Management.
 
 Regarding Process feedback:
 

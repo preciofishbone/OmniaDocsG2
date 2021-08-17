@@ -3,12 +3,12 @@ Creating a draft process
 
 Do the following to create a new Process:
 
-1. Click "NEW PROCESSES".
+1. Click NEW PROCESSES.
 
 .. image:: click-new-process-new.png
 
 2. Select process type from the list and add a title in any or all the languages available. Default language is mandatory.
-3. Click "CREATE".
+3. Click CREATE.
 
 .. image:: new-process-2-new.png
 

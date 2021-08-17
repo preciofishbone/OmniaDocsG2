@@ -34,7 +34,7 @@ You can also comment any comment, this way:
 
 You can add a reply for the reply and continue that way.
 
-You can edit your own replies the samse way as with comments, see above.
+You can edit your own replies the same way as with comments, see above.
 
 Using mentions
 ***************

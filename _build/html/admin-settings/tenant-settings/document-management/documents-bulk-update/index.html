@@ -211,7 +211,8 @@
   <div class="section" id="documents-bulk-update">
 <h1>Documents Bulk Update<a class="headerlink" href="#documents-bulk-update" title="Permalink to this headline">¶</a></h1>
 <p>This option is available in Omnia v6 only.</p>
-<p>Use this option to bulk update any of the defined document management properties. Note that not all properties can be updated this way. One exeample is Approver.</p>
+<p>Use this option to bulk update any of the defined document management properties. Note that not all properties can be updated this way. One example is Approver.</p>
+<p>Also note that the user executing the Bulk update must have access to the documents that are updated.</p>
 <img alt="../../../../_images/documents-bulk-update-1.png" src="../../../../_images/documents-bulk-update-1.png" />
 <ol class="arabic simple">
 <li>Select “Search Property”.</li>
@@ -225,6 +226,11 @@
 <p>5. Select all documents that should replace the value.
 4. Click “REPLACE”.</p>
 <img alt="../../../../_images/documents-bulk-update-2.png" src="../../../../_images/documents-bulk-update-2.png" />
+<p>Be aware that, if there are many documents selected, the update may take some time.</p>
+<div class="section" id="bulk-update-and-templates">
+<h2>Bulk update and templates<a class="headerlink" href="#bulk-update-and-templates" title="Permalink to this headline">¶</a></h2>
+<p>Note that Bulk update never updates the template. The republish via Bulk update always uses the current template.</p>
+</div>
 </div>
 
 
@@ -250,7 +256,7 @@
   <div role="contentinfo">
     <p>
         &copy; Copyright 2021, Precio Fishbone.
-      Last updated on Apr 14, 2021.
+      Last updated on Apr 30, 2021.
 
     </p>
   </div>

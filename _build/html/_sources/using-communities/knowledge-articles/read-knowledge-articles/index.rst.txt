@@ -31,4 +31,4 @@ Here's an example of a Knowledge article:
 
 .. image:: knowledge-example-article.png
 
-For more information about a colleague, for example contact information, click the name to go the persons Delve page.
+For more information about a colleague, for example contact information, click the name to go the person's Delve page.

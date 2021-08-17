@@ -33,7 +33,6 @@ When the navigation is open, create a new page this way:
 + **Page Type**: Open the list and select the Page Type you want to use (can be changed later).
 + **Title**: The Page Title will be shown when searching and as a node in the navigation (can be changed later).
 + **Url**: The last section of the Url will be based on the Title. You can edit it if needed. 
-+ **Advanced**: Use this option to set some Advanced options.
 + **Create**: The page is created when you click this button, not before that.
 
 .. image:: new-page-create-button-new.png
@@ -52,7 +51,7 @@ Some default blocks can already be in place for the Page Type, and besides that 
 
 Available properties and if they are mandatory or not, are set up in settings for the Page Type.
 
-Page Contact and Review Date are two common properties. The page contact is often used for page owner to receive page feedback, if applicable, but other property field can be used for that purpose. Review Date is just a date for a reminder that it may be time to review the page in case it needs an update. Set the Review as you see fit, but a review at least once a year is probably a good idea.
+Page Contact and Review Date are two common properties. The page contact is often used for page owner to receive page feedback, if applicable, but other property fields can be used for that purpose. Review Date is just a date for a reminder that it may be time to review the page in case it needs an update. Set the Review as you see fit, but a review at least once a year is probably a good idea.
 
 8. Click "Next" to go the next Wizard step.
 
@@ -66,9 +65,9 @@ When the last Wizard step has been edited, something like the following is shown
 
 Page Style and Layout Templates
 ************************************
-In the Layout Explorer, there's a number of Layout Templates you can use, if you wish, for a new page. See: :doc:`Layout Templates </general-assets/layout-explorer/layout-templates/index>`
+In Layout Explorer, there's a number of Layout Templates you can use, if you wish, for a new page. See: :doc:`Layout Templates </general-assets/layout-explorer/layout-templates/index>`
 
-In Layout Explorer there are as number of Page Style settings as well, see this page for more information: :doc:`Page Style in v6 </general-assets/layout-explorer/page-layout/page-style/index>`
+In Layout Explorer there are a number of Page Style settings as well, see this page for more information: :doc:`Page Style </general-assets/layout-explorer/page-layout/page-style/index>`
 
 
 
