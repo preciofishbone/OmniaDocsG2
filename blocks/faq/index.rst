@@ -18,7 +18,7 @@ Under General, te following will be available:
 .. image:: faq-settings-general.png
 
 + **Title**: Add a title for the block, in any or all tenant languages (click the flag to change language).
-+ **ADD CONTENT**: Click to add content, but this can also be done in Write mode, if allowed. See below for more information.
++ **ADD CONTENT**: Click to add content. This can also be done in Write mode, if allowed. See below for more information.
 
 Style
 ----------
@@ -28,7 +28,7 @@ Some styling options will also be available:
 
 LAYOUT and WRITE
 ********************
-The LAYOUT tab contains general settings, see: 
+The LAYOUT tab contains general settings, see: :doc:`General Block Settings </blocks/general-block-settings/index>`
 
 The following settings are available on the WRITE tab:
 
