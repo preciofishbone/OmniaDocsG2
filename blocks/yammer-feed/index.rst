@@ -22,7 +22,7 @@ Under General you can set the following:
 
 Style
 **********
-Som style settings will also be available:
+Some style settings will also be available:
 
 .. image:: yammer-feed-settings-style.png
 
