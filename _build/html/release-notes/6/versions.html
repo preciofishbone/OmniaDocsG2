@@ -8,7 +8,7 @@
   
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   
-  <title>6.1.0 &mdash; Omnia  documentation</title>
+  <title>6.1.12 &mdash; Omnia  documentation</title>
   
 
   
@@ -107,8 +107,10 @@
 <li class="toctree-l1"><a class="reference internal" href="../../cookies-consent-information/index.html">Cookies Consent information</a></li>
 <li class="toctree-l1 current"><a class="reference internal" href="../index.html">Release Notes</a><ul class="current">
 <li class="toctree-l2 current"><a class="reference internal" href="index.html">Release 6</a><ul class="current">
-<li class="toctree-l3 current"><a class="current reference internal" href="#">6.1.0</a></li>
-<li class="toctree-l3"><a class="reference internal" href="#id2">6.0.2</a></li>
+<li class="toctree-l3 current"><a class="current reference internal" href="#">6.1.12</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#id2">6.1.7</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#id3">6.1.0</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#id4">6.0.2</a></li>
 </ul>
 </li>
 <li class="toctree-l2"><a class="reference internal" href="../5/index.html">Release 5</a></li>
@@ -170,7 +172,7 @@
         
           <li><a href="index.html">Release 6</a> &raquo;</li>
         
-      <li>6.1.0</li>
+      <li>6.1.12</li>
     
     
       <li class="wy-breadcrumbs-aside">
@@ -190,7 +192,34 @@
            <div itemprop="articleBody">
             
   <div class="section" id="id1">
-<h1>6.1.0<a class="headerlink" href="#id1" title="Permalink to this headline">¶</a></h1>
+<h1>6.1.12<a class="headerlink" href="#id1" title="Permalink to this headline">¶</a></h1>
+<p>(Omnia 6.1.9 / Workplace 6.1.2 / WCM 6.1.12 / MS 6.1.5 )</p>
+<ul class="simple">
+<li>Big performance improvement for the Page Rollup in trim duplicate scenarios with many pages.</li>
+<li>Added new setting to page rollups, page query limit. Use this to optimize start page performance.</li>
+<li>Corrected translations for nl-be.</li>
+<li>Stability improvements for Controlled Documents.</li>
+<li>Corrected an issue where the page rollup would not render correctly if it had an empty filter.</li>
+<li>Corrected an issue where taxonomy properties filtering would not work after an upgrade from 5.1 (#128637)</li>
+<li>Color theme is now correctly kept in the Accordion when updating from 5.1.</li>
+<li>Fixed an issue with terminating Enterprise properties.</li>
+<li>Corrected an issue with activating ODM on migrated sites (#128385).</li>
+</ul>
+</div>
+<div class="section" id="id2">
+<h1>6.1.7<a class="headerlink" href="#id2" title="Permalink to this headline">¶</a></h1>
+<p>(Omnia 6.1.2 / Workplace 6.1.1 / WCM 6.1.7 / MS 6.1.3 )</p>
+<ul class="simple">
+<li>Big performance improvement for the Page Rollup.</li>
+<li>Its now easier to have text on multiple lines on OPM shapes (#125370).</li>
+<li>Taxonomy refiners based on term ids correctly resolve in quick search and advanced search.</li>
+<li>Corrected an issue that would occur in the upgrade from 5.1 for page types with background images.</li>
+<li>Implemented better handling of language fallback when en-us is not an available language.</li>
+<li>Corrected an issue that would occur in the upgrade from 5.1 in the icons of a block header.</li>
+</ul>
+</div>
+<div class="section" id="id3">
+<h1>6.1.0<a class="headerlink" href="#id3" title="Permalink to this headline">¶</a></h1>
 <p>(Omnia 6.1.0 / Workplace 6.1.1 / WCM 6.1.1 / MS 6.1.1 )</p>
 <ul class="simple">
 <li>The sort by field in Search Category settings can now be cleared.</li>
@@ -208,7 +237,7 @@
 <li>People rollup now correctly handle zone width.</li>
 <li>Default content community layout buttons can now be edited.</li>
 <li>Fixed an issue preventing display breakpoints from working in the page rollup.</li>
-<li>User profile competition now works as expected when a description is not filled in.</li>
+<li>User profile completion now works as expected when a description is not filled in.</li>
 <li>Fixed an issue that caused rounded corners in the top navigation. (#127893).</li>
 <li>The document rollup now correctly restores settings of the search box when edited (#127131).</li>
 <li>The click guard now works correctly in design mode.</li>
@@ -225,8 +254,8 @@
 <li>Corrected display of people properties in DM documents (#117207).</li>
 </ul>
 </div>
-<div class="section" id="id2">
-<h1>6.0.2<a class="headerlink" href="#id2" title="Permalink to this headline">¶</a></h1>
+<div class="section" id="id4">
+<h1>6.0.2<a class="headerlink" href="#id4" title="Permalink to this headline">¶</a></h1>
 <div class="section" id="permissions-updates">
 <h2>Permissions updates<a class="headerlink" href="#permissions-updates" title="Permalink to this headline">¶</a></h2>
 </div>
@@ -434,7 +463,7 @@
   <div role="contentinfo">
     <p>
         &copy; Copyright 2021, Precio Fishbone.
-      Last updated on Apr 14, 2021.
+      Last updated on Apr 30, 2021.
 
     </p>
   </div>

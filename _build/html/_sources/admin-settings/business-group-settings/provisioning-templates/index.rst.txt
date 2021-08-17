@@ -85,8 +85,8 @@ For CHANNELS the following settings are available:
 + **Name**: Type the name for the tab here.
 + **App Types**: Select type of app for the tab; Built-in meaning Microsoft Apps, or Organization for other Apps, which can, for example, be Omnia Apps.
 + **Installed Apps**: Open the list and select app.
-+ **Content Url**: (A description will be added soon).
-+ **Website Url**: (A description will be added soon).
++ **Content Url**: Add the Url to the content for the Channel.
++ **Website Url**: Add the Url to the website for the Channel.
 
 To add addtional tabs click the plus:
 

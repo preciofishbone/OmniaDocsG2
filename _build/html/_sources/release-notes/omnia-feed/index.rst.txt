@@ -6,6 +6,7 @@ Below you will find release notes for the Omnia Feed mobile app.
 .. toctree::
    :titlesonly:
 
+   6/index
    5/index
    4/index   
    3.1/index

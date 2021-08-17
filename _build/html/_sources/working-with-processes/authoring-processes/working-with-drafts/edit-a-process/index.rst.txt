@@ -3,11 +3,11 @@ Edit a process
 
 To edit a draft process, just click the title in the list, or select "Edit" in the process's dot menu.
 
-If you click the process title, the process is shown in Preview mode. You have to click "Edit" to edit the process.
+If you click the process title, the process is shown in Preview mode. You have to click EDIT to edit the process.
 
 .. Image:: edit-process-1-new.png
 
-If you select "Edit" in the dot menu, the process is opened in Design mode.
+If you select EDIT in the dot menu, the process is opened in Design mode.
 
 .. image:: edit-process-2-new.png
 

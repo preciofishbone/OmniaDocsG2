@@ -8,14 +8,14 @@
 
 .. image:: tenant-settings-header.png
 
-5. Click on settings for your default Businss Profile and select the "Header" tab.
-6. Select a background and icon color that should be used for chrome of the Business Profile.
+5. Click on settings for your default Businss Profile and select Header.
+6. Select a background and icon color that should be used for the chrome of the Business Profile.
 7. Configure the Action Menu.
 
 .. image:: bp-settings-actionmenu.png
 
-8. Configure a Block Title style that will be used for all sections/blocks on a page.
+8. Click on Content Header in the sub menu of settings and configure a general look and feel for block and section headers.
 
 .. image:: bp-settings-contentheader.png
 
-More information on the Action Menu and the Block Title can be found here: :doc:`Business Profile settings </admin-settings/business-group-settings/settings/index>`
+More information on the Action Menu and the Content Header can be found here: :doc:`Business Profile settings </admin-settings/business-group-settings/settings/index>`

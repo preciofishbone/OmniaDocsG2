@@ -5,7 +5,7 @@ Here you can create a To Do list for the process or process step.
 
 .. image:: processes-tasks-tab.png
 
-To add a task, click "+ ADD TASK", type the text and click "OK".
+To add a task, click ADD TASK, type the text and click OK.
 
 .. image:: pm-tasks-new.png
 

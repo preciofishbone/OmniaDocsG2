@@ -219,7 +219,7 @@
 <p>This sync is a map of some properties to Sharepoint fields, either as set up in Omnia Admin, or set up specifically for a Page Type, as an override.</p>
 <p>When some (rare) actions has been executed, for example an override created for a Page Type, a new sync to Sharepoint may be needed, using the buttons here.</p>
 <p>For more information about the Admin settings, see: <a class="reference internal" href="../../admin-settings/tenant-settings/webcontent-managament/index.html"><span class="doc">Web Content Management</span></a></p>
-<p>For more information about the override, see the heading “Settings” on this page: <a class="reference internal" href="../page-types/index.html"><span class="doc">Page Types</span></a></p>
+<p>For more information about the override, see this page: <a class="reference internal" href="../page-types/page-type-settings/index.html"><span class="doc">Page Type Settings</span></a></p>
 </div>
 </div>
 <div class="section" id="permissions">
@@ -238,20 +238,23 @@
 <h2>Variations<a class="headerlink" href="#variations" title="Permalink to this headline">¶</a></h2>
 <p>Here you set up the Page Variations that should be possible to use in the Publishing App. It’s then up to Page Editors to use a variation, or not, for a page. A page variation is created for a page when it’s needed.</p>
 <p>It’s also possible to add a variation author for each variation.</p>
-<img alt="../../_images/page-settings-variations-new3.png" src="../../_images/page-settings-variations-new3.png" />
-<p>You see the variations that has been set up so far, with information about for example targeting. A “Variaton” in the tenant’s default language is also listed here - note the green label in the image above. For all pages, a variation with the default language must always exist. That is what is added when a page is created the first time..</p>
+<img alt="../../_images/page-settings-variations-new4.png" src="../../_images/page-settings-variations-new4.png" />
+<p>You see the variations that has been set up so far, with information about for example targeting. A “Variaton” in the tenant’s default language is also listed here - note the label “Default” in the image above. For all pages, a variation with the default language must always exist. That is what is added when a page is created the first time</p>
 <p>To edit the settings for a variation, click the pen. To delete a variation, click the dust bin.</p>
-<img alt="../../_images/page-settings-variations-edit-delete.png" src="../../_images/page-settings-variations-edit-delete.png" />
+<img alt="../../_images/page-settings-variations-edit-delete-new.png" src="../../_images/page-settings-variations-edit-delete-new.png" />
 <p>When you edit a variation, the same settings as when you create a new variation are available, see below.</p>
 <div class="section" id="create-a-new-variation">
 <h3>Create a new variation<a class="headerlink" href="#create-a-new-variation" title="Permalink to this headline">¶</a></h3>
-<p>Note that you can use Variations for a lot of implementations, not just languages, even if that is probably the most common.</p>
+<p>Note that you can use Variations for a lot of implementations, not just languages, even if language versions of a page probably is the most common.</p>
 <p>Do the following to create a new variation:</p>
 <ol class="arabic simple">
-<li>Click “ADD VARIATION”.</li>
+<li>Click ADD VARIATION.</li>
+</ol>
+<img alt="../../_images/click-add-variation.png" src="../../_images/click-add-variation.png" />
+<ol class="arabic simple" start="2">
 <li>Use the following settings.</li>
 </ol>
-<img alt="../../_images/variations-new2.png" src="../../_images/variations-new2.png" />
+<img alt="../../_images/variations-new3.png" src="../../_images/variations-new3.png" />
 <ul class="simple">
 <li><strong>Title</strong>: Add a title for the variation to be shown in the lists, for example the list where users can select variation. If needed, the title can be added in any or all of the languages set up in the tenant.</li>
 <li><strong>Icon Type</strong>: Select the Icon Type here, for excample “Flags”.</li>
@@ -260,7 +263,7 @@
 <li><strong>Variation author</strong>: You can add a variation author for this variation. See this page for more information: <a class="reference internal" href="../edit-page-variations/index.html"><span class="doc">Edit Page Variations</span></a></li>
 <li><strong>Add Targeting Filter</strong>: To set up targeting for this variation, click here. It is not mandatory. See below for more information.</li>
 </ul>
-<p>Languages used for Titles, or for targering must be set in the Tenant Settings, see the heading “Languages” on this page: <a class="reference internal" href="../../admin-settings/tenant-settings/settings/index.html"><span class="doc">Tenant Settings</span></a></p>
+<p>Languages used for Titles, or for targering, must be set up in the Tenant Settings, see this page: <a class="reference internal" href="../../admin-settings/tenant-settings/settings/regional-settings/index.html"><span class="doc">Regional Settings</span></a></p>
 </div>
 <div class="section" id="targeting-a-page-variation">
 <h3>Targeting a Page Variation<a class="headerlink" href="#targeting-a-page-variation" title="Permalink to this headline">¶</a></h3>
@@ -270,38 +273,34 @@
 <ol class="arabic simple">
 <li>Click “Add Targeting Filter” when editing a Page Variation’s settings.</li>
 </ol>
-<img alt="../../_images/page-variation-add-targeting-new2.png" src="../../_images/page-variation-add-targeting-new2.png" />
+<img alt="../../_images/page-variation-add-targeting-new3.png" src="../../_images/page-variation-add-targeting-new3.png" />
 <ol class="arabic simple" start="2">
 <li>Select Targeting Property from the list.</li>
 <li>As the next step you can select to include all Children, or you can target one or more of the Children specifically.</li>
 </ol>
 <p>Here’s an example which will see to that all users that has French set as preferred language will see the French variation of the page.</p>
-<img alt="../../_images/page-targeting-french.png" src="../../_images/page-targeting-french.png" />
+<img alt="../../_images/page-targeting-french-new.png" src="../../_images/page-targeting-french-new.png" />
 <ol class="arabic simple" start="4">
 <li>Click “OK” to save your changes.</li>
 </ol>
 <p>You can add as many Targeting Properties for a Variation as is needed, this way (and remember that variations can be a lot more than just languages). To remove a target, just click the X.</p>
 <p>Note that the targeting settings also are shown in the Variations list, for example:</p>
-<img alt="../../_images/page-variation-example-new3.png" src="../../_images/page-variation-example-new3.png" />
+<img alt="../../_images/page-variation-example-new4.png" src="../../_images/page-variation-example-new4.png" />
 </div>
 <div class="section" id="edit-contents-of-a-page-variation">
 <h3>Edit contents of a Page Variation<a class="headerlink" href="#edit-contents-of-a-page-variation" title="Permalink to this headline">¶</a></h3>
 <p>When more than one variation of the page exists, an editor can select variation to work with in the list, in the lower left corner:</p>
-<img alt="../../_images/select-variation-new2.png" src="../../_images/select-variation-new2.png" />
+<img alt="../../_images/select-variation-new31.png" src="../../_images/select-variation-new31.png" />
 <p>If no variation exists yet for the page, the editor can select to create one.</p>
-<img alt="../../_images/variation-create-page.png" src="../../_images/variation-create-page.png" />
-<p>Editing a Page Variation works exactly the same way as editing a “normal” page.</p>
+<img alt="../../_images/variation-create-page-new.png" src="../../_images/variation-create-page-new.png" />
+<p>Editing a Page Variation works exactly the same way as editing the default page.</p>
 </div>
 </div>
 <div class="section" id="statistics">
 <h2>Statistics<a class="headerlink" href="#statistics" title="Permalink to this headline">¶</a></h2>
 <p>For more advanced statistics in Omnia, this is the place to add the scripts you get from your statistics provider, for example:</p>
-<img alt="../../_images/page-settings-statistics-new.png" src="../../_images/page-settings-statistics-new.png" />
+<img alt="../../_images/page-settings-statistics-new2.png" src="../../_images/page-settings-statistics-new2.png" />
 <p>Don’t forget to save. The “Save” button is located in the lower right corner.</p>
-</div>
-<div class="section" id="advanced">
-<h2>Advanced<a class="headerlink" href="#advanced" title="Permalink to this headline">¶</a></h2>
-<p>This tab is a preparation for functionality to come. Can’t be used at the moment.</p>
 </div>
 </div>
 
@@ -328,7 +327,7 @@
   <div role="contentinfo">
     <p>
         &copy; Copyright 2021, Precio Fishbone.
-      Last updated on Apr 14, 2021.
+      Last updated on Apr 16, 2021.
 
     </p>
   </div>
