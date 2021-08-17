@@ -41,7 +41,7 @@ Adding content to the block
 *****************************
 Adding content to the block works the same if you do that in the settings (Design mode) or in Write mode. Do the following:
 
-1. Click the plus
+1. Click the plus.
 
 .. image:: faq-click-plus.png
 
