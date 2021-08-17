@@ -51,7 +51,7 @@ Adding content to the block works the same if you do that in the settings (Desig
 
 3. Add the text that should be shown when the title is expanded. Note the formatting options.
 
-.. image:: faq-add-textfaq-add-text.png
+.. image:: faq-add-text.png
 
 4. Click "SAVE".
 5. Add additional FAQ:S to the block the same way.
