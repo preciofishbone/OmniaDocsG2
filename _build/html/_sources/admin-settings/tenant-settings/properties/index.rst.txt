@@ -17,3 +17,7 @@ Select section for more information:
    queryable-properties/index
    recycle-bin/index
    targeting-properties/index
+
+In Omnia 6.5, a new option will be available:
+
+:doc:`Enterprise Glossary </admin-settings/tenant-settings/properties/enterprise-glossary/index>`

@@ -15,7 +15,7 @@ For more information on working with properties, see these pages: :doc:`Properti
 
 Mobile
 *********
-Here you can remove or upgrade the feature "Enable Mobile Login". More information about what Mobile Login is, is found under *Permissions* here: :doc:`Publishing App settings Settings </pages/publishing-app-settings/index>`
+Here you can remove or upgrade the feature "Enable Mobile Login". More information about what Mobile Login is, is found under *Permissions* here: :doc:`Publishing App settings </pages/page-settings/index>`
 
 Add-ons
 *********

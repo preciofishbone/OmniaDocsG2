@@ -1,41 +1,45 @@
 Mapping a user profile property
 =====================================
 
-**(This will be checked against Omnia v6 soon.)**
+In order to map an Omnia property to a user profile property, you need to first find the user profile property in Sharepoint. 
 
-This is how it works in Omnia versions prior to v6:
+1. Go to the site.
+2. Go to the admin portal (for example by typing https://admin.microsoft.com).
+3. Select the Sharepoint admin center.
 
-In order to map an Omnia property to a user profile property, we need to first find the user profile property in sharepoint. In order to do that, lets look at this example:
+.. image:: sharepoint-admin-center.png
 
-Here we will try mapping the property Department:
+4. Select "User Profiles". If it's not shown, select "More Features" first.
 
-.. image:: userprofile.png
+.. image:: sharepoint-admin-user-profiles.png
 
-In order to access this view, follow these steps:
+4. Select "Manage User Profiles".
 
-1. Visit the sharepoint admin center by typing in https://((insert the name of your tenant)-admin.sharepoint.com 
-2. Click on user profiles in the left menu.
-3. Click on Manager user profiles.
-4. Type in the name of the user you wish to inspect.
+.. image:: sharepoint-admin-manage-profiles.png
 
-In order for a user profile property to be used in omnia, it has to be mapped first, and in order for it to be mapped, we need to know the name of the property, which can be found in search:
+5. Type the name of the user you wish to inspect.
 
-.. image:: search.png
+.. image:: sharepoint-admin-manage-profiles-user.png
 
-We then go in to Manage search Schema:
+In order for a user profile property to be used in Omnia, it has to be mapped first, and in order for it to be mapped, you need to know the name of the property, which can be found in search.
 
-.. image:: sharepoint-managesearch.png
+.. image:: sharepoint-admin-manage-profiles-search.png
 
-We then type in the name of the property we are looking for, which in this case is Department: 
+1. Select "Manage Search Schema":
 
-.. image:: sharepoint-properties-department.png
+.. image:: sharepoint-admin-manage-manage-schema.png
 
-Here we can see on the left the name of the Managed property is indeed Department, and the crawled properties are People:Department and ows_department.
+2. Type in the name of the property you are looking for (example Department). 
 
-We also notice that department is of type Text, it is also queryable, retrievable and refinable but not searchable or sortable, which means that when we map it on omnia, it needs to have the same attrbutes if we want it have the same functionality
-as it does now. Mapping it looks like the following: 
+.. image:: sharepoint-admin-manage-manage-schema-department.png
 
-.. image:: tenant-properties-mapping.png
+In this example you can see that the name of the Managed property is indeed Department, and the crawled properties are People:Department and ows_department.
+
+Also notice that Department is of type Text, it is also queryable, retrievable and refinable but not searchable or sortable, which means that when you map it on omnia, it needs to have the same attributes if you want it have the same functionality.
+
+Mapping in Omnia (example Department): 
+
+.. image:: tenant-properties-mapping-new.png
 
 Department is now a usable property that functions as both a value displayer and a refiner in blocks like People roll up and features like the search.
 
