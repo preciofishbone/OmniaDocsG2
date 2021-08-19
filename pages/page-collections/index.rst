@@ -59,7 +59,7 @@ In Omnia 6.5, the following settings will also be available, under Permission:
 
 .. image:: co-author-meny.png
 
-Note that this is not temporary, the co-authors will be added to the page pernissions as authors.
+Note that this is not temporary, the co-authors will be added to the page permissions as authors.
 
 For more information about inviting co-authors, see: :doc:`Invite co-authors </pages/invite-co-authors/index>`
 
