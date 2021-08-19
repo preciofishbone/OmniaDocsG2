@@ -3,6 +3,8 @@ Archive a page
 
 When working with the navigation you can archive a page that is no longer needed. This is instead of a delete option. Just remember that if other pages links to a page you archive, the links will no longer work. You have to edit or remove such links.
 
+In Omnia 6.5 it will possible to create a copy of the archived page, as a new draft.
+
 If a page has sub pages you can still archive it. Then all sub pages will also be archived. Both published pages and drafts will be archived. If variations for the page or sub pages exists, they will also be archived.
 
 You can archive a whole Page Collection the same way as is described here and you can archive unused Page Types as well.

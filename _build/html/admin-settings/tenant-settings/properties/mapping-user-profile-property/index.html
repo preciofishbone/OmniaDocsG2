@@ -98,7 +98,7 @@
 <li class="toctree-l3"><a class="reference internal" href="../../business-profiles/index.html">Business Profiles</a></li>
 <li class="toctree-l3"><a class="reference internal" href="../../features/index.html">Features - Tenant</a></li>
 <li class="toctree-l3"><a class="reference internal" href="../../omnia-feed/index.html">Omnia Feed - Tenant Settings</a></li>
-<li class="toctree-l3"><a class="reference internal" href="../../security/index.html">Permissions</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../../permissions/index.html">Permissions</a></li>
 <li class="toctree-l3 current"><a class="reference internal" href="../index.html">Properties</a><ul class="current">
 <li class="toctree-l4"><a class="reference internal" href="../categories/index.html">Categories (Property)</a></li>
 <li class="toctree-l4"><a class="reference internal" href="../enterprise-properties/index.html">Enterprise Properties</a></li>
@@ -209,28 +209,39 @@
             
   <div class="section" id="mapping-a-user-profile-property">
 <h1>Mapping a user profile property<a class="headerlink" href="#mapping-a-user-profile-property" title="Permalink to this headline">¶</a></h1>
-<p><strong>(This will be checked against Omnia v6 soon.)</strong></p>
-<p>This is how it works in Omnia versions prior to v6:</p>
-<p>In order to map an Omnia property to a user profile property, we need to first find the user profile property in sharepoint. In order to do that, lets look at this example:</p>
-<p>Here we will try mapping the property Department:</p>
-<img alt="../../../../_images/userprofile.png" src="../../../../_images/userprofile.png" />
-<p>In order to access this view, follow these steps:</p>
+<p>In order to map an Omnia property to a user profile property, you need to first find the user profile property in Sharepoint.</p>
 <ol class="arabic simple">
-<li>Visit the sharepoint admin center by typing in <a class="reference external" href="https://((insert">https://((insert</a> the name of your tenant)-admin.sharepoint.com</li>
-<li>Click on user profiles in the left menu.</li>
-<li>Click on Manager user profiles.</li>
-<li>Type in the name of the user you wish to inspect.</li>
+<li>Go to the site.</li>
+<li>Go to the admin portal (for example by typing <a class="reference external" href="https://admin.microsoft.com">https://admin.microsoft.com</a>).</li>
+<li>Select the Sharepoint admin center.</li>
 </ol>
-<p>In order for a user profile property to be used in omnia, it has to be mapped first, and in order for it to be mapped, we need to know the name of the property, which can be found in search:</p>
-<img alt="../../../../_images/search.png" src="../../../../_images/search.png" />
-<p>We then go in to Manage search Schema:</p>
-<img alt="../../../../_images/sharepoint-managesearch.png" src="../../../../_images/sharepoint-managesearch.png" />
-<p>We then type in the name of the property we are looking for, which in this case is Department:</p>
-<img alt="../../../../_images/sharepoint-properties-department.png" src="../../../../_images/sharepoint-properties-department.png" />
-<p>Here we can see on the left the name of the Managed property is indeed Department, and the crawled properties are People:Department and ows_department.</p>
-<p>We also notice that department is of type Text, it is also queryable, retrievable and refinable but not searchable or sortable, which means that when we map it on omnia, it needs to have the same attrbutes if we want it have the same functionality
-as it does now. Mapping it looks like the following:</p>
-<img alt="../../../../_images/tenant-properties-mapping.png" src="../../../../_images/tenant-properties-mapping.png" />
+<img alt="../../../../_images/sharepoint-admin-center.png" src="../../../../_images/sharepoint-admin-center.png" />
+<ol class="arabic simple" start="4">
+<li>Select “User Profiles”. If it’s not shown, select “More Features” first.</li>
+</ol>
+<img alt="../../../../_images/sharepoint-admin-user-profiles.png" src="../../../../_images/sharepoint-admin-user-profiles.png" />
+<ol class="arabic simple" start="4">
+<li>Select “Manage User Profiles”.</li>
+</ol>
+<img alt="../../../../_images/sharepoint-admin-manage-profiles.png" src="../../../../_images/sharepoint-admin-manage-profiles.png" />
+<ol class="arabic simple" start="5">
+<li>Type the name of the user you wish to inspect.</li>
+</ol>
+<img alt="../../../../_images/sharepoint-admin-manage-profiles-user.png" src="../../../../_images/sharepoint-admin-manage-profiles-user.png" />
+<p>In order for a user profile property to be used in Omnia, it has to be mapped first, and in order for it to be mapped, you need to know the name of the property, which can be found in search.</p>
+<img alt="../../../../_images/sharepoint-admin-manage-profiles-search.png" src="../../../../_images/sharepoint-admin-manage-profiles-search.png" />
+<ol class="arabic simple">
+<li>Select “Manage Search Schema”:</li>
+</ol>
+<img alt="../../../../_images/sharepoint-admin-manage-manage-schema.png" src="../../../../_images/sharepoint-admin-manage-manage-schema.png" />
+<ol class="arabic simple" start="2">
+<li>Type in the name of the property you are looking for (example Department).</li>
+</ol>
+<img alt="../../../../_images/sharepoint-admin-manage-manage-schema-department.png" src="../../../../_images/sharepoint-admin-manage-manage-schema-department.png" />
+<p>In this example you can see that the name of the Managed property is indeed Department, and the crawled properties are People:Department and ows_department.</p>
+<p>Also notice that Department is of type Text, it is also queryable, retrievable and refinable but not searchable or sortable, which means that when you map it on omnia, it needs to have the same attributes if you want it have the same functionality.</p>
+<p>Mapping in Omnia (example Department):</p>
+<img alt="../../../../_images/tenant-properties-mapping-new.png" src="../../../../_images/tenant-properties-mapping-new.png" />
 <p>Department is now a usable property that functions as both a value displayer and a refiner in blocks like People roll up and features like the search.</p>
 </div>
 
@@ -257,7 +268,7 @@ as it does now. Mapping it looks like the following:</p>
   <div role="contentinfo">
     <p>
         &copy; Copyright 2021, Precio Fishbone.
-      Last updated on Apr 14, 2021.
+      Last updated on Aug 17, 2021.
 
     </p>
   </div>
