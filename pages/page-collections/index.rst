@@ -54,10 +54,12 @@ Use the settings this way:
 
 In Omnia 6.5, the following settings will also be available, under Permission:
 
-+ **Break permission inheritance by default**: Select this option if inheritnace should be broken when a new page is created within the Page Collection. This could, for example, be useful for Communities. When this option is active, the colleague creating the page will be the page owner, meaning that he or she has full control over who can edit. The nnew option "Invivte co-authors" can then be used to easily add authors for the page, see below.
++ **Break permission inheritance by default**: Select this option if inheritnace should be broken when a new page is created within the Page Collection. This could, for example, be useful for Communities. When this option is active, the colleague creating the page will be the page owner, meaning that he or she has full control over who can edit. The new option "Invite co-authors" can then be used to easily add authors for the page, see below.
 + **Allow invitation of co-authors**: If this option is selected, authors can invite co-authors to help edit a page. When editing a page, the author can use this menu option to invite one or more co-authors:
 
 .. image:: co-author-meny.png
+
+Note that this is not temporary, the co-authors will be added to the page pernissions as authors.
 
 For more information about inviting co-authors, see: :doc:`Invite co-authors </pages/invite-co-authors/index>`
 
