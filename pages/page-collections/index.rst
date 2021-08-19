@@ -52,9 +52,9 @@ Use the settings this way:
 + **Enable Send Page as E-mail**: Select this option if pages in the Page Collection should be available to send through e-mail. One example of when this is needed is in a Newsletter inplementation.
 + **Enable Scheduling**: If scheduling should be available in this Page Collection, select this option. In Omnia 6.0 the author can then set a scheduled start date and time. In Omnia 6.5 it will be possible to select a property for scheduling. 
 
-In Omnia 6.5, the following settings will also be available under Permission:
+In Omnia 6.5, the following settings will also be available, under Permission:
 
-+ **Break permission inheritance by default**: (A description will be added soon).
++ **Break permission inheritance by default**: Select this option if inheritnace should be broken when a new page is created within the Page Collection. This could, for example, be useful for Communities. When this option is active, the colleague creating the page will be the page owner, meaning that he or she has full control over who can edit. The nnew option "Invivte co-authors" can then be used to easily add authors for the page, see below.
 + **Allow invitation of co-authors**: If this option is selected, authors can invite co-authors to help edit a page. When editing a page, the author can use this menu option to invite one or more co-authors:
 
 .. image:: co-author-meny.png
