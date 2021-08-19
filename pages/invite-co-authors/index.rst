@@ -24,12 +24,12 @@ This is how it's done:
 
 4. Click OK when you're done, to save the settings. If you have chosen to send an e-mail message, it is now sent.
 
-Under Permissions for the page, you can now see that permission inheritance is broken for the page, which is needed for specific permission settings for this page. The main editor is added to the Editor field and the invited co-authors are added to the Author field, for example:
+In the Permissions for the page, you can now see that permission inheritance is broken for the page, which is needed for specific permission settings for this page. The invited co-authors are added to the Author field, for example:
 
 .. image:: permission-co-authors.png
 
 Of course, Page Collection administrator can use the permission settings for a page to do this here, but when it's allowed to invite co-authors, authors can do this as well, using the INVITE CO-AUTHOR option.
 
-**NOte!** To change permission for a page some other way, for example to remoive authors, you still ned to be Page Collection administrator.
+**NOte!** To change permission for a page some other way, for example to remove authors, you still ned to be Page Collection administrator.
 
 
