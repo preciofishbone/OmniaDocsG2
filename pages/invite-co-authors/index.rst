@@ -26,6 +26,6 @@ Under Permissions for the page, you can now see that permission inheritance is b
 
 .. image:: permission-co-authors.png
 
-Of course, Page Editors (Design permission) can use the permission settings for a page to do this, but when it's allowed to invite co-authors, authors can do this as well, using the INVITE CO-AUTHOR option.
+Of course, Page Editors (Design permission) can use the permission settings for a page to do this here, but when it's allowed to invite co-authors, authors can do this as well, using the INVITE CO-AUTHOR option.
 
 
