@@ -36,19 +36,64 @@ In the Workplace Settings, you can decide the behavior of the chrome in differen
 
 .. image:: workplace-settings.png
 
+[Navigation Bar]
 
 
 Enterprise Glossary
 ------------------------------------------
 
+A new feature has been introduced in the Properties section in Omnia Admin, called Enterprise Glossary. In the Enterprise Glossary, it is possible to register taxonomies (term sets) that are of global interest in the solution.
+
+.. image:: enterprise-glossary-menu.png
+
+Each term in a taxonomy can be then be mapped to a page that gives detailed information about that term.
+
+.. image:: enterprise-glossary-map-taxonomy.png
+
+It is also possible to change the look and feel of a term.
+
+.. image:: enterprise-glossary-look-and-feel.png
+
+Once a taxonomy has been registered and mapped in the Enterprise Glossary, the properties will come alive in the solution.
+
+.. image:: enterprise-glossary-terms-in-action-1.png
+
+The user can click on any mapped term to get more information about the term.
+
+.. image:: enterprise-glossary-terms-in-action-2.png
+
+
 User Profile Card
 ------------------------------------------
+
+A new user profile card will be shown whenever you click on a user name in Omnia. The user profile card is designed to align with user profile cards in other services in Microsoft 365.
+
+.. image:: user-profile-card.png
+
+The new user profile card also includes the possibility to browse who reports to who in the organization.
+
+.. image:: user-profile-card-2.png
 
 Taxonomy Navigation (Organization Charts)
 ------------------------------------------
 
+A new block can be used, together with the Enterprise Glossary, to navigate taxonomies. The most common area of use is to create an organization chart.
+
+.. image:: org-chart.png
+
 Query on Navigation Path
 ------------------------------------------
+
+A new scope has been added to the Page Rollup query section which makes it possible to query pages based on a navigation path.
+
+.. image:: page-rollup-query-on-navigation-path.png
+
+The Card view has been updated to support the display of sub pages when using a navigation path query.
+
+.. image:: page-rollup-navpath-card-view.png
+
+There is also a new view available that is specifically designed to support the navigation path query to create a mega menu style of the page result.
+
 
 Properties in Card View
 ------------------------------------------
