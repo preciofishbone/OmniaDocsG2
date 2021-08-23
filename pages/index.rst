@@ -14,6 +14,7 @@ In this part of the documentation you will find information concerning how to wo
    automatic-page-creation/index
    edit-page/index
    edit-page-variations/index
+   invite-co-authors/index
    language-versions-of-a-page/index
    publish-page-changes/index
    version-history/index
