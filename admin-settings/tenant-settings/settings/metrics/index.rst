@@ -11,7 +11,7 @@ You can also edit settings for what is to be considered as an active reader or a
 
 .. image:: metrics-settings-reader.png
 
-+ **Total no of users**: Active reader or Active contributor can either be shown as a number of users, or as a percentage. If you would like it to be shown as a percentage, you must add the total number of users here. (Omnia has no way of knowing the total, potential users of the solution).
++ **Total no of users**: Active readers or Active contributors can either be shown as a number of users, or as a percentage. If you would like it to be shown as a percentage, you must add the total number of users here. (Omnia has no way of knowing the total, potential users of the solution).
 
 Don't forget to save if you have made any changes.
 
