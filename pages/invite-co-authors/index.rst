@@ -16,7 +16,7 @@ This is how it's done:
 
 .. image:: co-author-menu-select.png
 
-3. Add co-authors.
+3. Add co-author(s).
 
 .. image:: co-author-dialog.png
 
@@ -26,12 +26,12 @@ This is how it's done:
 
 4. Click OK when you're done, to save the settings. If you have chosen to send an e-mail message, it is now sent.
 
-In the Permissions for the page, you can now see that permission inheritance is broken for the page, which is needed for specific permission settings for this page. The invited co-authors are added to the Author field, for example:
+In Permissions for the page, you can now see (if you are Page Collection administrator) that permission inheritance is broken for the page, which is needed for specific permission settings for this page. The invited co-authors are added to the Author field, for example:
 
 .. image:: permission-co-authors.png
 
-Of course, Page Collection administrator can use the permission settings for a page to do this here, but when it's allowed to invite co-authors, authors can do this as well, using the INVITE CO-AUTHOR option.
+Of course, Page Collection administrators can use the permission settings for a page to do this here, but when it's allowed to invite co-authors, authors can do this as well, using the INVITE CO-AUTHOR option.
 
-**NOte!** To change permission for a page some other way, for example to remove authors, you still ned to be Page Collection administrator.
+**NOte!** To remove co-authors you need to be Page Collection administrator as this is done through the Pemission settings for the page.
 
 
