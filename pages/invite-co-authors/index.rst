@@ -1,7 +1,7 @@
 Invite co-authors
 ==================
 
-This is an ongoing, preliminary documentation for a new option to com in Omnia 6.5.
+This is an ongoing, preliminary documentation for a new option to come in Omnia 6.5.
 
 If Page Collection settings allow it, authors can invite co-authors to help edit a page.
 
