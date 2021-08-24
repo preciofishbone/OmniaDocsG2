@@ -29,3 +29,50 @@ Use the following settings:
 + **Property Set**: You can select a property set here, to be used for the template, meaning a number of properties that the colleague creating the site will or will have to fill in when the template is used. Available in Omnia v6 only. 
 + **Site Creation Mode**: Here you select if approval is required when users create sites from this template. 
 
+Settings for the template
+***************************
+There are a lot of settings you can do for the template shen it's created.
+
+1. Click the template to edit.
+
+The following is shown:
+
+.. image:: community-edit-all.png
+
+General
+----------
+Here you can edit the information you added and the options you selected when creating the template:
+
+.. image:: community-edit-general.png
+
+See above for a description.
+
+Properties
+------------
+You can add a property set to the template. 
+
+.. image:: community-edit-properties.png
+
+The properties in the set can or will have to be filled in when a community is created from this template.
+
+The property sets are set up using the Tenant settings. See this page for more information (Link to be added).
+
+Features
+----------
+Select the features that should be available for the community:
+
+.. image:: community-edit-features.png
+
+Setup
+-------
+Using the options here you can set which parts of s community that should be created when this template is used:
+
+.. image:: community-edit-setup.png
+
+(More information about this will be added soon).
+
+Custom steps
+---------------
+If any custom steps has been developed for the creation of communities, you can select them using this option.
+
+.. image:: community-edit-custom-steps.png
