@@ -1,7 +1,7 @@
 Layout
 =======
 
-This is an ongoing, preliminary documentation för functionality to come in Omnia 6.5.
+This is an ongoing, preliminary documentation for functionality to come in Omnia 6.5.
 
 Here you can work with ready made layouts for Community start pages, that can be chosen when a Page Collection for a Community is created.
 
