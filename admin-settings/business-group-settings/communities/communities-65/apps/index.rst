@@ -7,7 +7,7 @@ Here you will see a list of Community Apps in the Business Profile:
 
 .. image:: communities-apps.png
 
-The functionality is very similar to Omnia 6.0. The main difference is that the tab Orphaned has been added. Is the same functionality as was called Inactive for Teamworks:
+The functionality for Apps is very similar to Omnia 6.0. The main difference is that the tab Orphaned has been added. It is the same type of functionality as was called Inactive for Teamworks:
 
 When a site of the type Microsoft 365 Team Site, Sharepoint Team Site or Sharepoint Communication Site is created, a Sharepoint site is created and is connected to the site. A Yammer Group can also need a Sharepoint site, depending on how the Yammer Group is set up.
 
