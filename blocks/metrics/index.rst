@@ -25,7 +25,7 @@ You can select Teamwork, Pages or User Activity. Then some settings becomes avai
 
 + **Teamwork Template**: Select what kind of Teamwork, based on template, that will be shown. If you leave this field empty, all teamworks will be shown. Available for Teamwork only.
 + **Publishing Apps**: You can select one publishing app to show metrics for. If you don't, all Publishing Apps will be shown. Available for Pages only.
-+ **Page Types**: You can select one page type to show metrics for. If you don't, all pagew types will be shown. Available for Pages only.
++ **Page Types**: You can select one page type to show metrics for. If you don't, all page types will be shown. Available for Pages only.
 
 Metrics
 *********
