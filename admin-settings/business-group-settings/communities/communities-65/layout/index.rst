@@ -30,7 +30,7 @@ To start working on the layout, continue this way:
 
 You work with the layout in a similar way to Page Types. You can use all sections and blocks available.
 
-Also note the the previews for the different screen sizes:
+Also note the previews for the different screen sizes:
 
 .. image:: layout-click-work-area-screen.png
 
