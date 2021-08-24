@@ -52,7 +52,6 @@ Finally, for Communities, the following information is shown:
 
 .. image:: admin-dashboard-communities.png
 
-(A more detailed description of the Communities metrics will be added soon).
 
 
 
