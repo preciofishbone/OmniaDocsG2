@@ -7,7 +7,7 @@ Here you can work with ready made layouts for Community start pages, that can be
 
 .. image:: communities-layout.png
 
-To create a new lLayout, do the following:
+To create a new layout, do the following:
 
 1. Click the plus.
 
