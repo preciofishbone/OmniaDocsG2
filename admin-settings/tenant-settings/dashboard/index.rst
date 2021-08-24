@@ -13,11 +13,9 @@ As you would a page (or maybe rather a Page Type), the first step is to add the 
 
 All available blocks are listed on this page: :doc:`Blocks </blocks/index>`
 
-The new Metrics block can be especially useful: :doc:`The Metrics block </blocks/metrics-block/index>`
+The new Metrics block can be especially useful: :doc:`The Metrics block </blocks/metrics/index>`
 
-You can also edit some of the metrics settings, see: :doc:`Metric settings </admin-settings/tenant-settings/settings/metrics/index>`
-
-See below for an implementation example.
+You can also edit some of the metrics settings, in Omnia Admin, see: :doc:`Metric settings </admin-settings/tenant-settings/settings/metrics/index>`
 
 Implementation example
 ************************
