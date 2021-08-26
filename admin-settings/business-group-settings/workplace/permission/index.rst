@@ -1,11 +1,13 @@
 Permission
 ============
 
-This is an ongoing preliminary documentation for functionality to come in Omnia 6.5.
+This is an ongoing, preliminary documentation for functionality to come in Omnia 6.5.
 
 For Workplace, the following settings are available:
 
-.. image:: workplace-permission.png
+.. image:: workplace-permission-new.png
 
-(A description will be added soon).
++ **Allow mobile login**: This setting is intended to offer login to certain parts of Omnia for first line workers, partners and similar. The user needs the Kaizala app and a viable account.
++ **Business Profile Workplace Designer**: Add and remove Workplace Designers (administrators) here as needed.
++ **Business Workplace Reader**: (A description will be added soon). 
 

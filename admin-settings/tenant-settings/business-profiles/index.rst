@@ -30,5 +30,11 @@ To delete the Business Profile, click the dust bin (remember that all settings f
 
 .. image:: business-profile-delete-edit-new2.png
 
+Workplace setting in Omnia 6.5
+-------------------------------
+In Omnia 6.5 you can choose to use Workplace settings within the Business Profile, or you can use a classic setup. You make that choice when editing the Business Profile here:
 
+.. image:: business-profile-workplace.png
+
+If you choose to use a classic setting, "Classic Action Menu & Mega Menu" should be selected. If you would like to use Workplace settings, deselect this option.
 
