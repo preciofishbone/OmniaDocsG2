@@ -59,7 +59,7 @@ The property sets are set up using the Tenant settings. See this page for more i
 
 Features
 ----------
-Select the features that should be available for the community:
+Select the features that should be available for the community (all are not shown in the image):
 
 .. image:: community-edit-features.png
 
