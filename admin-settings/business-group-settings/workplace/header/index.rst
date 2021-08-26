@@ -47,16 +47,16 @@ Under Search, the following is available:
 
 Classic Mega Menu
 *******************
-The following settings are available here:
+These settings are available when “Classic Action Menu & Mega Menu” is selected for the Business profile.
 
 .. image:: workplace-header-classic-mega-menu.png
 
-(A description will be added soon).
+You use them the same way as the Mega Menu settings in Omnia 6.0. See the heading "Mega Menu" on this page: :doc:`Header settings for Business Profile </admin-settings/business-group-settings/settings/header/index>`
 
 Classic Action Menu
 **********************
-For the Classic Action Menu, you can set this:
+These settings are available when “Classic Action Menu & Mega Menu” is selected for the Business profile.
 
 .. image:: workplace-header-classic-action-menu.png
 
-(A description will be added soon).
+You use them the same way as the Action Menu settings in Omnia 6.0. See the heading "Action Menu" on this page: :doc:`Header settings for Business Profile </admin-settings/business-group-settings/settings/header/index>`
