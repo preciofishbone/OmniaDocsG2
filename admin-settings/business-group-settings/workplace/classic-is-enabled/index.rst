@@ -7,3 +7,4 @@ If the option "Classic Action Menu & Mega Menu" is selected for the Business Pro
 
 .. image:: classic-is-enabled.png
 
+When you have started working with the Workplace settings, you can use the link "Preview modern workplace" for a preview.
