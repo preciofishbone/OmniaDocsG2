@@ -1,63 +1,61 @@
 
 
 <!DOCTYPE html>
-<!--[if IE 8]><html class="no-js lt-ie9" lang="en" > <![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js" lang="en" > <!--<![endif]-->
+<html class="writer-html5" lang="en" >
 <head>
-  <meta charset="utf-8">
+  <meta charset="utf-8" />
   
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   
   <title>People Rollup &mdash; Omnia  documentation</title>
   
 
   
+  <link rel="stylesheet" href="../../_static/css/theme.css" type="text/css" />
+  <link rel="stylesheet" href="../../_static/pygments.css" type="text/css" />
+  <link rel="stylesheet" href="../../_static/pygments.css" type="text/css" />
+  <link rel="stylesheet" href="../../_static/css/theme.css" type="text/css" />
+  <link rel="stylesheet" href="../../_static/custom.css?v=4" type="text/css" />
+
   
-    <link rel="shortcut icon" href="../../_static/favicon.ico"/>
   
+
   
   
 
   
 
   
+  <!--[if lt IE 9]>
+    <script src="../../_static/js/html5shiv.min.js"></script>
+  <![endif]-->
   
     
+      <script type="text/javascript" id="documentation_options" data-url_root="../../" src="../../_static/documentation_options.js"></script>
+        <script data-url_root="../../" id="documentation_options" src="../../_static/documentation_options.js"></script>
+        <script src="../../_static/jquery.js"></script>
+        <script src="../../_static/underscore.js"></script>
+        <script src="../../_static/doctools.js"></script>
+        <script src="../../_static/helpfulness.js?v=4"></script>
+        <script src="../../_static/disqus.js"></script>
+    
+    <script type="text/javascript" src="../../_static/js/theme.js"></script>
 
-  
-
-  
-  
-    <link rel="stylesheet" href="../../_static/css/theme.css" type="text/css" />
-  
-
-  
-    <link rel="stylesheet" href="../../_static/custom.css?v=4" type="text/css" />
-  
-
-  
-        <link rel="index" title="Index"
-              href="../../genindex.html"/>
-        <link rel="search" title="Search" href="../../search.html"/>
-    <link rel="top" title="Omnia  documentation" href="../../index.html"/>
-        <link rel="up" title="Blocks" href="../index.html"/>
-        <link rel="next" title="Process blocks" href="../process-blocks/index.html"/>
-        <link rel="prev" title="Page Variation Selector" href="../variation-selector/index.html"/> 
-
-  
-  <script src="../../_static/js/modernizr.min.js"></script>
-
+    
+    <link rel="index" title="Index" href="../../genindex.html" />
+    <link rel="search" title="Search" href="../../search.html" />
+    <link rel="next" title="Process blocks" href="../process-blocks/index.html" />
+    <link rel="prev" title="Page Variation Selector" href="../variation-selector/index.html" /> 
 </head>
 
-<body class="wy-body-for-nav" role="document">
+<body class="wy-body-for-nav">
 
    
   <div class="wy-grid-for-nav">
-
     
     <nav data-toggle="wy-nav-shift" class="wy-nav-side">
       <div class="wy-side-scroll">
-        <div class="wy-side-nav-search">
+        <div class="wy-side-nav-search" >
           
 
           
@@ -84,6 +82,7 @@
           
         </div>
 
+        
         <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
           
             
@@ -94,6 +93,7 @@
               <ul class="current">
 <li class="toctree-l1"><a class="reference internal" href="../../admin-settings/index.html">Admin Settings</a></li>
 <li class="toctree-l1 current"><a class="reference internal" href="../index.html">Blocks</a><ul class="current">
+<li class="toctree-l2"><a class="reference internal" href="../accordion/index.html">Accordion</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../activity-feed/index.html">Activity Feed</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../announcements/index.html">Announcements</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../blocks-event-management/index.html">Blocks for Event Management</a></li>
@@ -162,13 +162,14 @@
             
           
         </div>
+        
       </div>
     </nav>
 
     <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
 
       
-      <nav class="wy-nav-top" role="navigation" aria-label="top navigation">
+      <nav class="wy-nav-top" aria-label="top navigation">
         
           <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
           <a href="../../index.html">Omnia</a>
@@ -176,10 +177,13 @@
       </nav>
 
 
-      
       <div class="wy-nav-content">
+        
         <div class="rst-content">
+        
           
+
+
 
 
 
@@ -199,7 +203,7 @@
 
   <ul class="wy-breadcrumbs">
     
-      <li><a href="../../index.html">Docs</a> &raquo;</li>
+      <li><a href="../../index.html" class="icon icon-home"></a> &raquo;</li>
         
           <li><a href="../index.html">Blocks</a> &raquo;</li>
         
@@ -208,7 +212,7 @@
     
       <li class="wy-breadcrumbs-aside">
         
-            
+          
             <a href="../../_sources/blocks/people-rollup/index.rst.txt" rel="nofollow"> View page source</a>
           
         
@@ -226,10 +230,10 @@
 <h1>People Rollup<a class="headerlink" href="#people-rollup" title="Permalink to this headline">¶</a></h1>
 <p>Use this block to display lists of people, for many various reasons. Here are a few examples of implementations:</p>
 <ul class="simple">
-<li>Display contact person for a page or for something else.</li>
-<li>List colleagues working at a particular office.</li>
-<li>List members or owners in a group site.</li>
-<li>Create a people directory.</li>
+<li><p>Display contact person for a page or for something else.</p></li>
+<li><p>List colleagues working at a particular office.</p></li>
+<li><p>List members or owners in a group site.</p></li>
+<li><p>Create a people directory.</p></li>
 </ul>
 <p>Here are two examples of the user interface. New Recruitments and People on the Move are different People Rollup blocks. The view used here is Card.</p>
 <img alt="../../_images/people-rollup-example-new.png" src="../../_images/people-rollup-example-new.png" />
@@ -250,22 +254,22 @@
 <img alt="../../_images/peoplerollup-settings-query-new2.png" src="../../_images/peoplerollup-settings-query-new2.png" />
 <p>Follow these steps:</p>
 <ol class="arabic simple">
-<li>Select Query Type; “Profile Query”, “Sharepoint Groups”, “User Fields on Page” or “Activity Query”.</li>
-<li>If you selected Activity Query, choose Activity period (also called Social Period in some other blocks). This sets how old the item can be to be displayed in the list. The default is “No limit”, but you c an also select One Week, Two Weeks or One Month.</li>
-<li>Select property for the query.</li>
+<li><p>Select Query Type; “Profile Query”, “Sharepoint Groups”, “User Fields on Page” or “Activity Query”.</p></li>
+<li><p>If you selected Activity Query, choose Activity period (also called Social Period in some other blocks). This sets how old the item can be to be displayed in the list. The default is “No limit”, but you c an also select One Week, Two Weeks or One Month.</p></li>
+<li><p>Select property for the query.</p></li>
 </ol>
 <img alt="../../_images/query-property-1-new2.png" src="../../_images/query-property-1-new2.png" />
 <ol class="arabic simple" start="4">
-<li>Set additional query parameters. Exactly what needs to be done depends on the property chosen.</li>
+<li><p>Set additional query parameters. Exactly what needs to be done depends on the property chosen.</p></li>
 </ol>
 <p>Here’s an example with parameters set for Department:</p>
 <img alt="../../_images/query-parameters-new2.png" src="../../_images/query-parameters-new2.png" />
 <ol class="arabic simple" start="5">
-<li>Type a parameter if neded (needed for Manual or Query Parameter).</li>
+<li><p>Type a parameter if neded (needed for Manual or Query Parameter).</p></li>
 </ol>
 <img alt="../../_images/query-type-parameter-new2.png" src="../../_images/query-type-parameter-new2.png" />
 <ol class="arabic simple" start="6">
-<li>Click “ADD” to add the query from your settings.</li>
+<li><p>Click “ADD” to add the query from your settings.</p></li>
 </ol>
 <img alt="../../_images/query-add-new2.png" src="../../_images/query-add-new2.png" />
 <p>It can result in something like this:</p>
@@ -281,26 +285,26 @@
 <p>You can choose to display the list as a Card view or Roller view. In the image at the top of the page, Card view is used.</p>
 <p>The following settings are available for the views:</p>
 <ul class="simple">
-<li><strong>Add Column</strong>: This is not like columns in columns in a table. You should think: What information do I want to display about the people? You must always add at least one column or nothing will be shown!</li>
-<li><strong>Adjust Columns</strong>: Use this option the order in which the selected columns are shown.</li>
-<li><strong>Person Name</strong>: Select property to get the Person Name from.</li>
-<li><strong>Show Profile Image</strong>: Select this option to show the person’s profile image.</li>
-<li><strong>Open in Dialog</strong>: If you select this option, the person’s Delve page is opened in a dialog instead of in a window, when clicked.</li>
-<li><strong>Dialog Position</strong>: Here you can set the position for the dialog; Center, Left or Right.</li>
-<li><strong>Open in New tab</strong>: If you select this option, the person’s Delve page is opened in a new tab instead of in a window, when clicked.</li>
-<li><strong>Auto Cycle</strong>: Available for Roller. Select this option to make the roller auto cycle through availble persons.</li>
-<li><strong>Slide Height</strong>: Set the height of the area to show the content in. Available for Roller view.</li>
-<li><strong>Alignment Option</strong>: Set vertical alignment for the content. Available for Roller.</li>
-<li><strong>Justify Options</strong>: Set horizontal alignment for the content. Available for Roller view.</li>
-<li><strong>Show Achivements</strong>: This option is a preparation for functionality to come. Not used yet. Available for Card view only.</li>
-<li><strong>Max no of Columns</strong>: Set the maximum number of columns to be displayed.</li>
-<li><strong>Sort By</strong>: Select the property to sort the list by.</li>
-<li><strong>Style</strong>: Style (the field) - Here you can choose to display a Mail Icon that the users can click to send an email to a person. See below for an example.</li>
-<li><strong>Left Zone Width</strong>: Available for Roller. Set the width of the zone to the left of the person shown.</li>
-<li>** Right Zone Width**: Available for Roller. Set the width of the zone to the right of the person shown.</li>
-<li><strong>Paging</strong>: Select how paging should work; “No Paging”, “Classic” or “Scroll”. See below for examples. Scroll is note applicabale for Roller view.</li>
-<li><strong>Page Size</strong>: To limit the number of items being displayed per “page”, add a fixed number here. Works together with Paging.</li>
-<li><strong>Padding</strong>: Use this option to add some padding between the list and the border of the block, if needed.</li>
+<li><p><strong>Add Column</strong>: This is not like columns in columns in a table. You should think: What information do I want to display about the people? You must always add at least one column or nothing will be shown!</p></li>
+<li><p><strong>Adjust Columns</strong>: Use this option the order in which the selected columns are shown.</p></li>
+<li><p><strong>Person Name</strong>: Select property to get the Person Name from.</p></li>
+<li><p><strong>Show Profile Image</strong>: Select this option to show the person’s profile image.</p></li>
+<li><p><strong>Open in Dialog</strong>: If you select this option, the person’s Delve page is opened in a dialog instead of in a window, when clicked.</p></li>
+<li><p><strong>Dialog Position</strong>: Here you can set the position for the dialog; Center, Left or Right.</p></li>
+<li><p><strong>Open in New tab</strong>: If you select this option, the person’s Delve page is opened in a new tab instead of in a window, when clicked.</p></li>
+<li><p><strong>Auto Cycle</strong>: Available for Roller. Select this option to make the roller auto cycle through availble persons.</p></li>
+<li><p><strong>Slide Height</strong>: Set the height of the area to show the content in. Available for Roller view.</p></li>
+<li><p><strong>Alignment Option</strong>: Set vertical alignment for the content. Available for Roller.</p></li>
+<li><p><strong>Justify Options</strong>: Set horizontal alignment for the content. Available for Roller view.</p></li>
+<li><p><strong>Show Achivements</strong>: This option is a preparation for functionality to come. Not used yet. Available for Card view only.</p></li>
+<li><p><strong>Max no of Columns</strong>: Set the maximum number of columns to be displayed.</p></li>
+<li><p><strong>Sort By</strong>: Select the property to sort the list by.</p></li>
+<li><p><strong>Style</strong>: Style (the field) - Here you can choose to display a Mail Icon that the users can click to send an email to a person. See below for an example.</p></li>
+<li><p><strong>Left Zone Width</strong>: Available for Roller. Set the width of the zone to the left of the person shown.</p></li>
+<li><p>** Right Zone Width**: Available for Roller. Set the width of the zone to the right of the person shown.</p></li>
+<li><p><strong>Paging</strong>: Select how paging should work; “No Paging”, “Classic” or “Scroll”. See below for examples. Scroll is note applicabale for Roller view.</p></li>
+<li><p><strong>Page Size</strong>: To limit the number of items being displayed per “page”, add a fixed number here. Works together with Paging.</p></li>
+<li><p><strong>Padding</strong>: Use this option to add some padding between the list and the border of the block, if needed.</p></li>
 </ul>
 <p><strong>Important note on “No Paging”</strong>: If you choose “No paging” and set “Item Limit” to a specific number, that is the number of people that will be available in the list, regardless of how many that actually meets the search criteria.</p>
 <p>Here’s an example with a Card View displaying the Mail Icon (see top right if each card):</p>
@@ -317,33 +321,33 @@
 <p>Use these settings to add refiners.</p>
 <img alt="../../_images/peoplerollup-settings-refiner-new.png" src="../../_images/peoplerollup-settings-refiner-new.png" />
 <ul class="simple">
-<li><strong>Position</strong>: Decide where to place the refiners; top, left or right.</li>
+<li><p><strong>Position</strong>: Decide where to place the refiners; top, left or right.</p></li>
 </ul>
 <p>To add a refiner, do the following:</p>
 <ol class="arabic simple">
-<li>Set position for the refiner(s).</li>
-<li>Click “Add refiner”.</li>
+<li><p>Set position for the refiner(s).</p></li>
+<li><p>Click “Add refiner”.</p></li>
 </ol>
 <img alt="../../_images/people-rollup-add-refiner-new.png" src="../../_images/people-rollup-add-refiner-new.png" />
 <ol class="arabic simple" start="3">
-<li>Open the list and select a property as refiner.</li>
+<li><p>Open the list and select a property as refiner.</p></li>
 </ol>
 <img alt="../../_images/people-rollup-add-refiner-list-new.png" src="../../_images/people-rollup-add-refiner-list-new.png" />
 <ol class="arabic simple" start="4">
-<li>Select sorting and limit, if needed.</li>
-<li>Click “Add refiner”.</li>
+<li><p>Select sorting and limit, if needed.</p></li>
+<li><p>Click “Add refiner”.</p></li>
 </ol>
 <img alt="../../_images/people-rollup-add-refiner-sort-new.png" src="../../_images/people-rollup-add-refiner-sort-new.png" />
 <ol class="arabic simple" start="6">
-<li>Add additional refiners the same way, if needed.</li>
-<li>If you have added more than one refiner, use “Adjust refiners” to decide the order.</li>
-<li>For additional settings, click Style.</li>
+<li><p>Add additional refiners the same way, if needed.</p></li>
+<li><p>If you have added more than one refiner, use “Adjust refiners” to decide the order.</p></li>
+<li><p>For additional settings, click Style.</p></li>
 </ol>
 <img alt="../../_images/people-rollup-style.png" src="../../_images/people-rollup-style.png" />
 <ul class="simple">
-<li><strong>Elevation</strong>: If you want the refiner area to be elevated, use this slider to set how much.</li>
-<li><strong>Background</strong>: Use this option to add a gray tint to the Refiner area, to make it a little bit darker than the rest of the block. If the background for the block is white the Refiner area is distinctively gray. If the background for the block is black this option makes no difference.</li>
-<li><strong>Border Radius</strong>: Use this slider to set rounded corners for the Refiner area.</li>
+<li><p><strong>Elevation</strong>: If you want the refiner area to be elevated, use this slider to set how much.</p></li>
+<li><p><strong>Background</strong>: Use this option to add a gray tint to the Refiner area, to make it a little bit darker than the rest of the block. If the background for the block is white the Refiner area is distinctively gray. If the background for the block is black this option makes no difference.</p></li>
+<li><p><strong>Border Radius</strong>: Use this slider to set rounded corners for the Refiner area.</p></li>
 </ul>
 <p>Here’s an example of a refiner present at the top. Users can choose to show colleagues from just one of the two departements:</p>
 <img alt="../../_images/people-rollup-example-refiners-new.png" src="../../_images/people-rollup-example-refiners-new.png" />
@@ -357,35 +361,35 @@
 
 
            </div>
-           <div class="articleComments">
-            
-           </div>
+           
           </div>
           <footer>
-  
     <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
-      
-        <a href="../process-blocks/index.html" class="btn btn-neutral float-right" title="Process blocks" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right"></span></a>
-      
-      
-        <a href="../variation-selector/index.html" class="btn btn-neutral" title="Page Variation Selector" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>
-      
+        <a href="../process-blocks/index.html" class="btn btn-neutral float-right" title="Process blocks" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right" aria-hidden="true"></span></a>
+        <a href="../variation-selector/index.html" class="btn btn-neutral float-left" title="Page Variation Selector" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left" aria-hidden="true"></span> Previous</a>
     </div>
-  
 
   <hr/>
 
   <div role="contentinfo">
     <p>
-        &copy; Copyright 2021, Precio Fishbone.
-      Last updated on Aug 17, 2021.
+        &#169; Copyright 2021, Precio Fishbone.
+      <span class="lastupdated">
+        Last updated on Aug 23, 2021.
+      </span>
 
     </p>
   </div>
-  Built with <a href="http://sphinx-doc.org/">Sphinx</a> using a <a href="https://github.com/snide/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>. 
+    
+    
+    
+    Built with <a href="https://www.sphinx-doc.org/">Sphinx</a> using a
+    
+    <a href="https://github.com/readthedocs/sphinx_rtd_theme">theme</a>
+    
+    provided by <a href="https://readthedocs.org">Read the Docs</a>. 
 
 </footer>
-
         </div>
       </div>
 
@@ -394,39 +398,15 @@
   </div>
   
 
-
-  
-
-    <script type="text/javascript">
-        var DOCUMENTATION_OPTIONS = {
-            URL_ROOT:'../../',
-            VERSION:'',
-            COLLAPSE_INDEX:false,
-            FILE_SUFFIX:'.html',
-            HAS_SOURCE:  true,
-            SOURCELINK_SUFFIX: '.txt'
-        };
-    </script>
-      <script type="text/javascript" src="../../_static/jquery.js"></script>
-      <script type="text/javascript" src="../../_static/underscore.js"></script>
-      <script type="text/javascript" src="../../_static/doctools.js"></script>
-      <script type="text/javascript" src="../../_static/helpfulness.js?v=4"></script>
-      <script type="text/javascript" src="../../_static/disqus.js"></script>
-
-  
-
-  
-  
-    <script type="text/javascript" src="../../_static/js/theme.js"></script>
-  
-
-  
-  
   <script type="text/javascript">
       jQuery(function () {
-          SphinxRtdTheme.StickyNav.enable();
+          SphinxRtdTheme.Navigation.enable(true);
       });
   </script>
+
+  
+  
+    
    
 
 </body>

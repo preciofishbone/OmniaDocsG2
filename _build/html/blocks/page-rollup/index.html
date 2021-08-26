@@ -1,63 +1,61 @@
 
 
 <!DOCTYPE html>
-<!--[if IE 8]><html class="no-js lt-ie9" lang="en" > <![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js" lang="en" > <!--<![endif]-->
+<html class="writer-html5" lang="en" >
 <head>
-  <meta charset="utf-8">
+  <meta charset="utf-8" />
   
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   
   <title>Page Rollup &mdash; Omnia  documentation</title>
   
 
   
+  <link rel="stylesheet" href="../../_static/css/theme.css" type="text/css" />
+  <link rel="stylesheet" href="../../_static/pygments.css" type="text/css" />
+  <link rel="stylesheet" href="../../_static/pygments.css" type="text/css" />
+  <link rel="stylesheet" href="../../_static/css/theme.css" type="text/css" />
+  <link rel="stylesheet" href="../../_static/custom.css?v=4" type="text/css" />
+
   
-    <link rel="shortcut icon" href="../../_static/favicon.ico"/>
   
+
   
   
 
   
 
   
+  <!--[if lt IE 9]>
+    <script src="../../_static/js/html5shiv.min.js"></script>
+  <![endif]-->
   
     
+      <script type="text/javascript" id="documentation_options" data-url_root="../../" src="../../_static/documentation_options.js"></script>
+        <script data-url_root="../../" id="documentation_options" src="../../_static/documentation_options.js"></script>
+        <script src="../../_static/jquery.js"></script>
+        <script src="../../_static/underscore.js"></script>
+        <script src="../../_static/doctools.js"></script>
+        <script src="../../_static/helpfulness.js?v=4"></script>
+        <script src="../../_static/disqus.js"></script>
+    
+    <script type="text/javascript" src="../../_static/js/theme.js"></script>
 
-  
-
-  
-  
-    <link rel="stylesheet" href="../../_static/css/theme.css" type="text/css" />
-  
-
-  
-    <link rel="stylesheet" href="../../_static/custom.css?v=4" type="text/css" />
-  
-
-  
-        <link rel="index" title="Index"
-              href="../../genindex.html"/>
-        <link rel="search" title="Search" href="../../search.html"/>
-    <link rel="top" title="Omnia  documentation" href="../../index.html"/>
-        <link rel="up" title="Blocks" href="../index.html"/>
-        <link rel="next" title="Page Variation Selector" href="../variation-selector/index.html"/>
-        <link rel="prev" title="Page Properties" href="../page-properties/index.html"/> 
-
-  
-  <script src="../../_static/js/modernizr.min.js"></script>
-
+    
+    <link rel="index" title="Index" href="../../genindex.html" />
+    <link rel="search" title="Search" href="../../search.html" />
+    <link rel="next" title="Page Variation Selector" href="../variation-selector/index.html" />
+    <link rel="prev" title="Page Properties" href="../page-properties/index.html" /> 
 </head>
 
-<body class="wy-body-for-nav" role="document">
+<body class="wy-body-for-nav">
 
    
   <div class="wy-grid-for-nav">
-
     
     <nav data-toggle="wy-nav-shift" class="wy-nav-side">
       <div class="wy-side-scroll">
-        <div class="wy-side-nav-search">
+        <div class="wy-side-nav-search" >
           
 
           
@@ -84,6 +82,7 @@
           
         </div>
 
+        
         <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
           
             
@@ -94,6 +93,7 @@
               <ul class="current">
 <li class="toctree-l1"><a class="reference internal" href="../../admin-settings/index.html">Admin Settings</a></li>
 <li class="toctree-l1 current"><a class="reference internal" href="../index.html">Blocks</a><ul class="current">
+<li class="toctree-l2"><a class="reference internal" href="../accordion/index.html">Accordion</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../activity-feed/index.html">Activity Feed</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../announcements/index.html">Announcements</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../blocks-event-management/index.html">Blocks for Event Management</a></li>
@@ -162,13 +162,14 @@
             
           
         </div>
+        
       </div>
     </nav>
 
     <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
 
       
-      <nav class="wy-nav-top" role="navigation" aria-label="top navigation">
+      <nav class="wy-nav-top" aria-label="top navigation">
         
           <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
           <a href="../../index.html">Omnia</a>
@@ -176,10 +177,13 @@
       </nav>
 
 
-      
       <div class="wy-nav-content">
+        
         <div class="rst-content">
+        
           
+
+
 
 
 
@@ -199,7 +203,7 @@
 
   <ul class="wy-breadcrumbs">
     
-      <li><a href="../../index.html">Docs</a> &raquo;</li>
+      <li><a href="../../index.html" class="icon icon-home"></a> &raquo;</li>
         
           <li><a href="../index.html">Blocks</a> &raquo;</li>
         
@@ -208,7 +212,7 @@
     
       <li class="wy-breadcrumbs-aside">
         
-            
+          
             <a href="../../_sources/blocks/page-rollup/index.rst.txt" rel="nofollow"> View page source</a>
           
         
@@ -240,16 +244,16 @@
 <p>Here you can set the following:</p>
 <img alt="../../_images/page-rollup-settings-query-new4.png" src="../../_images/page-rollup-settings-query-new4.png" />
 <ul class="simple">
-<li><strong>Pick Pages</strong>: If the editor should be able to pick pages from a list, select this option.</li>
-<li><strong>Pick in Write Mode</strong>: Available when Pick Pages is selected. Select this option if editors should be able to pick pages in Write mode. If not selected, Design mode has to be used.</li>
-<li><strong>ADD PAGE</strong>: When you have selected Pick Pages, you can pick some pages to always be shown. Click this option and use the Page Picker. See this page for more information: <a class="reference internal" href="../../general-assets/page-picker/index.html"><span class="doc">Page Picker</span></a></li>
-<li><strong>Use Query Builder</strong>: If you want to use the query builder to set which pages should be available here, select this option.</li>
-<li><strong>Scope</strong>: When you have chosen to use the Query Builder, select scope for the block; Publishing Apps or Page Collections. Then open the list below and select Publishing Apps/Page Collections. In Omnia 6.5 a third scope will be available: Navigation path. Use it to select a node to get the pages from. When you have selected start node you can choose navigation depth. There also a new view for this; Navigation view, available under Display.</li>
-<li><strong>Exclude current page</strong>: Available when you have chosen scope for the Query Builder. The default setting is to exclude the current page, but if you, for some reason, would like to include the current page, uncheck this option.</li>
-<li><strong>Trim duplicates</strong>: Available for the Query Builder. If more than one Page Rollup block is added to a page, this option can be used to handle duplicates between the blocks. When the option is selected, you can enter a number indicating the priority for duplicates, for this block. If you set “1” for a block it means this block has priority showing a post that would have been a duplicate.</li>
-<li><strong>Query Item Limit</strong>: Available for the Query Builder. Use the slider, or type the number (1-99) to set the number of pages that should be retrieved to make sure all duplicates are found. You should not set this number higher than you really need, as higher numbers may have an impact on performance. Note that when you change the number, “Max Display Limit” is also changed, see below.</li>
-<li><strong>Page Size</strong>: Available for Query Builder. Use the slider, or type the number (1-99) to set the number of items (pages) that should be displayed on each “page” of the list. Also see under <em>Display</em> below for additional settings for the list.</li>
-<li><strong>Cache on client</strong>: This setting can be used to speed up rendering on subsequent page loads. This is is done by storing data in the browser cache. Default: selected.</li>
+<li><p><strong>Pick Pages</strong>: If the editor should be able to pick pages from a list, select this option.</p></li>
+<li><p><strong>Pick in Write Mode</strong>: Available when Pick Pages is selected. Select this option if editors should be able to pick pages in Write mode. If not selected, Design mode has to be used.</p></li>
+<li><p><strong>ADD PAGE</strong>: When you have selected Pick Pages, you can pick some pages to always be shown. Click this option and use the Page Picker. See this page for more information: <a class="reference internal" href="../../general-assets/page-picker/index.html"><span class="doc">Page Picker</span></a></p></li>
+<li><p><strong>Use Query Builder</strong>: If you want to use the query builder to set which pages should be available here, select this option.</p></li>
+<li><p><strong>Scope</strong>: When you have chosen to use the Query Builder, select scope for the block; Publishing Apps or Page Collections. Then open the list below and select Publishing Apps/Page Collections. In Omnia 6.5 a third scope will be available: Navigation path. Use it to select a node to get the pages from. When you have selected start node you can choose navigation depth. There also a new view for this; Navigation view, available under Display.</p></li>
+<li><p><strong>Exclude current page</strong>: Available when you have chosen scope for the Query Builder. The default setting is to exclude the current page, but if you, for some reason, would like to include the current page, uncheck this option.</p></li>
+<li><p><strong>Trim duplicates</strong>: Available for the Query Builder. If more than one Page Rollup block is added to a page, this option can be used to handle duplicates between the blocks. When the option is selected, you can enter a number indicating the priority for duplicates, for this block. If you set “1” for a block it means this block has priority showing a post that would have been a duplicate.</p></li>
+<li><p><strong>Query Item Limit</strong>: Available for the Query Builder. Use the slider, or type the number (1-99) to set the number of pages that should be retrieved to make sure all duplicates are found. You should not set this number higher than you really need, as higher numbers may have an impact on performance. Note that when you change the number, “Max Display Limit” is also changed, see below.</p></li>
+<li><p><strong>Page Size</strong>: Available for Query Builder. Use the slider, or type the number (1-99) to set the number of items (pages) that should be displayed on each “page” of the list. Also see under <em>Display</em> below for additional settings for the list.</p></li>
+<li><p><strong>Cache on client</strong>: This setting can be used to speed up rendering on subsequent page loads. This is is done by storing data in the browser cache. Default: selected.</p></li>
 </ul>
 <p>When you have selected “Publishing Apps” or “Page Collections” as Scope, use the list to add one or more:</p>
 <img alt="../../_images/page-rollup-query-list-new2.png" src="../../_images/page-rollup-query-list-new2.png" />
@@ -270,46 +274,46 @@
 <img alt="../../_images/page-rollup-settings-display-new.png" src="../../_images/page-rollup-settings-display-new.png" />
 <p>The following lists all available display settings, shown in different order for different displays, here listed in alphabetical order.</p>
 <ul class="simple">
-<li><strong>Autoplay</strong>: If the roller should roll automatically, select this option. Available for “Dynamic Roller” only.</li>
-<li><strong>Cards per Row</strong>: Available for Card only. As it says, set the number of cards to show per row.</li>
-<li><strong>Contact</strong>: Select the property to be displayed as Contact. Available for Newsletter only.</li>
-<li><strong>Content</strong>: Select the property that contains the page content for the item to display. Available for Newsletter only.</li>
-<li><strong>Content Image</strong>: Select image to display, if any. Available for dialog display only.</li>
-<li><strong>Create button for page collection</strong>: When you have selected “Show create button”, this optipon is shown. Use it to select in which page collection the new page will be created.</li>
-<li><strong>Date</strong>: Select the property that contains the date for the item(s) to display.</li>
-<li><strong>Delay between slides</strong>: Set the time between slides in milli seconds.</li>
-<li><strong>Hide block when no data</strong>: Select this option if the block should be hidden when there’s nothing to display.</li>
-<li><strong>Hide if read</strong>: Select this option to hide all pages the logged in user has visited. This affects all pages, including news.</li>
-<li><strong>Image</strong>: Select the property that contains the image for the item(s) to display.</li>
-<li><strong>Image Ratio</strong>: Select ratio for the image; Landscape, Square or Wide.</li>
-<li><strong>Image x and y</strong>: Select the image format here. Available for “Single Item” only.</li>
-<li><strong>Max Display Limit</strong>: To limit the number of items being displayed, add a fixed number here. Note that if combined with “No paging”, the number of items you enter here are the only items users can access from the list. Also note that if you change this value, the “Query Item Limit” is also changed, see above.</li>
-<li><strong>Link label</strong>: Add the text to be shown for the link here. Available only if “Show link” is selected.</li>
-<li><strong>Link url</strong>: Add the url to open when a user clicks the link. Available only if “Show link” is selected.</li>
-<li><strong>Loop</strong>: Available for Dynamic Roller. Normally a roller stops when the last post is reached (and can restart after a short while). When this option is selected, there is no “end” and the roller just keeps rolling. Important note: When Loop is selected the arrows users can use to roll “manually” are not shown.</li>
-<li><strong>No result text</strong>: Enter the text that will be shown if no page can be displayed.</li>
-<li><strong>Number of slides to display</strong>: Select number of slides, 1-12. Available for “Dynamic Roller” only.</li>
-<li><strong>Open link in new tab</strong>: If the link should be opened in a new tab (as opposed to in current window or dialog), select this option. Available only if “Show link” is selected.</li>
-<li><strong>Open page as a dialog</strong>: If the page should be opened in a dialog instead for in a page (new or current), select this option.</li>
-<li><strong>Overlay</strong>: If an overlay text should be shown on the image(s), add the text here. Available for “Roller” only.</li>
-<li><strong>Padding</strong>: Add some padding between the list and the block border, if needed.</li>
-<li><strong>Page Content Character Limit</strong>: If the number of characters displayed for Page Content should be limited, add the number here. The Content is simply jus cut after that. Available for Newsletter only.</li>
-<li><strong>Page Summary Character Limit</strong>: If the number of characters displayed for Page Summary should be limited, add the number here. The Summary is simply jus cut after that. Available for Newsletter only.</li>
-<li><strong>Paging</strong>: Select paging here; “No paging”, “Classic” or “Scroll”.</li>
-<li><strong>Person</strong>: New option to come in Omnia 6.5. Can be used to show properties in Card view.</li>
-<li><strong>Show create button</strong>: To make it possible for editors to create a new page from here, select this option to add a button to the block heading, and type the name for the button.</li>
-<li><strong>Show Default image</strong>: If there is no image available for a page, a placeholder image can be used. If that image should be used, select this option.</li>
-<li><strong>Show Likes/Comments</strong>: If the number of likes and comments should be displayed for the item, select this option.</li>
-<li><strong>Show link</strong>: You can add a link button at the bottom of the list. The first page collection is default, but you can link to any target.</li>
-<li><strong>Show Navigation</strong>: If navigation icons for the users to use for rolling should be shown, select this option. Available for “Dynamic Roller” only.</li>
-<li><strong>Show Paging</strong>: Available for “Dynamic Roller” only. Small icons shown that users can use to page back and fort. See image below for an example.</li>
-<li><strong>Show Rating</strong>: If the rating for the page(s) displayed should be shown, select this option. Available for “Listing With Image” only.</li>
-<li><strong>Slider Type</strong>: Select Horisontal slider or Vertical slider. Available for “Dynamic Roller” only.</li>
-<li><strong>Slider Size</strong>: Select the size of the slider here: Small, Medium, Large or Extra large. Available for “Dynamic Roller” only.</li>
-<li><strong>Sort by</strong>: Choose what the list should be sorted by, and then select ascending or descending.</li>
-<li><strong>Summary</strong>: Select the property that contains the page summary for the item to display.</li>
-<li><strong>Term properties</strong>: New option in Omnia 6.5. Can be used to show properties in Card view.</li>
-<li><strong>Title</strong>: If a title should be shown for the block, add it in this field. If no variation exists for the page, you can set the title in the languages active in the tenant. If variations exists, only one title can be set. In that case, titles in other languages are set in the variations.</li>
+<li><p><strong>Autoplay</strong>: If the roller should roll automatically, select this option. Available for “Dynamic Roller” only.</p></li>
+<li><p><strong>Cards per Row</strong>: Available for Card only. As it says, set the number of cards to show per row.</p></li>
+<li><p><strong>Contact</strong>: Select the property to be displayed as Contact. Available for Newsletter only.</p></li>
+<li><p><strong>Content</strong>: Select the property that contains the page content for the item to display. Available for Newsletter only.</p></li>
+<li><p><strong>Content Image</strong>: Select image to display, if any. Available for dialog display only.</p></li>
+<li><p><strong>Create button for page collection</strong>: When you have selected “Show create button”, this optipon is shown. Use it to select in which page collection the new page will be created.</p></li>
+<li><p><strong>Date</strong>: Select the property that contains the date for the item(s) to display.</p></li>
+<li><p><strong>Delay between slides</strong>: Set the time between slides in milli seconds.</p></li>
+<li><p><strong>Hide block when no data</strong>: Select this option if the block should be hidden when there’s nothing to display.</p></li>
+<li><p><strong>Hide if read</strong>: Select this option to hide all pages the logged in user has visited. This affects all pages, including news.</p></li>
+<li><p><strong>Image</strong>: Select the property that contains the image for the item(s) to display.</p></li>
+<li><p><strong>Image Ratio</strong>: Select ratio for the image; Landscape, Square or Wide.</p></li>
+<li><p><strong>Image x and y</strong>: Select the image format here. Available for “Single Item” only.</p></li>
+<li><p><strong>Max Display Limit</strong>: To limit the number of items being displayed, add a fixed number here. Note that if combined with “No paging”, the number of items you enter here are the only items users can access from the list. Also note that if you change this value, the “Query Item Limit” is also changed, see above.</p></li>
+<li><p><strong>Link label</strong>: Add the text to be shown for the link here. Available only if “Show link” is selected.</p></li>
+<li><p><strong>Link url</strong>: Add the url to open when a user clicks the link. Available only if “Show link” is selected.</p></li>
+<li><p><strong>Loop</strong>: Available for Dynamic Roller. Normally a roller stops when the last post is reached (and can restart after a short while). When this option is selected, there is no “end” and the roller just keeps rolling. Important note: When Loop is selected the arrows users can use to roll “manually” are not shown.</p></li>
+<li><p><strong>No result text</strong>: Enter the text that will be shown if no page can be displayed.</p></li>
+<li><p><strong>Number of slides to display</strong>: Select number of slides, 1-12. Available for “Dynamic Roller” only.</p></li>
+<li><p><strong>Open link in new tab</strong>: If the link should be opened in a new tab (as opposed to in current window or dialog), select this option. Available only if “Show link” is selected.</p></li>
+<li><p><strong>Open page as a dialog</strong>: If the page should be opened in a dialog instead for in a page (new or current), select this option.</p></li>
+<li><p><strong>Overlay</strong>: If an overlay text should be shown on the image(s), add the text here. Available for “Roller” only.</p></li>
+<li><p><strong>Padding</strong>: Add some padding between the list and the block border, if needed.</p></li>
+<li><p><strong>Page Content Character Limit</strong>: If the number of characters displayed for Page Content should be limited, add the number here. The Content is simply jus cut after that. Available for Newsletter only.</p></li>
+<li><p><strong>Page Summary Character Limit</strong>: If the number of characters displayed for Page Summary should be limited, add the number here. The Summary is simply jus cut after that. Available for Newsletter only.</p></li>
+<li><p><strong>Paging</strong>: Select paging here; “No paging”, “Classic” or “Scroll”.</p></li>
+<li><p><strong>Person</strong>: New option to come in Omnia 6.5. Can be used to show properties in Card view.</p></li>
+<li><p><strong>Show create button</strong>: To make it possible for editors to create a new page from here, select this option to add a button to the block heading, and type the name for the button.</p></li>
+<li><p><strong>Show Default image</strong>: If there is no image available for a page, a placeholder image can be used. If that image should be used, select this option.</p></li>
+<li><p><strong>Show Likes/Comments</strong>: If the number of likes and comments should be displayed for the item, select this option.</p></li>
+<li><p><strong>Show link</strong>: You can add a link button at the bottom of the list. The first page collection is default, but you can link to any target.</p></li>
+<li><p><strong>Show Navigation</strong>: If navigation icons for the users to use for rolling should be shown, select this option. Available for “Dynamic Roller” only.</p></li>
+<li><p><strong>Show Paging</strong>: Available for “Dynamic Roller” only. Small icons shown that users can use to page back and fort. See image below for an example.</p></li>
+<li><p><strong>Show Rating</strong>: If the rating for the page(s) displayed should be shown, select this option. Available for “Listing With Image” only.</p></li>
+<li><p><strong>Slider Type</strong>: Select Horisontal slider or Vertical slider. Available for “Dynamic Roller” only.</p></li>
+<li><p><strong>Slider Size</strong>: Select the size of the slider here: Small, Medium, Large or Extra large. Available for “Dynamic Roller” only.</p></li>
+<li><p><strong>Sort by</strong>: Choose what the list should be sorted by, and then select ascending or descending.</p></li>
+<li><p><strong>Summary</strong>: Select the property that contains the page summary for the item to display.</p></li>
+<li><p><strong>Term properties</strong>: New option in Omnia 6.5. Can be used to show properties in Card view.</p></li>
+<li><p><strong>Title</strong>: If a title should be shown for the block, add it in this field. If no variation exists for the page, you can set the title in the languages active in the tenant. If variations exists, only one title can be set. In that case, titles in other languages are set in the variations.</p></li>
 </ul>
 <p><strong>Note!</strong> For “List View” and “Event List”, you also have to add at least one column, for the display to work. Here’s an example with three columns added for List View:</p>
 <img alt="../../_images/list-view-columns-new3.png" src="../../_images/list-view-columns-new3.png" />
@@ -354,14 +358,14 @@
 <p>(The “Create News Article” button is shown only for those that has the permission to create News.)</p>
 <p>The Page Rollup can be set up the following way:</p>
 <ul class="simple">
-<li>Query: Scope - Page Collections, News (the Page Collection with the name “News”).</li>
-<li>The option “Exclude current page” can be a good idea to have selected.</li>
-<li>The option “Enable partial word search” is also useful in this case.</li>
-<li>Social Period: All default.</li>
+<li><p>Query: Scope - Page Collections, News (the Page Collection with the name “News”).</p></li>
+<li><p>The option “Exclude current page” can be a good idea to have selected.</p></li>
+<li><p>The option “Enable partial word search” is also useful in this case.</p></li>
+<li><p>Social Period: All default.</p></li>
 </ul>
 <img alt="../../_images/news-archive-example-1new.png" src="../../_images/news-archive-example-1new.png" />
 <ul class="simple">
-<li>Display: Depends on how you want it to look. In the above example, these settings are used:</li>
+<li><p>Display: Depends on how you want it to look. In the above example, these settings are used:</p></li>
 </ul>
 <img alt="../../_images/news-archive-example-1new-display.png" src="../../_images/news-archive-example-1new-display.png" />
 <p>and these:</p>
@@ -370,11 +374,11 @@
 <img alt="../../_images/news-archive-example-3new.png" src="../../_images/news-archive-example-3new.png" />
 <p>Note the “Show create button” option, the label for that button and the option to set in which Page Collection these pages are created (in this case “News”, the Page Collection selected under “Query”).</p>
 <ul class="simple">
-<li>Filters: A search box is always a good idea in a News Center. The users should most likely also be able to filter the list on one or more properties, for example:</li>
+<li><p>Filters: A search box is always a good idea in a News Center. The users should most likely also be able to filter the list on one or more properties, for example:</p></li>
 </ul>
 <img alt="../../_images/news-archive-filters-new.png" src="../../_images/news-archive-filters-new.png" />
 <ul class="simple">
-<li>Page Variations: None. (If Page variations will be used, for example for different languages, it will be used on the pages. Or a separate News Center could be set up for News in other languages, or for any other purpose, for that matter.)</li>
+<li><p>Page Variations: None. (If Page variations will be used, for example for different languages, it will be used on the pages. Or a separate News Center could be set up for News in other languages, or for any other purpose, for that matter.)</p></li>
 </ul>
 </div>
 <div class="section" id="latest-news">
@@ -384,18 +388,18 @@
 <img alt="../../_images/page-rollup-latest-news-example-new.png" src="../../_images/page-rollup-latest-news-example-new.png" />
 <p>For this purpose the Page Rollup block can be set up like this:</p>
 <ul class="simple">
-<li>Query: Scope - Page Collections, News.</li>
-<li>The option “Exclude current page” can be a good idea to have selected.</li>
-<li>The option “Enable partial word search” is also useful in this case.</li>
-<li>Social Period: All default.</li>
-<li>Display: Depends on how you want it to look, of course. In the above example, these settings are used:</li>
+<li><p>Query: Scope - Page Collections, News.</p></li>
+<li><p>The option “Exclude current page” can be a good idea to have selected.</p></li>
+<li><p>The option “Enable partial word search” is also useful in this case.</p></li>
+<li><p>Social Period: All default.</p></li>
+<li><p>Display: Depends on how you want it to look, of course. In the above example, these settings are used:</p></li>
 </ul>
 <img alt="../../_images/latest-news-example-1new.png" src="../../_images/latest-news-example-1new.png" />
 <p>and these:</p>
 <img alt="../../_images/latest-news-example-2new.png" src="../../_images/latest-news-example-2new.png" />
 <ul class="simple">
-<li>Filters: none.</li>
-<li>Page Variations: Default Variations.</li>
+<li><p>Filters: none.</p></li>
+<li><p>Page Variations: Default Variations.</p></li>
 </ul>
 </div>
 <div class="section" id="most-commented-news">
@@ -405,17 +409,17 @@
 <img alt="../../_images/page-rollup-example-most-commented-news.png" src="../../_images/page-rollup-example-most-commented-news.png" />
 <p>For this purpose the Page Rollup block can be set up like this:</p>
 <ul class="simple">
-<li>Query: Scope - Page Collections, News.</li>
-<li>If this block is placed in the Page Type for News, “Exclude current page” can be a good idea to have selected.</li>
-<li>Social Period - Comment: If you don’t want old comments to affect the list, select a social period.</li>
-<li>Display: Depends on how you want it to look. In the above example, these settings are used:</li>
+<li><p>Query: Scope - Page Collections, News.</p></li>
+<li><p>If this block is placed in the Page Type for News, “Exclude current page” can be a good idea to have selected.</p></li>
+<li><p>Social Period - Comment: If you don’t want old comments to affect the list, select a social period.</p></li>
+<li><p>Display: Depends on how you want it to look. In the above example, these settings are used:</p></li>
 </ul>
 <img alt="../../_images/most-commented-example-1new.png" src="../../_images/most-commented-example-1new.png" />
 <p>and these:</p>
 <img alt="../../_images/most-commented-example-2-new.png" src="../../_images/most-commented-example-2-new.png" />
 <ul class="simple">
-<li>Filters: none.</li>
-<li>Page Variations: User variation.</li>
+<li><p>Filters: none.</p></li>
+<li><p>Page Variations: User variation.</p></li>
 </ul>
 </div>
 <div class="section" id="most-liked-news">
@@ -425,17 +429,17 @@
 <img alt="../../_images/page-rollup-most-liked-news-example.png" src="../../_images/page-rollup-most-liked-news-example.png" />
 <p>For this purpose the Page Rollup block can be set up like this:</p>
 <ul class="simple">
-<li>Query: Scope - Page Collections, News.</li>
-<li>If this block is placed in the Page Type for News, “Exclude current page” can be a good idea to have selected.</li>
-<li>Social Period - Like: If you don’t want old likes to affect the list, select a social period.</li>
-<li>Display: Depends on how you want it to look. In the above example, these settings are used:</li>
+<li><p>Query: Scope - Page Collections, News.</p></li>
+<li><p>If this block is placed in the Page Type for News, “Exclude current page” can be a good idea to have selected.</p></li>
+<li><p>Social Period - Like: If you don’t want old likes to affect the list, select a social period.</p></li>
+<li><p>Display: Depends on how you want it to look. In the above example, these settings are used:</p></li>
 </ul>
 <img alt="../../_images/most-liked-example-1new.png" src="../../_images/most-liked-example-1new.png" />
 <p>and these:</p>
 <img alt="../../_images/most-liked-example-2new.png" src="../../_images/most-liked-example-2new.png" />
 <ul class="simple">
-<li>Filters: none.</li>
-<li>Page Variations: User variation.</li>
+<li><p>Filters: none.</p></li>
+<li><p>Page Variations: User variation.</p></li>
 </ul>
 </div>
 <div class="section" id="news-dynamic-roller">
@@ -444,10 +448,10 @@
 <img alt="../../_images/dynamic-roller-example-new.png" src="../../_images/dynamic-roller-example-new.png" />
 <p>In this example the Page Rollup block is set up this way:</p>
 <ul class="simple">
-<li>Query: Scope - Page Collections, News.</li>
-<li>If this block is placed in the Page Type for News, “Exclude current page” can be a good idea to have selected.</li>
-<li>Social Period - Like: If you don’t want old likes to affect the list, select a social period.</li>
-<li>Display: Depends on how you want it to look. In the above example, these settings are used:</li>
+<li><p>Query: Scope - Page Collections, News.</p></li>
+<li><p>If this block is placed in the Page Type for News, “Exclude current page” can be a good idea to have selected.</p></li>
+<li><p>Social Period - Like: If you don’t want old likes to affect the list, select a social period.</p></li>
+<li><p>Display: Depends on how you want it to look. In the above example, these settings are used:</p></li>
 </ul>
 <img alt="../../_images/dynamic-roller-example-1new.png" src="../../_images/dynamic-roller-example-1new.png" />
 <p>and these:</p>
@@ -456,8 +460,8 @@
 <img alt="../../_images/dynamic-roller-example-3new.png" src="../../_images/dynamic-roller-example-3new.png" />
 <p>(Padding is set to 0, not shown in the image above.)</p>
 <ul class="simple">
-<li>Filters: none.</li>
-<li>Page Variations: User variation.</li>
+<li><p>Filters: none.</p></li>
+<li><p>Page Variations: User variation.</p></li>
 </ul>
 </div>
 </div>
@@ -465,35 +469,35 @@
 
 
            </div>
-           <div class="articleComments">
-            
-           </div>
+           
           </div>
           <footer>
-  
     <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
-      
-        <a href="../variation-selector/index.html" class="btn btn-neutral float-right" title="Page Variation Selector" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right"></span></a>
-      
-      
-        <a href="../page-properties/index.html" class="btn btn-neutral" title="Page Properties" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>
-      
+        <a href="../variation-selector/index.html" class="btn btn-neutral float-right" title="Page Variation Selector" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right" aria-hidden="true"></span></a>
+        <a href="../page-properties/index.html" class="btn btn-neutral float-left" title="Page Properties" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left" aria-hidden="true"></span> Previous</a>
     </div>
-  
 
   <hr/>
 
   <div role="contentinfo">
     <p>
-        &copy; Copyright 2021, Precio Fishbone.
-      Last updated on Aug 17, 2021.
+        &#169; Copyright 2021, Precio Fishbone.
+      <span class="lastupdated">
+        Last updated on Aug 23, 2021.
+      </span>
 
     </p>
   </div>
-  Built with <a href="http://sphinx-doc.org/">Sphinx</a> using a <a href="https://github.com/snide/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>. 
+    
+    
+    
+    Built with <a href="https://www.sphinx-doc.org/">Sphinx</a> using a
+    
+    <a href="https://github.com/readthedocs/sphinx_rtd_theme">theme</a>
+    
+    provided by <a href="https://readthedocs.org">Read the Docs</a>. 
 
 </footer>
-
         </div>
       </div>
 
@@ -502,39 +506,15 @@
   </div>
   
 
-
-  
-
-    <script type="text/javascript">
-        var DOCUMENTATION_OPTIONS = {
-            URL_ROOT:'../../',
-            VERSION:'',
-            COLLAPSE_INDEX:false,
-            FILE_SUFFIX:'.html',
-            HAS_SOURCE:  true,
-            SOURCELINK_SUFFIX: '.txt'
-        };
-    </script>
-      <script type="text/javascript" src="../../_static/jquery.js"></script>
-      <script type="text/javascript" src="../../_static/underscore.js"></script>
-      <script type="text/javascript" src="../../_static/doctools.js"></script>
-      <script type="text/javascript" src="../../_static/helpfulness.js?v=4"></script>
-      <script type="text/javascript" src="../../_static/disqus.js"></script>
-
-  
-
-  
-  
-    <script type="text/javascript" src="../../_static/js/theme.js"></script>
-  
-
-  
-  
   <script type="text/javascript">
       jQuery(function () {
-          SphinxRtdTheme.StickyNav.enable();
+          SphinxRtdTheme.Navigation.enable(true);
       });
   </script>
+
+  
+  
+    
    
 
 </body>

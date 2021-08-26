@@ -1,63 +1,61 @@
 
 
 <!DOCTYPE html>
-<!--[if IE 8]><html class="no-js lt-ie9" lang="en" > <![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js" lang="en" > <!--<![endif]-->
+<html class="writer-html5" lang="en" >
 <head>
-  <meta charset="utf-8">
+  <meta charset="utf-8" />
   
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   
   <title>Azure AD Synchronization settings &mdash; Omnia  documentation</title>
   
 
   
+  <link rel="stylesheet" href="../../../../_static/css/theme.css" type="text/css" />
+  <link rel="stylesheet" href="../../../../_static/pygments.css" type="text/css" />
+  <link rel="stylesheet" href="../../../../_static/pygments.css" type="text/css" />
+  <link rel="stylesheet" href="../../../../_static/css/theme.css" type="text/css" />
+  <link rel="stylesheet" href="../../../../_static/custom.css?v=4" type="text/css" />
+
   
-    <link rel="shortcut icon" href="../../../../_static/favicon.ico"/>
   
+
   
   
 
   
 
   
+  <!--[if lt IE 9]>
+    <script src="../../../../_static/js/html5shiv.min.js"></script>
+  <![endif]-->
   
     
+      <script type="text/javascript" id="documentation_options" data-url_root="../../../../" src="../../../../_static/documentation_options.js"></script>
+        <script data-url_root="../../../../" id="documentation_options" src="../../../../_static/documentation_options.js"></script>
+        <script src="../../../../_static/jquery.js"></script>
+        <script src="../../../../_static/underscore.js"></script>
+        <script src="../../../../_static/doctools.js"></script>
+        <script src="../../../../_static/helpfulness.js?v=4"></script>
+        <script src="../../../../_static/disqus.js"></script>
+    
+    <script type="text/javascript" src="../../../../_static/js/theme.js"></script>
 
-  
-
-  
-  
-    <link rel="stylesheet" href="../../../../_static/css/theme.css" type="text/css" />
-  
-
-  
-    <link rel="stylesheet" href="../../../../_static/custom.css?v=4" type="text/css" />
-  
-
-  
-        <link rel="index" title="Index"
-              href="../../../../genindex.html"/>
-        <link rel="search" title="Search" href="../../../../search.html"/>
-    <link rel="top" title="Omnia  documentation" href="../../../../index.html"/>
-        <link rel="up" title="System" href="../index.html"/>
-        <link rel="next" title="Custom Email Service" href="../custom-email/index.html"/>
-        <link rel="prev" title="Authentification" href="../authentication/index.html"/> 
-
-  
-  <script src="../../../../_static/js/modernizr.min.js"></script>
-
+    
+    <link rel="index" title="Index" href="../../../../genindex.html" />
+    <link rel="search" title="Search" href="../../../../search.html" />
+    <link rel="next" title="Custom Email Service" href="../custom-email/index.html" />
+    <link rel="prev" title="Authentification" href="../authentication/index.html" /> 
 </head>
 
-<body class="wy-body-for-nav" role="document">
+<body class="wy-body-for-nav">
 
    
   <div class="wy-grid-for-nav">
-
     
     <nav data-toggle="wy-nav-shift" class="wy-nav-side">
       <div class="wy-side-scroll">
-        <div class="wy-side-nav-search">
+        <div class="wy-side-nav-search" >
           
 
           
@@ -84,6 +82,7 @@
           
         </div>
 
+        
         <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
           
             
@@ -148,13 +147,14 @@
             
           
         </div>
+        
       </div>
     </nav>
 
     <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
 
       
-      <nav class="wy-nav-top" role="navigation" aria-label="top navigation">
+      <nav class="wy-nav-top" aria-label="top navigation">
         
           <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
           <a href="../../../../index.html">Omnia</a>
@@ -162,10 +162,13 @@
       </nav>
 
 
-      
       <div class="wy-nav-content">
+        
         <div class="rst-content">
+        
           
+
+
 
 
 
@@ -185,7 +188,7 @@
 
   <ul class="wy-breadcrumbs">
     
-      <li><a href="../../../../index.html">Docs</a> &raquo;</li>
+      <li><a href="../../../../index.html" class="icon icon-home"></a> &raquo;</li>
         
           <li><a href="../../../index.html">Admin Settings</a> &raquo;</li>
         
@@ -198,7 +201,7 @@
     
       <li class="wy-breadcrumbs-aside">
         
-            
+          
             <a href="../../../../_sources/admin-settings/tenant-settings/system/azure-ad-sync/index.rst.txt" rel="nofollow"> View page source</a>
           
         
@@ -220,15 +223,15 @@
 <p>This is what’s available:</p>
 <img alt="../../../../_images/azure-ad-overview-new2.png" src="../../../../_images/azure-ad-overview-new2.png" />
 <ul class="simple">
-<li><strong>Test</strong>: This is an option suitable for administrators to test synchronization for a limited number af users. Setup the sync to test as described below.</li>
-<li><strong>SYNCHRONIZE NOW</strong>: Click this button to execute the syncrhonizations set up (listed at the bottom). If you select “Enable Azure AD Synchronization” and set and interval, you don’t have to click this button. The synchronization is then executed with the interval set.</li>
-<li><strong>EVENTS</strong>: Click this button to access logs from the synchronizations.</li>
-<li><strong>Enable Azure AD Synchronization</strong>: Select this option to enable the synchronization.</li>
-<li><strong>Enable Sharepoint App-Only</strong>: Due to ongoing changes by Microsoft, Azure AD Sync may stop working. If that happens you have to setup Sharepoint App-Only for Azure AD Sync. Click the link “Config instruction” and follow that instruction. When you’re done, select this option.</li>
-<li><strong>Log Detail</strong>: Use this if you have problems with the synchronization. In the details you will hopefully find out what’s wrong.</li>
-<li><strong>Batch Execute</strong>: This is an advanced option if you have a very long list of users - several hundreds and above. Contact you provider/consultant for help when using this.</li>
-<li><strong>Batch Number</strong>: When you have selcected “Batch Execute” you use this field to set the number of users that should be synchronized each time.</li>
-<li><strong>Delete log after number of days</strong>: Set the number of days the log file will be available. Default: 14 days.</li>
+<li><p><strong>Test</strong>: This is an option suitable for administrators to test synchronization for a limited number af users. Setup the sync to test as described below.</p></li>
+<li><p><strong>SYNCHRONIZE NOW</strong>: Click this button to execute the syncrhonizations set up (listed at the bottom). If you select “Enable Azure AD Synchronization” and set and interval, you don’t have to click this button. The synchronization is then executed with the interval set.</p></li>
+<li><p><strong>EVENTS</strong>: Click this button to access logs from the synchronizations.</p></li>
+<li><p><strong>Enable Azure AD Synchronization</strong>: Select this option to enable the synchronization.</p></li>
+<li><p><strong>Enable Sharepoint App-Only</strong>: Due to ongoing changes by Microsoft, Azure AD Sync may stop working. If that happens you have to setup Sharepoint App-Only for Azure AD Sync. Click the link “Config instruction” and follow that instruction. When you’re done, select this option.</p></li>
+<li><p><strong>Log Detail</strong>: Use this if you have problems with the synchronization. In the details you will hopefully find out what’s wrong.</p></li>
+<li><p><strong>Batch Execute</strong>: This is an advanced option if you have a very long list of users - several hundreds and above. Contact you provider/consultant for help when using this.</p></li>
+<li><p><strong>Batch Number</strong>: When you have selcected “Batch Execute” you use this field to set the number of users that should be synchronized each time.</p></li>
+<li><p><strong>Delete log after number of days</strong>: Set the number of days the log file will be available. Default: 14 days.</p></li>
 </ul>
 <p>At the bottom the synchronizations that has been set up are shown. By clicking the pen you can edit the same settings as when the synchronization was set up (see below).</p>
 <p>To delete a synchronization from the list, click the dust bin.</p>
@@ -237,23 +240,23 @@
 <h2>Setup a new synchronization<a class="headerlink" href="#setup-a-new-synchronization" title="Permalink to this headline">¶</a></h2>
 <p>To set up a new synchronization, do the following:</p>
 <ol class="arabic simple">
-<li>Click the plus.</li>
+<li><p>Click the plus.</p></li>
 </ol>
 <img alt="../../../../_images/synchro-click-plus.png" src="../../../../_images/synchro-click-plus.png" />
 <ol class="arabic simple" start="2">
-<li>Use the following settings:</li>
+<li><p>Use the following settings:</p></li>
 </ol>
 <img alt="../../../../_images/azure-ad-settings.png" src="../../../../_images/azure-ad-settings.png" />
 <ul class="simple">
-<li><strong>Azure AD property</strong>: Open the list and select the AD property to synchronize.</li>
-<li><strong>Sharepoint property</strong>: Type the name of the Sharepoint property to synchronize to.</li>
-<li><strong>Sync when value is empty</strong>: Normally empty fields are not synchronized from the AD. If you want to do that, select this option.</li>
+<li><p><strong>Azure AD property</strong>: Open the list and select the AD property to synchronize.</p></li>
+<li><p><strong>Sharepoint property</strong>: Type the name of the Sharepoint property to synchronize to.</p></li>
+<li><p><strong>Sync when value is empty</strong>: Normally empty fields are not synchronized from the AD. If you want to do that, select this option.</p></li>
 </ul>
 <p>Here’s an example:</p>
 <img alt="../../../../_images/azure-ad-settings-example.png" src="../../../../_images/azure-ad-settings-example.png" />
 <ol class="arabic simple" start="3">
-<li>Save when your finished here.</li>
-<li>Save your changes in the settings window.</li>
+<li><p>Save when your finished here.</p></li>
+<li><p>Save your changes in the settings window.</p></li>
 </ol>
 </div>
 <div class="section" id="events">
@@ -265,35 +268,35 @@
 
 
            </div>
-           <div class="articleComments">
-            
-           </div>
+           
           </div>
           <footer>
-  
     <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
-      
-        <a href="../custom-email/index.html" class="btn btn-neutral float-right" title="Custom Email Service" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right"></span></a>
-      
-      
-        <a href="../authentication/index.html" class="btn btn-neutral" title="Authentification" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>
-      
+        <a href="../custom-email/index.html" class="btn btn-neutral float-right" title="Custom Email Service" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right" aria-hidden="true"></span></a>
+        <a href="../authentication/index.html" class="btn btn-neutral float-left" title="Authentification" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left" aria-hidden="true"></span> Previous</a>
     </div>
-  
 
   <hr/>
 
   <div role="contentinfo">
     <p>
-        &copy; Copyright 2021, Precio Fishbone.
-      Last updated on Aug 17, 2021.
+        &#169; Copyright 2021, Precio Fishbone.
+      <span class="lastupdated">
+        Last updated on Aug 23, 2021.
+      </span>
 
     </p>
   </div>
-  Built with <a href="http://sphinx-doc.org/">Sphinx</a> using a <a href="https://github.com/snide/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>. 
+    
+    
+    
+    Built with <a href="https://www.sphinx-doc.org/">Sphinx</a> using a
+    
+    <a href="https://github.com/readthedocs/sphinx_rtd_theme">theme</a>
+    
+    provided by <a href="https://readthedocs.org">Read the Docs</a>. 
 
 </footer>
-
         </div>
       </div>
 
@@ -302,39 +305,15 @@
   </div>
   
 
-
-  
-
-    <script type="text/javascript">
-        var DOCUMENTATION_OPTIONS = {
-            URL_ROOT:'../../../../',
-            VERSION:'',
-            COLLAPSE_INDEX:false,
-            FILE_SUFFIX:'.html',
-            HAS_SOURCE:  true,
-            SOURCELINK_SUFFIX: '.txt'
-        };
-    </script>
-      <script type="text/javascript" src="../../../../_static/jquery.js"></script>
-      <script type="text/javascript" src="../../../../_static/underscore.js"></script>
-      <script type="text/javascript" src="../../../../_static/doctools.js"></script>
-      <script type="text/javascript" src="../../../../_static/helpfulness.js?v=4"></script>
-      <script type="text/javascript" src="../../../../_static/disqus.js"></script>
-
-  
-
-  
-  
-    <script type="text/javascript" src="../../../../_static/js/theme.js"></script>
-  
-
-  
-  
   <script type="text/javascript">
       jQuery(function () {
-          SphinxRtdTheme.StickyNav.enable();
+          SphinxRtdTheme.Navigation.enable(true);
       });
   </script>
+
+  
+  
+    
    
 
 </body>

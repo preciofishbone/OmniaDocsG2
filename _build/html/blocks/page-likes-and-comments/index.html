@@ -1,63 +1,61 @@
 
 
 <!DOCTYPE html>
-<!--[if IE 8]><html class="no-js lt-ie9" lang="en" > <![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js" lang="en" > <!--<![endif]-->
+<html class="writer-html5" lang="en" >
 <head>
-  <meta charset="utf-8">
+  <meta charset="utf-8" />
   
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   
   <title>Page Likes and Comments &mdash; Omnia  documentation</title>
   
 
   
+  <link rel="stylesheet" href="../../_static/css/theme.css" type="text/css" />
+  <link rel="stylesheet" href="../../_static/pygments.css" type="text/css" />
+  <link rel="stylesheet" href="../../_static/pygments.css" type="text/css" />
+  <link rel="stylesheet" href="../../_static/css/theme.css" type="text/css" />
+  <link rel="stylesheet" href="../../_static/custom.css?v=4" type="text/css" />
+
   
-    <link rel="shortcut icon" href="../../_static/favicon.ico"/>
   
+
   
   
 
   
 
   
+  <!--[if lt IE 9]>
+    <script src="../../_static/js/html5shiv.min.js"></script>
+  <![endif]-->
   
     
+      <script type="text/javascript" id="documentation_options" data-url_root="../../" src="../../_static/documentation_options.js"></script>
+        <script data-url_root="../../" id="documentation_options" src="../../_static/documentation_options.js"></script>
+        <script src="../../_static/jquery.js"></script>
+        <script src="../../_static/underscore.js"></script>
+        <script src="../../_static/doctools.js"></script>
+        <script src="../../_static/helpfulness.js?v=4"></script>
+        <script src="../../_static/disqus.js"></script>
+    
+    <script type="text/javascript" src="../../_static/js/theme.js"></script>
 
-  
-
-  
-  
-    <link rel="stylesheet" href="../../_static/css/theme.css" type="text/css" />
-  
-
-  
-    <link rel="stylesheet" href="../../_static/custom.css?v=4" type="text/css" />
-  
-
-  
-        <link rel="index" title="Index"
-              href="../../genindex.html"/>
-        <link rel="search" title="Search" href="../../search.html"/>
-    <link rel="top" title="Omnia  documentation" href="../../index.html"/>
-        <link rel="up" title="Blocks" href="../index.html"/>
-        <link rel="next" title="Page Properties" href="../page-properties/index.html"/>
-        <link rel="prev" title="Page Feedback" href="../page-feedback/index.html"/> 
-
-  
-  <script src="../../_static/js/modernizr.min.js"></script>
-
+    
+    <link rel="index" title="Index" href="../../genindex.html" />
+    <link rel="search" title="Search" href="../../search.html" />
+    <link rel="next" title="Page Properties" href="../page-properties/index.html" />
+    <link rel="prev" title="Page Feedback" href="../page-feedback/index.html" /> 
 </head>
 
-<body class="wy-body-for-nav" role="document">
+<body class="wy-body-for-nav">
 
    
   <div class="wy-grid-for-nav">
-
     
     <nav data-toggle="wy-nav-shift" class="wy-nav-side">
       <div class="wy-side-scroll">
-        <div class="wy-side-nav-search">
+        <div class="wy-side-nav-search" >
           
 
           
@@ -84,6 +82,7 @@
           
         </div>
 
+        
         <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
           
             
@@ -94,6 +93,7 @@
               <ul class="current">
 <li class="toctree-l1"><a class="reference internal" href="../../admin-settings/index.html">Admin Settings</a></li>
 <li class="toctree-l1 current"><a class="reference internal" href="../index.html">Blocks</a><ul class="current">
+<li class="toctree-l2"><a class="reference internal" href="../accordion/index.html">Accordion</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../activity-feed/index.html">Activity Feed</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../announcements/index.html">Announcements</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../blocks-event-management/index.html">Blocks for Event Management</a></li>
@@ -162,13 +162,14 @@
             
           
         </div>
+        
       </div>
     </nav>
 
     <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
 
       
-      <nav class="wy-nav-top" role="navigation" aria-label="top navigation">
+      <nav class="wy-nav-top" aria-label="top navigation">
         
           <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
           <a href="../../index.html">Omnia</a>
@@ -176,10 +177,13 @@
       </nav>
 
 
-      
       <div class="wy-nav-content">
+        
         <div class="rst-content">
+        
           
+
+
 
 
 
@@ -199,7 +203,7 @@
 
   <ul class="wy-breadcrumbs">
     
-      <li><a href="../../index.html">Docs</a> &raquo;</li>
+      <li><a href="../../index.html" class="icon icon-home"></a> &raquo;</li>
         
           <li><a href="../index.html">Blocks</a> &raquo;</li>
         
@@ -208,7 +212,7 @@
     
       <li class="wy-breadcrumbs-aside">
         
-            
+          
             <a href="../../_sources/blocks/page-likes-and-comments/index.rst.txt" rel="nofollow"> View page source</a>
           
         
@@ -240,9 +244,9 @@
 <p>The following settings are available for the block:</p>
 <img alt="../../_images/comments-and-likes-settings-new4.png" src="../../_images/comments-and-likes-settings-new4.png" />
 <ul class="simple">
-<li><strong>Title</strong>: If a title should be shown for the block, add it in this field. If variations exists for the page, it looks like in the image above. Titles in other languages are set in the variations. If there is  no variations you can set the title in any or all the languages active in the tenant.</li>
-<li><strong>Enable Rich Text</strong>: If you enable Rich Text, some basic formatting will be availble for users.</li>
-<li><strong>Enable mention</strong>: If it should be possible to use mentions in comments on this page or in this page type, select this option. Here’s an example of a mention:</li>
+<li><p><strong>Title</strong>: If a title should be shown for the block, add it in this field. If variations exists for the page, it looks like in the image above. Titles in other languages are set in the variations. If there is  no variations you can set the title in any or all the languages active in the tenant.</p></li>
+<li><p><strong>Enable Rich Text</strong>: If you enable Rich Text, some basic formatting will be availble for users.</p></li>
+<li><p><strong>Enable mention</strong>: If it should be possible to use mentions in comments on this page or in this page type, select this option. Here’s an example of a mention:</p></li>
 </ul>
 <img alt="../../_images/comment-mention-new.png" src="../../_images/comment-mention-new.png" />
 </div>
@@ -268,10 +272,10 @@
 <img alt="../../_images/likes-65-general.png" src="../../_images/likes-65-general.png" />
 <p>Here’s descriptions of the new options:</p>
 <ul class="simple">
-<li><strong>Allow Likes</strong>: If it should be able to like a comment, select this option.</li>
-<li><strong>Allow Share</strong>: If it should be possible to share a comment, select this option - meaning the possibility to send a comment to another user by e-mail.</li>
-<li><strong>Sorting</strong>: Here you choose how to sort the comments; older first or newer first.</li>
-<li><strong>Paging size</strong>: Add a number (1-99) to set the number of items (comments) that should be displayed on each “page” of the list.</li>
+<li><p><strong>Allow Likes</strong>: If it should be able to like a comment, select this option.</p></li>
+<li><p><strong>Allow Share</strong>: If it should be possible to share a comment, select this option - meaning the possibility to send a comment to another user by e-mail.</p></li>
+<li><p><strong>Sorting</strong>: Here you choose how to sort the comments; older first or newer first.</p></li>
+<li><p><strong>Paging size</strong>: Add a number (1-99) to set the number of items (comments) that should be displayed on each “page” of the list.</p></li>
 </ul>
 <p>There will also be a Style tab available in Omnia 6.5:</p>
 <img alt="../../_images/likes-65-style.png" src="../../_images/likes-65-style.png" />
@@ -287,35 +291,35 @@
 
 
            </div>
-           <div class="articleComments">
-            
-           </div>
+           
           </div>
           <footer>
-  
     <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
-      
-        <a href="../page-properties/index.html" class="btn btn-neutral float-right" title="Page Properties" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right"></span></a>
-      
-      
-        <a href="../page-feedback/index.html" class="btn btn-neutral" title="Page Feedback" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>
-      
+        <a href="../page-properties/index.html" class="btn btn-neutral float-right" title="Page Properties" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right" aria-hidden="true"></span></a>
+        <a href="../page-feedback/index.html" class="btn btn-neutral float-left" title="Page Feedback" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left" aria-hidden="true"></span> Previous</a>
     </div>
-  
 
   <hr/>
 
   <div role="contentinfo">
     <p>
-        &copy; Copyright 2021, Precio Fishbone.
-      Last updated on Aug 17, 2021.
+        &#169; Copyright 2021, Precio Fishbone.
+      <span class="lastupdated">
+        Last updated on Aug 23, 2021.
+      </span>
 
     </p>
   </div>
-  Built with <a href="http://sphinx-doc.org/">Sphinx</a> using a <a href="https://github.com/snide/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>. 
+    
+    
+    
+    Built with <a href="https://www.sphinx-doc.org/">Sphinx</a> using a
+    
+    <a href="https://github.com/readthedocs/sphinx_rtd_theme">theme</a>
+    
+    provided by <a href="https://readthedocs.org">Read the Docs</a>. 
 
 </footer>
-
         </div>
       </div>
 
@@ -324,39 +328,15 @@
   </div>
   
 
-
-  
-
-    <script type="text/javascript">
-        var DOCUMENTATION_OPTIONS = {
-            URL_ROOT:'../../',
-            VERSION:'',
-            COLLAPSE_INDEX:false,
-            FILE_SUFFIX:'.html',
-            HAS_SOURCE:  true,
-            SOURCELINK_SUFFIX: '.txt'
-        };
-    </script>
-      <script type="text/javascript" src="../../_static/jquery.js"></script>
-      <script type="text/javascript" src="../../_static/underscore.js"></script>
-      <script type="text/javascript" src="../../_static/doctools.js"></script>
-      <script type="text/javascript" src="../../_static/helpfulness.js?v=4"></script>
-      <script type="text/javascript" src="../../_static/disqus.js"></script>
-
-  
-
-  
-  
-    <script type="text/javascript" src="../../_static/js/theme.js"></script>
-  
-
-  
-  
   <script type="text/javascript">
       jQuery(function () {
-          SphinxRtdTheme.StickyNav.enable();
+          SphinxRtdTheme.Navigation.enable(true);
       });
   </script>
+
+  
+  
+    
    
 
 </body>
