@@ -22,6 +22,8 @@ You can also search the list.
 
 .. image:: team-collaboration-search-new.png
 
+In Omnia 6.5, options for Teamwork will be a bit different. See this page: :doc:`Teamwork in Omnia 6.6 </admin-settings/business-group-settings/team-collaboration/teamwork-65/index>`
+
 Create a Teamwork Site
 ***********************
 To create a Teamwork Site from here, do the following:
