@@ -29,7 +29,7 @@ To edit a template, click the name - to delete, click the dust bin.
 
 Create a new Teamwork template
 *************************************
-To create a new template, do the following:
+When creating a teamplet, a difference compared to 6.0 is taht now yoiu first just create the template, and after that edit setings. To create a new template, do the following:
 
 1. Click the plus.
 
@@ -95,4 +95,4 @@ Custom steps
 ---------------
 If any custom steps has been developed for the creation of communities, you can select them using this option.
 
-.. image:: community-edit-custom-steps.png
+.. image:: teamwork-edit-custom-steps.png
