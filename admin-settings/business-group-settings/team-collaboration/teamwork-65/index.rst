@@ -71,7 +71,7 @@ Under Wizard, the following settings are found:
 
 .. image:: teamwork-65-edit-wizard.png
 
-Start by selecting type of teamwork to be created and then set available settings. For descriptions, see the respective type heading on this page: :doc:`Provisioning templats (6.0) </admin-settings/business-group-settings/provisioning-templates/index>`
+Start by selecting type of teamwork to be created and then set available settings. For descriptions, see the respective type heading on this page: :doc:`Provisioning templates </admin-settings/business-group-settings/provisioning-templates/index>`
 
 Properties
 ------------
@@ -89,7 +89,7 @@ Select the features that should be available for the teamwork (all are not shown
 
 .. image:: teamwork-65-edit-features.png
 
-You can find a detailed description under the heading "Provisioning Template Features on this page: :doc:`Provisioning templats (6.0) </admin-settings/business-group-settings/provisioning-templates/index>`
+You can find a detailed description under the heading "Provisioning Template Features on this page: :doc:`Provisioning templates </admin-settings/business-group-settings/provisioning-templates/index>`
 
 Custom steps
 ---------------
