@@ -13,7 +13,7 @@ Here Teamworks are listed, for example:
 
 .. image:: teamwork-65-apps.png
 
-The functionality for Apps is very similar to Omnia 6.0. The main difference is that the tab Orphaned has been added. It is the same type of functionality as was called Inactive in 6.0:
+The functionality for Apps is very similar to Omnia 6.0. The main difference is that the tab "Orphaned" has been added. It is the same type of functionality as was called "Inactive" in 6.0:
 
 When a site of the type Microsoft 365 Team Site, Sharepoint Team Site or Sharepoint Communication Site is created, a Sharepoint site is created and is connected to the site. A Yammer Group can also need a Sharepoint site, depending on how the Yammer Group is set up.
 
@@ -21,23 +21,23 @@ The connected Sharepoint site may be deleted for some reason, but when that happ
 
 Templates
 **********
-In Omnia 6.5 the option Provisioning templates will be removed. Instead, templates will be administrated under each main option, so here you can work with templates for Teamwork:
+In Omnia 6.5 the option "Provisioning templates" will be removed. Instead, templates will be administered under each main option, so here you can work with templates for Teamwork:
 
 .. image:: teamwork-65-templates.png
 
 To edit a template, click the name - to delete, click the dust bin.
 
-Creating a new Community template
+Create a new Teamwork template
 *************************************
 To create a new template, do the following:
 
 1. Click the plus.
 
-.. image:: community-template-click-plus.png
+.. image:: teamwork-65-template-click-plus.png
 
 Use the following settings:
 
-.. image:: community-template-settings.png
+.. image:: teamwork-65-template-settings.png
 
 + **Title**: Add a Title for the Template. You can add titles in a number of the languages available in the tenant. Default language is mandatory.
 + **Description**: Add a Description if needed. 
@@ -55,39 +55,41 @@ There are a lot of settings you can do for the template when it's created.
 
 The following is shown:
 
-.. image:: community-edit-all.png
+.. image:: teamwork-65-edit-all.png
 
 General
 ----------
 Here you can edit the information you added and the options you selected when creating the template:
 
-.. image:: community-edit-general.png
+.. image:: teamwork-65-edit-general.png
 
 See above for a description.
+
+Wizard
+---------
+Under Wizard, the following settings are found:
+
+.. image:: teamwork-65-edit-wizard.png
+
+Start by selecting type of teamwork to be created and then set available settings. For descriptions, see the respective type heading on this page: :doc:`Provisioning templats (6.0) </admin-settings/business-group-settings/provisioning-templates/index>`
 
 Properties
 ------------
 You can add a property set to the template. 
 
-.. image:: community-edit-properties.png
+.. image:: teamwork-65-edit-properties.png
 
-The properties in the set can or will have to be filled in when a community is created from this template.
+The properties in the set can or will have to be filled in when a teamwork is created from this template.
 
 The property sets are set up using the Tenant settings. See this page for more information: :doc:`Property sets </admin-settings/tenant-settings/properties/property-sets/index>`
 
 Features
 ----------
-Select the features that should be available for the community (all are not shown in the image):
+Select the features that should be available for the teamwork (all are not shown in the image):
 
-.. image:: community-edit-features.png
+.. image:: teamwork-65-edit-features.png
 
-Setup
--------
-Using the options here you can set which parts of a community that should be created when this template is used:
-
-.. image:: community-edit-setup.png
-
-(More information about this will be added soon).
+You can find a detailed description under the heading "Provisioning Template Features on this page: :doc:`Provisioning templats (6.0) </admin-settings/business-group-settings/provisioning-templates/index>`
 
 Custom steps
 ---------------
