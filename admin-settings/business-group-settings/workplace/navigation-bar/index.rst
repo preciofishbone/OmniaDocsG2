@@ -3,7 +3,9 @@ Navigation Bar
 
 This is an ongoing preliminary documentation for functionality to come in Omnia 6.5.
 
-Here you can edit default navigation bar settings for Workplace.
+Here you can edit navigation bar settings for the business profile's workplace. You can add different settings for the default navigation bar and for the navigation bar used in MS Teams. 
+
+When working with the layout, you can use all the sections and blocks that normally are avilable for pages, so the possibilities are almost endless. You can even add different layouts for different screen sizes, if needed, to fit for example both computer and mobile phone.
 
 .. image:: workplace-navigation-bar-new.png
 
