@@ -59,7 +59,7 @@ The following is available:
 .. image:: workplace-navigation-home-settings-shown.png
 
 + **Title**: If you would like show a Home title, add it here, in any or all the Tenant languages. Click the flag to change language.
-+ **Logo Text:: If you would like show a logo text by the Home title, add it here, in any or all the Tenant languages. Click the flag to change language.
++ **Logo Text**: If you would like show a logo text by the Home title, add it here, in any or all the Tenant languages. Click the flag to change language.
 
 Another alternative is to add a logo image. Do it this way:
 
