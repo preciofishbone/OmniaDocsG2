@@ -9,5 +9,5 @@ For Workplace, the following settings are available:
 
 + **Allow mobile login**: This setting is intended to offer login to certain parts of Omnia for first line workers, partners and similar. The user needs the Kaizala app and a viable account.
 + **Business Profile Workplace Designer**: Add and remove Workplace Designers (administrators) here as needed.
-+ **Business Workplace Reader**: (A description will be added soon). 
++ **Business Workplace Reader**: Here you can set permissions for the navigation created in the workplace. 
 
