@@ -41,7 +41,7 @@ Under Search, the following is available:
 
 .. image:: workplace-header-search.png
 
-These are the same as the tenanr settings. See the heading "Search" on this page for more information: :doc:`Header settings in Omnia 6.5 </admin-settings/tenant-settings/settings/header/header-65/index>`
+The available settings are the same as in the tenant settings. See the heading "Search" on this page for more information: :doc:`Header settings in Omnia 6.5 </admin-settings/tenant-settings/settings/header/header-65/index>`
 
 Classic Mega Menu
 *******************
