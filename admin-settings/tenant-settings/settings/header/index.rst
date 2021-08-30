@@ -5,6 +5,8 @@ Here you can change the default settings for the Header in the tenant. Additiona
 
 .. image:: tenant-settings-header.png
 
+In Omnia 6.5 the fill header settings has been moved to the tenant settings. See this page for more information: :doc:`Header settings in Omnia 6.5 </admin-settings/tenant-settings/settings/header/header-65/index>`
+
 General
 *********
 Set Background Color and Text Color here.
