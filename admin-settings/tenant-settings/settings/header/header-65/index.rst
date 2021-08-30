@@ -17,11 +17,7 @@ App Launcher
 ***************
 You can create the feeling that when entering Omnia the user is still in Microsoft 365, by adding the Onnia App Launcher. The Omnia App Launcher is fully configurable. It's placed in the same position as the App Launcher in Microsoft 365. Here you can edit the settings. 
 
-.. image:: omnia-app-launcher-new.png
-
-The following settings are available:
-
-.. image:: app-launcher-settings-overview-new.png
+.. image:: omnia-app-launcher-65.png
 
 + **Enable**: The first step is to decide to use the Omnia App Launcher or not. If it's not enabled, the space is simply empty.
 
