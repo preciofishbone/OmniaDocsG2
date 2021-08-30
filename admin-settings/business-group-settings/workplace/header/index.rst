@@ -3,7 +3,7 @@ Header for Workplace
 
 This is an ongoing preliminary documentation for functionality to come in Omnia 6.5.
 
-Here you can edit default header settings for Workplace.
+Here you can edit header settings for Workplace.
 
 .. image:: workplace-header-new.png
 
@@ -23,7 +23,7 @@ The following can be set here:
 
 + **Inherit from tenant**: I you would like to inherit the app launcher settings from the tenant, instead of using specific settings here, select this option.
 
-If you choose to not inherit the app launcher settings, add settings using the options. You use them the same way as the App Lancher settings for the Business Profile. See the heading "App Launcher" on this page: :doc:`Header settings for the Business Profiler </admin-settings/business-group-settings/settings/header/index>`
+If you choose to not inherit the app launcher settings, add settings using the options. You use them the same way as the App Lancher settings for the tenant. See the heading "App Launcher" on this page: :doc:`Header settings for Omnia 6.5 </admin-settings/tenant-settings/settings/header/header-65/index>`
 
 Logo
 ******
@@ -32,10 +32,8 @@ The Logo settings are these:
 .. image:: workplace-header-app-logo.png
 
 + **Inherit from tenant**: I you would like to inherit the logo settings from the tenant, instead of using specific settings here, select this option.
-+ **Text**: (A description will be added soon.)
-+ **Logo Text**: (A description will be added soon.)
-+ **(Image area)**: To use the Media Picker to select a Logo Image, click the plus. To remove an image, click the x. See this page for information on how to use the Media Picker: :doc:`The Media Picker </general-assets/media-picker/index>`
-+ **Padding**: Use these settings to add som padding around the Logo, if needed.
+
+I you do not choose to inherit settings, set the desirde logo settings here. You use them the same way as the Logo settings for the tenant. See the heading "Logo" on this page: :doc:`Header settings for Omnia 6.5 </admin-settings/tenant-settings/settings/header/header-65/index>`
 
 Search
 **********
@@ -43,7 +41,7 @@ Under Search, the following is available:
 
 .. image:: workplace-header-search.png
 
-(A description will be added soon).
+These are the same as the tenanr settings. See the heading "Search" on this page for more information: :doc:`Header settings for Omnia 6.5 </admin-settings/tenant-settings/settings/header/header-65/index>`
 
 Classic Mega Menu
 *******************
