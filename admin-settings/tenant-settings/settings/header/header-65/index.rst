@@ -1,11 +1,11 @@
-Header settings
-========================
+Header settings in Omnia 6.5
+==============================
 
-Here you can change the default settings for the Header in the tenant. Additional settings, sometimes overriding the Tenant Settings, can be made for each Business Profile. 
+Here you can change the default settings for the Header in the tenant. In the header settings for a workplace for a Business Profile, you can then choose to inherit those settings or create specific settings. 
 
-.. image:: tenant-settings-header.png
+.. image:: tenant-settings-header-65.png
 
-General
+Style
 *********
 Set Background Color and Text Color here.
 
@@ -18,11 +18,6 @@ Set the following here:
 .. image:: logo-settings-new.png
 
 + **Text**: A text can be displayed by the logo, see example below. Different texts can be added for all tenant languages, if needed.
++ **Logo text**: (A description will be added soon).
 + **Url**: Add the Url to the logo here.
-+ **ADD IMAGE**: Another way is to use this option to start the Media Picker and select a logo image.
-
-To remove an image, click the X.
-
-In this example the text "Adventrix Group" is displayed to the right of the logo:
-
-.. image:: logo-text.png
++ **(Image field)**: Click the plus to add an image, the x to delete.
