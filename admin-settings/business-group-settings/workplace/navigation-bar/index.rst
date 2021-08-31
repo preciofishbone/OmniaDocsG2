@@ -34,11 +34,11 @@ These settings are available for the Mega Menu, for the default menu and the Meg
 + **Layout Theming**: If you would like to use custom settings for the layout, open this section and select "Custom Theme". 
 + **Block Theming**: If you would like to use custom settings for the layout, open this section and select "Custom Theme". 
 
-A detailed description of Theming settings will be added soon.
+Regarding Custom Theme, detailed information about the options are found here in the Omnia 6.0 documentation: :doc:`Theme for the Business </admin-settings/business-group-settings/settings/theme/index>`
 
 Action Menu
 ------------
-The following settings are available here, for the default Action Menu and for the Action Men used in MS Teams:
+The following settings are available here, for the default Action Menu and for the Action Menu used in MS Teams:
 
 .. image:: workplace-navigation-settings-action-menu.png
 
@@ -48,7 +48,7 @@ The following settings are available here, for the default Action Menu and for t
 
 Home settings
 ***************
-To edit Home settings, see to that "Home" is selected to the legt, and then click "Edit":
+To edit Home settings, see to that "Home" is selected to the left, and then click "Edit":
 
 .. image:: workplace-navigation-home-settings-edit.png
 
@@ -60,8 +60,8 @@ The following is available:
 
 .. image:: workplace-navigation-home-settings-shown.png
 
-+ **Title**: If you would like show a Home title, add it here, in any or all the Tenant languages. Click the flag to change language.
-+ **Logo Text**: If you would like show a logo text by the Home title, add it here, in any or all the Tenant languages. Click the flag to change language.
++ **Title**: If you would like to show a Home title, add it here, in any or all the tenant languages. Click the flag to change language.
++ **Logo Text**: If you would like to show a logo text by the Home title, add it here, in any or all the tenant languages. Click the flag to change language.
 
 Another alternative is to add a logo image. Do it this way:
 
