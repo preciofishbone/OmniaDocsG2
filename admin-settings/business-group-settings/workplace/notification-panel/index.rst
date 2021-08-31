@@ -7,4 +7,4 @@ Here you can edit notification panel settings for the business profile's workpla
 
 .. image:: workplace-notification-panel-new.png
 
-(A description will be added soon.)
+You work with these settings as are described for Omnia 6.0 on the following page: :doc:`Notification Panel </admin-settings/business-group-settings/notification-panel/index>`
