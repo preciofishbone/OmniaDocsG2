@@ -5,4 +5,6 @@ This is an ongoing preliminary documentation for functionality to come in Omnia 
 
 Here you can edit notification panel settings for the business profile's workplace.
 
-.. image:: workplace-notification-panel.png
+.. image:: workplace-notification-panel-new.png
+
+(A description will be added soon.)
