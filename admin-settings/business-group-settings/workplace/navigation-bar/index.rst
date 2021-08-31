@@ -87,9 +87,9 @@ Then select section layout, just like you would do when working with a Page Type
 
 .. image:: layout-2.png
 
-Then continue building up the layut using sections and blocks.
+Then continue building up the layout using sections and blocks.
 
-For more information, see these sections:
+For more information, see these pages:
 
 + :doc:`Working with section and blocks </pages/page-types/working-with-sections/index>`
 + :doc:`Settings for sections </pages/page-types/sections-settings/index>`
@@ -97,24 +97,24 @@ For more information, see these sections:
 
 saving a draft and publishing
 ---------------------------------
-Saving a draft, discarding changes and finally publishing the layout works very similar to working with pages.
+Saving a draft, discarding changes and finally publishing the layout, works very similar to working with pages.
 
 .. image:: layout-3.png
 
-For more information, see these sections:
+For more information, see these pages:
 
 + :doc:`Edit a page </pages/edit-page/index>`
 + :doc: Publish page changes </pages/publish-page-changes/index>`
 
-But note that it's very similar, not exactly the same. Some options for pages are not available here.
+But note that it's very similar, not exactly the same. Some options for pages are not available here (like scheduled publishing).
 
-One thing that is perhaps not that obvious is how to delete a layout, if needed. You will find that option in the Action Menu:
+One thing that is perhaps not that obvious is how to delete a layout, if needed. You will find that option in the menu:
 
 .. image:: layout-delete.png
 
 Different layouts for different screen sizes
 *********************************************
-The default screen size is for computer screens. If would lkike to add a different layout for one or more of the other scren sizes available, do the following:
+The default screen size is for computer screens. If would like to add different layouts for one or more of the other scren sizes available, do the following:
 
 1. Select Screen size.
 
