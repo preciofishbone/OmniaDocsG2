@@ -91,11 +91,11 @@ Then continue building up the layout using sections and blocks.
 
 For more information, see these pages:
 
-+ :doc:`Working with section and blocks </pages/page-types/working-with-sections/index>`
-+ :doc:`Settings for sections </pages/page-types/sections-settings/index>`
++ :doc:`Working with sections and blocks </pages/page-types/working-with-sections-and-blocks/index>`
++ :doc:`Settings for sections </pages/page-types/section-settings/index>`
 + :doc:`Working with blocks </blocks/working-with-blocks/index>`
 
-saving a draft and publishing
+Saving a draft and publishing
 ---------------------------------
 Saving a draft, discarding changes and finally publishing the layout, works very similar to working with pages.
 
@@ -104,7 +104,7 @@ Saving a draft, discarding changes and finally publishing the layout, works very
 For more information, see these pages:
 
 + :doc:`Edit a page </pages/edit-page/index>`
-+ :doc: Publish page changes </pages/publish-page-changes/index>`
++ :doc:`Publish page changes </pages/publish-page-changes/index>`
 
 But note that it's very similar, not exactly the same. Some options for pages are not available here (like scheduled publishing).
 
