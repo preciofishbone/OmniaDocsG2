@@ -351,7 +351,13 @@ The search categories in quick and advanced search are now connected to be able 
 
 It is possible to configure the icon size for quick and advanced search for better UI consistency.
 
+Versions
+-----------------------------------------
 
+.. toctree::
+   :titlesonly:
+
+   versions
 
 
 
