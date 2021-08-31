@@ -74,3 +74,25 @@ Another alternative is to add a logo image. Do it this way:
 .. image:: workplace-navigation-home-settings-media-picker.png
 
 See this page for more information: :doc:`The Media Picker </general-assets/media-picker/index>`
+
+Working with the layout
+*************************
+When working with the navigation bar layout, you can use all options for sections and block available in Omnia.
+
+Start by clicking the x symbol to add a section.
+
+.. image:: layout-1.png
+
+Then select section layout, just like you would do when working with a Page Type.
+
+.. image:: layout-2.png
+
+Then continue building up the layut using sections and blocks.
+
+For more information, see these sections:
+
++ :doc:`Working with section and blocks </pages/page-types/working-with-sections/index>`
++ :doc:`Settings for sections </pages/page-types/sections-settings/index>`
++ :doc:`Working with blocks </blocks/working-with-blocks/index>`
+
+
