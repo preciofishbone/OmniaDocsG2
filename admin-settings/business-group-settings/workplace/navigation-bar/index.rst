@@ -95,4 +95,36 @@ For more information, see these sections:
 + :doc:`Settings for sections </pages/page-types/sections-settings/index>`
 + :doc:`Working with blocks </blocks/working-with-blocks/index>`
 
+saving a draft and publishing
+---------------------------------
+Saving a draft, discarding changes and finally publishing the layout works very similar to working with pages.
+
+.. image:: layout-3.png
+
+For more information, see these sections:
+
++ :doc:`Edit a page </pages/edit-page/index>`
++ :doc: Publish page changes </pages/publish-page-changes/index>`
+
+But note that it's very similar, not exactly the same. Some options for pages are not available here.
+
+One thing that is perhaps not that obvious is how to delete a layout, if needed. You will find that option in the Action Menu:
+
+.. image:: layout-delete.png
+
+Different layouts for different screen sizes
+*********************************************
+The default screen size is for computer screens. If would lkike to add a different layout for one or more of the other scren sizes available, do the following:
+
+1. Select Screen size.
+
+.. image:: layout-screen-size.png
+
+2. Open the list and select "Create new layout".
+
+.. image:: layout-screen-size-new-layout.png
+
+Adding Mega Menu and Action Menu
+**********************************
+(Information on how to do this will be added soon).
 
