@@ -3,7 +3,7 @@ Footer
 
 This is an ongoing preliminary documentation for functionality to come in Omnia 6.5.
 
-Here you can edit default footer settings for the business profile's workplace.
+Here you can edit  footer settings for the business profile's workplace.
 
 .. image:: workplace-footer-new.png
 
