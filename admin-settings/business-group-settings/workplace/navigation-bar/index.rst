@@ -34,7 +34,7 @@ These settings are available for the Mega Menu, for the default menu and the Meg
 + **Layout Theming**: If you would like to use custom settings for the layout, open this section and select "Custom Theme". 
 + **Block Theming**: If you would like to use custom settings for the layout, open this section and select "Custom Theme". 
 
-Regarding Custom Theme, detailed information about the options are found here in the Omnia 6.0 documentation: :doc:`Theme for the Business </admin-settings/business-group-settings/settings/theme/index>`
+Regarding Custom Theme, detailed information about the options are found here in the Omnia 6.0 documentation: :doc:`Theme for the Business Profile </admin-settings/business-group-settings/settings/theme/index>`
 
 Action Menu
 ------------
