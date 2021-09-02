@@ -17,13 +17,13 @@ To open the settings, click SETTINGS in the lower left corner.
 
 General
 ---------
-Here you can set colors for the default navigationbar and for the navigation bar used in MS Teams.
+Here you can set colors for the default navigation bar and for the navigation bar used in MS Teams.
 
 .. image:: workplace-navigation-settings-general.png
 
 Mega Menu
 ----------
-These settings are available for the Mega Menu, for the default menu and the Mega Menu used in MS Teams.
+These settings are available for the default Mega Menu, and for the Mega Menu used in MS Teams.
 
 .. image:: workplace-navigation-settings-mega-menu.png
 
@@ -77,7 +77,7 @@ See this page for more information: :doc:`The Media Picker </general-assets/medi
 
 Working with the layout
 *************************
-When working with the navigation bar layout, you can use all options for sections and block available in Omnia.
+When working with the navigation bar layout, you can use all options for sections and blocks available in Omnia.
 
 Start by clicking the x symbol to add a section.
 
@@ -124,7 +124,49 @@ The default screen size is for computer screens. If would like to add different 
 
 .. image:: layout-screen-size-new-layout.png
 
-Adding Mega Menu and Action Menu
-**********************************
-(Information on how to do this will be added soon).
+Adding a Mega Menu object
+***************************
+To add a Mega Menu object, click the plus and choose to add a layout or create a link.
 
+.. image:: mega-menu-add.png
+
+Create Layout
+--------------
+When you choose to create a Mega Menu layout, the following is shown:
+
+.. image:: mega-menu-add-layout.png
+
+1. Add a title, and an icon if you like. 
+
+What you add here is only shown in the list of mega menus, not shown for users.
+
+2. Click "Create".
+3. Create the Mega Menu layout by using sections and blocks available in Omnia. For more information, see *Working with the layout* and *Saving a draft and publishing* above.
+
+Create a link
+---------------
+You can create a Mega Menu link to anything you can link to, for example a page in Omnia or external funcitonality.
+
+Set the following for the link:
+
+.. image:: mega-menu-add-link.png
+
+Adding an Action Menu object
+******************************
+To add an Action Menu object, do the following:
+
+1. Click the plus.
+
+.. image:: action-menu-add.png
+
+The following is shown:
+
+.. image:: action-menu-add-settings.png
+
+2. Add the settings.
+
++ **Action type**: Select action type from the list. Note that these actions are the same as can be added using an Action Button block.
++ **Title**: Add a title for the list here (not shown to users).
++ **Icon Type/Icon**: Add an icon if you with, for this list (not shown for users).
+
+Different fields are shown depending on Action Type selected. See this page for information about those fields: :doc:`Action Button block </blocks/action-button/index>`
