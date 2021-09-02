@@ -157,6 +157,18 @@ Set the following for the link:
 
 .. image:: mega-menu-add-link.png
 
+Target a Mega Menu object
+-------------------------------
+When the Mega Menu object is created you can add a targeting filter, meaning you can decide who this Mega Menu object will be available for.
+
+1. Select the Mega Menu Object.
+2. Open the settings.
+3. Add targeting filters.
+
+.. image:: mega-menu-add-settings-open.png
+
+You do that the same way as for many other options in Omnia, see for example the heading "Targeting" on this page: :doc:`General block settings </blocks/general-block-settings/index>`
+
 Adding an Action Menu object
 ******************************
 To add an Action Menu object, do the following:
@@ -176,3 +188,19 @@ The following is shown:
 + **Icon Type/Icon**: Add an icon if you with, for this list (not shown for users).
 
 Different fields are shown depending on Action Type selected. See this page for detailed information about those fields: :doc:`Action Button block </blocks/button-link/index>`
+
+Target an Action Menu object
+-------------------------------
+When the Action Menu object is created you can add a targeting filter, meaning you can decide who this Action Menu object will be available for.
+
+.. image:: action-menu-add-settings-targeting.png
+
+You do that the same way as for many other options in Omnia, see for example the heading "Targeting" on this page: :doc:`General block settings </blocks/general-block-settings/index>`
+
+Edit the order
+****************
+If you have created several objects of one type, you can decide in what order these objects should be shown for users.
+
+Use this icon and drag and drop the desired order:
+
+.. image:: action-menu-add-settings-order.png
