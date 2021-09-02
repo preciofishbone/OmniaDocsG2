@@ -11,23 +11,21 @@ The following settings are availble:
 
 General
 -----------
+(A description will be added soon).
 
 
 Style
 ----------
-
-
+(A description will be added soon).
 
 
 Query
 ---------
+(A description will be added soon).
 
 
 View
 -----------
-
-
-
-
+(A description will be added soon).
 
 
