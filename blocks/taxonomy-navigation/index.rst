@@ -7,6 +7,8 @@ Here's an example:
 
 .. image:: taxonomy-navigation-example.png
 
+**Note!** The taxonomies to be used for navigation must be set up in Enterprise Glossary in Omnia Admin. See this page for more information: :doc:`Enterprise Glossary </admin-settings/tenant-settings/properties/enterprise-glossary/index>`
+
 Settings
 *********
 The following settings are availble:
