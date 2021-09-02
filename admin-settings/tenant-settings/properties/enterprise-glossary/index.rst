@@ -1,9 +1,11 @@
 Enterprise Glossary
-=====================
+====================
 
-**This is an ongoing, preliminary documentation for new functionality to come in Omnia 6.5.**
+This is an ongoing, preliminary documentation for new functionality to come in Omnia 6.5.
 
-Enterprise Glossary can be used for taxonomies/terms for more details. It can, for example, be to brand the term or to connect the term to a page for more information. Terms can even be created specifically to provide more information where it's needed.
+Enterprise Glossary can be used for taxonomies/terms for more details. It can, for example, be to brand the term or to connect the term to a page for more information. Terms can even be created specifically to provide more information where it's needed. 
+
+Also, if you plan to use the new block "Taxonomy navigation" you need to set up the taxonomies to be used for navigation here.
 
 The existing glossary sets are listed here:
 
