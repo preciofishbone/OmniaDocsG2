@@ -5,7 +5,9 @@ This is an ongoing preliminary documentation for functionality to come in Omnia 
 
 Here you can edit navigation bar settings for the business profile's workplace. You can add different settings for the default navigation bar and for the navigation bar used in MS Teams. 
 
-When working with the layout, you can use all the sections and blocks that normally are avilable for pages, so the possibilities are almost endless. You can even add different layouts for different screen sizes, if needed, to fit for example both computer and mobile phone.
+You can use several Mega Menu objects and several Action Menu objects, if needed.
+
+When working with the layout, you can use all the sections and blocks that normally are available for pages, so the possibilities are almost endless. You can even add different layouts for different screen sizes, if needed, to fit for example both computer and mobile phone.
 
 .. image:: workplace-navigation-bar-new.png
 
@@ -36,6 +38,8 @@ These settings are available for the default Mega Menu, and for the Mega Menu us
 
 Regarding Custom Theme, detailed information about the options are found here in the Omnia 6.0 documentation: :doc:`Theme for the Business Profile </admin-settings/business-group-settings/settings/theme/index>`
 
+See below for information on how to add Mega Menu objects.
+
 Action Menu
 ------------
 The following settings are available here, for the default Action Menu and for the Action Menu used in MS Teams:
@@ -45,6 +49,8 @@ The following settings are available here, for the default Action Menu and for t
 + **Show icon**: For the top action menu, showing an icon is default. If you add other action menus, you can choose to show icons or not.
 + **Show text**: For the top action menu, showing text is default. If you add other action menus, you can choose to show texts or not.
 + **Item Limit**: (A description will be added soon).
+
+See below for information on how to add Action Menu objects.
 
 Home settings
 ***************
