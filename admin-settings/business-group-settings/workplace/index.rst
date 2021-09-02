@@ -5,9 +5,9 @@ This is an ongoing, preliminary documentation for functionality to come in Omnia
 
 The Workplace settings can be used to create dynamic navigation and access for a Business Profile. The Workplace lives outside the Publishing App.
 
-You can always choose to use "Classic Action Menu & Mega Menu" for the Business Profile, and start working with these settings. For more information, see: :doc:`Business Profiles </admin-settings/tenant-settings/business-profiles/index>`
+When you migrate an earlier version of Omnia, the Workplace options are not activated. You don't have to start using these options until you're ready. You can try out the options to see how they work and implement them later. You must be Tenant Administrator to implement the Modern Workplace in your system.
 
-"Classic Action Menu & Mega Menu" can be deselected later in the tenant-settings, allowing for Workplace settings to be implemented.
+When you create a new Business Profile, the Workplace funcitonality is always turned on.
 
 Settings
 **********
