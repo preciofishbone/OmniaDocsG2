@@ -42,6 +42,6 @@ And finally, some settings for the view are available:
 .. image:: taxonomy-navigation-settings-view.png
 
 + **No of parent levels to show**: Select the number of parent levels to be shown.
-+ **No of children to show**: Select the number of children levels to be shown, within the parent level(s).
++ **No of children to show**: Select the maximum number of children to be shown, within the parent level(s).
 + **Show Taxonomy Name**: If the taxonomy name should be shown, select this option.
 
