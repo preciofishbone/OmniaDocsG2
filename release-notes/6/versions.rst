@@ -1,3 +1,23 @@
+6.3.13
+========================================
+(Omnia 6.3.7 / Workplace 6.3.6 / WCM 6.3.13 / MS 6.3.8) 
+
+- "Limit edit permission" on a page property, now correctly hides the property in the create new page form.
+- Fixed an issue with the Dynamic Roller view that would cause pages to open when using the arrow buttons to browse. 
+- Corrected a cache issue that would cause the variation selector to show the wrong variation in edit mode.
+- Fixed an issue with Quick links targeting where there would sometimes be too many links shown.
+- Corrected how the MS Teams Icon is fetched to fix an unannounced API Change from Microsoft.
+- Fixed an issue that would sometimes prevent the page rollup show in dialog to open correctly.
+- The page rollup now supports 200 pages without paging.
+- Stability fixes for ODM (#131097, #130007, #131089)
+- Major Performance improvements to scenarios when we have many navigation nodes in the mega menu. (#130741, #130007, #131089).
+- Corrected an issue that would prevent the Controlled Document Feature to activate for some users (#131025, #131308, #131403).
+- Added paging to the Azure AD Sync, it’s now possible to see more than 10 entries to sync.
+- Corrected an issue in ODM when loading templates in a multilingual scenario. (#131267).
+- Fixed an issue that would sometimes prevent the notification panel to load correctly (#131268).
+- Corrected a sign-up issue for event management (#131262).
+
+
 6.3.9
 ========================================
 (Omnia 6.3.6 / Workplace 6.3.4 / WCM 6.3.9 / MS 6.3.5)
@@ -5,7 +25,6 @@
 - Fixed a caching issue that would sometimes lead the scheduling not being editable (#130473).
 - OPM Task assignment emails now have the full intended content (#129229).
 - Fixed an issue that prevented ODM approval emails to be sent in some cases (#130953).
-
 
 6.3.8
 ========================================

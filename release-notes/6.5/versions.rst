@@ -2,6 +2,8 @@
 ========================================
 (Omnia 6.6.0 / Workplace 6.6.0 / WCM 6.6.0 / MS 6.6.0)
 
+.. note:: This release notes are in Draft, it means they can change at any time. Items might be added, removed or updated.
+
 New Major Features
 **************************
 - Copy blocks and sections across pages
@@ -28,12 +30,12 @@ Fixes
 ========================================
 (Omnia 6.5.0 / Workplace 6.5.0 / WCM 6.5.0 / MS 6.5.0)
 
-AAD Permissions
+.. note:: This release notes are in Draft, it means they can change at any time. Items might be added, removed or updated.
+
+Major New Features 
 **************************
 
-
-Major New Features (:doc:`More Details </release-notes/6.5/index>`)
-**************************
+(:doc:`More Details </release-notes/6.5/index>`)
 
 - Workplace apps 
  - Dynamic Mega Menu (#115472, #125718, #114686).
