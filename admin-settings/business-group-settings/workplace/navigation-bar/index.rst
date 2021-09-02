@@ -175,4 +175,4 @@ The following is shown:
 + **Title**: Add a title for the list here (not shown to users).
 + **Icon Type/Icon**: Add an icon if you with, for this list (not shown for users).
 
-Different fields are shown depending on Action Type selected. See this page for information about those fields: :doc:`Action Button block </blocks/action-button/index>`
+Different fields are shown depending on Action Type selected. See this page for detailed information about those fields: :doc:`Action Button block </blocks/button-link/index>`
