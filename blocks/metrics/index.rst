@@ -36,7 +36,7 @@ The following settings are available here:
 + **Metrics per row**: Set the number of metrics to be shown per row.
 + **Metric block height**: Use the slider to set the height of the block.
 
-In the field at the bottom you can select just some of the metrics to be shown. The options are different depending on the Scope chosen. You can for example choose to show only active teamworks or only new teamworks, ot both, for Teamwork. For Pages you can, for example, decide to show just pages waiting for approval, or just pages that has underused content, among other settings. For User Activity you can select to show the number of active readers or the number of active contributors.
+In the field at the bottom you can select just some of the metrics to be shown. The options are different depending on the Scope chosen. You can for example choose to show only active teamworks or only new teamworks, or both, for Teamwork. For Pages you can, for example, decide to show just pages waiting for approval, or just pages that has underused content, among other settings. For User Activity you can select to show the number of active readers or the number of active contributors.
 
 To show several metrics on a page (for example the Dashboard) just add the block several times, with different settings.
 
