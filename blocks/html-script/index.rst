@@ -3,6 +3,8 @@ HTML/Script
 
 HTML/Script is a block you can use for various applications to add extra functionality or content to a page. One example is to add the code for a video, from YouTube, or some other source.
 
+In Omnia 6.5, the HTML/Script block will be improved to support api endpoints to the Microsoft Graph and SharePoint REST API. This will make it possible to get data from the Graph and render it using the built-in vue.js framework in Omnia.
+
 Block Settings
 ***************
 The following settings are available for teh block:
@@ -11,7 +13,7 @@ The following settings are available for teh block:
 
 Settings
 ------------
-On this tab you can choose to add som default content to the block. You can also use the WRITE tab to set if it should be possible to edit the default content, see below.
+On this tab you can choose to add some default content to the block. You can also use the WRITE tab to set if it should be possible to edit the default content, see below.
 
 To add default content, click ADD CONTENT.
 
@@ -35,7 +37,7 @@ If it should be possible for editors to replace or remove the default content in
 
 Add HTML code
 ****************
-Note that if any default content is added, and if edting is not allowed as set on the WRITE tab (see above) nothing can be added or edited in Write mode.
+Note that if any default content is added, and if editing is not allowed as set on the WRITE tab (see above) nothing can be added or edited in Write mode.
 
 To add HTML code in Write mode, if it is allowed, click "ADD CONTENT". 
 
