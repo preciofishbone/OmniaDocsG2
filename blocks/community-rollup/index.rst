@@ -23,12 +23,12 @@ Here you decide what to rollup in the block.
 
 + **Scope**: You can choose to rollup all public communities, all communities the logged in user follows, or to display the last community the user visited.
 + **Only Current Business Profile**: If only communities from this Business Profile should be listed, select this option (default).
-+ **Site Template**: 
-+ **Run Query On Load**: Decide if the query should be run on load, so the list is filled with communities, or not. If a list is very long it can be a good idea to add a search box, and to deselect this option. You add a search box under Filter UI, see below.
++ **Site Template**: Select template here.
++ **Run Query On Load**: Decide if the query should be run on load, so the list is filled with communities, or not. If a list is very long it can be a good idea to add a search box, and to deselect this option. You add a search box under Filter, see below.
 
 Display
 --------
-Here yopu can select List View or Card View.
+Here ypu can select List View or Card View.
 
 .. image:: community-rollup-settings-display.png
 
@@ -48,7 +48,7 @@ If you select STYLES for Card View, the following, additional settings becomes a
 
 .. image:: community-rollup-settings-display-styles.png
 
-Filter UI
+Filter
 ------------------
 Here you can add filters so users can filter (= choose to just see some) of a long list.
 
