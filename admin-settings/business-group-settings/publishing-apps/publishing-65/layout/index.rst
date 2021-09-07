@@ -5,8 +5,6 @@ This is an ongoing, preliminary documentation for functionality to come in Omnia
 
 Here you can work with ready made layouts for publishing start pages.
 
-.. image:: publishing-layout.png
-
 To create a new layout, do the following:
 
 1. Click the plus.
@@ -14,7 +12,7 @@ To create a new layout, do the following:
 .. image:: publishing-click-plus.png
 
 2. Add a name for the layout in any or all the available tenant languages (click the flag to change language).
-3. Click Create.
+3. Click "Create".
 
 .. image:: publishing-click-create.png
 
