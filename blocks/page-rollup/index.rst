@@ -145,6 +145,12 @@ If users should be able to filter the list and/or search here, use these options
 
 See this page for information on how to use these options: :doc:`Filter UI </blocks/general-block-settings/filters/index>`
 
+In Omnia 6.5 there will be an additional option, specific for Page Rollup:
+
+.. image:: page-rollup-filter-65.png
+
++ **Save filter state**: If you select this option the filter keeps it's state in the page url. This means the selected filter will still be active when the user goes back to the page. The url can also be copied and for example be used to prepopulate the page rollup.
+
 Social Period
 --------------
 Use these settings to decide for how long likes, comments, ratings and page feedback should be displayed here. The default setting is "No limit" but you can select one week, two weeks or one month instead.
