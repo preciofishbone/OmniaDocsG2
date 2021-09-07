@@ -59,13 +59,13 @@ The property sets are set up using the Tenant settings. See this page for more i
 
 Features
 ----------
-Select the features that should be available for the community (all are not shown in the image):
+Select the features that should be available for the publishing app (all are not shown in the image):
 
 .. image:: publishing-edit-features.png
 
 Setup
 -------
-Using the options here you can set which parts of a community that should be created when this template is used:
+Using the options here you can set which parts of a publishing app that should be created when this template is used:
 
 .. image:: publishing-edit-setup.png
 
@@ -73,6 +73,6 @@ Using the options here you can set which parts of a community that should be cre
 
 Custom steps
 ---------------
-If any custom steps has been developed for the creation of communities, you can select them using this option.
+If any custom steps has been developed for the creation of publishing apps, you can select them using this option.
 
 .. image:: publishing-edit-custom-steps.png
