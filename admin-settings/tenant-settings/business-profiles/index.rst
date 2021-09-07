@@ -44,7 +44,7 @@ Workplace settings are not activated for existing Business Profiles when you mig
 
 If you would like to to use Workplace settings you must create a Business Profile Workplace, this way.
 
-1. Go to Omnia Admin and select Business Profiles in the Tenans settings.
+1. Go to Omnia Admin and select Business Profiles in the Tenant settings.
 2. Click the pen for the Business Profile.
 
 .. image:: business-profile-pen.png
