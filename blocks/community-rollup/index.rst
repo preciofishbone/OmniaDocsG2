@@ -34,7 +34,7 @@ Here ypu can select List View or Card View.
 
 Available settings depends on what you select. All options are listed below.
 
-+ **Add Column**: If you select List View, you must add at least one Column for the display to work. (Navigation View is fixed regarding the columns to display).
++ **Add Column**: If you select List View, you must add at least one Column for the display to work.
 + **Cards per Row**: Available for Card view. As it says, set the number of cards to show per row.
 + **Paging**: Select how paging should work; "No Paging", "Classic" or "Scroll".
 + **Image**: Available for Card view. Choose to display an image or not.
