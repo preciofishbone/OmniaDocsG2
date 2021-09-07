@@ -5,11 +5,9 @@ This is an ongoing, preliminary documentation for functionality to come in Omnia
 
 Here you will see a list of Publishing Apps in the Business Profile:
 
-.. image:: publishing-apps.png
+.. image:: publishing-apps-apps-65.png
 
-The functionality for Apps is very similar to Omnia 6.0. The main difference is that the tab Orphaned has been added. It is the same type of functionality as was called Inactive:
+The functionality for Apps is very similar to Omnia 6.0. The main difference is that an icon has been added, to edit the app route, if nedded:
 
-When a site of the type Microsoft 365 Team Site, Sharepoint Team Site or Sharepoint Communication Site is created, a Sharepoint site is created and is connected to the site. A Yammer Group can also need a Sharepoint site, depending on how the Yammer Group is set up.
-
-The connected Sharepoint site may be deleted for some reason, but when that happens the Omnia site may not. When that happens a link to the site is placed in this list, uner Orphaned, so an administrator can take actions.
+.. image:: publishing-apps-app-route-65.png
 
