@@ -50,7 +50,7 @@ Use the settings this way:
 + **Enable Activity Tracking**: For a Community, Activity Tracking can be activated. See the heading *Settings for Activity Points* on this page, for more information: :doc:`Setting up a Community </using-communities/settings/index>` 
 + **Reset notification when page is modified**: This setting defines when a notification that a page is new should be shown for users, for example in the Notification Panel. Normally it's only when the page is created, not when it's updated. If this option is activated the page is considered to be new every time it's updated and a new version is published. Therefore it's probably more relevant for pages in Communities than for Publishing Pages.
 + **Enable Send Page as E-mail**: Select this option if pages in the Page Collection should be available to send through e-mail. One example of when this is needed is in a Newsletter inplementation.
-+ **Enable Scheduling**: If scheduling should be available in this Page Collection, select this option. In Omnia 6.0 the author can then set a scheduled start date and time. In Omnia 6.5 it will be possible to select a property for scheduling. 
++ **Enable Scheduling**: If scheduling should be available in this Page Collection, select this option. In Omnia 6.0 the author can then set a scheduled start date and time. In Omnia 6.5 it will be possible to select a property for scheduling, as an alternative. 
 
 In Omnia 6.5, three new settings will be available:
 
