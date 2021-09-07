@@ -101,6 +101,8 @@ For more information, see these pages:
 + :doc:`Settings for sections </pages/page-types/section-settings/index>`
 + :doc:`Working with blocks </blocks/working-with-blocks/index>`
 
+**A tip:** One way of creating a mega menu like navigation is to use a Page Rollup, the new scope "Navigation path" and the new "Navigation View".
+
 Saving a draft and publishing
 ---------------------------------
 Saving a draft, discarding changes and finally publishing the layout, works very similar to working with pages.
