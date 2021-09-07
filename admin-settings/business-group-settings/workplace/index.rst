@@ -7,7 +7,7 @@ The Workplace settings can be used to create dynamic navigation and access for a
 
 When you migrate an earlier version of Omnia, the Workplace options are not activated. You don't have to start using these options until you're ready. You can try out the options to see how they work and implement them later. You must be Tenant Administrator to implement the Modern Workplace in your system.
 
-When you create a new Business Profile, the Workplace functionality is always turned on.
+When you create a new Business Profile, the Workplace functionality is always turned on, and a workplace (including a start url) will be created for the profile.
 
 Settings
 **********
