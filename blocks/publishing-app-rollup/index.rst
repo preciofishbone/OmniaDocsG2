@@ -1,7 +1,7 @@
 Publishing App Rollup block
 ==============================
 
-This is an ongoing, preliminary documentaition of a new block to come in Omnia 6.5.
+This is an ongoing, preliminary documentation of a new block to come in Omnia 6.5.
 
 Settings
 ***********
