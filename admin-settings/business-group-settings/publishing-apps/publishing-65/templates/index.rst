@@ -3,23 +3,23 @@ Templates
 
 This is an ongoing, preliminary documentation för functionality to come in Omnia 6.5.
 
-In Omnia 6.5 the option Provisioning templates will be removed. Instead, templates will be administrated under each main option, so here  you can work with templates for Communities.
+In Omnia 6.5 the option Provisioning templates will be removed. Instead, templates will be administrated under each main option, so here  you can work with templates for Publishing Apps.
 
-.. image:: communties-templates-new.png
+.. image:: publishing-templates-new.png
 
 To edit a template, click the name - to delete, click the dust bin.
 
-Creating a new Community template
-*************************************
+Creating a new Publishing App template
+****************************************
 To create a new template, do the following:
 
 1. Click the plus.
 
-.. image:: community-template-click-plus.png
+.. image:: publishing-template-click-plus.png
 
 Use the following settings:
 
-.. image:: community-template-settings.png
+.. image:: publishing-template-settings.png
 
 + **Title**: Add a Title for the Template. You can add titles in a number of the languages available in the tenant. Default language is mandatory.
 + **Description**: Add a Description if needed. 
@@ -37,13 +37,13 @@ There are a lot of settings you can do for the template when it's created.
 
 The following is shown:
 
-.. image:: community-edit-all.png
+.. image:: publishing-edit-all.png
 
 General
 ----------
 Here you can edit the information you added and the options you selected when creating the template:
 
-.. image:: community-edit-general.png
+.. image:: publishing-edit-general.png
 
 See above for a description.
 
@@ -51,7 +51,7 @@ Properties
 ------------
 You can add a property set to the template. 
 
-.. image:: community-edit-properties.png
+.. image:: publishing-edit-properties.png
 
 The properties in the set can or will have to be filled in when a community is created from this template.
 
@@ -61,13 +61,13 @@ Features
 ----------
 Select the features that should be available for the community (all are not shown in the image):
 
-.. image:: community-edit-features.png
+.. image:: publishing-edit-features.png
 
 Setup
 -------
 Using the options here you can set which parts of a community that should be created when this template is used:
 
-.. image:: community-edit-setup.png
+.. image:: publishing-edit-setup.png
 
 (More information about this will be added soon).
 
@@ -75,4 +75,4 @@ Custom steps
 ---------------
 If any custom steps has been developed for the creation of communities, you can select them using this option.
 
-.. image:: community-edit-custom-steps.png
+.. image:: publishing-edit-custom-steps.png
