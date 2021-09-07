@@ -7,6 +7,8 @@ The Search block can be used for Quick Search or Advanced Search.
 
 Settings for Search are set up in Omnia Admin, see: :doc:`Business Profile Settings - Search </admin-settings/business-group-settings/search/index>`
 
+In Omnia 6.5 you will also be able to configured the use of search categories or inherit the ones configured on the Business Profile. See the heading "Search Categories" below.
+
 Settings
 **********
 The following settings are avilable:
@@ -27,6 +29,20 @@ The General settings are:
 + **Trigger Search on Loaded**: If the above option is selected, select this option if a search should be executed when the page is loaded.
 + **Search mode**: Select search mode, Quick or Advanced.
 + **Padding**: You can add some padding if needed.
+
+Serch Categories
+------------------
+This option will be available in Omnia 6.5.
+
+.. image:: search-block-settings-categories.png 
+
+You can inherit the search settings from the Business Profile and if that is what you want to do - that settings is already done.
+
+But if you would like to set specific category settings for this block, deselect and the following will be available:
+
+.. image:: search-block-settings-categories-settings.png 
+
+(A detailed description will be added soon.)
 
 Style
 --------
