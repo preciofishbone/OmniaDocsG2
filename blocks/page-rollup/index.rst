@@ -121,6 +121,14 @@ Here's a simple example of a Card view used for navigation purposes:
 
 .. image:: card-view-example-pages.png
 
+In Omnia 6.5, card view can now display sub pages if the scope "Navigation path" is used.
+
+.. image:: card-view-example-sub-pages.png
+
+In Omnia 6.5, the new Navigation View can be used to display a mega menu style navigation. Here's an example:
+
+.. image:: navigation-view-mega-example.png
+
 Style settings
 ----------------
 For Roller, Dynamic Roller and Card, extra Style settings are available, for example (Card):
