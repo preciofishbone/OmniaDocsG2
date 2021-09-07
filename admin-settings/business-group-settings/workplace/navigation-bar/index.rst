@@ -171,7 +171,7 @@ You do that the same way as for many other options in Omnia, see for example the
 
 Adding an Action Menu object
 ******************************
-To add an Action Menu object, do the following:
+The action menu can include any action available in Omnia. To add an Action Menu object, do the following:
 
 1. Click the plus.
 
