@@ -173,7 +173,7 @@ You do that the same way as for many other options in Omnia, see for example the
 
 Adding an Action Menu object
 ******************************
-The action menu can include any action available in Omnia. To add an Action Menu object, do the following:
+The action menu can include almost any action available in Omnia. To add an Action Menu object, do the following:
 
 1. Click the plus.
 
@@ -189,7 +189,7 @@ The following is shown:
 + **Title**: Add a title for the list here (not shown to users).
 + **Icon Type/Icon**: Add an icon if you with, for this list (not shown for users).
 
-Different fields are shown depending on Action Type selected. See this page for detailed information about those fields: :doc:`Action Button block </blocks/button-link/index>`
+Different fields are shown depending on Action Type selected. See this page for detailed information about those fields: :doc:`Action Button in omnia 6.5 </blocks/button-link/action-button-65/index>`
 
 Target an Action Menu object
 -------------------------------
