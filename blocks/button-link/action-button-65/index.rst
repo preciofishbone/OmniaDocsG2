@@ -4,9 +4,7 @@ Action Button in Omnia 6.5
 This is an ongoing, preliminary documentation of the options for Action Button in Omnia 6.5. The work is just started so a lot of changes to this text will be done very soon.
 
 
-Use this block to add one or more buttons on a page for a number of actions. .
-
-
+Use this block to add one or more buttons on a page for a number of actions.
 
 Settings
 ***********
@@ -25,13 +23,34 @@ To add an Action Button in this block, do the following:
 
 .. image:: action-button-65-aettings-all.png
 
-(All options are not shown in the image above, but will be listed below).
+In Omnia 6.6 all actions that can be added as an action button can also be added to an Action Menu. Now you can create access to these actions in the way that suits your organization.
+
+The following actions are available:
+
++ Add as Favourite
++ Create App
++ Create Document
++ Create Page
++ Event Management
++ Invite co-authors
++ Like
++ Link
++ My Links
++ My Subscriptions
++ Notification Panel
++ Omnia Admin
++ Process Feedback
++ Quick Search
++ Share
++ Strenghten Profile
++ Subscribe
++ Teamwork Navigation
 
 General
 -------------------
 The following settings are available here:
 
-(**Note!** Not edited yet - more options available in Omnia 6.5).
+(**Note!** Not edited yet - more options available in Omnia 6.5!)
 
 + **Type**: Select type of button here; Link, Add as favourite, Process feedback, Event Management, Create Page, My Subscriptions or Subscribe. 
 + **Text**: Add text to be shown on the button here. If variations exists for the page, you add text in the default language here. Other languages are handled by the variation. If no varations exists, you can add text in several languages here (as in the image).
