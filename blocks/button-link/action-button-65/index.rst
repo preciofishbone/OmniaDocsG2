@@ -1,15 +1,18 @@
-Action Button
-=====================
+Action Button in Omnia 6.5
+=============================
 
-Use this block to add one or more buttons on a page for clickable links or other actions; Create Page buttons, to show My subscriptions, to subscribe/unsubscribe or to send feedback for a process. This block is also used when using Event Management.
+This is an ongoing, preliminary documentation of the options for Action Button in Omnia 6.5. The work is just started so a lot of changes to this text will be done very soon.
 
-You can add one more buttons in each Action Button block. (This option was formerly called Button Link). 
+
+Use this block to add one or more buttons on a page for a number of actions. .
+
+
 
 Settings
 ***********
 The following settings are available:
 
-.. image:: button-links-new4.png
+.. image:: action-button-65-aettings.png
 
 Add an Action Button
 ***********************
@@ -20,13 +23,15 @@ To add an Action Button in this block, do the following:
 1. Click "+ ADD BUTTON".
 2. Use the following settings:
 
-.. image:: button-link-settings-new3.png
+.. image:: action-button-65-aettings-all.png
 
-(All options are not shown in the image above, but listed below).
+(All options are not shown in the image above, but will be listed below).
 
 General
 -------------------
 The following settings are available here:
+
+(**Note!** Not edited yet - more options available in Omnia 6.5).
 
 + **Type**: Select type of button here; Link, Add as favourite, Process feedback, Event Management, Create Page, My Subscriptions or Subscribe. 
 + **Text**: Add text to be shown on the button here. If variations exists for the page, you add text in the default language here. Other languages are handled by the variation. If no varations exists, you can add text in several languages here (as in the image).
@@ -61,7 +66,7 @@ Style
 ---------------
 These settings are available for Style:
 
-.. image:: action-button-style-new.png
+.. image:: action-button-65-style.png
 
 + **Button Style**: You can select Depressed, Flat or Raised as the style. Note that a flat button doesn't have any background color, so the text should normally be black for a flat button.
 + **Size**: The size of the button can be small, medium or large.
@@ -87,7 +92,7 @@ Edit an Action Button
 **********************
 To edit a button, click the pen. To delete a button, click the dustbin. 
 
-.. image:: button-link-settings-edit-delete-new4.png
+.. image:: action-button-65.edit.delete.png
 
 When editing a button, the same settings as when you create a new button is available, see above.
 
