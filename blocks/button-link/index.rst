@@ -5,7 +5,7 @@ Use this block to add one or more buttons on a page for clickable links or other
 
 You can add one more buttons in each Action Button block. (This option was formerly called Button Link). 
 
-In Omnia 6.5 this block has additional options. You will be able to add action buttons for more purposes. All actions you can add to the action menu will also be possible to add as an action button. Among the new buttons will be actions for shwring a page to a Yemmer feed or to Teams.
+In Omnia 6.5 this block has additional options. You will be able to add action buttons for more purposes. All actions you can add to the action menu will also be possible to add as an action button. Among the new options will be actions for sharing a page to a Yammer feed or to Teams.
 
 Settings
 ***********
