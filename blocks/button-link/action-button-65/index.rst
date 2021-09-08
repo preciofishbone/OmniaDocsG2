@@ -10,7 +10,7 @@ Settings
 ***********
 The following settings are available:
 
-.. image:: action-button-65-aettings.png
+.. image:: action-button-65-settings.png
 
 Add an Action Button
 ***********************
@@ -21,7 +21,7 @@ To add an Action Button in this block, do the following:
 1. Click "+ ADD BUTTON".
 2. Use the following settings:
 
-.. image:: action-button-65-aettings-all.png
+.. image:: action-button-65-settings-all.png
 
 In Omnia 6.6 all actions that can be added as an action button can also be added to an Action Menu. Now you can create access to these actions in the way that suits your organization.
 
@@ -105,13 +105,13 @@ Write
 ******
 On this tab you decide if settings for the block (the buttons) should available for editing in Write mode or not. 
 
-.. image:: button-block-write.png
+.. image:: action-button-write.png
 
 Edit an Action Button
 **********************
 To edit a button, click the pen. To delete a button, click the dustbin. 
 
-.. image:: action-button-65.edit.delete.png
+.. image:: action-button-65-edit-delete.png
 
 When editing a button, the same settings as when you create a new button is available, see above.
 
