@@ -18,7 +18,7 @@ Note that you can see a preview of the button/buttons in the block as you're wor
 
 To add an Action Button in this block, do the following:
 
-1. Click "+ ADD BUTTON".
+1. Click ADD BUTTON.
 2. Use the following settings:
 
 .. image:: action-button-65-settings-all.png
@@ -52,8 +52,8 @@ The following settings are available here:
 
 (**Note!** Not edited yet - more options available in Omnia 6.5!)
 
-+ **Type**: Select type of button here; Link, Add as favourite, Process feedback, Event Management, Create Page, My Subscriptions or Subscribe. 
-+ **Text**: Add text to be shown on the button here. If variations exists for the page, you add text in the default language here. Other languages are handled by the variation. If no varations exists, you can add text in several languages here (as in the image).
++ **Type**: Select type of button here. 
++ **Text**: Add text to be shown on the button. If variations exists for the page, you add text in the default language here. Other languages are handled by the variation. If no varations exists, you can add text in several languages here.
 + **Tool tip**: Add the tool tip text for the button here. (Same apply for variations as above.)
 + **Category**: Available as "Add Favourite". If the Favourite should be added to a specific Category, add the category here.
 + **Unsubscribe Text**: A "Subscribe" button changes the text automatically when a user has clicked the button. Unsubscribe is suggested but you can change the text to something else. (Same apply for variations as above.)
@@ -95,7 +95,7 @@ These settings are available for Style:
 + **Background Color and Text Color**: Choose colors here. Note the comments about Flat button style and Outline above.
 + **Icon Type**: To add an icon to the buttton, first select the Icon Type here.
 + **Icon**: When you have selected the Icon Type, select the icon in this list. The icon is placed to the left of the button text.
-+ **Alignment**: This option is available on both tabs. Select the alignment of the buttons within the block area.
++ **Icon Alignment**: Select the alignment of the buttons within the block area.
 
 Layout
 *********
@@ -103,15 +103,13 @@ The LAYOUT tab contains general settings, see: :doc:`General Block Settings </bl
 
 Write
 ******
-On this tab you decide if settings for the block (the buttons) should available for editing in Write mode or not. 
+On this tab you decide if settings for the block (the buttons) should be available for editing in Write mode or not. 
 
 .. image:: action-button-write.png
 
 Edit an Action Button
 **********************
 To edit a button, click the pen. To delete a button, click the dustbin. 
-
-.. image:: action-button-65-edit-delete.png
 
 When editing a button, the same settings as when you create a new button is available, see above.
 
