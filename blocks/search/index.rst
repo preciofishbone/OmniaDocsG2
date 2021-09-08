@@ -30,13 +30,13 @@ The General settings are:
 + **Search mode**: Select search mode, Quick or Advanced.
 + **Padding**: You can add some padding if needed.
 
-Serch Categories
-------------------
+Search Categories
+-------------------
 This option will be available in Omnia 6.5.
 
 .. image:: search-block-settings-categories.png 
 
-You can inherit the search settings from the Business Profile and if that is what you want to do - that settings is already done.
+You can inherit the search settings from the Business Profile and if that is what you want to do, you don't need to change anything, it's default.
 
 But if you would like to set specific category settings for this block, deselect and the following will be available:
 
@@ -47,11 +47,11 @@ To add search categories for Quick Search, open the list and select.
 
 .. image:: search-block-settings-categories-quick-select.png 
 
-When you have selected a number of categories, you can edit the order, and set a row limit for each category, for example:
+When you have selected a number of categories, you can edit the order, and set a row limit for each category:
 
 .. image:: search-block-settings-categories-quick-select-example.png 
 
-You can set image or icon size to small, medium or large.
+You can set image/icon size to small, medium or large.
 
 .. image:: search-block-settings-categories-quick-select-icon-size.png 
 
