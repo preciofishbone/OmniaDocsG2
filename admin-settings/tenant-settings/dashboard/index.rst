@@ -7,7 +7,7 @@ In omnia 6.5, the dashboard has been moved to Omnia Admin and you can build it t
 
 .. image:: dashboard-new.png
 
-As you would a page type, the first step is to add the layout. See this page for more information: :doc:`Working with section and blocks </pages/page-types/working-with-sections-and-blocks/index>`
+As you would a page type, the first step is to add the layout, using sections. See this page for more information: :doc:`Working with section and blocks </pages/page-types/working-with-sections-and-blocks/index>`
 
 All available blocks are listed on this page: :doc:`Blocks </blocks/index>`
 
