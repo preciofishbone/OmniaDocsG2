@@ -7,7 +7,7 @@ Here you can work with three types of forms.
 
 .. image:: forms-all.png
 
-Surveys has the most options. Polls are similar to Surveys but suitbale for shorter, simpler forms. Checkups are suitable for micro-courses with knowledge checks. .
+Surveys has the most options. Polls are similar to Surveys but suitable for shorter, simpler forms. Checkups are suitable for micro-courses with knowledge checks. .
 
 For each type of form, all existing are listed, Surveys as an example:
 
@@ -16,6 +16,36 @@ For each type of form, all existing are listed, Surveys as an example:
 Here you can use the icons (from left to right), to copy the form to a new one, change settings, work with the graphical presentation, or delete a form, if needed.
 
 .. image:: forms-icons.png
+
+Checking responses
+*********************
+If responses are available (can be for Surveys and Polls), you can click this icon to check responses:
+
+.. image:: forms-response-icon.png
+
+Here's an example:
+
+.. image:: forms-response-example.png
+
+This is the "Layout View" for the responses. To see one question at a time, click here:
+
+.. image:: forms-response-example-question-by-question.png
+
+Just one question at a time is now shown. You can go from question to question by clicking BACK and NEXT.
+
+.. image:: forms-response-example-question-back-next.png
+
+You can export the responses to Excel for further processing:
+
+.. image:: forms-response-example-excel.png
+
+You can also remove all responses so far, by clicking here:
+
+.. image:: forms-response-example-clear.png
+
+When moving back to the Forms list where you started, don't use the back button in your browser, click the x.
+
+.. image:: forms-response-example-close.png
 
 Create a copy of a form
 *************************
@@ -112,13 +142,5 @@ When working with the a form's graphical presentation, a specific block is avail
 As always, don't forget to save when you're finished:
 
 .. image:: forms-save.png
-
-
-
-
-
-
-
-
 
 
