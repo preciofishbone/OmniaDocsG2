@@ -1,7 +1,7 @@
 Form Question
 ================
 
-**This is ongoing, preliminary documentation for functionality to come in Omnia v6.5.**
+This is ongoing, preliminary documentation for functionality to come in Omnia v6.5
 
 This block i used only when working with the graphic presentation of a form, in Omnia Admin. The block can not be used on a normal page.
 
