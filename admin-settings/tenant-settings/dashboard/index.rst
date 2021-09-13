@@ -9,9 +9,9 @@ In omnia 6.5, the dashboard has been moved to Omnia Admin and you can build it t
 
 As you would a page type, the first step is to add the layout, using sections. See this page for more information: :doc:`Working with section and blocks </pages/page-types/working-with-sections-and-blocks/index>`
 
-All available blocks are listed on this page: :doc:`Blocks </blocks/index>`
+You then add the blocks you need. All available blocks are listed on this page: :doc:`Blocks </blocks/index>`
 
-The new Metrics block can be especially useful: :doc:`The Metrics block </blocks/metrics/index>`
+The Metrics block (new in Omnia 6.5) can be especially useful: :doc:`The Metrics block </blocks/metrics/index>`
 
 You can also edit some of the metrics settings, in Omnia Admin, see: :doc:`Metric settings </admin-settings/tenant-settings/settings/metrics/index>`
 
