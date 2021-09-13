@@ -27,6 +27,8 @@ You can select Teamwork, Pages or User Activity. Then some settings becomes avai
 + **Publishing Apps**: You can select one publishing app to show metrics for. If you don't, all Publishing Apps will be shown. Available for Pages only.
 + **Page Types**: You can select one page type to show metrics for. If you don't, all page types will be shown. Available for Pages only.
 
+For the scope "User Activity" no further options are shown here. You sett Metrics, see below.
+
 Metrics
 *********
 The following settings are available here:
@@ -36,7 +38,11 @@ The following settings are available here:
 + **Metrics per row**: Set the number of metrics to be shown per row.
 + **Metric block height**: Use the slider to set the height of the block.
 
-In the field at the bottom you can select just some of the metrics to be shown. The options are different depending on the Scope chosen. You can for example choose to show only active teamworks or only new teamworks, or both, for Teamwork. For Pages you can, for example, decide to show just pages waiting for approval, or just pages that has underused content, among other settings. For User Activity you can select to show the number of active readers or the number of active contributors.
+In the field at the bottom you can select just some of the metrics to be shown. The options are different depending on the Scope chosen:
+
++ Teamwork: You can choose to show only active teamworks or only new teamworks, or both. 
++ Pages: Here's a lot of options available - Published, Waiting For Approval, Draft, No Comments, Average Number Of Comments, Average ratings, Reach, Underused Content. 
++ User Activity: You can select to show the number of active readers or the number of active contributors.
 
 To show several metrics on a page (for example the Dashboard) just add the block several times, with different settings.
 
