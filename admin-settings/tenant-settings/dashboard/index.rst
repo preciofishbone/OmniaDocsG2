@@ -1,15 +1,13 @@
 Dashboard
 ===========
 
-This is an ongoing, preliminary documentation.
+This is an ongoing, preliminary documentation for functionality to come in Omnia 6.5.
 
-In omnia 6.5, the complete dashboard has been moved to Omnia Admin (that is what is described here). A block will still be available, now called Metrics, to display status for either Teamwork or Pages or User Activity. This block can also be used in the Dashboard.
-
-The Dashboard will be completely dynamic. You set up the Dashboard much like you would do a page. Most blocks can be used.
+In omnia 6.5, the dashboard has been moved to Omnia Admin and you can build it to your needs. You set up the Dashboard much like you would do a page type. Most sections and blocks can be used.
 
 .. image:: dashboard-new.png
 
-As you would a page (or maybe rather a Page Type), the first step is to add the layout. See this page for more information: :doc:`Working with section and blocks </pages/page-types/working-with-sections-and-blocks/index>`
+As you would a page type, the first step is to add the layout. See this page for more information: :doc:`Working with section and blocks </pages/page-types/working-with-sections-and-blocks/index>`
 
 All available blocks are listed on this page: :doc:`Blocks </blocks/index>`
 
