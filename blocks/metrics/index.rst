@@ -46,7 +46,7 @@ In the field at the bottom you can select just some of the metrics to be shown. 
 
 What is to be considered Underused Content can be set in Omnia Admin, see: :doc:`Metrics Settings </admin-settings/tenant-settings/settings/metrics/index>`
 
-To show several metrics on a page (for example the Dashboard) just add the block several times, with different settings.
+To show several metrics on a page (for example in the Dashboard) just add the block several times, with different settings.
 
 Filter UI
 ************
