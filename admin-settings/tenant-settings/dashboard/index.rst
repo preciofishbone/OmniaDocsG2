@@ -64,23 +64,19 @@ For Style, "Show Active Slider" is selected so it's clear which the active tab i
 
 On each tab a Metrics block is placed, with the following settings:
 
-**Usage**:
-For this tab the Scope is set to "User Activity",  with the following Metrics:
+**Usage**: For this tab the Scope is set to "User Activity",  with the following Metrics:
 
 .. image:: dashboard-example-tab-usage.png
 
-**Page Status**:
-Here the setting for Scope is "Pages" with the following Metrics:
+**Page Status**: Here the setting for Scope is "Pages" with the following Metrics:
 
 .. image:: dashboard-example-tab-page-status.png
 
-**Underused Content**
-The Scope for this is also set to page, but this time the following Metrics:
+**Underused Content**: The Scope for this is also set to page, but this time the following Metrics:
 
 .. image:: dashboard-example-tab-page-underused.png
 
-**Reach**
-On the Reach tab, two Metrics blocks are added.
+**Reach**: On the Reach tab, two Metrics blocks are added.
 
 For the "Global News Reach", the Scope is set this way:
 
@@ -100,8 +96,7 @@ And the Metrics, this way:
 
 .. image:: dashboard-example-tab-page-reach-news-local-metrics.png
 
-**Teamwork**
-For this tab, the Scope is set to "Teamwork", with three Metrics:
+**Teamwork**: For this tab, the Scope is set to "Teamwork", with three Metrics:
 
 .. image:: dashboard-example-tab-teamwork.png
 
@@ -109,8 +104,7 @@ A filter is also added so you can choose the type of teamwork, based on template
 
 .. image:: dashboard-example-tab-teamwork-filter.png
 
-**Communities**
-For the "Communites tab" Scope is set to Pages, and the Page Type "Discussion":
+**Communities**: For the "Communites tab" Scope is set to Pages, and the Page Type "Discussion":
 
 .. image:: dashboard-example-tab-communities-scope.png
 
