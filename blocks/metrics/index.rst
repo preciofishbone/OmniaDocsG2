@@ -3,7 +3,7 @@ Metrics block
 
 In omnia 6.5, the Dashoboard is moved to Omnia Admin, see: :doc:`Dashboard in Omnia 6.5 </admin-settings/tenant-settings/dashboard/index>`
 
-You can use this block to display status for either Teamwork, Pages or User Activity. (And you can use this block when you set up the Dashboard in Omnia Admin).
+This block most likely has it's main use for setting up the Dashboard, but it can also be used on apage to display data about either Teamwork, Pages or Activity.
 
 The following settings are available:
 
