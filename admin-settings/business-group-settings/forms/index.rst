@@ -19,7 +19,7 @@ Here you can use the icons (from left to right), to copy the form to a new one, 
 
 Checking responses
 *********************
-If responses are available (can be for Surveys and Polls), you can click this icon to check responses:
+If responses are available (can be for Surveys and Polls), you can click this icon to check them:
 
 .. image:: forms-response-icon.png
 
