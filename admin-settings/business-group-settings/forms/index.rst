@@ -1,13 +1,13 @@
 Forms
 ===========
 
-**This is a work in progress - a preliminary documentaiton of a feature to come in Omnia v6.5.**
+This is a work in progress - a preliminary documentaiton of a feature to come in Omnia v6.5.
 
 Here you can work with three types of forms. 
 
 .. image:: forms-all.png
 
-Surveys has the most options. Polls are similar to Surveys but suitbale for shorter, simpler forms. Checkups are suitable for micro-courses with knowledge checks. See below for implementation examples (will be added soon).
+Surveys has the most options. Polls are similar to Surveys but suitbale for shorter, simpler forms. Checkups are suitable for micro-courses with knowledge checks. .
 
 For each type of form, all existing are listed, Surveys as an example:
 
@@ -25,7 +25,7 @@ Just click the copy icon for a form, and the following is shown:
 
 .. image:: forms-copy.png
 
-Just click OK and a copy will be created. You can edit settings and work with the graphical presentation, the ssame ways as with any other form, see below.
+Just click OK and a copy will be created. You can edit settings and work with the graphical presentation, the same way as with any other form, see below.
 
 Create new form
 ****************
@@ -37,9 +37,9 @@ Do the following to create a new form:
 2. Click the pen to edit the graphical presentation, and save.
 3. To make a form available for users, add the Form block to a suitable page.
 
-When you create a new form, the graphical presentation is opened when you click Save for the settings. (When you edit settings for an existing form, it's not).
-
 You can find more information about the Form block here: :doc:`Form block </blocks/blocks-forms/form/index>`
+
+When you create a new form, the graphical presentation is opened when you click Save for the settings. (When you edit settings for an existing form, it's not).
 
 Settings
 ***********
@@ -48,13 +48,13 @@ The settings are the same for all form types. All settings you use when creating
 .. image:: forms-settings.png
 
 + **Title**: Add a Title for the form here, in any or all of the available languages.
-+ **Use Points**: On per default for Surveys, but can be changed.
-+ **Use Correct Answer**: If it should be possible to show correct answers, after the user has submitted answers, select this option. On per default for Checkups.
++ **Use Points**: Selected per default for Surveys, but can be changed.
++ **Use Correct Answer**: If it should be possible to show correct answers, after the user has submitted answers, select this option. Selected per default for Checkups.
 + **Enable "Check your answers"**: Available when "Use Correct Answer" is selected. When this option is selected, users can click "Check your answers" to see the answers.
-+ **Enable Save for for later**: If the user should be able to save the progress so far and continue later, select this option. If not selected, users have to finsish the Survey/Poll/Checkup in one go.
-+ **Enable Submission**: If it should be possible for users to submit an answer, and just not read the information, select this option. It's always on and can't be unchecked for Surrveys and Polls. For Checkups it's unchecked per default.
-+ **One respons per person**: When Enable Submission is selected, you can schoose if a user should be able to submit answers just once, or several times. On per default for Surveys.
-+ **Make responses anonymus**: When Enable Submission is selected, you can schoose to make answers anonymus. If you do, it's not possible for administrators on any level to trace user submissions. On per default for Polls.
++ **Enable Save for for later**: If the user should be able to save the progress so far and continue later, select this option. If not selected, users have to finish the Survey/Poll/Checkup in one go.
++ **Enable Submission**: If it should be possible for users to submit an answer, and just not read the information, select this option. It's always selected and can't be unchecked for Surrveys and Polls. For Checkups it's unchecked per default.
++ **One respons per person**: When Enable Submission is selected, you can schoose if a user should be able to submit answers just once, or several times. Selected per default for Surveys.
++ **Make responses anonymus**: When Enable Submission is selected, you can schoose to make answers anonymus. If you do, it's not possible for administrators on any level to trace user submissions. Selected per default for Polls.
 + **Custom submit label**: When Enable Submission is selected, you can add a label here if needed.
 + **On Submission**: When Enable Submission is selected, you select what will happen on submission: "Show message" meaning the message you can add above, "Show user respone" and/or "Show all responses" - meaning all user responses for this Surevy or Poll, so far.
 + **Open**: Select this option for dates when the form should be available, and then add Start date and End date.
@@ -71,7 +71,7 @@ As you can see, there are some similarities to working with pages. For example, 
 
 .. image:: surveys-layout-explorer.png
 
-See this page for more information: :doc:`Layout Explorer </general-assets/layout-explorer/index>`
+See this for more information: :doc:`Layout Explorer </general-assets/layout-explorer/index>`
 
 Also similar to working with pages, there is a Design mode and a Preview mode (but no Write mode, because it's not needed here).
 
@@ -83,7 +83,7 @@ The general settings for the graphical presentation are found here:
 
 .. image:: forms-settings-graphical.png
 
-Use the left most icon to select a canvas size (workspace area):
+Use the left-most icon to select a canvas size (workspace area):
 
 .. image:: forms-settings-graphical-workspace.png
 
@@ -91,7 +91,7 @@ Use the icon in the middle to set colors:
 
 .. image:: forms-settings-graphical-colors.png
 
-Use the right most icon to set padding:
+Use the right-most icon to set padding:
 
 .. image:: forms-settings-graphical-padding.png
 
