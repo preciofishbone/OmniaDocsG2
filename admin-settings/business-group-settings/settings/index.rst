@@ -20,6 +20,7 @@ For detailed information, select settings here:
    central-image-location/index
    media-Picker/index
    document-picker/index
+   event-management/index
    info-screen/index
 
 
