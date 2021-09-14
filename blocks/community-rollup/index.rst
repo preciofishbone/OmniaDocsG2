@@ -28,7 +28,7 @@ Here you decide what to rollup in the block.
 
 Display
 --------
-Here ypu can select List View or Card View.
+Here you can select List View or Card View.
 
 .. image:: community-rollup-settings-display.png
 
@@ -41,8 +41,8 @@ Available settings depends on what you select. All options are listed below.
 + **Item Limit**: Set the number of sites to be shown on each "page" of the list.
 + **Sort By**: Select what to sort the list on, and then select Ascending or Descending sorting.
 + **Padding**: You can add some padding between the block's borders and the list.
-+ **Show Follow status**: Follow status is indicated by a star, filled if the teamwork is followed, hollow if not, see below for an example.
-+ **Open in new window**: For some (maybe all) of of the teamworks, it can be a good idea to open the link in a new window.
++ **Show Follow status**: Follow status is indicated by a star, filled if the teamwork is followed, hollow if not.
++ **Open in new window**: For some (maybe all) of the teamworks, it can be a good idea to open the link in a new window.
 
 If you select STYLES for Card View, the following, additional settings becomes available:
 
