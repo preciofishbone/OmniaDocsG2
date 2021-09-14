@@ -20,11 +20,5 @@ Select section for more information:
    queue-logs/index
    spfx-instruction/index
    tenant-contact/index
-   
-In Omnia 6.5 a new option will be added to this menu (click for prel documentation):
-
-.. toctree::
-   :titlesonly:
-
    user-profile-card/index
 
