@@ -23,7 +23,7 @@ Here you decide what to rollup in the block.
 
 + **Scope**: You can choose to rollup all public communities, all communities the logged in user follows, or to display the last communities the user visited. Last Visited in fact lists all communities the logged in user has visited, with the last visited at the top.
 + **Only Current Business Profile**: If only communities from this Business Profile should be listed, select this option (default).
-+ **Site Template**: Select template here.
++ **Site Template**: Select Community template here. You must select template even if there's just one available.
 + **Run Query On Load**: Decide if the query should be run on load, so the list is filled with communities, or not. If a list is very long it can be a good idea to add a search box, and to deselect this option. You add a search box under Filter, see below.
 
 Display
