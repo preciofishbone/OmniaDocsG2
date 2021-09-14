@@ -23,7 +23,7 @@ Here you decide what to rollup in the block.
 
 + **Scope**: You can choose to rollup all public publishing apps, all the logged in user follows, or to display the last publishing app the user visited.
 + **Only Current Business Profile**: If only publishing apps from the current Business Profile should be listed, select this option (default).
-+ **Site Template**: Select Site Template from the list.
++ **Site Template**: Select Publishing App Template from the list. You must select template, even if just one is available.
 + **Run Query On Load**: Decide if the query should be run on load, so the list is filled with publishing apps, or not. If a list is very long it can be a good idea to add a search box, and to deselect this option. You add a search box under Filter, see below.
 
 Display
