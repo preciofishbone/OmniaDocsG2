@@ -149,7 +149,7 @@ In Omnia 6.5 there will be an additional option, specific for Page Rollup:
 
 .. image:: page-rollup-filter-65.png
 
-+ **Save filter state**: If you select this option the filter keeps it's state in the page url. This means the selected filter will still be active when the user goes back to the page. The url can also be copied and for example be used to prepopulate the page rollup.
++ **Save filter state**: If you select this option the filter keeps it's state in the page url as long as the page is active, and will be activated when the user goes back to the page, by using the browser's Back button. The url can also be copied and for example be used to prepopulate the page rollup.
 
 Social Period
 --------------
