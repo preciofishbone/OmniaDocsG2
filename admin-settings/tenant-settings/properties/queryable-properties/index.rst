@@ -11,7 +11,7 @@ In these lists, you add Properties that should be queryable in Omnias database. 
 + **Pages**: In Page Rollup.
 + **Processes**: In Process Rollup.
 
-To be available to add here, a property must first be added to Enterprise Properties. 
+To be available here, a property must first be added to Enterprise Properties. 
 
 The lists are handled the same way, App Instances as an example.
 
