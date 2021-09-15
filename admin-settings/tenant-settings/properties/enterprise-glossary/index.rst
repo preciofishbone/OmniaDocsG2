@@ -88,7 +88,7 @@ Here's a simlple example of a preview:
 
 .. image:: edit-taxonomy-preview.png
 
-The information shown is the Summary from the connected page. The user can click READ MORE to go to the page, for the full information.
+In this example, the information shown is the Summary from the connected page. The user can click READ MORE to go to the page.
 
 To edit the mapping, click the icon to the right:
 
