@@ -31,7 +31,7 @@ You use the icons to (from left to right):
 + Delete the glossary set.
 
 Create a new glossary set
-***************************
+----------------------------
 To create a new glossary set, do the following:
 
 1. Click the plus.
@@ -71,7 +71,7 @@ When you are done:
 .. image:: new-glossary-5.png
 
 Edit taxonomy mapping 
-***************************
+--------------------------
 When you click the icon to edit taxonomy mapping, the following is shown (for example):
 
 .. image:: edit-taxonomy-1.png
@@ -101,7 +101,7 @@ Use the following to edit the mapping:
 The Page Picker is used here. For more information, see the heading "Navigating and picking", on this page: :doc:`Page Picker </general-assets/page-picker/index>`
 
 Edit look and feel
-********************
+----------------------
 When you click the icon to edit look and feel, the following is shown (for example):
 
 .. image:: taxonomy-lookandfeel-1.png
@@ -119,7 +119,7 @@ Use the fields to edit background color, text color, icon type and icon.
 When you're done, click OK to save the changes (or CANCEL to ignore them.)
 
 Edit settings for the information page
-*******************************************
+-----------------------------------------
 When you click the icon to edit the settings for the information page, the following is shown (for example):
 
 .. image:: taxonomy-edit-information-page.png
