@@ -30,7 +30,7 @@ To create a new glossary set, do the following:
 
 .. image:: new-glossary-2.png
 
-If you don't want to connect the glossary set to an information page - for example if it's branding you want to do - you're done now.
+If you don't want to connect the glossary set to an information page - for example if you just want to edit look and feel - you're done now.
 
 To connect to an information page, do the following:
 
