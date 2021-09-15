@@ -5,6 +5,8 @@ This is an ongoing, preliminary documentation for new functionality to come in O
 
 Enterprise Glossary can be used for taxonomies/terms to edit look and feel and/or to connect the term to a page for more information. Terms can even be created specifically to provide more information where it's needed. 
 
+Also, if you plan to use the new block "Taxonomy navigation" you need to set up the taxonomies to be used for navigation here.
+
 Here's an example of a People Rollup displaying three properties:
 
 .. image:: glossary-example.png
@@ -13,9 +15,7 @@ The location and organization properties can be clicked for more information, in
 
 .. image:: glossary-example-info.png
 
-In this example, there's a REDA MORE link that links to the IT Helpdesk organization page, for even more information.
-
-Also, if you plan to use the new block "Taxonomy navigation" you need to set up the taxonomies to be used for navigation here.
+In this example, there's a READ MORE link that links to the IT Helpdesk organization page, for even more information.
 
 Settings
 ****************
