@@ -63,7 +63,7 @@ Set the following here:
 + **Text**: A text can be displayed beside the logo, see example below. Different texts can be added for all tenant languages, if needed.
 + **Logo text**: (A description will be added soon).
 + **Url**: Add the Url to the logo here.
-+ **(Image field)**: Click the pen to add an image, using the Media Picker, the x to delete.
++ **(Image field)**: Click the pen to add a logo image, using the Media Picker, the x to delete.
 
 For information about how to use the Image Picker, see: :doc:`The Media Picker </general-assets/media-picker/index>`
 
