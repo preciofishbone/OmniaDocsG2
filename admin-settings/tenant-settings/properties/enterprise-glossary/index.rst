@@ -126,6 +126,6 @@ When you click the icon to edit the settings for the information page, the follo
 
 See above for a description of the fields.
 
-Don't forget to click OK to save he changes.
+Don't forget to click OK to save the changes.
 
 
