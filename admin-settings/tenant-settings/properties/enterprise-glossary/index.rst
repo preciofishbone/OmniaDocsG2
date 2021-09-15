@@ -54,12 +54,12 @@ To connect to an information page, do the following:
 
 .. image:: new-glossary-4.png
 
-+ **Show Read More**: This is a link to the information page. If you just want to show the Summary from the page as information, deselect this option.
++ **Show Read More**: This is a link to the information page. If you just want to show the Summary and/or Description from the page as information, deselect this option.
 + **Image**: Select the property to use for the image.
 + **Image Ratio**: Select image ratio to be shown in the information dialog.
-+ **Name**: (A description will be added soon).
-+ **Summary**: Select property for the summary. This is what will be shown in the information dialog (see below).
-+ **Description**: (A description  - of the Description (!) - will be added soon).
++ **Name**: Select the property for the page name to be shown in the information dialog (often Title).
++ **Summary**: There's two possible content fields in the information dialog. You can show one or both. Here you can decide to show the page summary, by selecting the property that holds that kind of information.
++ **Description**: You can also choose to show text from a description field, that usually holds more informationy. If you don't want to use a Read More link, you may want to show more information than just the summary. If you want to show a description, select the property here.
 + **Person**: Select property for the name to be shown in the information dialog (see below).
 
 See below for an example of information connected to a term. 
