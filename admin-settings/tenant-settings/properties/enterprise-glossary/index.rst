@@ -9,7 +9,7 @@ Here's an example of a People Rollup displaying three properties:
 
 .. image:: glossary-example.png
 
-The location and organization property can be clicked for more information, indicated by the icon to left of the property name. Here's what such information can look like:
+The location and organization properties can be clicked for more information, indicated by the icon to left of the property name. Here's what such information can look like:
 
 .. image:: glossary-example-info.png
 
