@@ -32,6 +32,6 @@ In Permissions for the page, you can now see (if you are Page Collection adminis
 
 Of course, Page Collection administrators can use the permission settings for a page to do this, but when it's allowed to invite co-authors, authors can do this as well, using the INVITE CO-AUTHOR option.
 
-**NOte!** To remove co-authors you need to be Page Collection administrator as this is done through the Pemission settings for the page.
+**Note!** To remove co-authors you need to be Page Collection administrator as this is done through the Pemission settings for the page.
 
 
