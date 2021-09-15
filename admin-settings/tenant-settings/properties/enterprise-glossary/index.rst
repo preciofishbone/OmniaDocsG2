@@ -7,7 +7,7 @@ Enterprise Glossary can be used for taxonomies/terms for more details. It can, f
 
 Also, if you plan to use the new block "Taxonomy navigation" you need to set up the taxonomies to be used for navigation here.
 
-The existing glossary sets are listed here:
+The existing glossary sets are listed here (for example):
 
 .. image:: enterprise-glossary-list.png
 
@@ -113,10 +113,5 @@ When you click the icon to edit the settings for the information page, the follo
 .. image:: taxonomy-edit-information-page.png
 
 Don't forget to click OK to save he changes.
-
-
-
-
-
 
 
