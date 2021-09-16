@@ -15,7 +15,7 @@ See this page for information about setting up the RTF editor: :doc:`RTF Editor 
 
 And this page for information about how to use it: :doc:`The RTF Editor </general-assets/rtf-editor/index>`
 
-To edit a page variation (if Automatic Machione Translation is not used), for example for another language, do the following:
+To edit a page variation (if Automatic Machine Translation is not used), for example for another language, do the following:
 
 1. Edit the page.
 2. Select variation to work with.
