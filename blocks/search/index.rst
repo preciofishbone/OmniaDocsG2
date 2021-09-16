@@ -42,8 +42,7 @@ But if you would like to set specific category settings for this block, deselect
 
 .. image:: search-block-settings-categories-settings-new.png 
 
-**Quick Search - General**
-To add search categories for Quick Search, open the list and select.
+**Quick Search - General**: Use it to add search categories for Quick Search. Open the list and select.
 
 .. image:: search-block-settings-categories-quick-select.png 
 
@@ -55,8 +54,7 @@ You can set image/icon size to small, medium or large.
 
 .. image:: search-block-settings-categories-quick-select-icon-size.png 
 
-**Quick Search - View more results**
-Under "View more results" you can set where the "View more" link is placed; "At bottom", "Per category" or "Custom Target". 
+**Quick Search - View more results**: Under "View more results" you can set where the "View more" link is placed; "At bottom", "Per category" or "Custom Target". 
 
 .. image:: search-block-settings-categories-quick-view-more.png 
 
@@ -64,8 +62,7 @@ For Custom Target you can add a link to go to and can choose to open that link i
 
 .. image:: search-block-settings-categories-quick-view-more-link.png 
 
-**Advanced Search**
-For Advanced Seaerch you can set Refiner Position to Left or Right, and you can select Search Categories.
+**Advanced Search**: Here you can set Refiner Position to Left or Right, and you can select Search Categories to be shown.
 
 When you have selected a number of categories, you can click the pen for more settings, for that category.
 
