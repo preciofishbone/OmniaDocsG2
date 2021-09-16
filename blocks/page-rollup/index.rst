@@ -129,6 +129,10 @@ In Omnia 6.5, the new Navigation View can be used to display a mega menu style n
 
 .. image:: navigation-view-mega-example.png
 
+A third thing that is new in Omnia 6.5: The card view for Page Rollup now supports a dynamic number of properties that can be displayed in the card. Here's an example:
+
+.. image:: pagerollup-cardview-terms.png
+
 Style settings
 ----------------
 For Roller, Dynamic Roller and Card, extra Style settings are available, for example (Card):
