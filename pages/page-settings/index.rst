@@ -52,11 +52,11 @@ Here you set up the Page Variations that should be possible to use in the Publis
 
 In Omnia 6.5 there's a new option for variations - Automatic Machine Translation, see below.
 
-It's also possible to add a variation author for each variation.
+It's also possible to add one variation author for each variation.
 
 .. image:: page-settings-variations-new4.png
 
-You see the variations that has been set up so far, with information about for example targeting. A "Variaton" in the tenant's default language is also listed here - note the label "Default" in the image above. For all pages, a variation with the default language must always exist. That is what is added when a page is created the first time
+You see the variations that has been set up so far, with information about for example targeting. A "Variaton" in the tenant's default language is also listed here - note the label "Default" in the image above. For all pages, a variation with the default language must always exist. That is what is added when a page is created the first time.
 
 To edit the settings for a variation, click the pen. To delete a variation, click the dust bin.
 
@@ -134,11 +134,5 @@ For more advanced statistics in Omnia, this is the place to add the scripts you 
 .. image:: page-settings-statistics-new2.png
 
 Don't forget to save. The "Save" button is located in the lower right corner.
-
-
-
-
-
-
 
 
