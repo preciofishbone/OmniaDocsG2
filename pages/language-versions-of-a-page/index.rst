@@ -3,7 +3,7 @@ Language versions of a page
 
 Do you need to publish a page in more than one language? Then you use the option "Page Variations". 
 
-First a Publishing App Administrator must set up the variations in the Page Settings, see this page: :doc:`Publishing App settings </pages/page-settings/index>`
+First a Publishing App Administrator must set up the variations in the Settings, see this page: :doc:`Publishing App settings </pages/page-settings/index>`
 
 Specific authors can be set up for a variation, and if not, all authors of a page can edit all variations.
 
