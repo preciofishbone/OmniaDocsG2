@@ -5,12 +5,13 @@ This is an ongoing, preliminary documentation for functionality to come in Omnia
 
 Within a Business Profile several Publishing Apps can be active for different settings. To be able to create a Publishing App, at least one template for Publishing Apps must be available. If none are, create a template first.
 
-Here you will see a list of Publishing Apps in the Business Profile:
+Here you will see a list of Publishing Apps in the Business Profile, for example:
 
 .. image:: publishing-apps-apps-65.png
 
 Use the icons this way:
 
++ The left most icon to edit the app route.
 + The key to edit permissions for the Publishing Apps.
 + The boxes to activate, deactivate or upgrade features.
 + The pen to edit the settings (same as when creating a new, see below).
@@ -70,9 +71,9 @@ If you click Approve, the publishing app is created and the colleague requesting
 
 .. image:: publishing-pending-approval-comment.png
 
---------------
-
-The functionality for Apps is very similar to Omnia 6.0. The main difference is that an icon has been added, to edit the app route, if nedded:
+Edit App Route
+*****************
+If it should be needed to add the Aoo Route, click the icon and the following is shown:
 
 .. image:: publishing-apps-app-route-65.png
 
