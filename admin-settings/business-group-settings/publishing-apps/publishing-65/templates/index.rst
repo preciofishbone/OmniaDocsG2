@@ -65,11 +65,46 @@ Select the features that should be available for the publishing app (all are not
 
 Setup
 -------
-Using the options here you can set which parts of a publishing app that should be created when this template is used:
+Using the options here you can set which parts of a publishing app that should be created when this template is used. There's also som settings available.
 
-.. image:: publishing-edit-setup.png
+.. image:: publishing-edit-setup-new.png
 
-(More information about this will be added soon).
+To edit settings, click "Publilshing App Settings". Here you can set the following:
+
+.. image:: publishing-edit-setup-settings.png
+
++ **Enable Reuse Content**: If publishing apps created from this template should allow reuse of content, select this option. This can be edited later by a Publishing App Administrator.
++ **Contact Property**: Select the default property for page contact.
++ **Review Date Property**: Select the default property for review date.
+
+You can also add page collections to be created automatically when a publishing app is created from this template. This is how:
+
+1. Click the plus for "Page Collection".
+
+.. image:: publishing-page-collection.png
+
+2. Create a page collection using the following settings:
+
+.. image:: publishing-page-collection-settings.png
+
+3. Choose to use a Navigation Structure or just Flat, meaning no navigation structure.
+
+One example where “Flat” is a relevant choice, is when creating a new Page Collection for News.
+
+4. Type a name for the new Page Collection.
+
+An Url is added, based on the name. It can be edited if needed.
+
+5. Click “Create”.
+6. Edit the settings.
+
+.. image:: publishing-page-collection-settings-edit.png
+
+(All settings are not shown in the image).
+
+You use these settings the same way as is described on this page: :doc:`Page Collections </pages/page-sollections/index>`
+
+Don't forget to save when you're ready (the "Save" option is located in the low right corner).
 
 Custom steps
 ---------------
