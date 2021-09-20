@@ -102,7 +102,7 @@ An Url is added, based on the name. It can be edited if needed.
 
 (All settings are not shown in the image).
 
-You use these settings the same way as is described on this page: :doc:`Page Collections </pages/page-sollections/index>`
+You use these settings the same way as is described on this page: :doc:`Page Collections </pages/page-collections/index>`
 
 Don't forget to save when you're ready (the "Save" option is located in the low right corner).
 
@@ -112,8 +112,8 @@ When you have added one or more Page Collections, you can use the the icons to:
 
 .. image:: publishing-page-collection-settings-icons.png
 
-+ Sort the order in which they are shown (left most icon).
-+ Edit the settings (the cog wheel).
++ Sort the order in which they are shown (left-most icon).
++ Edit the settings (the cogwheel).
 + Delete a Page Collection.
 
 Custom steps
