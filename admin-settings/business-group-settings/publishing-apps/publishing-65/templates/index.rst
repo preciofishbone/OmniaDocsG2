@@ -65,19 +65,19 @@ Select the features that should be available for the publishing app (all are not
 
 Setup
 -------
-Using the options here you can set which parts of a publishing app that should be created when this template is used. There's also som settings available.
+Using the options here you can create one or more Page Collections to be set up automatically when this template is used. There's also some settings available.
 
 .. image:: publishing-edit-setup-new.png
 
-To edit settings, click "Publilshing App Settings". Here you can set the following:
+To edit settings, click "Publishing App Settings" and use the following settings (can be edited later by a Publishing App Administrator):
 
 .. image:: publishing-edit-setup-settings.png
 
-+ **Enable Reuse Content**: If publishing apps created from this template should allow reuse of content, select this option. This can be edited later by a Publishing App Administrator.
++ **Enable Reuse Content**: If publishing apps created from this template should allow reuse of content, select this option. 
 + **Contact Property**: Select the default property for page contact.
 + **Review Date Property**: Select the default property for review date.
 
-You can also add page collections to be created automatically when a publishing app is created from this template. This is how:
+To create one or more Page Coillections, do the following:
 
 1. Click the plus for "Page Collection".
 
@@ -89,7 +89,7 @@ You can also add page collections to be created automatically when a publishing 
 
 3. Choose to use a Navigation Structure or just Flat, meaning no navigation structure.
 
-One example where “Flat” is a relevant choice, is when creating a new Page Collection for News.
+One example where “Flat” is a relevant choice, is when creating a Page Collection for News.
 
 4. Type a name for the new Page Collection.
 
@@ -105,6 +105,16 @@ An Url is added, based on the name. It can be edited if needed.
 You use these settings the same way as is described on this page: :doc:`Page Collections </pages/page-sollections/index>`
 
 Don't forget to save when you're ready (the "Save" option is located in the low right corner).
+
+To add another Page Collection, just do it the same way.
+
+When you have added one or more Page Collections, you can use the the icons to:
+
+.. image:: publishing-page-collection-settings-icons.png
+
++ Sort the order in which they are shown (left most icon).
++ Edit the settings (the cog wheel).
++ Delete a Page Collection.
 
 Custom steps
 ---------------
