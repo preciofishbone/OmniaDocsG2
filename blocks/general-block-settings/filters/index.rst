@@ -1,7 +1,7 @@
 Filter UI
 ============
 
-Here's a general description on how to add filters for a block, when the option is available:
+Here's a general description on how to add filters for a block, when the option is available. Here, all options are describe, even if all is not available everywhere.
 
 The first step is:
 
