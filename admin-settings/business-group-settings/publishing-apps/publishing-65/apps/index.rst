@@ -9,57 +9,41 @@ Here you will see a list of Publishing Apps in the Business Profile, for example
 
 .. image:: publishing-apps-apps-65.png
 
+You can click the link to go the app.
+
 Use the icons this way:
 
-+ The left most icon to edit the app route.
-+ The key to edit permissions for the Publishing Apps.
++ The left most icon to edit the app route, if needed.
++ The key to add or remove App Administrators.
 + The boxes to activate, deactivate or upgrade features.
 + The pen to edit the settings (same as when creating a new, see below).
 + The dust bin to delete a Publishing App that has been created by mistake.
 
-For description of settings you can edit, see below.
+Edit App Route
+*****************
+If it should be needed to add the Aoo Route, click the icon and the following is shown:
 
-Create a new Publishing App
-*****************************
-Do the following:
+.. image:: publishing-apps-app-route-65.png
 
-1. Click the plus.
+Edit Permissions
+*****************
+If you need to add or remove App Administrators, you do it here:
 
-.. image:: publishing-apps-click-plus-new3.png
+.. image:: publishing-apps-app-premissions-65.png
 
-2. Select a Provisioning Template.
+Don't forget to save when you're done.
 
-.. image:: publishing-app-template-new.png
+Edit Features
+**************
+If it's needed to upgrade a feature for the Publishing App, you need to go here. You also go here to activate or remove a feature.
 
-3. Use the following settings:
-
-.. image:: publishing-app-template-new2.png
-
-Available settings depends on how the template is set up. Here are some common examples:
-
-+ **Title**: Add a Title for the Publishing App.
-+ **Description**: Add a Description if needed.
-+ **Sharepoint Alias**: The last part of the Url to the Publishing App is shown here. It can be edited if needed.
-+ **Document Library Url**: To make the Publishing App's Document library available in for example the Add Link asset and in the Document Picker, the full Sharepoint Url to the Document library must be added here.
-+ **Allow User Upload Document**: The Administrator of the Publishing App will always be able to upload documents to the Document Library. If end users should be able to do that as well, select this option.
-
-4. Click "Next" and use the following settings:
-
-.. image:: publishing-apps-settings-3.png
-
-+ **App Administrators**: The active Administrator (you) is automatically added as App Administrator. Add or delete administrators as needed. 
-
-3. Click "CREATE" to create the Publishing App.
-
-Publishing App settings
-*************************
-Settings for a Publishing App is done in the Settings menu when working with pages, see: :doc:`Publishing App Settings </pages/page-settings/index>`
+.. image:: publishing-apps-app-features-65.png
 
 Pending Approval
 *****************
-If Approval for creation is activated for the Provisioning Template, this is one of the places where an administrator can work with approval or rejection.
+If Approval for creation is activated for the template, an administrator uses this list to work with approval or rejection.
 
-The list can look like this:
+The list can look like this (example from Omnia 6.0):
 
 .. image:: publishing-pending-approval.png
 
@@ -71,9 +55,43 @@ If you click Approve, the publishing app is created and the colleague requesting
 
 .. image:: publishing-pending-approval-comment.png
 
-Edit App Route
-*****************
-If it should be needed to add the Aoo Route, click the icon and the following is shown:
+Create a new Publishing App
+*****************************
+Do the following:
 
-.. image:: publishing-apps-app-route-65.png
+1. Click the plus.
+
+.. image:: publishing-apps-click-plus-65.png
+
+2. Select a template.
+
+.. image:: publishing-app-template-65.png
+
+3. Use the following settings:
+
+.. image:: publishing-app-template-settings-65.png
+
+Available settings depends on how the template is set up. Here are some common examples:
+
++ **Title**: Add a Title for the Publishing App.
++ **Description**: Add a Description if needed.
++ **Add Image**: (A description will be added soon).
++ **Show in Public Listings**: If a link to the app should be available in public listings (meaning listings in Omnia), should be available, select this option. If this option is deselected, the app can only be reached by specific links, for example in a Workplace navigation.
++ **Sharepoint Alias**: The last part of the Url to the Publishing App is shown here. It can be edited if needed.
++ **Omnia Alias**: The last part of the address to the site is created automatically but can be edited if necessary. If the name (address) already exists an alternative address is suggested.
++ **Document Library Url**: To make the Publishing App's Document library available in for example the Add Link asset and in the Document Picker, the full Sharepoint Url to the Document library must be added here.
++ **Allow User Upload Document**: The Administrator of the Publishing App will always be able to upload documents to the Document Library. If end users should be able to do that as well, select this option.
+
+4. Click "Next" and use the following settings:
+
+.. image:: publishing-apps-settings-65.png
+
++ **App Administrators**: The active Administrator (you) is automatically added as App Administrator. Add or delete administrators as needed. 
+
+3. Click "CREATE" to create the Publishing App.
+
+Publishing App settings
+*************************
+Settings for a Publishing App is done in the Settings menu when working with pages, see: :doc:`Publishing App Settings </pages/page-settings/index>`
+
 
