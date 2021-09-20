@@ -52,7 +52,11 @@ Here you can set custom colors for the icons, if needed:
 
 Custom Sort
 -------------
-(A description will be added soon.)
+If you selected "Cistom Sort" above, the following is shown:
+
+.. image:: header-custom-sort.png
+
+Use the arrows to decide in which order items form the various sources are shown.
 
 Logo
 ************
