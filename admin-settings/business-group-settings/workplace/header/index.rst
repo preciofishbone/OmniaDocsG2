@@ -45,7 +45,7 @@ The available settings are the same as in the tenant settings. See the heading "
 
 Classic Mega Menu
 *******************
-These settings are available when “Classic Action Menu & Mega Menu” is selected for the Business profile.
+These settings are available when “Classic Action Menu & Mega Menu” is selected for the Business profile. (They are the same as was in Omnia 6.0).
 
 .. image:: workplace-header-classic-mega-menu.png
 
@@ -61,7 +61,7 @@ These settings are available when “Classic Action Menu & Mega Menu” is selec
 
 Classic Action Menu
 **********************
-These settings are available when “Classic Action Menu & Mega Menu” is selected for the Business profile.
+These settings are available when “Classic Action Menu & Mega Menu” is selected for the Business profile. (They are the same as was in Omnia 6.0).
 
 .. image:: workplace-header-classic-action-menu.png
 
