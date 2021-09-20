@@ -49,7 +49,15 @@ These settings are available when “Classic Action Menu & Mega Menu” is selec
 
 .. image:: workplace-header-classic-mega-menu.png
 
-You use them the same way as the Mega Menu settings in Omnia 6.0. See the heading "Mega Menu" on this page: :doc:`Header settings in Business Profile </admin-settings/business-group-settings/settings/header/index>`
++ **Publishing App**: If you use more than one Publishing App in this Business Profile, you can select Publishing App here.
++ **Page Collection**: Select Page Collection the Publishing Pages of the Business Profile.
++ **Static Display Level**: Defines the number of levels in the navigation term set that will always be displayed in the menu.
++ **Dynamic Display Level**: Defines the number of levels in the navigation term set that should be displayed in the mega menu when a user clicks an item in the static menu.
++ **Max Height**: As Default, the menu's Height is dynamic, meaning it adapts to the Height needed. You can set a fixed Height in pixels if you wish.
++ **Max Width**: As Default, the menu's Width is dynamic, meaning it adapts to the Width needed. You can set a fixed Wodth in pixels if you wish.
++ **Background Color**: As Default, the Background Color for the Mega Menu is the same as the Header, but you can set another Background Color if you wish.
++ **Text Color**: As Default, the Text Color for the Mega Menu is the same as the text in the Header, but you can set another Text Color if you wish.
++ **Selected Border Color**: Ypou can set Border Color separately if you wish. Default=no Color.
 
 Classic Action Menu
 **********************
