@@ -9,7 +9,7 @@ Here you will see a list of Community Apps in the Business Profile, for example:
 
 .. image:: communities-apps-65.png
 
-You can click the link to go the app.
+You can click the link to go to the app.
 
 Use the icons this way:
 
