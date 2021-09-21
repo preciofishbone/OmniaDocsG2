@@ -77,10 +77,7 @@ Available settings depends on how the template is set up. Here are some common e
 + **Description**: Add a Description if needed.
 + **Add Image**: (A description will be added soon).
 + **Show in Public Listings**: If a link to the app should be available in public listings (meaning listings in Omnia), should be available, select this option. If this option is deselected, the app can only be reached by specific links, for example in a Workplace navigation.
-+ **Sharepoint Alias**: The last part of the Url to the Community App is shown here. It can be edited if needed.
 + **Omnia Alias**: The last part of the address to the site is created automatically but can be edited if necessary. If the name (address) already exists an alternative address is suggested.
-+ **Document Library Url**: To make the Community App's Document library available in for example the Add Link asset and in the Document Picker, the full Sharepoint Url to the Document library must be added here.
-+ **Allow User Upload Document**: The Administrator of the Community App will always be able to upload documents to the Document Library. If end users should be able to do that as well, select this option.
 
 4. Click "Next" and use the following settings:
 
@@ -89,6 +86,18 @@ Available settings depends on how the template is set up. Here are some common e
 + **App Administrators**: The active Administrator (you) is automatically added as App Administrator. Add or delete administrators as needed. 
 
 3. Click "CREATE" to create the Community App.
+
+Next step can be to add some properties, for example:
+
+.. image:: community-apps-properties-65.png
+
+In this example, you can see that each option is indicated by a star.
+
+4. Add information to the fields and select "Is Active".
+
+In this example the template stipulates that Communities must be approved by an administrator, hence SEND FOR APPROVAL. If self service would is selected for the template, it would say CREATE.
+
+5. Create the Community or send for approval, depending on how the template is set up.
 
 Community App settings
 *************************
