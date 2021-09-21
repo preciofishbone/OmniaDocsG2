@@ -55,7 +55,7 @@ If you click Approve, the Community App is created and the colleague requesting 
 
 .. image:: community-pending-approval-comment.png
 
-**Note!** Requesting a site must always be done from start each time. If rejected, nothing from the request is saved.
+**Note!** Requesting an app must always be done from start each time. If rejected, nothing from the request is saved.
 
 Create a new Community App
 *****************************
