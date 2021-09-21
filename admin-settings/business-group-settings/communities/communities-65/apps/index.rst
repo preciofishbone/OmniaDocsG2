@@ -13,7 +13,7 @@ You can click the link to go to the app.
 
 Use the icons this way:
 
-+ The left most icon to edit the app route, if needed.
++ The left-most icon to edit the app route, if needed.
 + The key to add or remove App Administrators.
 + The boxes to activate, deactivate or upgrade features.
 + The pen to edit the settings (same as when creating a new, see below).
