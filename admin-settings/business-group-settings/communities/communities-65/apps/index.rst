@@ -43,7 +43,7 @@ Pending Approval
 *****************
 If Approval for creation is activated for the template, an administrator uses this list to work with approval or rejection.
 
-The list can look like this (image to be added):
+The list can look like this:
 
 .. image:: community-pending-approval.png
 
