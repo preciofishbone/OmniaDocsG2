@@ -9,11 +9,11 @@ Here you will see a list of Publishing Apps in the Business Profile, for example
 
 .. image:: publishing-apps-apps-65.png
 
-You can click the link to go the app.
+You can click the link to go to the app.
 
 Use the icons this way:
 
-+ The left most icon to edit the app route, if needed.
++ The left-most icon to edit the app route, if needed.
 + The key to add or remove App Administrators.
 + The boxes to activate, deactivate or upgrade features.
 + The pen to edit the settings (same as when creating a new, see below).
@@ -27,7 +27,7 @@ If it should be needed to edit the App Route, click the icon and the following i
 
 Edit Permissions
 *****************
-If you need to add or remove App Administrators, you do it here:
+If you need to add or remove Administrator(s) for a Publishing App, you do it here:
 
 .. image:: publishing-apps-app-premissions-65.png
 
