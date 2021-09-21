@@ -65,11 +65,56 @@ Select the features that should be available for the community (all are not show
 
 Setup
 -------
-Using the options here you can set which parts of a community that should be created when this template is used:
+Using the options here you can create one or more Page Collections to be set up automatically when this template is used, such as Knowledge Articles and Discussion. There's also some settings available.
 
-.. image:: community-edit-setup.png
+.. image:: community-edit-setup-new.png
 
-(More information about this will be added soon).
+To edit settings, click "Publishing App Settings" and use the following settings (can be edited later by a Publishing App Administrator for the Community):
+
+.. image:: community-edit-setup-settings.png
+
++ **Enable Reuse Content**: If publishing apps created from this template should allow reuse of content, select this option. 
++ **Contact Property**: Select the default property for page contact.
++ **Review Date Property**: Select the default property for review date.
+
+To create one or more Page Collections, do the following:
+
+1. Click the plus for "Page Collection".
+
+.. image:: community-page-collection.png
+
+2. Create a page collection using the following settings:
+
+.. image:: community-page-collection-settings.png
+
+3. Choose to use a Navigation Structure or just Flat, meaning no navigation structure.
+
+One example where “Flat” is a relevant choice, is when creating a Page Collection for News.
+
+4. Type a name for the new Page Collection.
+
+An Url is added, based on the name. It can be edited if needed.
+
+5. Click “Create”.
+6. Edit the settings.
+
+.. image:: community-page-collection-settings-edit.png
+
+(All settings are not shown in the image).
+
+You use these settings the same way as is described on this page: :doc:`Page Collections </pages/page-collections/index>`
+
+Don't forget to save when you're ready (the "Save" option is located in the low right corner).
+
+To add another Page Collection, just do it the same way.
+
+When you have added one or more Page Collections, you can use the the icons to:
+
+.. image:: community-collection-settings-icons.png
+
++ Sort the order in which they are shown (left-most icon).
++ Edit the settings (the cogwheel).
++ Delete a Page Collection.
 
 Custom steps
 ---------------
