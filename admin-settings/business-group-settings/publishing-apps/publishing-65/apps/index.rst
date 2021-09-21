@@ -55,6 +55,8 @@ If you click Approve, the publishing app is created and the colleague requesting
 
 .. image:: publishing-pending-approval-comment.png
 
+**Note!** Requesting an app must always be done from start each time. If rejected, nothing from the request is saved.
+
 Create a new Publishing App
 *****************************
 Do the following:
@@ -89,6 +91,8 @@ Available settings depends on how the template is set up. Here are some common e
 + **App Administrators**: The active Administrator (you) is automatically added as App Administrator. Add or delete administrators as needed. 
 
 3. Click "CREATE" to create the Publishing App.
+
+If the template was set up for approval, the last option would SEND FOR APPROVAL instead.
 
 Publishing App settings
 *************************
