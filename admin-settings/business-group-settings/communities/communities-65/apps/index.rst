@@ -93,15 +93,15 @@ Next step can be to add some properties, for example:
 
 .. image:: community-apps-properties-65.png
 
-In this example, you can see that each option is indicated by a star.
+In this example, you can see that each option is indicated by a star, indicating they are mandatory.
 
 4. Add information to the fields and select "Is Active".
 
-In this example the template stipulates that Communities must be approved by an administrator, hence SEND FOR APPROVAL. If self service would is selected for the template, it would say CREATE.
+In this example the template stipulates that Communities must be approved by an administrator, hence SEND FOR APPROVAL. If self service is selected for the template, it would say CREATE.
 
 5. Create the Community or send for approval, depending on how the template is set up.
 
 Community App settings
 *************************
-Settings for a Community App is the same as a Publishing App, and it's is done in the Settings menu the Community, see: :doc:`Publishing App Settings </pages/page-settings/index>`.
+Settings for a Community App is the same as a Publishing App, and it's done in the Settings menu for the Community, see: :doc:`Publishing App Settings </pages/page-settings/index>`.
 
