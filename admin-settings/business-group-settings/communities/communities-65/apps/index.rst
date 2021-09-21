@@ -103,5 +103,5 @@ In this example the template stipulates that Communities must be approved by an 
 
 Community App settings
 *************************
-(A description will be added soon).
+Settings for a Community App is the same as a Publishing App, and it's is done in the Settings menu the Community, see: :doc:`Publishing App Settings </pages/page-settings/index>`.
 
