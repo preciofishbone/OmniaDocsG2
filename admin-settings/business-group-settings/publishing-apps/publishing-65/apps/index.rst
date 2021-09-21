@@ -92,7 +92,7 @@ Available settings depends on how the template is set up. Here are some common e
 
 3. Click "CREATE" to create the Publishing App.
 
-If the template was set up for approval, the last option would SEND FOR APPROVAL instead.
+If the template was set up for approval, the last option would be SEND FOR APPROVAL instead.
 
 Publishing App settings
 *************************
