@@ -124,9 +124,13 @@ In Omnia 6.5 a Stepper section is available.
 
 .. image:: stepper-section.png
 
-When working with a Stepper section you can add a label for each step and add and remove steps. 
+A Stepper section makes it possible to organize content in a layout in a wizard-like style. It is possible to configure the Stepper to allow for an author to add new steps in Write mode.
 
 .. image:: working-with-stepper.png
+
+Here's an example where a Stepper section is used:
+
+.. image:: working-with-stepper-example.png
 
 All settings for sections are available for the Stepper section.
 
