@@ -7,7 +7,7 @@ The Search block can be used for Quick Search or Advanced Search.
 
 Settings for Search are set up in Omnia Admin, see: :doc:`Business Profile Settings - Search </admin-settings/business-group-settings/search/index>`
 
-In Omnia 6.5 you will also be able to configure the use of search categories or inherit the ones configured on the Business Profile. See the heading "Search Categories" below.
+In Omnia 6.5 you can configure the use of search categories or inherit the ones configured on the Business Profile. See the heading "Search Categories" below.
 
 Settings
 **********
@@ -32,7 +32,7 @@ The General settings are:
 
 Search Categories
 -------------------
-This option will be available in Omnia 6.5.
+This option is available in Omnia 6.5.
 
 .. image:: search-block-settings-categories.png 
 
@@ -72,7 +72,7 @@ These settings are available for each category:
 
 .. image:: search-block-settings-categories-advanced-settings.png 
 
-Also note that an important difference in Omnia 6.5 will be that search categories (tabs) that do not generate any result will be hidden in Advanced Search.
+Also note that an important difference in Omnia 6.5 is that search categories (tabs) that do not generate any result is hidden in Advanced Search.
 
 Style
 --------
@@ -119,7 +119,5 @@ When a user has conducted an Advanced search using this block, it can look like 
 .. image:: advanced-search-example-block-new.png
 
 Refiners, Refiner position and Search categories are set up in Omnia Admnin, see the Heading "Advanced Search" on this page: :doc:`Business Profile Settings - Search </admin-settings/business-group-settings/search/index>`
-
-
 
 
