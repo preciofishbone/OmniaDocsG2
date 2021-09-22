@@ -9,6 +9,8 @@ General
 **********
 What you can set under General depends on if you select a section with columns or a section with tabs. 
 
+**Note!** In Omnia 6.5, there's four section types available; Column, Tab, Accordion and Stepper. See below for more information.
+
 General settings for a section with columns
 ------------------------------------------------
 For a section with columns, the following can be set:
@@ -44,14 +46,50 @@ By clicking the pen, the following can be set for a tab:
 + **Tooltip**: If a tooltip should be shwon for the tab, add it here.
 + **Icon**: First select the "Icon Type" and then select the icon in the list below, if an icon should be shown. (If no icon should be shown, just don't select an icon, it doesn't matter that an Icon Type is selected.)
 
+General settings for an Accordion section
+--------------------------------------------
+This type of section is available in Omnia 6.5.
+
+For an Accordion section, the following can be set:
+
+.. image:: page-types-general-accordion.png
+
++ **Width Type**: Set dynamic width ("Full Page") or a fixed width in pixels. When you have selected Fixed, a slider is shown where you can set the width.
++ **Panels**: Here you can edit the settings for each panel, by clicking the pen. See information about these settings below.
++ **ADD PANEL**: Ta add a new panel, click here. You edit the settings as described below. To remove a panel, click the dust bin. 
+
+By clicking the pen, the following can be set for a panel:
+
++ **Label**: If a label should be shown for the panel, add the label here.
++ **Tooltip**: If a tooltip should be shwon for the panel, add it here.
++ **Icon**: First select the "Icon Type" and then select the icon in the list below, if an icon should be shown. (If no icon should be shown, just don't select an icon, it doesn't matter that an Icon Type is selected.)
+
+General settings for a Stepper section
+--------------------------------------------
+This type of section is available in Omnia 6.5.
+
+For a Stepper section, the following can be set:
+
+.. image:: page-types-general-stepper.png
+
++ **Width Type**: Set dynamic width ("Full Page") or a fixed width in pixels. When you have selected Fixed, a slider is shown where you can set the width.
++ **Panels**: Here you can edit the settings for each panel, by clicking the pen. See information about these settings below.
++ **Vertical**: To show the steps vertically instead of horisontally, select this option.
++ **Allow user to jump to any step**: If this option is selected, users can go to any step ny clicking the label, if not, users can only go to the next or the previous step.
++ **Scroll to top on Previous/Next**: If this option is selected, the step page is always shown from the top, when users goes to next or previous. If not selected, no scroll is made.
++ **ADD STEP**: Ta add a new step, click here. To add or edit the label for a step, click the pen. To delete a step, click the dust bin. 
+
 Spacing
 ***********
 Here you can set the following:
 
 .. image:: page-types-spacing-new.png
 
+Available options depends on section type chosen.
+
 + **Section Padding**: Here you can set some padding within the active section.
-+ **Column Spacing**: Here you can set the spacing between the columns in this section.
++ **Column Spacing**: Here you can set the spacing between the columns in this section. Available if section type Column is selected.
++ **Label Padding**: For an Accordion section, you can set label padding. Available if section type Accordion is selected.
 + **Block Spacing**: You can set spacing between blocks in this section. 
 + **Minimum Height**: You can make sure that this section always has a minimun height, regardless of what is shown in the section. Use the slider to set the minimum height in pixels.
 + **Use Full Height**: This option is a way of making sure a layout with more than one column or section is balanced. When this option is selected, all adjacent sections has the same length. See below for examples.
@@ -66,7 +104,7 @@ And here's the same page with the option off for the left section:
 
 Style
 ************
-Available settings for Style depends on if it's a section with columns or a section with tabs.
+Available settings for Style depends on section type chosen.
 
 Style settings for columns
 ------------------------------
@@ -105,6 +143,25 @@ If it's a section with tabs, additional settings can be set for Style, for the a
 + **Color**: Select "Color" for various color settings for the tabs. 
 + **Collapsed Accordion**: Used for Tab Typ Accordion only. If this option is selected, only one accordion will be expanded at a time.
 + **Flat Header**: Per default, the tab is slightly elevated. Select this option to make it flat.
+
+Style settings for Accordion
+------------------------------
+(Available in Omnia 6.5).
+
+If it's an Accordion section, additional settings can be set for Style, for the active section:
+
+.. image:: page-types-style-accordion.png
+
+(Not all options are shown in the image, but listed below).
+
+Under **General**, the following is available:
+
++ **Collapsed Accordion**: If this option is selected, only one accordion will be expanded at a time.
++ **Flat Header**: Per default, the tab is slightly elevated. Select this option to make it flat.
++ **Single Select**: (A description will be added soon).
++ **Elevation**: For an elevated look, use this slider.
++ **Background color**: Use these two options to set background color: RANDOM and ADD COLOR.
++ **Acrylic Transparency Effect**: You can try this effect and see a preview in the section. 
 
 Effects
 --------
