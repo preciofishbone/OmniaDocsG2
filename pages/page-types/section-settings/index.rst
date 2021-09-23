@@ -126,7 +126,7 @@ For more information about Crop Ratios, se this page: :doc:`Media Picker Setting
 
 Style settings for tabs
 --------------------------
-If it's a section with tabs, additional settings can be set for Style, for the active section:
+If it's a section with tabs, this can be set for Style, for the active section:
 
 .. image:: page-types-style-tabs-new.png
 
@@ -148,7 +148,7 @@ Style settings for Accordion
 ------------------------------
 (Available in Omnia 6.5).
 
-If it's an Accordion section, additional settings can be set for Style, for the active section:
+If it's an Accordion section, the following Style settings are available for the active section:
 
 .. image:: page-types-style-accordion.png
 
@@ -171,7 +171,7 @@ Style settings for Stepper
 ------------------------------
 (Available in Omnia 6.5).
 
-If it's a Stepper section, additional settings can be set for Style, for the active section:
+If it's a Stepper section, the following Style settings are available for the active section:
 
 .. image:: page-types-style-stepper-new.png
 
