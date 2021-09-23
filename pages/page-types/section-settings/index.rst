@@ -162,16 +162,40 @@ Under **General**, the following is available:
 + **Elevation**: For an elevated look, use this slider.
 + **Background color**: Use these two options to set background color: RANDOM and ADD COLOR.
 + **Acrylic Transparency Effect**: You can try this effect and see a preview in the section. 
++ **Background**: To select a background image, click ADD IMAGE and use the Media Picker to select image.
++ **Editable in Write Mode**: if it should be possibe to edit background image in Write mode, select this option. If not, it's only possible in Design mode.
++ **Page Image Property**: (A description will be added soon).
++ **Crop Ratios**: (A description will be added soon). To add a crop ratio, select it in the list and click the plus. Use the right-most icon to decide the order. To delete a ctop ratio, click the dust bin.
+
+Style settings for Stepper
+------------------------------
+(Available in Omnia 6.5).
+
+If it's a Stepper section, additional settings can be set for Style, for the active section:
+
+.. image:: page-types-style-stepper.png
+
+(Not all options are shown in the image, but listed below).
+
+Under **General**, the following is available:
+
++ **Elevation**: For an elevated look, use this slider.
++ **Background color**: Use these two options to set background color: RANDOM and ADD COLOR.
++ **Acrylic Transparency Effect**: You can try this effect and see a preview in the section. 
++ **Background**: To select a background image, click ADD IMAGE and use the Media Picker to select image.
++ **Editable in Write Mode**: if it should be possibe to edit background image in Write mode, select this option. If not, it's only possible in Design mode.
++ **Page Image Property**: (A description will be added soon).
++ **Crop Ratios**: (A description will be added soon). To add a crop ratio, select it in the list and click the plus. Use the right-most icon to decide the order. To delete a ctop ratio, click the dust bin.
 
 Effects
 --------
-Additional effects are avilable here, for both sections with columns and sections with tabs:
+Additional effects are avilable here, for all section types:
 
 .. image:: sections-effects.png
 
 Try them and see the effect - a preview is shown in the active section.
 
-And don't forget to test Divider Effects - there are som really cool effects in that list.
+And don't forget to test Divider Effects - there are some really cool effects in that list.
 
 Block Theming
 **************
