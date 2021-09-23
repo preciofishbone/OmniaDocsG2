@@ -173,7 +173,7 @@ Style settings for Stepper
 
 If it's a Stepper section, additional settings can be set for Style, for the active section:
 
-.. image:: page-types-style-stepper.png
+.. image:: page-types-style-stepper-new.png
 
 (Not all options are shown in the image, but listed below).
 
