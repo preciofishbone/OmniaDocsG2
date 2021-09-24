@@ -3,28 +3,11 @@ Action Button in Omnia 6.5
 
 This is an ongoing, preliminary documentation of the options for Action Button in Omnia 6.5. 
 
-Use this block to add one or more buttons on a page for a number of actions.
-
-Settings
-***********
-The following settings are available:
-
-.. image:: action-button-65-settings.png
-
-Add an Action Button
-***********************
-Note that you can see a preview of the button/buttons in the block as you're working on it.
-
-To add an Action Button in this block, do the following:
-
-1. Click ADD BUTTON.
-2. Use the following settings:
-
-.. image:: action-button-65-settings-all.png
+Use this block to add one or actions activated by buttons on a page.
 
 In Omnia 6.6 all actions that can be added as an action button can also be added to an Action Menu. Now you can create access to these actions in the way that suits your organization.
 
-The following actions are available:
+The following actions are available to add as a button:
 
 + Add as Favourite
 + Create App
@@ -44,6 +27,23 @@ The following actions are available:
 + Strenghten Profile
 + Subscribe
 + Teamwork Navigation
+
+Settings
+***********
+The following settings are available:
+
+.. image:: action-button-65-settings.png
+
+Add an Action Button
+***********************
+Note that you can see a preview of the button/buttons in the block as you're working on it.
+
+To add an Action Button in this block, do the following:
+
+1. Click ADD BUTTON.
+2. Use the following settings:
+
+.. image:: action-button-65-settings-all.png
 
 General
 -------------------
