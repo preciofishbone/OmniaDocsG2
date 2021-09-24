@@ -1,8 +1,7 @@
 Action Button in Omnia 6.5
 =============================
 
-This is an ongoing, preliminary documentation of the options for Action Button in Omnia 6.5. The work is just started so a lot of changes to this text will be done very soon.
-
+This is an ongoing, preliminary documentation of the options for Action Button in Omnia 6.5. 
 
 Use this block to add one or more buttons on a page for a number of actions.
 
