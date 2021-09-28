@@ -3,6 +3,8 @@ Teamwork
 
 Use these settings go to any Teamwork site to, for example, edit settings. You can also create a new Teamwork site, or Attach an existing site to Omnia.
 
+In Omnia 6.5, options for Teamwork will be a bit different. See this page: :doc:`Teamwork in Omnia 6.6 </admin-settings/business-group-settings/team-collaboration/teamwork-65/index>`
+
 Using the list "Inactive" you can handle sites with pending delete.
 
 For Team Sites with "Approval" as Site Creation Mode, you use the "Pending Approval" list to approve or reject creation of a Team Site.
@@ -21,8 +23,6 @@ You can use the headings for App Administrator, Provisioning Template and Create
 You can also search the list.
 
 .. image:: team-collaboration-search-new.png
-
-In Omnia 6.5, options for Teamwork will be a bit different. See this page: :doc:`Teamwork in Omnia 6.6 </admin-settings/business-group-settings/team-collaboration/teamwork-65/index>`
 
 Create a Teamwork Site
 ***********************
