@@ -44,6 +44,8 @@ To create a new glossary set, do the following:
 
 If you don't want to connect the glossary set to an information page - for example if you just want to edit look and feel - you're done now.
 
+**Note!** For a glossary set that will be used for Taxonomy navigation, all mappings should be to pages.
+
 To connect to an information page, do the following:
 
 1. Select "Page" for Details provider.
