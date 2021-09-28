@@ -83,7 +83,7 @@ Do the following to create a new variation:
 + **Icon**: Selevt the icon (for exemple the flag) here.
 + **Url Segment**: Add a suitable Url Segment in this field.
 + **Variation author**: You can add a variation author for this variation. See this page for more information: :doc:`Edit Page Variations </pages/edit-page-variations/index>`
-+ **Automatic Machine Translation**: In Omnia 6.5, you can select machine translation for this variation, to any language that is set up in the tenant. If you do, you can't select a Variation author. When you have selected this option, choose language in the list shown. Automatic Machine Translation is executed when the page is published. It will be noted on the variation page that it has been machine translated.
++ **Automatic Machine Translation**: In Omnia 6.5, you can select machine translation for this variation, to any language that is set up in the tenant. If you do, you can't select a Variation author, and the machine translated page can not be edited manually. When you have selected this option, choose language in the list shown. Automatic Machine Translation is executed when the page is published. It will be noted on the variation page that it has been machine translated.
 + **Add Targeting Filter**: To set up targeting for this variation, click here. It is not mandatory. See below for more information.
 
 Languages used for Titles, or for targering, must be set up in the Tenant Settings, see this page: :doc:`Regional Settings </admin-settings/tenant-settings/settings/regional-settings/index>`
