@@ -7,10 +7,6 @@ Here Teamworks are listed, the "Active" tab as an example:
 
 .. image:: teamwork-65-apps-new.png
 
-Using the list "Inactive" you can handle sites with pending delete.
-
-For Team Sites with "Approval" as Site Creation Mode, you use the "Pending Approval" list to approve or reject creation of a Team Site.
-
 Use the icons this way:
 
 + The key to edit permissions.
@@ -18,15 +14,13 @@ Use the icons this way:
 + The pen to edit some settings.
 + The dust bin to delete the collaboration site. 
 
-You can use the headings for App Administrator, Provisioning Template and Created Date to sort the list.
-
-You can also search the list.
+You can use the headings for Title, App Administrator, Provisioning Template and Created Date to sort the list. You can also search the list.
 
 Pending Approval
 *****************
 When a user creates a Teamwork site where Approval is needed, an administrator uses this list to approve or reject creation of the site. Here's an example:
 
-.. image:: pending-approval-65.png (image to be added)
+.. image:: pending-approval-65.png
 
 Approval (or Rejection) is done this way:
 
@@ -34,13 +28,13 @@ Approval (or Rejection) is done this way:
 2. Check the name, settings and so on for the site.
 3. If everything is OK, click "Approve", or if changes are needed, click "Reject".
 
-.. image:: pending-approval-approve-65.png (image to be added)
+.. image:: pending-approval-approve-65.png
 
 If you approve the creation of the Teamwork site a message is sent to the person requesting the site, and the site is created.
 
 If you reject, the following is shown:
  
-.. image:: pending-approval-reject-65.png (image to be added)
+.. image:: pending-approval-reject-65.png
 
 4. Type a message stating what needs to be done for approval, and click "Save" to send the message.
 
@@ -66,19 +60,19 @@ To create a Teamwork Site from here, do the following:
 
 1. Click the plus.
 
-.. image:: team-collaboration-clickplus-new4.png
+.. image:: team-collaboration-clickplus-65.png
 
 2. Select "Create New".
 
-.. image:: team-collaboration-select-new4.png
+.. image:: team-collaboration-select-65.png
 
-3. Select Provisioning Template. See this page for more information: :doc:`Provisioning Templates </admin-settings/business-group-settings/provisioning-templates/index>`
+3. Select Template. 
 
-.. image:: team-collaboration-template-new3.png
+.. image:: team-collaboration-template-65.png
 
 4. Edit the settings.
 
-.. image:: team-collaboration-settings-1new3.png
+.. image:: team-collaboration-settings-65.png
 
 Available options depend on the template chosen. Here's some common ones:
 
@@ -92,16 +86,22 @@ Available options depend on the template chosen. Here's some common ones:
 5. When done, click "Next".
 6. Now, set the following:
 
-.. image:: team-collaboration-settings-2-new2.png
+.. image:: team-collaboration-administrator.png
 
 + **App Administrator**: You are automatically added as the Administrator of the site. Add or remove Administrators as needed.
 
 7. Click "Next".
 8. Set Enterprise Properties if nedded.
 
-.. image:: team-collaboration-settings-4.png
+.. image:: team-collaboration-properties.png
 
-6. Click "CREATE" to create the Team Site.
+9. Set Owner and also set Members, if needed.
+
+.. image:: team-collaboration-owner.png
+
+10. Click CREATE to create the Team Site or SEND FOR APPROVAL depending on how the template has been set up.
+
+.. image:: team-collaboration-create.png
 
 **Note!** When the Teamwork site has been created, the above settings can not be edited here.
 
@@ -117,13 +117,13 @@ Features for the teamwork
 ***************************
 To activate, remove or upgrade features for a teamwork, you click the boxes icon. Something like the following is then shown (can vary depending on available functionality).
 
-.. image:: team-collaboration-features-new.png
+.. image:: team-collaboration-features-65.png
 
 What you can do is self explanatory, but be careful here and make sure you know exactly what will happen, especially if you plan to remove or upgrade a feature.
 
 Attach a Teamwork Site
 ************************
-Using this option you can attach any Teamwork Site to Omnia. When a Teamwork Site is attached you can handle the site through Omnia the same way as a Teamwork Site created through Omnia.
+Using this option you can attach any Teamwork Site to Omnia. When a Teamwork Site is attached you can handle the site through Omnia the same way as a site created through Omnia.
 
 Do the following:
 
@@ -133,7 +133,7 @@ Do the following:
 
 The following is shown:
 
-.. image:: team-collaboration-attach-new2.png
+.. image:: team-collaboration-attach-65.png
 
 3. Paste the Url and click "Resolve".
 
