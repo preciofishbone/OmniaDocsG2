@@ -7,14 +7,38 @@ Here Teamworks are listed, the "Active" tab as an example:
 
 .. image:: teamwork-65-apps-new.png
 
-Use the icons this way:
+Active
+*****************
+Use the icons this way om the Active tan:
 
 + The key to edit permissions.
-+ The boxes to activate, deactivate and upgrade features.
-+ The pen to edit some settings.
++ The boxes to activate, deactivate and upgrade features. 
++ The pen to edit App Instance.
 + The dust bin to delete the collaboration site. 
 
 You can use the headings for Title, App Administrator, Provisioning Template and Created Date to sort the list. You can also search the list.
+
+Edit Permissions
+-----------------
+If you need to add or remove Administrator(s) for a Publishing App, you do it here:
+
+.. image:: teamwork-app-premissions-65.png
+
+Don't forget to save when you're done.
+
+Edit Features
+---------------
+If it's needed to upgrade a feature for the Publishing App, you need to go here. You also go here to activate or remove a feature.
+
+.. image:: teamwork-app-features-65.png
+
+Edit App Instance
+---------------------
+If it should be needed to edit the App Instance, click the icon and the following is shown:
+
+.. image:: teamwork-apps-app-instance-65.png
+
+Use the ADD IMAGE button to add an image for use in rollups. You can alos edit Title, Description, Public Listing setting and edit the Sharepoint Url, if needed.
 
 Pending Approval
 *****************
@@ -86,7 +110,7 @@ Available options depend on the template chosen. Here's some common ones:
 5. When done, click "Next".
 6. Now, set the following:
 
-.. image:: team-collaboration-administrator.png
+.. image:: team-collaboration-administrator-new.png
 
 + **App Administrator**: You are automatically added as the Administrator of the site. Add or remove Administrators as needed.
 
@@ -104,22 +128,6 @@ Available options depend on the template chosen. Here's some common ones:
 .. image:: team-collaboration-create.png
 
 **Note!** When the Teamwork site has been created, the above settings can not be edited here.
-
-Edit settings
---------------
-When you click the pen for a teamwork, the following settings are available for editing:
-
-.. image:: team-collaboration-edit3.png
-
-See above for information about the options.
-
-Features for the teamwork
-***************************
-To activate, remove or upgrade features for a teamwork, you click the boxes icon. Something like the following is then shown (can vary depending on available functionality).
-
-.. image:: team-collaboration-features-65.png
-
-What you can do is self explanatory, but be careful here and make sure you know exactly what will happen, especially if you plan to remove or upgrade a feature.
 
 Attach a Teamwork Site
 ************************
