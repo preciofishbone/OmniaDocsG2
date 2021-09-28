@@ -5,7 +5,7 @@ This is an ongoing, preliminary documentation of how this works in Omnia 6.5.
 
 In Omnia 6.5 the option “Provisioning templates” will be removed. Instead, templates will be administered under each main option, so here you can work with templates for Teamwork:
 
-  .. image:: teamwork-65-templates-new2.png
+.. image:: teamwork-65-templates-new2.png
 
 To edit a template, click the name - to delete, click the dust bin.
 
@@ -15,7 +15,7 @@ When creating a teamplate, you first just create the template, and after that ed
 
 1. Click the plus.
 
-.. images:: teamwork-65-template-click-plus-new.png
+.. images: teamwork-65-template-click-plus-new.png
 
 Use the following settings:
 
