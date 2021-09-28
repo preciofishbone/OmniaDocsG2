@@ -3,8 +3,6 @@ Apps for Teamwork
 
 This is an ongoing, preliminary documentatin for this functionality in Omnia 6.5.
 
-Apps
-*******
 Here Teamworks are listed, the "Active" tab as an example:
 
 .. image:: teamwork-65-apps-new.png
