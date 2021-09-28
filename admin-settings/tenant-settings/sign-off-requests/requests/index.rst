@@ -1,7 +1,7 @@
 Requests
 ==========
 
-This is an ongoing, preliminary documentation for new functionality to come in Omnia 6.5.
+This is an ongoing, preliminary documentation for new functionality to come in Omnia 6.6.
 
 All created requests are listed here. You can filter on Requested By and Progress Status (In Progress or Completed).
 
