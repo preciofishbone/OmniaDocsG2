@@ -14,13 +14,13 @@ Use the icons this way om the Active tab:
 + The key to edit permissions.
 + The boxes to activate, deactivate and upgrade features. 
 + The pen to edit App Instance.
-+ The dust bin to delete the collaboration site. 
++ The dust bin to delete. 
 
 You can use the headings for Title, App Administrator, Provisioning Template and Created Date to sort the list. You can also search the list.
 
 Edit Permissions
 -----------------
-If you need to add or remove Administrator(s) for a Publishing App, you do it here:
+If you need to add or remove administrator(s) for a Teamwork, you do it here:
 
 .. image:: teamwork-app-premissions-65.png
 
@@ -28,7 +28,7 @@ Don't forget to save when you're done.
 
 Edit Features
 ---------------
-If it's needed to upgrade a feature for the Publishing App, you need to go here. You also go here to activate or remove a feature.
+If it's needed to upgrade a feature for the Teamwork, you need to go here. You also go here to activate or remove a feature.
 
 .. image:: teamwork-app-features-65.png
 
@@ -42,19 +42,19 @@ Use the ADD IMAGE button to add an image for use in rollups. You can alos edit T
 
 Pending Approval
 *****************
-When a user creates a Teamwork site where Approval is needed, an administrator uses this list to approve or reject creation of the site. Here's an example:
+When a user creates a Teamwork where Approval is needed, an administrator uses this list to approve or reject. Here's an example:
 
 .. image:: pending-approval-65.png
 
 Approval (or Rejection) is done this way:
 
-1. Click the link for the site.
-2. Check the name, settings and so on for the site.
+1. Click the link for the Teamwork.
+2. Check the name, settings and so on.
 3. If everything is OK, click "Approve", or if changes are needed, click "Reject".
 
 .. image:: pending-approval-approve-65.png
 
-If you approve the creation of the Teamwork site a message is sent to the person requesting the site, and the site is created.
+If you approve the creation of the Teamwork a message is sent to the person requesting it, and the Teamwork is created.
 
 If you reject, the following is shown:
  
@@ -62,9 +62,9 @@ If you reject, the following is shown:
 
 4. Type a message stating what needs to be done for approval, and click "Save" to send the message.
 
-The person requesting the site receives the message and can then start a new Teamwork site creation with your comments in mind. 
+The person requesting the Teamwork receives the message and can then start a new Teamwork creation with your comments in mind. 
 
-**Note!** Requesting a Teamwork Site must always be done from start each time. If rejected, nothing from the request is saved.
+**Note!** Requesting a Teamwork must always be done from start each time. If rejected, nothing from the request is saved.
 
 Important note about Site Ownership when approving
 -----------------------------------------------------
@@ -80,7 +80,7 @@ The connected Sharepoint site may be deleted for some reason, but when that happ
 
 Create a Teamwork Site
 ***********************
-To create a Teamwork Site from here, do the following:
+To create a Teamwork from here, do the following:
 
 1. Click the plus.
 
@@ -100,10 +100,10 @@ To create a Teamwork Site from here, do the following:
 
 Available options depend on the template chosen. Here's some common ones:
 
-+ **Title**: Add a Title (name) for the Team Site here.
-+ **Description**: It's a good idea to add a Description of the Teamwork site's purpose here, but it's not mandatory.
++ **Title**: Add a Title (name) for the Teamwork here.
++ **Description**: It's a good idea to add a Description of the Teamwork's purpose here, but it's not mandatory.
 + **Show in public listings**: If links to this teamwork should show up in listings available for all colleagues, select this option. Default: selected.
-+ **Sharepoint Alias**: The last part of the address to the site is created automatically but can be edited if necessary. If the name (address) already exists an alternative address is suggested.
++ **Sharepoint Alias**: The last part of the address to the Teamwork is created automatically but can be edited if necessary. If the name (address) already exists an alternative address is suggested.
 + **Languages**: The same language as the main Business Profile language is suggested. Another language can be selected if needed.  
 + **Time Zones**: Normally the correct Time Zone is already selected. Can be changed if needed.
 
@@ -112,22 +112,20 @@ Available options depend on the template chosen. Here's some common ones:
 
 .. image:: team-collaboration-administrator-new.png
 
-+ **App Administrator**: You are automatically added as the Administrator of the site. Add or remove Administrators as needed.
++ **App Administrator**: You are automatically added as the Administratore. Add or remove Administrators as needed.
 
 7. Click "Next".
 8. Set Enterprise Properties if nedded.
 
 .. image:: team-collaboration-properties.png
 
-9. Set Owner and also set Members, if needed.
+9. Set Owner and also Members, if needed.
 
 .. image:: team-collaboration-owner.png
 
-10. Click CREATE to create the Team Site or SEND FOR APPROVAL depending on how the template has been set up.
+10. Click CREATE to create the Teamwork or SEND FOR APPROVAL, depending on how the template has been set up.
 
 .. image:: team-collaboration-create.png
-
-**Note!** When the Teamwork site has been created, the above settings can not be edited here.
 
 Attach a Teamwork Site
 ************************
