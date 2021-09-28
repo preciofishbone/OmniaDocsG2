@@ -158,14 +158,14 @@ Under **General**, the following is available:
 
 + **Collapsed Accordion**: If this option is selected, only one accordion will be expanded at a time.
 + **Flat Header**: Per default, the tab is slightly elevated. Select this option to make it flat.
-+ **Single Select**: (A description will be added soon).
++ **Single Select**: When this option is selected, only one accordion can be open at a time. When a user expands an accordion, any other accordion that may be open is closed.
 + **Elevation**: For an elevated look, use this slider.
 + **Background color**: Use these two options to set background color: RANDOM and ADD COLOR.
 + **Acrylic Transparency Effect**: You can try this effect and see a preview in the section. 
 + **Background**: To select a background image, click ADD IMAGE and use the Media Picker to select image.
 + **Editable in Write Mode**: if it should be possibe to edit background image in Write mode, select this option. If not, it's only possible in Design mode.
-+ **Page Image Property**: (A description will be added soon).
-+ **Crop Ratios**: (A description will be added soon). To add a crop ratio, select it in the list and click the plus. Use the right-most icon to decide the order. To delete a ctop ratio, click the dust bin.
++ **Page Image Property**: This setting is used for image in rollups. Select the property to get that image from.
++ **Crop Ratios**:  This setting is used for image in rollups. To add a crop ratio, select it in the list and click the plus. Use the right-most icon to decide the order. To delete a ctop ratio, click the dust bin.
 
 Style settings for Stepper
 ------------------------------
