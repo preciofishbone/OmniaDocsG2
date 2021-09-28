@@ -60,4 +60,81 @@ When a site of the type Microsoft 365 Team Site, Sharepoint Team Site or Sharepo
 
 The connected Sharepoint site may be deleted for some reason, but when that happens the Omnia site may not. When this happens a link to the site is placed in this list, so an administrator can take actions.
 
+Create a Teamwork Site
+***********************
+To create a Teamwork Site from here, do the following:
+
+1. Click the plus.
+
+.. image:: team-collaboration-clickplus-new4.png
+
+2. Select "Create New".
+
+.. image:: team-collaboration-select-new4.png
+
+3. Select Provisioning Template. See this page for more information: :doc:`Provisioning Templates </admin-settings/business-group-settings/provisioning-templates/index>`
+
+.. image:: team-collaboration-template-new3.png
+
+4. Edit the settings.
+
+.. image:: team-collaboration-settings-1new3.png
+
+Available options depend on the template chosen. Here's some common ones:
+
++ **Title**: Add a Title (name) for the Team Site here.
++ **Description**: It's a good idea to add a Description of the Teamwork site's purpose here, but it's not mandatory.
++ **Show in public listings**: If links to this teamwork should show up in listings available for all colleagues, select this option. Default: selected.
++ **Sharepoint Alias**: The last part of the address to the site is created automatically but can be edited if necessary. If the name (address) already exists an alternative address is suggested.
++ **Languages**: The same language as the main Business Profile language is suggested. Another language can be selected if needed.  
++ **Time Zones**: Normally the correct Time Zone is already selected. Can be changed if needed.
+
+5. When done, click "Next".
+6. Now, set the following:
+
+.. image:: team-collaboration-settings-2-new2.png
+
++ **App Administrator**: You are automatically added as the Administrator of the site. Add or remove Administrators as needed.
+
+7. Click "Next".
+8. Set Enterprise Properties if nedded.
+
+.. image:: team-collaboration-settings-4.png
+
+6. Click "CREATE" to create the Team Site.
+
+**Note!** When the Teamwork site has been created, the above settings can not be edited here.
+
+Edit settings
+--------------
+When you click the pen for a teamwork, the following settings are available for editing:
+
+.. image:: team-collaboration-edit3.png
+
+See above for information about the options.
+
+Features for the teamwork
+***************************
+To activate, remove or upgrade features for a teamwork, you click the boxes icon. Something like the following is then shown (can vary depending on available functionality).
+
+.. image:: team-collaboration-features-new.png
+
+What you can do is self explanatory, but be careful here and make sure you know exactly what will happen, especially if you plan to remove or upgrade a feature.
+
+Attach a Teamwork Site
+************************
+Using this option you can attach any Teamwork Site to Omnia. When a Teamwork Site is attached you can handle the site through Omnia the same way as a Teamwork Site created through Omnia.
+
+Do the following:
+
+1. Copy the Url for the Teamwork Site you want to attach.
+2. Go to Team Collaboration settings and click the plus.
+3. Select "Attach Site".
+
+The following is shown:
+
+.. image:: team-collaboration-attach-new2.png
+
+3. Paste the Url and click "Resolve".
+
 
