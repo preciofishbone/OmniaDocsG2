@@ -75,15 +75,22 @@ Use the following settings:
 
 **Tip!** If you allow feedback for a Read-Only property, the user can still send feedback about the information shown in the field.
 
+Mapping Profile Image in Omnia 6.5
+------------------------------------
+If Profile Images are stored in another system, you can is these options to map to that system, this way:
 
+1. Create a Profile Image mapping, and then select "Add Mapping".
+2. Select "Sharepoint User Profile".
+3. Select "Profile Picture" for "Type".
+4. Select "Custom target".
 
+.. image:: profile-image-mapping.png
 
+5. Add the Custom Target Url.
 
+.. image:: profile-image-mapping-target.png
 
-
-
-
-
-
+6. Add additional settings as needed.
+7. Click OK.
 
 
