@@ -1,7 +1,7 @@
 Templates
 ===========
 
-This is an ongoing, preliminary documentation for new functionality to com in Omnia 6.5.
+This is an ongoing, preliminary documentation for new functionality to com in Omnia 6.6.
 
 Here you can work with templates for Sign-off Requests:
 
