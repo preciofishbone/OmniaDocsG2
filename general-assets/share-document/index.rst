@@ -13,7 +13,7 @@ When a user clicks SHARE DOCUMENT, this is shown:
 
 .. image:: share-document-button-upload.png
 
-The user can upload by using drag and drop, add a description (Summary) and tag the document. Alos note that a name for the uploader is registered. The name can be change is the user uploads a document for someone else.
+The user can upload by using drag and drop, add a description (Summary) and tag the document. Alos note that a name for the uploader is registered. The name can be change if the user uploads a document for someone else.
 
 The user must click PUBLISH for the upload to start.
 
