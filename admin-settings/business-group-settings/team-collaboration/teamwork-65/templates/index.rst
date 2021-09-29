@@ -40,7 +40,7 @@ The following is shown:
 
 General
 -------------
-Here you can edit the information you added and the options you selected when creating the template:
+Here you can edit the information you added and the options you selected when creating the template, for example:
 
 .. image:: teamwork-65-edit-general-new.png
 
