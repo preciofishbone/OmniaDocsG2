@@ -78,7 +78,7 @@ When a site of the type Microsoft 365 Team Site, Sharepoint Team Site or Sharepo
 
 The connected Sharepoint site may be deleted for some reason, but when that happens the Omnia site may not. When this happens a link to the site is placed in this list, so an administrator can take actions.
 
-Create a Teamwork Site
+Create a Teamwork
 ***********************
 To create a Teamwork from here, do the following:
 
