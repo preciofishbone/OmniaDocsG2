@@ -50,9 +50,7 @@ This is available for Properties:
 
 .. image:: teamwork-65-edit-properties-new.png
 
-+ **Property Set**: You can select a property set here, to be used for the template, meaning a number of properties that the colleague creating the site will or will have to fill in when the template is used.
-
-The properties in the set can or will have to be filled in when a teamwork is created from this template.
++ **Property Set**: You can select a property set here, to be used for the template, meaning a number of properties that the colleague creating the site will or will have to fill in when the template is used. If a property is mandatory or not is decided in the settings for the property.
 
 The property sets are set up using the Tenant settings. See this page for more information: :doc:`Property sets </admin-settings/tenant-settings/properties/property-sets/index>`
 
