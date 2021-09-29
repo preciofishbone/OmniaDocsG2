@@ -1,66 +1,20 @@
-Add link
+Share Documents
 ===========================================
 
-Add link is used when a link is added in a block and a few other instances. 
+This is an ongoing, preliminary documentation of functionality to come in Omnia 6.5.
 
-.. image:: add-link-new2.png
+A block can be set up, for example using Action Button, to let users easily share a document with others by uploading it locally on a page. This can very useful, especially in a Connunity, but can be used in other types of apps as well.
 
-You can use this asset to add a link to a page or document in the tenant, or create a Custom link to any web page. A mailto link can be created using a Custom link.
+Here's an example, where it's set up in a community, using the Action Button block:
 
-Custom link
-************
-The following settings are available:
+.. image:: share-document-button.png
 
-+ **Url**: Paste or type the Url (link) in this field. 
-+ **Title**: Type a text to be shown for the clickable link.
-+ **Open in new window**: If the link should be opened in a new window, select this option. If not selected the link opens in the' same window.
-+ **Icon**: An Icon will be shown for each link. If you select "Automatic" the system will select the icon. Choosing "Built-in" you can select an icon from either "Font Awesome", "Microsoft" or "Flags", see below. If you select "Custom" you can use any image as an icon.
+When a user clicks SHARE DOCUMENT, this is shown:
 
-Here are some examples of Font Awesome icons:
+.. image:: share-document-button-upload.png
 
-.. image:: font-awesome-new.png
+The user can upload by using drag and drop, add a description (Summary) and tag the document. Alos note that a name for the uploader is registered. The name can be change is the user uploads a document for someone else.
 
-Here are some examples of Microsoft icons:
+The user must click PUBLISH for the upload to start.
 
-.. image:: fabric-new.png
-
-If you select "Flags" you can add a colord flag as an icon, for example:
-
-.. image:: flags-new.png
-
-Save after each link added.
-
-Page
-******
-To add a link to a page, do the following:
-
-1. Select Publishing App, if needed.
-
-.. image:: add-link-page-1.png
-
-2. Select Page Collection. 
-
-.. image:: add-link-page-new2.png
-
-If the Page Collection isn't present in the list, select "Others..." so you can add the Url to any Page Collection.
-
-.. image:: select-other.png
-
-3. As the next step, navigate to the page and select it. Here's an example:
-
-.. image:: add-link-page-example-new2.png
-
-4. Then use the options as above (Title, Open in new window and Icon).
-
-5. Save after each Page link added.
-
-Document
-*********
-When you want to link to a document, the options are exactly the same as those in "Document Picker". For more information see: :doc:`Document Picker </general-assets/document-picker/index>`
-
-
-
-
-
-
-
+(More will added here soon)
