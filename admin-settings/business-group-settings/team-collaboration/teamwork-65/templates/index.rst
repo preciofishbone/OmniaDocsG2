@@ -64,7 +64,9 @@ Setup
 -----------
 The settings here will differ depending on teamwork type.
 
-For **Sharepoint Team Site** and **Sharepoint Communication Site**, these settings are available:
+Sharepoint Team Site and Sharepoint Communication site
+------------------------------------------------------------
+For Sharepoint Team Site and Sharepoint Communication Site, these settings are available:
 
 .. image:: teamwork-settings-setup.png
 
@@ -76,7 +78,9 @@ For **Sharepoint Team Site** and **Sharepoint Communication Site**, these settin
 + **Default Site Collection Administrators**: You can add (several) additional administrators here, if needed.
 + **Default Visitors**: You can use this to set a default visitor group (read permissions) to all sites created from this template. 
 
-For **Microsoft Team**, the following settings are available:
+Microsoft Team
+---------------------
+For Microsoft Team, the following settings are available:
 
 .. image:: teamwork-settings-setup-team.png
 
@@ -100,13 +104,17 @@ For SETTINGS, this is available:
 
 To learn what the different options are for, point at the i icon and read the tooltip.
 
-The following setting is available for a **Yammer Community** template:
+Yammer Community
+--------------------
+The following setting is available for a Yammer Community template:
 
 .. image:: teamwork-yammer-community.png
 
 + **Client id**: Type the Client id for the Yammer Network here.
 
-This setting is available for a **Facebook Workplace Group** template:
+Facebook Workplace Group
+-------------------------------
+This setting is available for a Facebook Workplace Group template:
 
 .. image:: teamwork-facebook-workplace-group.png
 
