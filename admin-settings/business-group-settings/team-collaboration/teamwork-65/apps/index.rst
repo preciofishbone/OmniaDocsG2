@@ -9,7 +9,7 @@ Here Teamworks are listed, the "Active" tab as an example:
 
 Active
 *****************
-Use the icons this way om the Active tab:
+Use the icons this way on the Active tab:
 
 + The key to edit permissions.
 + The boxes to activate, deactivate and upgrade features. 
