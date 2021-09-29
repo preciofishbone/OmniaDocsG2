@@ -110,7 +110,7 @@ Available options depend on the template chosen. Here's some common ones:
 5. When done, click "Next".
 6. Now, set the following:
 
-
+.. image:: team-collaboration-administrator-new.png
 
 + **App Administrator**: You are automatically added as the Administratore. Add or remove Administrators as needed.
 
