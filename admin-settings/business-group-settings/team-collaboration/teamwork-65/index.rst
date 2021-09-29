@@ -1,7 +1,7 @@
 Teamwork in Omnia 6.5
 ===========================================
 
-This is an ongoing, preliminiary documentation for functionality to come in Omnia 6.5.
+This is an ongoing, preliminiary documentation about this will work in Omnia 6.5.
 
 The settings for Teamwork will be these:
 
