@@ -3,7 +3,7 @@ FAQ block
 
 This is an ongoing, preliminary documentation of a new block that will be available in Omnia 6.5. 
 
-In this block you can create content that is presented in a accordion style format, for FAQ:s and other purposes.
+In this block you can create content that is presented in an accordion style format, for FAQ:s and other purposes.
 
 Settings
 *********
