@@ -27,6 +27,7 @@ The following actions are available to add as a button:
 + Strenghten Profile
 + Subscribe
 + Teamwork Navigation
++ Tutorial
 
 Settings
 ***********
