@@ -1,11 +1,13 @@
-Admin Settings
+Accessability
 ===========================================
 
-.. toctree::
-   :titlesonly:
+Omnia contains accessability functionality: High contrast, Tooltips and Tabb navigation.
 
-   tenant-settings/index
-   business-group-settings/index
-   app-settings/index
-   
+This must be turned on in a colleagues Profile:
+
+.. image:: accessability-profile.png
+
+Select "Use accessability features".
+
+.. image:: accessability-profile-select.png
    
