@@ -13,3 +13,4 @@ In this part of the documentation you will find information about general assets
    media-picker/index
    page-picker/index
    rtf-editor/index
+   share-document/index
