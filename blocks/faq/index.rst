@@ -60,7 +60,7 @@ Editing content
 ****************
 When you have added a few FAQ posts you can use the icons this way to edit:
 
-To edit, expand the FAQ. To delete, click the dust bin. You can also decide the order by using drag and drop in the left icon.
+To edit, expand the FAQ. To delete, click the dust bin. You can also decide the order by using the left-most icon to drag and drop.
 
 .. image:: faq-add-edit-new.png
 
