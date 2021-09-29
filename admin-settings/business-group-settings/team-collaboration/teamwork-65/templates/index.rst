@@ -39,13 +39,13 @@ The following is shown:
 .. image:: teamwork-65-edit-all-new.png
 
 General
--------------
+***********
 Here you can edit the information you added and the options you selected when creating the template, for example:
 
 .. image:: teamwork-65-edit-general-new.png
 
 Properties
-----------------
+*************
 This is available for Properties:
 
 .. image:: teamwork-65-edit-properties-new.png
@@ -55,18 +55,18 @@ This is available for Properties:
 The property sets are set up using the Tenant settings. See this page for more information: :doc:`Property sets </admin-settings/tenant-settings/properties/property-sets/index>`
 
 Features
-----------------
+*************
 Select the features that should be available for the teamwork (all are not shown in the image):
 
 .. image:: teamwork-65-edit-features-new.png
 
 Setup
------------
+***********
 The settings here will differ depending on teamwork type.
 
 Sharepoint Team Site and Sharepoint Communication site
 ------------------------------------------------------------
-For Sharepoint Team Site and Sharepoint Communication Site, these settings are available:
+For Sharepoint Team Site and Sharepoint Communication Site, these settings are available for Setup:
 
 .. image:: teamwork-settings-setup.png
 
@@ -80,7 +80,7 @@ For Sharepoint Team Site and Sharepoint Communication Site, these settings are a
 
 Microsoft Team
 ---------------------
-For Microsoft Team, the following settings are available:
+For Microsoft Team, the following settings are available fopr Setup:
 
 .. image:: teamwork-settings-setup-team.png
 
@@ -106,7 +106,7 @@ To learn what the different options are for, point at the i icon and read the to
 
 Yammer Community
 --------------------
-The following setting is available for a Yammer Community template:
+The following setting is available for a Yammer Community template for Setup:
 
 .. image:: teamwork-yammer-community.png
 
@@ -114,14 +114,14 @@ The following setting is available for a Yammer Community template:
 
 Facebook Workplace Group
 -------------------------------
-This setting is available for a Facebook Workplace Group template:
+This setting is available for a Facebook Workplace Group template for Setup:
 
 .. image:: teamwork-facebook-workplace-group.png
 
 + **Workplace Domain**: Add the Facebook Workplace name here.
 
 Custom steps
------------------
+*****************
 If any custom steps has been developed for the type of community you have selected, you can add them using this option.
 
 .. image:: teamwork-edit-custom-steps-new.png
