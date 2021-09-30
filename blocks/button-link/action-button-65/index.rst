@@ -57,7 +57,7 @@ Available settings differ depending on type of button chosen. The following sett
 
 Add as Favourite
 ------------------
-The purpose of this action is for the logged in user to add a Favourites link for a page. The following settings are available (see above for the general ones):
+The purpose of this action is for the logged in user to add a Favourites link for a page:
 
 .. image:: action-button-favourite.png
 
@@ -74,7 +74,8 @@ The following settings are available (se above for the general ones):
 
 + **Dialog position**: Select position for thedialog that will open; Center or Right.
 + **Select App definition**: Publishing, Community or Teamwork.
-+ **Select Template to show. When you have selected App Definition, here you select the template(s) that should be available. A list of alla available templates for the definition is shown. You select one or more templates there.
++ **Select Template to show**: When you have selected App Definition, here you select the template(s) that should be available. A list of all available templates for the definition is shown. You select one or more templates there.
++ **Padding**: Add some padding in the block if needed.
 
 Create Document
 ----------------
@@ -84,25 +85,21 @@ The purpose of this action is to make it possible to create a document. When the
 
 (Only the general settings are available, see above).
 
-**Note! From this point on, the text is NOT edited. Will be soon.**
+Create Page
+-------------
+Using this button the action Create Page can be executed:
 
-+ **Unsubscribe Text**: A "Subscribe" button changes the text automatically when a user has clicked the button. Unsubscribe is suggested but you can change the text to something else. (Same apply for variations as above.)
-+ **Subscription Scope**: Available for Type Subscription. Select the scope here, meaning what the user actually subscribes to; the Page (=all changes to the page, even comments and best reply for Knowledge pages), Publishing App (=all new pages in the Publishing App, but not changes to existing pages) or Page Collection (=all new pages in the Page Collection, but not changes to existing pages).
-+ **Url**: Type or paste the Url to go to when a user clicks the link. Available for Link type.
-+ **Target**: Choose if the link should be opened in a new window, the current window, or in a dialog. Available for Link type.
-+ **Dialog Position**: If you selected "Dialog" for Target, you can select where to place the dialog: Center, Full screen, Left or Right.
-+ **Page Collection**: If you selected "Create Page" as type, select page collection to create the new page in.
-+ **Button Type**: Decide what this button will do; Sign Up, Sign Up Other, Add To Outlook or Cancel. Available for Event Management. (Se below for more information.)
-+ **Reserve Text**: Available for Event Management.
-+ **Apply Text**: Available for Event Management.
+.. image:: action-button-create-page.png
 
-Regarding Process feedback:
++ **Page Collection**: Select page collection to create the new page in.
 
-The feedback will be sent to the process owner and will be available in the team site where the process is located. Feedback can be accessed on the PUBLISHED tab using the menu option "Feedback".
+Event Management
+------------------
+Using this type you can add buttons for Event Management Actions:
 
-Also note that the button must be placed in a Process Context to work.
+.. image:: action-button-event-management.png
 
-Regarding the options for Button Type (for Event Management):
++ **Button Type**: Decide what this button will do; Sign Up, Sign Up Other, Add To Outlook or Cancel. 
 
 + Sign Up: Used by the logged in user to register for an event. 
 + Sign Up Other: Used by the logged in user to register others - colleagues or external partners - for an event.
@@ -110,6 +107,111 @@ Regarding the options for Button Type (for Event Management):
 + Cancel: Used by the logged in user to cancel the registration he or she has made in their own name, ie done by using the button "Sign Up". 
 
 For more information about how the buttons and more works for Event Management, see: :doc:`Working with Events </working-with-events/index>`
+
+Invite co-authors
+-------------------
+This action is available for authors in the Action Menu, when editing a page. It can also be added as an Action Button.
+
+For more information, see: :doc:`Invite co-authors </pages/invite-co-authors/index>`
+
+(Only the general settings are available, see above).
+
+Like
+-------
+Page Likes and Comments can be added as block on a page, but Like action also be added as an Action Button:
+
+.. image:: action-button-like.png
+
++ **Unlike Text**: When a user has liked a page, the text in the button changes to Unlike. If you want som other unlike-text, edit the text here.
++ **Target**: Target can only be Page for now and is selected by default.
+
+Link
+------
+Using this action a Link Action can be added, meaning a link can be opened:
+
++ **Url**: Type or paste the Url to go to when a user clicks the link. 
++ **Target**: Choose if the link should be opened in a new window, the current window, or in a dialog. 
++ **Dialog Position**: If you selected "Dialog" for Target, you can select where to place the dialog: Center, Full screen, Left or Right.
+
+My Links
+---------
+Using this action the logged in user's My Links can be shown.
+
+See this page for more information: :doc:`My Links </user-options/my-links/index>`
+
+(Only the general settings are available, see above).
+
+My Subscriptons
+----------------
+My Subscriptions is available in a person's My Profile menu but can also be added as an Action Button:
+
+Subscriptions are meant to be used in Communities, for now. See this page for more information: :doc:`My Subscriptions </using-communities/subscriptions/my-subscriptions/index>`
+
+(Only the general settings are available, see above).
+
+Motification Panel
+--------------------
+Using this Action Button a Notification Panel can be shown just like it is in the Notification Panel block.
+
+.. image:: action-button-notification-panel.png
+
+The settings here are used the same way as in the block, see: :doc:`The Notification Panel block </blocks/notification-panel/index>`
+
+Omnia Admin
+-------------
+If you need to add the possibility to go to Omnia Admin, for those with the right permissons, you can add this Action Button.
+
+(Only the general settings are available, see above).
+
+Process Feedback
+----------------------
+This action makes it possible for a user to send feedback on a Process page.
+
+The feedback will be sent to the process owner and will be available in the team site where the process is located. Feedback can be accessed on the PUBLISHED tab using the menu option "Feedback". Also note that the button must be placed in a Process Context to work.
+
+(Only the general settings for the button are available, see above).
+
+Quick Search
+---------------
+Using this action Quick Search can be used, like it can in the Search block.
+
+.. image:: action-button-quick-search.png
+
++ **Inherit Business Profile Settings**: You can inherit the search settings from the Business Profile and if that is what you want to do, you don’t need to change anything, it’s default. If you would like to set specific category settings for this block, deselect and the following will be available:
+
+.. image:: action-button-quick-search-specific.png
+
+You use these settings the same way as in the Search block. For more information, see: :doc:`The Search block </blocks/search/index>`
+
+Share
+--------
+Share can be available through the Likes and Comments block, but can also be added as an Action Button:
+
+.. image:: action-button-share.png
+
++ **Share Type**: Select in what way user's should be able to share a link to this page; Email, Teams or Yammer.
+
+(More will be added soon).
+
+Strengthen Profile
+----------------------
+Strengthen profile can be available as a block (Profile Completion) or available in the Action Menu. It can also be added as an Action Button.
+
+It works the same way as in the Profile Completion block: :doc:`The Profile Completion block </blocks/profile-completion/index>`
+
+(Only the general settings for the button are available, see above).
+
+
+
+
+**Note! From this point on, the text is NOT edited. Will be soon.**
+
++ **Unsubscribe Text**: A "Subscribe" button changes the text automatically when a user has clicked the button. Unsubscribe is suggested but you can change the text to something else. (Same apply for variations as above.)
++ **Subscription Scope**: Available for Type Subscription. Select the scope here, meaning what the user actually subscribes to; the Page (=all changes to the page, even comments and best reply for Knowledge pages), Publishing App (=all new pages in the Publishing App, but not changes to existing pages) or Page Collection (=all new pages in the Page Collection, but not changes to existing pages).
+
+
+
+
 
 Style
 ---------------
