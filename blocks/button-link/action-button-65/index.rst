@@ -3,7 +3,7 @@ Action Button in Omnia 6.5
 
 This is an ongoing, preliminary documentation of the options for Action Button in Omnia 6.5. Note that this description has ongoing edits each day, not complete yet.
 
-Use this block to add one or actions activated by buttons on a page.
+Use this block to add one or more actions activated by buttons on a page.
 
 In Omnia 6.5 all actions that can be added as an action button can also be added to an Action Menu. Now you can create access to these actions the way that suits your organization.
 
