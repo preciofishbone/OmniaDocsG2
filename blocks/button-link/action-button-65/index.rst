@@ -81,7 +81,7 @@ Create Document
 ----------------
 The purpose of this action is to make it possible to create a document. When the button is clicked, the Create New Document Wizard starts. See this page for more information:
 
-:doc:`Using the Create New Document Wizard </working-with-documents/using-the-create-new-document-wizard/index>`
+:doc:`Using the Create New Document Wizard </working-with-documents/using-the-document-wizard/index>`
 
 (Only the general settings are available, see above).
 
