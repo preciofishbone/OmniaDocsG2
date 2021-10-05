@@ -1,9 +1,9 @@
-Header for Workplace
+Header for Workspace
 ==========================
 
 This is an ongoing preliminary documentation for functionality to come in Omnia 6.5.
 
-Here you can edit header settings for Workplace.
+Here you can edit header settings for the Business Profile's Workspace.
 
 .. image:: workplace-header-new.png
 
@@ -54,10 +54,10 @@ These settings are available when “Classic Action Menu & Mega Menu” is selec
 + **Static Display Level**: Defines the number of levels in the navigation term set that will always be displayed in the menu.
 + **Dynamic Display Level**: Defines the number of levels in the navigation term set that should be displayed in the mega menu when a user clicks an item in the static menu.
 + **Max Height**: As Default, the menu's Height is dynamic, meaning it adapts to the Height needed. You can set a fixed Height in pixels if you wish.
-+ **Max Width**: As Default, the menu's Width is dynamic, meaning it adapts to the Width needed. You can set a fixed Wodth in pixels if you wish.
++ **Max Width**: As Default, the menu's Width is dynamic, meaning it adapts to the Width needed. You can set a fixed Width in pixels if you wish.
 + **Background Color**: As Default, the Background Color for the Mega Menu is the same as the Header, but you can set another Background Color if you wish.
 + **Text Color**: As Default, the Text Color for the Mega Menu is the same as the text in the Header, but you can set another Text Color if you wish.
-+ **Selected Border Color**: Ypou can set Border Color separately if you wish. Default=no Color.
++ **Selected Border Color**: You can set Border Color separately if you wish. Default=no Color.
 
 Classic Action Menu
 **********************
@@ -80,7 +80,7 @@ You can edit which Categories (tabs) to display in Teamwork Navigation and you c
 Note that a category is basically a Team Collaboration Rollup, so if you think along this line when you edit the settings for a category, you're on the right track.
 
 Categories
-''''''''''''
+------------
 You can edit categories this way:
 
 + Click the dust bin to remove a category.
