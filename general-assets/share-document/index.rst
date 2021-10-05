@@ -47,7 +47,7 @@ Under Settings, the property "Document Data" is added, and other properties that
 
 .. image:: share-document-pagetype-2.png
 
-The iFrame block is pointing the the Document Data property.
+The iFrame block is pointing to the Document Data property.
 
 .. image:: share-document-pagetype-3.png
 
@@ -57,7 +57,7 @@ The Layout is called Shared Docucments.
 
 .. image:: share-document-layout-1.png
 
-and it's set up this way:
+And it's set up this way:
 
 .. image:: share-document-layout-2.png
 
