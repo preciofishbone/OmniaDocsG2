@@ -3,7 +3,7 @@ Header settings in Omnia 6.5
 
 This is an ongoing, preliminary documentation for functionality to come in Omnia 6.5.
 
-Here you can change the default settings for the Header in the tenant. In the header settings for a workplace for a Business Profile, you can then choose to inherit those settings or create specific settings. 
+Here you can change the default settings for the Header in the tenant. In the header settings for a workSPACE for a Business Profile, you can then choose to inherit those settings or create specific settings. 
 
 .. image:: tenant-settings-header-65.png
 
