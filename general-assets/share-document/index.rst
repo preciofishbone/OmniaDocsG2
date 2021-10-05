@@ -3,9 +3,18 @@ Share Documents
 
 This is an ongoing, preliminary documentation of functionality to come in Omnia 6.5.
 
-A block can be set up, for example using Action Button, to let users easily share a document with others by uploading it locally on a page. This can very useful, especially in a Comunity, but can be used in other types of apps as well.
+A block can be set up, for example using an Action Button, to let users easily share a document with others by uploading it locally on a page. This can very useful, especially in a Comunity, but can be used in other types of apps as well. A document uploaded this way will be read only.
 
-Here's an example, where it's set up in a community, using the Action Button block:
+This is needed:
++ A property, for example Document Data.
++ A Page Type for this purpose, with an iFrame block pointing to the property.
++ A page set up to list the uploaded, local documents.
+
+Note that this can be added to Setup for the central Community template, and added to the Community Layouts, so Share Documents functionality will be added automatically to all new communities.
+
+Implementation example
+*************************
+Here's an example, where Share Documents is set up in a community, using the Action Button block:
 
 .. image:: share-document-button.png
 
@@ -13,8 +22,8 @@ When a user clicks SHARE DOCUMENT, this is shown:
 
 .. image:: share-document-button-upload.png
 
-The user can upload by using drag and drop, add a description (Summary) and tag the document. Alos note that a name for the uploader is registered. The name can be change if the user uploads a document for someone else.
+The user can upload by using drag and drop, add a description (Summary) and tag the document. Alos note that a name for the uploader is registered. The name can be changed if the user uploads a document for someone else.
 
 The user must click PUBLISH for the upload to start.
 
-(More will added here soon)
+For all users of the community to read a shared document, 
