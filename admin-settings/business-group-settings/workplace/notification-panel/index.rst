@@ -3,7 +3,7 @@ Notification Panel
 
 This is an ongoing preliminary documentation for functionality to come in Omnia 6.5.
 
-Here you can edit notification panel settings for the business profile's workplace.
+Here you can edit notification panel settings for the business profile's workspace.
 
 .. image:: workplace-notification-panel-new.png
 
