@@ -30,30 +30,30 @@ To delete the Business Profile, click the dust bin (remember that all settings f
 
 .. image:: business-profile-delete-edit-new2.png
 
-Workplace setting in Omnia 6.5
+Workspace setting in Omnia 6.5
 *********************************
-In Omnia 6.5 you can choose to use Workplace settings within the Business Profile, or you can use a classic setup. You make that choice when editing the Business Profile here:
+In Omnia 6.5 you can choose to use Workspace settings within the Business Profile, or you can use a classic setup. You make that choice when editing the Business Profile here:
 
 .. image:: business-profile-workplace.png
 
-If you choose to use a classic setting, "Classic Action Menu & Mega Menu" should be selected. If you would like to use Workplace settings, deselect this option.
+If you choose to use a classic setting, "Classic Action Menu & Mega Menu" should be selected. If you would like to use Workspace settings, deselect this option.
 
 Migrating to Omnia 6.5
 -------------------------
-Workplace settings are not activated for existing Business Profiles when you migrate to Omnia 6.5. You can of course leave it as it is, meaning not using Workplace settings. If you do, the Workplace options will not be available for the Business Profile.
+Workspace settings are not activated for existing Business Profiles when you migrate to Omnia 6.5. You can of course leave it as it is, meaning not using Workplace settings. If you do, the Workspace options will not be available for the Business Profile.
 
-If you would like to to use Workplace settings you must create a Business Profile Workplace, this way.
+If you would like to to use Workspace settings you must create a Business Profile Workspace, this way.
 
 1. Go to Omnia Admin and select Business Profiles in the Tenant settings.
 2. Click the pen for the Business Profile.
 
 .. image:: business-profile-pen.png
 
-3. Click "Create Business Profile Workplace".
+3. Click "Create Business Profile Workspace".
 
 .. image:: business-profile-create-workplace.png
 
-This icon indicates that a Workplace has been created for the Business Profile:
+This icon indicates that a Workspace has been created for the Business Profile:
 
 .. image:: business-profile-icon.png
 
