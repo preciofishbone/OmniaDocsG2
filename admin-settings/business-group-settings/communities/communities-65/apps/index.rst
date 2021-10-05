@@ -78,7 +78,7 @@ Available settings depends on how the template is set up. Here are some common e
 + **Title**: Add a Title for the Community App.
 + **Description**: Add a Description if needed.
 + **Add Image**: (A description will be added soon).
-+ **Show in Public Listings**: If a link to the app should be available in public listings (meaning listings in Omnia), should be available, select this option. If this option is deselected, the app can only be reached by specific links, for example in a Workplace navigation.
++ **Show in Public Listings**: If a link to the app should be available in public listings (meaning listings in Omnia), should be available, select this option. If this option is deselected, the app can only be reached by specific links, for example in a Workspace navigation.
 + **Omnia Alias**: The last part of the address to the site is created automatically but can be edited if necessary. If the name (address) already exists an alternative address is suggested.
 
 4. Click "Next" and use the following settings:
