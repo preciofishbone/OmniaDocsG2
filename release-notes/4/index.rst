@@ -191,7 +191,7 @@ Tenant Administration
 ***********************
 - Better handling for long display names on enterprise properties. (#114375, #114783, #117172).
 
-Workspace
+Workplace
 ***********************
 - It is now possible to base search queries on page variation URL segment. 
 - Targeting for search categories. It is now possible to use the targeting engine on search categories. (#115142, #115263).
