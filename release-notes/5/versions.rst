@@ -118,7 +118,7 @@ Team Collaboration
 - Can now use template icon in listings instead of letter avatar.
 - Site owners can now correctly edit site metadata (#122285).
 
-Workspace
+Workplace
 ***********************
 
 - :doc:`MS Teams Integration </release-notes/5/index>` 
