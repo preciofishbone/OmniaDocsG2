@@ -30,7 +30,7 @@ Improvements
  - Member of tab for O365 Group membership
 - Create site wizard has more options and better design
 
-Workplace
+Workspace
 ***********************
 
 New Features
