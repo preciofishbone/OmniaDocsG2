@@ -39,7 +39,7 @@ Web Content Management
 - Several alignment fixes to buttons and labels.
 - Limited permissions on page properties now works as expected.
 
-Workspace
+Workplace
 ***********************
 - Fixed a color theme issue in the advanced search on mobile.
 - Several fixes related to Team Collaboration provisioning.
