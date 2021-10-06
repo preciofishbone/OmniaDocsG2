@@ -35,7 +35,7 @@ Tenant Administration
 ***********************
 - Possible to view system logs in Omnia Admin to troubleshoot issues on site provisioning and other long running operations.
 
-Workspace
+Workplace
 ***********************
 - The high priority Announcement view now works in a block. 
 - Its now possible to configure default sort order for search categories (#118857).
