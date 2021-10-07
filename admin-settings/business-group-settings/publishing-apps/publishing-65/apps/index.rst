@@ -23,7 +23,7 @@ Edit App Route
 *****************
 If it should be needed to edit the App Route, click the icon and the following is shown:
 
-.. image:: publishing-apps-app-route-65.png
+.. image:: publishing-apps-app-route-65-url.png
 
 Edit Permissions
 *****************
