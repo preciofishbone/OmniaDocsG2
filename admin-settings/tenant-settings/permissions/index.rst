@@ -30,7 +30,7 @@ System Account
 ------------------
 System account is a standard extension for specialized implementations only, normally used by developers.
 
-.. image:: tenant-secrets-system.png
+.. image:: tenant-secrets-system-url.png
 
 Azure AD Sync Account
 -----------------------
