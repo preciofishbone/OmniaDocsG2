@@ -1,4 +1,21 @@
 
+6.3.18
+=========================================
+(Omnia 6.3.10 / Workplace 6.3.9 / WCM 6.3.18 / MS 6.3.16)
+
+note::Reconsent needed. To fix a provisioning error, a reconsent is needed. Permission TeamMember.ReadWrite.All has been added to the omnia app.
+
+- SSL certificates are updated to a stronger standard. (Making IE11 fully incompatible).
+- Updated error messages for the Full Sync to SharePoint (#132127).
+- Fixed an intermittent issue with teamwork creation (#131403).
+- Fixed a number of issues due to undocumented changes mad by Microsoft to SharePoint search in some tenants (#131142, #132045, #132101, #131931).
+- Fixed an issue that would prevent related documents in ODM to show up correctly (#131532).
+- Fixed an issue with Teamwork creating and the adding of default members, reconsent needed, see above. (#131661)
+- Stability improvments to the ODM publishing flow (#132267).
+- The document rollup now correctly opens document in a new tab from inside of MSTeams. (#131651, #131979, #129747, #132147)
+
+
+
 6.3.16
 =========================================
 (Omnia 6.3.8 / Workplace 6.3.7 / WCM 6.3.16 / MS 6.3.13)
