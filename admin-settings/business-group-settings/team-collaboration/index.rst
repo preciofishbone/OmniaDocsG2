@@ -73,7 +73,7 @@ Edit settings
 --------------
 When you click the pen for a teamwork, the following settings are available for editing:
 
-.. image:: team-collaboration-edit3.png
+.. image:: team-collaboration-edit3-url.png
 
 See above for information about the options.
 
