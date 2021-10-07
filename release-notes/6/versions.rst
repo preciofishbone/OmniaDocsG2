@@ -1,3 +1,16 @@
+
+6.3.16
+=========================================
+(Omnia 6.3.8 / Workplace 6.3.7 / WCM 6.3.16 / MS 6.3.13)
+
+- Fixed an issue with the full sync to SharePoint that would occur in Page Collections with more than 5000 items (#131419).
+- Fixed an issue with the Action button text (From 6.3.13) (#131737, #131770, #131780, #131782, #131910)
+- Document management can now support more than 2000 items in one authoring site. It’s not recommended to exceed the limit of 2000 documents in one site since some functionality will be unavailable (#131562).
+- Teamwork created from omnia now always shows in the listing, even when the confirmation email could not be sent (#131742).
+- Fixed an issue that would sometimes prevent the Controlled Document Library feature from activating (#131025, #131308, #131403).
+
+
+
 6.3.13
 ========================================
 (Omnia 6.3.7 / Workplace 6.3.6 / WCM 6.3.13 / MS 6.3.8) 
