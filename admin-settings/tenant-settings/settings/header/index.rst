@@ -11,7 +11,7 @@ General
 *********
 Set Background Color and Text Color here.
 
-.. image:: tenant-header-settings-new.png
+.. image:: tenant-header-settings-new-url.png
 
 Logo
 ************
