@@ -3,7 +3,7 @@
 =========================================
 (Omnia 6.3.10 / Workplace 6.3.9 / WCM 6.3.18 / MS 6.3.16)
 
-note::Reconsent needed. To fix a provisioning error, a reconsent is needed. Permission TeamMember.ReadWrite.All has been added to the omnia app.
+.. note:: Reconsent needed. To fix a provisioning error, a reconsent is needed. Permission TeamMember.ReadWrite.All has been added to the omnia app.
 
 - SSL certificates are updated to a stronger standard. (Making IE11 fully incompatible).
 - Updated error messages for the Full Sync to SharePoint (#132127).
