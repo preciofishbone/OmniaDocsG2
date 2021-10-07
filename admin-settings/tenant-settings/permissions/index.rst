@@ -36,7 +36,7 @@ Azure AD Sync Account
 -----------------------
 If you're using Azure AD Synchronization, add the account that executes the scheduling here. Should be a Sharepoint Admin account.
 
-.. image:: tenant-secrets-sync.png
+.. image:: tenant-secrets-sync-url.png
 
 For more information about Azure AD Synchronization, see: :doc:`Azure AD Synchronization Settings </admin-settings/tenant-settings/azure-ad-synchronization-settings/index>`
 
@@ -45,7 +45,7 @@ Event Management Service Account
 
 If you will be using Event Management with a connection to calendars in Outlook, you must add the service account that will be used to read and write from the calendars in the tenant. (Don't forget that this account needs permissions to that calendar.)
 
-.. image:: tenant-secrets-event.png
+.. image:: tenant-secrets-event-url.png
 
 Azure AD Sharepoint Sync App
 -------------------------------
