@@ -29,7 +29,7 @@ Logo
 ******
 The Logo settings are these:
 
-.. image:: workplace-header-app-logo.png
+.. image:: workplace-header-app-logo-url.png
 
 + **Inherit from tenant**: I you would like to inherit the logo settings from the tenant, instead of using specific settings here, select this option.
 
