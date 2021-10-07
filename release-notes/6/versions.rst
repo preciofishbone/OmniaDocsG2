@@ -1,3 +1,11 @@
+6.3.19
+=========================================
+(Omnia 6.3.11 / Workplace 6.3.10 / WCM 6.3.19 / MS 6.3.17)
+
+- Terms now render correctly when a custom sort order has been used in the term store.
+- Fixed an issue that would prevent the page dialog to open when the roller view template was used (#132416).
+- The 5000 items warning in ODM has been moved to the settings dialog.
+- Fixed a page cache issue (#132422, #130577).
 
 6.3.18
 =========================================
