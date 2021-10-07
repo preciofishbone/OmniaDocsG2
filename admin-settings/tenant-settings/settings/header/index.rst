@@ -11,13 +11,13 @@ General
 *********
 Set Background Color and Text Color here.
 
-.. image:: tenant-header-settings-new-url.png
+.. image:: tenant-header-settings-new.png
 
 Logo
 ************
 Set the following here:
 
-.. image:: logo-settings-new.png
+.. image:: logo-settings-new-url.png
 
 + **Text**: A text can be displayed by the logo, see example below. Different texts can be added for all tenant languages, if needed.
 + **Url**: Add the Url to the logo here.
