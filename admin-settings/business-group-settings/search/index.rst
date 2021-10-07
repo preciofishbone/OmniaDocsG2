@@ -125,7 +125,7 @@ Custom Search Target
 ----------------------
 If you activate this option you can change what will happen when a user clicks the Advanced Search link, for example after having made a Quick Search. This is useful for example if a specific Search Center should be used.
 
-.. image:: custom-search-target-new.png
+.. image:: custom-search-target-new-url.png
 
 
 
