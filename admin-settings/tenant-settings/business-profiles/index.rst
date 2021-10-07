@@ -34,7 +34,7 @@ Workspace setting in Omnia 6.5
 *********************************
 In Omnia 6.5 you can choose to use Workspace settings within the Business Profile, or you can use a classic setup. You make that choice when editing the Business Profile here:
 
-.. image:: business-profile-workplace.png
+.. image:: business-profile-workplace-url.png
 
 If you choose to use a classic setting, "Classic Action Menu & Mega Menu" should be selected. If you would like to use Workspace settings, deselect this option.
 
