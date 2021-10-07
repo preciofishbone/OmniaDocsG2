@@ -46,7 +46,7 @@ Each main node in the Mega Menu has its own layout and can rollup content from d
 
 .. image:: workplace-megamenu-layout.png
 
-.. image:: workplace-megamenu-settings.png
+.. image:: workplace-megamenu-settings-url.png
 
 The action menu can include any action available in Omnia. (The action button and action menu now share the same infrastructure).
 
