@@ -39,6 +39,7 @@ Major New Features
 - Automatic page translation, pages can now automatically create all variations without any editor intervention (#114074)
 - Iframe block.
 - Pages can now have documents stored as a property. 
+- Its now possible to change the url of publishing apps after thier creation. 
 
 
 Minor New Features
