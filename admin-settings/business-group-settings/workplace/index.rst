@@ -1,7 +1,7 @@
 Workspace
 ============
 
-This is an ongoing, preliminary documentation for functionality to come in Omnia 6.5.
+This feature is available in Omnia 6.5.
 
 The Workspace settings can be used to create dynamic navigation and access for a Business Profile. The Workspace lives outside the Publishing App.
 
