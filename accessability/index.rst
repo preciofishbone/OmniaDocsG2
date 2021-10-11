@@ -1,9 +1,9 @@
 Accessibility
 ===========================================
 
-Omnia is WCAG 2.1aa compliant and contains accessibility functionality for High contrast, Tooltips, Tab navigation and more.
+Omnia is WCAG 2.1aa compliant. Most accessibility features is built in from the start, but a few needs to be turned on.
 
-This must be turned on in the User Profile menu:
+It's up to each user to do that in the User Profile menu:
 
 .. image:: accessability-profile.png
 
