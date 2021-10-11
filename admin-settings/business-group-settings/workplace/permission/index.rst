@@ -1,9 +1,7 @@
 Permission
 ============
 
-This is an ongoing, preliminary documentation for functionality to come in Omnia 6.5.
-
-For Workspace, the following settings are available:
+For Workspace (Omnia 6.5 and later), the following settings are available:
 
 .. image:: workplace-permission-new.png
 
