@@ -1,8 +1,7 @@
-6.5.0 - DRAFT
+6.5.0
 ========================================
 (Omnia 6.5.0 / Workplace 6.5.0 / WCM 6.5.0 / MS 6.5.0)
 
-.. note:: These release notes are in Draft, it means they can change at any time. Items might be added, removed or updated.
 
 Major New Features 
 **************************
@@ -50,7 +49,7 @@ Minor New Features
 - You can now show taxonomy properties on the page rollup card view.
 - Show child nodes on cards in card view.
 - New Scheduling workflow. A schedule rule can now be tied to any date enterprise property. (#116302).
-- By using the new community’s layout feature, communities can now be provisioned in any language (#127432).
+- By using the new communityâ€™s layout feature, communities can now be provisioned in any language (#127432).
 - The see more link of search can now be configured to show after each category (#121840).
 - The profile image edit link for User Profile Completeness is now configurable. 
 - The Action button now supports most of the actions in Omnia.
