@@ -1,7 +1,7 @@
 Classic is enabled
 ====================
 
-This is an ongoing, preliminary description of functionality to come in Omnia 6.5-
+This feature is available in Omnia 6.5 and later.
 
 If the option "Classic Action Menu & Mega Menu" is selected for the Business Profile it is noted in the main Workspace menu. Here you can read information about what that means.
 
