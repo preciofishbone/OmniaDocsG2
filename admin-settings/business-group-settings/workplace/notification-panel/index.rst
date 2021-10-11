@@ -1,7 +1,7 @@
 Notification Panel
 ====================
 
-This is an ongoing preliminary documentation for functionality to come in Omnia 6.5.
+In Omnia 6.5 and later, it is here you will find the Notification Panel settings.
 
 The Notification Panel is a concept in Omnia. The purpose is to help end users find out what information has been updated within different areas of the intranet.
 
