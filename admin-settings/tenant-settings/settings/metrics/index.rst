@@ -1,7 +1,7 @@
 Metrics settings
 =================
 
-This is new functionality to come in Omnia 6.5. 
+These settings are available in Omnia 6.5. 
 
 In Omnia 6.5 you can edit the settings for some metrics. Firstly, you can decide what will be considered underused:
 
