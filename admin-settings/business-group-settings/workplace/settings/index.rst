@@ -1,7 +1,7 @@
 Settings
 ==========
 
-This is an ongoing, preliminary documentation for functionality to come in Omnia 6.5.
+This feature is available in Omnia 6.5 and later.
 
 The following settings are available here:
 
