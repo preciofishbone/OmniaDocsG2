@@ -80,6 +80,7 @@ Fixes
 - Fixed an issue with the Teamwork rollup that could occur when adding a new enterprise property (#130831).
 - Several issue with saving images has been fixed (#126594).
 - The add link action for the action button now correctly handles query strings (#128671)
+- Fixes to preview issues (#132822, #132752, #131891, #132553, #131845, #132261, #131901, #128525)
 
 
 For developers
