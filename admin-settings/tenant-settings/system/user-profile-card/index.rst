@@ -1,7 +1,7 @@
 User Profile Card
 ===================
 
-This is an ongoing, preliminary documentation for new functionality to come in Omnia 6.5. 
+This features is available in Omnia 6.5. 
 
 The new user profile card will be shown (if this functionality is activated) whenever you click on a user name in Omnia. The user profile card is designed to align with user profile cards in other services in Microsoft 365.
 
