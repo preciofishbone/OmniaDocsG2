@@ -1,7 +1,7 @@
 Forms
 ===========
 
-This is a work in progress - a preliminary documentaiton of a feature to come in Omnia v6.5.
+This feature is available in Omnia 6.5 and later.
 
 Here you can work with three types of forms. 
 
