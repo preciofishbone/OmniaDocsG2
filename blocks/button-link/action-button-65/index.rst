@@ -1,11 +1,11 @@
 Action Button in Omnia 6.5
 =============================
 
-This is an ongoing, preliminary documentation of the options for Action Button in Omnia 6.5. Note that this description has ongoing edits each day, not complete yet.
+**This is an ongoing documentation, more will be added soon.**
 
 Use this block to add one or more actions activated by buttons on a page.
 
-In Omnia 6.5 all actions that can be added as an action button can also be added to an Action Menu. Now you can create access to these actions the way that suits your organization.
+In Omnia 6.5 and later, all actions that can be added as an action button can also be added to an Action Menu. Now you can create access to these actions the way that suits your organization.
 
 The following actions are available to add as a button:
 
@@ -201,17 +201,10 @@ It works the same way as in the Profile Completion block: :doc:`The Profile Comp
 
 (Only the general settings for the button are available, see above).
 
-
-
-
 **Note! From this point on, the text is NOT edited. Will be soon.**
 
 + **Unsubscribe Text**: A "Subscribe" button changes the text automatically when a user has clicked the button. Unsubscribe is suggested but you can change the text to something else. (Same apply for variations as above.)
 + **Subscription Scope**: Available for Type Subscription. Select the scope here, meaning what the user actually subscribes to; the Page (=all changes to the page, even comments and best reply for Knowledge pages), Publishing App (=all new pages in the Publishing App, but not changes to existing pages) or Page Collection (=all new pages in the Page Collection, but not changes to existing pages).
-
-
-
-
 
 Style
 ---------------
