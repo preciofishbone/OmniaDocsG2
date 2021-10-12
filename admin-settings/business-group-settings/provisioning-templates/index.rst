@@ -3,6 +3,8 @@ Provisioning Templates
 
 Use these options to create Provisioning Templates for Team Sites of different types, or Publishing Apps.
 
+Note that in Omnia 6.5 and later, the option Provisioning templates is removed. Instead, templates are administrated under each main option, so you will find templates for Communities under the option Communities etc.
+
 All existing templates are displayed in the list, for example:
 
 .. image:: provisioning-templates-new4.png
