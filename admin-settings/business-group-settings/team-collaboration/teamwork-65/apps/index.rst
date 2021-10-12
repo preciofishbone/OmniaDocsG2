@@ -1,7 +1,7 @@
 Apps for Teamwork
 ===========================================
 
-This is an ongoing, preliminary documentatin for this functionality in Omnia 6.5.
+This is a documentation of the functionality for the Apps list for Teamwork in Omnia 6.5 and later.
 
 Here Teamworks are listed, the "Active" tab as an example:
 
