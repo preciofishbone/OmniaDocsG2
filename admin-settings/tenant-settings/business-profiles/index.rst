@@ -40,9 +40,9 @@ If you choose to use a classic setting, "Classic Action Menu & Mega Menu" should
 
 Migrating to Omnia 6.5
 -------------------------
-Workspace settings are not activated for existing Business Profiles when you migrate to Omnia 6.5. You can of course leave it as it is, meaning not using Workplace settings. If you do, the Workspace options will not be available for the Business Profile.
+Workspace settings are not activated for existing Business Profiles when you migrate to Omnia 6.5. You can of course leave it as it is, meaning not using Workspace settings. If you do, the Workspace options will not be available for the Business Profile.
 
-If you would like to to use Workspace settings you must create a Business Profile Workspace, this way.
+If you would like to to use Workspace settings you must create a Business Profile Workspace, this way:
 
 1. Go to Omnia Admin and select Business Profiles in the Tenant settings.
 2. Click the pen for the Business Profile.
