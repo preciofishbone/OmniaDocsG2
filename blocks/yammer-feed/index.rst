@@ -1,7 +1,7 @@
 Yammer Feed
 ===============
 
-This is an ongoing, preliminary documentation for a block that will be available in Omnia 6.5.
+This block is available in Omnia 6.5 and later.
 
 A Yammer Feed can be displayed in this block.
 
