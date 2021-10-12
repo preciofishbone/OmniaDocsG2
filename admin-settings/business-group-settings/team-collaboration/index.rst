@@ -3,7 +3,7 @@ Teamwork
 
 Use these settings go to any Teamwork site to, for example, edit settings. You can also create a new Teamwork site, or Attach an existing site to Omnia.
 
-In Omnia 6.5, options for Teamwork will be a bit different. See this page: :doc:`Teamwork in Omnia 6.5 </admin-settings/business-group-settings/team-collaboration/teamwork-65/index>`
+In Omnia 6.5 and later, options for Teamwork will be a bit different. See this page: :doc:`Teamwork in Omnia 6.5 </admin-settings/business-group-settings/team-collaboration/teamwork-65/index>`
 
 Using the list "Inactive" you can handle sites with pending delete.
 
