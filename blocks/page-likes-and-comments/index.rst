@@ -51,13 +51,13 @@ Images can be added to comments, if the Limited RTF Editor is set up that way. T
 
 For this icon to be available it must be added to the Limited RTF Editor in Omnia Admin settings. See this page for more information: :doc:`RTF Editor settings </admin-settings/tenant-settings/settings/rtf-editor/index>`
 
-Page Likes and Comments block in Omnia 6.5
-*******************************************
-In Omnia 6.5 this block will have some new options.
+Page Likes and Comments block in Omnia 6.5 and later
+*****************************************************
+In Omnia 6.5 and later, this block has some new options.
 
-Settings in 6.5
-^^^^^^^^^^^^^^^^
-The General tab will have the following options in Omnia 6.5:
+Settings in 6.5 and later
+-----------------------------
+The General tab will have the following options in Omnia 6.5 and later:
 
 .. image:: likes-65-general.png
 
