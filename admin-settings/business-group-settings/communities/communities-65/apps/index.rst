@@ -1,7 +1,7 @@
 Apps
 ========
 
-This is an ongoing, preliminary documentation for functionality to come in Omnia 6.5.
+This is a documentation of how this list works in Omnia 6.5 and later.
 
 Within a Business Profile several Community Apps can be active for different settings. To be able to create a Community App, at least one template for this purpose must be available. If none are, create a template first.
 
