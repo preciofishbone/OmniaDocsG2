@@ -1,9 +1,7 @@
 Create App block
 ===================
 
-This is an ongoing, preliminary documentation for a new block to come in Omnia 6.5.
-
-A new Omnia App can be created through this block. The block will replace the Create Teamwork block.
+A new Omnia App can be created through this block, available in Omnia 6.5 and later. The block replaces the Create Teamwork block.
 
 In the settings you can add a title for the block and select what kind of app that should be possible to create: Publishing, Community or Teamwork.
 
