@@ -14,5 +14,5 @@ Select section for more information:
    layout/index
    templates/index
 
-In Omnia 6.5 a new Publishing Apps Rollup block will also be available: :doc:`Publishing Apps Rollup block </blocks/publishing-apps-rollup/index>`
+In Omnia 6.5 and later, a new Publishing Apps Rollup block will also be available: :doc:`Publishing Apps Rollup block </blocks/publishing-apps-rollup/index>`
 
