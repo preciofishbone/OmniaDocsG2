@@ -1,7 +1,7 @@
 Enterprise Glossary
 ====================
 
-This feature is available in Omnia 6.5.
+This feature is available in Omnia 6.5 and later.
 
 Enterprise Glossary can be used for taxonomies/terms to edit look and feel and/or to connect the term to a page for more information. Terms can even be created specifically to provide more information where it's needed. 
 
