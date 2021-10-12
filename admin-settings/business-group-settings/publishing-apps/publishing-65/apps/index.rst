@@ -1,7 +1,7 @@
 Apps
 ========
 
-This is an ongoing, preliminary documentation for functionality to come in Omnia 6.5.
+This is a description of this functionality in Omnia 6.5 and later.
 
 Within a Business Profile several Publishing Apps can be active for different settings. To be able to create a Publishing App, at least one template for Publishing Apps must be available. If none are, create a template first.
 
