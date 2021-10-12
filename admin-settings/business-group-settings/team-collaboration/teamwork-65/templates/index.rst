@@ -1,9 +1,7 @@
 Teamwork templates
 ===========================================
 
-This is an ongoing, preliminary documentation of how this works in Omnia 6.5.
-
-In Omnia 6.5 the option “Provisioning templates” will be removed. Instead, templates will be administered under each main option, so here you can work with templates for Teamwork:
+In Omnia 6.5 and later, the option “Provisioning templates” is removed. Instead, templates are administered under each main option, so here you can work with templates for Teamwork.
 
 .. image:: teamwork-65-templates-new2.png
 
