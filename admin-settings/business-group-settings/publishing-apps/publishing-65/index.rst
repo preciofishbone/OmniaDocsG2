@@ -1,9 +1,7 @@
 Publishing Apps settings in Omnia 6.5
 ========================================
 
-This is an ongoing preliminary documentation for functionality to come in Omnia 6.5.
-
-The following settings are available in Omnia 6.5:
+The following settings are available in Omnia 6.5 and later:
 
 .. image:: publishing-65.png
 
