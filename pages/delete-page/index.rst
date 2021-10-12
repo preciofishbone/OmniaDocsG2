@@ -3,7 +3,7 @@ Archive a page
 
 When working with the navigation you can archive a page that is no longer needed. This is instead of a delete option. Just remember that if other pages links to a page you archive, the links will no longer work. You have to edit or remove such links.
 
-In Omnia 6.5 it may possible to create a copy of the archived page, as a new draft. See the end of this page for more information.
+In Omnia 6.5 and later, it may possible to create a copy of the archived page, as a new draft. See the end of this page for more information.
 
 If a page has sub pages you can still archive it. Then all sub pages will also be archived. Both published pages and drafts will be archived. If variations for the page or sub pages exists, they will also be archived.
 
@@ -113,7 +113,7 @@ When a page is terminated in Omnia, it is moved to the recycle bin in SharePoint
 
 Archive and create draft in Omnia 6.5
 *****************************************
-When archiving a page in Omnia 6.5, it may be possible to create a new draft. This is possible if:
+When archiving a page in Omnia 6.5 and later, it may be possible to create a new draft. This is possible if:
 
 + The page has no sub pages.
 + No variations are created for the page.
@@ -122,18 +122,5 @@ When it is possible to create a draft when archiving, the following option is av
 
 .. image:: archive-create-draft.png
  
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
