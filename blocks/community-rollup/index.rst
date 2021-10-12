@@ -1,7 +1,7 @@
 Community Rollup block
 =========================
 
-This is an ongoing, preliminary documentation of a new block to come in Omnia 6.5. 
+This block is available in Omnia 6.5 and later. 
 
 Settings
 *************
