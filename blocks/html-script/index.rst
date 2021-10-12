@@ -62,9 +62,9 @@ The following settings are available when editing HTML/Script:
 + **iFrame Height**: If "Run in iFrame" is selected you can set the iFrame Height.
 + **Run Script in Edit Mode**: If the script should be run in reader mode (end user mode) only, select this option.
 
-Omnia 6.5
-***********
-In Omnia 6.5, the HTML/Script block will be improved to support api endpoints to the Microsoft Graph and SharePoint REST API. This will make it possible to get data from the Graph and render it using the built-in vue.js framework in Omnia.
+Omnia 6.5 and later
+*************************
+In Omnia 6.5 and later, the HTML/Script block will be improved to support api endpoints to the Microsoft Graph and SharePoint REST API. This will make it possible to get data from the Graph and render it using the built-in vue.js framework in Omnia.
 
 .. image:: script-html-new-api.png
 
