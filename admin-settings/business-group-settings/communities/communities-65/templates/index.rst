@@ -1,9 +1,7 @@
 Templates
 ===========
 
-This is an ongoing, preliminary documentation for functionality to come in Omnia 6.5.
-
-In Omnia 6.5 the option Provisioning templates will be removed. Instead, templates will be administrated under each main option, so here  you can work with templates for Communities.
+In Omnia 6.5 and later, the option Provisioning templates is removed. Instead, templates are administrated under each main option, so here  you can work with templates for Communities.
 
 .. image:: communties-templates-new.png
 
