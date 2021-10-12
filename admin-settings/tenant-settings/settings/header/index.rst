@@ -5,7 +5,7 @@ Here you can change the default settings for the Header in the tenant. Additiona
 
 .. image:: tenant-settings-header.png
 
-In Omnia 6.5 the header settings is quite different. See this page for more information: :doc:`Header settings in Omnia 6.5 </admin-settings/tenant-settings/settings/header/header-65/index>`
+In Omnia 6.5 and later, the header settings is quite different. See this page for more information: :doc:`Header settings in Omnia 6.5 </admin-settings/tenant-settings/settings/header/header-65/index>`
 
 General
 *********
