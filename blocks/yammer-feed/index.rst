@@ -1,9 +1,7 @@
 Yammer Feed
 ===============
 
-This block is available in Omnia 6.5 and later.
-
-A Yammer Feed can be displayed in this block.
+This block is available in Omnia 6.5 and later. A Yammer Feed can be displayed in this block.
 
 The following settings are available:
 
