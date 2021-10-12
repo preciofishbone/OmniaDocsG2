@@ -1,9 +1,7 @@
 Form block
 ============
 
-**This is ongoing, preliminary documentation for functionality to come in Omnia v6.5.**
-
-Use this block to make a form available for users. 
+This block is available in Omnia 6.5 and later. Use it to make a form available for users. 
 
 A form can be a Survey, a Poll or a Checkup. These forms are created and maintained in Omnia Admin. See this page for more information: :doc:`Forms </admin-settings/business-group-settings/forms/index>`
 
