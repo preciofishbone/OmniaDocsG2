@@ -3,7 +3,7 @@ Accordion
 
 With this block you can add the posibility to enter expandle text on a page. The content is added using Write mode.
 
-In Omnia 6.5, this block is replaced by the FAQ block, see this page for more information: :doc:`The FAQ block </blocks/faq/index>`
+In Omnia 6.5 and later, this block is replaced by the FAQ block, see this page for more information: :doc:`The FAQ block </blocks/faq/index>`
 
 Also note that in Omnia 6.5 there's an Accordion section available, but that's a section, not a block.
 
