@@ -1,7 +1,7 @@
 Layouts
 ==========
 
-This is an ongoing, preliminary documentation for functionality to come in Omnia 6.5.
+This feature is available in Omnia 6.5 and later.
 
 Here you can work with ready made layouts for publishing start pages.
 
