@@ -1,4 +1,4 @@
-Release 6.5 (Preview)
+Release 6.5
 ========================================
 
 Tenant Header
