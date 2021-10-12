@@ -1,9 +1,7 @@
 FAQ block
 ===========
 
-This is an ongoing, preliminary documentation of a new block that will be available in Omnia 6.5. 
-
-In this block you can create content that is presented in an accordion style format, for FAQ:s and other purposes.
+In this block, available in Omnia 6.5 and later, you can create content that is presented in an accordion style format, for FAQ:s and other purposes.
 
 Settings
 *********
@@ -63,11 +61,4 @@ When you have added a few FAQ posts you can use the icons this way to edit:
 To edit, expand the FAQ. To delete, click the dust bin. You can also decide the order by using the left-most icon to drag and drop.
 
 .. image:: faq-add-edit-new.png
-
-
-
-
-
-
-
 
