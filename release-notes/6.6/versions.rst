@@ -1,6 +1,6 @@
-6.6.0 - DRAFT
+6.7.0 - DRAFT
 ========================================
-(Omnia 6.6.0 / Workplace 6.6.0 / WCM 6.6.0 / MS 6.6.0)
+(Omnia 6.7.0 / Workplace 6.7.0 / WCM 6.7.0 / MS 6.7.0)
 
 .. note:: These release notes are in Draft, it means they can change at any time. Items might be added, removed, or updated.
 
@@ -38,7 +38,7 @@ New Minor Features
 - Its now possible to add a link to an image in an RTF field (#123318, #125364).
 - Image descriptions are now rendered as both alt text and title text on the img element (#131343).
 - Image default ratios and enforce scaling is now available for images in a section.
-- When using a custom icon for a link, it’s now possible to upload an image from your computer. (#116728, #116782)
+- When using a custom icon for a link, itâ€™s now possible to upload an image from your computer. (#116728, #116782)
 - When using the Keep text only feature in RTF, all style tags are now removed (Only default HTML styles is kept)
 - Its now possible to move document types in the document type tree in Omnia Admin.
 - When the accordion/FAQ block has no content, it will be completely hidden in read mode (#128010).
