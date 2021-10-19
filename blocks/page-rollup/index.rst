@@ -27,7 +27,7 @@ Here you can set the following:
 + **Pick in Write Mode**: Available when Pick Pages is selected. Select this option if editors should be able to pick pages in Write mode. If not selected, Design mode has to be used.
 + **ADD PAGE**: When you have selected Pick Pages, you can pick some pages to always be shown. Click this option and use the Page Picker. See this page for more information: :doc:`Page Picker </general-assets/page-picker/index>`
 + **Use Query Builder**: If you want to use the query builder to set which pages should be available here, select this option.
-+ **Scope**: When you have chosen to use the Query Builder, select scope for the block; Publishing Apps or Page Collections. Then open the list below and select Publishing Apps/Page Collections. In Omnia 6.5 a third scope will be available: Navigation path. Use it to select a node to get the pages from. When you have selected start node you can choose navigation depth. In 6.5, there's also a new view for this; Navigation view, available under Display.
++ **Scope**: When you have chosen to use the Query Builder, select scope for the block; Publishing Apps or Page Collections. Then open the list below and select Publishing Apps/Page Collections. In Omnia 6.5 and later, a third scope will be available: Navigation path. Use it to select a node to get the pages from. When you have selected start node you can choose navigation depth. In 6.5 and later, there's also a new view for this; Navigation view, available under Display.
 + **Exclude current page**: Available when you have chosen scope for the Query Builder. The default setting is to exclude the current page, but if you, for some reason, would like to include the current page, uncheck this option.
 + **Trim duplicates**: Available for the Query Builder. If more than one Page Rollup block is added to a page, this option can be used to handle duplicates between the blocks. When the option is selected, you can enter a number indicating the priority for duplicates, for this block. If you set "1" for a block it means this block has priority showing a post that would have been a duplicate. 
 + **Query Item Limit**: Available for the Query Builder. Use the slider, or type the number (1-99) to set the number of pages that should be retrieved to make sure all duplicates are found. You should not set this number higher than you really need, as higher numbers may have an impact on performance. Note that when you change the number, "Max Display Limit" is also changed, see below.
@@ -88,7 +88,7 @@ The following lists all available display settings, shown in different order for
 + **Page Content Character Limit**: If the number of characters displayed for Page Content should be limited, add the number here. The Content is simply jus cut after that. Available for Newsletter only.
 + **Page Summary Character Limit**: If the number of characters displayed for Page Summary should be limited, add the number here. The Summary is simply jus cut after that. Available for Newsletter only.
 + **Paging**: Select paging here; "No paging", "Classic" or "Scroll".
-+ **Person**: New option to come in Omnia 6.5. Can be used to show properties in Card view.
++ **Person**: New option in Omnia 6.5 and later. Can be used to show properties in Card view.
 + **Show create button**: To make it possible for editors to create a new page from here, select this option to add a button to the block heading, and type the name for the button. 
 + **Show Default image**: If there is no image available for a page, a placeholder image can be used. If that image should be used, select this option.
 + **Show Likes/Comments**: If the number of likes and comments should be displayed for the item, select this option. 
@@ -100,7 +100,7 @@ The following lists all available display settings, shown in different order for
 + **Slider Size**: Select the size of the slider here: Small, Medium, Large or Extra large. Available for "Dynamic Roller" only.
 + **Sort by**: Choose what the list should be sorted by, and then select ascending or descending.
 + **Summary**: Select the property that contains the page summary for the item to display.
-+ **Term properties**: New option in Omnia 6.5. Can be used to show properties in Card view. Click "Add" and select a property. Continue the same way for additional properties.
++ **Term properties**: New option in Omnia 6.5 and later. Can be used to show properties in Card view. Click "Add" and select a property. Continue the same way for additional properties.
 + **Title**: If a title should be shown for the block, add it in this field. If no variation exists for the page, you can set the title in the languages active in the tenant. If variations exists, only one title can be set. In that case, titles in other languages are set in the variations.
 
 **Note!** For "List View" and "Event List", you also have to add at least one column, for the display to work. Here's an example with three columns added for List View:
@@ -149,7 +149,7 @@ If users should be able to filter the list and/or search here, use these options
 
 See this page for information on how to use these options: :doc:`Filter UI </blocks/general-block-settings/filters/index>`
 
-In Omnia 6.5 there will be an additional option, specific for Page Rollup:
+In Omnia 6.5 and later, there is an additional option, specific for Page Rollup:
 
 .. image:: page-rollup-filter-65.png
 
