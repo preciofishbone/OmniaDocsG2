@@ -15,12 +15,12 @@ To edit a Search config, click the pen. To delete a Search config, click the dus
 
 Search Categories
 -------------------
-To create a new Search Category, click the plus and use the settings availble for the Search Provider. All settings listed below.
+To create a new Search Category, click the plus and use the settings available for the Search Provider. All settings listed below.
 
 .. image:: search-config-categories-4-new2.png
 
 + **Title**: Add a title for the Search Category, in some or all languges available in the tenant (click the flag to change language).
-+ **Search Providers**: Select search provider for the category. The following is available: Sharepoint Search and Microsoft Search. In Omnia 6.5 Shared Links as well as Comments, will also be available as Search Providers.
++ **Search Providers**: Select search provider for the category. The following is available: Sharepoint Search and Microsoft Search. In Omnia 6.5 and later, Shared Links as well as Comments, will also be available as Search Providers.
 + **Search Result Source**: Select Source from the list.
 + **Search Query**: Add the Search Query here.
 + **Enable Query Rules**: Query rules can be set up in Sharepoint. If these query rules should be used for this category, select this option.
