@@ -111,8 +111,8 @@ When a page is archived, the information is removed from the Omnia database and 
 
 When a page is terminated in Omnia, it is moved to the recycle bin in SharePoint.
 
-Archive and create draft in Omnia 6.5
-*****************************************
+Archive and create draft in Omnia 6.5 and later
+*****************************************************
 When archiving a page in Omnia 6.5 and later, it may be possible to create a new draft. This is possible if:
 
 + The page has no sub pages.
