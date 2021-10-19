@@ -1,7 +1,7 @@
 Invite co-authors
 ==================
 
-This is an ongoing, preliminary documentation for a new option to come in Omnia 6.5.
+This feature is available in Omnia 6.5 and later.
 
 If Page Collection settings allow it, authors can invite co-authors for the page. Regarding permissions, co-authors will simply be authors, there's no separate permission for co-authors.
 
