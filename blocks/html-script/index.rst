@@ -3,6 +3,8 @@ HTML/Script
 
 HTML/Script is a block you can use for various applications to add extra functionality or content to a page. One example is to add the code for a video, from YouTube, or some other source.
 
+In Omnia 6.5 and later, this block is improved, see the end of the page.
+
 Block Settings
 ***************
 The following settings are available for teh block:
@@ -35,7 +37,7 @@ If it should be possible for editors to replace or remove the default content in
 
 Add HTML code
 ****************
-Note that if any default content is added, and if editing is not allowed as set on the WRITE tab (see above) nothing can be added or edited in Write mode.
+Note that if any default content is added, and if editing is not allowed as set on the WRITE tab (see above) nothing can be added or edited in Write mode. 
 
 To add HTML code in Write mode, if it is allowed, click "ADD CONTENT". 
 
