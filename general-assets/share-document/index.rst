@@ -1,9 +1,7 @@
 Share Documents
 ===========================================
 
-This is an ongoing, preliminary documentation of functionality to come in Omnia 6.5.
-
-A block can be set up, for example using an Action Button, to let users easily share a document with others by uploading it locally on a page. This can very useful, especially in a Comunity, but can be used in other types of apps as well. 
+In Omnia 6.5 and later, a block can be set up, for example using an Action Button, to let users easily share a document with others by uploading it locally on a page. This can very useful, especially in a Comunity, but can be used in other types of apps as well. 
 
 One document can be uploaded each time. A document uploaded this way will be read only.
 
