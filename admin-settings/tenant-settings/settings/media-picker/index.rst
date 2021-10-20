@@ -1,7 +1,7 @@
 Media Picker Settings
 ======================
 
-These settings are available in Omnia v6.
+The following settings are available:
 
 .. image:: media-picker-settings.png
 
