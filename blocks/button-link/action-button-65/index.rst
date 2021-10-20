@@ -139,7 +139,7 @@ Using this action the logged in user's My Links can be shown.
 
 See this page for more information: :doc:`My Links </user-options/my-links/index>`
 
-(Only the general settings are available, see above).
+(Only general settings are available, see above).
 
 My Subscriptons
 ----------------
