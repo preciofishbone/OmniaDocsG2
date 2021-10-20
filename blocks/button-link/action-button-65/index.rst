@@ -1,5 +1,5 @@
-Action Button in Omnia 6.5
-=============================
+Action Button in Omnia 6.5 and later
+=========================================
 
 **This is an ongoing documentation, more will be added soon.**
 
