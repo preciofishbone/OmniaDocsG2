@@ -1,7 +1,7 @@
 Sign-off Request block
 ==========================
 
-This is a new block to come in Omnia 6.6. It will be used for Sign-off Requests Rollup, for managers and aministrators to be able to follow up Sign-off Requests.
+This is a new block that is available in Omnia 6.6 and later. It will be used for Sign-off Requests Rollup, for managers and aministrators to be able to follow up Sign-off Requests.
 
 A documentation will be added soon.
 
