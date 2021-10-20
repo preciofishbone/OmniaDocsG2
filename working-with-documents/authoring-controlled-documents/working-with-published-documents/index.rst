@@ -87,13 +87,17 @@ A published document can be moved to any other site with a Controlled Documents 
  
 The following is shown:
 
-.. image:: published-move-document-new2.png
+.. image:: published-move-document-new3.png
+
+Note the message about what will happen with document properties.
  
 3.	Type the URL (or paste, if you have copied it) to the site in the top field and click "Resolve". 
 
-If the URL is correct the site title is shown in the second field.
+**Note!** You should type or paste the Url to the site, note the Controlled Documents library. If the Url is not correct (meaning pointing to the site only) you will get the message that site does not contain a Controlled Documents library.
 
-4.	Click "Move".
+If the URL is correct the site title is shown in the second field - Site Title.
+
+4.	Click MOVE.
 
 Unpublish
 **********
