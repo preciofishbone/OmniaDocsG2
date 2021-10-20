@@ -31,7 +31,7 @@ The first step is the same for all template types.
 + **Icon Type**: An icon is always shown for a template. If you would like another icon for this template, select the set of icons here: Font Awesome,, Microsoft, Flags or Custom. When selecting Custom you can choose any image as the icon.
 + **Icon**: When you have select Icon Type, use this list to select the icon. If you select Custom, a Url field is shown, where you enter the Url for the image.
 + **Available to All Users**: Select this option if the template should be available for other's than administrators, for example in the user Wizard for creating new teamworks. If this option is selected, the template will be available only for administrators to use in Omnia Admin.
-+ **Property Set**: You can select a property set here, to be used for the template, meaning a number of properties that the colleague creating the site will or will have to fill in when the template is used. Available in Omnia v6 only. 
++ **Property Set**: You can select a property set here, to be used for the template, meaning a number of properties that the colleague creating the site will or will have to fill in when the template is used.  
 + **Site Creation Mode**: Here you select if approval is required when users create sites from this template. 
 
 If you select Approval, you must add one or more colleagues to receive notifications about pending approval:
