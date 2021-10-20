@@ -62,17 +62,17 @@ The purpose of this action is for the logged in user to add a Favourites link fo
 .. image:: action-button-favourite.png
 
 + **Remove link**: When a favourites link has been added, the text on the button changes so the user can remove the page from the favourites list. Add that text here. 
-+ **Category**: If the Favourite link should be added to a specific Category, add the category here.
++ **Category**: If the Favourite link should be added to a specific Category, type the name of the category here. It can be a new or an existing category.
 
 Create App
 ------------
 The purpose of this action is to make it possilble for users to create an Omnia app, just like the Create App block.
 
-The following settings are available (se above for the general ones):
+The following settings are available for this purpose (se above for the general ones):
 
 .. image:: action-button-create-app.png
 
-+ **Dialog position**: Select position for thedialog that will open; Center or Right.
++ **Dialog position**: Select position for the dialog that will open; Center or Right.
 + **Select App definition**: Publishing, Community or Teamwork.
 + **Select Template to show**: When you have selected App Definition, here you select the template(s) that should be available. A list of all available templates for the definition is shown. You select one or more templates there.
 + **Padding**: Add some padding in the block if needed.
@@ -83,7 +83,7 @@ The purpose of this action is to make it possible to create a document. When the
 
 :doc:`Using the Create New Document Wizard </working-with-documents/using-the-document-wizard/index>`
 
-(Only the general settings are available, see above).
+(Only general settings are available, see above).
 
 Create Page
 -------------
@@ -103,10 +103,10 @@ Using this type you can add buttons for Event Management Actions:
 
 + Sign Up: Used by the logged in user to register for an event. 
 + Sign Up Other: Used by the logged in user to register others - colleagues or external partners - for an event.
-+ Add To Outlook: In the case Event Management is set up to use a specific calendar, this button can added to make it possible for users to add the event to their personal calendar.
++ Add To Outlook: In the case Event Management is set up to use a specific calendar, this button can be added to make it possible for users to add the event to their personal calendar.
 + Cancel: Used by the logged in user to cancel the registration he or she has made in their own name, ie done by using the button "Sign Up". 
 
-For more information about how the buttons and more works for Event Management, see: :doc:`Working with Events </working-with-events/index>`
+For more information about how the buttons, and more works for Event Management, see: :doc:`Working with Events </working-with-events/index>`
 
 Invite co-authors
 -------------------
@@ -114,15 +114,15 @@ This action is available for authors in the Action Menu, when editing a page. It
 
 For more information, see: :doc:`Invite co-authors </pages/invite-co-authors/index>`
 
-(Only the general settings are available, see above).
+(Only general settings are available, see above).
 
 Like
 -------
-Page Likes and Comments can be added as block on a page, but Like action also be added as an Action Button:
+Page Likes and Comments can be added as a block on a page, but the Like action also be added as an Action Button:
 
 .. image:: action-button-like.png
 
-+ **Unlike Text**: When a user has liked a page, the text in the button changes to Unlike. If you want som other unlike-text, edit the text here.
++ **Unlike Text**: When a user has liked a page, the text on the button changes to "Unlike". If you want some other unlike-text, edit the text here.
 + **Target**: Target can only be Page for now and is selected by default.
 
 Link
@@ -143,11 +143,11 @@ See this page for more information: :doc:`My Links </user-options/my-links/index
 
 My Subscriptons
 ----------------
-My Subscriptions is available in a person's My Profile menu but can also be added as an Action Button:
+My Subscriptions is available in a person's "My Profile" menu but can also be added as an Action Button:
 
 Subscriptions are meant to be used in Communities, for now. See this page for more information: :doc:`My Subscriptions </using-communities/subscriptions/my-subscriptions/index>`
 
-(Only the general settings are available, see above).
+(Only general settings are available, see above).
 
 Motification Panel
 --------------------
@@ -161,15 +161,15 @@ Omnia Admin
 -------------
 If you need to add the possibility to go to Omnia Admin, for those with the right permissons, you can add this Action Button.
 
-(Only the general settings are available, see above).
+(Only general settings are available, see above).
 
 Process Feedback
 ----------------------
 This action makes it possible for a user to send feedback on a Process page.
 
-The feedback will be sent to the process owner and will be available in the team site where the process is located. Feedback can be accessed on the PUBLISHED tab using the menu option "Feedback". Also note that the button must be placed in a Process Context to work.
+The feedback will be sent to the process owner and will be available in the team site where the process can be edited. Feedback can be accessed on the PUBLISHED tab using the menu option "Feedback". Also note that the button must be placed in a Process Context to work.
 
-(Only the general settings for the button are available, see above).
+(Only general settings for the button are available, see above).
 
 Quick Search
 ---------------
@@ -185,7 +185,7 @@ You use these settings the same way as in the Search block. For more information
 
 Share
 --------
-Share can be available through the Likes and Comments block, but can also be added as an Action Button:
+Share can be available through the "Likes and Comments" block, but can also be added as an Action Button:
 
 .. image:: action-button-share.png
 
@@ -193,18 +193,33 @@ Share can be available through the Likes and Comments block, but can also be add
 
 (More will be added soon).
 
+Sign-off request
+-----------------
+This button type is available in Omnia 6.6 and later.
+
+.. image:: action-button-sign-off.png
+
+(More info will be added soon).
+
 Strengthen Profile
 ----------------------
 Strengthen profile can be available as a block (Profile Completion) or available in the Action Menu. It can also be added as an Action Button.
 
 It works the same way as in the Profile Completion block: :doc:`The Profile Completion block </blocks/profile-completion/index>`
 
-(Only the general settings for the button are available, see above).
+(Only general settings for the button are available, see above).
 
-**Note! From this point on, the text is NOT edited. Will be soon.**
+Subscribe
+-----------
+This action can be added to the menu in a community but can also be added as a button, with these settings:
 
-+ **Unsubscribe Text**: A "Subscribe" button changes the text automatically when a user has clicked the button. Unsubscribe is suggested but you can change the text to something else. (Same apply for variations as above.)
-+ **Subscription Scope**: Available for Type Subscription. Select the scope here, meaning what the user actually subscribes to; the Page (=all changes to the page, even comments and best reply for Knowledge pages), Publishing App (=all new pages in the Publishing App, but not changes to existing pages) or Page Collection (=all new pages in the Page Collection, but not changes to existing pages).
+.. image:: action-button-subscribe-new.png
+
++ **Unsubscribe Text**: A "Subscribe" button changes the text automatically when a user has clicked the button. Unsubscribe is suggested but you can change the text to something else.  
++ **Subscription Scope**: Select the scope here, meaning what the user actually subscribes to; the Page (=all changes to the page, even comments and best reply for Knowledge pages), Publishing App (=all new pages in the Publishing App, but not changes to existing pages) or Page Collection (=all new pages in the Page Collection, but not changes to existing pages).
+
+Teamwork Navigation
+---------------------
 
 Style
 ---------------
