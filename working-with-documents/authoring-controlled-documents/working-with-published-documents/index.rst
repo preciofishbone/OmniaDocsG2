@@ -76,8 +76,8 @@ Read Receipt Status
 ********************
 This option has to do with the option "Notify people" an author can select when publishing a document. See this page for more information: :doc:`Read and Understood - Notify and Read Receipt </working-with-documents/authoring-controlled-documents/read-and-understood/index>`
 
-Move a document
-*****************
+Move a published document
+*****************************
 A published document can be moved to any other site with a Controlled Documents library. If a draft for a new edition of the document is present, the draft must first be deleted.
 
 **Note!** You must first check and note (or copy) the URL to the site you want to move the document to.
