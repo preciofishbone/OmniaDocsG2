@@ -1,7 +1,7 @@
 Settings
 ===========
 
-This is an ongoing, preliminary documentation for new functionality to com in Omnia 6.6.
+This is an ongoing, preliminary documentation for new functionality in Omnia 6.6 and later.
 
 Regarding settings for Sign-off Requests, the following settings are available:
 
