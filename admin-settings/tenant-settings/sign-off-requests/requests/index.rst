@@ -19,7 +19,7 @@ To create a new request, do the following:
 
 .. image:: sign-off-requests-click-plus.png
 
-Use the following settings:
+2. Use the following settings:
 
 .. image:: sign-off-requests-settings-1.png
 
