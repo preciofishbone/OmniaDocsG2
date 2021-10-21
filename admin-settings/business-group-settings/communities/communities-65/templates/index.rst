@@ -1,5 +1,5 @@
-Templates
-===========
+Templates for Communities
+============================
 
 In Omnia 6.5 and later, the option Provisioning templates is removed. Instead, templates are administrated under each main option, so here  you can work with templates for Communities.
 
