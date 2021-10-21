@@ -28,6 +28,7 @@ Do the following to create a community:
 .. image:: communities-bp.png
 
 3. Create a Community Site according to the description on this page: :doc:`Communities </admin-settings/business-group-settings/communities/index>`
+(See the link on that page if you're using Omnia 6.5 and later).
 4. When the site has been created, you can use the link (Title) in Communities to go to the site. (To get the Url, you can also right click on the Title and copy the link address).
 5. Setup access to the community some way, using the Url. (More information about that below.)
 
