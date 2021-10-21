@@ -10,7 +10,7 @@ The following settings are available:
 + **Title**: Here you can add a title for the block.
 + **Select App Definition**: Select type of app that should be available: Publishing, Community or Teamwork.
 
-When you have selected App Definition, a list of available templates for the app type is shown. You must select the template(s) that should be available, even if list just coontains one. Note that if no templates are set up in Omnia Admin, this list is empty, meaning that type of app can not be created through this block, a template must be created first.
+When you have selected App Definition, a list of available templates for the app type is shown. You must select the template(s) that should be available, even if the list just coontains one. Note that if no templates are set up in Omnia Admin, this list is empty, meaning that type of app can not be created through this block, a template must be created first.
 
 Here's an example of templates available for Teamwork, with two templates selected:
 
