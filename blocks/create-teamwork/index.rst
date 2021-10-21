@@ -5,6 +5,8 @@ Use this block to let users create a teamwork. The block can be placed on any pa
 
 There must be Provisioning Templates available for the teamworks that should be possible to create. These templates are set up in Omnia Admin. See this page for more information: :doc:`Provisioning Templates </admin-settings/business-group-settings/provisioning-templates/index>`
 
+Note that this block does not exist in Omnia 6.5 and later. It has been replaced by this block: :doc:`The Create App block </blocks/create-app/index>`
+
 Settings
 *********
 These are the settings for the block (example):
