@@ -10,3 +10,5 @@ Decide whether the position of the footer should be positioned at the bottom of 
 As an example, here's how it looks when you select HTML:
 
 .. image:: footer-html-new.png
+
+**Note!** In Omnia 6.5 and later, this is option is not present in this menu. It's now part of the Workspace settings, see: :doc:`General Block Settings </blocks/general-block-settings/index>`
