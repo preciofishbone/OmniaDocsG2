@@ -5,6 +5,8 @@ The following settings are available for the Header:
 
 .. image:: business-profile-settings-header-new4.png
 
+**Note!** In Omnia 6.5 and later, the header settings are not found here. They are part of the Worspace settings, see: :doc:`Header for Workspace </admin-settings/business-group-settings/workplace/header/index>`
+
 General
 *********
 Under General you can set the following:
@@ -237,12 +239,5 @@ Custom Sort
 If you selected Custom Sort under Sorted By (This part of the settings is not available otherwise), use these options to customize the sorting. Click the up arrow or the down arrow to move an icon in the list.
 
 .. image:: app-launcher-settings-custom-sort.png
-
-
-
-
-
-
-
 
 
