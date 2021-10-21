@@ -10,6 +10,8 @@ Both these are part of the Business Profile settings. See below for links to mor
 
 You also need to have Page Editor permissions to a suitable page to set upp access to the community.
 
+**Note!** In Omnia 6.5 and later, a number of new options for setting up a Community has been added, see: :doc:`Communities settings in Omnia 6.5 </admin-settings/business-group-settings/communities/communities-65/index>`
+
 Prerequisite
 *************
 The only prerequisite is that a Provisioning template for Communites must have been created, see: :doc:`Provisioning templates </admin-settings/business-group-settings/provisioning-templates/index>`
