@@ -3,7 +3,7 @@ Governance Dashboard
 
 Use this block to create overviews of Key Performance Indicators - for different kinds of pages, teamworks, communities and more. 
 
-Note that this block is not available in Omnia 6.5 and later. The Dashboard functionality has been moved to Omnia Admin, and has been improved. You can find more information here: :doc:`General Block Settings </blocks/general-block-settings/index>`
+Note that this block is not available in Omnia 6.5 and later. The Dashboard functionality has been moved to Omnia Admin, and has been improved. You can find more information here: :doc:`The Dashboard </admin-settings/tenant-settings/dashboard/index>`
 
 Here's an example using three blocks in three sections to create three different dashboards:
 
