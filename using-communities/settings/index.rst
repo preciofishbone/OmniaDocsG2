@@ -16,6 +16,8 @@ Prerequisite
 *************
 The only prerequisite is that a Provisioning template for Communites must have been created, see: :doc:`Provisioning templates </admin-settings/business-group-settings/provisioning-templates/index>`
 
+In Omnia 6.5 and later, Communities has it's own option for templates, see the link above.
+
 Creating a Community
 **********************
 Do the following to create a community:
@@ -137,11 +139,5 @@ Two page types are installed when a Community is created:
 .. image:: communities-page-types.png
 
 If you have Page Collection permissions you can edit these Page Types to your needs, the same way as you can edit any other Page Type, see: :doc:`Page Types </pages/page-types/index>`
-
-
-
-
-
-
 
 
