@@ -7,7 +7,7 @@ Here you can work with three types of forms.
 
 .. image:: forms-all.png
 
-Surveys has the most options. Polls are similar to Surveys but suitable for shorter, simpler forms. Checkups are suitable for micro-courses with knowledge checks. .
+Surveys has the most options. Polls are similar to Surveys but suitable for shorter, simpler forms. Checkups are suitable for micro-courses with knowledge checks.
 
 For each type of form, all existing are listed, Surveys as an example:
 
