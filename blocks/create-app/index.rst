@@ -18,7 +18,7 @@ Here's an example of templates available for Teamwork, with two templates select
 
 WRITE is not applicable here. Layout contains general options. For more information, see: :doc:`General Block Settings </blocks/general-block-settings/index>`
 
-For more information on creating app tenmplates, see: 
+For more information on creating app templates, see: 
 
 + :doc:`Templates for Communities </admin-settings/business-group-settings/communities/communities-65/templates/index>`
 
