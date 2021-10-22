@@ -1,17 +1,37 @@
 Action Button
-=====================
+=========================================
 
-Use this block to add one or more buttons on a page for clickable links or other actions; Create Page buttons, to show My subscriptions, to subscribe/unsubscribe or to send feedback for a process. This block is also used when using Event Management.
+Use this block to add one or more actions activated by buttons on a page.
 
-You can add one more buttons in each Action Button block. (This option was formerly called Button Link). 
+All actions that can be added to an Action Menu can also be added as an action button. Now you can create access to these actions the way that suits your organization.
 
-In Omnia 6.5 and later, this block has additional options. You will be able to add action buttons for more purposes. All actions you can add to the action menu will also be possible to add as an action button. Among the new options will be actions for sharing a page to a Yammer feed or to Teams. For more information, see: :doc:`Action button in Omnia 6.5 and later </blocks/button-link/action-button-65/index>`
+The following actions are available to add as a button:
+
++ Add as Favourite
++ Create App
++ Create Document
++ Create Page
++ Event Management
++ Invite co-authors
++ Like
++ Link
++ My Links
++ My Subscriptions
++ Notification Panel
++ Omnia Admin
++ Process Feedback
++ Quick Search
++ Share
++ Strenghten Profile
++ Subscribe
++ Teamwork Navigation
++ Tutorial
 
 Settings
 ***********
 The following settings are available:
 
-.. image:: button-links-new4.png
+.. image:: action-button-65-settings.png
 
 Add an Action Button
 ***********************
@@ -19,51 +39,191 @@ Note that you can see a preview of the button/buttons in the block as you're wor
 
 To add an Action Button in this block, do the following:
 
-1. Click "+ ADD BUTTON".
+1. Click ADD BUTTON.
 2. Use the following settings:
 
-.. image:: button-link-settings-new3.png
-
-(All options are not shown in the image above, but listed below).
+.. image:: action-button-65-settings-new.png
 
 General
--------------------
-The following settings are available here:
+**********
+Available settings differ depending on type of button chosen. The following settings are available for all types:
 
-+ **Type**: Select type of button here; Link, Add as favourite, Process feedback, Event Management, Create Page, My Subscriptions or Subscribe. 
-+ **Text**: Add text to be shown on the button here. If variations exists for the page, you add text in the default language here. Other languages are handled by the variation. If no varations exists, you can add text in several languages here (as in the image).
++ **Type**: Select type of button here. 
++ **Text**: Add text to be shown on the button. If variations exists for the page, you add text in the default language here. Other languages are handled by the variation. If no varations exists, you can add text in several languages here (click the flag to change language).
 + **Tool tip**: Add the tool tip text for the button here. (Same apply for variations as above.)
-+ **Category**: Available as "Add Favourite". If the Favourite should be added to a specific Category, add the category here.
-+ **Unsubscribe Text**: A "Subscribe" button changes the text automatically when a user has clicked the button. Unsubscribe is suggested but you can change the text to something else. (Same apply for variations as above.)
-+ **Subscription Scope**: Available for Type Subscription. Select the scope here, meaning what the user actually subscribes to; the Page (=all changes to the page, even comments and best reply for Knowledge pages), Publishing App (=all new pages in the Publishing App, but not changes to existing pages) or Page Collection (=all new pages in the Page Collection, but not changes to existing pages).
-+ **Url**: Type or paste the Url to go to when a user clicks the link. Available for Link type.
-+ **Target**: Choose if the link should be opened in a new window, the current window, or in a dialog. Available for Link type.
-+ **Dialog Position**: If you selected "Dialog" for Target, you can select where to place the dialog: Center, Full screen, Left or Right.
-+ **Page Collection**: If you selected "Create Page" as type, select page collection to create the new page in.
-+ **Button Type**: Decide what this button will do; Sign Up, Sign Up Other, Add To Outlook or Cancel. Available for Event Management. (Se below for more information.)
-+ **Reserve Text**: Available for Event Management.
-+ **Apply Text**: Available for Event Management.
++ **Alignment**: Select alignment of the button text here. Left is default.
 
-Regarding Process feedback:
+Add as Favourite
+------------------
+The purpose of this action is for the logged in user to add a Favourites link for a page:
 
-The feedback will be sent to the process owner and will be available in the team site where the process is located. Feedback can be accessed on the PUBLISHED tab using the menu option "Feedback".
+.. image:: action-button-favourite.png
 
-Also note that the button must be placed in a Process Context to work.
++ **Remove link**: When a favourites link has been added, the text on the button changes so the user can remove the page from the favourites list. Add that text here. 
++ **Category**: If the Favourite link should be added to a specific Category, type the name of the category here. It can be a new or an existing category.
 
-Regarding the options for Button Type (for Event Management):
+Create App
+------------
+The purpose of this action is to make it possilble for users to create an Omnia app, just like the Create App block.
+
+The following settings are available for this purpose (se above for the general ones):
+
+.. image:: action-button-create-app.png
+
++ **Dialog position**: Select position for the dialog that will open; Center or Right.
++ **Select App definition**: Publishing, Community or Teamwork.
++ **Select Template to show**: When you have selected App Definition, here you select the template(s) that should be available. A list of all available templates for the definition is shown. You select one or more templates there.
++ **Padding**: Add some padding in the block if needed.
+
+Create Document
+----------------
+The purpose of this action is to make it possible to create a document. When the button is clicked, the Create New Document Wizard starts. See this page for more information:
+
+:doc:`Using the Create New Document Wizard </working-with-documents/using-the-document-wizard/index>`
+
+(Only general settings are available, see above).
+
+Create Page
+-------------
+Using this button the action Create Page can be executed:
+
+.. image:: action-button-create-page.png
+
++ **Page Collection**: Select page collection to create the new page in.
+
+Event Management
+------------------
+Using this type you can add buttons for Event Management Actions:
+
+.. image:: action-button-event-management.png
+
++ **Button Type**: Decide what this button will do; Sign Up, Sign Up Other, Add To Outlook or Cancel. 
 
 + Sign Up: Used by the logged in user to register for an event. 
 + Sign Up Other: Used by the logged in user to register others - colleagues or external partners - for an event.
-+ Add To Outlook: In the case Event Management is set up to use a specific calendar, this button can added to make it possible for users to add the event to their personal calendar.
++ Add To Outlook: In the case Event Management is set up to use a specific calendar, this button can be added to make it possible for users to add the event to their personal calendar.
 + Cancel: Used by the logged in user to cancel the registration he or she has made in their own name, ie done by using the button "Sign Up". 
 
-For more information about how the buttons and more works for Event Management, see: :doc:`Working with Events </working-with-events/index>`
+For more information about how the buttons, and more works for Event Management, see: :doc:`Working with Events </working-with-events/index>`
+
+Invite co-authors
+-------------------
+This action is available for authors in the Action Menu, when editing a page. It can also be added as an Action Button.
+
+For more information, see: :doc:`Invite co-authors </pages/invite-co-authors/index>`
+
+(Only general settings are available, see above).
+
+Like
+-------
+Page Likes and Comments can be added as a block on a page, but the Like action also be added as an Action Button:
+
+.. image:: action-button-like.png
+
++ **Unlike Text**: When a user has liked a page, the text on the button changes to "Unlike". If you want some other unlike-text, edit the text here.
++ **Target**: Target can only be Page for now and is selected by default.
+
+Link
+------
+Using this action a Link Action can be added, meaning a link can be opened:
+
++ **Url**: Type or paste the Url to go to when a user clicks the link. 
++ **Target**: Choose if the link should be opened in a new window, the current window, or in a dialog. 
++ **Dialog Position**: If you selected "Dialog" for Target, you can select where to place the dialog: Center, Full screen, Left or Right.
+
+My Links
+---------
+Using this action the logged in user's My Links can be shown.
+
+See this page for more information: :doc:`My Links </user-options/my-links/index>`
+
+(Only general settings are available, see above).
+
+My Subscriptons
+----------------
+My Subscriptions is available in a person's "My Profile" menu but can also be added as an Action Button:
+
+Subscriptions are meant to be used in Communities, for now. See this page for more information: :doc:`My Subscriptions </using-communities/subscriptions/my-subscriptions/index>`
+
+(Only general settings are available, see above).
+
+Motification Panel
+--------------------
+Using this Action Button a Notification Panel can be shown just like it is in the Notification Panel block.
+
+.. image:: action-button-notification-panel.png
+
+The settings here are used the same way as in the block, see: :doc:`The Notification Panel block </blocks/notification-panel/index>`
+
+Omnia Admin
+-------------
+If you need to add the possibility to go to Omnia Admin, for those with the right permissons, you can add this Action Button.
+
+(Only general settings are available, see above).
+
+Process Feedback
+----------------------
+This action makes it possible for a user to send feedback on a Process page.
+
+The feedback will be sent to the process owner and will be available in the team site where the process can be edited. Feedback can be accessed on the PUBLISHED tab using the menu option "Feedback". Also note that the button must be placed in a Process Context to work.
+
+(Only general settings for the button are available, see above).
+
+Quick Search
+---------------
+Using this action Quick Search can be used, like it can in the Search block.
+
+.. image:: action-button-quick-search.png
+
++ **Inherit Business Profile Settings**: You can inherit the search settings from the Business Profile and if that is what you want to do, you don’t need to change anything, it’s default. If you would like to set specific category settings for this block, deselect and the following will be available:
+
+.. image:: action-button-quick-search-specific.png
+
+You use these settings the same way as in the Search block. For more information, see: :doc:`The Search block </blocks/search/index>`
+
+Share
+--------
+Share can be available through the "Likes and Comments" block, but can also be added as an Action Button:
+
+.. image:: action-button-share.png
+
++ **Share Type**: Select in what way user's should be able to share a link to this page; Email, Teams or Yammer.
+
+(More will be added soon).
+
+Sign-off request
+-----------------
+This button type is available in Omnia 6.6 and later.
+
+.. image:: action-button-sign-off.png
+
+(More info will be added soon).
+
+Strengthen Profile
+----------------------
+Strengthen profile can be available as a block (Profile Completion) or available in the Action Menu. It can also be added as an Action Button.
+
+It works the same way as in the Profile Completion block: :doc:`The Profile Completion block </blocks/profile-completion/index>`
+
+(Only general settings for the button are available, see above).
+
+Subscribe
+-----------
+This action can be added to the menu in a community but can also be added as a button, with these settings:
+
+.. image:: action-button-subscribe-new.png
+
++ **Unsubscribe Text**: A "Subscribe" button changes the text automatically when a user has clicked the button. Unsubscribe is suggested but you can change the text to something else.  
++ **Subscription Scope**: Select the scope here, meaning what the user actually subscribes to; the Page (=all changes to the page, even comments and best reply for Knowledge pages), Publishing App (=all new pages in the Publishing App, but not changes to existing pages) or Page Collection (=all new pages in the Page Collection, but not changes to existing pages).
+
+Teamwork Navigation
+---------------------
 
 Style
 ---------------
 These settings are available for Style:
 
-.. image:: action-button-style-new.png
+.. image:: action-button-65-style.png
 
 + **Button Style**: You can select Depressed, Flat or Raised as the style. Note that a flat button doesn't have any background color, so the text should normally be black for a flat button.
 + **Size**: The size of the button can be small, medium or large.
@@ -73,7 +233,7 @@ These settings are available for Style:
 + **Background Color and Text Color**: Choose colors here. Note the comments about Flat button style and Outline above.
 + **Icon Type**: To add an icon to the buttton, first select the Icon Type here.
 + **Icon**: When you have selected the Icon Type, select the icon in this list. The icon is placed to the left of the button text.
-+ **Alignment**: This option is available on both tabs. Select the alignment of the buttons within the block area.
++ **Icon Alignment**: Select the alignment of the buttons within the block area.
 
 Layout
 *********
@@ -81,15 +241,13 @@ The LAYOUT tab contains general settings, see: :doc:`General Block Settings </bl
 
 Write
 ******
-On this tab you decide if settings for the block (the buttons) should available for editing in Write mode or not. 
+On this tab you decide if settings for the block (the buttons) should be available for editing in Write mode or not. 
 
-.. image:: button-block-write.png
+.. image:: action-button-write.png
 
 Edit an Action Button
 **********************
 To edit a button, click the pen. To delete a button, click the dustbin. 
-
-.. image:: button-link-settings-edit-delete-new4.png
 
 When editing a button, the same settings as when you create a new button is available, see above.
 
