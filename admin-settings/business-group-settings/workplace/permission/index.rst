@@ -1,7 +1,7 @@
 Permission
 ============
 
-For Workspace (Omnia 6.5 and later), the following settings are available:
+For Workspace, the following settings are available:
 
 .. image:: workplace-permission-new.png
 
