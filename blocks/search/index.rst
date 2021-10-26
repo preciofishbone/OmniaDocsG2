@@ -7,8 +7,6 @@ The Search block can be used for Quick Search or Advanced Search.
 
 Settings for Search are set up in Omnia Admin, see: :doc:`Business Profile Settings - Search </admin-settings/business-group-settings/search/index>`
 
-In Omnia 6.5 and later, you can configure the use of search categories or inherit the ones configured on the Business Profile. See the heading "Search Categories" below.
-
 Settings
 **********
 The following settings are avilable:
@@ -32,7 +30,7 @@ The General settings are:
 
 Search Categories
 -------------------
-This option is available in Omnia 6.5 and later.
+The following is available here:
 
 .. image:: search-block-settings-categories.png 
 
