@@ -3,8 +3,6 @@ HTML/Script
 
 HTML/Script is a block you can use for various applications to add extra functionality or content to a page. One example is to add the code for a video, from YouTube, or some other source.
 
-In Omnia 6.5 and later, this block is improved, see the end of the page.
-
 Block Settings
 ***************
 The following settings are available for teh block:
