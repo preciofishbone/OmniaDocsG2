@@ -1,8 +1,6 @@
 Workspace
 ============
 
-This feature is available in Omnia 6.5 and later.
-
 The Workspace settings can be used to create dynamic navigation and access for a Business Profile. The Workspace lives outside the Publishing App.
 
 When you migrate an earlier version of Omnia, the Workspace options are not activated. You don't have to start using these options until you're ready. You can try out the options to see how they work and implement them later. You must be Tenant Administrator to implement the Modern Workspace in your system.
