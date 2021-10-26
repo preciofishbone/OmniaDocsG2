@@ -5,7 +5,7 @@ These settings are mainly used by AM and the Omnia Feed Team to set up the tenan
 
 .. image:: omnia-feed-tenant-settings.png
 
-**Note!: Omnia Feed is not available for Omnia in-prem due to push notifications.
+**Note!** Omnia Feed is not available for Omnia on-prem due to push notifications.
 
 Some important notes:
 
