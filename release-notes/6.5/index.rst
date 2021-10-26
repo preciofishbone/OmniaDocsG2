@@ -18,19 +18,19 @@ New Business Profiles will by default be set to inherit from Tenant level.
 Workspacee
 ------------------------------------------
 
-When you create a new Business Profile, a workspace (including a start url) will be created for the profile.
+When you create a new Business Profile, a Workspace (including a start url) will be created for the profile.
 
 .. image:: add-bp-workplace.png
 
-After the upgrade, existing Business Profile will run in classic mode. In order to take advantage of the new workspace features, the Business Profile needs to be updated. You can do this by going in to the Business Profile and Create a new Workspace.
+After the upgrade, an existing Business Profile will run in classic mode. In order to take advantage of the new Workspace features, the Business Profile needs to be updated. You can do this by going in to the Business Profile and Create a new Workspace.
 
 .. image:: create-bp-workplace.png
 
-Once you have created a Business Profile workplace, a new menu will appear in Omnia Admin called "Workspace".
+Once you have created a Business Profile Workspace, a new menu will appear in Omnia Admin called "Workspace".
 
 .. image:: workplace-navnode.png
 
-The Business Profile Workplace provides a new possibility to work with access and navigation in your digital workspace.
+The Business Profile Workspace provides a new possibility to work with access and navigation in your digital workspace.
 
 In the Workspace Settings, you can decide the behavior of the chrome in different device breakpoints. You can also have different behavior on the Header and Navigation Bar in Web Browser and MS Teams client.
 
@@ -48,7 +48,7 @@ Each main node in the Mega Menu has its own layout and can rollup content from d
 
 .. image:: workplace-megamenu-settings_url.png
 
-The action menu can include any action available in Omnia. (The action button and action menu now share the same infrastructure).
+The Action Menu can include any action available in Omnia. (The action button and action menu now share the same infrastructure).
 
 .. image:: workplace-actionmenu-settings.png
 
