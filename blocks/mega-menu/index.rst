@@ -1,7 +1,9 @@
 Mega Menu
 =====================
 
-Use this block to add an (additional) Mega Menu to any page or Page Type, if needed. The best position is most likely at the top in the Page Type.
+This block most likely has it's main use as a part of the Workspace functionality, but can also be added to any page or Page Type, if needed.
+
+You can find more information about the Workspace functionality here: :doc:`Workspace </admin-settings/business-group-settings/workspace/index>`
 
 The settings are exactly the same as the settings for Mega Menu in Omnia Admin:
 
