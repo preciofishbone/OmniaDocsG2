@@ -49,6 +49,12 @@ When you do the following is shown:
 + **CSS**: To set CSS for the content in this field, add it here.
 + **Javascript**: If Javascript is needed/used, add it here.
 
+The HTML/Script block supports api endpoints to the Microsoft Graph and SharePoint REST API. This will make it possible to get data from the Graph and render it using the built-in vue.js framework in Omnia.
+
+Here's an example:
+
+.. image:: script-html-new-api.png
+
 General settings
 -------------------
 The following settings are available when editing HTML/Script:
@@ -61,10 +67,4 @@ The following settings are available when editing HTML/Script:
 + **Run in iFrame**: Per default, the HTML/Script you add here are run in iFrame. If needed this option can be deselected.
 + **iFrame Height**: If "Run in iFrame" is selected you can set the iFrame Height.
 + **Run Script in Edit Mode**: If the script should be run in reader mode (end user mode) only, select this option.
-
-Omnia 6.5 and later
-*************************
-In Omnia 6.5 and later, the HTML/Script block is improved to support api endpoints to the Microsoft Graph and SharePoint REST API. This will make it possible to get data from the Graph and render it using the built-in vue.js framework in Omnia.
-
-.. image:: script-html-new-api.png
 
