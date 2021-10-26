@@ -1,8 +1,6 @@
 Teams Channel Feed
 ====================
 
-This block is available in Omnia 6.5 and later. 
-
 As the name indicates, you can use the block to display a Teams Channel Feed. The feed will be read only.
 
 The following settings are available:
