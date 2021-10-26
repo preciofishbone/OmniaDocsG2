@@ -33,3 +33,5 @@ Default App Launcher Links
 ****************************
 Activate this Feature for a number of default links for the App launcher - many of the links that will normally appear in the Microsoft 365 menu. You can then use "Shared links" to edit the links and decide which ones to use.
 
+**Note!** Most links here will not be applicable in Omnia on-prem.
+
