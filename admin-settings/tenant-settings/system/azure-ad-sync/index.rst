@@ -7,6 +7,8 @@ Use these advanced settings to make sure person properties are synchronized from
 
 Also note: The Azure AD Sync can now be set up to use SharePoint Addin App identity instead of a user account. This will allow the tenant to turn of legacy sign in and still use the Azure AD Sync, see *Enable Sharepoint App-Only* below.
 
+**Note!** This opion is not applicable in Omnia on-prem.
+
 This is what's available:
 
 .. image:: azure-ad-overview-new2.png
