@@ -11,4 +11,4 @@ When enabling this, best practice is to setup a dedicated account. Omnia will th
 
 **Note!:** The selected user account need to have a cloud Exchange mailbox.
 
-**Note**! This option is not available in Omnia on-premise, but see additional information here: :doc:`General Block Settings </blocks/general-block-settings/index>`
+**Note**! This option is not available in Omnia on-premise.
