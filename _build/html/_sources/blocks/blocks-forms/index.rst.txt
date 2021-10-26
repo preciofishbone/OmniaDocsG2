@@ -1,7 +1,7 @@
 Blocks for Forms
 ==============================
 
-There are two blocks that can only be used for Forms. 
+There are two blocks that can only be used for Forms, available on Omnia 6.5 and later. 
 
 Select block for more information:
 

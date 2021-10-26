@@ -1,5 +1,5 @@
-Working with Sections and Blocks
-=================================
+Sections and Blocks in a Page Type
+=================================================
 
 This describes how to work with Sections and Blocks for a Page Type. You work the same way with Local Page Types and Tenant Page Types.
 
@@ -27,7 +27,7 @@ For a description of available settings for the section, see: :doc:`Settings for
 
 If needed, you can even go a step further and create a new section in one of the new columns.
 
-In Omnia 6.5 a new layout for sections is available: Stepper. This layout is useful when organizing information in steps. It's also used with the new Forms functionality. See below for more information.
+In Omnia 6.5 and later, a new layout for sections is available: Stepper. This layout is useful when organizing information in steps. It's also used with the new Forms functionality. See below for more information.
 
 Delete a section
 *****************
@@ -120,13 +120,17 @@ To add som padding for the section, for a specific device, do the following:
 
 Using the Stepper section
 ***************************
-In Omnia 6.5 a Stepper section is available.
+In Omnia 6.5 and later, a Stepper section is available.
 
 .. image:: stepper-section.png
 
-When working with a Stepper section you can add a label for each step and add and remove steps. 
+A Stepper section makes it possible to organize content in a layout in a wizard-like style. It is possible to configure the Stepper to allow for an author to add new steps in Write mode.
 
 .. image:: working-with-stepper.png
+
+Here's an example where a Stepper section is used:
+
+.. image:: working-with-stepper-example.png
 
 All settings for sections are available for the Stepper section.
 

@@ -52,11 +52,11 @@ Document Archive
 .. note:: If you have Process Management setup, you can ignore step 16 - 17.
 
 16. Go to the Business Profile in which you want to host the central controlled documents archive.
-17. Go to Provisioning Templates and create a new template that can be used for system sites.
+17. Go to Teamwork > Templates and create a new template that can be used for system sites.
 
-.. image:: provisioningtemplate-system.png
+.. image:: teamwork-template-add.png
 
-18. Click on Teamwork in Omnia Admin and create a new site for the controlled documents archive based on the System Site template.
+18. Click on Teamwork > Apps and create a new site for the controlled documents archive based on the System Site template.
 
 .. image:: controlleddocuments-archive.png
 
@@ -118,10 +118,12 @@ Basic Document Type
 First Team Site
 --------------------------------------------
 
+.. note:: Make sure you have installed Omnia SPFx Integration using the instruction in Omnia Admin > System > SPFx Instruction.
+
 In order to create a first controlled document that can be indexed by SharePoint Search, we need to create a first site. If you already have existing team sites in your solution that are attached to Omnia, you can use one of those and activate the feature Controlled Documents Library on that site. In this example we will create a new provisioning template for Departments that will activate this feature by default.
 
 34. Go to Omnia Admin and select your default business profile.
-35. Click on Provisioning Templates.
+35. Click on Teamwork > Templates.
 36. Create a new provisioning template for departments.
 
 .. image:: add-provisioningtemplate-department-step1.png
@@ -202,20 +204,8 @@ Now you will have to wait a few minutes before the controlled document has been 
 
 47. Create another draft of a controlled document and publish it. (Note! This is necessary in order for SharePoint Search to map the crawled properties to the managed properties.)
 
-Controlled Document Template
---------------------------------------------
+You are now ready to start creating Document Types, Document Templates and add Controlled Documents in Teamwork and Publishing Apps.
 
-48. Go to Omnia Admin > Document Management.
 
-Search Category
---------------------------------------------
-
-XX. Go to Omnia Admin > Business Profile > Search.
-XX. Click on Search Config and add a new Seach Category.
-XX. Add a new Search Category for Published (Controlled) Documents.
-
-.. image:: create-search-category-1.png
-
-.. image:: create-search-category-2.png
 
  

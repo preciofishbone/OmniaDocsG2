@@ -1,3 +1,61 @@
+6.3.19
+=========================================
+(Omnia 6.3.11 / Workplace 6.3.10 / WCM 6.3.19 / MS 6.3.17)
+
+- Terms now render correctly when a custom sort order has been used in the term store.
+- Fixed an issue that would prevent the page dialog to open when the roller view template was used (#132416).
+- The 5000 items warning in ODM has been moved to the settings dialog.
+- Fixed a page cache issue (#132422, #130577).
+
+6.3.18
+=========================================
+(Omnia 6.3.10 / Workplace 6.3.9 / WCM 6.3.18 / MS 6.3.16)
+
+.. note:: Reconsent needed. To fix a provisioning error, a reconsent is needed. Permission TeamMember.ReadWrite.All has been added to the omnia app.
+
+- SSL certificates are updated to a stronger standard. (Making IE11 fully incompatible).
+- Updated error messages for the Full Sync to SharePoint (#132127).
+- Fixed an intermittent issue with teamwork creation (#131403).
+- Fixed a number of issues due to undocumented changes mad by Microsoft to SharePoint search in some tenants (#131142, #132045, #132101, #131931).
+- Fixed an issue that would prevent related documents in ODM to show up correctly (#131532).
+- Fixed an issue with Teamwork creating and the adding of default members, reconsent needed, see above. (#131661)
+- Stability improvments to the ODM publishing flow (#132267).
+- The document rollup now correctly opens document in a new tab from inside of MSTeams. (#131651, #131979, #129747, #132147)
+
+
+
+6.3.16
+=========================================
+(Omnia 6.3.8 / Workplace 6.3.7 / WCM 6.3.16 / MS 6.3.13)
+
+- Fixed an issue with the full sync to SharePoint that would occur in Page Collections with more than 5000 items (#131419).
+- Fixed an issue with the Action button text (From 6.3.13) (#131737, #131770, #131780, #131782, #131910)
+- Document management can now support more than 2000 items in one authoring site. It’s not recommended to exceed the limit of 2000 documents in one site since some functionality will be unavailable (#131562).
+- Teamwork created from omnia now always shows in the listing, even when the confirmation email could not be sent (#131742).
+- Fixed an issue that would sometimes prevent the Controlled Document Library feature from activating (#131025, #131308, #131403).
+
+
+
+6.3.13
+========================================
+(Omnia 6.3.7 / Workplace 6.3.6 / WCM 6.3.13 / MS 6.3.8) 
+
+- "Limit edit permission" on a page property, now correctly hides the property in the create new page form.
+- Fixed an issue with the Dynamic Roller view that would cause pages to open when using the arrow buttons to browse. 
+- Corrected a cache issue that would cause the variation selector to show the wrong variation in edit mode.
+- Fixed an issue with Quick links targeting where there would sometimes be too many links shown.
+- Corrected how the MS Teams Icon is fetched to fix an unannounced API Change from Microsoft.
+- Fixed an issue that would sometimes prevent the page rollup show in dialog to open correctly.
+- The page rollup now supports 200 pages without paging.
+- Stability fixes for ODM (#131097, #130007, #131089)
+- Major Performance improvements to scenarios when we have many navigation nodes in the mega menu. (#130741, #130007, #131089).
+- Corrected an issue that would prevent the Controlled Document Feature to activate for some users (#131025, #131308, #131403).
+- Added paging to the Azure AD Sync, it’s now possible to see more than 10 entries to sync.
+- Corrected an issue in ODM when loading templates in a multilingual scenario. (#131267).
+- Fixed an issue that would sometimes prevent the notification panel to load correctly (#131268).
+- Corrected a sign-up issue for event management (#131262).
+
+
 6.3.9
 ========================================
 (Omnia 6.3.6 / Workplace 6.3.4 / WCM 6.3.9 / MS 6.3.5)
@@ -5,7 +63,6 @@
 - Fixed a caching issue that would sometimes lead the scheduling not being editable (#130473).
 - OPM Task assignment emails now have the full intended content (#129229).
 - Fixed an issue that prevented ODM approval emails to be sent in some cases (#130953).
-
 
 6.3.8
 ========================================

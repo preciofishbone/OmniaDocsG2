@@ -38,7 +38,7 @@ Use the following settings:
 + **Start Date** and **End Date**: Set the start and end date of the Announcement. You can set exact times within the dates if needed. Start and end dates are optional, but we recommend that you always at least set an end date.
 + **Type**: Type is an indication of what type the Announcement is, noted with text and an icon. Available Types are created and edited in the settings (see below).
 + **Status**: Status is a color and text indication of the status (severity) of Announcement. Available Status options are created and edited in the settings (see below)
-+ **Allow comments**: Decide to allow comments or not. The default is to not allow comments. If allowed, users can add comments, and even comment other comments (and so can you of course) the same way as for example for news.
++ **Allow comments**: Decide to allow comments or not. The default is to not allow comments. If allowed, users can add comments, and even comment other comments (and so can you of course) the same way as for example for news. **Note!** Comments are sent to you, meaning the colleague who created the announcement.
 + **Targeting filter**: An Announcement can be targeted, which means just displayed to a defined group of users. See below for information on how to do that.
 
 **Important Note!** If there are no Annoncements block placed on a suitable page and Announcements is not added as a category to the Notification Panel, Announcements with Normal priority are simply not shown!

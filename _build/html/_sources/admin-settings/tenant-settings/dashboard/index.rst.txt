@@ -1,19 +1,15 @@
 Dashboard
 ===========
 
-This is an ongoing, preliminary documentation.
-
-In omnia 6.5, the complete dashboard has been moved to Omnia Admin (that is what is described here). A block will still be available, now called Metrics, to display status for either Teamwork or Pages or User Activity. This block can also be used in the Dashboard.
-
-The Dashboard will be completely dynamic. You set up the Dashboard much like you would do a page. Most blocks can be used.
+In omnia 6.5, and later, the dashboard has been moved to Omnia Admin and you can build it to your needs. You set up the Dashboard much like you would do a page type. Most sections and blocks can be used.
 
 .. image:: dashboard-new.png
 
-As you would a page (or maybe rather a Page Type), the first step is to add the layout. See this page for more information: :doc:`Working with section and blocks </pages/page-types/working-with-sections-and-blocks/index>`
+As you would a page type, the first step is to add the layout, using sections. See this page for more information: :doc:`Working with section and blocks </pages/page-types/working-with-sections-and-blocks/index>`
 
-All available blocks are listed on this page: :doc:`Blocks </blocks/index>`
+You then add the blocks you need. All available blocks are listed on this page: :doc:`Blocks </blocks/index>`
 
-The new Metrics block can be especially useful: :doc:`The Metrics block </blocks/metrics/index>`
+The Metrics block (new in Omnia 6.5) can be especially useful: :doc:`The Metrics block </blocks/metrics/index>`
 
 You can also edit some of the metrics settings, in Omnia Admin, see: :doc:`Metric settings </admin-settings/tenant-settings/settings/metrics/index>`
 
@@ -50,8 +46,68 @@ Finally, for Communities, the following information is shown:
 
 .. image:: admin-dashboard-communities.png
 
+How it's done
+-----------------
+The layout in this implementation example is a tab section with six tabs:
 
+.. image:: dashboard-example-tab-section.png
 
+The settings for the tabs are similar. Here's the first tab as an example:
 
+.. image:: dashboard-example-tab-settings.png
 
+For Style, "Show Active Slider" is selected so it's clear which the active tab is:
 
+.. image:: dashboard-example-tab-settings-style.png
+
+On each tab a Metrics block is placed, with the following settings:
+
+**Usage**: For this tab the Scope is set to "User Activity",  with the following Metrics:
+
+.. image:: dashboard-example-tab-usage.png
+
+**Page Status**: Here the setting for Scope is "Pages" with the following Metrics:
+
+.. image:: dashboard-example-tab-page-status.png
+
+**Underused Content**: The Scope for this is also set to page, but this time the following Metrics:
+
+.. image:: dashboard-example-tab-page-underused.png
+
+**Reach**: On the Reach tab, two Metrics blocks are added.
+
+For the "Global News Reach", the Scope is set this way:
+
+.. image:: dashboard-example-tab-page-reach-news.png
+
+And the Metrics, this way:
+
+.. image:: dashboard-example-tab-page-reach-news-metrics.png
+
+For the "Local News Reach", the Scope is set this way:
+
+.. image:: dashboard-example-tab-page-reach-news-local.png
+
+As you can see, the difference between these two blocks, is the Page Type used.
+
+And the Metrics, this way:
+
+.. image:: dashboard-example-tab-page-reach-news-local-metrics.png
+
+**Teamwork**: For this tab, the Scope is set to "Teamwork", with three Metrics:
+
+.. image:: dashboard-example-tab-teamwork.png
+
+A filter is also added so you can choose the type of teamwork, based on template:
+
+.. image:: dashboard-example-tab-teamwork-filter.png
+
+**Communities**: For the "Communites tab" Scope is set to Pages, and the Page Type "Discussion":
+
+.. image:: dashboard-example-tab-communities-scope.png
+
+And with the following Metrics:
+
+.. image:: dashboard-example-tab-communities-metrics.png
+
+For more information about the Metrics block, see the link at the top of this page.

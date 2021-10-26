@@ -138,7 +138,7 @@
 <li class="toctree-l2"><a class="reference internal" href="../team-news-rollup/index.html">Team News Rollup</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../teams-channel-feed/index.html">Teams Channel Feed</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../text/index.html">Text</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../working-with-blocks/index.html">Working with blocks</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../working-with-blocks/index.html">Working with blocks on pages</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../yammer-feed/index.html">Yammer Feed</a></li>
 </ul>
 </li>
@@ -152,6 +152,7 @@
 <li class="toctree-l1"><a class="reference internal" href="../../using-omnia-feed/index.html">Using Omnia Feed</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../user-options/index.html">User options</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../setup/index.html">Setup</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../accessability/index.html">Accessibility</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../cookies-consent-information/index.html">Cookies Consent information</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../release-notes/index.html">Release Notes</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../roadmap/index.html">In Development</a></li>
@@ -248,7 +249,7 @@
 <li><p><strong>Pick in Write Mode</strong>: Available when Pick Pages is selected. Select this option if editors should be able to pick pages in Write mode. If not selected, Design mode has to be used.</p></li>
 <li><p><strong>ADD PAGE</strong>: When you have selected Pick Pages, you can pick some pages to always be shown. Click this option and use the Page Picker. See this page for more information: <a class="reference internal" href="../../general-assets/page-picker/index.html"><span class="doc">Page Picker</span></a></p></li>
 <li><p><strong>Use Query Builder</strong>: If you want to use the query builder to set which pages should be available here, select this option.</p></li>
-<li><p><strong>Scope</strong>: When you have chosen to use the Query Builder, select scope for the block; Publishing Apps or Page Collections. Then open the list below and select Publishing Apps/Page Collections. In Omnia 6.5 a third scope will be available: Navigation path. Use it to select a node to get the pages from. When you have selected start node you can choose navigation depth. There also a new view for this; Navigation view, available under Display.</p></li>
+<li><p><strong>Scope</strong>: When you have chosen to use the Query Builder, select scope for the block; Publishing Apps or Page Collections. Then open the list below and select Publishing Apps/Page Collections. In Omnia 6.5 and later, a third scope will be available: Navigation path. Use it to select a node to get the pages from. When you have selected start node you can choose navigation depth. In 6.5 and later, there’s also a new view for this; Navigation view, available under Display.</p></li>
 <li><p><strong>Exclude current page</strong>: Available when you have chosen scope for the Query Builder. The default setting is to exclude the current page, but if you, for some reason, would like to include the current page, uncheck this option.</p></li>
 <li><p><strong>Trim duplicates</strong>: Available for the Query Builder. If more than one Page Rollup block is added to a page, this option can be used to handle duplicates between the blocks. When the option is selected, you can enter a number indicating the priority for duplicates, for this block. If you set “1” for a block it means this block has priority showing a post that would have been a duplicate.</p></li>
 <li><p><strong>Query Item Limit</strong>: Available for the Query Builder. Use the slider, or type the number (1-99) to set the number of pages that should be retrieved to make sure all duplicates are found. You should not set this number higher than you really need, as higher numbers may have an impact on performance. Note that when you change the number, “Max Display Limit” is also changed, see below.</p></li>
@@ -300,7 +301,7 @@
 <li><p><strong>Page Content Character Limit</strong>: If the number of characters displayed for Page Content should be limited, add the number here. The Content is simply jus cut after that. Available for Newsletter only.</p></li>
 <li><p><strong>Page Summary Character Limit</strong>: If the number of characters displayed for Page Summary should be limited, add the number here. The Summary is simply jus cut after that. Available for Newsletter only.</p></li>
 <li><p><strong>Paging</strong>: Select paging here; “No paging”, “Classic” or “Scroll”.</p></li>
-<li><p><strong>Person</strong>: New option to come in Omnia 6.5. Can be used to show properties in Card view.</p></li>
+<li><p><strong>Person</strong>: New option in Omnia 6.5 and later. Can be used to show properties in Card view.</p></li>
 <li><p><strong>Show create button</strong>: To make it possible for editors to create a new page from here, select this option to add a button to the block heading, and type the name for the button.</p></li>
 <li><p><strong>Show Default image</strong>: If there is no image available for a page, a placeholder image can be used. If that image should be used, select this option.</p></li>
 <li><p><strong>Show Likes/Comments</strong>: If the number of likes and comments should be displayed for the item, select this option.</p></li>
@@ -312,7 +313,7 @@
 <li><p><strong>Slider Size</strong>: Select the size of the slider here: Small, Medium, Large or Extra large. Available for “Dynamic Roller” only.</p></li>
 <li><p><strong>Sort by</strong>: Choose what the list should be sorted by, and then select ascending or descending.</p></li>
 <li><p><strong>Summary</strong>: Select the property that contains the page summary for the item to display.</p></li>
-<li><p><strong>Term properties</strong>: New option in Omnia 6.5. Can be used to show properties in Card view.</p></li>
+<li><p><strong>Term properties</strong>: New option in Omnia 6.5 and later. Can be used to show properties in Card view. Click “Add” and select a property. Continue the same way for additional properties.</p></li>
 <li><p><strong>Title</strong>: If a title should be shown for the block, add it in this field. If no variation exists for the page, you can set the title in the languages active in the tenant. If variations exists, only one title can be set. In that case, titles in other languages are set in the variations.</p></li>
 </ul>
 <p><strong>Note!</strong> For “List View” and “Event List”, you also have to add at least one column, for the display to work. Here’s an example with three columns added for List View:</p>
@@ -324,6 +325,12 @@
 <img alt="../../_images/show-paging-dynamic-new.png" src="../../_images/show-paging-dynamic-new.png" />
 <p>Here’s a simple example of a Card view used for navigation purposes:</p>
 <img alt="../../_images/card-view-example-pages.png" src="../../_images/card-view-example-pages.png" />
+<p>In Omnia 6.5, card view can now display sub pages if the scope “Navigation path” is used.</p>
+<img alt="../../_images/card-view-example-sub-pages.png" src="../../_images/card-view-example-sub-pages.png" />
+<p>In Omnia 6.5, the new Navigation View can be used to display a mega menu style navigation. Here’s an example:</p>
+<img alt="../../_images/navigation-view-mega-example.png" src="../../_images/navigation-view-mega-example.png" />
+<p>A third thing that is new in Omnia 6.5: The card view for Page Rollup now supports a dynamic number of properties that can be displayed in the card. Here’s an example:</p>
+<img alt="../../_images/pagerollup-cardview-terms1.png" src="../../_images/pagerollup-cardview-terms1.png" />
 </div>
 <div class="section" id="style-settings">
 <h3>Style settings<a class="headerlink" href="#style-settings" title="Permalink to this headline">¶</a></h3>
@@ -336,6 +343,11 @@
 <p>If users should be able to filter the list and/or search here, use these options to add filters.</p>
 <img alt="../../_images/page-rollup-filter-new.png" src="../../_images/page-rollup-filter-new.png" />
 <p>See this page for information on how to use these options: <a class="reference internal" href="../general-block-settings/filters/index.html"><span class="doc">Filter UI</span></a></p>
+<p>In Omnia 6.5 and later, there is an additional option, specific for Page Rollup:</p>
+<img alt="../../_images/page-rollup-filter-65.png" src="../../_images/page-rollup-filter-65.png" />
+<ul class="simple">
+<li><p><strong>Save filter state</strong>: If you select this option the filter keeps it’s state in the page url as long as the page is active, and will be activated when the user goes back to the page, by using the browser’s Back button. The url can also be copied and for example be used to prepopulate the page rollup.</p></li>
+</ul>
 </div>
 <div class="section" id="social-period">
 <h3>Social Period<a class="headerlink" href="#social-period" title="Permalink to this headline">¶</a></h3>
@@ -483,7 +495,7 @@
     <p>
         &#169; Copyright 2021, Precio Fishbone.
       <span class="lastupdated">
-        Last updated on Aug 23, 2021.
+        Last updated on Oct 25, 2021.
       </span>
 
     </p>

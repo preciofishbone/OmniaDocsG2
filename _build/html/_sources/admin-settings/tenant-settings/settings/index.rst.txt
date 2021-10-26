@@ -13,12 +13,11 @@ Select section for more information:
    general/index
    header/index
    media-picker/index
+   metrics/index
    regional-settings/index
    rtf-editor/index
    text-styles/index
    user-profile-completion/index
-
-In Omnia 6.5 metrics settings are also available here, see: :doc:`Metric settings </admin-settings/tenant-settings/settings/metrics/index>`
 
 
 

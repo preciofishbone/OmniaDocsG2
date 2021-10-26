@@ -3,6 +3,8 @@ Publishing
 
 Within a Business Profile several Publishing Apps can be active for different settings. To be able to create a Publishing App, at least one Provisioning Template for Publishing Apps must be available. If none are, create a Provisioning Template first.
 
+In Omnia 6.5 and later, this will be a bit different, see: :doc:`Publishing in Omni 6.5 </admin-settings/business-group-settings/publishing-apps/publishing-65/index>`
+
 The existing Publishing Apps are shown in a list:
 
 .. image:: publishing-apps-list-new3.png

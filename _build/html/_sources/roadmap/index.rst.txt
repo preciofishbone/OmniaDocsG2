@@ -5,7 +5,7 @@ As part of the Omnia roadmap, the following features are in development and plan
 
 .. note:: Items may be added or removed from this list at any time.
 
-Workplace
+Workspace
 --------------------------------------------
 
 * Improved features for First-line Workers such as light document management.

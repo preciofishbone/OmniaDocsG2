@@ -1,9 +1,11 @@
-Working with blocks
-=====================
+Working with blocks on pages
+===============================
 
-This page contains general information about how to work with blocks in Design mode (but see information about Write mode at the bottom).
+This documentation mainly contains general information about how to work with blocks in Design mode on Publishing Pages (but also see information about Write mode at the bottom).
 
 **Note!** The Blocks that belong to the Page Type is locked and can not be moved or deleted, and the settings can't be changed for these Blocks.
+
+For more information about how to work with blocks in a Page Type, see: :doc:`Sections and blocks in Page Types </pages/page-types/working-with-sections-and-blocks/index>`
 
 Adding blocks
 **************
@@ -118,9 +120,4 @@ Examples of blocks where the contents can be edited using Write mode:
 + Media
 + Related Links
 + Text
-
-
-
-
-
 

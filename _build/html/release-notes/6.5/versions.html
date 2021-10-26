@@ -43,7 +43,9 @@
 
     
     <link rel="index" title="Index" href="../../genindex.html" />
-    <link rel="search" title="Search" href="../../search.html" /> 
+    <link rel="search" title="Search" href="../../search.html" />
+    <link rel="next" title="Release 6" href="../6/index.html" />
+    <link rel="prev" title="Release 6.5" href="index.html" /> 
 </head>
 
 <body class="wy-body-for-nav">
@@ -88,7 +90,7 @@
               
             
             
-              <ul>
+              <ul class="current">
 <li class="toctree-l1"><a class="reference internal" href="../../admin-settings/index.html">Admin Settings</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../blocks/index.html">Blocks</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../general-assets/index.html">General assets</a></li>
@@ -101,8 +103,22 @@
 <li class="toctree-l1"><a class="reference internal" href="../../using-omnia-feed/index.html">Using Omnia Feed</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../user-options/index.html">User options</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../setup/index.html">Setup</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../accessability/index.html">Accessibility</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../cookies-consent-information/index.html">Cookies Consent information</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../index.html">Release Notes</a></li>
+<li class="toctree-l1 current"><a class="reference internal" href="../index.html">Release Notes</a><ul class="current">
+<li class="toctree-l2 current"><a class="reference internal" href="index.html">Release 6.5</a><ul class="current">
+<li class="toctree-l3 current"><a class="current reference internal" href="#">6.5.0</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="../6/index.html">Release 6</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../5/index.html">Release 5</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../4.1/index.html">Release 4.1</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../4/index.html">Release 4</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../3/index.html">Release 3</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2/index.html">Release 2</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../omnia-feed/index.html">Omnia Feed (Mobile App)</a></li>
+</ul>
+</li>
 <li class="toctree-l1"><a class="reference internal" href="../../roadmap/index.html">In Development</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../guides/index.html">Guides</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../contribute-to-doc/index.html">Contribute to this Documentation</a></li>
@@ -154,6 +170,10 @@
     
       <li><a href="../../index.html" class="icon icon-home"></a> &raquo;</li>
         
+          <li><a href="../index.html">Release Notes</a> &raquo;</li>
+        
+          <li><a href="index.html">Release 6.5</a> &raquo;</li>
+        
       <li>6.5.0</li>
     
     
@@ -176,6 +196,111 @@
   <div class="section" id="id1">
 <h1>6.5.0<a class="headerlink" href="#id1" title="Permalink to this headline">¶</a></h1>
 <p>(Omnia 6.5.0 / Workplace 6.5.0 / WCM 6.5.0 / MS 6.5.0)</p>
+<div class="section" id="major-new-features">
+<h2>Major New Features<a class="headerlink" href="#major-new-features" title="Permalink to this headline">¶</a></h2>
+<p>(<a class="reference internal" href="index.html"><span class="doc">More Details</span></a>)</p>
+<ul class="simple">
+<li><p>Workplace apps</p></li>
+</ul>
+<blockquote>
+<div><ul class="simple">
+<li><p>Dynamic Mega Menu (#115472, #125718, #114686).</p></li>
+<li><p>Query by navigation path in page rollup.</p></li>
+<li><p>Display logo for extra small screens (#126714).</p></li>
+</ul>
+</div></blockquote>
+<ul class="simple">
+<li><p>Enterprise glossary and the Taxonomy Navigation.</p></li>
+<li><p>New Provisioning Templates.</p></li>
+<li><p>Communities 2.0.</p></li>
+</ul>
+<blockquote>
+<div><ul class="simple">
+<li><p>Its now possible to subscribe to Taxonomies.</p></li>
+<li><p>Auto subscribe to newly created page. (#127971).</p></li>
+<li><p>Permissions can now be setup so a page can only be edited by the Author.</p></li>
+<li><p>New Comments and Activity Feed UI. (#115431, #120984)</p></li>
+<li><p>Community Rollup.</p></li>
+</ul>
+</div></blockquote>
+<ul class="simple">
+<li><p>Section stepper.</p></li>
+<li><p>Governance dashboard including new metrics.</p></li>
+<li><p>Graph client in Script/HTML.</p></li>
+<li><p>Search</p></li>
+</ul>
+<blockquote>
+<div><ul class="simple">
+<li><p>Microsoft Search is now available as a search provider.</p></li>
+<li><p>My Links can now be configured as a search category source (#130359).</p></li>
+<li><p>The advanced search block can now be configured to use any search categories.</p></li>
+</ul>
+</div></blockquote>
+<ul class="simple">
+<li><p>Omnia Forms.</p></li>
+<li><p>Teams Channel block.</p></li>
+<li><p>People Card (Replaces opening and iframe to delve) (#125406, #126500, #129389)</p></li>
+<li><p>Yammer feed block.</p></li>
+<li><p>Teams Share Action on the Action button.</p></li>
+<li><p>Yammer Share Action on the Action button.</p></li>
+<li><p>Like Action for the Action button. (#)</p></li>
+<li><p>Automatic page translation, pages can now automatically create all variations without any editor intervention (#114074)</p></li>
+<li><p>Iframe block.</p></li>
+<li><p>Pages can now have documents stored as a property.</p></li>
+<li><p>Its now possible to change the url of publishing apps after thier creation.</p></li>
+</ul>
+</div>
+<div class="section" id="minor-new-features">
+<h2>Minor New Features<a class="headerlink" href="#minor-new-features" title="Permalink to this headline">¶</a></h2>
+<ul class="simple">
+<li><p>Calendar rollup can now query data in a configurable timespan (#115468, #117523, #125845, #127240).</p></li>
+<li><p>Event management can now create event which includes a MS Teams meeting. A link to the meeting can be shown on the event.</p></li>
+<li><p>The filter state of a page rollup can now be stored as a query string.</p></li>
+<li><p>You can now show taxonomy properties on the page rollup card view.</p></li>
+<li><p>Show child nodes on cards in card view.</p></li>
+<li><p>New Scheduling workflow. A schedule rule can now be tied to any date enterprise property. (#116302).</p></li>
+<li><p>By using the new community’s layout feature, communities can now be provisioned in any language (#127432).</p></li>
+<li><p>The see more link of search can now be configured to show after each category (#121840).</p></li>
+<li><p>The profile image edit link for User Profile Completeness is now configurable.</p></li>
+<li><p>The Action button now supports most of the actions in Omnia.</p></li>
+<li><p>Current publishing app is now a Query Scope on the Page Rollup.</p></li>
+<li><p>Sections now support many new modes.</p></li>
+<li><p>Property replacement tokens are now available to create complex publishing app templates.</p></li>
+<li><p>Image sizes in the search results can move be set to a fixed size (#121952).</p></li>
+<li><p>Updated UX for the multilingual text input control.</p></li>
+<li><p>The scheduling flow has been updated to use a enterprise property instead of unique business rules.</p></li>
+<li><p>When archiving a page, you can now get a new draft from the old, published page.</p></li>
+<li><p>Newlines are now possible on shapes in OPM. (#120216, #120197)</p></li>
+<li><p>Description can now be shown in all rollups of App Instances.</p></li>
+<li><p>Updated UX for the people picker, the picker is always closed upon picking a value.</p></li>
+<li></li>
+</ul>
+</div>
+<div class="section" id="fixes">
+<h2>Fixes<a class="headerlink" href="#fixes" title="Permalink to this headline">¶</a></h2>
+<ul class="simple">
+<li><p>Fixed an issue with clearing search refiner in Advanced search (#131147).</p></li>
+<li><p>Fixed an issue with the active tab color in OPM (#130939).</p></li>
+<li><p>Document picker sources now work as expected weather or not a document library has been configured on the publishing app (#119811).</p></li>
+<li><p>Animated GIFs can now be uploaded correctly (As long as they are not cropped or scaled) (#130619).</p></li>
+<li><p>Fixed an issue with the mail icon in the people rollup, it now works correctly in mobile (#130616).</p></li>
+<li><p>Several Document Management stability fixes and a move back to using CSOM APIs.</p></li>
+<li><p>Several Page Variation stability fixes.</p></li>
+<li><p>Updates to a theme mapping is now directly applied.</p></li>
+<li><p>Rendering terms in page properties now always renders new properties on a new row. (#129761).</p></li>
+<li><p>When sorting by likes, the most recent will show in top if several articles have the same number of likes (#121978).</p></li>
+<li><p>Fixed an issue with the Teamwork rollup that could occur when adding a new enterprise property (#130831).</p></li>
+<li><p>Several issue with saving images has been fixed (#126594).</p></li>
+<li><p>The add link action for the action button now correctly handles query strings (#128671)</p></li>
+<li><p>Fixes to preview issues (#132822, #132752, #131891, #132553, #131845, #132261, #131901, #128525)</p></li>
+</ul>
+</div>
+<div class="section" id="for-developers">
+<h2>For developers<a class="headerlink" href="#for-developers" title="Permalink to this headline">¶</a></h2>
+<ul class="simple">
+<li><p>All Vue chart types have been added.</p></li>
+</ul>
+</div>
 </div>
 
 
@@ -183,6 +308,10 @@
            
           </div>
           <footer>
+    <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
+        <a href="../6/index.html" class="btn btn-neutral float-right" title="Release 6" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right" aria-hidden="true"></span></a>
+        <a href="index.html" class="btn btn-neutral float-left" title="Release 6.5" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left" aria-hidden="true"></span> Previous</a>
+    </div>
 
   <hr/>
 
@@ -190,7 +319,7 @@
     <p>
         &#169; Copyright 2021, Precio Fishbone.
       <span class="lastupdated">
-        Last updated on Aug 23, 2021.
+        Last updated on Oct 25, 2021.
       </span>
 
     </p>

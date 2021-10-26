@@ -3,6 +3,8 @@ Current User Language
 
 Omnia users can themselves set the Current User Language, if needed.
 
+**Note!** This setting is for system labels only.
+
 This is how:
 
 1. Open My Profile.
@@ -22,6 +24,8 @@ The list contains all languages that are set up in Omnia Admin, see: :doc:`Regio
 All Omnia system labels are now shown in the selected language.
 
 The setting is saved automatically and is valid over sessions, meaning til language is set next time.
+
+Do you need to work with different language versions of pages? See this documentation page for more information: :doc:`Language versions of a page </pages/language-versions-of-a-page/index>`
 
 
 

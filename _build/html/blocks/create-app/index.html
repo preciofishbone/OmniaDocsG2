@@ -138,7 +138,7 @@
 <li class="toctree-l2"><a class="reference internal" href="../team-news-rollup/index.html">Team News Rollup</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../teams-channel-feed/index.html">Teams Channel Feed</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../text/index.html">Text</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../working-with-blocks/index.html">Working with blocks</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../working-with-blocks/index.html">Working with blocks on pages</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../yammer-feed/index.html">Yammer Feed</a></li>
 </ul>
 </li>
@@ -152,6 +152,7 @@
 <li class="toctree-l1"><a class="reference internal" href="../../using-omnia-feed/index.html">Using Omnia Feed</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../user-options/index.html">User options</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../setup/index.html">Setup</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../accessability/index.html">Accessibility</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../cookies-consent-information/index.html">Cookies Consent information</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../release-notes/index.html">Release Notes</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../roadmap/index.html">In Development</a></li>
@@ -228,11 +229,23 @@
             
   <div class="section" id="create-app-block">
 <h1>Create App block<a class="headerlink" href="#create-app-block" title="Permalink to this headline">¶</a></h1>
-<p>This is an ongoing, preliminary documentation for a new block to come in Omnia 6.5.</p>
-<p>A new Omnia App can be created through this block. The block will replace the Create Teamwork block.</p>
-<p>In the settings you can add a title for the block and select what kind of app that should be possible to create: Publishing, Community or Teamwork.</p>
+<p>A new Omnia App can be created through this block, available in Omnia 6.5 and later. If you used the Create Teamwork block in earlier Omnia versions, use this block instead in  Omnia 6.5 and later.</p>
+<p>The following settings are available:</p>
 <img alt="../../_images/create-app-block-settings.png" src="../../_images/create-app-block-settings.png" />
+<ul class="simple">
+<li><p><strong>Title</strong>: Here you can add a title for the block.</p></li>
+<li><p><strong>Select App Definition</strong>: Select type of app that should be available: Publishing, Community or Teamwork.</p></li>
+</ul>
+<p>When you have selected App Definition, a list of available templates for the app type is shown. You must select the template(s) that should be available, even if the list just coontains one. Note that if no templates are set up in Omnia Admin, this list is empty, meaning that type of app can not be created through this block, a template must be created first.</p>
+<p>Here’s an example of templates available for Teamwork, with two templates selected:</p>
+<img alt="../../_images/create-app-block-settings-selected.png" src="../../_images/create-app-block-settings-selected.png" />
 <p>WRITE is not applicable here. Layout contains general options. For more information, see: <a class="reference internal" href="../general-block-settings/index.html"><span class="doc">General Block Settings</span></a></p>
+<p>For more information on creating app templates, see:</p>
+<ul class="simple">
+<li><p><a class="reference internal" href="../../admin-settings/business-group-settings/communities/communities-65/templates/index.html"><span class="doc">Templates for Communities</span></a></p></li>
+<li><p><a class="reference internal" href="../../admin-settings/business-group-settings/publishing-apps/publishing-65/templates/index.html"><span class="doc">Templates for Publishing Apps</span></a></p></li>
+<li><p><a class="reference internal" href="../../admin-settings/business-group-settings/team-collaboration/teamwork-65/templates/index.html"><span class="doc">Teamwork templates</span></a></p></li>
+</ul>
 </div>
 
 
@@ -251,7 +264,7 @@
     <p>
         &#169; Copyright 2021, Precio Fishbone.
       <span class="lastupdated">
-        Last updated on Aug 23, 2021.
+        Last updated on Oct 25, 2021.
       </span>
 
     </p>

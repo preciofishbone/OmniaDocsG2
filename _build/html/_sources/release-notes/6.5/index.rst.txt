@@ -1,4 +1,4 @@
-Release 6.5 (Preview)
+Release 6.5
 ========================================
 
 Tenant Header
@@ -15,28 +15,28 @@ On a Business Profile, you can break the inheritance to the Tenant settings for 
 After the upgrade, existing Business Profiles will use broken inheritance to Tenant level.
 New Business Profiles will by default be set to inherit from Tenant level.
 
-Workplace
+Workspacee
 ------------------------------------------
 
-When you create a new Business Profile, a workplace (including a start url) will be created for the profile.
+When you create a new Business Profile, a workspace (including a start url) will be created for the profile.
 
 .. image:: add-bp-workplace.png
 
-After the upgrade, existing Business Profile will run in classic mode. In order to take advantage of the new workplace features, the Business Profile needs to be updated. You can do this by going in to the Business Profile and Create a new Workplace.
+After the upgrade, existing Business Profile will run in classic mode. In order to take advantage of the new workspace features, the Business Profile needs to be updated. You can do this by going in to the Business Profile and Create a new Workspace.
 
 .. image:: create-bp-workplace.png
 
-Once you have created a Business Profile workplace, a new menu will appear in Omnia Admin called "Workplace".
+Once you have created a Business Profile workplace, a new menu will appear in Omnia Admin called "Workspace".
 
 .. image:: workplace-navnode.png
 
-The Business Profile Workplace provides a new possibility to work with access and navigation in your digital workplace.
+The Business Profile Workplace provides a new possibility to work with access and navigation in your digital workspace.
 
-In the Workplace Settings, you can decide the behavior of the chrome in different device breakpoints. You can also have different behavior on the Header and Navigation Bar in Web Browser and MS Teams client.
+In the Workspace Settings, you can decide the behavior of the chrome in different device breakpoints. You can also have different behavior on the Header and Navigation Bar in Web Browser and MS Teams client.
 
 .. image:: workplace-settings.png
 
-Within the new Business Profile Workplace, you have the possibility to work with the Start Page, Mega Menu and Action Menu in a completely new way.
+Within the new Business Profile Workspace, you have the possibility to work with the Start Page, Mega Menu and Action Menu in a completely new way.
 
 The layout of the Start Page can be designed outside the scope of a publishing app.
 
@@ -46,7 +46,7 @@ Each main node in the Mega Menu has its own layout and can rollup content from d
 
 .. image:: workplace-megamenu-layout.png
 
-.. image:: workplace-megamenu-settings.png
+.. image:: workplace-megamenu-settings_url.png
 
 The action menu can include any action available in Omnia. (The action button and action menu now share the same infrastructure).
 
@@ -351,7 +351,13 @@ The search categories in quick and advanced search are now connected to be able 
 
 It is possible to configure the icon size for quick and advanced search for better UI consistency.
 
+Versions
+-----------------------------------------
 
+.. toctree::
+   :titlesonly:
+
+   versions
 
 
 

@@ -138,7 +138,7 @@
 <li class="toctree-l2"><a class="reference internal" href="../team-news-rollup/index.html">Team News Rollup</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../teams-channel-feed/index.html">Teams Channel Feed</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../text/index.html">Text</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../working-with-blocks/index.html">Working with blocks</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../working-with-blocks/index.html">Working with blocks on pages</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../yammer-feed/index.html">Yammer Feed</a></li>
 </ul>
 </li>
@@ -152,6 +152,7 @@
 <li class="toctree-l1"><a class="reference internal" href="../../using-omnia-feed/index.html">Using Omnia Feed</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../user-options/index.html">User options</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../setup/index.html">Setup</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../accessability/index.html">Accessibility</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../cookies-consent-information/index.html">Cookies Consent information</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../release-notes/index.html">Release Notes</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../roadmap/index.html">In Development</a></li>
@@ -228,8 +229,62 @@
             
   <div class="section" id="community-rollup-block">
 <h1>Community Rollup block<a class="headerlink" href="#community-rollup-block" title="Permalink to this headline">¶</a></h1>
-<p>This is a new block to come in Omnia 6.5. A description will be added soon.</p>
-<p>(A description will be added soon.)</p>
+<p>This block is available in Omnia 6.5 and later.</p>
+<div class="section" id="settings">
+<h2>Settings<a class="headerlink" href="#settings" title="Permalink to this headline">¶</a></h2>
+<p>The following settings is available:</p>
+<img alt="../../_images/community-rollup-settings-all.png" src="../../_images/community-rollup-settings-all.png" />
+<div class="section" id="general">
+<h3>General<a class="headerlink" href="#general" title="Permalink to this headline">¶</a></h3>
+<p>Here you can add a title for the block.</p>
+<img alt="../../_images/community-rollup-settings-general.png" src="../../_images/community-rollup-settings-general.png" />
+</div>
+<div class="section" id="query">
+<h3>Query<a class="headerlink" href="#query" title="Permalink to this headline">¶</a></h3>
+<p>Here you decide what to rollup in the block.</p>
+<img alt="../../_images/community-rollup-settings-query.png" src="../../_images/community-rollup-settings-query.png" />
+<ul class="simple">
+<li><p><strong>Scope</strong>: You can choose to rollup all public communities, all communities the logged in user follows, or to display the last communities the user visited. Last Visited in fact lists all communities the logged in user has visited, with the last visited at the top.</p></li>
+<li><p><strong>Only Current Business Profile</strong>: If only communities from this Business Profile should be listed, select this option (default).</p></li>
+<li><p><strong>Site Template</strong>: Select Community template here. You must select template even if there’s just one available.</p></li>
+<li><p><strong>Run Query On Load</strong>: Decide if the query should be run on load, so the list is filled with communities, or not. If a list is very long it can be a good idea to add a search box, and to deselect this option. You add a search box under Filter, see below.</p></li>
+</ul>
+</div>
+<div class="section" id="display">
+<h3>Display<a class="headerlink" href="#display" title="Permalink to this headline">¶</a></h3>
+<p>Here you can select List View or Card View.</p>
+<img alt="../../_images/community-rollup-settings-display.png" src="../../_images/community-rollup-settings-display.png" />
+<p>Available settings depends on what you select. All options are listed below.</p>
+<ul class="simple">
+<li><p><strong>Add Column</strong>: If you select List View, you must add at least one Column for the display to work.</p></li>
+<li><p><strong>Cards per Row</strong>: Available for Card view. As it says, set the number of cards to show per row.</p></li>
+<li><p><strong>Paging</strong>: Select how paging should work; “No Paging”, “Classic” or “Scroll”.</p></li>
+<li><p><strong>Image</strong>: Available for Card view. Choose to display an image or not.</p></li>
+<li><p><strong>Item Limit</strong>: Set the number of sites to be shown on each “page” of the list.</p></li>
+<li><p><strong>Sort By</strong>: Select what to sort the list on, and then select Ascending or Descending sorting.</p></li>
+<li><p><strong>Padding</strong>: You can add some padding between the block’s borders and the list.</p></li>
+<li><p><strong>Show Follow status</strong>: Follow status is indicated by a star, filled if the teamwork is followed, hollow if not.</p></li>
+<li><p><strong>Open in new window</strong>: For some (maybe all) of the teamworks, it can be a good idea to open the link in a new window.</p></li>
+</ul>
+<p>If you select STYLES for Card View, the following, additional settings becomes available:</p>
+<img alt="../../_images/community-rollup-settings-display-styles.png" src="../../_images/community-rollup-settings-display-styles.png" />
+</div>
+<div class="section" id="filter">
+<h3>Filter<a class="headerlink" href="#filter" title="Permalink to this headline">¶</a></h3>
+<p>Here you can add filters so users can filter (= choose to just see some) of a long list.</p>
+<img alt="../../_images/add-filter-communities.png" src="../../_images/add-filter-communities.png" />
+<ul class="simple">
+<li><p><strong>Add filter</strong>: To add filters, click this link. See below for more information.</p></li>
+<li><p><strong>Show Search Box</strong>: To add a search box, select this option. You can do that without adding filters.</p></li>
+<li><p><strong>Enable partial word search</strong>: Per default the search will onfly find whole words, so a search for Chris will find just that, not for example Christina. But if you select this option, the search will find parts of words as well, so both Chris, Christina and Christian, for example.</p></li>
+<li><p><strong>Hide filter by default</strong>: If you chose a search box you can select this option. Then no filters are shown until users has executed a search and got a search result.</p></li>
+</ul>
+</div>
+</div>
+<div class="section" id="layout-and-write">
+<h2>Layout and Write<a class="headerlink" href="#layout-and-write" title="Permalink to this headline">¶</a></h2>
+<p>The WRITE TAB is not used here. The LAYOUT tab contains general settings, see: <a class="reference internal" href="../general-block-settings/index.html"><span class="doc">General Block Settings</span></a></p>
+</div>
 </div>
 
 
@@ -248,7 +303,7 @@
     <p>
         &#169; Copyright 2021, Precio Fishbone.
       <span class="lastupdated">
-        Last updated on Aug 23, 2021.
+        Last updated on Oct 25, 2021.
       </span>
 
     </p>

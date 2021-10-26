@@ -1,13 +1,13 @@
-Workplace
+Workspace
 ============
 
-This is an ongoing, preliminary documentation for functionality to come in Omnia 6.5.
+This feature is available in Omnia 6.5 and later.
 
-In a Workplace you can create dynamic navigation etc for a Business Profile. The Workplace lives outside the Publishing App.
+The Workspace settings can be used to create dynamic navigation and access for a Business Profile. The Workspace lives outside the Publishing App.
 
-A Workplace can for example be used for different branding for different devices, within a Business Profile. This can, among other things, be useful in a Teams implementation.
+When you migrate an earlier version of Omnia, the Workspace options are not activated. You don't have to start using these options until you're ready. You can try out the options to see how they work and implement them later. You must be Tenant Administrator to implement the Modern Workspace in your system.
 
-You can always choose to use "Classic Action Menu & Mega Menu" for the Business Profile, and then the settings here are not used. This can be edited later in the tenant-settings, allowing for Workplace settings. For more information, see: :doc:`Business Profiles </admin-settings/tenant-settings/business-profiles/index>`
+When you create a new Business Profile, the Workspace functionality is always turned on, and a workspace (including a start url) will be created for the profile.
 
 Settings
 **********

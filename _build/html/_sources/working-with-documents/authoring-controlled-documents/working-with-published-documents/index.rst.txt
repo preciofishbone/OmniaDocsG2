@@ -76,8 +76,8 @@ Read Receipt Status
 ********************
 This option has to do with the option "Notify people" an author can select when publishing a document. See this page for more information: :doc:`Read and Understood - Notify and Read Receipt </working-with-documents/authoring-controlled-documents/read-and-understood/index>`
 
-Move a document
-*****************
+Move a published document
+*****************************
 A published document can be moved to any other site with a Controlled Documents library. If a draft for a new edition of the document is present, the draft must first be deleted.
 
 **Note!** You must first check and note (or copy) the URL to the site you want to move the document to.
@@ -87,13 +87,17 @@ A published document can be moved to any other site with a Controlled Documents 
  
 The following is shown:
 
-.. image:: published-move-document-new2.png
+.. image:: published-move-document-new3.png
+
+Note the message about what will happen with document properties.
  
 3.	Type the URL (or paste, if you have copied it) to the site in the top field and click "Resolve". 
 
-If the URL is correct the site title is shown in the second field.
+**Note!** You should type or paste the Url to the site, note the Controlled Documents library. If the Url is not correct (meaning pointing to the site only) you will get the message that site does not contain a Controlled Documents library.
 
-4.	Click "Move".
+If the URL is correct the site title is shown in the second field - Site Title.
+
+4.	Click MOVE.
 
 Unpublish
 **********

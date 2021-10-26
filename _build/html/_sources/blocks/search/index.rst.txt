@@ -7,6 +7,8 @@ The Search block can be used for Quick Search or Advanced Search.
 
 Settings for Search are set up in Omnia Admin, see: :doc:`Business Profile Settings - Search </admin-settings/business-group-settings/search/index>`
 
+In Omnia 6.5 and later, you can configure the use of search categories or inherit the ones configured on the Business Profile. See the heading "Search Categories" below.
+
 Settings
 **********
 The following settings are avilable:
@@ -27,6 +29,50 @@ The General settings are:
 + **Trigger Search on Loaded**: If the above option is selected, select this option if a search should be executed when the page is loaded.
 + **Search mode**: Select search mode, Quick or Advanced.
 + **Padding**: You can add some padding if needed.
+
+Search Categories
+-------------------
+This option is available in Omnia 6.5 and later.
+
+.. image:: search-block-settings-categories.png 
+
+You can inherit the search settings from the Business Profile and if that is what you want to do, you don't need to change anything, it's default.
+
+But if you would like to set specific category settings for this block, deselect and the following will be available:
+
+.. image:: search-block-settings-categories-settings-new.png 
+
+**Quick Search - General**: Use it to add search categories for Quick Search. Open the list and select.
+
+.. image:: search-block-settings-categories-quick-select.png 
+
+When you have selected a number of categories, you can edit the order, and set a row limit for each category:
+
+.. image:: search-block-settings-categories-quick-select-example.png 
+
+You can set image/icon size to small, medium or large.
+
+.. image:: search-block-settings-categories-quick-select-icon-size.png 
+
+**Quick Search - View more results**: Under "View more results" you can set where the "View more" link is placed; "At bottom", "Per category" or "Custom Target". 
+
+.. image:: search-block-settings-categories-quick-view-more.png 
+
+For Custom Target you can add a link to go to and can choose to open that link in a new window.
+
+.. image:: search-block-settings-categories-quick-view-more-link.png 
+
+**Advanced Search**: Here you can set Refiner Position to Left or Right, and you can select Search Categories to be shown.
+
+When you have selected a number of categories, you can click the pen for more settings, for that category.
+
+.. image:: search-block-settings-categories-advanced.png 
+
+These settings are available for each category:
+
+.. image:: search-block-settings-categories-advanced-settings.png 
+
+Also note that an important difference in Omnia 6.5 is that search categories (tabs) that do not generate any result is hidden in Advanced Search.
 
 Style
 --------
@@ -73,7 +119,5 @@ When a user has conducted an Advanced search using this block, it can look like 
 .. image:: advanced-search-example-block-new.png
 
 Refiners, Refiner position and Search categories are set up in Omnia Admnin, see the Heading "Advanced Search" on this page: :doc:`Business Profile Settings - Search </admin-settings/business-group-settings/search/index>`
-
-
 
 

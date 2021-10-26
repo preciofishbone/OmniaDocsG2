@@ -8,7 +8,7 @@ Here you can use the following settings:
 + **Background Color**: Here you can choose a background color for the whole page.
 + **RANDOM**: If you want to try a random background color, click here. (You can click the x in the field above to remove it, if it didn't work.)
 + **ADD COLOR**: If you want to add an additional background color for various effects, click here. An additional color field is placed above where you can select color.
-+ **Background Image**: To add a background image to the page, click ADD IMAGE and use the Media Picker to choose an image. See this page for more information:  :doc:`The Meda Picker </general-assets/media-picker/index>`
++ **Background Image**: To add a background image to the page, click ADD IMAGE and use the Media Picker to choose an image. See this page for more information:  :doc:`The Media Picker </general-assets/media-picker/index>`
 
 Settings for background image
 **********************************
