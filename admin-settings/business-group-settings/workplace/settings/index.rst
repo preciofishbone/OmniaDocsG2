@@ -1,8 +1,6 @@
 Settings
 ==========
 
-This feature is available in Omnia 6.5 and later.
-
 The following settings are available here:
 
 .. image:: workplace-settings-settings-new.png
