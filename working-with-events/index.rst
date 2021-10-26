@@ -20,6 +20,8 @@ If Event Management is connected to an Outlook Calendar, this additional option 
 
 + The Participant List displays a Status icon to indicate if the registered user has accepted the event in his or her calendar. 
 
+**Note!** In Omnia on-prem, Use personal exchange calendars. Support for Exchange server 2016 and 2019.
+
 There's a number of settings available to decide how Event Management will work. It can for example be set that a Reservation list should not be available and that users should not be able to register for others.
 
 There's two specific blocks available for Event Management (see the links below). In all other aspects, you use available options in Omnia for Page Types so Event Administrators can create pages with the information they want to display for the Event.
