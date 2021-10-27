@@ -42,6 +42,8 @@ Use these settings to Edit permissions in the Publishing App.
 + **Administrators**: Add and remove Publishing App administrators here as needed.
 + **Resource Readers**: Here you set the general Read permission for the Publishing App, needed for users to be able to read pages.
 
+Single users, Security groups and Microsoft 365 groups can be added here (In Omnia on-prem, Microsoft 365 groups can't be used).
+
 Note that this permissions setting is valid for these settings only. To be able to edit Publishing App settings in Omnia Admin you need to be either a tenant administrator or administrator for the Business Profile.
 
 Regarding these settings a tenant administrator and business profile administrator can go here and add him or herself to the permissions list and that way gain access to the settings.
