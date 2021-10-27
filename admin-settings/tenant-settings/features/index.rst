@@ -17,6 +17,8 @@ Mobile
 *********
 Here you can remove or upgrade the feature "Enable Mobile Login". More information about what Mobile Login is, is found under *Permissions* here: :doc:`Publishing App settings </pages/page-settings/index>`
 
+**Note!** Mobile Login is not available in Omnia on-prem.
+
 Add-ons
 *********
 Here you can remove or upgrade the Omnia Add-ons. For more information about these, see the following sections:
