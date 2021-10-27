@@ -1,7 +1,11 @@
 Yammer Feed
 ===============
 
-A Yammer Feed can be displayed in this block. The following settings are available:
+A Yammer Feed can be displayed in this block. 
+
+**Note!** In an Omnia on-prem setup, a separate online Yammer subscription and internet access is required.
+
+The following settings are available:
 
 .. image:: yammer-feed-settings-all.png
 
