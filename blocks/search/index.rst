@@ -40,7 +40,7 @@ But if you would like to set specific category settings for this block, deselect
 
 .. image:: search-block-settings-categories-settings-new.png 
 
-**Quick Search - General**: Use it to add search categories for Quick Search. Open the list and select.
+**Quick Search - General**: Use it to add search categories for Quick Search. Open the list and select. 
 
 .. image:: search-block-settings-categories-quick-select.png 
 
@@ -70,7 +70,7 @@ These settings are available for each category:
 
 .. image:: search-block-settings-categories-advanced-settings.png 
 
-Also note that an important difference in Omnia 6.5 is that search categories (tabs) that do not generate any result is hidden in Advanced Search.
+Also note that an important difference in Omnia 6.5 and later is that search categories (tabs) that do not generate any result are hidden in Advanced Search.
 
 Style
 --------
