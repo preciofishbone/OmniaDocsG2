@@ -1,7 +1,7 @@
 Announcements
 ===========================================
 
-Here a Tenant Administrator (or any other user added under Permissions for Announcements, see below) can create Announcements that can be displayed over the whole tenant, normally at the top. Tenant Announcements can also be shown through the Announcements block. For more information about the block, see: :doc:`The Announcements block </blocks/announcements/index>`
+Here a Tenant Administrator can create Announcements that can be displayed over the whole tenant, normally at the top. Tenant Announcements can also be shown through the Announcements block. For more information about the block, see: :doc:`The Announcements block </blocks/announcements/index>`
 
 .. image:: announcements-new2.png
 
@@ -131,14 +131,6 @@ Set the following:
 
 Permissions for Announcements
 ********************************
-Announcements has a seperate Permissions setting, so any user can be set as an Announcement administrator, including external users that has been invited in the Azure AD, meaning they can log in with their own Microsoft 365 account. 
-
-Add all users that should be Announcements administrators here:
-
-.. image:: announcements-permissions-new2.png
-
-Note that Tenant Administrators always can work with Announcements even though they are not listed here.
-
-
+**Note!** In Omnia 6.7 and later, there's not a separate permissions settings for announcements. To be able to work with tenant announcements, users have to be Tenant Administrators.
 
 
