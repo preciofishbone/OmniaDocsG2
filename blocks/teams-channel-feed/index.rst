@@ -3,6 +3,8 @@ Teams Channel Feed
 
 As the name indicates, you can use the block to display a Teams Channel Feed. The feed will be read only.
 
+**Note!** Teams Channel Feed is not available in Omnia on-prem.
+
 The following settings are available:
 
 .. image:: teams-channel-settings-all.png
