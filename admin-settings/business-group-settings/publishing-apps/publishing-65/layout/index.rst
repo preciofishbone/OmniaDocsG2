@@ -1,8 +1,6 @@
 Layouts
 ==========
 
-This feature is available in Omnia 6.5 and later.
-
 Here you can work with ready made layouts for publishing start pages.
 
 To create a new layout, do the following:
