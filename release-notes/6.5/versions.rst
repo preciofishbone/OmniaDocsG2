@@ -1,3 +1,31 @@
+6.6.0 - DRAFT
+========================================
+(Omnia 6.6.0 / Workplace 6.6.0 / WCM 6.6.0 / MS 6.6.0)
+
+New Features 
+**************************
+
+- New structure of settings in Workplace menus. 
+- Default document properties are now applied when uploading and moving documents into ODM (#129968).
+
+
+
+
+Fixes
+**************************
+
+- Style updates for the Publishing- and Community rollup.
+- Fixed an issue that prevented documents to be added to OPM processes on small screens.
+- The Accessibility Theme is now correctly enabled when the user enables it.
+- Fixed an issue with the icon color in the new mega menu (#133266).
+- Corrected the RTF theme on the new FAQ block.
+- Corrected an issue in the settings form of the Activity Feed.
+- Default Site Properties in Document Management can now be used on a publishing app.
+- Improved error handling when draft exists (#132047, #132019, #131942).
+- The Community default content feature can now be activated multiple times without additional artifacts being created.
+
+
+
 6.5.6
 ========================================
 (Omnia 6.5.5 / Workplace 6.5.5 / WCM 6.5.6 / MS 6.5.6)
