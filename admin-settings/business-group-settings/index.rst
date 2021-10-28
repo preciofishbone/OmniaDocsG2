@@ -13,7 +13,7 @@ Business Profile Settings
    omnia-feed/index
    permissions/index
    provisioning-templates/index
-   publishing-apps/index
+   publishing-apps/publishing-65/index
    search/index
    settings/index
    shared-links/index
