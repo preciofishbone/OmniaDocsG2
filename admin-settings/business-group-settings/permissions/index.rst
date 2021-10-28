@@ -4,8 +4,6 @@ Here you can set the following:
 
 .. image:: security-business-profile-new.png
 
-(This option was formerly called Security).
-
 Users and groups
 ******************
 Users added to this list can edit all settings for the Business Profile. 
