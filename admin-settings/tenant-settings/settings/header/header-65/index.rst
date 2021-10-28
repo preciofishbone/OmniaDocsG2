@@ -1,7 +1,7 @@
 Tenant Header settings
 ==============================
 
-Here you can change the default settings for the Header in the tenant. In the header settings for a workSPACE for a Business Profile, you can then choose to inherit those settings or create specific settings. 
+Here you can change the default settings for the Header in the tenant. In the header settings for a Workspace for a Business Profile, you can choose to inherit those settings or create specific settings. 
 
 .. image:: tenant-settings-header-65.png
 
