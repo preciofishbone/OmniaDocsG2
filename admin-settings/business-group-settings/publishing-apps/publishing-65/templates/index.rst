@@ -1,7 +1,7 @@
 Templates for Publishing Apps
 ================================
 
-In Omnia 6.5 and later, the option Provisioning templates is removed. Instead, templates will be administrated under each main option, so here you can work with templates for Publishing Apps.
+Here you can work with templates for Publishing Apps.
 
 .. image:: publishing-templates-new.png
 
