@@ -12,7 +12,6 @@ Business Profile Settings
    notification-panel/index
    omnia-feed/index
    permissions/index
-   provisioning-templates/index
    publishing-apps/publishing-65/index
    search/index
    settings/index
