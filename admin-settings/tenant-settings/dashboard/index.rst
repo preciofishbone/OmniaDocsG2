@@ -1,7 +1,7 @@
 Dashboard
 ===========
 
-In omnia 6.5, and later, the dashboard has been moved to Omnia Admin and you can build it to your needs. You set up the Dashboard much like you would do a page type. Most sections and blocks can be used.
+Here you can build the Dashboard to your needs. You set up the Dashboard much like you would do a page type. Most sections and blocks can be used.
 
 .. image:: dashboard-new.png
 
