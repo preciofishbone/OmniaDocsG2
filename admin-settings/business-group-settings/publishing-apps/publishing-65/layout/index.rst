@@ -1,5 +1,5 @@
-Layouts
-==========
+Layouts for Publishing Apps
+=============================
 
 Here you can work with ready made layouts for publishing start pages.
 
