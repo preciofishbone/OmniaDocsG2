@@ -16,6 +16,9 @@ Use the icons this way on the Active tab:
 
 You can use the headings for Title, App Administrator, Provisioning Template and Created Date to sort the list. You can also search the list.
 
+**Note!** To be able to delete a teamwork, you must be App Administrator for the teamwork. Also note that deleting a teamwork from this list does not delete 
+the connected Sharepoint site.
+
 Edit Permissions
 -----------------
 If you need to add or remove administrator(s) for a Teamwork, you do it here:
