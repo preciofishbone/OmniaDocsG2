@@ -7,7 +7,7 @@ Here's how a profile card can look:
 
 .. image:: profile-card-example-jorg.png
 
-**Note!** In Omnia on-prem, all options referring to Delve is removed, as it's a Microsoft 365 feature and therefoe not available on-prem.
+**Note!** In Omnia on-prem, all options referring to Delve is removed, as it's a Microsoft 365 feature and therefore not available on-prem.
 
 The new user profile card also includes the possibility to browse who reports to who in the organization.
 
