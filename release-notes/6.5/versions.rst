@@ -1,3 +1,14 @@
+6.5.6
+========================================
+(Omnia 6.5.5 / Workplace 6.5.5 / WCM 6.5.6 / MS 6.5.6)
+
+- Fixed an issue that caused time to be wrong when events were put for approval.
+- Fixed an issue in event management that would sometimes prevent outlook events from being created correctly.
+- Fixed an issue that would cause the new navigation bar editor to hang (#132703, #132779, #133082)
+- Default document types now work correctly in the create document wizard (#133016, #133019).
+- Fixed an issue that would sometimes prevent relating documents (#132116).
+- Fixed an issue that would cause the User Profile Completion dialog to show up when it should not.
+
 6.5.5
 ========================================
 (Omnia 6.5.4 / Workplace 6.5.4 / WCM 6.5.5 / MS 6.5.5)
