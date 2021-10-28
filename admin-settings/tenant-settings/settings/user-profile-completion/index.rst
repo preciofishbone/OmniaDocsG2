@@ -77,7 +77,7 @@ Use the following settings:
 
 Mapping Profile Images
 -------------------------------------------------
-If Profile Images are stored in another system (which is most likely the case in Omnia on-prem), you can use these options to map to that system, this way:
+If profile images are managed in another system (or in the SharePoint My Site, which is likely the case in an on-prem installation), you can use these options to map to that system, this way:
 
 1. Create a Profile Image mapping, and then select "Add Mapping".
 2. Select "Sharepoint User Profile".
