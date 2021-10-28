@@ -1,8 +1,6 @@
 Layout
 =======
 
-This feature is available in Omnia 6.5 and later.
-
 Here you can work with ready made layouts for Community start pages, which can be created for any language, that can be chosen when a Page Collection for a Community is created.
 
 .. image:: communities-layout.png
