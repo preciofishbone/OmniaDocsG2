@@ -1,7 +1,7 @@
-Communities settings in Omnia 6.5
+Communities
 ====================================
 
-The following settings are available in Omnia 6.5 and later:
+Here you can work with apps and templates for Communities. You can also create layouts that can be used in the templates:
 
 .. image:: community-65.png
 
@@ -14,7 +14,7 @@ Select section for more information:
    layout/index
    templates/index
 
-In Omnia 6.5 and later, a new Community Rollup block is also be available: :doc:`Community Rollup block </blocks/community-rollup/index>`
+A Community Rollup block is also available: :doc:`Community Rollup block </blocks/community-rollup/index>`
 
 
 
