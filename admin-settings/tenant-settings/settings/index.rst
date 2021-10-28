@@ -11,7 +11,7 @@ Select section for more information:
    :titlesonly:
 
    general/index
-   header/index
+   header/header-65/index
    media-picker/index
    metrics/index
    regional-settings/index
