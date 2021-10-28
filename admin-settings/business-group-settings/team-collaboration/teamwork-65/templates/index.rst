@@ -19,6 +19,7 @@ Use the following settings:
 
 .. image:: teamwork-65-template-settings-new.png
 
++ **Type**: Select type of Teamwork to create from this template. Note that only Sharepoint Team Site and Sharepoint Communication Site is available in Omnia on-prem.
 + **Title**: Add a Title for the Template. You can add titles in a number of the languages available in the tenant. Default language is mandatory.
 + **Description**: Add a Description if needed.
 + **Icon Type**: An icon is always shown for a template. If you would like another icon for this template, select the set of icons here: Font Awesome, Microsoft, Flags or Custom. When selecting Custom you can choose any image as the icon.
@@ -78,9 +79,11 @@ For Sharepoint Team Site and Sharepoint Communication Site, these settings are a
 
 Microsoft Team
 ---------------------
-For Microsoft Team, the following settings are available fopr Setup:
+For Microsoft Team, the following settings are available for Setup:
 
 .. image:: teamwork-settings-setup-team.png
+
+**Note!** Microsoft Team is not available in Omnia on-prem.
 
 For CHANNELS the following settings are available:
 
@@ -108,6 +111,8 @@ The following setting is available for a Yammer Community template for Setup:
 
 .. image:: teamwork-yammer-community.png
 
+**Note!** Yammer Community is not available in Omnia on-prem.
+
 + **Client id**: Type the Client id for the Yammer Network here.
 
 Facebook Workplace Group
@@ -115,6 +120,8 @@ Facebook Workplace Group
 This setting is available for a Facebook Workplace Group template for Setup:
 
 .. image:: teamwork-facebook-workplace-group.png
+
+**Note!** Facebook Workplace Group is not available in Omnia on-prem.
 
 + **Workplace Domain**: Add the Facebook Workplace name here.
 
