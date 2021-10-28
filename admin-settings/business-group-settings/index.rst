@@ -17,7 +17,7 @@ Business Profile Settings
    search/index
    settings/index
    shared-links/index
-   team-collaboration/index
+   team-collaboration/teamwork-65/index
    workplace/index
 
 
