@@ -1,7 +1,7 @@
-Teamwork in Omnia 6.5
-===========================================
+Teamwork
+===============
 
-The settings for Teamwork in Omnia 6.5 and later will be these:
+Here you can work with the apps and templates for Teamwork:
 
 .. image:: teamwork-65-all-new.png
 
