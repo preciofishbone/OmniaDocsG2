@@ -17,7 +17,7 @@ Both lists are handled the same way.
 
 At the top you will see a preview of what the RTF editor will look like with the selected options.
 
-Text Translator is the option for Machine Translations editors can use (Available at the bottom of the list, not activated in the image above). 
+Text Translator is the option for Machine Translations editors can use (Available at the bottom of the list, not activated in the image above). **Note!** Machine translation is not available in Omnia on-prem.
 
 All other options should be fairly self explanatory.
 
