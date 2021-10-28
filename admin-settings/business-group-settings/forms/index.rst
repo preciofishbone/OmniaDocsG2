@@ -1,8 +1,6 @@
 Forms
 ===========
 
-This feature is available in Omnia 6.5 and later.
-
 Here you can work with three types of forms. 
 
 .. image:: forms-all.png
@@ -13,7 +11,7 @@ For each type of form, all existing are listed, Surveys as an example:
 
 .. image:: forms-surveys.png
 
-Here you can use the icons (from left to right), to copy the form to a new one, change settings, work with the graphical presentation, or delete a form, if needed.
+In the list, you can use the icons (from left to right), to copy the form to a new one, change settings, work with the graphical presentation, or delete a form, if needed.
 
 .. image:: forms-icons.png
 
