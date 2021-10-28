@@ -1,7 +1,7 @@
-Publishing Apps settings in Omnia 6.5
+Publishing Apps
 ========================================
 
-The following settings are available in Omnia 6.5 and later:
+The following settings are available here:
 
 .. image:: publishing-65.png
 
@@ -14,5 +14,5 @@ Select section for more information:
    layout/index
    templates/index
 
-In Omnia 6.5 and later, a new Publishing Apps Rollup block will also be available: :doc:`Publishing Apps Rollup block </blocks/publishing-apps-rollup/index>`
+A Publishing Apps Rollup block is also available: :doc:`Publishing Apps Rollup block </blocks/publishing-apps-rollup/index>`
 
