@@ -128,6 +128,8 @@ It is now possible to set whether a variation should be translated by a Variatio
 
 .. image:: automatic-page-translation.png
 
+**Note!** This feature is not available in Omnia on-prem.
+
 If a variation is translated automatically by the system, a disclaimer will be added on top of the page.
 
 .. image:: automatic-page-translation-disclaimer.png
@@ -287,6 +289,8 @@ Teams and Yammer Share
 
 A new type of action button can be added to layouts that makes it possible to share the page to Yammer and/or Teams.
 
+**Note!** Not available in Omnia on-prem.
+
 .. image:: share-to-yammer-teams.png
 
 .. image:: share-to-teams-1.png
@@ -296,7 +300,7 @@ A new type of action button can be added to layouts that makes it possible to sh
 Teams Channel and Yammer Feed
 ------------------------------------------
 
-Two new blocks are available that integrates with Microsoft Teams and Yammer.
+Two new blocks are available that integrates with Microsoft Teams and Yammer. (Not available in Omnia on-prem).
 
 A Teams Channel block makes it possible to show a read-only view on a page of a specific channel in Teams.
 
@@ -332,7 +336,7 @@ It is now possible to include Shared Links as a search category to be able to fi
 Comments Search Provider
 ------------------------------------------
 
-A new provider in search can be used in a search category to search for comments (and discussions) in the solution.
+A new provider in search can be used in a search category to search for comments (and discussions) in the solution. (Not available in Omnia on-prem).
 
 .. image:: search-comments-provider.png
 
