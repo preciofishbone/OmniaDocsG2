@@ -4,8 +4,6 @@ The following settings are found here:
 
 .. image:: security-tenant-new2.png
 
-(In previous Omnia versions, this menu option was called Security).
-
 Users and Groups
 *******************
 Use this setting to add and remove Tenant Administrators. Only Tenant Administrators can use this setting and other settings under "Tenant" in Omnia Admin. A Tenant Administrator can also edit all the settings for all Business Profiles within the Tenant. 
