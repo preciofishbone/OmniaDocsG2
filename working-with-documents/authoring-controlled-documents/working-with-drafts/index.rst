@@ -71,7 +71,7 @@ Now properties for the document are shown (and this is what is shown for a docum
 
 **Note!** You can even choose another template for the document here, if needed. Click the x for the existing template and select another template. Don't forget to select language if needed.
 
-**Note!** A term that has been translated in the term store will be shown in the document's language here, but if the term is shown in the Drafts list, it is shown in the user's language.
+**Note!** A term that has been translated in the term store will be shown in the document's language here, but if the term is shown in the Drafts list, it is shown in the user's language. Also note that placeholders in DOCX and XLSX are replaced with terms based on the document's language.
 
 3. Edit the properties as needed and save.
 
