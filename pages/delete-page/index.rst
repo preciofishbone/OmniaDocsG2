@@ -5,6 +5,8 @@ When working with the navigation you can archive a page that is no longer needed
 
 If a page has sub pages you can still archive it. Then all sub pages will also be archived. Both published pages and drafts will be archived. If variations for the page or sub pages exists, they will also be archived.
 
+When you archive a page, iut may be possible to create a new draft page in that process.
+
 You can archive a whole Page Collection the same way as is described here and you can archive unused Page Types as well.
 
 All colleagues with editor permissions to a page can archive that page. To be able to restore an archived page you must be Publishing App Administrator. There's one archive per Publishing App.
