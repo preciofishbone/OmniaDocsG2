@@ -120,7 +120,7 @@ To add som padding for the section, for a specific device, do the following:
 
 Using the Stepper section
 ***************************
-In Omnia 6.5 and later, a Stepper section is available.
+A Stepper section is also available.
 
 .. image:: stepper-section.png
 
