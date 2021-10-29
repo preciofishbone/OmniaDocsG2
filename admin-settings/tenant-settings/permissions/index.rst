@@ -7,7 +7,7 @@ The following settings are found here:
 
 Users and Groups
 *******************
-Use this setting to add and remove Tenant Administrators and separate administrators for Shared Links and Announcements, if needed. Only Tenant Administrators can use this setting and other settings under "Tenant" in Omnia Admin. A Tenant Administrator can also edit all the settings for all Business Profiles within the Tenant. 
+Use this setting to add and remove Tenant Administrators and separate administrators for Shared Links and Announcements, if needed. Only Tenant Administrators can use this setting. A Tenant Administrator can also edit all the settings for all Business Profiles within the Tenant. 
 
 Single users, Security groups and Microsoft 365 groups can be added here (In Omnia on-prem, Microsoft 365 groups can't be used). 
 
