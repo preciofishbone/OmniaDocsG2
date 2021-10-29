@@ -25,4 +25,4 @@ Shared Links for this Business Profile has a seperate Permissions setting, so an
 
 Note that Business Profile Administrators always can work with Shared Links even though they are not listed here.
 
-All permissions within a Business Profile is set in one place, se: :doc:`Permissions for a Business Profile </admin-settings/business-group-settings/permissions/index>`
+In Omnia 6.7 and later, these permissions settings have been moved to general permission settings for the Business Profile, see: :doc:`Permissions for a Business Profile </admin-settings/business-group-settings/permissions/index>`.
