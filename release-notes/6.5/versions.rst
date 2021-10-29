@@ -7,8 +7,9 @@ New Features
 
 - New structure of settings in Workplace menus. 
 - Default document properties are now applied when uploading and moving documents into ODM (#129968).
-
-
+- Better error handling in ODM when a user has been deleted.
+- Added settings for permissions to Publishing App Templates. (#133244).
+- Its now possible to target variations to any language (regardless of the display languages)
 
 
 Fixes
@@ -16,13 +17,30 @@ Fixes
 
 - Style updates for the Publishing- and Community rollup.
 - Fixed an issue that prevented documents to be added to OPM processes on small screens.
-- The Accessibility Theme is now correctly enabled when the user enables it.
+- The Accessibility Theme is now correctly enabled when the user enables it. (#132931, #132894)
 - Fixed an issue with the icon color in the new mega menu (#133266).
 - Corrected the RTF theme on the new FAQ block.
 - Corrected an issue in the settings form of the Activity Feed.
 - Default Site Properties in Document Management can now be used on a publishing app.
 - Improved error handling when draft exists (#132047, #132019, #131942).
 - The Community default content feature can now be activated multiple times without additional artifacts being created.
+- Fixed an issue with the background color of the tab control.
+- The mobile navigation menu icon will now follow the icon color (#133309).
+- Team news rollup now follows the Theme correctly.
+- Corrected the padding of the tenant logo (#132901).
+- General corrections for theming in the new mega menu (#132554).
+- The editor for the Navigation Bar now follows the Editor theme.
+- When link to delve is turned off, it’s no longer possible to open delve by right clicking the link and open in new tab.
+- Fixed an issue that caused driveItem not to render from MS Search.
+- Fixed a design glitch in the Publishing and Community rollup.
+- Corrected icon color for tabbed sections (#132553).
+- Stability fixes to the Teamwork provisioning flow.
+- Fixed an issue with the Event Management participant list.
+- Several Mobile design fixes.
+- Fixed an issue that caused the Excel file for reports to not generate correctly (#131376, #132975, #133433).
+- The page rollup now renders better in a very narrow column (#132738).
+- ODM now supports files with a # character in the filename.
+- Fixed an issue that caused the node order of the mega menu to be incorrect (#132214, #133119)
 
 
 
