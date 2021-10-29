@@ -1,12 +1,13 @@
-Permissions
-===========
+Permissions for the Tenant
+============================
+
 The following settings are found here:
 
 .. image:: security-tenant-new2.png
 
 Users and Groups
 *******************
-Use this setting to add and remove Tenant Administrators. Only Tenant Administrators can use this setting and other settings under "Tenant" in Omnia Admin. A Tenant Administrator can also edit all the settings for all Business Profiles within the Tenant. 
+Use this setting to add and remove Tenant Administrators and separate administrators for Shared Links and Announcements, if needed. Only Tenant Administrators can use this setting and other settings under "Tenant" in Omnia Admin. A Tenant Administrator can also edit all the settings for all Business Profiles within the Tenant. 
 
 Single users, Security groups and Microsoft 365 groups can be added here (In Omnia on-prem, Microsoft 365 groups can't be used). 
 
@@ -14,7 +15,7 @@ External users that has been invited in the Azure AD can be added here as well. 
 
 .. image:: tenant-permissions-new3.png
 
-To delete an administrator here, just click the x. To add an administrator, add the name the same way as in other name fields.
+To delete an administrator, just click the x. To add an administrator, add the name the same way as in other name fields.
 
 **Note!** There must always be at least one Tenant Administrator. If there is only one, that administrator can not be removed until an additional one has been added.
 
