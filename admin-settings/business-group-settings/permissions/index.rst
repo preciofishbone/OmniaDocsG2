@@ -6,7 +6,7 @@ Here you can set the following:
 
 Users and groups
 ******************
-Permissions can be set for the following. 
+Here you can add or remove Business Profile Administrators, and set separate administrators for Announcements, Shared Links and Workspace, if needed. You must be Business Profile Administrator or Tenant Administrator to edit the permissions. 
 
 .. image:: permissions-business-profile-new2.png
 
