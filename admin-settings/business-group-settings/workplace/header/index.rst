@@ -1,8 +1,6 @@
 Header for Workspace
 ==========================
 
-In Omnia 6.5 and later, it is here you will find the settings for the Business Profile's header.
-
 Here you can edit header settings for the Business Profile's Workspace.
 
 .. image:: workplace-header-new.png
