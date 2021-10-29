@@ -10,9 +10,9 @@ Creating a Community
 Do the following to create a community:
 
 1. Go to Omnia Admin.
-2. Open "Communities" in the Business Profile.
+2. Open "Communities" in the Business Profile settings.
 
-.. image:: communities-bp.png
+.. image:: communities-bp-new.png
 
 3. Create at least one template, as describe here: :doc:`Templates for Communities </admin-settings/business-group-settings/communities/communities-65/templates/index>`. 
 4. Create a Community Site according to the description on this page: :doc:`Communities Apps </admin-settings/business-group-settings/communities/communities-65/apps/index>`
