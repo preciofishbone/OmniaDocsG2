@@ -34,11 +34,13 @@ The following settings are available on this tab:
 + **Title**: If a title should be shown for the block, add it in this field. If variations exists for the page, it looks like in the image above. Titles in other languages are set in the variations. If there is  no variations you can set the title in any or all the languages active in the tenant. 
 + **Use Yammer Comments if available**: This option is available in Omnia 6.7 and later.
 + **Enable Rich Text**: If you enable Rich Text, some basic formatting will be availble for users.          
-+ **Enable mention**: If it should be possible to use mentions in comments on this page or in this page type, select this option. Here's an example of a mention:
++ **Enable mention**: If it should be possible to use mentions in comments on this page or in this page type, select this option. See below for an example.
 + **Allow Likes**: If it should be able to like a comment, select this option.
 + **Allow Share**: If it should be possible to share a comment, select this option - meaning the possibility to send a comment to another user by e-mail.
 + **Sorting**: Here you choose how to sort the comments; older first or newer first.
 + **Paging size**: Add a number (1-99) to set the number of items (comments) that should be displayed on each “page” of the list.
+
+Here's an example of a mention:
 
 .. image:: comment-mention-new.png
 
