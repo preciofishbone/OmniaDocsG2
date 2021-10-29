@@ -1,4 +1,4 @@
-Permissions
+Permissions for a Business Profile
 ===========================================
 Here you can set the following:
 
