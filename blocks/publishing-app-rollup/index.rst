@@ -1,7 +1,7 @@
 Publishing App Rollup block
 ==============================
 
-This block is available in Omnia 6.5 and later.
+The purpose of this block is toi list all, or some of the Publishing Apps available in the Business Profile.
 
 Settings
 ***********
