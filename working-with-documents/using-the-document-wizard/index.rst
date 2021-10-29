@@ -61,6 +61,8 @@ The document is now created in the chosen location and you can work on it the us
 
 **Note!** If you come across metadata fields (placeholders) visible in the document, displayed within double brackets, they should not be used in the editing process. Information will be added to these fields when the document is published.
 
+**Note!** If a term that has been translated in the term store will be shown in the list, it's shown in the user's language. When Properties are displayed for a document, in that window, the term is shown in the document's language.
+
 Creating a Normal Document
 ****************************
 An author of controlled documents can always create normal documents as well in the Controlled Documents library he or she has access to, if templates for normal documents are set up in Omnia Admin. To make it possible for other users to create normal documents using the Document Wizard, some kind of access to the wizard has to be set up. For example, an icon can be visible in the Action Menu as shown above.
