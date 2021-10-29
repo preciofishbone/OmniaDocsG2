@@ -187,7 +187,7 @@ The following is shown:
 + **Title**: Add a title for the list here (not shown to users).
 + **Icon Type/Icon**: Add an icon if you with, for this list (not shown for users).
 
-Different fields are shown depending on Action Type selected. See this page for detailed information about those fields: :doc:`Action Button in omnia 6.5 </blocks/button-link/action-button-65/index>`
+Different fields are shown depending on Action Type selected. See this page for detailed information about those fields: :doc:`Action Button block </blocks/button-link/index>`
 
 Target an Action Menu object
 -------------------------------
