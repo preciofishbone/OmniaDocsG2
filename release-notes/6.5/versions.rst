@@ -9,7 +9,10 @@ New Features
 - Default document properties are now applied when uploading and moving documents into ODM (#129968).
 - Better error handling in ODM when a user has been deleted.
 - Added settings for permissions to Publishing App Templates. (#133244).
-- Its now possible to target variations to any language (regardless of the display languages)
+- Its now possible to target variations to any language (regardless of the display languages).
+- The ODM Reivew Reminder email now contains a link to the review task (#120327, #128346, #131886).
+- Statistics is now shown for Workspace home.
+- Added token CurrentUser.Email for user values in the Document Rollup. (#132651, #131931).
 
 
 Fixes
@@ -40,7 +43,8 @@ Fixes
 - Fixed an issue that caused the Excel file for reports to not generate correctly (#131376, #132975, #133433).
 - The page rollup now renders better in a very narrow column (#132738).
 - ODM now supports files with a # character in the filename.
-- Fixed an issue that caused the node order of the mega menu to be incorrect (#132214, #133119)
+- Fixed an issue that caused the node order of the mega menu to be incorrect (#132214, #133119).
+- Fixed an issue that caused limited read access to be lost on publish in ODM. (#132415).
 
 
 
