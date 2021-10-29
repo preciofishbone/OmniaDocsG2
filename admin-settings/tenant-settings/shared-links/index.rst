@@ -92,10 +92,7 @@ Permissions for Shared Links
 *****************************
 Shared Links has a seperate Permissions setting, so any user can be set as a Shared Links administrator. This includes external users that has been invited in the Azure AD, meaning they can log in with their own Microsoft 365 account. 
 
-In Omnia 6.7 and later, all permissions for the Tenant is set in one place, see: :doc:`Permissions for the Tenant </admin-settings/tenant-settings-settings/permissions/index>`
+In Omnia 6.7 and later, all permissions for the Tenant is set in one place, see: :doc:`Permissions for the Tenant </admin-settings/tenant-settings/permissions/index>`
 
 Note that Tenant Administrators always can work with Shared Links.
-
-
-
 
