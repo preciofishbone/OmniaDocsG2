@@ -17,8 +17,7 @@ Use the icons this way:
 + The pen to edit the settings (same as when creating a new, see below).
 + The dust bin to delete a Publishing App.
 
-**Note!** To be able to delete a Publishing App, you must be App Administrator for the Publishing App. Also note that deleting an app from this list does not delete 
-the connected Sharepoint site.
+**Note!** To be able to delete a Publishing App, you must be App Administrator for that Publishing App. 
 
 Edit App Route
 *****************
