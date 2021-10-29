@@ -15,7 +15,10 @@ Use the icons this way:
 + The key to add or remove App Administrators.
 + The boxes to activate, deactivate or upgrade features.
 + The pen to edit the settings (same as when creating a new, see below).
-+ The dust bin to delete a Publishing App that has been created by mistake.
++ The dust bin to delete a Community App.
+
+**Note!** To be able to delete a Community App, you must be App Administrator for the Community. Also note that deleting a Community from this list does not delete 
+the connected Sharepoint site.
 
 Edit App Route
 *****************
