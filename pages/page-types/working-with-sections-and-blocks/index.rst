@@ -27,7 +27,7 @@ For a description of available settings for the section, see: :doc:`Settings for
 
 If needed, you can even go a step further and create a new section in one of the new columns.
 
-In Omnia 6.5 and later, a new layout for sections is available: Stepper. This layout is useful when organizing information in steps. It's also used with the new Forms functionality. See below for more information.
+**A tip!** The Stepper section is useful when organizing information in steps. It's also used with the new Forms functionality. See below for more information.
 
 Delete a section
 *****************
