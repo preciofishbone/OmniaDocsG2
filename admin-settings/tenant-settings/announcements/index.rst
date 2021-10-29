@@ -127,6 +127,6 @@ Set the following:
 
 Permissions for Announcements
 ********************************
-**Note!** In Omnia 6.7 and later, there's not a separate permissions settings for announcements. To be able to work with tenant announcements, users have to be Tenant Administrators.
+In Omnia 6.7 and later, all permissions for the Tenant is set in one place, see: :doc:`Permissions for a Business Profile </admin-settings/tenant-settings-settings/permissions/index>`
 
 
