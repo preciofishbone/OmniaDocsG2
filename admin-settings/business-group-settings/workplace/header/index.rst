@@ -21,7 +21,7 @@ The following can be set here:
 
 + **Inherit from tenant**: I you would like to inherit the app launcher settings from the tenant, instead of using specific settings here, select this option.
 
-If you choose to not inherit the app launcher settings, add settings using the options. You use them the same way as the App Lancher settings for the tenant. See the heading "App Launcher" on this page: :doc:`Header settings in Omnia 6.5 </admin-settings/tenant-settings/settings/header/header-65/index>`
+If you choose to not inherit the app launcher settings, add settings using the options. You use them the same way as the App Lancher settings for the tenant. See the heading "App Launcher" on this page: :doc:`Header settings for the Tenant </admin-settings/tenant-settings/settings/header/header-65/index>`
 
 Logo
 ******
