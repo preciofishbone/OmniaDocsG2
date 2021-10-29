@@ -100,7 +100,7 @@ The following lists all available display settings, shown in different order for
 + **Slider Size**: Select the size of the slider here: Small, Medium, Large or Extra large. Available for "Dynamic Roller" only.
 + **Sort by**: Choose what the list should be sorted by, and then select ascending or descending.
 + **Summary**: Select the property that contains the page summary for the item to display.
-+ **Term properties**: New option in Omnia 6.5 and later. Can be used to show properties in Card view. Click "Add" and select a property. Continue the same way for additional properties.
++ **Term properties**: Can be used to show properties in Card view. Click "Add" and select a property. Continue the same way for additional properties.
 + **Title**: If a title should be shown for the block, add it in this field. If no variation exists for the page, you can set the title in the languages active in the tenant. If variations exists, only one title can be set. In that case, titles in other languages are set in the variations.
 
 **Note!** For "List View" and "Event List", you also have to add at least one column, for the display to work. Here's an example with three columns added for List View:
