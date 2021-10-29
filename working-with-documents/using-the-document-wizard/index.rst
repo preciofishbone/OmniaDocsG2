@@ -42,6 +42,8 @@ The Document Types are set up in Omnia Admin. The first list you will see here i
 
 .. image:: new-controlled-5-new4.png
 
+**Note!** A term that has been translated in the term store will be shown in the document's language here.
+
 9. Choose where to save the new document. 
 
 .. image:: new-controlled-6-new3.png
