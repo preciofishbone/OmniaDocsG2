@@ -7,3 +7,5 @@ Business Profile Announcements can also be displayed through the Announcements b
 
 The options for creating and editing Announcements are identical to the options for Tenant Announcements, see this page for more information on how to create and edit Announcements: :doc:`Tenant Announcements </admin-settings/tenant-settings/announcements/index>`
 
+All permissions within a Business Profile is set in one place, se: :doc:`Permissions for a Business Profile </admin-settings/business-group-settings/permissions/index>`
+
