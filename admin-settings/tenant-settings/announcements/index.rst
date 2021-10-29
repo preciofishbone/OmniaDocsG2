@@ -127,6 +127,6 @@ Set the following:
 
 Permissions for Announcements
 ********************************
-In Omnia 6.7 and later, all permissions for the Tenant is set in one place, see: :doc:`Permissions for the Tenant </admin-settings/tenant-settings-settings/permissions/index>`
+In Omnia 6.7 and later, all permissions for the Tenant is set in one place, see: :doc:`Permissions for the Tenant </admin-settings/tenant-settings/permissions/index>`
 
 
