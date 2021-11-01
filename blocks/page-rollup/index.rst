@@ -121,17 +121,17 @@ Here's a simple example of a Card view used for navigation purposes:
 
 .. image:: card-view-example-pages.png
 
-In Omnia 6.5, card view can now display sub pages if the scope "Navigation path" is used.
+Card view can now display sub pages if the scope "Navigation path" is used. Here's an example:
 
 .. image:: card-view-example-sub-pages.png
 
-In Omnia 6.5, the new Navigation View can be used to display a mega menu style navigation. Here's an example:
-
-.. image:: navigation-view-mega-example.png
-
-A third thing that is new in Omnia 6.5: The card view for Page Rollup now supports a dynamic number of properties that can be displayed in the card. Here's an example:
+The card view also supports a dynamic number of properties that can be displayed in the card. Here's an example:
 
 .. image:: pagerollup-cardview-terms.png
+
+The Navigation View can be used to display a mega menu style navigation. Here's an example of Page Rollup used for this purpose:
+
+.. image:: navigation-view-mega-example.png
 
 Style settings
 ----------------
