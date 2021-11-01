@@ -70,7 +70,7 @@ These settings are available for each category:
 
 .. image:: search-block-settings-categories-advanced-settings.png 
 
-Also note that an important difference in Omnia 6.5 and later is that search categories (tabs) that do not generate any result are hidden in Advanced Search.
+Also note that search categories (tabs) that do not generate any result are hidden in Advanced Search.
 
 Style
 --------
