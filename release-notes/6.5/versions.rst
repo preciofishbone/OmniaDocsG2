@@ -50,7 +50,7 @@ Fixes
 
 6.5.6
 ========================================
-(Omnia 6.5.5 / Workplace 6.5.5 / WCM 6.5.6 / MS 6.5.6)
+(Omnia 6.5.5 / Workplace 6.5.6 / WCM 6.5.6 / MS 6.5.6)
 
 - Fixed an issue that caused time to be wrong when events were put for approval.
 - Fixed an issue in event management that would sometimes prevent outlook events from being created correctly.
@@ -58,6 +58,10 @@ Fixes
 - Default document types now work correctly in the create document wizard (#133016, #133019).
 - Fixed an issue that would sometimes prevent relating documents (#132116).
 - Fixed an issue that would cause the User Profile Completion dialog to show up when it should not.
+- Corrected an issue with targeting of navigation nodes in SPFx.
+- Corrected an issue that would sometimes cause permissions not to be saved correctly on Shared Links and Important Announcements. (#133469)
+- Updated the logic on how links are provisioned for the default content app links. (#133165)
+
 
 6.5.5
 ========================================
