@@ -145,15 +145,13 @@ Filter
 -------
 If users should be able to filter the list and/or search here, use these options to add filters. 
 
-.. image:: page-rollup-filter-new.png
-
-See this page for information on how to use these options: :doc:`Filter UI </blocks/general-block-settings/filters/index>`
-
-In Omnia 6.5 and later, there is an additional option, specific for Page Rollup:
+The following options are specific for the Page Rollup block:
 
 .. image:: page-rollup-filter-65.png
 
 + **Save filter state**: If you select this option the filter keeps it's state in the page url as long as the page is active, and will be activated when the user goes back to the page, by using the browser's Back button. The url can also be copied and for example be used to prepopulate the page rollup.
+
+The rest of the options are the same as other blocks. See this page for information on how to use these options: :doc:`Filter UI </blocks/general-block-settings/filters/index>`
 
 Social Period
 --------------
