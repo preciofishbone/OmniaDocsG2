@@ -1,7 +1,7 @@
 Tokens in Omnia e-mails
 =========================
 
-Here you will find a list of all Omnia emails and the tokens supported in each e-mail.
+Here you will find a list of all Omnia e-mails and the tokens supported in each e-mail.
 
 (This documentation is just started, more will be added soon).
 
@@ -20,8 +20,19 @@ In e-mails for sign-off requests the following token is supported in Subject:
 In the body of the e-mails, the following tokens are supported:
 
 + {{requestreceiver}}
-+ {{requestfrom}}
++ {{request{{userprofileproperty}}
 + {{requestdescription}}
+
+User Profile Completion
+-------------------------
+In the User Profile Completion feedback e-mails, the following token is supported in Subject:
+
++ {{userprofileproperty}}
+
+In the body of the e-mails, this token is supported:
+
++ {{feedback-email}}
+
 
 
 
