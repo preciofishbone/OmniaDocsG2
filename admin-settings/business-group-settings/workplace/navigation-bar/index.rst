@@ -46,7 +46,7 @@ The following settings are available here, for the default Action Menu and for t
 
 + **Show icon**: For the top action menu, showing an icon is default. If you add other action menus, you can choose to show icons or not.
 + **Show text**: For the top action menu, showing text is default. If you add other action menus, you can choose to show texts or not.
-+ **Item Limit**: (A description will be added soon).
++ **Item Limit**: Set the number of items that should be listed before a "Show more" link is shown.
 
 See below for information on how to add Action Menu objects.
 
