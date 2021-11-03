@@ -1,7 +1,7 @@
 Tokens in Omnia e-mails
 =========================
 
-Here you will find a list of all Omnia emails and the tokens that can be used in each e-mail.
+Here you will find a list of all Omnia emails and the tokens supported in each e-mail.
 
 (This documentation is just started, more will be added soon).
 
