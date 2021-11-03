@@ -1,4 +1,4 @@
-Tokens in Omnia emails
+Tokens in Omnia e-mails
 =========================
 
 Here you will find a list of all Omnia emails and the tokens that can be used in each e-mail.
