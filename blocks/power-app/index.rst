@@ -7,7 +7,3 @@ The following settings are available:
 
 .. image:: power-app-settings.png
 
-
-
-
-
