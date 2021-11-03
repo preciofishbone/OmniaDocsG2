@@ -36,6 +36,7 @@ Blocks
    page-rollup/index
    variation-selector/index
    people-rollup/index
+   power-app/index
    process-blocks/index
    publishing-app-rollup/index
    user-profile-completion/index
