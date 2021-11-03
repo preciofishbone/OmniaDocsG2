@@ -175,7 +175,7 @@ Under **General**, the following is available:
 + **Background**: To select a background image, click ADD IMAGE and use the Media Picker to select image.
 + **Editable in Write Mode**: if it should be possibe to edit background image in Write mode, select this option. If not, it's only possible in Design mode.
 + **Page Image Property**: (A description will be added soon).
-+ **Crop Ratios**: (A description will be added soon). To add a crop ratio, select it in the list and click the plus. Use the right-most icon to decide the order. To delete a ctop ratio, click the dust bin.
++ **Crop Ratios**: To add a crop ratio, select it in the list and click the plus. Use the right-most icon to decide the order. To delete a ctop ratio, click the dust bin.
 
 Effects
 --------
