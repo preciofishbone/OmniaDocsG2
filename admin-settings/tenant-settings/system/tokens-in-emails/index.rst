@@ -1,9 +1,9 @@
 Tokens in Omnia e-mails
 =========================
 
-Here you will find a list of all Omnia e-mails and the tokens supported in each e-mail.
+Here you will find a list of all Omnia e-mails and the tokens supported in each e-mail, if any.
 
-(This documentation is just started, more will be added soon).
+(This documentation ongoing, more will be added soon).
 
 Announcements e-mails
 -------------------------
@@ -193,10 +193,4 @@ The following tokens are supported in Body:
 + {{SiteTitle}}
 + {{PublishDate}}
 + {{ReviewDate}}
-
-
-
-
-
-
 
