@@ -37,11 +37,11 @@ Document Management - Controlled Documents
 --------------------------------------------
 The following tokens are supported in e-mails regarding Controlled Documents:
 
-In the Review Task e-mails, the following token is supported in Subject:
+In the (Document) **Review Task e-mails**, the following token is supported in Subject:
 
 + {{DocumentTitle}}
 
-In the body for **Review Task e-mails**, the following tokens are supported in Body:
+In the body, the following tokens are supported:
 
 + {{Reviewer}}
 + {{Author}}
@@ -53,7 +53,7 @@ In the body for **Review Task e-mails**, the following tokens are supported in B
 + {{Message}}
 + {{*}}
 
-In the **Review Reminder e-mail**, this token is supported in Subject:
+In the (Document) **Review Reminder e-mail**, this token is supported in Subject:
 
 + {{DocumentTitle}}
 
@@ -84,7 +84,7 @@ If Read Receipt is selected, the body of this e-mail supports these tokens:
 + {{DocumentTitle}}
 + {{ReadReceiptUrl}}
 
-In the **Send for Approval** e-mails, which is both the e-mails sent to the approver, and the e-mails sent to the author, this token is supported in Subject:
+In the (Document) **Send for Approval** e-mails, which is both the e-mails sent to the approver, and the e-mails sent to the author, this token is supported in Subject:
 
 + {{Name}}
 
@@ -132,7 +132,7 @@ In the **Review Workflow Tasks e-mail**, no token is supported in the e-mail Tit
 + {{DocumentTitle}}
 
 E-mails for Processes
-----------------------
+------------------------
 In the (Process) **Feedback e-mail**, these two tokens are supported in Subject:
 
 + {{ProcessTitle}}
