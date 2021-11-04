@@ -20,7 +20,7 @@ In e-mails for sign-off requests the following token is supported in Subject:
 In the body of the e-mails, the following tokens are supported:
 
 + {{requestreceiver}}
-+ {{request{{userprofileproperty}}
++ {{requestfrom}}
 + {{requestdescription}}
 
 User Profile Completion
@@ -33,6 +33,25 @@ In the body of the e-mails, this token is supported:
 
 + {{feedback-email}}
 
+Document Management - Controlled Documents
+--------------------------------------------
+The following tokens are supported in e-mails regarding Controlled Documents:
+
+In the Review Task e-mails, the following token is supported in Subject:
+
++ {{DocumentTitle}}
+
+In the body for Review Task e-mails, the following tokens are supported in Body:
+
++ {{Reviewer}}
++ {{Author}}
++ {{DueDate}}
++ {{DocumentUrl}}
++ {{DocumentTitle}}
++ {{TaskUrl}}
++ {{TaskTitle}}
++ {{Message}}
++ {{*}}
 
 
 
