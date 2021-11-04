@@ -5,18 +5,19 @@
 New Features 
 **************************
 
+- A reworked mega menu block, now with flexible querying and styling.
 - New structure of settings in Workplace menus. 
 - Default document properties are now applied when uploading and moving documents into ODM (#129968).
 - Better error handling in ODM when a user has been deleted.
 - Added settings for permissions to Publishing App Templates. (#133244).
 - Its now possible to target variations to any language (regardless of the display languages).
-- The ODM Reivew Reminder email now contains a link to the review task (#120327, #128346, #131886).
+- The ODM Review Reminder email now contains a link to the review task (#120327, #128346, #131886).
 - Statistics is now shown for Workspace home.
-- Added token CurrentUser.Email for user values in the Document Rollup. (#132651, #131931).
 - Default permissions can now be specified in the Publishing and Community App templates.
 - Document rollup now works with files that contain the hash (#) character.
 - The document rollup now supports new tokens, CurrentUser.Id as well as CurrentUser.Email (#132651, #131931).
-- 
+- Improved performance in the page picker when having many pages (#132910).
+- There is now an explicit color setting for not viewed items in the notification panel. 
 
 
 Fixes
@@ -54,8 +55,10 @@ Fixes
 - Azure AD mappings are now shown instantly in the list without reloading the page (#133046).
 - Publishing apps with status "Completed with warning" are now mappable in Event Management settings.
 - Fixed an issue with displaying images in OPM. (#126985).
-- 
-
+- Stability fixes to the Process Management publishing flow.
+- Stability fixes to the page rollup.
+- The icon position 'top' on a tab now works as expected (#132761).
+- Fixed an issue that would cause page content to not sync correctly to SharePoint when an inline image was used.
 
 
 6.5.8
