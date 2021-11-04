@@ -1,7 +1,7 @@
 Setup Yammer in Omnia
 =======================
 
-Follow these steps to setup in Omnia.
+Follow these steps to setup Yammer in Omnia Online.
 
 (We are still working this guide - as is quite obvious - it will be edited soon).
 
