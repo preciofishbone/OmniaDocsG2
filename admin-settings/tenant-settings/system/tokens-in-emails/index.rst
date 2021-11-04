@@ -194,3 +194,10 @@ The following tokens are supported in Body:
 + {{PublishDate}}
 + {{ReviewDate}}
 
+App aproval e-mails
+----------------------
+In the App approval e-mails (for Communities, Publishing and Teamwork), the following tokens are supported.
+
+In the **App Request Approve e-mail**, no token is supported in Subject. The following token is supported in Body:
+
++ {{pendingRequestUrl}}
