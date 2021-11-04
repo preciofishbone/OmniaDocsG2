@@ -12,5 +12,6 @@ Below you will setup instructions for different parts of Omnia.
    processmanagement/index
    eventmanagement/index
    setup-omnia-teams/index
+   setup-yammer-in-omnia/index
 
 
