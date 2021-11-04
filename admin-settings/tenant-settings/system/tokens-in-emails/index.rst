@@ -96,7 +96,11 @@ The folllowing tokens are supported in Body for these e-mails:
 + {{Author}}
 + {{Name}}
 + {{DueDate}}
-
++ {{DocumentLink}}
++ {{TaskTitle}}
++ {{StartDate}}
++ {{Message}}
++ {{ApproverComment}}
 
 
 
