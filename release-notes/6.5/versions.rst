@@ -48,6 +48,14 @@ Fixes
 
 
 
+6.5.8
+========================================
+(Omnia 6.5.5 / Workplace 6.5.6 / WCM 6.5.6 / MS 6.5.6)
+
+- Fixed an issue that caused likes and comments to show an incorrect count on the dialog view in page rollup (#133275).
+- Fixed an issue that caused the RTF editor to behave incorrectly in Firefox (#133202).
+- Corrected email notification logic for translation authors (#132830).
+
 6.5.6
 ========================================
 (Omnia 6.5.5 / Workplace 6.5.6 / WCM 6.5.6 / MS 6.5.6)
