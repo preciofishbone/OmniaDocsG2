@@ -13,6 +13,10 @@ New Features
 - The ODM Reivew Reminder email now contains a link to the review task (#120327, #128346, #131886).
 - Statistics is now shown for Workspace home.
 - Added token CurrentUser.Email for user values in the Document Rollup. (#132651, #131931).
+- Default permissions can now be specified in the Publishing and Community App templates.
+- Document rollup now works with files that contain the hash (#) character.
+- The document rollup now supports new tokens, CurrentUser.Id as well as CurrentUser.Email (#132651, #131931).
+- 
 
 
 Fixes
@@ -45,6 +49,12 @@ Fixes
 - ODM now supports files with a # character in the filename.
 - Fixed an issue that caused the node order of the mega menu to be incorrect (#132214, #133119).
 - Fixed an issue that caused limited read access to be lost on publish in ODM. (#132415).
+- Community activities now show correctly (#133558).
+- Fixed an issue that would prevent a user from searching on the same term twice in a row.
+- Azure AD mappings are now shown instantly in the list without reloading the page (#133046).
+- Publishing apps with status "Completed with warning" are now mappable in Event Management settings.
+- Fixed an issue with displaying images in OPM. (#126985).
+- 
 
 
 
