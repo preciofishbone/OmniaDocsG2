@@ -198,6 +198,38 @@ App aproval e-mails
 ----------------------
 In the App approval e-mails (for Communities, Publishing and Teamwork), the following tokens are supported.
 
-In the **App Request Approve e-mail**, no token is supported in Subject. The following token is supported in Body:
+In the **App Request Approve e-mail** - sent to the approver, no token is supported in Subject. The following token is supported in Body:
 
 + {{pendingRequestUrl}}
+
+In the **App Provisioning Complete e-mail** - sent to the requester, no token is supported in Subject. The following tokens are supported in Body:
+
++ {{userDisplayName}}
++ {{appUrl}}
++ {{title}}
+
+In the **AppRequestRejectedToRequester e-mail** - sent when creation of the community, publishing app or teamwork is rejected, no tokens are supported in Subject. The following tokens are supported in Body:
+
++ {{UserDisplayName1}}
++ {{rejectedComment}}
++ {{UserDisplayName2}}
++ {{rejectedTime}}
+
+E-mails for Events
+-------------------
+In the **AddParticipant e-mail**, this token is supported in Subject:
+
++ {{eventName}}",
+
+and the following tokens supporte in Body:
+
++ {{eventName}}
++ {{startDate}}
+
+Various e-mails connected to Action Buttons
+---------------------------------------------
+A number of short e-mails can be sent after Action Butotn Actions. The token {{title}} is supported in Subject in some of these e-mails:
+
+AddComment, BestReplyComment, SubmitFeedback, PublishingApproval (six different e-mails - Approve, Reject, CancelApproval, ScheduleApprove, ScheduleReject, CancelScheduleApproval).
+
+
