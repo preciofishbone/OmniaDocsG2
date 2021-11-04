@@ -102,6 +102,98 @@ The folllowing tokens are supported in Body for these e-mails:
 + {{Message}}
 + {{ApproverComment}}
 
+In the (Document) **Feedback e-mail**, these tokens are supported in the e-mail Titel:
+
++ {{DocumentName}}
++ {{DocumentId}}
+
+In Body for that e-mail, the following tokens are supported:
+
++ {{Sender}}
++ {{Feedback}}
++ {{DocumentLink}}
+
+In the **Related Document e-mails**, no token is supported in Subject. The following tokens are supported in Body:
+
++ {{Recipient}}
++ {{RelatedDocument}}
++ {{Publisher}}
++ {{ControlledDocuments}}
+
+In the **Retention Policy e-mail**, no token are supported in E-mail Title. The following tokens are supported in Body:
+
++ {{RetentionManager}}
++ {{RetentionDocuments}}
+
+In the **Review Workflow Tasks e-mail**, no token is supported in the e-mail Title. The following tokens are supported in Description:
+
++ {{Author}}
++ {{DocumentUrl}}
++ {{DocumentTitle}}
+
+E-mails for Processes
+----------------------
+In the (Process) **Feedback e-mail**, these two tokens are supported in Subject:
+
++ {{ProcessTitle}}
++ {{ProcessStepId}}
+
+In the Body for this e-mail, these tokens are supported:
+
++ {{Sender}}
++ {{Feedback}}
+
+In the (Process) **Send for Approval e-mail**, this token is supported in Subject:
+
++ {{ProcessTitle}}
+
+And these tokens are supported in Body:
+
++ {{ApproverName}}
++ {{AuthorName}}
++ {{ProcessTitle}}
++ {{DueDate}}
++ {{ProcessLink}}
++ {{TaskLink}}
++ {{TaskTitle}}
++ {{StartDate}}
++ {{Message}}
+
+In the **Cancel Approval e-mail**, this token is supported in Subject:
+
++ {{ProcessTitle}}
+
+And these two tokens are supported in Body:
+
++ {{ApproverName}}
++ {{ProcessTitle}}
+
+In the **Complete Approval e-mails** - used for both approval message and rejected message, this token is supported in Subject:
+
++ {{ProcessTitle}}
+
+The following tokens are supported in Body:
+
++ {{AuthorName}}
++ {{ProcessTitle}}
++ {{ApproverName}} 
++ {{ApproverComment}}
++ {{AuthorName}}
+
+In the (Process) **Review Reminder email**, this token is supported in Subject:
+
++ {{ProcessTitle}}
+
+The following tokens are supported in Body:
+
++ {{Recipient}}
++ {{ProcessLink}}
++ {{ProcessTitle}}
++ {{SiteUrl}}
++ {{SiteTitle}}
++ {{PublishDate}}
++ {{ReviewDate}}
+
 
 
 
