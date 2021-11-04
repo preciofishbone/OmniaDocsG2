@@ -8,6 +8,8 @@ Users and groups
 ******************
 Here you can add or remove Business Profile Administrators, and set separate administrators for Announcements, Shared Links and Workspace, if needed. You must be Business Profile Administrator or Tenant Administrator to edit the permissions. 
 
+A Business Profile Administrator automatically has permissions for Workspace, Shared Links and Announcements and therefore  does not need to be added there. 
+
 .. image:: permissions-business-profile-new2.png
 
 Note that every Business Profile has it's own Permissions list. Besides that, a Tenant Administrator can always edit settings for all Business Profiles.
