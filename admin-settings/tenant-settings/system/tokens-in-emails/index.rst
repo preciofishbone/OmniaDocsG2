@@ -41,7 +41,7 @@ In the Review Task e-mails, the following token is supported in Subject:
 
 + {{DocumentTitle}}
 
-In the body for Review Task e-mails, the following tokens are supported in Body:
+In the body for **Review Task e-mails**, the following tokens are supported in Body:
 
 + {{Reviewer}}
 + {{Author}}
@@ -52,6 +52,54 @@ In the body for Review Task e-mails, the following tokens are supported in Body:
 + {{TaskTitle}}
 + {{Message}}
 + {{*}}
+
+In the **Review Reminder e-mail**, this token is supported in Subject:
+
++ {{DocumentTitle}}
+
+and these tokens are supported in Body:
+
++ {{Recipient}}
++ {{DocumentUrl}}
++ {{DocumentTitle}}
++ {{SiteUrl}}
++ {{SiteTitle}}
++ {{PublishDate}}
++ {{ReviewDate}}
+
+In the **Publishing Notification e-mail**, this token is supported in e-mail Title:
+
++ {{DocumentTitle}}
+
+In the body of that e-mail, the following tokens are supported:
+
++ {{Recipient}}
++ {{DocumentUrl}}
++ {{DocumentTitle}}
+
+If Read Receipt is selected, the body of this e-mail supports these tokens:
+
++ {{Recipient}}
++ {{DocumentUrl}}
++ {{DocumentTitle}}
++ {{ReadReceiptUrl}}
+
+In the **Send for Approval** e-mails, which is both the e-mails sent to the approver, and the e-mails sent to the author, this token is supported in Subject:
+
++ {{Name}}
+
+(Name is Document Name).
+
+The folllowing tokens are supported in Body for these e-mails:
+
++ {{Approver}}
++ {{Author}}
++ {{Name}}
++ {{DueDate}}
+
+
+
+
 
 
 
