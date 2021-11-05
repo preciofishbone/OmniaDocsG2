@@ -287,13 +287,13 @@ In Subject for these e-mails (NewPageSubject and NewVersionSubject), this token 
 
 + {{title}}
 
-In the body called **Author**, the folloeing token is supported:
+In the body called **Author**, the following token is supported:
 
 + {{name}}
 
 E-mail for invitation of co-author
 -----------------------------------
-In the e-mail **InvitationOfCoAuthors**, not tokens are supported in Subject. These three tokens are supported in Body:
+In the e-mail **InvitationOfCoAuthors**, no tokens are supported in Subject. These three tokens are supported in Body:
 
 + {{pageUrl}}
 + {{title}}
