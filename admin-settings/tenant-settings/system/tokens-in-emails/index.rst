@@ -241,7 +241,7 @@ The following tokens are supported in Body:
 + {{PublishDate}}
 + {{ReviewDate}}
 
-App aproval e-mails
+App approval e-mails
 ----------------------
 In the App approval e-mails (for Communities, Publishing and Teamwork), the following tokens are supported:
 
