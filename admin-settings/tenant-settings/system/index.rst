@@ -17,7 +17,7 @@ Select section for more information:
    error-information/index
    extensions/index
    localization/index
-      /admin-settings/tenant-settings/system/tokens-in-emails/index
+      admin-settings/tenant-settings/system/tokens-in-emails/index
    queue-logs/index
    spfx-instruction/index
    tenant-contact/index
