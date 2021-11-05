@@ -5,9 +5,11 @@ Here you will find a list of Omnia e-mails that contain tokens, and the tokens s
 
 (This documentation ongoing, more will be added soon).
 
+**Note!** In some files Subject is called "EmailTitle" and Body can be called "Decsription". In this document Subject and Body are always used.
+
 Announcements e-mails
 -------------------------
-There are three different e-mails that can be sent, regarding comments to announcements. In all three e-mails, just one token is supported:
+There are three different e-mails that can be sent, regarding comments to announcements. In all three e-mails, just one token is supported in Subject:
 
 + {{title}}
 
@@ -37,11 +39,18 @@ Document Management - Controlled Documents
 --------------------------------------------
 The following tokens are supported in e-mails regarding Controlled Documents:
 
-In the (Document) **Review Task e-mails**, the following token is supported in Subject:
+**Review Task e-mails**:
+In these e-mails for Document Management, the following token is supported in Subject:
+
+In **ReviewerEmailSubjectTemplate** and **CancelSubjectTemplate**:
 
 + {{DocumentTitle}}
 
+(In ReviewEndNotifyEmailSubjectTemplate no token is supported).
+
 In the body, the following tokens are supported:
+
+In **ReviewerEmailBodyTemplate**:
 
 + {{Reviewer}}
 + {{Author}}
@@ -51,9 +60,24 @@ In the body, the following tokens are supported:
 + {{TaskUrl}}
 + {{TaskTitle}}
 + {{Message}}
+
+In **ReviewEndNotifyEmailBodyTemplate**:
+
++ {{Author}}
++ {{DocumentUrl}}
++ {{DocumentTitle}}
+
+In **CancelBodyTemplate**:
+
++ {{Reviewer}}
++ {{DocumentTitle}}
+
+In **ReviewerCompleteInfo** and **ReviewerIncompleteInfo**:
+
 + {{*}}
 
-In the (Document) **Review Reminder e-mail**, this token is supported in Subject:
+**Review Reminder e-mail**:
+In this e-mail for Document Management, this token is supported in Subject:
 
 + {{DocumentTitle}}
 
@@ -67,30 +91,32 @@ and these tokens are supported in Body:
 + {{PublishDate}}
 + {{ReviewDate}}
 
-In the **Publishing Notification e-mail**, this token is supported in e-mail Title:
+**Publishing Notification e-mail**:
+In this Document Management e-mail, this token is supported in Subject:
 
 + {{DocumentTitle}}
 
-In the body of that e-mail, the following tokens are supported:
+In the body of **EmailBodyTemplate**, the following tokens are supported:
 
 + {{Recipient}}
 + {{DocumentUrl}}
 + {{DocumentTitle}}
 
-If Read Receipt is selected, the body of this e-mail supports these tokens:
+If Read Receipt is selected **EmailBodyWithReadReceiptTemplate**, these tokens are supported:
 
 + {{Recipient}}
 + {{DocumentUrl}}
 + {{DocumentTitle}}
 + {{ReadReceiptUrl}}
 
-In the (Document) **Send for Approval** e-mails, which is both the e-mails sent to the approver, and the e-mails sent to the author, this token is supported in Subject:
+ **Send for Approval e-mails**:
+In these Document Managment e-mails, this token is supported in Subject (in **EmailSubjectTemplate**, **SubjectApproval**, **SubjectReject** and **CancelSubjectTemplate**):
 
 + {{Name}}
 
-(Name is Document Name).
-
 The folllowing tokens are supported in Body for these e-mails:
+
+In **EmailBodyTemplate**:
 
 + {{Approver}}
 + {{Author}}
@@ -98,11 +124,33 @@ The folllowing tokens are supported in Body for these e-mails:
 + {{DueDate}}
 + {{DocumentLink}}
 + {{TaskTitle}}
+
+In **ApprovalEditionCommentTemplate**:
+
++ {{Author}}
 + {{StartDate}}
 + {{Message}}
+
+In **BodyApproval** and in **BodyReject**:
+
++ {{Author}}
++ {{Name}}
++ {{Approver}}
 + {{ApproverComment}}
 
-In the (Document) **Feedback e-mail**, these tokens are supported in the e-mail Titel:
+In **BodyApprovalNoComment**:
+
++ {{Author}}
++ {{Name}}
++ {{Approver}}
+
+In **CancelBodyTemplate**: 
+
++ {{Approver}}
++ {{Name}}
+
+**Feedback e-mail**:
+In this Document Management e-mail, these tokens are supported in Subject:
 
 + {{DocumentName}}
 + {{DocumentId}}
@@ -113,19 +161,22 @@ In Body for that e-mail, the following tokens are supported:
 + {{Feedback}}
 + {{DocumentLink}}
 
-In the **Related Document e-mails**, no token is supported in Subject. The following tokens are supported in Body:
+**Related Document e-mails**:
+Here, no tokens are supported in Subject. The following tokens are supported in Body:
 
 + {{Recipient}}
 + {{RelatedDocument}}
 + {{Publisher}}
 + {{ControlledDocuments}}
 
-In the **Retention Policy e-mail**, no token are supported in E-mail Title. The following tokens are supported in Body:
+**Retention Policy e-mail**:
+In this e-mail, no tokens are supported in Subject. The following tokens are supported in Body:
 
 + {{RetentionManager}}
 + {{RetentionDocuments}}
 
-In the **Review Workflow Tasks e-mail**, no token is supported in the e-mail Title. The following tokens are supported in Description:
+**Review Workflow Tasks e-mail**:
+In these Document Management e-mails, no tokens are supported in Subject. The following tokens are supported in Body:
 
 + {{Author}}
 + {{DocumentUrl}}
