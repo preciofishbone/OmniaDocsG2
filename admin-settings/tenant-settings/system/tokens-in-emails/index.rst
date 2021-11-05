@@ -3,8 +3,6 @@ Tokens in Omnia e-mails
 
 Here you will find a list of Omnia e-mails that contain tokens, and the tokens supported in each e-mail. Also note that tokens must not be translated.
 
-(This documentation ongoing, more will be added soon).
-
 **Note!** In some files Subject is called "EmailTitle" and Body can be called "Decsription". In this document Subject and Body are always used.
 
 Announcements e-mails
