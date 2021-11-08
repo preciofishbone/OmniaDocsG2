@@ -3,7 +3,7 @@ Setup Yammer in Omnia
 
 Follow these steps to setup Yammer in Omnia Online.
 
-(**Work on this instruction is ongoing - it will further edited soon**).
+(**Work on this instruction is ongoing - it will be further edited soon**).
 
 **1**. The account used to create the Yammer App needs to be at least Verified Admin in Yammer (Network Admin level is not enough), or alternatively Global Administrator in Microsoft 365. We recommend using a non-personal service account for creating the Yammer App, as the app stops working if the account used to create the app is deleted.
 
