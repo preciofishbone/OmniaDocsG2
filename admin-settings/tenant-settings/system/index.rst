@@ -17,7 +17,6 @@ Select section for more information:
    error-information/index
    extensions/index
    localization/index
-   tokens-in-emails/index>`
    queue-logs/index
    spfx-instruction/index
    tenant-contact/index
