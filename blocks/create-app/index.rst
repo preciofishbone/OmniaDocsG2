@@ -16,7 +16,7 @@ Here's an example of templates available for Teamwork, with two templates select
 
 .. image:: create-app-block-settings-selected.png
 
-(Not all teamworks listed are availbale in Omnia on-prem.)
+(Not all teamwork types listed are available in Omnia on-prem.)
 
 WRITE is not applicable here. Layout contains general options. For more information, see: :doc:`General Block Settings </blocks/general-block-settings/index>`
 
