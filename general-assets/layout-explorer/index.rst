@@ -13,6 +13,7 @@ The following options are found in Layout Explorer. Select page for more informa
    page-layout/index
    layers/index
    layout-templates/index
+   clipboard-sections-blocks/index
 
 
 
