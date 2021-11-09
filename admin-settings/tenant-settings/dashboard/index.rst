@@ -34,7 +34,7 @@ For Underused Content, something like the following can be shown:
 
 What should be considered underused content is defined in the Metrics settings, see link above.
 
-Regarding Reach - a description will be added soon.
+Regarding Reach: How well do we reach our target audience based on what we expect. The metric can be configured to a specific scope of pages and have a target nr of users
 
 .. image:: admin-dashboard-reach.png
 
