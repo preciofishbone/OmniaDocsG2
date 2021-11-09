@@ -1,4 +1,4 @@
-6.6.0 - DRAFT
+6.6.0
 ========================================
 (Omnia 6.6.0 / Workplace 6.6.0 / WCM 6.6.0 / MS 6.6.0)
 
@@ -59,6 +59,10 @@ Fixes
 - Stability fixes to the page rollup.
 - The icon position 'top' on a tab now works as expected (#132761).
 - Fixed an issue that would cause page content to not sync correctly to SharePoint when an inline image was used.
+- Follow actions are now longer shown when using incompatible providers (#129083).
+- Corrected an issue with SharePoint sync related to inline images (#133456).
+- When sharing a document to an external user in a document library, the user is not logged in to Omnia anymore. (#129997).
+- The document picker has been updated to use the default document query (#133483).
 
 
 6.5.8
