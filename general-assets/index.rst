@@ -8,6 +8,7 @@ In this part of the documentation you will find information about general assets
    :titlesonly:
 
    add-link/index
+   clipboard-sections-blocks/index
    document-picker/index
    layout-explorer/index
    media-picker/index
