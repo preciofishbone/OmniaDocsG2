@@ -77,7 +77,7 @@ Available settings depends on how the template is set up. Here are some common e
 
 + **Title**: Add a Title for the Community App.
 + **Description**: Add a Description if needed.
-+ **Add Image**: (A description will be added soon).
++ **Add Image**: The editor setting up a Community Rollup can choose to show an image for communities, both for List and for Card display. Here you can select an image to be shown there, using the Media Picker. When an image has been selected it can be deleted or edited using the X and the pen that is shown then.
 + **Show in Public Listings**: If a link to the app should be available in public listings (meaning listings in Omnia), should be available, select this option. If this option is deselected, the app can only be reached by specific links, for example in a Workspace navigation.
 + **Omnia Alias**: The last part of the address to the site is created automatically but can be edited if necessary. If the name (address) already exists an alternative address is suggested.
 
