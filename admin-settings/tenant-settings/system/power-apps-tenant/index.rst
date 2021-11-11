@@ -1,4 +1,4 @@
-Power Apps - Tenant settings
+Power App - Tenant settings
 =======================================
 
 This is functionality to come in Omnia 6.7. The following can be set here:
