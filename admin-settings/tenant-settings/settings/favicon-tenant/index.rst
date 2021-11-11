@@ -1,7 +1,9 @@
 Favicon - Tenant settings
 =======================================
 
-This is functionality to come in Omnia 6.7. Here you can set a favicon for the whole tenant. It can be overwritten in the settings for a Business Profile. 
+**This is functionality to come in Omnia 6.7. This documentation is just started. More will be added soon.**
+
+Here you can set favicons for the whole tenant. It can be overwritten in the settings for a Business Profile. 
 
 .. image:: favicon-tenant.png
 
