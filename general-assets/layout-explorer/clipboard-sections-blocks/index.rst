@@ -27,7 +27,7 @@ The clipboard opens and a copy is placed there, for example:
 
 Add a section or a block from the clipboard
 **********************************************
-Do the following to copy a section or a block from the clipboard.
+Do the following to copy a section or a block from the clipboard:
 
 1. Edit the Page or Page Type in Design Mode.
 2. Open the clipboard.
