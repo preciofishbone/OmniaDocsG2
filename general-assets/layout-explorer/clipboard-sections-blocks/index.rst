@@ -1,7 +1,7 @@
 Clipboard for sections and blocks
 =======================================
 
-Using this feature, available in Omnia 6.7 and later, you can copy sections and blocks between and pages or page types. You must be able to use Design Mode to use the clipboard.
+Using this feature, available in Omnia 6.7 and later, you can copy sections and blocks between pages or page types. You must be able to use Design Mode to use the clipboard.
 
 The clipboard is available here:
 
