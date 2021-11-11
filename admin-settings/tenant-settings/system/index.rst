@@ -1,8 +1,8 @@
 System
 =============
-Here, the following can be set:
+Here, the following can be set (image from Omnia 6.7):
 
-.. image:: system-settings-new6.png
+.. image:: system-settings-new7.png
 
 Select section for more information:
 
@@ -17,6 +17,7 @@ Select section for more information:
    error-information/index
    extensions/index
    localization/index
+   power-apps-tenant/index
    queue-logs/index
    spfx-instruction/index
    tenant-contact/index
