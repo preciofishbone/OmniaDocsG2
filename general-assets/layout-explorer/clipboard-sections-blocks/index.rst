@@ -23,7 +23,7 @@ The clipboard opens and a copy is placed there, for example:
 
 .. image:: clipboard-copied.png
 
-2. You can now delete the copy if you don't want to keep it, or edit the name of the copy, see below.
+2. You can now delete the copy if you don't want to keep it, or edit the label of the copy, see below.
 
 Add a section or a block from the clipboard
 **********************************************
