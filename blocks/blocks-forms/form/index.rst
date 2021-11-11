@@ -19,8 +19,8 @@ The following settings are available for this block:
 + **Business Profile**: Select the Business profile where the form is created.
 + **Type**: Select the type: Polls, Checkups or Surveys.
 + **Form**: Select the form to display in the block.
-+ **Legend Alignment**: Select the alignment of the description here.
-+ **Legend Position**: Select position for the form, within the block.
++ **Legend Alignment**: Select the alignment of the description here. Works together with the Legend Position.
++ **Legend Position**: Select position for the description, in relation to the Legend Alignment.
 + **Show form title**: When the form was created, a title is added. If you want to show that title here, select this option.
 + **Open form as a dialog**: To open the form as a dialog, not as a page, select this option.
 + **Question padding**: If needed, add som padding.
