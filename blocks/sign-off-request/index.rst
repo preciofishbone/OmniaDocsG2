@@ -1,9 +1,13 @@
-Sign-off Request block
+Sign-off Requests Rollup
 ==========================
 
-This is a new block that is available in Omnia 6.6 and later. It will be used for Sign-off Requests Rollup, for managers and aministrators to be able to follow up Sign-off Requests.
+This block is used for Sign-off Requests Rollup, for managers and aministrators to be able to follow up Sign-off Requests.
 
-A documentation will be added soon.
+In the settings for the block, you can just add a block name:
 
-Settings will be available in tenant settings: :doc:`Settings for Sign-off Requests </admin-settings/tenant-settings/sign-off-requests/index>`
+.. image:: sign-off-requests-block-settings.png
+
+The WRITE TAB is not used here. The LAYOUT tab contains general settings, see: :doc:`General Block Settings </blocks/general-block-settings/index>`
+
+Settings for Sign-off Requests are available in Tenant settings: :doc:`Settings for Sign-off Requests </admin-settings/tenant-settings/sign-off-requests/index>`
 
