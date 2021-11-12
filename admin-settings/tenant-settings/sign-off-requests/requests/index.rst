@@ -51,7 +51,25 @@ You can now Navigate and Pick (Browse) or Search, the same way as in the Page Pi
 
 Here you click ADD when you have selected one or more pages to add to the Sign-off Request.
 
+Checking up on a request
+*************************
+You can check up on a Sign-off request to see what has happened.
 
+1. Click the link (Name) for the request.
+
+Something like the following is shown:
+
+.. image:: sign-off-requests-checking-1.png
+
+Here you can see, for example the status and how many has completed the request. For more information, you can click "Download Detail" to download an Excel file.
+
+Additionally, you can send a reminder to all participants, close the request and delete it.
+
+When you close a request, you can choose to send an email to those that has not completed the request, that it's no longer active:
+
+.. image:: sign-off-requests-checking-2.png
+
+A closed request can be reopened, a deleted request can (ofcourse) not.
 
 
 
