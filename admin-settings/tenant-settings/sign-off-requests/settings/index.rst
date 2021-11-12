@@ -1,11 +1,9 @@
 Settings
 ===========
 
-This documentation is just started, for new functionality in Omnia 6.6 and later. More information will be added soon.
-
-The following settings are available here:
+Here you can set the maximum number of e-mails to be sent from a Sign-off request:
 
 .. image:: sign-off-requests-settings-settings-new.png
 
-(A description will be added soon).
+
 
