@@ -33,11 +33,11 @@ To create a new request, do the following:
 3. Add or remove pages as needed.
 4. Click REQUEST to save the Sign-off request and send it. If you don't nothing is saved.
 
-To add or renmove pages
+To add or remove pages
 ----------------------------
 Here's how to add or remove pages for a Sign-off Request. It works the same with a template or without.
 
-If you use a template, this list can be pre populated, for example:
+If you use a template, this list will be pre populated, for example:
 
 .. image:: sign-off-requests-settings-2.png
 
