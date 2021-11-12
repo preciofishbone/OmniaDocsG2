@@ -5,11 +5,11 @@ This documentation is just started, for new functionality available in Omnia 6.6
 
 All created requests are listed here. You can filter on "Requested By" and "Progress Status" (In Progress or Completed).
 
-Here's an example of a list from a test site:
+Here's an example of a list:
 
-.. image:: sign-off-requests-requests-new.png
+.. image:: sign-off-requests-requests-new2.png
 
-For more details and the possibiblty to delete a request, click the link.
+For more details and the possibiblty to delete a request, click the link (Name).
 
 Create a new request
 ***********************
@@ -17,11 +17,43 @@ To create a new request, do the following:
 
 1. Click the plus.
 
-.. image:: sign-off-requests-click-plus.png
+.. image:: sign-off-requests-click-plus-new.png
 
 2. Use the following settings:
 
-.. image:: sign-off-requests-settings-1.png
+.. image:: sign-off-requests-settings-1-new.png
+
++ **Custom**: Here you can choose to create a Custom Sign-off Request or use a template.
++ **(Template list)**: Available when "From Template" is selected above. Lists all available Sign-off Request templates, if any. Select template here.
++ **Name**: Add a name for the request here, in any of the tenant languages (click the flag to chance language).
++ **Description**: You can add a description of the request here, in any of the tenant languages (click the flag to chance language).
++ **Sign-off Request**: Here you add the pages that should be signed off. If you selected a template, the list of pages will most likely be pre populated with a number of pages. You can add or remove pages as needed. See below for more details.
++ **Request sent to**: Select one or more users or groups to send the request to by e-mail. Single users, Security groups and Microsoft 365 groups can be added here (In Omnia on-prem, Microsoft 365 groups can’t be used). Note that the maximum number to send to can be set under "Settings".
+
+3. Add or remove pages as needed.
+4. Click REQUEST to save the Sign-off request and send it. If you don't nothing is saved.
+
+To add or renmove pages
+----------------------------
+Here's how to add or remove pages for a Sign-off Request. It works the same with a template or without.
+
+If you use a template, this list can be pre populated, for example:
+
+.. image:: sign-off-requests-settings-2.png
+
+To remove a page from the list, click the dust bin (this does not affect the template). To add additional pages, click the plus.
+
+The following is shown:
+
+.. image:: sign-off-requests-settings-3.png
+
+You can now Navigate and Pick (Browse) or Search, the same way as in the Page Picker (it's a part of the Page Picker that is used here). See this page for more information: :doc:`The Page Picker </general-assets/page-picker/index>`
+
+Here you click ADD when you have selected one or more pages to add to the Sign-off Request.
+
+
+
+
 
 
 
