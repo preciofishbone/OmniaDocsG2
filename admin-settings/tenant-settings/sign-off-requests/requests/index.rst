@@ -63,7 +63,13 @@ Something like the following is shown:
 
 Here you can see, for example the status and how many has completed the request. For more information, you can click "Download Detail" to download an Excel file.
 
-Additionally, you can send a reminder to all participants, close the request and delete it.
+Additionally, you can send a reminder to all participants.
+
+Close or delete a request
+****************************
+You can close a request that should no longer be active. You can delete a request no longer need.
+
+.. image:: sign-off-requests-checking-1a.png
 
 When you close a request, you can choose to send an email to those that has not completed the request, that it's no longer active:
 
