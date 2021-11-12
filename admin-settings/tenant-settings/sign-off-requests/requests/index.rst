@@ -1,8 +1,6 @@
 Requests
 ==========
 
-This documentation is just started, for new functionality available in Omnia 6.6 and later. More information will be added soon.
-
 All created requests are listed here. You can filter on "Requested By" and "Progress Status" (In Progress or Completed).
 
 Here's an example of a list:
