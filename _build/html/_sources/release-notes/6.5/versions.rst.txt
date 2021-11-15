@@ -1,3 +1,16 @@
+6.5.5
+========================================
+(Omnia 6.5.4 / Workplace 6.5.4 / WCM 6.5.5 / MS 6.5.5)
+
+
+- Fixed an issue that caused the wrong node to be selected in the new megamenu (#132987,#132730).
+- Fixed an upgrade issue related to the footer (#133034).
+- Fixed an issue related to route change when switching variations (#128842, #132943).
+- Several stability improvements to Event Management (#133010).
+- Fixed an issue that caused the User Profile Wizard to not open automatically when configured to do so (#132751).
+- Updated language logic for Document Management Authoring Sites (#132626).
+
+
 6.5.0
 ========================================
 (Omnia 6.5.0 / Workplace 6.5.0 / WCM 6.5.0 / MS 6.5.0)

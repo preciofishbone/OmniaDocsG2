@@ -1,7 +1,7 @@
 Taxonomy Navigation
 ========================
 
-In this block,available in Omnia 6.5 and later, you can create taxonomy based navigation. The most common area of use is to create an organization chart.
+In this block you can create taxonomy based navigation. The most common area of use is to create an organization chart.
 
 Here's an example:
 

@@ -88,7 +88,7 @@ The following lists all available display settings, shown in different order for
 + **Page Content Character Limit**: If the number of characters displayed for Page Content should be limited, add the number here. The Content is simply jus cut after that. Available for Newsletter only.
 + **Page Summary Character Limit**: If the number of characters displayed for Page Summary should be limited, add the number here. The Summary is simply jus cut after that. Available for Newsletter only.
 + **Paging**: Select paging here; "No paging", "Classic" or "Scroll".
-+ **Person**: New option in Omnia 6.5 and later. Can be used to show properties in Card view.
++ **Person**: This option can be used to show properties in Card view.
 + **Show create button**: To make it possible for editors to create a new page from here, select this option to add a button to the block heading, and type the name for the button. 
 + **Show Default image**: If there is no image available for a page, a placeholder image can be used. If that image should be used, select this option.
 + **Show Likes/Comments**: If the number of likes and comments should be displayed for the item, select this option. 

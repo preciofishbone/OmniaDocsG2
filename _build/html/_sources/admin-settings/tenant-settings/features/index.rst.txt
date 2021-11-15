@@ -17,6 +17,8 @@ Mobile
 *********
 Here you can remove or upgrade the feature "Enable Mobile Login". More information about what Mobile Login is, is found under *Permissions* here: :doc:`Publishing App settings </pages/page-settings/index>`
 
+**Note!** Mobile Login is not available in Omnia on-prem.
+
 Add-ons
 *********
 Here you can remove or upgrade the Omnia Add-ons. For more information about these, see the following sections:
@@ -32,4 +34,6 @@ Here you can remove or upgrade the Omnia Add-ons. For more information about the
 Default App Launcher Links
 ****************************
 Activate this Feature for a number of default links for the App launcher - many of the links that will normally appear in the Microsoft 365 menu. You can then use "Shared links" to edit the links and decide which ones to use.
+
+**Note!** Most links here will not be applicable in Omnia on-prem.
 

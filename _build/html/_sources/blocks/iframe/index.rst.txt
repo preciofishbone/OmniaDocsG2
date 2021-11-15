@@ -1,7 +1,7 @@
 Iframe block
 ===============
 
-This is a new block in Omnia 6.5 and later. The block can be used to show contents in an Iframe. The block is also an important part of the Share Document functionality.
+The block can be used to show contents in an Iframe. The block is also an important part of the Share Document functionality.
 
 Settings
 **********

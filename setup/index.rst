@@ -11,6 +11,8 @@ Below you will setup instructions for different parts of Omnia.
    documentmanagement/index
    processmanagement/index
    eventmanagement/index
+   communities/index
    setup-omnia-teams/index
+
 
 

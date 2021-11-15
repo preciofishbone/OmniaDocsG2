@@ -22,7 +22,7 @@ Use the following settings:
 .. image:: business-profile-add-new2.png
 
 + **Title**: Add a Title (name) for the Business Profile here.
-+ **Home Url**: Set the default home Url (the globe). You can also set a Url for the link when it’s clicked in Teams.
++ **Home Url**: Set the default home Url (the globe). You can also set a Url for the link when it’s clicked in Teams (not applicable in Omnia on-prem).
 
 Edit or delete a Business Profile
 ***********************************

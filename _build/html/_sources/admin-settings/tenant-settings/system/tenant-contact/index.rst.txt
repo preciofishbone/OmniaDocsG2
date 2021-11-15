@@ -3,6 +3,8 @@ Tenant Contact
 
 It's very important that you add contact information here. This will be the main channel for information from Omnia. You can edit the contact information any time.
 
+**Note! This option is not applicable for Omnia on-premise.
+
 .. image:: tenant-contact-new.png
 
 + **Main Contacts**: Here you add the main contact person(s) in your organization, for Omnia. The main contact(s) will receive important announcements from the product team regarding retirement of features or major service interruptions.

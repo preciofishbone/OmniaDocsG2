@@ -33,6 +33,24 @@ Block for displaying PowerApps
 -----------------------------------------
 
 
+Search Feedback and promoted search results.
+-----------------------------------------
+
+
+Modals and panels will now close on click out (#123157, #122336, #125956)
+-----------------------------------------
+- Click out is prevented when edits have been made, or when accessibility is turned on.
+
+Yammer for likes and comments
+-----------------------------------------
+
+Anchor links
+-----------------------------------------
+Its now possible to configure links to link to any position on the page, or into any tab or accordion.
+
+
+
+
 New Minor Features
 **************************
 - Its now possible to add a link to an image in an RTF field (#123318, #125364).
@@ -62,4 +80,4 @@ Fixes
 - Fixed a small styling issue with refiners in search (#128377).
 - Improved performance when creating pages in page collections with many entries (#130658).
 - The RSS block no longer crashes the page when a faulty URL is supplied in settings (#124703).
-- Info screen now keeps settings when switching views.
+- Info screen now keeps settings when switching views. (#132723).

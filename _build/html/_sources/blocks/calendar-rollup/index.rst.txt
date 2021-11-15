@@ -3,6 +3,8 @@ Calendar Rollup
 
 Use this block to display events from one or more Calendars. Note that the Calendars are based on Outlook or Exchange, not Sharepoint Calendars.
 
+**Note!** In Omnia on-prem, only personal calendars are supported.
+
 Note that a Calendar Rollup block can be targeted, see the common Layout options: :doc:`General block settings </blocks/general-block-settings/index>`
 
 The user experience

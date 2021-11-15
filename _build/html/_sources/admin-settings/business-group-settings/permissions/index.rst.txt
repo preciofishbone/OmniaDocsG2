@@ -10,13 +10,27 @@ Users and groups
 ******************
 Users added to this list can edit all settings for the Business Profile. 
 
-.. image:: permissions-business-profile-new.png
+.. image:: permissions-business-profile-new2.png
 
 Note that every Business Profile has it's own Permissions list. A Tenant Administrator can always edit settings for all Business Profiles.
 
 To add an administrator, add the name the same way as in other name fields. To delete an administrator here, just click the x. 
 
+Single users, Security groups and Microsoft 365 groups can be added here (In Omnia on-prem, Microsoft 365 groups can't be used).
+
 Note that external users that has been invited in the Azure AD can be added here as well. Users invited this way can log in with their own Microsoft 365 account.
+
+Administrators are added or removed the same way for Business Profile, Shared Links and Announcements.
+
+Options for Workspace
+-----------------------------
+The permission settings Workspace are a bit different:
+
+.. image:: permissions-workspace-new.png
+
++ **Allow mobile login**: This setting is intended to offer login to certain parts of Omnia for first line workers, partners and similar. The user needs the Kaizala app and a viable account. (Mobile login can't be used in Omnia on-prem).
++ **Business Profile Workspace Designer**: Add and remove Workspace Designers (administrators) here as needed.
++ **Business Workspace Reader**: Here you can set permissions for the Workspace navigation. 
 
 Secrets
 ********

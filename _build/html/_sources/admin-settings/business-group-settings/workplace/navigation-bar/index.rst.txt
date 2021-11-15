@@ -42,7 +42,7 @@ See below for information on how to add Mega Menu objects.
 
 Action Menu
 ------------
-The following settings are available here, for the default Action Menu and for the Action Menu used in MS Teams:
+The following settings are available here, for the default Action Menu and for the Action Menu used in MS Teams (the Action Menu in MS Teams is not applicable in Omnia on-prem):
 
 .. image:: workplace-navigation-settings-action-menu.png
 

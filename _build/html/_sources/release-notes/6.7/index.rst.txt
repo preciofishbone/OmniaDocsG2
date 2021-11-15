@@ -1,7 +1,45 @@
 Release 6.7 (Preview)
 ========================================
 
-.. note:: These release notes are in Draft, it means they can change at any time. Items might be added, removed or updated.
+.. note:: These are draft release notes. Items might be added, removed or updated.
+
+Search Feedback
+------------------------------------------
+
+By default, it is now be possible for end users to provide search feedback. The feedback feature is available in Advanced Search.
+
+.. image:: search-sendfeedback-1.png
+
+.. image:: search-sendfeedback-2.png
+
+A search administrator can access and analyze the feedback in Omnia Admin.
+
+.. image:: search-feedbackreport1.png
+
+If submitted by the end user, the search administrator will get a snapshot of the first page in the search result.
+
+.. image:: search-feedbackreport2.png
+
+The search query and results can be further analyzed using the search data from the end user query.
+
+.. image:: search-feedbackreport3.png
+
+
+Promoted Search Result
+------------------------------------------
+
+Based on search feedback, it is easy for a search administrator to add promoted search results in Omnia Admin.
+
+.. image:: search-promotedresults-admin1.png
+
+.. image:: search-promotedresults-admin2.png
+
+Whenever a user search on any of the keywords of a Promoted Search Result, it will be shown on top of Quick Search and in the right-hand-side panel in Advanced Search.
+
+.. image:: search-promotedresults-quicksearch.png
+
+.. image:: search-promotedresults-advancedsearch.png
+
 
 Versions
 -----------------------------------------

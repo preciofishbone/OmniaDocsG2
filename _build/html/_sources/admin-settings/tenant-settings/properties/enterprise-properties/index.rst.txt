@@ -7,6 +7,8 @@ Here you add ALL Properties that should be used within the Tenant. The list disp
 
 To find a property for editing, you can either search (note the search field at the top), or browse by category.
 
+**Note!** In Omnia on-prem there is no support for Microsoft Search Mappings.
+
 Open a category to see the list of properties. Here's an example:
 
 .. image:: enterprise-properties-list-example.png
