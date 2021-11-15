@@ -1,7 +1,7 @@
 Clipboard for sections and blocks
 =======================================
 
-Using this feature, available in Omnia 6.7 and later, you can copy sections and blocks between pages or page types. You must be able to use Design Mode to use the clipboard.
+Using this feature, available in Omnia 6.7 and later, you can copy sections and blocks between pages or page types. The omnia cliboard exists within a tenant. You must be able to use Design Mode to use the clipboard.
 
 The clipboard is available here:
 
@@ -79,14 +79,24 @@ There's a quicker way if you want delete everything in the clipboard:
 
 Export or import clipboard
 -----------------------------
-You can also export or import the clipboard. Information on how this is done will be added soon.
+You can also export or import the Omnia clipboard to Windows clipboard, and thus be able to copy sections ands blocks between tenants. 
 
+Do the following to export objects from the Omnia clipboard:
 
+1. Select the blocks or sections you wnat to export.
+2- Click the "Export clipboard" icon.
 
+.. image:: clipboard-export.png
 
+Note that you export just the objects you have selected, not the whole clipboard. In the example above, only the section will be exported, not the block.
 
+Do the following to import objects from Windows clipboard.
 
+1. Open the Omnia clipboard.
+2. Click the "Import clipboard" icon.
 
+.. image:: clipboard-import.png
 
+(Further information regarding how this works will be added soon).
 
 
