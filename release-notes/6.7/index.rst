@@ -82,6 +82,8 @@ Anchors are also automatically applied to tabs, panels and steps in sections.
 
 The link picker and action button (link) support the possibility to link to an anchor on the page.
 
+.. image:: link-to-anchor.png
+
 Suggested Enterprise Terms in RTF
 ------------------------------------------
 
