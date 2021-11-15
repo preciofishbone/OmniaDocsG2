@@ -25,7 +25,7 @@ Now you can clearly see what's been altered, for example:
 
 **Note!** The comparison is made between the two last versions of the main page. If you haven't edited the variation for a while there can be more changes and they are not selected here - just the last changes are shown.
 
-You can of course edit the variation manually by typing the text in the right field and just use the information in the left field as a reminder, but as a quick way, machine translation is an integrated part of this functionality.
+You can of course edit the variation manually by typing the text in the right field and just use the information in the left field as a reminder, but as a quick way, machine translation is an integrated part of this functionality. **Note!** Machine translation is not available in Omnia on-prem.
 
 Click this button to machine translate all text in the left field.
 
@@ -77,12 +77,5 @@ A variation can be restored or terminated the same way as pages in the archive.
 .. image:: archive-variation-archive.png
 
 More information about archiving, restoring and terminating is found here: :doc:`Archive a page </pages/delete-page/index>`
-
-
-
-
-
-
-
 
 

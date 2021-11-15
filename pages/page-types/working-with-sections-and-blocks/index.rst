@@ -27,7 +27,7 @@ For a description of available settings for the section, see: :doc:`Settings for
 
 If needed, you can even go a step further and create a new section in one of the new columns.
 
-In Omnia 6.5 and later, a new layout for sections is available: Stepper. This layout is useful when organizing information in steps. It's also used with the new Forms functionality. See below for more information.
+**A tip!** The Stepper section is useful when organizing information in steps. It's also used with the new Forms functionality. See below for more information.
 
 Delete a section
 *****************
@@ -74,6 +74,10 @@ Icons now show where you can add the new section, the same way as when you move 
 3. Click the icon where you want the copied section and it's placed there.
 4. Edit the settings that you want to change for the copy.
 
+Copy a section from the clipboard
+-----------------------------------
+In Omnia 6.7 and later, there is a clipboard that can be used to copy sections between pages or page types, see: :doc:`Clipboard for sections and blocks </general-assets/layout-explorer/clipboard-sections-blocks/index>`
+
 Adding blocks to a Section
 ***************************
 Here's how to add a block to a section:
@@ -93,6 +97,10 @@ Here's an example with a block added:
 You add additional blocks, work with the settings, move or delete blocks the same way as editors do when editing a page, see: :doc:`Working with Blocks </blocks/working-with-blocks/index>`
 
 **Note!** When editing a page, blocks that belong to the Page Type is locked, meaning they can not be moved or deleted, and settings for those blocks can't be edited. But content can be edited, if applicable, using Write mode. 
+
+Copy a blockfrom the clipboard
+---------------------------------------------
+In Omnia 6.7 and later, there is a clipboard that can be used to copy blocks between pages or page types, see: :doc:`Clipboard for sections and blocks </general-assets/layout-explorer/clipboard-sections-blocks/index>`
 
 Decide to show a section on a device or not
 **********************************************
@@ -120,7 +128,7 @@ To add som padding for the section, for a specific device, do the following:
 
 Using the Stepper section
 ***************************
-In Omnia 6.5 and later, a Stepper section is available.
+A Stepper section is also available.
 
 .. image:: stepper-section.png
 

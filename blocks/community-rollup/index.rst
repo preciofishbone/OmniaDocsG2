@@ -1,7 +1,7 @@
 Community Rollup block
 =========================
 
-This block is available in Omnia 6.5 and later. 
+The purpose of this block is simply to list all or some of the Communities that is available in the Business Profile.
 
 Settings
 *************

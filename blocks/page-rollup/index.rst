@@ -27,7 +27,7 @@ Here you can set the following:
 + **Pick in Write Mode**: Available when Pick Pages is selected. Select this option if editors should be able to pick pages in Write mode. If not selected, Design mode has to be used.
 + **ADD PAGE**: When you have selected Pick Pages, you can pick some pages to always be shown. Click this option and use the Page Picker. See this page for more information: :doc:`Page Picker </general-assets/page-picker/index>`
 + **Use Query Builder**: If you want to use the query builder to set which pages should be available here, select this option.
-+ **Scope**: When you have chosen to use the Query Builder, select scope for the block; Publishing Apps or Page Collections. Then open the list below and select Publishing Apps/Page Collections. In Omnia 6.5 and later, a third scope will be available: Navigation path. Use it to select a node to get the pages from. When you have selected start node you can choose navigation depth. In 6.5 and later, there's also a new view for this; Navigation view, available under Display.
++ **Scope**: When you have chosen to use the Query Builder, select scope for the block; Publishing Apps, Page Collections or Navigation path. Then open the list below and select Publishing Apps/Page Collections. Regarding Navigation path, use it to select a node to get the pages from. When you have selected start node you can choose navigation depth. There's also a view available, specifically for Navigation Path - Navigation View. Select it under Display.
 + **Exclude current page**: Available when you have chosen scope for the Query Builder. The default setting is to exclude the current page, but if you, for some reason, would like to include the current page, uncheck this option.
 + **Trim duplicates**: Available for the Query Builder. If more than one Page Rollup block is added to a page, this option can be used to handle duplicates between the blocks. When the option is selected, you can enter a number indicating the priority for duplicates, for this block. If you set "1" for a block it means this block has priority showing a post that would have been a duplicate. 
 + **Query Item Limit**: Available for the Query Builder. Use the slider, or type the number (1-99) to set the number of pages that should be retrieved to make sure all duplicates are found. You should not set this number higher than you really need, as higher numbers may have an impact on performance. Note that when you change the number, "Max Display Limit" is also changed, see below.
@@ -100,7 +100,7 @@ The following lists all available display settings, shown in different order for
 + **Slider Size**: Select the size of the slider here: Small, Medium, Large or Extra large. Available for "Dynamic Roller" only.
 + **Sort by**: Choose what the list should be sorted by, and then select ascending or descending.
 + **Summary**: Select the property that contains the page summary for the item to display.
-+ **Term properties**: New option in Omnia 6.5 and later. Can be used to show properties in Card view. Click "Add" and select a property. Continue the same way for additional properties.
++ **Term properties**: Can be used to show properties in Card view. Click "Add" and select a property. Continue the same way for additional properties.
 + **Title**: If a title should be shown for the block, add it in this field. If no variation exists for the page, you can set the title in the languages active in the tenant. If variations exists, only one title can be set. In that case, titles in other languages are set in the variations.
 
 **Note!** For "List View" and "Event List", you also have to add at least one column, for the display to work. Here's an example with three columns added for List View:
@@ -121,17 +121,17 @@ Here's a simple example of a Card view used for navigation purposes:
 
 .. image:: card-view-example-pages.png
 
-In Omnia 6.5, card view can now display sub pages if the scope "Navigation path" is used.
+Card view can now display sub pages if the scope "Navigation path" is used. Here's an example:
 
 .. image:: card-view-example-sub-pages.png
 
-In Omnia 6.5, the new Navigation View can be used to display a mega menu style navigation. Here's an example:
-
-.. image:: navigation-view-mega-example.png
-
-A third thing that is new in Omnia 6.5: The card view for Page Rollup now supports a dynamic number of properties that can be displayed in the card. Here's an example:
+The card view also supports a dynamic number of properties that can be displayed in the card. Here's an example:
 
 .. image:: pagerollup-cardview-terms.png
+
+The Navigation View can be used to display a mega menu style navigation. Here's an example of Page Rollup used for this purpose:
+
+.. image:: navigation-view-mega-example.png
 
 Style settings
 ----------------
@@ -145,15 +145,13 @@ Filter
 -------
 If users should be able to filter the list and/or search here, use these options to add filters. 
 
-.. image:: page-rollup-filter-new.png
-
-See this page for information on how to use these options: :doc:`Filter UI </blocks/general-block-settings/filters/index>`
-
-In Omnia 6.5 and later, there is an additional option, specific for Page Rollup:
+The following options are specific for the Page Rollup block:
 
 .. image:: page-rollup-filter-65.png
 
 + **Save filter state**: If you select this option the filter keeps it's state in the page url as long as the page is active, and will be activated when the user goes back to the page, by using the browser's Back button. The url can also be copied and for example be used to prepopulate the page rollup.
+
+The rest of the options are the same as other blocks. See this page for information on how to use these options: :doc:`Filter UI </blocks/general-block-settings/filters/index>`
 
 Social Period
 --------------

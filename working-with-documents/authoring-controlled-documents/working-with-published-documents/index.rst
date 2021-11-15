@@ -34,6 +34,8 @@ The Properties window for the document is shown, for example:
  
 The properties can not be edited here. The properties can only be edited when working on a draft for a new edition of the document.
 
+**Note!** A term that has been translated in the term store will be shown in the document's language here, but if the term is shown in the Published list, it is shown in the user's language. Also note that placeholders in DOCX and XLSX are replaced with terms based on the document's language.
+
 Copy Link
 **********
 If you need to send a link to a published document, use this option.

@@ -42,6 +42,8 @@ The Document Types are set up in Omnia Admin. The first list you will see here i
 
 .. image:: new-controlled-5-new4.png
 
+**Note!** A term that has been translated in the term store will be shown in the document's language here. Also note that placeholders in DOCX and XLSX are replaced with terms based on the document's language.
+
 9. Choose where to save the new document. 
 
 .. image:: new-controlled-6-new3.png
@@ -58,6 +60,8 @@ The document is now created in the chosen location and you can work on it the us
 .. image:: new-controlled-8-new3.png
 
 **Note!** If you come across metadata fields (placeholders) visible in the document, displayed within double brackets, they should not be used in the editing process. Information will be added to these fields when the document is published.
+
+**Note!** If a term that has been translated in the term store will be shown in the list, it's shown in the user's language. When Properties are displayed for a document, in that window, the term is shown in the document's language.
 
 Creating a Normal Document
 ****************************

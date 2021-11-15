@@ -1,8 +1,6 @@
 Apps for Teamwork
 ===========================================
 
-This is a documentation of the functionality for the Apps list for Teamwork in Omnia 6.5 and later.
-
 Here Teamworks are listed, the "Active" tab as an example:
 
 .. image:: teamwork-65-apps-new.png
@@ -17,6 +15,9 @@ Use the icons this way on the Active tab:
 + The dust bin to delete. 
 
 You can use the headings for Title, App Administrator, Provisioning Template and Created Date to sort the list. You can also search the list.
+
+**Note!** To be able to delete a teamwork, you must be App Administrator for the teamwork. Also note that deleting a teamwork from this list does not delete 
+the connected Sharepoint site.
 
 Edit Permissions
 -----------------

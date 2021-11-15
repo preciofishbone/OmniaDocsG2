@@ -7,7 +7,7 @@ Sign off Requests can be used for read receipts for pages, including news. One e
 
 The following settings are available here:
 
-.. image:: sign-off-requests-settings-new.png
+.. image:: sign-off-requests-settings-new2.png
 
 Select section for more information:
 

@@ -1,8 +1,6 @@
 Forms
 ===========
 
-This feature is available in Omnia 6.5 and later.
-
 Here you can work with three types of forms. 
 
 .. image:: forms-all.png
@@ -13,7 +11,7 @@ For each type of form, all existing are listed, Surveys as an example:
 
 .. image:: forms-surveys.png
 
-Here you can use the icons (from left to right), to copy the form to a new one, change settings, work with the graphical presentation, or delete a form, if needed.
+In the list, you can use the icons (from left to right), to copy the form to a new one, change settings, work with the graphical presentation, or delete a form, if needed.
 
 .. image:: forms-icons.png
 
@@ -129,7 +127,7 @@ Working with sections and blocks
 -----------------------------------
 You can use all general sections and blocks when working with the graphical presentation, and you use the settings the normal way. Click a blue plus to add a section, a black plus to add a block.
 
-**A tip!** The Stepper section (available in Omnia 6.5 and later) can be very useful for forms.
+**A tip!** The Stepper section can be very useful for forms.
 
 You can find more information about how to work with sections here: :doc:`Working with sections and blocks </pages/page-types/working-with-sections-and-blocks/index>`
 

@@ -1,8 +1,6 @@
 Navigation Bar
 =================
 
-This feature is avalable in Omnia 6.5 and later.
-
 Here you can edit navigation bar settings for the Business Profile's Workspace. You can add different settings for the default navigation bar and for the navigation bar used in MS Teams. 
 
 You can use several Mega Menu objects and several Action Menu objects, if needed.
@@ -48,7 +46,7 @@ The following settings are available here, for the default Action Menu and for t
 
 + **Show icon**: For the top action menu, showing an icon is default. If you add other action menus, you can choose to show icons or not.
 + **Show text**: For the top action menu, showing text is default. If you add other action menus, you can choose to show texts or not.
-+ **Item Limit**: (A description will be added soon).
++ **Item Limit**: Set the number of items that should be listed before a "Show more" link is shown.
 
 See below for information on how to add Action Menu objects.
 
@@ -189,7 +187,7 @@ The following is shown:
 + **Title**: Add a title for the list here (not shown to users).
 + **Icon Type/Icon**: Add an icon if you with, for this list (not shown for users).
 
-Different fields are shown depending on Action Type selected. See this page for detailed information about those fields: :doc:`Action Button in omnia 6.5 </blocks/button-link/action-button-65/index>`
+Different fields are shown depending on Action Type selected. See this page for detailed information about those fields: :doc:`Action Button block </blocks/button-link/index>`
 
 Target an Action Menu object
 -------------------------------

@@ -1,7 +1,5 @@
-Layouts
-==========
-
-This feature is available in Omnia 6.5 and later.
+Layouts for Publishing Apps
+=============================
 
 Here you can work with ready made layouts for publishing start pages.
 

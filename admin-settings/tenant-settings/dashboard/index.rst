@@ -1,7 +1,7 @@
 Dashboard
 ===========
 
-In omnia 6.5, and later, the dashboard has been moved to Omnia Admin and you can build it to your needs. You set up the Dashboard much like you would do a page type. Most sections and blocks can be used.
+Here you can build the Dashboard to your needs. You set up the Dashboard much like you would do a page type. Most sections and blocks can be used.
 
 .. image:: dashboard-new.png
 
@@ -9,7 +9,7 @@ As you would a page type, the first step is to add the layout, using sections. S
 
 You then add the blocks you need. All available blocks are listed on this page: :doc:`Blocks </blocks/index>`
 
-The Metrics block (new in Omnia 6.5) can be especially useful: :doc:`The Metrics block </blocks/metrics/index>`
+The Metrics block can be especially useful: :doc:`The Metrics block </blocks/metrics/index>`
 
 You can also edit some of the metrics settings, in Omnia Admin, see: :doc:`Metric settings </admin-settings/tenant-settings/settings/metrics/index>`
 
@@ -34,7 +34,7 @@ For Underused Content, something like the following can be shown:
 
 What should be considered underused content is defined in the Metrics settings, see link above.
 
-Regarding Reach - a description will be added soon.
+Regarding Reach: How well do we reach our target audience based on what we expect. The metric can be configured to a specific scope of pages and have a target nr of users
 
 .. image:: admin-dashboard-reach.png
 

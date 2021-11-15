@@ -1,3 +1,93 @@
+6.6.0
+========================================
+(Omnia 6.6.0 / Workplace 6.6.0 / WCM 6.6.0 / MS 6.6.0)
+
+New Features 
+**************************
+
+- A reworked mega menu block, now with flexible querying and styling.
+- New structure of settings in Workplace menus. 
+- Default document properties are now applied when uploading and moving documents into ODM (#129968).
+- Better error handling in ODM when a user has been deleted.
+- Added settings for permissions to Publishing App Templates. (#133244).
+- Its now possible to target variations to any language (regardless of the display languages).
+- The ODM Review Reminder email now contains a link to the review task (#120327, #128346, #131886).
+- Statistics is now shown for Workspace home.
+- Default permissions can now be specified in the Publishing and Community App templates.
+- Document rollup now works with files that contain the hash (#) character.
+- The document rollup now supports new tokens, CurrentUser.Id as well as CurrentUser.Email (#132651, #131931).
+- Improved performance in the page picker when having many pages (#132910).
+- There is now an explicit color setting for not viewed items in the notification panel. 
+
+
+Fixes
+**************************
+
+- Style updates for the Publishing- and Community rollup.
+- Fixed an issue that prevented documents to be added to OPM processes on small screens.
+- The Accessibility Theme is now correctly enabled when the user enables it. (#132931, #132894)
+- Fixed an issue with the icon color in the new mega menu (#133266).
+- Corrected the RTF theme on the new FAQ block.
+- Corrected an issue in the settings form of the Activity Feed.
+- Default Site Properties in Document Management can now be used on a publishing app.
+- Improved error handling when draft exists (#132047, #132019, #131942).
+- The Community default content feature can now be activated multiple times without additional artifacts being created.
+- Fixed an issue with the background color of the tab control.
+- The mobile navigation menu icon will now follow the icon color (#133309).
+- Team news rollup now follows the Theme correctly.
+- Corrected the padding of the tenant logo (#132901).
+- General corrections for theming in the new mega menu (#132554).
+- The editor for the Navigation Bar now follows the Editor theme.
+- When link to delve is turned off, it’s no longer possible to open delve by right clicking the link and open in new tab.
+- Fixed an issue that caused driveItem not to render from MS Search.
+- Fixed a design glitch in the Publishing and Community rollup.
+- Corrected icon color for tabbed sections (#132553).
+- Stability fixes to the Teamwork provisioning flow.
+- Fixed an issue with the Event Management participant list.
+- Several Mobile design fixes.
+- Fixed an issue that caused the Excel file for reports to not generate correctly (#131376, #132975, #133433).
+- The page rollup now renders better in a very narrow column (#132738).
+- ODM now supports files with a # character in the filename.
+- Fixed an issue that caused the node order of the mega menu to be incorrect (#132214, #133119).
+- Fixed an issue that caused limited read access to be lost on publish in ODM. (#132415).
+- Community activities now show correctly (#133558).
+- Fixed an issue that would prevent a user from searching on the same term twice in a row.
+- Azure AD mappings are now shown instantly in the list without reloading the page (#133046).
+- Publishing apps with status "Completed with warning" are now mappable in Event Management settings.
+- Fixed an issue with displaying images in OPM. (#126985).
+- Stability fixes to the Process Management publishing flow.
+- Stability fixes to the page rollup.
+- The icon position 'top' on a tab now works as expected (#132761).
+- Fixed an issue that would cause page content to not sync correctly to SharePoint when an inline image was used.
+- Follow actions are now longer shown when using incompatible providers (#129083).
+- Corrected an issue with SharePoint sync related to inline images (#133456).
+- When sharing a document to an external user in a document library, the user is not logged in to Omnia anymore. (#129997).
+- The document picker has been updated to use the default document query (#133483).
+
+
+6.5.8
+========================================
+(Omnia 6.5.5 / Workplace 6.5.6 / WCM 6.5.6 / MS 6.5.6)
+
+- Fixed an issue that caused likes and comments to show an incorrect count on the dialog view in page rollup (#133275).
+- Fixed an issue that caused the RTF editor to behave incorrectly in Firefox (#133202).
+- Corrected email notification logic for translation authors (#132830).
+
+6.5.6
+========================================
+(Omnia 6.5.5 / Workplace 6.5.6 / WCM 6.5.6 / MS 6.5.6)
+
+- Fixed an issue that caused time to be wrong when events were put for approval.
+- Fixed an issue in event management that would sometimes prevent outlook events from being created correctly.
+- Fixed an issue that would cause the new navigation bar editor to hang (#132703, #132779, #133082)
+- Default document types now work correctly in the create document wizard (#133016, #133019).
+- Fixed an issue that would sometimes prevent relating documents (#132116).
+- Fixed an issue that would cause the User Profile Completion dialog to show up when it should not.
+- Corrected an issue with targeting of navigation nodes in SPFx.
+- Corrected an issue that would sometimes cause permissions not to be saved correctly on Shared Links and Important Announcements. (#133469)
+- Updated the logic on how links are provisioned for the default content app links. (#133165)
+
+
 6.5.5
 ========================================
 (Omnia 6.5.4 / Workplace 6.5.4 / WCM 6.5.5 / MS 6.5.5)

@@ -1,7 +1,5 @@
-Apps
-========
-
-This is a description of this functionality in Omnia 6.5 and later.
+Publishing Apps
+=================
 
 Within a Business Profile several Publishing Apps can be active for different settings. To be able to create a Publishing App, at least one template for Publishing Apps must be available. If none are, create a template first.
 
@@ -17,7 +15,9 @@ Use the icons this way:
 + The key to add or remove App Administrators.
 + The boxes to activate, deactivate or upgrade features.
 + The pen to edit the settings (same as when creating a new, see below).
-+ The dust bin to delete a Publishing App that has been created by mistake.
++ The dust bin to delete a Publishing App.
+
+**Note!** To be able to delete a Publishing App, you must be App Administrator for that Publishing App. 
 
 Edit App Route
 *****************
@@ -77,7 +77,7 @@ Available settings depends on how the template is set up. Here are some common e
 
 + **Title**: Add a Title for the Publishing App.
 + **Description**: Add a Description if needed.
-+ **Add Image**: (A description will be added soon).
++ **Add Image**: The editor setting up a Publishing Rollup can choose to show images for the apps, both for List and for Card display. Here you can select an image to be shown there, using the Media Picker. When an image has been selected it can be deleted or edited using the X and the pen that is shown then.
 + **Show in Public Listings**: If a link to the app should be available in public listings (meaning listings in Omnia) select this option. If this option is deselected, the app can only be reached by specific links, for example in a Workspace navigation.
 + **Sharepoint Alias**: The last part of the Url to the Publishing App is shown here. It can be edited if needed.
 + **Omnia Alias**: The last part of the address to the site is created automatically but can be edited if necessary. If the name (address) already exists an alternative address is suggested.

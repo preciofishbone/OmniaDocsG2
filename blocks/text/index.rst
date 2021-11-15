@@ -21,7 +21,7 @@ The following settings are available for the block:
 + **Title**: If a title should be shown for the block, add it in this field. If no variation exists for the page, it looks like in the image above and you can set the title in the languages active in the tenant. If variations exists, only one title can be set. In that case, titles in other languages are set in the variations.
 + **Mode**: Select mode for the text. For Plain Text and Multi-line Plain Text there are no formatting available. For more information on Custom Rich Text, see below.
 + **Formatting**: Select the default style here. Available for Plain Text and Multi-line Plain Text.
-+ **Enable Machine Translation**: If machine translation should be available for this text block, select this option.
++ **Enable Machine Translation**: If machine translation should be available for this text block, select this option. **Note!** Machine Translation is not available in Omnia on-prem.
 + **Help text**: Here you can add a help text for the editor, for example to make it clear what kind of content should be added to the block. The help text is shown when no content is added, and when the block is edited. The help text is never shown to users as it's not shown for a published version of the page.
 + **ADD CONTENT**: Click here if you want to add some default content to the block. (also see below).
 + **Padding**: You can set some padding around the text if needed.

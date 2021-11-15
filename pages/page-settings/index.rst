@@ -52,7 +52,7 @@ Variations
 ************
 Here you set up the Page Variations that should be possible to use in the Publishing App. It's then up to Page Editors to use a variation, or not, for a page. A page variation is created for a page when it's needed.
 
-In Omnia 6.5 there's a new option for variations - Automatic Machine Translation, see below.
+A variation can also be set up for Automatic Machine Translation, see below. (Not available in Omnia on-prem).
 
 It's also possible to add one variation author for each variation.
 
@@ -85,7 +85,7 @@ Do the following to create a new variation:
 + **Icon**: Selevt the icon (for exemple the flag) here.
 + **Url Segment**: Add a suitable Url Segment in this field.
 + **Variation author**: You can add a variation author for this variation. See this page for more information: :doc:`Edit Page Variations </pages/edit-page-variations/index>`
-+ **Automatic Machine Translation**: In Omnia 6.5, you can select machine translation for this variation, to any language that is set up in the tenant. If you do, you can't select a Variation author, and the machine translated variation can not be edited manually. When you have selected this option, choose language in the list shown. Automatic Machine Translation is executed when the page is published. It will be noted on the variation page that it has been machine translated, see below.
++ **Automatic Machine Translation**:You can select machine translation for this variation, to any language that is set up in the tenant. If you do, you can't select a Variation author, and the machine translated variation can not be edited manually. When you have selected this option, choose language in the list shown. Automatic Machine Translation is executed when the page is published. It will be noted on the variation page that it has been machine translated, see below. **Note!** Machine translation is not available in Omnia on-prem.
 + **Add Targeting Filter**: To set up targeting for this variation, click here. It is not mandatory. See below for more information.
 
 Languages used for Titles, or for targering, must be set up in the Tenant Settings, see this page: :doc:`Regional Settings </admin-settings/tenant-settings/settings/regional-settings/index>`

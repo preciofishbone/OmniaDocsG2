@@ -1,36 +1,23 @@
 Setting up a Community
 ========================
 
-Setting up a community is pretty straight forward. You need to be an Omnia Administrator or have separate access to the following in Omnia Admin:
-
-+ Provisioning templates (if no Provisioning template for communities has been created yet).
-+ Communities.
-
-Both these are part of the Business Profile settings. See below for links to more information.
+Setting up a community is pretty straight forward. You need to be either Tenant Administrator or Business Profile Administrator for the Business Profile where the Community should be available.
 
 You also need to have Page Editor permissions to a suitable page to set upp access to the community.
-
-**Note!** In Omnia 6.5 and later, a number of new options for setting up a Community has been added, see: :doc:`Communities settings in Omnia 6.5 </admin-settings/business-group-settings/communities/communities-65/index>`
-
-Prerequisite
-*************
-The only prerequisite is that a Provisioning template for Communites must have been created, see: :doc:`Provisioning templates </admin-settings/business-group-settings/provisioning-templates/index>`
-
-In Omnia 6.5 and later, Communities has it's own option for templates, see the link above.
 
 Creating a Community
 **********************
 Do the following to create a community:
 
 1. Go to Omnia Admin.
-2. Open "Communities" in the Business Profile.
+2. Open "Communities" in the Business Profile settings.
 
-.. image:: communities-bp.png
+.. image:: communities-bp-new.png
 
-3. Create a Community Site according to the description on this page: :doc:`Communities </admin-settings/business-group-settings/communities/index>`
-(See the link on that page if you're using Omnia 6.5 and later).
-4. When the site has been created, you can use the link (Title) in Communities to go to the site. (To get the Url, you can also right click on the Title and copy the link address).
-5. Setup access to the community some way, using the Url. (More information about that below.)
+3. Create at least one template, as describe here: :doc:`Templates for Communities </admin-settings/business-group-settings/communities/communities-65/templates/index>`. 
+4. Create a Community Site according to the description on this page: :doc:`Communities Apps </admin-settings/business-group-settings/communities/communities-65/apps/index>`
+5. When the site has been created, you can use the link (Title) in Communities to go to the site. (To get the Url, you can also right click on the Title and copy the link address).
+6. Setup access to the community some way, using the Url. (More information about that below.)
 
 Setting up access to communities
 **********************************

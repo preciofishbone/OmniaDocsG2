@@ -1,9 +1,9 @@
 Settings
 ============
 
-Here the following settings can be edited:
+Here the following settings can be edited (image from Omnia 6.7):
 
-.. image:: business-profile-settings-all-v6.png
+.. image:: business-profile-settings-all-v67.png
 
 For detailed information, select settings here:
 
@@ -12,9 +12,8 @@ For detailed information, select settings here:
    :titlesonly:
 
    language/index
+   favicon-bp/index
    theme/index
-   header/index
-   footer/index
    block-title/index
    content-header/index
    central-image-location/index

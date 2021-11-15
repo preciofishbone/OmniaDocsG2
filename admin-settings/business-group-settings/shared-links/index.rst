@@ -23,8 +23,6 @@ Permissions
 *************
 Shared Links for this Business Profile has a seperate Permissions setting, so any user can be set as a Shared Links administrator. This includes external users that has been invited in the Azure AD, meaning they can log in with their own Microsoft 365 account. 
 
-.. image:: business-profile-shared-links-permissions.png
+Note that Business Profile Administrators always can work with Shared Links.
 
-Add all users that should be Shared Links administrators for the Business profile here.
-
-Note that Business Profile Administrators always can work with Shared Links even though they are not listed here.
+In Omnia 6.7 and later, these permissions settings have been moved to general permission settings for the Business Profile, see: :doc:`Permissions for a Business Profile </admin-settings/business-group-settings/permissions/index>`.

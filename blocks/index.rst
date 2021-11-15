@@ -36,6 +36,7 @@ Blocks
    page-rollup/index
    variation-selector/index
    people-rollup/index
+   power-app/index
    process-blocks/index
    publishing-app-rollup/index
    user-profile-completion/index
@@ -52,7 +53,6 @@ Blocks
    team-news-rollup/index
    teams-channel-feed/index
    text/index
-   trello-card-rollup/index
    working-with-blocks/index
    yammer-feed/index
    

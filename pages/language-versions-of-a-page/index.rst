@@ -7,7 +7,9 @@ First a Publishing App Administrator must set up the variations in the Settings,
 
 A specific author can be set up for a variation, and if not, all authors of a page can edit all variations.
 
-In Omnia 6.5 and later, you will have an additional option. You can either set up a variation for editing by a Variation Author, or you can set up a variation for Automatic Machine Translation. You can decide this for each variation, either a Variation Author or Automatic Machine Translation. Note that a a variation created with machine translation can not be edited.
+You can either set up a variation for editing by a Variation Author, or you can set up a variation for Automatic Machine Translation. You can decide this for each variation, either a Variation Author or Automatic Machine Translation. Note that a a variation created with machine translation can not be edited.
+
+**Note!** Machine translation is not available in Omnia on-prem.
 
 If variation pages are edited by variation authors, there's still the possibility to use machine translation as a tool. Machine translation can, in that case, be set up to be a part of the RTF Editor for text blocks.
 

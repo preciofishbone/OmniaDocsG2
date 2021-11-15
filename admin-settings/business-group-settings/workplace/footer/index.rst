@@ -1,9 +1,7 @@
 Footer
 =========
 
-In Omnia 6.5 and later, this feature has been here, but it works the same as in Omnia 6.0.
-
-Here you can edit  footer settings for the business profile's workspace.
+Here you can edit footer settings for the business profile's workspace.
 
 .. image:: workplace-footer-new.png
 
