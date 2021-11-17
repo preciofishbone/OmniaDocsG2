@@ -28,7 +28,7 @@ If you select a top node, all sub pages to that node are also selected.
 + **Exclude Start Node**: If the start node in what you have selected should not be used, activate this option.
 + **Navigation Depth**: Set the number of levels that should be shown.
 
-When you have added several objects the Mega Manu this way, you can grab the left-most icon and use drag and drop to edit the order.
+When you have added several objects the Mega Menu this way, you can grab the left-most icon and use drag and drop to edit the order.
 
 Display
 ------------
