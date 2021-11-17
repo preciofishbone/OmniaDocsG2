@@ -9,6 +9,8 @@ Here's an example with a Page Type with left navigation:
 
 (For a description of "Override Sharepoint Sync Settings", see below.)
 
+On Omnia 6.7 and later, it will be possible to automatically archive a page of a certain Page type. For more information, see below.
+
 If properties was selected as in the image above it would result in these fields being available on the Properties tab for a page:
 
 .. image:: page-type-settings-left-fields-new2.png
@@ -45,7 +47,7 @@ The following settings can be available for a property:
 + **Limit Edit Permission**: You can limit Edit Permission for this property if needed. In that case, add one or more users here.
 
 Override Sharepoint Sync Settings
-------------------------------------
+************************************
 Sharepoint Sync Settings are set in Omnia Admin (available under Web Content Management), for the whole tenant. If you need some other synchronization for pages created from this Page Type, you can override the tenant settings and create a specific synchronization here.
 
 When you activate this option, the following is shown:
@@ -61,3 +63,19 @@ The settings are used exactly the same way here as the settings for the tenant. 
 When you have set up the sync here, you must execute a full sync to Sharepoint, as the message stated. Go to the Publishing App settings and click this button:
 
 .. image:: page-type-settings-sync-button.png
+
+Enable Automatic Archive
+***************************
+This is a new option that will be availble in Omnia 6.7 and later.
+
+Here's a Tenant Page Type as an example:
+
+.. image:: automatic-archive.png
+
+When you click "Enable Automatic Archive" the following is shown:
+
+.. image:: automatic-archive-settings.png
+
+Select a property to base the automatic archiving on.
+
+(More info about how this works will be added soon).
