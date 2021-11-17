@@ -3,7 +3,7 @@ Mega Menu
 
 This block most likely has it's main use as a part of the Workspace functionality, but can also be added to any page or Page Type, if needed.
 
-You can find more information about the Workspace functionality here: :doc:`Workspace </admin-settings/business-group-settings/workspace/index>`
+You can find more information about the Workspace functionality here: :doc:`Workspace </admin-settings/business-group-settings/workplace/index>`
 
 These settings are available:
 
