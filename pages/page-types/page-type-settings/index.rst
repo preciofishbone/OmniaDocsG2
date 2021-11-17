@@ -80,4 +80,4 @@ Select a property to base the automatic archiving on.
 
 (More info about how this works will be added soon).
 
-Another way to do this is to use the settings for archiving in the Publishing App Settings. See the heading "Archive" on this page: (link to be added)
+Another way to do this is to use the settings for archiving in the Publishing App Settings. See the heading "Archive" on this page: :doc:`Publishing App Settings </pages/page-settings/index>`
