@@ -26,6 +26,7 @@ Select section for more information:
    permission/index
    settings/index
    header/index
+   workspace-home/index
    navigation-bar/index
    footer/index
    notification-panel/index
