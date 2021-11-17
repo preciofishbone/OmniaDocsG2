@@ -52,7 +52,7 @@ These Style settings becomes available when you click ADD STYLE:
 .. image:: mega-menu-block-display-style.png
 
 + **Font Size**: Use the slider to set the font size in the Mega Menu.
-+ **Font Weight**: Use this slider to set how "bold" th font should look.
++ **Font Weight**: Use this slider to set how "bold" the font should look.
 + **Uppercase**: If only uppercase should be used for the font, select this option.
 + **Padding**: Set som padding within the block, if needed.
 
