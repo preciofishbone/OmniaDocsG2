@@ -9,7 +9,7 @@ Settings
 ***********
 These settings are available:
 
-..image:: mega-menu-block-all.png
+.. image:: mega-menu-block-all.png
 
 Query
 ----------
