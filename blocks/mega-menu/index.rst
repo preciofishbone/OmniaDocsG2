@@ -40,7 +40,7 @@ The following is available here:
 
 + **Min Width Of Column**: Set the minimum width of columns in the Mega Menu here.
 + **Enable dropdown menu**: If you disable this, all menu options, wihin the navigation depth you have decided, will always be shown.
-+ **Static Display Level**: Defines the number of levels in the navigation term set that will always be displayed in the menu.
++ **Static Levels**: Defines the number of levels that will always be displayed in the menu.
 + **Dynamic Display Level**: Defines the number of levels in the navigation term set that should be displayed in the mega menu when a user clicks an item in the static menu.
 + **Max Height**: As Default, the menu's Height is dynamic, meaning it adapts to the Height needed. You can set a fixed Height in pixels if you wish.
 + **Max Width**: As Default, the menu's Width is dynamic, meaning it adapts to the Width needed. You can set a fixed Wodth in pixels if you wish.
