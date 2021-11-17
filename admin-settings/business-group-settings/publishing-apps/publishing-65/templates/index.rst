@@ -62,7 +62,7 @@ Select the features that should be available for the publishing app (all are not
 
 Setup
 -------
-Using the options here you can create one or more Page Collections to be set up automatically when this template is used. There's also some settings available.
+Using the options here you set Publishing App settings and can create one or more Page Collections to be set up automatically when this template is used.
 
 .. image:: publishing-edit-setup-new.png
 
