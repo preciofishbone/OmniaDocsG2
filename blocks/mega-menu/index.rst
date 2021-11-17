@@ -6,7 +6,7 @@ This block most likely has it's main use as a part of the Workspace functionalit
 You can find more information about the Workspace functionality here: :doc:`Workspace </admin-settings/business-group-settings/workplace/index>`
 
 Settings
-***********'
+***********
 These settings are available:
 
 ..image:: mega-menu-block-all.png
