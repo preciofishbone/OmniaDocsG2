@@ -45,11 +45,11 @@ Archiving a Variation
 ***********************
 You can archive a variation separately from the main page if needed. Just open the variation and archive the same way as you do a page. An archived variation can be restored or terminated the same way as a page, see below. If the main page is archived, variations of that page are always archived as well.
 
-Automatic Archiving
-********************
+Automatic Archiving and Termination
+**************************************
 You can setup automatic archiving for pages based on a property. See the bottom of this page for more information: :doc:`Page Type Settings </pages/page-types/page-type-settings/index>`
 
-Another way to do this is to use the settings for archiving in the Publishing App Settings. See the heading "Archive" on this page: :doc:`Publishing App Settings </pages/page-settings/index>`
+Furthermore, you can set up rules for automatic termination of archived pages, in the Publishing App Settings. See the heading "Archive" at the bottom ofthis page: :doc:`Publishing App Settings </pages/page-settings/index>`
 
 Archive and create draft
 ******************************
