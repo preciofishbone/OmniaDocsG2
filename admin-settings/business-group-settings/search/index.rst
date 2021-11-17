@@ -11,6 +11,14 @@ In Omnia 6.7, there will be two additional options:
 
 Select section for more information:
 
+.. toctree::
+   :titlesonly:
+
+   search-config/index
+   quick-search/index
+   advanced-search/index
+   promoted-search-results/index
+   search-feedback/index
 
 
 
