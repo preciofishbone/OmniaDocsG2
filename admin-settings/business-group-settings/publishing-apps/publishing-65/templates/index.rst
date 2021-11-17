@@ -103,7 +103,7 @@ Page Collection Permissions are described on this page: :doc:`Page Collection Pe
 
 You use the rest of the settings the same way as is described on this page: :doc:`Page Collections </pages/page-collections/index>`
 
-Don't forget to save when you're ready (the "Save" option is located in the low right corner).
+Don't forget to save when you're ready (the "Save" option is located at the bottom, in the low right corner).
 
 To add another Page Collection, just do it the same way.
 
