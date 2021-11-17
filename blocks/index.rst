@@ -30,6 +30,7 @@ Blocks
    my-subscriptions/index
    notification-panel/index
    omnia-block-webpart/index
+   organization-tree/index
    page-feedback/index
    page-likes-and-comments/index
    page-properties/index
@@ -56,8 +57,3 @@ Blocks
    working-with-blocks/index
    yammer-feed/index
    
-
-
-
-
-
