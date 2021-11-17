@@ -38,7 +38,7 @@ The following is available here:
 
 + **ADD STYLE**: Click here for some style settings. See below for more information.
 
-+ **Max Width of Column**: Set the maximum width of columns in the Mega Menu here.
++ **Min Width Of Column**: Set the minimum width of columns in the Mega Menu here.
 + **Enable dropdown menu**: If you disable this, all menu options, wihin the navigation depth you have decided, will always be shown.
 + **Static Display Level**: Defines the number of levels in the navigation term set that will always be displayed in the menu.
 + **Dynamic Display Level**: Defines the number of levels in the navigation term set that should be displayed in the mega menu when a user clicks an item in the static menu.
