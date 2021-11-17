@@ -88,18 +88,20 @@ To create one or more Page Coillections, do the following:
 
 One example where “Flat” is a relevant choice, is when creating a Page Collection for News.
 
-4. Type a name for the new Page Collection.
+4. Type a name (Title) for the new Page Collection.
 
 An Url is added, based on the name. It can be edited if needed.
 
 5. Click “Create”.
 6. Edit the settings.
 
-.. image:: publishing-page-collection-settings-edit.png
+.. image:: publishing-page-collection-settings-edit-new.png
 
-(All settings are not shown in the image).
+(There's a lot more settings than is shown in the image).
 
-You use these settings the same way as is described on this page: :doc:`Page Collections </pages/page-collections/index>`
+Page Collection Permissions are described on this page: :doc:`Page Collection Permissions </pages/page-collections/page-collection-permissions/index>`
+
+You use the rest of the settings the same way as is described on this page: :doc:`Page Collections </pages/page-collections/index>`
 
 Don't forget to save when you're ready (the "Save" option is located in the low right corner).
 
