@@ -22,6 +22,8 @@ Set the following, needed for page reports to work:
 + **Contact Property**: Select the property used to store information about the user being page contact.
 + **Review Date Property**: Select the property used to store information about review date for pages.
 
+(In Omnia 6.7 and later, an additional tab will be available - Archive. See the end of this page for more information.)
+
 Sync to Sharepoint
 --------------------
 This sync is a map of some properties to Sharepoint fields, either as set up in Omnia Admin, or set up specifically for a Page Type, as an override.
@@ -141,4 +143,13 @@ For more advanced statistics in Omnia, this is the place to add the scripts you 
 
 Don't forget to save. The "Save" button is located in the lower right corner.
 
+Archive
+*********
+On this tab, available in Omnie 6.7 and later, you can set rules for termination of archived pages in the Publishing App. Termination means those pages can no longer be retrived from the archive. Either you have this option on or not, pages can always be terminated manually in the archive, as long as they are present in the archive.
+
+Here's an example of such a setting:
+
+.. image:: publishing-app-settings-archive.png
+
+If you don't want automatic termination, just deselect the option.
 
