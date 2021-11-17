@@ -41,8 +41,8 @@ The following is available here:
 + **Min Width Of Column**: Set the minimum width of columns in the Mega Menu here.
 + **Enable dropdown menu**: If you disable this, all menu options, wihin the navigation depth you have decided, will always be shown.
 + **Static Levels**: Defines the number of levels that will always be displayed in the menu.
++ **Max Width**: As Default, the menu's Width is dynamic, meaning it adapts to the Width needed. You can set a fixed Width in pixels if you wish.
 + **Max Height**: As Default, the menu's Height is dynamic, meaning it adapts to the Height needed. You can set a fixed Height in pixels if you wish.
-+ **Max Width**: As Default, the menu's Width is dynamic, meaning it adapts to the Width needed. You can set a fixed Wodth in pixels if you wish.
 + **Background Color**: As Default, the Background Color for the Mega Menu is the same as the Header, but you can set another Background Color if you wish.
 + **Text Color**: As Default, the Text Color for the Mega Menu is the same as the text in the Header, but you can set another Text Color if you wish.
 + **Selected Border Color**: Ypou can set Border Color separately if you wish. Default=no Color.
