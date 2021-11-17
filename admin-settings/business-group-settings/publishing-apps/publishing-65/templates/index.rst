@@ -74,7 +74,7 @@ To edit settings, click "Publishing App Settings" and use the following settings
 + **Contact Property**: Select the default property for page contact.
 + **Review Date Property**: Select the default property for review date.
 
-To create one or more Page Coillections, do the following:
+To create one or more Page Collections, do the following:
 
 1. Click the plus for "Page Collection".
 
