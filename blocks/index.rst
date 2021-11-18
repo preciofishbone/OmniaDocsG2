@@ -6,12 +6,12 @@ Blocks
 
    
    accordion/index
+   button-link/index
    activity-feed/index
    announcements/index
+   banner/index
    blocks-event-management/index
    blocks-forms/index
-   button-link/index
-   banner/index
    breadcrumb/index
    calendar-rollup/index
    create-app/index
