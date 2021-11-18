@@ -2,6 +2,8 @@ Advanced Search
 ==================
 When a search has been made in Quick Search, Advanced Search is available through a link at the bottom. Advanced search can also be made available using the Search block.
 
+Below Advanced Search in Omnia up to 6.6 is described. For Advanced Search settings in Omnia 6.7 and later, see: :doc:`Advanced Search settings 6.7 </admin-settings/business-group-settings/search/advanced-search/advanced-search-67/index>`
+
 .. image:: advanced-search-in-quick-new2.png
 
 Something like this is shown:
@@ -67,14 +69,4 @@ Custom Search Target
 If you activate this option you can change what will happen when a user clicks the Advanced Search link, for example after having made a Quick Search. This is useful for example if a specific Search Center should be used.
 
 .. image:: custom-search-target-new-url.png
-
-
-
-
-
-
-
-
-
-
 
