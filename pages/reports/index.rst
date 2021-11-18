@@ -11,7 +11,7 @@ The following reports are available:
 
 .. image:: pages-reports-all-new2.png
 
-In Omnia 6.7 and alter, an additional report is available - Scheduled. See below for more information.
+In Omnia 6.7 and later, an additional report is available - Scheduled. See below for more information.
 
 All reports can be exported to Excel by clicking here:
 
