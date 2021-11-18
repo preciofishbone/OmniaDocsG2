@@ -11,6 +11,8 @@ The following reports are available:
 
 .. image:: pages-reports-all-new2.png
 
+In Omnia 6.7 and alter, an additional report is available - Scheduled. See below for more information.
+
 All reports can be exported to Excel by clicking here:
 
 .. image:: reports-excel-new2.png
@@ -54,6 +56,18 @@ If Approval for pages has been set up, this list will show all pages with pendin
 (This image is from a test environment, these requests should normally not be that old.)
 
 How to approve or reject here is described on this page, where you can find more information about approval: :doc:`Approve pages </pages/page-approval/index>`
+
+Scheduled
+***********
+This report is available in Omnia 6.7 and later. The report displays an overview of all pages that are scheduled for publishing, in the publishing app. Here's an example:
+
+.. image:: pages-repoprt-scheduled.png
+
+You can filter the list on dates, for a shorter list. Set start- and and date. You can also filter on Page Type and who the publication was scheduled by. And you can export to Excel the same way as for the other reports.
+
+Default is List View, as shown in the image above. You can also choose to see a calendar view, monthly or weekly. Here's an example with WEEK VIEW selected:
+
+.. image:: pages-repoprt-scheduled-week.png
 
 Settings for Reports
 *********************
