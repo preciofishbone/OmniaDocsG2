@@ -63,7 +63,7 @@ This report is available in Omnia 6.7 and later. The report displays an overview
 
 .. image:: pages-repoprt-scheduled.png
 
-You can filter the list on dates, for a shorter list. Set start- and and date. You can also filter on Page Type and who the publication was scheduled by. And you can export to Excel the same way as for the other reports.
+You can filter the list on dates, for a shorter list. Set Start Date and and End Date. You can also filter on Page Type and who the publication was scheduled by. And you can export to Excel the same way as for the other reports.
 
 Default is List View, as shown in the image above. You can also choose to see a calendar view, monthly or weekly. Here's an example with WEEK VIEW selected:
 
