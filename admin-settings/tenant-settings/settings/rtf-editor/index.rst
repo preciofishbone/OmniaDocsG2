@@ -29,7 +29,7 @@ You can select "Enterprise Glossary Suggestion" to make the RTF Editor Enterpris
 
 This means that whenever an author writes something in an RTF editor that match a term in the Enterprise Glossary, it will be highlighted. The author can click on the highlighted text and decide whether to create a link or not to the Enterprise Glossary term. If a link to the term is created, it will be possible for the end user to click on it and get detailed information about the term.
 
-When a term is highlighted, it can look likes this:
+When a term is highlighted, it can look like this:
 
 .. image:: rtf-editor-glossary-aware-highlight.png
 
