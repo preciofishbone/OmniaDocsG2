@@ -17,9 +17,27 @@ Both lists are handled the same way.
 
 At the top you will see a preview of what the RTF editor will look like with the selected options.
 
+Most options should be self explanatory, but some options may need a description, see below.
+
+Activate machine translation
+-------------------------------
 Text Translator is the option for Machine Translations editors can use (Available at the bottom of the list, not activated in the image above). **Note!** Machine translation is not available in Omnia on-prem.
 
-All other options should be fairly self explanatory.
+Make the RTF editor Enterprise Glossary aware
+------------------------------------------------
+You can 
+
+This means that whenever an author writes something in an RTF editor that match a term in the Enterprise Glossary, it will be highlighted. The author can click on the highlighted text and decide whether to create a link or not to the Enterprise Glossary term. If a link to the term is created, it will be possible for the end user to click on it and get detailed information about the term.
+
+When a term is highlighted, it can look likes this:
+
+.. image:: rtf-editor-glossary-aware-highlight.png
+
+When the author clicks the highlighted term, these two icons are shown:
+
+.. image:: rtf-editor-glossary-aware-highlight-icons.png
+
+The icon to the left is used to create a link, the other one to remove the link.
 
 Settings for Styles
 --------------------
