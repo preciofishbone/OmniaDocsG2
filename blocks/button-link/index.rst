@@ -128,6 +128,7 @@ Link
 Using this action a Link Action can be added, meaning a link can be opened:
 
 + **Url**: Type or paste the Url to go to when a user clicks the link. 
++ **Anchor Name**: In Omnia 6.7 and later, anchors are supported. Type the Anchor Name in this field to create a link to an anchor.
 + **Target**: Choose if the link should be opened in a new window, the current window, or in a dialog. 
 + **Dialog Position**: If you selected "Dialog" for Target, you can select where to place the dialog: Center, Full screen, Left or Right.
 
