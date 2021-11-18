@@ -1,22 +1,25 @@
 Advanced Search settings in Omnia 6.7
 ========================================
 
-This is a preliminary documentation for Advanced Search settings in Omnia 6.7. More will added/edited soon.
+This is an ongoing preliminary documentation for Advanced Search settings in Omnia 6.7. More will added/edited soon.
 
-On this tab the following settings are available:
+You can use these settings:
 
-.. image:: advanced-search-new4.png
+.. image:: advanced-search-67.png
 
++ **Hide Categories**: If categories should not be shown for users, select this option.
++ **Enable Promoted Search Results**: (A description will be added soon).
++ **Enable Search Feedback**: (A description will be added soon).
++ **Number of Resut Columns**: (A description will be added soon).
 + **Refiner Positions**: Select where the Refiners will be placed - Left or Right.
++ **Refiners collapsed by default**: (A description will be added soon). 
 + **Search Categories**: Open the list to add or remove Search Categories to use in Advanced Search.
 
-Additional settings can be reached by clicking the pen for a Search Category:
+Additional settings can be reached by clicking the pen for a Search Category, for example:
 
-.. image:: advanced-search-pen-new3.png
+.. image:: advanced-search-category-settings-67.png
 
-Then these settings are available:
-
-.. image:: advanced-search-category-settings-new2.png
+(From here not edited yet)
 
 + **Row Limit**: Select number of search result rows for each "page". 
 + **Refiners**: Use this option to add refiners for the Search Category (click the plus to add).
