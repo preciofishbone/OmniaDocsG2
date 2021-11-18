@@ -10,7 +10,7 @@ You use the following settings:
 .. image:: organization-tree-settings.png
 
 + **Title**: You can add a title for the block here.
-+ **Start from current user**: If the block always should display the organizarion including the logged in user, select this option. 
++ **Start from current user**: If the block always should display the organization based on the logged in user, select this option. 
 + **User**: Another option is to select one user to base the organization tree on. All colleeagues are available in this list.
 
 Here's an example with an organization tree based on John Faulkner. He reports to the CEO and five colleagues report to him.
