@@ -1,3 +1,17 @@
+6.6.4
+=======================================
+(Omnia 6.6.2 / Workplace 6.6.4 / WCM 6.6.3 / MS 6.6.1)
+
+- Fixed an issue with Array properties in the Azure AD Sync.
+- Document Management stability fixes.
+- Current node style now work correctly in the Mega Menu block.
+- Fixed an issue in the RTE block causing new paragraph to sometimes not register correctly. 
+- Fixed an issue that prevented custom notification color from being saved.
+- Fixed an upgrade issue related to the User Profile card.
+- Fixed an issue with the links to reusable pages (#133465).
+- Ensured all categories are loaded into the settings of the Quick links block (#133587).
+- Fixed an issue with root level values in search refiners (#133501)
+
 6.6.0
 ========================================
 (Omnia 6.6.0 / Workplace 6.6.0 / WCM 6.6.0 / MS 6.6.0)
