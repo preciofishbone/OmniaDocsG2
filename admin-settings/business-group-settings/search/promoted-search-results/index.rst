@@ -7,7 +7,7 @@ Based on search feedback, an administrator canm create promoted search results i
 
 Whenever a user search on any of the keywords of a Promoted Search Result, the promoted search reusult will be available here:
 
-.. image:: promoted-search-result-place.png
+.. image:: promoted-search-results-place.png
 
 A list of promoted search can be:
 
