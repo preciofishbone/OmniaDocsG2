@@ -35,7 +35,7 @@ Do the following:
 + **ADD IMAGE**: If you want, you can add an image to be shown by the promoted search result (see example in the top image).
 + **Keywords** Add the keywords that will result in the promoted search result being shown.
 + **Status**: On hold means it's not active yet. To enable this search result, select "Active".
-+ **Targeting**: A promoted search result can be targeted. It is done the same way as is described here: :doc:`General Block Settings </blocks/general-block-settings/index>`
++ **Targeting**: A promoted search result can be targeted. Targeting works the same way as when you target a block, see the Heading "Targeting" on this page: :doc:`General Block Settings </blocks/general-block-settings/index>`
 
 3. Click CREATE when you're done.
 
