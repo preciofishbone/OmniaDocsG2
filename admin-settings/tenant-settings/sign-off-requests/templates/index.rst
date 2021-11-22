@@ -31,4 +31,4 @@ You can now Navigate and Pick (Browse) or Search, the same way as in the Page Pi
 
 5. Click ADD when you have selected one or more pages to add to the Sign-off Request.
 6. Repeat adding pages until all pages you want in the template is in place.
-7. Click SAave to save the template.
+7. Click SAVE to save the template.
