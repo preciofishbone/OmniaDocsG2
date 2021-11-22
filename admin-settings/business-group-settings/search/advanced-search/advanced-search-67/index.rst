@@ -26,7 +26,7 @@ Additional settings can be reached by clicking the pen for a Search Category, fo
 + **Order By**: Set the sorting in the refiner's lists; "Count" (=number of hits) or "Alphabetic".
 + **Refiner Limit**: Set the number of refiner selections to be shown before a "Show more" link is displayed. 
 
-To delete a Refiner, just click the dust bin.
+To delete a refiner, just click the dust bin.
 
 To create a new refiner, do the following:
 
@@ -38,9 +38,11 @@ To create a new refiner, do the following:
 
 .. image:: new-refiner-3-new2.png
 
+You can decide the order for the refiners by using tha left-most icon and drag and drop.
+
 Promoted search results
 *************************
-If Promoted search results are enabled, such search results, if any are applicable, will be shwon here:
+If Promoted search results are enabled, such search results, if any are applicable, will be shown here:
 
 .. image:: promoted-search-results-place.png
 
@@ -60,5 +62,5 @@ If the user do'nt want to send a snapshot of the search results, that option can
 
 Then it's just to type the message and send.
 
-Administrators cam evaluate the feedback here: :doc:`Search feedback </admin-settings/business-group-settings/search/index>`
+Administrators can evaluate the feedback here: :doc:`Search feedback </admin-settings/business-group-settings/search/index>`
 
