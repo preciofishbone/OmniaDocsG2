@@ -1,7 +1,7 @@
 Templates
 ===========
 
-Here you can work with templates for Sign-off Requests. A template is a number of pages that should be read and signed off. A template can then be used to create Sign-off Requests, where pages from the template can be removed, and additional pages added, if needed.
+Here you can work with templates for Sign-off Requests. A template is one or more pages that should be read and signed off. A template can then be used to create Sign-off Requests, where pages from the template can be removed, and additional pages added, if needed.
 
 .. image:: sign-off-requests-templates-new2.png
 
