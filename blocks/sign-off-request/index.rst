@@ -7,11 +7,11 @@ Here's an example with one of the requests opened:
 
 .. image:: sign-off-request-rollup-example.png
 
-The user can read the information by clicking the link and can then seign off using the button:
+The user can read the information by clicking the link and can then sign off using the button:
 
 .. image:: sign-off-request-rollup-example-signedoff.png
 
-The colored dots indicates the progress: green for all read, yellow for some and white for none, within each request.
+The colored dots indicates the progress: green for all read, yellow for some and white for none, within each request, and for the whole request.
 
 .. image:: sign-off-request-rollup-example-signedoff-colors.png
 
