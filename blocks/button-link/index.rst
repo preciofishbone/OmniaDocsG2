@@ -201,11 +201,11 @@ This button type is available in Omnia 6.6 and later.
 
 + **Type**: You can choose between "Administrattion List" and "End-user sign off".
 
-The Administration List, displays all Sign-off requests the logged in administrator has sent, indicating was has happened so far. Here's an example:
+The Administration List, displays all Sign-off requests the logged in administrator has sent, indicating what has happened so far. Here's an example:
 
 .. image:: requests-admin-list.png
 
-The colored dots indicates the number of answers: white for no one, yellow for some and gree for all that received the request.
+The colored dots indicates the number of answers: white for none, yellow for some and green for all that the request was sent to.
 
 The End-user sign off displays the same as the Sign-off Request Rollup block does. See this page for an example: :doc:`The Sign-off Request Rollup block </blocks/sign-off-request/index>`
 
