@@ -5,7 +5,9 @@ All created requests are listed here. You can filter on "Requested By" and "Prog
 
 Here's an example of a list:
 
-.. image:: sign-off-requests-requests-new2.png
+.. image:: sign-off-requests-requests-new3.png
+
+The Status column in the middle tells you of the request is open or closed. the Status column to the right indicates the number of answers; white for no one, yellow for many and green for all thet the request was sent to.
 
 For more details and the possibiblty to delete a request, click the link (Name).
 
@@ -74,10 +76,5 @@ When you close a request, you can choose to send an email to those that has not 
 .. image:: sign-off-requests-checking-2.png
 
 A closed request can be reopened, a deleted request can (ofcourse) not.
-
-
-
-
-
 
 
