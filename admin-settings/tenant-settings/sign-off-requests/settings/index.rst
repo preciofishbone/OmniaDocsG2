@@ -5,5 +5,8 @@ Here you can set the maximum number of e-mails to be sent from a Sign-off reques
 
 .. image:: sign-off-requests-settings-settings-new.png
 
-If you want to change this, just type another number and save. 
+This setting will be used when requests are sent to a group that is not e-mail enabled. The administrator sending the request may be alerted to add e-mail addresses.
+
+If requests are sent to a group that is e-mail enabled, there is noting to consider and this setting is ignored.
+
 
