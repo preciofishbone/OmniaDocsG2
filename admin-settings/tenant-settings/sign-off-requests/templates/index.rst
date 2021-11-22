@@ -19,7 +19,7 @@ To create a new template, do the following:
 
 .. image:: sign-off-requests-templates-options.png
 
-3. Add a name or the template in any of the tenant languages (click the flag to change language).
+3. Add a name for the template in any of the tenant languages (click the flag to change language).
 
 4. Click the plus to add pages.
 
