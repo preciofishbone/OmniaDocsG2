@@ -8,9 +8,9 @@ You can use these settings:
 .. image:: advanced-search-67.png
 
 + **Hide Categories**: If categories should not be shown for users, select this option.
-+ **Enable Promoted Search Results**: (A description will be added soon).
-+ **Enable Search Feedback**: (A description will be added soon).
-+ **Number of Resut Columns**: (A description will be added soon).
++ **Enable Promoted Search Results**: If it should be possible to see a promoted search result, select this option. Default=selected. For more information, see below.
++ **Enable Search Feedback**: If it should be possible for users to send feedback on an advanced search result, select this option. For more information, see below.
++ **Number of Result Columns**: (A description will be added soon).
 + **Refiner Positions**: Select where the Refiners will be placed - Left or Right.
 + **Refiners collapsed by default**: (A description will be added soon). 
 + **Search Categories**: Open the list to add or remove Search Categories to use in Advanced Search.
@@ -49,4 +49,28 @@ Here's an example of refiners for Pages, with 43 hits:
 The user can now use the refiners to the left. Let's say, for example, that the user knows the page is authored by Anna Karlsson - it's just 5 pages:
 
 .. image:: search-refiners-example-refined-new.png
+
+Promoted search results
+*************************
+If Promoted search results are enabled, such search results, if any are applicable, will be shwon here:
+
+.. image:: promoted-search-results-place.png
+
+For information on how to create them, see: :doc:`Promoted Search results </admin-settings/business-group-settings/search/promoted-search-results/index>`
+
+Search feedback
+*******************
+If Search feedback is enabled, a button will be shown for end users, for example:
+
+.. image:: search-feedback-button.png
+
+When the user clicks the button, something like the following is shown:
+
+.. image:: search-feedback-form.png
+
+If the user do'nt want to send a snapshot of the search results, that option can be deseleected.
+
+Then it's just to type the message and send.
+
+Administrators cam evaluate the feedback here: :doc:`Search feedback </admin-settings/business-group-settings/search/index>`
 
