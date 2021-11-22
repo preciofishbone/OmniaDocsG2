@@ -22,6 +22,7 @@ The following actions are available to add as a button:
 + Process Feedback
 + Quick Search
 + Share
++ Sign-off Requests
 + Strenghten Profile
 + Subscribe
 + Teamwork Navigation
@@ -198,7 +199,15 @@ This button type is available in Omnia 6.6 and later.
 
 .. image:: action-button-sign-off.png
 
-(More info will be added soon).
++ **Type**: You can choose between "Administrattion List" and "End-user sign off".
+
+The Administration List, displays all Sign-off requests the logged in administrator has sent, indicating was has happened so far. Here's an example:
+
+.. image:: requests-admin-list.png
+
+The colored dots indicates the number of answers: white for no one, yellow for some and gree for all that received the request.
+
+The End-user sign off displays the same as the Sign-off Request Rollup block does. See this page for an example: :doc:`The Sign-off Request Rollup block </blocks/sign-off-request/index>`
 
 Strengthen Profile
 ----------------------
