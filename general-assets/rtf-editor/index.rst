@@ -1,5 +1,5 @@
-RTF Editor
-=================
+Ëditing text with the RTF Editor
+=====================================
 
 When editing text in Omnia, a RTF editor can be available. What is available in the editor is set up in Omnia Admin, and in a few cases in the block itself.
 
