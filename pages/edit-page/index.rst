@@ -39,7 +39,7 @@ You can:
 
 + Add an image or video to the Media block at the top.
 + Edit the page heading.
-+ Edit and format text to the Text block under the heading (The how extensive the formatting is).
++ Edit and format text to the Text block under the heading. See this page for more information on editing text: :doc:`Editing text with the RTF Editor </general-assets/rtf-editor/index>`
 + Remove the image from the next Media block, or select another image or video to show there.
 + Add links and headers to the Related links block.
 
