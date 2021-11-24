@@ -56,7 +56,7 @@ To edit or remove a link:
 
 Add link to Enterprise term
 ------------------------------
-In Omnia 6.7 and later you may be able to add a link to an enterprise term, and ny that use the Enterprise Glossary functionality.
+In Omnia 6.7 and later you may be able to add a link to an enterprise term, and by that use the Enterprise Glossary functionality.
 
 Here's how to add such a link:
 
@@ -64,7 +64,7 @@ Here's how to add such a link:
 
 .. image:: rtf-editor-glossary-aware-highlight.png
 
-2. To add a link to that term (you don't have to), click the termn and the following is shown:
+2. To add a link to that term (you don't have to), click the term and the following is shown:
 
 .. image:: rtf-editor-glossary-aware-highlight-icons.png
 
