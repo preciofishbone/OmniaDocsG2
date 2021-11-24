@@ -54,7 +54,7 @@ To edit or remove a link:
 
 .. image:: rtf-editor-all-link-edit.png
 
-Add and anchor (Bookmark)
+Add and anchor (bookmark)
 ---------------------------
 Anchors can used in the Add Link general asset and when creating a link button using the Action button block. So, if you add an anchor (bookmark) to the text, links can be created to that anchor.
 
@@ -74,7 +74,7 @@ Here's how to add an anchor:
 
 For more information about Add link, see: :doc:`Add link </general-assets/add-link/index>`
 
-For more information about the Action button block, see: :doc:`Action button </blocks/button-link/in/index>`
+For more information about the Action button block, see: :doc:`Action button </blocks/button-link/index>`
 
 Add Media
 -----------
