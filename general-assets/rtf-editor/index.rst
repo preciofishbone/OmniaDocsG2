@@ -54,6 +54,24 @@ To edit or remove a link:
 
 .. image:: rtf-editor-all-link-edit.png
 
+Add link to Enterprise term
+------------------------------
+In Omnia 6.7 and later you may be able to add a link to an enterprise term, and ny that use the Enterprise Glossary functionality.
+
+Here's how to add such a link:
+
+1. Type the text as usual and when you type something that match a term in the Enterprise Glossary, it's highlighted.
+
+.. image:: rtf-editor-glossary-aware-highlight.png
+
+2. To add a link to that term (you don't have to), click the termn and the following is shown:
+
+.. image:: rtf-editor-glossary-aware-highlight-icons.png
+
+3. Click the left icon to create the link (the one to the left to remove it).
+
+For more information about Glossary Terms, see: :doc:`Enterprise Glossary </admin-settings/tenant-settings/properties/enterprise-glossary/index>`
+
 Add and anchor (bookmark)
 ---------------------------
 Anchors can used in the Add Link general asset and when creating a link button using the Action button block. So, if you add an anchor (bookmark) to the text, links can be created to that anchor.
