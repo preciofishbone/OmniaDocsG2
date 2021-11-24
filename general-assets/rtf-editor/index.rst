@@ -54,6 +54,28 @@ To edit or remove a link:
 
 .. image:: rtf-editor-all-link-edit.png
 
+Add and anchor (Bookmark)
+---------------------------
+Anchors can used in the Add Link general asset and when creating a link button using the Action button block. So, if you add an anchor (bookmark) to the text, links can be created to that anchor.
+
+Anchors are available in Omnia 6.7 and later.
+
+Here's how to add an anchor:
+
+1. Type the text.
+2. Select the text where the anchor should be placed.
+3. Click the anchor icon.
+
+.. image:: anchor-icon.png
+
+4. Add an anchor name and save.
+
+.. image:: anchor-name.png
+
+For more information about Add link, see: :doc:`Add link </general-assets/add-link/index>`
+
+For more information about the Action button block, see: :doc:`Action button </blocks/button-link/in/index>`
+
 Add Media
 -----------
 You can add and an image or a video to the text. This is how:
