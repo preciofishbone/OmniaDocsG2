@@ -1,7 +1,7 @@
 Favicon - Tenant settings
 =======================================
 
-**This is functionality to come in Omnia 6.7. This documentation is just started. More will be added soon.**
+In Omnia 6.7 and later, you can select favicons.
 
 Here you can set favicons for the whole tenant. It can be overwritten in the settings for a Business Profile. 
 
@@ -10,14 +10,17 @@ Here you can set favicons for the whole tenant. It can be overwritten in the set
 To add a Favicon, do the following:
 
 1. Click CREATE FAVICON LINK.
-2. Select the Omnia Favicon (Icon) or The Apple Tocuch icon, or upload any image to use as an icon, using the Media Picker.
+2. Select the Omnia Favicon (Icon) or The Apple Tocuch icon.
 
 .. image:: favicon-tenant-set.png
 
+or:
+
+1. Click UPLOAD ICON to uplade a favicon you have created.
+2. Use the Media Picker to select and upload the icon.
+
 3. Save when you're done.
 
+For more information about the Media Picker, see: :doc:`The Media Picker </general-assets/media-picker/index>`
 
-
-
-
-
+For more information about favicons in general, see for example this page: https://css-tricks.com/favicon-quiz/
