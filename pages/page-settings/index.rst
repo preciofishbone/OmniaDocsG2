@@ -151,5 +151,5 @@ Here's an example of such a setting:
 
 .. image:: publishing-app-settings-archive.png
 
-If you don't want automatic termination, just deselect the option.
+If you don't want automatic termination, just keep this option deselected.
 
