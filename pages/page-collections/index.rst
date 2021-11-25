@@ -56,7 +56,7 @@ Use the settings this way:
 + **Break permission inheritance by default**: Select this option if inheritnace should be broken when a new page is created within the Page Collection. This could, for example, be useful for Communities. When this option is active, the colleague creating the page will be the page owner, meaning that he or she has full control over who can edit. The new option "Invite co-authors" can then be used to easily add authors for the page, see below.
 + **Allow invitation of co-authors**: If this option is selected, authors can invite co-authors. 
 
-Setup Yanmer integration for the Page Collection
+Setup Yammer integration for the Page Collection
 -------------------------------------------------
 (This option is available in Omnia 6.7 and later). 
 
