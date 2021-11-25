@@ -13,7 +13,7 @@ Here, you administer the channels.
 
 .. image:: channels-list.png
 
-Click the pen to edit a channel, the dust bin to delete it. When you edit a channel, all settings used when creating a new channel cem bed edited, see below.
+Click the pen to edit a channel, the dust bin to delete it. When you edit a channel, all settings used when creating a new channel can be edited, see below.
 
 Create a new channel
 **********************
@@ -23,8 +23,8 @@ Here's how to create a new channel:
 
 .. image:: channels-clickplus.png
 
-Use the following settings:
+2. Use the following settings:
 
 .. image:: channels-settings.png
 
-(A description of how the settings works will ba edded soon.)
+(A description of how the settings works will be added soon.)
