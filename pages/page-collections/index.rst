@@ -47,6 +47,7 @@ Use the settings this way:
 + **Auto Publish**: This is a setting probably most relevant for Communities. If this option is selected a new page is always published automatically. It's only applicable when a new page is created, not when it's updated.
 + **Page Types**: Select which of the Page Types that should be available for an editor to select when creating a page in this Page Collection. It can be Local Page Types or Tenant Page Types. Tenant Page Types are indicated by the text "(Tenant)". For more information, see this page: :doc:`Tenant Page Types </admin-settings/tenant-settings/webcontent-managament/page-types/index>`
 + **Automatic Page Creation**: A copy of a page can be published automatically to another Page Collection when certain rules are met. These rules can be set up here. For more information, see this page: :doc:`Automatic Page Creation </pages/automatic-page-creation/index>`
++ **Yammer Integration**: This option is available in Omnia 6.7 and later. When Yammer Integration is setup, a post will be created in the selected Yammer community whenever a new page, matching the selected criteria, is created. The comments and likes section will also be synced between the page in Omnia and the post in Yammer. See below for more information.
 + **Enable Approval**: If Approval should be needed for publication of pages (new pages and updates), enable this. If not enabled, editors can publish themselves. See more info about Approval settings below.
 + **Enable Activity Tracking**: For a Community, Activity Tracking can be activated. See the heading *Settings for Activity Points* on this page, for more information: :doc:`Setting up a Community </using-communities/settings/index>` 
 + **Reset notification when page is modified**: This setting defines when a notification that a page is new should be shown for users, for example in the Notification Panel. Normally it's only when the page is created, not when it's updated. If this option is activated the page is considered to be new every time it's updated and a new version is published. Therefore it's probably more relevant for pages in Communities than for Publishing Pages.
@@ -55,6 +56,25 @@ Use the settings this way:
 + **Break permission inheritance by default**: Select this option if inheritnace should be broken when a new page is created within the Page Collection. This could, for example, be useful for Communities. When this option is active, the colleague creating the page will be the page owner, meaning that he or she has full control over who can edit. The new option "Invite co-authors" can then be used to easily add authors for the page, see below.
 + **Allow invitation of co-authors**: If this option is selected, authors can invite co-authors. 
 
+Setup Yanmer integration for the Page Collection
+-------------------------------------------------
+(This option is available in Omnia 6.7 and later). 
+
+To set up Yammer integration, do the following:
+
+1. Select "Edit" to edit the settings.
+2. Click the cogwheel for "Yammer Integration".
+
+.. image:: yammer-integration-cogwheel.png
+
+3. Use these settings:
+
+.. image:: yammer-integration-settings.png
+
+(A description of these settings will be added soon.)
+
+Allow invitation of co-authors
+------------------------------------
 If "Allow invitation of co-authors" is selected, an author can use this menu option to invite one or more co-authors:
 
 .. image:: co-author-meny.png
@@ -121,7 +141,5 @@ One example where "Flat" is a relevant choice, is when creating a new Page Colle
 The new Page Collection is created and placed in the editors navigation. You can now add pages and everything else that is described in the "Pages" section of this documentation.
 
 For settings for the Page Collection, see above.
-
-
 
 
