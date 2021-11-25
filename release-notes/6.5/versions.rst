@@ -1,3 +1,18 @@
+6.6.5
+=======================================
+(Omnia 6.6.4 / Workplace 6.6.5 / WCM 6.6.4 / MS 6.6.2)
+
+- Stability improvements in ODM when deleted accounts are encountered. 
+- Improved checking for missing review reminders.
+- Workflow history now populates even when no workflow (approval) is used.
+- Fixed an issue casing inline images not to display in some html scenarios (#132749, #133881).
+- Fixed a preview rendering issue in the mega menu block.
+- Some updates to the community default template.
+- Authors now have the same permissions in Event Management as Editors (#133846).
+- Corrected a theme glitch in the top search (#133885).
+- Fixed an issue in the navigation query of the page rollup (#133826).
+
+
 6.6.4
 =======================================
 (Omnia 6.6.2 / Workplace 6.6.4 / WCM 6.6.3 / MS 6.6.1)
