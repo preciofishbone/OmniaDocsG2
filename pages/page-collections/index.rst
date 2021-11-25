@@ -73,9 +73,19 @@ To set up Yammer integration, do the following:
 
 + **Yammer Group**: Select a Yammer Group to intergate this Page Collection with.
 + **Initial Properties**: Select the properties used on pages for Title, Summary and Content.
-+ **Page Creation Rule**: Select if a Yammer post should always be created when a page is added, or only if certain prerequisites are met.
++ **Page Creation Rule**: Select if a Yammer post should always be created when a page is added, or only according to certain rules.
 
 4. Save when you're done.
+
+To set up rules, do the following:
+
+1. Select "Only Create If*.
+2. Click ADD to add a rule.
+3. Select a property.
+
+.. image:: yammer-integration-property.png
+
+4. Add settings for that property as needed.
 
 Allow invitation of co-authors
 ------------------------------------
