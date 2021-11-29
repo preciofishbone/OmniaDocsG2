@@ -19,6 +19,8 @@ To copy an event page, do the following:
 
 2. Choose what to do and enter settings if needed.
 
+For a draft copy of the event page, no settings are needed.
+
 .. image:: copy-event-2.png
 
 For Daily, you can set the following:
