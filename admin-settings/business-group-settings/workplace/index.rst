@@ -11,9 +11,7 @@ Settings
 **********
 The available settings in Omnia Admin are these:
 
-.. image:: workplace-settings-new.png
-
-(The Home option is missing in the image.)
+.. image:: workplace-settings-new2.png
 
 Note the information that classic settings are activated for this Business Profile.
 
