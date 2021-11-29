@@ -22,8 +22,8 @@ Select section for more information:
 
    classic-is-enabled/index
    settings/index
-   header/index
    workspace-home/index
+   header/index
    navigation-bar/index
    footer/index
 
