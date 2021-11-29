@@ -17,7 +17,7 @@ To copy an event page, do the following:
 
 (If this option is not available, you don't have the correct permissions).
 
-2. Choose what to do.
+2. Choose what to do and enter settings if needed.
 
 .. image:: copy-event-2.png
 
