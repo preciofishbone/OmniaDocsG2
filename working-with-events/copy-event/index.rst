@@ -13,13 +13,13 @@ To copy a page, do the following:
 
 1. Click COPY EVENT.
 
-.. image:: copy-event.png
+.. image:: copy-event-2.png
 
 (If this option is not available, you don't have the correct permissions).
 
 2. Choose what to do.
 
-.. image:: copy-event-1.png
+.. image:: copy-event-2.png
 
 For Daily, you can set the following:
 
@@ -34,15 +34,5 @@ For Monthly, these settings are available:
 .. image:: copy-event-monthly.png
 
 3. Click COPY.
-
-
-
-
-
-
-
-
-
-
 
 
