@@ -3,8 +3,6 @@ Notification Panel
 
 The Notification Panel is a concept in Omnia. The purpose is to help end users find out what information has been updated within different areas of the intranet.
 
-**Note!** In Omnia 6.7 and later, this option has been moved from the Workspace settings to a main option for a Business Profile. The description below is still valid.
-
 A Notification Panel can be placed on any page through the Notification Panel block, or in the Action Manu, to show different notifications. You can create several Notification Panels for different purposes.
 
 The first you will see is the list of existing notification panels, for example:
