@@ -17,7 +17,23 @@ To copy a page, do the following:
 
 (If this option is not available, you don't have the correct permissions).
 
-More info will be added in a moment .....
+2. Choose what to do.
+
+.. image:: copy-event-1.png
+
+For Daily, you can set the following:
+
+.. image:: copy-event-daily.png
+
+For Weekly, you can set this:
+
+.. image:: copy-event-weekly.png
+
+For Monthly, these settings are available:
+
+.. image:: copy-event-monthly.png
+
+3. Click COPY.
 
 
 
