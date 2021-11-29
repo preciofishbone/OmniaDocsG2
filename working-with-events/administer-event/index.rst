@@ -1,7 +1,7 @@
 Administer an Event
 =======================
 
-There's a number of actions available for Event Administrators. These actions are described here. The options are available in Write mode.
+There's a number of actions available for Event Managers. These actions are described here. An Event Manager is a colleague with Page Author permissions, that manages the event on a page. The options are available in Write mode.
 
 If you need to edit properties for an event, you do that in the Page Properties, see the bottom of this page: :doc:`Creating a new event </working-with-events/creating-new-event/index>`
 
@@ -52,7 +52,4 @@ Send e-mail to all participants
 You can send an e-mail to all participants by clicking this button:
 
 .. image:: event-editing-email-button.png
-
-
-
 
