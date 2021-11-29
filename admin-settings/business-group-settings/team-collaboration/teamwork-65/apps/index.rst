@@ -134,8 +134,8 @@ Using this option you can attach any Teamwork Site to Omnia. When a Teamwork Sit
 
 The following permissions are required to be able to attach a site:
 
-For an Omnia Teamwork app: App Administrator permissions
-For a Sharepint site: Site Collection Administrator permissions
++ For an Omnia Teamwork app: App Administrator permissions.
++ For a Sharepoint site: Site Collection Administrator permissions.
 
 Do the following to attach a site:
 
@@ -149,4 +149,7 @@ The following is shown:
 
 3. Paste the Url and click "Resolve".
 
-You can "detach" a site if needed, 
+You can "detach" (delete) a site if needed. Then the following permissions are needed:
+
++ For an Omnia Teamwork app: App Administrator permissions.
++ For a Sharepoint site: Site Owner or Site Collection Administrator permissions.
