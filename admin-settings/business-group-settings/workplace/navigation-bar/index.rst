@@ -54,32 +54,31 @@ Home settings
 ***************
 Here you can edit the settings for the link to the Workspace Home page. 
 
-To edit Home settings, see to that "Home" is selected to the left, and then click "Edit":
+.. image:: workplace-navigation-home-settings-new.png
 
-.. image:: workplace-navigation-home-settings-edit.png
-
-Then, click SETTINGS.
-
-.. image:: workplace-navigation-home-settings-settings.png
-
-The following is available:
-
-.. image:: workplace-navigation-home-settings-shown.png
-
-+ **Title**: If you would like to show a Home title, add it here, in any or all the tenant languages. Click the flag to change language.
++ **Home Title**: If you would like to show a Home title, add it here, in any or all the tenant languages. Click the flag to change language. Then select "Show Title" below.
++ **Icon Type**: To show an icon, select Icon Type here. If you select "Custom" here, you can upload any image, using the Media Picker, to use as an icon. (If an Icon Type is seleted, but no icon is selected, no icon is shown).
++ **Icon**: To show an icon, select icon in the list. Then select "Show Icon" below.
 + **Logo Text**: If you would like to show a logo text by the Home title, add it here, in any or all the tenant languages. Click the flag to change language.
++ **Show Logo**: If a Logo should be displayed, select this option. Note that you use ADD LOGO to upload the logo, see below.
++ **Show Icon**: If an icon should be displayed, either an icon selected in the Icon list, or one you have uploaded, select this option.
++ **Show Title**: If the Home Title should be displayed, select this option.
 
-Another alternative is to add a logo image. Do it this way:
+Note the separate settings for the Home page in Microsoft Teams.
+
+To add a Logo, do the following:
 
 1. Click ADD.
 
-.. image:: workplace-navigation-home-settings-click-add.png
+.. image:: workplace-navigation-home-settings-click-add-new.png
 
 2. Use the Media Picker to find and select the image.
 
-.. image:: workplace-navigation-home-settings-media-picker.png
+.. image:: workplace-navigation-home-settings-media-picker-new.png
 
 See this page for more information: :doc:`The Media Picker </general-assets/media-picker/index>`
+
+Don't forget to save when you're done.
 
 Working with the layout
 *************************
