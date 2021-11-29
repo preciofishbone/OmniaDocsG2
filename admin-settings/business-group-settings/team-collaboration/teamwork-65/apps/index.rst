@@ -113,7 +113,7 @@ Available options depend on the template chosen. Here's some common ones:
 
 .. image:: team-collaboration-administrator-new.png
 
-+ **App Administrator**: You are automatically added as the Administratore. Add or remove Administrators as needed.
++ **App Administrator**: You are automatically added as the Administrator. Add or remove Administrators as needed.
 
 7. Click "Next".
 8. Set Enterprise Properties if nedded.
@@ -132,7 +132,12 @@ Attach a Teamwork Site
 ************************
 Using this option you can attach any Teamwork Site to Omnia. When a Teamwork Site is attached you can handle the site through Omnia the same way as a site created through Omnia.
 
-Do the following:
+The following permissions are required to be able to attach a site:
+
+For an Omnia Teamwork app: App Administrator permissions
+For a Sharepint site: Site Collection Administrator permissions
+
+Do the following to attach a site:
 
 1. Copy the Url for the Teamwork Site you want to attach.
 2. Go to Team Collaboration settings and click the plus.
@@ -144,4 +149,4 @@ The following is shown:
 
 3. Paste the Url and click "Resolve".
 
-
+You can "detach" a site if needed, 
