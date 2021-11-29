@@ -52,6 +52,8 @@ See below for information on how to add Action Menu objects.
 
 Home settings
 ***************
+Here you can edit the settings for the link to the Workspace Home page. 
+
 To edit Home settings, see to that "Home" is selected to the left, and then click "Edit":
 
 .. image:: workplace-navigation-home-settings-edit.png
