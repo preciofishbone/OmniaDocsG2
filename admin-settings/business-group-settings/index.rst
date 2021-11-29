@@ -9,7 +9,7 @@ Business Profile Settings
    event-management/index
    features/index
    forms/index
-   notification-panel/index
+   workplace/notification-panel/index
    omnia-feed/index
    permissions/index
    publishing-apps/publishing-65/index
