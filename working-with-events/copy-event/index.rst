@@ -9,7 +9,7 @@ It works this way:
 
 + If you copy an event with repeat (daily, weekly or monthly), the copies (pages) are created and published, meaning they are available automatically. Also note that you can't create more than 20 repeat events (pages) at a time.
 
-To copy a page, do the following:
+To copy an event page, do the following:
 
 1. Click COPY EVENT.
 
