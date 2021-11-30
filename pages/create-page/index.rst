@@ -57,11 +57,11 @@ Page Contact and Review Date are two common properties. The page contact is ofte
 
 .. image:: new-page-properties-next-new.png
 
-In Omnia 6.7 and later, it can be possible to publish to channels. If that is allowed in the Page Collection, a Channel tab will ne shown. You can then select the channels to publish to, but this is never mandatory. Normally publication must be approved by the channel owner, but if you are a Publisher for that channel, you can publish directly, without approval.
+In Omnia 6.7 and later, it can be possible to publish to channels. If that is allowed in the Page Collection, a Channel tab will be shown. You can then select the channels to publish to, but this is never mandatory. Normally publication must be approved by the channel owner, but if you are a Publisher for that channel, you can publish directly, without approval.
 
 Here's an example with four channels available. The author has chosen to publish in the channel he or she is publisher for:
 
-.. image:: publish-channel.png
+.. image:: publish-to-channel.png
 
 When the last Wizard step has been edited, something like the following is shown. What you will do next is really up to you, but to save a draft at this point is a good idea.
 
