@@ -34,6 +34,6 @@ Here's how to create a new channel:
 + **Owner**: One or more owners of the channel must be added.
 + **Administrator**: One or more administrators of the channel must be added.
 + **Publisher**: One or more publishers can be added. This is not mandatory. The colleagues you add here can publish to the channel without approval.
-+ **Targeting filter**: A channel can be targeted, meaning the defined colleagues or groups are the only ones that can read the pages published to the channel. Targeting works the same for channels as described for blocks. See the heading "Targeting" on this page: doc:`General settings for blocks </blocks/general-block-settings/index>`
++ **Targeting filter**: A channel can be targeted, meaning the defined colleagues or groups are the only ones that can read the pages published to the channel. Targeting works the same for channels as described for blocks. See the heading "Targeting" on this page: :doc:`General settings for blocks </blocks/general-block-settings/index>`
 
 3. Save when you're done.
