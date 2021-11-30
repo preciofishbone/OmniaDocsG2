@@ -1,7 +1,7 @@
 Publishing Channels
 ===========================
 
-This is new functionality to come in Omnia 6.7. 
+**This is a rpeliminary documentation of new functionality to come in Omnia 6.7.**
 
 Publishing Channels provide an alternative way of targeting information and putting pages into context.
 
@@ -27,13 +27,13 @@ Here's how to create a new channel:
 
 .. image:: channels-settings-new.png
 
-+ **Title**: 
-+ **Description**: 
++ **Title**: Add a title in any or several of the tenant langauges. Click the flag to change language.
++ **Description**: Add a description of the purpose of the channel in any or several of the tenant langauges. Click the flag to change language.
 + **Url**: 
-+ **ADD IMAGE**: 
-+ **Owner**: 
-+ **Administrator**: 
-+ **Publisher**: 
-+ **Targeting filter**: 
++ **ADD IMAGE**: To add an image to be shown for the channel, click here and use the Media Picker to upload the image. When an image is selected you delete it or edit it by clicking the pen. For more information about the Media Picker, see: :doc:`The Media Picker </general-assets/media-picker/index>`
++ **Owner**: One or more owners of the channel must be added.
++ **Administrator**: One or more administrators of the channel must be added.
++ **Publisher**: One or more publishers can be added. This is not mandatory.
++ **Targeting filter**: A channel can be targeted, meaning the defined colleagues or groups are the only ones that can read the pages published to the channel. Targeting works the same for channels as described for blocks. See the heading "Targeting" on this page: doc:`General settings for blocks </blocks/general-block-settings/index>`
 
 3. Save when you're done.
