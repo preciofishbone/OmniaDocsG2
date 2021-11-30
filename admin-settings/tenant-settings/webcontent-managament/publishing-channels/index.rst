@@ -1,7 +1,7 @@
 Publishing Channels
 ===========================
 
-**This is a rpeliminary documentation of new functionality to come in Omnia 6.7.**
+**This is a preliminary documentation of new functionality to come in Omnia 6.7.**
 
 Publishing Channels provide an alternative way of targeting information and putting pages into context.
 
