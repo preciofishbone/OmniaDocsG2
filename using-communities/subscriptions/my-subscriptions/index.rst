@@ -39,6 +39,6 @@ Available channels are shown, for example:
 
 .. image:: my-subscriptions-67-channels.png
 
-Click ADD to add a channel. In the list of selected channels you can click the dust bin if you now longer want to subscribe to that channel.
+Click ADD to add a channel. In the list of selected channels you can click the dust bin if you no longer want to subscribe to that channel.
 
 
