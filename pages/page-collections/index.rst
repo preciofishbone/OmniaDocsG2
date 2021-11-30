@@ -55,6 +55,7 @@ Use the settings this way:
 + **Enable Scheduling**: If scheduling should be available in this Page Collection, select this option. In Omnia 6.0 the author can then set a scheduled start date and time. In Omnia 6.5 it will be possible to select a property for scheduling, as an alternative. 
 + **Break permission inheritance by default**: Select this option if inheritnace should be broken when a new page is created within the Page Collection. This could, for example, be useful for Communities. When this option is active, the colleague creating the page will be the page owner, meaning that he or she has full control over who can edit. The new option "Invite co-authors" can then be used to easily add authors for the page, see below.
 + **Allow invitation of co-authors**: If this option is selected, authors can invite co-authors. 
++ **Enable publishing to channels**: This is a new option that will come in Omnia 6.7. If you enable this, it will be possible for an author to select channels the page should be published in. Publication to a channel may require approval from the channel administrator.
 
 Setup Yammer integration for the Page Collection
 -------------------------------------------------
