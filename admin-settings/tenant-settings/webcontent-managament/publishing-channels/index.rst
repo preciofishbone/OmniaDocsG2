@@ -25,6 +25,15 @@ Here's how to create a new channel:
 
 2. Use the following settings:
 
-.. image:: channels-settings.png
+.. image:: channels-settings-new.png
 
-(A description of how the settings works will be added soon.)
++ **Title**: 
++ **Description**: 
++ **Url**: 
++ **ADD IMAGE**: 
++ **Owner**: 
++ **Administrator**: 
++ **Publisher**: 
++ **Targeting filter**: 
+
+3. Save when you're done.
