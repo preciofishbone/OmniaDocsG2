@@ -31,7 +31,7 @@ When "Group Membership" is selected, this link is shown:
 
 .. image:: targeting-properties-settings-map-v6.png
 
-How to map Group Membership is explained on this page: (link to be added)
+How to map Group Membership is explained on this page: :doc:`General Block Settings </blocks/general-block-settings/index>`
 
 Delete or edit Target Property
 **********************************
