@@ -38,6 +38,8 @@ Category settings
 --------------------
 The settings for a Category is the same as the settings for the corresponding Block, see:
 
+Action button: :doc:`The Action Button block </blocks/button-link/index>`
+
 Activity Feed: :doc:`The Activity Feed block </blocks/activity-feed/index>`
 
 Announcements: :doc:`The Announcements block </blocks/announcements/index>`
@@ -46,7 +48,7 @@ Calendar Rollup: :doc:`The Calendar Rollup block </blocks/calendar-rollup/index>
 
 Document Rollup: :doc:`The Document Rollup block </blocks/document-rollup/index>`
 
-HTML Script:doc:`The HTML Scripts block </blocks/html-script/index>`
+HTML Script: :doc:`The HTML Scripts block </blocks/html-script/index>`
 
 My Tasks: :doc:`The Tasks Rollup block </blocks/task-rollup/index>`
 
@@ -56,4 +58,8 @@ People Rollup: :doc:`The People Rollup block </blocks/people-rollup/index>`
 
 RSS Reader: :doc:`The RSS Reader block </blocks/rss-reader/index>`
 
+Sign-off Requests: :doc:`The Sign-off Request Rollup block </blocks/sign-off-request/index>`
+
 Team News Rollup: :doc:`The Team News Rollup block </blocks/team-news-rollup/index>`
+
+Yammer Feed: :doc:`The Yammer Feed block </blocks/yammer-feed/index>`

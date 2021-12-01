@@ -1,5 +1,5 @@
-RTF Editor
-=================
+Editing text with the RTF Editor
+=====================================
 
 When editing text in Omnia, a RTF editor can be available. What is available in the editor is set up in Omnia Admin, and in a few cases in the block itself.
 
@@ -53,6 +53,46 @@ To edit or remove a link:
 2. Use the icons in the floating toolbar.
 
 .. image:: rtf-editor-all-link-edit.png
+
+Add link to Enterprise term
+------------------------------
+In Omnia 6.7 and later you may be able to add a link to an enterprise term, and by that use the Enterprise Glossary functionality.
+
+Here's how to add such a link:
+
+1. Type the text as usual and when you type something that match a term in the Enterprise Glossary, it's highlighted.
+
+.. image:: rtf-editor-glossary-aware-highlight.png
+
+2. To add a link to that term (you don't have to), click the term and the following is shown:
+
+.. image:: rtf-editor-glossary-aware-highlight-icons.png
+
+3. Click the left icon to create the link (the one to the left to remove it).
+
+For more information about Glossary Terms, see: :doc:`Enterprise Glossary </admin-settings/tenant-settings/properties/enterprise-glossary/index>`
+
+Add and anchor (bookmark)
+---------------------------
+Anchors can used in the Add Link general asset and when creating a link button using the Action button block. So, if you add an anchor (bookmark) to the text, links can be created to that anchor.
+
+Anchors are available in Omnia 6.7 and later.
+
+Here's how to add an anchor:
+
+1. Type the text.
+2. Select the text where the anchor should be placed.
+3. Click the anchor icon.
+
+.. image:: anchor-icon.png
+
+4. Add an anchor name and save.
+
+.. image:: anchor-name.png
+
+For more information about Add link, see: :doc:`Add link </general-assets/add-link/index>`
+
+For more information about the Action button block, see: :doc:`Action button </blocks/button-link/index>`
 
 Add Media
 -----------
@@ -136,8 +176,4 @@ HTML
 If it's available, you can work with the HTML Code, if you know how. When you click the icon a separate window is opened, where you do your HTML work.
 
 .. image:: rtf-editor-html.png
-
-
-
-
 

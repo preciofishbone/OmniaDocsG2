@@ -6,12 +6,12 @@ Blocks
 
    
    accordion/index
+   button-link/index
    activity-feed/index
    announcements/index
+   banner/index
    blocks-event-management/index
    blocks-forms/index
-   button-link/index
-   banner/index
    breadcrumb/index
    calendar-rollup/index
    create-app/index
@@ -30,6 +30,7 @@ Blocks
    my-subscriptions/index
    notification-panel/index
    omnia-block-webpart/index
+   organization-tree/index
    page-feedback/index
    page-likes-and-comments/index
    page-properties/index
@@ -56,8 +57,3 @@ Blocks
    working-with-blocks/index
    yammer-feed/index
    
-
-
-
-
-

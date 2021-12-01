@@ -22,6 +22,7 @@ The following actions are available to add as a button:
 + Process Feedback
 + Quick Search
 + Share
++ Sign-off Requests
 + Strenghten Profile
 + Subscribe
 + Teamwork Navigation
@@ -128,6 +129,7 @@ Link
 Using this action a Link Action can be added, meaning a link can be opened:
 
 + **Url**: Type or paste the Url to go to when a user clicks the link. 
++ **Anchor Name**: In Omnia 6.7 and later, anchors are supported. Type the Anchor Name in this field to create a link to an anchor.
 + **Target**: Choose if the link should be opened in a new window, the current window, or in a dialog. 
 + **Dialog Position**: If you selected "Dialog" for Target, you can select where to place the dialog: Center, Full screen, Left or Right.
 
@@ -197,7 +199,15 @@ This button type is available in Omnia 6.6 and later.
 
 .. image:: action-button-sign-off.png
 
-(More info will be added soon).
++ **Type**: You can choose between "Administrattion List" and "End-user sign off".
+
+The Administration List, displays all Sign-off requests the logged in administrator has sent, indicating what has happened so far. Here's an example:
+
+.. image:: requests-admin-list.png
+
+The colored dots indicates the number of answers: white for none, yellow for some and green for all that the request was sent to.
+
+The End-user sign off displays the same as the Sign-off Request Rollup block does. See this page for an example: :doc:`The Sign-off Request Rollup block </blocks/sign-off-request/index>`
 
 Strengthen Profile
 ----------------------

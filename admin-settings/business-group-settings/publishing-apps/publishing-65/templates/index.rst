@@ -5,7 +5,7 @@ Here you can work with templates for Publishing Apps.
 
 .. image:: publishing-templates-new.png
 
-To edit a template, click the name - to delete, click the dust bin.
+To edit a template, click the name - to delete, click the dust bin. When you edit a template, all options that are described below are available.
 
 Creating a new Publishing App template
 ****************************************
@@ -62,7 +62,7 @@ Select the features that should be available for the publishing app (all are not
 
 Setup
 -------
-Using the options here you can create one or more Page Collections to be set up automatically when this template is used. There's also some settings available.
+Using the options here you set Publishing App settings and can create one or more Page Collections to be set up automatically when this template is used.
 
 .. image:: publishing-edit-setup-new.png
 
@@ -74,7 +74,7 @@ To edit settings, click "Publishing App Settings" and use the following settings
 + **Contact Property**: Select the default property for page contact.
 + **Review Date Property**: Select the default property for review date.
 
-To create one or more Page Coillections, do the following:
+To create one or more Page Collections, do the following:
 
 1. Click the plus for "Page Collection".
 
@@ -88,20 +88,22 @@ To create one or more Page Coillections, do the following:
 
 One example where “Flat” is a relevant choice, is when creating a Page Collection for News.
 
-4. Type a name for the new Page Collection.
+4. Type a name (Title) for the new Page Collection.
 
 An Url is added, based on the name. It can be edited if needed.
 
 5. Click “Create”.
 6. Edit the settings.
 
-.. image:: publishing-page-collection-settings-edit.png
+.. image:: publishing-page-collection-settings-edit-new.png
 
-(All settings are not shown in the image).
+(There's a lot more settings than is shown in the image).
 
-You use these settings the same way as is described on this page: :doc:`Page Collections </pages/page-collections/index>`
+Page Collection Permissions are described on this page: :doc:`Page Collection Permissions </pages/page-collections/page-collection-permissions/index>`
 
-Don't forget to save when you're ready (the "Save" option is located in the low right corner).
+You use the rest of the settings the same way as is described on this page: :doc:`Page Collections </pages/page-collections/index>`
+
+Don't forget to save when you're ready (the "Save" option is located at the bottom, in the low right corner).
 
 To add another Page Collection, just do it the same way.
 

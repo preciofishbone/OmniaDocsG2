@@ -1,7 +1,7 @@
 Templates
 ===========
 
-Here you can work with templates for Sign-off Requests. A template is a number of page that should be read and signed off. A template can then be used to create Sign-off Requests, where pages from the template can be removed, and additional pages added, if needed.
+Here you can work with templates for Sign-off Requests. A template is one or more pages that should be read and signed off. A template can then be used to create Sign-off Requests, where pages from the template can be removed, and additional pages added, if needed.
 
 .. image:: sign-off-requests-templates-new2.png
 
@@ -19,7 +19,7 @@ To create a new template, do the following:
 
 .. image:: sign-off-requests-templates-options.png
 
-3. Add a name or the template in any of the tenant languages (click the flag to change language).
+3. Add a name for the template in any of the tenant languages (click the flag to change language).
 
 4. Click the plus to add pages.
 
@@ -31,4 +31,4 @@ You can now Navigate and Pick (Browse) or Search, the same way as in the Page Pi
 
 5. Click ADD when you have selected one or more pages to add to the Sign-off Request.
 6. Repeat adding pages until all pages you want in the template is in place.
-7. Click SAave to save the template.
+7. Click SAVE to save the template.

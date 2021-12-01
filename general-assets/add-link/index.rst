@@ -7,6 +7,10 @@ Add link is used when a link is added in a block and a few other instances.
 
 You can use this asset to add a link to a page or document in the tenant, or create a Custom link to any web page. A mailto link can be created using a Custom link.
 
+In Omnia 6.7 and later Anchors are supported and can be used here. Type the Anchor Name in this field to create a link:
+
+.. image:: add-link-anchor.png
+
 Custom link
 ************
 The following settings are available:
@@ -57,10 +61,4 @@ If the Page Collection isn't present in the list, select "Others..." so you can 
 Document
 *********
 When you want to link to a document, the options are exactly the same as those in "Document Picker". For more information see: :doc:`Document Picker </general-assets/document-picker/index>`
-
-
-
-
-
-
 

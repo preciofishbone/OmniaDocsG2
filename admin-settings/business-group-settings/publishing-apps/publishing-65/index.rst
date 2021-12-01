@@ -1,4 +1,4 @@
-Publishing Apps
+Publishing
 ========================================
 
 The following settings are available here:

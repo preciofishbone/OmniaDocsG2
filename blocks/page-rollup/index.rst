@@ -27,7 +27,9 @@ Here you can set the following:
 + **Pick in Write Mode**: Available when Pick Pages is selected. Select this option if editors should be able to pick pages in Write mode. If not selected, Design mode has to be used.
 + **ADD PAGE**: When you have selected Pick Pages, you can pick some pages to always be shown. Click this option and use the Page Picker. See this page for more information: :doc:`Page Picker </general-assets/page-picker/index>`
 + **Use Query Builder**: If you want to use the query builder to set which pages should be available here, select this option.
-+ **Scope**: When you have chosen to use the Query Builder, select scope for the block; Publishing Apps, Page Collections or Navigation path. Then open the list below and select Publishing Apps/Page Collections. Regarding Navigation path, use it to select a node to get the pages from. When you have selected start node you can choose navigation depth. There's also a view available, specifically for Navigation Path - Navigation View. Select it under Display.
++ **Scope**: When you have chosen to use the Query Builder, select scope for the block; Publishing Apps, Page Collections or Navigation path. In Omnia 6.7 it will also be possible to select Channels as Scope. Then open the list below and select Publishing Apps/Page Collections. Regarding Navigation path, use it to select a node to get the pages from. When you have selected start node you can choose navigation depth. There's also a view available, specifically for Navigation Path - Navigation View. Select it under Display.
++ **Current User Subscription**: Available for Scope Channels. Select this if only the pages that the logged in users subscribes to should be displayed.
++ **Custom Query**: Available for Scope Channels. Use this to select one or more channels to rollup pages from. Note that a channel can be targeted to just certain colleagues or groups. See example below.
 + **Exclude current page**: Available when you have chosen scope for the Query Builder. The default setting is to exclude the current page, but if you, for some reason, would like to include the current page, uncheck this option.
 + **Trim duplicates**: Available for the Query Builder. If more than one Page Rollup block is added to a page, this option can be used to handle duplicates between the blocks. When the option is selected, you can enter a number indicating the priority for duplicates, for this block. If you set "1" for a block it means this block has priority showing a post that would have been a duplicate. 
 + **Query Item Limit**: Available for the Query Builder. Use the slider, or type the number (1-99) to set the number of pages that should be retrieved to make sure all duplicates are found. You should not set this number higher than you really need, as higher numbers may have an impact on performance. Note that when you change the number, "Max Display Limit" is also changed, see below.
@@ -45,6 +47,10 @@ For every Publishing App or Page Collection you have selected, you can filter (m
 Here's an example of a filter that will display pages that have been updated (Modified) the last month:
 
 .. image:: page-rollup-query-filter-example-new2.png
+
+Here's an example of a custom query for channels (available in Omnia 6.7):
+
+.. image:: page-rollup-channel-example.png
 
 Filter on a specific variation
 --------------------------------
@@ -72,6 +78,7 @@ The following lists all available display settings, shown in different order for
 + **Delay between slides**: Set the time between slides in milli seconds.
 + **Hide block when no data**: Select this option if the block should be hidden when there's nothing to display.
 + **Hide if read**: Select this option to hide all pages the logged in user has visited. This affects all pages, including news.
++ **Highlight non-read**: This option makes sure non-read pages are highlighted. Default=selected. Deselect if you don't want that.
 + **Image**: Select the property that contains the image for the item(s) to display.
 + **Image Ratio**: Select ratio for the image; Landscape, Square or Wide. 
 + **Image x and y**: Select the image format here. Available for "Single Item" only.

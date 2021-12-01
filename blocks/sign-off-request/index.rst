@@ -1,8 +1,24 @@
 Sign-off Requests Rollup
 ==========================
 
-This block is used for Sign-off Requests Rollup, for managers and aministrators to be able to follow up Sign-off Requests.
+This block is used for listing the Sign-off Requests that is sent to the logged in user or a group that the user belongs to.
 
+Here's an example with one of the requests opened:
+
+.. image:: sign-off-request-rollup-example.png
+
+The user can read the information by clicking the link and can then sign off using the button:
+
+.. image:: sign-off-request-rollup-example-signedoff.png
+
+The colored dots indicates the progress: green for all read, yellow for some and white for none, within each request, and for the whole request.
+
+.. image:: sign-off-request-rollup-example-signedoff-colors.png
+
+It's also possible to "UNDO" a request, really meaning reading the information again.
+
+Settings
+**********
 In the settings for the block, you can just add a block name:
 
 .. image:: sign-off-requests-block-settings.png

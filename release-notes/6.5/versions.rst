@@ -1,3 +1,32 @@
+6.6.5
+=======================================
+(Omnia 6.6.4 / Workplace 6.6.5 / WCM 6.6.4 / MS 6.6.2)
+
+- Stability improvements in ODM when deleted accounts are encountered. 
+- Improved checking for missing review reminders.
+- Workflow history now populates even when no workflow (approval) is used.
+- Fixed an issue casing inline images not to display in some html scenarios (#132749, #133881).
+- Fixed a preview rendering issue in the mega menu block.
+- Some updates to the community default template.
+- Authors now have the same permissions in Event Management as Editors (#133846).
+- Corrected a theme glitch in the top search (#133885).
+- Fixed an issue in the navigation query of the page rollup (#133826).
+
+
+6.6.4
+=======================================
+(Omnia 6.6.2 / Workplace 6.6.4 / WCM 6.6.3 / MS 6.6.1)
+
+- Fixed an issue with Array properties in the Azure AD Sync.
+- Document Management stability fixes.
+- Current node style now work correctly in the Mega Menu block.
+- Fixed an issue in the RTE block causing new paragraph to sometimes not register correctly. 
+- Fixed an issue that prevented custom notification color from being saved.
+- Fixed an upgrade issue related to the User Profile card.
+- Fixed an issue with the links to reusable pages (#133465).
+- Ensured all categories are loaded into the settings of the Quick links block (#133587).
+- Fixed an issue with root level values in search refiners (#133501)
+
 6.6.0
 ========================================
 (Omnia 6.6.0 / Workplace 6.6.0 / WCM 6.6.0 / MS 6.6.0)
