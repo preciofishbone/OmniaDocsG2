@@ -31,18 +31,18 @@ When "Group Membership" is selected, this link is shown:
 
 .. image:: targeting-properties-settings-map-new.png
 
-When you click the link, settings according to the property you have selected is shown. Here's an example of settings for "Job Role":
+When you click the link, the term set for to the property you have selected is shown. Here's an example for "Job Role":
 
 .. image:: targeting-properties-settings-map-v6-group-new.png
 
-What you do here in this example is to map the job roles shown to the left, to groups.
+What you do here is to map terms from he term set, to groups. You don't need to map all, if you don't need all.
 
-1. Click the job role you want to link.
+1. Click the term you want to link.
 2. Select a group in the list by searching (type beginning of a group and see what pops up).
 
 .. image:: targeting-properties-settings-map-v6-group-list-new.png
 
-3. Continue this way until all job roles you want to map is done. (You don't need to map all if you don't need to).
+3. Continue this way until all terms you want to map is done. 
 4. Save when you're finished.
 
 Delete or edit Target Property
