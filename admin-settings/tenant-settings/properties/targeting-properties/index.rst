@@ -31,7 +31,7 @@ When "Group Membership" is selected, this link is shown:
 
 .. image:: targeting-properties-settings-map-new.png
 
-When you click the link, the term set for to the property you have selected is shown. Here's an example for "Job Role":
+When you click the link, the term set for the property you have selected is displayed. Here's an example for "Job Role":
 
 .. image:: targeting-properties-settings-map-v6-group-new.png
 
