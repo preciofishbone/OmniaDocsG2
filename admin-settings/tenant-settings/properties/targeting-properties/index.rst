@@ -31,7 +31,18 @@ When "Group Membership" is selected, this link is shown:
 
 .. image:: targeting-properties-settings-map-v6.png
 
-How to map Group Membership is explained on this page: :doc:`General Block Settings </blocks/general-block-settings/index>`
+When you click the link, settings according to the property you have selected is shown. Here's an example of possible mappings for "Job Role":
+
+.. image:: targeting-properties-settings-map-v6-group.png
+
+What you do here is to map the properties shown to the left, to groups that exits in your tenant.
+
+1. Click the property you want to link.
+2. Select a group ine the list by searching (type beginning of a group and see what pops up).
+
+.. image:: targeting-properties-settings-map-v6-group-list.png
+
+3. Save when you're done.
 
 Delete or edit Target Property
 **********************************
