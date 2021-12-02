@@ -53,5 +53,7 @@ Available channels are shown, for example:
 
 2. Click ADD to add a channel. 
 
+It's also possible that subscription of a channel can be created automatically for specific colleagues or groups, if setup in the channel.
+
 In the list of selected channels you can click the dust bin if you no longer want to subscribe to a channel.
 
