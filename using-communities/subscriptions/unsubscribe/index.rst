@@ -1,5 +1,5 @@
-How to unsubscribe
-====================
+How to unsubscribe in a Community
+====================================
 
 When you have subscribed to a community, knowledge articles or discussions within i community, the option changes to reflect that. Just click "UNSUBSCRIBE" to unsubscribe to that level.
 
