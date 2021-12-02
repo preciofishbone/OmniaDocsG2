@@ -3,27 +3,29 @@ My Subscriptions
 
 Use My subscriptions for an overview of your subscriptions. You can unsubscribe using this as well.
 
-My descriptions can be available in more than one way, for example in the "My Profile" menu.
+My descriptions can be available in more than one way, for example in the "My Profile" menu:
 
 .. image:: my-profile-menu-1.png
 
 .. image:: my-profile-menu-2.png
 
-Here's an example:
+My Subscriptions can also be available in a block on any page.
 
-.. image:: my-subscriptions-1.png
+Here's an example (images from Omnia 6.7):
 
-The left tab (show in the image above) lists all communities you subscribe to - meaning you subscribe to ALL activities in that community. 
+.. image:: my-subscriptions-1-new.png
 
-The middle tab lists all knowledge articles and discussion you subscribe to, for example:
+The left tab (shown in the image above) lists all communities you subscribe to - meaning you subscribe to ALL activities in that community. 
 
-.. image:: my-subscriptions-2.png
+The second tab lists all knowledge articles and discussion you subscribe to, for example:
+
+.. image:: my-subscriptions-2-new.png
 
 You can click the title to go to the page or discussion.
 
-The tab to the right displays a list of all tags you subscribe to, for example:
+The third tab displays a list of all tags you subscribe to, for example:
 
-.. image:: my-subscriptions-3.png
+.. image:: my-subscriptions-3-new.png
 
 You can unsubscribe to any subscription by clicking the dust bin.
 
