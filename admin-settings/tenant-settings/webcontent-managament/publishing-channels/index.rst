@@ -3,11 +3,11 @@ Publishing Channels
 
 **This is a preliminary documentation of new functionality to come in Omnia 6.7.**
 
-Publishing Channels provide an alternative way of targeting information and putting pages into context.
+Publishing Channels provide an alternative way of targeting information and place pages in context.
 
-If you enable Publishing Channels on a Page Collection, it will be possible for an author to set which channels the page should be published to. Normally approval by the owner is needed for publication to a channel, but publishers can be defined for a channel and they don't need approval when publishing.
+If you enable Publishing Channels on a Page Collection, it will be possible for an author to set which channels the page should be published to. Normally approval by the Administrator of the channel is needed for publication, but publishers can be defined for a channel and they don't need approval when publishing.
 
-Publishing Channels can be used in page rollups to show news articles and pages in different parts of the intranet. The end user can also subscribe to channels of interest.
+Publishing Channels can be used in page rollups to show news articles and pages in different parts of the intranet. The end user can also subscribe to channels of interest. 
 
 Here, you administer the channels.
 
