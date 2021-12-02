@@ -10,4 +10,7 @@ Select page for more information:
 
    subscribe/index
    unsubscribe/index
-   my-subscriptions/index
+   
+Also see: :doc:`My subscriptions </user-options/my-subscriptions/index>`
+
+
