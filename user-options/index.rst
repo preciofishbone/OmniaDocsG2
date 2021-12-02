@@ -16,6 +16,5 @@ In this section you will find an overview of the Omnia user options that are not
    read-news/index
    strengthen-profile/index
    my-sites/index
-   user-feed/index
    
    
