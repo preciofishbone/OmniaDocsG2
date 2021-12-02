@@ -44,8 +44,3 @@ And sp site:
 .. image:: yammer-8.png
 
 
-
-
-
-
-
