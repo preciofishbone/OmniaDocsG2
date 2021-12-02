@@ -37,3 +37,22 @@ Here's how to create a new channel:
 + **Targeting filter**: A channel can be targeted, meaning the defined colleagues or groups are the only ones that can read the pages published to the channel. Targeting works the same for channels as described for blocks. See the heading "Targeting" on this page: :doc:`General settings for blocks </blocks/general-block-settings/index>`
 
 3. Save when you're done.
+
+Approve or reject publication
+*******************************
+If you're Owner of a channel, you can approve or reject publication of pages to that channel, but note that any colleague added as "publisher" for the channel, can publish directly, without approval.
+
+If one or more requests for publication are created, the number of request are shown in this column:
+
+.. image:: channels-request.png
+
+To approve or reject:
+
+1. Click on the number of pages for a channel, to start the process.
+
+The requests for that channel are then listed, for example:
+
+.. image:: channels-requests-listed.png
+
+2. Click the link for a page you want to check. The page is opened in a new tab.
+3. Go back to the list and select APPROVE or REJECT.
