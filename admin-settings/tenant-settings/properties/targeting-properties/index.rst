@@ -37,10 +37,12 @@ When you click the link, the term set for the property you have selected is disp
 
 What you do here is to map terms from he term set, to groups. You don't need to map all, if you don't need all.
 
-1. Click the term you want to link.
+1. Click the term you want to map.
 2. Select a group in the list by searching (type beginning of a group and see what pops up).
 
 .. image:: targeting-properties-settings-map-v6-group-list-new.png
+
+Security groups and Microsoft 365 groups can be added here (In Omnia on-prem, Microsoft 365 groups can’t be used).
 
 3. Continue this way until all terms you want to map is done. 
 4. Save when you're finished.
