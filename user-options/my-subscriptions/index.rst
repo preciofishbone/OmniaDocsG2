@@ -35,6 +35,8 @@ The third tab displays a list of all tags you subscribe to, for example:
 
 You can unsubscribe to any subscription by clicking the dust bin.
 
+Subscribing to channels and unsubscribing
+********************************************
 In Omnia 6.7 and later, it will be possible to subscribe to channels, if any are setup. Then a fourth tab will be available:
 
 .. image:: my-subscriptions-67.png
@@ -47,5 +49,7 @@ Available channels are shown, for example:
 
 .. image:: my-subscriptions-67-channels.png
 
-Click ADD to add a channel. In the list of selected channels you can click the dust bin if you no longer want to subscribe to that channel.
+Click ADD to add a channel. 
+
+In the list of selected channels you can click the dust bin if you no longer want to subscribe to that channel.
 
