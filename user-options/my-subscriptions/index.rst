@@ -1,7 +1,7 @@
 My Subscriptions
 ==================
 
-You can subscribe to a community, articles and dicsussions in a community and to tags. In Omnia 6.7 an later, you can also subscribe to channels.
+You can subscribe to a community, articles and discussions in a community and to tags. In Omnia 6.7 an later, you can also subscribe to channels.
 
 For information about subscriptions regarding communities, see: :doc:`Subscriptions in Communities </using-communities/subscriptions/index>`
 
