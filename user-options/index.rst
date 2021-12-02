@@ -11,6 +11,7 @@ In this section you will find an overview of the Omnia user options that are not
    current-user-language/index
    my-links/index
    my-sites/index
+   my-subscriptions/index
    notification-panel/index
    quick-search-and-advanced-search/index
    read-news/index
