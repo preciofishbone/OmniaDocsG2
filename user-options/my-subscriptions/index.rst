@@ -41,7 +41,9 @@ In Omnia 6.7 and later, it will be possible to subscribe to channels, if any are
 
 .. image:: my-subscriptions-67.png
 
-To add a channel, select the tab and click ADD CHANNEL.
+To add a channel, do the following:
+
+1. Select the tab and click ADD CHANNEL.
 
 .. image:: my-subscriptions-67-add.png
 
@@ -49,7 +51,7 @@ Available channels are shown, for example:
 
 .. image:: my-subscriptions-67-channels.png
 
-Click ADD to add a channel. 
+2. Click ADD to add a channel. 
 
-In the list of selected channels you can click the dust bin if you no longer want to subscribe to that channel.
+In the list of selected channels you can click the dust bin if you no longer want to subscribe to a channel.
 
