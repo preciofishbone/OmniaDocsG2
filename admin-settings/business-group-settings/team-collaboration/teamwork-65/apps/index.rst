@@ -139,7 +139,7 @@ The following permissions are required to be able to attach a site:
 
 Do the following to attach a site:
 
-1. Copy the Url for the Teamwork Site you want to attach.
+1. Copy the Url for the Sharepoint site for the Teamwork you want to attach.
 2. Go to Team Collaboration settings and click the plus.
 3. Select "Attach Site".
 
@@ -153,3 +153,5 @@ You can "detach" (delete) a site if needed. Then the following permissions are n
 
 + For an Omnia Teamwork app: App Administrator permissions.
 + For a Sharepoint site: Site Owner or Site Collection Administrator permissions.
+
+**Note!** What actually happens when you click the dust bin to delete a site, is that the site is detached. That is true for all Teamwork sites, regardless of they have been created in or attached to Omnia.
