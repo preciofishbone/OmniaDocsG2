@@ -43,4 +43,4 @@ Teamwork
 * Support site design for Teams.
 * Improved approval process for Teamwork.
 
-...and many other small improvements and bug fixes.
+...and many other small improvements.
