@@ -29,9 +29,23 @@ Map Group Membership
 ************************
 When "Group Membership" is selected, this link is shown:
 
-.. image:: targeting-properties-settings-map-v6.png
+.. image:: targeting-properties-settings-map-new.png
 
-How to map Group Memebership is explained on this page: (link to be added)
+When you click the link, the term set for the property you have selected is displayed. Here's an example for "Job Role":
+
+.. image:: targeting-properties-settings-map-v6-group-new.png
+
+What you do here is to map terms from he term set, to groups. You don't need to map all, if you don't need all.
+
+1. Click the term you want to map.
+2. Select a group in the list by searching (type beginning of a group and see what pops up).
+
+.. image:: targeting-properties-settings-map-v6-group-list-new.png
+
+Security groups and Microsoft 365 groups can be added here (In Omnia on-prem, Microsoft 365 groups can’t be used). Även distríbutionslsitor kan väljas.
+
+3. Continue this way until all terms you want to map is done. 
+4. Save when you're finished.
 
 Delete or edit Target Property
 **********************************

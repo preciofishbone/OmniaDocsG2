@@ -21,7 +21,7 @@ https://www.yammer.com/m365x249588.onmicrosoft.com/client_applications
 
 .. image:: yammer-3.png
 
-**5**. Go to Network admin -> Security settings to enable Office 365 Identity Enforcement. You need it to Yammer group auto create Sharepoint site when yammer group created.
+**5**. Go to Network admin -> Security settings to enable Office 365 Identity Enforcement. You need it for the Yammer group auto to create a Sharepoint site when the Yammer group is created.
 
 .. image:: yammer-4.png
 	 
@@ -29,23 +29,18 @@ https://www.yammer.com/m365x249588.onmicrosoft.com/client_applications
 
 .. image:: yammer-5.png
 
-**7**. Setup omnia Secret key for the Business Profile scope the same with that provisioning template. Add above Yammer app token to Secret key as below.
+**7**. Setup omnia Secret key for the Business Profile scope and the same with that provisioning template. Add above Yammer app token to Secret key as below.
 
 .. image:: yammer-6.png
  
 **8**. Finally create app provisioning from yammer group template.
 
-Example my result when done create yammer group name like nhanyamer8
+Example: Result when done creating Yammer group name like nhanyamer8:
  
 .. image:: yammer-7.png
 
-And sp site:
+And Sharepoint site:
 
 .. image:: yammer-8.png
-
-
-
-
-
 
 

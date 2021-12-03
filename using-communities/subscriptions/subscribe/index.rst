@@ -1,5 +1,5 @@
-How to subscribe
-==================
+How to subscribe in a Community
+====================================
 
 You can subscribe on all levels of a community.
 
@@ -39,9 +39,5 @@ Then click "OK" here:
 If you click a tag you are already subscribing to, you can choose to unsubscribe.
 
 .. image:: unsubscribe-tag-message.png
-
-
-
-
 
 
