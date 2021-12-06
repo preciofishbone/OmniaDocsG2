@@ -1,3 +1,16 @@
+6.6.6
+=======================================
+(Omnia 6.6.6 / Workplace 6.6.6 / WCM 6.6.5 / MS 6.6.4)
+
+- Additional error messages from the Full Sync.
+- Full sync to SharePoint can now be configured to not sync the oldest versions, this will help stability when having more than 200 versions of a page (#130044, #133897).
+- Fixed an issue that prevented old images (Added before 5.1) from rendering correctly in the RTF editor. (#131842).
+- Improvements to the community and publishing app templates.
+- Stability improvements to ODM Bulk update (#133871).
+- Prevented file locking in the ODM publish flow.
+
+- OnPrem: Icons now load correctly without internet access.
+
 6.6.5
 =======================================
 (Omnia 6.6.4 / Workplace 6.6.5 / WCM 6.6.4 / MS 6.6.2)
