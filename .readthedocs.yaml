@@ -5,6 +5,9 @@
 # Required
 version: 2
 
+# Build all formats
+formats: all
+
 # Optionally declare the Python requirements required to build your docs
 python:
    install:
