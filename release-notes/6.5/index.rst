@@ -15,7 +15,7 @@ On a Business Profile, you can break the inheritance to the Tenant settings for 
 After the upgrade, existing Business Profiles will use broken inheritance to Tenant level.
 New Business Profiles will by default be set to inherit from Tenant level.
 
-Workspacee
+Workspace
 ------------------------------------------
 
 When you create a new Business Profile, a Workspace (including a start url) will be created for the profile.
