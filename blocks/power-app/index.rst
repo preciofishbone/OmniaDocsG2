@@ -3,7 +3,9 @@ Power App block
 
 Use this block to add an app built according to Microsoft's Power App framework.
 
-This is a new block to come in Omnia 6.7. The documentation is ongoing. More will be added soon.
+This is a new block to come in Omnia 6.7. 
+
+For this to work you must add the Url to the App Finder in Tenant settings: :doc:`Power App Settings </admin-settings/tenant-settings/system/power-apps-tenant/index>`
 
 Settings
 ****************
