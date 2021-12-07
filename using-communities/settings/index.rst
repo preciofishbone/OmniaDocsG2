@@ -53,7 +53,7 @@ To enable Activity Points, do the following:
 
 .. image:: community-page-edit-settings.png
 
-4. Click "Activity tracking". and "Activity Points". 
+4. Click "Enable Activity Tracking". and "Enable Activity Points". 
 
 .. image:: community-page-edit-activity.png
 
