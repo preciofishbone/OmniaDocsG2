@@ -15,4 +15,4 @@ When you click on a tag you subscribe to, you can then choose to unsubscribe.
 
 .. image:: unsubscribe-tag-message.png
 
-You can also unsubcribe using My Subscriptions, see: :doc:`My Subscriptions </using-communities/subscriptions/my-subscriptions/index>`
+You can also unsubcribe using My Subscriptions, see: :doc:`My Subscriptions </user-options/my-subscriptions/index>`
