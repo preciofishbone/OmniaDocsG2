@@ -20,7 +20,7 @@ This allows you to create user specific feeds or embeds.
 
 Will different available tabs to different users on the same business profile. 
 
-.. image:: TabTargetingResult.png
+.. image:: TargetingTabResult.png
 
 
 Date Queries and Current User Queries
