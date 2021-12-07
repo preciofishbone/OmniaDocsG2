@@ -99,6 +99,4 @@ Do the following to import objects from Windows clipboard.
 
 .. image:: clipboard-import.png
 
-(Further information regarding how this works will be added soon).
-
 
