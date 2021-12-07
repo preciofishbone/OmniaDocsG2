@@ -18,7 +18,7 @@ This allows you to create user specific feeds or embeds.
 
 .. image:: TabTargeting.png
 
-Will different available tabs to different users on the same business profile. 
+This will show different tabs to different users on the same business profile. 
 
 .. image:: TargetingTabResult.png
 
