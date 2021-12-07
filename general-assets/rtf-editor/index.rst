@@ -54,6 +54,43 @@ To edit or remove a link:
 
 .. image:: rtf-editor-all-link-edit.png
 
+Use images in the text RTF field
+---------------------------------
+You can add images to the RTF text field by clicking the icon:
+
+.. image:: rtf-add-image.png
+
+The Media picker opens and you use to select image. For more information, see: :doc:`Media Picker </general-assets/media-picker/index>`
+
+When you have selected an image, some tolls become available as buttons on the imag:
+
+.. image:: rtf-add-image-tools.png
+
+From left to right:
+
++ To add a clickable link on the image.
++ To edit the image in the Media Picker.
++ To remove the image.
++ To set the image width.
+
+When you click the link tool to create a clickable link, the Add link general asset opens and you use it to add the link, see: :doc:`Add Link </general-assets/add-link/index>`
+
+When you click the tool to set the image width, the the tool becomes two. Click the left one to set the width:
+
+.. image:: rtf-add-image-tools-width-1.png
+
+The following is shown:
+
+.. image:: rtf-add-image-tools-width-2.png
+
+Responsive width is the default, meaning tha image fills the whole width of the RTF area in the block.
+
+You can also set en exact width in pixels by selecting "Fixed Width".
+
+Here's an example with the image width set to 200 pixels:
+
+.. image:: rtf-add-image-tools-width-3.png
+
 Add link to Enterprise term
 ------------------------------
 In Omnia 6.7 and later you may be able to add a link to an enterprise term, and by that use the Enterprise Glossary functionality.
