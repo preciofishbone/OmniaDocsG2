@@ -76,6 +76,6 @@ When you click "Enable Automatic Archive" the following is shown:
 
 .. image:: automatic-archive-settings-new.png
 
-Select a property to base the automatic archiving on. (A common example will be Artcle Date).
+Select a property to base the automatic archiving on. 
 
-In the Publishing App Settings you can set up rules for automatic termination of archived pages. See the heading "Archive" on this page: :doc:`Publishing App Settings </pages/page-settings/index>`
+Furthermore you can set automatic termination from the archive, based on archiving date. You can find that setting in the Publishing App Settings. See the heading "Archive" at the bottom of this page: :doc:`Publishing App Settings </pages/page-settings/index>`
