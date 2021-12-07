@@ -1,14 +1,9 @@
-Power App - Tenant settings
+Power App settings
 =======================================
 
-This is functionality to come in Omnia 6.7. The following can be set here:
+This is functionality to come in Omnia 6.7. In order for Power Apps to work, you must add the Url to the App Finder here:
 
 .. image:: power-apps-tenant.png
-
-(A description will be added soon).
-
-
-
 
 
 
