@@ -72,7 +72,7 @@ Here's how to add such a link:
 
 For more information about Glossary Terms, see: :doc:`Enterprise Glossary </admin-settings/tenant-settings/properties/enterprise-glossary/index>`
 
-Add and anchor (bookmark)
+Add an anchor (bookmark)
 ---------------------------
 Anchors can used in the Add Link general asset and when creating a link button using the Action button block. So, if you add an anchor (bookmark) to the text, links can be created to that anchor.
 
