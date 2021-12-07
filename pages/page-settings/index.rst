@@ -149,7 +149,7 @@ On this tab, available in Omnie 6.7 and later, you can set rules for termination
 
 Here's an example of such a setting:
 
-.. image:: publishing-app-settings-archive.png
+.. image:: publishing-app-settings-archive-new.png
 
 If you don't want automatic termination, just keep this option deselected.
 
