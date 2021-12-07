@@ -58,8 +58,8 @@ Use images in the text RTF field
 ---------------------------------
 You can add images to the RTF text field by clicking the icon:
 
-.. image:: rtf-add-image.png
 
+.. image:: rtf-add-image.png
 The Media picker opens and you use to select image. For more information, see: :doc:`Media Picker </general-assets/media-picker/index>`
 
 When you have selected an image, some tolls become available as buttons on the imag:
@@ -90,6 +90,84 @@ You can also set en exact width in pixels by selecting "Fixed Width".
 Here's an example with the image width set to 200 pixels:
 
 .. image:: rtf-add-image-tools-width-3.png
+
+Add Media
+-----------
+You can add and an image or a video to the text. This is how:
+
+1. Click where the image or video should be added.
+2. Click the Media icon.
+
+.. image:: rtf-add-image.png
+
+3. Use the Media Picker to add the image or video.
+
+See this page for more information: :doc:`Media Picker </general-assets/media-picker/index>`
+
+The image/video area area fills up the whole width (same width as the text), the height ratio intact. If you added an image, some tools also becomes available:
+
+.. image:: rtf-add-image-tools.png
+
+From left to right:
+
++ To add a clickable link on the image.
++ To edit the image in the Media Picker.
++ To remove the image.
++ To set the image width.
+
+When you click the link tool to create a clickable link, the Add link general asset opens and you use it to add the link, see: :doc:`Add Link </general-assets/add-link/index>`
+
+When you click the tool to set the image width, the the tool becomes two. Click the left one to set the width:
+
+.. image:: rtf-add-image-tools-width-1.png
+
+The following is shown:
+
+.. image:: rtf-add-image-tools-width-2.png
+
+Responsive width is the default, meaning the image fills the whole width of the RTF area in the block, with the height/width ratio intact.
+
+You can also set en exact width in pixels by selecting "Fixed Width".
+
+Here's an example with the image width set to 200 pixels:
+
+.. image:: rtf-add-image-tools-width-3.png
+
+Add a table
+------------
+To add a table, do the following:
+
+1. click where the table should be placed.
+2. Click the Table icon.
+
+.. image:: rtf-editor-table.png
+
+3. Click somewhere in the table for more options.
+
+Something like the following now becomes available:
+
+.. image:: rtf-editor-table-edits.png
+
+Most of these option you recognize from other applications, for example Microsoft Word.
+
+In the Table Styles list, a number of styles are available:
+
+.. image:: rtf-editor-table-edits-table-styles.png
+
+You can also style an individual cell using the icon to the far right.
+
+.. image:: rtf-editor-table-edits-cell-style.png
+
+Pasting text only
+-------------------
+A well known problem when pasting text from other sources into an HTML environment is that styles and the like from the original text does not work - or is not wanted. To make that problem go away, you can paste the text as Text only.
+
+1. Paste the text.
+2. Click the Keep text only icon.
+
+.. image:: rtf-editor-test-only.png
+
+You can also use this option on text you already have in the block. Just select the text and the option becomes available.
 
 Add link to Enterprise term
 ------------------------------
@@ -130,69 +208,6 @@ Here's how to add an anchor:
 For more information about Add link, see: :doc:`Add link </general-assets/add-link/index>`
 
 For more information about the Action button block, see: :doc:`Action button </blocks/button-link/index>`
-
-Add Media
------------
-You can add and an image or a video to the text. This is how:
-
-1. Click where the image or video should be added.
-2. Click the Media icon.
-
-.. image:: rtf-editor-media.png
-
-3. Use the Media Picker to add the image or video.
-
-.. image:: rtf-editor-media-picker.png
-
-See this page for more information: :doc:`Media Picker </general-assets/media-picker/index>`
-
-The image/video area area fills up the whole width (same width as the text), the height ratio intact, for example:
-
-.. image:: rtf-editor-media-example-image.png
-
-4. If you need to edit the image/viedo area in some way, use the icons; the pen to edit in the Media Picker, the dust bin to remove and the icon with the three dots to set the width or alignment. 
-
-Here's an example with an image in a much smaller size and aligned to the middle of the text area:
-
-.. image:: rtf-editor-media-example-image-smaller.png
-
-Note the new icon to the right in the floating toolbar. You can use it to set the text flow in relation to the image/video area.
-
-Add a table
-------------
-To add a table, do the following:
-
-1. click where the table should be placed.
-2. Click the Table icon.
-
-.. image:: rtf-editor-table.png
-
-3. Click somewhere in the table for more options.
-
-Something like the following now becomes available:
-
-.. image:: rtf-editor-table-edits.png
-
-Most of these option you recognize from other applications, for example Microsoft Word.
-
-In the Table Styles list, a number of styles are available:
-
-.. image:: rtf-editor-table-edits-table-styles.png
-
-You can also style an individual cell using the icon to the far right.
-
-.. image:: rtf-editor-table-edits-cell-style.png
-
-Pasting text only
--------------------
-A well known problem when pasting text from other sources into an HTML environment is that styles and the like from the original text does not work - or is not wanted. To make that problem go away, you can paste the text as Text only.
-
-1. Paste the text.
-2. Click the Keep text only icon.
-
-.. image:: rtf-editor-test-only.png
-
-You can also use this option on text you already have in the block. Just select the text and the option becomes available.
 
 Using Machine Translation
 ---------------------------
