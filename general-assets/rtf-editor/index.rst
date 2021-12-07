@@ -67,7 +67,7 @@ You can add and an image or a video to the text. This is how:
 
 See this page for more information: :doc:`Media Picker </general-assets/media-picker/index>`
 
-The image/video area area fills up the whole width (same width as the text), the height ratio intact. If you added an image, some tools also becomes available:
+The image/video area fills up the whole width (same width as the text), the height/width ratio intact. If you added an image, some tools also becomes available on the image:
 
 .. image:: rtf-add-image-tools.png
 
@@ -90,7 +90,7 @@ The following is shown:
 
 Responsive width is the default, meaning the image fills the whole width of the RTF area in the block, with the height/width ratio intact.
 
-You can also set en exact width in pixels by selecting "Fixed Width".
+You can also set en exact width in pixels by selecting "Fixed Width". 
 
 Here's an example with the image width set to 200 pixels:
 
