@@ -112,7 +112,7 @@ To activate and create badges, do the following:
 
 9. Click the tick to save the badge.
 
-Heres'a an example of badges:
+Here's an example of badges:
 
 .. image:: badges-badges-example.png
 
