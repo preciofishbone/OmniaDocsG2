@@ -32,10 +32,7 @@ In this example, three Page Collections has been added in the Publishing App, be
 
 .. image:: page-collection-settings-new3.png
 
-and these:
-
-.. image:: page-collection-settings-more.png
-
+All settings are not shown in the image above, but listed below.
 
 Use the settings this way:
 
@@ -58,7 +55,7 @@ Use the settings this way:
 + **Enable publishing to channels**: This is a new option that will come in Omnia 6.7. If you enable this, it will be possible for an author to select channels the page should be published in. Publication to a channel may require approval from the channel administrator.
 
 Setup Yammer integration for the Page Collection
--------------------------------------------------
+--------------------------------------------------
 (This option is available in Omnia 6.7 and later). 
 
 To set up Yammer integration, do the following:
