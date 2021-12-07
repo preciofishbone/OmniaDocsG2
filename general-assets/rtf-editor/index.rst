@@ -56,7 +56,7 @@ To edit or remove a link:
 
 Add Media
 -----------
-You can add and an image or a video to the text. This is how:
+You can add an image or a video to the text. This is how:
 
 1. Click where the image or video should be added.
 2. Click the Media icon.
@@ -74,7 +74,7 @@ The image/video area fills up the whole width (same width as the text), the heig
 From left to right:
 
 + To add a clickable link on the image.
-+ To edit the image in the Media Picker.
++ To edit the image in Media Picker.
 + To remove the image.
 + To set the image width.
 
@@ -90,7 +90,7 @@ The following is shown:
 
 Responsive width is the default, meaning the image fills the whole width of the RTF area in the block, with the height/width ratio intact.
 
-You can also set en exact width in pixels by selecting "Fixed Width". 
+You can also set an exact width in pixels by selecting "Fixed Width". 
 
 Here's an example with the image width set to 200 pixels:
 
