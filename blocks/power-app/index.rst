@@ -35,4 +35,5 @@ The settings for Display are these:
 
 .. image:: power-app-settings-display.png
 
-(A description will be added soon).
++ **Auto**: If you want the ratio for the block set automatically, select this option.
++ **Custom Ratio**: If you want to set a custom ratio, select this option and enter x and y values.
