@@ -1,7 +1,7 @@
 Power App settings
 =======================================
 
-This is functionality to come in Omnia 6.7. In order for Power Apps to work, you must add the Url to the App Finder here:
+This is functionality to come in Omnia 6.7. Here you add an general Url for the Tenant, for App Finder. This Url will then be suggested in the Power Appr block.
 
 .. image:: power-apps-tenant.png
 
