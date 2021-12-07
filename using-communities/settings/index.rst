@@ -104,7 +104,7 @@ To activate and create badges, do the following:
 
 + **Icon Type**: Select an icon type for the badge.
 + **Icon**: if you selected "Font Awesome", "Microsoft" or "Flags", use the list to select an icon.
-+ **Icon Url**: If you selected "Custom" above you can use any image as the icon. Add the Url to the icon here.
++ **ADD ICON**: If you selected "Custom" above you can use any image as the icon. Click ADD ICON and use the Media Picker to select an image. When you have added an image it's shown here and you xan edit it or remove it.
 + **Background Color**: You can add a background color for the icon if you wish.
 + **Title**: Add a Title (name) for the badge here.
 + **Description**: You can also type a description if you wish.
