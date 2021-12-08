@@ -3,6 +3,8 @@ FAQ block
 
 In this block, you can create content that is presented in an accordion style format, for FAQ:s and other purposes.
 
+When there's no content in the block, it's completely hidden in read view. 
+
 Settings
 *********
 The following settings will be available:
