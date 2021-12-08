@@ -125,6 +125,8 @@ Pasting text only
 -------------------
 A well known problem when pasting text from other sources into an HTML environment is that styles and the like from the original text does not work - or is not wanted. To make that problem go away, you can paste the text as Text only.
 
+All style tags are removed. Default HTML styles is kept.
+
 1. Paste the text.
 2. Click the Keep text only icon.
 
