@@ -256,6 +256,12 @@ On this tab you decide if settings for the block (the buttons) should be availab
 
 .. image:: action-button-write.png
 
+Action Button order
+*********************
+With several buttons in the block you can decide the order. Click the left-most icon and use drag and drop.
+
+.. image:: action-button-order.png
+
 Edit an Action Button
 **********************
 To edit a button, click the pen. To delete a button, click the dustbin. 
