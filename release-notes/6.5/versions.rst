@@ -1,3 +1,15 @@
+6.6.7
+=======================================
+(Omnia 6.6.7 / Workplace 6.6.7 / WCM 6.6.6 / MS 6.6.5)
+
+- Stability improvements to the Full Sync to SharePoint (#133671).
+- Fixed a sign in issue when using Exchange on premise with M365.
+- Its now possible to sort page rollups by title (#127889).
+- Fixed an issue in the MS Teams Channel Feed that would occur when groups were tagged.
+- External users can now be correctly invited to events using event management (#133899).
+- Fixed an issue where site owners could not open the ODM permission dialog in some scenarios (#134151, #134567)
+- Prevented locked files from stopping the publish flow in ODM.
+
 6.6.6
 =======================================
 (Omnia 6.6.6 / Workplace 6.6.6 / WCM 6.6.5 / MS 6.6.4)
