@@ -53,7 +53,7 @@ Its now possible to configure links to link to any position on the page, or into
 
 New Minor Features
 **************************
-- Its now possible to add a link to an image in an RTF field (#123318, #125364).
+- Its now possible to add a link on an image in an RTF field (#123318, #125364).
 - Image descriptions are now rendered as both alt text and title text on the img element (#131343).
 - Image default ratios and enforce scaling is now available for images in a section.
 - When using a custom icon for a link, it’s now possible to upload an image from your computer. (#116728, #116782)
