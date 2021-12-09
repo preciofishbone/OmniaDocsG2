@@ -63,6 +63,17 @@ Setup
 ***********
 The settings here will differ depending on teamwork type.
 
+-Microsoft 365 Group
+-----------------------
+The following options are available for a Microsoft 365 Team Group, in Omnia 6.7 and later:
+
+.. image:: teamwork-settings-setup-365.png
+
++ **Default Resource Url**: Choose to link to a Sharepoint site or to MS Teams.
++ **Privacy**: decid eif the Teamwork should be Private or Public.
+
+For a description of the rest of the options, see below.
+
 Sharepoint Team Site and Sharepoint Communication site
 ------------------------------------------------------------
 For Sharepoint Team Site and Sharepoint Communication Site, these settings are available for Setup:
