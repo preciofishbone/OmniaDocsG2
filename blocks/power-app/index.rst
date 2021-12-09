@@ -5,10 +5,6 @@ Use this block to add an app built according to Microsoft's Power App framework.
 
 This is a new block to come in Omnia 6.7. 
 
-In the Tenant settings you can add a general App Finder Url for the whole tenant, see: :doc:`Power App Settings </admin-settings/tenant-settings/system/power-apps-tenant/index>`
-
-This Url will the be suggested in the block, but can be edited if needed.
-
 Settings
 ****************
 The following settings are available:
@@ -23,7 +19,7 @@ Here you can add a title for the block.
 
 App
 -----
-The general App Finder URL is shown here. You can add another App Finder Url if nedded.
+Add the Url to the app here.
 
 .. image:: power-app-settings-app.png
 
