@@ -51,6 +51,8 @@ You can setup automatic archiving for pages based on a property. See the bottom 
 
 Furthermore, you can set up rules for automatic termination of archived pages, in the Publishing App Settings. See the heading "Archive" at the bottom ofthis page: :doc:`Publishing App Settings </pages/page-settings/index>`
 
+**Important note!** These archiving and termination settings are valid for Omnia. If a page truly must be terminated from your system, settings for dust bins in Sharepoint may also need to be edited.
+
 Archive and create draft
 ******************************
 When archiving a page, it may be possible to create a new draft. This is possible if:
