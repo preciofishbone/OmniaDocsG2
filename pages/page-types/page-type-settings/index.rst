@@ -82,7 +82,7 @@ You can then edit the settings for the property you have chosen by clicking the 
 
 .. image:: automatic-archive-settings-select.png
 
-Use the following settings for automatic archiving. Available options can differ depending on how the property is set up. Here's an example:
+Available options can differ depending on how the property is set up. Here's an example:
 
 .. image:: automatic-archive-settings-settings.png
 
@@ -99,7 +99,7 @@ Use the following settings for automatic archiving. Available options can differ
 
 Calculate based on another property on the page
 ------------------------------------------------
-Automatic archiving can be a calculated value. Note that the property that is used as abse for the calculation, must be one of the other properties for the page.
+Automatic archiving can be a calculated value. Note that the property that is used as base for the calculation, must be one of the other properties for the page.
 
 In this example, the page should be automatically archived one month after the article date:
 
