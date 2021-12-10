@@ -153,3 +153,4 @@ Here's an example of such a setting:
 
 If you don't want automatic termination, just keep this option deselected.
 
+Important note! The archiving and termination settings are valid for Omnia. If a page truly must be terminated from your system, settings for dust bins in Sharepoint may also need to be edited.
