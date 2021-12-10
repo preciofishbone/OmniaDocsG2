@@ -84,7 +84,7 @@ You can then edit the settings for the property you have chosen by clicking the 
 
 Available options can differ depending on how the property is set up. Here's an example:
 
-.. image:: automatic-archive-settings-settings-red.png
+.. image:: automatic-archive-settings-settings-edited.png
 
 + **Required**: Select this option to make it mandatory to add settings to this property for all pages that use this Page Type.
 + **Date Only**: If date should be the only type of data possible for this property, select this option.
