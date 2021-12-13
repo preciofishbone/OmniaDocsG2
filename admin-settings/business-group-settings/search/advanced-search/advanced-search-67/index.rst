@@ -58,7 +58,7 @@ When the user clicks the button, something like the following is shown:
 
 .. image:: search-feedback-form.png
 
-If the user do'nt want to send a snapshot of the search results, that option can be deseleected.
+If the user do'nt want to send a snapshot of the search results, that option can be deselected.
 
 Then it's just to type the message and send.
 
