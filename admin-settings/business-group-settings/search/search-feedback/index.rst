@@ -35,10 +35,10 @@ Search query details
 -----------------------
 This information is always available and can look like this:
 
-.. image:: search-feedback-query-details.png
+.. image:: search-feedback-query-details-new.png
 
-Search result detailes
--------------------
+Search result details
+-----------------------
 This information is always available and can look like this:
 
 .. image:: search-feedback-result-details.png
