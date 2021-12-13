@@ -29,6 +29,18 @@ If, for example, the user would be interested in product manuals only, the tab "
 
 .. image:: advanced-search-refined-new2.png
 
+Promoted Search results
+------------------------
+In Omnia 6.7 and later, a search administrator can set up promoted search results using keywords. A promoted serach result can be shown this way in Quick Search:
+
+.. image:: quick-search-promoted-example.png
+
+And this way in Advanced Search:
+
+.. image:: advanced-search-promoted-example.png
+
+Promoted search results are set up in Omnia Admin, see: :doc:`Promoted Search Results </badmin-settings/business-group-settings/search/promoted-search-results/index>`
+
 Settings for Search
 ********************
 The settings for Search are found in Omnia Admin, for Business Profiles, see: :doc:`Search settings </admin-settings/business-group-settings/search/index>`
