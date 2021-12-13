@@ -13,7 +13,7 @@ A list of promoted search can be:
 
 .. image:: promoted-search-results-list.png
 
-To edit, click the pen. to delete, click the dust bin.
+To edit, click the pen. To delete, click the dust bin.
 
 When you edit a promoted search result, the same settings are available as when creating a new one, see below.
 
