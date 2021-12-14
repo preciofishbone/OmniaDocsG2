@@ -14,6 +14,7 @@ In this section you will find an overview of the Omnia user options that are not
    notification-panel/index
    quick-search-and-advanced-search/index
    read-news/index
+   search-feedback-user/index
    strengthen-profile/index
    my-sites/index
    
