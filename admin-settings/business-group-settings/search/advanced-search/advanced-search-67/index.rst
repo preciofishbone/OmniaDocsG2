@@ -60,7 +60,5 @@ When the user clicks the button, something like the following is shown:
 
 If the user do'nt want to send a snapshot of the search results, that option can be deselected.
 
-Then it's just to type the message and send.
-
 Administrators can evaluate the feedback here: :doc:`Search feedback </admin-settings/business-group-settings/search/search-feedback/index>`
 
