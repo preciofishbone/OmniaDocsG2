@@ -45,7 +45,7 @@ Search feedback
 -----------------
 In Omnia 6.7 and later it can be poosible for users to send feedback on a search result (see image above).
 
-For information on how this works for the user, see: (link to be added)
+For information on how this works for the user, see: :doc:`Send feedback on a search result </user-options/search-feedback-user/index>`
 
 For information on how this works for administrators, see: :doc:`Search Feedback </admin-settings/business-group-settings/search/search-feedback/index>`
 
