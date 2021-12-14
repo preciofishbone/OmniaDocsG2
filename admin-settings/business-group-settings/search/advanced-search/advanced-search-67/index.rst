@@ -1,7 +1,7 @@
 Advanced Search settings in Omnia 6.7
 ========================================
 
-This is an ongoing preliminary documentation for Advanced Search settings in Omnia 6.7. More will added/edited soon.
+These Advanced Search settings is available Omnia 6.7 and later.
 
 You can use these settings:
 
