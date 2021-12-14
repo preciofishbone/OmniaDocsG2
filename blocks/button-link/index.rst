@@ -191,8 +191,6 @@ Share can be available through the "Likes and Comments" block, but can also be a
 
 + **Share Type**: Select in what way user's should be able to share a link to this page; Email, Teams or Yammer.
 
-(More will be added soon).
-
 Sign-off request
 -----------------
 This button type is available in Omnia 6.6 and later.
