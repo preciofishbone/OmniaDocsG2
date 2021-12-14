@@ -31,7 +31,7 @@ If, for example, the user would be interested in product manuals only, the tab "
 
 Promoted Search results
 ------------------------
-In Omnia 6.7 and later, a search administrator can set up promoted search results using keywords. A promoted serach result can be shown this way in Quick Search:
+In Omnia 6.7 and later, a search administrator can set up promoted search results using keywords. A promoted search result can be shown this way in Quick Search:
 
 .. image:: quick-search-promoted-example.png
 
