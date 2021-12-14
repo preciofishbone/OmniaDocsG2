@@ -43,7 +43,7 @@ Promoted search results are set up in Omnia Admin, see: :doc:`Promoted Search Re
 
 Search feedback
 -----------------
-In Omnia 6.7 and later it can be poosible for users to send feedback on a search result (see image above).
+In Omnia 6.7 and later it can be possible for users to send feedback on a search result (see image above).
 
 For information on how this works for the user, see: :doc:`Send feedback on a search result </user-options/search-feedback-user/index>`
 
