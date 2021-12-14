@@ -39,7 +39,7 @@ And this way in Advanced Search:
 
 .. image:: advanced-search-promoted-example.png
 
-Promoted search results are set up in Omnia Admin, see: :doc:`Promoted Search Results </badmin-settings/business-group-settings/search/promoted-search-results/index>`
+Promoted search results are set up in Omnia Admin, see: :doc:`Promoted Search Results </admin-settings/business-group-settings/search/promoted-search-results/index>`
 
 Settings for Search
 ********************
