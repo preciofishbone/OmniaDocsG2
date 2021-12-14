@@ -41,6 +41,14 @@ And this way in Advanced Search:
 
 Promoted search results are set up in Omnia Admin, see: :doc:`Promoted Search Results </admin-settings/business-group-settings/search/promoted-search-results/index>`
 
+Search feedback
+-----------------
+In Omnia 6.7 and later it is poosible for users to send feedback on a search result (see image above).
+
+For information on how this works for the user, see: (link to be added).
+
+For information on how this works for administrators, see: (link to be added).
+
 Settings for Search
 ********************
 The settings for Search are found in Omnia Admin, for Business Profiles, see: :doc:`Search settings </admin-settings/business-group-settings/search/index>`
