@@ -174,7 +174,7 @@ Under **General**, the following is available:
 + **Acrylic Transparency Effect**: You can try this effect and see a preview in the section. 
 + **Background**: To select a background image, click ADD IMAGE and use the Media Picker to select image.
 + **Editable in Write Mode**: if it should be possibe to edit background image in Write mode, select this option. If not, it's only possible in Design mode.
-+ **Page Image Property**: (A description will be added soon).
++ **Page Image Property**: Select the property to get the background image from, if applicable.
 + **Crop Ratios**: To add a crop ratio, select it in the list and click the plus. Use the right-most icon to decide the order. To delete a ctop ratio, click the dust bin.
 
 Effects
