@@ -3,6 +3,8 @@ Setup Omnia in Microsoft Teams
 
 Here's how to setup Omnia in Microsoft Teams.
 
+App Studio, used in this instruction is being debrecated. Yous should now use Developer Portal. See this page for more information: (linke to be added)
+
 1. Add the App Studio app to Microsoft Teams.
 
 .. image:: app-studio-new2.jpg
