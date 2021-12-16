@@ -3,11 +3,9 @@ Azure AD Synchronization settings
 
 Use these advanced settings to make sure person properties are synchronized from Azure AD to Sharepoint. 
 
-**Note!** For this to work, you have to set the Azure AD Sync Account. See that heading on this page for more information: :doc:`Permissions for the Tenant </admin-settings/tenant-settings/permissions/index>`
+**Note:** The Azure AD Sync must now be set up to use SharePoint Addin App identity instead of a user account. This will allow the tenant to turn of legacy sign in and still use the Azure AD Sync, see *Enable Sharepoint App-Only* below.
 
-Also note: The Azure AD Sync can now be set up to use SharePoint Addin App identity instead of a user account. This will allow the tenant to turn of legacy sign in and still use the Azure AD Sync, see *Enable Sharepoint App-Only* below.
-
-**Note!** This option is not applicable in Omnia on-prem.
+**Also note!** This option is not applicable in Omnia on-prem.
 
 This is what's available:
 
