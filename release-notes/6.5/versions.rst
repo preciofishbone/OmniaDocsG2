@@ -1,3 +1,14 @@
+6.6.9
+=======================================
+(Omnia 6.6.8 / Workplace 6.6.9 / WCM 6.6.7 / MS 6.6.7)
+
+- Corrected a race condition that would give incorrect search results (#134581, #134501).
+- ODM Stability improvments (#134495).
+- Ensured My Tasks returns correctly when username and email differ. (#134281, #128582).
+- Fixed an issue where renamed controlled documents could not be picked correctly in OPM (#134314, #134629).
+- Corrected an issue that would occur in the mega menu block when using global layouts (#134400).
+- Fixed an issue with the add to outlook button in Event Management (This fix will require a reconsent of the AAD App to take effect) (#133781).
+
 6.6.7
 =======================================
 (Omnia 6.6.7 / Workplace 6.6.7 / WCM 6.6.6 / MS 6.6.5)
