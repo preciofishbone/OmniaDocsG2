@@ -86,16 +86,18 @@ Available options can differ depending on how the property is set up. Here's an 
 
 .. image:: automatic-archive-settings-settings-edited.png
 
+Note that the settings you do for a property here is valid for this Page Type only. It does not affect the property in any other way.
+
 + **Required**: Select this option to make it mandatory to add settings to this property for all pages that use this Page Type.
 + **Date Only**: If date should be the only type of data possible for this property, select this option.
 + **Show in new page**: if this property should be available in the wizard when a new page is created, select this option.
 + **Show in edit properties**: if this property should be available in settings for a page when it's edited, select this option.
 + **Show label**: Select this to show the label for the property.
 + **Custom label**: If Show label is selected, the property name is displayed per default. If you want another label to be displayed, add it here.
-+ **Category**: (A description will be added soon).
++ **Category**: You can add a category for this porpertys, used when listing properties for the Page Type.
 + **Default value**: Use this setting to decide what should be shown for the property as a suggested value, when the page is created. Empty is just that, no value. Today displays todays date. You can also base the automatic archiving on another property. See below for more information.
 + **Read only**: A property used for automatic archiving should always be read only.
-+ **Limit access permission**: If not all authors are permitted to edit this setting, add the colleagues or groups that should be able to edit these settings here.
++ **Limit access permission**: If not all authors are permitted to edit this setting for the Page Type, add the colleagues or groups that should be able to edit these settings here.
 
 Calculate based on another property on the page
 ------------------------------------------------
