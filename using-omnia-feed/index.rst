@@ -45,6 +45,12 @@ Microsoft Authenticator or similar
 ---------------------------------------------
 If your organization is using Microsoft Authenticator, a Company Portal, or similar, Omnia Feed will request permission to access the contacts list. This is required for the Omnia app to work with Microsoft Authenticator and similar solutions.
 
+Important note about logged in status
+--------------------------------------
+If the user chooses to log out, the user will no longer receive push notificatons until logged in again.
+
+If the user is being logged out automically due to an organization policy or similar, the user still receives push notifications for three weeks. After that, the user must log in to continue receiving push notifications.
+
 Omnia Feed implementation example
 *************************************
 In this example:
@@ -64,11 +70,4 @@ A user can like a News Article by selecting the hearth. To add a comment, the us
 In this implementation example, there's also a link to the start page of the Omnia Intranet. It may need an additional login:
 
 .. image:: omnia-feed-intranet-new2.png
-
-
-
-
-
-
-
 
