@@ -76,7 +76,7 @@ When you click "Enable Automatic Archive" the following is shown:
 
 .. image:: automatic-archive-settings-new.png
 
-Select a property to base the automatic archiving on. **Note!** Best proactice is to create a specific property to use for this purpose. Any Custom property of type date or time can be used.
+Select a property to base the automatic archiving on. **Note!** Best practice is to create a specific property to use for this purpose. Any Custom property of type date or time can be used.
 
 You can then edit the settings for the property you have chosen by clicking the cogwheel for the property.
 
