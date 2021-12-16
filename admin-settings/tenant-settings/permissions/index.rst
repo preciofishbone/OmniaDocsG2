@@ -37,7 +37,7 @@ If you're using Azure AD Synchronization, add the account that executes the sche
 
 .. image:: tenant-secrets-sync-url.png
 
-For more information about Azure AD Synchronization, see: :doc:`Azure AD Synchronization Settings </admin-settings/tenant-settings/azure-ad-synchronization-settings/index>`
+This way of using Azure AD Synchronization is no longer supported by Microsoft. You should execute syncronization as described here: :doc:`Azure AD Synchronization Settings </admin-settings/tenant-settings/system/azure-ad-sync/index>`
 
 Event Management Service Account
 ----------------------------------
