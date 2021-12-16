@@ -7,7 +7,7 @@ Use these advanced settings to make sure person properties are synchronized from
 
 **Also note!** This option is not applicable in Omnia on-prem.
 
-This is what's available:
+These settings and options are available here:
 
 .. image:: azure-ad-overview-new2.png
 
