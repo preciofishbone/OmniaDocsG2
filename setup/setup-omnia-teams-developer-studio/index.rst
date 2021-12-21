@@ -5,19 +5,19 @@ To setup Omnia in Microsoft Teams, do the following:
 
 1. Add the Developer Studio app to Microsoft Teams.
 
-.. image:: app-studio-new-developer.jpg
+.. image:: app-studio-new-developer.png
 
 2. Open Developer Studio, click "Get started" and select "Create a new app" (or Create your first app).
 
-.. image:: create-new-app-developer.jpg
+.. image:: create-new-app-developer.png
 
 3. Enter the name of the app and click "Add".
 
-.. image:: app-name-developer.jpg
+.. image:: app-name-developer.png
 
 4. Add the full name (can not be the same as the Short name".
 
-.. image:: app-full-name-developer.jpg
+.. image:: app-full-name-developer.png
 
 4. Click "Generate" to generate a GUID for the app. 
 
@@ -117,16 +117,5 @@ The app is now under Pinned apps and can be moved up and down in the order.
 .. image:: add-pinned-apps-example.jpg
 
 It may take some time before it's available for users. If it doesn't work, check that users are members of the right Permission policy in Teams admin.
-
-
-
-
-
-
-
-
-
-
-
 
 
