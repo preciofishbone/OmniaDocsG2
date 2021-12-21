@@ -7,7 +7,7 @@ To setup Omnia in Microsoft Teams, do the following:
 
 .. image:: app-studio-new-developer.png
 
-2. Open Developer Studio, click "Get started" and select "Create a new app" (or Create your first app).
+2. Open Developer Studio, click "Get started" and select "New app" (or "Create your first app").
 
 .. image:: create-new-app-developer.png
 
