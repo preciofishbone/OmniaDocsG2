@@ -15,7 +15,7 @@ To setup Omnia in Microsoft Teams, do the following:
 
 .. image:: app-name-developer.png
 
-4. Add the full name (can not be the same as the Short name".
+4. Add the full name (can not be the same as the Short name you just entered).
 
 .. image:: app-full-name-developer.png
 
