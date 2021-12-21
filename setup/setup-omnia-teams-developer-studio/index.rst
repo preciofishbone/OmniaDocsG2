@@ -1,6 +1,8 @@
 Setup Omnia in Microsoft Teams using Developer Studio
 ========================================================
 
+**This instruction is just started, will be finsihed soon.**
+
 To setup Omnia in Microsoft Teams, do the following:
 
 1. Add Developer Studio app to Microsoft Teams.
@@ -19,9 +21,11 @@ To setup Omnia in Microsoft Teams, do the following:
 
 .. image:: app-full-name-developer.png
 
-4. Click "Generate" to generate a GUID for the app. 
+Note that an APP ID has been created automatically. You can click the icon to the right of the field to copy it, if nedded (but you don't need to do that now).
 
-.. image:: generate-new2.jpg
+.. image:: generate-new2-developer.png
+
+**Not edited from here.**
 
 5. Add Package Name and Version.
 
