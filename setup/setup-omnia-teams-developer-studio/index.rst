@@ -3,7 +3,7 @@ Setup Omnia in Microsoft Teams using Developer Studio
 
 To setup Omnia in Microsoft Teams, do the following:
 
-1. Add the Developer Studio app to Microsoft Teams.
+1. Add Developer Studio app to Microsoft Teams.
 
 .. image:: app-studio-new-developer.png
 
