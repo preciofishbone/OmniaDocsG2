@@ -9,13 +9,11 @@ You can use several Mega Menu objects and several Action Menu objects, if needed
 
 When working with the layout, you can use all the sections and blocks that normally are available for pages, so the possibilities are almost endless. You can even add different layouts for different screen sizes, if needed, to fit for example both computer and mobile phone.
 
-.. image:: workplace-navigation-bar-new2.png
-
 Home settings
 ***************
 Here you can edit the settings for the link to the Workspace Home page. 
 
-.. image:: workplace-navigation-home-settings-new.png
+.. image:: workplace-navigation-home-settings-new2.png
 
 + **Home Title**: If you would like to show a Home title, add it here, in any or all the tenant languages. Click the flag to change language. Then select "Show Title" below.
 + **Icon Type**: To show an icon, select Icon Type here. If you select "Custom" here, you can upload any image, using the Media Picker, to use as an icon. (If an Icon Type is seleted, but no icon is selected, no icon is shown).
@@ -31,7 +29,7 @@ To add a Logo, do the following:
 
 1. Click ADD.
 
-.. image:: workplace-navigation-home-settings-click-add-new.png
+.. image:: workplace-navigation-home-settings-click-add-new2.png
 
 2. Use the Media Picker to find and select the image.
 
@@ -45,7 +43,7 @@ Mega Menu settings
 ************************
 To open the Mega Menu settings, click the cog wheel:
 
-.. image:: workplace-navigation-mega-menu-settings-cogwheel.png
+.. image:: workplace-navigation-mega-menu-settings-cogwheel-new.png
 
 Separate settings are available for the default Mega Menu, and for the Mega Menu used in MS Teams.
 
@@ -66,7 +64,7 @@ Action Menu settings
 **********************
 To open the settings for the Action Menu, click the cog wheel:
 
-.. image:: workplace-navigation-action-menu-settings-cogwheel.png
+.. image:: workplace-navigation-action-menu-settings-cogwheel-new.png
 
 The following settings are available here, for the default Action Menu and for the Action Menu used in MS Teams (the Action Menu in MS Teams is not applicable in Omnia on-prem):
 
