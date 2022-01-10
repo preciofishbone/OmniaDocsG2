@@ -1,7 +1,7 @@
 Navigation Bar
 =================
 
-**This page is being edited. Will be finished later today.**
+**This page is being edited. Will be finished very soon.**
 
 Here you can edit navigation bar settings for the Business Profile's Workspace. You can add different settings for the default navigation bar and for the navigation bar used in MS Teams. (This page describes the settings for Omnia 6.7.)
 
@@ -76,7 +76,88 @@ The following settings are available here, for the default Action Menu and for t
 
 See below for information on how to add Action Menu objects.
 
+Adding a Mega Menu object
+***************************
+To add a Mega Menu object, click the plus:
+
+.. image:: mega-menu-add-new-plus.png
+
+and choose to add a layout or create a link.
+
+.. image:: mega-menu-add-new2.png
+
+Create Layout
+--------------
+When you choose to create a Mega Menu layout, the following is shown:
+
+.. image:: mega-menu-add-layout-new.png
+
+1. Add a title, and an icon if you like. 
+
+What you add here is only shown in the list of mega menus, not shown for users.
+
+2. Click "Create".
+3. Create the Mega Menu layout by using sections and blocks available in Omnia.
+
+For more information, see *Working with the layout* and *Saving a draft and publishing* above.
+
+Create a link
+---------------
+You can create a Mega Menu link to anything you can link to, for example a page in Omnia or external funcitonality.
+
+Set the following for the link:
+
+.. image:: mega-menu-add-link-new.png
+
+Target a Mega Menu object
+-------------------------------
+When the Mega Menu object is created you can add a targeting filter, meaning you can decide who this Mega Menu object will be available for.
+
+1. Select the Mega Menu Object.
+2. Open the settings.
+3. Add targeting filters.
+
+.. image:: mega-menu-targeting.png
+
+You do that the same way as for many other options in Omnia. See for example the heading "Targeting" on this page: :doc:`General block settings </blocks/general-block-settings/index>`
+
+Adding an Action Menu object
+******************************
+The action menu can include almost any action available in Omnia. To add an Action Menu object, do the following:
+
+1. Click the plus.
+
+.. image:: action-menu-add-new.png
+
+The following is shown:
+
+.. image:: action-menu-add-settings-new.png
+
+2. Add the settings.
+
++ **Action type**: Select action type from the list. Note that these actions are the same as can be added using an Action Button block.
++ **Title**: Add a title for the list here (not shown to users).
++ **Icon Type/Icon**: Add an icon if you with, for this list (not shown for users).
+
+Different fields are shown depending on Action Type selected. See this page for detailed information about those fields: :doc:`Action Button block </blocks/button-link/index>`
+
 **Still to be edited from here:**
+
+Target an Action Menu object
+-------------------------------
+When the Action Menu object is created you can add a targeting filter, meaning you can decide who this Action Menu object will be available for.
+
+.. image:: action-menu-add-settings-targeting.png
+
+You do that the same way as for many other options in Omnia, see for example the heading "Targeting" on this page: :doc:`General block settings </blocks/general-block-settings/index>`
+
+Edit the order
+****************
+If you have created several objects of one type, you can decide in what order these objects should be shown for users.
+
+Use this icon and drag and drop the desired order:
+
+.. image:: action-menu-add-settings-order.png
 
 Working with the layout
 *************************
@@ -129,77 +210,3 @@ The default screen size is for computer screens. If would like to add different 
 
 .. image:: layout-screen-size-new-layout.png
 
-Adding a Mega Menu object
-***************************
-To add a Mega Menu object, click the plus and choose to add a layout or create a link.
-
-.. image:: mega-menu-add.png
-
-Create Layout
---------------
-When you choose to create a Mega Menu layout, the following is shown:
-
-.. image:: mega-menu-add-layout.png
-
-1. Add a title, and an icon if you like. 
-
-What you add here is only shown in the list of mega menus, not shown for users.
-
-2. Click "Create".
-3. Create the Mega Menu layout by using sections and blocks available in Omnia. For more information, see *Working with the layout* and *Saving a draft and publishing* above.
-
-Create a link
----------------
-You can create a Mega Menu link to anything you can link to, for example a page in Omnia or external funcitonality.
-
-Set the following for the link:
-
-.. image:: mega-menu-add-link.png
-
-Target a Mega Menu object
--------------------------------
-When the Mega Menu object is created you can add a targeting filter, meaning you can decide who this Mega Menu object will be available for.
-
-1. Select the Mega Menu Object.
-2. Open the settings.
-3. Add targeting filters.
-
-.. image:: mega-menu-add-settings-open.png
-
-You do that the same way as for many other options in Omnia, see for example the heading "Targeting" on this page: :doc:`General block settings </blocks/general-block-settings/index>`
-
-Adding an Action Menu object
-******************************
-The action menu can include almost any action available in Omnia. To add an Action Menu object, do the following:
-
-1. Click the plus.
-
-.. image:: action-menu-add.png
-
-The following is shown:
-
-.. image:: action-menu-add-settings.png
-
-2. Add the settings.
-
-+ **Action type**: Select action type from the list. Note that these actions are the same as can be added using an Action Button block.
-+ **Title**: Add a title for the list here (not shown to users).
-+ **Icon Type/Icon**: Add an icon if you with, for this list (not shown for users).
-
-Different fields are shown depending on Action Type selected. See this page for detailed information about those fields: :doc:`Action Button block </blocks/button-link/index>`
-
-Target an Action Menu object
--------------------------------
-When the Action Menu object is created you can add a targeting filter, meaning you can decide who this Action Menu object will be available for.
-
-.. image:: action-menu-add-settings-targeting.png
-
-You do that the same way as for many other options in Omnia, see for example the heading "Targeting" on this page: :doc:`General block settings </blocks/general-block-settings/index>`
-
-Edit the order
-****************
-If you have created several objects of one type, you can decide in what order these objects should be shown for users.
-
-Use this icon and drag and drop the desired order:
-
-.. image:: action-menu-add-settings-order.png
