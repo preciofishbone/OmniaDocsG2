@@ -99,11 +99,11 @@ What you add here is only shown in the list of mega menus, not shown for users.
 2. Click "Create".
 3. Create the Mega Menu layout by using sections and blocks available in Omnia.
 
-For more information, see *Working with the layout* and *Saving a draft and publishing* above.
+For more information, see *Working with the layout* and *Saving a draft and publishing* below.
 
 Create a link
 ---------------
-You can create a Mega Menu link to anything you can link to, for example a page in Omnia or external funcitonality.
+You can create a Mega Menu link to anything you can link to, for example a page in Omnia or external functionality.
 
 Set the following for the link:
 
@@ -115,9 +115,16 @@ When the Mega Menu object is created you can add a targeting filter, meaning you
 
 1. Select the Mega Menu Object.
 2. Open the settings.
+
+.. image:: mega-menu-select-settings.png
+
+3. Click "Edit" if needed.
+
+.. image:: mega-menu-select-settings-edit.png
+
 3. Add targeting filters.
 
-.. image:: mega-menu-targeting.png
+.. image:: mega-menu-targeting-new.png
 
 You do that the same way as for many other options in Omnia. See for example the heading "Targeting" on this page: :doc:`General block settings </blocks/general-block-settings/index>`
 
@@ -137,17 +144,15 @@ The following is shown:
 
 + **Action type**: Select action type from the list. Note that these actions are the same as can be added using an Action Button block.
 + **Title**: Add a title for the list here (not shown to users).
-+ **Icon Type/Icon**: Add an icon if you with, for this list (not shown for users).
++ **Icon Type/Icon**: Add an icon if you wish, for this list (not shown for users).
 
 Different fields are shown depending on Action Type selected. See this page for detailed information about those fields: :doc:`Action Button block </blocks/button-link/index>`
-
-**Still to be edited from here:**
 
 Target an Action Menu object
 -------------------------------
 When the Action Menu object is created you can add a targeting filter, meaning you can decide who this Action Menu object will be available for.
 
-.. image:: action-menu-add-settings-targeting.png
+.. image:: action-menu-add-settings-targeting-new.png
 
 You do that the same way as for many other options in Omnia, see for example the heading "Targeting" on this page: :doc:`General block settings </blocks/general-block-settings/index>`
 
@@ -157,19 +162,19 @@ If you have created several objects of one type, you can decide in what order th
 
 Use this icon and drag and drop the desired order:
 
-.. image:: action-menu-add-settings-order.png
+.. image:: action-menu-add-settings-order-new.png
 
 Working with the layout
 *************************
-When working with the navigation bar layout, you can use all options for sections and blocks available in Omnia.
+When working with the navigation bar layout for mega menu objects, you can use all options for sections and blocks available in Omnia.
 
 Start by clicking the x symbol to add a section.
 
-.. image:: layout-1.png
+.. image:: layout-1-new.png
 
 Then select section layout, just like you would do when working with a Page Type.
 
-.. image:: layout-2.png
+.. image:: layout-2-new.png
 
 Then continue building up the layout using sections and blocks.
 
@@ -179,13 +184,13 @@ For more information, see these pages:
 + :doc:`Settings for sections </pages/page-types/section-settings/index>`
 + :doc:`Working with blocks </blocks/working-with-blocks/index>`
 
-**A tip:** One way of creating a mega menu like navigation is to use a Page Rollup, the new scope "Navigation path" and the new "Navigation View".
+**A tip:** One way of creating a mega menu-like navigation is to use a Page Rollup, with the new scope "Navigation path" and the new "Navigation View".
 
 Saving a draft and publishing
 ---------------------------------
 Saving a draft, discarding changes and finally publishing the layout, works very similar to working with pages.
 
-.. image:: layout-3.png
+.. image:: layout-3-new.png
 
 For more information, see these pages:
 
@@ -196,17 +201,21 @@ But note that it's very similar, not exactly the same. Some options for pages ar
 
 One thing that is perhaps not that obvious is how to delete a layout, if needed. You will find that option in the menu:
 
-.. image:: layout-delete.png
+.. image:: layout-delete-new.png
 
 Different layouts for different screen sizes
 *********************************************
-The default screen size is for computer screens. If would like to add different layouts for one or more of the other scren sizes available, do the following:
+The default screen size is for computer screens. If you would like to add different layouts for one or more of the other scren sizes available, do the following:
 
 1. Select Screen size.
 
-.. image:: layout-screen-size.png
+.. image:: layout-screen-size-new.png
+
+You can simply use this to see a preview of the layout in different screen sizes, but you can also choose to create a new layout for a screen size, this way:
 
 2. Open the list and select "Create new layout".
 
-.. image:: layout-screen-size-new-layout.png
+.. image:: layout-screen-size-new-layout-new.png
+
+You work with the layout for the different screen sizes as described above.
 
