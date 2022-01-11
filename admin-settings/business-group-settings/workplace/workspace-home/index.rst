@@ -1,6 +1,8 @@
 Home page for Workspace
 =======================================
 
+This option is available in Omnia 6.7 and later.
+
 Here you can create the Home page for a Business Profile's Workspace.
 
 .. image:: workspace-home.png
