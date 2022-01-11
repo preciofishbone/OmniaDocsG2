@@ -1,3 +1,12 @@
+6.6.12
+=======================================
+(Omnia 6.6.12 / Workplace 6.6.12 / WCM 6.6.8 / MS 6.6.10)
+- Fixed a json serialization issue causing some layouts to not save correctly (#134172)
+- Fixed an issue where information would be missing from some users on the people card.
+- Added support for more special characters in the document rollup (#134757).
+- Ensured all expected authoring sites are shown when using the document wizard to create new controlled documents (#134545).
+- Improved rendering on navigation (#130258).
+
 6.6.9
 =======================================
 (Omnia 6.6.8 / Workplace 6.6.9 / WCM 6.6.7 / MS 6.6.7)
