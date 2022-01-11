@@ -151,7 +151,7 @@ Here's an example with Show Follow Status selected. A filled star indicates that
 
 Use the filter settings to make filters available for users, in the list.
 
-Filter UI
+Filter
 ''''''''''''''
 Here you can add filters so users can filter a long list (= choose to just see some).
 
