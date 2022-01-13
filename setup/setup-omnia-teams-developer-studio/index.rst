@@ -1,7 +1,7 @@
 Setup Omnia in Microsoft Teams using Developer Studio
 ========================================================
 
-**This instruction is just started, will be finsihed soon.**
+**This instruction is just started, will be finished soon.**
 
 To setup Omnia in Microsoft Teams, do the following:
 
