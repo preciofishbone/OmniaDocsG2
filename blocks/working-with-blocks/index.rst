@@ -62,7 +62,7 @@ Icons now show where you can place the copied block, the same way as when you mo
 
 Copy a block from the clipboard
 ---------------------------------------------
-In Omnia 6.7 and later, there is a clipboard that can be used to copy blocks between pages or page types, see: :doc:`Clipboard for sections and blocks </general-assets/layout-explorer/clipboard-sections-blocks/index>`
+There's also a clipboard available, that can be used to copy blocks between pages or page types, see: :doc:`Clipboard for sections and blocks </general-assets/layout-explorer/clipboard-sections-blocks/index>`
 
 Display settings for blocks
 ******************************
