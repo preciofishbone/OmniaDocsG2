@@ -1,7 +1,7 @@
 Settings
 ====================
 
-Here you can set the following (image from Omnia 6.7):
+Here you can set the following:
 
 .. image:: tenant-settings-new4.png
 
@@ -19,12 +19,4 @@ Select section for more information:
    rtf-editor/index
    text-styles/index
    user-profile-completion/index
-
-
-
-
-
-
-
-
 
