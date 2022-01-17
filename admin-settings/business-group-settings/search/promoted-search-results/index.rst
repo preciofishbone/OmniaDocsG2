@@ -1,8 +1,6 @@
 Promoted Search Results
 ===========================
 
-This is new functionality to come in Omnia 6.7. 
-
 Based on search feedback, an administrator can create promoted search results in Omnia Admin.
 
 Whenever a user search on any of the keywords of a Promoted Search Result,it will be available here:
