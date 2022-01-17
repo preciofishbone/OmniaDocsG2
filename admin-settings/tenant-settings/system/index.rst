@@ -1,6 +1,6 @@
 System
 =============
-Here, the following can be set (image from Omnia 6.7):
+Here, the following can be set:
 
 .. image:: system-settings-new7.png
 
