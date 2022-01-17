@@ -5,8 +5,6 @@ The Layout Explorer can be used when creating or editing a Page Type or when edi
 
 .. image:: page-toolbar.png
 
-In omnia 6.7 and later, the Layout Explorer also contains a clipboard for sections and blocks, see link below.
-
 The following options are found in Layout Explorer. Select page for more information:
 
 .. toctree::
