@@ -1,7 +1,7 @@
 Navigation Bar
 =================
 
-Here you can edit navigation bar settings for the Business Profile's Workspace. You can add different settings for the default navigation bar and for the navigation bar used in MS Teams. (This page describes the settings for Omnia 6.7.)
+Here you can edit navigation bar settings for the Business Profile's Workspace. You can add different settings for the default navigation bar and for the navigation bar used in MS Teams. 
 
 You can use several Mega Menu objects and several Action Menu objects, if needed.
 
