@@ -31,7 +31,7 @@ If, for example, the user would be interested in product manuals only, the tab "
 
 Promoted Search results
 ------------------------
-In Omnia 6.7 and later, a search administrator can set up promoted search results using keywords. A promoted search result can be shown this way in Quick Search:
+A search administrator can set up promoted search results using keywords. A promoted search result can be shown this way in Quick Search:
 
 .. image:: quick-search-promoted-example.png
 
@@ -43,7 +43,7 @@ Promoted search results are set up in Omnia Admin, see: :doc:`Promoted Search Re
 
 Search feedback
 -----------------
-In Omnia 6.7 and later it can be possible for users to send feedback on a search result (see image above).
+It can be possible for users to send feedback on a search result (see image above).
 
 For information on how this works for the user, see: :doc:`Send feedback on a search result </user-options/search-feedback-user/index>`
 
