@@ -3,7 +3,7 @@ Power App block
 
 Use this block to add an app built according to Microsoft's Power App framework.
 
-This is a new block to come in Omnia 6.7. 
+This is a new block in Omnia 6.7 and later. 
 
 Settings
 ****************
