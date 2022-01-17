@@ -1,7 +1,7 @@
 Search
 ===========================================
 
-Use these options for settings for general Search configuration, Quick Search and Advanced Search in Omnia 6.7.
+Use these options for settings for general Search configuration, Quick Search and Advanced Search.
 
 .. image:: search-67.png
 
