@@ -65,7 +65,7 @@ The settings here will differ depending on teamwork type.
 
 Microsoft 365 Group
 -----------------------
-The following options are available for a Microsoft 365 Team Group, in Omnia 6.7 and later:
+The following options are available for a Microsoft 365 Team Group:
 
 .. image:: teamwork-settings-setup-365.png
 
