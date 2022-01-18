@@ -1,7 +1,5 @@
-Release 6.7 (Preview)
+Release 6.7
 ========================================
-
-.. note:: These are draft release notes. Items might be added, removed or updated.
 
 Search Feedback
 ------------------------------------------
