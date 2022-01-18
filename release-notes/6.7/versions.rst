@@ -7,21 +7,20 @@ New Major Features
 
 _`Copy blocks and sections across pages <https://omnia-docs-g2.readthedocs.io/en/latest/release-notes/6.7/index.html#copy-block-section-clipboard>`_ 
 ------------------------------------------
-- Its now possible to copy blocks and sections between pages using the new clipboard feature. (#129970)
+- (#129970)
 
-Favicon is now configurable per business profile. (#126515)
+Favicon is now configurable per business profile. 
 ------------------------------------------
-- Full support for all apple and iOS icons.
+- (#126515)
 
-Calculated Date Properties (#123172, #114551)
+Calculated Date Properties
 -----------------------------------------
-- A date property can now be based of another date property.
-- This enables automatic updates of review dates, and automatic unpublishing.
+- (#123172, #114551)
 
 Automatic Archive
 -----------------------------------------
-- A Page can now be set to automatically archive based on a property. (#128186, #128942)
-- The archive can be configured to automatically delete content after a set period.
+- (#128186, #128942)
+
 
 Sign off requests
 -----------------------------------------
@@ -35,31 +34,29 @@ Search Feedback and promoted search results.
 -----------------------------------------
 
 
-Modals and panels will now close on click out (#123157, #122336, #125956)
+Modals and panels will now close on click out 
 -----------------------------------------
-- Click out is prevented when edits have been made, or when accessibility is turned on.
+- (#123157, #122336, #125956)
 
 Yammer for likes and comments
 -----------------------------------------
 
 Anchor links
 -----------------------------------------
-Its now possible to configure links to link to any position on the page, or into any tab or accordion.
+
 
 Teams Precense
 ----------------------------------------
-Teams precense can now be showed in all places where people are displayed. 
+
 
 More actions for the people rollup
 ----------------------------------------
-Directly start a chat or trigger a phone call when on mobile (#127035, #122406, #126851).
+- (#127035, #122406, #126851).
 
-Full Text Search Solution (#132701, #124961, #128796, #129938, #129938)
+Full Text Search Solution 
 ---------------------------------------
+- (#132701, #124961, #128796, #129938, #129938).
 
-Improved Metrics
----------------------------------------
-- Ist now possible to include User Properties as filters for metrics. 
 
 Channels
 ---------------------------------------
@@ -99,6 +96,7 @@ New Minor Features
 - An email Icon can now be added to the People search template (#113710).
 - Term properties now expand by default if there is only one parent term selected (#127849).
 - The WCM archive now allows for any editor to restore thier own archved pages.
+- It's now possible to include User Properties as filters for metrics. 
 
 
 Fixes
