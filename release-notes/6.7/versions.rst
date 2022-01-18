@@ -54,8 +54,14 @@ More actions for the people rollup
 ----------------------------------------
 Directly start a chat or trigger a phone call when on mobile (#127035, #122406, #126851).
 
-Full Text Search Solution
+Full Text Search Solution (#132701)
 ---------------------------------------
+
+Improved Metrics
+---------------------------------------
+- Ist now possible to include User Properties as filters for metrics. 
+
+
 
 
 
@@ -79,6 +85,10 @@ New Minor Features
 - Communities: When following a community you will also subscribe to it.
 - Info screen now supports custom colors for important announcements. 
 - WCM navigation node page size is now configurable in Omnia Admin.
+- Grouping for action buttons.
+- AzureAD Sync now supports the Delta API. This means greatly improved sync performance for large customers.
+- Its now possible to add the same page collection several times in one page rollup.
+- 
 
 
 Fixes
@@ -103,6 +113,8 @@ Fixes
 - Corrected a data load dependecy between Omnia Admin and blocks for links. 
 - Corrected an issue with the search query strings. 
 - Terms in the notification panel now keep thier colors even when the item is highlighted (#135024).
+- Ensured the notification panel will load the configured icon and not the default one. (#134349).
+- Date format is now configurable for the people rollup. 
 
 For developers
 ****************************
