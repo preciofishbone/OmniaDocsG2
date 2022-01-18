@@ -54,7 +54,7 @@ More actions for the people rollup
 ----------------------------------------
 Directly start a chat or trigger a phone call when on mobile (#127035, #122406, #126851).
 
-Full Text Search Solution (#132701)
+Full Text Search Solution (#132701, #124961, #128796, #129938)
 ---------------------------------------
 
 Improved Metrics
@@ -91,6 +91,8 @@ New Minor Features
 - Strengthen profile has a new and improved horizontal design.
 - Configurability for the search block has been improved.
 - The new mobile navigation now includes siblings and parents.
+- An email Icon can now be added to the People search template (#113710).
+- 
 
 
 Fixes
@@ -125,6 +127,7 @@ Fixes
 - Design correction for new items in the page rollup Roller view (#134766).
 - Several events in the Activity view have been fixed. 
 - Improved the way records declaration for ODM published documents are applied (#133646).
+- Fixed an issue with deleting selected languages on Tenant level (#113528).
 - 
 
 For developers
