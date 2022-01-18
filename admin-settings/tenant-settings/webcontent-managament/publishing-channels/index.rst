@@ -1,8 +1,6 @@
 Publishing Channels
 ===========================
 
-**This is a preliminary documentation of new functionality to come in Omnia 6.7.**
-
 Publishing Channels provide an alternative way of targeting information and place pages in context.
 
 If you enable Publishing Channels on a Page Collection, it will be possible for an author to set which channels the page should be published to. Normally approval by the Administrator of the channel is needed for publication, but publishers can be defined for a channel and they don't need approval when publishing.
