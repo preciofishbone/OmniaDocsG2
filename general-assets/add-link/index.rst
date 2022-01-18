@@ -5,9 +5,7 @@ Add link is used when a link is added in a block and a few other instances.
 
 .. image:: add-link-new3.png
 
-You can use this asset to add a link to a page or document in the tenant, or create a Custom link to any web page. A mailto link can be created using a Custom link. Anchors are supported and can be used here. To link to an anchor, simply type the anchor name in the field.
-
-For information on how to add anchors to a text in Omnia, see the heading "Add an anchor (bookmark)" on this page: :doc:`Editing text with the RTF Editor </general-assets/rtf-editor/index>`
+You can use this asset to add a link to a page or document in the tenant, or create a Custom link to any web page. A mailto link can be created using a Custom link. Anchors are supported and can be used here, in a Custom liink. 
 
 Custom link
 ************
@@ -15,9 +13,11 @@ The following settings are available:
 
 + **Url**: Paste or type the Url (link) in this field. 
 + **Title**: Type a text to be shown for the clickable link.
-**Anchor Name**: To create a Custom link to an anchor, type the anchor name in this field.
++ **Anchor Name**: To create a Custom link to an anchor, type the anchor name in this field.
 + **Open in new window**: If the link should be opened in a new window, select this option. If not selected the link opens in the' same window.
 + **Icon**: An Icon will be shown for each link. If you select "Automatic" the system will select the icon. Choosing "Built-in" you can select an icon from either "Font Awesome", "Microsoft" or "Flags", see below. If you select "Custom" you can use any image as an icon.
+
+For information on how to add anchors to a text in Omnia, see the heading "Add an anchor (bookmark)" on this page: :doc:`Editing text with the RTF Editor </general-assets/rtf-editor/index>`
 
 Here are some examples of Font Awesome icons:
 
