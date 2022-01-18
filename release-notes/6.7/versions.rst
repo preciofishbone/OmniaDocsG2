@@ -5,7 +5,7 @@
 New Major Features
 **************************
 
-_`Copy blocks and sections across pages <https://omnia-docs-g2.readthedocs.io/en/latest/release-notes/6.7/index.html#copy-block-section-clipboard>`_ 
+Copy blocks and sections across pages
 ------------------------------------------
 - (#129970)
 
