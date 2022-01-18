@@ -1,8 +1,6 @@
-6.7.0 - DRAFT
+6.7.0
 ========================================
 (Omnia 6.7.0 / Workplace 6.7.0 / WCM 6.7.0 / MS 6.7.0)
-
-.. note:: These release notes are in Draft, it means they can change at any time. Items might be added, removed, or updated.
 
 New Major Features
 **************************
@@ -48,6 +46,14 @@ Anchor links
 -----------------------------------------
 Its now possible to configure links to link to any position on the page, or into any tab or accordion.
 
+Teams Precense
+----------------------------------------
+Teams precense can now be showed in all places where people are displayed. 
+
+More actions for the people rollup
+----------------------------------------
+Directly start a chat or trigger a phone call when on mobile (#127035, #122406, #126851).
+
 
 
 
@@ -66,7 +72,8 @@ New Minor Features
 - Its now possible to sort pages in the page rollup by title (#127889).
 - Important announcements now supports RTF, making it possible to have for example links in the important announcement (#116651).
 - Its now possible to start a phone call or MS Teams call directly from the people rollup. (#122406, #127035, #126851).
-
+- SPFx: The Omnia Webpart now supports full width sections. 
+- 
 
 Fixes
 **************************
@@ -81,3 +88,7 @@ Fixes
 - Improved performance when creating pages in page collections with many entries (#130658).
 - The RSS block no longer crashes the page when a faulty URL is supplied in settings (#124703).
 - Info screen now keeps settings when switching views. (#132723).
+- Fixed a layout issue that could hang the layout editor (#132703).
+- Updated execution logic for the script block, its now possible to create redirect script blocks again (#134001, #134333, #134692).
+- Corrected a page rollup rendering glitch in mobile (#134007).
+- 
