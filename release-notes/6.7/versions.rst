@@ -75,7 +75,7 @@ New Minor Features
 - When using the Keep text only feature in RTF, all style tags are now removed (Only default HTML styles is kept)
 - Its now possible to move document types in the document type tree in Omnia Admin.
 - When the accordion/FAQ block has no content, it will be completely hidden in read mode (#128010).
-- Its now possible to configure my site to only show a link to Teams (And not also to the SharePoint site) (#121953).
+- Its now possible to configure my site to only show a link to Teams (And not also to the SharePoint site) (#121953, #113020).
 - Action buttons can now be rearranged within the same action button block (#129574).
 - Card view for the document rollup.
 - Its now possible to sort pages in the page rollup by title (#127889).
@@ -122,6 +122,9 @@ Fixes
 - Updates to the new indicator logic for notification panel items.
 - Improvments to the RTF editor (#132945, #133104).
 - Fixed som invalid config for the default page layouts (#133031).
+- Design correction for new items in the page rollup Roller view (#134766).
+- Several events in the Activity view have been fixed. 
+- Improved the way records declaration for ODM published documents are applied (#133646).
 - 
 
 For developers
