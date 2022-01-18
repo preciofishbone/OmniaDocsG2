@@ -88,7 +88,9 @@ New Minor Features
 - Grouping for action buttons.
 - AzureAD Sync now supports the Delta API. This means greatly improved sync performance for large customers.
 - Its now possible to add the same page collection several times in one page rollup.
-- 
+- Strengthen profile has a new and improved horizontal design.
+- Configurability for the search block has been improved.
+- The new mobile navigation now includes siblings and parents.
 
 
 Fixes
@@ -115,6 +117,12 @@ Fixes
 - Terms in the notification panel now keep thier colors even when the item is highlighted (#135024).
 - Ensured the notification panel will load the configured icon and not the default one. (#134349).
 - Date format is now configurable for the people rollup. 
+- Corrected an issue occuring when editing comments (#132670).
+- The Create Document Wizard can now create documents in libraries with more than 5000 documents. (#132539).
+- Updates to the new indicator logic for notification panel items.
+- Improvments to the RTF editor (#132945, #133104).
+- Fixed som invalid config for the default page layouts (#133031).
+- 
 
 For developers
 ****************************
