@@ -54,12 +54,16 @@ More actions for the people rollup
 ----------------------------------------
 Directly start a chat or trigger a phone call when on mobile (#127035, #122406, #126851).
 
-Full Text Search Solution (#132701, #124961, #128796, #129938)
+Full Text Search Solution (#132701, #124961, #128796, #129938, #129938)
 ---------------------------------------
 
 Improved Metrics
 ---------------------------------------
 - Ist now possible to include User Properties as filters for metrics. 
+
+Channels
+---------------------------------------
+
 
 
 
@@ -92,7 +96,8 @@ New Minor Features
 - Configurability for the search block has been improved.
 - The new mobile navigation now includes siblings and parents.
 - An email Icon can now be added to the People search template (#113710).
-- 
+- Term properties now expand by default if there is only one parent term selected (#127849).
+- The WCM archive now allows for any editor to restore thier own archved pages.
 
 
 Fixes
@@ -128,8 +133,18 @@ Fixes
 - Several events in the Activity view have been fixed. 
 - Improved the way records declaration for ODM published documents are applied (#133646).
 - Fixed an issue with deleting selected languages on Tenant level (#113528).
+- Removed an invalid option from the Controlled Documents view.
+- Its no longer possible to select "Current User" in info screen. (#129720).
+- Fixed an issue in the search for published documents in the Controlled documents Authoring site. (#129615).
+- Followed sites provider for the teamwork rollup now correctly also filters bnased on configuration (#130011).
+- Fixed an issue where Separator Color and Border Radius could not be saved in layout settings (#129423).
+- Fixed an issue in process managhemed where non clickable shapes would render as clickable.
+- Events created via the copy feature can now be opened directly (#127051).
+- Fixed a design issue on the people rolluo (#133847). 
+- The central image locations now pages content correctly (#131219, #131639, #134287).
+- Stability improvements to the Action Button (#133878).
 
-- Also fixes (#127462, ) 
+- Also above also fixes tickets (#127462, ) 
 
 For developers
 ****************************
