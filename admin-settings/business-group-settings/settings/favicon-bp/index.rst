@@ -1,8 +1,6 @@
 Favicon - Business Profile settings
 =======================================
 
-This option is available in Omnia 6.7 and later.
-
 Here you can set favicons for the Business Profile. You can choose to use the Tenant favicons or upload specific favicons for this Business Profile.
 
 .. image:: favicon-bp.png
