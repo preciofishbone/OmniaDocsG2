@@ -54,6 +54,9 @@ More actions for the people rollup
 ----------------------------------------
 Directly start a chat or trigger a phone call when on mobile (#127035, #122406, #126851).
 
+Full Text Search Solution
+---------------------------------------
+
 
 
 
@@ -73,7 +76,10 @@ New Minor Features
 - Important announcements now supports RTF, making it possible to have for example links in the important announcement (#116651).
 - Its now possible to start a phone call or MS Teams call directly from the people rollup. (#122406, #127035, #126851).
 - SPFx: The Omnia Webpart now supports full width sections. 
-- 
+- Communities: When following a community you will also subscribe to it.
+- Info screen now supports custom colors for important announcements. 
+- WCM navigation node page size is now configurable in Omnia Admin.
+
 
 Fixes
 **************************
@@ -91,4 +97,13 @@ Fixes
 - Fixed a layout issue that could hang the layout editor (#132703).
 - Updated execution logic for the script block, its now possible to create redirect script blocks again (#134001, #134333, #134692).
 - Corrected a page rollup rendering glitch in mobile (#134007).
-- 
+- Teamwork rollup now correctly shows all templates when filtering for "Only current business profile" (#134033).
+- .ico files are now supported in the Media picker. 
+- Fixed an issue that caused videos to not be configurable in info screen. 
+- Corrected a data load dependecy between Omnia Admin and blocks for links. 
+- Corrected an issue with the search query strings. 
+- Terms in the notification panel now keep thier colors even when the item is highlighted (#135024).
+
+For developers
+****************************
+- Several agressive CSS selectors have been made less specific, allowing them to be overridden by custom stylesheets.
