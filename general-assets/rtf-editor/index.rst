@@ -11,15 +11,17 @@ Using the RTF Editor
 **********************
 Here's the options that may be available in the editor:
 
-.. image:: rtf-editor-all-options.png
+.. image:: rtf-editor-all-options-new.png
 
-There are two lists and a number of icons available. You point at an icon for a tool tip. Here's an example:
+There are two lists and a number of icons available. You use the flag to note the language for the text you're entering. 
 
-.. image:: rtf-editor-all-tooltip.png
+You point at an icon for a tool tip. Here's an example:
+
+.. image:: rtf-editor-all-tooltip-new.png
 
 Some options are also available as a floating toolbar, when text is selected, for example Add Link and Keep Text Only:
 
-.. image:: rtf-editor-all-floating.png
+.. image:: rtf-editor-all-floating-new.png
 
 Se below for more information.
 
@@ -30,7 +32,7 @@ A number of styles can be available. To add a style, do the following:
 1. Select the text.
 2. Open the Styles list and select style.
 
-.. image:: rtf-editor-all-style.png
+.. image:: rtf-editor-all-style-new.png
 
 This example only shows headings, but any style can be added to this list in Omnia Admin (see link above).
 
@@ -41,11 +43,11 @@ Too add a link, do the following.
 1. Click where the link should be added, or select some text that should the clickable text for the link.
 2. Click the icon in the toolbar at the top, or in the floating toolbar.
 
-.. image:: rtf-editor-all-link.png
+.. image:: rtf-editor-all-link-new.png
 
 The Add Link general asset is shown. If you selected text, it's added to the Title field:
 
-.. image:: rtf-editor-all-link-title.png
+.. image:: rtf-editor-all-link-title-new.png
 
 See this page for more information: :doc:`Add Link </general-assets/add-link/index>`
 
@@ -54,7 +56,7 @@ To edit or remove a link:
 1. select some of the clickable text for the link.
 2. Use the icons in the floating toolbar.
 
-.. image:: rtf-editor-all-link-edit.png
+.. image:: rtf-editor-all-link-edit-new.png
 
 Add Media
 -----------
@@ -63,23 +65,26 @@ You can add an image or a video to the text. This is how:
 1. Click where the image or video should be added.
 2. Click the Media icon.
 
-.. image:: rtf-add-image.png
+.. image:: rtf-add-image-new.png
 
 3. Use the Media Picker to add the image or video.
+
+.. image:: rtf-add-image-media-picker.png
 
 See this page for more information: :doc:`Media Picker </general-assets/media-picker/index>`
 
 The image/video area fills up the whole width (same width as the text), the height/width ratio intact. If you added an image, some tools also becomes available on the image:
 
-.. image:: rtf-add-image-tools.png
+.. image:: what-the-heck.png
 
-From left to right:
+From left to right (for a video):
 
-+ To add a clickable link on the image.
 + To edit the image in Media Picker.
-+ To remove the image.
-+ To set the image width.
++ To remove the video.
++ To set the video width.
 
+Create a clickable link on an image
+-------------------------------------
 When you click the link tool to create a clickable link, the Add link general asset opens and you use it to add the link, see: :doc:`Add Link </general-assets/add-link/index>`
 
 When you click the tool to set the image width, the the tool becomes two. Click the left one to set the width:
