@@ -128,7 +128,8 @@ Fixes
 - Several events in the Activity view have been fixed. 
 - Improved the way records declaration for ODM published documents are applied (#133646).
 - Fixed an issue with deleting selected languages on Tenant level (#113528).
-- 
+
+- Also fixes (#127462, ) 
 
 For developers
 ****************************
