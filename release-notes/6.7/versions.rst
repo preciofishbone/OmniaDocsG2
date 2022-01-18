@@ -45,7 +45,7 @@ Anchor links
 -----------------------------------------
 
 
-Teams Precense
+Teams Presence 
 ----------------------------------------
 
 
@@ -84,19 +84,20 @@ New Minor Features
 - Important announcements now supports RTF, making it possible to have for example links in the important announcement (#116651).
 - Its now possible to start a phone call or MS Teams call directly from the people rollup. (#122406, #127035, #126851).
 - SPFx: The Omnia Webpart now supports full width sections. 
-- Communities: When following a community you will also subscribe to it.
+- Communities: When following a community, you will also subscribe to it.
 - Info screen now supports custom colors for important announcements. 
 - WCM navigation node page size is now configurable in Omnia Admin.
 - Grouping for action buttons.
-- AzureAD Sync now supports the Delta API. This means greatly improved sync performance for large customers.
+- Azure AD Sync now supports the Delta API. This means greatly improved sync performance for large customers.
 - Its now possible to add the same page collection several times in one page rollup.
 - Strengthen profile has a new and improved horizontal design.
 - Configurability for the search block has been improved.
 - The new mobile navigation now includes siblings and parents.
 - An email Icon can now be added to the People search template (#113710).
 - Term properties now expand by default if there is only one parent term selected (#127849).
-- The WCM archive now allows for any editor to restore thier own archved pages.
+- The WCM archive now allows for any editor to restore their own archived pages.
 - It's now possible to include User Properties as filters for metrics. 
+- The RTF editor can now be configured to suggest terms when writing.
 
 
 Fixes
@@ -113,38 +114,45 @@ Fixes
 - The RSS block no longer crashes the page when a faulty URL is supplied in settings (#124703).
 - Info screen now keeps settings when switching views. (#132723).
 - Fixed a layout issue that could hang the layout editor (#132703).
-- Updated execution logic for the script block, its now possible to create redirect script blocks again (#134001, #134333, #134692).
+- Updated execution logic for the script block, it’s now possible to create redirect script blocks again (#134001, #134333, #134692).
 - Corrected a page rollup rendering glitch in mobile (#134007).
 - Teamwork rollup now correctly shows all templates when filtering for "Only current business profile" (#134033).
 - .ico files are now supported in the Media picker. 
 - Fixed an issue that caused videos to not be configurable in info screen. 
-- Corrected a data load dependecy between Omnia Admin and blocks for links. 
+- Corrected a data load dependency between Omnia Admin and blocks for links. 
 - Corrected an issue with the search query strings. 
-- Terms in the notification panel now keep thier colors even when the item is highlighted (#135024).
+- Terms in the notification panel now keep their colors even when the item is highlighted (#135024).
 - Ensured the notification panel will load the configured icon and not the default one. (#134349).
 - Date format is now configurable for the people rollup. 
-- Corrected an issue occuring when editing comments (#132670).
+- Corrected an issue occurring when editing comments (#132670).
 - The Create Document Wizard can now create documents in libraries with more than 5000 documents. (#132539).
 - Updates to the new indicator logic for notification panel items.
-- Improvments to the RTF editor (#132945, #133104).
-- Fixed som invalid config for the default page layouts (#133031).
+- Improvements to the RTF editor (#132945, #133104).
+- Fixed some invalid config for the default page layouts (#133031).
 - Design correction for new items in the page rollup Roller view (#134766).
 - Several events in the Activity view have been fixed. 
 - Improved the way records declaration for ODM published documents are applied (#133646).
 - Fixed an issue with deleting selected languages on Tenant level (#113528).
 - Removed an invalid option from the Controlled Documents view.
-- Its no longer possible to select "Current User" in info screen. (#129720).
+- It’s no longer possible to select "Current User" in info screen. (#129720).
 - Fixed an issue in the search for published documents in the Controlled documents Authoring site. (#129615).
-- Followed sites provider for the teamwork rollup now correctly also filters bnased on configuration (#130011).
+- Followed sites provider for the teamwork rollup now correctly also filters based on configuration (#130011).
 - Fixed an issue where Separator Color and Border Radius could not be saved in layout settings (#129423).
-- Fixed an issue in process managhemed where non clickable shapes would render as clickable.
+- Fixed an issue in process management where non clickable shapes would render as clickable.
 - Events created via the copy feature can now be opened directly (#127051).
-- Fixed a design issue on the people rolluo (#133847). 
+- Fixed a design issue on the people rollup (#133847). 
 - The central image locations now pages content correctly (#131219, #131639, #134287).
 - Stability improvements to the Action Button (#133878).
+- When using MS Search as a search provider, correct icons are now shown.
+- Rich Text properties can now be used as description for Event Management (#134827).
+- Corrected padding on the top menu (#132901).
+- Corrected an issue with data migration to new Workspace (#134592).
+- The default SharePoint Context Url now validates correctly.
+- Improved how content is automatically saved in Process Management (#130412).
+- And many more small design and theme fixes.
 
-- Also above also fixes tickets (#127462, ) 
+- Also above also fixes tickets (#127462, #134925, #134754, #133706) 
 
 For developers
 ****************************
-- Several agressive CSS selectors have been made less specific, allowing them to be overridden by custom stylesheets.
+- Several aggressive CSS selectors have been made less specific, allowing them to be overridden by custom stylesheets.
