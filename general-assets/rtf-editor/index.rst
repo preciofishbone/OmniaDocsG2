@@ -73,7 +73,7 @@ You can add an image or a video to the text. This is how:
 
 See this page for more information: :doc:`Media Picker </general-assets/media-picker/index>`
 
-The image/video area fills up the whole width (same width as the text), the height/width ratio intact. If you added an image, some tools also becomes available on the image:
+The image/video area fills up the whole width (same width as the text), the height/width ratio intact. Some tools also becomes available on the image/video:
 
 .. image:: what-the-heck.png
 
