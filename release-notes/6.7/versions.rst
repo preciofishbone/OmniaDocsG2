@@ -5,68 +5,21 @@
 New Major Features
 **************************
 
-Copy blocks and sections across pages
-------------------------------------------
-- (#129970)
-
-Favicon is now configurable per business profile. 
-------------------------------------------
-- (#126515)
-
-Calculated Date Properties
------------------------------------------
-- (#123172, #114551)
-
-Automatic Archive
------------------------------------------
-- (#128186, #128942)
-
-
-Sign off requests
------------------------------------------
-
-
-Block for displaying PowerApps
------------------------------------------
-
-
-Search Feedback and promoted search results.
------------------------------------------
-
-
-Modals and panels will now close on click out 
------------------------------------------
-- (#123157, #122336, #125956)
-
-Yammer for likes and comments
------------------------------------------
-
-Anchor links
------------------------------------------
-
-
-Teams Presence 
-----------------------------------------
-
-
-More actions for the people rollup
-----------------------------------------
-- (#127035, #122406, #126851).
-
-Full Text Search Solution 
----------------------------------------
-- (#132701, #124961, #128796, #129938, #129938).
-
-
-Channels
----------------------------------------
-
-Conditional Consent
----------------------------------------
-
-
-
-
+- Copy blocks and sections across pages (#129970).
+- Favicon is now configurable per business profile (#126515).
+- Calculated Date Properties (#123172, #114551)
+- Automatic Archive (#128186, #128942)
+- Sign off requests
+- Block for displaying PowerApps
+- Search Feedback and promoted search results.
+- Modals and panels will now close on click out (#123157, #122336, #125956).
+- Yammer for likes and comments
+- Anchor links
+- Teams Presence 
+- More actions for the people rollup (#127035, #122406, #126851).
+- Full Text Search Solution (#132701, #124961, #128796, #129938, #129938).
+- Channels
+- Conditional Consent
 
 New Minor Features
 **************************
