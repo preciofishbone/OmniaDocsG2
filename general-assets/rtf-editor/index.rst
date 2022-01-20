@@ -58,8 +58,8 @@ To edit or remove a link:
 
 .. image:: rtf-editor-all-link-edit-new.png
 
-Add Media
------------
+Add and edit Media
+--------------------
 You can add an image or a video to the text. This is how:
 
 1. Click where the image or video should be added.
@@ -79,29 +79,38 @@ The image/video area fills up the whole width (same width as the text), the heig
 
 From left to right (for a video):
 
-+ To edit the image in Media Picker.
++ To edit the video in Media Picker.
 + To remove the video.
 + To set the video width.
 
-Create a clickable link on an image
--------------------------------------
-You can use the link tool shown on the image, to create a clickable link. The Add link general asset opens and you use it to add the link, see: :doc:`Add Link </general-assets/add-link/index>`
+For an image, the tools are slightly different:
+
+.. image:: what-the-heck-2.png
+
+From left to right:
+
++ To create a clickable link on the image.
++ To edit the image in Media Picker.
++ To remove the image.
++ To set the image width.
+
+To create a clickable link, click the link tool shown on the image and use the Add link general asset to add the link, see: :doc:`Add Link </general-assets/add-link/index>`
 
 When you click the tool to set the image width, the the tool becomes two. Click the left one to set the width:
 
-.. image:: rtf-add-image-tools-width-1.png
+.. image:: rtf-add-image-tools-width-1-new.png
 
 The following is shown:
 
-.. image:: rtf-add-image-tools-width-2.png
+.. image:: rtf-add-image-tools-width-2-new.png
 
-Responsive width is the default, meaning the image fills the whole width of the RTF area in the block, with the height/width ratio intact.
+Responsive width is the default, meaning the image fills the whole width of the RTF area in the block, with the height/width ratio intact. (This works the same for a video).
 
 You can also set an exact width in pixels by selecting "Fixed Width". 
 
 Here's an example with the image width set to 200 pixels:
 
-.. image:: rtf-add-image-tools-width-3.png
+.. image:: rtf-add-image-tools-width-3-new.png
 
 Add a table
 ------------
@@ -110,23 +119,23 @@ To add a table, do the following:
 1. click where the table should be placed.
 2. Click the Table icon.
 
-.. image:: rtf-editor-table.png
+.. image:: rtf-editor-table-new.png
 
 3. Click somewhere in the table for more options.
 
 Something like the following now becomes available:
 
-.. image:: rtf-editor-table-edits.png
+.. image:: rtf-editor-table-edits-new.png
 
 Most of these option you recognize from other applications, for example Microsoft Word.
 
 In the Table Styles list, a number of styles are available:
 
-.. image:: rtf-editor-table-edits-table-styles.png
+.. image:: rtf-editor-table-edits-table-styles-new.png
 
 You can also style an individual cell using the icon to the far right.
 
-.. image:: rtf-editor-table-edits-cell-style.png
+.. image:: rtf-editor-table-edits-cell-style-new.png
 
 Pasting text only
 -------------------
@@ -137,7 +146,7 @@ All style tags are removed. Default HTML styles is kept.
 1. Paste the text.
 2. Click the Keep text only icon.
 
-.. image:: rtf-editor-test-only.png
+.. image:: rtf-editor-test-only-new.png
 
 You can also use this option on text you already have in the block. Just select the text and the option becomes available.
 
@@ -149,11 +158,11 @@ Here's how to add such a link:
 
 1. Type the text as usual and when you type something that match a term in the Enterprise Glossary, it's highlighted.
 
-.. image:: rtf-editor-glossary-aware-highlight.png
+.. image:: rtf-editor-glossary-aware-highlight-new.png
 
 2. To add a link to that term (you don't have to), click the term and the following is shown:
 
-.. image:: rtf-editor-glossary-aware-highlight-icons.png
+.. image:: rtf-editor-glossary-aware-highlight-icons-new.png
 
 3. Click the left icon to create the link (the one to the left to remove it).
 
@@ -163,19 +172,17 @@ Add an anchor (bookmark)
 ---------------------------
 Anchors can used in the Add Link general asset and when creating a link button using the Action button block. So, if you add an anchor (bookmark) to the text, links can be created to that anchor.
 
-Anchors are available in Omnia 6.7 and later.
-
 Here's how to add an anchor:
 
 1. Type the text.
 2. Select the text where the anchor should be placed.
 3. Click the anchor icon.
 
-.. image:: anchor-icon.png
+.. image:: anchor-icon-new.png
 
 4. Add an anchor name and save.
 
-.. image:: anchor-name.png
+.. image:: anchor-name-new.png
 
 For more information about Add link, see: :doc:`Add link </general-assets/add-link/index>`
 
@@ -187,11 +194,11 @@ If the option is available you can machine translate the text in a block, this w
 
 1. Click the icon.
 
-.. image:: rtf-editor-machine-translation.png
+.. image:: rtf-editor-machine-translation-new.png
 
 2. Select the language to translate to (the language must have been set up in Omnia Admin).
 
-.. image:: machine-translation-select-language.png
+.. image:: machine-translation-select-language-new.png
 
 **Note!** You can use Ctrl-Z or just Discard Changes if you change your mind.
 
