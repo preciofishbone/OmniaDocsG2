@@ -89,7 +89,7 @@ For an image, the tools are slightly different:
 
 From left to right:
 
-+ To create a clickable link on the image.
++ To create a clickable link on the image (makes the whole image clickable).
 + To edit the image in Media Picker.
 + To remove the image.
 + To set the image width.
