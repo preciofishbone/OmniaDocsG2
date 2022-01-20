@@ -85,7 +85,7 @@ From left to right (for a video):
 
 Create a clickable link on an image
 -------------------------------------
-When you click the link tool to create a clickable link, the Add link general asset opens and you use it to add the link, see: :doc:`Add Link </general-assets/add-link/index>`
+You can use the link tool shown on the image, to create a clickable link. The Add link general asset opens and you use it to add the link, see: :doc:`Add Link </general-assets/add-link/index>`
 
 When you click the tool to set the image width, the the tool becomes two. Click the left one to set the width:
 
