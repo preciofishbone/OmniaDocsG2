@@ -75,7 +75,7 @@ See this page for more information: :doc:`Media Picker </general-assets/media-pi
 
 The image/video area fills up the whole width (same width as the text), the height/width ratio intact. If you added an image, some tools also becomes available on the image:
 
-.. image:: what-the heck.png
+.. image:: what-the-heck.png
 
 From left to right (for a video):
 
