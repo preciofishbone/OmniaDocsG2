@@ -129,7 +129,7 @@ Link
 Using this action a Link Action can be added, meaning a link can be opened:
 
 + **Url**: Type or paste the Url to go to when a user clicks the link. 
-+ **Anchor Name**: In Omnia 6.7 and later, anchors are supported. Type the Anchor Name in this field to create a link to an anchor.
++ **Anchor Name**: Type the Anchor Name in this field to create a link to an anchor.
 + **Target**: Choose if the link should be opened in a new window, the current window, or in a dialog. 
 + **Dialog Position**: If you selected "Dialog" for Target, you can select where to place the dialog: Center, Full screen, Left or Right.
 
@@ -222,7 +222,7 @@ This action can be added to the menu in a community but can also be added as a b
 .. image:: action-button-subscribe-new.png
 
 + **Unsubscribe Text**: A "Subscribe" button changes the text automatically when a user has clicked the button. Unsubscribe is suggested but you can change the text to something else.  
-+ **Subscription Scope**: Select the scope here, meaning what the user actually subscribes to; the Page (=all changes to the page, even comments and best reply for Knowledge pages), Publishing App (=all new pages in the Publishing App, but not changes to existing pages) or Page Collection (=all new pages in the Page Collection, but not changes to existing pages). In Omnia 6.7 and later, the Scope can also be Publishing Channel.
++ **Subscription Scope**: Select the scope here, meaning what the user actually subscribes to; the Page (= all changes to the page, even comments and best reply for Knowledge pages), Publishing App (= all new pages in the Publishing App, but not changes to existing pages) or Page Collection (= all new pages in the Page Collection, but not changes to existing pages). The Scope can also be a Publishing Channel.
 + **Publishing Channel**: If Publishing Channel was set as Scope, use this list to select channel.
 
 Teamwork Navigation
