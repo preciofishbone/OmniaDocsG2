@@ -11,28 +11,16 @@ General
 *********
 Set the following here:
 
-.. image:: page-settings-general-new4.png
+.. image:: page-settings-general-new5.png
 
 + **Default Page Collection**: The default Page Collection for the page can be set here.
++ **Allow reuse content**: If it should be allowed to resuse content within the Publisging App, activate "Enable Reuse Content". For more information about how to reuse content, see: :doc:`Reusable Content </pages/reusable-content/index>`
 + **Connected Sharepoint Site**: The address to the Sharepoint Site is shown here.
-+ **Full Sync etc**: (For a description of these buttons, see below).
 
 Set the following, needed for page reports to work:
 
 + **Contact Property**: Select the property used to store information about the user being page contact.
 + **Review Date Property**: Select the property used to store information about review date for pages.
-
-(In Omnia 6.7 and later, an additional tab will be available - Archive. See the end of this page for more information.)
-
-Sync to Sharepoint
---------------------
-This sync is a map of some properties to Sharepoint fields, either as set up in Omnia Admin, or set up specifically for a Page Type, as an override.
-
-When some (rare) actions has been executed, for example an override created for a Page Type, a new sync to Sharepoint may be needed, using the buttons here.
-
-For more information about the Admin settings, see: :doc:`Web Content Management </admin-settings/tenant-settings/webcontent-managament/index>`
-
-For more information about the override, see this page: :doc:`Page Type Settings </pages/page-types/page-type-settings/index>`
 
 Permissions
 ************
