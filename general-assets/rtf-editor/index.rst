@@ -58,6 +58,24 @@ To edit or remove a link:
 
 .. image:: rtf-editor-all-link-edit-new.png
 
+Add link to an Enterprise term
+-------------------------------
+You may be able to add a link to an enterprise term, and by that use the Enterprise Glossary functionality.
+
+Here's how to add such a link:
+
+1. Type the text as usual and when you type something that match a term in the Enterprise Glossary, it's highlighted.
+
+.. image:: rtf-editor-glossary-aware-highlight-new.png
+
+2. To add a link to that term (you don't have to), click the term and the following is shown:
+
+.. image:: rtf-editor-glossary-aware-highlight-icons-new.png
+
+3. Click the left icon to create the link (the one to the left to remove it).
+
+For more information about Glossary Terms, see: :doc:`Enterprise Glossary </admin-settings/tenant-settings/properties/enterprise-glossary/index>`
+
 Add and edit Media
 --------------------
 You can add an image or a video to the text. This is how:
@@ -149,24 +167,6 @@ All style tags are removed. Default HTML styles is kept.
 .. image:: rtf-editor-test-only-new.png
 
 You can also use this option on text you already have in the block. Just select the text and the option becomes available.
-
-Add link to Enterprise term
-------------------------------
-You may be able to add a link to an enterprise term, and by that use the Enterprise Glossary functionality.
-
-Here's how to add such a link:
-
-1. Type the text as usual and when you type something that match a term in the Enterprise Glossary, it's highlighted.
-
-.. image:: rtf-editor-glossary-aware-highlight-new.png
-
-2. To add a link to that term (you don't have to), click the term and the following is shown:
-
-.. image:: rtf-editor-glossary-aware-highlight-icons-new.png
-
-3. Click the left icon to create the link (the one to the left to remove it).
-
-For more information about Glossary Terms, see: :doc:`Enterprise Glossary </admin-settings/tenant-settings/properties/enterprise-glossary/index>`
 
 Add an anchor (bookmark)
 ---------------------------
