@@ -26,7 +26,7 @@ Permissions
 ************
 Use these settings to Edit permissions in the Publishing App. 
 
-.. image:: page-settings-permissions-new3.png
+.. image:: page-settings-permissions-new4.png
 
 + **Allow Mobile Login**: This setting is intended to offer login to certain parts of Omnia for first line workers, partners and similar. The user needs the Kaizala app and a viable account. **Note!** Mobile Login is not available in Omnia on-prem.
 + **Administrators**: Add and remove Publishing App administrators here as needed.
@@ -46,13 +46,13 @@ A variation can also be set up for Automatic Machine Translation, see below. (No
 
 It's also possible to add one variation author for each variation.
 
-.. image:: page-settings-variations-new4.png
+.. image:: page-settings-variations-new5.png
 
 You see the variations that has been set up so far, with information about for example targeting. A "Variaton" in the tenant's default language is also listed here - note the label "Default" in the image above. For all pages, a variation with the default language must always exist. That is what is added when a page is created the first time.
 
 To edit the settings for a variation, click the pen. To delete a variation, click the dust bin.
 
-.. image:: page-settings-variations-edit-delete-new.png
+.. image:: page-settings-variations-edit-delete-new2.png
 
 When you edit a variation, the same settings as when you create a new variation are available, see below.
 
@@ -64,15 +64,15 @@ Do the following to create a new variation:
 
 1. Click ADD VARIATION.
 
-.. image:: click-add-variation.png
+.. image:: click-add-variation-new.png
 
 2. Use the following settings.
 
-.. image:: variations-new3.png
+.. image:: variations-new4.png
 
-+ **Title**: Add a title for the variation to be shown in the lists, for example the list where users can select variation. If needed, the title can be added in any or all of the languages set up in the tenant. 
-+ **Icon Type**: Select the Icon Type here, for excample "Flags".
-+ **Icon**: Selevt the icon (for exemple the flag) here.
++ **Title**: Add a title for the variation to be shown in the lists, for example the list where users can select variation. If needed, the title can be added in any or all of the languages set up in the tenant. Click the flag to change language.
++ **Icon Type**: If you want show an icon for the variation, select Icon Type here, for excample "Flags".
++ **Icon**: Shown when you have selected Icon Type. Select the icon here.
 + **Url Segment**: Add a suitable Url Segment in this field.
 + **Variation author**: You can add a variation author for this variation. See this page for more information: :doc:`Edit Page Variations </pages/edit-page-variations/index>`
 + **Automatic Machine Translation**:You can select machine translation for this variation, to any language that is set up in the tenant. If you do, you can't select a Variation author, and the machine translated variation can not be edited manually. When you have selected this option, choose language in the list shown. Automatic Machine Translation is executed when the page is published. It will be noted on the variation page that it has been machine translated, see below. **Note!** Machine translation is not available in Omnia on-prem.
@@ -80,7 +80,7 @@ Do the following to create a new variation:
 
 Languages used for Titles, or for targering, must be set up in the Tenant Settings, see this page: :doc:`Regional Settings </admin-settings/tenant-settings/settings/regional-settings/index>`
 
-Here's an example of a machine translated varitaion page:
+Here's an example of a machine translated variation page:
 
 .. image:: variation-machine-translated.png
 
@@ -94,14 +94,14 @@ To target a Page Variation, do the following:
 
 1. Click "Add Targeting Filter" when editing a Page Variation's settings.
 
-.. image:: page-variation-add-targeting-new3.png
+.. image:: page-variation-add-targeting-new4.png
 
 2. Select Targeting Property from the list. 
 3. As the next step you can select to include all Children, or you can target one or more of the Children specifically. 
 
 Here's an example which will see to that all users that has French set as preferred language will see the French variation of the page.
 
-.. image:: page-targeting-french-new.png
+.. image:: page-targeting-french-new2.png
 
 4. Click "OK" to save your changes.
 
@@ -109,7 +109,7 @@ You can add as many Targeting Properties for a Variation as is needed, this way 
 
 Note that the targeting settings also are shown in the Variations list, for example:
 
-.. image:: page-variation-example-new4.png
+.. image:: page-variation-example-new5.png
 
 Edit contents of a Page Variation
 --------------------------------------
@@ -127,13 +127,13 @@ Statistics
 *************
 For more advanced statistics in Omnia, this is the place to add the scripts you get from your statistics provider, for example: 
 
-.. image:: page-settings-statistics-new2.png
+.. image:: page-settings-statistics-new3.png
 
 Don't forget to save. The "Save" button is located in the lower right corner.
 
 Archive
 *********
-On this tab, available in Omnie 6.7 and later, you can set rules for termination of archived pages in the Publishing App. Termination means those pages can no longer be retrived from the archive. Regardless of if you have this option on or not, pages can always be terminated manually in the archive, as long as they are present in the archive.
+On this tab, you can set rules for termination of archived pages in the Publishing App. Termination means those pages can no longer be retrived from the archive. Regardless of if you have this option on or not, pages can always be terminated manually in the archive, as long as they are present in the archive.
 
 Here's an example of such a setting:
 
@@ -141,4 +141,4 @@ Here's an example of such a setting:
 
 If you don't want automatic termination, just keep this option deselected.
 
-Important note! The archiving and termination settings are valid for Omnia. If a page truly must be terminated from your system, settings for dust bins in Sharepoint may also need to be edited.
+Important note! The archiving and termination settings are valid for Omnia. If a page truly must be removed from your system, settings for dust bins in Sharepoint may also need to be edited.
