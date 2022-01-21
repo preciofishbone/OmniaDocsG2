@@ -37,7 +37,7 @@ You can unsubscribe to any subscription by clicking the dust bin.
 
 Subscribing to channels and unsubscribing
 ********************************************
-In Omnia 6.7 and later, it will be possible to subscribe to channels, if any are setup. Then a fourth tab will be available:
+You can subscribe to channels, if any are setup. Use this tab:
 
 .. image:: my-subscriptions-67.png
 
