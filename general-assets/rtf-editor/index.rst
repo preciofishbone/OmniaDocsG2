@@ -152,7 +152,7 @@ You can also use this option on text you already have in the block. Just select 
 
 Add link to Enterprise term
 ------------------------------
-In Omnia 6.7 and later you may be able to add a link to an enterprise term, and by that use the Enterprise Glossary functionality.
+You may be able to add a link to an enterprise term, and by that use the Enterprise Glossary functionality.
 
 Here's how to add such a link:
 
