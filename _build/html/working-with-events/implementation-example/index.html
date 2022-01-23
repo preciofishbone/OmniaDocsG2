@@ -101,6 +101,7 @@
 <li class="toctree-l2"><a class="reference internal" href="../../setup/eventmanagement/index.html">Setup Event Management</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../../blocks/blocks-event-management/index.html">Blocks for Event Management</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../creating-new-event/index.html">Creating a new Event</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../copy-event/index.html">Copy an event</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../administer-event/index.html">Administer an Event</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../register-for-event/index.html">Register for an event</a></li>
 <li class="toctree-l2 current"><a class="current reference internal" href="#">Event Management - implementation example</a></li>
@@ -111,6 +112,7 @@
 <li class="toctree-l1"><a class="reference internal" href="../../using-omnia-feed/index.html">Using Omnia Feed</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../user-options/index.html">User options</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../setup/index.html">Setup</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../accessability/index.html">Accessibility</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../cookies-consent-information/index.html">Cookies Consent information</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../release-notes/index.html">Release Notes</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../roadmap/index.html">In Development</a></li>
@@ -192,7 +194,7 @@
 <img alt="../../_images/event-implementation-1.png" src="../../_images/event-implementation-1.png" />
 <p>“Upcoming sessions”, lists the training events that users can register for:</p>
 <img alt="../../_images/event-implementation-2-new.png" src="../../_images/event-implementation-2-new.png" />
-<p>The button CREATE TRAINING EVENT can only be seen and used by Event Administrators (Page Authors).</p>
+<p>The button CREATE TRAINING EVENT can only be seen and used by Event Managers (Page Authors).</p>
 <p>Each training is described the following way:</p>
 <img alt="../../_images/event-implementation-4.png" src="../../_images/event-implementation-4.png" />
 <p>There can be three buttons available for registration: SIGN UP, CANCEL and SIGN UP OTHER. The buttons can of course be named something else, but their purpose is described by their name here.</p>
@@ -206,7 +208,7 @@
 <img alt="../../_images/event-implementation-5.png" src="../../_images/event-implementation-5.png" />
 <p>As you can see both Joe Bergman and Robert Johnson has registered an additional number of (not named) participants that will accompany them.</p>
 <p>Reservations is possible and there’s one name on that list, waiting for the possibility that one of the registered patricipants will not be able to attend.</p>
-<p>What we see here is the view for Event Administrators (Page Authors). The icons to the right of each registration and the buttons at the bottom are only shown for them. They can use the icons to move a registration to the Standby list, edit the registration, for example to change the number of not named participants, and even remove a registration.</p>
+<p>What we see here is the view for Event Managers (Page Authors). The icons to the right of each registration and the buttons at the bottom are only shown for them. They can use the icons to move a registration to the Standby list, edit the registration, for example to change the number of not named participants, and even remove a registration.</p>
 <p>The buttons at the bottom can be used, as the names clearly indicates, to export the participant list to Excel and to send an e-mail to all participants.</p>
 <div class="section" id="the-settings">
 <h2>The settings<a class="headerlink" href="#the-settings" title="Permalink to this headline">¶</a></h2>
@@ -229,9 +231,9 @@
 </div>
 <div class="section" id="settings-for-the-event-training-pages">
 <h3>Settings for the Event (Training) Pages<a class="headerlink" href="#settings-for-the-event-training-pages" title="Permalink to this headline">¶</a></h3>
-<p>When a administrator/page editor creates a new event - meaning a new Event Page - the following settings are available in this example, and can be edited later:</p>
+<p>When a manager/page editor creates a new event - meaning a new Event Page - the following settings are available in this example, and can be edited later:</p>
 <img alt="../../_images/event-implementation-settings-1.png" src="../../_images/event-implementation-settings-1.png" />
-<p>It is here the administrator/page editor adds all data about the event; for example when it starts and ends and the maximum number of participants. Some properties may have to be set up specifically in Omnia Admin before they can be used here.</p>
+<p>It is here the manager/page editor adds all data about the event; for example when it starts and ends and the maximum number of participants. Some properties may have to be set up specifically in Omnia Admin before they can be used here.</p>
 <p>For more information about these options, see: <a class="reference internal" href="../creating-new-event/index.html"><span class="doc">Creating a new event</span></a>.</p>
 <p>The Page Type for the event pages consists of a number of blocks. Important to mention is the following:</p>
 <p>The buttons in the Action Button block must have the Type “Event Management” to work for this purpose.</p>
@@ -261,9 +263,9 @@
 
   <div role="contentinfo">
     <p>
-        &#169; Copyright 2021, Precio Fishbone.
+        &#169; Copyright 2022, Precio Fishbone.
       <span class="lastupdated">
-        Last updated on Aug 23, 2021.
+        Last updated on Jan 21, 2022.
       </span>
 
     </p>

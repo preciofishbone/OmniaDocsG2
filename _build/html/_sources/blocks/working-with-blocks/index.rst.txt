@@ -60,6 +60,10 @@ Icons now show where you can place the copied block, the same way as when you mo
 3. Click the icon where you want the copied block and it's placed there.
 4. Edit the settings that you want to change.
 
+Copy a block from the clipboard
+---------------------------------------------
+There's also a clipboard available, that can be used to copy blocks between pages or page types, see: :doc:`Clipboard for sections and blocks </general-assets/layout-explorer/clipboard-sections-blocks/index>`
+
 Display settings for blocks
 ******************************
 When you're working on a block you can select how to show it on different devices, or to not display the block at all on some devices.

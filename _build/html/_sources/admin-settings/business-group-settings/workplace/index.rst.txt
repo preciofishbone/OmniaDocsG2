@@ -11,7 +11,7 @@ Settings
 **********
 The available settings in Omnia Admin are these:
 
-.. image:: workplace-settings-new.png
+.. image:: workplace-settings-new2.png
 
 Note the information that classic settings are activated for this Business Profile.
 
@@ -21,12 +21,11 @@ Select section for more information:
    :titlesonly:
 
    classic-is-enabled/index
-   permission/index
    settings/index
+   workspace-home/index
    header/index
    navigation-bar/index
    footer/index
-   notification-panel/index
 
 
 

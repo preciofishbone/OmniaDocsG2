@@ -9,6 +9,6 @@ Use these settings to decide if e-mails should be sent from Omnia or not.
 
 When enabling this, best practice is to setup a dedicated account. Omnia will then send e-mails using this dedicated user account via Microsoft Graph.
 
-**Note!:** The selected user account need to have a cloud Exchange mailbox.
+**Note!** The selected user account need to have a cloud Exchange mailbox.
 
-**Note**! This option is not available in Omnia on-premise.
+**Note!** This option is not available in Omnia on-prem.

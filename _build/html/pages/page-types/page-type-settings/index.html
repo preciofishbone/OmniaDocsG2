@@ -113,7 +113,7 @@
 <li class="toctree-l2 current"><a class="reference internal" href="../index.html">Page Types</a><ul class="current">
 <li class="toctree-l3"><a class="reference internal" href="../edit-page-type/index.html">Edit a Local Page Type</a></li>
 <li class="toctree-l3"><a class="reference internal" href="../create-new-page-type/index.html">Create a new Page Type</a></li>
-<li class="toctree-l3"><a class="reference internal" href="../working-with-sections-and-blocks/index.html">Working with Sections and Blocks</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../working-with-sections-and-blocks/index.html">Sections and Blocks in a Page Type</a></li>
 <li class="toctree-l3"><a class="reference internal" href="../section-settings/index.html">Settings for Sections</a></li>
 <li class="toctree-l3"><a class="reference internal" href="../archive-restore-page-type/index.html">Archive or restore a Page type</a></li>
 <li class="toctree-l3 current"><a class="current reference internal" href="#">Page Type Settings</a></li>
@@ -133,6 +133,7 @@
 <li class="toctree-l1"><a class="reference internal" href="../../../using-omnia-feed/index.html">Using Omnia Feed</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../user-options/index.html">User options</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../setup/index.html">Setup</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../accessability/index.html">Accessibility</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../cookies-consent-information/index.html">Cookies Consent information</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../release-notes/index.html">Release Notes</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../roadmap/index.html">In Development</a></li>
@@ -215,6 +216,7 @@
 <p>Here’s an example with a Page Type with left navigation:</p>
 <img alt="../../../_images/page-type-settings-left-new2.png" src="../../../_images/page-type-settings-left-new2.png" />
 <p>(For a description of “Override Sharepoint Sync Settings”, see below.)</p>
+<p>On Omnia 6.7 and later, it will be possible to automatically archive a page of a certain Page type. For more information, see below.</p>
 <p>If properties was selected as in the image above it would result in these fields being available on the Properties tab for a page:</p>
 <img alt="../../../_images/page-type-settings-left-fields-new2.png" src="../../../_images/page-type-settings-left-fields-new2.png" />
 <p>And here’s an example with a Page Type for News:</p>
@@ -252,6 +254,43 @@
 <p>When you have set up the sync here, you must execute a full sync to Sharepoint, as the message stated. Go to the Publishing App settings and click this button:</p>
 <img alt="../../../_images/page-type-settings-sync-button.png" src="../../../_images/page-type-settings-sync-button.png" />
 </div>
+<div class="section" id="enable-automatic-archive">
+<h2>Enable Automatic Archive<a class="headerlink" href="#enable-automatic-archive" title="Permalink to this headline">¶</a></h2>
+<p>This is a new option that will be availble in Omnia 6.7 and later.</p>
+<p>Here’s a Tenant Page Type as an example:</p>
+<img alt="../../../_images/automatic-archive.png" src="../../../_images/automatic-archive.png" />
+<p>When you click “Enable Automatic Archive” the following is shown:</p>
+<img alt="../../../_images/automatic-archive-settings-new.png" src="../../../_images/automatic-archive-settings-new.png" />
+<p>Select a property to base the automatic archiving on. <strong>Note!</strong> Best practice is to create a specific property to use for this purpose. Any Custom property of type date or time can be used.</p>
+<p>You can then edit the settings for the property you have chosen by clicking the cogwheel for the property.</p>
+<img alt="../../../_images/automatic-archive-settings-select.png" src="../../../_images/automatic-archive-settings-select.png" />
+<p>Available options can differ depending on how the property is set up. Here’s an example:</p>
+<img alt="../../../_images/automatic-archive-settings-settings-edited.png" src="../../../_images/automatic-archive-settings-settings-edited.png" />
+<p>Note that the settings you do for a property here is valid for this Page Type only. It does not affect the property in any other way.</p>
+<ul class="simple">
+<li><p><strong>Required</strong>: Select this option to make it mandatory to add settings to this property for all pages that use this Page Type.</p></li>
+<li><p><strong>Date Only</strong>: If date should be the only type of data possible for this property, select this option.</p></li>
+<li><p><strong>Show in new page</strong>: if this property should be available in the wizard when a new page is created, select this option.</p></li>
+<li><p><strong>Show in edit properties</strong>: if this property should be available in settings for a page when it’s edited, select this option.</p></li>
+<li><p><strong>Show label</strong>: Select this to show the label for the property.</p></li>
+<li><p><strong>Custom label</strong>: If Show label is selected, the property name is displayed per default. If you want another label to be displayed, add it here.</p></li>
+<li><p><strong>Category</strong>: You can add a category for this porpertys, used when listing properties for the Page Type.</p></li>
+<li><p><strong>Default value</strong>: Use this setting to decide what should be shown for the property as a suggested value, when the page is created. Empty is just that, no value. Today displays todays date. You can also base the automatic archiving on another property. See below for more information.</p></li>
+<li><p><strong>Read only</strong>: A property used for automatic archiving should always be read only.</p></li>
+<li><p><strong>Limit access permission</strong>: If not all authors are permitted to edit this setting for the Page Type, add the colleagues or groups that should be able to edit these settings here.</p></li>
+</ul>
+<div class="section" id="calculate-based-on-another-property-on-the-page">
+<h3>Calculate based on another property on the page<a class="headerlink" href="#calculate-based-on-another-property-on-the-page" title="Permalink to this headline">¶</a></h3>
+<p>Automatic archiving can be a calculated value. Note that the property that is used as base for the calculation, must be one of the other properties for the page.</p>
+<p>In this example, the page should be automatically archived one month after the article date:</p>
+<img alt="../../../_images/automatic-archive-settings-calculated.png" src="../../../_images/automatic-archive-settings-calculated.png" />
+<p>Note that if the value for the base property can be edited, which often is the case for Article Date, the automatic archiving date is automatically recalculated if the value of the base property is edited.</p>
+</div>
+<div class="section" id="automatic-termination">
+<h3>Automatic termination<a class="headerlink" href="#automatic-termination" title="Permalink to this headline">¶</a></h3>
+<p>Furthermore you can set automatic termination from the archive, based on archiving date. You can find that setting in the Publishing App Settings. See the heading “Archive” at the bottom of this page: <a class="reference internal" href="../../page-settings/index.html"><span class="doc">Publishing App Settings</span></a></p>
+</div>
+</div>
 </div>
 
 
@@ -268,9 +307,9 @@
 
   <div role="contentinfo">
     <p>
-        &#169; Copyright 2021, Precio Fishbone.
+        &#169; Copyright 2022, Precio Fishbone.
       <span class="lastupdated">
-        Last updated on Aug 23, 2021.
+        Last updated on Jan 21, 2022.
       </span>
 
     </p>

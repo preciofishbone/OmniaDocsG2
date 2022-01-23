@@ -1,8 +1,6 @@
 Apps for Teamwork
 ===========================================
 
-This is a documentation of the functionality for the Apps list for Teamwork in Omnia 6.5 and later.
-
 Here Teamworks are listed, the "Active" tab as an example:
 
 .. image:: teamwork-65-apps-new.png
@@ -17,6 +15,9 @@ Use the icons this way on the Active tab:
 + The dust bin to delete. 
 
 You can use the headings for Title, App Administrator, Provisioning Template and Created Date to sort the list. You can also search the list.
+
+**Note!** To be able to delete a teamwork, you must be App Administrator for the teamwork. Also note that deleting a teamwork from this list does not delete 
+the connected Sharepoint site.
 
 Edit Permissions
 -----------------
@@ -112,7 +113,7 @@ Available options depend on the template chosen. Here's some common ones:
 
 .. image:: team-collaboration-administrator-new.png
 
-+ **App Administrator**: You are automatically added as the Administratore. Add or remove Administrators as needed.
++ **App Administrator**: You are automatically added as the Administrator. Add or remove Administrators as needed.
 
 7. Click "Next".
 8. Set Enterprise Properties if nedded.
@@ -131,9 +132,14 @@ Attach a Teamwork Site
 ************************
 Using this option you can attach any Teamwork Site to Omnia. When a Teamwork Site is attached you can handle the site through Omnia the same way as a site created through Omnia.
 
-Do the following:
+The following permissions are required to be able to attach a site:
 
-1. Copy the Url for the Teamwork Site you want to attach.
++ For an Omnia Teamwork app: App Administrator permissions.
++ For a Sharepoint site: Site Collection Administrator permissions.
+
+Do the following to attach a site:
+
+1. Copy the Url for the Sharepoint site for the Teamwork you want to attach.
 2. Go to Team Collaboration settings and click the plus.
 3. Select "Attach Site".
 
@@ -143,4 +149,9 @@ The following is shown:
 
 3. Paste the Url and click "Resolve".
 
+You can "detach" (delete) a site if needed. Then the following permissions are needed:
 
++ For an Omnia Teamwork app: App Administrator permissions.
++ For a Sharepoint site: Site Owner or Site Collection Administrator permissions.
+
+**Note!** What actually happens when you click the dust bin to delete a site, is that the site is detached. That is true for all Teamwork sites, regardless of if they have been created in or attached to Omnia.

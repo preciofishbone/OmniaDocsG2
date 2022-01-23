@@ -1,8 +1,6 @@
 Header for Workspace
 ==========================
 
-In Omnia 6.5 and later, it is here you will find the settings for the Business Profile's header.
-
 Here you can edit header settings for the Business Profile's Workspace.
 
 .. image:: workplace-header-new.png
@@ -23,7 +21,7 @@ The following can be set here:
 
 + **Inherit from tenant**: I you would like to inherit the app launcher settings from the tenant, instead of using specific settings here, select this option.
 
-If you choose to not inherit the app launcher settings, add settings using the options. You use them the same way as the App Lancher settings for the tenant. See the heading "App Launcher" on this page: :doc:`Header settings in Omnia 6.5 </admin-settings/tenant-settings/settings/header/header-65/index>`
+If you choose to not inherit the app launcher settings, add settings using the options. You use them the same way as the App Lancher settings for the tenant. See the heading "App Launcher" on this page: :doc:`Tenant Header settings </admin-settings/tenant-settings/settings/header/header-65/index>`
 
 Logo
 ******
@@ -33,7 +31,7 @@ The Logo settings are these:
 
 + **Inherit from tenant**: I you would like to inherit the logo settings from the tenant, instead of using specific settings here, select this option.
 
-I you do not choose to inherit settings, set the desirde logo settings here. You use them the same way as the Logo settings for the tenant. See the heading "Logo" on this page: :doc:`Header settings in Omnia 6.5 </admin-settings/tenant-settings/settings/header/header-65/index>`
+I you do not choose to inherit settings, set the desirde logo settings here. You use them the same way as the Logo settings for the tenant, see link above.
 
 Search
 **********
@@ -41,7 +39,7 @@ Under Search, the following is available:
 
 .. image:: workplace-header-search.png
 
-The available settings are the same as in the tenant settings. See the heading "Search" on this page for more information: :doc:`Header settings in Omnia 6.5 </admin-settings/tenant-settings/settings/header/header-65/index>`
+The available settings are the same as in the tenant settings. You use them the same way as the Search settings for the tenant, see link above.
 
 Classic Mega Menu
 *******************
@@ -153,7 +151,7 @@ Here's an example with Show Follow Status selected. A filled star indicates that
 
 Use the filter settings to make filters available for users, in the list.
 
-Filter UI
+Filter
 ''''''''''''''
 Here you can add filters so users can filter a long list (= choose to just see some).
 

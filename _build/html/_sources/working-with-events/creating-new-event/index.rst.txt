@@ -1,7 +1,7 @@
 Creating a new Event
 ======================
 
-This information is intended for Event Administrators that needs to create a new event in an Event Center. Event Administrators must have at least Author permissions.
+This information is intended for Event Managers that needs to create a new event in an Event Center. Event Managers must have at least Author permissions.
 
 1. Go to the Event Center.
 2. Click the button for creating events.
@@ -32,8 +32,5 @@ Descriptions of two additional options that can be available here:
 + **Allow to register others**: The logged in user can always register himself or herself and at the same time register a number of not named participants. If any user should be able to register other NAMED participants as well, select this option. This is done through a separate button. 
 
 + **Disable self service registration**: If you enable this option, would be participants can only register to the Standby list.
-
-
-
 
 

@@ -38,6 +38,20 @@ Whenever a user search on any of the keywords of a Promoted Search Result, it wi
 
 .. image:: search-promotedresults-advancedsearch.png
 
+Sign-off Requests
+------------------------------------------
+
+Possibility to create sign-off requests that can be sent to individuals or groups of people. The request can be anything from a read receipt for a specific news article to onboarding of a new employee.
+
+.. image:: create-sign-off-request.png
+
+The end user can get an overview of pending sign-off requests in the notification panel.
+
+.. image:: sign-off-resource.png
+
+The requestor can get a full overview of pending sign-off requests that has been sent out.
+
+.. image:: sign-off-request-follow-up.png
 
 Publishing Channels
 ------------------------------------------
@@ -140,6 +154,30 @@ Organization Tree Block
 A new block makes it possible to show an organization tree based on information in Azure AD about who reports to who.
 
 .. image:: organizationtree.png
+
+People Rollup Actions
+------------------------------------------
+
+The people rollup block supports three new actions: Send e-mail, Start chat and Start call.
+
+.. image:: people-rollup-action-buttons.png
+
+
+Microsoft Teams Presence
+------------------------------------------
+
+All people components in Omnia now supports the possibility to show presence from Microsoft Teams.
+
+.. image:: teams-presence.png
+
+Azure AD Permissions
+------------------------------------------
+
+A tenant administrator can now get an overview of all consented permissions in Azure AD.
+
+.. image:: azure-ad-permissions.png
+
+From this view, it is also possible to invalidate all user tokens.
 
 
 Versions

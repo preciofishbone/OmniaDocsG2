@@ -44,8 +44,8 @@
     
     <link rel="index" title="Index" href="../../genindex.html" />
     <link rel="search" title="Search" href="../../search.html" />
-    <link rel="next" title="6.5.5" href="versions.html" />
-    <link rel="prev" title="Release Notes" href="../index.html" /> 
+    <link rel="next" title="6.6.12" href="versions.html" />
+    <link rel="prev" title="6.7.3" href="../6.7/versions.html" /> 
 </head>
 
 <body class="wy-body-for-nav">
@@ -106,9 +106,19 @@
 <li class="toctree-l1"><a class="reference internal" href="../../accessability/index.html">Accessibility</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../cookies-consent-information/index.html">Cookies Consent information</a></li>
 <li class="toctree-l1 current"><a class="reference internal" href="../index.html">Release Notes</a><ul class="current">
+<li class="toctree-l2"><a class="reference internal" href="../6.7/index.html">Release 6.7</a></li>
 <li class="toctree-l2 current"><a class="current reference internal" href="#">Release 6.5</a><ul>
-<li class="toctree-l3"><a class="reference internal" href="versions.html">6.5.5</a></li>
-<li class="toctree-l3"><a class="reference internal" href="versions.html#id2">6.5.0</a></li>
+<li class="toctree-l3"><a class="reference internal" href="versions.html">6.6.12</a></li>
+<li class="toctree-l3"><a class="reference internal" href="versions.html#id2">6.6.9</a></li>
+<li class="toctree-l3"><a class="reference internal" href="versions.html#id3">6.6.7</a></li>
+<li class="toctree-l3"><a class="reference internal" href="versions.html#id4">6.6.6</a></li>
+<li class="toctree-l3"><a class="reference internal" href="versions.html#id5">6.6.5</a></li>
+<li class="toctree-l3"><a class="reference internal" href="versions.html#id6">6.6.4</a></li>
+<li class="toctree-l3"><a class="reference internal" href="versions.html#id7">6.6.0</a></li>
+<li class="toctree-l3"><a class="reference internal" href="versions.html#id8">6.5.8</a></li>
+<li class="toctree-l3"><a class="reference internal" href="versions.html#id9">6.5.6</a></li>
+<li class="toctree-l3"><a class="reference internal" href="versions.html#id10">6.5.5</a></li>
+<li class="toctree-l3"><a class="reference internal" href="versions.html#id11">6.5.0</a></li>
 </ul>
 </li>
 <li class="toctree-l2"><a class="reference internal" href="../6/index.html">Release 6</a></li>
@@ -203,8 +213,8 @@
 <p>After the upgrade, existing Business Profiles will use broken inheritance to Tenant level.
 New Business Profiles will by default be set to inherit from Tenant level.</p>
 </div>
-<div class="section" id="workspacee">
-<h2>Workspacee<a class="headerlink" href="#workspacee" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="workspace">
+<h2>Workspace<a class="headerlink" href="#workspace" title="Permalink to this headline">¶</a></h2>
 <p>When you create a new Business Profile, a Workspace (including a start url) will be created for the profile.</p>
 <img alt="../../_images/add-bp-workspace-new.png" src="../../_images/add-bp-workspace-new.png" />
 <p>After the upgrade, an existing Business Profile will run in classic mode. In order to take advantage of the new Workspace features, the Business Profile needs to be updated. You can do this by going in to the Business Profile and Create a new Workspace.</p>
@@ -267,6 +277,7 @@ New Business Profiles will by default be set to inherit from Tenant level.</p>
 <h2>Automatic Page Translation<a class="headerlink" href="#automatic-page-translation" title="Permalink to this headline">¶</a></h2>
 <p>It is now possible to set whether a variation should be translated by a Variation Author or automatically by the system.</p>
 <img alt="../../_images/automatic-page-translation.png" src="../../_images/automatic-page-translation.png" />
+<p><strong>Note!</strong> This feature is not available in Omnia on-prem.</p>
 <p>If a variation is translated automatically by the system, a disclaimer will be added on top of the page.</p>
 <img alt="../../_images/automatic-page-translation-disclaimer.png" src="../../_images/automatic-page-translation-disclaimer.png" />
 </div>
@@ -375,13 +386,14 @@ New Business Profiles will by default be set to inherit from Tenant level.</p>
 <div class="section" id="teams-and-yammer-share">
 <h2>Teams and Yammer Share<a class="headerlink" href="#teams-and-yammer-share" title="Permalink to this headline">¶</a></h2>
 <p>A new type of action button can be added to layouts that makes it possible to share the page to Yammer and/or Teams.</p>
+<p><strong>Note!</strong> Not available in Omnia on-prem.</p>
 <img alt="../../_images/share-to-yammer-teams.png" src="../../_images/share-to-yammer-teams.png" />
 <img alt="../../_images/share-to-teams-1.png" src="../../_images/share-to-teams-1.png" />
 <img alt="../../_images/share-to-teams-2.png" src="../../_images/share-to-teams-2.png" />
 </div>
 <div class="section" id="teams-channel-and-yammer-feed">
 <h2>Teams Channel and Yammer Feed<a class="headerlink" href="#teams-channel-and-yammer-feed" title="Permalink to this headline">¶</a></h2>
-<p>Two new blocks are available that integrates with Microsoft Teams and Yammer.</p>
+<p>Two new blocks are available that integrates with Microsoft Teams and Yammer. (Not available in Omnia on-prem).</p>
 <p>A Teams Channel block makes it possible to show a read-only view on a page of a specific channel in Teams.</p>
 <img alt="../../_images/channel-in-teams.png" src="../../_images/channel-in-teams.png" />
 <img alt="../../_images/teams-channel-on-page.png" src="../../_images/teams-channel-on-page.png" />
@@ -405,7 +417,7 @@ New Business Profiles will by default be set to inherit from Tenant level.</p>
 </div>
 <div class="section" id="comments-search-provider">
 <h2>Comments Search Provider<a class="headerlink" href="#comments-search-provider" title="Permalink to this headline">¶</a></h2>
-<p>A new provider in search can be used in a search category to search for comments (and discussions) in the solution.</p>
+<p>A new provider in search can be used in a search category to search for comments (and discussions) in the solution. (Not available in Omnia on-prem).</p>
 <img alt="../../_images/search-comments-provider.png" src="../../_images/search-comments-provider.png" />
 </div>
 <div class="section" id="search-improvements">
@@ -421,8 +433,17 @@ New Business Profiles will by default be set to inherit from Tenant level.</p>
 <h2>Versions<a class="headerlink" href="#versions" title="Permalink to this headline">¶</a></h2>
 <div class="toctree-wrapper compound">
 <ul>
-<li class="toctree-l1"><a class="reference internal" href="versions.html">6.5.5</a></li>
-<li class="toctree-l1"><a class="reference internal" href="versions.html#id2">6.5.0</a></li>
+<li class="toctree-l1"><a class="reference internal" href="versions.html">6.6.12</a></li>
+<li class="toctree-l1"><a class="reference internal" href="versions.html#id2">6.6.9</a></li>
+<li class="toctree-l1"><a class="reference internal" href="versions.html#id3">6.6.7</a></li>
+<li class="toctree-l1"><a class="reference internal" href="versions.html#id4">6.6.6</a></li>
+<li class="toctree-l1"><a class="reference internal" href="versions.html#id5">6.6.5</a></li>
+<li class="toctree-l1"><a class="reference internal" href="versions.html#id6">6.6.4</a></li>
+<li class="toctree-l1"><a class="reference internal" href="versions.html#id7">6.6.0</a></li>
+<li class="toctree-l1"><a class="reference internal" href="versions.html#id8">6.5.8</a></li>
+<li class="toctree-l1"><a class="reference internal" href="versions.html#id9">6.5.6</a></li>
+<li class="toctree-l1"><a class="reference internal" href="versions.html#id10">6.5.5</a></li>
+<li class="toctree-l1"><a class="reference internal" href="versions.html#id11">6.5.0</a></li>
 </ul>
 </div>
 </div>
@@ -434,17 +455,17 @@ New Business Profiles will by default be set to inherit from Tenant level.</p>
           </div>
           <footer>
     <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
-        <a href="versions.html" class="btn btn-neutral float-right" title="6.5.5" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right" aria-hidden="true"></span></a>
-        <a href="../index.html" class="btn btn-neutral float-left" title="Release Notes" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left" aria-hidden="true"></span> Previous</a>
+        <a href="versions.html" class="btn btn-neutral float-right" title="6.6.12" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right" aria-hidden="true"></span></a>
+        <a href="../6.7/versions.html" class="btn btn-neutral float-left" title="6.7.3" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left" aria-hidden="true"></span> Previous</a>
     </div>
 
   <hr/>
 
   <div role="contentinfo">
     <p>
-        &#169; Copyright 2021, Precio Fishbone.
+        &#169; Copyright 2022, Precio Fishbone.
       <span class="lastupdated">
-        Last updated on Nov 01, 2021.
+        Last updated on Jan 21, 2022.
       </span>
 
     </p>

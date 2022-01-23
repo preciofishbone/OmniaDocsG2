@@ -1,13 +1,13 @@
 User Profile Card
 ===================
 
-The new user profile card will be shown (if this functionality is activated) whenever you click on a user name in Omnia. The user profile card is designed to align with user profile cards in other services in Microsoft 365.
+The user profile card will be shown (if this functionality is activated) whenever you click on a user name in Omnia. The user profile card is designed to align with user profile cards in other services in Microsoft 365.
 
 Here's how a profile card can look:
 
 .. image:: profile-card-example-jorg.png
 
-**Note!** In Omnia on-prem, all options referring to Delve is removed, as it's a Microsoft 365 feature and therefoe not available on-prem.
+**Note!** In Omnia on-prem, all options referring to Delve is removed, as it's a Microsoft 365 feature and therefore not available on-prem.
 
 The new user profile card also includes the possibility to browse who reports to who in the organization.
 

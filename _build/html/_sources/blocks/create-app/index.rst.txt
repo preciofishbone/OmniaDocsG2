@@ -1,7 +1,7 @@
 Create App block
 ===================
 
-A new Omnia App can be created through this block, available in Omnia 6.5 and later. If you used the Create Teamwork block in earlier Omnia versions, use this block instead in  Omnia 6.5 and later.
+A new Omnia App can be created through this block. If you used the Create Teamwork block in earlier Omnia versions, Create Teamwork is now part of this block.
 
 The following settings are available:
 
@@ -15,6 +15,8 @@ When you have selected App Definition, a list of available templates for the app
 Here's an example of templates available for Teamwork, with two templates selected:
 
 .. image:: create-app-block-settings-selected.png
+
+(Not all teamwork types listed are available in Omnia on-prem.)
 
 WRITE is not applicable here. Layout contains general options. For more information, see: :doc:`General Block Settings </blocks/general-block-settings/index>`
 

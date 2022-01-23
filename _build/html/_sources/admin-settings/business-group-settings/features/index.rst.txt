@@ -3,17 +3,19 @@ Features - Business Profile
 
 All available Features for the Business Profile is listed here and can be activated, deactivated and updated. Here's an example:
 
-.. image:: features-business-profile-new4.png
+.. image:: features-business-profile-new5.png
 
-Provisioning Templates
-************************
-The purpose of this feature is to provide a number of Provisioning Templates for an easy starting point. You can then edit the templates for your organization's needs, and of course add additional templates. 
+Team Provisioning Templates
+********************************
+The purpose of this feature is to provide a number of Teamwork Templates for an easy starting point. You can then edit the templates for your organization's needs, and of course add additional templates. 
 
 Providers
 **********
 Here you handle image and video providers - activating, upgrading, removing.
 
 **Note!** Pexel Search Provider - providing high quality photos - can not be used with Internet Explorer 11.
+
+**Note**! In Omnia on-prem, an internet connection must be available both on the server and on the client, for the internet based providers (for example Stream, YouTube, Pexel and Bing) to work. Also note that a separate subscription is needed for Microsoft Stream to be used on-prem.
 
 Configuration
 **************

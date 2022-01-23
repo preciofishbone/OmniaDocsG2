@@ -1,9 +1,7 @@
-Header settings in Omnia 6.5
+Header - Tenant settings
 ==============================
 
-This is how the Header settings work in Omnia 6.5 and later.
-
-Here you can change the default settings for the Header in the tenant. In the header settings for a workSPACE for a Business Profile, you can then choose to inherit those settings or create specific settings. 
+Here you can change the default settings for the Header in the tenant. In the header settings for a Workspace for a Business Profile, you can choose to inherit those settings or create specific settings. 
 
 .. image:: tenant-settings-header-65.png
 
@@ -65,7 +63,7 @@ Set the following here:
 .. image:: logo-settings-65-new.png
 
 + **Text**: A text can be displayed beside the logo, see example below. Different texts can be added for all tenant languages, if needed.
-+ **Logo text**: (A description will be added soon).
++ **Logo text**: This text is used as Tooltip and Alt text for the logo.
 + **Url**: Add the Url to the logo here.
 + **(Image field)**: Click the pen to add a logo image, using the Media Picker, the x to delete.
 

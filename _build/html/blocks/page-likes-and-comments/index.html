@@ -94,12 +94,12 @@
 <li class="toctree-l1"><a class="reference internal" href="../../admin-settings/index.html">Admin Settings</a></li>
 <li class="toctree-l1 current"><a class="reference internal" href="../index.html">Blocks</a><ul class="current">
 <li class="toctree-l2"><a class="reference internal" href="../accordion/index.html">Accordion</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../button-link/index.html">Action Button</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../activity-feed/index.html">Activity Feed</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../announcements/index.html">Announcements</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../banner/index.html">Banner</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../blocks-event-management/index.html">Blocks for Event Management</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../blocks-forms/index.html">Blocks for Forms</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../button-link/index.html">Action Button</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../banner/index.html">Banner</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../breadcrumb/index.html">Breadcrumb</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../calendar-rollup/index.html">Calendar Rollup</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../create-app/index.html">Create App block</a></li>
@@ -109,7 +109,7 @@
 <li class="toctree-l2"><a class="reference internal" href="../document-rollup/index.html">Document Rollup</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../faq/index.html">FAQ block</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../general-block-settings/index.html">General Block Settings</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../governance-dashboard/index.html">Governance Dashboard</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../governance-dashboard/index.html">Governance Dashboard block</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../html-script/index.html">HTML/Script</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../iframe/index.html">Iframe block</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../media/index.html">Media</a></li>
@@ -117,12 +117,14 @@
 <li class="toctree-l2"><a class="reference internal" href="../metrics/index.html">Metrics block</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../notification-panel/index.html">Notification Panel</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../omnia-block-webpart/index.html">Using the Omnia Block web part</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../organization-tree/index.html">Organization Tree Block</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../page-feedback/index.html">Page Feedback</a></li>
 <li class="toctree-l2 current"><a class="current reference internal" href="#">Page Likes and Comments</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../page-properties/index.html">Page Properties</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../page-rollup/index.html">Page Rollup</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../variation-selector/index.html">Page Variation Selector</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../people-rollup/index.html">People Rollup</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../power-app/index.html">Power App block</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../process-blocks/index.html">Process blocks</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../publishing-app-rollup/index.html">Publishing App Rollup block</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../user-profile-completion/index.html">Profile Completion</a></li>
@@ -131,7 +133,7 @@
 <li class="toctree-l2"><a class="reference internal" href="../related-links/index.html">Related Links</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../rss-reader/index.html">RSS Reader</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../search/index.html">Search</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../sign-off-request/index.html">Sign-off Request block</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../sign-off-request/index.html">Sign-off Requests Rollup</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../task-rollup/index.html">Task Rollup</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../taxonomy-navigation/index.html">Taxonomy Navigation</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../team-collaboration-rollup/index.html">Teamwork Rollup</a></li>
@@ -234,7 +236,6 @@
 <p>It is possible for the end user to edit and delete a comment, made by the user, by clicking the pen icon.</p>
 <img alt="../../_images/comments-and-likes-pen-new.png" src="../../_images/comments-and-likes-pen-new.png" />
 <p>When a comment is deleted it works this way: If there are no answers to the comment it will just be removed. If there are answers, the  comment will be replaced with a text that states that it has been deleted and by whom. Everyone can delete their own comments. A Site Collection administrator can delete any comment.</p>
-<p>In Omnia 6.5 this block has improved. Find more information at the bottom of the page.</p>
 <div class="section" id="turning-the-options-on-or-off">
 <h2>Turning the options on or off<a class="headerlink" href="#turning-the-options-on-or-off" title="Permalink to this headline">¶</a></h2>
 <p>When the block is added to a page (or to the Page Type), authors can turn on or off likes and/or comments using Write mode.</p>
@@ -243,14 +244,34 @@
 <div class="section" id="settings-for-the-block">
 <h3>Settings for the block<a class="headerlink" href="#settings-for-the-block" title="Permalink to this headline">¶</a></h3>
 <p>The following settings are available for the block:</p>
-<img alt="../../_images/comments-and-likes-settings-new4.png" src="../../_images/comments-and-likes-settings-new4.png" />
+<img alt="../../_images/comments-and-likes-settings-all.png" src="../../_images/comments-and-likes-settings-all.png" />
+</div>
+</div>
+<div class="section" id="general">
+<h2>General<a class="headerlink" href="#general" title="Permalink to this headline">¶</a></h2>
+<p>The following settings are available on this tab:</p>
+<img alt="../../_images/likes-65-general.png" src="../../_images/likes-65-general.png" />
 <ul class="simple">
 <li><p><strong>Title</strong>: If a title should be shown for the block, add it in this field. If variations exists for the page, it looks like in the image above. Titles in other languages are set in the variations. If there is  no variations you can set the title in any or all the languages active in the tenant.</p></li>
+<li><p><strong>Use Yammer Comments if available</strong>: This option is available in Omnia 6.7 and later.</p></li>
 <li><p><strong>Enable Rich Text</strong>: If you enable Rich Text, some basic formatting will be availble for users.</p></li>
-<li><p><strong>Enable mention</strong>: If it should be possible to use mentions in comments on this page or in this page type, select this option. Here’s an example of a mention:</p></li>
+<li><p><strong>Enable mention</strong>: If it should be possible to use mentions in comments on this page or in this page type, select this option. See below for an example.</p></li>
+<li><p><strong>Allow Likes</strong>: If it should be able to like a comment, select this option.</p></li>
+<li><p><strong>Allow Share</strong>: If it should be possible to share a comment, select this option - meaning the possibility to send a comment to another user by e-mail.</p></li>
+<li><p><strong>Sorting</strong>: Here you choose how to sort the comments; older first or newer first.</p></li>
+<li><p><strong>Paging size</strong>: Add a number (1-99) to set the number of items (comments) that should be displayed on each “page” of the list.</p></li>
 </ul>
+<p>Here’s an example of a mention:</p>
 <img alt="../../_images/comment-mention-new.png" src="../../_images/comment-mention-new.png" />
 </div>
+<div class="section" id="style">
+<h2>Style<a class="headerlink" href="#style" title="Permalink to this headline">¶</a></h2>
+<p>These settings are available onf the Style tab:</p>
+<img alt="../../_images/likes-65-style.png" src="../../_images/likes-65-style.png" />
+<p>You can add some padding if needed and it’s also possible to set styling for the “cards” (meaning each comment with sub comments). By selecting “Custom Card styling” you can set the following:</p>
+<img alt="../../_images/likes-65-style-card.png" src="../../_images/likes-65-style-card.png" />
+<p>For Advanced settings, the following is available:</p>
+<img alt="../../_images/likes-65-style-card-advanced.png" src="../../_images/likes-65-style-card-advanced.png" />
 <div class="section" id="layout-and-write">
 <h3>Layout and Write<a class="headerlink" href="#layout-and-write" title="Permalink to this headline">¶</a></h3>
 <p>The WRITE tab is not used here. The LAYOUT tab contains general settings, see: <a class="reference internal" href="../general-block-settings/index.html"><span class="doc">General Block Settings</span></a></p>
@@ -264,29 +285,6 @@
 <img alt="../../_images/comments-image.png" src="../../_images/comments-image.png" />
 <p>For this icon to be available it must be added to the Limited RTF Editor in Omnia Admin settings. See this page for more information: <a class="reference internal" href="../../admin-settings/tenant-settings/settings/rtf-editor/index.html"><span class="doc">RTF Editor settings</span></a></p>
 </div>
-<div class="section" id="page-likes-and-comments-block-in-omnia-6-5-and-later">
-<h3>Page Likes and Comments block in Omnia 6.5 and later<a class="headerlink" href="#page-likes-and-comments-block-in-omnia-6-5-and-later" title="Permalink to this headline">¶</a></h3>
-<p>In Omnia 6.5 and later, this block has some new options.</p>
-</div>
-</div>
-<div class="section" id="settings-in-6-5-and-later">
-<h2>Settings in 6.5 and later<a class="headerlink" href="#settings-in-6-5-and-later" title="Permalink to this headline">¶</a></h2>
-<p>The General tab will have the following options in Omnia 6.5 and later:</p>
-<img alt="../../_images/likes-65-general.png" src="../../_images/likes-65-general.png" />
-<p>Here’s descriptions of the new options:</p>
-<ul class="simple">
-<li><p><strong>Allow Likes</strong>: If it should be able to like a comment, select this option.</p></li>
-<li><p><strong>Allow Share</strong>: If it should be possible to share a comment, select this option - meaning the possibility to send a comment to another user by e-mail.</p></li>
-<li><p><strong>Sorting</strong>: Here you choose how to sort the comments; older first or newer first.</p></li>
-<li><p><strong>Paging size</strong>: Add a number (1-99) to set the number of items (comments) that should be displayed on each “page” of the list.</p></li>
-</ul>
-<p>There will also be a Style tab available in Omnia 6.5:</p>
-<img alt="../../_images/likes-65-style.png" src="../../_images/likes-65-style.png" />
-<p>The padding settings have been moved here and it’s also possible to set styling for the “cards” (meaning each comment with sub comments). By selecting “Custom Card styling” you can set the following:</p>
-<img alt="../../_images/likes-65-style-card.png" src="../../_images/likes-65-style-card.png" />
-<p>For Advanced settings, the following is available:</p>
-<img alt="../../_images/likes-65-style-card-advanced.png" src="../../_images/likes-65-style-card-advanced.png" />
-<p>All other settings that is described above also apply for Omnia 6.5.</p>
 </div>
 </div>
 
@@ -304,9 +302,9 @@
 
   <div role="contentinfo">
     <p>
-        &#169; Copyright 2021, Precio Fishbone.
+        &#169; Copyright 2022, Precio Fishbone.
       <span class="lastupdated">
-        Last updated on Oct 25, 2021.
+        Last updated on Jan 21, 2022.
       </span>
 
     </p>

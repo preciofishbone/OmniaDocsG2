@@ -1,7 +1,7 @@
 Templates for Communities
 ============================
 
-In Omnia 6.5 and later, the option Provisioning templates is removed. Instead, templates are administrated under each main option, so here  you can work with templates for Communities.
+Here  you can work with templates for Communities.
 
 .. image:: communties-templates-new.png
 
@@ -96,13 +96,15 @@ An Url is added, based on the name. It can be edited if needed.
 5. Click “Create”.
 6. Edit the settings.
 
-.. image:: community-page-collection-settings-edit.png
+.. image:: community-page-collection-settings-edit-new.png
 
-(All settings are not shown in the image).
+(There's a lot more settings than is shown in the image).
 
-You use these settings the same way as is described on this page: :doc:`Page Collections </pages/page-collections/index>`
+Page Collection Permissions are described on this page: :doc:`Page Collection Permissions </pages/page-collections/page-collection-permissions/index>`
 
-Don't forget to save when you're ready (the "Save" option is located in the low right corner).
+You use the rest of the settings the same way as is described on this page: :doc:`Page Collections </pages/page-collections/index>`
+
+Don't forget to save when you're ready (the "Save" option is located at the bottom, in the low right corner).
 
 To add another Page Collection, just do it the same way.
 

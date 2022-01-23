@@ -57,6 +57,14 @@ Page Contact and Review Date are two common properties. The page contact is ofte
 
 .. image:: new-page-properties-next-new.png
 
+It can be possible to publish to channels. If that is allowed in the Page Collection, a Channel tab will be shown. You can then select the channels to publish to, but this is never mandatory. 
+
+Normally publication to a channel must be approved by the channel Administrator, but if you are set up as Publisher for that channel, you can publish directly, without approval.
+
+Here's an example with four channels available. The author has chosen to publish in the channel he or she is publisher for:
+
+.. image:: publish-to-channel.png
+
 When the last Wizard step has been edited, something like the following is shown. What you will do next is really up to you, but to save a draft at this point is a good idea.
 
 .. image:: new-page-finished-new.png
@@ -68,14 +76,5 @@ Page Style and Layout Templates
 In Layout Explorer, there's a number of Layout Templates you can use, if you wish, for a new page. See: :doc:`Layout Templates </general-assets/layout-explorer/layout-templates/index>`
 
 In Layout Explorer there are a number of Page Style settings as well, see this page for more information: :doc:`Page Style </general-assets/layout-explorer/page-layout/page-style/index>`
-
-
-
-
-
-
-
-
-
 
 

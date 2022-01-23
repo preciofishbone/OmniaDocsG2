@@ -94,12 +94,12 @@
 <li class="toctree-l1"><a class="reference internal" href="../../admin-settings/index.html">Admin Settings</a></li>
 <li class="toctree-l1 current"><a class="reference internal" href="../index.html">Blocks</a><ul class="current">
 <li class="toctree-l2"><a class="reference internal" href="../accordion/index.html">Accordion</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../button-link/index.html">Action Button</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../activity-feed/index.html">Activity Feed</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../announcements/index.html">Announcements</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../banner/index.html">Banner</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../blocks-event-management/index.html">Blocks for Event Management</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../blocks-forms/index.html">Blocks for Forms</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../button-link/index.html">Action Button</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../banner/index.html">Banner</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../breadcrumb/index.html">Breadcrumb</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../calendar-rollup/index.html">Calendar Rollup</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../create-app/index.html">Create App block</a></li>
@@ -117,12 +117,14 @@
 <li class="toctree-l2"><a class="reference internal" href="../metrics/index.html">Metrics block</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../notification-panel/index.html">Notification Panel</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../omnia-block-webpart/index.html">Using the Omnia Block web part</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../organization-tree/index.html">Organization Tree Block</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../page-feedback/index.html">Page Feedback</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../page-likes-and-comments/index.html">Page Likes and Comments</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../page-properties/index.html">Page Properties</a></li>
 <li class="toctree-l2 current"><a class="current reference internal" href="#">Page Rollup</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../variation-selector/index.html">Page Variation Selector</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../people-rollup/index.html">People Rollup</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../power-app/index.html">Power App block</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../process-blocks/index.html">Process blocks</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../publishing-app-rollup/index.html">Publishing App Rollup block</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../user-profile-completion/index.html">Profile Completion</a></li>
@@ -131,14 +133,13 @@
 <li class="toctree-l2"><a class="reference internal" href="../related-links/index.html">Related Links</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../rss-reader/index.html">RSS Reader</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../search/index.html">Search</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../sign-off-request/index.html">Sign-off Request block</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../sign-off-request/index.html">Sign-off Requests Rollup</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../task-rollup/index.html">Task Rollup</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../taxonomy-navigation/index.html">Taxonomy Navigation</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../team-collaboration-rollup/index.html">Teamwork Rollup</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../team-news-rollup/index.html">Team News Rollup</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../teams-channel-feed/index.html">Teams Channel Feed</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../text/index.html">Text</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../trello-card-rollup/index.html">Trello Card Rollup</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../working-with-blocks/index.html">Working with blocks on pages</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../yammer-feed/index.html">Yammer Feed</a></li>
 </ul>
@@ -250,7 +251,9 @@
 <li><p><strong>Pick in Write Mode</strong>: Available when Pick Pages is selected. Select this option if editors should be able to pick pages in Write mode. If not selected, Design mode has to be used.</p></li>
 <li><p><strong>ADD PAGE</strong>: When you have selected Pick Pages, you can pick some pages to always be shown. Click this option and use the Page Picker. See this page for more information: <a class="reference internal" href="../../general-assets/page-picker/index.html"><span class="doc">Page Picker</span></a></p></li>
 <li><p><strong>Use Query Builder</strong>: If you want to use the query builder to set which pages should be available here, select this option.</p></li>
-<li><p><strong>Scope</strong>: When you have chosen to use the Query Builder, select scope for the block; Publishing Apps or Page Collections. Then open the list below and select Publishing Apps/Page Collections. In Omnia 6.5 and later, a third scope will be available: Navigation path. Use it to select a node to get the pages from. When you have selected start node you can choose navigation depth. In 6.5 and later, there’s also a new view for this; Navigation view, available under Display.</p></li>
+<li><p><strong>Scope</strong>: When you have chosen to use the Query Builder, select scope for the block; Publishing Apps, Page Collections or Navigation path. In Omnia 6.7 it will also be possible to select Channels as Scope. Then open the list below and select Publishing Apps/Page Collections. Regarding Navigation path, use it to select a node to get the pages from. When you have selected start node you can choose navigation depth. There’s also a view available, specifically for Navigation Path - Navigation View. Select it under Display.</p></li>
+<li><p><strong>Current User Subscription</strong>: Available for Scope Channels. Select this if only the pages that the logged in users subscribes to should be displayed.</p></li>
+<li><p><strong>Custom Query</strong>: Available for Scope Channels. Use this to select one or more channels to rollup pages from. Note that a channel can be targeted to just certain colleagues or groups. See example below.</p></li>
 <li><p><strong>Exclude current page</strong>: Available when you have chosen scope for the Query Builder. The default setting is to exclude the current page, but if you, for some reason, would like to include the current page, uncheck this option.</p></li>
 <li><p><strong>Trim duplicates</strong>: Available for the Query Builder. If more than one Page Rollup block is added to a page, this option can be used to handle duplicates between the blocks. When the option is selected, you can enter a number indicating the priority for duplicates, for this block. If you set “1” for a block it means this block has priority showing a post that would have been a duplicate.</p></li>
 <li><p><strong>Query Item Limit</strong>: Available for the Query Builder. Use the slider, or type the number (1-99) to set the number of pages that should be retrieved to make sure all duplicates are found. You should not set this number higher than you really need, as higher numbers may have an impact on performance. Note that when you change the number, “Max Display Limit” is also changed, see below.</p></li>
@@ -263,6 +266,8 @@
 <img alt="../../_images/page-rollup-query-addfilter-new2.png" src="../../_images/page-rollup-query-addfilter-new2.png" />
 <p>Here’s an example of a filter that will display pages that have been updated (Modified) the last month:</p>
 <img alt="../../_images/page-rollup-query-filter-example-new2.png" src="../../_images/page-rollup-query-filter-example-new2.png" />
+<p>Here’s an example of a custom query for channels (available in Omnia 6.7):</p>
+<img alt="../../_images/page-rollup-channel-example.png" src="../../_images/page-rollup-channel-example.png" />
 </div>
 <div class="section" id="filter-on-a-specific-variation">
 <h3>Filter on a specific variation<a class="headerlink" href="#filter-on-a-specific-variation" title="Permalink to this headline">¶</a></h3>
@@ -286,6 +291,7 @@
 <li><p><strong>Delay between slides</strong>: Set the time between slides in milli seconds.</p></li>
 <li><p><strong>Hide block when no data</strong>: Select this option if the block should be hidden when there’s nothing to display.</p></li>
 <li><p><strong>Hide if read</strong>: Select this option to hide all pages the logged in user has visited. This affects all pages, including news.</p></li>
+<li><p><strong>Highlight non-read</strong>: This option makes sure non-read pages are highlighted. Default=selected. Deselect if you don’t want that.</p></li>
 <li><p><strong>Image</strong>: Select the property that contains the image for the item(s) to display.</p></li>
 <li><p><strong>Image Ratio</strong>: Select ratio for the image; Landscape, Square or Wide.</p></li>
 <li><p><strong>Image x and y</strong>: Select the image format here. Available for “Single Item” only.</p></li>
@@ -314,7 +320,7 @@
 <li><p><strong>Slider Size</strong>: Select the size of the slider here: Small, Medium, Large or Extra large. Available for “Dynamic Roller” only.</p></li>
 <li><p><strong>Sort by</strong>: Choose what the list should be sorted by, and then select ascending or descending.</p></li>
 <li><p><strong>Summary</strong>: Select the property that contains the page summary for the item to display.</p></li>
-<li><p><strong>Term properties</strong>: New option in Omnia 6.5 and later. Can be used to show properties in Card view. Click “Add” and select a property. Continue the same way for additional properties.</p></li>
+<li><p><strong>Term properties</strong>: Can be used to show properties in Card view. Click “Add” and select a property. Continue the same way for additional properties.</p></li>
 <li><p><strong>Title</strong>: If a title should be shown for the block, add it in this field. If no variation exists for the page, you can set the title in the languages active in the tenant. If variations exists, only one title can be set. In that case, titles in other languages are set in the variations.</p></li>
 </ul>
 <p><strong>Note!</strong> For “List View” and “Event List”, you also have to add at least one column, for the display to work. Here’s an example with three columns added for List View:</p>
@@ -326,12 +332,12 @@
 <img alt="../../_images/show-paging-dynamic-new.png" src="../../_images/show-paging-dynamic-new.png" />
 <p>Here’s a simple example of a Card view used for navigation purposes:</p>
 <img alt="../../_images/card-view-example-pages.png" src="../../_images/card-view-example-pages.png" />
-<p>In Omnia 6.5, card view can now display sub pages if the scope “Navigation path” is used.</p>
+<p>Card view can now display sub pages if the scope “Navigation path” is used. Here’s an example:</p>
 <img alt="../../_images/card-view-example-sub-pages.png" src="../../_images/card-view-example-sub-pages.png" />
-<p>In Omnia 6.5, the new Navigation View can be used to display a mega menu style navigation. Here’s an example:</p>
-<img alt="../../_images/navigation-view-mega-example.png" src="../../_images/navigation-view-mega-example.png" />
-<p>A third thing that is new in Omnia 6.5: The card view for Page Rollup now supports a dynamic number of properties that can be displayed in the card. Here’s an example:</p>
+<p>The card view also supports a dynamic number of properties that can be displayed in the card. Here’s an example:</p>
 <img alt="../../_images/pagerollup-cardview-terms1.png" src="../../_images/pagerollup-cardview-terms1.png" />
+<p>The Navigation View can be used to display a mega menu style navigation. Here’s an example of Page Rollup used for this purpose:</p>
+<img alt="../../_images/navigation-view-mega-example.png" src="../../_images/navigation-view-mega-example.png" />
 </div>
 <div class="section" id="style-settings">
 <h3>Style settings<a class="headerlink" href="#style-settings" title="Permalink to this headline">¶</a></h3>
@@ -342,13 +348,12 @@
 <div class="section" id="filter">
 <h3>Filter<a class="headerlink" href="#filter" title="Permalink to this headline">¶</a></h3>
 <p>If users should be able to filter the list and/or search here, use these options to add filters.</p>
-<img alt="../../_images/page-rollup-filter-new.png" src="../../_images/page-rollup-filter-new.png" />
-<p>See this page for information on how to use these options: <a class="reference internal" href="../general-block-settings/filters/index.html"><span class="doc">Filter UI</span></a></p>
-<p>In Omnia 6.5 and later, there is an additional option, specific for Page Rollup:</p>
+<p>The following options are specific for the Page Rollup block:</p>
 <img alt="../../_images/page-rollup-filter-65.png" src="../../_images/page-rollup-filter-65.png" />
 <ul class="simple">
 <li><p><strong>Save filter state</strong>: If you select this option the filter keeps it’s state in the page url as long as the page is active, and will be activated when the user goes back to the page, by using the browser’s Back button. The url can also be copied and for example be used to prepopulate the page rollup.</p></li>
 </ul>
+<p>The rest of the options are the same as other blocks. See this page for information on how to use these options: <a class="reference internal" href="../general-block-settings/filters/index.html"><span class="doc">Filter UI</span></a></p>
 </div>
 <div class="section" id="social-period">
 <h3>Social Period<a class="headerlink" href="#social-period" title="Permalink to this headline">¶</a></h3>
@@ -494,9 +499,9 @@
 
   <div role="contentinfo">
     <p>
-        &#169; Copyright 2021, Precio Fishbone.
+        &#169; Copyright 2022, Precio Fishbone.
       <span class="lastupdated">
-        Last updated on Nov 01, 2021.
+        Last updated on Jan 21, 2022.
       </span>
 
     </p>

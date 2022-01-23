@@ -9,6 +9,8 @@ Here's an example with a Page Type with left navigation:
 
 (For a description of "Override Sharepoint Sync Settings", see below.)
 
+On Omnia 6.7 and later, it will be possible to automatically archive a page of a certain Page type. For more information, see below.
+
 If properties was selected as in the image above it would result in these fields being available on the Properties tab for a page:
 
 .. image:: page-type-settings-left-fields-new2.png
@@ -45,7 +47,7 @@ The following settings can be available for a property:
 + **Limit Edit Permission**: You can limit Edit Permission for this property if needed. In that case, add one or more users here.
 
 Override Sharepoint Sync Settings
-------------------------------------
+************************************
 Sharepoint Sync Settings are set in Omnia Admin (available under Web Content Management), for the whole tenant. If you need some other synchronization for pages created from this Page Type, you can override the tenant settings and create a specific synchronization here.
 
 When you activate this option, the following is shown:
@@ -61,3 +63,52 @@ The settings are used exactly the same way here as the settings for the tenant. 
 When you have set up the sync here, you must execute a full sync to Sharepoint, as the message stated. Go to the Publishing App settings and click this button:
 
 .. image:: page-type-settings-sync-button.png
+
+Enable Automatic Archive
+***************************
+This is a new option that will be availble in Omnia 6.7 and later.
+
+Here's a Tenant Page Type as an example:
+
+.. image:: automatic-archive.png
+
+When you click "Enable Automatic Archive" the following is shown:
+
+.. image:: automatic-archive-settings-new.png
+
+Select a property to base the automatic archiving on. **Note!** Best practice is to create a specific property to use for this purpose. Any Custom property of type date or time can be used.
+
+You can then edit the settings for the property you have chosen by clicking the cogwheel for the property.
+
+.. image:: automatic-archive-settings-select.png
+
+Available options can differ depending on how the property is set up. Here's an example:
+
+.. image:: automatic-archive-settings-settings-edited.png
+
+Note that the settings you do for a property here is valid for this Page Type only. It does not affect the property in any other way.
+
++ **Required**: Select this option to make it mandatory to add settings to this property for all pages that use this Page Type.
++ **Date Only**: If date should be the only type of data possible for this property, select this option.
++ **Show in new page**: if this property should be available in the wizard when a new page is created, select this option.
++ **Show in edit properties**: if this property should be available in settings for a page when it's edited, select this option.
++ **Show label**: Select this to show the label for the property.
++ **Custom label**: If Show label is selected, the property name is displayed per default. If you want another label to be displayed, add it here.
++ **Category**: You can add a category for this porpertys, used when listing properties for the Page Type.
++ **Default value**: Use this setting to decide what should be shown for the property as a suggested value, when the page is created. Empty is just that, no value. Today displays todays date. You can also base the automatic archiving on another property. See below for more information.
++ **Read only**: A property used for automatic archiving should always be read only.
++ **Limit access permission**: If not all authors are permitted to edit this setting for the Page Type, add the colleagues or groups that should be able to edit these settings here.
+
+Calculate based on another property on the page
+------------------------------------------------
+Automatic archiving can be a calculated value. Note that the property that is used as base for the calculation, must be one of the other properties for the page.
+
+In this example, the page should be automatically archived one month after the article date:
+
+.. image:: automatic-archive-settings-calculated.png
+
+Note that if the value for the base property can be edited, which often is the case for Article Date, the automatic archiving date is automatically recalculated if the value of the base property is edited.
+
+Automatic termination
+-----------------------
+Furthermore you can set automatic termination from the archive, based on archiving date. You can find that setting in the Publishing App Settings. See the heading "Archive" at the bottom of this page: :doc:`Publishing App Settings </pages/page-settings/index>`

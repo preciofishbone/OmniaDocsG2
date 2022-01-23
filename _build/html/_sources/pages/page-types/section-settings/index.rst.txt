@@ -7,9 +7,7 @@ The following settings are available when working with Sections:
 
 General
 **********
-What you can set under General depends on if you select a section with columns or a section with tabs. 
-
-**Note!** In Omnia 6.5, there's four section types available; Column, Tab, Accordion and Stepper. See below for more information.
+What you can set under General depends on the section type selected; Column, Tab, Accordion and Stepper.
 
 General settings for a section with columns
 ------------------------------------------------
@@ -48,8 +46,6 @@ By clicking the pen, the following can be set for a tab:
 
 General settings for an Accordion section
 --------------------------------------------
-This type of section is available in Omnia 6.5.
-
 For an Accordion section, the following can be set:
 
 .. image:: page-types-general-accordion.png
@@ -66,8 +62,6 @@ By clicking the pen, the following can be set for a panel:
 
 General settings for a Stepper section
 --------------------------------------------
-This type of section is available in Omnia 6.5.
-
 For a Stepper section, the following can be set:
 
 .. image:: page-types-general-stepper.png
@@ -146,8 +140,6 @@ If it's a section with tabs, this can be set for Style, for the active section:
 
 Style settings for Accordion
 ------------------------------
-(Available in Omnia 6.5).
-
 If it's an Accordion section, the following Style settings are available for the active section:
 
 .. image:: page-types-style-accordion.png
@@ -169,8 +161,6 @@ Under **General**, the following is available:
 
 Style settings for Stepper
 ------------------------------
-(Available in Omnia 6.5).
-
 If it's a Stepper section, the following Style settings are available for the active section:
 
 .. image:: page-types-style-stepper-new.png
@@ -184,8 +174,8 @@ Under **General**, the following is available:
 + **Acrylic Transparency Effect**: You can try this effect and see a preview in the section. 
 + **Background**: To select a background image, click ADD IMAGE and use the Media Picker to select image.
 + **Editable in Write Mode**: if it should be possibe to edit background image in Write mode, select this option. If not, it's only possible in Design mode.
-+ **Page Image Property**: (A description will be added soon).
-+ **Crop Ratios**: (A description will be added soon). To add a crop ratio, select it in the list and click the plus. Use the right-most icon to decide the order. To delete a ctop ratio, click the dust bin.
++ **Page Image Property**: Select the property to get the background image from, for the section, if applicable.
++ **Crop Ratios**: To add a crop ratio, select it in the list and click the plus. Use the right-most icon to decide the order. To delete a ctop ratio, click the dust bin.
 
 Effects
 --------

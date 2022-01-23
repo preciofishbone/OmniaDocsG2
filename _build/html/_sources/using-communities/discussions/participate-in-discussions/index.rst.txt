@@ -40,7 +40,7 @@ Using mentions
 ***************
 In the discussion comments you can use mentions to make a colleauge aware of a discussion or send a question. The colleague is notified through e-mail.
 
-A mention is the @ sign and the colleagues name. Here are two examples:
+A mention is the @ sign and the colleagues name or e-mail address. Here are two examples:
 
 .. image:: discussion-comment-6.png
 

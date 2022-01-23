@@ -8,7 +8,7 @@ As part of the Omnia roadmap, the following features are in development and plan
 Workspace
 --------------------------------------------
 
-* Setup Wizard that can run on new tenants to set up a basic intranet solution including configuration and content.
+* Setup Wizard that can run on new and existing tenants to set up a basic intranet solution including configuration and content.
 * Community and Teamwork comments feed.
 
 Web Content Management
@@ -17,6 +17,7 @@ Web Content Management
 * Editorial pipeline. Possibility to plan ahead and get an overview of what publishing work is coming up for editors.
 * Sort Pages in Page Rollup by statistics.
 * Publishing App Reports Dashboard. Dynamic reports with configurable columns.
+* Tenant and Business Profile queries in Page Rollup.
 
 Document Management
 ---------------------------------------------

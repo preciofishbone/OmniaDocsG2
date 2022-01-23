@@ -3,7 +3,7 @@ Settings
 
 Here the following settings can be edited:
 
-.. image:: business-profile-settings-all-v6.png
+.. image:: business-profile-settings-all-v67.png
 
 For detailed information, select settings here:
 
@@ -12,9 +12,8 @@ For detailed information, select settings here:
    :titlesonly:
 
    language/index
+   favicon-bp/index
    theme/index
-   header/index
-   footer/index
    block-title/index
    content-header/index
    central-image-location/index
@@ -22,10 +21,4 @@ For detailed information, select settings here:
    document-picker/index
    event-management/index
    info-screen/index
-
-
-
-
-
-
 

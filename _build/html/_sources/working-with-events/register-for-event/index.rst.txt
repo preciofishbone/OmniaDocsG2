@@ -59,7 +59,7 @@ External users can be registered using this option. Do the following:
 
 3. Add the information needed (see above for field descriptions).
 
-An external user registered this way can be any external user. If an Event Administrator sends en e-mail to participants, external users will receive the e-mail.
+An external user registered this way can be any external user. If an Event Manager sends en e-mail to participants, external users will receive the e-mail.
 
 Sign up to Reservation List
 ******************************
@@ -83,7 +83,5 @@ The user in this case is Adele Vance. She has registered herself and Tony Bergh 
 
 She can now use the pen to edit the registrations - all options described above are available - or click the dust bin to remove the registration.
 
-Note that Event Administers can edit or remove any registration, if needed, see: :doc:`Administer and Event </working-with-events/administer-event/index>`
-
-
+Note that Event Managers can edit or remove any registration, if needed, see: :doc:`Administer and Event </working-with-events/administer-event/index>`
 

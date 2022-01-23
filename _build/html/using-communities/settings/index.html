@@ -45,7 +45,7 @@
     <link rel="index" title="Index" href="../../genindex.html" />
     <link rel="search" title="Search" href="../../search.html" />
     <link rel="next" title="Using Newsletters" href="../../using-newsletters/index.html" />
-    <link rel="prev" title="My Subscriptions" href="../subscriptions/my-subscriptions/index.html" /> 
+    <link rel="prev" title="How to unsubscribe in a Community" href="../subscriptions/unsubscribe/index.html" /> 
 </head>
 
 <body class="wy-body-for-nav">
@@ -101,7 +101,7 @@
 <li class="toctree-l1 current"><a class="reference internal" href="../index.html">Using Communities</a><ul class="current">
 <li class="toctree-l2"><a class="reference internal" href="../discussions/index.html">Discussions</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../knowledge-articles/index.html">Knowledge articles</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../subscriptions/index.html">Subscriptions</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../subscriptions/index.html">Subscriptions in Communities</a></li>
 <li class="toctree-l2 current"><a class="current reference internal" href="#">Setting up a Community</a></li>
 </ul>
 </li>
@@ -186,31 +186,22 @@
             
   <div class="section" id="setting-up-a-community">
 <h1>Setting up a Community<a class="headerlink" href="#setting-up-a-community" title="Permalink to this headline">¶</a></h1>
-<p>Setting up a community is pretty straight forward. You need to be an Omnia Administrator or have separate access to the following in Omnia Admin:</p>
-<ul class="simple">
-<li><p>Provisioning templates (if no Provisioning template for communities has been created yet).</p></li>
-<li><p>Communities.</p></li>
-</ul>
-<p>Both these are part of the Business Profile settings. See below for links to more information.</p>
+<p>Setting up a community is pretty straight forward. You need to be either Tenant Administrator or Business Profile Administrator for the Business Profile where the Community should be available.</p>
 <p>You also need to have Page Editor permissions to a suitable page to set upp access to the community.</p>
-<p><strong>Note!</strong> In Omnia 6.5 and later, a number of new options for setting up a Community has been added, see: <a class="reference internal" href="../../admin-settings/business-group-settings/communities/communities-65/index.html"><span class="doc">Communities settings in Omnia 6.5</span></a></p>
-<div class="section" id="prerequisite">
-<h2>Prerequisite<a class="headerlink" href="#prerequisite" title="Permalink to this headline">¶</a></h2>
-<p>The only prerequisite is that a Provisioning template for Communites must have been created, see: <a class="reference internal" href="../../admin-settings/business-group-settings/provisioning-templates/index.html"><span class="doc">Provisioning templates</span></a></p>
-<p>In Omnia 6.5 and later, Communities has it’s own option for templates, see the link above.</p>
-</div>
 <div class="section" id="creating-a-community">
 <h2>Creating a Community<a class="headerlink" href="#creating-a-community" title="Permalink to this headline">¶</a></h2>
 <p>Do the following to create a community:</p>
 <ol class="arabic simple">
 <li><p>Go to Omnia Admin.</p></li>
-<li><p>Open “Communities” in the Business Profile.</p></li>
+<li><p>Open “Communities” in the Business Profile settings.</p></li>
 </ol>
-<img alt="../../_images/communities-bp.png" src="../../_images/communities-bp.png" />
-<p>3. Create a Community Site according to the description on this page: <a class="reference internal" href="../../admin-settings/business-group-settings/communities/index.html"><span class="doc">Communities</span></a>
-(See the link on that page if you’re using Omnia 6.5 and later).
-4. When the site has been created, you can use the link (Title) in Communities to go to the site. (To get the Url, you can also right click on the Title and copy the link address).
-5. Setup access to the community some way, using the Url. (More information about that below.)</p>
+<img alt="../../_images/communities-bp-new.png" src="../../_images/communities-bp-new.png" />
+<ol class="arabic simple" start="3">
+<li><p>Create at least one template, as describe here: <a class="reference internal" href="../../admin-settings/business-group-settings/communities/communities-65/templates/index.html"><span class="doc">Templates for Communities</span></a>.</p></li>
+<li><p>Create a Community Site according to the description on this page: <a class="reference internal" href="../../admin-settings/business-group-settings/communities/communities-65/apps/index.html"><span class="doc">Communities Apps</span></a></p></li>
+<li><p>When the site has been created, you can use the link (Title) in Communities to go to the site. (To get the Url, you can also right click on the Title and copy the link address).</p></li>
+<li><p>Setup access to the community some way, using the Url. (More information about that below.)</p></li>
+</ol>
 </div>
 <div class="section" id="setting-up-access-to-communities">
 <h2>Setting up access to communities<a class="headerlink" href="#setting-up-access-to-communities" title="Permalink to this headline">¶</a></h2>
@@ -240,7 +231,7 @@
 </ol>
 <img alt="../../_images/community-page-edit-settings.png" src="../../_images/community-page-edit-settings.png" />
 <ol class="arabic simple" start="4">
-<li><p>Click “Activity tracking”. and “Activity Points”.</p></li>
+<li><p>Click “Enable Activity Tracking”. and “Enable Activity Points”.</p></li>
 </ol>
 <img alt="../../_images/community-page-edit-activity.png" src="../../_images/community-page-edit-activity.png" />
 <ol class="arabic simple" start="5">
@@ -289,7 +280,7 @@
 <ul class="simple">
 <li><p><strong>Icon Type</strong>: Select an icon type for the badge.</p></li>
 <li><p><strong>Icon</strong>: if you selected “Font Awesome”, “Microsoft” or “Flags”, use the list to select an icon.</p></li>
-<li><p><strong>Icon Url</strong>: If you selected “Custom” above you can use any image as the icon. Add the Url to the icon here.</p></li>
+<li><p><strong>ADD ICON</strong>: If you selected “Custom” above you can use any image as the icon. Click ADD ICON and use the Media Picker to select an image. When you have added an image it’s shown here and you can edit it or remove it.</p></li>
 <li><p><strong>Background Color</strong>: You can add a background color for the icon if you wish.</p></li>
 <li><p><strong>Title</strong>: Add a Title (name) for the badge here.</p></li>
 <li><p><strong>Description</strong>: You can also type a description if you wish.</p></li>
@@ -298,7 +289,7 @@
 <ol class="arabic simple" start="9">
 <li><p>Click the tick to save the badge.</p></li>
 </ol>
-<p>Heres’a an example of badges:</p>
+<p>Here’s an example of badges:</p>
 <img alt="../../_images/badges-badges-example.png" src="../../_images/badges-badges-example.png" />
 <p>The settings for the Ninja badge looks like this:</p>
 <img alt="../../_images/badges-badges-example-ninja.png" src="../../_images/badges-badges-example-ninja.png" />
@@ -319,16 +310,16 @@
           <footer>
     <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
         <a href="../../using-newsletters/index.html" class="btn btn-neutral float-right" title="Using Newsletters" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right" aria-hidden="true"></span></a>
-        <a href="../subscriptions/my-subscriptions/index.html" class="btn btn-neutral float-left" title="My Subscriptions" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left" aria-hidden="true"></span> Previous</a>
+        <a href="../subscriptions/unsubscribe/index.html" class="btn btn-neutral float-left" title="How to unsubscribe in a Community" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left" aria-hidden="true"></span> Previous</a>
     </div>
 
   <hr/>
 
   <div role="contentinfo">
     <p>
-        &#169; Copyright 2021, Precio Fishbone.
+        &#169; Copyright 2022, Precio Fishbone.
       <span class="lastupdated">
-        Last updated on Oct 25, 2021.
+        Last updated on Jan 21, 2022.
       </span>
 
     </p>

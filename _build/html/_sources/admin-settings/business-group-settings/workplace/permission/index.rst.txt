@@ -9,5 +9,5 @@ For Workspace, the following settings are available:
 + **Business Profile Workspace Designer**: Add and remove Workspace Designers (administrators) here as needed.
 + **Business Workspace Reader**: Here you can set permissions for the Workspace navigation. 
 
-In Omnia 6.7 and later, these permissions settings have been moved to general permission settings for the Business Profile.
+In Omnia 6.7 and later, these permissions settings have been moved to general permission settings for the Business Profile, see: :doc:`Permissions for a Business Profile </admin-settings/business-group-settings/permissions/index>`.
 

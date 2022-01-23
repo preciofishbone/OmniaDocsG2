@@ -1,8 +1,6 @@
 Metrics settings
 =================
 
-These settings are available in Omnia 6.5 and later. 
-
 Here you can edit the settings for some metrics. Firstly, you can decide what will be considered underused:
 
 .. image:: metrics-settings-underused.png

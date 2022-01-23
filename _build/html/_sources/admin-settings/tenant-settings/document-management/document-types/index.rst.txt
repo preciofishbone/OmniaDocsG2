@@ -15,6 +15,10 @@ Here's an example:
 
 .. image:: document-types-info-new2.png
 
+You can decide the order in which the document types are shown within a grooup. Click a document type and use the arrows to move up or down.
+
+.. image:: document-types-move.png
+
 Creating a new Group
 **********************
 To create a new a group, do the following:
@@ -159,6 +163,4 @@ Then you can set the following:
 + **Property**: Another way is to select a property for retention, for example Retention Date.
 
 When the set Retention time has passed, the Retention Manager will receive an e-mail. The e-mail includes a link to a page where the document can be terminated (completely removed from the system). 
-
-
 

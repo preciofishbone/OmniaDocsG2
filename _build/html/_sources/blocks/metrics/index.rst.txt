@@ -3,7 +3,7 @@ Metrics block
 
 This block has it's main use for setting up the Dashboard, but it can also be used on a page to display data about either Teamwork, Pages or Activity.
 
-Youd can find more information about the Dashoboard here: :doc:`Dashboard in Omnia 6.5 </admin-settings/tenant-settings/dashboard/index>`
+You can find more information about the Dashoboard here: :doc:`Dashboard </admin-settings/tenant-settings/dashboard/index>`
 
 The following settings are available:
 
