@@ -3,7 +3,7 @@ Web Content Management
 
 Here, the following settings are available:
 
-.. image:: webcontent-management-v67-new.png
+.. image:: webcontent-management-v67-new-border.png
 
 Select section for more information:
 
