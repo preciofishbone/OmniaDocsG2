@@ -96,7 +96,7 @@ The following settings are available for the views:
 + **Sort By**: Select the property to sort the list by.
 + **Style**: Style (the field) - Here you can choose to display a Mail Icon that the users can click to send an email to a person. See below for an example.
 + **Left Zone Width**: Available for Roller. Set the width of the zone to the left of the person shown.
-+ ** Right Zone Width**: Available for Roller. Set the width of the zone to the right of the person shown.
++ **Right Zone Width**: Available for Roller. Set the width of the zone to the right of the person shown.
 + **Paging**: Select how paging should work; “No Paging”, “Classic” or “Scroll”. See below for examples. Scroll is note applicabale for Roller view.
 + **Page Size**: To limit the number of items being displayed per "page", add a fixed number here. Works together with Paging. 
 + **Padding**: Use this option to add some padding between the list and the border of the block, if needed.
