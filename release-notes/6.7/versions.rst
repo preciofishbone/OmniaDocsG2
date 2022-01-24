@@ -12,9 +12,9 @@ New Major Features
 - Sign off requests
 - Block for displaying PowerApps
 - Search Feedback and promoted search results.
-- Modals and panels will now close on click out (#123157, #122336, #125956).
+- Modals and panels will now close on click out. (Does not apply when accessibility is on) (#123157, #122336, #125956).
 - Yammer for likes and comments
-- Anchor links
+- Anchor links, to enable this, ensure to add the action to the RTF editor in Omnia Admin.
 - Teams Presence 
 - More actions for the people rollup (#127035, #122406, #126851).
 - Full Text Search Solution (#132701, #124961, #128796, #129938, #129938).
