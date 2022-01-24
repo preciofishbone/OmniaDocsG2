@@ -1,7 +1,7 @@
 Sharepoint Sync
 ================
 
-The following can be ser here:
+The following can be set here:
 
 .. image:: web-content-sharepoint-sync.png
 
