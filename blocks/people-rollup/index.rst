@@ -103,9 +103,9 @@ The following settings are available for the views:
 
 **Important note on "No Paging"**: If you choose "No paging" and set "Item Limit" to a specific number, that is the number of people that will be available in the list, regardless of how many that actually meets the search criteria.
 
-Here's an example with a Card View displaying the Mail Icon (see top right if each card):
+Here's an example with a simple Card View displaying the three icons:
 
-.. image:: people-rollup-mail-icon.png
+.. image:: people-rollup-mail-icon-new.png
 
 Filter
 -------
