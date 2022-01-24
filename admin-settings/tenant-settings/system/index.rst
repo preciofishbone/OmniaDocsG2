@@ -11,7 +11,7 @@ Select section for more information:
 
    audit-logs/index
    authentication/index
-   azure-ad-permission/index
+   azure-ad-permissions/index
    azure-ad-sync/index
    custom-email/index
    default-sharepoint-content/index
