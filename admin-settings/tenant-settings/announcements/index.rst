@@ -1,7 +1,9 @@
 Announcements
 ===========================================
 
-Here a Tenant Administrator can create Announcements that can be displayed over the whole tenant, normally at the top. Tenant Announcements can also be shown through the Announcements block. For more information about the block, see: :doc:`The Announcements block </blocks/announcements/index>`
+Here a user with the approrpiate permissions can create Announcements that can be displayed over the whole tenant, normally at the top. Tenant Administrators can always create announcements. Also, any user can be granted this permission. This is set under "Permissions" for the Tenant, in Omnia Admin.
+
+Tenant Announcements can also be shown through the Announcements block. For more information about the block, see: :doc:`The Announcements block </blocks/announcements/index>`
 
 Note that an option to create Announcements for a specific Business Group also is available. The options are identical, the only difference is where Announcements are shown.
 
