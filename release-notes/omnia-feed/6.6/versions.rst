@@ -1,3 +1,13 @@
+6.7.0
+========================================
+
+- Intune SDK has been implemented. This should help solve login problems for any customer using Intune. 
+- Its now possible to create queries for pages that has no value set in a specific property field. 
+- You can now choose which business profiles are shown for selecting in the app.
+- Sign off request functionality is now available as part of the 6.7 release. 
+- And several other fixes and improvements (#134930).
+
+
 6.6.0
 ========================================
 
