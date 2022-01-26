@@ -225,9 +225,9 @@ This action can be added to the menu in a community but can also be added as a b
 + **Subscription Scope**: Select the scope here, meaning what the user actually subscribes to; the Page (= all changes to the page, even comments and best reply for Knowledge pages), Publishing App (= all new pages in the Publishing App, but not changes to existing pages) or Page Collection (= all new pages in the Page Collection, but not changes to existing pages). The Scope can also be a Publishing Channel.
 + **Publishing Channel**: If Publishing Channel was set as Scope, use this list to select channel.
 
-Style
----------------
-These settings are available for Style:
+Button Style
+*******************
+These settings are available for Style (Available to the right of GENERAL for most buttons):
 
 .. image:: action-button-65-style.png
 
@@ -240,6 +240,15 @@ These settings are available for Style:
 + **Icon Type**: To add an icon to the buttton, first select the Icon Type here.
 + **Icon**: When you have selected the Icon Type, select the icon in this list. The icon is placed to the left of the button text.
 + **Icon Alignment**: Select the alignment of the buttons within the block area.
+
+Style
+******
+This Style settings are available here:
+
+.. image:: action-button-style-all.png
+
++ **Grouping Type**: Here you can choose to group the buttons in the block, by selecting "Dropdown".
++ **Alignment**: Here you can set alignment for alla buttons in the block.
 
 Layout
 *********
