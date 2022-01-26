@@ -29,8 +29,8 @@ Use the following settings:
 
 .. image:: tenant-announcements-settings2-new2.png
 
-+ **Title**: Add a title for the message. If you use more than one language in the tenant you can add a title in each language. Note that you must always add a title in the default language, other languages are optional.
-+ **Description**: Add the message here. If you use more than one language in the tenant you can add the description in each language. Note that you must always add the description in the default language, other languages are optional. The Limited RTF Editor is used for the description. For more information, see: :doc:`Editing text with the RTF Editor </general-assets/rtf-editor/index>`
++ **Title**: Add a title for the message. If you use more than one language in the tenant you can add a title in each language. Note that you must always add a title in the default language, other languages are optional. Click the flag to change language.
++ **Description**: Add the message here. If you use more than one language in the tenant you can add the description in each language. Note that you must always add the description in the default language, other languages are optional. Click the flag to change language. The Limited RTF Editor is used for the description. For more information, see: :doc:`Editing text with the RTF Editor </general-assets/rtf-editor/index>`
 + **Priority**: Set the Priority. Announcements with High priority will be displayed below the cross site mega menu on all pages (see example below). Announcements (with Normal or High priority) can be displayed to users in the Notification Panel or through the Announcements block.
 + **Order**: Set the order for this Announcement when there are several displayed.
 + **Start Date** and **End Date**: Set the start and end date of the Announcement. You can set exact times within the dates if needed. Start and end dates are optional, but we recommend that you always at least set an end date.
