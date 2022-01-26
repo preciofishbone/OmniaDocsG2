@@ -38,37 +38,48 @@ You can inherit the search settings from the Business Profile and if that is wha
 
 But if you would like to set specific category settings for this block, deselect and the following will be available:
 
-.. image:: search-block-settings-categories-settings-new.png 
+.. image:: search-block-settings-categories-settings-new2.png 
 
-**Quick Search - General**: Use it to add search categories for Quick Search. Open the list and select. 
+Quick Search
+------------------
+The folllwing settings are available for Quick Search (se image above):
+
++ **Enable Promoted Search Results**: 
++ **Search Categories**: Use it to add search categories for Quick Search. Open the list and select. 
++ **Image/Icon Sixes**: You can set image/icon size to small, medium or large.
++ **Image Ratio**: Use this to set the image for the rollup to Landscape, Square or Wide.
 
 .. image:: search-block-settings-categories-quick-select.png 
 
 When you have selected a number of categories, you can edit the order, and set a row limit for each category:
 
-.. image:: search-block-settings-categories-quick-select-example.png 
+.. image:: search-block-settings-categories-quick-select-example-new.png 
 
-You can set image/icon size to small, medium or large.
+Under "View more results" you can set where the "View more" link is placed; "At bottom", "Per category" or "Custom Target". 
 
-.. image:: search-block-settings-categories-quick-select-icon-size.png 
+.. image:: search-block-settings-categories-quick-view-more-new.png 
 
-**Quick Search - View more results**: Under "View more results" you can set where the "View more" link is placed; "At bottom", "Per category" or "Custom Target". 
+Advanced Search
+-------------------
+Here you can set the following:
 
-.. image:: search-block-settings-categories-quick-view-more.png 
+.. image:: search-block-advanced-settings.png
 
-For Custom Target you can add a link to go to and can choose to open that link in a new window.
-
-.. image:: search-block-settings-categories-quick-view-more-link.png 
-
-**Advanced Search**: Here you can set Refiner Position to Left or Right, and you can select Search Categories to be shown.
++ **Hide Categories**: By defaul, catogeories (tabs) are shown. If you don't want tha, select this option.
++ **Enable Promoted Search Results**: If this option is selected, Promoted Search Results can be shown, if any are setup and are applicable.
++ **Enable Search Feedback**: If ot should be possible to use to send feedbavk about the search result, select this option.
++ **Number of result columns**: Set the number of columns for the search result here.
++ **Refiner Position**: Here you can set Refiner Position to Left or Right.
++ **Refiners collapsed by default**: If just the refiner groups should be shown to begin with, select this option.
++ **Search Categories**: Select Search Categories (tabs) that should be shown.
 
 When you have selected a number of categories, you can click the pen for more settings, for that category.
 
-.. image:: search-block-settings-categories-advanced.png 
+.. image:: search-block-settings-categories-advanced-new.png 
 
 These settings are available for each category:
 
-.. image:: search-block-settings-categories-advanced-settings.png 
+.. image:: search-block-settings-categories-advanced-settings-new.png 
 
 Also note that search categories (tabs) that do not generate any result are hidden in Advanced Search.
 
