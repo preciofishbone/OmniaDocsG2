@@ -211,7 +211,7 @@ Strengthen Profile
 ----------------------
 Strengthen profile can be available as a block (Profile Completion) or available in the Action Menu. It can also be added as an Action Button.
 
-It works the same way as in the Profile Completion block: :doc:`The Profile Completion block <blocks/user-profile-completion/index>`
+It works the same way as in the Profile Completion block: :doc:`The Profile Completion block </blocks/user-profile-completion/index>`
 
 (Only general settings for the button are available, see above).
 
