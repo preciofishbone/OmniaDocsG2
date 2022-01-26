@@ -227,7 +227,7 @@ This action can be added to the menu in a community but can also be added as a b
 
 Button Style
 *******************
-These settings are available for Style (Available to the right of GENERAL for most buttons):
+These settings are available for Style (Available to the right of GENERAL for most buttons, see image above):
 
 .. image:: action-button-65-style.png
 
