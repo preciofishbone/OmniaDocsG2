@@ -193,7 +193,7 @@ Share can be available through the "Likes and Comments" block, but can also be a
 
 Sign-off request
 -----------------
-This button type is available in Omnia 6.6 and later.
+Use this to add an Action button for Sign-off requests.
 
 .. image:: action-button-sign-off.png
 
@@ -211,7 +211,7 @@ Strengthen Profile
 ----------------------
 Strengthen profile can be available as a block (Profile Completion) or available in the Action Menu. It can also be added as an Action Button.
 
-It works the same way as in the Profile Completion block: :doc:`The Profile Completion block </blocks/profile-completion/index>`
+It works the same way as in the Profile Completion block: :doc:`The Profile Completion block <blocks/user-profile-completion/index>`
 
 (Only general settings for the button are available, see above).
 
@@ -224,9 +224,6 @@ This action can be added to the menu in a community but can also be added as a b
 + **Unsubscribe Text**: A "Subscribe" button changes the text automatically when a user has clicked the button. Unsubscribe is suggested but you can change the text to something else.  
 + **Subscription Scope**: Select the scope here, meaning what the user actually subscribes to; the Page (= all changes to the page, even comments and best reply for Knowledge pages), Publishing App (= all new pages in the Publishing App, but not changes to existing pages) or Page Collection (= all new pages in the Page Collection, but not changes to existing pages). The Scope can also be a Publishing Channel.
 + **Publishing Channel**: If Publishing Channel was set as Scope, use this list to select channel.
-
-Teamwork Navigation
----------------------
 
 Style
 ---------------
