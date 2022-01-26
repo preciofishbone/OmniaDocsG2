@@ -1,7 +1,7 @@
 Announcements
 ===========================================
 
-Here a user with the approrpiate permissions can create Announcements that can be displayed over the whole tenant, normally at the top. Tenant Administrators can always create announcements. Also, any user can be granted this permission. This is set under "Permissions" for the Tenant, in Omnia Admin.
+Here a user with the approrpiate permissions can create Announcements that can be displayed over the whole tenant, normally at the top. Tenant Administrators can always create announcements. Also, any user can be granted this permission. This is set under "Permissions" for the Tenant, see: :doc:`Permissions for the Tenant </admin-settings/tenant-settings/permissions/index>`
 
 Tenant Announcements can also be shown through the Announcements block. For more information about the block, see: :doc:`The Announcements block </blocks/announcements/index>`
 
@@ -126,9 +126,4 @@ Set the following:
 2. Select Background Color.
 3. Select Text Color. 
 4. Click the plus to save the Status option.
-
-Permissions for Announcements
-********************************
-In Omnia 6.7 and later, all permissions for the Tenant is set in one place, see: :doc:`Permissions for the Tenant </admin-settings/tenant-settings/permissions/index>`
-
 
