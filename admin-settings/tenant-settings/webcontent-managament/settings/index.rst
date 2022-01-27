@@ -1,11 +1,8 @@
 Settings (Web Content Management)
 =====================================
 
-The following is available here:
+Here you can set the WCM navigation node page size:
 
 .. image:: web-content-management-settings.png
-
-(A description will be added soon).
-
 
 
