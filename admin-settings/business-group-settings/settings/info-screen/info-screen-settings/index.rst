@@ -67,7 +67,7 @@ For the six topmost fields, you select the Property to get the information from.
 
 .. image:: info-screen-settings-display-fields.png
 
-Here's a description of the rest of the settings:
+Here's a description of the rest of the settings (alla are not shown in the image, but described below):
 
 .. image:: info-screen-settings-display-settings.png
 
@@ -84,6 +84,8 @@ Here's a description of the rest of the settings:
 + **Slides Indicator Color**: Use this option if you need to change Slides Indicator Color.
 + **Count Down Text Color**: Use this option if you need to change the Count Down Text Color.
 + **Indicator Visibility**: You can turn Indicator display on or off here.
++ **Item Limit**: Set the item limit to display in each “page” of the list.
++ **Sort by**: Choose what the list should be sorted by, and then select ascending or descending
 
 Media Settings
 *****************
