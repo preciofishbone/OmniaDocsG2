@@ -11,6 +11,8 @@ The following settings are available for what will be considered underused:
 
 .. image:: metrics-settings-underused.png
 
+Don't forget to seave if you have made any changes.
+
 Active User
 *********************
 Here you can edit settings for what is to be considered as an active reader or an active contributor:
@@ -21,11 +23,17 @@ Here you can edit settings for what is to be considered as an active reader or a
 
 Don't forget to save if you have made any changes.
 
+User Properties
+******************
+Here you can add properties to be collected for statistic analysis:
 
+.. image:: metrics-settings-properties.png
 
+1. Open the list and select a property.
+2. Click the plus to add it to the list.
+3. Continue this way until all chosen properties are added.
 
+To remove a property from the list, click the dust bin.
 
-
-
-
+Don't forget to save of you have made any changes.
 
