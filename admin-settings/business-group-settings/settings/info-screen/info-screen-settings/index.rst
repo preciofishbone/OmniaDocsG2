@@ -93,11 +93,11 @@ Use this option if you want to show a video on the screen, instead of pages.
 
 .. image:: info-screen-settings-media.png
 
-The settings are simply:
+When you click ADD VIDEO, the following is shown:
 
 .. image:: info-screen-settings-media-settings.png
 
-+ **Title**: Add a title to display for video (mandatory).
-+ **Video**: Click the icon in this field to start Media Picker to select the video.
++ **Title**: Add a title to display for the video (mandatory).
++ **Video**: Click the icon to the right in this field to start Media Picker to select the video.
 
 For more information on how to use Media Picker, see :doc:`Media Picker </general-assets/media-picker/index>`
