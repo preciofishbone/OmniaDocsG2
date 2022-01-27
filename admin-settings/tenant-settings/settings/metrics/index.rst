@@ -1,11 +1,19 @@
 Metrics settings
 =================
 
-Here you can edit the settings for some metrics. Firstly, you can decide what will be considered underused:
+Here you can edit the settings for some metrics:
+
+.. image:: metrics-settings-all.png
+
+Underused Content
+*******************
+The following settings are available for what will be considered underused:
 
 .. image:: metrics-settings-underused.png
 
-You can also edit settings for what is to be considered as an active reader or an active contributor:
+Active User
+*********************
+Here you can edit settings for what is to be considered as an active reader or an active contributor:
 
 .. image:: metrics-settings-reader.png
 
