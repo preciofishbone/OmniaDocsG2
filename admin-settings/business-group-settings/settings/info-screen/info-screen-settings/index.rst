@@ -9,7 +9,7 @@ You can set up several screens and they are displayed in this list.
 
 Use the pen to edit settings or the dust bin to delete a screen setup. All settings can be edited for an existing setup, see below.
 
-You can use this icon to proview a setup:
+You can use this icon to preview a setup:
 
 .. image:: info-screen-list-icon.png
 
