@@ -67,7 +67,7 @@ For the six topmost fields, you select the Property to get the information from.
 
 .. image:: info-screen-settings-display-fields.png
 
-Here's a description of the rest of the settings (alla are not shown in the image, but described below):
+Here's a description of the rest of the settings (all are not shown in the image, but described below):
 
 .. image:: info-screen-settings-display-settings.png
 
