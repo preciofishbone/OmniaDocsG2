@@ -49,7 +49,7 @@ If you choose to pick pages, this is how it's done:
 
 2. Use the Page Picker to select one or more pages.
 
-.. image:: info-screen-settings-query-page-picker.png
+.. image:: info-screen-settings-query-page-picker-new.png
 
 You can add additional pages by repeating this step, if needed.
 
