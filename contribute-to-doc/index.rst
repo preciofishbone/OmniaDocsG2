@@ -17,7 +17,7 @@ For text edits, do the following:
 .. image:: edit-on-github-pen.png
 
 4. Edit the text as needed.
-5. Scrol down to the bottom of the page.
+5. Scroll down to the bottom of the page.
 6. Type a comment about the changes you made.
 7. Select "Create a **new branch** for this commit and start a pull request".
 8. Type a title for the changes (dashboard-edits in the example below).
@@ -26,7 +26,7 @@ For text edits, do the following:
 .. image:: edit-on-github-propose.png
 
 10. If you haven't already, add a comment.
-11. If the Reviewers field is not pre populated, you must add a reviewer. You should primarily add the Documentation Project Manager as Reviewer.
+11. If the Reviewers field is not pre populated, you must add a reviewer. You should primarily add the Documentation Project Manager there.
 
 .. image:: edit-on-github-reviewer.png
 
@@ -36,5 +36,5 @@ For text edits, do the following:
 
 Extensive edits
 *****************
-If you would like to contribute with more extensive changes or additions, as for example new images or a whole new page (which we will appreciate a lot), contact the Documentation Project Manager for instructions.
+If you would like to contribute with more extensive changes or additions, as for example new images or a whole new page, contact the Documentation Project Manager for instructions.
 
