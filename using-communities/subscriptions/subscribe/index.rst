@@ -40,4 +40,6 @@ If you click a tag you are already subscribing to, you can choose to unsubscribe
 
 .. image:: unsubscribe-tag-message.png
 
-
+Follow and subscribe
+***********************
+In a list of communities there can be a star present to indicate Follow status. If you follow a community in such a slist, by clicking the star, you also subscribe to the community automatically.
