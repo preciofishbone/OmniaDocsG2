@@ -26,7 +26,7 @@ For text edits, do the following:
 .. image:: edit-on-github-propose.png
 
 10. If you haven't already, add a comment.
-11. If the Reviewers field is not pre populated, you must add a reviewer.
+11. If the Reviewers field is not pre populated, you must add a reviewer. You should primarily add the Documentation Project Manager as Reviewer.
 
 .. image:: edit-on-github-reviewer.png
 
@@ -34,9 +34,7 @@ For text edits, do the following:
 
 .. image:: edit-on-github-create.png
 
-(If you think this is just to many step for a minor edit, you can always just send an e-mail to the Documentation Project Manager, with the suggested edit, see below.)
-
 Extensive edits
 *****************
-If you would like to contribute with more extensive changes, as for example new images or a whole new page, contact the Documentation Project Manager for instructions on how to do that: .. mailto:: benny.eronson@preciofishbone.se
+If you would like to contribute with more extensive changes or additions, as for example new images or a whole new page (which we will appreciate a lot), contact the Documentation Project Manager for instructions.
 
