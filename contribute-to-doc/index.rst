@@ -1,7 +1,7 @@
 Contribute to this Documentation
 ===================================
 
-This documentation is a constant work in progress, and contributions can be made on our Github repo. We will appreciate your contribution to the documentation.
+This documentation is a constant work in progress, and contributions can be made on our Github repo.
 
 Text edits
 ***********
@@ -34,7 +34,9 @@ For text edits, do the following:
 
 .. image:: edit-on-github-create.png
 
+(If you think this is just to many step for a minor edit, you can always send an e-mail to the Documentation Project Manager, see below.)
+
 Extensive edits
 *****************
-If you would like to contribute with more extensive changes, as for example new images or a whole new page, contact the Documentation project manager for instructions on how to do that: (e-mail address to be added).
+If you would like to contribute with more extensive changes, as for example new images or a whole new page, contact the Documentation Project Manager for instructions on how to do that: (e-mail address to be added).
 
