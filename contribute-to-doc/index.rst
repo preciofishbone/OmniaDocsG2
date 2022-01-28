@@ -1,7 +1,7 @@
 Contribute to this Documentation
 ===================================
 
-This documentation is a constant work in progress, and anyone can propose changes and addtions here.
+This documentation is a constant work in progress, and anyone can propose changes and additions here.
 
 Text edits
 ***********
