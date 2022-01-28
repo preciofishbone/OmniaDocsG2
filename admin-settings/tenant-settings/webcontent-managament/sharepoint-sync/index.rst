@@ -19,8 +19,25 @@ Use these settings to configure the sync from Publishing Apps in Omnia to ShareP
 
 Search
 *********
-The following can be set here:
+By default, all normal text in blocks is searchable in full text search, but for example hidden properties are not. If you would like one or more properties to be searchable for full text search, add them here. One example is if you want to use a Keywbords property to make certain terms are searchable even if they are not present as text on the page.
 
-.. image:: sharepoint-sync-search.png
+To add properties to the full text search, do the following:
 
-Select the property that should be used for Archive Date and save.
+1. Click the plus.
+
+.. image:: sharepoint-sync-search-new.png
+
+2. Open the list and select a property.
+3. Click ADD.
+
+.. image:: sharepoint-sync-search-add.png
+
+The property is now added to the list, for example:
+
+.. image:: sharepoint-sync-search-list.png
+
+To additional properties, repeat these steps. To remove a property from the list, click the X.
+
+4. Click SAVE when you're done.
+
+.. image:: sharepoint-sync-search-list-save.png
