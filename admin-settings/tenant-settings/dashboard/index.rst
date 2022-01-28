@@ -5,7 +5,7 @@ Here you can build the Dashboard to your needs. You set up the Dashboard much li
 
 .. image:: dashboard-new.png
 
-As you would a page type, the first step is to add the layout, using sections. See this page for more information: :doc:`Working with section and blocks </pages/page-types/working-with-sections-and-blocks/index>`
+As you would with a page type, the first step is to add the layout, using sections. See this page for more information: :doc:`Working with section and blocks </pages/page-types/working-with-sections-and-blocks/index>`
 
 You then add the blocks you need. All available blocks are listed on this page: :doc:`Blocks </blocks/index>`
 
