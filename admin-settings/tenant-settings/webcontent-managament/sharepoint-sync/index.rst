@@ -25,7 +25,7 @@ To add properties to the full text search, do the following:
 
 1. Click the plus.
 
-.. image:: sharepoint-sync-search-new.png
+.. image:: sharepoint-sync-search-new-border.png
 
 2. Open the list and select a property.
 3. Click ADD.
