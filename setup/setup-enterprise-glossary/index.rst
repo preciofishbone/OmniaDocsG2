@@ -1,8 +1,6 @@
 Setup Enterprise Glossary
 =====================================
 
-**(This documentation is just started. Will be finished soon).**
-
 **Step 1**: Go to the term store and create a new term set with the terms you wish to use as tags.
 
 .. image:: Enterprise-1.png
