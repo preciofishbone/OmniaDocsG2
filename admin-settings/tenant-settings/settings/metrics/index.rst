@@ -9,7 +9,7 @@ Underused Content
 *******************
 The following settings are available for what will be considered underused:
 
-.. image:: metrics-settings-underused-new.png
+.. image:: metrics-settings-underused-new-border.png
 
 Don't forget to seave if you have made any changes.
 
