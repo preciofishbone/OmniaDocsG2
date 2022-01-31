@@ -25,5 +25,4 @@ Topics
    cookies-consent-information/index
    release-notes/index
    roadmap/index
-   guides/index
    contribute-to-doc/index
