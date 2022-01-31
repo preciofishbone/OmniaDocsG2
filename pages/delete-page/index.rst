@@ -9,7 +9,7 @@ When you archive a page, it may be possible to create a new draft page in that p
 
 You can archive a whole Page Collection the same way as is described here and you can archive unused Page Types as well.
 
-All colleagues with editor permissions to a page can archive that page, and restore it from the archive if needed. There's one archive per Publishing App.
+All colleagues with editor permissions to a page can archive that page. The editor that archived a page can also restore it, if needed. There's one archive per Publishing App.
 
 For more technical information about archiving pages, see the bottom of this description.
 
@@ -66,7 +66,7 @@ When it is possible to create a draft when archiving, the following option is av
 
 Restore or terminate an archived page
 *****************************************
-If you are able to archive pages you also have permissions to restore or terminate an archived page, with eventual sub pages, for that Publishing App. Page Collections and Page Types works the same way.
+If you have archived a page you also have permissions to restore or terminate that page, with eventual sub pages. Page Collections and Page Types works the same way.
 
 All archived pages for the Publishing App are available here:
 
@@ -97,7 +97,7 @@ You get a second chance to change your mind:
 If you're not certain, just click CLOSE here and nothing will happen.
 
 Restore an archived page
-**************************
+-------------------------
 To restore an archived page (with it's sub pages and drafts if that's applicable), do the following. Restoring a Page Collection or a Page Type works the same way.
 
 1. Click this icon on the right row:
