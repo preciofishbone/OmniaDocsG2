@@ -25,7 +25,7 @@ Don't forget to save if you have made any changes.
 
 User Properties
 ******************
-Here you can add properties to be collected for statistic analysis:
+Here you can add properties to be collected for statistic analysis. The properties must be set up as Targeting Properties to be available here.
 
 .. image:: metrics-settings-properties.png
 
