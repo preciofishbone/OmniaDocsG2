@@ -85,7 +85,7 @@ Partner Information is optional, but here Precio Fishbone's Microsoft Partner ID
 20. Click "Download" to download the manifest. 
 21. In MS Teams, click "Apps" and then "Manage your apps".
 22. Upload the custom app to test the app.
-23. Select the downloaded manifest file.
+23. Select to downloaded the manifest file.
 
 Now the app is installed in the user's personal Teams and is displayed in the Teams navigation to the left. 
  
