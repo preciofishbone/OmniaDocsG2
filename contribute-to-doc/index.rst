@@ -26,7 +26,7 @@ For text edits, do the following:
 .. image:: edit-on-github-propose.png
 
 10. If you haven't already, add a comment.
-11. If the Reviewers field is not pre populated, you must add a reviewer. You should primarily add the Documentation Project Manager there.
+11. If the Reviewers field is not pre populated, you must add a reviewer. You should primarily add the Documentation Project Manager there (at the moment Benny Eronson).
 
 .. image:: edit-on-github-reviewer.png
 
