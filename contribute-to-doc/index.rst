@@ -37,4 +37,3 @@ For text edits, do the following:
 Extensive edits
 *****************
 If you would like to contribute with more extensive changes or additions, as for example new images or a whole new page, contact the Documentation Project Manager for instructions.
-
