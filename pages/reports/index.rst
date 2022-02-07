@@ -5,33 +5,35 @@ A number of reports are available for pages in the active Publishing App. Note t
 
 Select "Reports" here:
 
-.. image:: pages-reports-menu-new.png
+.. image:: pages-reports-menu-new2.png
 
 The following reports are available:
 
-.. image:: pages-reports-all-new2.png
-
-In Omnia 6.7 and later, an additional report is available - Scheduled. See below for more information.
+.. image:: pages-reports-all-new3.png
 
 All reports can be exported to Excel by clicking here:
 
-.. image:: reports-excel-new2.png
+.. image:: reports-excel-new3.png
 
-You can sort the lists on most column headings by pointing at the heading and then clicking the arrow (not on the heading). An arrow pointing up indicates descending sorting, and an arrow pointing down ascending sorting, for example:
+You can sort the lists on most column headings by clicking the heading, for example:
 
-.. image:: reports-sort-new2.png
+.. image:: reports-sort-new3.png
 
 Usage
 *********
-This list contains all pages in the Publishing App (see image above). You can filter the list by using the fields and lists at the top.
+This list contains all pages in the Publishing App. You can filter the list by using the fields and lists at the top.
+
+.. image:: reports-usage.png
 
 You can use the links in the "Page" column to go to a page, and the links in the "Contact" column to go to a colleagues Delve page, where for example contact information is shown.
+
+Also note that the icon on the lower right of a person image indicates Microsoft Teams presence. The icon in the image above indicates that Annabelle Dixon is offline.
 
 Checked out
 ************
 In this list you can see all pages that are currently checked out, meaning someone is working on them. New pages are shown here as well, even if they are not published yet, as long as a draft has been saved.
 
-.. image:: pages-reports-checked-out-new2.png
+.. image:: pages-reports-checked-out-new3.png
 
 Use the lists at the top to filter the Checked out-list.
 
@@ -41,7 +43,7 @@ Review
 ********
 If a property for review date for pages is being used, this list displays all pages that has a review date set.
 
-.. image:: pages-reports-review-new2.png
+.. image:: pages-reports-review-new3.png
 
 You can filter the list on Contact (Page Contact). You can use the links in the "Page" column to go to a page, and the links in the "Contact" column to go to a colleagues Delve page, where for example contact information is shown.
 
@@ -51,7 +53,7 @@ Pending Approval
 **********************
 If Approval for pages has been set up, this list will show all pages with pending approval.
 
-.. image:: pending-approval-example-new.png
+.. image:: pending-approval-example-new2.png
 
 (This image is from a test environment, these requests should normally not be that old.)
 
@@ -59,11 +61,11 @@ How to approve or reject here is described on this page, where you can find more
 
 Scheduled
 ***********
-This report is available in Omnia 6.7 and later. The report displays an overview of all pages that are scheduled for publishing, in the publishing app. Here's an example:
+This report displays an overview of all pages that are scheduled for publishing, in the publishing app. Here's an example:
 
 .. image:: pages-repoprt-scheduled.png
 
-You can filter the list on dates, for a shorter list. Set Start Date and and End Date. You can also filter on Page Type and who the publication was scheduled by. And you can export to Excel the same way as for the other reports.
+You can filter the list on dates, for a shorter list. Set Start Date and and End Date. You can also filter on Page Type and who the publication was scheduled by. 
 
 Default is List View, as shown in the image above. You can also choose to see a calendar view, monthly or weekly. Here's an example with WEEK VIEW selected:
 
@@ -77,9 +79,9 @@ A property for page contact has to have been set up in Omnia Admin, and a proper
 
 Go to the Publishing App Settings and the General tab.
 
-.. image:: reports-settings-new2.png
+.. image:: reports-settings-new3.png
 
 The correct properties must be selected here for the reports to work:
 
-.. image:: reports-settings-lists-new2.png
+.. image:: reports-settings-lists-new3.png
 
