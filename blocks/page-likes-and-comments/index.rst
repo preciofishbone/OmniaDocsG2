@@ -65,13 +65,9 @@ More on Likes and Comments
 ***************************
 Users can like comments as well as pages.
 
-If a number of uses likes a page, s user can click that information to see a list of the users that has liked the page or comment.
+If a number of users likes a page, that information can be clicked to display a list of the users that has liked the page or comment.
 
 **Note!** Likes on comments does not affect trending in any way.
 
-Images can be added to comments, if the Limited RTF Editor is set up that way. This icon is then available, so the user can start the Media Picker and select an image:
-
-.. image:: comments-image.png
-
-For this icon to be available it must be added to the Limited RTF Editor in Omnia Admin settings. See this page for more information: :doc:`RTF Editor settings </admin-settings/tenant-settings/settings/rtf-editor/index>`
+Several options, for example to add an image, can be available in the Limited RTF Editor, depending on how it is set up. See this page for more information: :doc:`RTF Editor settings </admin-settings/tenant-settings/settings/rtf-editor/index>`
 
