@@ -44,7 +44,7 @@ Use the settings this way:
 + **Auto Publish**: This is a setting probably most relevant for Communities. If this option is selected a new page is always published automatically. It's only applicable when a new page is created, not when it's updated.
 + **Page Types**: Select which of the Page Types that should be available for an editor to select when creating a page in this Page Collection. It can be Local Page Types or Tenant Page Types. Tenant Page Types are indicated by the text "(Tenant)". For more information, see this page: :doc:`Tenant Page Types </admin-settings/tenant-settings/webcontent-managament/page-types/index>`
 + **Automatic Page Creation**: A copy of a page can be published automatically to another Page Collection when certain rules are met. These rules can be set up here. For more information, see this page: :doc:`Automatic Page Creation </pages/automatic-page-creation/index>`
-+ **Yammer Integration**: This option is available in Omnia 6.7 and later. When Yammer Integration is setup, a post will be created in the selected Yammer community whenever a new page, matching the selected criteria, is created. The comments and likes section will also be synced between the page in Omnia and the post in Yammer. See below for more information.
++ **Yammer Integration**: When Yammer Integration is setup, a post will be created in the selected Yammer community whenever a new page, matching the selected criteria, is created. The comments and likes section will also be synced between the page in Omnia and the post in Yammer. See below for more information.
 + **Enable Approval**: If Approval should be needed for publication of pages (new pages and updates), enable this. If not enabled, editors can publish themselves. See more info about Approval settings below.
 + **Enable Activity Tracking**: For a Community, Activity Tracking can be activated. See the heading *Settings for Activity Points* on this page, for more information: :doc:`Setting up a Community </using-communities/settings/index>` 
 + **Reset notification when page is modified**: This setting defines when a notification that a page is new should be shown for users, for example in the Notification Panel. Normally it's only when the page is created, not when it's updated. If this option is activated the page is considered to be new every time it's updated and a new version is published. Therefore it's probably more relevant for pages in Communities than for Publishing Pages.
@@ -52,12 +52,10 @@ Use the settings this way:
 + **Enable Scheduling**: If scheduling should be available in this Page Collection, select this option. In Omnia 6.0 the author can then set a scheduled start date and time. In Omnia 6.5 it will be possible to select a property for scheduling, as an alternative. 
 + **Break permission inheritance by default**: Select this option if inheritnace should be broken when a new page is created within the Page Collection. This could, for example, be useful for Communities. When this option is active, the colleague creating the page will be the page owner, meaning that he or she has full control over who can edit. The new option "Invite co-authors" can then be used to easily add authors for the page, see below.
 + **Allow invitation of co-authors**: If this option is selected, authors can invite co-authors. 
-+ **Enable publishing to channels**: This is a new option that will come in Omnia 6.7. If you enable this, it will be possible for an author to select channels the page should be published in. Publication to a channel may require approval from the channel administrator.
++ **Enable publishing to channels**: If you enable this, it will be possible for an author to select channels the page should be published to. Publication to a channel may require approval from the channel administrator.
 
 Setup Yammer integration for the Page Collection
 --------------------------------------------------
-(This option is available in Omnia 6.7 and later). 
-
 To set up Yammer integration, do the following:
 
 1. Select "Edit" to edit the settings.
