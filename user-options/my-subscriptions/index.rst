@@ -17,7 +17,7 @@ My descriptions can be available in more than one way, for example in the "My Pr
 
 My Subscriptions can also be available in a block on any page.
 
-Here's an example (images from Omnia 6.7):
+Here's an example:
 
 .. image:: my-subscriptions-1-new.png
 
