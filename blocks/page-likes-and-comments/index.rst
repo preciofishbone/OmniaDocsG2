@@ -65,7 +65,7 @@ More on Likes and Comments
 ***************************
 Users can like comments as well as pages.
 
-If a number of users likes a page, that information can be clicked to display a list of the users that has liked the page or comment.
+If a number of users likes a page or comment, the information stating that can be clicked to display the list of users liking the page or comment.
 
 **Note!** Likes on comments does not affect trending in any way.
 
