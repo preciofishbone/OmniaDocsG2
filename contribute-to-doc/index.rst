@@ -3,6 +3,14 @@ Contribute to this Documentation
 
 This documentation is a constant work in progress, and anyone can propose changes and additions here.
 
+First thing first
+********************
+To be able to contribute to the documentation you must be signed in to a GitHub account, so the first thing you have to do is sign-up:
+
+.. image:: sign-up-github.png
+
+When you want to propose a change, you must make sure you're signed-in to your account.
+
 Text edits
 ***********
 For text edits, do the following:
