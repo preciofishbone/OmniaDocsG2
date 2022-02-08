@@ -67,7 +67,7 @@ Display
 ------------
 For Display, the following settings are available:
 
-.. image:: workplace-header-classic-mega-menu-display.png
+.. image:: workplace-header-classic-mega-menu-display-border.png
 
 + **Level 1 etc**: Here you can set styles for the different levels. To add style for an additional level, click ADD STYLE. See below for available Style settings.
 
