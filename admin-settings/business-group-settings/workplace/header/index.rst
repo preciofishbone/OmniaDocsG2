@@ -45,23 +45,41 @@ Under Search, the following is available:
 
 Classic Mega Menu
 *******************
-These settings are available when “Classic Action Menu & Mega Menu” is selected for the Business profile. (They are the same as was in Omnia 6.0).
+These settings are available when “Classic Action Menu & Mega Menu” is selected for the Business profile. 
 
-.. image:: workplace-header-classic-mega-menu.png
+.. image:: workplace-header-classic-mega-menu-new.png
 
-+ **Publishing App**: If you use more than one Publishing App in this Business Profile, you can select Publishing App here.
-+ **Page Collection**: Select Page Collection the Publishing Pages of the Business Profile.
-+ **Static Display Level**: Defines the number of levels in the navigation term set that will always be displayed in the menu.
-+ **Dynamic Display Level**: Defines the number of levels in the navigation term set that should be displayed in the mega menu when a user clicks an item in the static menu.
-+ **Max Height**: As Default, the menu's Height is dynamic, meaning it adapts to the Height needed. You can set a fixed Height in pixels if you wish.
-+ **Max Width**: As Default, the menu's Width is dynamic, meaning it adapts to the Width needed. You can set a fixed Width in pixels if you wish.
-+ **Background Color**: As Default, the Background Color for the Mega Menu is the same as the Header, but you can set another Background Color if you wish.
-+ **Text Color**: As Default, the Text Color for the Mega Menu is the same as the text in the Header, but you can set another Text Color if you wish.
-+ **Selected Border Color**: You can set Border Color separately if you wish. Default=no Color.
+Query
+----------
+Here you set the following:
+
+.. image:: workplace-header-classic-mega-menu-query.png
+
+Use these settings to create a Classic Mega Menu. Click ADD QUERY to start Page Picker to select part of (or the whole) the navigation tree for a Page Collection.
+
+You can use the icon to the left to the left to edit the order and the x to delete.
+
+Don't forget to save when you're done.
+
+For more information about the Page Picker, see: :doc:`The Page Picker </general-assets/page-picker/index>`
+
+Display
+------------
+For Display, the following settings are available:
+
+.. image:: workplace-header-classic-mega-menu-display.png
+
++ **Level 1 etc**: Here you can set styles for the different levels. To add style for an additional level, click ADD STYLE. See below for available Style settings.
+
+The rest of the settings are the same as in the Mega Manu block, see: :doc:`The Mega Menu block </blocks/mega-menu/index>`
+
+These are the Style settings available for a level:
+
+.. image:: workplace-header-classic-mega-menu-display-level.png
 
 Classic Action Menu
 **********************
-These settings are available when “Classic Action Menu & Mega Menu” is selected for the Business profile. (They are the same as was in Omnia 6.0).
+These settings are available when “Classic Action Menu & Mega Menu” is selected for the Business profile. 
 
 .. image:: workplace-header-classic-action-menu.png
 
@@ -70,7 +88,7 @@ These settings are available when “Classic Action Menu & Mega Menu” is selec
 + **Order**:  You can decide the order for the Components you're displaying, from left to right.
 
 Teamwork Navigation - additional settings
-----------------------------------------------
+*******************************************
 Click the cog wheel to set additional settings for Teamwork Navigation. Here's what you can set:
 
 .. image:: teamwork-navigation-overview-new.png
@@ -94,15 +112,15 @@ When editing settings for a category, the same settings are available as when cr
 
 The following settings are available:
 
-.. image:: teamwork-navigation-add-settings-new.png
+.. image:: teamwork-navigation-add-settings-new2.png
 
-+ **Category Name**: Add a name for the category (tab) here, in some or all the available languages.
++ **Category Name**: Add a name for the category (tab) here, in some or all the available languages. Click the flag to change language.
 
 General
 ----------
-Here you can add a Block Title if needed. 
+Here you can add a Block Title if needed. Click the flag to change language.
 
-.. image:: teamwork-navigation-general.png
+.. image:: teamwork-navigation-general-new.png
 
 The Title is shown under the Categories.
 
@@ -110,7 +128,7 @@ Query
 '''''''
 For Query you can set:
 
-.. image:: teamwork-navigation-addquery-new.png
+.. image:: teamwork-navigation-addquery-new2.png
 
 + **Scope**: Select scope, for example All, Followed or Member of. (See more information about this below.).
 + **Only Current Business Profile**: Below you can select Business Profile to execute the query in. If you want to do that for the Current Business profile only, select this option.
@@ -135,7 +153,7 @@ Display
 '''''''''''
 Display has the follwing settings:
 
-.. image:: teamwork-navigation-add-display-new.png
+.. image:: teamwork-navigation-add-display-new2.png
 
 + **View**: Select type for view for the list; List View or Navigation View. If you select List View you must also add at least one column.
 + **Paging**: Use this option to decide how paging should be handled for this list; No paging, Classic or Scroll.
@@ -157,12 +175,20 @@ Filter
 ''''''''''''''
 Here you can add filters so users can filter a long list (= choose to just see some).
 
-.. image:: teamwork-navigation-add-display-filterui.png
+.. image:: teamwork-navigation-add-display-filterui-new.png
 
 For more information on how to add filters, or a search box, see this page: :doc:`Filter UI </blocks/general-block-settings/filters/index>`
 
+Create Teamwork
+--------------------
+The following is available here (as an example):
+
+.. image:: teamwork-navigation-add-create.png
+
+You work with the settings here the same way as in the Create App Block, see: :doc:`The Create App block </blocks/create-app/index>`
+
 Notification Panel - additional settings
-----------------------------------------------
+*******************************************
 Click the cog wheel to set additional settings for Notification Panel. The following settings can be used:
 
 .. image:: notification-panel-settings-notification-panel-new.png
