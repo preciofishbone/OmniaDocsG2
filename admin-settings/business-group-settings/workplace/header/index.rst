@@ -39,7 +39,9 @@ Under Search, the following is available:
 
 .. image:: workplace-header-search.png
 
-The available settings are the same as in the tenant settings. You use them the same way as the Search settings for the tenant, see link above.
++ **Search Box on Header**: If a search box should be available in the header, select this option.
++ **Default Search Box text to Query string**: Available when the option above is selected. For advanced search implementations. With this option active you can add parameters to the search query string, for various implementations.
++ **Inherit Business Profile settings**: This regards settings for Quick Search and Advanced search. If you would like to use the Business Profile Search setttings, keep this option selected. If you would like to set specific settings, deselect and use the settings shown. They work the same ways as the settings for the Search block, see: :doc:`Search block settings </blocks/search/index>`
 
 Classic Mega Menu
 *******************
