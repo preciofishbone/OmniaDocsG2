@@ -1,29 +1,30 @@
 Page Type Settings
 ======================
 
-On the "Settings" tab you can set the Properties for all pages created from this Page Type. In many cases it results in fields the page editor has to or can fill in for a page. You can select any of the properties defined in the tenant. See this page for more information about setting up properties: :doc:`Tenant Settings - Properties </admin-settings/tenant-settings/properties/index>`
+The following can be available on the Settings tab:
 
-Here's an example with a Page Type with left navigation:
+.. image:: page-type-settings-left-new3.png
 
-.. image:: page-type-settings-left-new2.png
-
-(For a description of "Override Sharepoint Sync Settings", see below.)
-
-On Omnia 6.7 and later, it will be possible to automatically archive a page of a certain Page type. For more information, see below.
++ **Title**: The name of the Page Type can be edited here.
++ **Override Sharepoint Sync Settings**: Available for local Page Types (not for Tenant ones). See below for a description.
++ **Enable Automatic Archiving**: Set Automatic Archiving on or off for the Page Type. See below for more information.
++ **Properties**: Select the Properties that should be available for pages created from this Page Type. In many cases it results in fields the page editor has to or can fill in for a page. You can select any of the properties defined in the tenant. See this page for more information about setting up properties: :doc:`Tenant Settings - Properties </admin-settings/tenant-settings/properties/index>` 
 
 If properties was selected as in the image above it would result in these fields being available on the Properties tab for a page:
 
-.. image:: page-type-settings-left-fields-new2.png
+.. image:: page-type-settings-left-fields-new3.png
 
-And here's an example with a Page Type for News:
+(Scheduled Start Date is available because Scheduling is allowed in the Page Collecxtion.)
 
-.. image:: page-type-settings-news-new.png
+Settings for Properties
+******************************
+Add a Property to the Page Type this way:
 
-Which results in these fields being available on the Properties tab for a News Article page:
+1. Select the property in the list and click the plus.
 
-.. image:: page-type-settings-news-fields-new.png
+.. image:: page-type-property-plus.png
 
-Set properties for the Page Type this way:
+Remove a property by clicking the dust bin.
 
 1. Select the properties to be used for this Page Type.
 2. Click the cog wheel for more settings for a property.
