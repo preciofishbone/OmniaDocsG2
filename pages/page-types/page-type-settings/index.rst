@@ -14,7 +14,7 @@ If properties was selected as in the image above it would result in these fields
 
 .. image:: page-type-settings-left-fields-new3.png
 
-(Scheduled Start Date is available because Scheduling is allowed in the Page Collecxtion.)
+(Scheduled Start Date is available because Scheduling is allowed in the Page Collection.)
 
 Settings for Properties
 ******************************
