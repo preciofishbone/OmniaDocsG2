@@ -5,6 +5,8 @@ All available Features for the Tenant is listed here and can be activated, deact
 
 .. image:: features-tenant-new7.png
 
+Exactly what is available can differ depending on how the Tenant is set up.
+
 Default Enterprise Properties
 ******************************
 The purpose of these features is to provide a number of Enterprise Properties for an easy starting point. You can then edit the properties lists for your organization's needs. Add the common properties you would like to have in your tenant.
