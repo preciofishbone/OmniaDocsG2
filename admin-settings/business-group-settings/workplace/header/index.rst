@@ -29,9 +29,9 @@ The Logo settings are these:
 
 .. image:: workplace-header-app-logo-url.png
 
-+ **Inherit from tenant**: I you would like to inherit the logo settings from the tenant, instead of using specific settings here, select this option.
++ **Inherit from tenant**: If you would like to inherit the logo settings from the tenant, instead of using specific settings here, select this option.
 
-I you do not choose to inherit settings, set the desirde logo settings here. You use them the same way as the Logo settings for the tenant, see link above.
+I you do not choose to inherit settings, set the desired logo settings here. You use them the same way as the Logo settings for the tenant, see link above.
 
 Search
 **********
