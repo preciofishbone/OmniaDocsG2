@@ -26,7 +26,7 @@ Add a Property to the Page Type this way:
 
 Remove a property by clicking the dust bin.
 
-For setting for a property, do the following:
+To edit settings for a property, do the following:
 
 1 Click the cog wheel for the property.
 
