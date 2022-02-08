@@ -3,11 +3,15 @@ Features - Tenant
 
 All available Features for the Tenant is listed here and can be activated, deactivated and updated when needed. Here's an example:
 
-.. image:: features-tenant-new7.png
+.. image:: features-tenant-new8.png
 
 Exactly what is available can differ depending on how the Tenant is set up.
 
-Default Enterprise Properties
+System
+**********
+(A description of Enable Custom System Email will be added soon).
+
+Enterprise Properties
 ******************************
 The purpose of these features is to provide a number of Enterprise Properties for an easy starting point. You can then edit the properties lists for your organization's needs. Add the common properties you would like to have in your tenant.
 
@@ -27,15 +31,22 @@ Here you can remove or upgrade the Omnia Add-ons. For more information about the
 
 :doc:`Working with Documents </working-with-documents/index>`
 
+  
+
 :doc:`Info Screen </admin-settings/business-group-settings/settings/info-screen/index>`
 
 :doc:`Working with Events </working-with-events/index>`
 
 :doc:`Working with Processes </working-with-processes/index>`
 
-Default App Launcher Links
+Default Content
 ****************************
-Activate this Feature for a number of default links for the App launcher - many of the links that will normally appear in the Microsoft 365 menu. You can then use "Shared links" to edit the links and decide which ones to use.
+The following can be avaiable here:
 
-**Note!** Most links here will not be applicable in Omnia on-prem.
++ **Show Teams presence**: If activated, Teams presence is indicated by all people icons in Omnia (see below).
++ **Default App Launcher Links**: Activate this Feature for a number of default links for the App launcher - many of the links that will normally appear in the Microsoft 365 menu. You can then use "Shared links" to edit the links and decide which ones to use. **Note!** Most links here will not be applicable in Omnia on-prem.
+
+Configuration
+**************
+Activate "Default Community Properties and Page Types" for a useful set of properties for communities and a set of ready made Page Types. Both properties and page types can then be edited.
 
