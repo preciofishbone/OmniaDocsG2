@@ -31,7 +31,7 @@ Here you can remove or upgrade the Omnia Add-ons. For more information about the
 
 :doc:`Working with Documents </working-with-documents/index>`
 
-  
+:doc:`Setup Yammer in Omnia </setup/setup-yammer-in-omnia/index>`  
 
 :doc:`Info Screen </admin-settings/business-group-settings/settings/info-screen/index>`
 
