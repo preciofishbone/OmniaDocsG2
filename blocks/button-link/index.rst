@@ -105,7 +105,7 @@ Using this type you can add buttons for Event Management Actions:
 + Add To Outlook: In the case Event Management is set up to use a specific calendar, this button can be added to make it possible for users to add the event to their personal calendar.
 + Cancel: Used by the logged in user to cancel the registration he or she has made in their own name, ie done by using the button "Sign Up". 
 
-For more information about how the buttons, and more works for Event Management, see: :doc:`Working with Events </working-with-events/index>`
+For more information about how the buttons work and more useful tips for Event Management, see: :doc:`Working with Events </working-with-events/index>`
 
 Invite co-authors
 -------------------
@@ -117,7 +117,7 @@ For more information, see: :doc:`Invite co-authors </pages/invite-co-authors/ind
 
 Like
 -------
-Page Likes and Comments can be added as a block on a page, but the Like action also be added as an Action Button:
+Page Likes and Comments can be added as a block on a page, but the Like action can also be added as an Action Button:
 
 .. image:: action-button-like.png
 
@@ -135,7 +135,7 @@ Using this action a Link Action can be added, meaning a link can be opened:
 
 My Links
 ---------
-Using this action the logged in user's My Links can be shown.
+Using this action the logged in users My Links can be shown.
 
 See this page for more information: :doc:`My Links </user-options/my-links/index>`
 
@@ -189,7 +189,7 @@ Share can be available through the "Likes and Comments" block, but can also be a
 
 .. image:: action-button-share.png
 
-+ **Share Type**: Select in what way user's should be able to share a link to this page; Email, Teams or Yammer.
++ **Share Type**: Select in what way users should be able to share a link to this page; Email, Teams or Yammer.
 
 Sign-off request
 -----------------
@@ -197,7 +197,7 @@ Use this to add an Action button for Sign-off requests.
 
 .. image:: action-button-sign-off.png
 
-+ **Type**: You can choose between "Administrattion List" and "End-user sign off".
++ **Type**: You can choose between "Administration List" and "End-user sign-off".
 
 The Administration List, displays all Sign-off requests the logged in administrator has sent, indicating what has happened so far. Here's an example:
 
@@ -243,7 +243,7 @@ These settings are available for Style (Available to the right of GENERAL for mo
 
 Style
 ******
-This Style settings are available here:
+These Style settings are available here:
 
 .. image:: action-button-style-all.png
 
