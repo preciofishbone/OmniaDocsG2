@@ -26,7 +26,7 @@ The following settings are available for the block:
 + **Title**: You can add a title to be shown in the block. 
 + **Scope**: Select where the activities listed should come from: My Subscritions, the Publishing App or the Page Collection. See more information about the scope below.
 + **Item Limit**: Set the number of items to be shown in the list before a See more icon is shown (see above for an example). Default=10.
-+ **Padding**: Set some padding between the block border and the list, if needded.
++ **Padding**: Set some padding between the block border and the list, if needed.
 
 More on Scope
 ---------------
