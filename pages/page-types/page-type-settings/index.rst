@@ -60,8 +60,6 @@ Sharepoint Sync Settings are set in Omnia Admin (available under Web Content Man
 
 This option is available for local Page Types, not for Tenant Page Types.
 
-**Note! This insctruction is undergoing evaluation. Come back in about two days time.**
-
 When you activate this option, the following is shown:
 
 .. image:: page-type-settings-override-message.png
