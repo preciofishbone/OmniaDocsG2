@@ -25,7 +25,7 @@ The Page Types can then be used by Page Editors to create pages, the same way as
 
 Moving a Page Type to Tenant
 *******************************
-If you already have one or more Page Types you want to use as a Tenant Page Type, when upgrading to Omnia v6, you can easily "make a Tenant Page Type" of them. 
+If you already have one or more Page Types you want to use as a Tenant Page Type, you can easily "make a Tenant Page Type" of them. 
 
 Select the Page Type and choose "Promote To Tenant" in the menu:
 
