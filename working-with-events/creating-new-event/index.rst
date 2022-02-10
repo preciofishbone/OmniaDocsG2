@@ -33,4 +33,5 @@ Descriptions of two additional options that can be available here:
 
 + **Disable self service registration**: If you enable this option, would be participants can only register to the Standby list.
 
+**Note!** Events should not be used in combination with variations. If multiple variations of an event is created, each variation is treated as a separate event.
 
