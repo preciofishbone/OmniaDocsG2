@@ -19,7 +19,7 @@ To edit a scaling setting, click the pen. See *Create a new scaling setting* bel
 
 To remove a scaling setting, click the dust bin.
 
-The warning when an image exceeds the file size limit can look like this in Omnia v6:
+The warning when an image exceeds the file size limit can look like this:
 
 .. image:: image-message.png
 
@@ -72,6 +72,4 @@ To create a new crop ratio, do the following:
 + **Ratio X**: Set the horizontal ratio here.
 + **Ratio Y**: Set the vertical ratio here.
 + **Enable in rollups**: Select this option if this ratio should be available to use in block rollups.
-
-
 
