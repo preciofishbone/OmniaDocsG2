@@ -1,7 +1,7 @@
 Page Picker
 ==============
 
-You can use the Page Picker to select pages to show in a list. Only Published and shown pages are available to pick. In Omnia v6, Variations can be picked as well, if available.
+You can use the Page Picker to select pages to show in a list. Only Published and shown pages are available to pick. Variations can be picked as well, if available.
 
 .. image:: page-picker-new2.png
 
@@ -50,9 +50,4 @@ As you can see, the search result contains all page titles starting with Our, bu
 5. Click OK when you're done.
 
 I you picked pages through a block, the selected pages are now listed the same way as shown above.
-
-
-
-
-
 
