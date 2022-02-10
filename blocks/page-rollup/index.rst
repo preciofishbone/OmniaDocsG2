@@ -48,7 +48,7 @@ Here's an example of a filter that will display pages that have been updated (Mo
 
 .. image:: page-rollup-query-filter-example-new2.png
 
-Here's an example of a custom query for channels (available in Omnia 6.7):
+Here's an example of a custom query for channels):
 
 .. image:: page-rollup-channel-example.png
 
