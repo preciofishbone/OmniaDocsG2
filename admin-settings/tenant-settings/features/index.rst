@@ -9,7 +9,7 @@ Exactly what is available can differ depending on how the Tenant is set up.
 
 System
 **********
-(A description of Enable Custom System Email will be added soon).
++ **Enable Custom System Email** : As it states, this feature must be activated if Custom System Email functionality is needed in the tenant.
 
 Enterprise Properties
 ******************************
@@ -39,12 +39,20 @@ Here you can remove or upgrade the Omnia Add-ons. For more information about the
 
 :doc:`Working with Processes </working-with-processes/index>`
 
+An important note about Yammer integration: There's a lot of integration between Yammer and Omnia that is possible without having to activate this feature, but in order to use the new, improved Yammer integration where a post will be created in the selected Yammer community whenever a new page, matching the selected criteria, is created - this feature must be activated. 
+
 Default Content
 ****************************
 The following can be avaiable here:
 
 + **Show Teams presence**: If activated, Teams presence is indicated by all people icons in Omnia (see below).
 + **Default App Launcher Links**: Activate this Feature for a number of default links for the App launcher - many of the links that will normally appear in the Microsoft 365 menu. You can then use "Shared links" to edit the links and decide which ones to use. **Note!** Most links here will not be applicable in Omnia on-prem.
+
+When Show Teams presence is active, this type of icon indicates Teams presence:
+
+.. image:: teams-presence.png
+
+In this example the icon indicates that the colleagues are offline at the moment.
 
 Configuration
 **************
