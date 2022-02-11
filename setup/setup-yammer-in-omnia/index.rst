@@ -41,4 +41,4 @@ And Sharepoint site:
 
 .. image:: yammer-8.png
 
-
+**Note!** If you want to use the new, improved Yammer integration, the Yammer integration Tenant Feature must also be activated, see: :doc:`Features - Tenant </admin-settings/tenant-settings/features/index>`
