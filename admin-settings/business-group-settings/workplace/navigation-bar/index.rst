@@ -114,19 +114,33 @@ Set the following for the link:
 + **Open link in new tab**: If the link should be opened in a new tab, select this option.
 + **Icon Type/Icon**: Add an icon for the link if you wish.
 
+Mega Menu object settings
+---------------------------
+Some settings are available for each Mega Menu object, here:
+
+.. image:: mega-menu-select-settings.png
+
+To edit them, click Edit:
+
+.. image:: mega-menu-select-settings-edit.png
+
+The follwing settings are then available:
+
+.. image:: mega-menu-settings-edit.png
+
++ **Title**: You can edit the title for any of the languages. Click the flag to change language.
++ **Icon Type/Icon**: You can edit the settings for icon here.
++ **Inherit size from mega menu settings**: Per default, this object has the same size settings as the whole mega menu. If you want to set specific size settings for this object, deselect the option.
++ **Targeting**: Here you can set targeting for the mega menu object. See below for more information.
++ **A list of start Url's that will make the node selected**: (A description will be added soon).
+
 Target a Mega Menu object
 -------------------------------
 When the Mega Menu object is created you can add a targeting filter, meaning you can decide who this Mega Menu object will be available for.
 
 1. Select the Mega Menu Object.
-2. Open the settings.
-
-.. image:: mega-menu-select-settings.png
-
+2. Open the settings (see above).
 3. Click "Edit" if needed.
-
-.. image:: mega-menu-select-settings-edit.png
-
 3. Add targeting filters.
 
 .. image:: mega-menu-targeting-new.png
