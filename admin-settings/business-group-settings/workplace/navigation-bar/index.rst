@@ -25,7 +25,7 @@ Note the separate settings for the Home page in Microsoft Teams.
 
 To add a Logo, do the following:
 
-1. Click ADD.
+1. Click ADD LOGO.
 
 .. image:: workplace-navigation-home-settings-click-add-new2.png
 
@@ -54,7 +54,9 @@ Separate settings are available for the default Mega Menu, and for the Mega Menu
 + **Layout Theming**: If you would like to use custom settings for the layout, open this section and select "Custom Theme". 
 + **Block Theming**: If you would like to use custom settings for the layout, open this section and select "Custom Theme". 
 
-Regarding Custom Theme, detailed information about the options are found here in the Omnia 6.0 documentation: :doc:`Theme for the Business Profile </admin-settings/business-group-settings/settings/theme/index>`
+Layout Theming are the same settings as are described here: :doc:`Layout Theming </general-assets/layout-explorer/page-layout/layout-theming/index>`
+
+Block Theming are the same settings as are decsribed here: :doc:`Block Theming </general-assets/layout-explorer/page-layout/block-theming/index>`
 
 See below for information on how to add Mega Menu objects.
 
