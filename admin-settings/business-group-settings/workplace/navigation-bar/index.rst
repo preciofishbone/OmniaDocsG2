@@ -167,11 +167,17 @@ The following is shown:
 
 Different fields are shown depending on Action Type selected. See this page for detailed information about those fields: :doc:`Action Button block </blocks/button-link/index>`
 
+Action Menu object settings
+-----------------------------
+In the settings for an Action Menu object, you can edit the settings you used when adding the object:
+
+.. image:: action-menu-settings.png
+
 Target an Action Menu object
 -------------------------------
 When the Action Menu object is created you can add a targeting filter, meaning you can decide who this Action Menu object will be available for.
 
-.. image:: action-menu-add-settings-targeting-new.png
+.. image:: action-menu-add-settings-targeting-new2.png
 
 You do that the same way as for many other options in Omnia, see for example the heading "Targeting" on this page: :doc:`General block settings </blocks/general-block-settings/index>`
 
