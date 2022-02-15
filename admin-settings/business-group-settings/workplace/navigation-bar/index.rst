@@ -92,7 +92,7 @@ When you choose to create a Mega Menu layout, the following is shown:
 
 .. image:: mega-menu-add-layout-new.png
 
-1. Add a title, and an icon if you like. 
+1. Add a title in any of the Tenant languages (click the flag to change language), and an icon if you like. 
 
 What you add here is only shown in the list of mega menus, not shown for users.
 
@@ -108,6 +108,11 @@ You can create a Mega Menu link to anything you can link to, for example a page 
 Set the following for the link:
 
 .. image:: mega-menu-add-link-new.png
+
++ **Url**: Add the Url for the link here.
++ **Title**: Add a title in any of the Tenant languages here (click the flag to change language).
++ **Open link in new tab**: If the link should be opened in a new tab, select this option.
++ **Icon Type/Icon**: Add an icon for the link if you wish.
 
 Target a Mega Menu object
 -------------------------------
@@ -184,7 +189,7 @@ For more information, see these pages:
 + :doc:`Settings for sections </pages/page-types/section-settings/index>`
 + :doc:`Working with blocks </blocks/working-with-blocks/index>`
 
-**A tip:** One way of creating a mega menu-like navigation is to use a Page Rollup, with the new scope "Navigation path" and the new "Navigation View".
+**A tip:** One way of creating a mega menu-like navigation is to use a Page Rollup, with scope "Navigation path" and "Navigation View".
 
 Saving a draft and publishing
 ---------------------------------
@@ -205,13 +210,13 @@ One thing that is perhaps not that obvious is how to delete a layout, if needed.
 
 Different layouts for different screen sizes
 *********************************************
-The default screen size is for computer screens. If you would like to add different layouts for one or more of the other scren sizes available, do the following:
+The default screen size is for computer screens. You can use the other screen sizes to check what the layout will look like in smaller sizes, and decide if specific layouts for other sizes are needed.
+
+If you would like to add different layouts for one or more of the other scren sizes available, do the following:
 
 1. Select Screen size.
 
 .. image:: layout-screen-size-new.png
-
-You can simply use this to see a preview of the layout in different screen sizes, but you can also choose to create a new layout for a screen size, this way:
 
 2. Open the list and select "Create new layout".
 
