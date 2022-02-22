@@ -3,20 +3,20 @@
 (Omnia 6.7.7 / Workplace 6.7.9 / WCM 6.7.3 / MS 6.7.1)
 
 - Fixed an issue with property templating for layouts. 
-- The announcment block now works on the workspace starpage. 
+- The announcement block now works on the workspace startpage. 
 - Ensured stability in the page rollup navigation view when used in the mega menu.
 - Fixed a page rollup rendering issue that would sometimes occur in the notification panel (#135008).
 - Fixed an issue that the tutorial tab would not load in some scenarios.
-- Added a new feature top ensure Teamwork enterprise properties (#135180).
-- Fixed an issue with MS Teams precense if it had never been used. 
-- Ensured design of the MS Teams precense in the people rollup.
+- Added a new feature to ensure Teamwork enterprise properties (#135180).
+- Fixed an issue with MS Teams presence if it had never been used. 
+- Ensured design of the MS Teams presence in the people rollup.
 - Updated the way to fetch the preview image from SharePoint image libraries (#132127).
 - Improved error handling when loading the profile card (#135494, #135607).
 - Added configuration settings for max width and max heigh for the search block in dropdown mode (#135413).
 - Added missing localization.
 - Corrected an issue that would close the Announcement comments tab unexpectedly. 
 - Changed default setting for Feedback and Promoted Results, they are now hidden by default (#135512).
-- Its now possible to schedule variations together with the default page (#134920).
+- It's now possible to schedule variations together with the default page (#134920).
 - Fixed an issue with spacing being incorrectly added to RTF (#135714, #135402).
 
 6.7.3
