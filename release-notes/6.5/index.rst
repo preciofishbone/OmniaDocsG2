@@ -315,7 +315,7 @@ Graph Client in Script/HTML
 
 The Script/HTML block has been improved to support api endpoints to the Microsoft Graph and SharePoint REST API. This will make it possible to get data from the Graph and render it using the built-in vue.js framework in Omnia.
 
-.. image:: script-html-new-api-edited.png
+.. image:: script-html-new-api1-edited.png
 
 Microsoft Search Provider
 ------------------------------------------
