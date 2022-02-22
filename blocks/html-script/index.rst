@@ -53,7 +53,7 @@ The HTML/Script block supports api endpoints to the Microsoft Graph and SharePoi
 
 Here's an example:
 
-.. image:: script-html-new-api-edited.png
+.. image:: script-html-new-api1-edited.png
 
 General settings
 -------------------
