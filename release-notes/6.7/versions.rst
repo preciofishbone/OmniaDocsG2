@@ -1,3 +1,16 @@
+6.7.12
+========================================
+(Omnia 6.7.11 / Workplace 6.7.12 / WCM 6.7.5 / MS 6.7.3)
+
+- Fixed an issue where section headers would not correctly update on navigation.
+- Mentions in comments now works as expected. (#135776).
+- Fixed an issue with symbols in documents when converting to pdf (#135884).
+- My subscriptions in User Menu now correctly shows for all users.
+- Custom shapes in OPM now retain their size when copied (#135509).
+- Updated page rendering to better handle invalid data.
+- Performance updates to the Azure AD sync.
+
+
 6.7.9
 ========================================
 (Omnia 6.7.7 / Workplace 6.7.9 / WCM 6.7.3 / MS 6.7.1)
