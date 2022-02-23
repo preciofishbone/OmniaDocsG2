@@ -1,4 +1,4 @@
-Categories (Property)
+Categories (Properties)
 =======================
 
 You can categorize properties for example to make it more onbvious what different properties are for.
