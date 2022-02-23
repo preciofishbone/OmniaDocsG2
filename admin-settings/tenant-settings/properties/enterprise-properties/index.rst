@@ -25,7 +25,7 @@ To add a Property, click the plus.
 
 Use the following settings:
 
-.. image:: tenant-properties-settings-new.png
+.. image:: tenant-properties-settings-new2.png
 
 + **Title**: Add a Title (name) for the Property. Default language is mandatory. Add Titles in the other Tenant Languages as needed.
 + **Internal name**: An internal name can, or should in some instances, be used instead of the Title, for example as a place holder. The internal name can not contain spaces. Note that the Internal Name can not be edited once the prroperty is created.
