@@ -1,3 +1,25 @@
+6.8.0 - DRAFT
+========================================
+(Omnia 6.8.1 / Workplace 6.8.1 / WCM 6.8.1 / MS 6.8.1)
+
+New Major Features
+**************************
+- Quick setup wizard is now available when creating new tenants.
+- 
+
+New Minor Features
+**************************
+- Omnia App Permissions has been lowered.
+- Multiline text properties are now supported on Process properties. (#134554).
+- Performance improvements client side due to lazy loading of the RTF Editor. 
+
+Fixes
+**************************
+- Corrected the rendering of multi day events in calendar rollup. (#134811, #129576)
+
+
+Also resolves (#115655, #117305)
+
 6.7.12
 ========================================
 (Omnia 6.7.11 / Workplace 6.7.12 / WCM 6.7.5 / MS 6.7.3)
