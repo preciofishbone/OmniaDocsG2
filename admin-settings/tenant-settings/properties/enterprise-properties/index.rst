@@ -40,9 +40,9 @@ Some, but not all properties can be selected as Sharepoint Searchable and/or Mic
 
 Editing a property
 **********************
-When editing a property, a few more settings can be available. What is available for editing differs from property to property. Here's an example:
+When editing a property, a few more settings can be available under Sharepoint Searchable. What is available for editing differs from property to property. Here's an example:
 
-.. image:: tenant-properties-settings-edit-new.png
+.. image:: tenant-properties-settings-edit-new2.png
 
 **Note!** If you change setting for Sharepoint Searchable it's only valid for new pages created from here on. If you want this setting to be active for all existing pages as well, you must execute a full sync for all Publishing Apps using this property, using these buttons in the Publishing App settings:
 
