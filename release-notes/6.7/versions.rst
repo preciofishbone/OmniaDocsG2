@@ -5,7 +5,12 @@
 New Major Features
 **************************
 - Quick setup wizard is now available when creating new tenants.
-- 
+
+- Several enhancements to accessbility (WCAG)
+ - Improved Opacity in the breadcrumb.
+ - Better aria labels and keyboard navigation for the mobile menu
+ - Better aria labels and keyboard navigation for the current navigation
+ - Better aria labels and keyboard navigation for the mega menu
 
 New Minor Features
 **************************
@@ -13,10 +18,13 @@ New Minor Features
 - Multiline text properties are now supported on Process properties. (#134554).
 - Performance improvements client side due to lazy loading of the RTF Editor. 
 
+
 Fixes
 **************************
 - Corrected the rendering of multi day events in calendar rollup. (#134811, #129576)
-
+- Refiners are now reset correctly when query text is changed (#125278).
+- Improved rendering of long names in the advanced search (#133468).
+- 
 
 Also resolves (#115655, #117305)
 
