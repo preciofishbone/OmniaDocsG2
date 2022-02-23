@@ -8,15 +8,21 @@ New Major Features
 
 - Several enhancements to accessbility (WCAG)
  - Improved Opacity in the breadcrumb.
- - Better aria labels and keyboard navigation for the mobile menu
- - Better aria labels and keyboard navigation for the current navigation
- - Better aria labels and keyboard navigation for the mega menu
+ - Better aria labels and keyboard navigation for the mobile menu.
+ - Better aria labels and keyboard navigation for the current navigation.
+ - Better aria labels and keyboard navigation for the mega menu.
+ - Logo text is now used as tooltip and alt text for the logo image.
+ 
+- Each page collection can now configure default values for its page types (#113403).
 
 New Minor Features
 **************************
 - Omnia App Permissions has been lowered.
 - Multiline text properties are now supported on Process properties. (#134554).
 - Performance improvements client side due to lazy loading of the RTF Editor. 
+- The strengthen profile button is now configurable to show or hide on the User Profile Card. 
+- Reworked settings UI for custom email providers.
+- When machine translating on a block, any language can now be selected.
 
 
 Fixes
@@ -24,9 +30,18 @@ Fixes
 - Corrected the rendering of multi day events in calendar rollup. (#134811, #129576)
 - Refiners are now reset correctly when query text is changed (#125278).
 - Improved rendering of long names in the advanced search (#133468).
-- 
+- Stability improvements to the Search settings. 
+- Display as text on the people rollup now works correctly (#135167).
+- Backspace no longer closes the FAQ block title (#135039).
+- Fixes to the click-out logic. 
+- Search now displays correct message when no search has been made (#113490).
+- People and date can now be shown individually of each other on the card view (#133331).
+- Fixed an issue with default values for Yes/No fields (#135454).
+- When searching for specific metadata in the document piccker, the title will stay searchable (#133520).
+- Stability improvements to the yammer integration.
+- Stability improvements to the anchor feature. 
 
-Also resolves (#115655, #117305)
+Also resolves (#115655, #117305, #114222, #124003, #120422)
 
 6.7.12
 ========================================
