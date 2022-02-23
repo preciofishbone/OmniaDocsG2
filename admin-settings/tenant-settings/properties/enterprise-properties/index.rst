@@ -34,11 +34,9 @@ Use the following settings:
 
 **Note!** Properties used for targeting must be of the "Taxonomy" type.
 
-Depending on Type chosen, an additional setting can be shown, for example:
+Some, but not all properties can be selected as Sharepoint Searchable and/or Microsoft Searchable. Then, open the option and select it, for example:
 
-.. image:: tenant-properties-settings-more-new.png
-
-+ **Sharepoint Searchable**: Select if this property should be searchable by Sharepoint. 
+.. image:: tenant-properties-settings-more-new2.png
 
 Editing a property
 **********************
