@@ -73,7 +73,6 @@ Also resolves (#115655, #117305, #114222, #124003, #120422)
 - Added configuration settings for max width and max heigh for the search block in dropdown mode (#135413).
 - Added missing localization.
 - Corrected an issue that would close the Announcement comments tab unexpectedly. 
-- Changed default setting for Feedback and Promoted Results, they are now hidden by default (#135512).
 - It's now possible to schedule variations together with the default page (#134920).
 - Fixed an issue with spacing being incorrectly added to RTF (#135714, #135402).
 
