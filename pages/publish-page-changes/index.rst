@@ -46,29 +46,4 @@ Fore more information about Page Approval, see: :doc:`Approve Pages </pages/page
 
 Scheduled Publishing
 *********************
-If Scheduled Publishing is available you can choose to set a date and time for when the publishing should take place.
-
-**Note!** Scheduled Publishing is never mandatory, even if it's available. If you don't need Scheduled Publishing, just publish the usual way.
-
-1. To schedule Publishing, click here:
-
-.. image:: scheduled-publishing-page.png
-
-2. Click in the field and first set date:
-
-.. image:: scheduled-date-page.png
-
-3. And then set time, if you wish:
-
-.. image:: scheduled-time-page.png
-
-4. When you're done setting scheduled publishing, click "Save".
-
-The color and name of the Publish-button changes to reflect that a Scheduled Publishing is set:
-
-.. image:: scheduled-button-page.png
-
-To edit the schedule, or remove the Scheduled Publishing all together, click the button.
-
-
-
+This part of the documentation is being reworked. Will be finished in a few days.
