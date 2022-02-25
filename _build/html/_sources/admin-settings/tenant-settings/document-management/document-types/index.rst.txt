@@ -145,8 +145,6 @@ Use this tab to decide if this Document Type should be archived or not. If the D
 
 Retention
 ------------
-(Only available in Omnia v6).
-
 If Retention is activated, this tab is shown for all Document Types:
 
 .. image:: document-types-retention-new.png

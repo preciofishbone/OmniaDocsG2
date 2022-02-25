@@ -135,7 +135,7 @@ If it's a section with tabs, this can be set for Style, for the active section:
 + **Custom Size**: If you would like to set minimum height and width for the tabs, select this option, and then use the sliders.
 + **Border Radius**: Use this slider to set the border radius between tabs in the section.
 + **Color**: Select "Color" for various color settings for the tabs. 
-+ **Collapsed Accordion**: Used for Tab Typ Accordion only. If this option is selected, only one accordion will be expanded at a time.
++ **Collapsed Accordion**: Used for Tab Typ Accordion only. If this option is selected, all accordions will be collapsed when page is loaded.
 + **Flat Header**: Per default, the tab is slightly elevated. Select this option to make it flat.
 
 Style settings for Accordion
@@ -148,7 +148,7 @@ If it's an Accordion section, the following Style settings are available for the
 
 Under **General**, the following is available:
 
-+ **Collapsed Accordion**: If this option is selected, only one accordion will be expanded at a time.
++ **Collapsed Accordion**: If this option is selected, all accordions will be collapsed when page is loaded.
 + **Flat Header**: Per default, the tab is slightly elevated. Select this option to make it flat.
 + **Single Select**: When this option is selected, only one accordion can be open at a time. When a user expands an accordion, any other accordion that may be open is closed.
 + **Elevation**: For an elevated look, use this slider.

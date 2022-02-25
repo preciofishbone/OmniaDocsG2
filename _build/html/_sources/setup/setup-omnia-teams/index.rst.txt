@@ -1,6 +1,7 @@
 Setup Omnia in Microsoft Teams
 ===============================
 
+
 Here's how to setup Omnia in Microsoft Teams.
 
 **Note!** App Studio, used in this instruction is being deprecated. You should now use Developer Portal instead. There are some smaller differences but you should still be able to use this instruction as a guideline.
@@ -82,9 +83,10 @@ Partner Information is optional, but here Precio Fishbone's Microsoft Partner ID
 
 .. image:: app-id-new2.jpg
 
-20. Select "Test and distribute" and click "Install". 
-
-.. image:: test-distribute-new2.jpg
+20. Click "Download" to download the manifest. 
+21. In MS Teams, click "Apps" and then "Manage your apps".
+22. Upload the custom app to test the app.
+23. Select to downloaded the manifest file.
 
 Now the app is installed in the user's personal Teams and is displayed in the Teams navigation to the left. 
  

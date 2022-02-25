@@ -7,7 +7,7 @@
   
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   
-  <title>6.7.3 &mdash; Omnia  documentation</title>
+  <title>6.7.9 &mdash; Omnia  documentation</title>
   
 
   
@@ -107,7 +107,8 @@
 <li class="toctree-l1"><a class="reference internal" href="../../cookies-consent-information/index.html">Cookies Consent information</a></li>
 <li class="toctree-l1 current"><a class="reference internal" href="../index.html">Release Notes</a><ul class="current">
 <li class="toctree-l2 current"><a class="reference internal" href="index.html">Release 6.7</a><ul class="current">
-<li class="toctree-l3 current"><a class="current reference internal" href="#">6.7.3</a></li>
+<li class="toctree-l3 current"><a class="current reference internal" href="#">6.7.9</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#id2">6.7.3</a></li>
 </ul>
 </li>
 <li class="toctree-l2"><a class="reference internal" href="../6.5/index.html">Release 6.5</a></li>
@@ -121,7 +122,6 @@
 </ul>
 </li>
 <li class="toctree-l1"><a class="reference internal" href="../../roadmap/index.html">In Development</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../../guides/index.html">Guides</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../contribute-to-doc/index.html">Contribute to this Documentation</a></li>
 </ul>
 
@@ -175,7 +175,7 @@
         
           <li><a href="index.html">Release 6.7</a> &raquo;</li>
         
-      <li>6.7.3</li>
+      <li>6.7.9</li>
     
     
       <li class="wy-breadcrumbs-aside">
@@ -195,7 +195,29 @@
            <div itemprop="articleBody">
             
   <div class="section" id="id1">
-<h1>6.7.3<a class="headerlink" href="#id1" title="Permalink to this headline">¶</a></h1>
+<h1>6.7.9<a class="headerlink" href="#id1" title="Permalink to this headline">¶</a></h1>
+<p>(Omnia 6.7.7 / Workplace 6.7.9 / WCM 6.7.3 / MS 6.7.1)</p>
+<ul class="simple">
+<li><p>Fixed an issue with property templating for layouts.</p></li>
+<li><p>The announcment block now works on the workspace starpage.</p></li>
+<li><p>Ensured stability in the page rollup navigation view when used in the mega menu.</p></li>
+<li><p>Fixed a page rollup rendering issue that would sometimes occur in the notification panel (#135008).</p></li>
+<li><p>Fixed an issue that the tutorial tab would not load in some scenarios.</p></li>
+<li><p>Added a new feature top ensure Teamwork enterprise properties (#135180).</p></li>
+<li><p>Fixed an issue with MS Teams precense if it had never been used.</p></li>
+<li><p>Ensured design of the MS Teams precense in the people rollup.</p></li>
+<li><p>Updated the way to fetch the preview image from SharePoint image libraries (#132127).</p></li>
+<li><p>Improved error handling when loading the profile card (#135494, #135607).</p></li>
+<li><p>Added configuration settings for max width and max heigh for the search block in dropdown mode (#135413).</p></li>
+<li><p>Added missing localization.</p></li>
+<li><p>Corrected an issue that would close the Announcement comments tab unexpectedly.</p></li>
+<li><p>Changed default setting for Feedback and Promoted Results, they are now hidden by default (#135512).</p></li>
+<li><p>Its now possible to schedule variations together with the default page (#134920).</p></li>
+<li><p>Fixed an issue with spacing being incorrectly added to RTF (#135714, #135402).</p></li>
+</ul>
+</div>
+<div class="section" id="id2">
+<h1>6.7.3<a class="headerlink" href="#id2" title="Permalink to this headline">¶</a></h1>
 <p>(Omnia 6.7.0 / Workplace 6.7.3 / WCM 6.7.1 / MS 6.7.0)</p>
 <div class="section" id="new-major-features">
 <h2>New Major Features<a class="headerlink" href="#new-major-features" title="Permalink to this headline">¶</a></h2>
@@ -207,9 +229,9 @@
 <li><p>Sign off requests</p></li>
 <li><p>Block for displaying PowerApps</p></li>
 <li><p>Search Feedback and promoted search results.</p></li>
-<li><p>Modals and panels will now close on click out (#123157, #122336, #125956).</p></li>
+<li><p>Modals and panels will now close on click out. (Does not apply when accessibility is on) (#123157, #122336, #125956).</p></li>
 <li><p>Yammer for likes and comments</p></li>
-<li><p>Anchor links</p></li>
+<li><p>Anchor links, to enable this, ensure to add the action to the RTF editor in Omnia Admin.</p></li>
 <li><p>Teams Presence</p></li>
 <li><p>More actions for the people rollup (#127035, #122406, #126851).</p></li>
 <li><p>Full Text Search Solution (#132701, #124961, #128796, #129938, #129938).</p></li>
@@ -236,14 +258,12 @@
 <li><p>SPFx: The Omnia Webpart now supports full width sections.</p></li>
 <li><p>Communities: When following a community, you will also subscribe to it.</p></li>
 <li><p>Info screen now supports custom colors for important announcements.</p></li>
-<li><p>WCM navigation node page size is now configurable in Omnia Admin.</p></li>
 <li><p>Grouping for action buttons.</p></li>
 <li><p>Azure AD Sync now supports the Delta API. This means greatly improved sync performance for large customers.</p></li>
 <li><p>Its now possible to add the same page collection several times in one page rollup.</p></li>
 <li><p>Strengthen profile has a new and improved horizontal design.</p></li>
 <li><p>Configurability for the search block has been improved.</p></li>
 <li><p>The new mobile navigation now includes siblings and parents.</p></li>
-<li><p>An email Icon can now be added to the People search template (#113710).</p></li>
 <li><p>Term properties now expand by default if there is only one parent term selected (#127849).</p></li>
 <li><p>The WCM archive now allows for any editor to restore their own archived pages.</p></li>
 <li><p>It’s now possible to include User Properties as filters for metrics.</p></li>
@@ -328,7 +348,7 @@
     <p>
         &#169; Copyright 2022, Precio Fishbone.
       <span class="lastupdated">
-        Last updated on Jan 21, 2022.
+        Last updated on Feb 18, 2022.
       </span>
 
     </p>

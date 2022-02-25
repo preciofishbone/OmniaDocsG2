@@ -1,7 +1,7 @@
 Publishing App Rollup block
 ==============================
 
-The purpose of this block is toi list all, or some of the Publishing Apps available in the Business Profile.
+The purpose of this block is to list all, or some of the Publishing Apps available in the Business Profile.
 
 Settings
 ***********

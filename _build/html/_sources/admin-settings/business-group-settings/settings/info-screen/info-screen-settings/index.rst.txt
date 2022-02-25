@@ -9,7 +9,7 @@ You can set up several screens and they are displayed in this list.
 
 Use the pen to edit settings or the dust bin to delete a screen setup. All settings can be edited for an existing setup, see below.
 
-You can use this icon to proview a setup:
+You can use this icon to preview a setup:
 
 .. image:: info-screen-list-icon.png
 
@@ -49,7 +49,7 @@ If you choose to pick pages, this is how it's done:
 
 2. Use the Page Picker to select one or more pages.
 
-.. image:: info-screen-settings-query-page-picker.png
+.. image:: info-screen-settings-query-page-picker-new.png
 
 You can add additional pages by repeating this step, if needed.
 
@@ -67,7 +67,7 @@ For the six topmost fields, you select the Property to get the information from.
 
 .. image:: info-screen-settings-display-fields.png
 
-Here's a description of the rest of the settings:
+Here's a description of the rest of the settings (all are not shown in the image, but described below):
 
 .. image:: info-screen-settings-display-settings.png
 
@@ -84,6 +84,8 @@ Here's a description of the rest of the settings:
 + **Slides Indicator Color**: Use this option if you need to change Slides Indicator Color.
 + **Count Down Text Color**: Use this option if you need to change the Count Down Text Color.
 + **Indicator Visibility**: You can turn Indicator display on or off here.
++ **Item Limit**: Set the item limit to display in each “page” of the list.
++ **Sort by**: Choose what the list should be sorted by, and then select ascending or descending
 
 Media Settings
 *****************
@@ -91,11 +93,11 @@ Use this option if you want to show a video on the screen, instead of pages.
 
 .. image:: info-screen-settings-media.png
 
-The settings are simply:
+When you click ADD VIDEO, the following is shown:
 
 .. image:: info-screen-settings-media-settings.png
 
-+ **Title**: Add a title to display for video (mandatory).
-+ **Video**: Click the icon in this field to start Media Picker to select the video.
++ **Title**: Add a title to display for the video (mandatory).
++ **Video**: Click the icon to the right in this field to start Media Picker to select the video.
 
 For more information on how to use Media Picker, see :doc:`Media Picker </general-assets/media-picker/index>`

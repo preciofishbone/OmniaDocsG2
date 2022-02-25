@@ -1,3 +1,24 @@
+6.7.9
+========================================
+(Omnia 6.7.7 / Workplace 6.7.9 / WCM 6.7.3 / MS 6.7.1)
+
+- Fixed an issue with property templating for layouts. 
+- The announcment block now works on the workspace starpage. 
+- Ensured stability in the page rollup navigation view when used in the mega menu.
+- Fixed a page rollup rendering issue that would sometimes occur in the notification panel (#135008).
+- Fixed an issue that the tutorial tab would not load in some scenarios.
+- Added a new feature top ensure Teamwork enterprise properties (#135180).
+- Fixed an issue with MS Teams precense if it had never been used. 
+- Ensured design of the MS Teams precense in the people rollup.
+- Updated the way to fetch the preview image from SharePoint image libraries (#132127).
+- Improved error handling when loading the profile card (#135494, #135607).
+- Added configuration settings for max width and max heigh for the search block in dropdown mode (#135413).
+- Added missing localization.
+- Corrected an issue that would close the Announcement comments tab unexpectedly. 
+- Changed default setting for Feedback and Promoted Results, they are now hidden by default (#135512).
+- Its now possible to schedule variations together with the default page (#134920).
+- Fixed an issue with spacing being incorrectly added to RTF (#135714, #135402).
+
 6.7.3
 ========================================
 (Omnia 6.7.0 / Workplace 6.7.3 / WCM 6.7.1 / MS 6.7.0)
@@ -12,9 +33,9 @@ New Major Features
 - Sign off requests
 - Block for displaying PowerApps
 - Search Feedback and promoted search results.
-- Modals and panels will now close on click out (#123157, #122336, #125956).
+- Modals and panels will now close on click out. (Does not apply when accessibility is on) (#123157, #122336, #125956).
 - Yammer for likes and comments
-- Anchor links
+- Anchor links, to enable this, ensure to add the action to the RTF editor in Omnia Admin.
 - Teams Presence 
 - More actions for the people rollup (#127035, #122406, #126851).
 - Full Text Search Solution (#132701, #124961, #128796, #129938, #129938).
@@ -39,14 +60,12 @@ New Minor Features
 - SPFx: The Omnia Webpart now supports full width sections. 
 - Communities: When following a community, you will also subscribe to it.
 - Info screen now supports custom colors for important announcements. 
-- WCM navigation node page size is now configurable in Omnia Admin.
 - Grouping for action buttons.
 - Azure AD Sync now supports the Delta API. This means greatly improved sync performance for large customers.
 - Its now possible to add the same page collection several times in one page rollup.
 - Strengthen profile has a new and improved horizontal design.
 - Configurability for the search block has been improved.
 - The new mobile navigation now includes siblings and parents.
-- An email Icon can now be added to the People search template (#113710).
 - Term properties now expand by default if there is only one parent term selected (#127849).
 - The WCM archive now allows for any editor to restore their own archived pages.
 - It's now possible to include User Properties as filters for metrics. 

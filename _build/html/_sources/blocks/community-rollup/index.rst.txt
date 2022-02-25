@@ -1,7 +1,7 @@
 Community Rollup block
 =========================
 
-The purpose of this block is simply to list all or some of the Communities that is available in the Business Profile.
+The purpose of this block is simply to list all or some of the Communities that is available in one or more Business Profiles.
 
 Settings
 *************
@@ -41,7 +41,7 @@ Available settings depends on what you select. All options are listed below.
 + **Item Limit**: Set the number of sites to be shown on each "page" of the list.
 + **Sort By**: Select what to sort the list on, and then select Ascending or Descending sorting.
 + **Padding**: You can add some padding between the block's borders and the list.
-+ **Show Follow status**: Follow status is indicated by a star, filled if the teamwork is followed, hollow if not.
++ **Show Follow status**: Follow status is indicated by a star, filled if the community is followed, hollow if not. If follow status is shown, users can also follow or stop following communities by clicking the star.
 + **Open in new window**: For some (maybe all) of the teamworks, it can be a good idea to open the link in a new window.
 
 If you select STYLES for Card View, the following, additional settings becomes available:
@@ -58,6 +58,10 @@ Here you can add filters so users can filter (= choose to just see some) of a lo
 + **Show Search Box**: To add a search box, select this option. You can do that without adding filters.
 + **Enable partial word search**: Per default the search will onfly find whole words, so a search for Chris will find just that, not for example Christina. But if you select this option, the search will find parts of words as well, so both Chris, Christina and Christian, for example.
 + **Hide filter by default**: If you chose a search box you can select this option. Then no filters are shown until users has executed a search and got a search result.
+
+Follow and describe to a community
+*************************************
+When a user chooses to follow a community the user also subscribes to the community automatically.
 
 Layout and Write
 *********************

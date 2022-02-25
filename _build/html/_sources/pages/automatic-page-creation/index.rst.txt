@@ -1,13 +1,15 @@
 Automatic Page Creation
 =========================
 
-In Omnia v6 an administrator can setup rules in a Page Collection for automatic page creation.
+An administrator can setup rules in a Page Collection for automatic page creation.
 
 It works this way: Whenever a page is published in the Page Collection and match a specific rule, a copy of the page will be published to another Page Collection in the tenant. To be more specific; it is the information contained in the properties that are copied, not the whole page as it is. Therefore the page in the target Page Collection can look different depending on available Page Types. 
 
 This can for example be used to make sure a specific type of news will be published in more than one News Center, for example both in the internal News Center and in a partner portal or a customer portal. But this is just one example, it can be used with any type of page.
 
 **A tip!** If you want to make sure the copied page looks the same in the target Page Collection - use the same Tenant Page Type in both source and target Page Collections. You can find more information about Tenant Page Types on this page: :doc:`Tenant Page Types </admin-settings/tenant-settings/webcontent-managament/page-types/index>`
+
+**Note!** You should not use this option for Events.
 
 Settings
 *********

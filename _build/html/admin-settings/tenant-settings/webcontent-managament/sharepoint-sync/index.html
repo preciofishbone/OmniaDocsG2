@@ -45,7 +45,7 @@
     <link rel="index" title="Index" href="../../../../genindex.html" />
     <link rel="search" title="Search" href="../../../../search.html" />
     <link rel="next" title="Publishing Channels" href="../publishing-channels/index.html" />
-    <link rel="prev" title="Web Content Management" href="../index.html" /> 
+    <link rel="prev" title="Settings (Web Content Management)" href="../settings/index.html" /> 
 </head>
 
 <body class="wy-body-for-nav">
@@ -108,6 +108,7 @@
 <li class="toctree-l3"><a class="reference internal" href="../../document-management/index.html">Document Management</a></li>
 <li class="toctree-l3"><a class="reference internal" href="../../process-management/index.html">Process Management - Tenant settings</a></li>
 <li class="toctree-l3 current"><a class="reference internal" href="../index.html">Web Content Management</a><ul class="current">
+<li class="toctree-l4"><a class="reference internal" href="../settings/index.html">Settings (Web Content Management)</a></li>
 <li class="toctree-l4 current"><a class="current reference internal" href="#">Sharepoint Sync</a></li>
 <li class="toctree-l4"><a class="reference internal" href="../publishing-channels/index.html">Publishing Channels</a></li>
 <li class="toctree-l4"><a class="reference internal" href="../permission/index.html">Permission (Web Content Management)</a></li>
@@ -135,7 +136,6 @@
 <li class="toctree-l1"><a class="reference internal" href="../../../../cookies-consent-information/index.html">Cookies Consent information</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../../release-notes/index.html">Release Notes</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../../roadmap/index.html">In Development</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../../../../guides/index.html">Guides</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../../contribute-to-doc/index.html">Contribute to this Documentation</a></li>
 </ul>
 
@@ -212,14 +212,40 @@
             
   <div class="section" id="sharepoint-sync">
 <h1>Sharepoint Sync<a class="headerlink" href="#sharepoint-sync" title="Permalink to this headline">¶</a></h1>
+<p>The following can be set here:</p>
+<img alt="../../../../_images/web-content-sharepoint-sync.png" src="../../../../_images/web-content-sharepoint-sync.png" />
+<div class="section" id="general">
+<h2>General<a class="headerlink" href="#general" title="Permalink to this headline">¶</a></h2>
 <p>Use these settings to configure the sync from Publishing Apps in Omnia to SharePoint Site Pages. What you do is map properties to specific fields in SharePoint.</p>
-<img alt="../../../../_images/sharepoint-sync.png" src="../../../../_images/sharepoint-sync.png" />
-<p>Open the list for a field and select the property to map to.</p>
+<img alt="../../../../_images/sharepoint-sync-new.png" src="../../../../_images/sharepoint-sync-new.png" />
 <ul class="simple">
-<li><p><strong>Enable Redirect To Omnia Page</strong>: Select this option (default) to redirect Site Pages links to the Omnia page instead of the backend Communication Site Page, when applicable.</p></li>
+<li><p><strong>Max versions to sync</strong>: If there are several versions of start pages in Omnia, you can set this value to only sync the latest versions to Sharepoint. The sync creates a backup in Sharepoint. Start page versions that are not synced are still present in Omnia.</p></li>
+<li><p><strong>Enable Redirect To Omnia Page</strong>: Select this option (default) to redirect Site Pages links to the Omnia page instead of the backend Communication Site Page, when applicable. These synced pages will be picked up by and displayed by Microsoft Search. When the user clicks on an item in the search result, the user will be redirected to the correct Omnia page.</p></li>
+<li><p><strong>Page Image etc</strong>: Open the list for a field and select the property to map to.</p></li>
 </ul>
-<p>These synced pages will be picked up by and displayed by Microsoft Search. When the user clicks on an item in the search result, the user will be redirected to the correct Omnia page.</p>
 <p><strong>Note!</strong> An administrator can override these sync settings for a specific Page Type, see the heading “Override Sharepoint Sync Settings” on this page for more information:  <a class="reference internal" href="../../../../pages/page-types/page-type-settings/index.html"><span class="doc">Page Type Settings</span></a></p>
+</div>
+<div class="section" id="search">
+<h2>Search<a class="headerlink" href="#search" title="Permalink to this headline">¶</a></h2>
+<p>By default, all normal text in blocks is searchable in full text search, but for example hidden properties are not. If you would like one or more properties to be searchable for full text search, add them here. One example is if you want to use a Keywbords property to make certain terms are searchable even if they are not present as text on the page.</p>
+<p>To add properties to the full text search, do the following:</p>
+<ol class="arabic simple">
+<li><p>Click the plus.</p></li>
+</ol>
+<img alt="../../../../_images/sharepoint-sync-search-new-border.png" src="../../../../_images/sharepoint-sync-search-new-border.png" />
+<ol class="arabic simple" start="2">
+<li><p>Open the list and select a property.</p></li>
+<li><p>Click ADD.</p></li>
+</ol>
+<img alt="../../../../_images/sharepoint-sync-search-add.png" src="../../../../_images/sharepoint-sync-search-add.png" />
+<p>The property is now added to the list, for example:</p>
+<img alt="../../../../_images/sharepoint-sync-search-list.png" src="../../../../_images/sharepoint-sync-search-list.png" />
+<p>To additional properties, repeat these steps. To remove a property from the list, click the X.</p>
+<ol class="arabic simple" start="4">
+<li><p>Click SAVE when you’re done.</p></li>
+</ol>
+<img alt="../../../../_images/sharepoint-sync-search-list-save.png" src="../../../../_images/sharepoint-sync-search-list-save.png" />
+</div>
 </div>
 
 
@@ -229,7 +255,7 @@
           <footer>
     <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
         <a href="../publishing-channels/index.html" class="btn btn-neutral float-right" title="Publishing Channels" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right" aria-hidden="true"></span></a>
-        <a href="../index.html" class="btn btn-neutral float-left" title="Web Content Management" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left" aria-hidden="true"></span> Previous</a>
+        <a href="../settings/index.html" class="btn btn-neutral float-left" title="Settings (Web Content Management)" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left" aria-hidden="true"></span> Previous</a>
     </div>
 
   <hr/>
@@ -238,7 +264,7 @@
     <p>
         &#169; Copyright 2022, Precio Fishbone.
       <span class="lastupdated">
-        Last updated on Jan 21, 2022.
+        Last updated on Feb 18, 2022.
       </span>
 
     </p>

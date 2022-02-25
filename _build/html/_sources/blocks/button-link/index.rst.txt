@@ -105,7 +105,7 @@ Using this type you can add buttons for Event Management Actions:
 + Add To Outlook: In the case Event Management is set up to use a specific calendar, this button can be added to make it possible for users to add the event to their personal calendar.
 + Cancel: Used by the logged in user to cancel the registration he or she has made in their own name, ie done by using the button "Sign Up". 
 
-For more information about how the buttons, and more works for Event Management, see: :doc:`Working with Events </working-with-events/index>`
+For more information about how the buttons work and more useful tips for Event Management, see: :doc:`Working with Events </working-with-events/index>`
 
 Invite co-authors
 -------------------
@@ -117,7 +117,7 @@ For more information, see: :doc:`Invite co-authors </pages/invite-co-authors/ind
 
 Like
 -------
-Page Likes and Comments can be added as a block on a page, but the Like action also be added as an Action Button:
+Page Likes and Comments can be added as a block on a page, but the Like action can also be added as an Action Button:
 
 .. image:: action-button-like.png
 
@@ -135,7 +135,7 @@ Using this action a Link Action can be added, meaning a link can be opened:
 
 My Links
 ---------
-Using this action the logged in user's My Links can be shown.
+Using this action the logged in users My Links can be shown.
 
 See this page for more information: :doc:`My Links </user-options/my-links/index>`
 
@@ -189,15 +189,15 @@ Share can be available through the "Likes and Comments" block, but can also be a
 
 .. image:: action-button-share.png
 
-+ **Share Type**: Select in what way user's should be able to share a link to this page; Email, Teams or Yammer.
++ **Share Type**: Select in what way users should be able to share a link to this page; Email, Teams or Yammer.
 
 Sign-off request
 -----------------
-This button type is available in Omnia 6.6 and later.
+Use this to add an Action button for Sign-off requests.
 
 .. image:: action-button-sign-off.png
 
-+ **Type**: You can choose between "Administrattion List" and "End-user sign off".
++ **Type**: You can choose between "Administration List" and "End-user sign-off".
 
 The Administration List, displays all Sign-off requests the logged in administrator has sent, indicating what has happened so far. Here's an example:
 
@@ -211,7 +211,7 @@ Strengthen Profile
 ----------------------
 Strengthen profile can be available as a block (Profile Completion) or available in the Action Menu. It can also be added as an Action Button.
 
-It works the same way as in the Profile Completion block: :doc:`The Profile Completion block </blocks/profile-completion/index>`
+It works the same way as in the Profile Completion block: :doc:`The Profile Completion block </blocks/user-profile-completion/index>`
 
 (Only general settings for the button are available, see above).
 
@@ -225,12 +225,9 @@ This action can be added to the menu in a community but can also be added as a b
 + **Subscription Scope**: Select the scope here, meaning what the user actually subscribes to; the Page (= all changes to the page, even comments and best reply for Knowledge pages), Publishing App (= all new pages in the Publishing App, but not changes to existing pages) or Page Collection (= all new pages in the Page Collection, but not changes to existing pages). The Scope can also be a Publishing Channel.
 + **Publishing Channel**: If Publishing Channel was set as Scope, use this list to select channel.
 
-Teamwork Navigation
----------------------
-
-Style
----------------
-These settings are available for Style:
+Button Style
+*******************
+These settings are available for Style (Available to the right of GENERAL for most buttons, see image above):
 
 .. image:: action-button-65-style.png
 
@@ -243,6 +240,15 @@ These settings are available for Style:
 + **Icon Type**: To add an icon to the buttton, first select the Icon Type here.
 + **Icon**: When you have selected the Icon Type, select the icon in this list. The icon is placed to the left of the button text.
 + **Icon Alignment**: Select the alignment of the buttons within the block area.
+
+Style
+******
+These Style settings are available here:
+
+.. image:: action-button-style-all.png
+
++ **Grouping Type**: Here you can choose to group the buttons in the block, by selecting "Dropdown".
++ **Alignment**: Here you can set alignment for alla buttons in the block.
 
 Layout
 *********

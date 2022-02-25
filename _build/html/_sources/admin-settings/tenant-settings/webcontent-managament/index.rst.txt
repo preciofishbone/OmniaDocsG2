@@ -3,13 +3,14 @@ Web Content Management
 
 Here, the following settings are available:
 
-.. image:: webcontent-management-v67.png
+.. image:: webcontent-management-v67-new-border.png
 
 Select section for more information:
 
 .. toctree::
    :titlesonly:
 
+   settings/index
    sharepoint-sync/index
    publishing-channels/index
    permission/index

@@ -1,7 +1,9 @@
 Announcements
 ===========================================
 
-Here a Tenant Administrator can create Announcements that can be displayed over the whole tenant, normally at the top. Tenant Announcements can also be shown through the Announcements block. For more information about the block, see: :doc:`The Announcements block </blocks/announcements/index>`
+Here a user with the approrpiate permissions can create Announcements that can be displayed over the whole tenant, normally at the top. Tenant Administrators can always create announcements. Also, any user can be granted this permission. This is set under "Permissions" for the Tenant, see: :doc:`Permissions for the Tenant </admin-settings/tenant-settings/permissions/index>`
+
+Tenant Announcements can also be shown through the Announcements block. For more information about the block, see: :doc:`The Announcements block </blocks/announcements/index>`
 
 Note that an option to create Announcements for a specific Business Group also is available. The options are identical, the only difference is where Announcements are shown.
 
@@ -25,10 +27,10 @@ To create a new Announcement, do the following:
 
 Use the following settings:
 
-.. image:: tenant-announcements-settings2-new.png
+.. image:: tenant-announcements-settings2-new2.png
 
-+ **Title**: Add a title for the message. If you use more than one language in the tenant you can add a title in each language. Note that you must always add a title in the default language, other languages are optional.
-+ **Description**: Add the message here. If you use more than one language in the tenant you can add the description in each language. Note that you must always add the description in the default language, other languages are optional. **Note!** In Omnia 6.7 and later, the Limited RTF Editor is used for the description. For more information, see: :doc:`Editing text with the RTF Editor </general-assets/rtf-editor/index>`
++ **Title**: Add a title for the message. If you use more than one language in the tenant you can add a title in each language. Note that you must always add a title in the default language, other languages are optional. Click the flag to change language.
++ **Description**: Add the message here. If you use more than one language in the tenant you can add the description in each language. Note that you must always add the description in the default language, other languages are optional. Click the flag to change language. The Limited RTF Editor is used for the description. For more information, see: :doc:`Editing text with the RTF Editor </general-assets/rtf-editor/index>`
 + **Priority**: Set the Priority. Announcements with High priority will be displayed below the cross site mega menu on all pages (see example below). Announcements (with Normal or High priority) can be displayed to users in the Notification Panel or through the Announcements block.
 + **Order**: Set the order for this Announcement when there are several displayed.
 + **Start Date** and **End Date**: Set the start and end date of the Announcement. You can set exact times within the dates if needed. Start and end dates are optional, but we recommend that you always at least set an end date.
@@ -124,9 +126,4 @@ Set the following:
 2. Select Background Color.
 3. Select Text Color. 
 4. Click the plus to save the Status option.
-
-Permissions for Announcements
-********************************
-In Omnia 6.7 and later, all permissions for the Tenant is set in one place, see: :doc:`Permissions for the Tenant </admin-settings/tenant-settings/permissions/index>`
-
 

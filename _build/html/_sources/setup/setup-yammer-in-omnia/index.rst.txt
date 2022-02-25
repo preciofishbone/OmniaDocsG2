@@ -3,8 +3,6 @@ Setup Yammer in Omnia
 
 Follow these steps to setup Yammer in Omnia Online.
 
-(**Work on this instruction is ongoing - it will be further edited soon**).
-
 **1**. The account used to create the Yammer App needs to be at least Verified Admin in Yammer (Network Admin level is not enough), or alternatively Global Administrator in Microsoft 365. We recommend using a non-personal service account for creating the Yammer App, as the app stops working if the account used to create the app is deleted.
 
 **2**. Navigate to the following URL (replace m365x249588 with your tenant), as the new Yammer does not have a direct link to client applications.
@@ -43,4 +41,4 @@ And Sharepoint site:
 
 .. image:: yammer-8.png
 
-
+**Note!** If you want to use the new, improved Yammer integration, the Yammer integration Tenant Feature must also be activated, see: :doc:`Features - Tenant </admin-settings/tenant-settings/features/index>`

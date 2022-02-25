@@ -14,6 +14,7 @@ Below you will setup instructions for different parts of Omnia.
    communities/index
    setup-omnia-teams/index
    setup-yammer-in-omnia/index
+   setup-enterprise-glossary/index
 
 
 

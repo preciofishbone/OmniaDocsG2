@@ -57,7 +57,7 @@ The variation author needs the same permisions as the author of the main page, t
 
 Variations and Reusable Content
 *********************************
-In Omnia v6, variations can be used as Reusable Content, the same way as other pages, see: :doc:`Reusable Content </pages/reusable-content/index>`
+Variations can be used as Reusable Content, the same way as other pages, see: :doc:`Reusable Content </pages/reusable-content/index>`
 
 Archive variations
 ********************

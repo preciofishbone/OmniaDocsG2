@@ -44,7 +44,7 @@ You can see the publication date for each edition, the author’s comment, if an
 
 Move Process
 ***************
-In Omnia v6, a process can be moved to any other Team Site, if needed. Here's how:
+A process can be moved to any other Team Site, if needed. Here's how:
 
 1. Go to the target Team Site and copy the Url.
 2. Go to the source Team Saite and click the dot menu for the process.

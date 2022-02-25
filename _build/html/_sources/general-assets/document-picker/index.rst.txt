@@ -1,7 +1,7 @@
 Document Picker
 =================
 
-The Document Picker is available in Omnia v6 and later, and is used in various places in Omnia where documents is selected. What will actually be available in the picker depends on settings in Omnia Admin. Here's an example:
+The Document Picker is used in various places in Omnia where documents is selected. What will actually be available in the picker depends on settings in Omnia Admin. Here's an example:
 
 .. image:: document-picker-example-new.png
 
@@ -22,6 +22,4 @@ Depending on settings, a search can be available, and it can also be possible to
 Settings for the Document Picker
 *********************************
 Settings for the Document Picker is found in the Business Profile, see: :doc:`Document Picker settings </admin-settings/business-group-settings/settings/document-picker/index>`
-
-
 

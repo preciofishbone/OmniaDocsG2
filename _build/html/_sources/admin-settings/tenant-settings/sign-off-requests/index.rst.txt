@@ -1,8 +1,6 @@
 Sign-off Requests
 ====================
 
-This is an ongoing, preliminary documentation for new functionality in Omnia 6.6 and later. 
-
 Sign off Requests can be used for read receipts for pages, including news. One example of implementation is pages a new employee should study.
 
 The following settings are available here:

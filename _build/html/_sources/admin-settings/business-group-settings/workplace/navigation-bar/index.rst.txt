@@ -25,7 +25,7 @@ Note the separate settings for the Home page in Microsoft Teams.
 
 To add a Logo, do the following:
 
-1. Click ADD.
+1. Click ADD LOGO.
 
 .. image:: workplace-navigation-home-settings-click-add-new2.png
 
@@ -54,7 +54,9 @@ Separate settings are available for the default Mega Menu, and for the Mega Menu
 + **Layout Theming**: If you would like to use custom settings for the layout, open this section and select "Custom Theme". 
 + **Block Theming**: If you would like to use custom settings for the layout, open this section and select "Custom Theme". 
 
-Regarding Custom Theme, detailed information about the options are found here in the Omnia 6.0 documentation: :doc:`Theme for the Business Profile </admin-settings/business-group-settings/settings/theme/index>`
+Layout Theming are the same settings as are described here: :doc:`Layout Theming </general-assets/layout-explorer/page-layout/layout-theming/index>`
+
+Block Theming are the same settings as are decsribed here: :doc:`Block Theming </general-assets/layout-explorer/page-layout/block-theming/index>`
 
 See below for information on how to add Mega Menu objects.
 
@@ -90,7 +92,7 @@ When you choose to create a Mega Menu layout, the following is shown:
 
 .. image:: mega-menu-add-layout-new.png
 
-1. Add a title, and an icon if you like. 
+1. Add a title in any of the Tenant languages (click the flag to change language), and an icon if you like. 
 
 What you add here is only shown in the list of mega menus, not shown for users.
 
@@ -107,19 +109,38 @@ Set the following for the link:
 
 .. image:: mega-menu-add-link-new.png
 
++ **Url**: Add the Url for the link here.
++ **Title**: Add a title in any of the Tenant languages here (click the flag to change language).
++ **Open link in new tab**: If the link should be opened in a new tab, select this option.
++ **Icon Type/Icon**: Add an icon for the link if you wish.
+
+Mega Menu object settings
+---------------------------
+Some settings are available for each Mega Menu object, here:
+
+.. image:: mega-menu-select-settings.png
+
+To edit them, click Edit:
+
+.. image:: mega-menu-select-settings-edit.png
+
+The follwing settings are then available:
+
+.. image:: mega-menu-settings-edit.png
+
++ **Title**: You can edit the title for any of the languages. Click the flag to change language.
++ **Icon Type/Icon**: You can edit the settings for icon here.
++ **Inherit size from mega menu settings**: Per default, this object has the same size settings as the whole mega menu. If you want to set specific size settings for this object, deselect the option.
++ **Targeting**: Here you can set targeting for the mega menu object. See below for more information.
++ **A list of start Url's that will make the node selected**: (A description will be added soon).
+
 Target a Mega Menu object
 -------------------------------
 When the Mega Menu object is created you can add a targeting filter, meaning you can decide who this Mega Menu object will be available for.
 
 1. Select the Mega Menu Object.
-2. Open the settings.
-
-.. image:: mega-menu-select-settings.png
-
+2. Open the settings (see above).
 3. Click "Edit" if needed.
-
-.. image:: mega-menu-select-settings-edit.png
-
 3. Add targeting filters.
 
 .. image:: mega-menu-targeting-new.png
@@ -146,11 +167,17 @@ The following is shown:
 
 Different fields are shown depending on Action Type selected. See this page for detailed information about those fields: :doc:`Action Button block </blocks/button-link/index>`
 
+Action Menu object settings
+-----------------------------
+In the settings for an Action Menu object, you can edit the settings you used when adding the object:
+
+.. image:: action-menu-settings.png
+
 Target an Action Menu object
 -------------------------------
 When the Action Menu object is created you can add a targeting filter, meaning you can decide who this Action Menu object will be available for.
 
-.. image:: action-menu-add-settings-targeting-new.png
+.. image:: action-menu-add-settings-targeting-new2.png
 
 You do that the same way as for many other options in Omnia, see for example the heading "Targeting" on this page: :doc:`General block settings </blocks/general-block-settings/index>`
 
@@ -182,7 +209,7 @@ For more information, see these pages:
 + :doc:`Settings for sections </pages/page-types/section-settings/index>`
 + :doc:`Working with blocks </blocks/working-with-blocks/index>`
 
-**A tip:** One way of creating a mega menu-like navigation is to use a Page Rollup, with the new scope "Navigation path" and the new "Navigation View".
+**A tip:** One way of creating a mega menu-like navigation is to use a Page Rollup, with scope "Navigation path" and "Navigation View".
 
 Saving a draft and publishing
 ---------------------------------
@@ -203,13 +230,13 @@ One thing that is perhaps not that obvious is how to delete a layout, if needed.
 
 Different layouts for different screen sizes
 *********************************************
-The default screen size is for computer screens. If you would like to add different layouts for one or more of the other scren sizes available, do the following:
+The default screen size is for computer screens. You can use the other screen sizes to check what the layout will look like in smaller sizes, and decide if specific layouts for other sizes are needed.
+
+If you would like to add different layouts for one or more of the other scren sizes available, do the following:
 
 1. Select Screen size.
 
 .. image:: layout-screen-size-new.png
-
-You can simply use this to see a preview of the layout in different screen sizes, but you can also choose to create a new layout for a screen size, this way:
 
 2. Open the list and select "Create new layout".
 
