@@ -59,7 +59,7 @@ If you would like to schedule publishing, do the following:
 
 The property used for scheduling is identified by a clock icon.
 
-.. image:: publish-properties-icon.png
+.. image:: publish-properties-icon-frame.png
 
 3. Click in the field and set acheduled publishing with the options available for the property, for example:
 
