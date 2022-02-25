@@ -1,7 +1,7 @@
 Publish page changes
 ===========================================
 
-As an editor you can work on a new version of a page as long as needed and publish the new version when you decide to do so. You can check earlier versions of a page and even revert to an earlier version if needed.
+As an editor you can work on a new version of a page as long as needed and publish the new version when you decide to do so. If allowed (set in Page Collection settings) it's possible to se a Scheduled Publishing if you don't want to publish directly.
 
 **Note!** Edits to a page are never shown to users of the site until the page is published.
 
@@ -72,6 +72,4 @@ When a scheduled publishing has been set it's noted by the publishing button, no
 .. image:: publish-schedule.png
 
 The settings for Scheduled Publishing are described on this page: :doc:`Page Collections </pages/page-collections/index>`
-
-
 
