@@ -46,18 +46,18 @@ Fore more information about Page Approval, see: :doc:`Approve Pages </pages/page
 
 Scheduled Publishing
 *********************
-If Scheduled Publishing has been activated for the Page Collection you can choose to set publishing at a later date.
+If Scheduled Publishing has been activated for the Page Collection you can choose to set publishing at a later date, and, if the property allow it, time.
 
 **Note!** Even if Scheduled Publishing has been activated, it is never mandatory. You can always publish directly, as described above.
 
-If you would you to schedule publishing, do the following:
+If you would like to schedule publishing, do the following:
 
 1. Edit the page.
 2. Go to the PROPERTIES tab.
 
 .. image:: publish-properties.png
 
-The property used for scheduling is identified by a click icon.
+The property used for scheduling is identified by a clock icon.
 
 .. image:: publish-properties-icon.png
 
@@ -67,9 +67,13 @@ The property used for scheduling is identified by a click icon.
 
 When a scheduled publishing has been set it's noted by the publishing button, now saying SCHEDULE.
 
-4. Click the SCHEDULE button to pulblish.
+4. Click the SCHEDULE button to publish.
 
 .. image:: publish-schedule.png
 
 The settings for Scheduled Publishing are described on this page: :doc:`Page Collections </pages/page-collections/index>`
+
+Scheduled Publishing and Variations
+--------------------------------------
+You can also set scheduled publishing for a variation, the same way as decribed above. Note that you must set the publication for the variation at a later date/time than for the main page, for this to work.
 
