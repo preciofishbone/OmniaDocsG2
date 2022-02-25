@@ -12,15 +12,15 @@ A very good idea is to Preview the page before publishing. Do the following:
 1. Edit the page.
 2. Select "Preview".
 
-.. image:: preview-page-new.png
+.. image:: preview-page-new2.png
 
 You can now see how the page will look on a computer screen, a notebook, a tablet or a phone.
 
-.. image:: preview-all-new.png
+.. image:: preview-all-new2.png
 
 Here's a preview for a phone as an example:
 
-.. image:: preview-phone-new.png
+.. image:: preview-phone-new2.png
 
 Publish a page
 ***************
@@ -30,20 +30,48 @@ To publish a page, do the following:
 2. Make sure all changes to the page has been done.
 3. Save the draft.
 
-.. image:: save-draft-new.png
+.. image:: save-draft-new2.png
 
 (You can publish directly but saving the draft first is a safer way.)
 
 4. Click PUBLISH.
 
-.. image:: click-publish-new2.png
+.. image:: click-publish-new3.png
 
 If approval has been activated you must instead send for approval and the button's label indicates that:
 
-.. image:: send-for-approval-button-new.png
+.. image:: send-for-approval-button-new2.png
 
 Fore more information about Page Approval, see: :doc:`Approve Pages </pages/page-approval/index>`
 
 Scheduled Publishing
 *********************
-This part of the documentation is being reworked. Will be finished in a few days.
+If Scheduled Publishing has been activated for the Page Collection you can choose to set publishing at a later date.
+
+**Note!** Even if Scheduled Publishing has been activated, it is never mandatory. You can always publish directly, as described above.
+
+If you would you to schedule publishing, do the following:
+
+1. Edit the page.
+2. Go to the PROPERTIES tab.
+
+.. image:: publish-properties.png
+
+The property used for scheduling is identified by a click icon.
+
+.. image:: publish-properties-icon.png
+
+3. Click in the field and set acheduled publishing with the options available for the property, for example:
+
+.. image:: publish-properties-set.png
+
+When a scheduled publishing has been set it's noted by the publishing button, now saying SCHEDULE.
+
+4. Click the SCHEDULE button to pulblish.
+
+.. image:: publish-schedule.png
+
+The settings for Scheduled Publishing are described on this page: :doc:`Page Collections </pages/page-collections/index>`
+
+
+
