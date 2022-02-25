@@ -21,7 +21,7 @@ Add the Url to the app here.
 
 .. image:: power-app-settings-app.png
 
-When you have added the Url you will be able to set some colors. More will be added to the documentation about that soon.
+When you have added the Url you will be able to set some colors. 
 
 Display
 --------

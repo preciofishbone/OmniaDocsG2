@@ -1,8 +1,6 @@
 Form Question
 ================
 
-This block is available in Omnia v6.5 and later.
-
 The block i used only when working with the graphic presentation of a form, in Omnia Admin. The block can not be used on a normal page.
 
 Here's an example of a Form Question block added to a Survey:

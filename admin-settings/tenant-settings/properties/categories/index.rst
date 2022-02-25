@@ -1,4 +1,4 @@
-Categories (Property)
+Categories (Properties)
 =======================
 
 You can categorize properties for example to make it more onbvious what different properties are for.
@@ -19,15 +19,10 @@ To create a new category, do the following:
 
 .. image:: properties-categories-clickplus.png
 
-2. Type a Titel (Name) and save.
+2. Type a Titel (Name) in any tenant language (click the flag to change language) and save.
 
-.. image:: properties-categories-settings.png
+.. image:: properties-categories-settings-new.png
 
 The field "Order" displays the order set in the list when the category is edited, where 10 is the top position, followed by 20, 30 etc.
-
-
-
-
-
 
 

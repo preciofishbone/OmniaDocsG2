@@ -1,8 +1,6 @@
 Documents Bulk Update
 =======================
 
-This option is available in Omnia v6 only.
-
 Use this option to bulk update any of the defined document management properties. Note that not all properties can be updated this way. One example is Approver. 
 
 Also note that the user executing the Bulk update must have access to the documents that should be updated. Documents that the user does not have access to are simply not shown in the list.
@@ -28,6 +26,4 @@ When the update is finished, the update is noted in the document history of each
 Bulk update and templates
 ***************************
 Note that Bulk update never updates the template. The republish via Bulk update always uses the current template.
-
-
 

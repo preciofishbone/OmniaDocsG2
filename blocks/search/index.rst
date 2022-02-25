@@ -17,14 +17,15 @@ General
 ---------
 The General settings are:
 
-.. image:: search-block-settings-general.png
+.. image:: search-block-settings-general-new.png
 
 + **Title**: You can add a title for the block here. If variations exists, only one title can be set. In that case, titles in other languages are set in the variations. If no variation exists for the page, you can set the title in any or all languages active in the tenant. 
 + **Auto Focus search Box**: If this option is active, the search box is automatically in focus when a user opens the page, meaning the user can start seraching directly wihtout having to click in the search bos first.
 + **Show Results in Dropdown**: If search results should be available in a dropdown list, select this option.
-+ **Dropdown Max Height**: When the above option is selected you can set the maximum height in pixels for the dropdown.
++ **Dropdown Max Height**: When the above option is selected you set the maximum height in pixels for the dropdown. Default=0.
++ **Dropdown Max Width**: When the above option is selected you set the maximum height in pixels for the dropdown. fault=0.
 + **Add @search parameter to the query string**: For advanced search implementations. With this option active you can add parameters to the search query string, for various implementations. 
-+ **Trigger Search on Loaded**: If the above option is selected, select this option if a search should be executed when the page is loaded.
++ **Run query when no filter**: If the above option is selected, select this option if a search should be executed when the page is loaded.
 + **Search mode**: Select search mode, Quick or Advanced.
 + **Padding**: You can add some padding if needed.
 
