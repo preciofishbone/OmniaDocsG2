@@ -12,12 +12,12 @@ Omnia is not just a set of features; it comes with a story.
 Coming up soon:
 
 * Enterprise Search
-* Document Management
+* Learning Center
 
 Roadmap ahead:
 
+* Document Management
 * Project Management
-* Training Center
 * Employee Handbook
 * Quality Management
 * MS Teams Integration

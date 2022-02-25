@@ -21,6 +21,7 @@ Topics
    using-omnia-feed/index
    user-options/index
    setup/index
+   best-practice/index
    accessability/index
    cookies-consent-information/index
    release-notes/index
