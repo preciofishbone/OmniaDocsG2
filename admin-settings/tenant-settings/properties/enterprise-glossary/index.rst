@@ -13,7 +13,7 @@ The location and organization properties can be clicked for more information, in
 
 .. image:: glossary-example-info.png
 
-In this example, there's a READ MORE link that links to the IT Helpdesk organization page.
+In this example, there's a READ MORE link that can be used to go to the IT Helpdesk organization page.
 
 Settings
 ****************
