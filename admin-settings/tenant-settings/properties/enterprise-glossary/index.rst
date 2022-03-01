@@ -59,7 +59,7 @@ To connect to an information page, do the following:
 + **Image Ratio**: Select image ratio to be shown in the information dialog.
 + **Name**: Select the property for the page name to be shown in the information dialog (often Title).
 + **Summary**: There's two possible content fields in the information dialog. You can show one or both. Here you can decide to show the page summary, by selecting the property that holds that kind of information.
-+ **Description**: You can also choose to show text from a description field, that usually holds more informationy. If you don't want to use a Read More link, you may want to show more information than just the summary. If you want to show a description, select the property here.
++ **Description**: You can also choose to show text from a description field, that usually holds more information. If you don't want to use a Read More link, you may want to show more information than just the summary. If you want to show a description, select the property here.
 + **Person**: Select property for the name to be shown in the information dialog (see below).
 
 See below for an example of information connected to a term. 
