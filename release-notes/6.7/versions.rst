@@ -6,7 +6,7 @@ New Major Features
 **************************
 - Quick setup wizard is now available when creating new tenants.
 
-- Several enhancements to accessbility (WCAG)
+- Several enhancements to accessibility (WCAG)
  - Improved Opacity in the breadcrumb.
  - Better aria labels and keyboard navigation for the mobile menu.
  - Better aria labels and keyboard navigation for the current navigation.
@@ -14,6 +14,8 @@ New Major Features
  - Logo text is now used as tooltip and alt text for the logo image.
  
 - Each page collection can now configure default values for its page types (#113403).
+- Its now possible to configure "Current Node" as the start node in page roll up navigation path query.
+- 
 
 New Minor Features
 **************************
@@ -37,9 +39,20 @@ Fixes
 - Search now displays correct message when no search has been made (#113490).
 - People and date can now be shown individually of each other on the card view (#133331).
 - Fixed an issue with default values for Yes/No fields (#135454).
-- When searching for specific metadata in the document piccker, the title will stay searchable (#133520).
+- When searching for specific metadata in the document picker, the title will stay searchable (#133520).
 - Stability improvements to the yammer integration.
 - Stability improvements to the anchor feature. 
+- Fixed an issue with creating new documents when having many document templates in the system (#135764).
+- Fixed an issue with searching a paging in the Teamwork rollup (#136024).
+- Better support in scenarios when more than 14 different languages are used for content. 
+- Fixed an issue with deleting app instance Queryable properties.
+- Double quotes now works as expected when searching. 
+- Fixed a context issue when setting up teamwork templates in Omnia Admin. 
+- Fixed an issue with image scaling in the newsletter (#135437).
+- Item limit now works as intended for the MS Teams Channel block (#134990).
+- Better handling for approving processes without a comment (#131023).
+
+
 
 Also resolves (#115655, #117305, #114222, #124003, #120422)
 
