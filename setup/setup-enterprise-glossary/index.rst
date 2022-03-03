@@ -76,7 +76,7 @@ And you are all set!
 Here's an example of how an organization chart could be created, based on Enterpris Glossary.
 
 **Step 1**: Once you’ve completely finished setting up your tags, go to Omnia admin, then
-workspace and navigation bar:
+Workspace and Navigation bar:
 
 .. image:: Enterprise-21.png 
 
@@ -89,7 +89,7 @@ selected and term selected but with no value:
 
 .. image:: Enterprise-23.png 
 
-Then in the view section, make sure to select the following view settings in Default settings:
+Then in the View section, make sure to select the following view settings in Default settings:
 
 .. image:: Enterprise-24.png
 
