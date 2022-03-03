@@ -71,7 +71,7 @@ And then in the page rollup where these pages will be displayed, make sure to se
 
 And you are all set!
 
-Ïmplementation example - how to create an organization chart in a mega menu
+Implementation example - how to create an organization chart in a mega menu
 ******************************************************************************
 Here's an example of how an organization chart could be created, based on Enterpris Glossary.
 
