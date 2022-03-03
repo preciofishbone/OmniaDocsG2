@@ -63,9 +63,11 @@ If you wish to implement tags in your pages, you can simply do so by adding the 
 
 .. image:: Enterprise-15.png 
 
+.. image:: Enterprise-16.png
+
 And then in the page rollup where these pages will be displayed, make sure to select “Organization unit” as the term property:
   
-.. image:: Enterprise-16.png 
+.. image:: Enterprise-17.png 
 
 And you are all set!
 
