@@ -2,22 +2,13 @@
 ========================================
 (Omnia 6.8.1 / Workplace 6.8.1 / WCM 6.8.1 / MS 6.8.1)
 
-New Major Features
+Features
 **************************
 - Quick setup wizard is now available when creating new tenants.
-
-- Several enhancements to accessibility (WCAG)
- - Improved Opacity in the breadcrumb.
- - Better aria labels and keyboard navigation for the mobile menu.
- - Better aria labels and keyboard navigation for the current navigation.
- - Better aria labels and keyboard navigation for the mega menu.
- - Logo text is now used as tooltip and alt text for the logo image.
- 
 - Each page collection can now configure default values for its page types (#113403).
 - Its now possible to configure "Current Node" as the start node in page roll up navigation path query.
-- 
 
-New Minor Features
+Improvements
 **************************
 - Omnia App Permissions has been lowered.
 - Multiline text properties are now supported on Process properties. (#134554).
@@ -25,6 +16,12 @@ New Minor Features
 - The strengthen profile button is now configurable to show or hide on the User Profile Card. 
 - Reworked settings UI for custom email providers.
 - When machine translating on a block, any language can now be selected.
+- Several enhancements to accessibility (WCAG)
+ - Improved Opacity in the breadcrumb.
+ - Better aria labels and keyboard navigation for the mobile menu.
+ - Better aria labels and keyboard navigation for the current navigation.
+ - Better aria labels and keyboard navigation for the mega menu.
+ - Logo text is now used as tooltip and alt text for the logo image.
 
 
 Fixes
