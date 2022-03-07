@@ -62,7 +62,7 @@ Set the following here:
 
 .. image:: logo-settings-65-new.png
 
-+ **Text**: A text can be displayed beside the logo, see example below. Different texts can be added for all tenant languages, if needed.
++ **Text**: A text can be displayed beside the logo, see example below. Different texts can be added for all tenant languages, if needed. (Click the flag to change language).
 + **Logo text**: This text is used as Tooltip and Alt text for the logo.
 + **Url**: Add the Url to the logo here.
 + **(Image field)**: Click the pen to add a logo image, using the Media Picker, the x to delete.
