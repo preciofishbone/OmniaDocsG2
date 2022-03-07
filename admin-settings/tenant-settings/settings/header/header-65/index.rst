@@ -31,7 +31,7 @@ The following settings are available here:
 
 .. image:: app-launcher-settings-general-65.png
 
-+ **Title**: Set the title for the App Launcher in any or all available languages. This is shown as the Tool Tip for the button.
++ **Title**: Set the title for the App Launcher in any or all available languages (click the flag to change language). This is shown as the Tool Tip for the button.
 + **Sorted By**: Open the list and decide how to sort the icons; Custom, Alphabetic or Last Visited. If you choose Custom, use the option "Custom" below for sorting.
 + **View Template**: The icons can be viewed in a number of ways; Simple List, App Icons, Navigation View or App launcher. See below for examples.
 + **Include Non-mandatory links**: Mandatory links are always displayed. Select this option if non-mandatory links, in the link categories selected, should be displayed as well.
