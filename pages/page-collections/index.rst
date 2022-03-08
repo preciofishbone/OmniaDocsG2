@@ -54,8 +54,8 @@ Use the settings this way:
 + **Allow invitation of co-authors**: If this option is selected, authors can invite co-authors. 
 + **Enable publishing to channels**: If you enable this, it will be possible for an author to select channels the page should be published to. Publication to a channel may require approval from the channel administrator.
 
-Set Page Types default values
---------------------------------
+Set default values¨for a Page Type
+--------------------------------------
 In Omnia 6.8 and later you can set default values for the Page Types that has been added to the Page Collection.
 
 1. Click the pen for the Page Type.
@@ -68,7 +68,7 @@ The default setting is that the settings are inherited from the tenant setting.
 
 .. image:: page-type-default-deselect.png
 
-3. Set a new default value for the Page Type, for this Page Collection only, using the field that becomes available.
+3. Set a new default value for the Page Type, using the field that becomes available.
 
 .. image:: page-type-default-setnew.png
 
