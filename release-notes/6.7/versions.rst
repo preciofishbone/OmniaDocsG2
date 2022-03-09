@@ -1,4 +1,4 @@
-6.8.0 - DRAFT
+6.8.0
 ========================================
 (Omnia 6.8.1 / Workplace 6.8.1 / WCM 6.8.1 / MS 6.8.1)
 
@@ -16,12 +16,20 @@ Improvements
 - The strengthen profile button is now configurable to show or hide on the User Profile Card. 
 - Reworked settings UI for custom email providers.
 - When machine translating on a block, any language can now be selected.
+- Better support for retention policies on publishing apps. Removing pages should now work with retention in folders turned on.
+- The media picker now has a more suitable design for transparent images (#135188).
 - Several enhancements to accessibility (WCAG)
  - Improved Opacity in the breadcrumb.
  - Better aria labels and keyboard navigation for the mobile menu.
  - Better aria labels and keyboard navigation for the current navigation.
  - Better aria labels and keyboard navigation for the mega menu.
  - Logo text is now used as tooltip and alt text for the logo image.
+ - Added tooltips to the notification panel icons (#124162).
+ - Its now possible to specify "Main Heading" in a page layout.
+ - Most action bar actions can now specify a role attribute.
+ - Closing behavior of the mega menu has been corrected.
+ 
+ 
 
 
 Fixes
@@ -48,6 +56,10 @@ Fixes
 - Fixed an issue with image scaling in the newsletter (#135437).
 - Item limit now works as intended for the MS Teams Channel block (#134990).
 - Better handling for approving processes without a comment (#131023).
+- Corrected an issue with birthday rendering in the people card (#135606).
+- Color settings for icons in the new mega menu now works correctly (#136006).
+- Bulk update can now correctly filter on people properties in all scenarios.
+
 
 
 
