@@ -53,6 +53,31 @@ Fixes
 
 Also resolves (#115655, #117305, #114222, #124003, #120422)
 
+6.7.17
+========================================
+(Omnia 6.7.14 / Workplace 6.7.17 / WCM 6.7.9 / MS 6.7.7)
+
+- Fixed an issue where templates based on another controlled document would not work correctly in some tenants.
+- Controlled documents can now be created from an empty template.
+- Increased performance for editing the people rollup.
+- Stacked processes now works as expected (#136302).
+- Increased page size for the image picker, solves problem when many folders are present on the root level (#136358).
+- Excel export for forms now works as expected in all scenarios (#136397).
+
+
+
+6.7.16
+========================================
+(Omnia 6.7.13 / Workplace 6.7.16 / WCM 6.7.8 / MS 6.7.5)
+
+- Fixed an issue with editing links (#136303).
+- Updated validation logic for Urls in the Action button, it's now possible to create javascript: constructs again.
+- Fixed an issue where pages could not be approved in some scenarios (#134934).
+- The termpicker now exapnds correctly when only one root node is present (#136050, #136058).
+- Corrected the email flow for variation authors. 
+- Old images (pre 6.0) Now render the correct icons to convert for svg images.
+
+
 6.7.12
 ========================================
 (Omnia 6.7.11 / Workplace 6.7.12 / WCM 6.7.5 / MS 6.7.3)
