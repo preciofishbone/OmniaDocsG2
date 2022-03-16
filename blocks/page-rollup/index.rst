@@ -52,6 +52,10 @@ Here's an example of a custom query for channels):
 
 .. image:: page-rollup-channel-example.png
 
+More in Scope Navigation Path
+------------------------------
+When you're creating a Page Type, selecting Current Node for a Navigation Path can be very useful. Wherever that Page Type is used, the view (Navigation View) always starts at the current node for that page.
+
 Filter on a specific variation
 --------------------------------
 If just pages with a certain variation (language or other variation) should be listed in the rollup, it can be done this way:
