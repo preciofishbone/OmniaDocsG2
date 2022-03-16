@@ -56,7 +56,7 @@ Use the settings this way:
 
 Set default values for a Page Type
 --------------------------------------
-In Omnia 6.8 and later you can set default values for the Page Types that has been added to the Page Collection.
+In Omnia 6.8 and later you can set default values for the Page Types that has been added to the Page Collection. Any changes you do applies to the active Page Collection only.
 
 1. Click the pen for the Page Type.
 
