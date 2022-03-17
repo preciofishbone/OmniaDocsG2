@@ -20,6 +20,6 @@ The following settings are available:
 .. image:: profile-card-settings-new2.png
 
 + **Enable User Profile Card**: If the Profile Card should be used within the tenant, select this option. If you choose not to, the person's Delve profile is shown instead.
-+ **Show link to Details**: If it should be possible to go to the person's profile from the User Profile Card, select this option. 
++ **Show link to Details**: If it should be possible to go to the person's profile from the User Profile Card, select this option. In Omnia online the person's Delve page is linked to when this option is selected (see the Go to Delve link in images aboove). In Omnia onPrem, the link goes to the person's My Profile page.
 * **Show Strengthen Profile**: If the Strengthen Profile button should not be shown, for example if your organization don't use that feature, deselect this.
 
