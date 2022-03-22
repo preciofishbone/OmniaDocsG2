@@ -32,7 +32,7 @@ Here you can set these settings:
 + **Feeback email**: Add the email address that feedback from User profile Completion should be sent to.
 + **Levels**: Use these color settings to set what color to display for different levels pf completion. 
 
-.. image:: user-profile-general-example-new.png
+.. image:: user-profile-general-example-new2.png
 
 Property mappings
 ------------------
