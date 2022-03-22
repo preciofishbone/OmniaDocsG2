@@ -19,17 +19,21 @@ Do the following:
 
 2. Use these settings:
 
-.. image:: text-styles-settings.png
+.. image:: text-styles-settings-new.png
 
-+ **Title**: Add a title (name) for the style, in any or all available languages. Default tenant language is mandatory.
++ **Title**: Add a title (name) for the style, in any or all available languages (click the flag to change language).
 + **Inherit**: To inherit style settings from the web browser (which can actually differ depending on the browser the user has), select this option. To set your own settings for the style, deselect the option and a settings field becomes available.
+
+Here's an example with settings open for Font size and Font color:
+
+.. image:: text-styles-settings-edit.png
 
 Additional settings for Link Styles
 ------------------------------------
 For Link Styles you can also define settings for ON HOVER:
 
-.. image:: text-styles-on-hover.png
+.. image:: text-styles-on-hover-new.png
 
-Font Style - Inherit means the same Font Style that is set under Default.
+Font Style - Inherit means the same Font Style that is set on the Default tab.
 
 
