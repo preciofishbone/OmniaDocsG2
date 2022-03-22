@@ -11,7 +11,7 @@ Both lists are handled the same way.
 
 1. Select and deselect options to be available in the editor and save when you're done.
 
-.. image:: rtf-editor-options-new.png
+.. image:: rtf-editor-options-new2.png
 
 (All options are not shown in the image above, there's a lot more.)
 
@@ -21,7 +21,7 @@ Most options should be self explanatory, but some options may need a description
 
 Activate machine translation
 -------------------------------
-Text Translator is the option for Machine Translations editors can use (Available at the bottom of the list, not activated in the image above). **Note!** Machine translation is not available in Omnia on-prem.
+Text Translator is the option for Machine Translations editors can use. **Note!** Machine translation is not available in Omnia on-prem.
 
 Make the RTF editor Enterprise Glossary aware
 ------------------------------------------------
