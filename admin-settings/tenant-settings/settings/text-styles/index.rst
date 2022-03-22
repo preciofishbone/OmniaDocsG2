@@ -5,7 +5,7 @@ Here you can edit the settings for the text styles used in the RTF editor, as we
 
 .. image:: tenant-settings-text-styles-new.png
 
-In the column Enabled you decide which styles should be available to choose for the RTF editor. They are listed under Styles in the settings described above and are also available in a few blocks where a custom RTF editor can be created.
+In the column Enabled you decide which styles should be available to choose for the RTF editor. They are listed under Styles in the settings for the RTF Editor and are also available in a few blocks where a custom RTF editor can be created.
 
 Click the cog wheel to edit the setting for a style. You can edit all settings available when creating a new style, see below.
 
