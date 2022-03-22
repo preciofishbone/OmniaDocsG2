@@ -3,11 +3,9 @@ User Profile Completion
 
 This is the settings for the user option "Strengthen Profile", that can found inte the Action Menu:
 
-.. image:: strengthen-profile-new2.png
+.. image:: strengthen-profile-new3.png
 
-and for the Profile Completion block, that, for example, can look like this:
-
-.. image:: profile-completion-example.png
+Profile completion can also be available as a block, see: :doc:`The Profile Completion block </blocks/user-profile-completion/index>` 
 
 Another option is to set that a dialog should appear with certain intervals, see below.
 
@@ -90,5 +88,4 @@ If profile images are managed in another system (or in the SharePoint My Site, w
 
 6. Add additional settings as needed.
 7. Click OK.
-
 
