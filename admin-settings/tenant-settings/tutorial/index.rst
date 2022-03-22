@@ -23,21 +23,21 @@ Do the following to edit an existing Tutorial:
 
 2. Use the following settings:
 
-.. image:: tutorial-settings-1-new-frame.png
+.. image:: tutorial-settings-1-new2.png
 
-+ **Title (top)**: Add/edit the title for the Tutorial (not shown for users). You can add a title in all languages used in the tenant, the default language is mandatory.
++ **Title**: Add/edit the title for the Tutorial (not shown for users). You can add a title in all languages used in the tenant (Click the flag to change language).
 + **Add step**: Use the button to add a new tutorial step after the last step. 
-+ **Preview tutorial**: When you want to check how the tutorial will look for users, select this button. 
++ **Preview**: When you want to check how the tutorial will look for users, select this button. 
 + **Target Settings**: To select pages where this Tutorial should be available, click here. The number to the right of the link indicates the number of pages selected. You also use the Target Setting to set if the tutorial should start automatically or not.
 
 The following fields and options are available for the steps in the Tutorial:
 
-.. image:: tutorial-steps-settings.png
+.. image:: tutorial-steps-settings-new.png
 
 + **Reorder**: When you have added a number of steps, use this button to reorder the steps. (See below for more information).
-+ **Title**: This is the title for the step, and it's shown for users. You can add a title in all languages used in the tenant, the default language mandatory. Which langauge will be shown for a user depends on that user's preferred language setting.
++ **Title**: This is the title for the step, and it's shown for users. You can add a title in all languages used in the tenant, click the flag to change language. To langauge shown for a user depends on that user's preferred language setting.
 + **Add Image**: To add an image to the step, click this link and use the Media Picker. It's not mandatory to add an image. See this page for more information about the Media Picker: :doc:`The Media Picker </general-assets/media-picker/index>`
-+ **Content**: Use this field to add the text for this step. Some basic formatting options are available. You can add Content in all languages used in the tenant, the default language mandatory. Which langauge will be shown for a user depends on that user's preferred language setting.
++ **Content**: Use this field to add the text for this step, using the RTF Editor. The langauge shown for a user depends on that user's preferred language setting. For more information about how to use the RTF Editor, see: :doc:`Editing text with the RTF Editor </general-assets/rtf-editor/index>`
 
 When you add a step, you can see that another dot is created in the navigation bar. Click the dot to go to a step for editing.
 
@@ -58,13 +58,10 @@ To reorder the steps, use drag and drop.
 To delete a step that is no longer needed, do the following:
 
 1. Select the step by clicking the dot.
-
-.. image:: tutorial-delete-step-1.png
-
 2. Check that it is the step you intend to delete.
 3. Click the dust bin.
 
-.. image:: tutorial-delete-step-2.png
+.. image:: tutorial-delete-step-new.png
 
 Edit or delete the image
 ---------------------------
@@ -119,25 +116,25 @@ Tutorial - implementation example
 ***********************************
 This example consists of three steps:
 
-.. image:: tutorial-example-1.png
+.. image:: tutorial-example-1-new.png
 
 These settings has been made for the first step:
 
-.. image:: tutorial-example-2.png
+.. image:: tutorial-example-2-new.png
 
 and these settings for the second step:
 
-.. image:: tutorial-example-3.png
+.. image:: tutorial-example-3-new.png
 
 and these for the third:
 
-.. image:: tutorial-example-4.png
+.. image:: tutorial-example-4-new.png
 
 The tutorial is targeted to just one page and will start automatically:
 
-.. image:: tutorial-example-5.png
+.. image:: tutorial-example-5-new.png
 
-In the header for the Business Profile, it has been set that tutorials should be available in the Action Menu. The icon is shown where a tutorial is available, but not shown otherwise.
+In the Header for Workspace, for the Business Profile, it has been set that tutorials should be available in the Action Menu. The icon is shown where a tutorial is available, but not shown otherwise.
 
 .. image:: tutorial-example-6.png
 
@@ -159,7 +156,7 @@ In this example, the tutorial starts automatically the first time the user enter
 
 .. image:: tutorial-example-11.png
 
-If the settings for the Business Profile Header had been "Menu":
+If the Header settings for the Workspace had been "Menu":
 
 .. image:: tutorial-example-12.png
 
