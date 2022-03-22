@@ -49,10 +49,10 @@ Select the styles that should be available in the list.
 
 .. image:: tenant-settings-styles-select.png
 
-**Note!** You can use Text Styles to configure styles. The enabled styles from Text Styles are those shown in the above list. See below for more information on Text Styles.
+**Note!** You can use Text Styles (option in the Settings menu) to configure styles. The enabled styles from Text Styles are those shown in the above list. 
 
 Reorder the options
 ---------------------
 If you would like to reorder the options in the editor, use these icons to drag and drop:
 
-.. image:: rtf-editor-reorder-new.png
+.. image:: rtf-editor-reorder-new2.png
