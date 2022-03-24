@@ -29,7 +29,7 @@ Here's how to create a new channel:
 
 + **Title**: Add a title in any or several of the tenant langauges. Click the flag to change language.
 + **Description**: Add a description of the purpose of the channel in any or several of the tenant langauges. Click the flag to change language.
-+ **Url**: (Information will be aded soon).
++ **Url**: Here you can add a Url to the channel's home page, if there is one. The home page can for example contain more information about the channel, a rollup of all pages published to the channel and so on. 
 + **ADD IMAGE**: To add an image to be shown for the channel, click here and use the Media Picker to upload the image. When an image is selected you can delete it, or edit it by clicking the pen. For more information about the Media Picker, see: :doc:`The Media Picker </general-assets/media-picker/index>`
 + **Owner**: One or more owners of the channel must be added. This is just information about who is responsible. The name/names will be shown when channels are listed.
 + **Administrator**: One or more administrators of the channel must be added. Administrators approve or reject publication to the channel. An administrator also has Publisher permissions to the channel.
