@@ -37,7 +37,7 @@ All pages using the promoted Page Type will continue using it, but the Page Type
 
 Archiving a Tenant Page Type
 ******************************
-You can archive a Tenant Page Type the same way as Page Types in the Publishing App:
+You can archive a Tenant Page Type the same way as other Page Types in the Publishing App:
 
 .. image:: WCM-page-types-archive-menu.png
 
