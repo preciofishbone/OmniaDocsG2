@@ -7,7 +7,7 @@ Here's an example of a list:
 
 .. image:: sign-off-requests-requests-new3.png
 
-The Status column in the middle indicates if the request is open or closed. the Status column to the right indicates the number of answers; white for none, yellow for some and green for all that the request was sent to.
+The Status column in the middle indicates if the request is open or closed. the Status column to the right indicates the number of answers; white for none, yellow for some/ongoing and green for all that the request was sent to.
 
 For more details and the possibiblty to delete a request, click the link (Name).
 
@@ -82,5 +82,4 @@ Sign-off Requests Rollup block
 There's a bloxck available to be used for listing the Sign-off Requests that is sent to the logged in user or a group that the user belongs to.
 
 More information about the block is found here: :doc:`Sign-off Requests Rollup </blocks/sign-off-request/index>`
-
 
