@@ -21,13 +21,6 @@ For more information about how to use My Links, see: :doc:`My Links</user-option
 
 Settings
 **********
-The following settings are available:
-
-.. image:: shared-links-admin-settings2.png
-
-Shared links
------------------
-
 In the list of Shared Links, click the pen to edit a link or the dust bin to delete a link.
 
 .. image:: shared-links-edit-new2.png
@@ -92,7 +85,7 @@ Permissions for Shared Links
 *****************************
 Shared Links has a seperate Permissions setting, so any user can be set as a Shared Links administrator. This includes external users that has been invited in the Azure AD, meaning they can log in with their own Microsoft 365 account. 
 
-For more information about pemrissions, see: :doc:`Permissions for the Tenant </admin-settings/tenant-settings/permissions/index>`
+For more information about permissions, see: :doc:`Permissions for the Tenant </admin-settings/tenant-settings/permissions/index>`
 
 Note that Tenant Administrators always can work with Shared Links.
 
