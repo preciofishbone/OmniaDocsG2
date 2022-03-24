@@ -49,7 +49,7 @@ Do the following:
 
 Set the following:
 
-.. image:: dm-template-new3-new.png
+.. image:: dm-template-new3-new2.png
 
 2. Select to add a template for controlled documents or for normal documents.
 
