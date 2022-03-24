@@ -69,7 +69,7 @@ To delete a Group or Document type, do the following:
 2. Available settings are now shown.
 3. Click the dust bin.
 
-.. image:: doctype-delete-new2.png
+.. image:: doctype-delete-new3.png
 
 Settings for Document Types
 ****************************
@@ -79,16 +79,14 @@ General
 --------
 The General tab contains the following settings:
 
-.. image:: document-type-general-new2.png
+.. image:: document-type-general-new3.png
 
-+ **Title**: Add a Title for the Document Type in one or more of the tenant languages. Note that default language is mandatory.
++ **Title**: Add a Title for the Document Type in one or more of the tenant languages (click the flag to change language). Note that default language is mandatory.
 + **Property Set**: Property Sets is a way of groping a number of properties into a set, which makes it easier to use a set of properties in several Document Types. Select a property set for the Document Type. When you have done so you can click the cogwheel to see which properties belong to the set. You will also see information about Placeholder Shortname and default value for the properties in the set.
 + **Document Templates**: Select one or more of the templates. Available templates depends pn Property set selected. You must always do this even if there’s just one template available.
 + **Default Document Template**: Use this option to select one of the templates for this Document Type as the default template. When selecting the Document Type, the author then has this template preselected.
 + **Allow appendices**: Check this option to allow for appendices. Authors can then tie other documents as appendices to the main documents. This option must be checked to make it possible for this document type.
 + **Show Create Document Icon in Document Rollup**: In the Document Rollup the “Create Document Icon” column can be added. A document can be created using the icon only if it belongs to a Document Type that has this option selected. if not, the icon is not shown.
-+ **Allow document to be connected to an existing template**: If this option is selected it works like this: When a Controlled Documents author creates a new draft or uploads a document that is not connected to a Controlled Documents template, a message is shown allowing the author to connect that document to a template.
-+ **Unique id**: Created by the system. Shown here for reference when settings has been made.
 
 Don't forget to save when you're done.
 
