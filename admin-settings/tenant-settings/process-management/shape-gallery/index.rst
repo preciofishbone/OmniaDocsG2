@@ -29,7 +29,7 @@ To add a new shape, click the plus.
 
 Use the following settings:
 
-.. image:: pm-shape-settings-new.png
+.. image:: pm-shape-settings-new2.png
 
 + **Title**: You can (should) add a title for the new shape, in any or all available languages. Default language for the tenant is mandatory.
 + **Freeform/Media**: Decide how to add the shape; Select "Freeform" to draw the shape, "Media" to upload an image.
