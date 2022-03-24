@@ -23,7 +23,7 @@ To create a new request, do the following:
 
 .. image:: sign-off-requests-settings-1-new.png
 
-+ **Custom**: Here you can choose to create a Custom Sign-off Request or use a template.
++ **Custom**: Here you can choose to create a Custom Sign-off Request or use a template. You can also select "Current Page" which is very useful in for example a Page Type. The request is then always tied to the current page, wherever that is.
 + **(Template list)**: Available when "From Template" is selected above. Lists all available Sign-off Request templates, if any. Select template here.
 + **Name**: Add a name for the request here, in any of the tenant languages (click the flag to chance language).
 + **Description**: You can add a description of the request here, in any of the tenant languages (click the flag to chance language).
@@ -31,7 +31,7 @@ To create a new request, do the following:
 + **Request sent to**: Select one or more users or groups to send the request to by e-mail. Single users, Security groups and Microsoft 365 groups can be added here (In Omnia on-prem, Microsoft 365 groups can’t be used). Note that the maximum number to send to can be set under "Settings".
 
 3. Add or remove pages as needed.
-4. Click REQUEST to save the Sign-off request and send it. If you don't nothing is saved.
+4. Click REQUEST to save the Sign-off request and send it. If you don't, nothing is saved.
 
 To add or remove pages
 ----------------------------
@@ -76,5 +76,11 @@ When you close a request, you can choose to send an email to those that has not 
 .. image:: sign-off-requests-checking-2.png
 
 A closed request can be reopened, a deleted request can (ofcourse) not.
+
+Sign-off Requests Rollup block
+*********************************
+There's a bloxck available to be used for listing the Sign-off Requests that is sent to the logged in user or a group that the user belongs to.
+
+More information about the block is found here: :doc:`Sign-off Requests Rollup </blocks/sign-off-request/index>`
 
 
