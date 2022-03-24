@@ -34,7 +34,8 @@ Here's how to create a new channel:
 + **Owner**: One or more owners of the channel must be added. This is just information about who is responsible. The name/names will be shown when channels are listed.
 + **Administrator**: One or more administrators of the channel must be added. Administrators approve or reject publication to the channel. An administrator also has Publisher permissions to the channel.
 + **Publisher**: One or more publishers can be added. This is not mandatory. The colleagues you add here can publish to the channel without approval.
-+ **Targeting filter**: This is a bit different compared to targeting elsewhere in Omnia. Targeting for the channel can be used to add a mandatory subscription to the channel for colleagues or groups.
++ **Force channel description to target group**: Targeting for the channel can be used to add a mandatory subscription to the channel for colleagues or groups. If you want to do that, select this option.
++ **Targeting filter**: Shown when the option above is selected. Targeting settings are done the same way as in other places in Omnia, but the result is different. For the colleagues or groups targeted, a mandatory subscription to the channel is added.
 
 3. Save when you're done.
 
