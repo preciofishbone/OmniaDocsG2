@@ -1,9 +1,7 @@
 Document Management Settings
 ==============================
 
-These settings are available here:
-
-.. image:: document-management-settings-new4.png
+The following is available here, organized under three tabs:
 
 General
 *********
@@ -38,10 +36,4 @@ Here's an example of a base query:
 .. image:: document-management-base-query.png
 
 You use Keyword Query Language (KQL) here. To learn more about KQL, see this Microsoft page: https://docs.microsoft.com/en-us/sharepoint/dev/general-development/keyword-query-language-kql-syntax-reference
-
-
-
-
-
-
 
