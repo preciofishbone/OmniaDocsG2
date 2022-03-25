@@ -1,7 +1,7 @@
 Document Management Settings
 ==============================
 
-The following is available here, organized under three tabs:
+The following is available here, organized in three tabs:
 
 General
 *********
