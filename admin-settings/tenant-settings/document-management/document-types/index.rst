@@ -3,7 +3,7 @@ Document Types
 
 When creating a new controlled document an author selects a Document Type. Document Types can be grouped. In that case the author first selects group and then Document Type within that group.
 
-The settings displays all existing Document Types, and Groups, if they are grouped, for example:
+The settings displays all existing Document Types, and Groups, for example:
 
 .. image:: document-types-start-new2.png
 
