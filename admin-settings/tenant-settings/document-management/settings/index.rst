@@ -7,7 +7,7 @@ General
 *********
 You can set this on the "General" tab:
 
-.. image:: document-management-settings-general-new.png
+.. image:: document-management-settings-general-new2.png
 
 + **Authors of Controlled Documents**: Here you can set the type of permissions to be used in Controlled Documents libraries in the tenant. 
 
@@ -16,6 +16,7 @@ You can set this on the "General" tab:
     - "Site Owners and Members": All site owners and all Members will have permissions to work with Controlled Documents. No specific permission group for authors is needed.
 + **Approvers Group**: If this option is selected (default) a specific permission group will be created for approvers in every Team Site with a Controlled Documents library. Note that this should normally be selected. Not using permission groups is for specialized implementation only. Also note that you can still set what type of approval to use for each Document Type.
 + **Archive Site Url**: Part of the Controlled Documents functionality is an Archive site, where a copy of all published document’s editions are placed in an archive. The link to the site is shown here and can be edited if needed.
++ **Retention Manager**: For retention of documents to work, a Retention Manager must be added in this field.
 
 Document Id Format
 *********************
