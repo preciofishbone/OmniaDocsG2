@@ -18,7 +18,7 @@ General
 --------
 3. Use the following settings:
 
-.. image:: process-type-settings-general-new.png
+.. image:: process-type-settings-general-new2.png
 
 + **Title**: Add a title for the process type, in one or more languages. Default language for the tenant is mandatory.
 + **Property Set**: Select property set from the list. For more information about property sets, see the ink above.
@@ -78,11 +78,11 @@ Editing a Process Type
 ************************
 To edit a process type, just click it in the main list. All settings described above can be edited.
 
-.. image:: process-type-edit-new.png
+.. image:: process-type-edit-new2.png
 
 On the General tab you can now see the Unique id for the process, for example:
 
-.. image:: process-type-id.png
+.. image:: process-type-id-new.png
 
 Sorting Process Types
 **********************
@@ -97,7 +97,7 @@ A Process Type that is no longer used can be deleted.
 1. Click the Process Type to open it for editing.
 2. Click the dust bin.
 
-.. image:: process-type-delete.png
+.. image:: process-type-delete-new.png
 
 Syncronising of Process Types
 ******************************
