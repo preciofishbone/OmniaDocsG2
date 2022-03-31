@@ -79,7 +79,7 @@ The following settings are available for the views:
 + **Add Column**: This is not like columns in columns in a table. You should think: What information do I want to display about the people? You must always add at least one column or nothing will be shown!
 + **Show Email action**: Available for Card. Makes it possible to send an e-mail directly from the card.
 + **Show Chat action**: Available for Card. Makes it possible to start a MS Teams chat with the colleague directly from the card.
-+ **Show Call action**: Available for Card. Makes it possible to start a MS Teams call with the colleague directly from the card.
++ **Show Call action**: Available for Card. Makes it possible to start a call with the colleague directly from the card. The system uses the unit's default app for calls. If Omnia is used through Teams, the call should normally be made through Teams automatically.
 + **Action Alignment**: Available when any or all the above actions are selected. Use this option to ser alignment for the actions.
 + **Adjust Columns**: Use this option the order in which the selected columns are shown.
 + **Person Name**: Select property to get the Person Name from.
