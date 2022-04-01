@@ -133,6 +133,8 @@ Using this action a Link Action can be added, meaning a link can be opened:
 + **Target**: Choose if the link should be opened in a new window, the current window, or in a dialog. 
 + **Dialog Position**: If you selected "Dialog" for Target, you can select where to place the dialog: Center, Full screen, Left or Right.
 
+More on Anchor Name: You can link to any anchor an author has created in text on a page or for a block heading, but you must know the Anchor Name. Anchors are also automatically created for sections, steps in stepper sections and sections in accordions.
+
 My Links
 ---------
 Using this action the logged in users My Links can be shown.
