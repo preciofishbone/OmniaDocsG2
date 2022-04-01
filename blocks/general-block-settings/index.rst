@@ -57,7 +57,7 @@ Settings you can set the following for TEXT:
 
 .. image:: layout-header-custom-new2.png
 
-The following is available for STYLE:
+You can set these custom settings, for STYLE:
 
 .. image:: layout-header-custom-style.png
 
