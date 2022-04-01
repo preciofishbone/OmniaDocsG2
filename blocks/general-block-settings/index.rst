@@ -49,7 +49,7 @@ The follwowing is available for headre settings:
 .. image:: layout-header-new3.png
 
 + **Anchor Name**: You can set an anchor name for this block. 
-+ **Icon Type**: If you would like an icon to be shown for the block, the first step is the selec icon type. (If you don't salect an icon, Icon Type has no effect.)
++ **Icon Type**: If you would like an icon to be shown for the block, the first step is to select icon type. (If you don't select an icon, Icon Type has no effect).
 + **Icon**: After having selected icon type, then select the icon.
 + **Custom settings**: For Header you can choose to use the global settings (set up in Omnia Admin) or use Custom Settings for this block.
 
