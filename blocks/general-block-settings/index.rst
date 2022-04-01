@@ -44,7 +44,7 @@ You can try out these settings for various effects. You can see a preview in the
 
 Header
 *********
-The follwowing is available for headre settings:
+The follwowing is available for header settings:
 
 .. image:: layout-header-new3.png
 
@@ -53,7 +53,7 @@ The follwowing is available for headre settings:
 + **Icon**: After having selected icon type, then select the icon.
 + **Custom settings**: For Header you can choose to use the global settings (set up in Omnia Admin) or use Custom Settings for this block.
 
-Settings you can set the following for TEXT:
+Available custom settings for TEXT:
 
 .. image:: layout-header-custom-new2.png
 
