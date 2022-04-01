@@ -57,7 +57,7 @@ If the Page Collection isn't present in the list, select "Others..." so you can 
 
 5. Save after each Page link added.
 
-Note that you can also link to an anchor on a page, using a Custom link. See above.
+Note that you can also link to an anchor on a page, using a Custom link. See above. Anchors can be created by authors in any parts of text on a page, can be set for block headings and are automatically created for sections, steps and accordion sections.
 
 Document
 *********
