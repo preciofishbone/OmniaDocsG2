@@ -13,7 +13,7 @@ Here's an example of the MS Graph list:
 
 .. image:: azure-ad-permissions-graph.png
 
-More on Invalidate All Users Token
+More on Invalidate All User Token
 ******************************************
 If the button INVALIDATE ALL USER TOKENS is clicked to force a log out from Omnia for all users, only Omnia is affected, not Sharepoint, Office apps, mail or anything else outside Omnia.
 
