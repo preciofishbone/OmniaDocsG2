@@ -1,7 +1,7 @@
 Using Anchors
 =====================================
 
-**This is an ongoing documentation. Will be added very soon.**
+**This is an ongoing documentation. More will be added very soon.**
 
 Using anchors you can link to a specific place on a page:
 
@@ -11,7 +11,7 @@ Using anchors you can link to a specific place on a page:
 + To a section type Stepper.
 + To a section type Accordion.
 
-For the section types, an anchor is created automatically - it's actually the end part of the Url. Anchors in text or for a block, must be created by an editor or an author.
+For the section types, an anchor is created automatically - it's actually the end part of the Url. Anchors in text or for a block, must be created by an editor or an author, when needed.
 
 If there are several sections of the same type on a page, you can add a custom anchor instead of the automatically generated one.
 
