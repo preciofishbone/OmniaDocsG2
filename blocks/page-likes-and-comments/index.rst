@@ -32,7 +32,7 @@ The following settings are available on this tab:
 .. image:: likes-general-new.png
 
 + **Title**: If a title should be shown for the block, add it in this field. If variations exists for the page, it looks like in the image above. Titles in other languages are set in the variations. If there is  no variations you can set the title in any or all the languages active in the tenant. 
-+ **Enable Yammer sync**: If Yammer sync is enabled for the Page Collection, this option is available. See more information below about this option.
++ **Enable Yammer sync**: If Yammer sync is enabled for the Page Collection, this option is available. See more information below about how to use it.
 + **Enable Rich Text**: If you enable Rich Text, some basic formatting will be availble for users.          
 + **Enable mention**: If it should be possible to use mentions in comments on this page or in this page type, select this option. See below for an example.
 + **Allow Likes**: If it should be able to like a comment, select this option.
@@ -48,7 +48,7 @@ More about Yammer Intergation
 ---------------------------------
 If Yammer Integration is set up on Page Collection level, you can choose to activate a two way integration of comments here, meaning when a comment is added in Yammer, that comment is also shown in Omnia.
 
-**Important note!** Due to limitations in the Yammer API, comments on a post is placed correctly, but comment on a comment is not placed as expected. The comment on a comment is shown in Omnia, but is not indented, as you would expect it to be. This is a limitation in the Yammer API, not in Omnia.
+**Important note!** Due to limitations in the Yammer API, a comment on a comment is not placed as expected (but a comment on a post is). The comment on a comment is shown in Omnia, but is not indented, as you would expect it to be. This is a limitation in the Yammer API, not in Omnia.
 
 For more information about setting up Yammer Integration on Page Collection level, see: :doc:`Page Collections </pages/page-collections/index>`
 
