@@ -44,9 +44,9 @@ Here's an example of a mention:
 
 .. image:: comment-mention-new2.png
 
-More about Yammer Intergation
+More about Yammer Integration
 ---------------------------------
-If Yammer Integration is set up on Page Collection level, you can choose to activate a two way integration of comments here, meaning when a comment is added in Yammer, that comment is also shown in Omnia.
+If Yammer Integration is set up on Page Collection level, you can choose to activate a two way integration of comments here by selecting "Enable Yammer sync". When this option is on, a comment added in Yammer is also shown in Omnia.
 
 **Important note!** Due to limitations in the Yammer API, a comment on a comment is not placed as expected (but a comment on a post is). The comment on a comment is shown in Omnia, but is not indented, as you would expect it to be. This is a limitation in the Yammer API, not in Omnia.
 
