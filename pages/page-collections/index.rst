@@ -44,7 +44,7 @@ Use the settings this way:
 + **Auto Publish**: This is a setting probably most relevant for Communities. If this option is selected a new page is always published automatically. It's only applicable when a new page is created, not when it's updated.
 + **Page Types**: Select which of the Page Types that should be available for an editor to select when creating a page in this Page Collection. It can be Local Page Types or Tenant Page Types. Tenant Page Types are indicated by the text "(Tenant)". For more information about Tenant Page Types, see this page: :doc:`Tenant Page Types </admin-settings/tenant-settings/webcontent-managament/page-types/index>`. In Omnia 6.8 and later you can set default values for the Page Types, see below.
 + **Automatic Page Creation**: A copy of a page can be published automatically to another Page Collection when certain rules are met. These rules can be set up here. For more information, see this page: :doc:`Automatic Page Creation </pages/automatic-page-creation/index>`
-+ **Yammer Integration**: When Yammer Integration is setup, a post will be created in the selected Yammer community whenever a new page, matching the selected criteria, is created. The comments and likes section will also be synced between the page in Omnia and the post in Yammer. See below for more information.
++ **Yammer Integration**: When Yammer Integration is setup, a post will be created in the selected Yammer community whenever a new page, matching the selected criteria, is created. See below for more information.
 + **Enable Approval**: If Approval should be needed for publication of pages (new pages and updates), enable this. If not enabled, editors can publish themselves. See more info about Approval settings below.
 + **Enable Activity Tracking**: For a Community, Activity Tracking can be activated. See the heading *Settings for Activity Points* on this page, for more information: :doc:`Setting up a Community </using-communities/settings/index>` 
 + **Reset notification when page is modified**: This setting defines when a notification that a page is new should be shown for users, for example in the Notification Panel. Normally it's only when the page is created, not when it's updated. If this option is activated the page is considered to be new every time it's updated and a new version is published. Therefore it's probably more relevant for pages in Communities than for Publishing Pages.
@@ -76,7 +76,7 @@ Don't forget to save your changes.
 
 Setup Yammer integration for the Page Collection
 --------------------------------------------------
-The Yammer integration you can set up here is a one way integration; from Omnia to Yammer. A prerequisite is that the Feature "Yammer Integration" is activated in Omnia Admin (Tenant levele).
+The Yammer integration you can set up here is a one way integration; from Omnia to Yammer. A prerequisite is that the Feature "Yammer Integration" is activated in Omnia Admin (Tenant level).
 
 To set up Yammer integration, do the following:
 
@@ -107,7 +107,7 @@ To set up rules, do the following:
 
 By using settings in the Page Likes and Comments block, you can set up a two way Yammer integration. Note that you must set up the integration here first.
 
-For more information, see: :doc:`The Page Likas and Comments block </blocks/page-likes-and-comments/index>`
+For more information, see: :doc:`The Page Likes and Comments block </blocks/page-likes-and-comments/index>`
 
 Allow invitation of co-authors
 ------------------------------------
