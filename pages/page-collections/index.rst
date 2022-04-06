@@ -76,6 +76,8 @@ Don't forget to save your changes.
 
 Setup Yammer integration for the Page Collection
 --------------------------------------------------
+The Yammer integration you can set up here is a one way integration; from Omnia to Yammer. A prerequisite is that the Feature "Yammer Integration" is activated in Omnia Admin (Tenant levele).
+
 To set up Yammer integration, do the following:
 
 1. Select "Edit" to edit the settings.
@@ -102,6 +104,10 @@ To set up rules, do the following:
 .. image:: yammer-integration-property.png
 
 4. Add settings for that property as needed.
+
+By using settings in the Page Likes and Comments block, you can set up a two way Yammer integration. Note that you must set up the integration here first.
+
+For more information, see: :doc:`The Page Likas and Comments block </blocks/page-likes-and-comments/index>`
 
 Allow invitation of co-authors
 ------------------------------------
