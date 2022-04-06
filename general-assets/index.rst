@@ -14,3 +14,4 @@ In this part of the documentation you will find information about general assets
    page-picker/index
    rtf-editor/index
    share-document/index
+   using-anchors/index
