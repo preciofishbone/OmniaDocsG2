@@ -19,7 +19,7 @@ The following settings are available:
 
 For information on how to use anchors, see: :doc:`Using anchors </general-assets/using-anchors/index>`
 
-**Note!** When linking to an anchor you must always start bt selecting the page the anchor is on.
+**Note!** When linking to an anchor you must always start by selecting the page the anchor is on.
 
 Here are some examples of Font Awesome icons:
 
