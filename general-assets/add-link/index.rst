@@ -17,7 +17,9 @@ The following settings are available:
 + **Open in new window**: If the link should be opened in a new window, select this option. If not selected the link opens in the' same window.
 + **Icon**: An Icon will be shown for each link. If you select "Automatic" the system will select the icon. Choosing "Built-in" you can select an icon from either "Font Awesome", "Microsoft" or "Flags", see below. If you select "Custom" you can use any image as an icon.
 
-For information on how to add anchors to a text in Omnia, see the heading "Add an anchor (bookmark)" on this page: :doc:`Editing text with the RTF Editor </general-assets/rtf-editor/index>`
+For information on how to use anchors, see: :doc:`Using anchors </general-assets/using-anchors/index>`
+
+**Note!** When linking to an anchor you must always start bt selecting the page the anchor is on.
 
 Here are some examples of Font Awesome icons:
 
