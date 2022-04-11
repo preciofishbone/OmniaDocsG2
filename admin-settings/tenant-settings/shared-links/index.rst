@@ -21,13 +21,6 @@ For more information about how to use My Links, see: :doc:`My Links</user-option
 
 Settings
 **********
-The following settings are available:
-
-.. image:: shared-links-admin-settings2.png
-
-Shared links
------------------
-
 In the list of Shared Links, click the pen to edit a link or the dust bin to delete a link.
 
 .. image:: shared-links-edit-new2.png
@@ -44,19 +37,19 @@ Do the following:
 
 2. Set the following:
 
-.. image:: shared-links-settings4.png
+.. image:: shared-links-settings5.png
 
 (Not all options are shown in the image.)
 
-+ **Title**: The title is shown as the clickable text for the link. If you use more than one language in the tenant you can add a title in each language. Note that you must always add a title in the default langauge, other languages are optional.
++ **Title**: The title is shown as the clickable text for the link. If you use more than one language in the tenant you can add a title in each language. Note that you must always add a title in the default langauge, other languages are optional. Click the flag to change language.
 + **Url**: The url to go to when the user clicks the link.
 + **Category**: Links that are the same category will automatically be sorted together when the user chooses to display the categories. (in the My Links example above, the links are sorted by Category).
-+ **Information**: This field can be used for additional information about the link. If you enter something here, an information icon is shown next to the link. Users can click the icon to read the information. Not mandatory. If you use more than on language in the tenant you can add the information in each language. Note that you must always add information in the default langauge, other languages are optional.
++ **Information**: This field can be used for additional information about the link. If you enter something here, an information icon is shown next to the link. Users can click the icon to read the information. Not mandatory. If you use more than on language in the tenant you can add the information in each language. Click the flag to change language.
 + **Open in New Window**: Select to open the url in a new browser window. Normally a good idea for external links.
 + **Mandatory**: If selected, the link is always shown for all users (or the limited set of users, if targeted), and can not be deselected.
-+ **Icon Type**: An icon is always shown for a link. If you would like another icon for this link, select the set of Icons here: "Font Awesome", "Microsoft" or "Custom". When selecting "Custom" you can choose any image as the Icon.
-+ **Icon**: When you have select Icon Type, use this list to select the icon. If you select "Custom", this list is not shown. Instead a "Url" field is shown, where you enter the Url for the image.
-+ **Icon Color**: You can set a Custom Color for the icon, if you wish. 
++ **Icon Type**: An icon is always shown for a link. If you would like another icon for this link, select the set of Icons here: "Font Awesome", "Microsoft" or "Custom". When selecting "Custom" you can choose any image as the Icon, using the Media Picker. For more information, see: :doc:`Media Picker </general-assets/media-picker/index>`
++ **Icon**: When you have select Icon Type, use this list to select the icon. If you selected "Custom", an ADD ICON button is shown instead. Note the icon preview under the color settings.
++ **Icon Color**: You can set a Custom Color for the icon, if you wish. You can't select color for a Custom icon.
 + **Icon Background Color**: Set the background color for the icon here. If note set, default icon background color is used.
 + **Targeting Filter**: Use these settings for targeting, for the link. See below for instructions.
 
@@ -92,7 +85,7 @@ Permissions for Shared Links
 *****************************
 Shared Links has a seperate Permissions setting, so any user can be set as a Shared Links administrator. This includes external users that has been invited in the Azure AD, meaning they can log in with their own Microsoft 365 account. 
 
-For more information about pemrissions, see: :doc:`Permissions for the Tenant </admin-settings/tenant-settings/permissions/index>`
+For more information about permissions, see: :doc:`Permissions for the Tenant </admin-settings/tenant-settings/permissions/index>`
 
 Note that Tenant Administrators always can work with Shared Links.
 

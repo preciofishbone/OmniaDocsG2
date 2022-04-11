@@ -25,6 +25,8 @@ All Omnia system labels are now shown in the selected language.
 
 The setting is saved automatically and is valid over sessions, meaning til language is set next time.
 
+Note that "Default M365 Language" is actually "User Profile Language". (Label will be updated in next version of Omnia).
+
 Do you need to work with different language versions of pages? See this documentation page for more information: :doc:`Language versions of a page </pages/language-versions-of-a-page/index>`
 
 

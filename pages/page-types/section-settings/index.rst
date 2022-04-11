@@ -44,6 +44,16 @@ By clicking the pen, the following can be set for a tab:
 + **Tooltip**: If a tooltip should be shwon for the tab, add it here.
 + **Icon**: First select the "Icon Type" and then select the icon in the list below, if an icon should be shown. (If no icon should be shown, just don't select an icon, it doesn't matter that an Icon Type is selected.)
 
+Set a custom anchor name
+---------------------------
+Anchor names are created automatically for sections with type Tab, Accordion and Stepper, based on the Label. When you have entered a label, you can set a custom anchor name, if needed.
+
+For a section with tabs you can set a custom anchor name for each tab:
+
+.. image:: custom-anchor-name.png
+
+See this page for more information on how to use anchors: 
+
 General settings for an Accordion section
 --------------------------------------------
 For an Accordion section, the following can be set:
@@ -60,6 +70,8 @@ By clicking the pen, the following can be set for a panel:
 + **Tooltip**: If a tooltip should be shwon for the panel, add it here.
 + **Icon**: First select the "Icon Type" and then select the icon in the list below, if an icon should be shown. (If no icon should be shown, just don't select an icon, it doesn't matter that an Icon Type is selected.)
 
+If needed, you can set a custom anchor name for each accordion post, the same way as for a section with tabs, see above.
+
 General settings for a Stepper section
 --------------------------------------------
 For a Stepper section, the following can be set:
@@ -72,6 +84,8 @@ For a Stepper section, the following can be set:
 + **Allow user to jump to any step**: If this option is selected, users can go to any step ny clicking the label, if not, users can only go to the next or the previous step.
 + **Scroll to top on Previous/Next**: If this option is selected, the step page is always shown from the top, when users goes to next or previous. If not selected, no scroll is made.
 + **ADD STEP**: Ta add a new step, click here. To add or edit the label for a step, click the pen. To delete a step, click the dust bin. 
+
+If needed, you can set a custom anchor name for each step in the stepper, the same way as for a section with tabs, see above.
 
 Spacing
 ***********

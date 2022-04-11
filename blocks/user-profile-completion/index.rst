@@ -1,11 +1,7 @@
 Profile Completion
 ==========================
 
-Use this block to show the logged in user how far he or she has come towards completion of the profile. Here's an example:
-
-.. image:: user-profile-block-new.png
-
-The user can click STRENGTHEN PROFILE to add additional information.
+Use this block to show the logged in user how far he or she has come towards completion of the profile. 
 
 Settings
 ***********************

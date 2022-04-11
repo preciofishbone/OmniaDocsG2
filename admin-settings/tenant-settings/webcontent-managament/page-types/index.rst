@@ -11,7 +11,7 @@ You work with the Tenant Page Types exactly the same way as the Local Page Types
 
 The "only" difference is that the Tenant Page Types are created and edited here, they are not visible in the list "Page Types" in the Publishing App, but are available when an editor creates a new page.
 
-**A tip!** If you go to a suitable page before going to Omnia Admin, the Preview can show som contents when you edit Tenant Page Types.
+**A tip!** If you go to a suitable page before going to Omnia Admin, the Preview can show some content when you edit Tenant Page Types.
 
 Activating Tenant Page Types
 ******************************
@@ -37,7 +37,7 @@ All pages using the promoted Page Type will continue using it, but the Page Type
 
 Archiving a Tenant Page Type
 ******************************
-You can archive a Tenant Page Type the same way as Page Types in the Publishing App:
+You can archive a Tenant Page Type the same way as other Page Types in the Publishing App:
 
 .. image:: WCM-page-types-archive-menu.png
 

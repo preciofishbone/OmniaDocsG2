@@ -23,7 +23,7 @@
 
 .. image:: publishingapptemplate.png
 
-13. Add the feature "Show Business Profile Header" to the template.
+13. Add the features "Show Business Profile Header" & "Publishing App Infrastructure" to the template.
 14. Click on "Publishing" in the left-hand navigation.
 15. Create a new Publishing App based on the newly created template.
 

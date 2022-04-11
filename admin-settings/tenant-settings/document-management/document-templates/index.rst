@@ -35,9 +35,9 @@ To add a category, do the following:
 
 2. Type a Title for the new category and save.
 
-.. image:: dm-category-save.png
+.. image:: dm-category-save-new.png
 
-You can add titles for any of the languages use in the tenant. A title for the default language is mandatory.
+You can add titles for any of the languages use in the tenant (click the flag to change language). A title for the default language is mandatory.
 
 Adding a new template
 **********************
@@ -52,6 +52,8 @@ Set the following:
 .. image:: dm-template-new3-new2.png
 
 2. Select to add a template for controlled documents or for normal documents.
+
+See below for the rest of the steps.
 
 Template for normal documents
 ******************************

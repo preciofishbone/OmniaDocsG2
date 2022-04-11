@@ -29,11 +29,15 @@ Settings
 **********
 The following settings are available:
 
-.. image:: page-feedback-settings-new2.png
+.. image:: page-feedback-settings-new3.png
 
 + **Title**: If a Title should be shown for the block, add it here.
-+ **Enable rich text**: To enable rich text, select this options. Some formatting options will then be available for the user when typing a feedback message, see above.
++ **Enable rich text**: This label is outdated. What you can do here is to set the text formatting options; Plain Text - meaning no formattings options, or to enable the Limited Rich Text Editor or the (full) Rich Text Editor. 
 + **Padding**: Add some padding if needed.
+
+The options available in the Rich Text Editor and the Limited Rich Text are set up in Omnia Admin, see: :doc:`RTF Editor Settings </admin-settings/tenant-settings/settings/rtf-editor/index>`
+
+For more information about how to use either Rich Text Editor, see: :doc:`Editing text with the RTF Editor </general-assets/rtf-editor/index>`
 
 Layout and Write
 *********************
@@ -50,12 +54,5 @@ The Page Contact property (which can be named something else) must be selected f
 "Receive e-mail" must be selected for the Page Contact property settings.
 
 .. image:: page-contact-page-type-property-new2.png
-
-
-
-
-
-
-
 
 

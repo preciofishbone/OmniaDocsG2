@@ -1,9 +1,9 @@
 Enterprise Glossary
 ====================
 
-Enterprise Glossary can be used for taxonomies/terms to edit look and feel and/or to connect the term to a page for more information. Terms can even be created specifically to provide more information where it's needed. 
+Enterprise Glossary can be used for taxonomies/terms, to edit look and feel and/or to connect the term to a page for more information. Terms can even be created specifically to provide more information where it's needed. 
 
-Also, if you plan to use the new block "Taxonomy navigation" you need to set up the taxonomies to be used for navigation here.
+Also, if you plan to use the block "Taxonomy navigation" you need to set up the taxonomies to be used for navigation here.
 
 Here's an example of a People Rollup displaying three properties:
 
@@ -13,7 +13,7 @@ The location and organization properties can be clicked for more information, in
 
 .. image:: glossary-example-info.png
 
-In this example, there's a READ MORE link that links to the IT Helpdesk organization page.
+In this example, there's a READ MORE link that can be used to go to the IT Helpdesk organization page.
 
 Settings
 ****************
@@ -59,7 +59,7 @@ To connect to an information page, do the following:
 + **Image Ratio**: Select image ratio to be shown in the information dialog.
 + **Name**: Select the property for the page name to be shown in the information dialog (often Title).
 + **Summary**: There's two possible content fields in the information dialog. You can show one or both. Here you can decide to show the page summary, by selecting the property that holds that kind of information.
-+ **Description**: You can also choose to show text from a description field, that usually holds more informationy. If you don't want to use a Read More link, you may want to show more information than just the summary. If you want to show a description, select the property here.
++ **Description**: You can also choose to show text from a description field, that usually holds more information. If you don't want to use a Read More link, you may want to show more information than just the summary. If you want to show a description, select the property here.
 + **Person**: Select property for the name to be shown in the information dialog (see below).
 
 See below for an example of information connected to a term. 

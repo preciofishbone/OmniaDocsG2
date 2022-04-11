@@ -63,9 +63,49 @@ If you wish to implement tags in your pages, you can simply do so by adding the 
 
 .. image:: Enterprise-15.png 
 
+.. image:: Enterprise-16.png
+
 And then in the page rollup where these pages will be displayed, make sure to select “Organization unit” as the term property:
   
-.. image:: Enterprise-16.png 
+.. image:: Enterprise-17.png 
 
 And you are all set!
+
+Implementation example - how to create an organization chart in a mega menu
+******************************************************************************
+Here's an example of how an organization chart could be created, based on Enterpris Glossary.
+
+**Step 1**: Once you’ve completely finished setting up your tags, go to Omnia admin, then
+Workspace and Navigation bar:
+
+.. image:: Enterprise-21.png 
+
+Then click the plus icon and create a new layout:
+
+.. image:: Enterprise-22.png 
+
+**Step 2**: in your new layout, add the component “Taxonomy Navigation”, with our Taxonomy
+selected and term selected but with no value:
+
+.. image:: Enterprise-23.png 
+
+Then in the View section, make sure to select the following view settings in Default settings:
+
+.. image:: Enterprise-24.png
+
+.. image:: Enterprise-25.png 
+
+Then the following in Current settings:
+
+.. image:: Enterprise-26.png
+
+.. image:: Enterprise-27.png 
+
+The resulting organization chart could look something like this:
+
+.. image:: Enterprise-18.png
+
+.. image:: Enterprise-19.png 
+
+.. image:: Enterprise-20.png
 

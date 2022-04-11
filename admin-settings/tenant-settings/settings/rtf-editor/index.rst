@@ -11,7 +11,7 @@ Both lists are handled the same way.
 
 1. Select and deselect options to be available in the editor and save when you're done.
 
-.. image:: rtf-editor-options-new.png
+.. image:: rtf-editor-options-new2.png
 
 (All options are not shown in the image above, there's a lot more.)
 
@@ -21,7 +21,7 @@ Most options should be self explanatory, but some options may need a description
 
 Activate machine translation
 -------------------------------
-Text Translator is the option for Machine Translations editors can use (Available at the bottom of the list, not activated in the image above). **Note!** Machine translation is not available in Omnia on-prem.
+Text Translator is the option for Machine Translations editors can use. **Note!** Machine translation is not available in Omnia on-prem.
 
 Make the RTF editor Enterprise Glossary aware
 ------------------------------------------------
@@ -49,10 +49,10 @@ Select the styles that should be available in the list.
 
 .. image:: tenant-settings-styles-select.png
 
-**Note!** You can use Text Styles to configure styles. The enabled styles from Text Styles are those shown in the above list. See below for more information on Text Styles.
+**Note!** You can use Text Styles (option in the Settings menu) to configure styles. The enabled styles from Text Styles are those shown in the above list. 
 
 Reorder the options
 ---------------------
 If you would like to reorder the options in the editor, use these icons to drag and drop:
 
-.. image:: rtf-editor-reorder-new.png
+.. image:: rtf-editor-reorder-new2.png

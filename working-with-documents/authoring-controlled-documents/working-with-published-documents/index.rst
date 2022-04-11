@@ -103,7 +103,7 @@ If the URL is correct the site title is shown in the second field - Site Title.
 
 Unpublish
 **********
-If needed, a published document can be unpublished. The document will then not be available for reading. The document is also removed from the Controlled Documents library and a copy is placed in the archive.
+If needed, a published document can be unpublished. The document is then removed from the Controlled Documents library. If an archive for documents is set up, the document is placed in the archive. If a document archive is not set up, the document is simply deleted.
 
 **Note!**
 A document can't be unpublished if a draft has been created for that document. The draft must first be deleted.

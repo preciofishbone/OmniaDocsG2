@@ -9,9 +9,11 @@ Publishing Channels can be used in page rollups to show news articles and pages 
 
 Here, you administer the channels.
 
-.. image:: channels-list.png
+.. image:: channels-list-new.png
 
 Click the pen to edit a channel, the dust bin to delete it. When you edit a channel, all settings used when creating a new channel can be edited, see below.
+
+If any publishing to a channel that requires approval has been made, it's noted in the column "Waiting for Approval". The link there can then be clicked to handle the approval, see below.
 
 Create a new channel
 **********************
@@ -19,20 +21,21 @@ Here's how to create a new channel:
 
 1. Click the plus.
 
-.. image:: channels-clickplus.png
+.. image:: channels-clickplus-new.png
 
 2. Use the following settings:
 
-.. image:: channels-settings-new.png
+.. image:: channels-settings-new2.png
 
 + **Title**: Add a title in any or several of the tenant langauges. Click the flag to change language.
 + **Description**: Add a description of the purpose of the channel in any or several of the tenant langauges. Click the flag to change language.
-+ **Url**: 
-+ **ADD IMAGE**: To add an image to be shown for the channel, click here and use the Media Picker to upload the image. When an image is selected you delete it or edit it by clicking the pen. For more information about the Media Picker, see: :doc:`The Media Picker </general-assets/media-picker/index>`
++ **Url**: Here you can add a Url to the channel's home page, if there is one. The home page can for example contain more information about the channel, a rollup of all pages published to the channel and so on. 
++ **ADD IMAGE**: To add an image to be shown for the channel, click here and use the Media Picker to upload the image. When an image is selected you can delete it, or edit it by clicking the pen. For more information about the Media Picker, see: :doc:`The Media Picker </general-assets/media-picker/index>`
 + **Owner**: One or more owners of the channel must be added. This is just information about who is responsible. The name/names will be shown when channels are listed.
 + **Administrator**: One or more administrators of the channel must be added. Administrators approve or reject publication to the channel. An administrator also has Publisher permissions to the channel.
 + **Publisher**: One or more publishers can be added. This is not mandatory. The colleagues you add here can publish to the channel without approval.
-+ **Targeting filter**: This is a bit different compared to targeting elsewhere in Omnia. Targeting for the channel can be used to add a mandatory subscription to the channel for colleagues or groups.
++ **Force channel description to target group**: Targeting for the channel can be used to add a mandatory subscription to the channel for colleagues or groups. If you want to do that, select this option.
++ **Targeting filter**: Shown when the option above is selected. Targeting settings are done the same way as in other places in Omnia, but the result is different. For the colleagues or groups targeted, a mandatory subscription to the channel is added.
 
 3. Save when you're done.
 
