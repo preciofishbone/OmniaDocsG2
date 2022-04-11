@@ -27,10 +27,12 @@ Here you can set the following:
 + **Pick in Write Mode**: Available when Pick Pages is selected. Select this option if editors should be able to pick pages in Write mode. If not selected, Design mode has to be used.
 + **ADD PAGE**: When you have selected Pick Pages, you can pick some pages to always be shown. Click this option and use the Page Picker. See this page for more information: :doc:`Page Picker </general-assets/page-picker/index>`
 + **Use Query Builder**: If you want to use the query builder to set which pages should be available here, select this option.
-+ **Scope**: When you have chosen to use the Query Builder, select scope for the block; Publishing Apps, Page Collections, Navigation path or Channels. Then open the list below and select Publishing Apps/Page Collections. Regarding Navigation path, use it to select a node to get the pages from (in Omnia 6.8 and later it can also be the Current Node). When you have selected start node you can choose navigation depth. There's also a view available, specifically for Navigation Path - Navigation View. Select it under Display.
++ **Scope**: When you have chosen to use the Query Builder, select scope for the block; Publishing Apps, Page Collections, Navigation path or Channels. Then open the list below and select Publishing Apps/Page Collections. Regarding Navigation path, use it to select a node to get the pages from (in Omnia 6.8 and later it can also be the Current Node). When you have selected start node you can choose navigation depth. There's also a view available, specifically for Navigation Path - Navigation View. Select it under Display. In Omnia 6.10 and later there are new Scope options, see below.
 + **Current User Subscription**: Available for Scope Channels. Select this if only the pages that the logged in users subscribes to should be displayed.
 + **Custom Query**: Available for Scope Channels. Use this to select one or more channels to rollup pages from. Note that a channel can be targeted to just certain colleagues or groups. See example below.
 + **Exclude current page**: Available when you have chosen scope for the Query Builder. The default setting is to exclude the current page, but if you, for some reason, would like to include the current page, uncheck this option.
++ **Exclude variations**: In Omnia 6.10 and later you can exclude varations from the query by selecting this option. Not available for Navigation path.
++ **Status**: By using this option you can create rollups for pages with the status Never published, Published or Any status. Not available for Navigation path.
 + **Trim duplicates**: Available for the Query Builder. If more than one Page Rollup block is added to a page, this option can be used to handle duplicates between the blocks. When the option is selected, you can enter a number indicating the priority for duplicates, for this block. If you set "1" for a block it means this block has priority showing a post that would have been a duplicate. 
 + **Query Item Limit**: Available for the Query Builder. Use the slider, or type the number (1-99) to set the number of pages that should be retrieved to make sure all duplicates are found. You should not set this number higher than you really need, as higher numbers may have an impact on performance. Note that when you change the number, "Max Display Limit" is also changed, see below.
 + **Page Size**: Available for Query Builder. Use the slider, or type the number (1-99) to set the number of items (pages) that should be displayed on each "page" of the list. Also see under *Display* below for additional settings for the list. 
@@ -52,8 +54,24 @@ Here's an example of a custom query for channels):
 
 .. image:: page-rollup-channel-example.png
 
-More in Scope Navigation Path
-------------------------------
+New Scope options and more in Omnia 6.10
+-------------------------------------------
+In Omnia 6.10 it is possible to create querys spanning the whole tenant, a business profile, a. For Scope, these options are available:
+
+.. image:: omnia-610-scope.png
+
+Page statstics is built into the Page Rollup, making it possible to create rollups for popular pages, underused pages and more. 
+
+In Omnia 6.10 and later, the Sort options contains, for example, the following:
+
+.. image:: omnia-610-sort.png
+
+The Page Statistics time period can be limited to one week from today, two weeks from today or one month from today. This option is available under Social Period:
+
+.. image:: omnia-610-social.png
+
+More on Scope Navigation Path
+---------------------------page statstics is built into the Page Rollup, making it possible to create rollups for ---
 When you're creating a Page Type, selecting Current Node for a Navigation Path can be very useful. Wherever that Page Type is used, the view (Navigation View) always starts at the current node for that page.
 
 Filter on a specific variation
@@ -79,20 +97,27 @@ The following lists all available display settings, shown in different order for
 + **Content Image**: Select image to display, if any. Available for dialog display only.
 + **Create button for page collection**: When you have selected "Show create button", this optipon is shown. Use it to select in which page collection the new page will be created.
 + **Date**: Select the property that contains the date for the item(s) to display.
++ **Default Calendar Type**: Available for Calendar rollup, in Omnia 6.10 and later. Can be Month, Week or Day.
++ **Default time**:  Available for Calendar rollup, in Omnia 6.10 and later. 
 + **Delay between slides**: Set the time between slides in milli seconds.
++ **Event color**:  Available for Calendar rollup, in Omnia 6.10 and later. Use it to set specific color for events in the calendar.
++ **Exclude variation url**: In Omnia 6.10 and later, this option is available. Available for all views except Calendar.
++ **Enable Calendar Type Dropdown**: Available for Calendar rollup, in Omnia 6.10 and later. Makesd it possible for users to select Month, Week or Day.
 + **Hide block when no data**: Select this option if the block should be hidden when there's nothing to display.
 + **Hide if read**: Select this option to hide all pages the logged in user has visited. This affects all pages, including news.
 + **Highlight non-read**: This option makes sure non-read pages are highlighted. Default=selected. Deselect if you don't want that.
 + **Image**: Select the property that contains the image for the item(s) to display.
 + **Image Ratio**: Select ratio for the image; Landscape, Square or Wide. 
 + **Image x and y**: Select the image format here. Available for "Single Item" only.
++ **Iclude time**:  Available for Calendar rollup, in Omnia 6.10 and later. (A description will be added later).
 + **Max Display Limit**: To limit the number of items being displayed, add a fixed number here. Note that if combined with "No paging", the number of items you enter here are the only items users can access from the list. Also note that if you change this value, the "Query Item Limit" is also changed, see above.
 + **Link label**: Add the text to be shown for the link here. Available only if "Show link" is selected.
 + **Link url**: Add the url to open when a user clicks the link. Available only if "Show link" is selected.
 + **Loop**: Available for Dynamic Roller. Normally a roller stops when the last post is reached (and can restart after a short while). When this option is selected, there is no "end" and the roller just keeps rolling. Important note: When Loop is selected the arrows users can use to roll "manually" are not shown.
 + **No result text**: Enter the text that will be shown if no page can be displayed.
 + **Number of slides to display**: Select number of slides, 1-12. Available for "Dynamic Roller" only.
-+ **Open link in new tab**: If the link should be opened in a new tab (as opposed to in current window or dialog), select this option. Available only if "Show link" is selected.
++ **Open in Editor**: Available in Omnia 6.10 and later, for all views except Calendar. (A description will be added soon).
++ **Open in new tab**: If the link should be opened in a new tab (as opposed to in current window or dialog), select this option. Available only if "Show link" is selected.
 + **Open page as a dialog**: If the page should be opened in a dialog instead for in a page (new or current), select this option. 
 + **Overlay**: If an overlay text should be shown on the image(s), add the text here. Available for "Roller" only.
 + **Padding**: Add some padding between the list and the block border, if needed.
@@ -102,6 +127,7 @@ The following lists all available display settings, shown in different order for
 + **Person**: This option can be used to show properties in Card view.
 + **Show create button**: To make it possible for editors to create a new page from here, select this option to add a button to the block heading, and type the name for the button. 
 + **Show Default image**: If there is no image available for a page, a placeholder image can be used. If that image should be used, select this option.
++ **Show Export to Excel**: In Omnia 6.10 and later, it's possible to make an "Export to Excel" available for users, making it possible to export a list to Excel. Available for List View only.
 + **Show Likes/Comments**: If the number of likes and comments should be displayed for the item, select this option. 
 + **Show link**: You can add a link button at the bottom of the list. The first page collection is default, but you can link to any target.
 + **Show Navigation**: If navigation icons for the users to use for rolling should be shown, select this option. Available for "Dynamic Roller" only.
@@ -169,6 +195,8 @@ Social Period
 Use these settings to decide for how long likes, comments, ratings and page feedback should be displayed here. The default setting is "No limit" but you can select one week, two weeks or one month instead.
 
 .. image:: page-rollup-settings-social-new2.png
+
+In Omnia 6.10, an additional option is availabel here: Page Statistics. Use it the set the social period for a statistics quesry.
 
 Layout and Write
 **********************
