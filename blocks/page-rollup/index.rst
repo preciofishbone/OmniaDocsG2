@@ -56,7 +56,7 @@ Here's an example of a custom query for channels):
 
 New Scope options and more in Omnia 6.10
 -------------------------------------------
-In Omnia 6.10 it is possible to create querys spanning bot just a publishing app or a page collection, but also a business profile or the whole tenant. For Scope, these options are available:
+In Omnia 6.10 it is possible to create querys spanning not just a publishing app or a page collection, but also a business profile or the whole tenant. For Scope, these options are available:
 
 .. image:: omnia-610-scope.png
 
