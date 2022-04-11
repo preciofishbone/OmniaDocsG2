@@ -1,22 +1,79 @@
+6.8.0 - DRAFT
+========================================
+(Omnia 6.8.1 / Workplace 6.8.1 / WCM 6.8.1 / MS 6.8.1)
+
+New Major Features
+**************************
+- Quick setup wizard is now available when creating new tenants.
+
+- Several enhancements to accessbility (WCAG)
+ - Improved Opacity in the breadcrumb.
+ - Better aria labels and keyboard navigation for the mobile menu.
+ - Better aria labels and keyboard navigation for the current navigation.
+ - Better aria labels and keyboard navigation for the mega menu.
+ - Logo text is now used as tooltip and alt text for the logo image.
+ 
+- Each page collection can now configure default values for its page types (#113403).
+
+New Minor Features
+**************************
+- Omnia App Permissions has been lowered.
+- Multiline text properties are now supported on Process properties. (#134554).
+- Performance improvements client side due to lazy loading of the RTF Editor. 
+- The strengthen profile button is now configurable to show or hide on the User Profile Card. 
+- Reworked settings UI for custom email providers.
+- When machine translating on a block, any language can now be selected.
+
+
+Fixes
+**************************
+- Corrected the rendering of multi day events in calendar rollup. (#134811, #129576)
+- Refiners are now reset correctly when query text is changed (#125278).
+- Improved rendering of long names in the advanced search (#133468).
+- Stability improvements to the Search settings. 
+- Display as text on the people rollup now works correctly (#135167).
+- Backspace no longer closes the FAQ block title (#135039).
+- Fixes to the click-out logic. 
+- Search now displays correct message when no search has been made (#113490).
+- People and date can now be shown individually of each other on the card view (#133331).
+- Fixed an issue with default values for Yes/No fields (#135454).
+- When searching for specific metadata in the document piccker, the title will stay searchable (#133520).
+- Stability improvements to the yammer integration.
+- Stability improvements to the anchor feature. 
+
+Also resolves (#115655, #117305, #114222, #124003, #120422)
+
+6.7.12
+========================================
+(Omnia 6.7.11 / Workplace 6.7.12 / WCM 6.7.5 / MS 6.7.3)
+
+- Fixed an issue where section headers would not correctly update on navigation.
+- Mentions in comments now works as expected. (#135776).
+- Fixed an issue with symbols in documents when converting to pdf (#135884).
+- My subscriptions in User Menu now correctly shows for all users.
+- Custom shapes in OPM now retain their size when copied (#135509).
+- Updated page rendering to better handle invalid data.
+- Performance updates to the Azure AD sync.
+
+
 6.7.9
 ========================================
 (Omnia 6.7.7 / Workplace 6.7.9 / WCM 6.7.3 / MS 6.7.1)
 
 - Fixed an issue with property templating for layouts. 
-- The announcment block now works on the workspace starpage. 
+- The announcement block now works on the workspace startpage. 
 - Ensured stability in the page rollup navigation view when used in the mega menu.
 - Fixed a page rollup rendering issue that would sometimes occur in the notification panel (#135008).
 - Fixed an issue that the tutorial tab would not load in some scenarios.
-- Added a new feature top ensure Teamwork enterprise properties (#135180).
-- Fixed an issue with MS Teams precense if it had never been used. 
-- Ensured design of the MS Teams precense in the people rollup.
+- Added a new feature to ensure Teamwork enterprise properties (#135180).
+- Fixed an issue with MS Teams presence if it had never been used. 
+- Ensured design of the MS Teams presence in the people rollup.
 - Updated the way to fetch the preview image from SharePoint image libraries (#132127).
 - Improved error handling when loading the profile card (#135494, #135607).
 - Added configuration settings for max width and max heigh for the search block in dropdown mode (#135413).
 - Added missing localization.
 - Corrected an issue that would close the Announcement comments tab unexpectedly. 
-- Changed default setting for Feedback and Promoted Results, they are now hidden by default (#135512).
-- Its now possible to schedule variations together with the default page (#134920).
+- It's now possible to schedule variations together with the default page (#134920).
 - Fixed an issue with spacing being incorrectly added to RTF (#135714, #135402).
 
 6.7.3

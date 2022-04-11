@@ -86,7 +86,9 @@ You can also export or import the Omnia clipboard to Windows clipboard, and thus
 Do the following to export objects from the Omnia clipboard:
 
 1. Select the blocks or sections you wnat to export.
-2- Click the "Export clipboard" icon.
+2. Click the "Export clipboard" icon. 
+3. To save clipboard content to a file open your favorit text editor and paste the clipboard content using Ctrl+V.
+
 
 .. image:: clipboard-export.png
 
@@ -96,6 +98,7 @@ Do the following to import objects from Windows clipboard.
 
 1. Open the Omnia clipboard.
 2. Click the "Import clipboard" icon.
+3. Paste the clipboard content exported in previous steps.
 
 .. image:: clipboard-import.png
 

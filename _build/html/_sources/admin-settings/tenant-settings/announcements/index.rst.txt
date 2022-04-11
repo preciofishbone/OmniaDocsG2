@@ -120,9 +120,9 @@ To create a new Status option, click the plus:
 
 Set the following:
 
-.. image:: add-status-settings-new.png
+.. image:: add-status-settings-new2.png
 
-1. Add a Title.
+1. Add a Title in any tenant language (click the flag to change language).
 2. Select Background Color.
 3. Select Text Color. 
 4. Click the plus to save the Status option.

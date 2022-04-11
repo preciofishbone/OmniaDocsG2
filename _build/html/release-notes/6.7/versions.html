@@ -7,7 +7,7 @@
   
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   
-  <title>6.7.9 &mdash; Omnia  documentation</title>
+  <title>6.8.0 - DRAFT &mdash; Omnia  documentation</title>
   
 
   
@@ -103,12 +103,15 @@
 <li class="toctree-l1"><a class="reference internal" href="../../using-omnia-feed/index.html">Using Omnia Feed</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../user-options/index.html">User options</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../setup/index.html">Setup</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../best-practice/index.html">Best Practice</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../accessability/index.html">Accessibility</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../cookies-consent-information/index.html">Cookies Consent information</a></li>
 <li class="toctree-l1 current"><a class="reference internal" href="../index.html">Release Notes</a><ul class="current">
 <li class="toctree-l2 current"><a class="reference internal" href="index.html">Release 6.7</a><ul class="current">
-<li class="toctree-l3 current"><a class="current reference internal" href="#">6.7.9</a></li>
-<li class="toctree-l3"><a class="reference internal" href="#id2">6.7.3</a></li>
+<li class="toctree-l3 current"><a class="current reference internal" href="#">6.8.0 - DRAFT</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#id1">6.7.12</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#id2">6.7.9</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#id3">6.7.3</a></li>
 </ul>
 </li>
 <li class="toctree-l2"><a class="reference internal" href="../6.5/index.html">Release 6.5</a></li>
@@ -175,7 +178,7 @@
         
           <li><a href="index.html">Release 6.7</a> &raquo;</li>
         
-      <li>6.7.9</li>
+      <li>6.8.0 - DRAFT</li>
     
     
       <li class="wy-breadcrumbs-aside">
@@ -194,33 +197,98 @@
           <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
            <div itemprop="articleBody">
             
-  <div class="section" id="id1">
-<h1>6.7.9<a class="headerlink" href="#id1" title="Permalink to this headline">¶</a></h1>
+  <div class="section" id="draft">
+<h1>6.8.0 - DRAFT<a class="headerlink" href="#draft" title="Permalink to this headline">¶</a></h1>
+<p>(Omnia 6.8.1 / Workplace 6.8.1 / WCM 6.8.1 / MS 6.8.1)</p>
+<div class="section" id="new-major-features">
+<h2>New Major Features<a class="headerlink" href="#new-major-features" title="Permalink to this headline">¶</a></h2>
+<ul class="simple">
+<li><p>Quick setup wizard is now available when creating new tenants.</p></li>
+<li><p>Several enhancements to accessbility (WCAG)</p></li>
+</ul>
+<blockquote>
+<div><ul class="simple">
+<li><p>Improved Opacity in the breadcrumb.</p></li>
+<li><p>Better aria labels and keyboard navigation for the mobile menu.</p></li>
+<li><p>Better aria labels and keyboard navigation for the current navigation.</p></li>
+<li><p>Better aria labels and keyboard navigation for the mega menu.</p></li>
+<li><p>Logo text is now used as tooltip and alt text for the logo image.</p></li>
+</ul>
+</div></blockquote>
+<ul class="simple">
+<li><p>Each page collection can now configure default values for its page types (#113403).</p></li>
+</ul>
+</div>
+<div class="section" id="new-minor-features">
+<h2>New Minor Features<a class="headerlink" href="#new-minor-features" title="Permalink to this headline">¶</a></h2>
+<ul class="simple">
+<li><p>Omnia App Permissions has been lowered.</p></li>
+<li><p>Multiline text properties are now supported on Process properties. (#134554).</p></li>
+<li><p>Performance improvements client side due to lazy loading of the RTF Editor.</p></li>
+<li><p>The strengthen profile button is now configurable to show or hide on the User Profile Card.</p></li>
+<li><p>Reworked settings UI for custom email providers.</p></li>
+<li><p>When machine translating on a block, any language can now be selected.</p></li>
+</ul>
+</div>
+<div class="section" id="fixes">
+<h2>Fixes<a class="headerlink" href="#fixes" title="Permalink to this headline">¶</a></h2>
+<ul class="simple">
+<li><p>Corrected the rendering of multi day events in calendar rollup. (#134811, #129576)</p></li>
+<li><p>Refiners are now reset correctly when query text is changed (#125278).</p></li>
+<li><p>Improved rendering of long names in the advanced search (#133468).</p></li>
+<li><p>Stability improvements to the Search settings.</p></li>
+<li><p>Display as text on the people rollup now works correctly (#135167).</p></li>
+<li><p>Backspace no longer closes the FAQ block title (#135039).</p></li>
+<li><p>Fixes to the click-out logic.</p></li>
+<li><p>Search now displays correct message when no search has been made (#113490).</p></li>
+<li><p>People and date can now be shown individually of each other on the card view (#133331).</p></li>
+<li><p>Fixed an issue with default values for Yes/No fields (#135454).</p></li>
+<li><p>When searching for specific metadata in the document piccker, the title will stay searchable (#133520).</p></li>
+<li><p>Stability improvements to the yammer integration.</p></li>
+<li><p>Stability improvements to the anchor feature.</p></li>
+</ul>
+<p>Also resolves (#115655, #117305, #114222, #124003, #120422)</p>
+</div>
+</div>
+<div class="section" id="id1">
+<h1>6.7.12<a class="headerlink" href="#id1" title="Permalink to this headline">¶</a></h1>
+<p>(Omnia 6.7.11 / Workplace 6.7.12 / WCM 6.7.5 / MS 6.7.3)</p>
+<ul class="simple">
+<li><p>Fixed an issue where section headers would not correctly update on navigation.</p></li>
+<li><p>Mentions in comments now works as expected. (#135776).</p></li>
+<li><p>Fixed an issue with symbols in documents when converting to pdf (#135884).</p></li>
+<li><p>My subscriptions in User Menu now correctly shows for all users.</p></li>
+<li><p>Custom shapes in OPM now retain their size when copied (#135509).</p></li>
+<li><p>Updated page rendering to better handle invalid data.</p></li>
+<li><p>Performance updates to the Azure AD sync.</p></li>
+</ul>
+</div>
+<div class="section" id="id2">
+<h1>6.7.9<a class="headerlink" href="#id2" title="Permalink to this headline">¶</a></h1>
 <p>(Omnia 6.7.7 / Workplace 6.7.9 / WCM 6.7.3 / MS 6.7.1)</p>
 <ul class="simple">
 <li><p>Fixed an issue with property templating for layouts.</p></li>
-<li><p>The announcment block now works on the workspace starpage.</p></li>
+<li><p>The announcement block now works on the workspace startpage.</p></li>
 <li><p>Ensured stability in the page rollup navigation view when used in the mega menu.</p></li>
 <li><p>Fixed a page rollup rendering issue that would sometimes occur in the notification panel (#135008).</p></li>
 <li><p>Fixed an issue that the tutorial tab would not load in some scenarios.</p></li>
-<li><p>Added a new feature top ensure Teamwork enterprise properties (#135180).</p></li>
-<li><p>Fixed an issue with MS Teams precense if it had never been used.</p></li>
-<li><p>Ensured design of the MS Teams precense in the people rollup.</p></li>
+<li><p>Added a new feature to ensure Teamwork enterprise properties (#135180).</p></li>
+<li><p>Fixed an issue with MS Teams presence if it had never been used.</p></li>
+<li><p>Ensured design of the MS Teams presence in the people rollup.</p></li>
 <li><p>Updated the way to fetch the preview image from SharePoint image libraries (#132127).</p></li>
 <li><p>Improved error handling when loading the profile card (#135494, #135607).</p></li>
 <li><p>Added configuration settings for max width and max heigh for the search block in dropdown mode (#135413).</p></li>
 <li><p>Added missing localization.</p></li>
 <li><p>Corrected an issue that would close the Announcement comments tab unexpectedly.</p></li>
-<li><p>Changed default setting for Feedback and Promoted Results, they are now hidden by default (#135512).</p></li>
-<li><p>Its now possible to schedule variations together with the default page (#134920).</p></li>
+<li><p>It’s now possible to schedule variations together with the default page (#134920).</p></li>
 <li><p>Fixed an issue with spacing being incorrectly added to RTF (#135714, #135402).</p></li>
 </ul>
 </div>
-<div class="section" id="id2">
-<h1>6.7.3<a class="headerlink" href="#id2" title="Permalink to this headline">¶</a></h1>
+<div class="section" id="id3">
+<h1>6.7.3<a class="headerlink" href="#id3" title="Permalink to this headline">¶</a></h1>
 <p>(Omnia 6.7.0 / Workplace 6.7.3 / WCM 6.7.1 / MS 6.7.0)</p>
-<div class="section" id="new-major-features">
-<h2>New Major Features<a class="headerlink" href="#new-major-features" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="id4">
+<h2>New Major Features<a class="headerlink" href="#id4" title="Permalink to this headline">¶</a></h2>
 <ul class="simple">
 <li><p>Copy blocks and sections across pages (#129970).</p></li>
 <li><p>Favicon is now configurable per business profile (#126515).</p></li>
@@ -239,8 +307,8 @@
 <li><p>Conditional Consent</p></li>
 </ul>
 </div>
-<div class="section" id="new-minor-features">
-<h2>New Minor Features<a class="headerlink" href="#new-minor-features" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="id5">
+<h2>New Minor Features<a class="headerlink" href="#id5" title="Permalink to this headline">¶</a></h2>
 <ul class="simple">
 <li><p>Its now possible to add a link on an image in an RTF field (#123318, #125364).</p></li>
 <li><p>Image descriptions are now rendered as both alt text and title text on the img element (#131343).</p></li>
@@ -270,8 +338,8 @@
 <li><p>The RTF editor can now be configured to suggest terms when writing.</p></li>
 </ul>
 </div>
-<div class="section" id="fixes">
-<h2>Fixes<a class="headerlink" href="#fixes" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="id6">
+<h2>Fixes<a class="headerlink" href="#id6" title="Permalink to this headline">¶</a></h2>
 <ul class="simple">
 <li><p>Page feedback now correctly supports, rich text, limited rich text and plain text (#131183, #131286, #131302, #131487)</p></li>
 <li><p>Its now possible to mention people both on name and email, a scroll has been added to the mention list, and the login name is displayed as a tooltip (#125014, #126325)</p></li>
@@ -348,7 +416,7 @@
     <p>
         &#169; Copyright 2022, Precio Fishbone.
       <span class="lastupdated">
-        Last updated on Feb 18, 2022.
+        Last updated on Apr 11, 2022.
       </span>
 
     </p>

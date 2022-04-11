@@ -3,6 +3,8 @@ Best Practice
 
 Omnia is not just a set of features; it comes with a story.
 
+The following best practices are available today:
+
 .. toctree::
    :titlesonly:
 

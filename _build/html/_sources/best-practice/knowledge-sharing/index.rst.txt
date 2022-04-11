@@ -8,6 +8,7 @@ Start off by watching this `introductory video <https://www.omniaintranet.com/om
 Here is a summary of the best practice recommendations:
 
 * Keep communities open. Anyone in the organization should be able to share their knowledge within a community.
+  
 
 * Make sure that every community has at least one moderator. The role of the moderator is to:
   
