@@ -71,7 +71,7 @@ The Page Statistics time period can be limited to one week from today, two weeks
 .. image:: omnia-610-social.png
 
 More on Scope Navigation Path
----------------------------page statstics is built into the Page Rollup, making it possible to create rollups for ---
+---------------------------------
 When you're creating a Page Type, selecting Current Node for a Navigation Path can be very useful. Wherever that Page Type is used, the view (Navigation View) always starts at the current node for that page.
 
 Filter on a specific variation
