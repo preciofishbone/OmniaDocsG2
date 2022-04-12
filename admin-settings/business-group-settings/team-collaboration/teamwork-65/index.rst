@@ -11,6 +11,8 @@ Select section for more information:
    :titlesonly:
 
    apps/index
+   naming-policies/index
+   teamwork-layout/index
    templates/index
 
 
