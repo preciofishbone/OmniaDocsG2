@@ -144,4 +144,10 @@ If any custom steps has been developed for the type of community you have select
 
 Policies
 **********
-This option will be available in Omnia 6.10. A description will be added soon.
+This option is available in Omnia 6.10 and later. The following can be set here:
+
+.. image:: teamwork-templates-policies.png
+
+(A description will be added soon).
+
+
