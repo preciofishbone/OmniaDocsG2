@@ -144,16 +144,16 @@ If any custom steps has been developed for the type of community you have select
 
 Policies
 **********
-This option is available in Omnia 6.10 and later. Use this for further policies settings, that will be applied to temworks created from specific templates only.
+This option is available in Omnia 6.10 and later. Use this for further policies settings, that will be applied to teamworks created from specific templates.
 
 The following can be set here:
 
 .. image:: teamwork-templates-policies.png
 
-+ **Naming Policy**: Select the naming policy to set settinsg for.
++ **Naming Policy**: Select the naming policy to set settings for.
 + **Minimum number of characters in description**: Here you can set a number of characters for the teamwork descripton, to force users to add a description of a certain length. 
 + **Minimim number of administrators**: There must always be at least one administrator for a teamwork, but you can decide that more administrators should be required, up to 5.
-+ **Default Administrators**: Use this to add a one or more administrators for teamworks. (More info about this will be added soon).
++ **Default Administrators**: Use this to add one or more administrators for teamworks. (More info about this will be added soon).
 + **Sensitivity Label**: Makes it possible to apply additional policies using Microsoft compliance features. (More info about this will be added soon).
 
-For more information about Naiming policies, see: :doc:`Naming Policies </admin-settings/business-group-settings/team-collaboration/teamwork-65/naming-policies/index>`
+For more information about Naming policies, see: :doc:`Naming Policies </admin-settings/business-group-settings/team-collaboration/teamwork-65/naming-policies/index>`
