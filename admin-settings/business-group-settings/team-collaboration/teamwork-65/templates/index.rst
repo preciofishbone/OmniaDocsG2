@@ -33,9 +33,9 @@ There are a lot of settings you can do for the template when it’s created.
 
 1. Click the template to edit.
 
-The following is shown:
+The following is shown (image from Omnia 6.10):
 
-.. image:: teamwork-65-edit-all-new.png
+.. image:: teamwork-610-edit-all.png
 
 General
 ***********
@@ -141,3 +141,7 @@ Custom steps
 If any custom steps has been developed for the type of community you have selected, you can add them using this option.
 
 .. image:: teamwork-edit-custom-steps-new.png
+
+Policies
+**********
+This option will be available in Omnia 6.10. A description will be added soon.
