@@ -15,7 +15,7 @@ To create a new template, do the following:
 
 .. image:: teamwork-65-template-click-plus-new2.png
 
-Use the following settings (image from Omnia 6.10):
+2. Use the following settings (image from Omnia 6.10):
 
 .. image:: teamwork-65-template-settings-new2.png
 
