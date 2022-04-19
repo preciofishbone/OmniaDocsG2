@@ -31,7 +31,7 @@ The following settings are available here (image from Omnia 6.10):
 + **Icon Type**: An icon is always shown for a template. If you would like another icon for this template, select the set of icons here: Font Awesome, Microsoft, Flags or Custom. When selecting Custom you can choose any image as the icon.
 + **Icon**: When you have select Icon Type, use this list to select the icon. If you select Custom, a Url field is shown, where you enter the Url for the image.
 + **Available to All Users**: (Available in Omnia 6.8). Select this option if the template should be available for other’s than administrators, for example in the user Wizard for creating new teamworks. If this option is not selected, the template will be available only for administrators to use in Omnia Admin.
-+ **Available to**: In Omnia 6.10 and later you can select "All users", "Specific users" or "Admins only" under this heading, as shown in the image above. Deafault setting is Admins ony. When you select "Specific users", you can set which users the template will be available for, using the normal targeting functionality in Omnia. For more infor, see below.
++ **Available to**: In Omnia 6.10 and later you can select "All users", "Specific users" or "Admins only" under this heading, as shown in the image above. Deafault setting is Admins ony. When you select "Specific users", you can set which users the template will be available for, using the normal targeting functionality in Omnia. For more info, see below.
 + **Site Creation Mode**: Here you select if approval is required when users create sites from this template.
 
 Teamwork templates for specific users
@@ -74,9 +74,11 @@ Microsoft 365 Group
 -----------------------
 The following options are available for a Microsoft 365 Team Group:
 
-.. image:: teamwork-settings-setup-365.png
+.. image:: teamwork-settings-setup-365-new.png
 
-+ **Default Resource Url**: Choose to link to a Sharepoint site or to MS Teams.
+Available only for Microsoft 365 Group are:
+
++ **Default Resource Url**: Choose to link to a Sharepoint site or to Microsoft Teams.
 + **Privacy**: Decide if the Group should be Private or Public.
 
 For descriptions of the rest of the options, see below.
@@ -85,7 +87,7 @@ Sharepoint Team Site and Sharepoint Communication site
 ------------------------------------------------------------
 For Sharepoint Team Site and Sharepoint Communication Site, these settings are available for Setup:
 
-.. image:: teamwork-settings-setup.png
+.. image:: teamwork-settings-setup-new.png
 
 + **Site Design**: Here templates can be available, templates made according to Microsoft's standard for Site Design. Such templates can be used in Omnia.  Not mandatory. If no such templates are available, the list is empty. For more information about Site Design, see this Microsoft page: https://docs.microsoft.com/en-us/sharepoint/dev/declarative-customization/site-design-overview
 + **Languages**: Select language to be used for system texts in the site.
@@ -97,31 +99,55 @@ For Sharepoint Team Site and Sharepoint Communication Site, these settings are a
 
 Microsoft Team
 ---------------------
-For Microsoft Team, the following settings are available for Setup:
+For Microsoft Team, the following settings are available for Setup in Omnia 6.10 and later:
 
-.. image:: teamwork-settings-setup-team.png
+.. image:: teamwork-settings-setup-team-new.png
 
 **Note!** Microsoft Team is not available in Omnia on-prem.
 
-For CHANNELS the following settings are available:
++ **Default Resource Url**: Choose to link to a Sharepoint site or to Microsoft Teams.
++ **Setup template**: Here you can select to create a Custom template, to use a Microsoft Teams template, or to Clone an excisting team. See below for more information on a custom template. To use a Microsoft Teams template you must enter the id of the template. Information about how to clone an existing team will be added soon.
 
-+ **Name**: Type the name for the tab here.
-+ **App Types**: Select type of app for the tab; Built-in meaning Microsoft Apps, or Organization for other Apps, which can, for example, be Omnia Apps.
-+ **Installed Apps**: Open the list and select app.
-+ **Content Url**: Add the Url to the content for the Channel.
-+ **Website Url**: Add the Url to the website for the Channel.
+Create a custom Microsoft Team template
+----------------------------------------
+When you have selected to create a custom template in Omnia 6.10 the following options becomes available:
 
-To add addtional tabs click the plus:
+.. image:: teamwork-settings-setup-team-all.png
 
-.. image:: teamwork-settings-setup-team-clickplus.png
-
-Use the settings as explained above. 
-
-For SETTINGS, this is available:
+Under **Settings** you can dó the following:
 
 .. image:: teamwork-settings-setup-team-settings.png
 
-To learn what the different options are for, point at the i icon and read the tooltip.
++ **Visibility**: Here you select how joining the team will work; if anyone can join the team or of only administrators can add memebers to the team.
+
+For the rest of the options: oint at the i icon and read the tooltip, to learn what the option are for.
+
+For **Apps** the following is available:
+
+.. image:: teamwork-settings-setup-team-apps.png
+
+(More information about this will be added soon.)
+
+For **Channels** the following settings are available:
+
+.. image:: teamwork-settings-setup-channels.png
+
+Here a list of channels that are already added to the template is shown. Click the pen to edit a channel. 
+
+To add a new channel, click the plus and use these settings:
+
+.. image:: teamwork-settings-setup-channels-settings.png
+
++ **Channel name**: TYpe the name here.
++ **Description**: Add a description of the channel if necessary.
++ **Shown by default**: if the channel should be marked as "Favourite" for all members of the team, select this option.
+
+You can also set which tabs should be added for all teams that are created from this template. When adding a tab, the following settings are available:
+
+.. image:: teamwork-settings-setup-channels-settings-tab.png
+
++ **Tab name**: Type the name for the tab here.
++ **App Types**: Select type of app for the tab; Built-in meaning Microsoft Apps, or Organization for other Apps, which can, for example, be Omnia Apps.
 
 Yammer Community
 --------------------
