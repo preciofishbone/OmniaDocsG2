@@ -120,7 +120,7 @@ Under **Settings** you can dó the following:
 
 + **Visibility**: Here you select how joining the team will work; if anyone can join the team or of only administrators can add memebers to the team.
 
-For the rest of the options: oint at the i icon and read the tooltip, to learn what the option are for.
+For the rest of the options: point at the i icon and read the tooltip, to learn what the option are for.
 
 For **Apps** the following is available:
 
