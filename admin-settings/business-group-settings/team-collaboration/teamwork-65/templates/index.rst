@@ -54,7 +54,7 @@ Properties
 *************
 This is available for Properties:
 
-.. image:: teamwork-65-edit-properties-new.png
+.. image:: teamwork-65-edit-properties-new2.png
 
 + **Property Set**: You can select a property set here, to be used for the template, meaning a number of properties that the colleague creating the site will or will have to fill in when the template is used. If a property is mandatory or not is decided in the settings for the property.
 
@@ -64,7 +64,7 @@ Features
 *************
 Select the features that should be available for the teamwork (all are not shown in the image):
 
-.. image:: teamwork-65-edit-features-new.png
+.. image:: teamwork-65-edit-features-new2.png
 
 Setup
 ***********
