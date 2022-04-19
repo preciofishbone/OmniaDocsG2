@@ -1,7 +1,7 @@
 Teamwork templates
 ===========================================
 
-Here you can work with templates for Teamwork.
+Here you can work with templates for Teamwork. The first list displays all templates that has been created so far, for example:
 
 .. image:: teamwork-65-templates-new2.png
 
