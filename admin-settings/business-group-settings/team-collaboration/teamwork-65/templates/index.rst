@@ -60,6 +60,12 @@ This is available for Properties:
 
 The property sets are set up using the Tenant settings. See this page for more information: :doc:`Property sets </admin-settings/tenant-settings/properties/property-sets/index>`
 
+In Omnia 6.10 and later, you can set default values for most properties in a set, valid for this template. An example:
+
+.. image:: teamwork-65-edit-properties-default.png
+
+For some properties, it mayt also be possible to enter help text.
+
 Features
 *************
 Select the features that should be available for the teamwork (all are not shown in the image):
