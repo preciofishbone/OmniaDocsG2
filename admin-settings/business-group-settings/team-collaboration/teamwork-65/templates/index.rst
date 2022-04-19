@@ -34,7 +34,21 @@ The following settings are available here (image from Omnia 6.10):
 + **Available to**: In Omnia 6.10 and later you can select "All users", "Specific users" or "Admins only" under this heading, as shown in the image above. Deafault setting is Admins ony. When you select "Specific users", you can set which users the template will be available for, using the normal targeting functionality in Omnia. For more infor, see below.
 + **Site Creation Mode**: Here you select if approval is required when users create sites from this template.
 
+Teamwork templates for specific users
+--------------------------------------
+This option is available in Omnia 6.10 and later.
 
+When you select "Specific users" the following option is shown:
+
+.. image:: specific-users.png
+
+Click "Add Targeting Filter" and the following is shown:
+
+.. image:: specific-users-filter.png
+
+You use targeting here the same way as in other parts of Omnia. For more information, see for example the heading "Targeting" at the bottom of this page: :doc:`Settings for sections </pages/page-types/section-settings/index>`
+
+Also note that all properties that should be available for targeting must be setup in the Targeting Properties list, see: :doc:`Targeting Properties </admin-settings/tenant-settings/properties/targeting-properties/index>`
 
 Properties
 *************
