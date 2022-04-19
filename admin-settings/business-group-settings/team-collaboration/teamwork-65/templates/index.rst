@@ -3,45 +3,38 @@ Teamwork templates
 
 Here you can work with templates for Teamwork. The first list displays all templates that has been created so far, for example:
 
-.. image:: teamwork-65-templates-new2.png
+.. image:: teamwork-65-templates-new3.png
 
-To edit a template, click the name - to delete, click the dust bin.
+To edit a template, click the name - to delete, click the dust bin. When you edit a template, all options described below are available.
 
 Create a new Teamwork template
 *********************************
-When creating a teamplate, you first just create the template, and after that edit setings. To create a new template, do the following:
+To create a new template, do the following:
 
 1. Click the plus.
 
-.. images: teamwork-65-template-click-plus-new.png
+.. images:: teamwork-65-template-click-plus-new2.png
 
-Use the following settings:
+Use the following settings (image from Omnia 6.10):
 
-.. image:: teamwork-65-template-settings-new.png
-
-+ **Type**: Select type of Teamwork to create from this template. Note that only Sharepoint Team Site and Sharepoint Communication Site is available in Omnia on-prem.
-+ **Title**: Add a Title for the Template. You can add titles in a number of the languages available in the tenant. Default language is mandatory.
-+ **Description**: Add a Description if needed.
-+ **Icon Type**: An icon is always shown for a template. If you would like another icon for this template, select the set of icons here: Font Awesome, Microsoft, Flags or Custom. When selecting Custom you can choose any image as the icon.
-+ **Icon**: When you have select Icon Type, use this list to select the icon. If you select Custom, a Url field is shown, where you enter the Url for the image.
-+ **Available to All Users**: Select this option if the template should be available for other’s than administrators, for example in the user Wizard for creating new teamworks. If this option is not selected, the template will be available only for administrators to use in Omnia Admin.
-+ **Site Creation Mode**: Here you select if approval is required when users create sites from this template.
-
-Settings for the template
-******************************
-There are a lot of settings you can do for the template when it’s created.
-
-1. Click the template to edit.
-
-The following is shown (image from Omnia 6.10):
-
-.. image:: teamwork-610-edit-all.png
+.. image:: teamwork-65-template-settings-new2.png
 
 General
 ***********
-Here you can edit the information you added and the options you selected when creating the template, for example:
+The following settings are available here (image from Omnia 6.10):
 
-.. image:: teamwork-65-edit-general-new.png
+.. image:: teamwork-65-edit-general-new2.png
+
++ **Type**: Select type of Teamwork to create from this template. Note that only Sharepoint Team Site and Sharepoint Communication Site is available in Omnia on-prem.
++ **Title**: Add a Title for the Template. You can add titles in a number of the languages available in the tenant. Default language is mandatory. Click the flag to change language.
++ **Description**: Add a Description if needed, in any or all tenant languages. Click the flag to change language.
++ **Icon Type**: An icon is always shown for a template. If you would like another icon for this template, select the set of icons here: Font Awesome, Microsoft, Flags or Custom. When selecting Custom you can choose any image as the icon.
++ **Icon**: When you have select Icon Type, use this list to select the icon. If you select Custom, a Url field is shown, where you enter the Url for the image.
++ **Available to All Users**: (Available in Omnia 6.8). Select this option if the template should be available for other’s than administrators, for example in the user Wizard for creating new teamworks. If this option is not selected, the template will be available only for administrators to use in Omnia Admin.
++ **Available to**: In Omnia 6.10 and later you can select "All users", "Specific users" or "Admins only" under this heading, as shown in the image above. Deafault setting is Admins ony. When you select "Specific users", you can set which users the template will be available for, using the normal targeting functionality in Omnia. For more infor, see below.
++ **Site Creation Mode**: Here you select if approval is required when users create sites from this template.
+
+
 
 Properties
 *************
