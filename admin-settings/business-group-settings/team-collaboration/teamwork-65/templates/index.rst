@@ -114,9 +114,9 @@ When you have selected to create a custom template in Omnia 6.10 the following o
 
 .. image:: teamwork-settings-setup-team-all.png
 
-Under **Settings** you can dó the following:
+Under **Settings** you can do the following:
 
-.. image:: teamwork-settings-setup-team-settings.png
+.. image:: teamwork-settings-setup-team-settings-new.png
 
 + **Visibility**: Here you select how joining the team will work; if anyone can join the team or of only administrators can add memebers to the team.
 
