@@ -12,6 +12,6 @@ Select option for more information:
 
    digital-page-queries/index
    digital-views-as-json/index
-   digitals-views-as-html/index
-   digitals-screens/index
+   digital-views-as-html/index
+   digital-screens/index
  
