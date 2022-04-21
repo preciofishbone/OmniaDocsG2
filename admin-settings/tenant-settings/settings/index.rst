@@ -1,9 +1,9 @@
 Settings
 ====================
 
-Here you can set the following:
+Here you can set the following (image from Omnia 6.10):
 
-.. image:: tenant-settings-new4.png
+.. image:: tenant-settings-new5.png
 
 Select section for more information:
 
@@ -19,4 +19,5 @@ Select section for more information:
    rtf-editor/index
    text-styles/index
    user-profile-completion/index
+   digital-signage/index
 
