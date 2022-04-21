@@ -1,7 +1,7 @@
 Digital Signage
 =====================================
 
-Th following options are available for Digital Signage:
+The following options are available for Digital Signage:
 
 .. image:: digital-signage-all.png
 
