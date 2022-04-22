@@ -1,11 +1,13 @@
 Page Queries
 =====================================
 
+**This documentation is just started. More will be added soon.**
+
 The first youn see is the list of Page Queries that has been created so far:
 
 .. image:: page-queries-list.png
 
-To edit a query, click the pen. To add a new query, so the following:
+To edit a query, click the pen. To add a new query, do the following:
 
 1. Click the plus.
 2. Use the folllowing settings:
