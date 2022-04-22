@@ -192,7 +192,5 @@ The following can be set here:
 + **Naming Policy**: Select the naming policy to set settings for. The policies listed here are those setup for teamworks, see: :doc:`Naming policies </admin-settings/business-group-settings/team-collaboration/teamwork-65/naming-policies/index>`
 + **Minimum number of characters in description**: Here you can set a number of characters for the teamwork descripton, to force users to add a description of a certain length. 
 + **Minimim number of administrators**: There must always be at least one administrator for a teamwork, but you can decide that more administrators should be required, up to 5.
-+ **Default Administrators**: Use this to add one or more administrators for teamworks. (More info about this will be added soon).
-+ **Sensitivity Label**: Makes it possible to apply additional policies using Microsoft compliance features. (More info about this will be added soon).
-
-For more information about Naming policies, see: :doc:`Naming Policies </admin-settings/business-group-settings/team-collaboration/teamwork-65/naming-policies/index>`
++ **Default Administrators**: Use this to add one or more administrators for teamworks created from this template. These administrators will always be added, can not be removed in the Create Teamwork wizard. Must be persons, can not be groups.
++ **Sensitivity Label**: Here you can add one or more sensitivity labels defined in Microsoft 365. If you select "Fixed", it can't edited. If you select "Let user decide", it works as a suggestion.
