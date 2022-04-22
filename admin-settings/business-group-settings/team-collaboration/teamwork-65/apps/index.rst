@@ -160,13 +160,13 @@ You can "detach" (delete) a site if needed. Then the following permissions are n
 
 Inactive
 ***********
-In Omnia 6.10 and later an "Inactive" tab is available:
+In Omnia 6.10 and later an "Inactive" tab is available. A teamwork is considered inactive if Last Activity, as registered in the Sharepoint site, is more thna three months old.
 
 .. image:: teamwork-apps-inactive.png
 
 Here administrators can check/edit the settings for the teamworks and delete a teamwork that is not needed. The list can be sorted by "Created Date" or ´"Last Activity", to for example see if any activity has taken place at all.
 
-(Information about SYNCHRONIZE LAST ACTIVITY will be added soon).
+Click SYNCHRONIZE LAST ACTIVITY to update the list with the latest activities. The list is not updated automatically. Note that if there are a huge number of teamworks in your solution, the update can take some time.
 
 Click the pen to check the settings for a teamwork. All settings can then be checked an edited:
 
