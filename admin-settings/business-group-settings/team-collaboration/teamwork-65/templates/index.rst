@@ -189,7 +189,7 @@ The following can be set here:
 
 .. image:: teamwork-templates-policies.png
 
-+ **Naming Policy**: Select the naming policy to set settings for.
++ **Naming Policy**: Select the naming policy to set settings for. The policies listed here are those setup for teamworks, see: :doc:`Naming policies </admin-settings/business-group-settings/team-collaboration/teamwork-65/naming-policies/index>`
 + **Minimum number of characters in description**: Here you can set a number of characters for the teamwork descripton, to force users to add a description of a certain length. 
 + **Minimim number of administrators**: There must always be at least one administrator for a teamwork, but you can decide that more administrators should be required, up to 5.
 + **Default Administrators**: Use this to add one or more administrators for teamworks. (More info about this will be added soon).
