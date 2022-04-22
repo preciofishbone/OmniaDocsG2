@@ -132,7 +132,7 @@ For **Apps** the following is available:
 
 .. image:: teamwork-settings-setup-team-apps.png
 
-(More information about this will be added soon.)
+Add the apps that should be added when a teamwork is created from this template.
 
 For **Channels** the following settings are available:
 
@@ -163,6 +163,7 @@ The following setting is available for a Yammer Community template for Setup:
 
 **Note!** Yammer Community is not available in Omnia on-prem.
 
++ **Deafult Resource Url**: Select the defailt Url for the Yammer Community start page, Sharepoint or Yammer group.
 + **Client id**: Type the Client id for the Yammer Network here.
 
 Facebook Workplace Group
