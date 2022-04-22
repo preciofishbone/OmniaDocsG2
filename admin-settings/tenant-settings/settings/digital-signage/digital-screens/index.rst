@@ -1,11 +1,13 @@
 Screens (Digital Signage)
 =====================================
 
+**This documentation is just started. More will be added soon.**
+
 The first youn see is the list of Screens that has been created so far:
 
 .. image:: page-screens-list.png
 
-To edit a screen, click the pen. To add a new sreen, so the following:
+To edit a screen, click the pen. To add a new sreen, do the following:
 
 1. Click the plus.
 2. Use the folllowing settings:
