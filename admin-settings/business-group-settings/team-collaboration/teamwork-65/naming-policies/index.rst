@@ -31,5 +31,5 @@ Use the follwing settings:
 Regarding Type for Prefix and Suffix:
 
 + If you select Fixed, you can add one or more words that will always be suggested as a prefix for all teamwork names.
-+ If you select App, you can select a property for teamworks, to be used as a prefix. If that property is mandatory, the prefix can't be edited.
-+ If you select User, you can select a user property to be used as a prefex. The property will be populated according to the logged in user creating the teamwork. If that property is mandatory, the prefix can't be edited.
++ If you select App, you can select a property for teamworks from the lilst, to be used as a prefix. If that property is mandatory, the prefix can't be edited.
++ If you select User, you can select a user property from the list, to be used as a prefex. The property will be populated according to the logged in user creating the teamwork. If that property is mandatory, the prefix can't be edited.
