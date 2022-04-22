@@ -24,6 +24,12 @@ Use the follwing settings:
 + **Title**: Add a title for the policy here. Not shown for users.
 + **Prefix**: Here you can add one or more prefixes that should always be used when creating teamworks.
 + **Suffix**: Here you can add one or more suffixes that should always be used when creating teamworks.
-+ **Blocked words**: If some words should not be used for teamwork names, add them here.
++ **Blocked words**: If some words should not be used for teamwork names, add them here. These words can never be used in temawork names.
 + **Preview**: Click here to test how this policy will work for the users when creating a teamwork.
 + **CREATE/SAVE**: You must click CREATE to create the policy. When editing an existing policy, this button is named SAVE instead.
+
+Regarding Type for Prefix and Suffix:
+
++ If you select Fixed, you can add one or more words that will always be suggested as a prefix for all teamwork names.
++ If you select App, you can select a property for teamworks, to be used as a prefix. If that property is mandatory, the prefix can't be edited.
++ If you select User, you can select a user property to be used as a prefex. The property will be populated according to the logged in user creating the teamwork. If that property is mandatory, the prefix can't be edited.
