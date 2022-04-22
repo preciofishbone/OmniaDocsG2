@@ -1,7 +1,7 @@
 Page Queries
 =====================================
 
-The first youn see is the list if Page Queries that has been created so far:
+The first youn see is the list of Page Queries that has been created so far:
 
 .. image:: page-queries-list.png
 
