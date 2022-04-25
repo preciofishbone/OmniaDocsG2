@@ -17,7 +17,7 @@ These settings are available under General:
 + **Current App**: If the scope should be this app only, select this option.
 + **Custom Scope**: To set a different scope, select this option. See below for more information.
 + **Enable Mention**: If mentions should be possible in the posts, this option must be selected. Default=off.
-+ **Allow Likes**: Likes is own by default. if it should be available, deselect this option.
++ **Allow Likes**: Likes is on by default. if it should not be available, deselect this option.
 + **Replies shown by default**: Decide the number of replies the should be shown for each post, before a Show more link is shown. Default=2. 
 
 Custom scope
