@@ -9,7 +9,7 @@ The following settings are available:
 
 General
 **********
-These settings are availabla under General:
+These settings are available under General:
 
 .. image:: posts-block-general.png
 
