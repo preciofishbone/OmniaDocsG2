@@ -6,7 +6,6 @@ Blocks
 
    
    accordion/index
-   app-posts/index
    button-link/index
    activity-feed/index
    announcements/index
@@ -36,6 +35,7 @@ Blocks
    page-likes-and-comments/index
    page-properties/index
    page-rollup/index
+   app-posts/index
    variation-selector/index
    people-rollup/index
    power-app/index
