@@ -35,10 +35,9 @@ To create a new scaling setting, do the following:
 
 2. Use the following settings:
 
-.. image:: scaling-settings.png
+.. image:: scaling-settings-new.png
 
-+ **Unique ID**: This is set by the system and displayed here as information.
-+ **Title**: Add a title for the scaling here. You can add titles in any tenant language.
++ **Title**: Add a title for the scaling here. You can add titles in any tenant language (click the flag to change language).
 + **Max Dimension**: Set the maxumim size in pixels here.
 + **Format Settings**: You can choose to keep the original file format or convert to Jpeg.
 + **Quality**: Use the slider to set the quality level for the scaling.
@@ -65,10 +64,9 @@ To create a new crop ratio, do the following:
 
 2. Use the following settings:
 
-.. image:: crop-ratios-settings.png
+.. image:: crop-ratios-settings-new.png
 
-+ **Unique ID**: This is set by the system and displayed here as information.
-+ **Title**: Add a title for the crop ratio here. You can add titles in any tenant language.
++ **Title**: Add a title for the crop ratio here. You can add titles in any tenant language (click the flag to change language).
 + **Ratio X**: Set the horizontal ratio here.
 + **Ratio Y**: Set the vertical ratio here.
 + **Enable in rollups**: Select this option if this ratio should be available to use in block rollups.

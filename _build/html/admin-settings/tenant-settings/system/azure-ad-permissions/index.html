@@ -108,14 +108,15 @@
 <li class="toctree-l4"><a class="reference internal" href="../authentication/index.html">Authentification</a></li>
 <li class="toctree-l4 current"><a class="current reference internal" href="#">Azure AD Permissions</a></li>
 <li class="toctree-l4"><a class="reference internal" href="../azure-ad-sync/index.html">Azure AD Synchronization settings</a></li>
-<li class="toctree-l4"><a class="reference internal" href="../custom-email/index.html">Custom Email Service</a></li>
 <li class="toctree-l4"><a class="reference internal" href="../default-sharepoint-content/index.html">Default Sharepoint Context Url</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../custom-email/index.html">Email Service</a></li>
 <li class="toctree-l4"><a class="reference internal" href="../error-information/index.html">Error Information</a></li>
 <li class="toctree-l4"><a class="reference internal" href="../extensions/index.html">Extensions</a></li>
 <li class="toctree-l4"><a class="reference internal" href="../localization/index.html">Localization</a></li>
 <li class="toctree-l4"><a class="reference internal" href="../power-apps-tenant/index.html">Power App settings</a></li>
 <li class="toctree-l4"><a class="reference internal" href="../queue-logs/index.html">Queue Logs</a></li>
 <li class="toctree-l4"><a class="reference internal" href="../spfx-instruction/index.html">SPFx Instruction</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../teams-app-generator/index.html">Teams App Generator</a></li>
 <li class="toctree-l4"><a class="reference internal" href="../tenant-contact/index.html">Tenant Contact</a></li>
 <li class="toctree-l4"><a class="reference internal" href="../user-profile-card/index.html">User Profile Card</a></li>
 </ul>
@@ -225,12 +226,17 @@
 <p>Here, a Tenant Administrator can see lists of all consented permissions for Omnia in Azure AD.</p>
 <img alt="../../../../_images/azure-ad-permissions-all.png" src="../../../../_images/azure-ad-permissions-all.png" />
 <ul class="simple">
-<li><p><strong>INVALIDATE ALL USER TOKENS</strong>: When permissions for Omnia has been changed, users needs to log out and log in for the changes to take effect. You can click this button to force a log out for all users, but be aware, work that users has not saved can then be lost.</p></li>
+<li><p><strong>INVALIDATE ALL USER TOKENS</strong>: When permissions for Omnia has been changed, users needs to log out and log in for the changes to take effect. You can click this button to force a log out from Omnia for all users. More information on this below.</p></li>
 <li><p><strong>Microsoft Graph</strong>: Select to see a list of Microsoft Graph consented permissions for Omnia.</p></li>
 <li><p><strong>Office 365 Sharepoint Online</strong>: Select to see a list of the permissions Omnia requests in Microsoft 365.</p></li>
 </ul>
 <p>Here’s an example of the MS Graph list:</p>
 <img alt="../../../../_images/azure-ad-permissions-graph.png" src="../../../../_images/azure-ad-permissions-graph.png" />
+<div class="section" id="more-on-invalidate-all-user-tokens">
+<h2>More on Invalidate All User Tokens<a class="headerlink" href="#more-on-invalidate-all-user-tokens" title="Permalink to this headline">¶</a></h2>
+<p>If the button INVALIDATE ALL USER TOKENS is clicked to force a log out from Omnia for all users, only Omnia is affected, not Sharepoint, Office apps, mail or anything else outside Omnia.</p>
+<p>If an editor or author is working on a page in Omnia, the user will be logged out but content added to a page, even if it’s not published, is automatically saved quite often, to minimize content lost.</p>
+</div>
 </div>
 
 
@@ -249,7 +255,7 @@
     <p>
         &#169; Copyright 2022, Precio Fishbone.
       <span class="lastupdated">
-        Last updated on Apr 11, 2022.
+        Last updated on Apr 24, 2022.
       </span>
 
     </p>

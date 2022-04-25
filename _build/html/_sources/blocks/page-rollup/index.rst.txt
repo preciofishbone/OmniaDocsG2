@@ -27,7 +27,7 @@ Here you can set the following:
 + **Pick in Write Mode**: Available when Pick Pages is selected. Select this option if editors should be able to pick pages in Write mode. If not selected, Design mode has to be used.
 + **ADD PAGE**: When you have selected Pick Pages, you can pick some pages to always be shown. Click this option and use the Page Picker. See this page for more information: :doc:`Page Picker </general-assets/page-picker/index>`
 + **Use Query Builder**: If you want to use the query builder to set which pages should be available here, select this option.
-+ **Scope**: When you have chosen to use the Query Builder, select scope for the block; Publishing Apps, Page Collections, Navigation path or Channels. Then open the list below and select Publishing Apps/Page Collections. Regarding Navigation path, use it to select a node to get the pages from. When you have selected start node you can choose navigation depth. There's also a view available, specifically for Navigation Path - Navigation View. Select it under Display.
++ **Scope**: When you have chosen to use the Query Builder, select scope for the block; Publishing Apps, Page Collections, Navigation path or Channels. Then open the list below and select Publishing Apps/Page Collections. Regarding Navigation path, use it to select a node to get the pages from (in Omnia 6.8 and later it can also be the Current Node). When you have selected start node you can choose navigation depth. There's also a view available, specifically for Navigation Path - Navigation View. Select it under Display.
 + **Current User Subscription**: Available for Scope Channels. Select this if only the pages that the logged in users subscribes to should be displayed.
 + **Custom Query**: Available for Scope Channels. Use this to select one or more channels to rollup pages from. Note that a channel can be targeted to just certain colleagues or groups. See example below.
 + **Exclude current page**: Available when you have chosen scope for the Query Builder. The default setting is to exclude the current page, but if you, for some reason, would like to include the current page, uncheck this option.
@@ -51,6 +51,10 @@ Here's an example of a filter that will display pages that have been updated (Mo
 Here's an example of a custom query for channels):
 
 .. image:: page-rollup-channel-example.png
+
+More in Scope Navigation Path
+------------------------------
+When you're creating a Page Type, selecting Current Node for a Navigation Path can be very useful. Wherever that Page Type is used, the view (Navigation View) always starts at the current node for that page.
 
 Filter on a specific variation
 --------------------------------

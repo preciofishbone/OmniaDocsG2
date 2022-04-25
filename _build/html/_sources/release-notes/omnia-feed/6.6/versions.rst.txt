@@ -1,3 +1,18 @@
+6.8.0
+========================================
+
+- Guest users are now supported in Omnia Feed. Note: The domain needs to be supplied by the end user. (#136414).
+- Its now possible to login using either UPN or Email.
+- Corrected an issue related to targeting with certain user types (#136890)
+- Corrected an issue with the notification counter (#136470, #126973)
+- Deletions of signoff requests are now handled correctly. 
+- Improved performance for G1 customers.
+
+
+6.7.1
+========================================
+- Improved login stability.
+
 6.7.0
 ========================================
 

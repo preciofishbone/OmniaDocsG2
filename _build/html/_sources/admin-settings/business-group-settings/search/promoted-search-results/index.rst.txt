@@ -3,7 +3,7 @@ Promoted Search Results
 
 Based on search feedback, an administrator can create promoted search results in Omnia Admin.
 
-Whenever a user search on any of the keywords of a Promoted Search Result,it will be available here:
+Whenever a user search on any of the keywords of a Promoted Search Result, it will be available here:
 
 .. image:: promoted-search-results-place.png
 
@@ -28,12 +28,13 @@ Do the following:
 .. image:: promoted-search-results-settings.png
 
 + **Url**: Type or paste a Url that a click on the heading should go to.
-+ **Title**: Type the clickable heading that will be shown in Advanced Search (see example in the top image).
-+ **Description**: This text will be shown under the heading (see example in the top image).
++ **Title**: Type the clickable heading that will be shown in Advanced Search, in any or all tenant languages (click the flag to change language). An example is shown in the top image.
++ **Description**: This text will be shown under the heading, in any or all tenant languages (click the flag to change language). An example is shown in the top image.
 + **ADD IMAGE**: If you want, you can add an image to be shown by the promoted search result (see example in the top image).
 + **Keywords** Add the keywords that will result in the promoted search result being shown.
-+ **Status**: On hold means it's not active yet. To enable this search result, select "Active".
-+ **Targeting**: A promoted search result can be targeted. Targeting works the same way as when you target a block, see the Heading "Targeting" on this page: :doc:`General Block Settings </blocks/general-block-settings/index>`
++ **On Hold**: On hold means it's not active yet. To enable this search result, select "Active".
++ **Active**: When a Promoted Search Result is active, you can set start and end dates if you wish. It's not mandatory.
++ **Targeting**: A promoted search result can be targeted, meaning just shown to some users. Targeting works the same way as when you target a block, see the Heading "Targeting" on this page: :doc:`General Block Settings </blocks/general-block-settings/index>`
 
 3. Click CREATE when you're done.
 

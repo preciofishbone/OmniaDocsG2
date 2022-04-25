@@ -31,7 +31,7 @@ The following settings are available here:
 
 .. image:: app-launcher-settings-general-65.png
 
-+ **Title**: Set the title for the App Launcher in any or all available languages. This is shown as the Tool Tip for the button.
++ **Title**: Set the title for the App Launcher in any or all available languages (click the flag to change language). This is shown as the Tool Tip for the button.
 + **Sorted By**: Open the list and decide how to sort the icons; Custom, Alphabetic or Last Visited. If you choose Custom, use the option "Custom" below for sorting.
 + **View Template**: The icons can be viewed in a number of ways; Simple List, App Icons, Navigation View or App launcher. See below for examples.
 + **Include Non-mandatory links**: Mandatory links are always displayed. Select this option if non-mandatory links, in the link categories selected, should be displayed as well.
@@ -62,8 +62,8 @@ Set the following here:
 
 .. image:: logo-settings-65-new.png
 
-+ **Text**: A text can be displayed beside the logo, see example below. Different texts can be added for all tenant languages, if needed.
-+ **Logo text**: This text is used as Tooltip and Alt text for the logo.
++ **Text**: A text can be displayed beside the logo, see example below. Different texts can be added for all tenant languages, if needed. (Click the flag to change language).
++ **Logo text**: This text is used as Tooltip and Alt text for the logo, in any or all tenant languages.
 + **Url**: Add the Url to the logo here.
 + **(Image field)**: Click the pen to add a logo image, using the Media Picker, the x to delete.
 
@@ -76,4 +76,4 @@ The following settings are available here:
 .. image:: header-search-settings-65.png
 
 + **Search Box on Header**: If a search box should be available in the header, select this option.
-+ **Default Search Box text to Query string (q) value**: Available when the option above is selected. For advanced search implementations. With this option active you can add parameters to the search query string, for various implementations.
++ **Add @search parameter to the query string**: Available when the option above is selected. For advanced search implementations. With this option active you can add parameters to the search query string, for various implementations.

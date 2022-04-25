@@ -1,4 +1,4 @@
-Release 6.7
+Release 6.7 / 6.8
 ========================================
 
 Search Feedback

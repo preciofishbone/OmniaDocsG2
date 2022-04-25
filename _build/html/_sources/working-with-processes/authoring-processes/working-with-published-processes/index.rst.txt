@@ -59,7 +59,7 @@ A process can be moved to any other Team Site, if needed. Here's how:
 
 Unpublish Process
 ********************
-If needed, a published process can be unpublished. The process will then not be available for end users. The process is also removed from the Processes library and a copy is placed in the archive.
+If needed, a published process can be unpublished. The process will then not be available for end users. The process is also removed from the Processes library. If an archive for processes has been set up, a copy of the process is placed there. If an archive for processes has not been set up, the process is simply deleted.
 
 **Note!**
 A process can't be unpublished if a draft has been created for that process. The draft must first be deleted.

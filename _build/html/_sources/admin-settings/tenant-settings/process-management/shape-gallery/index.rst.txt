@@ -29,7 +29,7 @@ To add a new shape, click the plus.
 
 Use the following settings:
 
-.. image:: pm-shape-settings-new.png
+.. image:: pm-shape-settings-new2.png
 
 + **Title**: You can (should) add a title for the new shape, in any or all available languages. Default language for the tenant is mandatory.
 + **Freeform/Media**: Decide how to add the shape; Select "Freeform" to draw the shape, "Media" to upload an image.
@@ -49,7 +49,7 @@ When you have selected "Freeform" do the following:
 
 7. Click "Save".
 
-.. image:: pm-shape-freeform-save-new.png
+.. image:: pm-shape-freeform-save-new3.png
 
 Adding Media
 ------------
@@ -57,7 +57,7 @@ When you have selected "Media", continue this way:
 
 1. Click ADD IMAGE.
 
-.. image:: pm-shape-media-new.png
+.. image:: pm-shape-media-new2.png
 
 The Media Picker now starts and you use it to add an image as a shape from your computer or from any other source available. For more information, see :doc:`Media Picker </general-assets/media-picker/index>`
 
@@ -65,7 +65,5 @@ The Media Picker now starts and you use it to add an image as a shape from your 
 3. Click "OK" in the Media Picker.
 4. Click "Save".
 
-.. image:: pm-shape-media-picker-dollar-new.png
-
-
+.. image:: pm-shape-media-picker-dollar-new2.png
 

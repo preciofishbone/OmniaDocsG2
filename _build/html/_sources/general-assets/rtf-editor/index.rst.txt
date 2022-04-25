@@ -194,11 +194,15 @@ If the option is available you can machine translate the text in a block, this w
 
 1. Click the icon.
 
-.. image:: rtf-editor-machine-translation-new.png
+.. image:: rtf-editor-machine-translation-new2.png
 
-2. Select the language to translate to (the language must have been set up in Omnia Admin).
+2. Select the language to translate to.
 
-.. image:: machine-translation-select-language-new.png
+.. image:: machine-translation-select-language-new2.png
+
+Any language can be selected here (in Omnia 6.8 and later). The ones set up in Omnia Admin are shown at the top of the list. To select another language, select "Show all Languages" at the bottom of the list.
+
+.. image:: machine-translation-select-language-all.png
 
 **Note!** You can use Ctrl-Z or just Discard Changes if you change your mind.
 

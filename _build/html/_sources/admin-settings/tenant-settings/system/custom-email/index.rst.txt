@@ -1,13 +1,13 @@
-Custom Email Service
+Email Service
 =======================
 
 Use these settings to decide if e-mails should be sent from Omnia or not.
 
-.. image:: custom-email-settings-url.png
+.. image:: custom-email-settings-new.png
 
-+ **Enable Email Service**: If this option is enabled AND an account is added to the field, Microsoft Graph is used as e-mail service. The sender address will be the one shown under the field. SharePoint is used if no account is registered. If this option is disabled, no e-mails are sent from Omnia at all.
-
-When enabling this, best practice is to setup a dedicated account. Omnia will then send e-mails using this dedicated user account via Microsoft Graph.
++ **Turn off all e-mail notifications**: If you select this option, no e-mails are sent from Omnia at all. If this option is enabled (ie not turned off) e-mails will be sent using the provider you choose. 
++ **Email Provider**: Select "Sharepoint Outgoing Mail" or "Exchange Online Mailbox". 
++ **User Mailbox**: If you choose Exchange Online Mailbox as the provider, select the actual user mailbox that will used. Below this the mailadress for the sender, that users will see, is noted. If you select "Sharepoint Outgoing Mail", this field is not shown as the Sharepoint mailbox is used, which no answers can be sent to.
 
 **Note!** The selected user account need to have a cloud Exchange mailbox.
 

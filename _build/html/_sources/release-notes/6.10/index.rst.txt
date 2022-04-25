@@ -117,7 +117,7 @@ A variation can be configured to support languages that flow from right to left.
 
 Pages can now be moved and copied across page collections within a publishing app.
 
-.. image:: wcm-righttoleft-page.png
+.. image:: wcm-movecopypage.png
 
 [TODO: Move page collections across publishing apps.]
 

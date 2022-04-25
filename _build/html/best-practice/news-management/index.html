@@ -184,7 +184,188 @@
             
   <div class="section" id="news-management">
 <h1>News Management<a class="headerlink" href="#news-management" title="Permalink to this headline">¶</a></h1>
-<p>Best practice coming up early March.</p>
+<p>With Omnia, you can establish a solution for news management within your intranet.</p>
+<p>Start off by watching this <a class="reference external" href="https://www.omniaintranet.com/omnia/knowledge/videos/video-omnia-best-practice---news-management">introductory video</a>.</p>
+<p>Here is a summary of the best practice recommendations:</p>
+<ul class="simple">
+<li><p>Before you start the implementation of your news management solution, make sure that you have established an information model that can serve as a basis for which tool to use for what.</p></li>
+<li><p>Official global news are setup in a separate publishing app and:</p></li>
+</ul>
+<blockquote>
+<div><ul class="simple">
+<li><p>Are managed by a group of global editors.</p></li>
+<li><p>Use scheduling to plan ahead.</p></li>
+<li><p>Supports translation using the variation system.</p></li>
+<li><p>Use approval to support local authors.</p></li>
+<li><p>Have a structured set of news types and add the possibility to highlight promoted news.</p></li>
+</ul>
+</div></blockquote>
+<ul class="simple">
+<li><p>Official local news are setup in a separate publishing app and:</p></li>
+</ul>
+<blockquote>
+<div><ul class="simple">
+<li><p>Have a large group of local authors that own their own news articles and can invite co-authors on demand.</p></li>
+<li><p>Have a set of properties setup that can be used to target the news articles to the correct audience.</p></li>
+<li><p>Are using the user profile to make targeting and subscription available.</p></li>
+</ul>
+</div></blockquote>
+<ul class="simple">
+<li><p>Official news can reach the correct audience by:</p></li>
+</ul>
+<blockquote>
+<div><ul class="simple">
+<li><p>Showing promoted news on the intranet start page.</p></li>
+<li><p>Targeting news using the notification panel.</p></li>
+<li><p>Setting up a news center with different top lists and possiblitiy to search for news.</p></li>
+<li><p>Deploy the Omnia mobile app, newsletters and the digital signage solution.</p></li>
+</ul>
+</div></blockquote>
+<ul class="simple">
+<li><p>Team announcements and posts:</p></li>
+</ul>
+<blockquote>
+<div><ul class="simple">
+<li><p>Use teamwork to manage news targeted to a small group (&lt; 50 people).</p></li>
+<li><p>If you are using Microsoft Teams, use a specific announcement channel for official news and the general channel for non-official news.</p></li>
+<li><p>If you are not using Microsoft Teams, use SharePoint Team News for official news and Omnia teamwork posts for non-official news.</p></li>
+</ul>
+</div></blockquote>
+<ul class="simple">
+<li><p>Community and organization-wide posts:</p></li>
+</ul>
+<blockquote>
+<div><ul class="simple">
+<li><p>Use Omnia community posts to communicate non-official news to a community.</p></li>
+<li><p>In a small/mid-sized organization, you can allow organization-wide posts either in Microsoft Teams or by using Omnia organization-wide posts.</p></li>
+</ul>
+</div></blockquote>
+<p>Follow the steps below to setup a solution based on the recommendations above.</p>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>The instruction is based on Omnia 6.10. If you have another version installed, some labels, page types and layouts may differ.</p>
+</div>
+<div class="section" id="global-news">
+<h2>Global News<a class="headerlink" href="#global-news" title="Permalink to this headline">¶</a></h2>
+<p>Follow these instructions to configure a publishing app for global news with variations and approval.</p>
+<ol class="arabic simple">
+<li><p>Go to Microsoft 365 admin center &gt; Teams &amp; groups and create two new security groups: “Global News Editors” and “Global News Authors”. Add appropriate members to the groups.</p></li>
+<li><p>Go to Omnia Admin and create a new publishing app for “Global News”.</p></li>
+<li><p>Go to the newly created publishing app and create a default page collection.</p></li>
+</ol>
+<img alt="../../_images/globalnews-createpagecollection.png" src="../../_images/globalnews-createpagecollection.png" />
+<ol class="arabic simple" start="4">
+<li><p>Select “News Center - Grey” as layout template.</p></li>
+<li><p>Go to the page collection settings and configure the following:</p></li>
+</ol>
+<blockquote>
+<div><ul class="simple">
+<li><p>Change the Dialog Title to “Create Global News Article”.</p></li>
+<li><p>Uncheck “Show Url”.</p></li>
+<li><p>Add the page type “News Article (Tenant)”.</p></li>
+<li><p>Enable approval and select a limited list of editors that should be responsible for approval.</p></li>
+<li><p>Enable scheduling and select “Article Date”.</p></li>
+</ul>
+</div></blockquote>
+<img alt="../../_images/globalnews-pagecollectionsettings1.png" src="../../_images/globalnews-pagecollectionsettings1.png" />
+<hr class="docutils" />
+<img alt="../../_images/globalnews-pagecollectionsettings2.png" src="../../_images/globalnews-pagecollectionsettings2.png" />
+<hr class="docutils" />
+<img alt="../../_images/globalnews-pagecollectionsettings3.png" src="../../_images/globalnews-pagecollectionsettings3.png" />
+<ol class="arabic simple" start="6">
+<li><p>Set permissions on the page collection based on the previously created security groups.</p></li>
+</ol>
+<img alt="../../_images/globalnews-permissions1.png" src="../../_images/globalnews-permissions1.png" />
+<hr class="docutils" />
+<img alt="../../_images/globalnews-permissions2.png" src="../../_images/globalnews-permissions2.png" />
+<ol class="arabic simple" start="7">
+<li><p>Go to the publishing app settings.</p></li>
+<li><p>Set the previously created page collection as default and save.</p></li>
+<li><p>Go to the variations tab.</p></li>
+<li><p>Create a default variation.</p></li>
+</ol>
+<img alt="../../_images/globalnews-variations1.png" src="../../_images/globalnews-variations1.png" />
+<ol class="arabic simple" start="11">
+<li><p>Create a variation with automatic translation.</p></li>
+</ol>
+<img alt="../../_images/globalnews-variations2.png" src="../../_images/globalnews-variations2.png" />
+<ol class="arabic simple" start="12">
+<li><p>Ensure the properties News Type (Taxonomy) and Promoted (Yes/No) on the News Article page type.</p></li>
+</ol>
+<img alt="../../_images/globalnews-properties.png" src="../../_images/globalnews-properties.png" />
+</div>
+<div class="section" id="local-news">
+<h2>Local News<a class="headerlink" href="#local-news" title="Permalink to this headline">¶</a></h2>
+<p>Follow these instructions to configure a publishing app for local news.</p>
+<ol class="arabic simple">
+<li><p>Go to SharePoint admin center &gt; Content services &gt; Term store and ensure term sets for Organization and Location.</p></li>
+</ol>
+<img alt="../../_images/termsets-orgloc.png" src="../../_images/termsets-orgloc.png" />
+<ol class="arabic simple" start="2">
+<li><p>Go to SharePoint admin center &gt; More features &gt; User profiles &gt; Manage User Properties</p></li>
+<li><p>Create user profile properties for organizational and location belonging.</p></li>
+</ol>
+<img alt="../../_images/userprofileproperty-organization.png" src="../../_images/userprofileproperty-organization.png" />
+<hr class="docutils" />
+<img alt="../../_images/userprofileproperty-location.png" src="../../_images/userprofileproperty-location.png" />
+<ol class="arabic simple" start="4">
+<li><p>Create user profile properties for organizational and location subscription.</p></li>
+</ol>
+<img alt="../../_images/userprofileproperty-organizationsub.png" src="../../_images/userprofileproperty-organizationsub.png" />
+<hr class="docutils" />
+<img alt="../../_images/userprofileproperty-locationsub.png" src="../../_images/userprofileproperty-locationsub.png" />
+<ol class="arabic simple" start="5">
+<li><p>Go to Omnia Admin &gt; Properties &gt; Enterprise Properties and create taxonomy properties for Organization and Location.</p></li>
+</ol>
+<img alt="../../_images/enterpriseproperty-organization.png" src="../../_images/enterpriseproperty-organization.png" />
+<ol class="arabic simple" start="6">
+<li><p>Go to Omnia Admin &gt; Properties &gt; Queryable Properties &gt; Pages and add the properties Organization and Location.</p></li>
+<li><p>Go to Omnia Admin &gt; Properties &gt; Targeting Properties and add the following properties.</p></li>
+</ol>
+<img alt="../../_images/organization-belonging.png" src="../../_images/organization-belonging.png" />
+<img alt="../../_images/organization-subscription.png" src="../../_images/organization-subscription.png" />
+<img alt="../../_images/location-belonging.png" src="../../_images/location-belonging.png" />
+<img alt="../../_images/location-subscription.png" src="../../_images/location-subscription.png" />
+<ol class="arabic simple" start="8">
+<li><p>Go to Omnia Admin &gt; Web Content Management &gt; Page Types and create a new page type: “Local News Article”.</p></li>
+<li><p>Use the layout template “News Page - Grey”.</p></li>
+<li><p>Add the following properties to the page layout:</p></li>
+</ol>
+<img alt="../../_images/localnews-settings.png" src="../../_images/localnews-settings.png" />
+<ul class="simple">
+<li><p>Object Type should be hidden from the edit dialog with default value “News Article”.</p></li>
+<li><p>Page Type should default to “Current User”.</p></li>
+<li><p>Article Date should default to “Today”.</p></li>
+<li><p>Organization and Location should allow multiple values.</p></li>
+</ul>
+<ol class="arabic simple" start="11">
+<li><p>Go to Microsoft 365 admin center &gt; Teams &amp; groups and add a new security group: “Local News Authors”. Add appropriate members to the group.</p></li>
+<li><p>Go to Omnia Admin and create a new publishing app for “Local News”.</p></li>
+<li><p>Go to the newly created publishing app and create a default page collection.</p></li>
+</ol>
+<img alt="../../_images/globalnews-createpagecollection.png" src="../../_images/globalnews-createpagecollection.png" />
+<ol class="arabic simple" start="14">
+<li><p>Select “News Center - Grey” as layout template.</p></li>
+<li><p>Go to the page collection settings and configure the following:</p></li>
+</ol>
+<blockquote>
+<div><ul class="simple">
+<li><p>Change the Dialog Title to “Create Local News Article”.</p></li>
+<li><p>Uncheck “Show Url”.</p></li>
+<li><p>Add the page type “Local News Article (Tenant)”.</p></li>
+<li><p>Check “Break permission inheritance by default” and “Allow invitation of co-authors”.</p></li>
+</ul>
+</div></blockquote>
+<img alt="../../_images/localnews-breakinheritance.png" src="../../_images/localnews-breakinheritance.png" />
+<ol class="arabic simple" start="16">
+<li><p>Set permissions on the page collection based on the previously created security group.</p></li>
+</ol>
+<img alt="../../_images/localnews-permissions.png" src="../../_images/localnews-permissions.png" />
+<ol class="arabic simple" start="17">
+<li><p>Go to the publishing app settings.</p></li>
+<li><p>Set the previously created page collection as default and save.</p></li>
+</ol>
+</div>
 </div>
 
 
@@ -203,7 +384,7 @@
     <p>
         &#169; Copyright 2022, Precio Fishbone.
       <span class="lastupdated">
-        Last updated on Apr 11, 2022.
+        Last updated on Apr 25, 2022.
       </span>
 
     </p>

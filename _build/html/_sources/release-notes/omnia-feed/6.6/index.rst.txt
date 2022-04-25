@@ -1,4 +1,4 @@
-Release 6.6
+Release 6.6 / 6.7 / 6.8
 ========================================
 
 Configurable Notifications
@@ -35,7 +35,7 @@ This is useful for supporting the editors of your omnia solution. Combined with 
 
 Mobile App Localization
 --------------------------------------
-It’s now possible to translate any label in the mobile app from Omnia Admin. All languages officially supported in Omnia will also be supported in the mobile app.
+Itâ€™s now possible to translate any label in the mobile app from Omnia Admin. All languages officially supported in Omnia will also be supported in the mobile app.
 
 Remember to set your language in the settings of the mobile app.
 

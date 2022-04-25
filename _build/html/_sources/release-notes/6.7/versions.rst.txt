@@ -1,21 +1,14 @@
-6.8.0 - DRAFT
+6.8.0
 ========================================
 (Omnia 6.8.1 / Workplace 6.8.1 / WCM 6.8.1 / MS 6.8.1)
 
-New Major Features
+Features
 **************************
 - Quick setup wizard is now available when creating new tenants.
-
-- Several enhancements to accessbility (WCAG)
- - Improved Opacity in the breadcrumb.
- - Better aria labels and keyboard navigation for the mobile menu.
- - Better aria labels and keyboard navigation for the current navigation.
- - Better aria labels and keyboard navigation for the mega menu.
- - Logo text is now used as tooltip and alt text for the logo image.
- 
 - Each page collection can now configure default values for its page types (#113403).
+- Its now possible to configure "Current Node" as the start node in page roll up navigation path query.
 
-New Minor Features
+Improvements
 **************************
 - Omnia App Permissions has been lowered.
 - Multiline text properties are now supported on Process properties. (#134554).
@@ -23,6 +16,20 @@ New Minor Features
 - The strengthen profile button is now configurable to show or hide on the User Profile Card. 
 - Reworked settings UI for custom email providers.
 - When machine translating on a block, any language can now be selected.
+- Better support for retention policies on publishing apps. Removing pages should now work with retention in folders turned on.
+- The media picker now has a more suitable design for transparent images (#135188).
+- Several enhancements to accessibility (WCAG)
+ - Improved Opacity in the breadcrumb.
+ - Better aria labels and keyboard navigation for the mobile menu.
+ - Better aria labels and keyboard navigation for the current navigation.
+ - Better aria labels and keyboard navigation for the mega menu.
+ - Logo text is now used as tooltip and alt text for the logo image.
+ - Added tooltips to the notification panel icons (#124162).
+ - Its now possible to specify "Main Heading" in a page layout.
+ - Most action bar actions can now specify a role attribute.
+ - Closing behavior of the mega menu has been corrected.
+ 
+ 
 
 
 Fixes
@@ -37,11 +44,51 @@ Fixes
 - Search now displays correct message when no search has been made (#113490).
 - People and date can now be shown individually of each other on the card view (#133331).
 - Fixed an issue with default values for Yes/No fields (#135454).
-- When searching for specific metadata in the document piccker, the title will stay searchable (#133520).
+- When searching for specific metadata in the document picker, the title will stay searchable (#133520).
 - Stability improvements to the yammer integration.
 - Stability improvements to the anchor feature. 
+- Fixed an issue with creating new documents when having many document templates in the system (#135764).
+- Fixed an issue with searching a paging in the Teamwork rollup (#136024).
+- Better support in scenarios when more than 14 different languages are used for content. 
+- Fixed an issue with deleting app instance Queryable properties.
+- Double quotes now works as expected when searching. 
+- Fixed a context issue when setting up teamwork templates in Omnia Admin. 
+- Fixed an issue with image scaling in the newsletter (#135437).
+- Item limit now works as intended for the MS Teams Channel block (#134990).
+- Better handling for approving processes without a comment (#131023).
+- Corrected an issue with birthday rendering in the people card (#135606).
+- Color settings for icons in the new mega menu now works correctly (#136006).
+- Bulk update can now correctly filter on people properties in all scenarios.
+
+
+
 
 Also resolves (#115655, #117305, #114222, #124003, #120422)
+
+6.7.17
+========================================
+(Omnia 6.7.14 / Workplace 6.7.17 / WCM 6.7.9 / MS 6.7.7)
+
+- Fixed an issue where templates based on another controlled document would not work correctly in some tenants.
+- Controlled documents can now be created from an empty template.
+- Increased performance for editing the people rollup.
+- Stacked processes now works as expected (#136302).
+- Increased page size for the image picker, solves problem when many folders are present on the root level (#136358).
+- Excel export for forms now works as expected in all scenarios (#136397).
+
+
+
+6.7.16
+========================================
+(Omnia 6.7.13 / Workplace 6.7.16 / WCM 6.7.8 / MS 6.7.5)
+
+- Fixed an issue with editing links (#136303).
+- Updated validation logic for Urls in the Action button, it's now possible to create javascript: constructs again.
+- Fixed an issue where pages could not be approved in some scenarios (#134934).
+- The termpicker now exapnds correctly when only one root node is present (#136050, #136058).
+- Corrected the email flow for variation authors. 
+- Old images (pre 6.0) Now render the correct icons to convert for svg images.
+
 
 6.7.12
 ========================================

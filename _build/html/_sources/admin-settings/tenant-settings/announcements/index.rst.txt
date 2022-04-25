@@ -99,9 +99,9 @@ To create a new Type, click the plus:
 
 Set the following:
 
-.. image:: add-type-settings-new.png
+.. image:: add-type-settings-new2.png
 
-1. Add a Title.
+1. Add a Title in any or all tenant languages (click the fal to change language).
 2. Select Icon Type.
 3. Select Icon. 
 4. Click the plus to save the Type.
@@ -116,7 +116,7 @@ The existing Types are Status options, with selected color shown. Edit and delet
 
 To create a new Status option, click the plus:
 
-.. image:: status-create-new3.png
+.. image:: status-create-new4.png
 
 Set the following:
 

@@ -27,9 +27,6 @@ This is then shown:
 
 .. image:: queryable-app-instances-new.png
 
-2. Select a Enterprise Property in the list and click ADD.
+2. Select an Enterprise Property in the list and click ADD.
 3. Save when you're done.
-
-
-
 

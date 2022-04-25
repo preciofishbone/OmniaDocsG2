@@ -133,6 +133,8 @@ Using this action a Link Action can be added, meaning a link can be opened:
 + **Target**: Choose if the link should be opened in a new window, the current window, or in a dialog. 
 + **Dialog Position**: If you selected "Dialog" for Target, you can select where to place the dialog: Center, Full screen, Left or Right.
 
+For more information about how to work with, and link to, anchors, see: :doc:`Using Anchors </general-assets/using-anchors/index>`
+
 My Links
 ---------
 Using this action the logged in users My Links can be shown.

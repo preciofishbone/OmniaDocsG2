@@ -44,15 +44,20 @@ You can try out these settings for various effects. You can see a preview in the
 
 Header
 *********
-For Header you can choose to use the global settings (set up in Omnia Admin) or use Custom Settings for this block. You can also select an icon, if one should be shown (If you don't salect an icon, Icon Type has no effect.)
+The follwowing is available for header settings:
 
-.. image:: layout-header-new2.png
+.. image:: layout-header-new3.png
 
-For Custom Header Settings you can set the following for TEXT:
++ **Anchor Name**: You can set an anchor name for this block. When a block has an anchor name, you can link to the block, using a the Add Link block or using an Action Button.
++ **Icon Type**: If you would like an icon to be shown for the block, the first step is to select icon type. (If you don't select an icon, Icon Type has no effect).
++ **Icon**: After having selected icon type, then select the icon.
++ **Custom settings**: For Header you can choose to use the global settings (set up in Omnia Admin) or use Custom Settings for this block.
+
+Available custom settings for TEXT:
 
 .. image:: layout-header-custom-new2.png
 
-The following is available for STYLE:
+You can set these custom settings, for STYLE:
 
 .. image:: layout-header-custom-style.png
 
