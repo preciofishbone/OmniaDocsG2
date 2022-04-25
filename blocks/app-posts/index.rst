@@ -3,6 +3,8 @@ Posts block
 
 This block makes it possible to post conversation messages in an app. It can be used to implement a discussion within a community or a conversation within a teamwork.
 
+The block is available in Omnia 6.10 and later.
+
 The following settings are available:
 
 .. image:: posts-block-all.png
