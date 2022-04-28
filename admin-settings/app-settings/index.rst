@@ -1,7 +1,7 @@
 App settings
 ==============
 
-This page describes Appd settings in Omnia 6.8. For information about the settings in Omnia 6.10, see: :doc:`Features (App) in Omnia 6.10 </admin-settings/app-settings/app-features-610/index>`
+This page describes App settings in Omnia 6.8. For information about the settings in Omnia 6.10, see: :doc:`App settings in Omnia 6.10 </admin-settings/app-features-610/index>`
 
 There are a few settings available on App level (site level). Here's what can be available:
 
