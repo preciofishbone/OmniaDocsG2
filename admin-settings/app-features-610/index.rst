@@ -35,7 +35,7 @@ Under Settings, the following is available:
 
 Edit settings
 ---------------
-Here you can edit the settings for the App (site), which was set when the App was created. The settings available depends on the Template selected for the App. 
+Here you can edit the settings for the App (site), which was set when the App was created. The settings available depends on the template selected for the App. 
 
 .. image:: app-settings-settings-edit-new.png
 
@@ -47,4 +47,4 @@ If necessary, you can change to another template for the App (site) here, but th
 
 .. image:: app-settings-settings-template-new.png
 
-First select Profile and then select Template for the profile. (Available templates depend on the profle chosen).
+First select Profile and then select Template for the profile. (Available templates depend on the profile chosen).
