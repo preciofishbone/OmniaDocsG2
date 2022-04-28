@@ -23,7 +23,7 @@ An example: If your organization is using Document Management, you must go here 
 
 Security
 **********
-Use Permissions to add or remove App Administrators and App Contributors.
+Click "Users and Group" to add or remove App Administrators and App Contributors.
 
 .. image:: app-settings-security-new.png
 
