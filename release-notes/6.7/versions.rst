@@ -1,3 +1,42 @@
+6.8.6
+========================================
+(Omnia 6.8.6 / Workplace 6.8.5 / WCM 6.8.6 / MS 6.8.3)
+
+- Fixed an issue with token refresh for the new Teams Prescence feature.
+- Click out on the mega menu now works as expected.
+- Fixed the document management template creation feature from the document rollup (#124080, #128727).
+- Process Management now follows the business profile settings (#137195).
+- OnPrem: Sent for comments now shows the user correctly.
+
+
+6.8.5
+========================================
+(Omnia 6.8.5 / Workplace 6.8.4 / WCM 6.8.5 / MS 6.8.2)
+
+- Fixed a filtering issue on the page rollup (#136700).
+- Better handling when rejecting an Event Management invite from Outlook.
+- OnPrem: Waiting for approval dialog now works correctly. 
+- OnPrem: Fixed targeting by language. 
+
+
+6.8.3
+========================================
+(Omnia 6.8.3 / Workplace 6.8.3 / WCM 6.8.3 / MS 6.8.1)
+
+- Fixed an issue that prevented forms result to be exported to Excel (#136397).
+- Fixed an issue with counting Event attendees (#136458).
+- Stability improvements to the Azure AD Sync (#136568).
+
+6.8.2
+========================================
+(Omnia 6.8.2 / Workplace 6.8.1 / WCM 6.8.2 / MS 6.8.1)
+
+- Corrected subscribe label on an enterprise glossary term.
+- Updates to the default content community template.
+- Fixed a rendering glitch in the Process Rollup
+- Fixes to Community Rollup scroll paging.
+
+
 6.8.0
 ========================================
 (Omnia 6.8.1 / Workplace 6.8.1 / WCM 6.8.1 / MS 6.8.1)
