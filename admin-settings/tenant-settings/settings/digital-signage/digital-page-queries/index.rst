@@ -3,7 +3,7 @@ Page Queries
 
 **This documentation is just started. More will be added soon.**
 
-The first youn see is the list of Page Queries that has been created so far:
+The first you see is the list of Page Queries that has been created so far:
 
 .. image:: page-queries-list.png
 
