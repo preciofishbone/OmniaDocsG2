@@ -1,8 +1,6 @@
 Features (Tenant) in Omnia 6.10
 =================================
 
-**This documentation is just started. Will be completed in a few days.**
-
 All available Features for the Tenant is listed here and can be activated, deactivated and updated when needed. Here's an example:
 
 .. image:: features-tenant-new9.png
