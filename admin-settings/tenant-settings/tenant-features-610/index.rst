@@ -11,9 +11,9 @@ Exactly what is available can differ depending on how the Tenant is set up.
 
 System
 **********
-+ **Enable Custom System Email** : As it states, this feature must be activated if Custom System Email functionality is needed in the tenant.
-+ **Web Content Managament file storage**: (A description will be added soon).
-+ **Teamwork provisioning using application context**: (A description will be added soon).
++ **Enable Custom System Email**: As it states, this feature must be activated if Custom System Email functionality is needed in the tenant.
++ **Web Content Managament file storage**: When activated, the option "Copy documents locally" becomes available in the settings for the Realated Links block. Documents that are locally accessible are versioned together with the page and can be accessed by users without a SharePoint license.
++ **Teamwork provisioning using application context**: Must be activated for the option to create teamwork in the app's context.
 
 Default configuration
 ******************************
@@ -29,7 +29,7 @@ Integration
 *************
 Here's an example of what can be available here:
 
-+ **Support Kaizala login**: (A description will be added soon).
++ **Support Kaizala login**: As it states. Was called "Allow mobile login" in earlier Omnia version.
 + **Microsoft Teams presence**: If activated, Teams presence is indicated by all people icons in Omnia (see below).
 + **Yammer posts and comments integration**: There's a lot of integration between Yammer and Omnia that is possible without having to activate this feature, but in order to use the new, improved Yammer integration where a post will be created in the selected Yammer community whenever a new page, matching the selected criteria, is created - this feature must be activated.
 
