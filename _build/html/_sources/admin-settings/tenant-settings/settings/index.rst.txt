@@ -1,17 +1,18 @@
 Settings
 ====================
 
-Here you can set the following:
+Here you can set the following (image from Omnia 6.10):
 
-.. image:: tenant-settings-new4.png
+.. image:: tenant-settings-new5.png
 
 Select section for more information:
 
 .. toctree::
    :titlesonly:
 
-   general/index
+   digital-signage/index
    favicon-tenant/index
+   general/index
    header/header-65/index
    media-picker/index
    metrics/index
@@ -19,4 +20,4 @@ Select section for more information:
    rtf-editor/index
    text-styles/index
    user-profile-completion/index
-
+   

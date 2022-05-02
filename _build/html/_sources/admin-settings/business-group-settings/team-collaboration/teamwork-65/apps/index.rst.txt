@@ -5,6 +5,8 @@ Here Teamworks are listed, the "Active" tab as an example:
 
 .. image:: teamwork-65-apps-new.png
 
+In Omnia 6.10 and later an "Inactive" tab has been added. For more information, see the end of the page.
+
 Active
 *****************
 Use the icons this way on the Active tab:
@@ -155,3 +157,23 @@ You can "detach" (delete) a site if needed. Then the following permissions are n
 + For a Sharepoint site: Site Owner or Site Collection Administrator permissions.
 
 **Note!** What actually happens when you click the dust bin to delete a site, is that the site is detached. That is true for all Teamwork sites, regardless of if they have been created in or attached to Omnia.
+
+Inactive
+***********
+In Omnia 6.10 and later an "Inactive" tab is available. A teamwork is considered inactive if Last Activity, as registered in the Sharepoint site, is more thna three months old.
+
+.. image:: teamwork-apps-inactive.png
+
+Here administrators can check/edit the settings for the teamworks and delete a teamwork that is not needed. The list can be sorted by "Created Date" or ´"Last Activity", to for example see if any activity has taken place at all.
+
+Click SYNCHRONIZE LAST ACTIVITY to update the list with the latest activities. The list is not updated automatically. Note that if there are a huge number of teamworks in your solution, the update can take some time.
+
+Click the pen to check the settings for a teamwork. All settings can then be checked an edited:
+
+.. image:: teamwork-apps-inactive-edit.png
+
+To delete a teamwork, click the dust bin. Then this is shown:
+
+.. image:: teamwork-apps-inactive-edit-ok.png
+
+**Important Note!** When you click OK here the delete is final. There's no way to retrieve a deleted teamwork.

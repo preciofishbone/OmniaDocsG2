@@ -1,9 +1,9 @@
 Teamwork
 ===============
 
-Here you can work with the apps and templates for Teamwork:
+Here you can work with the apps and templates for Teamwork (image from Omnia 6.10):
 
-.. image:: teamwork-65-all-new.png
+.. image:: teamwork-610-all.png
 
 Select section for more information:
 
@@ -11,6 +11,8 @@ Select section for more information:
    :titlesonly:
 
    apps/index
+   naming-policies/index
+   teamwork-layout/index
    templates/index
 
 
