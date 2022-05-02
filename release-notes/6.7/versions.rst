@@ -1,3 +1,32 @@
+6.8.11
+========================================
+(Release Omnia 6.8.11 / Workplace 6.8.9 / WCM 6.8.9 / MS 6.8.5)
+
+- Corrected an issue with filtering in the people rollup (#137678).
+- Teams channel feed images now loads in all scenarios.
+- OnPrem: Profile card now works as expected. 
+- Corrected an issue in the excel export on page reports (#137923).
+
+6.8.10
+========================================
+(Omnia 6.8.8 / Workplace 6.8.6 / WCM 6.8.7 / MS 6.8.4)
+
+- Updated SPFx install instructions to align with an Url change from Microsoft.
+- Corrected an issue with Teams Presence  (#137590).
+- Creating new documents from the Document rollup now works as expected (#127591).
+- Custom icons now works as expected for related links (#137635).
+
+6.8.8
+========================================
+(Omnia 6.8.8 / Workplace 6.8.6 / WCM 6.8.7 / MS 6.8.4)
+
+- Fixed an issue with the enterprise glossary that would sometimes prevent details to show (#136729).
+- Fixed an upgrade issue with texts on Action Buttons (#137434).
+- Fixed sort order in the Advanced Search (#136405).
+- Measure to better handling Throttling for Microsoft. (#137123).
+- OnPrem: Fixed the profile picture ratio.
+
+
 6.8.6
 ========================================
 (Omnia 6.8.6 / Workplace 6.8.5 / WCM 6.8.6 / MS 6.8.3)
