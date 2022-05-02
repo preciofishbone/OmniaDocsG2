@@ -15,6 +15,8 @@ All colleagues with editor permissions to a page can archive that page. The edit
 
 For more technical information about archiving pages, see the bottom of this description.
 
+**Important Note!** In Omnia 6.10 this functionality is called Delete. It's only a change of label, the functionality is the same.
+
 Here's how to archive a page:
 
 1. Go to the page (if it's a page you haven't published you must edit any page and then open the edit navigation to go to the page to archive).

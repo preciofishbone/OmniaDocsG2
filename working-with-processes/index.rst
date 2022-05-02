@@ -14,3 +14,4 @@ Select section for more information:
    processes-library-settings/index
    processes-archive/index
    displaying-processes-for-users/index
+   print-process/index

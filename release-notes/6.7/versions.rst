@@ -1,3 +1,71 @@
+6.8.11
+========================================
+(Release Omnia 6.8.11 / Workplace 6.8.9 / WCM 6.8.9 / MS 6.8.5)
+
+- Corrected an issue with filtering in the people rollup (#137678).
+- Teams channel feed images now loads in all scenarios.
+- OnPrem: Profile card now works as expected. 
+- Corrected an issue in the excel export on page reports (#137923).
+
+6.8.10
+========================================
+(Omnia 6.8.8 / Workplace 6.8.6 / WCM 6.8.7 / MS 6.8.4)
+
+- Updated SPFx install instructions to align with an Url change from Microsoft.
+- Corrected an issue with Teams Presence  (#137590).
+- Creating new documents from the Document rollup now works as expected (#127591).
+- Custom icons now works as expected for related links (#137635).
+
+6.8.8
+========================================
+(Omnia 6.8.8 / Workplace 6.8.6 / WCM 6.8.7 / MS 6.8.4)
+
+- Fixed an issue with the enterprise glossary that would sometimes prevent details to show (#136729).
+- Fixed an upgrade issue with texts on Action Buttons (#137434).
+- Fixed sort order in the Advanced Search (#136405).
+- Measure to better handling Throttling for Microsoft. (#137123).
+- OnPrem: Fixed the profile picture ratio.
+
+
+6.8.6
+========================================
+(Omnia 6.8.6 / Workplace 6.8.5 / WCM 6.8.6 / MS 6.8.3)
+
+- Fixed an issue with token refresh for the new Teams Prescence feature.
+- Click out on the mega menu now works as expected.
+- Fixed the document management template creation feature from the document rollup (#124080, #128727).
+- Process Management now follows the business profile settings (#137195).
+- OnPrem: Sent for comments now shows the user correctly.
+
+
+6.8.5
+========================================
+(Omnia 6.8.5 / Workplace 6.8.4 / WCM 6.8.5 / MS 6.8.2)
+
+- Fixed a filtering issue on the page rollup (#136700).
+- Better handling when rejecting an Event Management invite from Outlook.
+- OnPrem: Waiting for approval dialog now works correctly. 
+- OnPrem: Fixed targeting by language. 
+
+
+6.8.3
+========================================
+(Omnia 6.8.3 / Workplace 6.8.3 / WCM 6.8.3 / MS 6.8.1)
+
+- Fixed an issue that prevented forms result to be exported to Excel (#136397).
+- Fixed an issue with counting Event attendees (#136458).
+- Stability improvements to the Azure AD Sync (#136568).
+
+6.8.2
+========================================
+(Omnia 6.8.2 / Workplace 6.8.1 / WCM 6.8.2 / MS 6.8.1)
+
+- Corrected subscribe label on an enterprise glossary term.
+- Updates to the default content community template.
+- Fixed a rendering glitch in the Process Rollup
+- Fixes to Community Rollup scroll paging.
+
+
 6.8.0
 ========================================
 (Omnia 6.8.1 / Workplace 6.8.1 / WCM 6.8.1 / MS 6.8.1)

@@ -1,6 +1,8 @@
 Features - Business Profile
 ===========================================
 
+This page describes the features available in Omnia 6.8. For information about features in Omnia 6.10, see this page: :doc:`Features (Business Profile) in Omnia 6.10 </admin-settings/business-group-settings/business-profile-features-610/index>`
+
 All available Features for the Business Profile is listed here and can be activated, deactivated and updated. Here's an example:
 
 .. image:: features-business-profile-new5-red.png

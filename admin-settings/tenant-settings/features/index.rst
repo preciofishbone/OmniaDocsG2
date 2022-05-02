@@ -1,6 +1,8 @@
 Features - Tenant
 =====================
 
+This page describes the features available in Omnia 6.8. For a description of features in Omnia 6.10, see this page: :doc:`Features (Tenant) in Omnia 6.10 </admin-settings/tenant-settings/tenant-features-610/index>`
+
 All available Features for the Tenant is listed here and can be activated, deactivated and updated when needed. Here's an example:
 
 .. image:: features-tenant-new8.png
