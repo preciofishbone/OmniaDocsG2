@@ -1,9 +1,7 @@
 Views as HTML
 =====================================
 
-**This documentation is just started. More will be added soon**.
-
-If you will use HTML settings for the views on the screens, add the different views here.
+If you will use HTML settings for the views on the screens, add the different views here. (This is very similar to the view settings for Info Screen).
 
 The first you see is the list of views that has been created so far (none in this example):
 
