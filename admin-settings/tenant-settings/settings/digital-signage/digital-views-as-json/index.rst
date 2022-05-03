@@ -1,7 +1,7 @@
 Views as JSON
 =====================================
 
-**This documetation is just started. Moree will be added soon**.
+**This documentation is just started. More will be added soon**.
 
 If you will use JSON settings for the views on the screens, add the different views here.
 
