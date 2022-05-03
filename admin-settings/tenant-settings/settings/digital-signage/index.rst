@@ -5,7 +5,7 @@ The following options are available for Digital Signage in Omnia 6.10. This func
 
 Prerequisite: the feature Digital Signage must be activated.
 
-.. image:: digital-signage-all.png
+.. image:: digital-signage-all-new.png
 
 Select option for more information:
 
