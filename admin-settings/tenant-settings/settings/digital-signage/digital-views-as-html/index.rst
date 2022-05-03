@@ -1,7 +1,9 @@
 Views as HTML
 =====================================
 
-**This documentation os just started. More will be added soon.**
+**This documentation is just started. More will be added soon**.
+
+If you will use HTML settings for the views on the screens, add the different views here.
 
 The first you see is the list of views that has been created so far:
 
