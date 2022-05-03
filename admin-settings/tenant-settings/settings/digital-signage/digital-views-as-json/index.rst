@@ -1,6 +1,10 @@
 Views as JSON
 =====================================
 
+**This documetation is just started. Moree will be added soon**.
+
+If you will use JSON settings for the views on the screens, add the different views here.
+
 The first you see is the list of views that has been created so far:
 
 .. image:: page-view-json-list.png
@@ -13,14 +17,6 @@ To edit a view, click the pen. To add a new view, so the following:
 .. image:: page-view-json-settings.png
 
 (A description will be added sooon).
-
-
-
-
-
-
-
-
 
 
 
