@@ -3,6 +3,8 @@ Page Rollup
 
 This block can be used for many purposes, for example to rollup new news, latest news and similar - and for much more regarding pages, not just for news. The Page Rollup is, for example, an important part of a Newsletter implementation, and for an Event Management implementation.
 
+In Omnia 6.10 and later, this block can also be used to rollup statistics for pages.
+
 Settings
 *********
 These settings are available for the block:
