@@ -27,7 +27,7 @@ Here you activate, update or remove features for the App (site), for example:
 + **Controlled Documents Library**: Activate to create a Controlled Documents Library in this app. Needed for creating and editing controlled documents.
 + **Controlled Documents Archive**: Activate to create a controlles documents archive in this app. There can be several archives of this type in a tenant, but only one in each app.
 + **Event Management Page Types**: If you're going to use event management in this app, activate this feature for a starting point for creating such pages.
-+ **Project site**: (A description will be added soon).
++ **Project site**: Creates a project site within this app.
 + **SPFx Infrastructure**: Needed for Omnia functionality to be available in Sharepoint.
 + **Navigation**: Makes the navigation bar available.
 
