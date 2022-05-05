@@ -19,7 +19,17 @@ Here you activate, update or remove features for the App (site), for example:
 
 .. image:: app-settings-features.png
 
-An example: If your organization is using Document Management, you must go here to activate the Controlled Documents library for sites where working with Controlled Documents should be possible. (In this example Controlled Documents is already activated). If any updates to that Features is needed, you go here as well.
++ **Process Archive**: Activate to create a process archive in this app. There can be several process archives in a tenant, but only one in each app.
++ **Apply MS Teams to a Microsoft 365 group**: Needed for specialized Omnia setups. Also needed for Omnia Teams templates. If a Teams template is created, this feature is automatically activated.
++ **Publishing App Infrastructure**: Needed for the page archive functionality.
++ **Show ”New from template"**: When activated, a button is shown in document libraries, including controlled documents librarues, to create a new document (using the wizard). A document created using this button is per default created in the actual library.
++ **Process Library**: Activate to create a Process Library in this app. Needed for creating and editing processes.
++ **Controlled Documents Library**: Activate to create a Controlled Documents Library in this app. Needed for creating and editing controlled documents.
++ **Controlled Documents Archive**: Activate to create a controlles documents archive in this app. There can be several archives of this type in a tenant, but only one in each app.
++ **Event Management Page Types**: If you're going to use event management in this app, activate this feature for a starting point for creating such pages.
++ **Project site**: (A description will be added soon).
++ **SPFx Infrastructure**: Needed for Omnia functionality to be available in Sharepoint.
++ **Navigation**: Makes the navigation bar available.
 
 Security
 **********
