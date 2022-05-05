@@ -17,7 +17,7 @@ Here you can add a title for block:
 
 .. image:: page-rollup-settings-general-frame.png
 
-If any variations exist, as in the example above, titles in other languages are handled through variations. If no variations exist you can add titles in any or all languages in the tenant.
+If any variations exist, titles in other languages are handled through variations. If no variations exist you can add titles in any or all languages in the tenant.
 
 Query
 ------
