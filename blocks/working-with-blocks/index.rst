@@ -3,7 +3,7 @@ Working with blocks on pages
 
 This documentation mainly contains general information about how to work with blocks in Design mode on Publishing Pages (but also see information about Write mode at the bottom).
 
-**Note!** The Blocks that belong to the Page Type is locked and can not be moved or deleted, and the settings can't be changed for these Blocks.
+**Note!** In Omnia 6.8 and earlier, the Blocks that belong to the Page Type is locked and can not be moved or deleted, and the settings can't be changed for these Blocks. In Omnia 6.10 it may be possible for an editor (Design permission) to unlock a block, if the Page Type has been set up that way. For more information about this, see below.
 
 For more information about how to work with blocks in a Page Type, see: :doc:`Sections and blocks in Page Types </pages/page-types/working-with-sections-and-blocks/index>`
 
@@ -109,6 +109,20 @@ To remove a block. do the following:
 **Note!** A block that belongs to the Page Type is locked and can not be removed, nor edited. It is shown this way:
 
 .. image:: locked-block-new4.png
+
+Unlock a block
+*******************
+In Omnia 6.10 and later it can be possible to unlock a block, if the Page Type allow it. If it's possible, the settings can then be edited, but the block can still not be moved or deleted.
+
+If a block can be unlocked, there's a small dot in in the lock icon. Click the lock icon to unlock.
+
+.. image:: block-unlock.png
+
+The following is then shown:
+
+.. image:: block-unlock-unlock.png
+
+If you click OK the settings can be edited for that block.
 
 Editing contents of a block
 ****************************
