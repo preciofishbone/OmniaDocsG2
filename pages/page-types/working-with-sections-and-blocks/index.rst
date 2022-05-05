@@ -108,7 +108,7 @@ In Omnia 6.10 additional settings for locking of blocks are available, under "Lo
 
 .. image:: lock-menu.png
 
-You can set if it should be possible to unlock the settings for a block. The block can still not be moved and can not be deleted.
+You can decide if it should be possible to unlock the settings for a block. The block can still not be moved and can not be deleted.
 
 The following options are available here:
 
