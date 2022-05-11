@@ -46,6 +46,8 @@ Or:
 3. Select to include all children properties.
 
 .. image:: select-children-all-new2.png
+
+4. To add more targeting filter, repeat the process.
   
 To delete a targeting filter, just click the x.
 
