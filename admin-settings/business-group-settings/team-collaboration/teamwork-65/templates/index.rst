@@ -46,7 +46,7 @@ Click "Add Targeting Filter" and the following is shown:
 
 .. image:: specific-users-filter.png
 
-You use targeting here the same way as in other parts of Omnia. For more information, see for example the heading "Targeting" at the bottom of this page: :doc:`Settings for sections </pages/page-types/section-settings/index>`
+You use targeting here the same way as in other parts of Omnia. For more information, see this page: :doc:`Using Targeting </general-assets/targeting-in-omnia/index>`
 
 Also note that all properties that should be available for targeting must be setup in the Targeting Properties list, see: :doc:`Targeting Properties </admin-settings/tenant-settings/properties/targeting-properties/index>`
 
