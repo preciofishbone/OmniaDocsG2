@@ -13,6 +13,7 @@ What you can target
 ********************
 You can use use targeting for the following options in Omnia (the list is not complete yet):
 
++ Search categories.
 + Sections.
 + Page Variations.
 + Most blocks.
@@ -20,8 +21,10 @@ You can use use targeting for the following options in Omnia (the list is not co
 + Action Menu objects.
 + Shared Links.
 + Promoted Search Results.
++ Teamwork templates.
 + Publishing Channels.
 + News articles.
++ Announcements.
 
 How to use targeting
 **********************
