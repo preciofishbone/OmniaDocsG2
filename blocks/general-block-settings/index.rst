@@ -73,17 +73,13 @@ You can just try out different settings and see the effect in the block.
 
 Targeting
 ************
-A lot of blocks can be targeted to one or more groups using Targeting Properties. The Targeting Properties must be set up in Omnia Admin, see the section on this page: :doc:`Properties </admin-settings/tenant-settings/properties/index>`
+A lot of blocks can be targeted to one or more groups using Targeting Properties. 
 
 To target a block, open the settings for the block and select "Add Targeting Filter".
 
 .. image:: layout-targeting-new2.png
 
-Then select Targeting Property from the list. As the next step you can select to include all Children, or you can target one or more of the Children specifically. Here's an example with the Sweden office selected for the Office property.
-
-.. image:: targeting-sweden-new2.png
-
-You can add as many Targeting Properties for a block as is needed, this way. To remove a target, just click the X.
+You set up targeting for a block, if available, the same way as in many other parts of Omnia. See this page for more information: :doc:`Using Targeting </general-assets/targeting-in-omnia/index>`
 
 Custom CSS
 ***********
