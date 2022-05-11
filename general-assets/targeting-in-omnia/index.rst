@@ -1,4 +1,4 @@
-Targeting in Omnia
+Use targeting
 ==============================================
 
 In many places in Omnia you can choose to target information. 
