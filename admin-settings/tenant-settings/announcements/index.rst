@@ -57,25 +57,7 @@ Targeting Announcements
 -------------------------
 An Announcement can be targeted to any receivers that has been defined in Targeting Properties, see the section on this page: :doc:`Properties </admin-settings/tenant-settings/properties/index>`
 
-1. Click "Add Targeting Filter".
-
-.. image:: click-add-targeting-filter-new.png
-
-2. Open the list and select property.
-
-.. image:: targeting-add-property-new.png
-
-3. Select one or more children properties, if applicable.
-
-.. image:: targeting-add-property-sub2.png
-
-Or:
-
-3. Select to include all children properties.
-
-.. image:: include-children-properties-new.png
-
-To delete a targeting filter, just click the x.
+You set up targeting for an announcement the same way as for many other parts of Omnia. See this page for more information: :doc:`Using Targeting </general-assets/targeting-in-omnia/index>`
 
 Settings for Announcements
 ***************************
