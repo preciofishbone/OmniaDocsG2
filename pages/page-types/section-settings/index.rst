@@ -233,7 +233,7 @@ A section can be targeted by using this setting:
 
 .. image:: page-types-settings-targeting-new2.png
 
-Targeting for a section works the same way as targeting in many other places in Omnia. See this page for more information: :doc:`Using Targeting </general-assets/targeting-in-omnia/index>`
+Targeting for a section works the same way as targeting in many other parts of Omnia. See this page for more information: :doc:`Using Targeting </general-assets/targeting-in-omnia/index>`
 
 Custom CSS
 *******************
