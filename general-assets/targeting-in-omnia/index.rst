@@ -27,7 +27,7 @@ You can use use targeting for the following options in Omnia (the list is not co
 
 How to use targeting
 **********************
-Here's how to use targeting. Targeting a shared link is used as an example.
+Here's how to use targeting - targeting a shared link as an example.
 
 1. Click "Add Targeting Filter".
 
