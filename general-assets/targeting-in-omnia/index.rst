@@ -3,8 +3,6 @@ Using Targeting
 
 In many places in Omnia you can choose to target information to certain groups or users. 
 
-**This is a work in progress, will be finished in a few days. In the meantime, see the existing descriptions of targeting in this documentation.**
-
 Prerequisites
 ******************
 Before you can start using the various targeting options in Omnia, properties for this purpose must be set up. See this page for more information:
