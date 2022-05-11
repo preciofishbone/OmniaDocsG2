@@ -1,4 +1,4 @@
-General assets and functionality
+General assets and options
 ===========================================
 
 In this part of the documentation you will find information about general assets and general functionality that are used in various ways in Omnia.
