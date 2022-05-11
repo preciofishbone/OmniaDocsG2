@@ -89,7 +89,7 @@ Targeting a Page Variation
 ----------------------------
 Use targeting for a variation to set which variation of a page that will be displayed to the logged in user. Note that if a Variation Selector block is added to a page, users can always select any of the available variations. This is true even if no targeting is set up. See this page for information about the Variation Selector block: :doc:`Variation Selector </blocks/variation-selector/index>`
 
-**Note!** The Targeting Properties to use must be set up in Omnia Admin, see the section about Targeting Properties on this page: :doc:`Properties </admin-settings/tenant-settings/properties/index>`
+**Note!** The Targeting Properties to use must be set up in Omnia Admin. See this page for more information: :doc:`Targeting Properties </admin-settings/tenant-settings/properties/targeting-properties>`
 
 To target a Page Variation, do the following: 
 
