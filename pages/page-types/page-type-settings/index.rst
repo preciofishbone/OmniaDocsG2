@@ -100,6 +100,8 @@ Note that the settings you do for a property here is valid for this Page Type on
 
 For a description of the fields, see above. Note that a poperty used for automatic archiving should always be read only. 
 
+For more information on deleting, archiving, retrieving and terminating pages, see: :doc:`Delete a page </pages/delete-page/index>`
+
 Calculate based on another property on the page
 ------------------------------------------------
 Automatic archiving can be a calculated value. Note that the property that is used as base for the calculation, must be one of the other properties for the page.
