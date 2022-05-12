@@ -13,10 +13,10 @@ You can use use targeting, for example, for the following options in Omnia:
 
 + Search categories.
 + Sections.
-+ Page Variations.
-+ Most blocks.
 + Mega Menu objects.
 + Action Menu objects.
++ Page Variations.
++ Most blocks.
 + Shared Links.
 + Promoted Search Results.
 + Teamwork templates.
