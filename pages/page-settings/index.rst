@@ -134,7 +134,7 @@ Don't forget to save. The "Save" button is located in the lower right corner.
 
 Archive
 *********
-On this tab, you can set rules for termination of archived pages in the Publishing App. Termination means those pages can no longer be retrived from the archive. Regardless of if you have this option on or not, pages can always be terminated manually in the archive, as long as they are present in the archive.
+On this tab, you can set rules for termination of archived (deleted) pages in the Publishing App. Termination means those pages can no longer be retrived from the archive. Regardless of if you have this option on or not, pages can always be terminated manually in the archive, as long as they are present in the archive.
 
 Here's an example of such a setting:
 
