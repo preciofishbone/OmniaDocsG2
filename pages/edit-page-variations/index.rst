@@ -64,13 +64,16 @@ Delete variations
 You can delete a variation even if the main page should not be deleted. (If the main page is deleted, any variations for that page are always deleted as well.)
 
 1. Open the variation.
-2. Open the action menu and select DELETE.
+2. Save or Discard changes, ir there are changes that has not been saved yet (or the DELETE button will not be available).
+3. Click DELETE.
+
+.. image:: archive-variation-delete.png
 
 Something like the following is shown:
 
-.. image:: archive-variation.png
+.. image:: archive-variation-new.png
 
-3. Type a comment and click OK.
+4. Type a comment and click OK.
 
 A variation can be restored or terminated the same way as pages in the archive.
 
