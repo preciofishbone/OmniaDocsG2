@@ -63,7 +63,7 @@ When deleting a page, it may be possible to create a new draft. This is possible
 
 When it is possible to create a draft when deleting, the following option is available:
 
-.. image:: archive-create-draft-new.png
+.. image:: archive-create-draft-new2.png
 
 Restore or terminate a deleted page
 *****************************************
