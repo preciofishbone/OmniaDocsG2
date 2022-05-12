@@ -107,7 +107,7 @@ To restore a deleted page (with it's sub pages, variations and drafts if that's 
 
 Something like the following is shown:
 
-.. image:: archive-restore-1-new.png
+.. image:: archive-restore-1.png
 
 2. Choose how to restore the page/pages and click OK.
 
