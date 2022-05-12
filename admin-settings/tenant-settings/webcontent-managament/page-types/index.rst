@@ -35,14 +35,14 @@ All pages using the promoted Page Type will continue using it, but the Page Type
 
 **Note!** The promoted Page Type is removed from the list of Page Types in the Publishing App - it can no longer be edited there. As it is a Tenant Page Type from now on, it must be edited in Omnia Admin. 
 
-Archiving a Tenant Page Type
+Deleting a Tenant Page Type
 ******************************
-You can archive a Tenant Page Type the same way as other Page Types in the Publishing App:
+You can delete a Tenant Page Type the same way as other Page Types in the Publishing App:
 
 .. image:: WCM-page-types-archive-menu.png
 
-Archived Tenant Page Types are placed in the Tenant Archive:
+Deleted Tenant Page Types are placed in the Tenant Archive:
 
 .. image:: WCM-page-types-archive-new.png
 
-This archive works the same way as the archive for the Local Page Types, see: :doc:`Archive or restore a Page Type </pages/page-types/archive-restore-page-type/index>`
+This archive works the same way as the archive for the Local Page Types, see: :doc:`Delete or restore a Page Type </pages/page-types/archive-restore-page-type/index>`
