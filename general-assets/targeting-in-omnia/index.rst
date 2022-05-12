@@ -5,9 +5,7 @@ In many places in Omnia you can choose to target information to certain groups o
 
 Prerequisites
 ******************
-Before you can start using the various targeting options in Omnia, properties for this purpose must be set up. See this page for more information:
-
-:doc:`Targeting Properties </admin-settings/tenant-settings/properties/targeting-properties/index>`
+Before you can start using the various targeting options in Omnia, properties for this purpose must be set up. See this page for more information: :doc:`Targeting Properties </admin-settings/tenant-settings/properties/targeting-properties/index>`
 
 What you can target
 ********************
