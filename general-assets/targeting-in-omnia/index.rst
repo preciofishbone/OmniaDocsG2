@@ -11,7 +11,7 @@ Before you can start using the various targeting options in Omnia, properties fo
 
 What you can target
 ********************
-You can use use targeting, for example, for the following options in Omnia:
+You can use targeting, for example, for the following options in Omnia:
 
 + Search categories.
 + Sections.
