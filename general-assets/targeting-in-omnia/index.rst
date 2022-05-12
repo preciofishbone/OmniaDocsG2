@@ -9,7 +9,7 @@ Before you can start using the various targeting options in Omnia, properties fo
 
 What you can target
 ********************
-You can use use targeting for the following options in Omnia (the list is not complete yet):
+You can use use targeting, for example, for the following options in Omnia:
 
 + Search categories.
 + Sections.
@@ -24,9 +24,9 @@ You can use use targeting for the following options in Omnia (the list is not co
 + News articles.
 + Announcements.
 
-How to use targeting
+How to set up targeting
 **********************
-Here's how to use targeting - targeting a shared link as an example.
+Here's how to set up targeting - targeting a shared link as an example.
 
 1. Click "Add Targeting Filter".
 
