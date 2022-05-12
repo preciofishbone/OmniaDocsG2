@@ -21,7 +21,7 @@ Here's how to delete a page:
 
 1. Go to the page (if it's a page you haven't published you must edit any page and then open the edit navigation to go to the page to archive).
 2. Edit the page.
-3. Save or discard all ongoing changes.
+3. Save or discard all ongoing changes, if any.
 4. Click DELETE.
 
 .. image:: archive-menu2-new2.png
