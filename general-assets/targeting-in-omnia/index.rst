@@ -1,9 +1,9 @@
 Using Targeting
 ==============================================
 
-In many parts of Omnia you can choose to target information to certain groups or users. The main purpose for this functionality is to display relevant information for certain users, not necessarilty to hide information from others. With that said, for several targeting implementations, the results are that only the targeted group of users can see the information, because there are no other way to find the information. Two examples are targeting Mega Menu objects and Action Menu objects.
+In many parts of Omnia you can choose to target information to certain groups or users. The main purpose for this functionality is to display relevant information for certain users, not necessarilty to hide information from others. With that said, for several targeting implementations, the results are that only the targeted group of users can see the information, because there are no other way to find it. Two examples are targeting Mega Menu objects and Action Menu objects. Another example is Promoted Search Results.
 
-An important difference is targeting for pages. Which pages a user can find or not are fully controlled by permissions. So, even if a user is not part of the group for example a news article is targeted to, the user can always find the news article by (for example) searching. 
+An important difference is targeting for pages, including page variations. Which pages a user can find or not are fully controlled by permissions. So, even if a user is not part of the group for example a news article is targeted to, the user can always find the news article by (for example) searching. 
 
 Prerequisites
 ******************
@@ -22,7 +22,7 @@ You can use targeting, for example, for the following options in Omnia:
 + Shared Links.
 + Promoted Search Results.
 + Teamwork templates.
-+ Publishing Channels.
++ Publishing Channels (which works quite differently).
 + News articles.
 + Announcements.
 
