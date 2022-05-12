@@ -37,9 +37,11 @@ All pages using the promoted Page Type will continue using it, but the Page Type
 
 Deleting a Tenant Page Type
 ******************************
-You can delete a Tenant Page Type the same way as other Page Types in the Publishing App:
+You can delete a Tenant Page Type:
 
-.. image:: WCM-page-types-archive-menu.png
+.. image:: WCM-page-types-archive-menu-new.png
+
+(Note that you must save or discard any changes that has not been saved, for the DELETE option to be available).
 
 Deleted Tenant Page Types are placed in the Tenant Archive:
 
