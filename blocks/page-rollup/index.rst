@@ -8,6 +8,7 @@ This block can be used for many purposes, for example:
 + Most commented pages.
 + Popular pages.
 + Underused pages.
++ Pages with a certain variation (for example a language).
 + Created but unpublished pages.
 + Various page statistics.
 + Part of a News Letter implementation.
@@ -64,21 +65,13 @@ This is where you choose where to get the pages from. You can select:
 + Navigation Path.
 + Channel(s).
 
-When you have selected Business Profiles, Publishing Apps. Page Collections or Channels, as the next step, you select one or more to the pages from. You can then further select which pages to display in the rollup by using a filter, see below.
+When you have selected Business Profiles, Publishing Apps. Page Collections or Channels, as the next step, you select one or more to get the pages from. 
 
 More on Scope Navigation Path
 ---------------------------------
 Navigation path is a special case, it's used for creating a navigation. When you have selected start node you can choose navigation depth. There's also a view available, specifically for Navigation Path - Navigation View. Select it under Display. 
 
 When you're creating a Page Type, selecting Current Node for a Navigation Path can be very useful. Wherever that Page Type is used, the view (Navigation View) always starts at the current node for that page.
-
-Filter on a specific variation
---------------------------------
-If just pages with a certain variation (language or other variation) should be listed in the rollup, it can be done this way:
-
-(Only News in Swedish will be listed in this example.)
-
-.. image:: page-rollup-variation-example-new.png
 
 Display
 ----------
@@ -95,26 +88,26 @@ The following lists all available display settings, shown in different order for
 + **Content Image**: Select image to display, if any. Available for dialog display only.
 + **Create button for page collection**: When you have selected "Show create button", this optipon is shown. Use it to select in which page collection the new page will be created.
 + **Date**: Select the property that contains the date for the item(s) to display.
-+ **Default Calendar Type**: Available for Calendar rollup, in Omnia 6.10 and later. Can be Month, Week or Day.
-+ **Default time**:  Available for Calendar rollup, in Omnia 6.10 and later. 
++ **Default Calendar Type**: Available for Calendar rollup. Can be Month, Week or Day.
++ **Default time**:  Available for Calendar rollup. 
 + **Delay between slides**: Set the time between slides in milli seconds.
-+ **Event color**:  Available for Calendar rollup, in Omnia 6.10 and later. Use it to set specific color for events in the calendar.
-+ **Exclude variation url**: In Omnia 6.10 and later, this option is available. Available for all views except Calendar.
-+ **Enable Calendar Type Dropdown**: Available for Calendar rollup, in Omnia 6.10 and later. Makesd it possible for users to select Month, Week or Day.
++ **Event color**:  Available for Calendar rollup. Use it to set specific color for events in the calendar.
++ **Exclude variation url**: Available for all views except Calendar.
++ **Enable Calendar Type Dropdown**: Available for Calendar rollup. Makesd it possible for users to select Month, Week or Day.
 + **Hide block when no data**: Select this option if the block should be hidden when there's nothing to display.
 + **Hide if read**: Select this option to hide all pages the logged in user has visited. This affects all pages, including news.
 + **Highlight non-read**: This option makes sure non-read pages are highlighted. Default=selected. Deselect if you don't want that.
 + **Image**: Select the property that contains the image for the item(s) to display.
 + **Image Ratio**: Select ratio for the image; Landscape, Square or Wide. 
 + **Image x and y**: Select the image format here. Available for "Single Item" only.
-+ **Iclude time**:  Available for Calendar rollup, in Omnia 6.10 and later. (A description will be added later).
++ **Iclude time**:  Available for Calendar rollup. (A description will be added later).
 + **Max Display Limit**: To limit the number of items being displayed, add a fixed number here. Note that if combined with "No paging", the number of items you enter here are the only items users can access from the list. Also note that if you change this value, the "Query Item Limit" is also changed, see above.
 + **Link label**: Add the text to be shown for the link here. Available only if "Show link" is selected.
 + **Link url**: Add the url to open when a user clicks the link. Available only if "Show link" is selected.
 + **Loop**: Available for Dynamic Roller. Normally a roller stops when the last post is reached (and can restart after a short while). When this option is selected, there is no "end" and the roller just keeps rolling. Important note: When Loop is selected the arrows users can use to roll "manually" are not shown.
 + **No result text**: Enter the text that will be shown if no page can be displayed.
 + **Number of slides to display**: Select number of slides, 1-12. Available for "Dynamic Roller" only.
-+ **Open in Editor**: Available in Omnia 6.10 and later, for all views except Calendar. (A description will be added soon).
++ **Open in Editor**: Available for all views except Calendar. (A description will be added soon).
 + **Open in new tab**: If the link should be opened in a new tab (as opposed to in current window or dialog), select this option. Available only if "Show link" is selected.
 + **Open page as a dialog**: If the page should be opened in a dialog instead for in a page (new or current), select this option. 
 + **Overlay**: If an overlay text should be shown on the image(s), add the text here. Available for "Roller" only.
@@ -194,7 +187,15 @@ Use these settings to decide for how long likes, comments, ratings and page feed
 
 .. image:: page-rollup-settings-social-new2.png
 
-In Omnia 6.10, an additional option is availabel here: Page Statistics. Use it the set the social period for a statistics quesry.
+In Omnia 6.10, an additional option is availabel here: Page Statistics. Use it the set the social period for a statistics query.
+
+Filter on a specific variation
+--------------------------------
+If just pages with a certain variation (language or other variation) should be listed in the rollup, it can be done this way:
+
+.. image:: page-rollup-variation-example-new.
+
+Only News in Swedish will be listed in this example.
 
 Layout and Write
 **********************
