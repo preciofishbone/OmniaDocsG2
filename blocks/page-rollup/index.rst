@@ -12,7 +12,7 @@ This block can be used for many purposes, for example:
 + Created but unpublished pages.
 + Various page statistics.
 + Part of a News Letter implementation.
-+ Part of a Event Management implementation.
++ Part of an Event Management implementation.
 
 And that's just some examples. 
 
