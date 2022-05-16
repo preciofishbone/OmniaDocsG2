@@ -13,7 +13,7 @@ This block can be used for many purposes, for example:
 + Part of a News Letter implementation.
 + Part of a Event Management implementation.
 
-And that's just seom examples. 
+And that's just some examples. 
 
 Settings
 *********
