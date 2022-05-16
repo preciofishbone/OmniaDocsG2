@@ -193,7 +193,7 @@ Filter on a specific variation
 --------------------------------
 If just pages with a certain variation (language or other variation) should be listed in the rollup, it can be done this way:
 
-.. image:: page-rollup-variation-example-new.
+.. image:: page-rollup-variation-example-new.png
 
 Only News in Swedish will be listed in this example.
 
