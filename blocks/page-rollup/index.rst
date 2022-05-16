@@ -65,13 +65,13 @@ This is where you choose where to get the pages from. You can select:
 + Navigation Path.
 + Channel(s).
 
-When you have selected Business Profiles, Publishing Apps. Page Collections or Channels, as the next step, you select one or more to get the pages from. 
+When you have selected Business Profiles, Publishing Apps, Page Collections or Channels, as the next step, you select one or more to get the pages from. 
 
 More on Scope Navigation Path
 ---------------------------------
 Navigation path is a special case, it's used for creating a navigation. When you have selected start node you can choose navigation depth. There's also a view available, specifically for Navigation Path - Navigation View. Select it under Display. 
 
-When you're creating a Page Type, selecting Current Node for a Navigation Path can be very useful. Wherever that Page Type is used, the view (Navigation View) always starts at the current node for that page.
+**A tip**: When you're creating a Page Type, selecting Current Node for a Navigation Path can be very useful. Wherever that Page Type is used, the view (Navigation View) always starts at the current node for that page.
 
 Display
 ----------
