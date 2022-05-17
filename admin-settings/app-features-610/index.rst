@@ -1,8 +1,6 @@
 App settings in Omnia 6.10
 ==============================================
 
-**This documentation is just started. Will be completed in a few days.**
-
 There are a few settings available on App level (site level). Here's what can be available:
 
 .. image:: app-settings-new.png
@@ -26,6 +24,8 @@ Security
 Click "Users and Group" to add or remove App Administrators and App Contributors.
 
 .. image:: app-settings-security-new.png
+
+App Contributors is a new role in Omnia 6.10. Add all persons and/groups that should be able to comment on pages in the app, to this field.
 
 Settings
 **********

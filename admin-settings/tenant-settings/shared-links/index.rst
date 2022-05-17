@@ -57,29 +57,7 @@ All languages to be used here must be setup in the Tenant Settings, see: :doc:`R
 
 Targeting a Shared Link
 ------------------------
-To target a link, do the following. Note that Properties for targeting must be set up first, see that section on this page: :doc:`Properties </admin-settings/tenant-settings/properties/index>`
-
-1. Click "Add Targeting Filter".
-
-.. image:: add-targeting-filter-new2.png
-
-2. Open the list and select Property.
-
-.. image:: targeting-property-new2.png
- 
-3. Select one or more children properties, if applicable.
-
-.. image:: select-children-properties-new2.png
- 
-Or:
-
-3. Select to include all children properties.
-
-.. image:: select-children-all-new2.png
-  
-To delete a targeting filter, just click the x.
-
-.. image:: delete-targeting-filter-new2.png
+Targeting a link works the same way as in many other parts of Omnia. See this page for more information: :doc:`Using Targeting </general-assets/targeting-in-omnia/index>`
 
 Permissions for Shared Links
 *****************************

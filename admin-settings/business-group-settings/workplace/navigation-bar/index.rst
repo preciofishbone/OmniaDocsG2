@@ -153,7 +153,7 @@ When the Mega Menu object is created you can add a targeting filter, meaning you
 
 .. image:: mega-menu-targeting-new.png
 
-You do that the same way as for many other options in Omnia. See for example the heading "Targeting" on this page: :doc:`General block settings </blocks/general-block-settings/index>`
+You do that the same way as for many other options in Omnia. See this page for more information: :doc:`Using targeting </general-assets/targeting-in-omnia/index>`
 
 Adding an Action Menu object
 ******************************
@@ -187,7 +187,7 @@ When the Action Menu object is created you can add a targeting filter, meaning y
 
 .. image:: action-menu-add-settings-targeting-new2.png
 
-You do that the same way as for many other options in Omnia, see for example the heading "Targeting" on this page: :doc:`General block settings </blocks/general-block-settings/index>`
+You do that the same way as for many other options in Omnia. See this page for more information: :doc:`Using targeting </general-assets/targeting-in-omnia/index>`
 
 Edit the order
 ****************

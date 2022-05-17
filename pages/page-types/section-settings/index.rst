@@ -233,30 +233,7 @@ A section can be targeted by using this setting:
 
 .. image:: page-types-settings-targeting-new2.png
 
-Targeting must have been setup in Omnia Admin for this to work, see that section on this page: :doc:`Properties </admin-settings/tenant-settings/properties/index>`
-
-To set up targeting for the section, do the following:
-
-1. Click "Add Targeting Filter".
-2. Select Property for Targeting.
-
-.. image:: page-types-settings-targeting-property-new2.png
-
-3. Select one or more children for the property.
-
-.. image:: page-types-settings-targeting-properties-metadata-new2.png
-
-Or:
-
-3. Select "Include Children", to include all children pf the property.
-
-.. image:: page-types-settings-targeting-properties-children-new2.png
-
-4. Click "Add Targeting Filter" to add additional filters.
-
-.. image:: page-types-settings-targeting-additional-new2.png
-
-To remove a targeting filter, just click the X.
+Targeting for a section works the same way as targeting in many other parts of Omnia. See this page for more information: :doc:`Using Targeting </general-assets/targeting-in-omnia/index>`
 
 Custom CSS
 *******************

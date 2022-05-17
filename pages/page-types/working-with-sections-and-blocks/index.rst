@@ -96,11 +96,28 @@ Here's an example with a block added:
 
 You add additional blocks, work with the settings, move or delete blocks the same way as editors do when editing a page, see: :doc:`Working with Blocks </blocks/working-with-blocks/index>`
 
-**Note!** When editing a page, blocks that belong to the Page Type is locked, meaning they can not be moved or deleted, and settings for those blocks can't be edited. But content can be edited, if applicable, using Write mode. 
+**Note!** When editing a page, blocks that belong to the Page Type is locked, meaning they can not be moved or deleted, and settings for those blocks can't be edited. But content can be edited, if applicable, using Write mode. In Omnia 6.10 and later, additional settings for this are available, see below.
 
-Copy a blockfrom the clipboard
+Copy a block from the clipboard
 ---------------------------------------------
 There's also a clipboard available, that can be used to copy blocks between pages or page types, see: :doc:`Clipboard for sections and blocks </general-assets/layout-explorer/clipboard-sections-blocks/index>`
+
+Lock a block or not
+************************
+In Omnia 6.10 additional settings for locking of blocks are available, under "Lock" in the LAYOUT menu:
+
+.. image:: lock-menu.png
+
+You can decide if it should be possible to unlock the settings for a block. The block can still not be moved and can not be deleted.
+
+The following options are available here:
+
+.. image:: lock-menu-options.png
+
++ **Locked by default**: If this option is selected, and not the following, it works as before; settings for the block can not be changed but content can be edited. If this option is NOT selected and the next is, the block's settings are simply not locked. Design permission is still needed to be able to change settings.
++ **Lock can be edited**: If this option is selected, editors (Design permission) can unlock or lock the settings for the block - and if unlocked, can edit the block's settings.
+
+**Important Note!** Editing contents of a block works as before; content can be edited, if applicable, using Write mode.
 
 Decide to show a section on a device or not
 **********************************************

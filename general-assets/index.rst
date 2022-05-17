@@ -1,7 +1,7 @@
-General assets
+General assets and options
 ===========================================
 
-In this part of the documentation you will find information about general assets that are used in various ways in Omnia.
+In this part of the documentation you will find information about general assets and general functionality that are used in various ways in Omnia.
 
 
 .. toctree::
@@ -14,4 +14,5 @@ In this part of the documentation you will find information about general assets
    page-picker/index
    rtf-editor/index
    share-document/index
+   targeting-in-omnia/index
    using-anchors/index
