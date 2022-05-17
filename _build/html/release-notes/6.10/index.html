@@ -200,6 +200,22 @@
 <h2>Page Rollup<a class="headerlink" href="#page-rollup" title="Permalink to this headline">¶</a></h2>
 <p>It is now possible to create page rollup queries that spans the whole tenant or specific business profiles.</p>
 <img alt="../../_images/pagerollup-tenantbp-scope.png" src="../../_images/pagerollup-tenantbp-scope.png" />
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>In order to support page rollup queries across publishing apps, three new built-in security groups will replace the current built-in groups.</p>
+<p>The new groups are:</p>
+<ul class="simple">
+<li><p><strong>Internal Users except restricted</strong>: All internal users except users with mobile-only (Kaizala) limited license.</p></li>
+<li><p><strong>Internal Users</strong>: All internal users in the organization.</p></li>
+<li><p><strong>External Users</strong>: All external users including invited guest accounts.</p></li>
+</ul>
+<p>Automatic migration to new groups will be done as follows:</p>
+<ul class="simple">
+<li><p>“Everyone except external” will be automatically replaced by “Internal Users except restricted”.</p></li>
+<li><p>“Everyone” will be replace by “Internal Users” + “External Users” for publishing apps that allow mobile-only access.</p></li>
+<li><p>“Everyone” will be replace by “Internal Users except restricted” + “External Users” for publishing apps that do not allow mobile-only access.</p></li>
+</ul>
+</div>
 <p>Page statistics is now built into the page rollup. It is possible to display and sort on [Page Hits: All Users],
 [Page Hits: Current User] and [Unique Users]. The statistics time period can be limited to one week from today,
 two weeks from today or one month from today.</p>
@@ -225,7 +241,7 @@ The workflow status can be “Checked Out”, “Pending Publishing”, “Sched
 <p>Besides a naming policy, a teamwork template can be configured with a number of additional policies:</p>
 <ul class="simple">
 <li><p>Minimum no of characters in description: Will not let the user proceed with the teamwork creation without a clear description.</p></li>
-<li><p>Minimum no of admins: Forces long-term membership of the teamwork.</p></li>
+<li><p>Minimum no of admins: Forces long-term ownership of the teamwork.</p></li>
 <li><p>Default administrators: Makes it possible for central support functions to get ownership of all teamwork by default.</p></li>
 <li><p>Sensitivity labels: Makes it possible to apply additional policies using Microsoft compliance features.</p></li>
 </ul>
@@ -252,7 +268,8 @@ the standard services in Microsoft 365 (Teams, Planner, SharePoint etc) and forc
 <p>A teamwork template can also be set up to allow for the end user to clone an existing MS Teams team.</p>
 <img alt="../../_images/msteams-cloneexistingteam1.png" src="../../_images/msteams-cloneexistingteam1.png" />
 <img alt="../../_images/msteams-cloneexistingteam2.png" src="../../_images/msteams-cloneexistingteam2.png" />
-<p>[TODO: Planner board creation]</p>
+<p>If you add the app “Tasks by Planner and To Do” to a channel tab, it is possible to configure the creation of a Planner board on teamwork provisioning.</p>
+<img alt="../../_images/create-planner-board.png" src="../../_images/create-planner-board.png" />
 </div>
 <div class="section" id="web-content-management-editor">
 <h2>Web Content Management Editor<a class="headerlink" href="#web-content-management-editor" title="Permalink to this headline">¶</a></h2>
@@ -265,8 +282,13 @@ Documents that are locally accessible are versioned together with the page and c
 <img alt="../../_images/wcm-righttoleft-page.png" src="../../_images/wcm-righttoleft-page.png" />
 <p>Pages can now be moved and copied across page collections within a publishing app.</p>
 <img alt="../../_images/wcm-movecopypage.png" src="../../_images/wcm-movecopypage.png" />
-<p>[TODO: Move page collections across publishing apps.]</p>
+<p>If you need to restructure your information structure, you can use the new Move Page Collection feature.</p>
+<img alt="../../_images/move-page-collection.png" src="../../_images/move-page-collection.png" />
+<p>This feature will move a page collection including all pages and resources from one Publishing App to another.</p>
+<p>A new feature has been added to the layouts section of blocks that can be used in page types to decide whether the page using
+the page type should inherited the settings from the page type or not.</p>
 <img alt="../../_images/layouts-lockblock.png" src="../../_images/layouts-lockblock.png" />
+<p>If the block is configured to allow editing the lock, the designer of a page can unlock the block settings and override it with local settings.</p>
 <img alt="../../_images/layouts-lockblockdialog.png" src="../../_images/layouts-lockblockdialog.png" />
 </div>
 <div class="section" id="digital-signage">
@@ -304,7 +326,7 @@ Documents that are locally accessible are versioned together with the page and c
     <p>
         &#169; Copyright 2022, Precio Fishbone.
       <span class="lastupdated">
-        Last updated on Apr 24, 2022.
+        Last updated on May 17, 2022.
       </span>
 
     </p>

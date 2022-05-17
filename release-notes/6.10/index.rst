@@ -9,6 +9,20 @@ It is now possible to create page rollup queries that spans the whole tenant or 
 
 .. image:: pagerollup-tenantbp-scope.png
 
+.. note:: In order to support page rollup queries across publishing apps, three new built-in security groups will replace the current built-in groups.
+    
+    The new groups are:
+
+    * **Internal Users except restricted**: All internal users except users with mobile-only (Kaizala) limited license.
+    * **Internal Users**: All internal users in the organization.
+    * **External Users**: All external users including invited guest accounts.
+    
+    Automatic migration to new groups will be done as follows:
+
+    * "Everyone except external" will be automatically replaced by "Internal Users except restricted".
+    * "Everyone" will be replace by "Internal Users" + "External Users" for publishing apps that allow mobile-only access.
+    * "Everyone" will be replace by "Internal Users except restricted" + "External Users" for publishing apps that do not allow mobile-only access.
+
 Page statistics is now built into the page rollup. It is possible to display and sort on [Page Hits: All Users],
 [Page Hits: Current User] and [Unique Users]. The statistics time period can be limited to one week from today,
 two weeks from today or one month from today.
@@ -49,7 +63,7 @@ The prefix and suffix can be fixed text and/or dynamic values from the teamwork 
 Besides a naming policy, a teamwork template can be configured with a number of additional policies:
 
 * Minimum no of characters in description: Will not let the user proceed with the teamwork creation without a clear description.
-* Minimum no of admins: Forces long-term membership of the teamwork.
+* Minimum no of admins: Forces long-term ownership of the teamwork.
 * Default administrators: Makes it possible for central support functions to get ownership of all teamwork by default.
 * Sensitivity labels: Makes it possible to apply additional policies using Microsoft compliance features.
 
@@ -97,7 +111,9 @@ A teamwork template can also be set up to allow for the end user to clone an exi
 .. image:: msteams-cloneexistingteam2.png
 
 
-[TODO: Planner board creation]
+If you add the app "Tasks by Planner and To Do" to a channel tab, it is possible to configure the creation of a Planner board on teamwork provisioning.
+
+.. image:: create-planner-board.png
 
 Web Content Management Editor
 ------------------------------------------
@@ -119,9 +135,18 @@ Pages can now be moved and copied across page collections within a publishing ap
 
 .. image:: wcm-movecopypage.png
 
-[TODO: Move page collections across publishing apps.]
+If you need to restructure your information structure, you can use the new Move Page Collection feature.
+
+.. image:: move-page-collection.png
+
+This feature will move a page collection including all pages and resources from one Publishing App to another.
+
+A new feature has been added to the layouts section of blocks that can be used in page types to decide whether the page using
+the page type should inherited the settings from the page type or not.
 
 .. image:: layouts-lockblock.png
+
+If the block is configured to allow editing the lock, the designer of a page can unlock the block settings and override it with local settings.
     
 .. image:: layouts-lockblockdialog.png
 

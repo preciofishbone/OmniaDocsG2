@@ -1,7 +1,7 @@
 Views as JSON
 =====================================
 
-The first youn see is the list of views that has been created so far:
+The first you see is the list of views that has been created so far:
 
 .. image:: page-view-json-list.png
 

@@ -1,15 +1,6 @@
 Basic Setup
 ===========================================
 
-Below you will find the steps needed in order to create a basic setup of Omnia for Microsoft 365.
+A new version of the basic setup instruction is under construction. It will be based on the new Setup Wizard feature in Omnia.
 
-
-.. toctree::
-   :titlesonly:
-
-   tenantsettings/index
-   properties/index
-   businessprofile/index
-   publishingapp/index
-   branding/index
-   applauncher/index
+Please come back to this page in a few weeks to see the updates.

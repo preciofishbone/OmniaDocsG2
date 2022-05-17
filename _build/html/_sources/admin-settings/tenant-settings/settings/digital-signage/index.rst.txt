@@ -1,7 +1,7 @@
 Digital Signage
 =====================================
 
-The following options are available for Digital Signage:
+The following options are available for Digital Signage. Prerequisite: the feature Digital Signage must be activated.
 
 .. image:: digital-signage-all.png
 
