@@ -186,7 +186,7 @@ The special settings for this view are:
 + **Include time**: Select this to display time for events in the calendar.
 + **Weekdays**: Select what should be shown as weekdays in the calendar.
 
-Addings columns
+Adding columns
 ----------------
 For "List View" and "Event List", you have to add at least one column, for the display to work. Here's an example with three columns added for List View:
 
