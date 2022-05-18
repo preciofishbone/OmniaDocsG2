@@ -86,14 +86,18 @@ Options for all views
 These options are available for most views:
 
 + **Date**: Select the property that contains the date for the item(s) to display. Available for Roller, Listing with image, Dynamic Roller, Card and Newsletter.
++ **Dialog Image**: Select image to display, if any. Available when ypu have selected "Open Page as a dialog".
 + **Hide block when no data**: Select this option if the block should be hidden when there's nothing to display.
 + **Hide if read**: Select this option to hide all pages the logged in user has visited. This affects all pages, including news.
 + **Highlight non-read**: This option makes sure non-read pages are highlighted. Default=selected. Deselect if you don't want that.
 + **Image**: Select the property that contains the image for the item(s) to display. Available for Roller, Listing with image, Dynamic Roller, Card and Newsletter views.
 + **Image Ratio**: Select ratio for the image; Landscape, Square or Wide. Available for Roller, Listing with image, Dynamic Roller and Newsletter.
++ **Link label**: Add the text to be shown for the link here. Available only if "Show link" is selected.
++ **Link url**: Add the url to open when a user clicks the link. Available only if "Show link" is selected.
 + **No result text**: Enter the text that will be shown if no page can be displayed.
 + **Open in Editor**: Available for all views except Calendar. (A description will be added soon).
-+ **Open in new tab**: If the link should be opened in a new tab (as opposed to in current window or dialog), select this option. 
++ **Open in new tab**: If the link should be opened in a new tab (as opposed to in current window or dialog), select this option.
++ **Open page as a dialog**: If the page should be opened in a dialog instead for in a page (new or current), select this option. 
 + **Padding**: Add some padding between the list and the block border, if needed.
 + **Paging**: Select paging here; "No paging", "Classic" or "Scroll". Available for List View, Dynamic Roller, Card and Newsletter.
 + **Show Likes/Comments**: If the number of likes and comments should be displayed for the item, select this option. Available for Roller, Listing with image, Dynamic Roller and Card.
@@ -115,7 +119,11 @@ Contains mostly general settings, see above. The only special setting is:
 
 List View
 ------------
-Contains mostly general settings, see above, but you also have to add at least one column, for the display to work. See below for more information.
+Contains mostly general settings, see above
+
++ **Show Export to Excel**: If ti should be possible for users to export a list to Excel, select this option. When this is done, an "Export to Excel" button is shown. 
+
+You also have to add at least one column, for the display to work. See below for more information.
 
 Dynamic Roller
 -----------------
@@ -126,6 +134,7 @@ The special settings for this view are:
 + **Loop**: Normally a roller stops when the last post is reached (and can restart after a short while). When this option is selected, there is no "end" and the roller just keeps rolling. Important note: When Loop is selected the arrows users can use to roll "manually" are not shown.
 + **Number of slides to display**: Select number of slides, 1-12.
 + **Show Paging**: Small icons shown that users can use to page back and fort. See image below for an example.
++ **Show Navigation**: If navigation icons for the users to use for rolling should be shown, select this option.
 + **Slider Size**: Select the size of the slider here: Small, Medium, Large or Extra large. 
 + **Slider Type**: Select Horisontal slider or Vertical slider. 
 
@@ -155,7 +164,7 @@ For general settings, see above.
 
 Event List
 ------------
-As it suggests, this view is suitable for use in a Event Management set up. Contains general settings only, see above.
+As it suggests, this view is suitable for use in a Event Management set up. Contains general settings only, see above. You also have to add at least one column, for the display to work. See below for more information.
 
 Navigation View
 -----------------
@@ -172,34 +181,14 @@ The special settings for this view are:
 + **Enable Calendar Type Dropdown**: Makes it possible for users to select Month, Week or Day.
 + **End date**: Select property to be used for end date.
 + **Event color**: Use it to set specific color for events in the calendar.
-+ **Event Height**: Use the slider to set this. See a preview in the block.
++ **Event Height**: Use the slider to set height for the events in the calendar. See a preview in the block.
++ **Height**: Use the slider the set the height for the whole calendar. See a preview in the block.
++ **Include time**: Select this to display time for events in the calendar.
++ **Weekdays**: Select what should be shown as weekdays in the calendar.
 
-.
-
-
-
-+ **Content Image**: Select image to display, if any. Available for dialog display only.
-+ **Create button for page collection**: When you have selected "Show create button", this optipon is shown. Use it to select in which page collection the new page will be created.
-+ **Exclude variation url**: Available for all views except Calendar.
-+ **Hide block when no data**: Select this option if the block should be hidden when there's nothing to display.
-+ **Hide if read**: Select this option to hide all pages the logged in user has visited. This affects all pages, including news.
-+ **Highlight non-read**: This option makes sure non-read pages are highlighted. Default=selected. Deselect if you don't want that.
-+ **Image x and y**: Select the image format here. Available for "Single Item" only.
-+ **Iclude time**:  Available for Calendar rollup. (A description will be added later).
-+ **Link label**: Add the text to be shown for the link here. Available only if "Show link" is selected.
-+ **Link url**: Add the url to open when a user clicks the link. Available only if "Show link" is selected.
-+ **No result text**: Enter the text that will be shown if no page can be displayed.
-+ **Open in Editor**: Available for all views except Calendar. (A description will be added soon).
-+ **Open in new tab**: If the link should be opened in a new tab (as opposed to in current window or dialog), select this option. Available only if "Show link" is selected.
-+ **Open page as a dialog**: If the page should be opened in a dialog instead for in a page (new or current), select this option. 
-+ **Overlay**: If an overlay text should be shown on the image(s), add the text here. Available for "Roller" only.
-+ **Show create button**: To make it possible for editors to create a new page from here, select this option to add a button to the block heading, and type the name for the button. 
-+ **Show Default image**: If there is no image available for a page, a placeholder image can be used. If that image should be used, select this option.
-+ **Show Export to Excel**: In Omnia 6.10 and later, it's possible to make an "Export to Excel" available for users, making it possible to export a list to Excel. Available for List View only.
-+ **Show Navigation**: If navigation icons for the users to use for rolling should be shown, select this option. Available for "Dynamic Roller" only.
-+ **Title**: If a title should be shown for the block, add it in this field. If no variation exists for the page, you can set the title in the languages active in the tenant. If variations exists, only one title can be set. In that case, titles in other languages are set in the variations.
-
-**Note!** For "List View" and "Event List", you also have to add at least one column, for the display to work. Here's an example with three columns added for List View:
+Addings columns
+----------------
+For "List View" and "Event List", you have to add at least one column, for the display to work. Here's an example with three columns added for List View:
 
 .. image:: list-view-columns-new3.png
 
@@ -207,6 +196,8 @@ This could show the following:
 
 .. image:: list-view-example-new.png
 
+Some examples and tips
+-------------------------
 "a month ago" etc is the "Social" setting for date. If you would like to show exact dates instead, select "Normal".
 
 "Show paging" in settings for "Dynamic Roller" makes these icons available for navigation:
