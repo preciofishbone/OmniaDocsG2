@@ -113,6 +113,52 @@ Contains mostly general settings, see above. The only special setting is:
 
 + **Show Rating**: If the rating for the page(s) displayed should be shown, select this option. 
 
+List View
+------------
+Contains mostly general settings, see above, but you also have to add at least one column, for the display to work. See below for more information.
+
+Dynamic Roller
+-----------------
+The special settings for this view are:
+
++ **Autoplay**: If the roller should roll automatically, select this option. 
++ **Delay between slides**: Set the time between slides in milli seconds.
++ **Loop**: Normally a roller stops when the last post is reached (and can restart after a short while). When this option is selected, there is no "end" and the roller just keeps rolling. Important note: When Loop is selected the arrows users can use to roll "manually" are not shown.
++ **Number of slides to display**: Select number of slides, 1-12.
++ **Show Paging**: Small icons shown that users can use to page back and fort. See image below for an example.
++ **Slider Size**: Select the size of the slider here: Small, Medium, Large or Extra large. 
++ **Slider Type**: Select Horisontal slider or Vertical slider. 
+
+For the general settings, see above.
+
+Card
+------
+The special settings for this view are:
+
++ **Cards per Row**: As it says, set the number of cards to show per row.
++ **Person**: This option can be used to show properties in Card view.
++ **Show Page Type**: (A description will be added soon).
++ **Term properties**: Can be used to show properties in Card view. Click "Add" and select a property. Continue the same way for additional properties.
+
+For general settings, see above.
+
+Newsletter
+-----------
+As it suggests, this view is suitable for use in a Newsletter set up. The special settings are:
+
++ **Contact**: Select the property to be displayed as Contact. 
++ **Content**: Select the property that contains the page content for the item to display. 
++ **Page Content Character Limit**: If the number of characters displayed for Page Content should be limited, add the number here. The Content is simply jus cut after that. 
++ **Page Summary Character Limit**: If the number of characters displayed for Page Summary should be limited, add the number here. The Summary is simply jus cut after that. 
+
+For general settings, see above.
+
+Event List
+------------
+As it suggests, this view is suitable for use in a Event Management set up. The special settings are:
+
+
+
 + **Max Display Limit**: To limit the number of items being displayed, add a fixed number here. Note that if combined with "No paging", the number of items you enter here are the only items users can access from the list. Also note that if you change this value, the "Query Item Limit" is also changed, see above.
 
 
@@ -120,15 +166,10 @@ Contains mostly general settings, see above. The only special setting is:
 
 
 
-+ **Autoplay**: If the roller should roll automatically, select this option. Available for "Dynamic Roller" only.
-+ **Cards per Row**: Available for Card only. As it says, set the number of cards to show per row.
-+ **Contact**: Select the property to be displayed as Contact. Available for Newsletter only.
-+ **Content**: Select the property that contains the page content for the item to display. Available for Newsletter only.
 + **Content Image**: Select image to display, if any. Available for dialog display only.
 + **Create button for page collection**: When you have selected "Show create button", this optipon is shown. Use it to select in which page collection the new page will be created.
 + **Default Calendar Type**: Available for Calendar rollup. Can be Month, Week or Day.
 + **Default time**:  Available for Calendar rollup. 
-+ **Delay between slides**: Set the time between slides in milli seconds.
 + **Event color**:  Available for Calendar rollup. Use it to set specific color for events in the calendar.
 + **Exclude variation url**: Available for all views except Calendar.
 + **Enable Calendar Type Dropdown**: Available for Calendar rollup. Makesd it possible for users to select Month, Week or Day.
@@ -139,24 +180,15 @@ Contains mostly general settings, see above. The only special setting is:
 + **Iclude time**:  Available for Calendar rollup. (A description will be added later).
 + **Link label**: Add the text to be shown for the link here. Available only if "Show link" is selected.
 + **Link url**: Add the url to open when a user clicks the link. Available only if "Show link" is selected.
-+ **Loop**: Available for Dynamic Roller. Normally a roller stops when the last post is reached (and can restart after a short while). When this option is selected, there is no "end" and the roller just keeps rolling. Important note: When Loop is selected the arrows users can use to roll "manually" are not shown.
 + **No result text**: Enter the text that will be shown if no page can be displayed.
-+ **Number of slides to display**: Select number of slides, 1-12. Available for "Dynamic Roller" only.
 + **Open in Editor**: Available for all views except Calendar. (A description will be added soon).
 + **Open in new tab**: If the link should be opened in a new tab (as opposed to in current window or dialog), select this option. Available only if "Show link" is selected.
 + **Open page as a dialog**: If the page should be opened in a dialog instead for in a page (new or current), select this option. 
 + **Overlay**: If an overlay text should be shown on the image(s), add the text here. Available for "Roller" only.
-+ **Page Content Character Limit**: If the number of characters displayed for Page Content should be limited, add the number here. The Content is simply jus cut after that. Available for Newsletter only.
-+ **Page Summary Character Limit**: If the number of characters displayed for Page Summary should be limited, add the number here. The Summary is simply jus cut after that. Available for Newsletter only.
-+ **Person**: This option can be used to show properties in Card view.
 + **Show create button**: To make it possible for editors to create a new page from here, select this option to add a button to the block heading, and type the name for the button. 
 + **Show Default image**: If there is no image available for a page, a placeholder image can be used. If that image should be used, select this option.
 + **Show Export to Excel**: In Omnia 6.10 and later, it's possible to make an "Export to Excel" available for users, making it possible to export a list to Excel. Available for List View only.
 + **Show Navigation**: If navigation icons for the users to use for rolling should be shown, select this option. Available for "Dynamic Roller" only.
-+ **Show Paging**: Available for "Dynamic Roller" only. Small icons shown that users can use to page back and fort. See image below for an example.
-+ **Slider Type**: Select Horisontal slider or Vertical slider. Available for "Dynamic Roller" only.
-+ **Slider Size**: Select the size of the slider here: Small, Medium, Large or Extra large. Available for "Dynamic Roller" only.
-+ **Term properties**: Can be used to show properties in Card view. Click "Add" and select a property. Continue the same way for additional properties.
 + **Title**: If a title should be shown for the block, add it in this field. If no variation exists for the page, you can set the title in the languages active in the tenant. If variations exists, only one title can be set. In that case, titles in other languages are set in the variations.
 
 **Note!** For "List View" and "Event List", you also have to add at least one column, for the display to work. Here's an example with three columns added for List View:
