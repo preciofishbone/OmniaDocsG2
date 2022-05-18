@@ -155,12 +155,24 @@ For general settings, see above.
 
 Event List
 ------------
-As it suggests, this view is suitable for use in a Event Management set up. The special settings are:
+As it suggests, this view is suitable for use in a Event Management set up. Contains general settings only, see above.
 
+Navigation View
+-----------------
+As said above, this is a special case, used for navigation. The Navigation View is only available for Scope Navigation Path. Mostly general settings, see above. the ony special settings is:
 
++ **Max Display Limit**: To limit the number of items being displayed, add a fixed number here. 
 
-+ **Max Display Limit**: To limit the number of items being displayed, add a fixed number here. Note that if combined with "No paging", the number of items you enter here are the only items users can access from the list. Also note that if you change this value, the "Query Item Limit" is also changed, see above.
+Calendar
+---------
+The special settings for this view are:
 
++ **Default Calendar Type**: Can be Month, Week or Day.
++ **Default time**: Select a defaul time from the list.
++ **Enable Calendar Type Dropdown**: Makes it possible for users to select Month, Week or Day.
++ **End date**: Select property to be used for end date.
++ **Event color**: Use it to set specific color for events in the calendar.
++ **Event Height**: Use the slider to set this. See a preview in the block.
 
 .
 
@@ -168,11 +180,7 @@ As it suggests, this view is suitable for use in a Event Management set up. The 
 
 + **Content Image**: Select image to display, if any. Available for dialog display only.
 + **Create button for page collection**: When you have selected "Show create button", this optipon is shown. Use it to select in which page collection the new page will be created.
-+ **Default Calendar Type**: Available for Calendar rollup. Can be Month, Week or Day.
-+ **Default time**:  Available for Calendar rollup. 
-+ **Event color**:  Available for Calendar rollup. Use it to set specific color for events in the calendar.
 + **Exclude variation url**: Available for all views except Calendar.
-+ **Enable Calendar Type Dropdown**: Available for Calendar rollup. Makesd it possible for users to select Month, Week or Day.
 + **Hide block when no data**: Select this option if the block should be hidden when there's nothing to display.
 + **Hide if read**: Select this option to hide all pages the logged in user has visited. This affects all pages, including news.
 + **Highlight non-read**: This option makes sure non-read pages are highlighted. Default=selected. Deselect if you don't want that.
