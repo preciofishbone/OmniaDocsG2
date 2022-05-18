@@ -69,7 +69,7 @@ When you have selected Business Profiles, Publishing Apps, Page Collections or C
 
 More on Scope Navigation Path
 ---------------------------------
-Navigation path is a special case, it's used for creating a navigation. When you have selected start node you can choose navigation depth. There's also a view available, specifically for Navigation Path - Navigation View. Select it under Display. 
+Navigation path is a special case, it's used for creating a navigation. When you have selected start node you can choose navigation depth. There's also a view available, specifically for Navigation Path - Navigation View. Select it under Display. It's only available if you first select Navigation Path as Scope.
 
 **A tip**: When you're creating a Page Type, selecting Current Node for a Navigation Path can be very useful. Wherever that Page Type is used, the view (Navigation View) always starts at the current node for that page.
 
@@ -81,13 +81,51 @@ Select View here. Note that a preview is shown in the block.
 
 The following lists all available display settings, shown in different order for different displays, here listed in alphabetical order.  
 
+Options for all views
+------------------------
+These options are available for most views:
+
++ **Date**: Select the property that contains the date for the item(s) to display. Available for Roller, Listing with image, Dynamic Roller, Card and Newsletter.
++ **Hide block when no data**: Select this option if the block should be hidden when there's nothing to display.
++ **Hide if read**: Select this option to hide all pages the logged in user has visited. This affects all pages, including news.
++ **Highlight non-read**: This option makes sure non-read pages are highlighted. Default=selected. Deselect if you don't want that.
++ **Image**: Select the property that contains the image for the item(s) to display. Available for Roller, Listing with image, Dynamic Roller, Card and Newsletter views.
++ **Image Ratio**: Select ratio for the image; Landscape, Square or Wide. Available for Roller, Listing with image, Dynamic Roller and Newsletter.
++ **No result text**: Enter the text that will be shown if no page can be displayed.
++ **Open in Editor**: Available for all views except Calendar. (A description will be added soon).
++ **Open in new tab**: If the link should be opened in a new tab (as opposed to in current window or dialog), select this option. 
++ **Padding**: Add some padding between the list and the block border, if needed.
++ **Paging**: Select paging here; "No paging", "Classic" or "Scroll". Available for List View, Dynamic Roller, Card and Newsletter.
++ **Show Likes/Comments**: If the number of likes and comments should be displayed for the item, select this option. Available for Roller, Listing with image, Dynamic Roller and Card.
++ **Show link**: You can add a link button at the bottom of the list. The first page collection is default, but you can link to any target. 
++ **Sort by**: Choose what the list should be sorted by, and then select ascending or descending. Available for all, except Navigaiton View.
++ **Summary**: Select the property that contains the page summary for the item to display. Available for Listing with image, List View, Dynamic Roller, Card and Newsletter.
+
+Roller
+------
+Contains mostly general settuings, see above. the only special settings is:
+
++ **Max Display Limit**: To limit the number of items being displayed, add a fixed number here. 
+
+Listing with image
+-------------------
+Contains mostly general settings, see above. The only special setting is:
+
++ **Show Rating**: If the rating for the page(s) displayed should be shown, select this option. 
+
++ **Max Display Limit**: To limit the number of items being displayed, add a fixed number here. Note that if combined with "No paging", the number of items you enter here are the only items users can access from the list. Also note that if you change this value, the "Query Item Limit" is also changed, see above.
+
+
+.
+
+
+
 + **Autoplay**: If the roller should roll automatically, select this option. Available for "Dynamic Roller" only.
 + **Cards per Row**: Available for Card only. As it says, set the number of cards to show per row.
 + **Contact**: Select the property to be displayed as Contact. Available for Newsletter only.
 + **Content**: Select the property that contains the page content for the item to display. Available for Newsletter only.
 + **Content Image**: Select image to display, if any. Available for dialog display only.
 + **Create button for page collection**: When you have selected "Show create button", this optipon is shown. Use it to select in which page collection the new page will be created.
-+ **Date**: Select the property that contains the date for the item(s) to display.
 + **Default Calendar Type**: Available for Calendar rollup. Can be Month, Week or Day.
 + **Default time**:  Available for Calendar rollup. 
 + **Delay between slides**: Set the time between slides in milli seconds.
@@ -97,11 +135,8 @@ The following lists all available display settings, shown in different order for
 + **Hide block when no data**: Select this option if the block should be hidden when there's nothing to display.
 + **Hide if read**: Select this option to hide all pages the logged in user has visited. This affects all pages, including news.
 + **Highlight non-read**: This option makes sure non-read pages are highlighted. Default=selected. Deselect if you don't want that.
-+ **Image**: Select the property that contains the image for the item(s) to display.
-+ **Image Ratio**: Select ratio for the image; Landscape, Square or Wide. 
 + **Image x and y**: Select the image format here. Available for "Single Item" only.
 + **Iclude time**:  Available for Calendar rollup. (A description will be added later).
-+ **Max Display Limit**: To limit the number of items being displayed, add a fixed number here. Note that if combined with "No paging", the number of items you enter here are the only items users can access from the list. Also note that if you change this value, the "Query Item Limit" is also changed, see above.
 + **Link label**: Add the text to be shown for the link here. Available only if "Show link" is selected.
 + **Link url**: Add the url to open when a user clicks the link. Available only if "Show link" is selected.
 + **Loop**: Available for Dynamic Roller. Normally a roller stops when the last post is reached (and can restart after a short while). When this option is selected, there is no "end" and the roller just keeps rolling. Important note: When Loop is selected the arrows users can use to roll "manually" are not shown.
@@ -111,23 +146,16 @@ The following lists all available display settings, shown in different order for
 + **Open in new tab**: If the link should be opened in a new tab (as opposed to in current window or dialog), select this option. Available only if "Show link" is selected.
 + **Open page as a dialog**: If the page should be opened in a dialog instead for in a page (new or current), select this option. 
 + **Overlay**: If an overlay text should be shown on the image(s), add the text here. Available for "Roller" only.
-+ **Padding**: Add some padding between the list and the block border, if needed.
 + **Page Content Character Limit**: If the number of characters displayed for Page Content should be limited, add the number here. The Content is simply jus cut after that. Available for Newsletter only.
 + **Page Summary Character Limit**: If the number of characters displayed for Page Summary should be limited, add the number here. The Summary is simply jus cut after that. Available for Newsletter only.
-+ **Paging**: Select paging here; "No paging", "Classic" or "Scroll".
 + **Person**: This option can be used to show properties in Card view.
 + **Show create button**: To make it possible for editors to create a new page from here, select this option to add a button to the block heading, and type the name for the button. 
 + **Show Default image**: If there is no image available for a page, a placeholder image can be used. If that image should be used, select this option.
 + **Show Export to Excel**: In Omnia 6.10 and later, it's possible to make an "Export to Excel" available for users, making it possible to export a list to Excel. Available for List View only.
-+ **Show Likes/Comments**: If the number of likes and comments should be displayed for the item, select this option. 
-+ **Show link**: You can add a link button at the bottom of the list. The first page collection is default, but you can link to any target.
 + **Show Navigation**: If navigation icons for the users to use for rolling should be shown, select this option. Available for "Dynamic Roller" only.
 + **Show Paging**: Available for "Dynamic Roller" only. Small icons shown that users can use to page back and fort. See image below for an example.
-+ **Show Rating**: If the rating for the page(s) displayed should be shown, select this option. Available for "Listing With Image" only.
 + **Slider Type**: Select Horisontal slider or Vertical slider. Available for "Dynamic Roller" only.
 + **Slider Size**: Select the size of the slider here: Small, Medium, Large or Extra large. Available for "Dynamic Roller" only.
-+ **Sort by**: Choose what the list should be sorted by, and then select ascending or descending.
-+ **Summary**: Select the property that contains the page summary for the item to display.
 + **Term properties**: Can be used to show properties in Card view. Click "Add" and select a property. Continue the same way for additional properties.
 + **Title**: If a title should be shown for the block, add it in this field. If no variation exists for the page, you can set the title in the languages active in the tenant. If variations exists, only one title can be set. In that case, titles in other languages are set in the variations.
 
