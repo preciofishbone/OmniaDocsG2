@@ -95,6 +95,7 @@ These options are available for most views:
 + **Image Ratio**: Select ratio for the image; Landscape, Square or Wide. Available for Roller, Listing with image, Dynamic Roller and Newsletter.
 + **Link label**: Add the text to be shown for the link here. Available only if "Show link" is selected.
 + **Link url**: Add the url to open when a user clicks the link. Available only if "Show link" is selected.
++ **Max Display Limit**: Available only for Scope Navigation Path, for all views. Set the number of pages that should be displayed. 
 + **No result text**: Enter the text that will be shown if no page can be displayed.
 + **Open in Editor**: Available for all views except Calendar. If this option is selected, a page link can be clicked to open the page in edit mode. This options was devolped with rollups for editors and authors in mind. Permissions apply, so if a user without any edit permissions for the page opens a page this way, nothing can be edited.
 + **Open in new tab**: If the link should be opened in a new tab (as opposed to in current window or dialog), select this option.
@@ -108,9 +109,7 @@ These options are available for most views:
 
 Roller
 ------
-Contains mostly general settuings, see above. the only special settings is:
-
-+ **Max Display Limit**: To limit the number of items being displayed, add a fixed number here. 
+Contains general settuings only above. 
 
 Listing with image
 -------------------
