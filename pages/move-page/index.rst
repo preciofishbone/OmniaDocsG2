@@ -3,7 +3,7 @@ Move a page
 
 You can always move a page to another position on the same level (within the parent node). 
 
-It's also possible to move a node (one page or a page with all sub pages) to any position in the navigation tree. In Omnia 6.10 you can also move a page to any Page Collection within the Publishing App. See this page for more information: :doc:`Edit Page Navigation </pages/edit-page-navigation/index>`
+It's also possible to move a node (one page or a page with all sub pages) to any position in the navigation tree, even to other page collections within the publishing app. See this page for more information: :doc:`Edit Page Navigation </pages/edit-page-navigation/index>`
 
 Do the following to move a page within the same level:
 
