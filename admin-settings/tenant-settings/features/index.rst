@@ -57,5 +57,5 @@ Here you can remove or upgrade the Omnia Add-ons. For more information about the
 
 :doc:`Using Communities </using-communities/index>`
 
-Digital Signage - a link will be added soon.
+:doc:`Digital Signage </admin-settings/tenant-settings/settings/digital-signage/index>`
 
