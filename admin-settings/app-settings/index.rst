@@ -1,11 +1,9 @@
 App settings
 ==============
 
-This page describes App settings in Omnia 6.8. For information about the settings in Omnia 6.10, see: :doc:`App settings in Omnia 6.10 </admin-settings/app-features-610/index>`
-
 There are a few settings available on App level (site level). Here's what can be available:
 
-.. image:: app-settings.png
+.. image:: app-settings-new.png
 
 To reach these settings you must do the following:
 
@@ -17,44 +15,38 @@ Features
 ***********
 Here you activate, update or remove features for the App (site), for example:
 
-.. image:: app-settings-features.png
+.. image:: app-settings-features-new.png
 
-+ **Process Archive**: Activate to create a process archive in this app. There can be several process archives in a tenant, but only one in each app.
-+ **Apply MS Teams to a Microsoft 365 group**: Needed for specialized Omnia setups. Also needed for Omnia Teams templates. If a Teams template is created, this feature is automatically activated.
-+ **Publishing App Infrastructure**: Needed for the page archive functionality.
-+ **Show ”New from template"**: When activated, a button is shown in document libraries, including controlled documents librarues, to create a new document (using the wizard). A document created using this button is per default created in the actual library.
-+ **Process Library**: Activate to create a Process Library in this app. Needed for creating and editing processes.
-+ **Controlled Documents Library**: Activate to create a Controlled Documents Library in this app. Needed for creating and editing controlled documents.
-+ **Controlled Documents Archive**: Activate to create a controlles documents archive in this app. There can be several archives of this type in a tenant, but only one in each app.
-+ **Event Management Page Types**: If you're going to use event management in this app, activate this feature for a starting point for creating such pages.
-+ **Project site**: Creates a project site within this app.
-+ **SPFx Infrastructure**: Needed for Omnia functionality to be available in Sharepoint.
-+ **Navigation**: Makes the navigation bar available.
+An example: If your organization is using Document Management, you must go here to activate the Controlled Documents library for sites where working with Controlled Documents should be possible. (In this example Controlled Documents is already activated). If any updates to that Features is needed, you go here as well.
 
 Security
 **********
-Use Permissions to add or remove App Administrators.
+Click "Users and Group" to add or remove App Administrators and App Contributors.
 
-.. image:: app-settings-security.png
+.. image:: app-settings-security-new.png
+
+App Contributors is a new role in Omnia 6.10. Add all persons and/groups that should be able to comment on pages in the app, to this field.
 
 Settings
 **********
 Under Settings, the following is available:
 
-.. image:: app-settings-settings.png
+.. image:: app-settings-settings-new.png
 
 Edit settings
 ---------------
-Here you can edit the settings for the App (site), which was set when the App was created. The settings available depends on the Provisioning Template selected for the App. See this page for more information: :doc:`Provisioning Templates </admin-settings/business-group-settings/provisioning-templates/index>`
+Here you can edit the settings for the App (site), which was set when the App was created. The settings available depends on the template selected for the App. 
 
-.. image:: app-settings-settings-edit-1.png
+.. image:: app-settings-settings-edit-new.png
+
+See this page for more information: :doc:`Templates for Publishing Apps </admin-settings/business-group-settings/publishing-apps/publishing-65/templates/index>`
 
 Switching Template
 -------------------
-If necessary, you can change to another Provisiong Template for the App (site) here, but the recommendation is that you do that only for Apps that are not really used yet.
+If necessary, you can change to another template for the App (site) here, but the recommendation is that you do that only for Apps that are not really used yet.
 
-.. image:: app-settings-settings-template.png
+.. image:: app-settings-settings-template-new.png
 
-First select Profile and then select Template for the profile. (Available templates depend on the profle chosen).
+First select Profile and then select Template for the profile. (Available templates depend on the profile chosen).
 
 
