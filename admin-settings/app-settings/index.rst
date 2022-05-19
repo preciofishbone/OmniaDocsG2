@@ -25,7 +25,7 @@ Click "Users and Group" to add or remove App Administrators and App Contributors
 
 .. image:: app-settings-security-new.png
 
-App Contributors is a new role in Omnia 6.10. Add all persons and/groups that should be able to comment on pages in the app, to this field.
+Add all persons and/groups that should be able to comment on pages in the app, to this field.
 
 Settings
 **********
