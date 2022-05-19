@@ -1,7 +1,7 @@
 Delete a page
 ================= 
 
-This page describes how this works with the labels used in Omnia 6.10. This functionality was called archiving in earlier versions of Omnia.
+This functionality was called archiving in earlier versions of Omnia.
 
 When working with the navigation you can delete a page that is no longer needed. A deleted page is placed in the archive. There it can be restored or terminated. There's one archive per Publishing App.
 
