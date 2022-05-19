@@ -147,7 +147,7 @@ The special settings for this view are:
 
 + **Cards per Row**: As it says, set the number of cards to show per row.
 + **Person**: This option can be used to show properties in Card view.
-+ **Show Page Type**: (A description will be added soon).
++ **Show Page Type**: If this option is selected, the Page Type used for the page is shown as metadata, the same way as other properties.
 + **Term properties**: Can be used to show properties in Card view. Click "Add" and select a property. Continue the same way for additional properties.
 
 For general settings, see above.
