@@ -1,9 +1,7 @@
 Print a process
 =====================================
 
-In Omnia 6.10 and later, it's possible to print a process.
-
-Go to the process you want to print and click the button:
+To print a process, go to the process and click the button:
 
 .. image:: print-process-button.png
 
