@@ -5,8 +5,6 @@ This block makes it possible to post conversation messages in an app. It can be 
 
 It's also possible to aggregated messages from several sources and to post a message to a specific community, publishing app or teamwork app.
 
-The block is available in Omnia 6.10 and later.
-
 **Important Note**: To be able to post message in this block, a user must be added to or belong to a group added to the App Contributors field for the app (found under Security in the app settings).
 
 The following settings are available:
