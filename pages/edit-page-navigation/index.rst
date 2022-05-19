@@ -39,9 +39,7 @@ Here you can do the following:
 
 Move node
 ***********
-Using this option you can move one or more pages anywhere in the navigation. If you select a node with sub pages, all levels of pages below the one you select are moved.
-
-In Omnia 6.10 you can also move a page to any Page Collection within the Publishing App. You do it the same way as is described below. The difference is that all Page Collections are available in the navigation tree.
+Using this option you can move one or more pages anywhere in the navigation, even to other page collections within the publishing app. If you select a node with sub pages, all levels of pages below the one you select are moved.
 
 1. Select the main page.
 2. Open the menu and select "Move Node".
