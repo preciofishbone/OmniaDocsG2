@@ -11,6 +11,7 @@ This block can be used for many purposes, for example:
 + Pages with a certain variation (for example a language).
 + Created but unpublished pages.
 + Various page statistics.
++ Various rollups that authors and editors cen benefit from.
 + Part of a News Letter implementation.
 + Part of an Event Management implementation.
 
@@ -95,7 +96,7 @@ These options are available for most views:
 + **Link label**: Add the text to be shown for the link here. Available only if "Show link" is selected.
 + **Link url**: Add the url to open when a user clicks the link. Available only if "Show link" is selected.
 + **No result text**: Enter the text that will be shown if no page can be displayed.
-+ **Open in Editor**: Available for all views except Calendar. (A description will be added soon).
++ **Open in Editor**: Available for all views except Calendar. If this option is selected, a page link can be clicked to open the page in edit mode. This options was devolped with rollups for editors and authors in mind. Permissions apply, so if a user without any edit permissions for the page opens a page this way, nothing can be edited.
 + **Open in new tab**: If the link should be opened in a new tab (as opposed to in current window or dialog), select this option.
 + **Open page as a dialog**: If the page should be opened in a dialog instead for in a page (new or current), select this option. 
 + **Padding**: Add some padding between the list and the block border, if needed.
