@@ -11,7 +11,7 @@ This block can be used for many purposes, for example:
 + Pages with a certain variation (for example a language).
 + Created but unpublished pages.
 + Various page statistics.
-+ Various rollups that authors and editors cen benefit from.
++ Various rollups that authors and editors can benefit from.
 + Part of a News Letter implementation.
 + Part of an Event Management implementation.
 
