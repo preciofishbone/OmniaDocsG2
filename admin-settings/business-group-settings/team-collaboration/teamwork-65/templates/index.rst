@@ -21,7 +21,7 @@ To create a new template, do the following:
 
 General
 ***********
-The following settings are available here (image from Omnia 6.10):
+The following settings are available here:
 
 .. image:: teamwork-65-edit-general-new2.png
 
