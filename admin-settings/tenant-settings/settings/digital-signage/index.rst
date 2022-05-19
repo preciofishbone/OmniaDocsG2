@@ -1,7 +1,7 @@
 Digital Signage
 =====================================
 
-The following options are available for Digital Signage in Omnia 6.10. This functionality replaces Infoscreen.
+The following options are available for Digital Signage. This functionality replaces Infoscreen.
 
 Prerequisite: the feature Digital Signage must be activated.
 
