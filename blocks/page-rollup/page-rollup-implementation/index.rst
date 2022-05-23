@@ -7,42 +7,51 @@ Here you will find some examples of how the Page Rollup block can be used.
 
 News Archive/News Center
 --------------------------
-The purpose of a News Center is to display ALL published news for the users to read. Normally a News Editor can create and edit news artcicles from there.
+The purpose of a News Center is to display ALL published news, or a specific type of news, for the users to read. Normally a News Editor can create and edit news artcicles from there. 
 
 Here's an example of how the user interface can look:
 
-.. image:: page-rollup-example-news-center-new.png
+.. image:: page-rollup-example-news-center-610.png
 
 (The "Create News Article" button is shown only for those that has the permission to create News.)
 
-The Page Rollup can be set up the following way:
+The News Center in this example consists of several parts. The Page Rollup block is used for two different purposes; 1) the list with the search field and filter, 2) as part of a Newsletter implementation. Here the news list is described.
 
-+ Query: Scope - Page Collections, News (the Page Collection with the name "News").
+.. image:: page-rollup-example-news-center-610-rollup.png
+
+The Page Rollup for the news list is set up the following way in this example:
+
++ Query: Scope - Page Collections, Current Page Collection (this is a Page Collection for Corporate news only).
 + The option "Exclude current page" can be a good idea to have selected. 
-+ The option "Enable partial word search" is also useful in this case.
-+ Social Period: All default.
++ Only published news should be listed, as this is a list for all users.
 
-.. image:: news-archive-example-1new.png
+.. image:: news-example-quesry.png
 
 + Display: Depends on how you want it to look. In the above example, these settings are used:
 
-.. image:: news-archive-example-1new-display.png
+.. image:: news-aexample-display.png
+
+There are five columns added. As it's a List View, at least one column must always be added or nothing is shown.
+
+"Open in editor" is handy for news editors. With this option selected, a news editor can open a news article in edit mode directly from the list. Permissions apply.
 
 and these:
 
-.. image:: news-archive-example-2new.png
-
-and finally, these:
-
-.. image:: news-archive-example-3new.png
-
-Note the "Show create button" option, the label for that button and the option to set in which Page Collection these pages are created (in this case "News", the Page Collection selected under "Query").
+.. image:: news-aexample-display-2.png
 
 + Filters: A search box is always a good idea in a News Center. The users should most likely also be able to filter the list on one or more properties, for example:
 
-.. image:: news-archive-filters-new.png
+.. image:: news-example-filters.png
 
-+ Page Variations: None. (If Page variations will be used, for example for different languages, it will be used on the pages. Or a separate News Center could be set up for News in other languages, or for any other purpose, for that matter.)
+The rest of the Filter settings are:
+
+.. image:: news-example-filters-2.png
+
+"Enable partial word search" should probably always be selected in a news rollup implementation, so the search can find parts of words as well. As "Hide filter by default" is selected, users have to click SHOW FILTER to be able to filter. Makes the layout a bit cleaner.
+
++ Time Period - all default (no limit), meaning all published news are always listed, whenever they where published and so on.
+
+.. image:: news-example-timeperiod.png
 
 Latest News
 -------------
