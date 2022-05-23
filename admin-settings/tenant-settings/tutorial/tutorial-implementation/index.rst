@@ -1,8 +1,6 @@
 Tutorial implementation example
 ==============================================
 
-**These page is being updated. Will be finished soon.**
-
 This example consists of three steps:
 
 .. image:: tutorial-example-1-new.png
