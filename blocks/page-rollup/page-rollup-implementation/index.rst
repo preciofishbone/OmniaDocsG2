@@ -132,30 +132,34 @@ and these:
 
 News - Dynamic Roller
 ------------------------
-**This section is being updated. Will be finished soon.**
-
 When a Dynamic Roller display is used for news, it can look like this:
 
-.. image:: dynamic-roller-example-new.png
+.. image:: dynamic-roller-example-new2.png
 
 In this example the Page Rollup block is set up this way:
 
-+ Query: Scope - Page Collections, News.
-+ If this block is placed in the Page Type for News, "Exclude current page" can be a good idea to have selected. 
-+ Social Period - Like: If you don't want old likes to affect the list, select a social period.
-+ Display: Depends on how you want it to look. In the above example, these settings are used:
++ Query: Scope - Page Collections, Corporate News (this is page collection specifically for corporate news).
++ "Exclude current page" cis always a good idea for news. 
 
-.. image:: dynamic-roller-example-1new.png
+.. image:: dynamic-roller-example-query.png
+
++ Display: the Dynamic Roller settings are these:
+
+.. image:: dynamic-roller-display-1.png
 
 and these:
 
-.. image:: dynamic-roller-example-2new.png
+.. image:: dynamic-roller-displpay-2.png
 
 and, finally, these:
 
-.. image:: dynamic-roller-example-3new.png
-
-(Padding is set to 0, not shown in the image above.)
+.. image:: dynamic-roller-displpay-3.png
 
 + Filters: none.
-+ Page Variations: User variation.
+
+.. image:: dynamic-roller-filter.png
+
++ Time Perdiod: none (meaning all published news from this page collection are shown).
+
+.. image:: dynamic-roller-timeperdiod.png
+
