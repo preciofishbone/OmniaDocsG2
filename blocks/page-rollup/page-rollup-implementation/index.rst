@@ -3,8 +3,6 @@ Page Rollup implementation examples
 
 Here you will find some examples of how the Page Rollup block can be used.
 
-**These page is being updated. Will be finished soon.**
-
 News Archive/News Center
 --------------------------
 The purpose of a News Center is to display ALL published news, or a specific type of news, for the users to read. Normally a News Editor can create and edit news artcicles from there. 
@@ -52,6 +50,8 @@ The rest of the Filter settings are:
 + Time Period - all default (no limit), meaning all published news are always listed, whenever they where published and so on.
 
 .. image:: news-example-timeperiod.png
+
+**These page is being updated, from here on and to the end. Will be finished soon.**
 
 Latest News
 -------------
