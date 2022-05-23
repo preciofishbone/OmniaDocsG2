@@ -109,7 +109,7 @@ These options are available for most views:
 
 Roller
 ------
-Contains general settuings only above. 
+Contains general settings only, see above. 
 
 Listing with image
 -------------------
@@ -119,9 +119,9 @@ Contains mostly general settings, see above. The only special setting is:
 
 List View
 ------------
-Contains mostly general settings, see above
+Contains mostly general settings, see above. The only special setting is:
 
-+ **Show Export to Excel**: If ti should be possible for users to export a list to Excel, select this option. When this is done, an "Export to Excel" button is shown. 
++ **Show Export to Excel**: If it should be possible for users to export a list to Excel, select this option. When this is done, an "Export to Excel" button is shown. 
 
 You also have to add at least one column, for the display to work. See below for more information.
 
@@ -185,6 +185,8 @@ The special settings for this view are:
 + **Height**: Use the slider the set the height for the whole calendar. See a preview in the block.
 + **Include time**: Select this to display time for events in the calendar.
 + **Weekdays**: Select what should be shown as weekdays in the calendar.
+
+For general settings, see above.
 
 Adding columns
 ----------------
