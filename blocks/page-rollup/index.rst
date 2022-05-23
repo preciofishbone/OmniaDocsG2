@@ -3,7 +3,7 @@ Page Rollup
 
 This block can be used for many purposes, for example:
 
-+ List News in different ways; a News Center, new news, latest news etc.
++ List News in different ways; a news center, new news, latest news etc.
 + Most read pages.
 + Most commented pages.
 + Popular pages.
