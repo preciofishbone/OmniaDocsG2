@@ -232,7 +232,7 @@ Just try out these settings. A preview is shown in the block.
 
 Filter
 -------
-If users should be able to filter the list and/or search here, use these options to add filters. 
+If users should be able to filter the list and/or search here, use these options. 
 
 The following options are specific for the Page Rollup block:
 
