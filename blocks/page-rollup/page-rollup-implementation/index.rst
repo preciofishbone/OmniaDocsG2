@@ -51,10 +51,10 @@ The rest of the Filter settings are:
 
 .. image:: news-example-timeperiod.png
 
-**These page is being updated, from here on and to the end. Will be finished soon.**
-
 Latest News
 -------------
+**This section is being updated. Will be finished soon.**
+
 The purpose of this Page Rollup is as it says - to display a number of the latest News.
 
 It can look like this for users:
@@ -80,6 +80,8 @@ and these:
 
 Most Commented News
 ----------------------
+**This section is being updated. Will be finished soon.**
+
 The purpose of this Page Rollup is as it says - to display a number of the most commented News.
 
 It can look like this for users:
@@ -104,6 +106,8 @@ and these:
 
 Most Liked News
 -----------------
+**This section is being updated. Will be finished soon.**
+
 The purpose of this Page Rollup is as it says - to display a number of the most liked News.
 
 It can look like this for users:
@@ -128,6 +132,8 @@ and these:
 
 News - Dynamic Roller
 ------------------------
+**This section is being updated. Will be finished soon.**
+
 When a Dynamic Roller display is used for news, it can look like this:
 
 .. image:: dynamic-roller-example-new.png
