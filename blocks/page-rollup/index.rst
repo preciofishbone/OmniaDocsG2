@@ -21,7 +21,7 @@ Settings
 *********
 These settings are available for the block:
 
-.. image:: page-rollup-settings-new4.png
+.. image:: page-rollup-settings-new5.png
 
 General
 --------
@@ -240,13 +240,13 @@ The following options are specific for the Page Rollup block:
 
 The rest of the options are the same as other blocks. See this page for information on how to use these options: :doc:`Filter UI </blocks/general-block-settings/filters/index>`
 
-Social Period
+Time Period
 --------------
-Use these settings to decide for how long likes, comments, ratings and page feedback should be displayed here. The default setting is "No limit" but you can select one week, two weeks or one month instead.
+These settings where called Social Period in earlier Omnia versions. The following settings are available here:
 
-.. image:: page-rollup-settings-social-new2.png
+.. image:: page-rollup-settings-social-new3.png
 
-In Omnia 6.10, an additional option is availabel here: Page Statistics. Use it the set the social period for a statistics query.
+Use these settings to decide the time period calculated for any of these options. If you don't select anything, it means "No Limit". You can select one week, two weeks or one month instead.
 
 Filter on a specific variation
 --------------------------------
