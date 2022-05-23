@@ -15,7 +15,7 @@ This block can be used for many purposes, for example:
 + Part of a News Letter implementation.
 + Part of an Event Management implementation.
 
-And that's just some examples. 
+For implementation examples, see this page: :doc:`Page Rollup implementation examples </blocks/page-rollup/page-rollup-implementation/index>`
 
 Settings
 *********
