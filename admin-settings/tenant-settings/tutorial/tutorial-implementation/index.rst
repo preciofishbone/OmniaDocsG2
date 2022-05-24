@@ -3,50 +3,48 @@ Tutorial implementation example
 
 This example consists of three steps:
 
-.. image:: tutorial-example-1-new.png
+.. image:: tutorial-example-1-new2.png
 
 These settings has been made for the first step:
 
-.. image:: tutorial-example-2-new.png
+.. image:: tutorial-example-2-new2.png
 
 and these settings for the second step:
 
-.. image:: tutorial-example-3-new.png
+.. image:: tutorial-example-3-new2.png
 
 and these for the third:
 
-.. image:: tutorial-example-4-new.png
+.. image:: tutorial-example-4-new2.png
 
-The tutorial is targeted to just one page and will start automatically:
+The tutorial is targeted to the start page and will start automatically:
 
-.. image:: tutorial-example-5-new.png
+.. image:: tutorial-example-5-new2.png
 
-In the Header for Workspace, for the Business Profile, it has been set that tutorials should be available in the Action Menu. The icon is shown where a tutorial is available, but not shown otherwise.
+In the Navigation Bar for the Workspace, for the Business Profile, it has been set that tutorials should be available in the Action Menu. The icon is shown where a tutorial is available, but not shown otherwise.
 
-.. image:: tutorial-example-6.png
+.. image:: tutorial-example-6-new.png
 
-"Pinned" means shown as an icon. Another option is to make tutorials available in the menu, as you can see has been set for Omnia Admin and Strenghten Profile in this example.
+As it is an introduction that should be available for everyone, it's not targeted.
 
-The user experience:
+The user experience
+----------------------
+As the settings for the Workspace states, the tutorial is availabal ine the Action Menu:
+
+.. image:: tutorial-action-menu.png
+
+This specific tutorial can also be started byu clicking an Action Button on the start page itself:
+
+.. image:: tutorial-actionbutton.png
 
 The steps will be shown for users this way:
 
-.. image:: tutorial-example-7.png
-.. image:: tutorial-example-8.png
-.. image:: tutorial-example-9.png
+.. image:: tutorial-example-7-new.png
+.. image:: tutorial-example-8-new.png
+.. image:: tutorial-example-9-new.png
 
 Users can navigate the tutorial using the dots or the arrows:
 
-.. image:: tutorial-example-10.png
+.. image:: tutorial-example-10-new.png
 
-In this example, the tutorial starts automatically the first time the user enters the page, but after that it can be started using the Tutorial icon:
-
-.. image:: tutorial-example-11.png
-
-If the Header settings for the Workspace had been "Menu":
-
-.. image:: tutorial-example-12.png
-
-no icon would have been shown and the tutorial would have been available in the menu instead:
-
-.. image:: tutorial-example-13.png
+In this example, the tutorial starts automatically the first time the user enters the page, but after that it can be started using Action Menu option or the Action Button (see images above).
