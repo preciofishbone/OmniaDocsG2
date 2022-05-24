@@ -13,4 +13,4 @@ The Metrics block can be especially useful: :doc:`The Metrics block </blocks/met
 
 You can also edit some of the metrics settings, in Omnia Admin, see: :doc:`Metric settings </admin-settings/tenant-settings/settings/metrics/index>`
 
-For an implementation example. see this page: :doc:`Dashboard implementation example </admin-settings/tenant-settings/dashboard/dashboard-implementation/index>`
+For an implementation example, see this page: :doc:`Dashboard implementation example </admin-settings/tenant-settings/dashboard/dashboard-implementation/index>`
