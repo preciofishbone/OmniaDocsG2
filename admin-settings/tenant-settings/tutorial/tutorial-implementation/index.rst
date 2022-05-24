@@ -41,7 +41,7 @@ The steps will be shown for users this way:
 
 .. image:: tutorial-example-7-new.png
 .. image:: tutorial-example-8-new.png
-.. image:: tutorial-example-9-new.png
+.. image:: tutorial-example-9-new-border.png
 
 Users can navigate the tutorial using the dots or the arrows:
 
