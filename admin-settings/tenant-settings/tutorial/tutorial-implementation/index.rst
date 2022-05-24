@@ -21,7 +21,7 @@ The tutorial is targeted to the start page and will start automatically:
 
 .. image:: tutorial-example-5-new2.png
 
-In the Navigation Bar for the Workspace, for the Business Profile, it has been set that tutorials should be available in the Action Menu. The icon is shown where a tutorial is available, but not shown otherwise.
+In the Navigation Bar for the Workspace, for the Business Profile, it has been set that tutorials should be available in the Action Menu. The option is shown where a tutorial is available, but not shown otherwise.
 
 .. image:: tutorial-example-6-new.png
 
@@ -29,11 +29,11 @@ As it is an introduction that should be available for everyone, it's not targete
 
 The user experience
 ----------------------
-As the settings for the Workspace states, the tutorial is availabal ine the Action Menu:
+In this example, the tutorial starts automatically the first time the user enters the start page. If a user would like to see the tutorial a second time, it can be started from the Action Menu:
 
 .. image:: tutorial-action-menu.png
 
-This specific tutorial can also be started byu clicking an Action Button on the start page itself:
+Or by clicking an Action Button on the start page itself (set up in an Action Button block):
 
 .. image:: tutorial-actionbutton.png
 
@@ -47,4 +47,3 @@ Users can navigate the tutorial using the dots or the arrows:
 
 .. image:: tutorial-example-10-new.png
 
-In this example, the tutorial starts automatically the first time the user enters the page, but after that it can be started using Action Menu option or the Action Button (see images above).
