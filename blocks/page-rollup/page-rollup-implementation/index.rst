@@ -1,7 +1,7 @@
 Page Rollup implementation examples
 ==============================================
 
-Here you will find some examples of how the Page Rollup block can be used.
+Here you will find some examples of how the Page Rollup block can be used. (More examples will be added soon).
 
 News Archive/News Center
 --------------------------
@@ -51,86 +51,6 @@ The rest of the Filter settings are:
 
 .. image:: news-example-timeperiod.png
 
-Latest News
--------------
-The purpose of this Page Rollup is as it says - to display a number of the latest News.
-
-It can look like this for users:
-
-.. image:: page-rollup-latest-news-example-new2.png
-
-In this example the Page Rollup block has been set up this way in a Tenant Page Type:
-
-+ Query:
-
-.. image:: latest-news-query.png
-
-The Page Size: 3 settings means that the three latest news articles always are listed.
-
-+ The settings for Display are these:
-
-.. image:: latest-news-display.png
-
-and these:
-
-.. image:: latest-news-display-2.png
-
-+ Filters: none. (This rollup are just supposed to display the three latest news articles, nothing else).
-
-+ Time Period: none.
-
-Most Commented News
-----------------------
-**This section is being updated. Will be finished soon.**
-
-The purpose of this Page Rollup is as it says - to display a number of the most commented News.
-
-It can look like this for users:
-
-.. image:: page-rollup-example-most-commented-news.png
-
-For this purpose the Page Rollup block can be set up like this:
-
-+ Query: Scope - Page Collections, News.
-+ If this block is placed in the Page Type for News, "Exclude current page" can be a good idea to have selected. 
-+ Social Period - Comment: If you don't want old comments to affect the list, select a social period.
-+ Display: Depends on how you want it to look. In the above example, these settings are used:
-
-.. image:: most-commented-example-1new.png
-
-and these:
-
-.. image:: most-commented-example-2-new.png
-
-+ Filters: none.
-+ Page Variations: User variation.
-
-Most Liked News
------------------
-**This section is being updated. Will be finished soon.**
-
-The purpose of this Page Rollup is as it says - to display a number of the most liked News.
-
-It can look like this for users:
-
-.. image:: page-rollup-most-liked-news-example.png
-
-For this purpose the Page Rollup block can be set up like this:
-
-+ Query: Scope - Page Collections, News.
-+ If this block is placed in the Page Type for News, "Exclude current page" can be a good idea to have selected. 
-+ Social Period - Like: If you don't want old likes to affect the list, select a social period.
-+ Display: Depends on how you want it to look. In the above example, these settings are used:
-
-.. image:: most-liked-example-1new.png
-
-and these:
-
-.. image:: most-liked-example-2new.png
-
-+ Filters: none.
-+ Page Variations: User variation.
-
 News - Dynamic Roller
 ------------------------
 When a Dynamic Roller display is used for news, it can look like this:
@@ -163,4 +83,33 @@ and, finally, these:
 + Time Period: none (meaning all published news from this page collection are shown).
 
 .. image:: dynamic-roller-timeperdiod.png
+
+
+Latest News
+-------------
+The purpose of this Page Rollup is as it says - to display a number of the latest News.
+
+It can look like this for users:
+
+.. image:: page-rollup-latest-news-example-new2.png
+
+In this example the Page Rollup block has been set up this way in a Tenant Page Type:
+
++ Query:
+
+.. image:: latest-news-query.png
+
+The Page Size: 3 settings means that the three latest news articles always are listed.
+
++ The settings for Display are these:
+
+.. image:: latest-news-display.png
+
+and these:
+
+.. image:: latest-news-display-2.png
+
++ Filters: none. (This rollup are just supposed to display the three latest news articles, nothing else).
+
++ Time Period: none.
 
