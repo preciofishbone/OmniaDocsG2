@@ -53,30 +53,31 @@ The rest of the Filter settings are:
 
 Latest News
 -------------
-**This section is being updated. Will be finished soon.**
-
 The purpose of this Page Rollup is as it says - to display a number of the latest News.
 
 It can look like this for users:
 
-.. image:: page-rollup-latest-news-example-new.png
+.. image:: page-rollup-latest-news-example-new2.png
 
-For this purpose the Page Rollup block can be set up like this:
+In this example the Page Rollup block has been set up this way in a Tenant Page Type:
 
-+ Query: Scope - Page Collections, News.
-+ The option "Exclude current page" can be a good idea to have selected. 
-+ The option "Enable partial word search" is also useful in this case.
-+ Social Period: All default.
-+ Display: Depends on how you want it to look, of course. In the above example, these settings are used:
++ Query:
 
-.. image:: latest-news-example-1new.png
+.. image:: latest-news-query.png
+
+The Page Size: 3 settings means that the three latest news articles always are listed.
+
++ The settings for Display are these:
+
+.. image:: latest-news-display.png
 
 and these:
 
-.. image:: latest-news-example-2new.png
+.. image:: latest-news-display-2.png
 
-+ Filters: none.
-+ Page Variations: Default Variations.
++ Filters: none. (This rollup are just supposed to display the three latest news articles, nothing else).
+
++ Time Period: none.
 
 Most Commented News
 ----------------------
