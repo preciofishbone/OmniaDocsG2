@@ -16,7 +16,6 @@ Tenant Settings
    sign-off-requests/index
    system/index
    tutorial/index
-      tutorial/tutorial-implementation/index
    user-profile-completion/index
    document-management/index
    process-management/index
