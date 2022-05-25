@@ -1,10 +1,12 @@
 Document Rollup implementation example
 ==============================================
 
+Here you will examples (only on for now) on how the Document Rollup block can be used.
+
 **This page is being updated. Will be finished soon.**
 
-Implementation example
-***********************
+Controlled Documents Rollup
+********************************
 Here's an example of how it can look for users when a Document Rollup block is set up for Controlled Documents access:
 
 .. image:: document-rollup-controlled-1new2.png
