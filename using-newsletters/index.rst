@@ -3,6 +3,8 @@ Using Newsletters
 
 There's a number of options and settings in Omnia you can use for a newsletter implementation, to send internally or externally through e-mail. These options and settings are described here, together with an implementation example.
 
+**This page is being updated. Will be finished in a few days.**
+
 A Page Type for Newsletters
 *****************************
 You will need a Page Type set up for Newsletters. See the implementation example below for more information.
@@ -110,9 +112,3 @@ Here's an example of a newsletter:
 .. image:: newsletter-example.png
 
 
-
-
-
-
-
- 
