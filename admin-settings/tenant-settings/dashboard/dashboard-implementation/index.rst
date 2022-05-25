@@ -7,7 +7,7 @@ Here's an example of a Dashoboard set up:
 
 .. image:: admin-dashboard-usage.png
 
-Under Usage, information about active readers and active contributors are shown. What should be considered an active reader or an active contributor is defined in the Metrics settings, see link above.
+Under Usage, information about active readers and active contributors are shown. What should be considered an active reader or an active contributor is defined in the Metrics settings, see: :doc:`Metric Settings </admin-settings/tenant-settings/settings/metrics/index>`
 
 Under Page Status, something like the following is shown:
 
@@ -21,7 +21,7 @@ For Underused Content, something like the following can be shown:
 
 What should be considered underused content is defined in the Metrics settings, see link above.
 
-Regarding Reach: How well do we reach our target audience based on what we expect. The metric can be configured to a specific scope of pages and have a target nr of users
+Regarding Reach: How well we reach our target audience based on what we expect. The metric can be configured to a specific scope of pages and have a target number of users.
 
 .. image:: admin-dashboard-reach.png
 
