@@ -97,4 +97,3 @@ And with the following Metrics:
 
 .. image:: dashboard-example-tab-communities-metrics.png
 
-For more information about the Metrics block, see the link at the top of this page.
