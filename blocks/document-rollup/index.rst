@@ -3,26 +3,28 @@ Document Rollup
 
 Using The Document Rollup block you can show suitable documents in a list. 
 
+**This page is being updated. Will be finished soon**.
+
 For implementation examples, see this page: :doc:`Document Rollup implementation examples </blocks/document-rollup/document-rollup-implementation/index>`
 
 Settings
 *************************
 The following settings are available:
 
-.. image:: document-rollup-settings-all-new2.png
+.. image:: document-rollup-settings-all-new3.png
 
 General
 -----------------
 Here you can set the following:
 
-.. image:: document-rollup-settings-general-new4.png
+.. image:: document-rollup-settings-general-new5.png
 
-+ **Title**: If a title should be shown for the block, add it in this field. If no variation exists for the page, it looks like in the image above and you can set the title in the languages active in the tenant. If variations exists, only one title can be set. In that case, titles in other languages are set in the variations.
++ **Title**: If a title should be shown for the block, add it in this field. The title can be added in any, or all tenant languages. Click the flag to change language.
 + **Open in Client App**: Documents are by default opened in the online app. If document should be opened in the client app instead, select this option.
 
 Query
 ---------
-You can either choose to pick documents to be displayd in the block, or use the Query Builder.
+You can either choose to pick documents to be displayed in the block, or use the Query Builder.
 
 .. image:: document-rollup-query-new2.png
 
@@ -57,8 +59,6 @@ Here you add queries, which is the detailed "settings" for what to display in th
 2. Use the three lists for base settings and the field to add a Query Parameter. 
 3. Click "Add" to add the Query. 
 
-See an example under *Implementation example* below.
-
 Note that you can type the script directly in the field, if you know how. You can use all options in the Keyword Query Language (KQL). See this Microsoft page for reference: https://docs.microsoft.com/en-us/sharepoint/dev/general-development/keyword-query-language-kql-syntax-reference
 
 Additionally you can set:
@@ -68,7 +68,7 @@ Additionally you can set:
 
 Display
 ---------------
-You can select "List View", "Card" and "Group by site" here. Available settings differ depending on your choice.
+You can select "List View", "Summary View", "Group by site" and "Card" and here. Available settings differ depending on your choice.
 
 For **List View** you can set the following:
 
@@ -85,17 +85,18 @@ If you select "Adjust Columns" - displayed when you have selected columns - you 
 
 .. image:: document-rollup-settings-display-width.png
 
-For **Card** view the following settings are available:
+For **Summary View** these settings are available:
 
-.. image:: document-rollup-settings-display-card-new2.png
+(Image to be added)
 
 + **Title**: Select what to show as the title: "Title", "Document Type", "Document Owner", "Published", Modified or Document Title..
 + **Modified At**: Here you select the information (field) to show for a document.
 + **Modified By**: You select information (field) to show for who the document was modified by.
 + **Trim by Following Site**: If this option is selected only documents from sites the logged in user follows are displayed in the list.
 + **Sort By**: Select the column the list should be sorted by.
-+ **Paging**: Select paging for the list here. It can be "No paging", "Classic" or "Scroll".
-+ **Item Limit**: Set the item limit to display in each "page" of the list.
++ **Paging**: Select type of paging here; No Paging, Classic or Scroll.
++ **Item Limit**: Shown when No Paging is selected. Set the item limit to display in each "page" of the list.
++ **Page Size**: Shown when Classic or Scroll paging is selected. Set the item limit to display in each "page" of the list.
 + **Padding**: Use this setting for padding around the contents in the block.
 
 For **Group By Site** these settings are available:
@@ -108,6 +109,19 @@ For **Group By Site** these settings are available:
 + **Always Show Letter Avatar**: If letter avatars always should be shown, select this option.
 + **Trim by Following Site**: If this option is selected only documents from sites the logged in user follows are displayed in the list.
 + **Sort By**: Select the column the list should be sorted by.
++ **Item Limit**: Set the item limit to display in each "page" of the list.
++ **Padding**: Use this setting for padding around the contents in the block.
+
+For **Card** view the following settings are available:
+
+.. image:: document-rollup-settings-display-card-new2.png
+
++ **Title**: Select what to show as the title: "Title", "Document Type", "Document Owner", "Published", Modified or Document Title..
++ **Modified At**: Here you select the information (field) to show for a document.
++ **Modified By**: You select information (field) to show for who the document was modified by.
++ **Trim by Following Site**: If this option is selected only documents from sites the logged in user follows are displayed in the list.
++ **Sort By**: Select the column the list should be sorted by.
++ **Paging**: Select paging for the list here. It can be "No paging", "Classic" or "Scroll".
 + **Item Limit**: Set the item limit to display in each "page" of the list.
 + **Padding**: Use this setting for padding around the contents in the block.
 
