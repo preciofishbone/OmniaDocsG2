@@ -65,7 +65,7 @@ And these:
 
 .. image:: document-rollup-controlled-8new2-3.png
 
-(Only two of the refiners are shown in the image above, users have to scroll down to see the other three).
+(Only two of the refiners are shown in the image above, users have to scroll down to see the other two).
 
 No settings are made for Refiner Style.
 
