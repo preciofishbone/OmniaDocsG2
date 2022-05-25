@@ -11,7 +11,7 @@ Here's an example of how it can look for users when a Document Rollup block is s
 
 .. image:: document-rollup-controlled-1new2.png
 
-The following settings are used (see above for more information about the fields and options):
+The following settings are used:
 
 General
 --------
