@@ -1,3 +1,17 @@
+6.8.15
+========================================
+(Omnia 6.8.15 / Workplace 6.8.12 / WCM 6.8.15 / MS 6.8.9)
+
+-	Corrected an issue in the default community template
+-	Removed an incorrect permission check on the Process Management Tenant feature (#138395)
+-	Improved performance in the create page dialog (#136922)
+-	Fixed an issue with the Teamwork rollup search (#138358)
+-	Made page visit registration more accurate
+-	Non functional updates to prepare for 6.10 release.
+-	Corrected an issue with assigning Co-authors in communities (#137109)
+-	Combining a navigation path query with a date sort now works as expected.
+
+
 6.8.14
 ========================================
 (Omnia 6.8.14 / Workplace 6.8.11 / WCM 6.8.13 / MS 6.8.7)
