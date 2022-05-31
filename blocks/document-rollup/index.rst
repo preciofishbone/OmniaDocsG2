@@ -78,10 +78,11 @@ For **List View** you can set the following:
 .. image:: document-rollup-settings-display-new3.png
 
 + **Add Column**: Select the columns to show in the list. Note! If users should be able to send feedback on controlled documents, add the column "Feedback Icon". In the rollups shown in the implementation section below, the Feedback icon is the icon to the far right. An information icon can also be very useful as it displays more information about the document.
-+ **Trim by Following Site**: If this option is selected only documents from sites the logged in user follows are displayed in the list.
++ **Trim by Following Sites**: If this option is selected only documents from sites the logged in user follows are displayed in the list.
 + **Sort By**: Select the column the list should be sorted by.
 + **Paging**: Select paging for the list here. It can be "No paging", "Classic" or "Scroll".
-+ **Item Limit**: Set the item limit to display in each "page" of the list.
++ **Item Limit**: Shown when No Paging is selected. Set the item limit to display in each "page" of the list.
++ **Page Size**: Shown when Classic or Scroll paging is selected. Set the item limit to display in each "page" of the list.
 + **Padding**: Use this setting for padding around the contents in the block.
 
 If you select "Adjust Columns" - displayed when you have selected columns - you can set the width for the columns, if needed:
@@ -90,11 +91,11 @@ If you select "Adjust Columns" - displayed when you have selected columns - you 
 
 For **Summary View** these settings are available:
 
-(Image to be added)
+.. image:: document-rollup-settings-summary-view.png
 
-+ **Title**: Select what to show as the title: "Title", "Document Type", "Document Owner", "Published", Modified or Document Title..
-+ **Modified At**: Here you select the information (field) to show for a document.
-+ **Modified By**: You select information (field) to show for who the document was modified by.
++ **Title**: Select property to to get the title from.
++ **Modified At**: Select the property to get this information from.
++ **Modified By**: Select the property to get this information from.
 + **Trim by Following Site**: If this option is selected only documents from sites the logged in user follows are displayed in the list.
 + **Sort By**: Select the column the list should be sorted by.
 + **Paging**: Select type of paging here; No Paging, Classic or Scroll.
@@ -106,9 +107,9 @@ For **Group By Site** these settings are available:
 
 .. image:: document-rollup-settings-display-group-new2.png
 
-+ **Title**: Select what to show as the title: "Title", "Document Type", "Document Owner", "Published", Modified or Document Title..
-+ **Modified At**: Here you select the information (field) to show for a document.
-+ **Modified By**: You select information (field) to show for who the document was modified by.
++ **Title**: Select property to to get the title from.
++ **Modified At**: Select the property to get this information from.
++ **Modified By**: Select the property to get this information from.
 + **Always Show Letter Avatar**: If letter avatars always should be shown, select this option.
 + **Trim by Following Site**: If this option is selected only documents from sites the logged in user follows are displayed in the list.
 + **Sort By**: Select the column the list should be sorted by.
@@ -117,16 +118,22 @@ For **Group By Site** these settings are available:
 
 For **Card** view the following settings are available:
 
-.. image:: document-rollup-settings-display-card-new2.png
+.. image:: document-rollup-settings-display-card-new3.png
 
-+ **Title**: Select what to show as the title: "Title", "Document Type", "Document Owner", "Published", Modified or Document Title..
-+ **Modified At**: Here you select the information (field) to show for a document.
-+ **Modified By**: You select information (field) to show for who the document was modified by.
++ **Title**: Select property to to get the title from.
++ **Modified At**: Select the property to get this information from.
++ **Modified By**: Select the property to get this information from.
++ **Show Modified By Info**: If it should be shown who the latest version of this document was created by, select this option.
++ **Show Action Buttons**: Makes the following options available in a menu: "Copy link" and "Source library".
 + **Trim by Following Site**: If this option is selected only documents from sites the logged in user follows are displayed in the list.
 + **Sort By**: Select the column the list should be sorted by.
 + **Paging**: Select paging for the list here. It can be "No paging", "Classic" or "Scroll".
 + **Item Limit**: Set the item limit to display in each "page" of the list.
 + **Padding**: Use this setting for padding around the contents in the block.
+
+For Card View, you can also edit Card Spacing, available under STYLES:
+
+.. image:: document-rollup-settings-display-card-style.png
 
 Filter
 --------
@@ -155,9 +162,7 @@ Using STYLE you can set the following:
 
 .. image:: document-rollup-settings-refiners-style.png
 
-+ **Elevation**: If you want the refiner area to be elevated, use this slider to set how much.
-+ **Background**: Use this option to add a gray tint to the Refiner area, to make it a little bit darker than the rest of the block. If the background for the block is white the Refiner area is distinctively gray. If the background for the block is black this option makes no difference.
-+ **Border Radius**: Use this slider to set rounded corners for the Refiner area.
+Test the options and see a preview in the block.
 
 Layout and Write
 *********************
