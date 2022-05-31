@@ -1,7 +1,7 @@
 Document Rollup implementation example
 ==============================================
 
-Here you will examples (only on for now) on how the Document Rollup block can be used.
+Here you will examples (only one for now) on how the Document Rollup block can be used.
 
 **This page is being updated. Will be finished soon.**
 
