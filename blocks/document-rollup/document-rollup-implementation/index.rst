@@ -1,7 +1,7 @@
 Document Rollup implementation example
 ==============================================
 
-Here you will examples (only one for now) on how the Document Rollup block can be used.
+Here you will find examples (only one for now) on how the Document Rollup block can be used.
 
 **This page is being updated. Will be finished soon.**
 
@@ -51,7 +51,7 @@ And these:
 
 .. image:: document-rollup-controlled-7new3-2.png
 
-As "Hide filter by default" is selcted, no filters are shown until the user clicks SHOW FILTER.
+As "Hide filter by default" is selected, no filters are shown until the user clicks SHOW FILTER.
 
 No settings are made for Filter Style.
 
