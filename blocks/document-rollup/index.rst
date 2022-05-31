@@ -17,7 +17,7 @@ General
 -----------------
 Here you can set the following:
 
-.. image:: document-rollup-settings-general-new5.png
+.. image:: document-rollup-settings-general-new6.png
 
 + **Title**: If a title should be shown for the block, add it in this field. The title can be added in any, or all tenant languages. Click the flag to change language.
 + **Open in Client App**: Documents are by default opened in the online app. If document should be opened in the client app instead, select this option.
@@ -55,11 +55,16 @@ Here you add queries, which is the detailed "settings" for what to display in th
 **Note!** Regardless of what you select here, the documents that will be displayed for a user are only those documents that the user has premissions to read.
 
 2. Use the three lists for base settings and the field to add a Query Parameter. 
+
+.. image:: document-rollup-settings-query-scope-settings.png
+
 3. Click "Add" to add the Query. 
 
 Note that you can type the script directly in the field, if you know how. You can use all options in the Keyword Query Language (KQL). See this Microsoft page for reference: https://docs.microsoft.com/en-us/sharepoint/dev/general-development/keyword-query-language-kql-syntax-reference
 
 Additionally you can set:
+
+.. image:: document-rollup-settings-query-scope-settings2.png
 
 + **Day Limit**: Use this option to limit the display of older documents. You first select property (for example Modified) and then select how old the documents can be to be displayed in the list.
 + **Last modified by current user**: Use this option to limit the rollup to documents the logged in user has edited, for example for a "My Latest Documents" implementation.
