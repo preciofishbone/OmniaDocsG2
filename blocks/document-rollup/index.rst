@@ -38,8 +38,6 @@ The Document Picker opens and you use it to select documents.
 
 .. image:: document-rollup-document-picker-new.png
 
-Available categories (shown as tabs in the picker) are set up in Omnia Admin, see: :doc:`Document Picker settings </admin-settings/business-group-settings/settings/document-picker/index>`
-
 See this page for more information on how to use the Document Picker: :doc:`The Document Picker </general-assets//document-picker/index>`
 
 Query Builder
