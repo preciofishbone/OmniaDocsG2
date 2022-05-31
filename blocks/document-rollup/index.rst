@@ -3,8 +3,6 @@ Document Rollup
 
 Using The Document Rollup block you can show suitable documents in a list. 
 
-**This page is being updated. Will be finished soon**.
-
 For implementation examples, see this page: :doc:`Document Rollup implementation examples </blocks/document-rollup/document-rollup-implementation/index>`
 
 Settings
