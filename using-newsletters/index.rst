@@ -7,7 +7,7 @@ For an implementation example, see this page (being updated at the moment): :doc
 
 A Page Type for Newsletters
 *****************************
-You will need a Page Type set up for Newsletters. See the implementation example below for more information.
+You will need a Page Type set up for Newsletters. See the implementation example for more information (see link above).
 
 You use the options available in Omnia, see: :doc:`Page Types </pages/page-types/index>`
 
