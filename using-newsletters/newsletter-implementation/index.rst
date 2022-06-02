@@ -7,33 +7,35 @@ Implementation example
 ************************
 Here's a Newsletter implementation example. First an example of a newsletter archive:
 
-.. image:: newsletter-archive.png
+.. image:: newsletter-archive-new.png
 
 The Page Type is set up with three blocks: a Text block for the heading, an Action Button block for the newsletter editor to use when creating a newslettter page, and finally a Page Rollup block to list the newsletter pages. The same Page type is used when en editor creates a newsletter, but then works slightly differently.
 
 The Action Button has the following General settings:
 
-.. image:: newsletter-archive-button-settings-1.png
+.. image:: newsletter-archive-button-settings-1-new.png
 
 And the following Style settings:
 
-.. image:: newsletter-archive-button-style-1.png
+.. image:: newsletter-archive-button-style-1-new.png
 
 The Page Rollup block has the following settings for Query:
 
-.. image:: newsletter-archive-page-query.png
+.. image:: newsletter-archive-page-query-new.png
 
-There are no settings for Social Period. The settings for Display are the following:
+The settings for Display are the following:
 
-.. image:: newsletter-archive-page-display-1.png
+.. image:: newsletter-archive-page-display-1-new.png
 
 and these:
 
-.. image:: newsletter-archive-page-display-2.png
+.. image:: newsletter-archive-page-display-2-new.png
 
-There are no Filter settings. For Page Variations, this setting is made:
+Regarding the filter settings, the following is set:
 
-.. image:: newsletter-archive-page-variations.png
+.. image:: newsletter-archive-page-filter.png
+
+No settings are made for Time Period.
 
 Newsletters from the editor's point of view
 ----------------------------------------------
