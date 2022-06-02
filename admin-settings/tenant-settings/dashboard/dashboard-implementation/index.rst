@@ -11,7 +11,7 @@ Under Usage, information about active readers and active contributors are shown.
 
 Under Page Status, something like the following is shown:
 
-.. image:: admin-dashboard-page-status.png
+.. image:: admin-dashboard-page-status-new.png
 
 What you see in the example is the total status for the tenant. You can choose to see status for just one of the publishing apps and/or just one of the page types.
 
@@ -31,7 +31,7 @@ For Teamwork, you can see the number of active teamworks and if any has been cre
 
 Finally, for Communities, the following information is shown:
 
-.. image:: admin-dashboard-communities.png
+.. image:: admin-dashboard-communities-new.png
 
 How it's done
 -----------------
@@ -55,27 +55,25 @@ On each tab a Metrics block is placed, with the following settings:
 
 **Page Status**: Here the setting for Scope is "Pages" with the following Metrics:
 
-.. image:: dashboard-example-tab-page-status.png
+.. image:: dashboard-example-tab-page-status-new.png
 
-**Underused Content**: The Scope for this is also set to page, but this time the following Metrics:
+**Underused Content**: The Scope for this tab is also set to page, but this time with the following Metrics:
 
 .. image:: dashboard-example-tab-page-underused.png
 
 **Reach**: On the Reach tab, two Metrics blocks are added.
 
-For the "Global News Reach", the Scope is set this way:
+For the "Corporate News Reach", the Scope is set this way:
 
-.. image:: dashboard-example-tab-page-reach-news.png
+.. image:: dashboard-example-tab-page-reach-news-new.png
 
 And the Metrics, this way:
 
-.. image:: dashboard-example-tab-page-reach-news-metrics.png
+.. image:: dashboard-example-tab-page-reach-news-metrics-new.png
 
 For the "Local News Reach", the Scope is set this way:
 
-.. image:: dashboard-example-tab-page-reach-news-local.png
-
-As you can see, the difference between these two blocks, is the Page Type used.
+.. image:: dashboard-example-tab-page-reach-news-local-new.png
 
 And the Metrics, this way:
 
@@ -83,7 +81,7 @@ And the Metrics, this way:
 
 **Teamwork**: For this tab, the Scope is set to "Teamwork", with three Metrics:
 
-.. image:: dashboard-example-tab-teamwork.png
+.. image:: dashboard-example-tab-teamwork-new.png
 
 A filter is also added so you can choose the type of teamwork, based on template:
 
@@ -95,5 +93,5 @@ A filter is also added so you can choose the type of teamwork, based on template
 
 And with the following Metrics:
 
-.. image:: dashboard-example-tab-communities-metrics.png
+.. image:: dashboard-example-tab-communities-metrics-new.png
 
