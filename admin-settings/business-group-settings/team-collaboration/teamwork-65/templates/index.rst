@@ -30,8 +30,7 @@ The following settings are available here:
 + **Description**: Add a Description if needed, in any or all tenant languages. Click the flag to change language.
 + **Icon Type**: An icon is always shown for a template. If you would like another icon for this template, select the set of icons here: Font Awesome, Microsoft, Flags or Custom. When selecting Custom you can choose any image as the icon.
 + **Icon**: When you have select Icon Type, use this list to select the icon. If you select Custom, a Url field is shown, where you enter the Url for the image.
-+ **Available to All Users**: Select this option if the template should be available for other’s than administrators, for example in the user Wizard for creating new teamworks. If this option is not selected, the template will be available only for administrators to use in Omnia Admin.
-+ **Available to**: Here you can select "All users", "Specific users" or "Admins only" under this heading, as shown in the image above. Deafault setting is Admins ony. When you select "Specific users", you can set which users the template will be available for, using the normal targeting functionality in Omnia. For more info, see below.
++ **Available to**: Here you can select "All users", "Specific users" or "Admins only". Deafault setting is Admins ony. When you select "Specific users", you can set which users the template will be available for, using the normal targeting functionality in Omnia. For more info, see below.
 + **Site Creation Mode**: Here you select if approval is required when users create sites from this template.
 
 Teamwork templates for specific users
