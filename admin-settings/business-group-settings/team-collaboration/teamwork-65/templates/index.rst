@@ -114,7 +114,7 @@ For Microsoft Team, the following settings are available for Setup in Omnia 6.10
 
 Create a custom Microsoft Team template
 ----------------------------------------
-When you have selected to create a custom template in Omnia 6.10 the following options becomes available:
+When you have selected to create a custom template the following options are available:
 
 .. image:: teamwork-settings-setup-team-all.png
 
@@ -182,7 +182,7 @@ If any custom steps has been developed for the type of community you have select
 
 Policies
 **********
-This option is available in Omnia 6.10 and later. Use this for further policies settings, that will be applied to teamworks created from specific templates.
+Use this for further policies settings, that will be applied to teamworks created from specific templates.
 
 The following can be set here:
 
