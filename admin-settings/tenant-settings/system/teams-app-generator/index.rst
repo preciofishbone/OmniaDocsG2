@@ -15,7 +15,7 @@ The app is actually ready for use but there may be some more settings you want t
 
 Additional settings
 --------------------
-**The following two sections are preliminary, will be tested in more detail soon. **
+**The following two sections are preliminary, will be tested in more detail soon.**
 
 There are some additional settings you may want to do using Developer Portal, especially icons, but there may be more you would like to do.
 
@@ -33,9 +33,11 @@ Publish the app
 
 Note the it can take som time before your app is listed there. If you can't find it yet, just wait a bit.
 
-3. Skapa en Setup Policy.
-4. Publicera appen.
+3. Create a Setup Policy.
+4. Publish the app.
 5. Wait a while for the app to be fully processed (can sometimes take up to an hour).
+
+Also note that it may take up to 24 hours befoew users have access to the app in Teams.
 
 Update Existing App
 ***********************
