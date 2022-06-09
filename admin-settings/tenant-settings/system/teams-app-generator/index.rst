@@ -17,7 +17,7 @@ The app is actually ready for use but there may be some more settings you want t
 
 Update Existing App
 ***********************
-If you need to update an app you already have, use this option. What the posible update is about is stated in the description text: "Ensure Omnia SSO and Omnia teamwork tab for an existing app".
+In Omnia 6.10 the Omnia App has some new options. If you already have an Omnia App and would like to update it to the full 6.10 options, use this option. What the possible update is about is stated in the description text: "Ensure Omnia SSO and Omnia teamwork tab for an existing app".
 
 To update an app, drag and drop or Browse to load it.
 
