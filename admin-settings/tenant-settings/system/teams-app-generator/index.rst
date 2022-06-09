@@ -15,29 +15,31 @@ The app is actually ready for use but there may be some more settings you want t
 
 Additional settings
 --------------------
-**The following two sections are preliminary, will be tested in more detail soon.**
-
-There are some additional settings you may want to do using Developer Portal, especially icons, but there may be more you would like to do.
+There are some additional settings you may want to do using Developer Portal, especially icons, but there may be more you would like to do. These steps, using Developer Portal, are not mandatory.
 
 Either use the Developer Portal as an app in Teams or at dev.teams.microsoft.com.
 
 1. Importer the app you created (don't mind the errors, fix them as below).
 2. Go to Branding and add a Color icon and an Outline icon with the correct sizes.
 3. Make other changes you would like to do.
-4. Publish the edited app (Publish to org).
+4. Download the app.
 
 Publish the app
 ----------------
+These steps are also not mandatory, but needed if you want users to get access to the app without having to install it themselves (which they may or may not have permissions to do).
+
 1. Go to Teams Administration in central MS 365 admin.
-2. Go to Teams apps and then Manage apps, and find your app.
+2. Go to Teams apps and then Manage apps.
+3. Upload your app.
 
 Note the it can take som time before your app is listed there. If you can't find it yet, just wait a bit.
 
-3. Create a Setup Policy.
-4. Publish the app.
-5. Wait a while for the app to be fully processed (can sometimes take up to an hour).
+4. Create or select a Setup Policy.
+5. Publish the app.
 
-Also note that it may take up to 24 hours befoew users have access to the app in Teams.
+If you do it this way, the app will be installed automatically for all users, or the group of users the Setup Policy states. 
+
+**Note!** It may take up to 24 hours before users have access to the app in Teams.
 
 Update Existing App
 ***********************
