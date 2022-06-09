@@ -181,7 +181,7 @@ If any custom steps has been developed for the type of community you have select
 
 Policies
 **********
-Use this for further policies settings, that will be applied to teamworks created from specific templates.
+Use this for further policies settings, that will be applied to teamworks created from specific templates. A prerequisite is that Sensitivity Labels are created in Microsoft 365.
 
 The following can be set here:
 
@@ -191,4 +191,4 @@ The following can be set here:
 + **Minimum number of characters in description**: Here you can set a number of characters for the teamwork descripton, to force users to add a description of a certain length. 
 + **Minimim number of administrators**: There must always be at least one administrator for a teamwork, but you can decide that more administrators should be required, up to 5.
 + **Default Administrators**: Use this to add one or more administrators for teamworks created from this template. These administrators will always be added, can not be removed in the Create Teamwork wizard. Must be persons, can not be groups.
-+ **Sensitivity Label**: Here you can add one or more sensitivity labels defined in Microsoft 365. If you select "Fixed", it can't edited. If you select "Let user decide", it works as a suggestion.
++ **Sensitivity Label**: Here you decide how Microsoft 365 Sensitivity Labels will be handled for this Teamwork Template; No senitivity label, Fixed or Let user decide. If you select "Fixed", a list of the existing sensitivity labels are shown and you select one from the list. It can't be changed when a teamwork is created. If you select "Let user decide", the user creating a teamwork from this template can select which sensitivity label to use for the teamwork. It's still mandatory to select one when creating the teamwork.
