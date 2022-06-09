@@ -13,7 +13,29 @@ The app is created and downloaded as a zip to your Download library.
 
 The app is actually ready for use but there may be some more settings you want to do, using Developer Portal.
 
-(Info about how to do this will be added soon).
+Additional settings
+--------------------
+**The following two sections are preliminary, will be tested in more detail soon. **
+
+There are some additional settings you may want to do using Developer Portal, especially icons, but there may be more you would like to do.
+
+Either use the Developer Portal as an app in Teams or at dev.teams.microsoft.com.
+
+1. Importer the app you created (don't mind the errors, fix them as below).
+2. Go to Branding and add a Color icon and an Outline icon with the correct sizes.
+3. Make other changes you would like to do.
+4. Publish the edited app (Publish to org).
+
+Publish the app
+----------------
+1. Go to Teams Administration in central MS 365 admin.
+2. Go to Teams apps and then Manage apps, and find your app.
+
+Note the it can take som time before your app is listed there. If you can't find it yet, just wait a bit.
+
+3. Skapa en Setup Policy.
+4. Publicera appen.
+5. Wait a while for the app to be fully processed (can sometimes take up to an hour).
 
 Update Existing App
 ***********************
