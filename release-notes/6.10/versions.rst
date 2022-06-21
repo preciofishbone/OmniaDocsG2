@@ -101,6 +101,13 @@ WCAG and UI/UX
 - alt text when hovering term picker icon corrected. (#115442)
 - When selecting multiple terms, the picker will not close between selections (#116627, #121832).
 - Corrected color for the close button of the notification panel admin blade (#126112).
-- 
+- aria-describedby is now used to connect error messages in user profile completeness to the correct form input.
+- Configurable alt-text now available on the tenant and BP logos.
+- Browser title updated to better comply with WCAG recommendations. 
+- Updated aria-labels for navigation components.
+- no-script message added if Omnia is started without Javascript enabeled. 
+- Corrected heading structure to better comply with WCAG standard. 
+- Better element IDs for the search panel.
+- Improved keyboard control feedback.
 
 Also fixes preview bugs (#138042, #138335, #138527, #138224, #138538, #138239, #138050, #137947, #138216)
