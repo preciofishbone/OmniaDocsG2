@@ -35,12 +35,25 @@ Web Content Management
 - Related links now handles long links better including line breaks (#113899).
 - RSS Feed block can now handle more kinds of images (#115862, #116968).
 - Media properties can now have default values (#116730).
-- SVG files now provide correct thumbnails when picked from a SharePoint library (#136801).
+- SVG files now provide correct thumbnails when picked from a SharePoint library (#136801)
 - Show more button in the Quick Links block now have the correct colour settings (#117529, #117911)
 - Corrected an issue with colour settings in the enterprise glossary (#136443).
 - Sorting by columns now has a larger clickable area (#119772).
 - Fixed a cache issue on the page collection settings page (#137099).
--
+- The variation picker no longer shows drafts as selectable (#128061).
+- Improved UI in the edit banner form for small screens (#136671).
+- Corrected the design of bullet lists in the FAQ block (#114117). 
+- Automatic translation options are now correct when inheriting from tenant (#115062).
+- Added possibility to resync Omnia Search Index, stability improvements to sync of SharePoint data. (#137857). 
+- Improved page view statistics gathering. 
+- Fixed an intermittent error where the preview of pages would sometimes give access denied (#136471, #138372, #134866, #136157).
+- Authors can no longer delete page collections.
+- ??? Reworked action menus, icons, and option placement.
+- Performance improvements for automatic translations.
+- Performance improvements for editing Channels.
+
+
+
 
 
 
@@ -54,6 +67,7 @@ Controlled documents
 ****
 - Added support for icons on .msg files (#120880).
 - Updating multiple draft documents properties will now work correctly (#138671).
+- Added a missing space to the default text in the Feedback dialog (#120819, #122188).
 
 
 System
@@ -62,7 +76,9 @@ System
 - Default content features can now be upgraded without error (#120974).
 - User profile completeness now reaches 100% even when the user profile picture is included (#119425, #134770).
 - Improved rendering of Icons in all system (#120369).
-- 
+- Corrected the z-index of the “Your session has expired” message (#120381).
+- General performance improvements for page loads and page rollups.
+
 
 Page Rollup
 *********
@@ -70,10 +86,14 @@ Page Rollup
 - Better overflow for the page rollup in narrow columns (#133906).
 - Its now possible to sort on text in the page rollup (#119522, #127382, #128932, #124725).
 - Possibility to show pages in a calendar view.
-- Possibility to Query on Language.
+- Possibility to query on All pages (Tenant) or all pages in a Business Profile.
+- Possibility to query on Language.
 - Possibility to query on and show pages that has never been published.
+- Possibility to query on Workflow status (Scheduled).
+- Possibility to sort by most viewed. (#115241, #121723).
 - The page rollup results can now be exported to Excel.
-- 
+- Possibility to filter on Channels for all scopes. 
+
 
 
 WCAG and UI/UX
@@ -83,4 +103,4 @@ WCAG and UI/UX
 - Corrected color for the close button of the notification panel admin blade (#126112).
 - 
 
-Also fixes preview bugs (#138042, #138335, #138527, #138224, #138538, #138239, #138050, #137947)
+Also fixes preview bugs (#138042, #138335, #138527, #138224, #138538, #138239, #138050, #137947, #138216)
