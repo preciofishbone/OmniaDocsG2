@@ -48,7 +48,7 @@ Web Content Management
 - Improved page view statistics gathering. 
 - Fixed an intermittent error where the preview of pages would sometimes give access denied (#136471, #138372, #134866, #136157).
 - Authors can no longer delete page collections.
-- ??? Reworked action menus, icons, and option placement.
+- Reworked action menus, icons, and option placement.
 - Performance improvements for automatic translations.
 - Performance improvements for editing Channels.
 
