@@ -51,8 +51,9 @@ Web Content Management
 - Reworked action menus, icons, and option placement.
 - Performance improvements for automatic translations.
 - Performance improvements for editing Channels.
-
-
+- Improved support for left to right languages when using auto translate.
+- Emails sent from Web Content Management now fallback to the Business profile language.
+- “Controlled Documents” and “Process Library” can now be activated on the backend site of a publishing app. 
 
 
 
@@ -78,6 +79,7 @@ System
 - Improved rendering of Icons in all system (#120369).
 - Corrected the z-index of the “Your session has expired” message (#120381).
 - General performance improvements for page loads and page rollups.
+- The login flow has been simplified, leading to better performance on login.
 
 
 Page Rollup
