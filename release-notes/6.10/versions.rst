@@ -5,18 +5,23 @@ Teamwork
 *********
 - Using a new way to provision teams - approver who approves a team no longer becomes owner (#127793, #127652, #127793)
 - Default values for properties on Teamwork is now available (#115969).
+- Naming policies can now be configured on Teamwork.
+- Teamwork can now be created in app context. Allowing the possibilities of only having self-service of MS Teams through Omnia.
 - The create Teamwork wizard has been completely remade and fixes (#136225, #126909).
+- Teamwork provisioning now supports sensitivity labels.
 - Corrected validation of group names already existing. 
 - Corrected URL validation in all scenarios (#124846, #120614).
 - Teamwork rollup now uses the correct date format configured (#120436, #120434).
 - Better usage of space in the teamwork rollup in narrow columns (#122146).
+- Teamwork image can now be set in Omnia and will be synced to the O365 Group or Site.
+- Updated people picker to only allow picking valid options (#132420, #133052).
 
 
 
 Process Management
 *****
-- Using “Add as favourite” action button on processes now adds the process with the correct title (#135579).
-- 
+- Using “Add as favorite” action button on processes now adds the process with the correct title (#135579).
+- Processes can now be printed, or exported to PDF.
 
 Workplace
 ************
@@ -24,7 +29,7 @@ Workplace
 -  Mega menu rendering in mobile and tablet improved (#125709).
 - Corrected an issue with the action bar rendering when navigating via direct links (#119504).
 - Corrected however effect on links in the top navigation (#114578).
-- 
+- App Instance Posts Block available. See main release notes.
 
 Web Content Management
 *************
@@ -51,9 +56,12 @@ Web Content Management
 - Reworked action menus, icons, and option placement.
 - Performance improvements for automatic translations.
 - Performance improvements for editing Channels.
-- Improved support for left to right languages when using auto translate.
+- Improved support for right to left languages when using auto translate.
 - Emails sent from Web Content Management now fallback to the Business profile language.
 - “Controlled Documents” and “Process Library” can now be activated on the backend site of a publishing app. 
+- Channels can now be categories in to one Default Channel and Additional Channels.
+- Blocks from a Layout/Page Type can now be configured to be unlockable. Allowing the editor on the page to change its configuration.
+- Updated link picker UX with more options.
 
 
 
@@ -63,6 +71,7 @@ Search
 - Corrected rendering of links in search (#138299).
 - Layout updates to search to better use the space when using promoted links and feedback (#136188, #136341, #136593).
 - Improvements to the Omnia Free Text search generation (#136940, #136892).
+- Corrected rendering of Teams Presence in Quick Search.
 
 Controlled documents
 ****
@@ -80,7 +89,9 @@ System
 - Corrected the z-index of the “Your session has expired” message (#120381).
 - General performance improvements for page loads and page rollups.
 - The login flow has been simplified, leading to better performance on login.
-
+- The setup Wizard is now available for all tenants.
+- The Script block MSGraph client now refreshes its tokens automatically in case they expire.
+- New definitions of built in groups, see main release notes.
 
 Page Rollup
 *********
@@ -107,9 +118,13 @@ WCAG and UI/UX
 - Configurable alt-text now available on the tenant and BP logos.
 - Browser title updated to better comply with WCAG recommendations. 
 - Updated aria-labels for navigation components.
-- no-script message added if Omnia is started without Javascript enabeled. 
+- no-script message added if Omnia is started without JavaScript enabled. 
 - Corrected heading structure to better comply with WCAG standard. 
 - Better element IDs for the search panel.
 - Improved keyboard control feedback.
+- Several corrections to rendering in Safari.
+- Teams presence is now available on all components where applicable. 
+- Corrected background color on the skeleton loader.
+- Close button and click out added to the tutorial.
 
 Also fixes preview bugs (#138042, #138335, #138527, #138224, #138538, #138239, #138050, #137947, #138216)
