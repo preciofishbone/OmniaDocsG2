@@ -6,6 +6,7 @@ Teamwork
 - Using a new way to provision teams - approver who approves a team no longer becomes owner (#127793, #127652, #127793)
 - Default values for properties on Teamwork is now available (#115969).
 - Naming policies can now be configured on Teamwork.
+- Additional general policies can now be configured on Teamwork (minimum length description, minimum number of members).
 - Teamwork can now be created in app context. Allowing the possibilities of only having self-service of MS Teams through Omnia.
 - The create Teamwork wizard has been completely remade and fixes (#136225, #126909).
 - Teamwork provisioning now supports sensitivity labels.
@@ -15,13 +16,20 @@ Teamwork
 - Better usage of space in the teamwork rollup in narrow columns (#122146).
 - Teamwork image can now be set in Omnia and will be synced to the O365 Group or Site.
 - Updated people picker to only allow picking valid options (#132420, #133052).
+- Teamwork templates can now be targeted.
+- Time zone can now be selected by the end user when provisioning a teamwork instance. 
+- Fixed an issue where properties would not safe if placed after a custom step (#121168).
+- Detaching a teamwork instance no longer sends email (#133240).
+- Improved error message when editing a teamwork app that you do not have permissions on (#120426).
+- Email send outs have been reviewed (#134224).
 
 
 
 Process Management
 *****
 - Using “Add as favorite” action button on processes now adds the process with the correct title (#135579).
-- Processes can now be printed, or exported to PDF.
+- Processes can now be printed or exported to PDF.
+- Mouse over no longer shows cursor:pointer if there is no link (#120202, #123510).
 
 Workplace
 ************
@@ -30,6 +38,8 @@ Workplace
 - Corrected an issue with the action bar rendering when navigating via direct links (#119504).
 - Corrected however effect on links in the top navigation (#114578).
 - App Instance Posts Block available. See main release notes.
+- The Logo now correctly renders as unclickable if no link is configured (#133844).
+- 
 
 Web Content Management
 *************
@@ -62,6 +72,10 @@ Web Content Management
 - Channels can now be categories in to one Default Channel and Additional Channels.
 - Blocks from a Layout/Page Type can now be configured to be unlockable. Allowing the editor on the page to change its configuration.
 - Updated link picker UX with more options.
+- Page Versioned Documents allow the editor to tie a document to the page versioning. It also allows first line works / Kaizala users to download the document. 
+- Automatically translated pages can now be edited. NOTE: The edit will be overwritten upon a new publish of the default page.
+- When moving a page in the navigation structure to a childless node, the page is now selected after the move (#118661).
+- A generic integration is now available to connect omnia to third party big screen providers. 
 
 
 
@@ -78,12 +92,15 @@ Controlled documents
 - Added support for icons on .msg files (#120880).
 - Updating multiple draft documents properties will now work correctly (#138671).
 - Added a missing space to the default text in the Feedback dialog (#120819, #122188).
+- Document rollup now correctly resets filters when navigating between multiple rollups with different settings (#119636).
+- All metadata in a document rollup can now be exported to Excel. 
 
 
 System
 **********
 - The Azure AD Sync has received several updates to improve stability (#138948).
 - Default content features can now be upgraded without error (#120974).
+- Feature naming and categories have been updated. 
 - User profile completeness now reaches 100% even when the user profile picture is included (#119425, #134770).
 - Improved rendering of Icons in all system (#120369).
 - Corrected the z-index of the “Your session has expired” message (#120381).
@@ -92,6 +109,8 @@ System
 - The setup Wizard is now available for all tenants.
 - The Script block MSGraph client now refreshes its tokens automatically in case they expire.
 - New definitions of built in groups, see main release notes.
+- Multiple targeting properties can now be linked to the same enterprise property (#116344).
+- A Teamwork app generator is now available to make deployments to MS Teams easier.
 
 Page Rollup
 *********
@@ -103,15 +122,21 @@ Page Rollup
 - Possibility to query on Language.
 - Possibility to query on and show pages that has never been published.
 - Possibility to query on Workflow status (Scheduled).
+- Possibility to query on statistics. 
 - Possibility to sort by most viewed. (#115241, #121723).
 - The page rollup results can now be exported to Excel.
 - Possibility to filter on Channels for all scopes. 
+- Corrected background color from theming in the navigation view. (#131977).
+- Its now possible to have custom labels in the List View.
+- Social period has been renamed Time Period in settings. 
+- The Page rollup can now be configured to open the target page in the editor. Allowing for editorial tools to be created using the page rollup.
 
 
 
 WCAG and UI/UX
 ***************
-- alt text when hovering term picker icon corrected. (#115442)
+- alt text when hovering term picker icon corrected. (#115442).
+- Better rendering of term picker with many terms at the top of the screen (#133753).
 - When selecting multiple terms, the picker will not close between selections (#116627, #121832).
 - Corrected color for the close button of the notification panel admin blade (#126112).
 - aria-describedby is now used to connect error messages in user profile completeness to the correct form input.
