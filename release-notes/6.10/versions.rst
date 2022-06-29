@@ -26,7 +26,10 @@ Teamwork
 - Inactive teamwork can now be reviewed in Omnia Admin.
 - Fixed an issue where the wrong feature UI could sometimes be loaded in Omnia Admin.
 - Long word site titles will now work as expected (#123672).
-- Teamwork layouts can now be created and included as a tab in MS Teams.
+- Teamwork layouts can now be created and included as a tab in MS Teams. (To display for example Controlled Documents Authoring).
+- Its now possible to provision a MS Teams Teamwork from an existing MS Team.
+- MS Teams standard templates are now supported in Omnia templates.
+- A Planner board can now be provisioned together with the Teamwork.
 
 
 
@@ -35,6 +38,7 @@ Process Management
 - Using “Add as favorite” action button on processes now adds the process with the correct title (#135579).
 - Processes can now be printed or exported to PDF.
 - Mouse over no longer shows cursor:pointer if there is no link (#120202, #123510).
+- Process search can now be combined with other kinds of data.
 
 Workplace
 ************
@@ -46,6 +50,8 @@ Workplace
 - The Logo now correctly renders as unclickable if no link is configured (#133844).
 - Its now possible to configure if "My subscriptions" will show up or not in the user profile card.
 - Team channel feed now handles System events correctly.
+- The calendar rollup no longer contains a broken link to the calendar item in Outlook.
+- Publishing apps now have a contribute role, making it possible to control who can comment/like/rate etc.
 
 Web Content Management
 *************
@@ -84,6 +90,8 @@ Web Content Management
 - A generic integration is now available to connect omnia to third party big screen providers. 
 - Additional blocks supported for automatic translation.
 - Publishing app settings tabs have been reorganized.
+- Reusable content pages with many connections, now needs to be manually triggered.
+- AD Groups can now be set as publishers on Channels. 
 
 Search
 *******
