@@ -36,7 +36,7 @@ Workplace
 - The User Profile Competition block now has configurable button labels (#116581).
 -  Mega menu rendering in mobile and tablet improved (#125709).
 - Corrected an issue with the action bar rendering when navigating via direct links (#119504).
-- Corrected however effect on links in the top navigation (#114578).
+- Corrected hover effect on links in the top navigation (#114578).
 - App Instance Posts Block available. See main release notes.
 - The Logo now correctly renders as unclickable if no link is configured (#133844).
 - 
