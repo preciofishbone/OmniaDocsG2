@@ -22,6 +22,7 @@ Teamwork
 - Detaching a teamwork instance no longer sends email (#133240).
 - Improved error message when editing a teamwork app that you do not have permissions on (#120426).
 - Email send outs have been reviewed (#134224).
+- Inactive teamwork can now be reviewed in Omnia Admin.
 
 
 
@@ -39,7 +40,7 @@ Workplace
 - Corrected hover effect on links in the top navigation (#114578).
 - App Instance Posts Block available. See main release notes.
 - The Logo now correctly renders as unclickable if no link is configured (#133844).
-- 
+- Its now possible to configure if "My subscriptions" will show up or not in the user profile card.
 
 Web Content Management
 *************
