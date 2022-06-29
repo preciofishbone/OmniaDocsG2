@@ -7,6 +7,7 @@ Teamwork
 - Default values for properties on Teamwork is now available (#115969).
 - Naming policies can now be configured on Teamwork.
 - Additional general policies can now be configured on Teamwork (minimum length description, minimum number of members).
+- Default property values can now be set on a teamwork template.
 - Teamwork can now be created in app context. Allowing the possibilities of only having self-service of MS Teams through Omnia.
 - The create Teamwork wizard has been completely remade and fixes (#136225, #126909).
 - Teamwork provisioning now supports sensitivity labels.
@@ -14,7 +15,7 @@ Teamwork
 - Corrected URL validation in all scenarios (#124846, #120614).
 - Teamwork rollup now uses the correct date format configured (#120436, #120434).
 - Better usage of space in the teamwork rollup in narrow columns (#122146).
-- Teamwork image can now be set in Omnia and will be synced to the O365 Group or Site.
+- Teamwork image can now be set in Omnia and will be synchronized to the O365 Group or Site.
 - Updated people picker to only allow picking valid options (#132420, #133052).
 - Teamwork templates can now be targeted.
 - Time zone can now be selected by the end user when provisioning a teamwork instance. 
@@ -23,6 +24,9 @@ Teamwork
 - Improved error message when editing a teamwork app that you do not have permissions on (#120426).
 - Email send outs have been reviewed (#134224).
 - Inactive teamwork can now be reviewed in Omnia Admin.
+- Fixed an issue where the wrong feature UI could sometimes be loaded in Omnia Admin.
+- Long word site titles will now work as expected (#123672).
+- Teamwork layouts can now be created and included as a tab in MS Teams.
 
 
 
@@ -41,6 +45,7 @@ Workplace
 - App Instance Posts Block available. See main release notes.
 - The Logo now correctly renders as unclickable if no link is configured (#133844).
 - Its now possible to configure if "My subscriptions" will show up or not in the user profile card.
+- Team channel feed now handles System events correctly.
 
 Web Content Management
 *************
@@ -52,8 +57,8 @@ Web Content Management
 - RSS Feed block can now handle more kinds of images (#115862, #116968).
 - Media properties can now have default values (#116730).
 - SVG files now provide correct thumbnails when picked from a SharePoint library (#136801)
-- Show more button in the Quick Links block now have the correct colour settings (#117529, #117911)
-- Corrected an issue with colour settings in the enterprise glossary (#136443).
+- Show more button in the Quick Links block now have the correct color settings (#117529, #117911)
+- Corrected an issue with color settings in the enterprise glossary (#136443).
 - Sorting by columns now has a larger clickable area (#119772).
 - Fixed a cache issue on the page collection settings page (#137099).
 - The variation picker no longer shows drafts as selectable (#128061).
@@ -77,9 +82,8 @@ Web Content Management
 - Automatically translated pages can now be edited. NOTE: The edit will be overwritten upon a new publish of the default page.
 - When moving a page in the navigation structure to a childless node, the page is now selected after the move (#118661).
 - A generic integration is now available to connect omnia to third party big screen providers. 
-
-
-
+- Additional blocks supported for automatic translation.
+- Publishing app settings tabs have been reorganized.
 
 Search
 *******
@@ -87,6 +91,7 @@ Search
 - Layout updates to search to better use the space when using promoted links and feedback (#136188, #136341, #136593).
 - Improvements to the Omnia Free Text search generation (#136940, #136892).
 - Corrected rendering of Teams Presence in Quick Search.
+- Added missing shadow of dropdown.
 
 Controlled documents
 ****
@@ -95,6 +100,7 @@ Controlled documents
 - Added a missing space to the default text in the Feedback dialog (#120819, #122188).
 - Document rollup now correctly resets filters when navigating between multiple rollups with different settings (#119636).
 - All metadata in a document rollup can now be exported to Excel. 
+- User Language ({UserLanguage}) can now be used as a token in the query of the document rollup.
 
 
 System
@@ -109,7 +115,7 @@ System
 - The login flow has been simplified, leading to better performance on login.
 - The setup Wizard is now available for all tenants.
 - The Script block MSGraph client now refreshes its tokens automatically in case they expire.
-- New definitions of built in groups, see main release notes.
+- New definitions of built-in groups, see main release notes.
 - Multiple targeting properties can now be linked to the same enterprise property (#116344).
 - A Teamwork app generator is now available to make deployments to MS Teams easier.
 
@@ -131,6 +137,7 @@ Page Rollup
 - Its now possible to have custom labels in the List View.
 - Social period has been renamed Time Period in settings. 
 - The Page rollup can now be configured to open the target page in the editor. Allowing for editorial tools to be created using the page rollup.
+- Corrected line height in the dynamic roller.
 
 
 
