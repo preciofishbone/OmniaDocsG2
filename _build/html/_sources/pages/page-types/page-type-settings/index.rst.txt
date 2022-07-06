@@ -76,7 +76,9 @@ When you have set up the sync here, you must execute a full sync to Sharepoint, 
 
 Enable Automatic Archive
 ***************************
-Using this option you can activate automatic archiving for the Page Type. Here's a Tenant Page Type as an example:
+Using this option you can activate automatic archiving for pages created from this Page Type. When a page is automatically archived, it is deleted and placed in the archive, the same way as when an editor deletes a page manually.
+
+Here's a Tenant Page Type as an example:
 
 .. image:: automatic-archive.png
 
@@ -97,6 +99,8 @@ Available options can differ depending on how the property is set up. Here's an 
 Note that the settings you do for a property here is valid for this Page Type only. It does not affect the property in any other way.
 
 For a description of the fields, see above. Note that a poperty used for automatic archiving should always be read only. 
+
+For more information on deleting, archiving, retrieving and terminating pages, see: :doc:`Delete a page </pages/delete-page/index>`
 
 Calculate based on another property on the page
 ------------------------------------------------

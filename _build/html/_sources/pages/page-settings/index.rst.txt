@@ -28,7 +28,7 @@ Use these settings to Edit permissions in the Publishing App.
 
 .. image:: page-settings-permissions-new4.png
 
-+ **Allow Mobile Login**: This setting is intended to offer login to certain parts of Omnia for first line workers, partners and similar. The user needs the Kaizala app and a viable account. **Note!** Mobile Login is not available in Omnia on-prem.
++ **Allow Mobile Login**: This setting is intended to offer login to certain parts of Omnia for first line workers, partners and similar. The user needs the Kaizala app and a viable account. In Omnia 6.10, this functionality will be relabeled "Kaizala login". **Note!** Mobile Login/Kaizala login is not available in Omnia on-prem.
 + **Administrators**: Add and remove Publishing App administrators here as needed.
 + **Resource Readers**: Here you set the general Read permission for the Publishing App, needed for users to be able to read pages.
 
@@ -89,7 +89,7 @@ Targeting a Page Variation
 ----------------------------
 Use targeting for a variation to set which variation of a page that will be displayed to the logged in user. Note that if a Variation Selector block is added to a page, users can always select any of the available variations. This is true even if no targeting is set up. See this page for information about the Variation Selector block: :doc:`Variation Selector </blocks/variation-selector/index>`
 
-**Note!** The Targeting Properties to use must be set up in Omnia Admin, see the section about Targeting Properties on this page: :doc:`Properties </admin-settings/tenant-settings/properties/index>`
+**Note!** The Targeting Properties to use must be set up in Omnia Admin. See this page for more information: :doc:`Targeting Properties </admin-settings/tenant-settings/properties/targeting-properties>`
 
 To target a Page Variation, do the following: 
 
@@ -134,7 +134,7 @@ Don't forget to save. The "Save" button is located in the lower right corner.
 
 Archive
 *********
-On this tab, you can set rules for termination of archived pages in the Publishing App. Termination means those pages can no longer be retrived from the archive. Regardless of if you have this option on or not, pages can always be terminated manually in the archive, as long as they are present in the archive.
+On this tab, you can set rules for termination of archived (deleted) pages in the Publishing App. Termination means those pages can no longer be retrived from the archive. Regardless of if you have this option on or not, pages can always be terminated manually in the archive, as long as they are present in the archive.
 
 Here's an example of such a setting:
 

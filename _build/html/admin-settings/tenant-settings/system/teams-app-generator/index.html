@@ -132,7 +132,7 @@
 </ul>
 </li>
 <li class="toctree-l1"><a class="reference internal" href="../../../../blocks/index.html">Blocks</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../../../../general-assets/index.html">General assets</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../../general-assets/index.html">General assets and options</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../../pages/index.html">Pages</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../../working-with-documents/index.html">Working with Documents</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../../working-with-processes/index.html">Working with Processes</a></li>
@@ -223,8 +223,50 @@
             
   <div class="section" id="teams-app-generator">
 <h1>Teams App Generator<a class="headerlink" href="#teams-app-generator" title="Permalink to this headline">¶</a></h1>
-<p>In Omnia 6.8, this is a separate extension, that can be available for some users for test purposes.</p>
-<p>This option is planned for Omnia 6.10.</p>
+<p>Use these options for an easy starting point creating an Teams App for Omnia, or to update an app you already have.</p>
+<img alt="../../../../_images/teams-app-generator.png" src="../../../../_images/teams-app-generator.png" />
+<div class="section" id="generate-omnia-app">
+<h2>Generate Omnia App<a class="headerlink" href="#generate-omnia-app" title="Permalink to this headline">¶</a></h2>
+<p>Add a title for the app, a description and the home url, and click GENERATE.</p>
+<p>The app is created and downloaded as a zip to your Download library.</p>
+<p>The app is actually ready for use but there may be some more settings you want to do, using Developer Portal.</p>
+<div class="section" id="additional-settings">
+<h3>Additional settings<a class="headerlink" href="#additional-settings" title="Permalink to this headline">¶</a></h3>
+<p>There are some additional settings you may want to do using Developer Portal, especially icons, but there may be more you would like to do. These steps, using Developer Portal, are not mandatory.</p>
+<p>Either use the Developer Portal as an app in Teams or at dev.teams.microsoft.com.</p>
+<ol class="arabic simple">
+<li><p>Import the app you created (don’t mind the errors, fix them as below).</p></li>
+<li><p>Go to Branding and add a Color icon and an Outline icon with the correct sizes, as states there.</p></li>
+<li><p>Make other changes you would like to do.</p></li>
+<li><p>Download the app.</p></li>
+</ol>
+</div>
+<div class="section" id="publish-the-app">
+<h3>Publish the app<a class="headerlink" href="#publish-the-app" title="Permalink to this headline">¶</a></h3>
+<p>These steps are also not mandatory, but needed if you want users to get access to the app without having to install it themselves (which they may or may not have permissions to do).</p>
+<ol class="arabic simple">
+<li><p>Go to Teams Administration in central Microsoft 365 admin.</p></li>
+<li><p>Go to “Teams apps” and select “Manage apps”.</p></li>
+<li><p>Upload your app.</p></li>
+</ol>
+<p>Note the it can take som time before your app is listed there. If you can’t find it yet, just wait a bit.</p>
+<ol class="arabic simple" start="4">
+<li><p>Create or select a Setup Policy.</p></li>
+<li><p>Publish the app.</p></li>
+</ol>
+<p>If you do it this way, the app will be installed automatically for all users, or for the group of users the Setup Policy states.</p>
+<p><strong>Note!</strong> It may take up to 24 hours before users have access to the app in Teams.</p>
+</div>
+</div>
+<div class="section" id="update-existing-app">
+<h2>Update Existing App<a class="headerlink" href="#update-existing-app" title="Permalink to this headline">¶</a></h2>
+<p>In Omnia 6.10 the Omnia App has some new options. If you already have an Omnia App and would like to update it to the full 6.10 standard, use this tab. What the possible update is about is stated in the description text: “Ensure Omnia SSO and Omnia teamwork tab for an existing app”.</p>
+<p>To update an app, drag and drop or Browse to load it.</p>
+<img alt="../../../../_images/teams-app-generator-update.png" src="../../../../_images/teams-app-generator-update.png" />
+<p>And then click GENERATE.</p>
+<img alt="../../../../_images/teams-app-generator-update-generate.png" src="../../../../_images/teams-app-generator-update-generate.png" />
+<p>The app is updated and downloaded to your Download library.</p>
+</div>
 </div>
 
 
@@ -243,7 +285,7 @@
     <p>
         &#169; Copyright 2022, Precio Fishbone.
       <span class="lastupdated">
-        Last updated on May 17, 2022.
+        Last updated on Jul 06, 2022.
       </span>
 
     </p>

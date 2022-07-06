@@ -1,6 +1,48 @@
+6.8.15
+========================================
+(Omnia 6.8.15 / Workplace 6.8.12 / WCM 6.8.15 / MS 6.8.9)
+
+-	Corrected an issue in the default community template
+-	Removed an incorrect permission check on the Process Management Tenant feature (#138395)
+-	Improved performance in the create page dialog (#136922)
+-	Fixed an issue with the Teamwork rollup search (#138358)
+-	Made page visit registration more accurate
+-	Non functional updates to prepare for 6.10 release.
+-	Corrected an issue with assigning Co-authors in communities (#137109)
+-	Combining a navigation path query with a date sort now works as expected.
+
+
+6.8.14
+========================================
+(Omnia 6.8.14 / Workplace 6.8.11 / WCM 6.8.13 / MS 6.8.7)
+
+- Improved support for languages in Controlled Documents (#137163).
+- In the create document wizard, sites can now be searched as expected (#138091, #126154).
+- The search result dropdown now renders correctly (#138020).
+- Sign off requests can now correctly pick pages from flat page collections (#138134).
+- Added a load more button to the Central Image Location media provider (#131639, #134287)
+- Improved rendering of search results (#137987).
+
+
+6.8.13
+========================================
+(Omnia 6.8.13 / Workplace 6.8.10 / WCM 6.8.11 / MS 6.8.6)
+
+- Added some missing localizations
+- Corrected an issue with text styling (#137896, #138106)
+- All day events now show correctly in the Calendar Rollup (#137549, #138209)
+- Increased the upload size limit for related links when uploading documents (#137736).
+- Corrected an issue with text flow on pictures in RTF (#137552, #138029, #138047, #137553)
+- Fixed an issue with related documents on controlled documents.
+- Subscribing to Tags now works as expected in Communities (#137622, #137830).
+- Stability improvements in the Archive (#138143, #138070).
+
+
+
+
 6.8.11
 ========================================
-(Release Omnia 6.8.11 / Workplace 6.8.9 / WCM 6.8.9 / MS 6.8.5)
+(Omnia 6.8.11 / Workplace 6.8.9 / WCM 6.8.9 / MS 6.8.5)
 
 - Corrected an issue with filtering in the people rollup (#137678).
 - Teams channel feed images now loads in all scenarios.

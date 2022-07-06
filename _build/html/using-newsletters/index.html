@@ -93,7 +93,7 @@
               <ul class="current">
 <li class="toctree-l1"><a class="reference internal" href="../admin-settings/index.html">Admin Settings</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../blocks/index.html">Blocks</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../general-assets/index.html">General assets</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../general-assets/index.html">General assets and options</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../pages/index.html">Pages</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../working-with-documents/index.html">Working with Documents</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../working-with-processes/index.html">Working with Processes</a></li>
@@ -179,9 +179,10 @@
   <div class="section" id="using-newsletters">
 <h1>Using Newsletters<a class="headerlink" href="#using-newsletters" title="Permalink to this headline">¶</a></h1>
 <p>There’s a number of options and settings in Omnia you can use for a newsletter implementation, to send internally or externally through e-mail. These options and settings are described here, together with an implementation example.</p>
+<p>For an implementation example, see this page (being updated at the moment): <a class="reference internal" href="newsletter-implementation/index.html"><span class="doc">Newsletter implementation example</span></a></p>
 <div class="section" id="a-page-type-for-newsletters">
 <h2>A Page Type for Newsletters<a class="headerlink" href="#a-page-type-for-newsletters" title="Permalink to this headline">¶</a></h2>
-<p>You will need a Page Type set up for Newsletters. See the implementation example below for more information.</p>
+<p>You will need a Page Type set up for Newsletters. See the implementation example for more information (see link above).</p>
 <p>You use the options available in Omnia, see: <a class="reference internal" href="../pages/page-types/index.html"><span class="doc">Page Types</span></a></p>
 <p><strong>Important Note!</strong> When planning a Page Type that will be used as a base to send information in e-mails, be aware that only these three blocks are supported for e-mail send outs:</p>
 <ul class="simple">
@@ -207,44 +208,6 @@
 <img alt="../_images/page-rollup-newsletter-view.png" src="../_images/page-rollup-newsletter-view.png" />
 <p>More information about the Page Rollup block is found on this page: <a class="reference internal" href="../blocks/page-rollup/index.html"><span class="doc">The Page Rollup block</span></a></p>
 </div>
-<div class="section" id="implementation-example">
-<h2>Implementation example<a class="headerlink" href="#implementation-example" title="Permalink to this headline">¶</a></h2>
-<p>Here’s a Newsletter implementation example. First an example of a newsletter archive:</p>
-<img alt="../_images/newsletter-archive1.png" src="../_images/newsletter-archive1.png" />
-<p>The Page Type is set up with three blocks: a Text block for the heading, an Action Button block for the newsletter editor to use when creating a newslettter page, and finally a Page Rollup block to list the newsletter pages. The same Page type is used when en editor creates a newsletter, but then works slightly differently.</p>
-<p>The Action Button has the following General settings:</p>
-<img alt="../_images/newsletter-archive-button-settings-1.png" src="../_images/newsletter-archive-button-settings-1.png" />
-<p>And the following Style settings:</p>
-<img alt="../_images/newsletter-archive-button-style-1.png" src="../_images/newsletter-archive-button-style-1.png" />
-<p>The Page Rollup block has the following settings for Query:</p>
-<img alt="../_images/newsletter-archive-page-query.png" src="../_images/newsletter-archive-page-query.png" />
-<p>There are no settings for Social Period. The settings for Display are the following:</p>
-<img alt="../_images/newsletter-archive-page-display-1.png" src="../_images/newsletter-archive-page-display-1.png" />
-<p>and these:</p>
-<img alt="../_images/newsletter-archive-page-display-2.png" src="../_images/newsletter-archive-page-display-2.png" />
-<p>There are no Filter settings. For Page Variations, this setting is made:</p>
-<img alt="../_images/newsletter-archive-page-variations.png" src="../_images/newsletter-archive-page-variations.png" />
-<div class="section" id="newsletters-from-the-editor-s-point-of-view">
-<h3>Newsletters from the editor’s point of view<a class="headerlink" href="#newsletters-from-the-editor-s-point-of-view" title="Permalink to this headline">¶</a></h3>
-<p>When a Newsletter Editor creates a newsletter, the first step is to create a new page for the newsletter, in this example by clicking the button CREATE NEWSLETTER, as seen in the image above:</p>
-<img alt="../_images/newsletter-editor-create.png" src="../_images/newsletter-editor-create.png" />
-<p>(The Url is filled in automaically when the editor adds the Title for the new page.)</p>
-<p>The new page can look something like this:</p>
-<img alt="../_images/newsletter-editor-page.png" src="../_images/newsletter-editor-page.png" />
-<p>The editor can now use the blocks set up on the Page Type, in Write mode, or in Design mode. In this implementation example, a text block for the newsletter heading and another text block for the newsletter text is available, as well as a Page Rollup block (that’s “Pick Pages”.)</p>
-<p>He or she enters some text for the newsletter, and picks the News pages to be sent in the newsletter, for example:</p>
-<img alt="../_images/newsletter-editor-page-picking.png" src="../_images/newsletter-editor-page-picking.png" />
-<p>More information about how to use the Page Picker is found here: <a class="reference internal" href="../general-assets/page-picker/index.html"><span class="doc">The Page Picker</span></a></p>
-<p>If it’s set up that way, some edits to properties may be needed, and the email recipients must be added, everything available through Write mode and Design mode. The editor just clicks NEXT to cycle through the steps.</p>
-<img alt="../_images/newsletter-editor-page-settings.png" src="../_images/newsletter-editor-page-settings.png" />
-<p>When it’s time to publish and send, the editor can preview the newsletter before publishing. The editor can also send the newsletter to someone for a last check before sending to the recipients.</p>
-<img alt="../_images/newsletter-editor-send.png" src="../_images/newsletter-editor-send.png" />
-<p>When all is done, the editor then publishes to send the newsletter. If needed, the newsletter can be saved as a draft, as all other pages, and sent later. If Scheduled Publishing is set up, it can be used for newsletters as well.</p>
-<p>You can find more information about publishing a page here: <a class="reference internal" href="../pages/publish-page-changes/index.html"><span class="doc">Publish Page Changes</span></a></p>
-<p>Here’s an example of a newsletter:</p>
-<img alt="../_images/newsletter-example.png" src="../_images/newsletter-example.png" />
-</div>
-</div>
 </div>
 
 
@@ -263,7 +226,7 @@
     <p>
         &#169; Copyright 2022, Precio Fishbone.
       <span class="lastupdated">
-        Last updated on May 17, 2022.
+        Last updated on Jul 06, 2022.
       </span>
 
     </p>

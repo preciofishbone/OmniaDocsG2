@@ -3,7 +3,9 @@ Posts block
 
 This block makes it possible to post conversation messages in an app. It can be used to implement a discussion within a community or a conversation within a teamwork.
 
-The block is available in Omnia 6.10 and later.
+It's also possible to aggregated messages from several sources and to post a message to a specific community, publishing app or teamwork app.
+
+**Important Note**: To be able to post message in this block, a user must be added to or belong to a group added to the App Contributors field for the app (found under Security in the app settings).
 
 The following settings are available:
 
@@ -22,15 +24,18 @@ These settings are available under General:
 + **Allow Likes**: Likes is on by default. if it should not be available, deselect this option.
 + **Replies shown by default**: Decide the number of replies the should be shown for each post, before a Show more link is shown. Default=2. 
 
-Custom scope
+General note about Scope: Use Scope to set up which sources to get messages from, to show in this block.
+
+Custom Scope
 ---------------
-For Custom scope you can select Communities, Publishing Apps or Teamwork Apps. When this is done, select one or more in the next list.
+For Custom Scope you can select Communities, Publishing Apps or Teamwork Apps. When this is done, select one or more in the next list. Messages from all selected communities or apps will then be shown in the block (but also see "Filter by followed" below).
 
 These two options are also available:
 
 .. image:: posts-block-general-custom.png
 
-(Information about these options will be added soon).
++ **Filter by followed**: If only messages from the communities or apps the logged in user follows should be shown, select this option.
++ **Enable Organization-wide posts**: In this context "Organization-wide" means the whole Business Profile. Decide if it should be possible to post a message to another communitiy, publishing app or teamwork app in the Business Profile. You must see too that there is a receiving block somewhere for this option to actually do anything.
 
 Style
 ********

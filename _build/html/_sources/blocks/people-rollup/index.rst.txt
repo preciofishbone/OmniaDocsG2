@@ -6,7 +6,7 @@ Use this block to display lists of people, for many various reasons. Here are a 
 + Display contact person for a page or for something else.
 + List colleagues working at a particular office.
 + List members or owners in a group site.
-+ Create a people directory.
++ A people directory.
 
 Here are two examples of the user interface. New Recruitments and People on the Move are different People Rollup blocks. The view used here is Card.
 

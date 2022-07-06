@@ -1,0 +1,277 @@
+
+
+<!DOCTYPE html>
+<html class="writer-html5" lang="en" >
+<head>
+  <meta charset="utf-8" />
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  
+  <title>Dashboard implementation example &mdash; Omnia  documentation</title>
+  
+
+  
+  <link rel="stylesheet" href="../../../../_static/css/theme.css" type="text/css" />
+  <link rel="stylesheet" href="../../../../_static/pygments.css" type="text/css" />
+  <link rel="stylesheet" href="../../../../_static/pygments.css" type="text/css" />
+  <link rel="stylesheet" href="../../../../_static/css/theme.css" type="text/css" />
+  <link rel="stylesheet" href="../../../../_static/custom.css?v=4" type="text/css" />
+
+  
+  
+
+  
+  
+
+  
+
+  
+  <!--[if lt IE 9]>
+    <script src="../../../../_static/js/html5shiv.min.js"></script>
+  <![endif]-->
+  
+    
+      <script type="text/javascript" id="documentation_options" data-url_root="../../../../" src="../../../../_static/documentation_options.js"></script>
+        <script data-url_root="../../../../" id="documentation_options" src="../../../../_static/documentation_options.js"></script>
+        <script src="../../../../_static/jquery.js"></script>
+        <script src="../../../../_static/underscore.js"></script>
+        <script src="../../../../_static/doctools.js"></script>
+        <script src="../../../../_static/helpfulness.js?v=4"></script>
+        <script src="../../../../_static/disqus.js"></script>
+    
+    <script type="text/javascript" src="../../../../_static/js/theme.js"></script>
+
+    
+    <link rel="index" title="Index" href="../../../../genindex.html" />
+    <link rel="search" title="Search" href="../../../../search.html" /> 
+</head>
+
+<body class="wy-body-for-nav">
+
+   
+  <div class="wy-grid-for-nav">
+    
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search" >
+          
+
+          
+            <a href="../../../../index.html" class="icon icon-home"> Omnia
+          
+
+          
+          </a>
+
+          
+            
+            
+          
+
+          
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="../../../../search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+
+          
+        </div>
+
+        
+        <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
+          
+            
+            
+              
+            
+            
+              <ul>
+<li class="toctree-l1"><a class="reference internal" href="../../../index.html">Admin Settings</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../../blocks/index.html">Blocks</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../../general-assets/index.html">General assets and options</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../../pages/index.html">Pages</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../../working-with-documents/index.html">Working with Documents</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../../working-with-processes/index.html">Working with Processes</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../../working-with-events/index.html">Working with Events</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../../using-communities/index.html">Using Communities</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../../using-newsletters/index.html">Using Newsletters</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../../using-omnia-feed/index.html">Using Omnia Feed</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../../user-options/index.html">User options</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../../setup/index.html">Setup</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../../best-practice/index.html">Best Practice</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../../accessability/index.html">Accessibility</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../../cookies-consent-information/index.html">Cookies Consent information</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../../release-notes/index.html">Release Notes</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../../roadmap/index.html">In Development</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../../contribute-to-doc/index.html">Contribute to this Documentation</a></li>
+</ul>
+
+            
+          
+        </div>
+        
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+
+      
+      <nav class="wy-nav-top" aria-label="top navigation">
+        
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="../../../../index.html">Omnia</a>
+        
+      </nav>
+
+
+      <div class="wy-nav-content">
+        
+        <div class="rst-content">
+        
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div role="navigation" aria-label="breadcrumbs navigation">
+
+  <ul class="wy-breadcrumbs">
+    
+      <li><a href="../../../../index.html" class="icon icon-home"></a> &raquo;</li>
+        
+      <li>Dashboard implementation example</li>
+    
+    
+      <li class="wy-breadcrumbs-aside">
+        
+          
+            <a href="../../../../_sources/admin-settings/tenant-settings/dashboard/dashboard-implementation/index.rst.txt" rel="nofollow"> View page source</a>
+          
+        
+      </li>
+    
+  </ul>
+
+  
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+            
+  <div class="section" id="dashboard-implementation-example">
+<h1>Dashboard implementation example<a class="headerlink" href="#dashboard-implementation-example" title="Permalink to this headline">¶</a></h1>
+<p><strong>This page is being updated. Will be finished soon.</strong></p>
+<p>Here’s an example of a Dashoboard set up:</p>
+<img alt="../../../../_images/admin-dashboard-usage.png" src="../../../../_images/admin-dashboard-usage.png" />
+<p>Under Usage, information about active readers and active contributors are shown. What should be considered an active reader or an active contributor is defined in the Metrics settings, see: <a class="reference internal" href="../../settings/metrics/index.html"><span class="doc">Metric Settings</span></a></p>
+<p>Under Page Status, something like the following is shown:</p>
+<img alt="../../../../_images/admin-dashboard-page-status-new.png" src="../../../../_images/admin-dashboard-page-status-new.png" />
+<p>What you see in the example is the total status for the tenant. You can choose to see status for just one of the publishing apps and/or just one of the page types.</p>
+<p>For Underused Content, something like the following can be shown:</p>
+<img alt="../../../../_images/admin-dashboard-underused-content.png" src="../../../../_images/admin-dashboard-underused-content.png" />
+<p>What should be considered underused content is defined in the Metrics settings, see link above.</p>
+<p>Regarding Reach: How well we reach our target audience based on what we expect. The metric can be configured to a specific scope of pages and have a target number of users.</p>
+<img alt="../../../../_images/admin-dashboard-reach.png" src="../../../../_images/admin-dashboard-reach.png" />
+<p>For Teamwork, you can see the number of active teamworks and if any has been created this week or this month:</p>
+<img alt="../../../../_images/admin-dashboard-teamwork.png" src="../../../../_images/admin-dashboard-teamwork.png" />
+<p>Finally, for Communities, the following information is shown:</p>
+<img alt="../../../../_images/admin-dashboard-communities-new.png" src="../../../../_images/admin-dashboard-communities-new.png" />
+<div class="section" id="how-it-s-done">
+<h2>How it’s done<a class="headerlink" href="#how-it-s-done" title="Permalink to this headline">¶</a></h2>
+<p>The layout in this implementation example is a tab section with six tabs:</p>
+<img alt="../../../../_images/dashboard-example-tab-section.png" src="../../../../_images/dashboard-example-tab-section.png" />
+<p>The settings for the tabs are similar. Here’s the first tab as an example:</p>
+<img alt="../../../../_images/dashboard-example-tab-settings.png" src="../../../../_images/dashboard-example-tab-settings.png" />
+<p>For Style, “Show Active Slider” is selected so it’s clear which the active tab is:</p>
+<img alt="../../../../_images/dashboard-example-tab-settings-style.png" src="../../../../_images/dashboard-example-tab-settings-style.png" />
+<p>On each tab a Metrics block is placed, with the following settings:</p>
+<p><strong>Usage</strong>: For this tab the Scope is set to “User Activity”,  with the following Metrics:</p>
+<img alt="../../../../_images/dashboard-example-tab-usage.png" src="../../../../_images/dashboard-example-tab-usage.png" />
+<p><strong>Page Status</strong>: Here the setting for Scope is “Pages” with the following Metrics:</p>
+<img alt="../../../../_images/dashboard-example-tab-page-status-new.png" src="../../../../_images/dashboard-example-tab-page-status-new.png" />
+<p><strong>Underused Content</strong>: The Scope for this tab is also set to page, but this time with the following Metrics:</p>
+<img alt="../../../../_images/dashboard-example-tab-page-underused.png" src="../../../../_images/dashboard-example-tab-page-underused.png" />
+<p><strong>Reach</strong>: On the Reach tab, two Metrics blocks are added.</p>
+<p>For the “Corporate News Reach”, the Scope is set this way:</p>
+<img alt="../../../../_images/dashboard-example-tab-page-reach-news-new.png" src="../../../../_images/dashboard-example-tab-page-reach-news-new.png" />
+<p>And the Metrics, this way:</p>
+<img alt="../../../../_images/dashboard-example-tab-page-reach-news-metrics-new.png" src="../../../../_images/dashboard-example-tab-page-reach-news-metrics-new.png" />
+<p>For the “Local News Reach”, the Scope is set this way:</p>
+<img alt="../../../../_images/dashboard-example-tab-page-reach-news-local-new.png" src="../../../../_images/dashboard-example-tab-page-reach-news-local-new.png" />
+<p>And the Metrics, this way:</p>
+<img alt="../../../../_images/dashboard-example-tab-page-reach-news-local-metrics.png" src="../../../../_images/dashboard-example-tab-page-reach-news-local-metrics.png" />
+<p><strong>Teamwork</strong>: For this tab, the Scope is set to “Teamwork”, with three Metrics:</p>
+<img alt="../../../../_images/dashboard-example-tab-teamwork-new.png" src="../../../../_images/dashboard-example-tab-teamwork-new.png" />
+<p>A filter is also added so you can choose the type of teamwork, based on template:</p>
+<img alt="../../../../_images/dashboard-example-tab-teamwork-filter.png" src="../../../../_images/dashboard-example-tab-teamwork-filter.png" />
+<p><strong>Communities</strong>: For the “Communites tab” Scope is set to Pages, and the Page Type “Discussion”:</p>
+<img alt="../../../../_images/dashboard-example-tab-communities-scope.png" src="../../../../_images/dashboard-example-tab-communities-scope.png" />
+<p>And with the following Metrics:</p>
+<img alt="../../../../_images/dashboard-example-tab-communities-metrics-new.png" src="../../../../_images/dashboard-example-tab-communities-metrics-new.png" />
+</div>
+</div>
+
+
+           </div>
+           
+          </div>
+          <footer>
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>
+        &#169; Copyright 2022, Precio Fishbone.
+      <span class="lastupdated">
+        Last updated on Jul 06, 2022.
+      </span>
+
+    </p>
+  </div>
+    
+    
+    
+    Built with <a href="https://www.sphinx-doc.org/">Sphinx</a> using a
+    
+    <a href="https://github.com/readthedocs/sphinx_rtd_theme">theme</a>
+    
+    provided by <a href="https://readthedocs.org">Read the Docs</a>. 
+
+</footer>
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+  
+
+  <script type="text/javascript">
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script>
+
+  
+  
+    
+   
+
+</body>
+</html>

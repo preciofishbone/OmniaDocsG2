@@ -115,7 +115,7 @@
 </ul>
 </li>
 <li class="toctree-l1"><a class="reference internal" href="../../../blocks/index.html">Blocks</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../../../general-assets/index.html">General assets</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../general-assets/index.html">General assets and options</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../pages/index.html">Pages</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../working-with-documents/index.html">Working with Documents</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../working-with-processes/index.html">Working with Processes</a></li>
@@ -210,59 +210,7 @@
 <p>You then add the blocks you need. All available blocks are listed on this page: <a class="reference internal" href="../../../blocks/index.html"><span class="doc">Blocks</span></a></p>
 <p>The Metrics block can be especially useful: <a class="reference internal" href="../../../blocks/metrics/index.html"><span class="doc">The Metrics block</span></a></p>
 <p>You can also edit some of the metrics settings, in Omnia Admin, see: <a class="reference internal" href="../settings/metrics/index.html"><span class="doc">Metric settings</span></a></p>
-<div class="section" id="implementation-example">
-<h2>Implementation example<a class="headerlink" href="#implementation-example" title="Permalink to this headline">¶</a></h2>
-<p>Here’s an example of a Dashoboard set up:</p>
-<img alt="../../../_images/admin-dashboard-usage.png" src="../../../_images/admin-dashboard-usage.png" />
-<p>Under Usage, information about active readers and active contributors are shown. What should be considered an active reader or an active contributor is defined in the Metrics settings, see link above.</p>
-<p>Under Page Status, something like the following is shown:</p>
-<img alt="../../../_images/admin-dashboard-page-status.png" src="../../../_images/admin-dashboard-page-status.png" />
-<p>What you see in the example is the total status for the tenant. You can choose to see status for just one of the publishing apps and/or just one of the page types.</p>
-<p>For Underused Content, something like the following can be shown:</p>
-<img alt="../../../_images/admin-dashboard-underused-content.png" src="../../../_images/admin-dashboard-underused-content.png" />
-<p>What should be considered underused content is defined in the Metrics settings, see link above.</p>
-<p>Regarding Reach: How well do we reach our target audience based on what we expect. The metric can be configured to a specific scope of pages and have a target nr of users</p>
-<img alt="../../../_images/admin-dashboard-reach.png" src="../../../_images/admin-dashboard-reach.png" />
-<p>For Teamwork, you can see the number of active teamworks and if any has been created this week or this month:</p>
-<img alt="../../../_images/admin-dashboard-teamwork.png" src="../../../_images/admin-dashboard-teamwork.png" />
-<p>Finally, for Communities, the following information is shown:</p>
-<img alt="../../../_images/admin-dashboard-communities.png" src="../../../_images/admin-dashboard-communities.png" />
-<div class="section" id="how-it-s-done">
-<h3>How it’s done<a class="headerlink" href="#how-it-s-done" title="Permalink to this headline">¶</a></h3>
-<p>The layout in this implementation example is a tab section with six tabs:</p>
-<img alt="../../../_images/dashboard-example-tab-section.png" src="../../../_images/dashboard-example-tab-section.png" />
-<p>The settings for the tabs are similar. Here’s the first tab as an example:</p>
-<img alt="../../../_images/dashboard-example-tab-settings.png" src="../../../_images/dashboard-example-tab-settings.png" />
-<p>For Style, “Show Active Slider” is selected so it’s clear which the active tab is:</p>
-<img alt="../../../_images/dashboard-example-tab-settings-style.png" src="../../../_images/dashboard-example-tab-settings-style.png" />
-<p>On each tab a Metrics block is placed, with the following settings:</p>
-<p><strong>Usage</strong>: For this tab the Scope is set to “User Activity”,  with the following Metrics:</p>
-<img alt="../../../_images/dashboard-example-tab-usage.png" src="../../../_images/dashboard-example-tab-usage.png" />
-<p><strong>Page Status</strong>: Here the setting for Scope is “Pages” with the following Metrics:</p>
-<img alt="../../../_images/dashboard-example-tab-page-status.png" src="../../../_images/dashboard-example-tab-page-status.png" />
-<p><strong>Underused Content</strong>: The Scope for this is also set to page, but this time the following Metrics:</p>
-<img alt="../../../_images/dashboard-example-tab-page-underused.png" src="../../../_images/dashboard-example-tab-page-underused.png" />
-<p><strong>Reach</strong>: On the Reach tab, two Metrics blocks are added.</p>
-<p>For the “Global News Reach”, the Scope is set this way:</p>
-<img alt="../../../_images/dashboard-example-tab-page-reach-news.png" src="../../../_images/dashboard-example-tab-page-reach-news.png" />
-<p>And the Metrics, this way:</p>
-<img alt="../../../_images/dashboard-example-tab-page-reach-news-metrics.png" src="../../../_images/dashboard-example-tab-page-reach-news-metrics.png" />
-<p>For the “Local News Reach”, the Scope is set this way:</p>
-<img alt="../../../_images/dashboard-example-tab-page-reach-news-local.png" src="../../../_images/dashboard-example-tab-page-reach-news-local.png" />
-<p>As you can see, the difference between these two blocks, is the Page Type used.</p>
-<p>And the Metrics, this way:</p>
-<img alt="../../../_images/dashboard-example-tab-page-reach-news-local-metrics.png" src="../../../_images/dashboard-example-tab-page-reach-news-local-metrics.png" />
-<p><strong>Teamwork</strong>: For this tab, the Scope is set to “Teamwork”, with three Metrics:</p>
-<img alt="../../../_images/dashboard-example-tab-teamwork.png" src="../../../_images/dashboard-example-tab-teamwork.png" />
-<p>A filter is also added so you can choose the type of teamwork, based on template:</p>
-<img alt="../../../_images/dashboard-example-tab-teamwork-filter.png" src="../../../_images/dashboard-example-tab-teamwork-filter.png" />
-<p><strong>Communities</strong>: For the “Communites tab” Scope is set to Pages, and the Page Type “Discussion”:</p>
-<img alt="../../../_images/dashboard-example-tab-communities-scope.png" src="../../../_images/dashboard-example-tab-communities-scope.png" />
-<p>And with the following Metrics:</p>
-<img alt="../../../_images/dashboard-example-tab-communities-metrics.png" src="../../../_images/dashboard-example-tab-communities-metrics.png" />
-<p>For more information about the Metrics block, see the link at the top of this page.</p>
-</div>
-</div>
+<p>For an implementation example, see this page: <a class="reference internal" href="dashboard-implementation/index.html"><span class="doc">Dashboard implementation example</span></a></p>
 </div>
 
 
@@ -281,7 +229,7 @@
     <p>
         &#169; Copyright 2022, Precio Fishbone.
       <span class="lastupdated">
-        Last updated on May 17, 2022.
+        Last updated on Jul 06, 2022.
       </span>
 
     </p>

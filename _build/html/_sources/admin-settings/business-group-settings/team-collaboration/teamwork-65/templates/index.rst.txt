@@ -15,13 +15,13 @@ To create a new template, do the following:
 
 .. image:: teamwork-65-template-click-plus-new2.png
 
-2. Use the following settings (image from Omnia 6.10):
+2. Use the following settings:
 
 .. image:: teamwork-65-template-settings-new2.png
 
 General
 ***********
-The following settings are available here (image from Omnia 6.10):
+The following settings are available here:
 
 .. image:: teamwork-65-edit-general-new2.png
 
@@ -30,14 +30,11 @@ The following settings are available here (image from Omnia 6.10):
 + **Description**: Add a Description if needed, in any or all tenant languages. Click the flag to change language.
 + **Icon Type**: An icon is always shown for a template. If you would like another icon for this template, select the set of icons here: Font Awesome, Microsoft, Flags or Custom. When selecting Custom you can choose any image as the icon.
 + **Icon**: When you have select Icon Type, use this list to select the icon. If you select Custom, a Url field is shown, where you enter the Url for the image.
-+ **Available to All Users**: (Available in Omnia 6.8). Select this option if the template should be available for other’s than administrators, for example in the user Wizard for creating new teamworks. If this option is not selected, the template will be available only for administrators to use in Omnia Admin.
-+ **Available to**: In Omnia 6.10 and later you can select "All users", "Specific users" or "Admins only" under this heading, as shown in the image above. Deafault setting is Admins ony. When you select "Specific users", you can set which users the template will be available for, using the normal targeting functionality in Omnia. For more info, see below.
++ **Available to**: Here you can select "All users", "Specific users" or "Admins only". Deafault setting is Admins ony. When you select "Specific users", you can set which users the template will be available for, using the normal targeting functionality in Omnia. For more info, see below.
 + **Site Creation Mode**: Here you select if approval is required when users create sites from this template.
 
 Teamwork templates for specific users
 --------------------------------------
-This option is available in Omnia 6.10 and later.
-
 When you select "Specific users" the following option is shown:
 
 .. image:: specific-users.png
@@ -46,7 +43,7 @@ Click "Add Targeting Filter" and the following is shown:
 
 .. image:: specific-users-filter.png
 
-You use targeting here the same way as in other parts of Omnia. For more information, see for example the heading "Targeting" at the bottom of this page: :doc:`Settings for sections </pages/page-types/section-settings/index>`
+You use targeting here the same way as in other parts of Omnia. For more information, see this page: :doc:`Using Targeting </general-assets/targeting-in-omnia/index>`
 
 Also note that all properties that should be available for targeting must be setup in the Targeting Properties list, see: :doc:`Targeting Properties </admin-settings/tenant-settings/properties/targeting-properties/index>`
 
@@ -60,11 +57,11 @@ This is available for Properties:
 
 The property sets are set up using the Tenant settings. See this page for more information: :doc:`Property sets </admin-settings/tenant-settings/properties/property-sets/index>`
 
-In Omnia 6.10 and later, you can set default values for most properties in a set, valid for this template. An example:
+You can set default values for most properties in a set, valid for this template. An example:
 
 .. image:: teamwork-65-edit-properties-default.png
 
-For some properties, it mayt also be possible to enter help text.
+For some properties, it may also be possible to enter help text.
 
 Features
 *************
@@ -116,7 +113,7 @@ For Microsoft Team, the following settings are available for Setup in Omnia 6.10
 
 Create a custom Microsoft Team template
 ----------------------------------------
-When you have selected to create a custom template in Omnia 6.10 the following options becomes available:
+When you have selected to create a custom template the following options are available:
 
 .. image:: teamwork-settings-setup-team-all.png
 
@@ -184,7 +181,7 @@ If any custom steps has been developed for the type of community you have select
 
 Policies
 **********
-This option is available in Omnia 6.10 and later. Use this for further policies settings, that will be applied to teamworks created from specific templates.
+Use this for further policies settings, that will be applied to teamworks created from specific templates. A prerequisite is that Sensitivity Labels are created in Microsoft 365.
 
 The following can be set here:
 
@@ -194,4 +191,4 @@ The following can be set here:
 + **Minimum number of characters in description**: Here you can set a number of characters for the teamwork descripton, to force users to add a description of a certain length. 
 + **Minimim number of administrators**: There must always be at least one administrator for a teamwork, but you can decide that more administrators should be required, up to 5.
 + **Default Administrators**: Use this to add one or more administrators for teamworks created from this template. These administrators will always be added, can not be removed in the Create Teamwork wizard. Must be persons, can not be groups.
-+ **Sensitivity Label**: Here you can add one or more sensitivity labels defined in Microsoft 365. If you select "Fixed", it can't edited. If you select "Let user decide", it works as a suggestion.
++ **Sensitivity Label**: Here you decide how Microsoft 365 Sensitivity Labels will be handled for this Teamwork Template; No senitivity label, Fixed or Let user decide. If you select "Fixed", a list of the existing sensitivity labels are shown and you select one from the list. It can't be changed when a teamwork is created. If you select "Let user decide", the user creating a teamwork from this template can select which sensitivity label to use for the teamwork. It's still mandatory to select one when creating the teamwork.

@@ -115,7 +115,7 @@
 </ul>
 </li>
 <li class="toctree-l1"><a class="reference internal" href="../../../blocks/index.html">Blocks</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../../../general-assets/index.html">General assets</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../general-assets/index.html">General assets and options</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../pages/index.html">Pages</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../working-with-documents/index.html">Working with Documents</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../working-with-processes/index.html">Working with Processes</a></li>
@@ -204,51 +204,48 @@
             
   <div class="section" id="features-tenant">
 <h1>Features - Tenant<a class="headerlink" href="#features-tenant" title="Permalink to this headline">¶</a></h1>
-<p>This page describes the features available in Omnia 6.8. For a description of features in Omnia 6.10, see this page: <a class="reference internal" href="../tenant-features-610/index.html"><span class="doc">Features (Tenant) in Omnia 6.10</span></a></p>
 <p>All available Features for the Tenant is listed here and can be activated, deactivated and updated when needed. Here’s an example:</p>
-<img alt="../../../_images/features-tenant-new8.png" src="../../../_images/features-tenant-new8.png" />
+<img alt="../../../_images/features-tenant-new9.png" src="../../../_images/features-tenant-new9.png" />
 <p>Exactly what is available can differ depending on how the Tenant is set up.</p>
 <div class="section" id="system">
 <h2>System<a class="headerlink" href="#system" title="Permalink to this headline">¶</a></h2>
 <ul class="simple">
-<li><p><strong>Enable Custom System Email</strong> : As it states, this feature must be activated if Custom System Email functionality is needed in the tenant.</p></li>
+<li><p><strong>Enable Custom System Email</strong>: As it states, this feature must be activated if Custom System Email functionality is needed in the tenant.</p></li>
+<li><p><strong>Web Content Managament file storage</strong>: When activated, the option “Copy documents locally” becomes available in the settings for the Realated Links block. Documents that are locally accessible are versioned together with the page and can be accessed by users without a SharePoint license.</p></li>
+<li><p><strong>Teamwork provisioning using application context</strong>: Must be activated for the option to create teamwork in the app’s context.</p></li>
 </ul>
 </div>
-<div class="section" id="enterprise-properties">
-<h2>Enterprise Properties<a class="headerlink" href="#enterprise-properties" title="Permalink to this headline">¶</a></h2>
-<p>The purpose of these features is to provide a number of Enterprise Properties for an easy starting point. You can then edit the properties lists for your organization’s needs. Add the common properties you would like to have in your tenant.</p>
+<div class="section" id="default-configuration">
+<h2>Default configuration<a class="headerlink" href="#default-configuration" title="Permalink to this headline">¶</a></h2>
+<p>The purpose of these features is to provide a number of Enterprise Properties for an easy starting point, and ready to go app launcher links. You can then edit the properties lists and the app launcher links to your organization’s needs. Add the common properties you would like to have in your tenant.</p>
 <p>Note that default properties can not be deleted, but all can be edited.</p>
 <p>For more information on working with properties, see these pages: <a class="reference internal" href="../properties/index.html"><span class="doc">Properties</span></a></p>
+<p>Regarding M365 App Launcher links: Activate this Feature for a number of default links for the App launcher - many of the links that will normally appear in the Microsoft 365 menu. You can then use “Shared links” to edit the links and decide which ones to use. <strong>Note!</strong> Most links here will not be applicable in Omnia on-prem.</p>
 </div>
-<div class="section" id="mobile">
-<h2>Mobile<a class="headerlink" href="#mobile" title="Permalink to this headline">¶</a></h2>
-<p>Here you can remove or upgrade the feature “Enable Mobile Login”. More information about what Mobile Login is, is found under <em>Permissions</em> here: <a class="reference internal" href="../../../pages/page-settings/index.html"><span class="doc">Publishing App settings</span></a></p>
-<p><strong>Note!</strong> Mobile Login is not available in Omnia on-prem.</p>
+<div class="section" id="integration">
+<h2>Integration<a class="headerlink" href="#integration" title="Permalink to this headline">¶</a></h2>
+<p>Here’s an example of what can be available here:</p>
+<ul class="simple">
+<li><p><strong>Support Kaizala login</strong>: As it states. Was called “Allow mobile login” in earlier Omnia version.</p></li>
+<li><p><strong>Microsoft Teams presence</strong>: If activated, Teams presence is indicated by all people icons in Omnia (see below).</p></li>
+<li><p><strong>Yammer posts and comments integration</strong>: There’s a lot of integration between Yammer and Omnia that is possible without having to activate this feature, but in order to use the new, improved Yammer integration where a post will be created in the selected Yammer community whenever a new page, matching the selected criteria, is created - this feature must be activated.</p></li>
+</ul>
+<p><a class="reference internal" href="../../../working-with-processes/index.html"><span class="doc">Working with Processes</span></a></p>
+<p>When Microsoft Teams presence is active, this type of icon indicates Teams presence:</p>
+<img alt="../../../_images/teams-presence.png" src="../../../_images/teams-presence.png" />
+<p>In this example the icon indicates that the colleagues are offline at the moment.</p>
+<p>For more information on how to set up Yammer in Omnia, see:</p>
+<p><a class="reference internal" href="../../../setup/setup-yammer-in-omnia/index.html"><span class="doc">Setup Yammer in Omnia</span></a></p>
 </div>
 <div class="section" id="add-ons">
 <h2>Add-ons<a class="headerlink" href="#add-ons" title="Permalink to this headline">¶</a></h2>
 <p>Here you can remove or upgrade the Omnia Add-ons. For more information about these, see the following sections:</p>
 <p><a class="reference internal" href="../../../working-with-documents/index.html"><span class="doc">Working with Documents</span></a></p>
-<p><a class="reference internal" href="../../../setup/setup-yammer-in-omnia/index.html"><span class="doc">Setup Yammer in Omnia</span></a></p>
 <p><a class="reference internal" href="../../business-group-settings/settings/info-screen/index.html"><span class="doc">Info Screen</span></a></p>
 <p><a class="reference internal" href="../../../working-with-events/index.html"><span class="doc">Working with Events</span></a></p>
 <p><a class="reference internal" href="../../../working-with-processes/index.html"><span class="doc">Working with Processes</span></a></p>
-<p>An important note about Yammer integration: There’s a lot of integration between Yammer and Omnia that is possible without having to activate this feature, but in order to use the new, improved Yammer integration where a post will be created in the selected Yammer community whenever a new page, matching the selected criteria, is created - this feature must be activated.</p>
-</div>
-<div class="section" id="default-content">
-<h2>Default Content<a class="headerlink" href="#default-content" title="Permalink to this headline">¶</a></h2>
-<p>The following can be avaiable here:</p>
-<ul class="simple">
-<li><p><strong>Show Teams presence</strong>: If activated, Teams presence is indicated by all people icons in Omnia (see below).</p></li>
-<li><p><strong>Default App Launcher Links</strong>: Activate this Feature for a number of default links for the App launcher - many of the links that will normally appear in the Microsoft 365 menu. You can then use “Shared links” to edit the links and decide which ones to use. <strong>Note!</strong> Most links here will not be applicable in Omnia on-prem.</p></li>
-</ul>
-<p>When Show Teams presence is active, this type of icon indicates Teams presence:</p>
-<img alt="../../../_images/teams-presence.png" src="../../../_images/teams-presence.png" />
-<p>In this example the icon indicates that the colleagues are offline at the moment.</p>
-</div>
-<div class="section" id="configuration">
-<h2>Configuration<a class="headerlink" href="#configuration" title="Permalink to this headline">¶</a></h2>
-<p>Activate “Default Community Properties and Page Types” for a useful set of properties for communities and a set of ready made Page Types. Both properties and page types can then be edited.</p>
+<p><a class="reference internal" href="../../../using-communities/index.html"><span class="doc">Using Communities</span></a></p>
+<p><a class="reference internal" href="../settings/digital-signage/index.html"><span class="doc">Digital Signage</span></a></p>
 </div>
 </div>
 
@@ -268,7 +265,7 @@
     <p>
         &#169; Copyright 2022, Precio Fishbone.
       <span class="lastupdated">
-        Last updated on May 17, 2022.
+        Last updated on Jul 06, 2022.
       </span>
 
     </p>

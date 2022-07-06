@@ -22,7 +22,7 @@ To create a new Search Category, click the plus and use the settings available f
 + **Sort By**: Choose property to sort by, or you can choose to sort by Relevance or Popularity (at the bottom of the list).
 + **Sort Direction**: When you have chosen a property to sort by, you can select a sort direction here.
 + **Search Templates**: Select one or more Search Templates from the list.
-+ **Targeting filter**: A search category can be targeted to a specific group of people based on the targeting system in Omnia. This setting will be used both in Quick and Advanced search.
++ **Targeting filter**: A search category can be targeted to a specific group of people based on the targeting system in Omnia. This setting will be used both in Quick and Advanced search. More information is found here: :doc:`Using Targeting </general-assets/targeting-in-omnia/index>`
 
 The same settings are available when editing a Search Category.
 

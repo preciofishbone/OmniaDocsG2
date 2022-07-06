@@ -93,11 +93,11 @@
               <ul class="current">
 <li class="toctree-l1"><a class="reference internal" href="../../../admin-settings/index.html">Admin Settings</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../blocks/index.html">Blocks</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../../../general-assets/index.html">General assets</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../general-assets/index.html">General assets and options</a></li>
 <li class="toctree-l1 current"><a class="reference internal" href="../../index.html">Pages</a><ul class="current">
 <li class="toctree-l2"><a class="reference internal" href="../../create-page/index.html">Create a page</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../../move-page/index.html">Move a page</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../../delete-page/index.html">Archive a page</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../delete-page/index.html">Delete a page</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../../reusable-content/index.html">Reusable Content</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../../automatic-page-creation/index.html">Automatic Page Creation</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../../edit-page/index.html">Edit a page</a></li>
@@ -115,7 +115,7 @@
 <li class="toctree-l3"><a class="reference internal" href="../create-new-page-type/index.html">Create a new Page Type</a></li>
 <li class="toctree-l3 current"><a class="current reference internal" href="#">Sections and Blocks in a Page Type</a></li>
 <li class="toctree-l3"><a class="reference internal" href="../section-settings/index.html">Settings for Sections</a></li>
-<li class="toctree-l3"><a class="reference internal" href="../archive-restore-page-type/index.html">Archive or restore a Page type</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../archive-restore-page-type/index.html">Delete or restore a Page type</a></li>
 <li class="toctree-l3"><a class="reference internal" href="../page-type-settings/index.html">Page Type Settings</a></li>
 </ul>
 </li>
@@ -296,11 +296,24 @@
 <p>Here’s an example with a block added:</p>
 <img alt="../../../_images/section-block-added-new2.png" src="../../../_images/section-block-added-new2.png" />
 <p>You add additional blocks, work with the settings, move or delete blocks the same way as editors do when editing a page, see: <a class="reference internal" href="../../../blocks/working-with-blocks/index.html"><span class="doc">Working with Blocks</span></a></p>
-<p><strong>Note!</strong> When editing a page, blocks that belong to the Page Type is locked, meaning they can not be moved or deleted, and settings for those blocks can’t be edited. But content can be edited, if applicable, using Write mode.</p>
-<div class="section" id="copy-a-blockfrom-the-clipboard">
-<h3>Copy a blockfrom the clipboard<a class="headerlink" href="#copy-a-blockfrom-the-clipboard" title="Permalink to this headline">¶</a></h3>
+<p><strong>Note!</strong> When editing a page, blocks that belong to the Page Type is locked, meaning they can not be moved or deleted, and settings for those blocks can’t be edited. But content can be edited, if applicable, using Write mode. In Omnia 6.10 and later, additional settings for this are available, see below.</p>
+<div class="section" id="copy-a-block-from-the-clipboard">
+<h3>Copy a block from the clipboard<a class="headerlink" href="#copy-a-block-from-the-clipboard" title="Permalink to this headline">¶</a></h3>
 <p>There’s also a clipboard available, that can be used to copy blocks between pages or page types, see: <a class="reference internal" href="../../../general-assets/layout-explorer/clipboard-sections-blocks/index.html"><span class="doc">Clipboard for sections and blocks</span></a></p>
 </div>
+</div>
+<div class="section" id="lock-a-block-or-not">
+<h2>Lock a block or not<a class="headerlink" href="#lock-a-block-or-not" title="Permalink to this headline">¶</a></h2>
+<p>In Omnia 6.10 additional settings for locking of blocks are available, under “Lock” in the LAYOUT menu:</p>
+<img alt="../../../_images/lock-menu.png" src="../../../_images/lock-menu.png" />
+<p>You can decide if it should be possible to unlock the settings for a block. The block can still not be moved and can not be deleted.</p>
+<p>The following options are available here:</p>
+<img alt="../../../_images/lock-menu-options.png" src="../../../_images/lock-menu-options.png" />
+<ul class="simple">
+<li><p><strong>Locked by default</strong>: If this option is selected, and not the following, it works as before; settings for the block can not be changed but content can be edited. If this option is NOT selected and the next is, the block’s settings are simply not locked. Design permission is still needed to be able to change settings.</p></li>
+<li><p><strong>Lock can be edited</strong>: If this option is selected, editors (Design permission) can unlock or lock the settings for the block - and if unlocked, can edit the block’s settings.</p></li>
+</ul>
+<p><strong>Important Note!</strong> Editing contents of a block works as before; content can be edited, if applicable, using Write mode.</p>
 </div>
 <div class="section" id="decide-to-show-a-section-on-a-device-or-not">
 <h2>Decide to show a section on a device or not<a class="headerlink" href="#decide-to-show-a-section-on-a-device-or-not" title="Permalink to this headline">¶</a></h2>
@@ -350,7 +363,7 @@
     <p>
         &#169; Copyright 2022, Precio Fishbone.
       <span class="lastupdated">
-        Last updated on May 17, 2022.
+        Last updated on Jul 06, 2022.
       </span>
 
     </p>

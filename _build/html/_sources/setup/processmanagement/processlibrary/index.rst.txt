@@ -11,4 +11,4 @@ Setup a Process Library
 
 Note! Once you have setup the Process Directory and a common web page to view processes on, you can use this page as the preview url in the Process Library.
 
-.. inage:: setup-processlibrary-preview.png
+.. image:: setup-processlibrary-preview.png

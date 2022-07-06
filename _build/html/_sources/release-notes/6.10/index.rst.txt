@@ -1,7 +1,5 @@
-Release 6.10 (Preview)
+Release 6.10
 ========================================
-
-.. note:: Release 6.10 is in preview. Items may be added or removed from this list at any time.
 
 Page Rollup
 ------------------------------------------

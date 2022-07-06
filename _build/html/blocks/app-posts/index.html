@@ -145,7 +145,7 @@
 <li class="toctree-l2"><a class="reference internal" href="../yammer-feed/index.html">Yammer Feed</a></li>
 </ul>
 </li>
-<li class="toctree-l1"><a class="reference internal" href="../../general-assets/index.html">General assets</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../general-assets/index.html">General assets and options</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../pages/index.html">Pages</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../working-with-documents/index.html">Working with Documents</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../working-with-processes/index.html">Working with Processes</a></li>
@@ -233,7 +233,8 @@
   <div class="section" id="posts-block">
 <h1>Posts block<a class="headerlink" href="#posts-block" title="Permalink to this headline">¶</a></h1>
 <p>This block makes it possible to post conversation messages in an app. It can be used to implement a discussion within a community or a conversation within a teamwork.</p>
-<p>The block is available in Omnia 6.10 and later.</p>
+<p>It’s also possible to aggregated messages from several sources and to post a message to a specific community, publishing app or teamwork app.</p>
+<p><strong>Important Note</strong>: To be able to post message in this block, a user must be added to or belong to a group added to the App Contributors field for the app (found under Security in the app settings).</p>
 <p>The following settings are available:</p>
 <img alt="../../_images/posts-block-all.png" src="../../_images/posts-block-all.png" />
 <div class="section" id="general">
@@ -248,12 +249,16 @@
 <li><p><strong>Allow Likes</strong>: Likes is on by default. if it should not be available, deselect this option.</p></li>
 <li><p><strong>Replies shown by default</strong>: Decide the number of replies the should be shown for each post, before a Show more link is shown. Default=2.</p></li>
 </ul>
+<p>General note about Scope: Use Scope to set up which sources to get messages from, to show in this block.</p>
 <div class="section" id="custom-scope">
-<h3>Custom scope<a class="headerlink" href="#custom-scope" title="Permalink to this headline">¶</a></h3>
-<p>For Custom scope you can select Communities, Publishing Apps or Teamwork Apps. When this is done, select one or more in the next list.</p>
+<h3>Custom Scope<a class="headerlink" href="#custom-scope" title="Permalink to this headline">¶</a></h3>
+<p>For Custom Scope you can select Communities, Publishing Apps or Teamwork Apps. When this is done, select one or more in the next list. Messages from all selected communities or apps will then be shown in the block (but also see “Filter by followed” below).</p>
 <p>These two options are also available:</p>
 <img alt="../../_images/posts-block-general-custom.png" src="../../_images/posts-block-general-custom.png" />
-<p>(Information about these options will be added soon).</p>
+<ul class="simple">
+<li><p><strong>Filter by followed</strong>: If only messages from the communities or apps the logged in user follows should be shown, select this option.</p></li>
+<li><p><strong>Enable Organization-wide posts</strong>: In this context “Organization-wide” means the whole Business Profile. Decide if it should be possible to post a message to another communitiy, publishing app or teamwork app in the Business Profile. You must see too that there is a receiving block somewhere for this option to actually do anything.</p></li>
+</ul>
 </div>
 </div>
 <div class="section" id="style">
@@ -289,7 +294,7 @@
     <p>
         &#169; Copyright 2022, Precio Fishbone.
       <span class="lastupdated">
-        Last updated on May 17, 2022.
+        Last updated on Jul 06, 2022.
       </span>
 
     </p>

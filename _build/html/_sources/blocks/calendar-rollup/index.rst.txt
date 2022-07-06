@@ -74,7 +74,7 @@ To select another color, open the list. You can select any of the pre defined co
 
 .. image:: expand-calendar-color-new.png
 
-Targeting a calendar works the same way as when you target a block, see the Heading "Targeting" on this page: :doc:`General Block Settings </blocks/general-block-settings/index>`
+Targeting a calendar works the same way as in many other parts of Omnia. See this page for more information: :doc:`Using Targeting </general-assets/targeting-in-omnia/index>`
 
 You can always target the whole Calendar Rollup block as an alternative, if calendars should be shown for some and no calendars for others. See the link above.
 

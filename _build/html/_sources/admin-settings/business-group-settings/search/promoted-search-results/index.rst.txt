@@ -34,7 +34,7 @@ Do the following:
 + **Keywords** Add the keywords that will result in the promoted search result being shown.
 + **On Hold**: On hold means it's not active yet. To enable this search result, select "Active".
 + **Active**: When a Promoted Search Result is active, you can set start and end dates if you wish. It's not mandatory.
-+ **Targeting**: A promoted search result can be targeted, meaning just shown to some users. Targeting works the same way as when you target a block, see the Heading "Targeting" on this page: :doc:`General Block Settings </blocks/general-block-settings/index>`
++ **Targeting**: A promoted search result can be targeted, meaning just shown to some users. See this page for more information: :doc:`Using Targeting </general-assets/targeting-in-omnia/index>`
 
 3. Click CREATE when you're done.
 

@@ -1,8 +1,6 @@
 Features (Business Profile) in Omnia 6.10
 ==============================================
 
-**This documentation is just started. Will be completed in a few days.**
-
 All available Features for the Business Profile is listed here and can be activated, deactivated and updated. Here's an example:
 
 .. image:: features-business-profile-new6.png

@@ -93,11 +93,11 @@
               <ul class="current">
 <li class="toctree-l1"><a class="reference internal" href="../../admin-settings/index.html">Admin Settings</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../blocks/index.html">Blocks</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../../general-assets/index.html">General assets</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../general-assets/index.html">General assets and options</a></li>
 <li class="toctree-l1 current"><a class="reference internal" href="../index.html">Pages</a><ul class="current">
 <li class="toctree-l2"><a class="reference internal" href="../create-page/index.html">Create a page</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../move-page/index.html">Move a page</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../delete-page/index.html">Archive a page</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../delete-page/index.html">Delete a page</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../reusable-content/index.html">Reusable Content</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../automatic-page-creation/index.html">Automatic Page Creation</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../edit-page/index.html">Edit a page</a></li>
@@ -225,7 +225,7 @@
 <p>Use these settings to Edit permissions in the Publishing App.</p>
 <img alt="../../_images/page-settings-permissions-new4.png" src="../../_images/page-settings-permissions-new4.png" />
 <ul class="simple">
-<li><p><strong>Allow Mobile Login</strong>: This setting is intended to offer login to certain parts of Omnia for first line workers, partners and similar. The user needs the Kaizala app and a viable account. <strong>Note!</strong> Mobile Login is not available in Omnia on-prem.</p></li>
+<li><p><strong>Allow Mobile Login</strong>: This setting is intended to offer login to certain parts of Omnia for first line workers, partners and similar. The user needs the Kaizala app and a viable account. In Omnia 6.10, this functionality will be relabeled “Kaizala login”. <strong>Note!</strong> Mobile Login/Kaizala login is not available in Omnia on-prem.</p></li>
 <li><p><strong>Administrators</strong>: Add and remove Publishing App administrators here as needed.</p></li>
 <li><p><strong>Resource Readers</strong>: Here you set the general Read permission for the Publishing App, needed for users to be able to read pages.</p></li>
 </ul>
@@ -272,7 +272,7 @@
 <div class="section" id="targeting-a-page-variation">
 <h3>Targeting a Page Variation<a class="headerlink" href="#targeting-a-page-variation" title="Permalink to this headline">¶</a></h3>
 <p>Use targeting for a variation to set which variation of a page that will be displayed to the logged in user. Note that if a Variation Selector block is added to a page, users can always select any of the available variations. This is true even if no targeting is set up. See this page for information about the Variation Selector block: <a class="reference internal" href="../../blocks/variation-selector/index.html"><span class="doc">Variation Selector</span></a></p>
-<p><strong>Note!</strong> The Targeting Properties to use must be set up in Omnia Admin, see the section about Targeting Properties on this page: <a class="reference internal" href="../../admin-settings/tenant-settings/properties/index.html"><span class="doc">Properties</span></a></p>
+<p><strong>Note!</strong> The Targeting Properties to use must be set up in Omnia Admin. See this page for more information: <span class="xref std std-doc">Targeting Properties</span></p>
 <p>To target a Page Variation, do the following:</p>
 <ol class="arabic simple">
 <li><p>Click “Add Targeting Filter” when editing a Page Variation’s settings.</p></li>
@@ -308,7 +308,7 @@
 </div>
 <div class="section" id="archive">
 <h2>Archive<a class="headerlink" href="#archive" title="Permalink to this headline">¶</a></h2>
-<p>On this tab, you can set rules for termination of archived pages in the Publishing App. Termination means those pages can no longer be retrived from the archive. Regardless of if you have this option on or not, pages can always be terminated manually in the archive, as long as they are present in the archive.</p>
+<p>On this tab, you can set rules for termination of archived (deleted) pages in the Publishing App. Termination means those pages can no longer be retrived from the archive. Regardless of if you have this option on or not, pages can always be terminated manually in the archive, as long as they are present in the archive.</p>
 <p>Here’s an example of such a setting:</p>
 <img alt="../../_images/publishing-app-settings-archive-new.png" src="../../_images/publishing-app-settings-archive-new.png" />
 <p>If you don’t want automatic termination, just keep this option deselected.</p>
@@ -332,7 +332,7 @@
     <p>
         &#169; Copyright 2022, Precio Fishbone.
       <span class="lastupdated">
-        Last updated on May 17, 2022.
+        Last updated on Jul 06, 2022.
       </span>
 
     </p>

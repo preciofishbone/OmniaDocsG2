@@ -1,26 +1,28 @@
 Document Rollup
 ===========================================
 
-Using The Document Rollup block you can show suitable documents in a list. For implementation examples, see the bottom of this page.
+Using The Document Rollup block you can show suitable documents in a list. 
+
+For implementation examples, see this page: :doc:`Document Rollup implementation examples </blocks/document-rollup/document-rollup-implementation/index>`
 
 Settings
 *************************
 The following settings are available:
 
-.. image:: document-rollup-settings-all-new2.png
+.. image:: document-rollup-settings-all-new3.png
 
 General
 -----------------
 Here you can set the following:
 
-.. image:: document-rollup-settings-general-new4.png
+.. image:: document-rollup-settings-general-new6.png
 
-+ **Title**: If a title should be shown for the block, add it in this field. If no variation exists for the page, it looks like in the image above and you can set the title in the languages active in the tenant. If variations exists, only one title can be set. In that case, titles in other languages are set in the variations.
++ **Title**: If a title should be shown for the block, add it in this field. The title can be added in any, or all tenant languages. Click the flag to change language.
 + **Open in Client App**: Documents are by default opened in the online app. If document should be opened in the client app instead, select this option.
 
 Query
 ---------
-You can either choose to pick documents to be displayd in the block, or use the Query Builder.
+You can either choose to pick documents to be displayed in the block, or use the Query Builder.
 
 .. image:: document-rollup-query-new2.png
 
@@ -33,8 +35,6 @@ To pick documents, click "ADD DOCUMENT".
 The Document Picker opens and you use it to select documents.
 
 .. image:: document-rollup-document-picker-new.png
-
-Available categories (shown as tabs in the picker) are set up in Omnia Admin, see: :doc:`Document Picker settings </admin-settings/business-group-settings/settings/document-picker/index>`
 
 See this page for more information on how to use the Document Picker: :doc:`The Document Picker </general-assets//document-picker/index>`
 
@@ -53,61 +53,85 @@ Here you add queries, which is the detailed "settings" for what to display in th
 **Note!** Regardless of what you select here, the documents that will be displayed for a user are only those documents that the user has premissions to read.
 
 2. Use the three lists for base settings and the field to add a Query Parameter. 
-3. Click "Add" to add the Query. 
 
-See an example under *Implementation example* below.
+.. image:: document-rollup-settings-query-scope-settings.png
+
+3. Click "Add" to add the Query. 
 
 Note that you can type the script directly in the field, if you know how. You can use all options in the Keyword Query Language (KQL). See this Microsoft page for reference: https://docs.microsoft.com/en-us/sharepoint/dev/general-development/keyword-query-language-kql-syntax-reference
 
 Additionally you can set:
+
+.. image:: document-rollup-settings-query-scope-settings2.png
 
 + **Day Limit**: Use this option to limit the display of older documents. You first select property (for example Modified) and then select how old the documents can be to be displayed in the list.
 + **Last modified by current user**: Use this option to limit the rollup to documents the logged in user has edited, for example for a "My Latest Documents" implementation.
 
 Display
 ---------------
-You can select "List View", "Card" and "Group by site" here. Available settings differ depending on your choice.
+You can select "List View", "Summary View", "Group by site" and "Card" and here. Available settings differ depending on your choice.
 
 For **List View** you can set the following:
 
 .. image:: document-rollup-settings-display-new3.png
 
 + **Add Column**: Select the columns to show in the list. Note! If users should be able to send feedback on controlled documents, add the column "Feedback Icon". In the rollups shown in the implementation section below, the Feedback icon is the icon to the far right. An information icon can also be very useful as it displays more information about the document.
-+ **Trim by Following Site**: If this option is selected only documents from sites the logged in user follows are displayed in the list.
++ **Trim by Following Sites**: If this option is selected only documents from sites the logged in user follows are displayed in the list.
 + **Sort By**: Select the column the list should be sorted by.
 + **Paging**: Select paging for the list here. It can be "No paging", "Classic" or "Scroll".
-+ **Item Limit**: Set the item limit to display in each "page" of the list.
++ **Item Limit**: Shown when No Paging is selected. Set the item limit to display in each "page" of the list.
++ **Page Size**: Shown when Classic or Scroll paging is selected. Set the item limit to display in each "page" of the list.
 + **Padding**: Use this setting for padding around the contents in the block.
 
 If you select "Adjust Columns" - displayed when you have selected columns - you can set the width for the columns, if needed:
 
 .. image:: document-rollup-settings-display-width.png
 
-For **Card** view the following settings are available:
+For **Summary View** these settings are available:
 
-.. image:: document-rollup-settings-display-card-new2.png
+.. image:: document-rollup-settings-summary-view.png
 
-+ **Title**: Select what to show as the title: "Title", "Document Type", "Document Owner", "Published", Modified or Document Title..
-+ **Modified At**: Here you select the information (field) to show for a document.
-+ **Modified By**: You select information (field) to show for who the document was modified by.
++ **Title**: Select property to to get the title from.
++ **Modified At**: Select the property to get this information from.
++ **Modified By**: Select the property to get this information from.
 + **Trim by Following Site**: If this option is selected only documents from sites the logged in user follows are displayed in the list.
 + **Sort By**: Select the column the list should be sorted by.
-+ **Paging**: Select paging for the list here. It can be "No paging", "Classic" or "Scroll".
-+ **Item Limit**: Set the item limit to display in each "page" of the list.
++ **Paging**: Select type of paging here; No Paging, Classic or Scroll.
++ **Item Limit**: Shown when No Paging is selected. Set the item limit to display in each "page" of the list.
++ **Page Size**: Shown when Classic or Scroll paging is selected. Set the item limit to display in each "page" of the list.
 + **Padding**: Use this setting for padding around the contents in the block.
 
 For **Group By Site** these settings are available:
 
 .. image:: document-rollup-settings-display-group-new2.png
 
-+ **Title**: Select what to show as the title: "Title", "Document Type", "Document Owner", "Published", Modified or Document Title..
-+ **Modified At**: Here you select the information (field) to show for a document.
-+ **Modified By**: You select information (field) to show for who the document was modified by.
++ **Title**: Select property to to get the title from.
++ **Modified At**: Select the property to get this information from.
++ **Modified By**: Select the property to get this information from.
 + **Always Show Letter Avatar**: If letter avatars always should be shown, select this option.
 + **Trim by Following Site**: If this option is selected only documents from sites the logged in user follows are displayed in the list.
 + **Sort By**: Select the column the list should be sorted by.
 + **Item Limit**: Set the item limit to display in each "page" of the list.
 + **Padding**: Use this setting for padding around the contents in the block.
+
+For **Card** view the following settings are available:
+
+.. image:: document-rollup-settings-display-card-new3.png
+
++ **Title**: Select property to to get the title from.
++ **Modified At**: Select the property to get this information from.
++ **Modified By**: Select the property to get this information from.
++ **Show Modified By Info**: If it should be shown who the latest version of this document was created by, select this option.
++ **Show Action Buttons**: Makes the following options available in a menu: "Copy link" and "Source library".
++ **Trim by Following Site**: If this option is selected only documents from sites the logged in user follows are displayed in the list.
++ **Sort By**: Select the column the list should be sorted by.
++ **Paging**: Select paging for the list here. It can be "No paging", "Classic" or "Scroll".
++ **Item Limit**: Set the item limit to display in each "page" of the list.
++ **Padding**: Use this setting for padding around the contents in the block.
+
+For Card View, you can also edit Card Spacing, available under STYLES:
+
+.. image:: document-rollup-settings-display-card-style.png
 
 Filter
 --------
@@ -136,76 +160,9 @@ Using STYLE you can set the following:
 
 .. image:: document-rollup-settings-refiners-style.png
 
-+ **Elevation**: If you want the refiner area to be elevated, use this slider to set how much.
-+ **Background**: Use this option to add a gray tint to the Refiner area, to make it a little bit darker than the rest of the block. If the background for the block is white the Refiner area is distinctively gray. If the background for the block is black this option makes no difference.
-+ **Border Radius**: Use this slider to set rounded corners for the Refiner area.
+Test the options and see a preview in the block.
 
 Layout and Write
 *********************
 The WRITE Tab is not used here. The LAYOUT tab contains general settings, see: :doc:`General Block Settings </blocks/general-block-settings/index>`
-
-Implementation example
-***********************
-Here's an example of how it can look for users when a Document Rollup block is set up for Controlled Documents access:
-
-.. image:: document-rollup-controlled-1new2.png
-
-The following settings are used (see above for more information about the fields and options):
-
-General
---------
-Here, just the Title for the list is added in this example:
-
-.. image:: document-rollup-controlled-2new2.png
-
-Query
-------
-The following settings are made for Query:
-
-.. image:: document-rollup-controlled-6new3.png
-
-Note the star (*) in the Query Field, meaning All (in this case Published Controlled Documents).
-
-Display
---------
-For Display the following settings are made in this example:
-
-.. image:: document-rollup-controlled-3new2.png
-
-And these:
-
-.. image:: document-rollup-controlled-4new2.png
-
-The "Classic" Paging results in a navigation at the bottom of the list:
-
-.. image:: document-rollup-controlled-5new2.png
-
-Filter
---------
-The following filters are set up (General):
-
-.. image:: document-rollup-controlled-7new2.png
-
-No further settings are made for Filter Style.
-
-Refiners
------------
-Finally, Refiners are set up this way:
-
-.. image:: document-rollup-controlled-8new2.png
-
-As you can see, there are four refiners set up. (But only two of them are visible in the example image for the Controlled Documents rollup.)
-
-The Zone Width is set up this way:
-
-.. image:: document-rollup-controlled-zone.png
-
-No further settings are made for Refiner Style.
-
-
-
-
-
-
-
 

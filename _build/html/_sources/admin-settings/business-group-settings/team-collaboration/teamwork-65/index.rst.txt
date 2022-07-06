@@ -1,7 +1,7 @@
 Teamwork
 ===============
 
-Here you can work with the apps and templates for Teamwork (image from Omnia 6.10):
+Here you can work with the apps and templates for Teamwork:
 
 .. image:: teamwork-610-all.png
 
