@@ -102,7 +102,7 @@ For Sharepoint Team Site and Sharepoint Communication Site, these settings are a
 
 Microsoft Team
 ---------------------
-For Microsoft Team, the following settings are available for Setup in Omnia 6.10 and later:
+For Microsoft Team, the following settings are available for Setup:
 
 .. image:: teamwork-settings-setup-team-new.png
 
