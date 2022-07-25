@@ -45,7 +45,7 @@ When a Newsletter Editor creates a newsletter, the first step is to create a new
 
 The new page can look something like this:
 
-.. image:: create-newsletter-2-new
+.. image:: create-newsletter-2-new.png
 
 The editor can now use the blocks set up on the Page Type, in Write mode, or in Design mode. In this implementation example, a text block for the newsletter heading and another text block for the newsletter text is available, as well as a Page Rollup block (that's "Pick Pages".)
 
