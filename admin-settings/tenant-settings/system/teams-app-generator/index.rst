@@ -43,7 +43,7 @@ If you do it this way, the app will be installed automatically for all users, or
 
 Update Existing App
 ***********************
-In Omnia 6.10 the Omnia App has some new options. If you already have an Omnia App and would like to update it to the full 6.10 standard, use this tab. What the possible update is about is stated in the description text: "Ensure Omnia SSO and Omnia teamwork tab for an existing app".
+If you already have an Omnia App and would like to update it to the full 6.10 (or later) standard, use this tab. What the possible update is about is stated in the description text: "Ensure Omnia SSO and Omnia teamwork tab for an existing app".
 
 To update an app, drag and drop or Browse to load it.
 
