@@ -66,9 +66,9 @@ Do the following to create a new variation:
 
 .. image:: click-add-variation-new.png
 
-2. Use the following settings (image from Omnia 6.10):
+2. Use the following settings:
 
-.. image:: variations-new5.png
+.. image:: variations-new6.png
 
 + **Title**: Add a title for the variation to be shown in the lists, for example the list where users can select variation. If needed, the title can be added in any or all of the languages set up in the tenant. Click the flag to change language.
 + **Icon Type**: If you want show an icon for the variation, select Icon Type here, for excample "Flags".
@@ -76,7 +76,7 @@ Do the following to create a new variation:
 + **Url Segment**: Add a suitable Url Segment in this field.
 + **Variation author**: You can add a variation author for this variation. See this page for more information: :doc:`Edit Page Variations </pages/edit-page-variations/index>`
 + **Automatic Machine Translation**:You can select machine translation for this variation, to any language that is set up in the tenant. If you do, you can't select a Variation author, and the machine translated variation can not be edited manually. When you have selected this option, choose language in the list shown. Automatic Machine Translation is executed when the page is published. It will be noted on the variation page that it has been machine translated, see below. **Note!** Machine translation is not available in Omnia on-prem.
-+ **Right to left**: This option is available in Omnia 6.10 and later. If you're creating a variation for a language that is read right to left, select this option.
++ **Right to left**: If you're creating a variation for a language that is read right to left, select this option.
 + **Add Targeting Filter**: To set up targeting for this variation, click here. It is not mandatory. See below for more information.
 
 Languages used for Titles, or for targering, must be set up in the Tenant Settings, see this page: :doc:`Regional Settings </admin-settings/tenant-settings/settings/regional-settings/index>`
