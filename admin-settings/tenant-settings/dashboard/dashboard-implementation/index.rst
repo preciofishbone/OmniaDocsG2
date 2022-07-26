@@ -107,11 +107,11 @@ and these:
 
 Most Visited (Last month) has similar settings, but ofcourse showing the last month only.
 
-Underused Pages has a section within a section with two tabs:
+Underused Pages is placed in a section with two tabs:
 
 .. image:: underused-pages-tabs.png
 
-In the tab to the left, theres a Metrics block, with the following settings for Scope:
+In the tab to the left, ther's a Metrics block, with the following settings for Scope:
 
 .. image:: underused-pages-tabs-underused-scope.png
 
@@ -119,9 +119,73 @@ And the following Metrics:
 
 .. image:: underused-pages-tabs-underused-metrics.png
 
+To the right, a Page Rollup block is placed
 
-(**From here, still being edited.**)
+News settings
+--------------
+News is organized in a section with five tabs:
 
+.. image:: dashboard-news-tabs.png
+
+Status for News is set up with a Metrics block, with the following Scope:
+
+.. image:: dashboard-news-tabs-status-scope.png
+
+And the following Metrics:
+
+.. image:: dashboard-news-tabs-status-metrics.png
+
+The Reach tab is set up with two Metrics blocks, one for Corporate News and the other for Local News.
+
+Scope and Metrics for Corporate News are these:
+
+.. image:: dashboard-news-tabs-reach-corporate-scope.png
+
+.. image:: dashboard-news-tabs-reach-corporate-metrics.png
+
+Scope and Metrics for Local News are these:
+
+.. image:: dashboard-news-tabs-reach-local-scope.png
+
+.. image:: dashboard-news-tabs-reach-local-metrics.png
+
+Most Visited news last month is set up with a Page Rollup block with this query:
+
+.. image:: dashboard-news-most-visited-month-query.png
+
+The Display is List View with the following columns:
+
+.. image:: dashboard-news-most-visited-month-display.png
+
+Sorting is by Page Hits: All users, and the Time Period is set to One month from today.
+
+Most Commented (Lats month) and Most Liked (Last month) is set up in a similar way. 
+
+They have both this set of columns (although in a different order):
+
+.. image:: dashboard-news-most-commented-month-display.png
+
+The two list are differently sorted, the first on Comments and the second on Likes.
+
+Finally, Statistics is a tab that can be used to se statistics for different tyoes of news and different time periods. The following Query is set:
+
+.. image:: dashboard-news-most-cnews-statistics-quesry.png
+
+The following settings are used for dispolay:
+
+.. image:: dashboard-news-most-cnews-statistics-display.png
+
+and these:
+
+.. image:: dashboard-news-most-cnews-statistics-display-2.png
+
+Filters are set up this way:
+
+.. image:: dashboard-news-most-cnews-statistics-filter.png
+
+(No settings for Time Period).
+
+(**From here, edits still to come**.)
 
 
 **Teamwork**: For this tab, the Scope is set to "Teamwork", with three Metrics:
