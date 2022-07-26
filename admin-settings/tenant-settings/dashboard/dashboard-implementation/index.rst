@@ -9,19 +9,14 @@ Here's an example of a Dashoboard set up:
 
 Under Usage, information about active readers and active contributors are shown. What should be considered an active reader or an active contributor is defined in the Metrics settings, see: :doc:`Metric Settings </admin-settings/tenant-settings/settings/metrics/index>`
 
-Under Page Status, something like the following can be shown:
+Under Page Status, the following is availble:
 
 .. image:: admin-dashboard-page-status-new2.png
 
-What you see in the example is the total status for the tenant. You can choose to see status for just one of the publishing apps.
-
-A number of lists has been set up, besides Status; Most Visited (All), Most Visited (Last month), Underused Pages and Statistics.
+A number of tabs are available. What you see in the example is the total status for the tenant. You can choose to see status for just one of the publishing apps. 
+Besides that number of lists has been set up; Most Visited (All), Most Visited (Last month), Underused Pages and Statistics.
 
 .. image:: admin-dashboard-page-status-lists.png
-
-Here's an example of a list of Most Visited (All):
-
-.. image:: admin-dashboard-page-status-mostvisitied.png
 
 For Underused Pges, something like the following can be shown:
 
@@ -29,17 +24,17 @@ For Underused Pges, something like the following can be shown:
 
 What should be considered underused content is defined in the Metrics settings, see link above.
 
-Note the list to the right, of pages that has npt been vsitied for a very long time.
+Note the list to the right, of pages that has npt been vsitied for a very long time. For more information on the lists, see below.
 
-Fo News, something like the following can be shown:
+For News, this has been set up:
 
 .. image:: admin-dashboard-news.png
 
-Besided Status for news pages, a number of lists has been set up; Reach, Most Visited (Last month), Most Commented (Last month), Most Liked (Last month) and Statsitics:
+Besided Status for news pages, a number of lists is available; Reach, Most Visited (Last month), Most Commented (Last month), Most Liked (Last month) and Statsitics:
 
 .. image:: admin-dashboard-news-lists.png
 
-Regarding Reach: How well we reach our target audience based on what we expect. The metric can be configured to a specific scope of pages (for example News pages) and have a target number of users. 
+Regarding Reach: How well we reach our target audience based on what we expect. The metric can be configured to a specific scope of pages (for example News pages) and have a target number of users. For nmore information on the lists, see below.
 
 For Teamwork, you can see the number of active teamworks and if any has been created this week or this month:
 
@@ -53,7 +48,7 @@ Finally, in this example, status for searches made by users can be shown:
 
 How it's done
 -----------------
-The layout in this implementation example is a tab section with six tabs:
+The basic layout in this implementation example is a tab section with six tabs:
 
 .. image:: dashboard-example-tab-section-new-frame.png
 
@@ -73,19 +68,19 @@ Scope is set to "User Activity":
 
 .. image:: dashboard-example-Usage-scope.png
 
-The following Metrics are set for the Usage tab:
+The following Metrics are set up:
 
 .. image:: dashboard-example-Usage-metrics.png
 
 Pages settings
 ----------------
-For Pages, a section as added, and the folling tabs are set up:
+For Pages, a section is added, and the following tabs are set up there:
 
 .. image:: pages-tabs.png
 
-The settings for the tabs are similar to those used for Usage, see above.
+The settings for the tabs are similar to those for Usage, see above.
 
-On the Status tab, a Metrics block are placed with the following setting for Scope:
+On the Status tab, a Metrics block is placed with the following setting for Scope:
 
 .. image:: dashboard-example-tab-page-scope.png
 
@@ -105,9 +100,19 @@ and these:
 
 .. image:: dashboard-example-tab-page-visitied-all-lisview-2.png
 
-Most Visited (Last month) has similar settings, but of course showing the last month only.
+Here's an example of the list:
+
+.. image:: dashboard-example-page-visited.png
+
+Most Visited (Last month) has similar settings, but of course showing the last month only. Here's an example:
+
+.. image:: dashboard-example-page-visited-month.png
  
 Underused Pages is placed in a section with two tabs:
+
+.. image:: dashboard-example-underused.png
+
+The settings for the tabs are these:
 
 .. image:: underused-pages-tabs.png
 
@@ -119,7 +124,9 @@ And the following Metrics:
 
 .. image:: underused-pages-tabs-underused-metrics.png
 
-To the right, a Page Rollup block is placed.
+To the right, a Page Rollup block is used to list the pages that has not been visited for a very long time, listing all pages with List View Display and two columnms, with the follwing sorting:
+
+.. image:: underused-pages-tabs-underused-sorting.png
 
 News settings
 --------------
@@ -135,7 +142,9 @@ And the following Metrics:
 
 .. image:: dashboard-news-tabs-status-metrics.png
 
-The Reach tab is set up with two Metrics blocks, one for Corporate News and the other for Local News.
+The Reach tab is set up with two Metrics blocks, one for Corporate News and the other for Local News:
+
+.. image:: dashboard-news-reach.png
 
 Scope and Metrics for Corporate News are these:
 
@@ -159,7 +168,15 @@ The Display is List View with the following columns:
 
 Sorting is by Page Hits: All users, and the Time Period is set to One month from today.
 
-Most Commented (Lats month) and Most Liked (Last month) is set up in a similar way. 
+Here's an example of that list:
+
+.. image:: dashboard-news-most-visited-month-example.png
+
+Most Commented (Last month) and Most Liked (Last month) is set up in a similar way:
+
+.. image:: dashboard-news-most-mostcommented-example.png
+
+.. image:: dashboard-news-most-mostliked-example.png
 
 They have both this set of columns (although in a different order):
 
@@ -167,11 +184,17 @@ They have both this set of columns (although in a different order):
 
 The two list are differently sorted, the first on Comments and the second on Likes.
 
-Finally, Statistics is a tab that can be used to se statistics for different tyoes of news and different time periods. The following Query is set:
+Finally, Statistics is a tab that can be used to se statistics for different types of news and different time periods:
+
+.. image:: dashboard-news-statistics-example.png
+
+Note the possibility to export the shown list to Excel.
+
+The following Query is set:
 
 .. image:: dashboard-news-most-cnews-statistics-quesry.png
 
-The following settings are used for dispolay:
+The following settings are used for Display:
 
 .. image:: dashboard-news-most-cnews-statistics-display.png
 
