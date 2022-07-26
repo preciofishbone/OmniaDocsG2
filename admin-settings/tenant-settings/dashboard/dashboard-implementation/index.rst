@@ -79,11 +79,11 @@ The following Metrics are set for the Usage tab:
 
 Pages settings
 ----------------
-For Pages, a section as added within the section, and the folling tabs are set up:
+For Pages, a section as added, and the folling tabs are set up:
 
 .. image:: pages-tabs.png
 
-The settings for the tabs are similar toi those used for Usage, see above.
+The settings for the tabs are similar to those used for Usage, see above.
 
 On the Status tab, a Metrics block are placed with the following setting for Scope:
 
@@ -105,13 +105,13 @@ and these:
 
 .. image:: dashboard-example-tab-page-visitied-all-lisview-2.png
 
-Most Visited (Last month) has similar settings, but ofcourse showing the last month only.
-
+Most Visited (Last month) has similar settings, but of course showing the last month only.
+ 
 Underused Pages is placed in a section with two tabs:
 
 .. image:: underused-pages-tabs.png
 
-In the tab to the left, ther's a Metrics block, with the following settings for Scope:
+On the tab to the left, there's a Metrics block, with the following settings for Scope:
 
 .. image:: underused-pages-tabs-underused-scope.png
 
@@ -119,7 +119,7 @@ And the following Metrics:
 
 .. image:: underused-pages-tabs-underused-metrics.png
 
-To the right, a Page Rollup block is placed
+To the right, a Page Rollup block is placed.
 
 News settings
 --------------
