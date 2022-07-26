@@ -164,7 +164,7 @@ Most Visited news last month is set up with a Page Rollup block with this query:
 
 The Display is List View with the following columns:
 
-.. image:: dashboard-news-most-visited-month-display.png
+.. image:: dashboard-news-most-visited-month-display-frame.png
 
 Sorting is by Page Hits: All users, and the Time Period is set to One month from today.
 
@@ -172,7 +172,7 @@ Here's an example of that list:
 
 .. image:: dashboard-news-most-visited-month-example.png
 
-Most Commented (Last month) and Most Liked (Last month) is set up in a similar way:
+Most Commented (Last month) and Most Liked (Last month) are set up in a similar way:
 
 .. image:: dashboard-news-most-mostcommented-example.png
 
@@ -182,9 +182,9 @@ They have both this set of columns (although in a different order):
 
 .. image:: dashboard-news-most-commented-month-display.png
 
-The two list are differently sorted, the first on Comments and the second on Likes.
+The two lists are differently sorted, the first on Comments and the second on Likes.
 
-Finally, Statistics is a tab that can be used to se statistics for different types of news and different time periods:
+Finally, Statistics is a tab that can be used to se statistics for different types of news and during different time periods:
 
 .. image:: dashboard-news-statistics-example.png
 
