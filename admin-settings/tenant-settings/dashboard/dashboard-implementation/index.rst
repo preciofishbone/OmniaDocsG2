@@ -5,7 +5,7 @@ Dashboard implementation example
 
 Here's an example of a Dashoboard set up:
 
-.. image:: admin-dashboard-usage-new.png
+.. image:: admin-dashboard-usage-newframe.png
 
 Under Usage, information about active readers and active contributors are shown. What should be considered an active reader or an active contributor is defined in the Metrics settings, see: :doc:`Metric Settings </admin-settings/tenant-settings/settings/metrics/index>`
 
@@ -53,7 +53,7 @@ Finally, in this example, status for searches made by users can be shown:
 
 How it's done
 -----------------
-(**From here, still being edied.**)
+(**From here, still being edited.**)
 
 The layout in this implementation example is a tab section with six tabs:
 
