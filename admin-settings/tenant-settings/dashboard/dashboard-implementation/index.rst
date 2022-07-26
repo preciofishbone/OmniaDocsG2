@@ -53,51 +53,76 @@ Finally, in this example, status for searches made by users can be shown:
 
 How it's done
 -----------------
-(**From here, still being edited.**)
-
 The layout in this implementation example is a tab section with six tabs:
 
-.. image:: dashboard-example-tab-section.png
+.. image:: dashboard-example-tab-section-new.png
 
 The settings for the tabs are similar. Here's the first tab as an example:
 
-.. image:: dashboard-example-tab-settings.png
+.. image:: dashboard-example-tab-settings-new.png
 
 For Style, "Show Active Slider" is selected so it's clear which the active tab is:
 
-.. image:: dashboard-example-tab-settings-style.png
+.. image:: dashboard-example-tab-settings-style-new.png
 
-On each tab a Metrics block is placed, with the following settings:
+Usage settings
+------------------
+On this tab a Metrics block is placed, with the following settings:
 
-**Usage**: For this tab the Scope is set to "User Activity",  with the following Metrics:
+Scope is set to "User Activity":
 
-.. image:: dashboard-example-tab-usage.png
+.. image:: dashboard-example-Usage-scope.png
 
-**Page Status**: Here the setting for Scope is "Pages" with the following Metrics:
+The following Metrics are set for the Usage tab:
 
-.. image:: dashboard-example-tab-page-status-new.png
+.. image:: dashboard-example-Usage-metrics.png
 
-**Underused Content**: The Scope for this tab is also set to page, but this time with the following Metrics:
+Pages settings
+----------------
+For Pages, a section as added within the section, and the folling tabs are set up:
 
-.. image:: dashboard-example-tab-page-underused.png
+.. image:: pages-tabs.png
 
-**Reach**: On the Reach tab, two Metrics blocks are added.
+The settings for the tabs are similar toi those used for Usage, see above.
 
-For the "Corporate News Reach", the Scope is set this way:
+On the Status tab, a Metrics block are placed with the following setting for Scope:
 
-.. image:: dashboard-example-tab-page-reach-news-new.png
+.. image:: dashboard-example-tab-page-scope.png
 
-And the Metrics, this way:
+And the following settings for Metrics:
 
-.. image:: dashboard-example-tab-page-reach-news-metrics-new.png
+.. image:: dashboard-example-tab-page-metrics.png
 
-For the "Local News Reach", the Scope is set this way:
+Most Visited (All) is a Page Rollup block, with the following settings for query:
 
-.. image:: dashboard-example-tab-page-reach-news-local-new.png
+.. image:: dashboard-example-tab-page-visitied-all-query.png
 
-And the Metrics, this way:
+The Display is List View with the these settings:
 
-.. image:: dashboard-example-tab-page-reach-news-local-metrics.png
+.. image:: dashboard-example-tab-page-visitied-all-lisview.png
+
+and these:
+
+.. image:: dashboard-example-tab-page-visitied-all-lisview-2.png
+
+Most Visited (Last month) has similar settings, but ofcourse showing the last month only.
+
+Underused Pages has a section within a section with two tabs:
+
+.. image:: underused-pages-tabs.png
+
+In the tab to the left, theres a Metrics block, with the following settings for Scope:
+
+.. image:: underused-pages-tabs-underused-scope.png
+
+And the following Metrics:
+
+.. image:: underused-pages-tabs-underused-metrics.png
+
+
+(**From here, still being edited.**)
+
+
 
 **Teamwork**: For this tab, the Scope is set to "Teamwork", with three Metrics:
 
