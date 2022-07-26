@@ -5,36 +5,56 @@ Dashboard implementation example
 
 Here's an example of a Dashoboard set up:
 
-.. image:: admin-dashboard-usage.png
+.. image:: admin-dashboard-usage-new.png
 
 Under Usage, information about active readers and active contributors are shown. What should be considered an active reader or an active contributor is defined in the Metrics settings, see: :doc:`Metric Settings </admin-settings/tenant-settings/settings/metrics/index>`
 
-Under Page Status, something like the following is shown:
+Under Page Status, something like the following can be shown:
 
-.. image:: admin-dashboard-page-status-new.png
+.. image:: admin-dashboard-page-status-new2.png
 
-What you see in the example is the total status for the tenant. You can choose to see status for just one of the publishing apps and/or just one of the page types.
+What you see in the example is the total status for the tenant. You can choose to see status for just one of the publishing apps.
 
-For Underused Content, something like the following can be shown:
+A number of lists has been set up, besides Status; Most Visited (All), Most Visited (Last month), Underused Pages and Statistics.
 
-.. image:: admin-dashboard-underused-content.png
+.. image:: admin-dashboard-page-status-lists.png
+
+Here's an example of a list of Most Visited (All):
+
+.. image:: admin-dashboard-page-status-mostvisitied.png
+
+For Underused Pges, something like the following can be shown:
+
+.. image:: admin-dashboard-underused-pages.png
 
 What should be considered underused content is defined in the Metrics settings, see link above.
 
-Regarding Reach: How well we reach our target audience based on what we expect. The metric can be configured to a specific scope of pages and have a target number of users.
+Note the list to the right, of pages that has npt been vsitied for a very long time.
 
-.. image:: admin-dashboard-reach.png
+Fo News, something like the following can be shown:
+
+.. image:: admin-dashboard-news.png
+
+Besided Status for news pages, a number of lists has been set up; Reach, Most Visited (Last month), Most Commented (Last month), Most Liked (Last month) and Statsitics:
+
+.. image:: admin-dashboard-news-lists.png
+
+Regarding Reach: How well we reach our target audience based on what we expect. The metric can be configured to a specific scope of pages (for example News pages) and have a target number of users. 
 
 For Teamwork, you can see the number of active teamworks and if any has been created this week or this month:
 
-.. image:: admin-dashboard-teamwork.png
+.. image:: admin-dashboard-teamwork-new.png
 
-Finally, for Communities, the following information is shown:
+In the image above, status for all Teamwork Templates are shown. You can also choose to see the status for just one of the templates, meaning all teamworks created from a certain template.
 
-.. image:: admin-dashboard-communities-new.png
+Finally, in this example, status for searches made by users can be shown:
+
+.. image:: admin-dashboard-search.png
 
 How it's done
 -----------------
+(**From here, still being edied.**)
+
 The layout in this implementation example is a tab section with six tabs:
 
 .. image:: dashboard-example-tab-section.png
@@ -86,10 +106,6 @@ And the Metrics, this way:
 A filter is also added so you can choose the type of teamwork, based on template:
 
 .. image:: dashboard-example-tab-teamwork-filter.png
-
-**Communities**: For the "Communites tab" Scope is set to Pages, and the Page Type "Discussion":
-
-.. image:: dashboard-example-tab-communities-scope.png
 
 And with the following Metrics:
 
