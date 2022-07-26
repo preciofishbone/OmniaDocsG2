@@ -55,7 +55,7 @@ How it's done
 -----------------
 The layout in this implementation example is a tab section with six tabs:
 
-.. image:: dashboard-example-tab-section-new.png
+.. image:: dashboard-example-tab-section-new-frame.png
 
 The settings for the tabs are similar. Here's the first tab as an example:
 
