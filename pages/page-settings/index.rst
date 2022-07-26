@@ -28,7 +28,7 @@ Use these settings to Edit permissions in the Publishing App.
 
 .. image:: page-settings-permissions-new4.png
 
-+ **Allow Mobile Login**: This setting is intended to offer login to certain parts of Omnia for first line workers, partners and similar. The user needs the Kaizala app and a viable account. In Omnia 6.10, this functionality will be relabeled "Kaizala login". **Note!** Mobile Login/Kaizala login is not available in Omnia on-prem.
++ **Allow Mobile Login**: This setting is intended to offer login to certain parts of Omnia for first line workers, partners and similar. The user needs the Kaizala app and a viable account. If you see the label "Kaizala login" somewhere, it's the sam thing. **Note!** Mobile Login/Kaizala login is not available in Omnia on-prem.
 + **Administrators**: Add and remove Publishing App administrators here as needed.
 + **Resource Readers**: Here you set the general Read permission for the Publishing App, needed for users to be able to read pages.
 
