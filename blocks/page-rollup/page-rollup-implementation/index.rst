@@ -1,7 +1,7 @@
 Page Rollup implementation examples
 ==============================================
 
-Here you will find some examples of how the Page Rollup block can be used. (More examples will be added soon).
+Here you will find some examples of how the Page Rollup block can be used. 
 
 News Archive/News Center
 --------------------------
