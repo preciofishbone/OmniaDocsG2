@@ -1,8 +1,6 @@
 Dashboard implementation example
 ==============================================
 
-**This page is being updated. Will be finished soon.**
-
 Here's an example of a Dashoboard set up:
 
 .. image:: admin-dashboard-usage-newframe.png
