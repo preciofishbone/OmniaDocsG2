@@ -208,17 +208,22 @@ Filters are set up this way:
 
 (No settings for Time Period).
 
-(**From here, edits still to come**.)
+Teamwork settings
+--------------------
+For this tab, the Scope is set to "Teamwork", with six Metrics:
 
-**Teamwork**: For this tab, the Scope is set to "Teamwork", with three Metrics:
+.. image:: dashboard-example-tab-teamwork-new2.png
 
-.. image:: dashboard-example-tab-teamwork-new.png
+A filter is also added so users can choose the type of teamwork, based on template:
 
-A filter is also added so you can choose the type of teamwork, based on template:
+.. image:: dashboard-example-tab-teamwork-filter-new.png
 
-.. image:: dashboard-example-tab-teamwork-filter.png
+Search settings
+------------------
+The Searech tab is set up with a Metrics block, with the folowing Scope:
 
-And with the following Metrics:
+.. image:: dashboard-example-search-scope.png
 
-.. image:: dashboard-example-tab-communities-metrics-new.png
+And the following Metrics:
 
+.. image:: dashboard-example-search-metrics-new.png
