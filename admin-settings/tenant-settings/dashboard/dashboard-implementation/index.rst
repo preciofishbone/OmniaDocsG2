@@ -210,7 +210,6 @@ Filters are set up this way:
 
 (**From here, edits still to come**.)
 
-
 **Teamwork**: For this tab, the Scope is set to "Teamwork", with three Metrics:
 
 .. image:: dashboard-example-tab-teamwork-new.png
