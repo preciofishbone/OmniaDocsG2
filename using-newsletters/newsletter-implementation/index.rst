@@ -1,10 +1,6 @@
 Newsletter implementation example
 ==============================================
 
-**This page is being updated. Will be finished soon.**
-
-Implementation example
-************************
 Here's a Newsletter implementation example. First an example of a newsletter archive:
 
 .. image:: newsletter-archive-new.png
