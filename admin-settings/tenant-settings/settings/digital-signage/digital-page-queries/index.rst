@@ -1,8 +1,6 @@
 Page Queries
 =====================================
 
-**This documentation is just started. More will be added soon.**
-
 Here you set up the page queries to be used for the different screens you're using. It can be seen as a variant of a Page Rollup, although here you set the views under JSON Views or HTML Views respectively.
 
 The first you see is the list of Page Queries that has been created so far, for example:
@@ -29,7 +27,7 @@ To edit a query, click the pen. To add a new query, do the following:
 + **Navigation Depth Level**: Available when you choose Navigation Path as as scope (more information about this will be added soon).
 + **Trim duplicates**: (A description will be added soon).
 + **Like/Comment/Rating**: If just the latest likes, comments or ratings for a page should be shown, you can select to show the ones from the last week, from two weeks or a month.
-+ **Item Limit**: (A description will be added soon).
-+ **Sort by**: (A description will be added soon).
++ **Item Limit**: Set the item limit to display in each “page” of the list.
++ **Sort by**: Choose the property to sort by, then select Asecending or Descending.
 
 
