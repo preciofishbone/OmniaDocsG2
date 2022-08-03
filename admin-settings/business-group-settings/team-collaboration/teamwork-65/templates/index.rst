@@ -109,7 +109,8 @@ For Microsoft Team, the following settings are available for Setup:
 **Note!** Microsoft Team is not available in Omnia on-prem.
 
 + **Default Resource Url**: Choose to link to a Sharepoint site or to Microsoft Teams.
-+ **Setup template**: Here you can select to create a Custom template, to use a Microsoft Teams template, or to Clone an excisting team. See below for more information on a custom template. To use a Microsoft Teams template you must enter the id of the template (can be found in Teams admin center). Information about how to clone an existing team will be added soon.
++ **Setup template**: Here you can select to create a Custom template, to use a Microsoft Teams template, or to Clone an excisting team. See below for more information on a custom template. To use a Microsoft Teams template you must enter the id of the template (can be found in Teams admin center). 
++ **Clone an existing team**: If the purpose of this template is to make it possible to clone a team, select this option. Note that a colleague must be member of the team for this to be possible.
 
 Create a custom Microsoft Team template
 ----------------------------------------
