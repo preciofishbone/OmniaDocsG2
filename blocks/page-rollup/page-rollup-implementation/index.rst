@@ -23,7 +23,7 @@ The Page Rollup for the news list is set up the following way in this example:
 + The option "Exclude current page" can be a good idea to have selected. 
 + Only published news should be listed, as this is a list for all users.
 
-.. image:: news-example-query-new.png
+.. image:: news-example-query.png
 
 + Display: Depends on how you want it to look. In the above example, these settings are used:
 
