@@ -25,7 +25,7 @@ To edit a query, click the pen. To add a new query, do the following:
 + **SELECT START NODE**: If you choose Navigation Path as scope, you click this button and use the Page Picker to pick a start node. See linke to the Page Picker above.
 + **Channels**: f you choose Channels as scope, select a channel from the list and click ADD. If you want to add several, just repeat the process. For eaach channel you can add a filter, see below (will be added soon).
 + **Navigation Depth Level**: Available when you choose Navigation Path as as scope (more information about this will be added soon).
-+ **Trim duplicates**: (A description will be added soon).
++ **Trim duplicates**: If a query could result in one page being listed more than once, select this option to make sure it's only listed once.
 + **Like/Comment/Rating**: If just the latest likes, comments or ratings for a page should be shown, you can select to show the ones from the last week, from two weeks or a month.
 + **Item Limit**: Set the item limit to display in each “page” of the list.
 + **Sort by**: Choose the property to sort by, then select Asecending or Descending.
