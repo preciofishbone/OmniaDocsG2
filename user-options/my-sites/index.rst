@@ -24,9 +24,9 @@ Create Teamwork
 *************************
 End users can be allowed to create a new site or group using the option here. Depending on settings, approval can be needed. If it's not needed, the site or group will be created when the user clicks "Create". If approval is needed, a request is sent to an administrator for processing.
 
-Another way users can be allowed to create teamworks, is through the Create Teamwork block. See this page for more information: :doc:`Create Teamwork block </blocks/create-teamwork/index>`
+Another way users can be allowed to create teamworks, is through the Create App block. See this page for more information: :doc:`The Create App block </blocks/create-app/index>`
 
-What the option is called and which fields and options will be available when creating a site or group can differ depending on how the Provisioning Template is set up.
+What the option is called and which fields and options will be available when creating a teamwork can differ depending on how the Provisioning Template is set up.
 
 Here's an example with some common fields and options:
 
@@ -79,11 +79,7 @@ When all is done:
 
 The "Create" option can also say "Send for approval", depending on what is set up in the template. If the button's label is "Create", the site/group is created when you click the button. If the button's label is "Send for approval", an administrator must approve your request before the site/group can be created. When the administrator has done his or her job, you will be notified.
 
-Templates for site creation
+Templates for teamwork creation
 ****************************
 How this wizard works and which options and fields will be available depends on the template used. Templates, selected in step 2 above, are set up as Provisioning Templates in Omnia Admin, see: :doc:`Provisioning Templates </admin-settings/business-group-settings/provisioning-templates/index>`
-
-
-
-
 
