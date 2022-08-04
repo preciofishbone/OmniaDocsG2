@@ -81,5 +81,5 @@ The "Create" option can also say "Send for approval", depending on what is set u
 
 Templates for teamwork creation
 **********************************
-How this wizard works and which options and fields will be available depends on the template used. Templates, selected in step 2 above, are set up as Teamwork Templates in Omnia Admin, see: :doc:`Teamwork Templates </admin-settings/business-group-settings/team-collaboration/teamwork-65/templates/index.html>`
+How this wizard works and which options and fields will be available depends on the template used. Templates, selected in step 2 above, are set up as Teamwork Templates in Omnia Admin, see: :doc:`Teamwork Templates </admin-settings/business-group-settings/team-collaboration/teamwork-65/templates/index>`
 
