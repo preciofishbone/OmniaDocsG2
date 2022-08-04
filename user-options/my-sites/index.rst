@@ -80,6 +80,6 @@ When all is done:
 The "Create" option can also say "Send for approval", depending on what is set up in the template. If the button's label is "Create", the site/group is created when you click the button. If the button's label is "Send for approval", an administrator must approve your request before the site/group can be created. When the administrator has done his or her job, you will be notified.
 
 Templates for teamwork creation
-****************************
-How this wizard works and which options and fields will be available depends on the template used. Templates, selected in step 2 above, are set up as Provisioning Templates in Omnia Admin, see: :doc:`Provisioning Templates </admin-settings/business-group-settings/provisioning-templates/index>`
+**********************************
+How this wizard works and which options and fields will be available depends on the template used. Templates, selected in step 2 above, are set up as Teamwork Templates in Omnia Admin, see: :doc:`Teamwork Templates </admin-settings/business-group-settings/team-collaboration/teamwork-65/templates/index.html>`
 
