@@ -1,7 +1,7 @@
 Invite co-authors
 ==================
 
-If Page Collection settings allow it, authors can invite co-authors for the page. Regarding permissions, co-authors will simply be authors, there's no separate permission for co-authors.
+If settings in the Page Collection allow it, authors can invite co-authors for the page. Regarding permissions, co-authors will simply be authors, there's no separate permission for co-authors.
 
 Aonther thing to be aware of is that inheritance will be broken when co-authors are invited, if it isn't already, as the permission settings will be specific for the page.
 
@@ -31,5 +31,4 @@ In Permissions for the page, you can now see (if you are Page Collection adminis
 Of course, Page Collection administrators can use the permission settings for a page to do this, but when it's allowed to invite co-authors, authors can do this as well, using the INVITE CO-AUTHOR option.
 
 **Note!** To remove co-authors you need to be Page Collection administrator as this is done through the Pemission settings for the page.
-
 
