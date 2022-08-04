@@ -5,7 +5,7 @@ A Noticification Panel can be present in the Action Panel or on any page. The pu
 
 Several different Notifications panels can be created for different purposes, where one of them can be displayed in the Action Menu. Others can be displayed through a block, on any page.
 
-A number - 3 in the example above - indicates the number of new messages for the user:
+A number - 3 in the example below - indicates the number of new messages for the user:
 
 .. image:: notification-panel-in-action-new2.png
 
@@ -55,6 +55,4 @@ A Notification Panel can be added to any page as a block, see: :doc:`Notificatio
 Settings for Notification Panels
 *************************************
 In Omnia Admin, several different Notification Panels, for different purposes, can be created and administered. All settings for the Notification panels are handled there, in Omnia Admin, under the Business Profile, see: :doc:`Notification Panel settings </admin-settings/business-group-settings/notification-panel/index>`
-
-
 
