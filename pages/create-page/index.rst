@@ -38,27 +38,23 @@ The Url is added automatically, based on the page name, but can be edited if nee
 
 .. image:: new-page-create-page-title-create.png
 
-When the page is created you add content by using blocks, see: :doc:`Working with blocks </blocks/working-with-blocks/index>`
+What you can do from here depends on your permissions. The default mode Write mode. If you are abel to use Design mode, see below.
 
-Every block available also has a separate description, select the block on this page for more information: :doc:`Blocks </blocks/index>`
-
-Some default blocks can already be in place for the Page Type, and besides that a wizard is started to help you with the necessary steps when creating a new page:
+In Write mode you can now add content to some of the blocks added by the Page Type, and besides that a wizard is started to help you with the necessary steps when creating a new page:
 
 .. image:: new-page-example-blocks.png
 
-If you need to change Page Type, you should do that before doing any work on blocks or anything else. You don't have to do that right now, but you can. 
-
-6. Click "Next" for the next Wizard step.
+7. Click "Next" for the next Wizard step.
 
 .. image:: new-page-example-new.png
 
-7. Add Property information as needed. 
+8. Add Property information as needed. 
 
 Available properties and if they are mandatory or not, are set up in settings for the Page Type.
 
 Page Contact and Review Date are two common properties. The page contact is often used for page owner to receive page feedback, if applicable, but other property fields can be used for that purpose. Review Date is just a date for a reminder that it may be time to review the page in case it needs an update. Set the Review as you see fit, but a review at least once a year is probably a good idea.
 
-8. Click "Next" to go the next Wizard step.
+9. Click "Next" to go the next Wizard step.
 
 .. image:: new-page-properties-next-new.png
 
@@ -75,6 +71,15 @@ When the last Wizard step has been edited, something like the following is shown
 .. image:: new-page-finished-new.png
 
 **Note!** A new page is never shown for users until it's published at least once.
+
+Working with a new page in Design mode
+*****************************************
+**This section is not ready yet.**
+
+When the page is created you add content by using blocks, see: :doc:`Working with blocks </blocks/working-with-blocks/index>`
+
+Every block available also has a separate description, select the block on this page for more information: :doc:`Blocks </blocks/index>`
+
 
 Page Style and Layout Templates
 ************************************
