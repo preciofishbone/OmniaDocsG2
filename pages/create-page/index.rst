@@ -1,47 +1,52 @@
 Create a page
 ===========================================
 
+**This page is being edited. Will be finished soon.**
+
 When you need to create a publishing page, do the following:
 
 1. Go to a page, for example the page where you are going to create the new page as a sub page.
 2. Open the editor.
 
-.. image:: select-edit-new.png
+.. image:: select-edit-new2.png
 
 The navigation structure with the existing pages are now opened to the left:
 
-.. image:: page-structure-new.png
+.. image:: page-structure-new2.png
 
 When already editing a page, you can open the navigation at the top left.
 
-.. image:: open-navigation-new.png
+.. image:: open-navigation-new2.png
 
 When the navigation is open, create a new page this way:
 
 3. Open the menu for the page where the new page will be a sub page:
 
-.. image:: new-page-open-menu-new.png
+.. image:: new-page-open-menu-new2.png
 
 4. Select "Create Page".
 
-.. image:: new-page-create-page-new.png
+.. image:: new-page-create-page-new2.png
 
-5. Choose settings for the page:
+5. Add a title for the page and select Page Type if availble (if there's only type available, then the Page Type is selected automatically and the field is simply not shown, as seen in the next image):
 
-.. image:: new-page-settings-new.png
+.. image:: new-page-create-page-title.png
 
-+ **Page Type**: Open the list and select the Page Type you want to use (can be changed later).
-+ **Title**: The Page Title will be shown when searching and as a node in the navigation (can be changed later).
-+ **Url**: The last section of the Url will be based on the Title. You can edit it if needed. 
-+ **Create**: The page is created when you click this button, not before that.
+The Url is added automatically, based on the page name, but can be edited if needed.
 
-.. image:: new-page-create-button-new.png
+6. Click CREATE.
+
+.. image:: new-page-create-page-title-create.png
 
 When the page is created you add content by using blocks, see: :doc:`Working with blocks </blocks/working-with-blocks/index>`
 
 Every block available also has a separate description, select the block on this page for more information: :doc:`Blocks </blocks/index>`
 
 Some default blocks can already be in place for the Page Type, and besides that a wizard is started to help you with the necessary steps when creating a new page:
+
+.. image:: new-page-example-blocks.png
+
+If you need to change Page Type, you should do that before doing any work on blocks or anything else. You don't have to do that right now, but you can. 
 
 6. Click "Next" for the next Wizard step.
 
