@@ -1,10 +1,10 @@
-Move a page
+Move a page or a whole node
 ===========================================
 
 You can always easily move a page to another position on the same level (within the parent node). By using the navigation tree, you can move a node (one page or a page with all sub pages) to any position in the navigation tree, even to other page collections within the publishing app. 
 
-On this page, to move a page within the same level is described. For information on moving a node in the navigation tree, see: :doc:`Edit Page Navigation </pages/edit-page-navigation/index>`
-
+Move a page on the same level
+******************************
 Do the following to move a page within the same level:
 
 1. Open the page in Design mode.
@@ -28,4 +28,21 @@ If you're already editing the page or the navigation won't open automatically, y
 .. image:: move-page-traingles-new2.png
 
 4. Save a draft or Publish when you're done.
+
+Move a whole node
+******************
+The option "Move Node" can be used for moving a single page or a page with all it's sub pages, aynwhere within the publishing app.
+
+1. Select the node you want to move.
+2. Open the navigation tree (if it's not already open) and select "Move Node".
+
+.. image:: select-move-node-new3.png
+
+3. Navigate to the page where the selected page(s) will be placed as a sub navigation.
+
+.. image:: navigate-node-new3.png
+
+4. Click "Save".
+
+The page(s) are now moved to the new location. 
 
