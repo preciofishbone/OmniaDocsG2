@@ -20,6 +20,7 @@ In this part of the documentation you will find information concerning how to wo
    publish-page-changes/index
    version-history/index
    hide-page/index
+   add-link-navigation/index
    page-approval/index
    edit-page-navigation/index
    edit-permissions/index
