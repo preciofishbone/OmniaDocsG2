@@ -1,25 +1,6 @@
-Edit page navigation
+Edit navigation
 ===========================================
 
-If needed you can do a number of changes to page navigation. You must have entered Edit mode to be able to do this.
-
-Create Link
-****************
-Using this option you can add a link to the navigation, to anything you can reach with a link.  
-
-1. Select the page the link will be placed under (in the navigation).
-2. Open the menu and select "Create link".
-
-.. image:: navigation-add-link-new2.png
-
-The Add link general asset is opened and you use it to create the link. 
-
-.. image:: add-link-asset-new2.png
-
-See this page for more information (but note that you can only create a Custom link here): :doc:`Add link </general-assets/add-link/index>`
-
-Edit navigation
-****************
 Using this option you can change the title and decide if the node should be present in the Mega Menu and/or Current Navigation.
 
 1. Select the node in the navigation to edit.
@@ -41,7 +22,8 @@ For the other options available in the page navigation menu, see:
 
 + :doc:`Create a page </pages/create-page/index>`
 + :doc:`Delete a page </pages/delete-page/index>`
-+ (link to add) :doc:`Copy a page </pages/copy-page/index>`
++ :doc:`Copy a page </pages/copy-page/index>`
 + :doc:`Move one or several pages </pages/move-page/index>`
 + :doc:`Hide one or several pages </pages/move-page/index>`
++ :doc:`Add a link to the navigation tree </pages/add-link-navigation/index>`
 
