@@ -1,4 +1,4 @@
-Hide one or several pages
+Hide one or more pages
 ==============================
 
 Using this option you can hide a page, draft or published, or a whole section of main page and sub pages. Even a page that has been published for a while, with any number of versions, can be hidden.  
@@ -63,12 +63,4 @@ If the page has sub pages (that also will be shown now), you are made aware of t
 .. image:: unhide-show-message-several.png
 
 3. Click OK to show the page with all sub pages (drafts remain drafts of course).
-
-
-
-
-
-
-
-
 
