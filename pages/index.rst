@@ -9,6 +9,7 @@ In this part of the documentation you will find information concerning how to wo
 
    create-page/index
    move-page/index
+   copy-page/index
    delete-page/index
    reusable-content/index
    automatic-page-creation/index
