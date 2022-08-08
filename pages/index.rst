@@ -8,20 +8,20 @@ In this part of the documentation you will find information concerning how to wo
    :titlesonly:
 
    create-page/index
-   move-page/index
-   copy-page/index
-   delete-page/index
-   reusable-content/index
-   automatic-page-creation/index
    edit-page/index
    edit-page-variations/index
+   move-page/index
+   copy-page/index
+   hide-page/index
+   delete-page/index
    invite-co-authors/index
    language-versions-of-a-page/index
    publish-page-changes/index
+   reusable-content/index
+   automatic-page-creation/index
    version-history/index
-   hide-page/index
-   add-link-navigation/index
    page-approval/index
+   add-link-navigation/index
    edit-page-navigation/index
    edit-permissions/index
    page-types/index
