@@ -1,5 +1,5 @@
-Hide a page
-==============
+Hide one or several pages
+==============================
 
 Using this option you can hide a page, draft or published, or a whole section of main page and sub pages. Even a page that has been published for a while, with any number of versions, can be hidden.  
 
