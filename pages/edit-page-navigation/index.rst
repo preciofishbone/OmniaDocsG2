@@ -37,20 +37,11 @@ Here you can do the following:
 + **Show in Current Navigation**: Per default the navigation node is shown in the Current Navigation (Left Navigation). Deselect if you don't want to show it there.
 + **Open in New Windows**: Select this option if the link should be opened in a new browser window.
 
-Move node
-***********
-Using this option you can move one or more pages anywhere in the navigation, even to other page collections within the publishing app. If you select a node with sub pages, all levels of pages below the one you select are moved.
+For the other options available in the page navigation menu, see:
 
-1. Select the main page.
-2. Open the menu and select "Move Node".
-
-.. image:: select-move-node-new2.png
-
-3. Navigate to the page where the selected pages will be placed as a sub navigation.
-
-.. image:: navigate-node-new2.png
-
-4. Click "Save".
-
-The main page and all sub pages (all levels) are now moved to the new location. 
++ :doc:`Create a page </pages/create-page/index>`
++ :doc:`Delete a page </pages/delete-page/index>`
++ (link to add) :doc:`Copy a page </pages/copy-page/index>`
++ :doc:`Move one or several pages </pages/move-page/index>`
++ :doc:`Hide one or several pages </pages/move-page/index>`
 
