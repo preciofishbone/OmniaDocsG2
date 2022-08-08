@@ -1,7 +1,7 @@
-Pages
+Pages and page navigation
 ===========================================
 
-In this part of the documentation you will find information concerning how to work with pages.
+In this part of the documentation you will find information concerning how to work with pages and with the navigation tree.
 
 
 .. toctree::
