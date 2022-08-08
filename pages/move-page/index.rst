@@ -1,4 +1,4 @@
-Move a page or a whole node
+Move one or several pages
 ===========================================
 
 You can always easily move a page to another position on the same level (within the parent node). By using the navigation tree, you can move a node (one page or a page with all sub pages) to any position in the navigation tree, even to other page collections within the publishing app. 
