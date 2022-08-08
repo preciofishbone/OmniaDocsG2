@@ -9,13 +9,13 @@ In this part of the documentation you will find information concerning how to wo
 
    create-page/index
    edit-page/index
-   edit-page-variations/index
    move-page/index
    copy-page/index
    hide-page/index
    delete-page/index
    invite-co-authors/index
    language-versions-of-a-page/index
+   edit-page-variations/index
    publish-page-changes/index
    reusable-content/index
    automatic-page-creation/index
