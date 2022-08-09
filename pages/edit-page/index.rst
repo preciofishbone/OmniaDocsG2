@@ -102,7 +102,7 @@ Do the following, if you need to change the Page Type:
 
 .. image:: change-page-type-list-new.png
 
-Page Types can be Tenant, meaning they are managed centrally in the Tenant settings, or local, meaning the apply to this Page Collection only. For more info about Page Types, see:
+Page Types can be Tenant Page Types, meaning they are managed centrally in the Tenant settings, or local, meaning they apply to this Page Collection only. For more info about Page Types, see:
 
 + :doc:`Page Types </pages/page-types/index>`
 + :doc:`Tenant Page Types </admin-settings/tenant-settings/webcontent-managament/page-types/index>`
