@@ -9,7 +9,7 @@ For more information about the settings, see: :doc:`Page Collections </pages/pag
 
 This is how it's done:
 
-1. Edit the page in question.
+1. Edit the page.
 2. Open the menu and select INVITE CO-AUTHOR.
 
 .. image:: co-author-menu-select.png
