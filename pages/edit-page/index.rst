@@ -65,11 +65,11 @@ If settings for the block allow it, it may be possible to unlock a block. It it'
 
 .. image:: locked-block-unlock.png
 
-When tou click the icon, the following is shown:
+When you click the icon, the following is shown:
 
 .. image:: locked-block-unlock-message.png
 
-As the message states, if you unlock a locked block, the inheritance is broken, meaning the settings you do for the block are valid for this page only.
+As the message states, if you unlock a locked block, the inheritance is broken, meaning the settings you do for the block now are valid for this page only.
 
 Page Style
 *************
