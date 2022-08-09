@@ -26,7 +26,7 @@ Here's how to delete a page:
 
 As an alternative, you can use DELETE in the menu in the navigation tree. This option is available all the time (even when you are editing the page).
 
-.. image:: delete-page-menu-new.png
+.. image:: delete-page-menu-new2.png
 
 When select delete, something like the following is shown:
 
