@@ -12,7 +12,7 @@ This is how it's done:
 1. Edit the page.
 2. Open the menu and select INVITE CO-AUTHOR.
 
-.. image:: co-author-menu-select.png
+.. image:: co-author-menu-select-new.png
 
 3. Add co-author(s).
 
