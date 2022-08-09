@@ -51,7 +51,7 @@ To edit the blocks, that is, to add and delete blocks on the page, and to work w
 
 .. image:: enter-design-mode-new2.png
 
-How to work with blocks is described on this page: :doc:`Working with blocks </blocks/working-with-blocks/index>`
+How to work with blocks is described on this page: :doc:`Working with blocks on pages </blocks/working-with-blocks/index>`
 
 Default blocks
 ***************
