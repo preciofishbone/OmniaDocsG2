@@ -1,3 +1,29 @@
+6.11
+========================================
+
+
+6.10.7
+========================================
+(6.10.7 / Workplace 6.10.4 / WCM 6.10.7 / MS 6.10.4)
+
+- Fixed an issue causing some pages to not show in the page rollup (#139785, #139776, #139726, #139733, #139724).
+- Increased the upload file size limit for document properties on pages.
+- Performance improvements to the create page flow (#139665).
+- Performance improvements to the media picker (#139552).
+- Corrected link in the teamwork approval email. (#139607).
+- Corrected an issue that would cause process approval tasks to sometimes not load correctly (#139346, #139347).
+- The admin page for teamwork now has the correct links to the apps (#139352).
+- Corrected an issue with term driven approval in ODM (#139462).
+- Updates to routing in SPFx to align with recent changes from MS (#139472).
+- Fixed an issue in the page rollup calendar view related to time zones.
+- Improved machine translation for complex content (#139306).
+- Filters using taxonomy properties now work correctly in the teamwork rollup (#139596).
+- Corrected an issue the yammer comment integration when login name and email are different.
+- Corrected an issue in the create document wizard causing suggested sites to not work properly (#139727, #139681).
+
+
+
+
 6.10
 ========================================
 
