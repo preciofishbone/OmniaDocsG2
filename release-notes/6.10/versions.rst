@@ -20,8 +20,10 @@
 - Filters using taxonomy properties now work correctly in the teamwork rollup (#139596).
 - Corrected an issue the yammer comment integration when login name and email are different.
 - Corrected an issue in the create document wizard causing suggested sites to not work properly (#139727, #139681).
-
-
+- The advanced search button in quick search now works as expected when no search has been made (#139242).
+- Corrected several dialog theme issues.
+- The link picker now works correctly when picking images as a document.
+- Fixed an issue where a page rollup would not allow fixed values to be set in the query (#138609).
 
 
 6.10
