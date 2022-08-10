@@ -1,6 +1,13 @@
 6.11
 ========================================
 
+- Publishing channels can now be grouped into categories. 
+- It is now possible to search in the Admin Channel UI.
+- The Org tree block and people card display can now be filtered to exclude users based on a property. (#136830)
+- Channel approval emails are now sent on saving the page, regardless if the page is published or not.
+- Document links can now be configured to open directly in app on mobile.
+- A Channel rollup block is now available for easier approvals of pages in channels.
+- Related processes can now be shown in the document rollup.
 
 6.10.7
 ========================================
