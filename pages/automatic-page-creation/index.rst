@@ -17,11 +17,11 @@ Settings
 *********
 The settings are available here, in the Page Collection Settings:
 
-.. image:: automatic-page-1.png
+.. image:: automatic-page-1-new.png
 
 Click the plus and the following settings becomes available:
 
-.. image:: automatic-page-2.png
+.. image:: automatic-page-2-new.png
 
 (Not all options are shown in the image, but are listed below.)
 
