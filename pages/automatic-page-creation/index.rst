@@ -56,7 +56,7 @@ Here's an example of mapping you have to do:
 
 In this example, the target Page Collection has a number variations set up. You have to map variations from the source page to the variations in the target page. If there are more (possible) variations for the source page, it does not matter. In this example there are four (possible) variations for the source page, and some of them are the same as for the target page. The mapping can then look like this:
 
-.. image:: automatic-page-mapped-example-1-new.png
+.. image:: automatic-page-mapped-example-1-new2.png
 
 Only Create If
 ---------------
@@ -66,7 +66,7 @@ If you select this option, you must setup one or more rules:
 
 Click ADD to set the first rule. The first step, when creating a rule, is to select a property.
 
-.. image:: automatic-page-4-new.png
+.. image:: automatic-page-4-new2.png
 
 Here's a very simple example. Pages should only be copied if they are created by Anna Karlsson:
 
