@@ -13,7 +13,7 @@ Do the following to see Version History:
 
 Something like this is shown:
 
-.. image:: page-version-history-list-new2-new.png
+.. image:: page-version-history-list-new3.png
 
 Published editions are noted with an integer, work in progress with a decimal. In the image above 3.0 is a published version, while 3.1 is a work in progress, meaning that the page is being edited. Changes have been saved but not yet published. 
 
