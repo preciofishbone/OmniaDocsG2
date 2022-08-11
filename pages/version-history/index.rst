@@ -17,7 +17,7 @@ Something like this is shown:
 
 Published editions are noted with an integer, work in progress with a decimal. In the image above 3.0 is a published version, while 3.1 is a work in progress, meaning that the page is being edited. Changes have been saved but not yet published. 
 
-To check a version of the page, click the version number. The version being shown are indicated by a colored dot. You can see when the version was saved (if it's a work in progess, or published, if it's a published version.
+To check a version of the page, click the version number. The version being shown are indicated by a dot in another color. You can see when the version was saved, if it's a work in progess, or published, if it's a published version.
 
 .. image:: page-version-history-editor-new2.png
 
