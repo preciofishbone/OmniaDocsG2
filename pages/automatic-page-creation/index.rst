@@ -1,6 +1,8 @@
 Automatic Page Creation
 =========================
 
+**This page is being updated. Will be finsihes soon**.
+
 An administrator can setup rules in a Page Collection for automatic page creation.
 
 It works this way: Whenever a page is published in the Page Collection and match a specific rule, a copy of the page will be published to another Page Collection in the tenant. To be more specific; it is the information contained in the properties that are copied, not the whole page as it is. Therefore the page in the target Page Collection can look different depending on available Page Types. 
@@ -26,20 +28,17 @@ Click the plus and the following settings becomes available:
 + **Name**: Add name for the rule.
 + **Page Creation Rule**: If pages in this Page Collection always should be copied, select "Always Create". If pages should be copied only when certain prerequisites are met, select "Only Create If". See below for more information about this.
 + **Page Creation Info**: Select the Publishing, App, Page Collection to copy to, and choose the Page Type to be used.
-+ **Reusable content**: If reusable content in the source page should be connected to the target page, select this option. If this option is not selected, the content in the copy will have no connection to the source. For more information, see below.
++ **Enable Auto Publish**: If this option is selected a new page is always published automatically. It’s only applicable when a new page is created, not when it’s updated.
++ **Initial Properties**: Choose the source of the initial properties; "Enable Resuse Conten" or "Copy property to page on creation". Then select the propertie(s) to get this from. For more information, see below.
 + **Mapped Variations**: If the source page and/or the target page uses variations, you have to map variations, see below.
 
 Don't forget to save when you're done.
 
 When editing a Automatic Page Creation rule, all settings described above are available.
 
-Reusable content
-------------------
-When you activate Reusable Content, the following is shown:
-
-.. image:: utomatic-page-reusable.png
-
-Select a property that should have a Reusable content connection in the target page, and click ADD.
+Setuo for Reusable content
+------------------------------
+When you activate Reusable Content, select a property that should have a Reusable content connection in the target page, and click ADD.
 
 Add all Reusable content properties this way.
 
@@ -80,12 +79,4 @@ Here's a very simple example. Pages should only be copied if they are created by
 If needed, click ADD again and set the next rule. 
 
 Note that, in case you set up several rules here, all rules must be met for a copy to be created. It's an AND relation between rules. If it is possible to select multiple values for a property within a rule, it's an OR relation between values. 
-
-
-
-
-
-
-
-
 
