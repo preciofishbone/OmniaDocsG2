@@ -29,7 +29,7 @@ Click the plus and the following settings becomes available:
 + **Page Creation Rule**: If pages in this Page Collection always should be copied, select "Always Create". If pages should be copied only when certain prerequisites are met, select "Only Create If". See below for more information about this.
 + **Page Creation Info**: Select the Publishing, App, Page Collection to copy to, and choose the Page Type to be used.
 + **Enable Auto Publish**: If this option is selected a new page is always published automatically. It’s only applicable when a new page is created, not when it’s updated.
-+ **Initial Properties**: Choose the source of the initial properties; "Enable Resuse Conten" or "Copy property to page on creation". Then select the propertie(s) to get this from. For more information, see below.
++ **Initial Properties**: Choose the source of the initial properties; "Enable Reuse Conten" or "Copy property to page on creation". Then select the property/propeties to get this from. For more information, see below.
 + **Mapped Variations**: If the source page and/or the target page uses variations, you have to map variations, see below.
 
 Don't forget to save when you're done.
