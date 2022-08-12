@@ -106,17 +106,17 @@ You can add as many Targeting Properties for a Variation as is needed, this way 
 
 Note that the targeting settings also are shown in the Variations list, for example:
 
-.. image:: page-variation-example-new6.png
+.. image:: page-variation-example-new7.png
 
 Edit contents of a Page Variation
 --------------------------------------
 When more than one variation of the page exists, an editor can select variation to work with in the list, in the lower left corner:
 
-.. image:: select-variation-new3.png
+.. image:: select-variation-new4.png
 
 If no variation exists yet for the page, the editor can select to create one.
 
-.. image:: variation-create-page-new.png
+.. image:: variation-create-page-new2.png
 
 Editing a Page Variation works exactly the same way as editing the default page.
 
