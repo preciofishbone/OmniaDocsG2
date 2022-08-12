@@ -9,13 +9,13 @@ Do the following:
 2. Select the page where you need to edit permissions.
 3. Open the menu and select "Permissions".
 
-.. image:: page-select-permissions.png
+.. image:: page-select-permissions-new.png
 
 Omnia works with inheritance, just as Sharepoint does, so the first thing you have to do is:
 
 4. Click to break permission inheritance.
 
-.. image:: page-select-permissions-inheritance.png
+.. image:: page-select-permissions-inheritance-new.png
 
 You can now set the following permissions, for this page and all sub pages:
 
@@ -28,13 +28,13 @@ Single users, Security groups and Microsoft 365 groups can be added here (In Omn
 
 5. To add an Editor or an Author, just open the list en select the user.
 
-.. image:: page-permissions-select-user.png
+.. image:: page-permissions-select-user-new.png
 
 You can also search for users the same way as in other people lists.
 
 6. To remove a user from one of the list, click the x. 
 
-.. image:: page-permissions-remove-user.png
+.. image:: page-permissions-remove-user-new.png
 
 7. Click "SAVE" when you're done. (If you don't want to save, just close the window to ignore the changes).
 
