@@ -124,18 +124,26 @@ Statistics
 *************
 For more advanced statistics in Omnia, this is the place to add the scripts you get from your statistics provider, for example: 
 
-.. image:: page-settings-statistics-new3.png
+.. image:: page-settings-statistics-new4.png
 
 Don't forget to save. The "Save" button is located in the lower right corner.
 
-Archive
-*********
-On this tab, you can set rules for termination of archived (deleted) pages in the Publishing App. Termination means those pages can no longer be retrived from the archive. Regardless of if you have this option on or not, pages can always be terminated manually in the archive, as long as they are present in the archive.
+Retention
+***********
+Here you can edit the settings for automatic termination, for the pages in this app. 
 
-Here's an example of such a setting:
+.. image:: page-settings-retention.png
 
-.. image:: publishing-app-settings-archive-new.png
+Advanced
+**********
+Here you can edit these settings:
 
-If you don't want automatic termination, just keep this option deselected.
+.. image:: page-settings-advanced.png
 
-Important note! The archiving and termination settings are valid for Omnia. If a page truly must be removed from your system, settings for dust bins in Sharepoint may also need to be edited.
++ **Default Page Collection**: The default Page Collection for the page can be set here.
++ **Allow reuse content**: If it should be allowed to resuse content within the Publisging App, activate "Enable Reuse Content". For more information about how to reuse content, see: :doc:`Reusable Content </pages/reusable-content/index>`
++ **Connected Sharepoint Site**: The address to the Sharepoint Site is shown here.
++ **Documents**: (A description will be added soon).
++ **Contact Property**: Select the property used to store information about the user being page contact.
++ **Review Date Property**: Select the property used to store information about review date for pages.
+
