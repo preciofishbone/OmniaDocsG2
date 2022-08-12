@@ -1,35 +1,31 @@
 Publishing App settings
 ===========================================
 
+**This page is being edited. Will be finished soon**:
+
 A number of Publishing App settings are available. You have to be Publishing App administrator to use them.
 
 Open the Publishing App settings by clicking here:
 
-.. image:: page-settings-new.png
+.. image:: page-settings-new2.png
 
 General 
 *********
-Set the following here:
+Here you can set what is shown for your pubishing app in listings:
 
-.. image:: page-settings-general-new5.png
+.. image:: page-settings-general-new7.png
 
-+ **Default Page Collection**: The default Page Collection for the page can be set here.
-+ **Allow reuse content**: If it should be allowed to resuse content within the Publisging App, activate "Enable Reuse Content". For more information about how to reuse content, see: :doc:`Reusable Content </pages/reusable-content/index>`
-+ **Connected Sharepoint Site**: The address to the Sharepoint Site is shown here.
-
-Set the following, needed for page reports to work:
-
-+ **Contact Property**: Select the property used to store information about the user being page contact.
-+ **Review Date Property**: Select the property used to store information about review date for pages.
+You use the Media Picker to add or change the image. For more information on how to use this asset, see: :doc:`Media Picker </general-assets/media-picker/index>`
 
 Permissions
 ************
 Use these settings to Edit permissions in the Publishing App. 
 
-.. image:: page-settings-permissions-new4.png
+.. image:: page-settings-permissions-new5.png
 
-+ **Allow Mobile Login**: This setting is intended to offer login to certain parts of Omnia for first line workers, partners and similar. The user needs the Kaizala app and a viable account. If you see the label "Kaizala login" somewhere, it's the sam thing. **Note!** Mobile Login/Kaizala login is not available in Omnia on-prem.
++ **Allow Mobile Login**: This setting is intended to offer login to certain parts of Omnia for first line workers, partners and similar. The user needs the Kaizala app and a viable account. If you see the label "Kaizala login" somewhere, it's the same thing. **Note!** Mobile Login/Kaizala login is not available in Omnia on-prem.
 + **Administrators**: Add and remove Publishing App administrators here as needed.
++ **Contributors**: This permissions settings is needed if colleagues should be able to add comments to pages.
 + **Resource Readers**: Here you set the general Read permission for the Publishing App, needed for users to be able to read pages.
 
 Single users, Security groups and Microsoft 365 groups can be added here (In Omnia on-prem, Microsoft 365 groups can't be used).
@@ -46,13 +42,13 @@ A variation can also be set up for Automatic Machine Translation, see below. (No
 
 It's also possible to add one variation author for each variation.
 
-.. image:: page-settings-variations-new5.png
+.. image:: page-settings-variations-new6.png
 
 You see the variations that has been set up so far, with information about for example targeting. A "Variaton" in the tenant's default language is also listed here - note the label "Default" in the image above. For all pages, a variation with the default language must always exist. That is what is added when a page is created the first time.
 
 To edit the settings for a variation, click the pen. To delete a variation, click the dust bin.
 
-.. image:: page-settings-variations-edit-delete-new2.png
+.. image:: page-settings-variations-edit-delete-new3.png
 
 When you edit a variation, the same settings as when you create a new variation are available, see below.
 
@@ -60,11 +56,11 @@ Create a new variation
 -----------------------
 Note that you can use Variations for a lot of implementations, not just languages, even if language versions of a page probably is the most common.
 
-Do the following to create a new variation:
+Do the following to create a new variation (you have to scroll down to the end of the list):
 
 1. Click ADD VARIATION.
 
-.. image:: click-add-variation-new.png
+.. image:: click-add-variation-new2.png
 
 2. Use the following settings:
 
@@ -110,7 +106,7 @@ You can add as many Targeting Properties for a Variation as is needed, this way 
 
 Note that the targeting settings also are shown in the Variations list, for example:
 
-.. image:: page-variation-example-new5.png
+.. image:: page-variation-example-new6.png
 
 Edit contents of a Page Variation
 --------------------------------------
