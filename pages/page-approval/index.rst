@@ -1,21 +1,23 @@
 Approve pages
 ===========================================
 
+**This page is being edited. Will be finished soon**
+
 Omnia can be set up for approval of pages, meaning someone must approve publication of a new page or edits to a page. Approval is set up on Page Collection level (meaning you have to be Page Collection administrator to do that).
 
 The label for the Publish button will indicate if approval is required or not. If approval is not set up, the label will simply be "Publish":
 
-.. image:: publish-button.png
+.. image:: publish-button-publish.png
 
 If approval is required the label for the button is instead "Send for approval":
 
-.. image:: send-for-approval-button.png
+.. image:: send-for-approval-button-send.png
 
 Setting up approval
 *********************
 Do the following to set up approval:
 
-1. Go to the Page Collection settings in question (see the sections about setting up approval on this page: :doc:`Page Collections </pages/page-collections/index>`). 
+1. Go to the Page Collection settings in question (see the sections about settings for approval on this page: :doc:`Page Collections </pages/page-collections/index>`). 
 2. Select "Settings".
 3. Select "Enable Approval" and choose how approval will be executed.
 
@@ -26,7 +28,7 @@ When an editor has created a new page or edited a page, these are the simple ste
 1. Click "Send for approval".
 2. Add a comment about what has been done, if needed.
 
-.. image:: send-approval-comments-new.png
+.. image:: send-approval-comments-new2.png
 
 3. Click "Send".
 
