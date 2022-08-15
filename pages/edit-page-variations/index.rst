@@ -5,23 +5,23 @@ For each Varation a specific Variation Author can be set up, see below. If not, 
 
 When a page variation exists for a page, omnia keeps track of changes on the main page. When the main page has been edited, compare icons are displayed to notify the author about where changes has been made, when a varation is being edited.
 
-.. image:: edit-variations-1.png
+.. image:: edit-variations-1-new.png
 
 To edit the variation according to the changes, click the compare icon.
 
 Something like the following is shown:
 
-.. image:: edit-variations-2.png
+.. image:: edit-variations-2-new.png
 
 To the left you can see the text on the main page, to the right the text for the variation you're editing.
 
 If you would like to see what has been changed, click this icon:
 
-.. image:: edit-variations-3.png
+.. image:: edit-variations-3-new.png
 
 Now you can clearly see what's been altered, for example:
 
-.. image:: edit-variations-4.png
+.. image:: edit-variations-4-new.png
 
 **Note!** The comparison is made between the two last versions of the main page. If you haven't edited the variation for a while there can be more changes and they are not selected here - just the last changes are shown.
 
@@ -29,11 +29,11 @@ You can of course edit the variation manually by typing the text in the right fi
 
 Click this button to machine translate all text in the left field.
 
-.. image:: edit-variations-5.png
+.. image:: edit-variations-5-new.png
 
 and select to which language you want the translation to be made:
 
-.. image:: edit-variations-6.png
+.. image:: edit-variations-6-new.png
 
 The list displays all languages that has been set up in Omnia Admin.
 
@@ -41,9 +41,9 @@ The list displays all languages that has been set up in Omnia Admin.
 
 If there is a lot of text, a scroll bar is available. Sometimes it can be handy to have separate scroll bars in each field. If you want that, click "Scroll".
 
-.. image:: edit-variations-7.png
+.. image:: edit-variations-7-new.png
 
-When you're finished, just close the compare window. You then save, or discard, changes the normal way.
+When you're finished, just close the compare window. You then save, or discard, changes and publish, the normal way.
 
 Variation author
 *****************
@@ -53,7 +53,7 @@ Note that there can be only one variation author for each variation, regardless 
 
 The variation author is notified through e-mail when a main page, with a variation of the variation authors type, is updated.
 
-The variation author needs the same permisions as the author of the main page, to be able to edit the variation for a page.
+The variation author needs the same permisions as the author of the main page, to be able to edit the variations for a page.
 
 Variations and Reusable Content
 *********************************
@@ -64,21 +64,22 @@ Delete variations
 You can delete a variation even if the main page should not be deleted. (If the main page is deleted, any variations for that page are always deleted as well.)
 
 1. Open the variation.
-2. Save or Discard changes, ir there are changes that has not been saved yet (or the DELETE button will not be available).
+2. Save or Discard changes, if there are changes that has not been saved yet (or the DELETE button will not be available).
 3. Click DELETE.
 
-.. image:: archive-variation-delete.png
+.. image:: archive-variation-delete-new.png
+
+The delete option is also always available in the navigation tree menu.
+
+.. image:: archive-variation-delete-navtree.png
 
 Something like the following is shown:
 
-.. image:: archive-variation-new.png
+.. image:: archive-variation-new2.png
 
 4. Type a comment and click OK.
 
 A variation can be restored or terminated the same way as pages in the archive.
 
-.. image:: archive-variation-archive.png
-
 More information about deleting, restoring and terminating of pages is found here: :doc:`Delete a page </pages/delete-page/index>`
-
 
