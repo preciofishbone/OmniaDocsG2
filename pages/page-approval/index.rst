@@ -47,19 +47,17 @@ To approve or reject publication of a page, do the following:
 1. Click the link in the "Title" column, to go to the page.
 2. Check the new page for edits and decide what to do:
 
-.. image:: approva-approve-reject-new.png
+.. image:: approva-approve-reject-new2.png
 
 3. If you Click "Approve" the page is published. 
 
-If you click "Reject" the page is not published and you add a message to the editor:
+If you click REJECT the page is not published and you add a message to the editor:
 
-.. image:: aproval-reject.png
+.. image:: aproval-reject-new.png
 
 4. Click "Send" to send the message to the editor.
 
 When the editor has done the changes you have pointed out, the editor sends the page for approval once more the same way.
 
 The option "Cancel approval" cancels the approval process and removes the page from the Pending Approval list.
-
-
 
