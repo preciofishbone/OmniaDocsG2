@@ -73,11 +73,11 @@ Two settings are needed for the reports to work.
 
 A property for page contact has to have been set up in Omnia Admin, and a property for review date, if review date will be used for pages.
 
-Go to the Publishing App Settings and the General tab.
+Go to the Publishing App Settings and the Advanced tab.
 
-.. image:: reports-settings-new3.png
+.. image:: reports-settings-new4.png
 
 The correct properties must be selected here for the reports to work:
 
-.. image:: reports-settings-lists-new3.png
+.. image:: reports-settings-lists-new4.png
 
