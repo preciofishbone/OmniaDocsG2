@@ -30,7 +30,5 @@ To edit a page variation (if Automatic Machine Translation is not used), for exa
 
 4. Save and publish as ususal.
 
-For more information, see:
-
-+ :doc:`Edit page variations </pages/edit-page-variations/index>`
+For more information, see: :doc:`Edit page variations </pages/edit-page-variations/index>`
 
