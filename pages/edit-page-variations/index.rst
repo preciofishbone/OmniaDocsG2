@@ -71,7 +71,7 @@ You can delete a variation even if the main page should not be deleted. (If the 
 
 The delete option is also always available in the navigation tree menu.
 
-.. image:: archive-variation-delete-navtree.png
+.. image:: archive-variation-delete-navtree-new.png
 
 Something like the following is shown:
 
@@ -81,5 +81,5 @@ Something like the following is shown:
 
 A variation can be restored or terminated the same way as pages in the archive.
 
-More information about deleting, restoring and terminating of pages is found here: :doc:`Delete a page </pages/delete-page/index>`
+More information about deleting, restoring and terminating of pages (which os fully applicable on variations) is found here: :doc:`Delete a page </pages/delete-page/index>`
 
