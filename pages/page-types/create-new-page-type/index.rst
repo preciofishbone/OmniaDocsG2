@@ -13,7 +13,7 @@ Note that if your organization works with Tenant Page Types you first have to co
 
 .. image:: page-types-click-create-new.png
 
-3. Now start to build the the base layout by adding sections. Note that there are a number of Layout Templates you can use as a starting point.
+3. Now start to build the the base layout by adding sections. Note that there are a number of Layout Templates you can use as a starting point (see to the right).
 
 .. image:: page-types-add-sectionnew.png
 
