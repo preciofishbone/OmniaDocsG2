@@ -13,6 +13,8 @@ If needed, you can create a section in a column and then select a layout for the
 
 .. image:: column-layout-click-plus-new.png
 
+Note that it's the same dialog that both sectiuons and blocks you can add to a page or a page layout. The sections are found under "Layout".
+
 2. Open the Layout list.
 
 .. image:: column-layout-list-new.png
