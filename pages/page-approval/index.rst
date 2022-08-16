@@ -18,7 +18,7 @@ Setting up approval
 Do the following to set up approval:
 
 1. Go to the Page Collection settings in question (see the sections about settings for approval on this page: :doc:`Page Collections </pages/page-collections/index>`). 
-2. Select "Settings".
+2. Select SETTINGS.
 3. Select "Enable Approval" and choose how approval will be executed.
 
 Sending for approval
@@ -30,7 +30,7 @@ When an editor has created a new page or edited a page, these are the simple ste
 
 .. image:: send-approval-comments-new2.png
 
-3. Click "Send".
+3. Click ¨SEND.
 
 An e-mail is now sent to the approver(s) and the request is also placed in the Pending Approval list.
 
@@ -49,15 +49,15 @@ To approve or reject publication of a page, do the following:
 
 .. image:: approva-approve-reject-new2.png
 
-3. If you Click "Approve" the page is published. 
+3. If you Click APPROVE the page is published. 
 
 If you click REJECT the page is not published and you add a message to the editor:
 
 .. image:: aproval-reject-new.png
 
-4. Click "Send" to send the message to the editor.
+4. Click SEND to send the message to the editor.
 
 When the editor has done the changes you have pointed out, the editor sends the page for approval once more the same way.
 
-The option "Cancel approval" cancels the approval process and removes the page from the Pending Approval list.
+The option CANCEL APPROVAL cancels the approval process and removes the page from the Pending Approval list.
 
