@@ -31,6 +31,46 @@ If needed, you can even go a step further and create a new section in one of the
 
 **A tip!** The Stepper section is useful when organizing information in steps. It's also used with the new Forms functionality. See below for more information.
 
+Using the Stepper section
+***************************
+A Stepper section is one of the sections you can use.
+
+.. image:: stepper-section.png
+
+A Stepper section makes it possible to organize content in a layout in a wizard-like style. It is possible to configure the Stepper to allow for an author to add new steps in Write mode.
+
+.. image:: working-with-stepper.png
+
+Here's an example where a Stepper section is used:
+
+.. image:: working-with-stepper-example.png
+
+All settings for sections are available for the Stepper section.
+
+Decide to show a section on a device or not
+**********************************************
+When you're working on a section you can select to show it on different devices or not.
+
+Click this icon:
+
+.. image:: device-support-section-new.png
+
+You can now use the following settings:
+
+.. image:: select-device-section-new.png
+
+To hide a section for a device, do the following:
+
+1. Select the device.
+2. Click the pen for Visibility.
+3. Select Hide Section.
+
+To add som padding for the section, for a specific device, do the following:
+
+1. Select the device.
+2. Click the pen for Section Padding.
+3. Set the padding.
+
 Delete a section
 *****************
 If you need to delete a section, here's how to do it:
@@ -120,44 +160,4 @@ The following options are available here:
 + **Lock can be edited**: If this option is selected, editors (Design permission) can unlock or lock the settings for the block - and if unlocked, can edit the block's settings.
 
 **Important Note!** Editing contents of a block works as before; content can be edited, if applicable, using Write mode.
-
-Decide to show a section on a device or not
-**********************************************
-When you're working on a section you can select to show it on different devices or not.
-
-Click this icon:
-
-.. image:: device-support-section-new.png
-
-You can now use the following settings:
-
-.. image:: select-device-section-new.png
-
-To hide a section for a device, do the following:
-
-1. Select the device.
-2. Click the pen for Visibility.
-3. Select Hide Section.
-
-To add som padding for the section, for a specific device, do the following:
-
-1. Select the device.
-2. Click the pen for Section Padding.
-3. Set the padding.
-
-Using the Stepper section
-***************************
-A Stepper section is also available.
-
-.. image:: stepper-section.png
-
-A Stepper section makes it possible to organize content in a layout in a wizard-like style. It is possible to configure the Stepper to allow for an author to add new steps in Write mode.
-
-.. image:: working-with-stepper.png
-
-Here's an example where a Stepper section is used:
-
-.. image:: working-with-stepper-example.png
-
-All settings for sections are available for the Stepper section.
 
