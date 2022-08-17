@@ -1,4 +1,4 @@
-Sections and Blocks in a Page Type
+Sections and Blocks on a Page Type
 =================================================
 
 This describes how to work with Sections and Blocks for a Page Type. You work the same way with Local Page Types and Tenant Page Types.
