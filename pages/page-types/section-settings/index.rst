@@ -134,7 +134,7 @@ Style settings for a Tab section
 -----------------------------------
 If it's a section with tabs, you can set all the common settings, and also:
 
-.. image:: page-types-style-tabs-new4.png
+.. image:: page-types-style-tabs-new4-frame.png
 
 (Not all options are shown in the image, but listed below).
 
