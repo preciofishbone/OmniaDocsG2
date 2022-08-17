@@ -118,7 +118,7 @@ Icons now show where you can add the new section, the same way as when you move 
 
 Copy a section from the clipboard
 -----------------------------------
-THere's also a clipboard available, that can be used to copy sections between pages or page types, see: :doc:`Clipboard for sections and blocks </general-assets/layout-explorer/clipboard-sections-blocks/index>`
+There's also a clipboard available, that can be used to copy sections between pages or page types, see: :doc:`Clipboard for sections and blocks </general-assets/layout-explorer/clipboard-sections-blocks/index>`
 
 Adding blocks to a Section
 ***************************
