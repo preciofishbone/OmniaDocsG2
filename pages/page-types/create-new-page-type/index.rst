@@ -29,8 +29,9 @@ For a description of the section settings, see: :doc:`Section settings </pages/p
 
 .. image:: page-types-blocks.png
 
-For a description of different blocks you can use, see: :doc:`Blocks </pages/blocks/index>`
+For more information on how to use sections and blocks on pages, see: :doc:`Sections and blocks in a Page Type </pages/page-types/working-with-sections-and-blocks/index>`
 
-This page is also useful:
+For information on how to work with blocks, see: :doc:`Working with blocks on pages </blocks/working-with-blocks/index>`
 
-For a description of different blocks you can use, see: :doc:`Sections and blocks in a Page Type </pages/page-types/working-with-sections-and-blocks/index>`
+All blocks you can use are listed here: :doc:`Blocks </blocks/index>`
+
