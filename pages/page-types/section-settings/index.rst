@@ -38,10 +38,11 @@ For a section with tabs, the following can be set:
 
 By clicking the pen, the following can be set for a tab:
 
-.. image:: page-types-tabs-pen-new.png
+.. image:: page-types-tabs-pen-new2.png
 
-+ **Label**: If a label should be shown for the tab, add the label here.
-+ **Tooltip**: If a tooltip should be shwon for the tab, add it here.
++ **Label**: If a label should be shown for the tab, add the label here. You can add a label in any, or all, the tenant languages. Click the flag to change language.
++ **Custom Anchor Name**: ¨Here you can set a custom anchor name, if needed. For more information, see below.
++ **Tooltip**: If a tooltip should be shown for the tab, add it here.
 + **Icon**: First select the "Icon Type" and then select the icon in the list below, if an icon should be shown. (If no icon should be shown, just don't select an icon, it doesn't matter that an Icon Type is selected.)
 
 Set a custom anchor name
@@ -52,7 +53,7 @@ For a section with tabs you can set a custom anchor name for each tab:
 
 .. image:: custom-anchor-name.png
 
-See this page for more information on how to use anchors: 
+See this page for more information on how to use anchors: :doc:`Using anchors </general-assets/using-anchors/index>`
 
 General settings for an Accordion section
 --------------------------------------------
@@ -67,7 +68,7 @@ For an Accordion section, the following can be set:
 By clicking the pen, the following can be set for a panel:
 
 + **Label**: If a label should be shown for the panel, add the label here.
-+ **Tooltip**: If a tooltip should be shwon for the panel, add it here.
++ **Tooltip**: If a tooltip should be shown for the panel, add it here.
 + **Icon**: First select the "Icon Type" and then select the icon in the list below, if an icon should be shown. (If no icon should be shown, just don't select an icon, it doesn't matter that an Icon Type is selected.)
 
 If needed, you can set a custom anchor name for each accordion post, the same way as for a section with tabs, see above.
@@ -91,7 +92,7 @@ Spacing
 ***********
 Here you can set the following:
 
-.. image:: page-types-spacing-new.png
+.. image:: page-types-spacing-new2.png
 
 Available options depends on section type chosen.
 
@@ -106,41 +107,37 @@ Here's an example with "Use Full Height" on:
 
 .. image:: full-height-on.png
 
-And here's the same page with the option off for the left section:
+And here's the same page with the option off for the left section (Upcoming Events):
 
 .. image:: full-height-off.png
 
 Style
 ************
-Available settings for Style depends on section type chosen.
+Available settings for Style can vary depending on section type. The options available for all section types are the following:
 
-Style settings for columns
-------------------------------
-If it's a section with columns, this can be set for Style, for the active section:
-
-.. image:: page-types-style-new2.png
-
-At the bottom, the selected Crop Ratios are listed, for example:
-
-.. image:: page-types-style-crop-ratios.png
+.. image:: page-types-style-new3.png
 
 + **Elevation**: With this setting you can make the content of the section “stand out” from the page. Use the slider to set how much.
 + **Background color**: A default background color for sections are set in Omnia Admin. You can set another background color for this section here, if needed. You can try out RANDOM or set the color using ADD COLOR.
 + **Background image**: Another option is to use an image as background in this section. When you click "Add Image", the Media Picker starts. See this page for more information: :doc:`Media Picker </general-assets/media-picker/index>`
++ **Force Default Scaling**: (A description will be added soon).
 + **Editable in Write Mode**: As Default, Design Mode is needed to edit background image. If it should be possible using Write Mode as well, select this option.
 + **Crop Ratios**: Crop Ratios are set up in Omnia Admin for the Media Picker. Here you can decide which of these should be available for authors to use in this section. To add a Crop Ratio, select it in the list and click the plus. To remove a Crop ratio, click the dust bin. You can also set the order in which the Crop Ratios are shown, by drag and drop.
 
 For more information about Crop Ratios, se this page: :doc:`Media Picker Settings </admin-settings/tenant-settings/settings/media-picker/index>`
 
-Style settings for tabs
---------------------------
-If it's a section with tabs, this can be set for Style, for the active section:
+Style settings for a section with columns
+-------------------------------------------
+Only the common settings, see above.
 
-.. image:: page-types-style-tabs-new.png
+Style settings for a Tab section
+-----------------------------------
+If it's a section with tabs, you can set all the common settings, and also:
+
+.. image:: page-types-style-tabs-new3.png
 
 (Not all options are shown in the image, but listed below).
 
-+ **Tab Type**: You can select "Tab" or "Accordion" as Tab Type.
 + **Vertical**: If the labels for the tabs should be shown vertically, select this option.
 + **Show Active Slider**: If the active tab should be indicated, select this option.
 + **Fill Space**: If the tab labels should fill the available space, either horisontally or vertically, depending on what you have chosen, select this option.
@@ -148,15 +145,12 @@ If it's a section with tabs, this can be set for Style, for the active section:
 + **Icon Alignment**: If you are using an icon you can set Icon Alignment within the available space for the icon.
 + **Custom Size**: If you would like to set minimum height and width for the tabs, select this option, and then use the sliders.
 + **Border Radius**: Use this slider to set the border radius between tabs in the section.
-+ **Color**: Select "Color" for various color settings for the tabs. 
-+ **Collapsed Accordion**: Used for Tab Typ Accordion only. If this option is selected, all accordions will be collapsed when page is loaded.
-+ **Flat Header**: Per default, the tab is slightly elevated. Select this option to make it flat.
 
-Style settings for Accordion
-------------------------------
-If it's an Accordion section, the following Style settings are available for the active section:
+Style settings for Accordion section
+---------------------------------------
+If it's an Accordion section, the following Style settings can be set, in addition to the common ones:
 
-.. image:: page-types-style-accordion.png
+.. image:: page-types-style-accordion-new2.png
 
 (Not all options are shown in the image, but listed below).
 
@@ -165,37 +159,16 @@ Under **General**, the following is available:
 + **Collapsed Accordion**: If this option is selected, all accordions will be collapsed when page is loaded.
 + **Flat Header**: Per default, the tab is slightly elevated. Select this option to make it flat.
 + **Single Select**: When this option is selected, only one accordion can be open at a time. When a user expands an accordion, any other accordion that may be open is closed.
-+ **Elevation**: For an elevated look, use this slider.
-+ **Background color**: Use these two options to set background color: RANDOM and ADD COLOR.
-+ **Acrylic Transparency Effect**: You can try this effect and see a preview in the section. 
-+ **Background**: To select a background image, click ADD IMAGE and use the Media Picker to select image.
-+ **Editable in Write Mode**: if it should be possibe to edit background image in Write mode, select this option. If not, it's only possible in Design mode.
-+ **Page Image Property**: This setting is used for image in rollups. Select the property to get that image from.
-+ **Crop Ratios**:  This setting is used for image in rollups. To add a crop ratio, select it in the list and click the plus. Use the right-most icon to decide the order. To delete a ctop ratio, click the dust bin.
 
 Style settings for Stepper
 ------------------------------
-If it's a Stepper section, the following Style settings are available for the active section:
-
-.. image:: page-types-style-stepper-new.png
-
-(Not all options are shown in the image, but listed below).
-
-Under **General**, the following is available:
-
-+ **Elevation**: For an elevated look, use this slider.
-+ **Background color**: Use these two options to set background color: RANDOM and ADD COLOR.
-+ **Acrylic Transparency Effect**: You can try this effect and see a preview in the section. 
-+ **Background**: To select a background image, click ADD IMAGE and use the Media Picker to select image.
-+ **Editable in Write Mode**: if it should be possibe to edit background image in Write mode, select this option. If not, it's only possible in Design mode.
-+ **Page Image Property**: Select the property to get the background image from, for the section, if applicable.
-+ **Crop Ratios**: To add a crop ratio, select it in the list and click the plus. Use the right-most icon to decide the order. To delete a ctop ratio, click the dust bin.
+For a Stepper section, only the common settings are available, see above.
 
 Effects
 --------
 Additional effects are avilable here, for all section types:
 
-.. image:: sections-effects.png
+.. image:: sections-effects-new.png
 
 Try them and see the effect - a preview is shown in the active section.
 
@@ -213,19 +186,19 @@ Header
 ****************
 Here you can set the following:
 
-.. image:: page-types-settings-header-new.png
+.. image:: page-types-settings-header-new2.png
 
-+ **Title**: If you want a Title to be displayed for the section, add it here. Not mandatory.
++ **Title**: If you want a Title to be displayed for the section, add it here. Not mandatory. You can add a title in any or all the tenant languages. Click the flag to change language.
 + **Icon Type/Icon**: If you would like to use an icon, first select type and then icon from the list.
-+ **Custom Settings**: If you don't want to use the global settings for the business profile, for this section, Select Custom Settings. 
++ **Custom Settings**: If you don't want to use the global settings for the business profile, for this section, Select Custom Settings (selected in the image above). 
 
 The global settings are set in Omnia Admin, see this page: :doc:`Content Header (Business Profile) </admin-settings/business-group-settings/settings/block-title/index>`
 
 When selecting custom settings, the following is available:
 
-.. image:: page-types-settings-header-custom-new3.png
+.. image:: page-types-settings-header-custom-new4.png
 
-This is the same settings as Content Header settings for the Business Profile, see the link above.
+This is the same settings as Content Header settings for the Business Profile, see: :doc:`Content Header Settings (Business Profile) </admin-settings/business-group-settings/settings/block-title/index>`
 
 Targeting
 ***************
