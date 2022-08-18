@@ -27,7 +27,7 @@ To create a new Business Profile, click the plus:
 
 Use the following settings:
 
-.. image:: business-profile-add-new3.ng
+.. image:: business-profile-add-new3.png
 
 + **Title**: Add a Title (name) for the Business Profile here.
 + **Use Custom Home Url**: Select this option to set Custom Home Urls, see below. 
