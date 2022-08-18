@@ -23,7 +23,7 @@ To add a new view, do the following:
 
 5. Set the following:
 
-.. image:: page-view-html-settings-3.png
+.. image:: page-view-html-settings-3-frame.png
 
 + **Delay Time Before scroll (seconds)**: Set the delay time before next scroll.
 + **Scrolling Speed**: Use the slider to set speed of the scroll.
