@@ -120,8 +120,10 @@ Available settings for Style can vary depending on section type. The options ava
 + **Elevation**: With this setting you can make the content of the section “stand out” from the page. Use the slider to set how much.
 + **Background color**: A default background color for sections are set in Omnia Admin. You can set another background color for this section here, if needed. You can try out RANDOM or set the color using ADD COLOR.
 + **Background image**: Another option is to use an image as background in this section. When you click "Add Image", the Media Picker starts. See this page for more information: :doc:`Media Picker </general-assets/media-picker/index>`
-+ **Force Default Scaling**: (A description will be added soon).
 + **Editable in Write Mode**: As Default, Design Mode is needed to edit background image. If it should be possible using Write Mode as well, select this option.
++ **Page Image Property**: Here you can select a property to get the page image from.
++ **Default Scaling**: You can select a default scaling for the images, but this can be changed by an author (Write mode). Possible scalings are set up in Omnia Admin.
++ **Force Default Scaling**: Select this option to make sure images always are scaled using the default scaling set above. If you do, scaling can not be edited using Write mode.
 + **Crop Ratios**: Crop Ratios are set up in Omnia Admin for the Media Picker. Here you can decide which of these should be available for authors to use in this section. To add a Crop Ratio, select it in the list and click the plus. To remove a Crop ratio, click the dust bin. You can also set the order in which the Crop Ratios are shown, by drag and drop.
 
 For more information about Crop Ratios, se this page: :doc:`Media Picker Settings </admin-settings/tenant-settings/settings/media-picker/index>`
