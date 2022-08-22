@@ -48,7 +48,7 @@ If you're Administrator of a channel, you can approve or reject publication of p
 
 If one or more requests for publication are created, the number of request are shown in this column:
 
-.. image:: channels-request.png
+.. image:: channels-request-new.png
 
 To approve or reject:
 
@@ -56,7 +56,7 @@ To approve or reject:
 
 The requests for that channel are then listed, for example:
 
-.. image:: channels-requests-listed.png
+.. image:: channels-requests-listed-new.png
 
 2. Click the link for a page you want to check. The page is opened in a new tab.
 3. Go back to the list and select APPROVE or REJECT.
