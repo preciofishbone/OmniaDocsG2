@@ -14,7 +14,7 @@ Select section for more information:
    sharepoint-sync/index
    publishing-channels/index
    permission/index
-   page-types/index
    publishing-channels-categories/index
-   
+   page-types/index
 
+   
