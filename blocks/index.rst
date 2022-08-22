@@ -14,6 +14,7 @@ Blocks
    blocks-forms/index
    breadcrumb/index
    calendar-rollup/index
+   channel-rollup/index
    create-app/index
    create-teamwork/index
    community-rollup/index
