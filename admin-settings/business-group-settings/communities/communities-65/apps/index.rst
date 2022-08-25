@@ -5,7 +5,7 @@ Within a Business Profile several Community Apps can be active for different set
 
 Here you will see a list of Community Apps in the Business Profile, for example:
 
-.. image:: communities-apps-65.png
+.. image:: communities-apps-611.png
 
 You can click the link to go to the app.
 
@@ -23,21 +23,21 @@ Edit App Route
 *****************
 If it should be needed to edit the App Route, click the icon and the following is shown:
 
-.. image:: publishing-apps-app-route-community-65-url.png
+.. image:: publishing-apps-app-route-community-611.png
 
 Edit Permissions
 *****************
 If you need to add or remove Administrator(s) for an app, you do it here:
 
-.. image:: publishing-apps-app-premissions-community-65.png
+.. image:: publishing-apps-app-premissions-community-611.png
 
 Don't forget to save when you're done.
 
 Edit Features
 **************
-If it's needed to upgrade a feature for a Community App, you need to go here. You also go here to activate or remove a feature.
+If it's needed to upgrade a feature for a Community App, you go here. You also go here to activate or remove a feature.
 
-.. image:: publishing-apps-app-features-community-65.png
+.. image:: publishing-apps-app-features-community-611.png
 
 Pending Approval
 *****************
@@ -45,15 +45,15 @@ If Approval for creation is activated for the template, an administrator uses th
 
 The list can look like this:
 
-.. image:: community-pending-approval.png
+.. image:: community-pending-approval-611.png
 
 To approve or reject, click the link and browse the settings. And here you decide:
 
-.. image:: community-pending-approval-approve.png
+.. image:: community-pending-approval-approve-611.png
 
 If you click Approve, the Community App is created and the colleague requesting the approval is notified. If you click Reject you add a comment of what needs to be done before it can be approved:
 
-.. image:: community-pending-approval-comment.png
+.. image:: community-pending-approval-comment-611.png
 
 **Note!** Requesting an app must always be done from start each time. If rejected, nothing from the request is saved.
 
@@ -63,15 +63,15 @@ Do the following:
 
 1. Click the plus.
 
-.. image:: community-apps-click-plus-65.png
+.. image:: community-apps-click-plus-611.png
 
-2. Select a template.
+2. Select a template (can be one or more).
 
-.. image:: community-app-template-65.png
+.. image:: community-app-template-611.png
 
 3. Use the following settings:
 
-.. image:: community-app-template-settings-65.png
+.. image:: community-app-template-settings-611.png
 
 Available settings depends on how the template is set up. Here are some common examples:
 
@@ -83,25 +83,25 @@ Available settings depends on how the template is set up. Here are some common e
 
 4. Click "Next" and use the following settings:
 
-.. image:: community-apps-settings-65.png
+.. image:: community-apps-settings-611.png
 
-+ **App Administrators**: The active Administrator (you) is automatically added as App Administrator. Add or delete administrators as needed. 
++ **App Administrators**: The active Administrator (you) is automatically added as App Administrator. Add or delete administrators as needed (must always be at least one). 
 
-3. Click "CREATE" to create the Community App.
+3. Click NEXT.
 
-Next step can be to add some properties, for example:
+4. Check the info added and edit if necessary.
 
-.. image:: community-apps-properties-65.png
+5. Click "CREATE" to create the Community App.
 
-In this example, you can see that each option is indicated by a star, indicating they are mandatory.
+.. image:: community-apps-users-611.png
 
-4. Add information to the fields and select "Is Active".
+When the Community is created (with approval needed or not), it can be a good idea to check the settings to see id anything needs to be edited there, before the Community is used.
 
-In this example the template stipulates that Communities must be approved by an administrator, hence SEND FOR APPROVAL. If self service is selected for the template, it would say CREATE.
+6. Go to the Publishing App settings.
 
-5. Create the Community or send for approval, depending on how the template is set up.
+.. image:: community-apps-settings-611-new.png
 
-Community App settings
-*************************
-Settings for a Community App is the same as a Publishing App, and it's done in the Settings menu for the Community, see: :doc:`Publishing App Settings </pages/page-settings/index>`.
+7. Add the settings if needed.
+
+Settings for a Community App are the same as for any Publishing App. For more information, see: :doc:`Publishing App Settings </pages/page-settings/index>`.
 
