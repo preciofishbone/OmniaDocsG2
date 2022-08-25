@@ -87,21 +87,21 @@ Available settings depends on how the template is set up. Here are some common e
 
 + **App Administrators**: The active Administrator (you) is automatically added as App Administrator. Add or delete administrators as needed (must always be at least one). 
 
-3. Click NEXT.
+5. Click NEXT.
 
-4. Check the info added and edit if necessary.
+6. Check the info added and edit if necessary.
 
-5. Click "CREATE" to create the Community App.
+7. Click "CREATE" to create the Community App.
 
 .. image:: community-apps-users-611.png
 
-When the Community is created (with approval needed or not), it can be a good idea to check the settings to see id anything needs to be edited there, before the Community is used.
+When the Community is created (with approval needed or not), it can be a good idea to check the settings to see if anything needs to be edited there, before the Community is used.
 
-6. Go to the Publishing App settings.
+8. Go to the Publishing App settings.
 
 .. image:: community-apps-settings-611-new.png
 
-7. Add the settings if needed.
+9. Edit the settings if needed.
 
 Settings for a Community App are the same as for any Publishing App. For more information, see: :doc:`Publishing App Settings </pages/page-settings/index>`.
 
