@@ -69,7 +69,7 @@ Do the following:
 
 .. image:: community-app-template-611.png
 
-3. Use the following settings:
+3. Use the settings:
 
 .. image:: community-app-template-settings-611.png
 
