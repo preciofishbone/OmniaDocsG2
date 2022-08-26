@@ -74,10 +74,11 @@ To suggest that the document should be related to a process, do the following:
 .. image:: related-processes-click-search.png
 
 4. Select the process.
-
-And now your suggestion is sent to the process owner for evaluation.
+5. Select the process again in the next step, and the click SAVE.
 
 .. image:: related-processes-sent.png
+
+And now your suggestion is sent to the process owner for evaluation.
 
 Checking a documents properties
 *********************************
