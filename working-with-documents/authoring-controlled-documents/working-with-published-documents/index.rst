@@ -60,7 +60,7 @@ If the document is related to any process, this is noted at the top.
 
 You can click the link to go to the process. 
 
-Even if the document is related to one or more processes, you can suggest additional relations, and of course you can suggest relation to processes for documents that does not have any.
+You can suggest that a document should be realted to one or more processes, regardless of the document having relations before or no.
 
 To suggest that the document should be related to a process, do the following:
 
