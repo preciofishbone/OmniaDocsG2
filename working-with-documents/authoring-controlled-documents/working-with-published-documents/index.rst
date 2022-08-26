@@ -1,15 +1,17 @@
 Working with Published documents
 =================================
 
+**This page is being updated. Will be finished soon.**
+
 The Published tab lists the latest edition of all published documents from this Controlled Documents library. There are some useful options for a published document here. You can for example check the Properties, see the Document History, see Feedback that users has sent and Move a document.
 
 A site Administrator (Owner) can set up which columns to show on this tab. Here's an example:
 
-.. image:: published-example-new2.png
+.. image:: published-example-new3.png
 
 All options are found in the dot menu for a document:
 
-.. image:: published-dot-menu-new.png
+.. image:: published-dot-menu-new2.png
 
 Create Draft
 **************
@@ -17,9 +19,67 @@ You can create a new Draft from a published document and start working on the ne
 
 For more information on how to create a new draft, see the heading "Creating a new draft from a published document" on this page: :doc:`Working with Drafts </working-with-documents/authoring-controlled-documents/working-with-drafts/index>`
 
+Signeed copy
+***************
+Use this option to create a signed copy of a document, that will be shown together with the document.
+
+Use the following steps:
+
+1. Open the dot menu for the document and select "Signed Copy".
+
+.. image:: signed-copy-menu.png
+
+2. Download the copy from here:
+
+.. image:: signed-copy-download.png
+
+3. Sign the document the way your organization do; either sign it digitally or print the document and sign it manually, and the scan it.
+4. Upload the signed copy.
+
+.. image:: signed-copy-upload.png
+
+5. Save when you're donw.
+
+.. image:: signed-copy-save.png
+
 Related Documents
 *******************
 You can relate a published document to other published documents. How to do that is described on this page: :doc:`Related Documents </working-with-documents/authoring-controlled-documents/related-documents/index>`
+
+Related Processes
+*******************
+Using this option you can see if a document is related to any processes - meaning added as a document to the process(es). You can also suggest that the document should be added (related) to a process. The suggestion is sent to the process owner.
+
+To check if a dcument is related to any process(es), do the following:
+
+1. Open the dot menu for the document and select "Related Processes".
+
+.. image:: related-processes-menu.png
+
+If the document is related to any process, this is noted at the top.
+
+.. image:: related-processes-related.png
+
+You can click the link to go to the process. 
+
+Even if the document is related to one or more processes, you can suggest additional relations, and of course you can suggest relation to processes for documents that does not have any.
+
+To suggest that the document should be related to a process, do the following:
+
+1. Open the dialog as described above.
+2. Click ADD SUGGESTION.
+
+.. image:: related-processes-click-add.png
+
+3. Click in the field and type part of or the whole name of the process you have in mind, to search for it.
+
+.. image:: related-processes-click-search.png
+
+4. Select the process.
+
+And now your suggestion is sent to the process owner for evaluation.
+
+.. image:: related-processes-sent.png
 
 Checking a documents properties
 *********************************
