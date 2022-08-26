@@ -31,7 +31,7 @@ Use the following steps:
 
 .. image:: signed-copy-download.png
 
-3. Sign the document the way your organization do; either sign it digitally or print the document and sign it manually, and the scan it.
+3. Sign the document the way your organization do; either sign it digitally or print the document and sign it manually, and then scan it.
 4. Upload the signed copy.
 
 .. image:: signed-copy-upload.png
@@ -46,7 +46,7 @@ You can relate a published document to other published documents. How to do that
 
 Related Processes
 *******************
-Using this option you can see if a document is related to any processes - meaning added as a document to the process(es). You can also suggest that the document should be added (related) to a process. The suggestion is sent to the process owner.
+Using this option you can see if a document is related to any process(es) - meaning added as a document to the process(es). You can also suggest that the document should be added (related) to a process. The suggestion is sent to the process owner.
 
 To check if a dcument is related to any process(es), do the following:
 
