@@ -36,7 +36,7 @@ Use the following steps:
 
 .. image:: signed-copy-upload.png
 
-5. Save when you're donw.
+5. Save when you're done.
 
 .. image:: signed-copy-save.png
 
