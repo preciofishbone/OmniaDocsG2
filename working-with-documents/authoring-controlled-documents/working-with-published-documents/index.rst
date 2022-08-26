@@ -17,7 +17,7 @@ You can create a new Draft from a published document and start working on the ne
 
 For more information on how to create a new draft, see the heading "Creating a new draft from a published document" on this page: :doc:`Working with Drafts </working-with-documents/authoring-controlled-documents/working-with-drafts/index>`
 
-Signeed copy
+Signed copy
 ***************
 Use this option to create a signed copy of a document, that will be shown together with the document.
 
