@@ -1,3 +1,13 @@
+6.11.9
+========================================
+(Omnia 6.11.9 / Workplace 6.11.4 / WCM 6.11.3 / MS 6.11.2)
+
+- Corrected the calendar rollup multi day event display (#140042).
+- Channels can now be saved on a draft page correctly.
+- Updates to the User Sync to handle users without a User Type (#140052).
+- The organization tree should now load as expected (#140268).
+- Corrected an issue that would cause the wrong quick link to open when last visited sort is used (#140049).
+
 6.11.4
 ========================================
 (Omnia 6.11.4 / Workplace 6.11.2 / WCM 6.11.2 / MS 6.11.2)
