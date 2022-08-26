@@ -1,8 +1,6 @@
 Working with Published documents
 =================================
 
-**This page is being updated. Will be finished soon.**
-
 The Published tab lists the latest edition of all published documents from this Controlled Documents library. There are some useful options for a published document here. You can for example check the Properties, see the Document History, see Feedback that users has sent and Move a document.
 
 A site Administrator (Owner) can set up which columns to show on this tab. Here's an example:
@@ -171,5 +169,4 @@ A document can't be unpublished if a draft has been created for that document. T
 When "Unpublish" is selected, you get a second chance to change your mind:
 
 .. image:: unpublish-2-new2.png
-
 
