@@ -1,5 +1,5 @@
-Hide a page
-==============
+Hide one or more pages
+==============================
 
 Using this option you can hide a page, draft or published, or a whole section of main page and sub pages. Even a page that has been published for a while, with any number of versions, can be hidden.  
 
@@ -15,30 +15,21 @@ To hide a page, do the following:
 
 1. Open any page for editing.
 2. Select the page in the navigation (sub pages are automatically selected).
+3. Select "Hide".
 
-.. image:: hide-select-new.png
-
-3. Open the Action menu in the lower right corner.
-
-.. image:: hide-menu-new.png
-
-4. Select HIDE.
-
-.. image:: hide-menu-select-new.png
+.. image:: hide-select-new2.png
 
 Something like the following is shown:
 
-.. image:: hide-message-new.png
+.. image:: hide-message-new2.png
 
-If you selected a page that has sub pages, you are made aware of the fact by the message "A lot of pages could be affected":
+If you selected a page that has sub pages, you are made aware of the fact by the message "A lot of pages could be affected", as in this example.
 
-.. image:: hide-message-several.png
-
-5. Click OK to hide.
+4. Click OK to hide.
 
 A hidden page is indicated this way:
 
-.. image:: pages-hidden-new-frame.png
+.. image:: pages-hidden-new2.png
 
 Show a hidden page
 *********************
@@ -46,29 +37,16 @@ You show a hidden main page and all it's sub pages in one go. You can't show a s
 
 To show a hidden page and all it's sub pages, do the following:
 
-1. Select the (main) page in the navigation:
+1. Select the (main) page in the navigation and select "Show":
 
-.. image:: unhide-select-new.png
-
-2. Open the Action menu and select SHOW.
-
-.. image:: unhide-show-new.png
+.. image:: unhide-select-new2.png
 
 Something like to following is displayed:
 
-.. image:: unhide-show-message-new.png
+.. image:: unhide-show-message-new2.png
 
-If the page has sub pages (that also will be shown now), you are made aware of that fact through this message:
+If the page has sub pages (that also will be shown now), you are made aware of that fact through this message, as it is in this example.
 
-.. image:: unhide-show-message-several.png
+3. Click OK to show the page with all sub pages.
 
-3. Click OK to show the page with all sub pages (drafts remain drafts of course).
-
-
-
-
-
-
-
-
-
+Note that hidden/shown pages keeps their status. Published pages reamined published and drafts remain drafts.

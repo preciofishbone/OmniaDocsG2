@@ -1,10 +1,6 @@
 Newsletter implementation example
 ==============================================
 
-**This page is being updated. Will be finished soon.**
-
-Implementation example
-************************
 Here's a Newsletter implementation example. First an example of a newsletter archive:
 
 .. image:: newsletter-archive-new.png
@@ -17,7 +13,7 @@ The Action Button has the following General settings:
 
 And the following Style settings:
 
-.. image:: newsletter-archive-button-style-1-new.png
+.. image:: newsletter-archive-button-style-1-new-frame.png
 
 The Page Rollup block has the following settings for Query:
 
@@ -41,13 +37,11 @@ Newsletters from the editor's point of view
 ----------------------------------------------
 When a Newsletter Editor creates a newsletter, the first step is to create a new page for the newsletter, in this example by clicking the button CREATE NEWSLETTER, as seen in the image above:
 
-.. image:: newsletter-editor-create.png
-
-(The Url is filled in automaically when the editor adds the Title for the new page.)
+.. image:: cerate-newsletter-1-new.png
 
 The new page can look something like this:
 
-.. image:: newsletter-editor-page.png
+.. image:: create-newsletter-2-new.png
 
 The editor can now use the blocks set up on the Page Type, in Write mode, or in Design mode. In this implementation example, a text block for the newsletter heading and another text block for the newsletter text is available, as well as a Page Rollup block (that's "Pick Pages".)
 
@@ -59,7 +53,7 @@ More information about how to use the Page Picker is found here: :doc:`The Page 
 
 If it's set up that way, some edits to properties may be needed, and the email recipients must be added, everything available through Write mode and Design mode. The editor just clicks NEXT to cycle through the steps.
 
-.. image:: newsletter-editor-page-settings.png
+.. image:: create-newsletter-3-new.png
 
 When it's time to publish and send, the editor can preview the newsletter before publishing. The editor can also send the newsletter to someone for a last check before sending to the recipients.
 
@@ -71,5 +65,5 @@ You can find more information about publishing a page here: :doc:`Publish Page C
 
 Here's an example of a newsletter:
 
-.. image:: newsletter-example.png
+.. image:: newsletter-example-new.png
 

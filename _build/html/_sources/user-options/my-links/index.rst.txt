@@ -9,7 +9,7 @@ All mandatory links, decided by the administrator when adding the links in Omnia
 
 Links can also be targeted to certain user groups, and only shown to them. A search field can be shown, which can be used to search for links. 
 
-Options that cen be available:
+Options that can be available:
 
 + **Show all links**: When this option is selected all links, that the user is allowed to see, are shown. A user can select to show non mandatory links, or not. See below.
 + **Show categories**: Links can be categorized. If this option is selected categories (headings) are shown and the links are sorted byt the categories. See below for more information.

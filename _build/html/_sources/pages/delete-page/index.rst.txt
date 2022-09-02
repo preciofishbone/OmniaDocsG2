@@ -1,9 +1,7 @@
 Delete a page
 ================= 
 
-This functionality was called archiving in earlier versions of Omnia.
-
-When working with the navigation you can delete a page that is no longer needed. A deleted page is placed in the archive. There it can be restored or terminated. There's one archive per Publishing App.
+You can delete a page that is no longer needed. A deleted page is placed in the archive. There it can be restored or terminated. There's one archive per Publishing App. This functionality was called archiving in earlier versions of Omnia.
 
 Just remember that if other pages links to a page you delete, the links will no longer work. You have to edit or remove such links.
 
@@ -24,13 +22,17 @@ Here's how to delete a page:
 3. If there are changes that has not been saved, save or discard them, or the DELETE button will not be available.
 4. Click DELETE.
 
-.. image:: archive-menu2-new2.png
+.. image:: archive-menu2-new3.png
 
-Something like the following is shown:
+As an alternative, you can use DELETE in the menu in the navigation tree. This option is available all the time (even when you are editing the page).
+
+.. image:: delete-page-menu-new2.png
+
+When select delete, something like the following is shown:
 
 .. image:: archive-message-new.png
 
-Note the message "You are about to archive a lot of pages" which is telling you that the page you have chosen has sub pages.
+Note the message "You are about to archive a lot of pages" which is telling you that the page you have chosen has sub pages. (If the page doesn't have sub pahes, the message is different).
 
 5. Type a comment (Mandatory!) and click OK to archive the page, or CANCEL if you change your mind.
 
@@ -44,7 +46,7 @@ Page Types that are used for active pages (published or drafts) can not be delet
 
 Deleting a Variation
 ***********************
-You can delete a variation separately from the main page if needed. Just open the variation and delete the same way as you do a page. A deleted variation can be restored or terminated the same way as a page, see below. If the main page is deleted, variations of that page are always deleted as well.
+You can delete a variation separately from the main page if needed. Just open the variation and delete the same way. A deleted variation can be restored or terminated the same way as other pages, see below. If the main page is deleted, variations of that page are always deleted as well.
 
 Automatic Delete and Termination
 **************************************
@@ -71,15 +73,15 @@ If you have deleted a page you also have permissions to restore or terminate tha
 
 All deleted pages for the Publishing App are available here:
 
-.. image:: archive-new.png
+.. image:: archive-new2.png
 
 A list of deleted pages can look like this:
 
-.. image:: archive-list-new.png
+.. image:: archive-list-new2.png
 
 Note that four lists are available: PAGES, PAGE COLLECTIONS, PAGE TYPES and ALL. The four lists works the same, the difference is the content.
 
-You can for example see who archived the post and the comment made by that person. Under the heading "Pages" you can see the number of published pages to the left and the number of drafts to the right. 
+You can for example see who archived the post and the comment made by that person. Under the column heading "Pages" you can see the number of published pages to the left and the number of drafts to the right (no drafts exist in the image above). 
 
 If the list is long you can use the filters at the top to search or filter the list.
 
@@ -93,7 +95,7 @@ You click the dust bin to terminate the page. Just be really careful so you clic
 
 You get a second chance to change your mind:
 
-.. image:: terminate.png
+.. image:: terminate-new.png
 
 If you're not certain, just click CLOSE here and nothing will happen.
 
@@ -103,23 +105,23 @@ To restore a deleted page (with it's sub pages, variations and drafts if that's 
 
 1. Click this icon on the right row:
 
-.. image:: archive-restore-icon-new.png
+.. image:: archive-restore-icon-new2.png
 
 Something like the following is shown:
 
-.. image:: archive-restore-1.png
+.. image:: archive-restore-1-new.png
 
 2. Choose how to restore the page/pages and click OK.
 
-If you would like to restore the page/pages to it's original place (if that still exists!), just click OK.
+If you would like to restore the page/pages to it's original place (if that still exist!), just click OK.
 
 If you would like, or need, to restore the page/pages somewhere else - or just want a better view of the information structure - click SELECT PARENT PAGE TO RESTORE.
 
-.. image:: archive-parent-restore-1.png
+.. image:: archive-parent-restore-1-new.png
 
 Now something like the following is shown:
 
-.. image:: archive-parent-restore-2.png
+.. image:: archive-parent-restore-2-new.png
 
 Use the right part to select the parent node for the deleted page/pages to be placed under. Note that you can browse the list the find a sub page that should be the parent node. Click OK when you're finished.
 

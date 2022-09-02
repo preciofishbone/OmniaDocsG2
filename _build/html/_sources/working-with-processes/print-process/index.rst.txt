@@ -1,13 +1,13 @@
 Print a process
 =====================================
 
-To print a process, go to the process and click the button:
+To print a process, go to the process and click the button. This can be set up in several ways. Here's an example:
 
-.. image:: print-process-button.png
+.. image:: print-process-button-new.png
 
 You can choose the following:
 
-.. image:: print-process-settings.png
+.. image:: print-process-settings-new.png
 
 + **All related process steps**: This prints all related process steps, both main processes and subprocesses. If this process is linked to from a main process, that main process will not be printed.
 + **Single process step only**: Select this to just print the step you see.

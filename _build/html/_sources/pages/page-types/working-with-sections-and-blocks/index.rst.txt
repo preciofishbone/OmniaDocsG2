@@ -96,7 +96,7 @@ Here's an example with a block added:
 
 You add additional blocks, work with the settings, move or delete blocks the same way as editors do when editing a page, see: :doc:`Working with Blocks </blocks/working-with-blocks/index>`
 
-**Note!** When editing a page, blocks that belong to the Page Type is locked, meaning they can not be moved or deleted, and settings for those blocks can't be edited. But content can be edited, if applicable, using Write mode. In Omnia 6.10 and later, additional settings for this are available, see below.
+**Note!** When editing a page, blocks that belong to the Page Type may be locked, meaning they can not be moved or deleted, and settings for those blocks can't be edited. But content can be edited, if applicable, using Write mode. For more information on this, see *Lock a blick or not*, below.
 
 Copy a block from the clipboard
 ---------------------------------------------
@@ -104,7 +104,7 @@ There's also a clipboard available, that can be used to copy blocks between page
 
 Lock a block or not
 ************************
-In Omnia 6.10 additional settings for locking of blocks are available, under "Lock" in the LAYOUT menu:
+Additional settings for locking of blocks are available, under "Lock" in the LAYOUT menu:
 
 .. image:: lock-menu.png
 

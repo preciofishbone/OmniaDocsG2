@@ -7,7 +7,7 @@
   
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   
-  <title>Hide a page &mdash; Omnia  documentation</title>
+  <title>Hide one or more pages &mdash; Omnia  documentation</title>
   
 
   
@@ -44,8 +44,8 @@
     
     <link rel="index" title="Index" href="../../genindex.html" />
     <link rel="search" title="Search" href="../../search.html" />
-    <link rel="next" title="Approve pages" href="../page-approval/index.html" />
-    <link rel="prev" title="Check Version History and use an earlier version" href="../version-history/index.html" /> 
+    <link rel="next" title="Delete a page" href="../delete-page/index.html" />
+    <link rel="prev" title="Copy one or more pages" href="../copy-page/index.html" /> 
 </head>
 
 <body class="wy-body-for-nav">
@@ -94,21 +94,23 @@
 <li class="toctree-l1"><a class="reference internal" href="../../admin-settings/index.html">Admin Settings</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../blocks/index.html">Blocks</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../general-assets/index.html">General assets and options</a></li>
-<li class="toctree-l1 current"><a class="reference internal" href="../index.html">Pages</a><ul class="current">
+<li class="toctree-l1 current"><a class="reference internal" href="../index.html">Pages and page navigation</a><ul class="current">
 <li class="toctree-l2"><a class="reference internal" href="../create-page/index.html">Create a page</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../move-page/index.html">Move a page</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../delete-page/index.html">Delete a page</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../reusable-content/index.html">Reusable Content</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../automatic-page-creation/index.html">Automatic Page Creation</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../edit-page/index.html">Edit a page</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../edit-page-variations/index.html">Edit Page Variations</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../move-page/index.html">Move one or more pages</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../copy-page/index.html">Copy one or more pages</a></li>
+<li class="toctree-l2 current"><a class="current reference internal" href="#">Hide one or more pages</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../delete-page/index.html">Delete a page</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../invite-co-authors/index.html">Invite co-authors</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../language-versions-of-a-page/index.html">Language versions of a page</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../edit-page-variations/index.html">Edit Page Variations</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../publish-page-changes/index.html">Publish page changes</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../reusable-content/index.html">Reusable Content</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../automatic-page-creation/index.html">Automatic Page Creation</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../version-history/index.html">Check Version History and use an earlier version</a></li>
-<li class="toctree-l2 current"><a class="current reference internal" href="#">Hide a page</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../page-approval/index.html">Approve pages</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../edit-page-navigation/index.html">Edit page navigation</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../add-link-navigation/index.html">Add a link to the navigation tree</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../edit-page-navigation/index.html">Edit navigation</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../edit-permissions/index.html">Edit Permissions for a page</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../page-types/index.html">Page Types</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../page-settings/index.html">Publishing App settings</a></li>
@@ -179,9 +181,9 @@
     
       <li><a href="../../index.html" class="icon icon-home"></a> &raquo;</li>
         
-          <li><a href="../index.html">Pages</a> &raquo;</li>
+          <li><a href="../index.html">Pages and page navigation</a> &raquo;</li>
         
-      <li>Hide a page</li>
+      <li>Hide one or more pages</li>
     
     
       <li class="wy-breadcrumbs-aside">
@@ -200,57 +202,45 @@
           <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
            <div itemprop="articleBody">
             
-  <div class="section" id="hide-a-page">
-<h1>Hide a page<a class="headerlink" href="#hide-a-page" title="Permalink to this headline">¶</a></h1>
+  <div class="section" id="hide-one-or-more-pages">
+<h1>Hide one or more pages<a class="headerlink" href="#hide-one-or-more-pages" title="Permalink to this headline">¶</a></h1>
 <p>Using this option you can hide a page, draft or published, or a whole section of main page and sub pages. Even a page that has been published for a while, with any number of versions, can be hidden.</p>
 <p>You can then unhide (Show) when it’s time to make the page(s) available.</p>
 <p>While a page is hidden it can not be found through search, not by anyone, in fact even not by yourself. The only way to access a hidden page is through the navigation when in edit mode.</p>
 <p>You can hide any number of sub pages in one go. Just select the main page and hide, and all sub pages are also hidden. The reverse is also true, unhide (Show) the main page and all sub pages are also unhidden.</p>
-<div class="section" id="id1">
-<h2>Hide a page<a class="headerlink" href="#id1" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="hide-a-page">
+<h2>Hide a page<a class="headerlink" href="#hide-a-page" title="Permalink to this headline">¶</a></h2>
 <p>To hide a page, do the following:</p>
 <ol class="arabic simple">
 <li><p>Open any page for editing.</p></li>
 <li><p>Select the page in the navigation (sub pages are automatically selected).</p></li>
+<li><p>Select “Hide”.</p></li>
 </ol>
-<img alt="../../_images/hide-select-new.png" src="../../_images/hide-select-new.png" />
-<ol class="arabic simple" start="3">
-<li><p>Open the Action menu in the lower right corner.</p></li>
-</ol>
-<img alt="../../_images/hide-menu-new.png" src="../../_images/hide-menu-new.png" />
-<ol class="arabic simple" start="4">
-<li><p>Select HIDE.</p></li>
-</ol>
-<img alt="../../_images/hide-menu-select-new.png" src="../../_images/hide-menu-select-new.png" />
+<img alt="../../_images/hide-select-new2.png" src="../../_images/hide-select-new2.png" />
 <p>Something like the following is shown:</p>
-<img alt="../../_images/hide-message-new.png" src="../../_images/hide-message-new.png" />
-<p>If you selected a page that has sub pages, you are made aware of the fact by the message “A lot of pages could be affected”:</p>
-<img alt="../../_images/hide-message-several.png" src="../../_images/hide-message-several.png" />
-<ol class="arabic simple" start="5">
+<img alt="../../_images/hide-message-new2.png" src="../../_images/hide-message-new2.png" />
+<p>If you selected a page that has sub pages, you are made aware of the fact by the message “A lot of pages could be affected”, as in this example.</p>
+<ol class="arabic simple" start="4">
 <li><p>Click OK to hide.</p></li>
 </ol>
 <p>A hidden page is indicated this way:</p>
-<img alt="../../_images/pages-hidden-new-frame.png" src="../../_images/pages-hidden-new-frame.png" />
+<img alt="../../_images/pages-hidden-new2.png" src="../../_images/pages-hidden-new2.png" />
 </div>
 <div class="section" id="show-a-hidden-page">
 <h2>Show a hidden page<a class="headerlink" href="#show-a-hidden-page" title="Permalink to this headline">¶</a></h2>
 <p>You show a hidden main page and all it’s sub pages in one go. You can’t show a sub page separately for a main page that is hidden.</p>
 <p>To show a hidden page and all it’s sub pages, do the following:</p>
 <ol class="arabic simple">
-<li><p>Select the (main) page in the navigation:</p></li>
+<li><p>Select the (main) page in the navigation and select “Show”:</p></li>
 </ol>
-<img alt="../../_images/unhide-select-new.png" src="../../_images/unhide-select-new.png" />
-<ol class="arabic simple" start="2">
-<li><p>Open the Action menu and select SHOW.</p></li>
-</ol>
-<img alt="../../_images/unhide-show-new.png" src="../../_images/unhide-show-new.png" />
+<img alt="../../_images/unhide-select-new2.png" src="../../_images/unhide-select-new2.png" />
 <p>Something like to following is displayed:</p>
-<img alt="../../_images/unhide-show-message-new.png" src="../../_images/unhide-show-message-new.png" />
-<p>If the page has sub pages (that also will be shown now), you are made aware of that fact through this message:</p>
-<img alt="../../_images/unhide-show-message-several.png" src="../../_images/unhide-show-message-several.png" />
+<img alt="../../_images/unhide-show-message-new2.png" src="../../_images/unhide-show-message-new2.png" />
+<p>If the page has sub pages (that also will be shown now), you are made aware of that fact through this message, as it is in this example.</p>
 <ol class="arabic simple" start="3">
-<li><p>Click OK to show the page with all sub pages (drafts remain drafts of course).</p></li>
+<li><p>Click OK to show the page with all sub pages.</p></li>
 </ol>
+<p>Note that hidden/shown pages keeps their status. Published pages reamined published and drafts remain drafts.</p>
 </div>
 </div>
 
@@ -260,8 +250,8 @@
           </div>
           <footer>
     <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
-        <a href="../page-approval/index.html" class="btn btn-neutral float-right" title="Approve pages" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right" aria-hidden="true"></span></a>
-        <a href="../version-history/index.html" class="btn btn-neutral float-left" title="Check Version History and use an earlier version" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left" aria-hidden="true"></span> Previous</a>
+        <a href="../delete-page/index.html" class="btn btn-neutral float-right" title="Delete a page" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right" aria-hidden="true"></span></a>
+        <a href="../copy-page/index.html" class="btn btn-neutral float-left" title="Copy one or more pages" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left" aria-hidden="true"></span> Previous</a>
     </div>
 
   <hr/>
@@ -270,7 +260,7 @@
     <p>
         &#169; Copyright 2022, Precio Fishbone.
       <span class="lastupdated">
-        Last updated on Jul 06, 2022.
+        Last updated on Sep 02, 2022.
       </span>
 
     </p>

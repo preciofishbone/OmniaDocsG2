@@ -17,35 +17,39 @@ When you are editing a page where you want to reuse content from another page, d
 
 1. Open the action menu at the bottom right:
 
-.. image:: open-action-menu-new6.png
+.. image:: open-action-menu-new7.png
 
 2. Select REUSEABLE CONTENT.
 
-.. image:: select-reuse-content-new4.png
+.. image:: select-reuse-content-new5.png
 
 The following is shown:
 
-.. image:: select-reuse-content2.png
+.. image:: select-reuse-content3.png
 
 3. Click ADD SOURCE PAGE.
 
-The Page Picker starts and you use it to select a source page or variation. See this page for more information: :doc:`Page Picker </general-assets/page-picker/index>`
+The Page Picker starts and you use it to select a source page or variation. See this page for more information on how to use the Page Picker: :doc:`Page Picker </general-assets/page-picker/index>`
+
+**Note!** If an error message is shown saying "the page is not reusable", reausable content has bot been activated for the publishing app, see above. 
 
 The properties that are or can be reused on the target page are listed, for example:
 
-.. image:: reuse-content-list.png
+.. image:: reuse-content-list-new.png
 
 If you don't want to reuse content from a certain property, click the dust bin to remove it from the list.
 
 If additional properties are available, you can add any of them - so the content can be reused - using the "Select Property" list. You can edit the reuse list any time you are editing the target page, so you can add or remove reusable properties as needed.
 
-Also note that blocks reusing content are indicated this way:
+Also note that blocks reusing content are indicated this way, which you can see when editing a page:
 
-.. image:: reuse-content-on-page.png
+.. image:: reuse-content-on-page-new.png
 
-If you are reusing properties used for settings, that is indicated as well, for example:
+If you are reusing properties used for settings, that is indicated as well, with a dotted line at the bottom of the field, for example:
 
-.. image:: reuse-content-on-page-settings-properties.png
+.. image:: reuse-content-on-page-settings-properties-new.png
+
+In this example, three of the prooperty fields are being reused from another page: Page Contact, Applies to, and Preview Before.
 
 Editing the source page
 *************************

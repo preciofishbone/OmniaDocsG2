@@ -44,7 +44,7 @@
     
     <link rel="index" title="Index" href="../../genindex.html" />
     <link rel="search" title="Search" href="../../search.html" />
-    <link rel="next" title="Edit a page" href="../edit-page/index.html" />
+    <link rel="next" title="Check Version History and use an earlier version" href="../version-history/index.html" />
     <link rel="prev" title="Reusable Content" href="../reusable-content/index.html" /> 
 </head>
 
@@ -94,21 +94,23 @@
 <li class="toctree-l1"><a class="reference internal" href="../../admin-settings/index.html">Admin Settings</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../blocks/index.html">Blocks</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../general-assets/index.html">General assets and options</a></li>
-<li class="toctree-l1 current"><a class="reference internal" href="../index.html">Pages</a><ul class="current">
+<li class="toctree-l1 current"><a class="reference internal" href="../index.html">Pages and page navigation</a><ul class="current">
 <li class="toctree-l2"><a class="reference internal" href="../create-page/index.html">Create a page</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../move-page/index.html">Move a page</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../delete-page/index.html">Delete a page</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../reusable-content/index.html">Reusable Content</a></li>
-<li class="toctree-l2 current"><a class="current reference internal" href="#">Automatic Page Creation</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../edit-page/index.html">Edit a page</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../edit-page-variations/index.html">Edit Page Variations</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../move-page/index.html">Move one or more pages</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../copy-page/index.html">Copy one or more pages</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../hide-page/index.html">Hide one or more pages</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../delete-page/index.html">Delete a page</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../invite-co-authors/index.html">Invite co-authors</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../language-versions-of-a-page/index.html">Language versions of a page</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../edit-page-variations/index.html">Edit Page Variations</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../publish-page-changes/index.html">Publish page changes</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../reusable-content/index.html">Reusable Content</a></li>
+<li class="toctree-l2 current"><a class="current reference internal" href="#">Automatic Page Creation</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../version-history/index.html">Check Version History and use an earlier version</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../hide-page/index.html">Hide a page</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../page-approval/index.html">Approve pages</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../edit-page-navigation/index.html">Edit page navigation</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../add-link-navigation/index.html">Add a link to the navigation tree</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../edit-page-navigation/index.html">Edit navigation</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../edit-permissions/index.html">Edit Permissions for a page</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../page-types/index.html">Page Types</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../page-settings/index.html">Publishing App settings</a></li>
@@ -179,7 +181,7 @@
     
       <li><a href="../../index.html" class="icon icon-home"></a> &raquo;</li>
         
-          <li><a href="../index.html">Pages</a> &raquo;</li>
+          <li><a href="../index.html">Pages and page navigation</a> &raquo;</li>
         
       <li>Automatic Page Creation</li>
     
@@ -206,50 +208,48 @@
 <p>It works this way: Whenever a page is published in the Page Collection and match a specific rule, a copy of the page will be published to another Page Collection in the tenant. To be more specific; it is the information contained in the properties that are copied, not the whole page as it is. Therefore the page in the target Page Collection can look different depending on available Page Types.</p>
 <p>This can for example be used to make sure a specific type of news will be published in more than one News Center, for example both in the internal News Center and in a partner portal or a customer portal. But this is just one example, it can be used with any type of page.</p>
 <p><strong>A tip!</strong> If you want to make sure the copied page looks the same in the target Page Collection - use the same Tenant Page Type in both source and target Page Collections. You can find more information about Tenant Page Types on this page: <a class="reference internal" href="../../admin-settings/tenant-settings/webcontent-managament/page-types/index.html"><span class="doc">Tenant Page Types</span></a></p>
-<p><strong>Note!</strong> You should not use this option for Events.</p>
+<p><strong>Note!</strong> You should not use this option for Events. Also note that if you work with variations, the default variation must be active for the settings to show up.</p>
 <div class="section" id="settings">
 <h2>Settings<a class="headerlink" href="#settings" title="Permalink to this headline">¶</a></h2>
 <p>The settings are available here, in the Page Collection Settings:</p>
-<img alt="../../_images/automatic-page-1.png" src="../../_images/automatic-page-1.png" />
+<img alt="../../_images/automatic-page-1-new.png" src="../../_images/automatic-page-1-new.png" />
 <p>Click the plus and the following settings becomes available:</p>
-<img alt="../../_images/automatic-page-2.png" src="../../_images/automatic-page-2.png" />
+<img alt="../../_images/automatic-page-2-new.png" src="../../_images/automatic-page-2-new.png" />
 <p>(Not all options are shown in the image, but are listed below.)</p>
 <ul class="simple">
 <li><p><strong>Name</strong>: Add name for the rule.</p></li>
 <li><p><strong>Page Creation Rule</strong>: If pages in this Page Collection always should be copied, select “Always Create”. If pages should be copied only when certain prerequisites are met, select “Only Create If”. See below for more information about this.</p></li>
 <li><p><strong>Page Creation Info</strong>: Select the Publishing, App, Page Collection to copy to, and choose the Page Type to be used.</p></li>
-<li><p><strong>Reusable content</strong>: If reusable content in the source page should be connected to the target page, select this option. If this option is not selected, the content in the copy will have no connection to the source. For more information, see below.</p></li>
+<li><p><strong>Enable Auto Publish</strong>: If this option is selected a new page is always published automatically. It’s only applicable when a new page is created, not when it’s updated.</p></li>
+<li><p><strong>Initial Properties</strong>: Choose the source of the initial properties; “Enable Reuse Conten” or “Copy property to page on creation”. Then select the property/propeties to get this from. For more information, see below.</p></li>
 <li><p><strong>Mapped Variations</strong>: If the source page and/or the target page uses variations, you have to map variations, see below.</p></li>
 </ul>
 <p>Don’t forget to save when you’re done.</p>
 <p>When editing a Automatic Page Creation rule, all settings described above are available.</p>
-<div class="section" id="reusable-content">
-<h3>Reusable content<a class="headerlink" href="#reusable-content" title="Permalink to this headline">¶</a></h3>
-<p>When you activate Reusable Content, the following is shown:</p>
-<img alt="../../_images/utomatic-page-reusable.png" src="../../_images/utomatic-page-reusable.png" />
-<p>Select a property that should have a Reusable content connection in the target page, and click ADD.</p>
+<div class="section" id="setup-for-reusable-content">
+<h3>Setup for Reusable content<a class="headerlink" href="#setup-for-reusable-content" title="Permalink to this headline">¶</a></h3>
+<p>When you activate Reusable Content, select a property that should have a Reusable content connection in the target page, and click ADD.</p>
 <p>Add all Reusable content properties this way.</p>
 <p>Here’s an example:</p>
-<img alt="../../_images/automatic-page-reusable-example.png" src="../../_images/automatic-page-reusable-example.png" />
+<img alt="../../_images/automatic-page-reusable-example-new.png" src="../../_images/automatic-page-reusable-example-new.png" />
 <p>To remove a property from the list, click the dust bin.</p>
+<p>Selecting properties to add to the page when creating works exactly the same.</p>
 </div>
 <div class="section" id="mapped-variations">
 <h3>Mapped variations<a class="headerlink" href="#mapped-variations" title="Permalink to this headline">¶</a></h3>
 <p>Here’s an example of mapping you have to do:</p>
-<img alt="../../_images/automatic-page-mapped.png" src="../../_images/automatic-page-mapped.png" />
-<p>In this example, the target Page Collection has two variations set up. You have to map variations from the source page to the two variations in the target page. If there are more (possible) variations for the source page, it does not matter. In this example there are four (possible) variations for the source page, and some of them are the same as for the target page. The mapping can then look like this:</p>
-<img alt="../../_images/automatic-page-mapped-example-1.png" src="../../_images/automatic-page-mapped-example-1.png" />
-<p>Here’s another example where a variation for the target page does not exist for the source page. You could then map this way:</p>
-<img alt="../../_images/automatic-page-mapped-example-2.png" src="../../_images/automatic-page-mapped-example-2.png" />
+<img alt="../../_images/automatic-page-mapped-new.png" src="../../_images/automatic-page-mapped-new.png" />
+<p>In this example, the target Page Collection has a number variations set up. You have to map variations from the source page to the variations in the target page. If there are more (possible) variations for the source page, it does not matter. In this example there are four (possible) variations for the source page, and some of them are the same as for the target page. The mapping can then look like this:</p>
+<img alt="../../_images/automatic-page-mapped-example-1-new2.png" src="../../_images/automatic-page-mapped-example-1-new2.png" />
 </div>
 <div class="section" id="only-create-if">
 <h3>Only Create If<a class="headerlink" href="#only-create-if" title="Permalink to this headline">¶</a></h3>
-<p>When you select this option, the following is shown:</p>
-<img alt="../../_images/automatic-page-3.png" src="../../_images/automatic-page-3.png" />
+<p>If you select this option, you must setup one or more rules:</p>
+<img alt="../../_images/automatic-page-3-new.png" src="../../_images/automatic-page-3-new.png" />
 <p>Click ADD to set the first rule. The first step, when creating a rule, is to select a property.</p>
-<img alt="../../_images/automatic-page-4.png" src="../../_images/automatic-page-4.png" />
+<img alt="../../_images/automatic-page-4-new2.png" src="../../_images/automatic-page-4-new2.png" />
 <p>Here’s a very simple example. Pages should only be copied if they are created by Anna Karlsson:</p>
-<img alt="../../_images/automatic-page-example.png" src="../../_images/automatic-page-example.png" />
+<img alt="../../_images/automatic-page-example-new.png" src="../../_images/automatic-page-example-new.png" />
 <p>If needed, click ADD again and set the next rule.</p>
 <p>Note that, in case you set up several rules here, all rules must be met for a copy to be created. It’s an AND relation between rules. If it is possible to select multiple values for a property within a rule, it’s an OR relation between values.</p>
 </div>
@@ -262,7 +262,7 @@
           </div>
           <footer>
     <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
-        <a href="../edit-page/index.html" class="btn btn-neutral float-right" title="Edit a page" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right" aria-hidden="true"></span></a>
+        <a href="../version-history/index.html" class="btn btn-neutral float-right" title="Check Version History and use an earlier version" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right" aria-hidden="true"></span></a>
         <a href="../reusable-content/index.html" class="btn btn-neutral float-left" title="Reusable Content" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left" aria-hidden="true"></span> Previous</a>
     </div>
 
@@ -272,7 +272,7 @@
     <p>
         &#169; Copyright 2022, Precio Fishbone.
       <span class="lastupdated">
-        Last updated on Jul 06, 2022.
+        Last updated on Sep 02, 2022.
       </span>
 
     </p>

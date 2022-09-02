@@ -120,7 +120,7 @@
 </li>
 <li class="toctree-l1"><a class="reference internal" href="../../../../../blocks/index.html">Blocks</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../../../general-assets/index.html">General assets and options</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../../../../../pages/index.html">Pages</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../../../pages/index.html">Pages and page navigation</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../../../working-with-documents/index.html">Working with Documents</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../../../working-with-processes/index.html">Working with Processes</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../../../working-with-events/index.html">Working with Events</a></li>
@@ -211,8 +211,7 @@
   <div class="section" id="apps-for-teamwork">
 <h1>Apps for Teamwork<a class="headerlink" href="#apps-for-teamwork" title="Permalink to this headline">¶</a></h1>
 <p>Here Teamworks are listed, the “Active” tab as an example:</p>
-<img alt="../../../../../_images/teamwork-65-apps-new.png" src="../../../../../_images/teamwork-65-apps-new.png" />
-<p>In Omnia 6.10 and later an “Inactive” tab has been added. For more information, see the end of the page.</p>
+<img alt="../../../../../_images/teamwork-apps-new-610.png" src="../../../../../_images/teamwork-apps-new-610.png" />
 <div class="section" id="active">
 <h2>Active<a class="headerlink" href="#active" title="Permalink to this headline">¶</a></h2>
 <p>Use the icons this way on the Active tab:</p>
@@ -264,7 +263,7 @@ the connected Sharepoint site.</p>
 <p><strong>Note!</strong> Requesting a Teamwork must always be done from start each time. If rejected, nothing from the request is saved.</p>
 <div class="section" id="important-note-about-site-ownership-when-approving">
 <h3>Important note about Site Ownership when approving<a class="headerlink" href="#important-note-about-site-ownership-when-approving" title="Permalink to this headline">¶</a></h3>
-<p>Because of caching issues in Sharepoint, it can take some time, even up to 2 hours after approval, before site ownership will work as intended - as set in the Teamwork Creation Wizard in Omnia. During this time, the Approver will have Owner permissions.</p>
+<p>If you’re using an Omnia version earlier than 6.10: Because of caching issues in Sharepoint, it can take some time, even up to 2 hours after approval, before site ownership will work as intended - as set in the Teamwork Creation Wizard in Omnia. During this time, the Approver will have Owner permissions. (In Omnia 6.10 and later this is now longer an issue).</p>
 </div>
 </div>
 <div class="section" id="orphaned">
@@ -272,6 +271,18 @@ the connected Sharepoint site.</p>
 <p>(This tab works the same way as the tab that was called “Inactive” in Omnia 6.0).</p>
 <p>When a site of the type Microsoft 365 Team Site, Sharepoint Team Site or Sharepoint Communication Site is created, a Sharepoint site is created and is connected to the site. A Yammer Group can also need a Sharepoint site, depending on how the Yammer Group is set up.</p>
 <p>The connected Sharepoint site may be deleted for some reason, but when that happens the Omnia site may not. When this happens a link to the site is placed in this list, so an administrator can take actions.</p>
+</div>
+<div class="section" id="inactive">
+<h2>Inactive<a class="headerlink" href="#inactive" title="Permalink to this headline">¶</a></h2>
+<p>A teamwork is considered inactive if Last Activity, as registered in the Sharepoint site, is more thna three months old.</p>
+<img alt="../../../../../_images/teamwork-apps-inactive.png" src="../../../../../_images/teamwork-apps-inactive.png" />
+<p>Here administrators can check/edit the settings for the teamworks and delete a teamwork that is not needed. The list can be sorted by “Created Date” or ´”Last Activity”, to for example see if any activity has taken place at all.</p>
+<p>Click SYNCHRONIZE LAST ACTIVITY to update the list with the latest activities. The list is not updated automatically. Note that if there are a huge number of teamworks in your solution, the update can take some time.</p>
+<p>Click the pen to check the settings for a teamwork. All settings can then be checked an edited:</p>
+<img alt="../../../../../_images/teamwork-apps-inactive-edit.png" src="../../../../../_images/teamwork-apps-inactive-edit.png" />
+<p>To delete a teamwork, click the dust bin. Then this is shown:</p>
+<img alt="../../../../../_images/teamwork-apps-inactive-edit-ok.png" src="../../../../../_images/teamwork-apps-inactive-edit-ok.png" />
+<p><strong>Important Note!</strong> When you click OK here the delete is final. There’s no way to retrieve a deleted teamwork.</p>
 </div>
 <div class="section" id="create-a-teamwork">
 <h2>Create a Teamwork<a class="headerlink" href="#create-a-teamwork" title="Permalink to this headline">¶</a></h2>
@@ -349,18 +360,6 @@ the connected Sharepoint site.</p>
 </ul>
 <p><strong>Note!</strong> What actually happens when you click the dust bin to delete a site, is that the site is detached. That is true for all Teamwork sites, regardless of if they have been created in or attached to Omnia.</p>
 </div>
-<div class="section" id="inactive">
-<h2>Inactive<a class="headerlink" href="#inactive" title="Permalink to this headline">¶</a></h2>
-<p>In Omnia 6.10 and later an “Inactive” tab is available. A teamwork is considered inactive if Last Activity, as registered in the Sharepoint site, is more thna three months old.</p>
-<img alt="../../../../../_images/teamwork-apps-inactive.png" src="../../../../../_images/teamwork-apps-inactive.png" />
-<p>Here administrators can check/edit the settings for the teamworks and delete a teamwork that is not needed. The list can be sorted by “Created Date” or ´”Last Activity”, to for example see if any activity has taken place at all.</p>
-<p>Click SYNCHRONIZE LAST ACTIVITY to update the list with the latest activities. The list is not updated automatically. Note that if there are a huge number of teamworks in your solution, the update can take some time.</p>
-<p>Click the pen to check the settings for a teamwork. All settings can then be checked an edited:</p>
-<img alt="../../../../../_images/teamwork-apps-inactive-edit.png" src="../../../../../_images/teamwork-apps-inactive-edit.png" />
-<p>To delete a teamwork, click the dust bin. Then this is shown:</p>
-<img alt="../../../../../_images/teamwork-apps-inactive-edit-ok.png" src="../../../../../_images/teamwork-apps-inactive-edit-ok.png" />
-<p><strong>Important Note!</strong> When you click OK here the delete is final. There’s no way to retrieve a deleted teamwork.</p>
-</div>
 </div>
 
 
@@ -379,7 +378,7 @@ the connected Sharepoint site.</p>
     <p>
         &#169; Copyright 2022, Precio Fishbone.
       <span class="lastupdated">
-        Last updated on Jul 06, 2022.
+        Last updated on Sep 02, 2022.
       </span>
 
     </p>
