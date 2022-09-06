@@ -23,7 +23,7 @@ To edit a query, click the pen. To add a new query, do the following:
 + **Publishing Apps**: If you choose Publishing Apps as scope, select a publishing app from the list and click ADD. If you want to add several, just repeat the process. For eaach publishing app you can add a filter.
 + **Page Collections**: If you choose Page Collections as scope, first select a publishing app and then select a page collection from the list and click ADD. If you want to add several, just repeat the process. For eaach pagew collection you can add a filter.
 + **SELECT START NODE**: If you choose Navigation Path as scope, you click this button and use the Page Picker to pick a start node. See link to the Page Picker description above.
-+ **Channels**: f you choose Channels as scope, select a channel from the list and click ADD. If you want to add several, just repeat the process. For eaach channel you can add a filter.
++ **Channels**: f you choose Channels as scope, select a channel from the list and click ADD. If you want to add several, just repeat the process. For each channel you can add a filter.
 + **Navigation Depth Level**: Available when you choose Navigation Path as as scope.
 + **Trim duplicates**: If a query could result in one page being listed more than once, select this option to make sure it's only listed once.
 + **Like/Comment/Rating**: If just the latest likes, comments or ratings for a page should be shown, you can select to show the ones from the last week, from two weeks or a month.
