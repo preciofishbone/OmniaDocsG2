@@ -17,6 +17,8 @@ If any publishing to a channel that requires approval has been made, it's noted 
 
 Also note the search field at the top, where you can search for channels, if the list is long.
 
+You can create and edit categories. See this page for more informaion: :doc:`Publishing Channels Categories </admin-settings/tenant-settings/webcontent-managament/publishing-channels-categories/index>`
+
 Create a new channel
 **********************
 Here's how to create a new channel:
