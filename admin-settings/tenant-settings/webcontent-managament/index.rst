@@ -3,7 +3,7 @@ Web Content Management
 
 Here, the following settings are available:
 
-.. image:: webcontent-management-v611.png
+.. image:: webcontent-management-v612.png
 
 Select section for more information:
 
@@ -14,7 +14,6 @@ Select section for more information:
    sharepoint-sync/index
    publishing-channels/index
    permission/index
-   publishing-channels-categories/index
    page-types/index
 
    
