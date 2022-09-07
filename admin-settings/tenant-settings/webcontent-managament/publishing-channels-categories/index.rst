@@ -1,22 +1,25 @@
 Publishing Channels Categoriries
 ==============================================
 
-Here you can create categories to use with Publishing Channels. Note that if any categories are set up, it's mandatory to add each channel to a category, when a new channel is created.
+You can create categories to use with Publishing Channels. Note that it's mandatory to add each channel to a category, when a new channel is created.
+
+To work with Publishing Channels Categories, click the cogwheel.
+
+.. image:: publishing-channels-categories-gogwheel.png
 
 If any categories are set up, they are listed here, for example:
 
 .. image:: publishing-channels-categories-list.png
 
-Use the pen to edit a category, the dust bin to delete it.
+Use the pen to edit a category, the dust bin to delete it. Note that the categorie "General" is defaullt and can not be deleted, but it can be renamed.
 
 To create a new category, click the plus:
 
 .. image:: publishing-channels-categories-list-plus.png
 
-Use the followihg settings:
+Add a title for the new categorie and save:
 
-.. image:: publishing-channels-categories-new.png
+.. image:: publishing-channels-categories-new2.png
 
-+ **Title**: Add a title in any or several of the tenant languages. Click the flag to change language.
-+ **Order**: (A description will be added soon).
+You can add a title in any or several of the tenant languages. Click the flag to change language.
 
