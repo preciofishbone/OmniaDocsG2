@@ -1,4 +1,4 @@
-Publishing Channels Categoriries
+Publishing Channels Categories
 ==============================================
 
 You can create categories to use with Publishing Channels. Note that it's mandatory to add each channel to a category, when a new channel is created.
