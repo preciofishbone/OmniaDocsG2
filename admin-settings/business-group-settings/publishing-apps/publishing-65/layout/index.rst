@@ -61,10 +61,10 @@ One thing that is perhaps not that obvious is how to delete a layout, if needed.
 
 Create a layout for Controlled Documents editing
 *****************************************************************
-If the purpose of the layout should be to possible to work with Controlled Documents in a Publishing APP, add this blocks under Miscellaneous:
+If the purpose of the layout should be to make it possible to work with Controlled Documents in a Publishing APP, add this block under Miscellaneous:
 
 .. image:: documents-process-block.png
 
-Also note that settings for this block then is available the ussual way:
+Also note that settings for this block then is available the usual way:
 
 .. image:: documents-process-block-settings.png
