@@ -130,7 +130,7 @@ Don't forget to save. The "Save" button is located in the lower right corner.
 
 Retention
 ***********
-Here you can edit the settings for automatic termination, for the pages in this app. 
+Here you can edit the settings for automatic termination, for the pages in this app that has been archived. 
 
 .. image:: page-settings-retention.png
 
