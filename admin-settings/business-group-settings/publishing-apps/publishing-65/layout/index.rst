@@ -1,7 +1,7 @@
 Publishing Layouts
 =============================
 
-Here you can create aned edit ready made layouts for publishing pages. If you're planning to add the posibility to work with Controlled Documents in a Publishing App, you use this option to create a layout for that functionality. For more infomration how to create a layout for Controlled Documents, see the end of the page.
+Here you can create aned edit ready made layouts for publishing pages. If you're planning to add the possibility to work with Controlled Documents in a Publishing App, you use this option to create a layout for that functionality. For more information on how to create a layout for Controlled Documents, see the end of the page.
 
 To create a new layout, do the following:
 
@@ -61,7 +61,7 @@ One thing that is perhaps not that obvious is how to delete a layout, if needed.
 
 Create a layout for Controlled Documents editing
 *****************************************************************
-If the purpose of the layout should be to make it possible to work with Controlled Documents in a Publishing APP, add this block under Miscellaneous:
+If the purpose of the layout is to make it possible to work with Controlled Documents in a Publishing App, add this block under Miscellaneous:
 
 .. image:: documents-process-block.png
 
