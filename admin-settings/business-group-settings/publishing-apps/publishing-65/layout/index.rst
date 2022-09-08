@@ -1,7 +1,7 @@
 Layouts for Publishing Apps
 =============================
 
-Here you can work with ready made layouts for publishing start pages.
+Here you can create aned edit ready made layouts for publishing pages. If you're planning to add the posibility to work with Controlled Documents in a Publishing App, you use this option to create a layout for that functionality.
 
 To create a new layout, do the following:
 
