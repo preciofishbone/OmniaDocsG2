@@ -149,6 +149,6 @@ For more information about layouts for publishing, see this page: :doc:`Publishi
 
 When it's possible to work with controlled documents in this publishing app, it's done by selecting this menu option:
 
-.. images:: documents-menu-option.png
+.. image:: documents-menu-option.png
 
 
