@@ -38,7 +38,7 @@ To set up a new synchronization, do the following:
 
 1. Click the plus.
 
-.. image:: synchro-click-plus.png
+.. image:: synchro-click-plus-612.png
 
 2. Use the following settings:
 
