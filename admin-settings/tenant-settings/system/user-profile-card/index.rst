@@ -23,8 +23,8 @@ The following settings are available:
 + **Show link to Details**: If it should be possible to go to the person's profile from the User Profile Card, select this option. In Omnia online the person's Delve page is linked to when this option is selected (see the Go to Delve link in images aboove). In Omnia onPrem, the link goes to the person's My Profile page.
 + **Show Strengthen Profile**: If the Strengthen Profile button should be shown on the card, select this option. The button is used to access the Strengthen Profile dialog.
 + **Show my subscriptions**: If the My Subscription button should be shown on the card, select this option. The button is used to access the My Subscriptions dialog.
-+ **Exclude filters**: (a description will be added soon).
-+ **Show blocked sign-in user**: (a description will be added soon).
++ **Exclude filters**: If some users registered in your system should NOT be displayed in the organization tree in the Organization Tree block, add filters for them using Azure AD properties and value.
++ **Show blocked sign-in user**: Select this option to list logged in users that are excluded by the filter(s) you have added above. 
 
 For more information about Strengthen Profile, see this page: :doc:`Strengthen Profile </user-options/strengthen-profile/index>`
 
