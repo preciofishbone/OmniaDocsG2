@@ -26,7 +26,7 @@ To add a new sreen, do the following:
 .. image:: page-screens-settings.png
 
 + **Title**: Add a title for the screen. Not shown for users.
-+ **Screen Key**: (A description will be added soon).
++ **Screen Key**: Here you can add an internal, unique name/id for the screen.
 + **JSON/HTML**: Set if view settings used for this screen is JSON or HTML.
 + **JSON View/HTML View**: Select the view to use for this screen.
 
