@@ -5,8 +5,6 @@ Sharepoint User Profiles Sync
 
 This option was in earlier Omnia versions called "Azure AD Sync". In Omnia 6.12, this option works this way:
 
-.. image:: sharepoint-user-profiles-sync.png
-
 Use these advanced settings to make sure person properties are synchronized from Azure AD to Sharepoint. 
 
 **Note:** The Azure AD Sync must now be set up to use SharePoint Addin App identity instead of a user account. This will allow the tenant to turn off legacy sign in and still use the Azure AD Sync, see *Enable Sharepoint App-Only* below.
@@ -15,7 +13,7 @@ Use these advanced settings to make sure person properties are synchronized from
 
 These settings and options are available here:
 
-.. image:: azure-ad-overview-new2.png
+.. image:: sharepoint-user-profiles-sync.png
 
 + **SYNCHRONIZE NOW**: Click this button to execute the syncrhonizations set up (listed at the bottom). If you select "Enable Azure AD Synchronization" and set and interval, you don't have to click this button. The synchronization is then executed with the interval set.
 + **Test Sync**: This is an option suitable for administrators to test synchronization for a limited number af users. Setup the sync to test as described below.
