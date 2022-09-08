@@ -27,5 +27,5 @@ Select section for more information:
 
 In Omnia 6.12, "Azure AD Sync" has been relabled "Sharepoint User Profiles Sync" and has a few new options. "Azure AD Sync" is a new option in this menu. For more information, see:
 
-+ Sharepoint User Profiles Sync (link to be added)
-+ Azure AD Sync (link to be added).
++ :doc:`Sharepoint User Profiles Sync </admin-settings/tenant-settings/system/sharepoint-user-profiles-sync/index>`
++ :doc:`Azure AD Sync </admin-settings/tenant-settings/system/azure-ad-sync/index>`
