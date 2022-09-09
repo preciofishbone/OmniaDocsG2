@@ -60,7 +60,7 @@ Any related processes are now listed.
 
 .. image:: related-processes-related-new.png
 
-3. Click in the field and type part of or the whole name of the process you have in mind, to search for it.
+3. Click in the field and type part of, or the whole, name of the process you have in mind, to search for it.
 
 4. Select the process.
 
@@ -70,11 +70,11 @@ Any related processes are now listed.
 
 .. image:: related-processes-sent-new.png
 
-And now your suggestion is sent to the process owner for evaluation, and it's shown this way:
+And now your suggestion is sent to the feedback receiver for the process, for evaluation, and it's shown this way:
 
 .. image:: related-processes-sent-message.png
 
-For information on what the author of the process can do with the sugeestion, see this page: :doc:`The Documents tab - authoring processes </working-with-processes/authoring-processes/working-with-drafts/documents-tab/index>`
+For information on what the author of the process can do with the sugestion, see this page: :doc:`The Documents tab - authoring processes </working-with-processes/authoring-processes/working-with-drafts/documents-tab/index>`
 
 Checking a documents properties
 *********************************
