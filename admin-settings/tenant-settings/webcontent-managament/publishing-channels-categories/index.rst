@@ -1,7 +1,7 @@
 Publishing Channels Categories
 ==============================================
 
-You can create categories to use with Publishing Channels. Note that it's mandatory to add each channel to a category, when a new channel is created.
+You can create categories to use with Publishing Channels. Note that it's mandatory to add each channel to a category, when a new channel is created. If no categories are set up, a new channel is automatically added to the default categpry (General). The default category can be renamed here, if needed.
 
 To work with Publishing Channels Categories, click the cogwheel.
 
