@@ -11,7 +11,7 @@ If any categories are set up, they are listed here, for example:
 
 .. image:: publishing-channels-categories-list.png
 
-Use the pen to edit a category, the dust bin to delete it. Note that the category "General" is defaullt and can not be deleted, but it can be renamed.
+Use the pen to edit a category, the dust bin to delete it. Note that the category "General" is default and can not be deleted, but it can be renamed.
 
 To create a new category, click the plus:
 
