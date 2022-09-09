@@ -1,7 +1,7 @@
 The Documents tab - authoring processes
 ===========================================
 
-Use this tab to create a list of controlled docucuments that are applicable tor the process or process step. The top part of the list displays the documents that already has been related to this process. The second part lists suggestions that authors of controlled documents has made, for example:
+Use this tab to create a list of controlled documents that are applicable tor the process or process step. The top part of the list displays the documents that already has been related to this process. The second part lists suggestions that authors of controlled documents has made, for example:
 
 .. image:: process-documents-new.png
 
