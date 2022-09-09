@@ -46,39 +46,35 @@ You can relate a published document to other published documents. How to do that
 
 Related Processes
 *******************
-Using this option you can see if a document is related to any process(es) - meaning added as a document to the process(es). You can also suggest that the document should be added (related) to a process. The suggestion is sent to the process owner.
+Using this option you can see if a document is related to any process(es) - meaning added as a document to the process(es). You can also suggest that the document should be added (related) to a process. The suggestion is sent to the feedback receiver for the process.
 
 To check if a dcument is related to any process(es), do the following:
 
 1. Open the dot menu for the document and select "Related Processes".
 
-.. image:: related-processes-menu.png
+.. image:: related-processes-menu-new.png
 
-If the document is related to any process, this is noted at the top.
+Any related processes are now listed.
 
-.. image:: related-processes-related.png
+2. To suggest that this document should be relate to a process, click ADD SUGEESTIONS.
 
-You can click the link to go to the process. 
-
-You can suggest that a document should be realted to one or more processes, regardless of the document having relations before or no.
-
-To suggest that the document should be related to a process, do the following:
-
-1. Open the dialog as described above.
-2. Click ADD SUGGESTION.
-
-.. image:: related-processes-click-add.png
+.. image:: related-processes-related-new.png
 
 3. Click in the field and type part of or the whole name of the process you have in mind, to search for it.
 
-.. image:: related-processes-click-search.png
-
 4. Select the process.
+
+.. image:: related-processes-click-search-new.png
+
 5. Select the process again in the next step, and the click SAVE.
 
-.. image:: related-processes-sent.png
+.. image:: related-processes-sent-new.png
 
-And now your suggestion is sent to the process owner for evaluation.
+And now your suggestion is sent to the process owner for evaluation, and it's shown this way:
+
+.. image:: related-processes-sent-message.png
+
+For information on what the author of the process can do with the sugeestion, see this page: :doc:`The Documents tab - authoring processes </working-with-processes/authoring-processes/working-with-drafts/documents-tab/index>`
 
 Checking a documents properties
 *********************************
