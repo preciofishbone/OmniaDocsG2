@@ -25,7 +25,7 @@ To accept the suggestion, click here:
 
 To reject the suggestion, click the dust bin for the document. 
 
-For more information on how it works when an author suggests a document to be related to a process, see the heading "Related Processes" in this page :doc:`Working with Published documents </working-with-documents/authoring-controlled-documents/working-with-published-documents
+For more information on how it works when an author suggests a document to be related to a process, see the heading "Related Processes" on this page :doc:`Working with Published documents </working-with-documents/authoring-controlled-documents/working-with-published-documents`
 
 Create a Document Rollup for the Documents tab
 ************************************************
