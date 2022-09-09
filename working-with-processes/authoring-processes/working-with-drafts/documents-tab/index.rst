@@ -19,7 +19,7 @@ Resolve suggestions
 ********************
 Any author of controlled documents can suggest that a document should be related to this project, meaning added to the Documents list. It is up to you to accept ot reject the suggestion. You can click the link to read the document. You can also see who sent the suggestion and contact the colleague for further discussions.
 
-To accsept the suggestion, click here:
+To accept the suggestion, click here:
 
 .. image:: process-accept-suggestion.png
 
