@@ -29,7 +29,7 @@ For more information on how it works when an author suggests a document to be re
 
 Create a Document Rollup for the Documents tab
 ************************************************
-Another to populate the list with documents is to create a document rollup. Click here to do that:
+Another way to populate the list with documents is to create a document rollup. Click here to do that:
 
 .. image:: process-document-rollup.png
 
