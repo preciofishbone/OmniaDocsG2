@@ -5,7 +5,7 @@ Use this tab to create a list of controlled documents that are applicable tor th
 
 .. image:: process-documents-new.png
 
-Ypu can click the link to read a document.
+You can click the link to read a document.
 
 Add documents
 ****************
