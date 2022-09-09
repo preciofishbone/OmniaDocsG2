@@ -15,4 +15,4 @@ Here's an example with an organization tree based on John Faulkner. He reports t
 
 .. image:: organization-tree-example.png
 
-
+If there are users registered in your system that should not appear in the organization tree, they can be excluded. See the description of "Exclude filters" at the bottom of this page: :doc:`User Profile Card settings </admin-settings/tenant-settings/system/user-profile-card/index>`
