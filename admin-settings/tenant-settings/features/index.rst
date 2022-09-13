@@ -11,7 +11,7 @@ System
 **********
 + **Enable Custom System Email**: As it states, this feature must be activated if Custom System Email functionality is needed in the tenant.
 + **Web Content Managament file storage**: When activated, the option "Copy documents locally" becomes available in the settings for the Realated Links block. Documents that are locally accessible are versioned together with the page and can be accessed by users without a SharePoint license.
-+ **Teamwork provisioning using application context**: Must be activated for the option to create teamwork in the app's context.
++ **Teamwork provisioning using application context**: If you want users to be able to create Microsoft 365 Groups through Omnia templates only, activate this feature. Note that additional settings needs to be made, to make sure Microsoft 365 Group can not be created any other way. More information about how to do this will be added here soon. In the mean time, more information can be found on this Microsoft page: https://docs.microsoft.com/en-us/microsoft-365/solutions/manage-creation-of-groups?view=o365-worldwide
 
 Default configuration
 ******************************
