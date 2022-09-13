@@ -7,7 +7,7 @@ A site Administrator (Owner) can set up which columns to show on this tab. Here'
 
 .. image:: published-example-new3.png
 
-All options are found in the dot menu for a document:
+All options are found in the dot menu for a document (image from Omnia 6.12):
 
 .. image:: published-dot-menu-new2.png
 
@@ -19,7 +19,7 @@ For more information on how to create a new draft, see the heading "Creating a n
 
 Signed copy
 ***************
-Use this option to create a signed copy of a document, that will be shown together with the document.
+In Omnia 6.12, you can use this option to create a signed copy of a document, that will be shown together with the document.
 
 Use the following steps:
 
@@ -50,7 +50,7 @@ Using this option you can see if a document is related to any process(es) - mean
 
 To check if a dcument is related to any process(es), do the following:
 
-1. Open the dot menu for the document and select "Related Processes".
+1. Open the dot menu for the document and select "Related Processes" (image from Omnia 6.12). 
 
 .. image:: related-processes-menu-new.png
 
