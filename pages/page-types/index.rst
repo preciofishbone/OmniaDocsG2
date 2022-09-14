@@ -7,7 +7,7 @@ Some blocks can be added to a page type so they are a part of the layout present
 
 Default content can be added to blocks and you can set if it's allowed to edit this content or not. This option is available for blocks that can be edited in Write mode. 
 
-**Important Note!** If default content is edited in a Page Type, it is valid for new pages created from the Page Type only. The default content is not updated in existing pages.
+**Important Note!** If default content in a block (text or image) is edited in the Page Type, that content is valid for new pages created from the Page Type only. That content is not updated in blocks in existing pages. 
 
 When a new page is created, the Editor or Author can choose page type from any available in the page type list, it can be Local Page Types or Tenant Page Type, if any Tenant Page Types are set up.
 
