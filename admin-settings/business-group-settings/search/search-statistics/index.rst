@@ -1,8 +1,6 @@
 Search Statistics
 ==============================================
 
-**This page is being edited. Will be finished soon.**
-
 This option is available ion Omnia 6.12 and later.
 
 .. image:: search-statistics.png
