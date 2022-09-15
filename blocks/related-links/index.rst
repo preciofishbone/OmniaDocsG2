@@ -23,7 +23,7 @@ The following settings are availble on the SETTINGS tab:
 
 + **Title**: If a title should be shown for the block, add it in this field. If variations exists, only one title can be set, as is this image. In that case, titles in other languages are set in the variations. If no variations exist for the page, you can set the title in the languages active in the tenant. 
 + **Open in Office Web Apps**: When it's a document link; if you want the links to open in Office Web Apps (meaning Microsoft 365), instead fo locally installed applications, select this option.
-+ **Copy documents locally**: You can allow documents that you pick to be locally accessible together with the page, by selecting this option. Documents that are locally accessible are versioned together with the page and can be accessed by users without a SharePoint license. 
++ **Copy documents locally**: You can allow documents that you pick to be locally accessible together with the page, by selecting this option. Documents that are locally accessible are versioned together with the page and can be accessed by users without a SharePoint license. **Note!** The Tenant feature "Web Content Managament file storage" must be activated for this option to be available.
 + **ADD CONTENT**: Click here to add deafault content to the block. Also see below.
 + **Padding**: Add some padding between the block edges and the links list, if needed.
 
