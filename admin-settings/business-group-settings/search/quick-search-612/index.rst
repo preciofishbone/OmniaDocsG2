@@ -1,8 +1,6 @@
 Quick Search settings in Omnia 6.12
 ==============================================
 
-**This page is being edited. Will be finished soon.**
-
 The settings avilable here are valid in all places where Quick Search is available, both from menus and in the Search block. This page describes the settings in Omnia 6.12 and later.
 
 General
@@ -30,6 +28,6 @@ If you select "Custom target", the following is available:
 
 .. image:: quick-search-settings-viewmore-custom.png
 
-+ **Custom target**: (a description will be added soon)
++ **Custom target**: If your organizaton uses another advanced search setup (the View more link goes to an advanced search), you can add the Url here.
 + **Open in new tab**: Select this option if the Custom target link should be opened in a new tab.
 
