@@ -11,10 +11,10 @@ The following settings are available here:
 
 .. image:: quick-search-settings-new4.png
 
-+ **Collect statistic**: 
-+ **Search as you type**:
-+ **Enable Promoted Search Results**: 
-+ **Enable Spelling Suggestions**: 
++ **Collect statistic**: If search statistics should be collected from Quick Searh, select this option. Search results can then be displayed in Omnia Admin (link to be added).
++ **Search as you type**: The search can be executed either when the user hits enter or ongoing while the user types in the search field. Decide how it should work here.
++ **Enable Promoted Search Results**: If it should be possible for promoted search results to be displayed in Quick Search, select this option. For more information, see: :doc:`General Block Settings </admin-settings/business-group-settings/search/promoted-search-results/index>`
++ **Enable Spelling Suggestions**: Select this option to display spelling suggestions in Quick Search. It's the same functionality that Microsoft 365 has. 
 + **Search Categories**: One or more Search Categories can be added (if more than one is available).
 + **Row Limit**: You can set Row Limit for each Search Category. Row Limit is the number of objects per Search Results "page".
 
