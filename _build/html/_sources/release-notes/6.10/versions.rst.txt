@@ -1,3 +1,28 @@
+6.11.9
+========================================
+(Omnia 6.11.9 / Workplace 6.11.4 / WCM 6.11.3 / MS 6.11.2)
+
+- Corrected the calendar rollup multi day event display (#140042).
+- Channels can now be saved on a draft page correctly.
+- Updates to the User Sync to handle users without a User Type (#140052).
+- The organization tree should now load as expected (#140268).
+- Corrected an issue that would cause the wrong quick link to open when last visited sort is used (#140049).
+
+6.11.4
+========================================
+(Omnia 6.11.4 / Workplace 6.11.2 / WCM 6.11.2 / MS 6.11.2)
+
+- Reduced number of requests sent by ODM to reduce risk of throttling.
+- Corrected an issue with the Workspace home title (#139988).
+- Document links in the quick and advanced search now fallback to Path if the selected managed property is empty (#139998).
+- Corrected an issue when changing a calculated filed property.
+- All system emails now follow the Business Profile language; site language is ignored (#139793).
+- Corrected an issue preventing approval of Processes (#140090, #140097).
+- Corrected an issue that would open the wrong document on the second page in the page rollup (#140062, #140089, #140079).
+- My links now opens the links as intended (#140049).
+- Updated the SharePoint User Profile sync instruction to include information about App expiration times.
+
+
 6.11
 ========================================
 

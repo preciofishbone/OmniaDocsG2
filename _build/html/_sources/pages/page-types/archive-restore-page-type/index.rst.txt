@@ -1,7 +1,7 @@
 Delete or restore a Page type
 =================================
 
-An unused Page Type can be deleted. It is the placed in the archive. If the Page Type is used for any active page, it can't be deleted. If the pages are deleted, the Page Type can also be deleted.
+An unused Page Type can be deleted. It is thne placed in the archive. If the Page Type is used for any active page, it can't be deleted. If the pages are deleted, the Page Type can also be deleted.
 
 Do the following to delete a Page Type:
 

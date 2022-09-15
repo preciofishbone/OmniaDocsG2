@@ -5,11 +5,11 @@ The Published tab lists the latest edition of all published documents from this 
 
 A site Administrator (Owner) can set up which columns to show on this tab. Here's an example:
 
-.. image:: published-example-new2.png
+.. image:: published-example-new3.png
 
-All options are found in the dot menu for a document:
+All options are found in the dot menu for a document (image from Omnia 6.12):
 
-.. image:: published-dot-menu-new.png
+.. image:: published-dot-menu-new2.png
 
 Create Draft
 **************
@@ -17,9 +17,64 @@ You can create a new Draft from a published document and start working on the ne
 
 For more information on how to create a new draft, see the heading "Creating a new draft from a published document" on this page: :doc:`Working with Drafts </working-with-documents/authoring-controlled-documents/working-with-drafts/index>`
 
+Signed copy
+***************
+In Omnia 6.12, you can use this option to create a signed copy of a document, that will be shown together with the document.
+
+Use the following steps:
+
+1. Open the dot menu for the document and select "Signed Copy".
+
+.. image:: signed-copy-menu.png
+
+2. Download the copy from here:
+
+.. image:: signed-copy-download.png
+
+3. Sign the document the way your organization do; either sign it digitally or print the document and sign it manually, and then scan it.
+4. Upload the signed copy.
+
+.. image:: signed-copy-upload.png
+
+5. Save when you're done.
+
+.. image:: signed-copy-save.png
+
 Related Documents
 *******************
 You can relate a published document to other published documents. How to do that is described on this page: :doc:`Related Documents </working-with-documents/authoring-controlled-documents/related-documents/index>`
+
+Related Processes
+*******************
+Using this option you can see if a document is related to any process(es) - meaning added as a document to the process(es). You can also suggest that the document should be added (related) to a process. The suggestion is sent to the feedback receiver for the process.
+
+To check if a dcument is related to any process(es), do the following:
+
+1. Open the dot menu for the document and select "Related Processes" (image from Omnia 6.12). 
+
+.. image:: related-processes-menu-new.png
+
+Any related processes are now listed.
+
+2. To suggest that this document should be relate to a process, click ADD SUGEESTIONS.
+
+.. image:: related-processes-related-new.png
+
+3. Click in the field and type part of, or the whole, name of the process you have in mind, to search for it.
+
+4. Select the process.
+
+.. image:: related-processes-click-search-new.png
+
+5. Select the process again in the next step, and the click SAVE.
+
+.. image:: related-processes-sent-new.png
+
+And now your suggestion is sent to the feedback receiver for the process, for evaluation, and it's shown this way:
+
+.. image:: related-processes-sent-message.png
+
+For information on what the author of the process can do with the sugestion, see this page: :doc:`The Documents tab - authoring processes </working-with-processes/authoring-processes/working-with-drafts/documents-tab/index>`
 
 Checking a documents properties
 *********************************
@@ -111,5 +166,4 @@ A document can't be unpublished if a draft has been created for that document. T
 When "Unpublish" is selected, you get a second chance to change your mind:
 
 .. image:: unpublish-2-new2.png
-
 

@@ -186,14 +186,14 @@
 <blockquote>
 <div><ul class="simple">
 <li><p>Course subjects are familiar topics related to your business, like IT, leadership, products, and sales.</p></li>
-<li><p>Course types can describe whether the course is internal or external, or if it is teacher-led or self-service.</p></li>
+<li><p>Course types can describe whether the course is internal, external or self-service.</p></li>
 </ul>
 </div></blockquote>
 <div class="section" id="course-subjects-and-course-types">
 <h2>Course Subjects and Course Types<a class="headerlink" href="#course-subjects-and-course-types" title="Permalink to this headline">¶</a></h2>
 <ol class="arabic simple">
 <li><p>Go to SharePoint admin center &gt; Content services &gt; Term store.</p></li>
-<li><p>Create a new Term Set called Course Types. Add the following terms:</p></li>
+<li><p>Create a new Term Set called Course Types. Add the following terms and change the sort order accordingly:</p></li>
 </ol>
 <blockquote>
 <div><ul class="simple">
@@ -214,20 +214,43 @@
 </ul>
 </div></blockquote>
 <ol class="arabic simple" start="4">
+<li><p>Create a new empty Term Set called Courses.</p></li>
 <li><p>Go to Omnia Admin &gt; Properties &gt; Categories.</p></li>
 <li><p>Create a new category called “Learning”.</p></li>
 <li><p>Go to Omnia Admin &gt; Properties &gt; Enterprise Properties.</p></li>
 <li><p>Create a new property for Course Subject. (Don’t forget to make it SharePoint Searchable).</p></li>
 </ol>
 <img alt="../../_images/best-practice-learning-center-property-coursesubject.png" src="../../_images/best-practice-learning-center-property-coursesubject.png" />
-<ol class="arabic simple" start="8">
+<ol class="arabic simple" start="9">
 <li><p>Create a new property for Course Type.</p></li>
 </ol>
 <img alt="../../_images/best-practice-learning-center-property-coursetype.png" src="../../_images/best-practice-learning-center-property-coursetype.png" />
+<ol class="arabic simple" start="10">
+<li><p>Create a new property for Course.</p></li>
+</ol>
+<img alt="../../_images/best-practice-learning-center-property-course.png" src="../../_images/best-practice-learning-center-property-course.png" />
+<ol class="arabic simple" start="11">
+<li><p>Go to Omnia Admin &gt; Properties &gt; Queryable Properties.</p></li>
+<li><p>Add Course Subject, Course Type and Course to Pages.</p></li>
+</ol>
+<img alt="../../_images/best-practice-learning-center-queryableproperties.png" src="../../_images/best-practice-learning-center-queryableproperties.png" />
+</div>
+<div class="section" id="page-layouts">
+<h2>Page layouts<a class="headerlink" href="#page-layouts" title="Permalink to this headline">¶</a></h2>
+<ol class="arabic simple">
+<li><p>Go to Omnia Admin &gt; Web Content Management &gt; Page Layouts.</p></li>
+<li><p>Create a new page layout for “Internal Course”. (It can be based on the news article layout and then customized according to needs.)</p></li>
+</ol>
+<img alt="../../_images/best-practice-pagelayout-course.png" src="../../_images/best-practice-pagelayout-course.png" />
+<p>Page Rollup Query (Left-hand side):</p>
+<img alt="../../_images/best-practice-pagelayout-course-pagerollup-left.png" src="../../_images/best-practice-pagelayout-course-pagerollup-left.png" />
+<p>Page Rollup Query (Right-hand side):</p>
+<p>Token: {{PublishingApp.PageCollections[“course-dates”]}}</p>
+<img alt="../../_images/best-practice-pagelayout-course-pagerollup-right.png" src="../../_images/best-practice-pagelayout-course-pagerollup-right.png" />
 </div>
 <div class="section" id="learning-center-publishing-app">
 <h2>Learning Center Publishing App<a class="headerlink" href="#learning-center-publishing-app" title="Permalink to this headline">¶</a></h2>
-<ol class="arabic simple" start="9">
+<ol class="arabic simple">
 <li><p>Go to Omnia Admin &gt; [Default Business Profile] &gt; Publishing.</p></li>
 <li><p>Create a new publishing app for the Learning Center.</p></li>
 </ol>
@@ -245,17 +268,6 @@
 </ol>
 <img alt="../../_images/best-practice-learning-center-pagecoll-coursedates.png" src="../../_images/best-practice-learning-center-pagecoll-coursedates.png" />
 </div>
-<div class="section" id="page-layouts">
-<h2>Page layouts<a class="headerlink" href="#page-layouts" title="Permalink to this headline">¶</a></h2>
-<ol class="arabic simple">
-<li><p>Go to Omnia Admin &gt; Web Content Management &gt; Page Layouts.</p></li>
-<li><p>Create a new page layout for “Internal Course”.</p></li>
-</ol>
-<img alt="../../_images/best-practice-pagelayout-course.png" src="../../_images/best-practice-pagelayout-course.png" />
-<p>Page Rollup (Left-hand side):</p>
-<img alt="../../_images/best-practice-pagelayout-course-pagerollup-left.png" src="../../_images/best-practice-pagelayout-course-pagerollup-left.png" />
-<p>Page Rollup (Right-hand side):</p>
-</div>
 </div>
 
 
@@ -270,7 +282,7 @@
     <p>
         &#169; Copyright 2022, Precio Fishbone.
       <span class="lastupdated">
-        Last updated on Sep 02, 2022.
+        Last updated on Sep 14, 2022.
       </span>
 
     </p>

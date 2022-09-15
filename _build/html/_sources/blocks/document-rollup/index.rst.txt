@@ -69,7 +69,7 @@ Additionally you can set:
 
 Display
 ---------------
-You can select "List View", "Summary View", "Group by site" and "Card" and here. Available settings differ depending on your choice.
+You can select "List View", "Summary View", "Group by site" and "Card" here. Available settings differ depending on your choice.
 
 For **List View** you can set the following:
 

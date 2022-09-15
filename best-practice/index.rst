@@ -10,10 +10,10 @@ The following best practices are available today:
 
    knowledge-sharing/index
    news-management/index
-   learning-center/index
 
 Coming up soon:
 
+* Learning Center
 * Enterprise Search
 
 Roadmap ahead:

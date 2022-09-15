@@ -1,4 +1,4 @@
-Sections and Blocks in a Page Type
+Sections and Blocks on a Page Type
 =================================================
 
 This describes how to work with Sections and Blocks for a Page Type. You work the same way with Local Page Types and Tenant Page Types.
@@ -12,6 +12,8 @@ If needed, you can create a section in a column and then select a layout for the
 1. Click the plus for the column.
 
 .. image:: column-layout-click-plus-new.png
+
+Note that it's the same dialog for both sections and blocks you can add to a page or a page layout. The sections are found under "Layout".
 
 2. Open the Layout list.
 
@@ -28,6 +30,46 @@ For a description of available settings for the section, see: :doc:`Settings for
 If needed, you can even go a step further and create a new section in one of the new columns.
 
 **A tip!** The Stepper section is useful when organizing information in steps. It's also used with the new Forms functionality. See below for more information.
+
+Using the Stepper section
+***************************
+A Stepper section is one of the sections you can use.
+
+.. image:: stepper-section.png
+
+A Stepper section makes it possible to organize content in a layout in a wizard-like style. It is possible to configure the Stepper to allow for an author to add new steps in Write mode.
+
+.. image:: working-with-stepper.png
+
+Here's an example where a Stepper section is used:
+
+.. image:: working-with-stepper-example.png
+
+All settings for sections are available for the Stepper section.
+
+Decide to show a section on a device or not
+**********************************************
+When you're working on a section you can select to show it on different devices or not.
+
+Click this icon:
+
+.. image:: device-support-section-new.png
+
+You can now use the following settings:
+
+.. image:: select-device-section-new.png
+
+To hide a section for a device, do the following:
+
+1. Select the device.
+2. Click the pen for Visibility.
+3. Select Hide Section.
+
+To add som padding for the section, for a specific device, do the following:
+
+1. Select the device.
+2. Click the pen for Section Padding.
+3. Set the padding.
 
 Delete a section
 *****************
@@ -76,7 +118,7 @@ Icons now show where you can add the new section, the same way as when you move 
 
 Copy a section from the clipboard
 -----------------------------------
-THere's also a clipboard available, that can be used to copy sections between pages or page types, see: :doc:`Clipboard for sections and blocks </general-assets/layout-explorer/clipboard-sections-blocks/index>`
+There's also a clipboard available, that can be used to copy sections between pages or page types, see: :doc:`Clipboard for sections and blocks </general-assets/layout-explorer/clipboard-sections-blocks/index>`
 
 Adding blocks to a Section
 ***************************
@@ -118,44 +160,4 @@ The following options are available here:
 + **Lock can be edited**: If this option is selected, editors (Design permission) can unlock or lock the settings for the block - and if unlocked, can edit the block's settings.
 
 **Important Note!** Editing contents of a block works as before; content can be edited, if applicable, using Write mode.
-
-Decide to show a section on a device or not
-**********************************************
-When you're working on a section you can select to show it on different devices or not.
-
-Click this icon:
-
-.. image:: device-support-section-new.png
-
-You can now use the following settings:
-
-.. image:: select-device-section-new.png
-
-To hide a section for a device, do the following:
-
-1. Select the device.
-2. Click the pen for Visibility.
-3. Select Hide Section.
-
-To add som padding for the section, for a specific device, do the following:
-
-1. Select the device.
-2. Click the pen for Section Padding.
-3. Set the padding.
-
-Using the Stepper section
-***************************
-A Stepper section is also available.
-
-.. image:: stepper-section.png
-
-A Stepper section makes it possible to organize content in a layout in a wizard-like style. It is possible to configure the Stepper to allow for an author to add new steps in Write mode.
-
-.. image:: working-with-stepper.png
-
-Here's an example where a Stepper section is used:
-
-.. image:: working-with-stepper-example.png
-
-All settings for sections are available for the Stepper section.
 

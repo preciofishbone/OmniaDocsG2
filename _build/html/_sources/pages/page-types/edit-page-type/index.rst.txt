@@ -26,9 +26,7 @@ To edit a Local Page Type, do the following:
 
 .. image:: page-types-click-edit-new.png
 
-7. To edit settings for a section, click the section, and then the cog wheel.
-
-.. image:: page-types-edit-section-new.png
+7. Edit and remove/add sections and blocks the normal way.
 
 For information about Tenant Page Types, see: :doc:`Tenant Page Types </admin-settings/tenant-settings/webcontent-managament/page-types/index>`
 

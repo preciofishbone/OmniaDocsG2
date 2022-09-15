@@ -38,7 +38,7 @@ Rollups
 * Possibility to sort on last activity in Page Rollup.
 * Dynamic positioning of metadata on card view in Page Rollup.
 
-Document System
+Document Management
 ---------------------------------------------
 
 * Support for records (lock on approval).

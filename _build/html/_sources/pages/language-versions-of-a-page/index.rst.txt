@@ -22,10 +22,13 @@ To edit a page variation (if Automatic Machine Translation is not used), for exa
 1. Edit the page.
 2. Select variation to work with.
 
-.. image:: select-variation-new3.png
+.. image:: select-variation-new4.png
 
-3. Edit the blocks as usual.  
+3. Edit the content/blocks as usual.  
 
-.. image:: swedish-variations.png
+.. image:: swedish-variations-new.png
 
 4. Save and publish as ususal.
+
+For more information, see: :doc:`Edit page variations </pages/edit-page-variations/index>`
+

@@ -1,6 +1,8 @@
 Quick Search
 ==================
 
+This page describes the Quick Search settings for Omnia 6.11 or earlier. For 6.12, see: :doc:`Quick Search settings in Omnia 6.12 </admin-settings/business-group-settings/search/quick-search-612/index>`
+
 Quick Search is available in the Heading (can be turned off in settings):
 
 .. image:: quick-search-start-page-new2.png
@@ -15,11 +17,4 @@ For Quick Search, the following settings are available:
 + **Row Limit**: You can set Row Limit for each Search Category. Row Limit is the number of objects per Search Results "page".
 
 For more information about the Search block, see: :doc:`The Search block </blocks/search/index>`
-
-
-
-
-
-
-
 

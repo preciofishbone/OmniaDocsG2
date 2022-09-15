@@ -13,8 +13,8 @@ The following best practices are available today:
 
 Coming up soon:
 
-* Enterprise Search
 * Learning Center
+* Enterprise Search
 
 Roadmap ahead:
 

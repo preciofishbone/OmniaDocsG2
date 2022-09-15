@@ -45,7 +45,7 @@
     <link rel="index" title="Index" href="../../../genindex.html" />
     <link rel="search" title="Search" href="../../../search.html" />
     <link rel="next" title="Delete or restore a Page type" href="../archive-restore-page-type/index.html" />
-    <link rel="prev" title="Sections and Blocks in a Page Type" href="../working-with-sections-and-blocks/index.html" /> 
+    <link rel="prev" title="Sections and Blocks on a Page Type" href="../working-with-sections-and-blocks/index.html" /> 
 </head>
 
 <body class="wy-body-for-nav">
@@ -115,7 +115,7 @@
 <li class="toctree-l2 current"><a class="reference internal" href="../index.html">Page Types</a><ul class="current">
 <li class="toctree-l3"><a class="reference internal" href="../edit-page-type/index.html">Edit a Local Page Type</a></li>
 <li class="toctree-l3"><a class="reference internal" href="../create-new-page-type/index.html">Create a new Page Type</a></li>
-<li class="toctree-l3"><a class="reference internal" href="../working-with-sections-and-blocks/index.html">Sections and Blocks in a Page Type</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../working-with-sections-and-blocks/index.html">Sections and Blocks on a Page Type</a></li>
 <li class="toctree-l3 current"><a class="current reference internal" href="#">Settings for Sections</a></li>
 <li class="toctree-l3"><a class="reference internal" href="../archive-restore-page-type/index.html">Delete or restore a Page type</a></li>
 <li class="toctree-l3"><a class="reference internal" href="../page-type-settings/index.html">Page Type Settings</a></li>
@@ -242,10 +242,11 @@
 <li><p><strong>Add tab</strong>: Ta add a new tab, click here. You edit the settings as described below. To remove a tab, click the dust bin.</p></li>
 </ul>
 <p>By clicking the pen, the following can be set for a tab:</p>
-<img alt="../../../_images/page-types-tabs-pen-new.png" src="../../../_images/page-types-tabs-pen-new.png" />
+<img alt="../../../_images/page-types-tabs-pen-new2.png" src="../../../_images/page-types-tabs-pen-new2.png" />
 <ul class="simple">
-<li><p><strong>Label</strong>: If a label should be shown for the tab, add the label here.</p></li>
-<li><p><strong>Tooltip</strong>: If a tooltip should be shwon for the tab, add it here.</p></li>
+<li><p><strong>Label</strong>: If a label should be shown for the tab, add the label here. You can add a label in any, or all, the tenant languages. Click the flag to change language.</p></li>
+<li><p><strong>Custom Anchor Name</strong>: ¨Here you can set a custom anchor name, if needed. For more information, see below.</p></li>
+<li><p><strong>Tooltip</strong>: If a tooltip should be shown for the tab, add it here.</p></li>
 <li><p><strong>Icon</strong>: First select the “Icon Type” and then select the icon in the list below, if an icon should be shown. (If no icon should be shown, just don’t select an icon, it doesn’t matter that an Icon Type is selected.)</p></li>
 </ul>
 </div>
@@ -254,7 +255,7 @@
 <p>Anchor names are created automatically for sections with type Tab, Accordion and Stepper, based on the Label. When you have entered a label, you can set a custom anchor name, if needed.</p>
 <p>For a section with tabs you can set a custom anchor name for each tab:</p>
 <img alt="../../../_images/custom-anchor-name.png" src="../../../_images/custom-anchor-name.png" />
-<p>See this page for more information on how to use anchors:</p>
+<p>See this page for more information on how to use anchors: <a class="reference internal" href="../../../general-assets/using-anchors/index.html"><span class="doc">Using anchors</span></a></p>
 </div>
 <div class="section" id="general-settings-for-an-accordion-section">
 <h3>General settings for an Accordion section<a class="headerlink" href="#general-settings-for-an-accordion-section" title="Permalink to this headline">¶</a></h3>
@@ -268,7 +269,7 @@
 <p>By clicking the pen, the following can be set for a panel:</p>
 <ul class="simple">
 <li><p><strong>Label</strong>: If a label should be shown for the panel, add the label here.</p></li>
-<li><p><strong>Tooltip</strong>: If a tooltip should be shwon for the panel, add it here.</p></li>
+<li><p><strong>Tooltip</strong>: If a tooltip should be shown for the panel, add it here.</p></li>
 <li><p><strong>Icon</strong>: First select the “Icon Type” and then select the icon in the list below, if an icon should be shown. (If no icon should be shown, just don’t select an icon, it doesn’t matter that an Icon Type is selected.)</p></li>
 </ul>
 <p>If needed, you can set a custom anchor name for each accordion post, the same way as for a section with tabs, see above.</p>
@@ -291,7 +292,7 @@
 <div class="section" id="spacing">
 <h2>Spacing<a class="headerlink" href="#spacing" title="Permalink to this headline">¶</a></h2>
 <p>Here you can set the following:</p>
-<img alt="../../../_images/page-types-spacing-new.png" src="../../../_images/page-types-spacing-new.png" />
+<img alt="../../../_images/page-types-spacing-new2.png" src="../../../_images/page-types-spacing-new2.png" />
 <p>Available options depends on section type chosen.</p>
 <ul class="simple">
 <li><p><strong>Section Padding</strong>: Here you can set some padding within the active section.</p></li>
@@ -303,34 +304,34 @@
 </ul>
 <p>Here’s an example with “Use Full Height” on:</p>
 <img alt="../../../_images/full-height-on.png" src="../../../_images/full-height-on.png" />
-<p>And here’s the same page with the option off for the left section:</p>
+<p>And here’s the same page with the option off for the left section (Upcoming Events):</p>
 <img alt="../../../_images/full-height-off.png" src="../../../_images/full-height-off.png" />
 </div>
 <div class="section" id="style">
 <h2>Style<a class="headerlink" href="#style" title="Permalink to this headline">¶</a></h2>
-<p>Available settings for Style depends on section type chosen.</p>
-<div class="section" id="style-settings-for-columns">
-<h3>Style settings for columns<a class="headerlink" href="#style-settings-for-columns" title="Permalink to this headline">¶</a></h3>
-<p>If it’s a section with columns, this can be set for Style, for the active section:</p>
-<img alt="../../../_images/page-types-style-new2.png" src="../../../_images/page-types-style-new2.png" />
-<p>At the bottom, the selected Crop Ratios are listed, for example:</p>
-<img alt="../../../_images/page-types-style-crop-ratios.png" src="../../../_images/page-types-style-crop-ratios.png" />
+<p>Available settings for Style can vary depending on section type. The options available for all section types are the following:</p>
+<img alt="../../../_images/page-types-style-new3.png" src="../../../_images/page-types-style-new3.png" />
 <ul class="simple">
 <li><p><strong>Elevation</strong>: With this setting you can make the content of the section “stand out” from the page. Use the slider to set how much.</p></li>
 <li><p><strong>Background color</strong>: A default background color for sections are set in Omnia Admin. You can set another background color for this section here, if needed. You can try out RANDOM or set the color using ADD COLOR.</p></li>
 <li><p><strong>Background image</strong>: Another option is to use an image as background in this section. When you click “Add Image”, the Media Picker starts. See this page for more information: <a class="reference internal" href="../../../general-assets/media-picker/index.html"><span class="doc">Media Picker</span></a></p></li>
 <li><p><strong>Editable in Write Mode</strong>: As Default, Design Mode is needed to edit background image. If it should be possible using Write Mode as well, select this option.</p></li>
+<li><p><strong>Page Image Property</strong>: Here you can select a property to get the page image from.</p></li>
+<li><p><strong>Default Scaling</strong>: You can select a default scaling for the images, but this can be changed by an author (Write mode). Possible scalings are set up in Omnia Admin.</p></li>
+<li><p><strong>Force Default Scaling</strong>: Select this option to make sure images always are scaled using the default scaling set above. If you do, scaling can not be edited using Write mode.</p></li>
 <li><p><strong>Crop Ratios</strong>: Crop Ratios are set up in Omnia Admin for the Media Picker. Here you can decide which of these should be available for authors to use in this section. To add a Crop Ratio, select it in the list and click the plus. To remove a Crop ratio, click the dust bin. You can also set the order in which the Crop Ratios are shown, by drag and drop.</p></li>
 </ul>
 <p>For more information about Crop Ratios, se this page: <a class="reference internal" href="../../../admin-settings/tenant-settings/settings/media-picker/index.html"><span class="doc">Media Picker Settings</span></a></p>
+<div class="section" id="style-settings-for-a-section-with-columns">
+<h3>Style settings for a section with columns<a class="headerlink" href="#style-settings-for-a-section-with-columns" title="Permalink to this headline">¶</a></h3>
+<p>Only the common settings, see above.</p>
 </div>
-<div class="section" id="style-settings-for-tabs">
-<h3>Style settings for tabs<a class="headerlink" href="#style-settings-for-tabs" title="Permalink to this headline">¶</a></h3>
-<p>If it’s a section with tabs, this can be set for Style, for the active section:</p>
-<img alt="../../../_images/page-types-style-tabs-new.png" src="../../../_images/page-types-style-tabs-new.png" />
+<div class="section" id="style-settings-for-a-tab-section">
+<h3>Style settings for a Tab section<a class="headerlink" href="#style-settings-for-a-tab-section" title="Permalink to this headline">¶</a></h3>
+<p>If it’s a section with tabs, you can set all the common settings, and also:</p>
+<img alt="../../../_images/page-types-style-tabs-new4-frame.png" src="../../../_images/page-types-style-tabs-new4-frame.png" />
 <p>(Not all options are shown in the image, but listed below).</p>
 <ul class="simple">
-<li><p><strong>Tab Type</strong>: You can select “Tab” or “Accordion” as Tab Type.</p></li>
 <li><p><strong>Vertical</strong>: If the labels for the tabs should be shown vertically, select this option.</p></li>
 <li><p><strong>Show Active Slider</strong>: If the active tab should be indicated, select this option.</p></li>
 <li><p><strong>Fill Space</strong>: If the tab labels should fill the available space, either horisontally or vertically, depending on what you have chosen, select this option.</p></li>
@@ -338,50 +339,28 @@
 <li><p><strong>Icon Alignment</strong>: If you are using an icon you can set Icon Alignment within the available space for the icon.</p></li>
 <li><p><strong>Custom Size</strong>: If you would like to set minimum height and width for the tabs, select this option, and then use the sliders.</p></li>
 <li><p><strong>Border Radius</strong>: Use this slider to set the border radius between tabs in the section.</p></li>
-<li><p><strong>Color</strong>: Select “Color” for various color settings for the tabs.</p></li>
-<li><p><strong>Collapsed Accordion</strong>: Used for Tab Typ Accordion only. If this option is selected, all accordions will be collapsed when page is loaded.</p></li>
-<li><p><strong>Flat Header</strong>: Per default, the tab is slightly elevated. Select this option to make it flat.</p></li>
 </ul>
 </div>
-<div class="section" id="style-settings-for-accordion">
-<h3>Style settings for Accordion<a class="headerlink" href="#style-settings-for-accordion" title="Permalink to this headline">¶</a></h3>
-<p>If it’s an Accordion section, the following Style settings are available for the active section:</p>
-<img alt="../../../_images/page-types-style-accordion.png" src="../../../_images/page-types-style-accordion.png" />
+<div class="section" id="style-settings-for-accordion-section">
+<h3>Style settings for Accordion section<a class="headerlink" href="#style-settings-for-accordion-section" title="Permalink to this headline">¶</a></h3>
+<p>If it’s an Accordion section, the following Style settings can be set, in addition to the common ones:</p>
+<img alt="../../../_images/page-types-style-accordion-new2.png" src="../../../_images/page-types-style-accordion-new2.png" />
 <p>(Not all options are shown in the image, but listed below).</p>
 <p>Under <strong>General</strong>, the following is available:</p>
 <ul class="simple">
 <li><p><strong>Collapsed Accordion</strong>: If this option is selected, all accordions will be collapsed when page is loaded.</p></li>
 <li><p><strong>Flat Header</strong>: Per default, the tab is slightly elevated. Select this option to make it flat.</p></li>
 <li><p><strong>Single Select</strong>: When this option is selected, only one accordion can be open at a time. When a user expands an accordion, any other accordion that may be open is closed.</p></li>
-<li><p><strong>Elevation</strong>: For an elevated look, use this slider.</p></li>
-<li><p><strong>Background color</strong>: Use these two options to set background color: RANDOM and ADD COLOR.</p></li>
-<li><p><strong>Acrylic Transparency Effect</strong>: You can try this effect and see a preview in the section.</p></li>
-<li><p><strong>Background</strong>: To select a background image, click ADD IMAGE and use the Media Picker to select image.</p></li>
-<li><p><strong>Editable in Write Mode</strong>: if it should be possibe to edit background image in Write mode, select this option. If not, it’s only possible in Design mode.</p></li>
-<li><p><strong>Page Image Property</strong>: This setting is used for image in rollups. Select the property to get that image from.</p></li>
-<li><p><strong>Crop Ratios</strong>:  This setting is used for image in rollups. To add a crop ratio, select it in the list and click the plus. Use the right-most icon to decide the order. To delete a ctop ratio, click the dust bin.</p></li>
 </ul>
 </div>
 <div class="section" id="style-settings-for-stepper">
 <h3>Style settings for Stepper<a class="headerlink" href="#style-settings-for-stepper" title="Permalink to this headline">¶</a></h3>
-<p>If it’s a Stepper section, the following Style settings are available for the active section:</p>
-<img alt="../../../_images/page-types-style-stepper-new.png" src="../../../_images/page-types-style-stepper-new.png" />
-<p>(Not all options are shown in the image, but listed below).</p>
-<p>Under <strong>General</strong>, the following is available:</p>
-<ul class="simple">
-<li><p><strong>Elevation</strong>: For an elevated look, use this slider.</p></li>
-<li><p><strong>Background color</strong>: Use these two options to set background color: RANDOM and ADD COLOR.</p></li>
-<li><p><strong>Acrylic Transparency Effect</strong>: You can try this effect and see a preview in the section.</p></li>
-<li><p><strong>Background</strong>: To select a background image, click ADD IMAGE and use the Media Picker to select image.</p></li>
-<li><p><strong>Editable in Write Mode</strong>: if it should be possibe to edit background image in Write mode, select this option. If not, it’s only possible in Design mode.</p></li>
-<li><p><strong>Page Image Property</strong>: Select the property to get the background image from, for the section, if applicable.</p></li>
-<li><p><strong>Crop Ratios</strong>: To add a crop ratio, select it in the list and click the plus. Use the right-most icon to decide the order. To delete a ctop ratio, click the dust bin.</p></li>
-</ul>
+<p>For a Stepper section, only the common settings are available, see above.</p>
 </div>
 <div class="section" id="effects">
 <h3>Effects<a class="headerlink" href="#effects" title="Permalink to this headline">¶</a></h3>
 <p>Additional effects are avilable here, for all section types:</p>
-<img alt="../../../_images/sections-effects.png" src="../../../_images/sections-effects.png" />
+<img alt="../../../_images/sections-effects-new.png" src="../../../_images/sections-effects-new.png" />
 <p>Try them and see the effect - a preview is shown in the active section.</p>
 <p>And don’t forget to test Divider Effects - there are some really cool effects in that list.</p>
 </div>
@@ -395,16 +374,16 @@
 <div class="section" id="header">
 <h2>Header<a class="headerlink" href="#header" title="Permalink to this headline">¶</a></h2>
 <p>Here you can set the following:</p>
-<img alt="../../../_images/page-types-settings-header-new.png" src="../../../_images/page-types-settings-header-new.png" />
+<img alt="../../../_images/page-types-settings-header-new2.png" src="../../../_images/page-types-settings-header-new2.png" />
 <ul class="simple">
-<li><p><strong>Title</strong>: If you want a Title to be displayed for the section, add it here. Not mandatory.</p></li>
+<li><p><strong>Title</strong>: If you want a Title to be displayed for the section, add it here. Not mandatory. You can add a title in any or all the tenant languages. Click the flag to change language.</p></li>
 <li><p><strong>Icon Type/Icon</strong>: If you would like to use an icon, first select type and then icon from the list.</p></li>
-<li><p><strong>Custom Settings</strong>: If you don’t want to use the global settings for the business profile, for this section, Select Custom Settings.</p></li>
+<li><p><strong>Custom Settings</strong>: If you don’t want to use the global settings for the business profile, for this section, Select Custom Settings (selected in the image above).</p></li>
 </ul>
 <p>The global settings are set in Omnia Admin, see this page: <a class="reference internal" href="../../../admin-settings/business-group-settings/settings/block-title/index.html"><span class="doc">Content Header (Business Profile)</span></a></p>
 <p>When selecting custom settings, the following is available:</p>
-<img alt="../../../_images/page-types-settings-header-custom-new3.png" src="../../../_images/page-types-settings-header-custom-new3.png" />
-<p>This is the same settings as Content Header settings for the Business Profile, see the link above.</p>
+<img alt="../../../_images/page-types-settings-header-custom-new4.png" src="../../../_images/page-types-settings-header-custom-new4.png" />
+<p>This is the same settings as Content Header settings for the Business Profile, see: <a class="reference internal" href="../../../admin-settings/business-group-settings/settings/block-title/index.html"><span class="doc">Content Header Settings (Business Profile)</span></a></p>
 </div>
 <div class="section" id="targeting">
 <h2>Targeting<a class="headerlink" href="#targeting" title="Permalink to this headline">¶</a></h2>
@@ -426,7 +405,7 @@
           <footer>
     <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
         <a href="../archive-restore-page-type/index.html" class="btn btn-neutral float-right" title="Delete or restore a Page type" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right" aria-hidden="true"></span></a>
-        <a href="../working-with-sections-and-blocks/index.html" class="btn btn-neutral float-left" title="Sections and Blocks in a Page Type" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left" aria-hidden="true"></span> Previous</a>
+        <a href="../working-with-sections-and-blocks/index.html" class="btn btn-neutral float-left" title="Sections and Blocks on a Page Type" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left" aria-hidden="true"></span> Previous</a>
     </div>
 
   <hr/>
@@ -435,7 +414,7 @@
     <p>
         &#169; Copyright 2022, Precio Fishbone.
       <span class="lastupdated">
-        Last updated on Sep 02, 2022.
+        Last updated on Sep 14, 2022.
       </span>
 
     </p>
