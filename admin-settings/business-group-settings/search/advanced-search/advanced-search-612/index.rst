@@ -18,6 +18,8 @@ In Omnia 6.12 and later, you can use these settings:
 + **Item per page**: Here you can see the Item per page setting for each category.
 + **Refiners**: In this column you can see the number of refiners added for the category. 
 
+The search categories are set up under "Search Config". Here you can decide which of them to use for Advanced search. For more infomation about setting up search categories, see: :doc:`Search Config </admin-settings/business-group-settings/search/search-config/index>`
+
 To edit aettings for a category, click the pen. All settings available when creating a new category can be edited, see below.
 
 You can decide the order for a category and it's refiners by grabbing the left most icon and use drag and drop. 
@@ -36,8 +38,6 @@ To remove a category (or reather deicde not to use it), do the following:
 
 Adding a search category
 *************************
-The search categories are set up under "Search Config". Here you can decide which of them to use for Advanced search. For more infomation about setting up search categories, see: :doc:`Search Config </admin-settings/business-group-settings/search/search-config/index>`
-
 To Add a new category here, and set refiners for it, do the following:
 
 1. Open the list and select a category.
