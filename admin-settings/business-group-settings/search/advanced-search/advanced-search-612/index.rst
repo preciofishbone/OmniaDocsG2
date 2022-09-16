@@ -54,7 +54,7 @@ To Add a new category and set refiners for it, do the following:
 + **Row Limit**: Select number of search result rows to be displayed before a Show more link is displayed. 
 + **Image/Icon size**: You can set this to Small, Medium or Large.
 + **Image Ratio**: Image ratio for the image used in the search result cam be set to Landscape, Square or Wide.
-+ **Refiners**: Use this option to add refiners for the Search Category (click the plus to add).
++ **Refiners**: Use this option to add refiners for the search category.
 
 To add a new refiner for the category, do the following:
 
