@@ -9,40 +9,70 @@ In Omnia 6.12 and later, you can use these settings:
 
 + **Collect statistic**: If search statistics should be collected from Advanced Searh, select this option. Search results can then be displayed in Omnia Admin. For more information, see: :doc:`Search statistics </admin-settings/business-group-settings/search/search-statistics/index>`
 + **Search as you type**: The search can be executed either when the user hits enter or ongoing while the user types in the search field. Decide how it should work here.
-+ **Enable Promoted Search Results**: If it should be possible for promoted search results to be displayed in Quick Search, select this option. For more information, see: :doc:`General Block Settings </admin-settings/business-group-settings/search/promoted-search-results/index>`
-+ **Enable Spelling Suggestions**: Select this option to display spelling suggestions in Quick Search. It's the same functionality that Microsoft 365 has. 
 + **Hide Categories**: If categories should not be shown for users, select this option.
 + **Enable Promoted Search Results**: If it should be possible to see a promoted search result, select this option. Default=selected. For more information, see below.
 + **Enable Search Feedback**: If it should be possible for users to send feedback on an advanced search result, select this option. For more information, see below.
++ **Enable Spelling Suggestions**: Select this option to display spelling suggestions in Advanced Search. It's the same functionality that Microsoft 365 has. 
 + **Number of Result Columns**: Set the number of columns for the search result here.
-+ **Refiner Positions**: Select where the Refiners will be placed - Left or Right.
++ **Refiner Position**: Select where the Refiners will be placed - Left or Right.
 + **Refiners collapsed by default**: Per default, just the headings for the refiners are displayed. If all all options for the refiners always should be shown, select this option. 
 + **Search Categories**: Open the list to add or remove Search Categories to use in Advanced Search.
++ **Item per page**: Here you can see the Item per page setting for each category.
++ **Refiners**: In this column you can see the number of refiners added for the category. 
 
-Additional settings can be reached by clicking the pen for a Search Category, for example:
+To edit aettings for a category, click the pen. All settings available when creating a new category can be edited, see below.
 
-.. image:: advanced-search-category-settings-67.png
+You can decide the order for a category and it's refiners by grabbing the left most icon and use drag and drop. 
 
-+ **Row Limit**: Select number of search result rows for each "page". 
+To remove a category, do the following:
+
+1. Open the list of categories.
+
+.. image:: categories-list.png
+
+2. Deselect the category.
+
+.. image:: categories-deselect.png
+
+Adding a new category
+**********************
+
+To Add a new category and set refiners for it, do the following:
+
+1. Open the list and select a category to use as refiner.
+
+.. image:: new-refiner-1-612.png
+
+2. Click the pen to enter the settings.
+
+.. image:: new-refiner-3-612.png
+
+3. Set the following:
+
+.. image:: new-refiner-4-612.png
+
++ **Row Limit**: Select number of search result rows to be displayed before a Show more link is displayed. 
 + **Image/Icon size**: You can set this to Small, Medium or Large.
-+ **Image Rario**: Image ratio for the image used in the search result cam be set to Landscape, Square or Wide.
++ **Image Ratio**: Image ratio for the image used in the search result cam be set to Landscape, Square or Wide.
 + **Refiners**: Use this option to add refiners for the Search Category (click the plus to add).
-+ **Order By**: Set the sorting in the refiner's lists; "Count" (=number of hits) or "Alphabetic".
-+ **Refiner Limit**: Set the number of refiner selections to be shown before a "Show more" link is displayed. 
 
-To delete a refiner, just click the dust bin.
+To add a new refiner for the category, do the following:
 
-To create a new refiner, do the following:
+4. Open the list and select a property.
 
-1. Open the list and select a property to use as refiner.
+.. image:: new-refiner-5-612.png
 
-.. image:: new-refiner-1-new2.png
+When you have added one or more refiners for the category, use the cogwheel to edit settings:
 
-2. Set "order By" and "Refiner Limit" and save.
+.. image:: new-refiner-6-612.png
 
-.. image:: new-refiner-3-new2.png
+5. Set the sort order (Alphabetical or Count) and set the Iten per page.
 
-You can decide the order for the refiners by using tha left-most icon and drag and drop.
+.. image:: new-refiner-7-612.png
+
+To delete a refiner, just click the cogwheel.
+
+Save when you are done here, and save on the Advanced Search settings main page as well.
 
 Promoted search results
 *************************
@@ -65,7 +95,4 @@ When the user clicks the button, something like the following is shown:
 If the user do'nt want to send a snapshot of the search results, that option can be deselected.
 
 Administrators can evaluate the feedback here: :doc:`Search feedback </admin-settings/business-group-settings/search/search-feedback/index>`
-
-
-
 
