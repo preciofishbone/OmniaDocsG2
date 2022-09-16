@@ -16,4 +16,4 @@ Select section for more information:
    promoted-search-results/index
    search-feedback/index
 
-In Omnia 6.12, an additional option is available here. See this page for more information: :doc:`Page Statistics </admin-settings/business-group-settings/search/search-statistics/index>`
+In Omnia 6.12, an additional option is available here. See this page for more information: :doc:`Search Statistics </admin-settings/business-group-settings/search/search-statistics/index>`
