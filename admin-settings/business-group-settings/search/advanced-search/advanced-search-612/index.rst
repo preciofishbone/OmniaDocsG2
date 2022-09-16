@@ -65,7 +65,7 @@ To add a new refiner for the category, do the following:
 
 When you have added one or more refiners for the category, use the cogwheel to edit settings:
 
-.. image:: new-refiner-6-612.png
+.. image:: new-refiner-6-612-border.png
 
 5. Set the sort order (Alphabetical or Count) and set the Iten per page.
 
