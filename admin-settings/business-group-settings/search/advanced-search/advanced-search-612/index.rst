@@ -1,8 +1,6 @@
 Advanced Search settings in Omnia 6.12
 ==============================================
 
-**This page is being edited. Will be finished soon.**
-
 In Omnia 6.12 and later, you can use these settings:
 
 .. image:: advanced-search-612-new.png
