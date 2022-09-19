@@ -7,6 +7,8 @@ When editing text in Omnia, a RTF editor can be available. What is available in 
 
 For more information about the settings, see: :doc:`RTF Editor Settings </admin-settings/tenant-settings/settings/rtf-editor/index>`
 
+In omnia 6.12 and later, it's possible to not just copy text från Microsoft Word, but also images. Just select all you want to copy from the Word document, and copy and paste. (In this case, you should not paste text only).
+
 Using the RTF Editor
 **********************
 Here's the options that may be available in the editor:
