@@ -1,3 +1,28 @@
+6.11.15
+========================================
+(6.11.15 / Workplace 6.11.8 / WCM 6.11.11 / MS 6.11.5)
+
+
+6.11.14
+========================================
+(6.11.14 / Workplace 6.11.6 / WCM 6.11.9 / MS 6.11.4)
+
+- Improved stability for attaching existing teamwork to Omnia.
+- Improved stability for scenarios when several features are activated at the same time (#140099, #140153).
+- Stability improvements when moving pages (#140451).
+- Fixed an issue in the Document rollup card view.
+- Fixed an issue with rendering of the search when used as a block on the page.
+- Corrected the data migration for the action button for upgrades between 6.10 and 6.11. (#140150).
+- Updates to Publishing Channel Administration interfaces. 
+- Several DM email notifications have seen their content reviewed and now works correctly. (#140299, #140267).
+- Fixed an issue when saving settings in the Microsoft Search configuration.
+- Improved data loading on the user profile card (#139730).
+- Teamwork naming policies now support text.
+- Extra spaces are no longer added in naming policies for teamwork (#140379).
+- The Birthday value on the people card now hides correctly if it has no value (#140470).
+- Added back missing logic on the page rollup time when social dates are used, and the day is today (#140477).
+
+
 6.11.9
 ========================================
 (Omnia 6.11.9 / Workplace 6.11.4 / WCM 6.11.3 / MS 6.11.2)
