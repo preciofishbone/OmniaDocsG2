@@ -2,6 +2,13 @@
 ========================================
 (6.11.15 / Workplace 6.11.8 / WCM 6.11.11 / MS 6.11.5)
 
+- Improved support for several different locals for SharePoint Birthday. (#136858).
+- The Summary field can now be used in results from Microsoft Search.
+- To avoid confusion and minimize issues, all emails are now sent using the default business profile language.
+- Scheduled publishing should now work as expected (#140374, #140744, #140460, #140722).
+- Improved performance for image loading in Process Management(#140124).
+- Improved performance for the page rollup and page dashboard.
+
 
 6.11.14
 ========================================
