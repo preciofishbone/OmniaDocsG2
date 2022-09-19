@@ -46,16 +46,16 @@ For Query Builder, the following options are available:
 
 + **Scope**: When you have chosen to use the Query Builder, select scope for the block. This is where you choose where to get the pages from. You can select:
 
-+ Tenant.
-+ Business Profile(s).
-+ Publishing App(s).
-+ Page Collection(s).
-+ Navigation Path.
-+ Channel(s).
+  + Tenant.
+  + Business Profile(s).
+  + Publishing App(s).
+  + Page Collection(s).
+  + Navigation Path.
+  + Channel(s).
 
 When you have selected Business Profiles, Publishing Apps, Page Collections or Channels, as the next step, you select one or more to get the pages from. 
 
-The following settings can then be available, depending scope chosen:
+The following settings can then be available, depending on scope chosen:
 
 + **Cache on client**: This setting can be used to speed up rendering on subsequent page loads. This is is done by storing data in the browser cache. Default: selected.
 + **Current User Subscription**: Available for scope Channels. Select this if only the pages that the logged in users subscribes to should be displayed.
@@ -107,7 +107,7 @@ These options are available for most views:
 + **Paging**: Select paging here; "No paging", "Classic" or "Scroll". Available for List View, Dynamic Roller, Card and Newsletter.
 + **Show Likes/Comments**: If the number of likes and comments should be displayed for the item, select this option. Available for Roller, Listing with image, Dynamic Roller and Card.
 + **Show link**: You can add a link button at the bottom of the list. The first page collection is default, but you can link to any target. 
-+ **Sort by**: Choose what the list should be sorted by, and then select ascending or descending. Available for all, except Navigaiton View.
++ **Sort by**: Choose what the list should be sorted by, and then select ascending or descending. Available for all, except Navigation View. Note that on Omnis 6.12 and later the sorting is extended. You can now sort on Comment, Like, Rating, Feedback, Last Activity and Last Commented. For the Navigation View you can also sort on Navigation. 
 + **Summary**: Select the property that contains the page summary for the item to display. Available for Listing with image, List View, Dynamic Roller, Card and Newsletter.
 
 Roller
