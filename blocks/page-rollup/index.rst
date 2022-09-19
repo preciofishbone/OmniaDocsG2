@@ -152,7 +152,15 @@ The special settings for this view are:
 + **Show Page Type**: If this option is selected, the Page Type used for the page is shown as metadata, the same way as other properties.
 + **Term properties**: Can be used to show properties in Card view. Click "Add" and select a property. Continue the same way for additional properties.
 
-For general settings, see above.
+For general settings, see above.+
+
+In Omnia 6.12 and later you can choose where meta data for Date and Person will be placed. Click here to display options:
+
+.. image:: place-meta.png
+
+Then use the settings to select Top Left, Top Right, Bottom Left or Bottom Right:
+
+.. image:: place-meta-settings.png
 
 Newsletter
 -----------
