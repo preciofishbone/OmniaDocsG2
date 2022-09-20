@@ -50,7 +50,7 @@ Do the following:
 
 4. Continue the same way until all filters are added.
 
-Here's an example where only Corporate News pages in American Englihs should be used:
+Here's an example where only Corporate News pages in American English should be used:
 
 .. image:: click-add-filter-property-settings-example.png
 
