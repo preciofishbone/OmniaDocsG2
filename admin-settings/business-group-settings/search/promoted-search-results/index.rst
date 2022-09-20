@@ -3,11 +3,11 @@ Promoted Search Results
 
 Based on search feedback, an administrator can create promoted search results in Omnia Admin.
 
-Whenever a user search on any of the keywords of a Promoted Search Result, it will be available here in Advavdes Search:
+Whenever a user search on any of the keywords of a Promoted Search Result, it will be available here in Advanced Search:
 
 .. image:: promoted-search-results-place.png
 
-In Omnia 6.12 and later, promoted search results can also be displayed in Quick Search, see the bottom of the page.
+In Omnia 6.12 and later, promoted search results can also be displayed in Quick Search. Here's an example.
 
 A list of promoted search can be:
 
