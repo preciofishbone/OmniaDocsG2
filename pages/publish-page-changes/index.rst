@@ -93,7 +93,7 @@ Here's how to select one or more channels:
 
 .. image:: publish-to-channel-select.png
 
-2. The selected channels or shown to the right.
+2. The selected channels are shown to the right.
 
 .. image:: publish-to-channel-shown.png
 
