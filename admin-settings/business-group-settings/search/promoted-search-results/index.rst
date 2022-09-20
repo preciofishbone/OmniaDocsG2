@@ -7,7 +7,9 @@ Whenever a user search on any of the keywords of a Promoted Search Result, it wi
 
 .. image:: promoted-search-results-place.png
 
-In Omnia 6.12 and later, promoted search results can also be displayed in Quick Search. Here's an example.
+In Omnia 6.12 and later, promoted search results can also be displayed in Quick Search. Here's an example:
+
+.. image:: promoted-search-results-quick.png
 
 A list of promoted search can be:
 
