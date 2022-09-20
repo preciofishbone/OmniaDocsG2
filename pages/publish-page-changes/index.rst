@@ -77,3 +77,35 @@ Scheduled Publishing and Variations
 --------------------------------------
 You can also set scheduled publishing for a variation, the same way as decribed above. Note that you must set the publication for the variation at a later date/time than for the main page, for this to work.
 
+Publish to channels
+**********************
+If any channels are setup you can choose to publish a page to one or more channels. If you are a Publisher for a channel, the page is published to that channel directly upon publishing the page. If you're not a Publisher for a channel you select, an administrator must approve the publication to that channel before it's done.
+
+This does not have any effect on the page's availability through navigation. That part of the publishing process works the same way as always.
+
+If you want to publish a page to a channel, use the the CHANNELS tab in the settings for the page. Avaialble channels differ depending of what has been set up. Here's an example:
+
+.. image:: publish-to-channel.png
+
+Here's how to select one or more channels:
+
+1. Use the list(s) to select one or more channels. Click ADD to select a channel.
+
+.. image:: publish-to-channel-select.png
+
+2. The selected channels or shown to the right.
+
+.. image:: publish-to-channel-shown.png
+
+Note that information about your status, publisher or not, is shown for the channel.
+
+.. image:: publish-to-channel-shown-status.png
+
+3. When you're done here, click SAVE.
+
+For more information about Channels, see this page: :doc:`Publishing Channels </admin-settings/tenant-settings/webcontent-managament/publishing-channels/index>`
+
+A list of pages belonging to one or more channels can be created using the Page Rollup block: :doc:`The Page Rollup block </blocks/page-rollup/index>`
+
+Users can subscribe to channels, as described on this page: :doc:`My Subscriptions </user-options/my-subscriptions/index>`
+
