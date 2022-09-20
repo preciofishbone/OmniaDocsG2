@@ -69,7 +69,7 @@ More on how to use and work with channels
 ******************************************
 See these pages for more information:
 
-There's a block available to rollup Publishing Channels for easy access for administrators. See this page for more information: :doc:`The Channel Rollup block </general-assets/media-picker/index>`
+There's a block available to rollup Publishing Channels for easy access for administrators. See this page for more information: :doc:`The Channel Rollup block </general-assets/channel-rollup/index>`
 
 How to publish a page to a channel is described at the bottom of this page: :doc:`Publish page changes </pages/publish-page-changes/index>`
 
