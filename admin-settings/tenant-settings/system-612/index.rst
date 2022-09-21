@@ -12,14 +12,14 @@ Select section for more information:
 .. toctree::
    :titlesonly:
 
-   system/audit-logs/index
-   system/authentication/index
-   system/azure-ad-permissions/index
-   system/default-sharepoint-content/index
-   system/error-information/index
-   system/extensions/index
-   system/localization/index
+   admin-settings/tenant-settings/system/audit-logs/index
+   admin-settings/tenant-settings/system/authentication/index
+   admin-settings/tenant-settings/system/azure-ad-permissions/index
+   admin-settings/tenant-settings/system/default-sharepoint-content/index
+   admin-settings/tenant-settings/system/error-information/index
+   admin-settings/tenant-settings/system/extensions/index
+   admin-settings/tenant-settings/system/localization/index
    Microsoft 365 (to be added)
-   system/queue-logs/index
-   system/tenant-contact/index
-   system/user-profile-card/index
+   admin-settings/tenant-settings/system/queue-logs/index
+   admin-settings/tenant-settings/system/tenant-contact/index
+   admin-settings/tenant-settings/system/user-profile-card/index
