@@ -10,12 +10,9 @@ Here, these settings can be used:
 .. toctree::
    :titlesonly:
 
-   azure-ad-permissions/index
    azure-ad-identity-sync/index
-   power-apps-tenant/index
-   sharepoint-user-profiles-sync/index
-   spfx-instruction/index
-   teams-app-generator/index
+   power-apps-tenant-612/index
+   sharepoint-user-profiles-sync-612/index
+   spfx-instruction-612/index
+   teams-app-generator-612/index
    
-
-
