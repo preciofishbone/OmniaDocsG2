@@ -1,6 +1,6 @@
 System
 =============
-Here, the following can be set in Omnia 6.11:
+Here, the following can be set in Omnia 6.11 and earlier:
 
 .. image:: system-settings-new9.png
 
