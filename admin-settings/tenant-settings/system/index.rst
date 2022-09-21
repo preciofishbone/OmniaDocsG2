@@ -25,7 +25,5 @@ Select section for more information:
    tenant-contact/index
    user-profile-card/index
 
-In Omnia 6.12, "Azure AD Sync" has been relabled "Sharepoint User Profiles Sync" and has a few new options. "Azure AD Sync" is a new option in this menu. For more information, see: 
+In Omnia 6.12, this menu has been reorganized, see: :doc:`System settings in Omnia 6.12 </admin-settings/tenant-settings/system-612/index>`
 
-+ :doc:`Sharepoint User Profiles Sync </admin-settings/tenant-settings/system/sharepoint-user-profiles-sync/index>`
-+ :doc:`Azure AD Sync </admin-settings/tenant-settings/system/azure-ad-sync/index>`
