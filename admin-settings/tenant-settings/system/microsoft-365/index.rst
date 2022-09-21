@@ -12,7 +12,7 @@ Here, these settings can be used:
 
    azure-ad-identity-sync/index
    power-apps-tenant-612/index
-   sharepoint-user-profiles-sync-612/index
+   sharepoint-user-profiles-sync/index
    spfx-instruction-612/index
-   teams-app-generator-612/index
+   teams-appgenerator-612/index
    
