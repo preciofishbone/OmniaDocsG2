@@ -1,8 +1,6 @@
 Sharepoint User Profiles Sync
 ==============================================
 
-**This page has just been added. Content will be added soon.**
-
 This option was in earlier Omnia versions called "Azure AD Sync". In Omnia 6.12, this option works this way:
 
 Use these advanced settings to make sure person properties are synchronized from Azure AD to Sharepoint. 
