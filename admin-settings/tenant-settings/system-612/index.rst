@@ -9,9 +9,6 @@ In Omnia 6.12 and later, the System menu is organized this way:
 
 Select section for more information:
 
-.. toctree::
-   :titlesonly:
-
 + :doc:`Audit logs </admin-settings/tenant-settings/system/audit-logs/index>'
 + :doc:`Authentication </admin-settings/tenant-settings/system/authentication/index>'
 + :doc:`Azure AD Permissions </admin-settings/tenant-settings/system/azure-ad-permissions/index>' 
