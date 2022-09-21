@@ -11,11 +11,11 @@ Here, these settings can be used:
    :titlesonly:
 
    azure-ad-permissions/index
-   azure-ad-sync/index
-   default-sharepoint-content/index
+   azure-ad-identity-sync/index
    power-apps-tenant/index
+   sharepoint-user-profiles-sync/index
    spfx-instruction/index
    teams-app-generator/index
    
-Note that som options has been gathered under the Microsoft 365 option.
+
 
