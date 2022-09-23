@@ -148,6 +148,7 @@ Card
 The special settings for this view are:
 
 + **Cards per Row**: As it says, set the number of cards to show per row.
++ **Show Last Comment**: Available in Omnia 6.12 and later. If you seect this, the last comment for the page, if any, will be displayed on the card.
 + **Person**: This option can be used to show properties in Card view.
 + **Show Page Type**: If this option is selected, the Page Type used for the page is shown as metadata, the same way as other properties.
 + **Term properties**: Can be used to show properties in Card view. Click "Add" and select a property. Continue the same way for additional properties.
