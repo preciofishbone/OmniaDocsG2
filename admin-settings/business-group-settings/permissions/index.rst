@@ -26,11 +26,12 @@ Options for Workspace
 -----------------------------
 The permission settings for Workspace are a bit different:
 
-.. image:: permissions-workspace-new.png
+.. image:: permissions-workspace-new612.png
 
 + **Allow mobile login**: This setting is intended to offer login to certain parts of Omnia for first line workers, partners and similar. The user needs the Kaizala app and a viable account. If you come across a label that says "Kaizala login" - it's the same thing. **Note!** Mobile login/Kaizala login can't be used in Omnia on-prem. 
-+ **Business Profile Workspace Designer**: Add and remove Workspace Designers (administrators) here as needed.
-+ **Business Workspace Reader**: Here you can set permissions for the Workspace navigation. 
++ **Workspace Designer**: Add and remove Workspace Designers (administrators) here as needed.
++ **Workspace Contributor**: (A description will be added soon).
++ **Workspace Reader**: Here you can set permissions for the Workspace navigation. 
 
 Secrets
 ********
