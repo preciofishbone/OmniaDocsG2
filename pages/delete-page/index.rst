@@ -28,7 +28,7 @@ As an alternative, you can use DELETE in the menu in the navigation tree. This o
 
 .. image:: delete-page-menu-new2.png
 
-When select delete, something like the following is shown:
+When you select delete, something like the following is shown:
 
 .. image:: archive-message-new.png
 
@@ -38,19 +38,19 @@ Note the message "You are about to archive a lot of pages" which is telling you 
 
 Deleting a Page Collection
 ****************************
-Deleting a Page Collection works exactly the same as described above. Just select the page collection's top node and select DELETE.
+Deleting (archiving) a Page Collection works exactly the same as described above. Just select the page collection's top node and select DELETE.
 
 Deleting a Page Type
 **********************
-Page Types that are used for active pages (published or drafts) can not be deleted. If you would like to delete pages and the page type used for these pages, delete the pages first, and then the page type.
+Page Types that are used for active pages (published or drafts) can not be deleted (archived). If you would like to delete pages and the page type used for these pages, delete the pages first, and then the page type.
 
 Deleting a Variation
 ***********************
-You can delete a variation separately from the main page if needed. Just open the variation and delete the same way. A deleted variation can be restored or terminated the same way as other pages, see below. If the main page is deleted, variations of that page are always deleted as well.
+You can delete (archive) a variation separately from the main page if needed. Just open the variation and delete the same way. A deleted variation can be restored or terminated the same way as other pages, see below. If the main page is deleted, variations of that page are always deleted as well.
 
 Automatic Delete and Termination
 **************************************
-You can setup automatic delete for pages based on a property. See the bottom of this page for more information: :doc:`Page Type Settings </pages/page-types/page-type-settings/index>`
+You can setup automatic delete (archiving) for pages based on a property. See the bottom of this page for more information: :doc:`Page Type Settings </pages/page-types/page-type-settings/index>`
 
 Furthermore, you can set up rules for automatic termination of deleted pages, in the Publishing App Settings. See the heading "Delete" at the bottom of this page: :doc:`Publishing App Settings </pages/page-settings/index>`
 
@@ -58,7 +58,7 @@ Furthermore, you can set up rules for automatic termination of deleted pages, in
 
 Delete and create draft
 ******************************
-When deleting a page, it may be possible to create a new draft. This is possible if:
+When deleting (archiving) a page, it may be possible to create a new draft. This is possible if:
 
 + The page has no sub pages.
 + No variations are created for the page.
