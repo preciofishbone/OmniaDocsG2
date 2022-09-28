@@ -15,7 +15,7 @@ All colleagues with editor permissions to a page can delete that page. The edito
 
 For more technical information about deleting pages, see the bottom of this description.
 
-Here's how to delete a page:
+Here's how to delete (archive) a page:
 
 1. Go to the page (if it's a page you haven't published you must edit any page and then open the edit navigation to go to the page to delete).
 2. Edit the page.
