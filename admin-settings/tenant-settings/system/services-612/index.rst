@@ -7,13 +7,9 @@ In Omnia 6.12, the following settings are found here.
 
 Select section for more information:
 
-
 .. toctree::
    :titlesonly:
 
    email-service-612/index
    text-translator/index
-
-
-
 
