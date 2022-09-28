@@ -42,6 +42,7 @@ Select section for more information:
    extensions/index
    localization/index
    microsoft-365/index
+   services-612/index
    queue-logs/index
    tenant-contact/index
    user-profile-card/index
