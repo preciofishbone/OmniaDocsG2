@@ -12,6 +12,7 @@ The following actions are available to add as a button:
 + Create Document
 + Create Page
 + Event Management
++ Export Process
 + Invite co-authors
 + Like
 + Link
@@ -131,9 +132,11 @@ Using this action a Link Action can be added, meaning a link can be opened:
 + **Url**: Type or paste the Url to go to when a user clicks the link. 
 + **Anchor Name**: Type the Anchor Name in this field to create a link to an anchor.
 + **Target**: Choose if the link should be opened in a new window, the current window, or in a dialog. 
-+ **Dialog Position**: If you selected "Dialog" for Target, you can select where to place the dialog: Center, Full screen, Left or Right.
++ **Dialog Position**: If you selected "Dialog" for Target, you can select where to place the dialog: Center, Full screen, Left or Right. 
 
-For more information about how to work with, and link to, anchors, see: :doc:`Using Anchors </general-assets/using-anchors/index>`
+**Note!** Dialog is not suitable for external links. Select "Current Window" or " New Window" for external links.
+
+For more information about how to work with, and link to anchors, see: :doc:`Using Anchors </general-assets/using-anchors/index>`
 
 My Links
 ---------
