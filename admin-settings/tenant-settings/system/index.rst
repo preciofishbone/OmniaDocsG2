@@ -37,7 +37,6 @@ Select section for more information:
    audit-logs/index
    authentication/index
    default-sharepoint-content/index
-   custom-email/index
    error-information/index
    extensions/index
    localization/index
