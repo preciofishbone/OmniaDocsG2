@@ -1,7 +1,7 @@
 Features - Tenant
 =====================
 
-**This page is being edited. Will be finished soon.**
+**This page is being updated. Will be finished soon.**
 
 All available Features for the Tenant is listed here and can be activated, deactivated and updated when needed. 
 
