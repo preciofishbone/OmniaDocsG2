@@ -30,3 +30,23 @@ For more information about Strengthen Profile, see this page: :doc:`Strengthen P
 
 For more information about My Subscriptions, see this page: :doc:`Strengthen Profile </user-options/my-subscriptions/index>`
 
+Adding exclude filters
+*************************
+To add exclude filters, do the following:
+
+1. Click the plus to add a filter.
+
+.. image:: exclude-filters-1.png
+
+2. Select Azure AD property.
+
+.. image:: exclude-filters-2.png
+
+3. Add a value for the property.
+
+.. image:: exclude-filters-3.png
+
+4. Click SAVE.
+5. Continue the same way until all exclude filters has been added.
+
+
