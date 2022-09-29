@@ -28,7 +28,7 @@ The following settings are available:
 
 For more information about Strengthen Profile, see this page: :doc:`Strengthen Profile </user-options/strengthen-profile/index>`
 
-For more information about My Subscriptions, see this page: :doc:`Strengthen Profile </user-options/my-subscriptions/index>`
+For more information about My Subscriptions, see this page: :doc:`My Subscriptions </user-options/my-subscriptions/index>`
 
 Adding exclude filters
 *************************
