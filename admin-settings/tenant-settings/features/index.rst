@@ -1,31 +1,37 @@
 Features - Tenant
 =====================
 
+**This page is being edited. Will be finished soon.**
+
 All available Features for the Tenant is listed here and can be activated, deactivated and updated when needed. 
 
-Exactly what is available can differ depending on how the Tenant is set up. Here's an example:
+Exactly what is available can differ depending on how the Tenant is set up and the version of Omnia. The images below is from Omnia 6.12.
 
-.. image:: features-tenant-new9.png
+Add-ons
+*********
+Here you can remove or upgrade the Omnia Add-ons. 
 
-System
-**********
-+ **Enable Custom System Email**: As it states, this feature must be activated if Custom System Email functionality is needed in the tenant.
-+ **Web Content Managament file storage**: When activated, the option "Copy documents locally" becomes available in the settings for the Realated Links block. Documents that are locally accessible are versioned together with the page and can be accessed by users without a SharePoint license.
-+ **Teamwork provisioning using application context**: If you want users to only be able to create Microsoft 365 Groups through Omnia templates, activate this feature. Note that additional settings needs to be made, to make sure Microsoft 365 Group can not be created any other way. More information about how to do this will be added here soon. In the mean time, more information can be found on this Microsoft page: https://docs.microsoft.com/en-us/microsoft-365/solutions/manage-creation-of-groups?view=o365-worldwide
+.. image:: tenant-features-add-ons.png
 
-Default configuration
-******************************
-The purpose of these features is to provide a number of Enterprise Properties for an easy starting point, and ready to go app launcher links. You can then edit the properties lists and the app launcher links to your organization's needs. Add the common properties you would like to have in your tenant.
+For more information about these, see the following sections:
 
-Note that default properties can not be deleted, but all can be edited. 
+:doc:`Working with Documents </working-with-documents/index>`
+ 
+:doc:`Info Screen </admin-settings/business-group-settings/settings/info-screen/index>`
 
-For more information on working with properties, see these pages: :doc:`Properties </admin-settings/tenant-settings/properties/index>`
+:doc:`Working with Events </working-with-events/index>`
 
-Regarding M365 App Launcher links: Activate this Feature for a number of default links for the App launcher - many of the links that will normally appear in the Microsoft 365 menu. You can then use "Shared links" to edit the links and decide which ones to use. **Note!** Most links here will not be applicable in Omnia on-prem.
+:doc:`Working with Processes </working-with-processes/index>`
+
+:doc:`Using Communities </using-communities/index>`
+
+:doc:`Digital Signage </admin-settings/tenant-settings/settings/digital-signage/index>`
 
 Integration
 *************
 Here's an example of what can be available here:
+
+.. image:: tenant-features-integration.png
 
 + **Support Kaizala login**: As it states. Was called "Allow mobile login" in earlier Omnia version.
 + **Microsoft Teams presence**: If activated, Teams presence is indicated by all people icons in Omnia (see below).
@@ -43,19 +49,26 @@ For more information on how to set up Yammer in Omnia, see:
 
 :doc:`Setup Yammer in Omnia </setup/setup-yammer-in-omnia/index>` 
 
-Add-ons
-*********
-Here you can remove or upgrade the Omnia Add-ons. For more information about these, see the following sections:
+System
+**********
+That following features may be found here:
 
-:doc:`Working with Documents </working-with-documents/index>`
- 
-:doc:`Info Screen </admin-settings/business-group-settings/settings/info-screen/index>`
+.. image:: tenant-features-system.png
 
-:doc:`Working with Events </working-with-events/index>`
++ **Enable Custom System Email**: As it states, this feature must be activated if Custom System Email functionality is needed in the tenant.
++ **Web Content Managament file storage**: When activated, the option "Copy documents locally" becomes available in the settings for the Realated Links block. Documents that are locally accessible are versioned together with the page and can be accessed by users without a SharePoint license.
++ **Teamwork provisioning using application context**: If you want users to only be able to create Microsoft 365 Groups through Omnia templates, activate this feature. Note that additional settings needs to be made, to make sure Microsoft 365 Group can not be created any other way. More information about how to do this will be added here soon. In the mean time, more information can be found on this Microsoft page: https://docs.microsoft.com/en-us/microsoft-365/solutions/manage-creation-of-groups?view=o365-worldwide
 
-:doc:`Working with Processes </working-with-processes/index>`
+Default configuration
+******************************
+The purpose of these features is to provide a number of Enterprise Properties for an easy starting point, and ready to go app launcher links. You can then edit the properties lists and the app launcher links to your organization's needs. Add the common properties you would like to have in your tenant.
 
-:doc:`Using Communities </using-communities/index>`
+.. image:: tenant-features-default-configuration.png
 
-:doc:`Digital Signage </admin-settings/tenant-settings/settings/digital-signage/index>`
+Note that default properties can not be deleted, but all can be edited. 
+
+For more information on working with properties, see these pages: :doc:`Properties </admin-settings/tenant-settings/properties/index>`
+
+Regarding M365 App Launcher links: Activate this Feature for a number of default links for the App launcher - many of the links that will normally appear in the Microsoft 365 menu. You can then use "Shared links" to edit the links and decide which ones to use. **Note!** Most links here will not be applicable in Omnia on-prem.
+
 
