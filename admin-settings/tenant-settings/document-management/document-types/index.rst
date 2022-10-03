@@ -77,15 +77,16 @@ The settings are organized into five tabs, see the sections below.
 
 General
 --------
-The General tab contains the following settings:
+The General tab contains the following settings (image from Omnia 6.12):
 
-.. image:: document-type-general-new3.png
+.. image:: document-type-general-612.png
 
 + **Title**: Add a Title for the Document Type in one or more of the tenant languages (click the flag to change language). Note that default language is mandatory.
 + **Property Set**: Property Sets is a way of groping a number of properties into a set, which makes it easier to use a set of properties in several Document Types. Select a property set for the Document Type. When you have done so you can click the cogwheel to see which properties belong to the set. You will also see information about Placeholder Shortname and default value for the properties in the set.
 + **Document Templates**: Select one or more of the templates. Available templates depends pn Property set selected. You must always do this even if there’s just one template available.
 + **Default Document Template**: Use this option to select one of the templates for this Document Type as the default template. When selecting the Document Type, the author then has this template preselected.
 + **Allow appendices**: Check this option to allow for appendices. Authors can then tie other documents as appendices to the main documents. This option must be checked to make it possible for this document type.
++ **Is record**: This option is available in Omnia 6.12 and alter. Some documents may not need to be updated. To set that for this document type, select this option. See below for more information.
 + **Show Create Document Icon in Document Rollup**: In the Document Rollup the “Create Document Icon” column can be added. A document can be created using the icon only if it belongs to a Document Type that has this option selected. if not, the icon is not shown.
 
 Don't forget to save when you're done.
@@ -93,6 +94,18 @@ Don't forget to save when you're done.
 Here's an example when a Create New Document icon is shown in a Document Rollup list.
 
 .. image:: document-rollup-create-new-icon.png
+
+Options for Is Record
+----------------------
+The following options are available when you select "Is Rewcord":
+
+.. image:: document-type-is-record.png
+
++ **Disable Create Draft**: When you select this option, documents created with this document type can only exist in one edition. Creating a draft frpm a published edition is not possible.
++ **Disable Move**: When this is selected, the Move option in a 
+
+
+You can select any combination of options here. Be careful, this can be changed for existing documents created from a document type with these settings.
 
 Publish
 ---------
