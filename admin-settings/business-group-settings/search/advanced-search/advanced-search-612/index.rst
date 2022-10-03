@@ -53,8 +53,8 @@ To Add a new category here, and set refiners for it, do the following:
 .. image:: new-refiner-4-612.png
 
 + **Row Limit**: Select number of search result rows to be displayed before a Show more link is displayed. 
-+ **Image/Icon size**: You can set this to Small, Medium or Large.
-+ **Image Ratio**: Image ratio for the image used in the search result cam be set to Landscape, Square or Wide.
++ **Image/Icon size**: Image or Icon size for the search result can set to Small, Medium or Large. Note that category can have a specific size, if needed. 
++ **Image Ratio**: Image ratio for the image used in the search result cam be set to Landscape, Square or Wide. Note that category can have a specific image ratio setting, if needed. 
 + **Refiners**: Use this option to add refiners for the search category.
 
 To add a new refiner for the category, do the following:
