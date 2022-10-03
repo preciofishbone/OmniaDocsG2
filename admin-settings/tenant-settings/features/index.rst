@@ -27,17 +27,12 @@ Here you can activate, remove or upgrade the Omnia Add-ons.
 
 For more information, see the links below:
 
-:doc:`Working with Documents </working-with-documents/index>`
- 
-:doc:`Info Screen </admin-settings/business-group-settings/settings/info-screen/index>`
-
-:doc:`Working with Events </working-with-events/index>`
-
-:doc:`Working with Processes </working-with-processes/index>`
-
-:doc:`Using Communities </using-communities/index>`
-
-:doc:`Digital Signage </admin-settings/tenant-settings/settings/digital-signage/index>`
++ :doc:`Working with Documents </working-with-documents/index>` 
++ :doc:`Info Screen </admin-settings/business-group-settings/settings/info-screen/index>`
++ :doc:`Working with Events </working-with-events/index>`
++ :doc:`Working with Processes </working-with-processes/index>`
++ :doc:`Using Communities </using-communities/index>`
++ :doc:`Digital Signage </admin-settings/tenant-settings/settings/digital-signage/index>`
 
 Integration
 *************
@@ -45,11 +40,10 @@ Here's an example of what can be available here:
 
 .. image:: tenant-features-integration.png
 
++ **Process tasks provider: Microsoft Planner**: Activate this feature to use Microsoft Planner to assign and work with process tasks. If this feature is not activated, tasks for processes is just a simple list.
 + **Support Kaizala login**: As it states. Was called "Allow mobile login" in earlier Omnia version.
 + **Microsoft Teams presence**: If activated, Teams presence is indicated by all people icons in Omnia (see below).
 + **Yammer posts and comments integration**: There's a lot of integration between Yammer and Omnia that is possible without having to activate this feature, but in order to use the new, improved Yammer integration where a post will be created in the selected Yammer community whenever a new page, matching the selected criteria, is created - this feature must be activated.
-
-:doc:`Working with Processes </working-with-processes/index>`
 
 When Microsoft Teams presence is active, this type of icon indicates Teams presence:
 
@@ -67,9 +61,10 @@ That following features may be found here:
 
 .. image:: tenant-features-system.png
 
-+ **Enable Custom System Email**: As it states, this feature must be activated if Custom System Email functionality is needed in the tenant.
++ **Email provider - Exchange Online mailbox**: This feature must be activated if customs system email functionality is needed in the tenant. The optiopn was called "Enable Custom System Email" in earlier Omnia version. It's just a relabel, same funcitonality as before.
 + **Web Content Managament file storage**: When activated, the option "Copy documents locally" becomes available in the settings for the Realated Links block. Documents that are locally accessible are versioned together with the page and can be accessed by users without a SharePoint license.
 + **Teamwork provisioning using application context**: If you want users to only be able to create Microsoft 365 Groups through Omnia templates, activate this feature. Note that additional settings needs to be made, to make sure Microsoft 365 Group can not be created any other way. More information about how to do this will be added here soon. In the mean time, more information can be found on this Microsoft page: https://docs.microsoft.com/en-us/microsoft-365/solutions/manage-creation-of-groups?view=o365-worldwide
++ **Social reactions**: Activate this feature to use the same social reactions functionality in Omnia as in Teans.
 
 Default configuration
 ******************************
