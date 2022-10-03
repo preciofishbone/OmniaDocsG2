@@ -9,11 +9,23 @@ Exactly what is available can differ depending on how the Tenant is set up and t
 
 Add-ons
 *********
-Here you can remove or upgrade the Omnia Add-ons. 
+Here you can activate, remove or upgrade the Omnia Add-ons. 
 
 .. image:: tenant-features-add-ons.png
 
-For more information about these, see the following sections:
++ **Processes and Documents integration**: When this feature is activated, authors of controlled documents can suggest documents to be related to a process. Process authors can then decide to add a suggested document to the process, or not.
++ **Document Comparison powered by Draftable**: This feature needs a paid subscription with Draftable. When this feature is activated, comparison of documents is extended and improved. Works for documents without having to open them. Works for PDF:s as well.
++ **Controlled Documents**: Activates the extensive funcionality for working with cxontrolled documents in the tenant.
++ **Info Screen**: Activates functionality for sending selected Omnia pages to general or public screens.
++ **Event Management**: Activates the extensive functionality for Omnia Event Management in the tenant. 
++ **Handle Open Documents Link Mobile Browser**: (A description will be added soon).
++ **Documents Link Handler**: Activates the link handler functionality. (More info will be added soon).
++ **Process Management**: Activates the extensive Omnia Process Management functionality in the tenant.
++ **Rules Link Handler**: (A description will be added soon).
++ **Digital Signage**: Activates the options for digital signage in the the tenant.
++ **Communities**: Activates the extensive functionality for Omnia Communities in the tenant.
+
+For more information, see the links below:
 
 :doc:`Working with Documents </working-with-documents/index>`
  
