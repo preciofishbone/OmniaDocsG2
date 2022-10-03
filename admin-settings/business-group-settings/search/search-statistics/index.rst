@@ -1,19 +1,19 @@
 Search Statistics
 ==============================================
 
-This option is available ion Omnia 6.12 and later.
+This option is available in Omnia 6.12 and later.
 
 .. image:: search-statistics.png
 
-You can can decide to collect search statistics from either Quick Search or Advanced Search, or both. If you do, statistics can then be displayed here.
+You can can decide to collect search statistics in the settings for either Quick Search or Advanced Search, or both. If you do, statistics can then be displayed here.
 
 + **Total no of queries**: Here you can see the total number of searches that has been executed per month.
 + **Abandoned queries**: Here you can see search queries that was started but never completed, per month.
 + **No result queries**: The number of search queries being executed per month, where the search didn't find anything, is shown here.
 
-You can click the result for a month for further details. Here's an exampl from a test environment:
+You can click the result for a month for further details. Here's an example from a test environment:
 
 .. image:: search-statistics-details.png
 
-This example is not very good, but you get the picture. You will find a listing of all the queries of the type you have chosen, and the number of each query. You can click "Show details" for details of every single search query. Also note that you can go to the previuos month or the next month, if available.
+This example is not very good, but you get the picture. You will find a listing of all the queries of the type you have chosen, and the number of each query. You can click "Show details" for details of every single search query. Also note that you can go to the previous month or the next month, if available.
 
