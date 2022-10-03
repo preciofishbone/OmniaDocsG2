@@ -7,7 +7,7 @@ General
 ****************
 The following settings are available here:
 
-.. image:: quick-search-settings-new4.png
+.. image:: quick-search-settings-612-general.png
 
 + **Collect statistic**: If search statistics should be collected from Quick Searh, select this option. Search results can then be displayed in Omnia Admin. For more information, see: :doc:`Search statistics </admin-settings/business-group-settings/search/search-statistics/index>`
 + **Search as you type**: The search can be executed either when the user hits enter or ongoing while the user types in the search field. Decide how it should work here.
@@ -15,6 +15,8 @@ The following settings are available here:
 + **Enable Spelling Suggestions**: Select this option to display spelling suggestions in Quick Search. It's the same functionality that Microsoft 365 has. 
 + **Search Categories**: One or more Search Categories can be added (if more than one is available).
 + **Row Limit**: You can set Row Limit for each Search Category. Row Limit is the number of objects per Search Results "page".
++ **Image/Icon Sizes**: Here you can set the size of the icon or image used in the search result list.
++ **Image Ratio**: Here you can set the image ratio used in the search result list.
 
 View more results
 ******************
