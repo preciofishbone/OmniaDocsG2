@@ -12,7 +12,7 @@ The following actions are available to add as a button:
 + Create Document
 + Create Page
 + Event Management
-+ Export Process
++ Export Process (will be relabeled Print Process)
 + Invite co-authors
 + Like
 + Link
@@ -107,6 +107,10 @@ Using this type you can add buttons for Event Management Actions:
 + Cancel: Used by the logged in user to cancel the registration he or she has made in their own name, ie done by using the button "Sign Up". 
 
 For more information about how the buttons work and more useful tips for Event Management, see: :doc:`Working with Events </working-with-events/index>`
+
+Export Process
+----------------
+This button will be relabeled "Print Process" because that is what it does, for now. Must be used on a process page to work. See this page for more information: :doc:`Print a process </working-with-processes/print-process/index>`
 
 Invite co-authors
 -------------------
@@ -276,5 +280,4 @@ Edit an Action Button
 To edit a button, click the pen. To delete a button, click the dustbin. 
 
 When editing a button, the same settings as when you create a new button is available, see above.
-
 
