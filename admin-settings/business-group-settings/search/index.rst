@@ -1,9 +1,9 @@
 Search
 ===========================================
 
-Use these options for settings for general Search configuration, Quick Search and Advanced Search.
+These options are available for Search (image from Omnia 6.12):
 
-.. image:: search-67.png
+.. image:: search-612.png
 
 Select section for more information:
 
@@ -15,5 +15,5 @@ Select section for more information:
    advanced-search/advanced-search-67/index
    promoted-search-results/index
    search-feedback/index
+   search-statistics/index
 
-In Omnia 6.12, an additional option is available here. See this page for more information: :doc:`Search Statistics </admin-settings/business-group-settings/search/search-statistics/index>`
