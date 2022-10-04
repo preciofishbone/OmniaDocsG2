@@ -86,7 +86,7 @@ The General tab contains the following settings (image from Omnia 6.12):
 + **Document Templates**: Select one or more of the templates. Available templates depends pn Property set selected. You must always do this even if there’s just one template available.
 + **Default Document Template**: Use this option to select one of the templates for this Document Type as the default template. When selecting the Document Type, the author then has this template preselected.
 + **Allow appendices**: Check this option to allow for appendices. Authors can then tie other documents as appendices to the main documents. This option must be checked to make it possible for this document type.
-+ **Is record**: This option is available in Omnia 6.12 and alter. Some documents may not need to be updated. To set that for this document type, select this option. See below for more information.
++ **Is record**: This option is available in Omnia 6.12 and later. Some controlled documents may not need to be updated, just to be used as is. To set that for this document type, select this option. See below for more information.
 + **Show Create Document Icon in Document Rollup**: In the Document Rollup the “Create Document Icon” column can be added. A document can be created using the icon only if it belongs to a Document Type that has this option selected. if not, the icon is not shown.
 
 Don't forget to save when you're done.
@@ -101,11 +101,11 @@ The following options are available when you select "Is Rewcord":
 
 .. image:: document-type-is-record.png
 
-+ **Disable Create Draft**: When you select this option, documents created with this document type can only exist in one edition. Creating a draft frpm a published edition is not possible.
-+ **Disable Move**: When this is selected, the Move option in a 
++ **Disable Create Draft**: When you select this option, documents of this document type can only exist in one edition. Creating a draft from a published edition is not possible.
++ **Disable Move**: When this is selected, the Move option in a controlled documents library, can't be used for document of this type.
++ **Disable Unpublish**: If this option is selected, a document of this type can't be unpublished. Once published, it's always available.
 
-
-You can select any combination of options here. Be careful, this can be changed for existing documents created from a document type with these settings.
+You can select any combination of options here. Be careful, this can not be changed for existing, published documents created from a document type with these settings, just for new documents after the document type has been edited.
 
 Publish
 ---------
