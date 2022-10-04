@@ -5,6 +5,6 @@ This is an instruction that may be needed for integration between Omnia and Shar
 
 .. image:: spfx-instruction.png
 
+**Important note!** 
 
-
-
+If running the tenant in monitoring mode, Omnia will not work inside SPFX.
