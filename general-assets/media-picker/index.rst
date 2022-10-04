@@ -25,6 +25,8 @@ To select an image, click it and the settings will be shown. Settings are the sa
 
 Settings of image banks are made for each Business Profile. For more information see: :doc:`Central Image Location </admin-settings/business-group-settings/settings/central-image-location/index>`
 
+In Omnia 6.12 and later, videos can be handled in Sharepoint media libraries and some video editing options, similar to those in Stream has been added by Microsoft. Video editing has to be made in the Sharepoint library, not in the Media Picker.
+
 Bing Search
 ***************
 When selecting "Bing Search" (if available) you can search for any Bing image, or use the predefined search categories, if any is set up. Bing search categories can be set up by an administrator in Omnia Admin.
