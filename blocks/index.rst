@@ -37,6 +37,7 @@ Blocks
    page-properties/index
    page-rollup/index
    app-posts/index
+   qr-code/index
    variation-selector/index
    people-rollup/index
    power-app/index
