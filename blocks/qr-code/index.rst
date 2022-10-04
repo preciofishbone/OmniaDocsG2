@@ -3,8 +3,15 @@ QR Code
 
 This block is available in Omnia 6.12 and later. Use it to a QR Code tp any Omnia page.
 
-(Content will be added soon)
+.. image:: qr-code-current.png
 
-
-
+  + **Title**: Add a title for the block if needed. 
+  + **Current Url**: To create a QR Code for the current page, select this option.
+  + **Custom Url**: To create a QR Code for any Url, select this option.
+  + **Size**: Set the size of the QR Code in pixels here. Default=150.
+  + **Padding**: Add some padding if needed.
+  
+  When you select "Custom Url", just type the Url in the field:
+  
+  .. image:: qr-code-custom.png
 
