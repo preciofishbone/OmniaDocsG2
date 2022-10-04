@@ -3,7 +3,7 @@ QR Code
 
 This block is available in Omnia 6.12 and later. Use it to a QR Code tp any Omnia page.
 
-.. image:: qr-code-current.png
+.. image:: qr-code-settings.png
 
 + **Title**: Add a title for the block if needed. 
 + **Current Url**: To create a QR Code for the current page, select this option.
