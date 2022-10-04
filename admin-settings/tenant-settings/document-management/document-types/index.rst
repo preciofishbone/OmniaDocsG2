@@ -97,12 +97,12 @@ Here's an example when a Create New Document icon is shown in a Document Rollup 
 
 Options for Is Record
 ----------------------
-The following options are available when you select "Is Rewcord":
+The following options are available when you select "Is Record":
 
 .. image:: document-type-is-record.png
 
 + **Disable Create Draft**: When you select this option, documents of this document type can only exist in one edition. Creating a draft from a published edition is not possible.
-+ **Disable Move**: When this is selected, the Move option in a controlled documents library, can't be used for document of this type.
++ **Disable Move**: When this is selected, the Move option in a controlled documents library, can't be used for a document of this type.
 + **Disable Unpublish**: If this option is selected, a document of this type can't be unpublished. Once published, it's always available.
 
 You can select any combination of options here. Be careful, this can not be changed for existing, published documents created from a document type with these settings, just for new documents after the document type has been edited.
