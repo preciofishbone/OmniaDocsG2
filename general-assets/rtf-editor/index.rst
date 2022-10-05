@@ -7,6 +7,8 @@ When editing text in Omnia, a RTF editor can be available. What is available in 
 
 For more information about the settings, see: :doc:`RTF Editor Settings </admin-settings/tenant-settings/settings/rtf-editor/index>`
 
+In Omnia 6.12 and later it can be possible to add animated gifs, and emitcons in the RTF Editor. For more information, see the heading "Add an animated GIF" and the heading "Add an emoticon" below.
+
 Using the RTF Editor
 **********************
 Here's the options that may be available in the editor:
@@ -129,6 +131,29 @@ You can also set an exact width in pixels by selecting "Fixed Width".
 Here's an example with the image width set to 200 pixels:
 
 .. image:: rtf-add-image-tools-width-3-new.png
+
+Add adn animated GIF
+---------------------
+In Omnia 6.12 and later, it's possible to add an animated GIF to the RTF Editor, using this icon:
+
+.. image:: rtf-animated-gif-icon.png
+
+1. click where the animated GIF should be placed.
+2. Click the icon.
+
+The following is now shown:
+
+.. image:: rtf-animated-gif-select.png
+
+3. Use the search field or just browse to find an animated GIF.
+4. Click the GIF to add it.
+5. Click the GIF for editing options.
+
+Using the tools, you can add a clickable link, add an anchor name for the GIF or remove it:
+
+.. image:: rtf-animated-gif-tools.png
+
+For information about how to add a clickable link, see above under the heading "Add and edit Media". For information about anchors, se the heading "Add an anchor (bookmark)" below.
 
 Add a table
 ------------
