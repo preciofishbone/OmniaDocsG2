@@ -132,28 +132,45 @@ Here's an example with the image width set to 200 pixels:
 
 .. image:: rtf-add-image-tools-width-3-new.png
 
-Add adn animated GIF
+Add an animated GIF
 ---------------------
-In Omnia 6.12 and later, it's possible to add an animated GIF to the RTF Editor, using this icon:
+In Omnia 6.12 and later, it can be possible to add an animated GIF to the RTF Editor, using this icon:
 
 .. image:: rtf-animated-gif-icon.png
 
 1. click where the animated GIF should be placed.
 2. Click the icon.
 
-The following is now shown:
+Something like the following is now shown:
 
 .. image:: rtf-animated-gif-select.png
 
 3. Use the search field or just browse to find an animated GIF.
 4. Click the GIF to add it.
-5. Click the GIF for editing options.
+5. Click the GIF in the RTF EDitor, for editing options.
 
-Using the tools, you can add a clickable link, add an anchor name for the GIF or remove it:
+Using the tools, you can add a clickable link, add an anchor name for the GIF, or remove it:
 
 .. image:: rtf-animated-gif-tools.png
 
 For information about how to add a clickable link, see above under the heading "Add and edit Media". For information about anchors, se the heading "Add an anchor (bookmark)" below.
+
+Add an emoticon
+---------------------
+In Omnia 6.12 and later, it can be possible to add an emtoicon to the RTF Editor, using this icon:
+
+.. image:: rtf-emoticon-icon.png
+
+1. click where the emoticon should be placed.
+2. Click the icon.
+
+Something like the following is now shown:
+
+.. image:: rtf-emoticon-select.png
+
+3. Use the search field or just browse to find emoticon you want.
+4. Click the emoticon to add it. (You can add more than one if you want to).
+5. Click outside the emoticon window to close it.
 
 Add a table
 ------------
