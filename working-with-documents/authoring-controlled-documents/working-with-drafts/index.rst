@@ -222,6 +222,18 @@ If you select "Previous Edition", you can open the list and select which of the 
 The new draft is created and the "Drafts" tab is automatically activated. The work on the new draft is done exactly as the first time. That a document has been published before does not make any difference.
 
 **Note!** There can be only one draft of a given document. If there already is a draft for the document and an author tries to create another one, a message is shown stating that it's not possible. 
+
+Compare documents
+******************
+If the feature "Document Comparison powered by Draftable" is activated for the tenant, comparison of documents is extended and improved. Microsoft Office documents as well as PDF:s can be used for comparison. The files does not have to be open to execute the comparison. **Note!** This option requires a paid subscription with Draftable. 
+
+When the feature is activated the menu option "Compare" is available. A draft can then be compared with the latest published edition of that document:
+
+.. image:: compare-menu.png
+
+Here's a simple example of a comparison for Microsoft Word documents:
+
+.. image:: compare-document.png
  
 New drafts and templates
 ***************************
