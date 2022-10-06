@@ -233,7 +233,7 @@ When the feature is activated the menu option "Compare" is available. A draft ca
 
 Here's a simple example of a comparison for Microsoft Word documents:
 
-.. image:: compare-document.png
+.. image:: compare-document-border.png
  
 New drafts and templates
 ***************************
