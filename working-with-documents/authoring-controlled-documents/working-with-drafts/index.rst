@@ -225,7 +225,7 @@ The new draft is created and the "Drafts" tab is automatically activated. The wo
 
 Compare documents
 ******************
-If the feature "Document Comparison powered by Draftable" is activated for the tenant, comparison of documents is extended and improved. Microsoft Office documents as well as PDF:s can be used for comparison. The files does not have to be open to execute the comparison. **Note!** This option requires a paid subscription with Draftable. 
+If the feature "Document Comparison powered by Draftable" (available in Omnia 6.12 and later) is activated for the tenant, comparison of documents is extended and improved. Microsoft Office documents, as well as PDF:s, can be used for comparison. The files does not have to be open to execute the comparison. **Note!** This option requires a paid subscription with Draftable. 
 
 When the feature is activated the menu option "Compare" is available. A draft can then be compared with the latest published edition of that document:
 
