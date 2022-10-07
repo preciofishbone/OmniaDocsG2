@@ -13,15 +13,15 @@ The following settings are available:
 
 General
 **********
-These settings are available under General:
+These settings are available under General (image from Omnia 6.12):
 
-.. image:: posts-block-general.png
+.. image:: posts-block-general-612.png
 
 + **Title**: Add a block title if needed.
 + **Current App**: If the scope should be this app only, select this option.
 + **Custom Scope**: To set a different scope, select this option. See below for more information.
 + **Enable Mention**: If mentions should be possible in the posts, this option must be selected. Default=off.
-+ **Allow Likes**: Likes is on by default. if it should not be available, deselect this option.
++ **Allow Social reactions**: Available in Omnia 6.12 and later. Select if it should be possibleto use social reactions for posts in this block. The same social reactions functionality as in Teams can be used. The corresponding tenant feature must be activated for this option to be available.
 + **Replies shown by default**: Decide the number of replies the should be shown for each post, before a Show more link is shown. Default=2. 
 
 General note about Scope: Use Scope to set up which sources to get messages from, to show in this block.
