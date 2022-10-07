@@ -36,7 +36,6 @@ Blocks
    page-likes-and-comments/index
    page-properties/index
    page-rollup/index
-   posts/index
    app-posts/index
    qr-code/index
    variation-selector/index
