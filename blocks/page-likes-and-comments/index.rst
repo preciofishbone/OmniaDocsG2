@@ -41,9 +41,9 @@ The following settings are available on this tab (image from Omnia 6.12):
 + **Sorting**: Here you choose how to sort the comments; older first or newer first.
 + **Paging size**: Add a number (1-99) to set the number of items (comments) that should be displayed on each “page” of the list.
 
-Here's an example of a mention:
+If "Allow social reactions" is activated, these social reactions can be used when commenting:
 
-.. image:: comment-mention-new2.png
+.. image:: comment-social.png
 
 More about Yammer Integration
 ---------------------------------
