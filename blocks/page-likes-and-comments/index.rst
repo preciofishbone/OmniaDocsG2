@@ -27,15 +27,16 @@ The following settings are available for the block:
 
 General
 ----------
-The following settings are available on this tab:
+The following settings are available on this tab (image from Omnia 6.12):
 
-.. image:: likes-general-new.png
+.. image:: likes-general-612.png
 
 + **Title**: If a title should be shown for the block, add it in this field. If variations exists for the page, it looks like in the image above. Titles in other languages are set in the variations. If there is  no variations you can set the title in any or all the languages active in the tenant. 
 + **Enable Yammer sync**: If Yammer sync is enabled for the Page Collection, this option is available. See more information below about how to use it.
 + **Enable Rich Text**: If you enable Rich Text, some basic formatting will be availble for users.          
 + **Enable mention**: If it should be possible to use mentions in comments on this page or in this page type, select this option. See below for an example.
-+ **Allow Likes**: If it should be able to like a comment, select this option.
++ **Allow social reactions**: Can be available in Omnia 6.12. If it should be possible to to use social reactions in this block, select this option. The tenant feature "Social reactions" must be activated for this option to be available.
++ **Allow Likes**: If it should be able to like a comment, select this option. If the tenant feature "Social reactions" is activated, the "Allow social reactions" option replaces this option. Then social reactions is used instead of likes.
 + **Allow Share**: If it should be possible to share a comment, select this option - meaning the possibility to send a comment to another user by e-mail.
 + **Sorting**: Here you choose how to sort the comments; older first or newer first.
 + **Paging size**: Add a number (1-99) to set the number of items (comments) that should be displayed on each “page” of the list.
