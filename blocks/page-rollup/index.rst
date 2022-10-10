@@ -19,9 +19,9 @@ For implementation examples, see this page: :doc:`Page Rollup implementation exa
 
 Settings
 *********
-These settings are available for the block:
+These settings are available for the block (image from Omnia 6.12):
 
-.. image:: page-rollup-settings-new5.png
+.. image:: page-rollup-settings-612.png
 
 General
 --------
@@ -269,6 +269,21 @@ If just pages with a certain variation (language or other variation) should be l
 .. image:: page-rollup-variation-example-new.png
 
 Only News in Swedish will be listed in this example.
+
+Metric
+*******
+Using these settings you can display a metric displaying the number of pages that is valid for the Query settings. Available in Omnia 6.12 and later.
+
+The metric kan be clicked to display the list of pages.
+
+.. image:: page-rollup-metric.png
+
++ **Show Metric**: Select this to decide to show the metric.
++ **Title**: Add a title for the metric if needed.
++ **Description**: A description for the metric can also be added.
++ **Icon type/Icon**: Select an icon type and an icon, if you want to.
++ **Color**: This sets the color for the divider above the metric. 
++ **Dialog width/Height**: Set width and height for the dialog displaying the list of pages.
 
 Layout and Write
 **********************
