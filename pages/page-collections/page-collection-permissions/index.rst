@@ -12,7 +12,7 @@ You can edit the following settings here:
 + **Page Collection Admin**: Needed to be able to edit all Page Collection settings. The Page Collection Admin permission is also needed to be able to edit the top node of the Page Collection. Publishing App administrators (set in the Publishing App settings) can edit the top node as well.
 + **Editor**: Editors can create pages using the available Page Types and edit pages using both Design mode and Write mode. 
 + **Author**: Authors can edit pages using Write mode only. 
-+ **Reader**: All colleagues that should be able to read information in this Page Collection must be added here or belong to a permission group added here. "Everyone" or "Everyone except External Users" are two commonly used permission groups. 
++ **Reader**: All colleagues that should be able to read information in this Page Collection must be added here or belong to a permission group added here. "Everyone" (Internal Users + External Users) or "Everyone except External Users" (Internal Users except restricted") are two commonly used permission groups.
 
 Single users, Security groups and Microsoft 365 groups can be added here (In Omnia on-prem, Microsoft 365 groups can't be used).
 
