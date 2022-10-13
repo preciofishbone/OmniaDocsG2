@@ -272,9 +272,9 @@ Only News in Swedish will be listed in this example.
 
 Metric
 *******
-Using these settings you can display a metric displaying the number of pages that is valid for the Query settings. Available in Omnia 6.12 and later.
+Available in Omnia 6.12 and later. Using these settings you can show a metric in the block displaying the number of pages that is valid for the Query settings. The metric can then be clicked to display the page rollup you have set uo.
 
-The metric kan be clicked to display the list of pages.
+This can for example be used to create a rather compact page or section with different Metrics in different blocks, that the user can use to click the desired metric to see the full list.
 
 .. image:: page-rollup-metric.png
 
