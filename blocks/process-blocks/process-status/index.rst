@@ -7,5 +7,5 @@ Here's an example when the block is used (image will be added soon)
 
 .. image:: process-status-block.png
 
-There are now settings available.
+There are no settings available.
 
