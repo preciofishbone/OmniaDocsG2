@@ -1,11 +1,11 @@
-The Process status block
+Process status block
 =======================================
 
 This block is available in Omnia 6.12 and later. It can be used in a process context to set and view the status for a step in the process.  Mainly for use ine Teams.
 
-Here's an example:
+Here's an example when the block is used (image will be added soon)
 
 .. image:: process-status-block.png
 
-
+There are now settings available.
 
