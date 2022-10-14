@@ -162,6 +162,12 @@ Using STYLE you can set the following:
 
 Test the options and see a preview in the block.
 
+Export
+*********
+Use this settings to display a link for export of the list to Excel.
+
+.. image:: document-rollup-export.png
+
 Layout and Write
 *********************
 The WRITE Tab is not used here. The LAYOUT tab contains general settings, see: :doc:`General Block Settings </blocks/general-block-settings/index>`

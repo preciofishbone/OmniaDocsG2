@@ -130,6 +130,7 @@
 <li class="toctree-l2"><a class="reference internal" href="../process-blocks/index.html">Process blocks</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../publishing-app-rollup/index.html">Publishing App Rollup block</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../user-profile-completion/index.html">Profile Completion</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../qr-code/index.html">QR Code</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../quick-links/index.html">Quick Links</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../rating/index.html">Rating</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../related-links/index.html">Related Links</a></li>
@@ -250,8 +251,8 @@
 <p>For implementation examples, see this page: <a class="reference internal" href="page-rollup-implementation/index.html"><span class="doc">Page Rollup implementation examples</span></a></p>
 <div class="section" id="settings">
 <h2>Settings<a class="headerlink" href="#settings" title="Permalink to this headline">¶</a></h2>
-<p>These settings are available for the block:</p>
-<img alt="../../_images/page-rollup-settings-new5.png" src="../../_images/page-rollup-settings-new5.png" />
+<p>These settings are available for the block (image from Omnia 6.12):</p>
+<img alt="../../_images/page-rollup-settings-612.png" src="../../_images/page-rollup-settings-612.png" />
 <div class="section" id="general">
 <h3>General<a class="headerlink" href="#general" title="Permalink to this headline">¶</a></h3>
 <p>Here you can add a title for block:</p>
@@ -270,22 +271,8 @@
 </ul>
 <p>For Query Builder, the following options are available:</p>
 <ul class="simple">
-<li><p><strong>Scope</strong>: When you have chosen to use the Query Builder, select scope for the block. For more informaiton about Scope, see below.</p></li>
-<li><p><strong>Current User Subscription</strong>: Available for scope Channels. Select this if only the pages that the logged in users subscribes to should be displayed.</p></li>
-<li><p><strong>Custom Query</strong>: Available for scope Channels. Use this to select one or more channels to rollup pages from. Note that a channel can be targeted to just certain colleagues or groups. See example below.</p></li>
-<li><p><strong>Exclude current page</strong>: Available when you have chosen scope for the Query Builder. The default setting is to exclude the current page, but if you, for some reason, would like to include the current page, uncheck this option.</p></li>
-<li><p><strong>Exclude variations</strong>: Usings this option, you can exclude varations from the query. Not available for Navigation path.</p></li>
-<li><p><strong>Status</strong>: By using this option you can create rollups for pages with the status Never published, Published or Any status. Not available for Navigation path.</p></li>
-<li><p><strong>Trim duplicates</strong>: If more than one Page Rollup block is added to a page, this option can be used to handle duplicates between the blocks. When the option is selected, you can enter a number indicating the priority for duplicates, for this block. If you set “1” for a block it means this block has priority showing a post that would have been a duplicate.</p></li>
-<li><p><strong>Query Item Limit</strong>: Use the slider, or type the number (1-99) to set the number of pages that should be retrieved to make sure all duplicates are found. You should not set this number higher than you really need, as higher numbers may have an impact on performance. Note that when you change the number, “Max Display Limit” is also changed, see below.</p></li>
-<li><p><strong>Page Size</strong>: Use the slider, or type the number (1-99) to set the number of items (pages) that should be displayed on each “page” of the list. Also see under <em>Display</em> below for additional settings for the list.</p></li>
-<li><p><strong>Cache on client</strong>: This setting can be used to speed up rendering on subsequent page loads. This is is done by storing data in the browser cache. Default: selected.</p></li>
-</ul>
-</div>
-<div class="section" id="more-on-scope">
-<h3>More on Scope<a class="headerlink" href="#more-on-scope" title="Permalink to this headline">¶</a></h3>
-<p>This is where you choose where to get the pages from. You can select:</p>
-<ul class="simple">
+<li><p><strong>Scope</strong>: When you have chosen to use the Query Builder, select scope for the block. This is where you choose where to get the pages from. You can select:</p>
+<ul>
 <li><p>Tenant.</p></li>
 <li><p>Business Profile(s).</p></li>
 <li><p>Publishing App(s).</p></li>
@@ -293,11 +280,29 @@
 <li><p>Navigation Path.</p></li>
 <li><p>Channel(s).</p></li>
 </ul>
+</li>
+</ul>
 <p>When you have selected Business Profiles, Publishing Apps, Page Collections or Channels, as the next step, you select one or more to get the pages from.</p>
+<p>The following settings can then be available, depending on scope chosen:</p>
+<ul class="simple">
+<li><p><strong>Cache on client</strong>: This setting can be used to speed up rendering on subsequent page loads. This is is done by storing data in the browser cache. Default: selected.</p></li>
+<li><p><strong>Current User Subscription</strong>: Available for scope Channels. Select this if only the pages that the logged in users subscribes to should be displayed.</p></li>
+<li><p><strong>Current Node/Custom</strong>: Available for scope Navigation path. Choose the start point for the navigation path to be displayed. If you select “Custom”, you can use the Page Picker to select start node.</p></li>
+<li><p><strong>Custom Query</strong>: Available for scope Channels. Use this to select one or more channels to rollup pages from. Note that a channel can be targeted to just certain colleagues or groups. See example below.</p></li>
+<li><p><strong>Filter by user subscription</strong>: Availabel for Scope Channels. Select this if the list should display only thos channels the logged in user follows.</p></li>
+<li><p><strong>Exclude current page</strong>: Available when you have chosen scope for the Query Builder. The default setting is to exclude the current page, but if you, for some reason, would like to include the current page, uncheck this option.</p></li>
+<li><p><strong>Exclude start node</strong>: Available for scope Navigation path. If the start page selected should not be displayed in the block, select this option.</p></li>
+<li><p><strong>Exclude variations</strong>: Usings this option, you can exclude varations from the query. Not available for Navigation path.</p></li>
+<li><p><strong>Status</strong>: By using this option you can create rollups for pages with the status Never published, Published or Any status.</p></li>
+<li><p><strong>Trim duplicates</strong>: If more than one Page Rollup block is added to a page, this option can be used to handle duplicates between the blocks. When the option is selected, you can enter a number indicating the priority for duplicates, for this block. If you set “1” for a block it means this block has priority showing a post that would have been a duplicate.</p></li>
+<li><p><strong>Navigation Depth Level</strong>: Available for scope Navigation path. Choose the number of nodes that should be displayed, including the start node.</p></li>
+<li><p><strong>Page Size</strong>: Use the slider, or type the number (1-99) to set the number of items (pages) that should be displayed on each “page” of the list. Also see under <em>Display</em> below for additional settings for the list.</p></li>
+<li><p><strong>Query Item Limit</strong>: Use the slider, or type the number (1-99) to set the number of pages that should be retrieved to make sure all duplicates are found. You should not set this number higher than you really need, as higher numbers may have an impact on performance. Note that when you change the number, “Max Display Limit” is also changed, see below.</p></li>
+</ul>
 </div>
 <div class="section" id="more-on-scope-navigation-path">
 <h3>More on Scope Navigation Path<a class="headerlink" href="#more-on-scope-navigation-path" title="Permalink to this headline">¶</a></h3>
-<p>Navigation path is a special case, it’s used for creating a navigation. When you have selected start node you can choose navigation depth. There’s also a view available, specifically for Navigation Path - Navigation View. Select it under Display. It’s only available if you first select Navigation Path as Scope.</p>
+<p>Navigation path is a special case, it’s used for creating a navigation. When you have selected start node you can choose start node and navigation depth. There’s also a view available, specifically for Navigation Path; Navigation View. Select it under Display. It’s only available if you first select Navigation Path as Scope.</p>
 <p><strong>A tip</strong>: When you’re creating a Page Type, selecting Current Node for a Navigation Path can be very useful. Wherever that Page Type is used, the view (Navigation View) always starts at the current node for that page.</p>
 </div>
 <div class="section" id="display">
@@ -328,7 +333,7 @@
 <li><p><strong>Paging</strong>: Select paging here; “No paging”, “Classic” or “Scroll”. Available for List View, Dynamic Roller, Card and Newsletter.</p></li>
 <li><p><strong>Show Likes/Comments</strong>: If the number of likes and comments should be displayed for the item, select this option. Available for Roller, Listing with image, Dynamic Roller and Card.</p></li>
 <li><p><strong>Show link</strong>: You can add a link button at the bottom of the list. The first page collection is default, but you can link to any target.</p></li>
-<li><p><strong>Sort by</strong>: Choose what the list should be sorted by, and then select ascending or descending. Available for all, except Navigaiton View.</p></li>
+<li><p><strong>Sort by</strong>: Choose what the list should be sorted by, and then select ascending or descending. Available for all, except Navigation View. Note that on Omnis 6.12 and later the sorting is extended. You can now sort on Comment, Like, Rating, Feedback, Last Activity and Last Commented. For the Navigation View you can also sort on Navigation.</p></li>
 <li><p><strong>Summary</strong>: Select the property that contains the page summary for the item to display. Available for Listing with image, List View, Dynamic Roller, Card and Newsletter.</p></li>
 </ul>
 </div>
@@ -371,11 +376,16 @@
 <p>The special settings for this view are:</p>
 <ul class="simple">
 <li><p><strong>Cards per Row</strong>: As it says, set the number of cards to show per row.</p></li>
+<li><p><strong>Show Last Comment</strong>: Available in Omnia 6.12 and later. If you seect this, the last comment for the page, if any, will be displayed on the card.</p></li>
 <li><p><strong>Person</strong>: This option can be used to show properties in Card view.</p></li>
 <li><p><strong>Show Page Type</strong>: If this option is selected, the Page Type used for the page is shown as metadata, the same way as other properties.</p></li>
 <li><p><strong>Term properties</strong>: Can be used to show properties in Card view. Click “Add” and select a property. Continue the same way for additional properties.</p></li>
 </ul>
 <p>For general settings, see above.</p>
+<p>In Omnia 6.12 and later you can choose where meta data for Date and Person will be placed. Click here to display options:</p>
+<img alt="../../_images/place-meta.png" src="../../_images/place-meta.png" />
+<p>Then use the settings to select Top Left, Top Right, Bottom Left or Bottom Right:</p>
+<img alt="../../_images/place-meta-settings.png" src="../../_images/place-meta-settings.png" />
 </div>
 <div class="section" id="newsletter">
 <h3>Newsletter<a class="headerlink" href="#newsletter" title="Permalink to this headline">¶</a></h3>
@@ -465,6 +475,20 @@
 <p>Only News in Swedish will be listed in this example.</p>
 </div>
 </div>
+<div class="section" id="metric">
+<h2>Metric<a class="headerlink" href="#metric" title="Permalink to this headline">¶</a></h2>
+<p>Available in Omnia 6.12 and later. Using these settings you can show a metric in the block displaying the number of pages that is valid for the Query settings. The metric can then be clicked to display the page rollup you have set uo.</p>
+<p>This can for example be used to create a rather compact page or section with different Metrics in different blocks, that the user can use to click the desired metric to see the full list.</p>
+<img alt="../../_images/page-rollup-metric.png" src="../../_images/page-rollup-metric.png" />
+<ul class="simple">
+<li><p><strong>Show Metric</strong>: Select this to decide to show the metric.</p></li>
+<li><p><strong>Title</strong>: Add a title for the metric if needed.</p></li>
+<li><p><strong>Description</strong>: A description for the metric can also be added.</p></li>
+<li><p><strong>Icon type/Icon</strong>: Select an icon type and an icon, if you want to.</p></li>
+<li><p><strong>Color</strong>: This sets the color for the divider above the metric.</p></li>
+<li><p><strong>Dialog width/Height</strong>: Set width and height for the dialog displaying the list of pages.</p></li>
+</ul>
+</div>
 <div class="section" id="layout-and-write">
 <h2>Layout and Write<a class="headerlink" href="#layout-and-write" title="Permalink to this headline">¶</a></h2>
 <p>The WRITE tab is not used here. The Layout tab contains general settings, see: <a class="reference internal" href="../general-block-settings/index.html"><span class="doc">General Block Settings</span></a></p>
@@ -487,7 +511,7 @@
     <p>
         &#169; Copyright 2022, Precio Fishbone.
       <span class="lastupdated">
-        Last updated on Oct 11, 2022.
+        Last updated on Oct 14, 2022.
       </span>
 
     </p>

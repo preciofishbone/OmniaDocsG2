@@ -194,6 +194,7 @@
 <p>When editing text in Omnia, a RTF editor can be available. What is available in the editor is set up in Omnia Admin, and in a few cases in the block itself.</p>
 <p><strong>Note!</strong> Options available in the RTF Editor can differ a lot, depending on how it’s set up. Not all options described below may be available.</p>
 <p>For more information about the settings, see: <a class="reference internal" href="../../admin-settings/tenant-settings/settings/rtf-editor/index.html"><span class="doc">RTF Editor Settings</span></a></p>
+<p>In Omnia 6.12 and later it can be possible to add animated gifs, and emitcons in the RTF Editor. For more information, see the heading “Add an animated GIF” and the heading “Add an emoticon” below.</p>
 <div class="section" id="using-the-rtf-editor">
 <h2>Using the RTF Editor<a class="headerlink" href="#using-the-rtf-editor" title="Permalink to this headline">¶</a></h2>
 <p>Here’s the options that may be available in the editor:</p>
@@ -289,6 +290,41 @@
 <p>Here’s an example with the image width set to 200 pixels:</p>
 <img alt="../../_images/rtf-add-image-tools-width-3-new.png" src="../../_images/rtf-add-image-tools-width-3-new.png" />
 </div>
+<div class="section" id="add-an-animated-gif">
+<h3>Add an animated GIF<a class="headerlink" href="#add-an-animated-gif" title="Permalink to this headline">¶</a></h3>
+<p>In Omnia 6.12 and later, it can be possible to add an animated GIF to the RTF Editor, using this icon:</p>
+<img alt="../../_images/rtf-animated-gif-icon.png" src="../../_images/rtf-animated-gif-icon.png" />
+<ol class="arabic simple">
+<li><p>click where the animated GIF should be placed.</p></li>
+<li><p>Click the icon.</p></li>
+</ol>
+<p>Something like the following is now shown:</p>
+<img alt="../../_images/rtf-animated-gif-select.png" src="../../_images/rtf-animated-gif-select.png" />
+<ol class="arabic simple" start="3">
+<li><p>Use the search field or just browse to find an animated GIF.</p></li>
+<li><p>Click the GIF to add it.</p></li>
+<li><p>Click the GIF in the RTF Editor, for editing options.</p></li>
+</ol>
+<p>Using the tools, you can add a clickable link, add an anchor name for the GIF, or remove the GIF:</p>
+<img alt="../../_images/rtf-animated-gif-tools.png" src="../../_images/rtf-animated-gif-tools.png" />
+<p>For information about how to add a clickable link, see above under the heading “Add and edit Media”. For information about anchors, se the heading “Add an anchor (bookmark)” below.</p>
+</div>
+<div class="section" id="add-an-emoticon">
+<h3>Add an emoticon<a class="headerlink" href="#add-an-emoticon" title="Permalink to this headline">¶</a></h3>
+<p>In Omnia 6.12 and later, it can be possible to add an emoticon to the RTF Editor, using this icon:</p>
+<img alt="../../_images/rtf-emoticon-icon.png" src="../../_images/rtf-emoticon-icon.png" />
+<ol class="arabic simple">
+<li><p>click where the emoticon should be placed.</p></li>
+<li><p>Click the icon.</p></li>
+</ol>
+<p>Something like the following is now shown:</p>
+<img alt="../../_images/rtf-emoticon-select.png" src="../../_images/rtf-emoticon-select.png" />
+<ol class="arabic simple" start="3">
+<li><p>Use the search field or just browse to find the emoticon you want.</p></li>
+<li><p>Click the emoticon to add it. (You can add more than one if you want to).</p></li>
+<li><p>Click outside the emoticon window to close it.</p></li>
+</ol>
+</div>
 <div class="section" id="add-a-table">
 <h3>Add a table<a class="headerlink" href="#add-a-table" title="Permalink to this headline">¶</a></h3>
 <p>To add a table, do the following:</p>
@@ -319,6 +355,12 @@
 <img alt="../../_images/rtf-editor-test-only-new.png" src="../../_images/rtf-editor-test-only-new.png" />
 <p>You can also use this option on text you already have in the block. Just select the text and the option becomes available.</p>
 </div>
+</div>
+<div class="section" id="pasting-contents-from-microsoft-word">
+<h2>Pasting contents from Microsoft Word<a class="headerlink" href="#pasting-contents-from-microsoft-word" title="Permalink to this headline">¶</a></h2>
+<p>When pasting contents from a Microsoft Word document into a Rich Text field, some of the text formats can also be pasted. Headings are also regornized and the RTF Editor settings for these headings are applied.</p>
+<p>Note that bold, underscore and headings are considered default HTML styles and will be kept, with the RTF Editor settings, even when pasting text only is selected.</p>
+<p>In Omnia 6.12 and later, images from the Word document are also pasted, if you select them. Note that this apply to Rich Text fields (blocks) only. It does not work for plain text.</p>
 <div class="section" id="add-an-anchor-bookmark">
 <h3>Add an anchor (bookmark)<a class="headerlink" href="#add-an-anchor-bookmark" title="Permalink to this headline">¶</a></h3>
 <p>Anchors can used in the Add Link general asset and when creating a link button using the Action button block. So, if you add an anchor (bookmark) to the text, links can be created to that anchor.</p>
@@ -375,7 +417,7 @@
     <p>
         &#169; Copyright 2022, Precio Fishbone.
       <span class="lastupdated">
-        Last updated on Oct 11, 2022.
+        Last updated on Oct 14, 2022.
       </span>
 
     </p>

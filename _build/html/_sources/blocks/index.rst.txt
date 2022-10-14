@@ -43,6 +43,7 @@ Blocks
    process-blocks/index
    publishing-app-rollup/index
    user-profile-completion/index
+   qr-code/index
    quick-links/index
    rating/index
    related-links/index

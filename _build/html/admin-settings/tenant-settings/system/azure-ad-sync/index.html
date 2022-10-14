@@ -119,6 +119,17 @@
 <li class="toctree-l4"><a class="reference internal" href="../teams-app-generator/index.html">Teams App Generator</a></li>
 <li class="toctree-l4"><a class="reference internal" href="../tenant-contact/index.html">Tenant Contact</a></li>
 <li class="toctree-l4"><a class="reference internal" href="../user-profile-card/index.html">User Profile Card</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../audit-logs/index.html">Audit logs</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../authentication/index.html">Authentification</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../default-sharepoint-content/index.html">Default Sharepoint Context Url</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../error-information/index.html">Error Information</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../extensions/index.html">Extensions</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../localization/index.html">Localization</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../microsoft-365/index.html">Microsoft 365 settings in Omnia 6.12</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../services-612/index.html">Services</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../queue-logs/index.html">Queue Logs</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../tenant-contact/index.html">Tenant Contact</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../user-profile-card/index.html">User Profile Card</a></li>
 </ul>
 </li>
 <li class="toctree-l3"><a class="reference internal" href="../../tutorial/index.html">Tutorial</a></li>
@@ -233,7 +244,7 @@
 <li><p><strong>SYNCHRONIZE NOW</strong>: Click this button to execute the syncrhonizations set up (listed at the bottom). If you select “Enable Azure AD Synchronization” and set and interval, you don’t have to click this button. The synchronization is then executed with the interval set.</p></li>
 <li><p><strong>EVENTS</strong>: Click this button to access logs from the synchronizations.</p></li>
 <li><p><strong>Enable Azure AD Synchronization</strong>: Select this option to enable the synchronization.</p></li>
-<li><p><strong>Enable Sharepoint App-Only</strong>: Due to ongoing changes by Microsoft, Azure AD Sync may stop working. If that happens you have to setup Sharepoint App-Only for Azure AD Sync. Click the link “Config instruction” and follow that instruction. When you’re done, select this option.</p></li>
+<li><p><strong>Enable Sharepoint App-Only</strong>: Due to ongoing changes by Microsoft, Azure AD Sync may stop working. If that happens you have to setup Sharepoint App-Only for Azure AD Sync. Click the link “Config instruction” and follow that instruction. When you’re done, select this option. Note that the description of the option is not found here, you must click the link to read it. Also, see below for more information.</p></li>
 <li><p><strong>Log Detail</strong>: Use this if you have problems with the synchronization. In the details you will hopefully find out what’s wrong.</p></li>
 <li><p><strong>Batch Execute</strong>: This is an advanced option if you have a very long list of users - several hundreds and above. Contact you provider/consultant for help when using this.</p></li>
 <li><p><strong>Batch Number</strong>: When you have selcected “Batch Execute” you use this field to set the number of users that should be synchronized each time.</p></li>
@@ -242,8 +253,11 @@
 <p>At the bottom the synchronizations that has been set up are shown. By clicking the pen you can edit the same settings as when the synchronization was set up (see below).</p>
 <p>To delete a synchronization from the list, click the dust bin.</p>
 <p>For a scheduled synchronization you also need to add an account in the Security settings (Secrets), see: <span class="xref std std-doc">Security</span></p>
+<div class="section" id="more-on-sharepoint-app-only">
+<h2>More on Sharepoint App-only<a class="headerlink" href="#more-on-sharepoint-app-only" title="Permalink to this headline">¶</a></h2>
+<p>When setting up the Azure AD Sync using the SharePoint App-Only model, the generated Client Secret will expire after one year. You need to renew the client secret in order to keep the Azure AD Sync working. Follow the instruction you find by clicking the link by the option “Enable Sharepoint App-Only”.</p>
 <div class="section" id="setup-a-new-synchronization">
-<h2>Setup a new synchronization<a class="headerlink" href="#setup-a-new-synchronization" title="Permalink to this headline">¶</a></h2>
+<h3>Setup a new synchronization<a class="headerlink" href="#setup-a-new-synchronization" title="Permalink to this headline">¶</a></h3>
 <p>To set up a new synchronization, do the following:</p>
 <ol class="arabic simple">
 <li><p>Click the plus.</p></li>
@@ -266,9 +280,10 @@
 </ol>
 </div>
 <div class="section" id="events">
-<h2>Events<a class="headerlink" href="#events" title="Permalink to this headline">¶</a></h2>
+<h3>Events<a class="headerlink" href="#events" title="Permalink to this headline">¶</a></h3>
 <p>In the list each synchronization is described with Type, Status and start- and end time. The top icon for each post will show more details. Here’s where you will see detailed log if you selected “Log Details”.</p>
 <img alt="../../../../_images/azure-ad-settings-events.png" src="../../../../_images/azure-ad-settings-events.png" />
+</div>
 </div>
 </div>
 
@@ -288,7 +303,7 @@
     <p>
         &#169; Copyright 2022, Precio Fishbone.
       <span class="lastupdated">
-        Last updated on Oct 11, 2022.
+        Last updated on Oct 14, 2022.
       </span>
 
     </p>

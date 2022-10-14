@@ -121,9 +121,11 @@ For more information about inviting co-authors, see: :doc:`Invite co-authors </p
 
 Settings for Approval
 ----------------------
-When Approval is activated, the following settings are available:
+When Approval is activated, the following settings are available (image from Omnia 6.12):
 
-.. image:: page-collection-approval-settings-new.png
+.. image:: page-collection-approval-settings-612.png
+
++ **Apply to authors only**: This option is available in Omnia 6.12 and later. If you select this, editors never need approval, they can always publish directly. When an author publishes, approval is needed.
 
 You select who can approve the creation of a page:
 
@@ -177,5 +179,3 @@ One example where "Flat" is a relevant choice, is when creating a new Page Colle
 The new Page Collection is created and placed in the editors navigation. You can now add pages and everything else that is described in the "Pages" section of this documentation.
 
 For settings for the Page Collection, see above.
-
-

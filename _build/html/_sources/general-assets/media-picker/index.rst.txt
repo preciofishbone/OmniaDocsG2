@@ -25,6 +25,8 @@ To select an image, click it and the settings will be shown. Settings are the sa
 
 Settings of image banks are made for each Business Profile. For more information see: :doc:`Central Image Location </admin-settings/business-group-settings/settings/central-image-location/index>`
 
+In Omnia 6.12 and later, videos can be handled in Sharepoint media libraries and some video editing options, similar to those in Stream has been added by Microsoft. Video editing has to be made in the Sharepoint library, not in the Media Picker.
+
 Bing Search
 ***************
 When selecting "Bing Search" (if available) you can search for any Bing image, or use the predefined search categories, if any is set up. Bing search categories can be set up by an administrator in Omnia Admin.
@@ -38,6 +40,8 @@ When selecting "Bing Search" (if available) you can search for any Bing image, o
 
 To select an image, click it and the settings will be shown. Settings are the same for all images, see below.
 
+**Important Note!** Omnia applies a filter to the Bing search automatically so only images that are free to use can be found through the Image Picker.
+
 Pexels or other provider
 **************************
 Available search- or filtering fields depend on what the provider offer. For Pexels (if available), only a Search field is available:
@@ -45,6 +49,8 @@ Available search- or filtering fields depend on what the provider offer. For Pex
 .. image:: media-picker-pexel-search-v6.png
 
 To select an image, click it and the settings will be shown. Settings are the same for all images, see below.
+
+**Important Note!** All images from Pexels are always free to use, and edit.
 
 Images that are too big
 ************************
@@ -136,5 +142,4 @@ Now the following settings are available:
 + **Start at**: If the video should not start at the beginning, set when it should start. Use the format minutes:seconds.
 + **Autoplay**: If the video should start automatically when a user opens the page, select this option.
 + **Mute**: To play the video without sound, select this option.
-
 

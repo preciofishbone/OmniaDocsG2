@@ -13,6 +13,12 @@ Previews are available for pages and documents. For a preview, point at the page
 
 .. image:: quick-search-preview-page-new3.png
 
+In Omnia 6.12 and later, you can see the totalt number for your search result. Here's an example:
+
+.. image:: quick-search-total.png
+
+Users can then go to Advanced Search by clicking "See more results" to found out more about the search result.
+
 Advanced Search
 ****************
 To search with more options, users can go to the Advanced Search by clicking here (the text for this link can be edited):

@@ -44,7 +44,7 @@
     
     <link rel="index" title="Index" href="../../../../genindex.html" />
     <link rel="search" title="Search" href="../../../../search.html" />
-    <link rel="next" title="Tutorial" href="../../tutorial/index.html" />
+    <link rel="next" title="Microsoft 365 settings in Omnia 6.12" href="../microsoft-365/index.html" />
     <link rel="prev" title="Tenant Contact" href="../tenant-contact/index.html" /> 
 </head>
 
@@ -117,6 +117,17 @@
 <li class="toctree-l4"><a class="reference internal" href="../queue-logs/index.html">Queue Logs</a></li>
 <li class="toctree-l4"><a class="reference internal" href="../spfx-instruction/index.html">SPFx Instruction</a></li>
 <li class="toctree-l4"><a class="reference internal" href="../teams-app-generator/index.html">Teams App Generator</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../tenant-contact/index.html">Tenant Contact</a></li>
+<li class="toctree-l4 current"><a class="current reference internal" href="#">User Profile Card</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../audit-logs/index.html">Audit logs</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../authentication/index.html">Authentification</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../default-sharepoint-content/index.html">Default Sharepoint Context Url</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../error-information/index.html">Error Information</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../extensions/index.html">Extensions</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../localization/index.html">Localization</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../microsoft-365/index.html">Microsoft 365 settings in Omnia 6.12</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../services-612/index.html">Services</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../queue-logs/index.html">Queue Logs</a></li>
 <li class="toctree-l4"><a class="reference internal" href="../tenant-contact/index.html">Tenant Contact</a></li>
 <li class="toctree-l4 current"><a class="current reference internal" href="#">User Profile Card</a></li>
 </ul>
@@ -238,11 +249,32 @@
 <li><p><strong>Show link to Details</strong>: If it should be possible to go to the person’s profile from the User Profile Card, select this option. In Omnia online the person’s Delve page is linked to when this option is selected (see the Go to Delve link in images aboove). In Omnia onPrem, the link goes to the person’s My Profile page.</p></li>
 <li><p><strong>Show Strengthen Profile</strong>: If the Strengthen Profile button should be shown on the card, select this option. The button is used to access the Strengthen Profile dialog.</p></li>
 <li><p><strong>Show my subscriptions</strong>: If the My Subscription button should be shown on the card, select this option. The button is used to access the My Subscriptions dialog.</p></li>
-<li><p><strong>Exclude filters</strong>: If some users registered in your system should NOT be displayed in the organization tree in the Organization Tree block, add filters for them using Azure AD properties and value.</p></li>
+<li><p><strong>Exclude filters</strong>: If some users registered in your system should NOT be displayed in the organization tree in the Organization Tree block, add filters for them using Azure AD properties and value. An example is if your organization is in education, probably just the staff should have access to the intranet, not the students.</p></li>
 <li><p><strong>Show blocked sign-in user</strong>: Select this option to list logged in users that are excluded by the filter(s) you have added above.</p></li>
 </ul>
 <p>For more information about Strengthen Profile, see this page: <a class="reference internal" href="../../../../user-options/strengthen-profile/index.html"><span class="doc">Strengthen Profile</span></a></p>
-<p>For more information about My Subscriptions, see this page: <a class="reference internal" href="../../../../user-options/my-subscriptions/index.html"><span class="doc">Strengthen Profile</span></a></p>
+<p>For more information about My Subscriptions, see this page: <a class="reference internal" href="../../../../user-options/my-subscriptions/index.html"><span class="doc">My Subscriptions</span></a></p>
+</div>
+<div class="section" id="adding-exclude-filters">
+<h2>Adding exclude filters<a class="headerlink" href="#adding-exclude-filters" title="Permalink to this headline">¶</a></h2>
+<p>To add exclude filters, do the following:</p>
+<ol class="arabic simple">
+<li><p>Click the plus to add a filter.</p></li>
+</ol>
+<img alt="../../../../_images/exclude-filters-1.png" src="../../../../_images/exclude-filters-1.png" />
+<ol class="arabic simple" start="2">
+<li><p>Select Azure AD property.</p></li>
+</ol>
+<img alt="../../../../_images/exclude-filters-2.png" src="../../../../_images/exclude-filters-2.png" />
+<p>Note that if you can’t find the property you are looking for in the last, it can still be available. Type the name of the property in the field to search for it.</p>
+<ol class="arabic simple" start="3">
+<li><p>Add a value for the property.</p></li>
+</ol>
+<img alt="../../../../_images/exclude-filters-3.png" src="../../../../_images/exclude-filters-3.png" />
+<ol class="arabic simple" start="4">
+<li><p>Click SAVE.</p></li>
+<li><p>Continue the same way until all exclude filters has been added.</p></li>
+</ol>
 </div>
 </div>
 
@@ -252,7 +284,7 @@
           </div>
           <footer>
     <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
-        <a href="../../tutorial/index.html" class="btn btn-neutral float-right" title="Tutorial" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right" aria-hidden="true"></span></a>
+        <a href="../microsoft-365/index.html" class="btn btn-neutral float-right" title="Microsoft 365 settings in Omnia 6.12" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right" aria-hidden="true"></span></a>
         <a href="../tenant-contact/index.html" class="btn btn-neutral float-left" title="Tenant Contact" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left" aria-hidden="true"></span> Previous</a>
     </div>
 
@@ -262,7 +294,7 @@
     <p>
         &#169; Copyright 2022, Precio Fishbone.
       <span class="lastupdated">
-        Last updated on Oct 11, 2022.
+        Last updated on Oct 14, 2022.
       </span>
 
     </p>

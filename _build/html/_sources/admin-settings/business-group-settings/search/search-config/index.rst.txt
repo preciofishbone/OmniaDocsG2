@@ -16,8 +16,8 @@ To create a new Search Category, click the plus and use the settings available f
 + **Title**: Add a title for the Search Category, in some or all languges available in the tenant (click the flag to change language).
 + **Search Providers**: Select search provider for the category. The following is available: Comments, Shared Links, Sharepoint Search and Microsoft Search. **Note!** In Omnia on-prem only Sharepoint Search and Shared Links can be used as Search Providers.
 + **Search Result Source**: Select Source from the list.
-+ **Search Query**: Add the Search Query here.
-+ **Enable Query Rules**: Query rules can be set up in Sharepoint. If these query rules should be , used for this category, select this option.
++ **Search Query**: Add the Search Query here. In Omnia 6.12 and later, tokens can be used for a dynamic search query, see below.
++ **Enable Query Rules**: Query rules can be set up in Sharepoint. If these query rules should be used for this category, select this option.
 + **Enable partial word search**: Per default the search will onfly find whole words, so a search for Chris will find just that, not for example Christina. But if you select this option, the search will find parts of words as well, so both Chris, Christina and Christian, for example.
 + **Sort By**: Choose property to sort by, or you can choose to sort by Relevance or Popularity (at the bottom of the list).
 + **Sort Direction**: When you have chosen a property to sort by, you can select a sort direction here.
@@ -26,6 +26,20 @@ To create a new Search Category, click the plus and use the settings available f
 
 The same settings are available when editing a Search Category.
 
+Tokens in search query
+***********************
+For a dynamic search query that adapts to the context, tokens can be used in the search query, in Omnia 6.12 and later. These tokens are available so far (more will be added):
+
++ {User.Id}
++ {User.Name}
++ {User.Email}
++ {User.Language}
++ {SPSite.Id}
++ {SPSite.FullUrl}
++ {Page.Id}
++ {Page.SPPath} - to get the full url to the folder where the page is located in Site Pages.
+* {Variation.Segment}
+
 Search Templates
 *********************
 Search Templates are created by developers and are simply listed here. A Search Template defines how to display a search result. If a search result happens to not match any Search Template, the Default search template is used. You can set Default search template by clicking any of the templates in the list.
@@ -33,10 +47,4 @@ Search Templates are created by developers and are simply listed here. A Search 
 In this example the selected Default search template is actually named that, but any other template can be selected.
 
 .. image:: search-templates-new2.png
-
-
-
-
-
-
 

@@ -7,6 +7,8 @@ When editing text in Omnia, a RTF editor can be available. What is available in 
 
 For more information about the settings, see: :doc:`RTF Editor Settings </admin-settings/tenant-settings/settings/rtf-editor/index>`
 
+In Omnia 6.12 and later it can be possible to add animated gifs, and emitcons in the RTF Editor. For more information, see the heading "Add an animated GIF" and the heading "Add an emoticon" below.
+
 Using the RTF Editor
 **********************
 Here's the options that may be available in the editor:
@@ -130,6 +132,46 @@ Here's an example with the image width set to 200 pixels:
 
 .. image:: rtf-add-image-tools-width-3-new.png
 
+Add an animated GIF
+---------------------
+In Omnia 6.12 and later, it can be possible to add an animated GIF to the RTF Editor, using this icon:
+
+.. image:: rtf-animated-gif-icon.png
+
+1. click where the animated GIF should be placed.
+2. Click the icon.
+
+Something like the following is now shown:
+
+.. image:: rtf-animated-gif-select.png
+
+3. Use the search field or just browse to find an animated GIF.
+4. Click the GIF to add it.
+5. Click the GIF in the RTF Editor, for editing options.
+
+Using the tools, you can add a clickable link, add an anchor name for the GIF, or remove the GIF:
+
+.. image:: rtf-animated-gif-tools.png
+
+For information about how to add a clickable link, see above under the heading "Add and edit Media". For information about anchors, se the heading "Add an anchor (bookmark)" below.
+
+Add an emoticon
+---------------------
+In Omnia 6.12 and later, it can be possible to add an emoticon to the RTF Editor, using this icon:
+
+.. image:: rtf-emoticon-icon.png
+
+1. click where the emoticon should be placed.
+2. Click the icon.
+
+Something like the following is now shown:
+
+.. image:: rtf-emoticon-select.png
+
+3. Use the search field or just browse to find the emoticon you want.
+4. Click the emoticon to add it. (You can add more than one if you want to).
+5. Click outside the emoticon window to close it.
+
 Add a table
 ------------
 To add a table, do the following:
@@ -167,6 +209,14 @@ All style tags are removed. Default HTML styles is kept.
 .. image:: rtf-editor-test-only-new.png
 
 You can also use this option on text you already have in the block. Just select the text and the option becomes available.
+
+Pasting contents from Microsoft Word
+*************************************
+When pasting contents from a Microsoft Word document into a Rich Text field, some of the text formats can also be pasted. Headings are also regornized and the RTF Editor settings for these headings are applied. 
+
+Note that bold, underscore and headings are considered default HTML styles and will be kept, with the RTF Editor settings, even when pasting text only is selected.
+
+In Omnia 6.12 and later, images from the Word document are also pasted, if you select them. Note that this apply to Rich Text fields (blocks) only. It does not work for plain text.
 
 Add an anchor (bookmark)
 ---------------------------

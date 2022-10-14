@@ -108,6 +108,7 @@
 <li class="toctree-l4"><a class="reference internal" href="../advanced-search/advanced-search-67/index.html">Advanced Search settings</a></li>
 <li class="toctree-l4"><a class="reference internal" href="../promoted-search-results/index.html">Promoted Search Results</a></li>
 <li class="toctree-l4"><a class="reference internal" href="../search-feedback/index.html">Search Feedback</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../search-statistics/index.html">Search Statistics</a></li>
 </ul>
 </li>
 <li class="toctree-l3"><a class="reference internal" href="../../settings/index.html">Settings</a></li>
@@ -222,8 +223,8 @@
 <li><p><strong>Title</strong>: Add a title for the Search Category, in some or all languges available in the tenant (click the flag to change language).</p></li>
 <li><p><strong>Search Providers</strong>: Select search provider for the category. The following is available: Comments, Shared Links, Sharepoint Search and Microsoft Search. <strong>Note!</strong> In Omnia on-prem only Sharepoint Search and Shared Links can be used as Search Providers.</p></li>
 <li><p><strong>Search Result Source</strong>: Select Source from the list.</p></li>
-<li><p><strong>Search Query</strong>: Add the Search Query here.</p></li>
-<li><p><strong>Enable Query Rules</strong>: Query rules can be set up in Sharepoint. If these query rules should be , used for this category, select this option.</p></li>
+<li><p><strong>Search Query</strong>: Add the Search Query here. In Omnia 6.12 and later, tokens can be used for a dynamic search query, see below.</p></li>
+<li><p><strong>Enable Query Rules</strong>: Query rules can be set up in Sharepoint. If these query rules should be used for this category, select this option.</p></li>
 <li><p><strong>Enable partial word search</strong>: Per default the search will onfly find whole words, so a search for Chris will find just that, not for example Christina. But if you select this option, the search will find parts of words as well, so both Chris, Christina and Christian, for example.</p></li>
 <li><p><strong>Sort By</strong>: Choose property to sort by, or you can choose to sort by Relevance or Popularity (at the bottom of the list).</p></li>
 <li><p><strong>Sort Direction</strong>: When you have chosen a property to sort by, you can select a sort direction here.</p></li>
@@ -231,6 +232,23 @@
 <li><p><strong>Targeting filter</strong>: A search category can be targeted to a specific group of people based on the targeting system in Omnia. This setting will be used both in Quick and Advanced search. More information is found here: <a class="reference internal" href="../../../../general-assets/targeting-in-omnia/index.html"><span class="doc">Using Targeting</span></a></p></li>
 </ul>
 <p>The same settings are available when editing a Search Category.</p>
+</div>
+<div class="section" id="tokens-in-search-query">
+<h2>Tokens in search query<a class="headerlink" href="#tokens-in-search-query" title="Permalink to this headline">¶</a></h2>
+<p>For a dynamic search query that adapts to the context, tokens can be used in the search query, in Omnia 6.12 and later. These tokens are available so far (more will be added):</p>
+<ul class="simple">
+<li><p>{User.Id}</p></li>
+<li><p>{User.Name}</p></li>
+<li><p>{User.Email}</p></li>
+<li><p>{User.Language}</p></li>
+<li><p>{SPSite.Id}</p></li>
+<li><p>{SPSite.FullUrl}</p></li>
+<li><p>{Page.Id}</p></li>
+<li><p>{Page.SPPath} - to get the full url to the folder where the page is located in Site Pages.</p></li>
+</ul>
+<ul class="simple">
+<li><p>{Variation.Segment}</p></li>
+</ul>
 </div>
 <div class="section" id="search-templates">
 <h2>Search Templates<a class="headerlink" href="#search-templates" title="Permalink to this headline">¶</a></h2>
@@ -256,7 +274,7 @@
     <p>
         &#169; Copyright 2022, Precio Fishbone.
       <span class="lastupdated">
-        Last updated on Oct 11, 2022.
+        Last updated on Oct 14, 2022.
       </span>
 
     </p>

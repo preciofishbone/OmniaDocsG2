@@ -1,6 +1,8 @@
 Advanced Search settings
 ========================================
 
+This page describes the settings available on Omnia 6.11 and earlier. For a description of 6.12, see: :doc:`Advanced Search settings in Omnia 6.12 </admin-settings/business-group-settings/search/advanced-search/advanced-search-612/index>`
+
 You can use these settings:
 
 .. image:: advanced-search-67.png

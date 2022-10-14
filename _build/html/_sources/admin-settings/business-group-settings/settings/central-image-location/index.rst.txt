@@ -11,6 +11,10 @@ You can also go to the Central Image Location from here, to handle the images th
 
 .. image:: central-image-locations-new2.png
 
+**Note!** In Omnia 6.12 and later, this option has been renamed "Central Media Locations". The reason is that Microsoft is developing functionality for videos within Sharepoint and will remove Stream as an app. So, from Omnia 6.12 both images and videos can be handled centrally the same way, but the settings here remains the same.
+
+Also note that all editing and settings for a video must be handled in the Sharepoint library, not in the Media Picker in Omnia (as is the case with videos from Stream).
+
 Add a new Central Image Location
 **********************************
 To add a new Central Image Location, click the plus:

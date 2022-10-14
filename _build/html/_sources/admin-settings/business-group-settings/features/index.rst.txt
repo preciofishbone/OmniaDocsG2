@@ -1,9 +1,9 @@
 Features - Business Profile
 ===========================================
 
-All available Features for the Business Profile is listed here and can be activated, deactivated and updated. Here's an example:
+All available features for the business profile are listed here and can be activated, deactivated and updated. Aavailable features can vary depending on options installed and Omnia version. Here's an example from Omnia 6.12:
 
-.. image:: features-business-profile-new6.png
+.. image:: features-business-profile-612.png
 
 Default configuration
 ********************************
@@ -20,3 +20,7 @@ Default Content
 Here you can add a default notification panel to your Business Profile. 
 
 The Noticification Panel settings can easily be edited for your organization's needs, see: :doc:`Notification Panel </admin-settings/business-group-settings/notification-panel/index>`
+
+Document Picker providers
+*****************************
+(A description will be added soon).
