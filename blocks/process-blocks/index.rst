@@ -15,6 +15,7 @@ Process blocks
    process-pages/index
    process-properties/index
    process-rollup/index
+   process-status/index
    process-tasks/index
    process-title/index
    

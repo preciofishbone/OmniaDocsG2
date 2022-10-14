@@ -12,6 +12,7 @@ The following actions are available to add as a button:
 + Create Document
 + Create Page
 + Event Management
++ Export Process (will be relabeled Print Process)
 + Invite co-authors
 + Like
 + Link
@@ -107,6 +108,10 @@ Using this type you can add buttons for Event Management Actions:
 
 For more information about how the buttons work and more useful tips for Event Management, see: :doc:`Working with Events </working-with-events/index>`
 
+Export Process
+----------------
+This button will be relabeled "Print Process" because that is what it does, for now. Must be used on a process page to work. See this page for more information: :doc:`Print a process </working-with-processes/print-process/index>`
+
 Invite co-authors
 -------------------
 This action is available for authors in the Action Menu, when editing a page. It can also be added as an Action Button.
@@ -131,9 +136,11 @@ Using this action a Link Action can be added, meaning a link can be opened:
 + **Url**: Type or paste the Url to go to when a user clicks the link. 
 + **Anchor Name**: Type the Anchor Name in this field to create a link to an anchor.
 + **Target**: Choose if the link should be opened in a new window, the current window, or in a dialog. 
-+ **Dialog Position**: If you selected "Dialog" for Target, you can select where to place the dialog: Center, Full screen, Left or Right.
++ **Dialog Position**: If you selected "Dialog" for Target, you can select where to place the dialog: Center, Full screen, Left or Right. 
 
-For more information about how to work with, and link to, anchors, see: :doc:`Using Anchors </general-assets/using-anchors/index>`
+**Note!** Dialog is not suitable for external links. Select "Current Window" or " New Window" for external links.
+
+For more information about how to work with, and link to anchors, see: :doc:`Using Anchors </general-assets/using-anchors/index>`
 
 My Links
 ---------
@@ -273,5 +280,4 @@ Edit an Action Button
 To edit a button, click the pen. To delete a button, click the dustbin. 
 
 When editing a button, the same settings as when you create a new button is available, see above.
-
 

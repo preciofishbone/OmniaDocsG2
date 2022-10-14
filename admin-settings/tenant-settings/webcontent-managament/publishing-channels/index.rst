@@ -64,3 +64,16 @@ The requests for that channel are then listed, for example:
 3. Go back to the list and select APPROVE or REJECT.
 
 An e-mail is sent to the requester with information about the result.
+
+More on how to use and work with channels
+******************************************
+See these pages for more information:
+
+There's a block available to rollup Publishing Channels for easy access for administrators. See this page for more information: :doc:`The Channel Rollup block </blocks/channel-rollup/index>`
+
+How to publish a page to a channel is described at the bottom of this page: :doc:`Publish page changes </pages/publish-page-changes/index>`
+
+A list of pages belonging to one or more channels can be created using the Page Rollup block: :doc:`The Page Rollup block </blocks/page-rollup/index>`
+
+Users can subscribe to channels, as described on this page: :doc:`My Subscriptions </user-options/my-subscriptions/index>`
+ 

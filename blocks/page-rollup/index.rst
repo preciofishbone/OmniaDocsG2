@@ -19,9 +19,9 @@ For implementation examples, see this page: :doc:`Page Rollup implementation exa
 
 Settings
 *********
-These settings are available for the block:
+These settings are available for the block (image from Omnia 6.12):
 
-.. image:: page-rollup-settings-new5.png
+.. image:: page-rollup-settings-612.png
 
 General
 --------
@@ -44,33 +44,36 @@ Here you can set the following:
 
 For Query Builder, the following options are available:
 
-+ **Scope**: When you have chosen to use the Query Builder, select scope for the block. For more informaiton about Scope, see below.
-+ **Current User Subscription**: Available for scope Channels. Select this if only the pages that the logged in users subscribes to should be displayed.
-+ **Custom Query**: Available for scope Channels. Use this to select one or more channels to rollup pages from. Note that a channel can be targeted to just certain colleagues or groups. See example below.
-+ **Exclude current page**: Available when you have chosen scope for the Query Builder. The default setting is to exclude the current page, but if you, for some reason, would like to include the current page, uncheck this option.
-+ **Exclude variations**: Usings this option, you can exclude varations from the query. Not available for Navigation path.
-+ **Status**: By using this option you can create rollups for pages with the status Never published, Published or Any status. Not available for Navigation path.
-+ **Trim duplicates**: If more than one Page Rollup block is added to a page, this option can be used to handle duplicates between the blocks. When the option is selected, you can enter a number indicating the priority for duplicates, for this block. If you set "1" for a block it means this block has priority showing a post that would have been a duplicate. 
-+ **Query Item Limit**: Use the slider, or type the number (1-99) to set the number of pages that should be retrieved to make sure all duplicates are found. You should not set this number higher than you really need, as higher numbers may have an impact on performance. Note that when you change the number, "Max Display Limit" is also changed, see below.
-+ **Page Size**: Use the slider, or type the number (1-99) to set the number of items (pages) that should be displayed on each "page" of the list. Also see under *Display* below for additional settings for the list. 
-+ **Cache on client**: This setting can be used to speed up rendering on subsequent page loads. This is is done by storing data in the browser cache. Default: selected.
++ **Scope**: When you have chosen to use the Query Builder, select scope for the block. This is where you choose where to get the pages from. You can select:
 
-More on Scope
----------------
-This is where you choose where to get the pages from. You can select:
-
-+ Tenant.
-+ Business Profile(s).
-+ Publishing App(s).
-+ Page Collection(s).
-+ Navigation Path.
-+ Channel(s).
+  + Tenant.
+  + Business Profile(s).
+  + Publishing App(s).
+  + Page Collection(s).
+  + Navigation Path.
+  + Channel(s).
 
 When you have selected Business Profiles, Publishing Apps, Page Collections or Channels, as the next step, you select one or more to get the pages from. 
 
+The following settings can then be available, depending on scope chosen:
+
++ **Cache on client**: This setting can be used to speed up rendering on subsequent page loads. This is is done by storing data in the browser cache. Default: selected.
++ **Current User Subscription**: Available for scope Channels. Select this if only the pages that the logged in users subscribes to should be displayed.
++ **Current Node/Custom**: Available for scope Navigation path. Choose the start point for the navigation path to be displayed. If you select "Custom", you can use the Page Picker to select start node.
++ **Custom Query**: Available for scope Channels. Use this to select one or more channels to rollup pages from. Note that a channel can be targeted to just certain colleagues or groups. See example below.
++ **Filter by user subscription**: Availabel for Scope Channels. Select this if the list should display only thos channels the logged in user follows.
++ **Exclude current page**: Available when you have chosen scope for the Query Builder. The default setting is to exclude the current page, but if you, for some reason, would like to include the current page, uncheck this option.
++ **Exclude start node**: Available for scope Navigation path. If the start page selected should not be displayed in the block, select this option.
++ **Exclude variations**: Usings this option, you can exclude varations from the query. Not available for Navigation path.
++ **Status**: By using this option you can create rollups for pages with the status Never published, Published or Any status. 
++ **Trim duplicates**: If more than one Page Rollup block is added to a page, this option can be used to handle duplicates between the blocks. When the option is selected, you can enter a number indicating the priority for duplicates, for this block. If you set "1" for a block it means this block has priority showing a post that would have been a duplicate. 
++ **Navigation Depth Level**: Available for scope Navigation path. Choose the number of nodes that should be displayed, including the start node.
++ **Page Size**: Use the slider, or type the number (1-99) to set the number of items (pages) that should be displayed on each "page" of the list. Also see under *Display* below for additional settings for the list. 
++ **Query Item Limit**: Use the slider, or type the number (1-99) to set the number of pages that should be retrieved to make sure all duplicates are found. You should not set this number higher than you really need, as higher numbers may have an impact on performance. Note that when you change the number, "Max Display Limit" is also changed, see below.
+
 More on Scope Navigation Path
 ---------------------------------
-Navigation path is a special case, it's used for creating a navigation. When you have selected start node you can choose navigation depth. There's also a view available, specifically for Navigation Path - Navigation View. Select it under Display. It's only available if you first select Navigation Path as Scope.
+Navigation path is a special case, it's used for creating a navigation. When you have selected start node you can choose start node and navigation depth. There's also a view available, specifically for Navigation Path; Navigation View. Select it under Display. It's only available if you first select Navigation Path as Scope.
 
 **A tip**: When you're creating a Page Type, selecting Current Node for a Navigation Path can be very useful. Wherever that Page Type is used, the view (Navigation View) always starts at the current node for that page.
 
@@ -104,7 +107,7 @@ These options are available for most views:
 + **Paging**: Select paging here; "No paging", "Classic" or "Scroll". Available for List View, Dynamic Roller, Card and Newsletter.
 + **Show Likes/Comments**: If the number of likes and comments should be displayed for the item, select this option. Available for Roller, Listing with image, Dynamic Roller and Card.
 + **Show link**: You can add a link button at the bottom of the list. The first page collection is default, but you can link to any target. 
-+ **Sort by**: Choose what the list should be sorted by, and then select ascending or descending. Available for all, except Navigaiton View.
++ **Sort by**: Choose what the list should be sorted by, and then select ascending or descending. Available for all, except Navigation View. Note that on Omnis 6.12 and later the sorting is extended. You can now sort on Comment, Like, Rating, Feedback, Last Activity and Last Commented. For the Navigation View you can also sort on Navigation. 
 + **Summary**: Select the property that contains the page summary for the item to display. Available for Listing with image, List View, Dynamic Roller, Card and Newsletter.
 
 Roller
@@ -145,11 +148,20 @@ Card
 The special settings for this view are:
 
 + **Cards per Row**: As it says, set the number of cards to show per row.
++ **Show Last Comment**: Available in Omnia 6.12 and later. If you seect this, the last comment for the page, if any, will be displayed on the card.
 + **Person**: This option can be used to show properties in Card view.
 + **Show Page Type**: If this option is selected, the Page Type used for the page is shown as metadata, the same way as other properties.
 + **Term properties**: Can be used to show properties in Card view. Click "Add" and select a property. Continue the same way for additional properties.
 
 For general settings, see above.
+
+In Omnia 6.12 and later you can choose where meta data for Date and Person will be placed. Click here to display options:
+
+.. image:: place-meta.png
+
+Then use the settings to select Top Left, Top Right, Bottom Left or Bottom Right:
+
+.. image:: place-meta-settings.png
 
 Newsletter
 -----------
@@ -257,6 +269,21 @@ If just pages with a certain variation (language or other variation) should be l
 .. image:: page-rollup-variation-example-new.png
 
 Only News in Swedish will be listed in this example.
+
+Metric
+*******
+Available in Omnia 6.12 and later. Using these settings you can show a metric in the block displaying the number of pages that is valid for the Query settings. The metric can then be clicked to display the page rollup you have set uo.
+
+This can for example be used to create a rather compact page or section with different Metrics in different blocks, that the user can use to click the desired metric to see the full list.
+
+.. image:: page-rollup-metric.png
+
++ **Show Metric**: Select this to decide to show the metric.
++ **Title**: Add a title for the metric if needed.
++ **Description**: A description for the metric can also be added.
++ **Icon type/Icon**: Select an icon type and an icon, if you want to.
++ **Color**: This sets the color for the divider above the metric. 
++ **Dialog width/Height**: Set width and height for the dialog displaying the list of pages.
 
 Layout and Write
 **********************

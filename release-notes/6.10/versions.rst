@@ -1,3 +1,84 @@
+6.11.26
+========================================
+(Omnia 6.11.26 / Workplace 6.11.14 / WCM 6.11.18 / MS 6.11.12)
+
+- The WCM editor no longer renders in Wizard mode if the page version is larger than 0.1.
+- The user profile cards now work as expected for external users (#141093).
+- Fixed an issue that prevented all document types to show in the create document wizard (#141237, #124442).
+- Internal scrollbar is no longer visible on the Dynamic Roller (#141321).
+- Digital Signage queries using channels now works as expected (#141312).
+
+
+6.11.24
+========================================
+(Omnia 6.11.24 / Workplace 6.11.12 / WCM 6.11.16 / MS 6.11.10)
+
+- Image proxy now works as expected. 
+- Export to excel in Document rollup now supports datetime properties. 
+- The channel rollup block title can now be localized. 
+- Improvements to Publishing Channels administrative interface.
+
+
+6.11.19
+========================================
+(Omnia 6.11.19 / Workplace 6.11.10 / WCM 6.11.14 / MS 6.11.8)
+
+- Advanced search now closes correctly on page navigation (#140408).
+- Fixed an issue in the RTF editor when adding multiple images (#139947).
+- Corrected an issue in Omnia Admin where Publishing apps would be incorrectly flagged as inactive.
+
+6.11.18
+========================================
+(Omnia 6.11.18 / Workplace 6.11.9 / WCM 6.11.13 / MS 6.11.7)
+
+- OnPrem: Internal user group now works as expected.
+- Channel categories have received several improvements. 
+- Fixed a rendering issue in the Dynamic Roller.
+- Stability improvements to Document Rollup Excel export.
+
+6.11.16
+========================================
+(Omnia 6.11.16 / Workplace 6.11.9 / WCM 6.11.12 / MS 6.11.6)
+
+- Corrected spelling mistake in AzureAD sync instruction.
+- Improved performance for comments search (#140765).
+- Style updates for text ellipsis when using FireFox.
+- Stability improvements to emails send from Document Management (#140662)
+- Performance improvements of page rollup.
+
+
+6.11.15
+========================================
+(6.11.15 / Workplace 6.11.8 / WCM 6.11.11 / MS 6.11.5)
+
+- Improved support for several different locals for SharePoint Birthday. (#136858).
+- The Summary field can now be used in results from Microsoft Search.
+- To avoid confusion and minimize issues, all emails are now sent using the default business profile language.
+- Scheduled publishing should now work as expected (#140374, #140744, #140460, #140722).
+- Improved performance for image loading in Process Management(#140124).
+- Improved performance for the page rollup and page dashboard.
+
+
+6.11.14
+========================================
+(6.11.14 / Workplace 6.11.6 / WCM 6.11.9 / MS 6.11.4)
+
+- Improved stability for attaching existing teamwork to Omnia.
+- Improved stability for scenarios when several features are activated at the same time (#140099, #140153).
+- Stability improvements when moving pages (#140451).
+- Fixed an issue in the Document rollup card view.
+- Fixed an issue with rendering of the search when used as a block on the page.
+- Corrected the data migration for the action button for upgrades between 6.10 and 6.11. (#140150).
+- Updates to Publishing Channel Administration interfaces. 
+- Several DM email notifications have seen their content reviewed and now works correctly. (#140299, #140267).
+- Fixed an issue when saving settings in the Microsoft Search configuration.
+- Improved data loading on the user profile card (#139730).
+- Teamwork naming policies now support text.
+- Extra spaces are no longer added in naming policies for teamwork (#140379).
+- The Birthday value on the people card now hides correctly if it has no value (#140470).
+- Added back missing logic on the page rollup time when social dates are used, and the day is today (#140477).
+
+
 6.11.9
 ========================================
 (Omnia 6.11.9 / Workplace 6.11.4 / WCM 6.11.3 / MS 6.11.2)

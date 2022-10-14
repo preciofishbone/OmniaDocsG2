@@ -3,6 +3,8 @@ Process Rollup block
 
 Use the Process Rollup block for a list of available processes. To display processes when a user clicks a process you don't have to set up specific pages if you don't want to. You can use the system page for processes that is always available.
 
+Note that this block is found in the "Content Rollup" catagory, not the "Porcess Information" category.
+
 Here's an example of a Process Rollup:
 
 .. image:: process-rollup-block-example.png

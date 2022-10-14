@@ -41,7 +41,7 @@ The following settings are available here:
 In the field at the bottom you can select just some of the metrics to be shown. The options are different depending on the Scope chosen:
 
 + Teamwork: You can choose to show only active teamworks or only new teamworks, or both. 
-+ Pages: Here's a lot of options available - Published, Waiting For Approval, Draft, No Comments, Average Number Of Comments, Average ratings, Reach and Underused Content. 
++ Pages: Here's a lot of options available - Published, Waiting For Approval, Draft, No Comments, Average Number Of Comments, Average ratings, Reach and Underused Content. "No Comments" lists the number of pages that has no comment at all. "Average Number Of Comments" is calculated this way: Total number of comments on all pages dived by the total number of pages. So if there are a total of 100 comments on all pages and there are 200 pages, the average number of comments would be 0,5.
 + User Activity: You can select to show the number of active readers or the number of active contributors.
 
 What is to be considered Underused Content can be set in Omnia Admin, see: :doc:`Metrics Settings </admin-settings/tenant-settings/settings/metrics/index>`
