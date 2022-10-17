@@ -121,7 +121,9 @@ The Last Activity feature can be used in combination with showing the last comme
 .. image:: pagerollup-lastcomment.png
 
 
-TODO: Dynamic positioning of metadata in Page Rollup
+The card view now allows for dynamic layout of properties.
+
+.. image:: pagerollup-propertieslayout.png
 
 Social reactions and Share are now available in the dialog display.
 
@@ -188,7 +190,10 @@ The integration has been to all workflows available on drafts.
 .. image:: dm-integrationdraftable..png
 
 
-TODO: Review reminder task update.
+The review reminder task has been updated. If a new edition/revision of a controlled document is published or the published document is deleted, any associated review reminder task will be automatically completed.
+If the review is completed, the review comment will be added to the document history and a new review date will be calculated based on the review reminder rule set on the document type.
+
+.. image:: dm-reviewremindertask.png
 
 Other
 -------------------------------------------
