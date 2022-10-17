@@ -207,3 +207,11 @@ A new QR Code block is now available. The QR Code can either be used to generate
 The People Rollup block has a new query scope that makes it possible to get all upcoming birthdays.
 
 .. image:: upcoming-birthdays.png
+
+Versions
+-----------------------------------------
+
+.. toctree::
+   :titlesonly:
+
+   versions
