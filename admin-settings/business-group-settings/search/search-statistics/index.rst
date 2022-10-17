@@ -13,7 +13,7 @@ You can can decide to collect search statistics in the settings for either Quick
 
 Here's an example of details from a test environment:
 
-.. image:: search-statistics-details.png
+.. image:: search-statistics-details-new.png
 
-This example is not very good, but you get the picture. You will find a listing of all the queries of the type you have chosen, and the number of each query. You can click "Show details" for details of every single search query. Also note that you can go to the previous month or the next month, if available.
+You can click "Show details" for details of every single search query. Also note that you can go to the previous month or the next month, if available.
 
