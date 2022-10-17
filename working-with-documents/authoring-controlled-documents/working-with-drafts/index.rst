@@ -237,11 +237,11 @@ Here's an example for Microsoft Word documents:
 
 This option can be used by reviewers when a document is sent for comments:
 
-.. image:: show-changes-comment.png
+.. image:: show-changes-comment-new.png
 
 An approver for publication can also use this option:
 
-.. image:: show-changes-approval.png
+.. image:: show-changes-approval-new.png
  
 New drafts and templates
 ***************************
