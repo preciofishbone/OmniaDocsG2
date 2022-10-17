@@ -2,15 +2,17 @@ Permissions for a Business Profile
 ===========================================
 Here you can set the following:
 
-.. image:: security-business-profile-new.png
+.. image:: security-business-profile-672.png
 
 Users and groups
 ******************
-Here you can add or remove Business Profile Administrators, and set separate administrators for Announcements, Shared Links and Workspace, if needed. You must be Business Profile Administrator or Tenant Administrator to edit the permissions. 
+Here you can add or remove Business Profile Administrators, and set separate administrators for various parts of the Business Profile, if needed. You must be Business Profile Administrator or Tenant Administrator to edit the permissions. 
 
-A Business Profile Administrator automatically has permissions for Workspace, Shared Links and Announcements and therefore  does not need to be added there. 
+A Business Profile Administrator automatically has permissions for Workspace, Shared Links and Announcements (and Search in Omnia 6,12) and therefore does not need to be added there. 
 
-.. image:: permissions-business-profile-new2.png
+(Image from Omnia 6.12).
+
+.. image:: permissions-business-profile-612.png
 
 Note that every Business Profile has it's own Permissions list. Besides that, a Tenant Administrator can always edit settings for all Business Profiles.
 
@@ -20,7 +22,9 @@ Single users, Security groups and Microsoft 365 groups can be added here (In Omn
 
 Note that external users that has been invited in the Azure AD can be added here as well. Users invited this way can log in with their own Microsoft 365 account.
 
-Administrators are added or removed the same way for Business Profile, Shared Links and Announcements.
+Administrators are added or removed the same way for Business Profile, Shared Links, Announcements and Search. Search is availanle on Omnia 6.12 and later (just on field available). Here's Business profile as an example:
+
+.. image:: permissons-pb.png
 
 Options for Workspace
 -----------------------------
@@ -39,5 +43,5 @@ Secrets
 ********
 When an extension has been installed for the Business Profile, get the security key/token and enter it here. In this example tokens for Facebook Workplace and Yammer can be added:
 
-.. image:: secrets-business-profile-new.png
+.. image:: secrets-business-profile-612.png
 
