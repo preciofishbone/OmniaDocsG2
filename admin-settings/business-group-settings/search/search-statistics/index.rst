@@ -3,7 +3,7 @@ Search Statistics
 
 This option is available in Omnia 6.12 and later.
 
-.. image:: search-statistics.png
+.. image:: search-statistics-new.png
 
 You can can decide to collect search statistics in the settings for either Quick Search or Advanced Search, or both. If you do, statistics can then be displayed here. You can click the result for a month for a detailed view. 
 
