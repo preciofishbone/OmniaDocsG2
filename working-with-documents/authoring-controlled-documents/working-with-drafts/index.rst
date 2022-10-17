@@ -223,17 +223,25 @@ The new draft is created and the "Drafts" tab is automatically activated. The wo
 
 **Note!** There can be only one draft of a given document. If there already is a draft for the document and an author tries to create another one, a message is shown stating that it's not possible. 
 
-Compare documents
+Show changes
 ******************
-If the feature "Document Comparison powered by Draftable" (available in Omnia 6.12 and later) is activated for the tenant, comparison of documents is extended and improved. Microsoft Office documents, as well as PDF:s, can be used for comparison. The files does not have to be open to execute the comparison. **Note!** This option requires a paid subscription with Draftable. 
+If the feature "Document Comparison powered by Draftable" (available in Omnia 6.12 and later) is activated for the tenant, the options for viewwing changes in a document are extended and improved. Microsoft Office documents, as well as PDF:s, can be used. The files does not have to be open. **Note!** This option requires a paid subscription with Draftable. 
 
-When the feature is activated the menu option "Compare" is available. A draft can then be compared with the latest published edition of that document:
+When the feature is activated the menu option "Show changes" is available. A draft can then be compared with the latest published edition of that document, using this menu option:
 
-.. image:: compare-menu.png
+.. image:: show-changes-menu.png
 
-Here's a simple example of a comparison for Microsoft Word documents:
+Here's an example for Microsoft Word documents:
 
-.. image:: compare-document-border.png
+.. image:: show-changes-example.png
+
+This option can be used by reviewers when a document is sent for comments:
+
+.. image:: show-changes-comment.png
+
+An approver for publication can also use this option:
+
+.. image:: show-changes-approval.png
  
 New drafts and templates
 ***************************
