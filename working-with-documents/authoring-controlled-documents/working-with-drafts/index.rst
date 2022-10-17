@@ -225,7 +225,7 @@ The new draft is created and the "Drafts" tab is automatically activated. The wo
 
 Show changes
 ******************
-If the feature "Document Comparison powered by Draftable" (available in Omnia 6.12 and later) is activated for the tenant, the options for viewwing changes in a document are extended and improved. Microsoft Office documents, as well as PDF:s, can be used. The files does not have to be open. **Note!** This option requires a paid subscription with Draftable. 
+If the feature "Document Comparison powered by Draftable" (available in Omnia 6.12 and later) is activated for the tenant, the options for viewing changes in a document are extended and improved. Microsoft Office documents, as well as PDF:s, can be used. The files does not have to be open. **Note!** This option requires a paid subscription with Draftable. 
 
 When the feature is activated the menu option "Show changes" is available. A draft can then be compared with the latest published edition of that document, using this menu option:
 
