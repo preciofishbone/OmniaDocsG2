@@ -22,7 +22,7 @@ Single users, Security groups and Microsoft 365 groups can be added here (In Omn
 
 Note that external users that has been invited in the Azure AD can be added here as well. Users invited this way can log in with their own Microsoft 365 account.
 
-Administrators are added or removed the same way for Business Profile, Shared Links, Announcements and Search. Search is availanle on Omnia 6.12 and later (just on field available). Here's Business profile as an example:
+Administrators are added or removed the same way for Business Profile, Shared Links, Announcements and Search (just on field available). The Search settings are available on Omnia 6.12 and later. Here's Business profile as an example:
 
 .. image:: permissons-pb.png
 
