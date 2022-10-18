@@ -230,4 +230,10 @@ The People Rollup block has a new query scope that makes it possible to get all 
 
 .. image:: upcoming-birthdays.png
 
+Versions
+-----------------------------------------
 
+.. toctree::
+   :titlesonly:
+
+   versions
