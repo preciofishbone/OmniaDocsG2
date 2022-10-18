@@ -6,11 +6,14 @@ Release 6.12 (Preview)
 Search
 ----------------------------------------
 
-It is now possible to include tokens in the search category queries that will be replaced with values in context when the query is executed.
-This makes it possible to create context dependent queries based on the underlying SharePoint site, app instance or user properties.
+It is now possible to include tokens in a search category query. The tokens will be replaced with values
+when the query is executed. This new feature makes it possible to create context dependent queries based on the
+underlying SharePoint site, app instance or user properties.
 
-It is possible to enable spell check in search. If enabled, the user will get a suggestion on potentially misspelled words with the possibility
-to search on the correctly spelled word.
+.. image:: search-tokensinquery.png
+
+It is possible to enable spell check in search. If enabled, the user will get a suggestion on potentially misspelled words
+with the possibility to search on the correctly spelled word.
 
 .. image:: search-spellcheck.png
 
@@ -29,7 +32,7 @@ Once statistics is enabled, the system will start collecting information about h
 
 .. image:: search-total-no-of-queries.png
 
-To be able to distribute the ownership of all new features within search, a new administrative role has been added in Omnia Admin.
+To be able to have a distributed ownership of search related features, a new search administrator role has been added in Omnia Admin.
 
 .. image:: search-administrator.png
 
@@ -65,11 +68,11 @@ to write articles without affecting the productivity of editors within the same.
 .. image:: wcm-approval-applytoauthorsonly.png
 
 The Central Image Locations feature in Omnia Admin > Settings > Media Picker has been renamed to Central Media Locations
-and now also supports new Stream (on SharePoint).
+and now supports new Stream (on SharePoint).
 
 .. image:: centralmedia-newstreamonsharepoint.png
 
-It is now possible to switch between a page collection of type Flat and Navigation Structure.
+It is now possible to switch between the page collection type Flat and Navigation Structure.
 
 .. image:: pagecollection-switch-flat-structured.png
 
@@ -78,34 +81,48 @@ will be created in the connected taxonomy and the page will automatically be tag
 
 .. image:: pagecollection-taxonomyconnected.png
 
-A publishing app can now be configured to have promoted tags (and terms) for certain properties.
+A publishing app can now be configured to have promoted tags/terms for certain properties.
 Promoted tags/terms will be displayed on top of the tag/term picker both for the author when working with pages
 and for the end user when filtering in a page rollup.
 
 .. image:: promotedtags-tagpicker.png
 
+Text blocks can now be configured to enable the creation of #tags inside the text.
+Any #tag that is added in the text block will be set in the configured corresponding property.
 
-TODO: Tags from RTF to properties.
+.. image:: wcmeditor-tagsintextblock.png
 
 You can enable the possibility to work with controlled documents within a publishing app.
-TODO: Upload related documents to page
 
+.. image:: publishingapp-controlleddocuments.png
+
+The different document management settings that you can configure for a publishing app have been moved into one location.
+
+.. image:: publishingapp-dmsettings.png
+
+If you use the Omnia file storage in Azure for your publishing app to allow for front-line workers to access related documents
+in a page, it is now possible to allow document upload to the file storage.
+
+.. image:: publishingapp-dmfilestorage.png
 
 Social
 -----------------------------------------
 
 It is now possible to turn on social reactions in your tenant. Social reactions will replace the like feature on areas such as comments, discussions and posts.
-When you activate the social reactions features, existing likes will be shown as a thumbs up (like) social reaction.
+
+.. image:: socialreactions.png
+
+When you activate the social reactions feature, existing likes will be shown as a thumbs up (like) social reaction.
 
 Two new buttons are now available in the RTF editor:
 
 .. image:: rtfeditor-socialpickers.png
 
-* Emoticon Picker: Possibility to add emoticons to the rich text.
+Emoticon Picker: Possibility to add emoticons to the rich text.
 
 .. image:: rtfeditor-emoticons.png
 
-* Gif Picker: Possibility to add an animated gif from Giphy.
+Gif Picker: Possibility to add an animated gif from Giphy.
 
 .. image:: rtfeditor-animatedgifs.png
 
@@ -119,7 +136,6 @@ but also activities such as new comment, reply to a comment and mark as best rep
 The Last Activity feature can be used in combination with showing the last comment on the card view.
 
 .. image:: pagerollup-lastcomment.png
-
 
 The card view now allows for dynamic layout of properties.
 
@@ -137,7 +153,7 @@ When you click on the metric, the page rollup view will be shown in a dialog.
 .. image:: pagerollup-metricsdialog.png
 
 The [Unique Users] built-in column can now be configured with a goal. The column will indicate whether the goal is met or not.
-If the solution has been configured to collect detailed statitics based on user properties, it is possible to show those details for each page.
+If the solution has been configured to collect detailed statistics based on user properties, it is possible to show those details for each page.
 
 .. image:: uniqueusers-details.png
 
@@ -183,12 +199,14 @@ The feature that replace property placeholders inside documents on publishing no
 
 The Process Context block now supports the possibility to select a specific process that should be put into context.
 
-Omnia is now integrated with a best-in-class document comparison product from `Draftable <https://draftable.com/>`_.
-This makes it possible to compare the latest published edition of a controlled document to the work in progress.
-The integration has been to all workflows available on drafts.
+Omnia is now integrated with the best-in-class document comparison tool from `Draftable <https://draftable.com/>`_.
+This makes it possible to compare the latest published edition of a controlled document to a work in progress.
+The integration has been added to all workflows available on drafts.
 
 .. image:: dm-integrationdraftable..png
 
+
+The feature will also be available to end users to compare the current published edition with the previous published edition.
 
 The review reminder task has been updated. If a new edition/revision of a controlled document is published or the published document is deleted, any associated review reminder task will be automatically completed.
 If the review is completed, the review comment will be added to the document history and a new review date will be calculated based on the review reminder rule set on the document type.
@@ -204,6 +222,12 @@ A new QR Code block is now available. The QR Code can either be used to generate
 
 .. image:: qrcodeblock.png
 
+QR codes have also been added to the Digital Signage feature.
+
+.. image:: digitalsignage-qrcode.png
+
 The People Rollup block has a new query scope that makes it possible to get all upcoming birthdays.
 
 .. image:: upcoming-birthdays.png
+
+

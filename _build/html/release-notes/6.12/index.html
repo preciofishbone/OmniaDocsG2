@@ -199,10 +199,12 @@
 </div>
 <div class="section" id="search">
 <h2>Search<a class="headerlink" href="#search" title="Permalink to this headline">¶</a></h2>
-<p>It is now possible to include tokens in the search category queries that will be replaced with values in context when the query is executed.
-This makes it possible to create context dependent queries based on the underlying SharePoint site, app instance or user properties.</p>
-<p>It is possible to enable spell check in search. If enabled, the user will get a suggestion on potentially misspelled words with the possibility
-to search on the correctly spelled word.</p>
+<p>It is now possible to include tokens in a search category query. The tokens will be replaced with values
+when the query is executed. This new feature makes it possible to create context dependent queries based on the
+underlying SharePoint site, app instance or user properties.</p>
+<img alt="../../_images/search-tokensinquery.png" src="../../_images/search-tokensinquery.png" />
+<p>It is possible to enable spell check in search. If enabled, the user will get a suggestion on potentially misspelled words
+with the possibility to search on the correctly spelled word.</p>
 <img alt="../../_images/search-spellcheck.png" src="../../_images/search-spellcheck.png" />
 <p>Quick search has been improved to show the total result count for each category in the result.</p>
 <img alt="../../_images/search-resultcount.png" src="../../_images/search-resultcount.png" />
@@ -215,7 +217,7 @@ Once statistics is enabled, the system will start collecting information about h
 </ul>
 <img alt="../../_images/search-statistics-metrics.png" src="../../_images/search-statistics-metrics.png" />
 <img alt="../../_images/search-total-no-of-queries.png" src="../../_images/search-total-no-of-queries.png" />
-<p>To be able to distribute the ownership of all new features within search, a new administrative role has been added in Omnia Admin.</p>
+<p>To be able to have a distributed ownership of search related features, a new search administrator role has been added in Omnia Admin.</p>
 <img alt="../../_images/search-administrator.png" src="../../_images/search-administrator.png" />
 <p>It is possible to set a default value on date refiners in search. This can be used to filter out old documents by default.</p>
 <img alt="../../_images/search-defaultvalue-dates.png" src="../../_images/search-defaultvalue-dates.png" />
@@ -236,34 +238,38 @@ and properties dialog.</p>
 to write articles without affecting the productivity of editors within the same.</p>
 <img alt="../../_images/wcm-approval-applytoauthorsonly.png" src="../../_images/wcm-approval-applytoauthorsonly.png" />
 <p>The Central Image Locations feature in Omnia Admin &gt; Settings &gt; Media Picker has been renamed to Central Media Locations
-and now also supports new Stream (on SharePoint).</p>
+and now supports new Stream (on SharePoint).</p>
 <img alt="../../_images/centralmedia-newstreamonsharepoint.png" src="../../_images/centralmedia-newstreamonsharepoint.png" />
-<p>It is now possible to switch between a page collection of type Flat and Navigation Structure.</p>
+<p>It is now possible to switch between the page collection type Flat and Navigation Structure.</p>
 <img alt="../../_images/pagecollection-switch-flat-structured.png" src="../../_images/pagecollection-switch-flat-structured.png" />
 <p>A new page collection setting makes it possible to connect it to a taxonomy. Whenever a page is created in the page collection, a term
 will be created in the connected taxonomy and the page will automatically be tagged with the newly created term.</p>
 <img alt="../../_images/pagecollection-taxonomyconnected.png" src="../../_images/pagecollection-taxonomyconnected.png" />
-<p>A publishing app can now be configured to have promoted tags (and terms) for certain properties.
+<p>A publishing app can now be configured to have promoted tags/terms for certain properties.
 Promoted tags/terms will be displayed on top of the tag/term picker both for the author when working with pages
 and for the end user when filtering in a page rollup.</p>
 <img alt="../../_images/promotedtags-tagpicker.png" src="../../_images/promotedtags-tagpicker.png" />
-<p>TODO: Tags from RTF to properties.</p>
-<p>You can enable the possibility to work with controlled documents within a publishing app.
-TODO: Upload related documents to page</p>
+<p>Text blocks can now be configured to enable the creation of #tags inside the text.
+Any #tag that is added in the text block will be set in the configured corresponding property.</p>
+<img alt="../../_images/wcmeditor-tagsintextblock.png" src="../../_images/wcmeditor-tagsintextblock.png" />
+<p>You can enable the possibility to work with controlled documents within a publishing app.</p>
+<img alt="../../_images/publishingapp-controlleddocuments.png" src="../../_images/publishingapp-controlleddocuments.png" />
+<p>The different document management settings that you can configure for a publishing app have been moved into one location.</p>
+<img alt="../../_images/publishingapp-dmsettings.png" src="../../_images/publishingapp-dmsettings.png" />
+<p>If you use the Omnia file storage in Azure for your publishing app to allow for front-line workers to access related documents
+in a page, it is now possible to allow document upload to the file storage.</p>
+<img alt="../../_images/publishingapp-dmfilestorage.png" src="../../_images/publishingapp-dmfilestorage.png" />
 </div>
 <div class="section" id="social">
 <h2>Social<a class="headerlink" href="#social" title="Permalink to this headline">¶</a></h2>
-<p>It is now possible to turn on social reactions in your tenant. Social reactions will replace the like feature on areas such as comments, discussions and posts.
-When you activate the social reactions features, existing likes will be shown as a thumbs up (like) social reaction.</p>
+<p>It is now possible to turn on social reactions in your tenant. Social reactions will replace the like feature on areas such as comments, discussions and posts.</p>
+<img alt="../../_images/socialreactions.png" src="../../_images/socialreactions.png" />
+<p>When you activate the social reactions feature, existing likes will be shown as a thumbs up (like) social reaction.</p>
 <p>Two new buttons are now available in the RTF editor:</p>
 <img alt="../../_images/rtfeditor-socialpickers.png" src="../../_images/rtfeditor-socialpickers.png" />
-<ul class="simple">
-<li><p>Emoticon Picker: Possibility to add emoticons to the rich text.</p></li>
-</ul>
+<p>Emoticon Picker: Possibility to add emoticons to the rich text.</p>
 <img alt="../../_images/rtfeditor-emoticons.png" src="../../_images/rtfeditor-emoticons.png" />
-<ul class="simple">
-<li><p>Gif Picker: Possibility to add an animated gif from Giphy.</p></li>
-</ul>
+<p>Gif Picker: Possibility to add an animated gif from Giphy.</p>
 <img alt="../../_images/rtfeditor-animatedgifs.png" src="../../_images/rtfeditor-animatedgifs.png" />
 </div>
 <div class="section" id="page-rollup">
@@ -281,7 +287,7 @@ When you click on the metric, the page rollup view will be shown in a dialog.</p
 <img alt="../../_images/pagerollup-metrics.png" src="../../_images/pagerollup-metrics.png" />
 <img alt="../../_images/pagerollup-metricsdialog.png" src="../../_images/pagerollup-metricsdialog.png" />
 <p>The [Unique Users] built-in column can now be configured with a goal. The column will indicate whether the goal is met or not.
-If the solution has been configured to collect detailed statitics based on user properties, it is possible to show those details for each page.</p>
+If the solution has been configured to collect detailed statistics based on user properties, it is possible to show those details for each page.</p>
 <img alt="../../_images/uniqueusers-details.png" src="../../_images/uniqueusers-details.png" />
 <p>The image preview in the card view now supports document data properties. This makes it possible to preview contents from a shared document in communities.</p>
 <img alt="../../_images/pagerollup-documentdatapreview.png" src="../../_images/pagerollup-documentdatapreview.png" />
@@ -306,10 +312,11 @@ as creating a new draft, move the document or deleting it.</p>
 <img alt="../../_images/pm-teamwork-assigntasks.png" src="../../_images/pm-teamwork-assigntasks.png" />
 <p>The feature that replace property placeholders inside documents on publishing now also supports Excel and PowerPoint.</p>
 <p>The Process Context block now supports the possibility to select a specific process that should be put into context.</p>
-<p>Omnia is now integrated with a best-in-class document comparison product from <a class="reference external" href="https://draftable.com/">Draftable</a>.
-This makes it possible to compare the latest published edition of a controlled document to the work in progress.
-The integration has been to all workflows available on drafts.</p>
+<p>Omnia is now integrated with the best-in-class document comparison tool from <a class="reference external" href="https://draftable.com/">Draftable</a>.
+This makes it possible to compare the latest published edition of a controlled document to a work in progress.
+The integration has been added to all workflows available on drafts.</p>
 <img alt="../../_images/dm-integrationdraftable..png" src="../../_images/dm-integrationdraftable..png" />
+<p>The feature will also be available to end users to compare the current published edition with the previous published edition.</p>
 <p>The review reminder task has been updated. If a new edition/revision of a controlled document is published or the published document is deleted, any associated review reminder task will be automatically completed.
 If the review is completed, the review comment will be added to the document history and a new review date will be calculated based on the review reminder rule set on the document type.</p>
 <img alt="../../_images/dm-reviewremindertask.png" src="../../_images/dm-reviewremindertask.png" />
@@ -319,6 +326,8 @@ If the review is completed, the review comment will be added to the document his
 <p>A new action “Add to my calendar” can be added to pages. When clicking on the button, an ics file will be downloaded.</p>
 <p>A new QR Code block is now available. The QR Code can either be used to generate a code based on the current page or a specific url.</p>
 <img alt="../../_images/qrcodeblock.png" src="../../_images/qrcodeblock.png" />
+<p>QR codes have also been added to the Digital Signage feature.</p>
+<img alt="../../_images/digitalsignage-qrcode.png" src="../../_images/digitalsignage-qrcode.png" />
 <p>The People Rollup block has a new query scope that makes it possible to get all upcoming birthdays.</p>
 <img alt="../../_images/upcoming-birthdays.png" src="../../_images/upcoming-birthdays.png" />
 </div>
@@ -340,7 +349,7 @@ If the review is completed, the review comment will be added to the document his
     <p>
         &#169; Copyright 2022, Precio Fishbone.
       <span class="lastupdated">
-        Last updated on Oct 17, 2022.
+        Last updated on Oct 18, 2022.
       </span>
 
     </p>

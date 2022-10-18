@@ -28,7 +28,9 @@ The same settings are available when editing a Search Category.
 
 Tokens in search query
 ***********************
-For a dynamic search query that adapts to the context, tokens can be used in the search query, in Omnia 6.12 and later. These tokens are available so far (more will be added):
+In Omnia 6.12 and later, tokens can be used in the search category queries. Tokens will be replaced with values in context when the query is executed. This makes it possible to create context dependent queries based on the underlying SharePoint site, app instance or user properties.
+
+Examples of tokens that can be used:
 
 + {User.Id}
 + {User.Name}
