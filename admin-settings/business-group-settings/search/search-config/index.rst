@@ -40,7 +40,7 @@ Examples of tokens that can be used:
 + {SPSite.FullUrl}
 + {Page.Id}
 + {Page.SPPath} - to get the full url to the folder where the page is located in Site Pages.
-* {Variation.Segment}
++ {Variation.Segment}
 
 Search Templates
 *********************
