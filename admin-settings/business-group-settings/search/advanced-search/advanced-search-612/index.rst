@@ -77,7 +77,7 @@ Save when you are done here, and save on the Advanced Search settings main page 
 
 Default value for date refiners
 ----------------------------------
-In Omnia 6.12 and later, you cen set a default value for date refiners, to filter out old documents by default. Here's how:
+You can set a default value for date refiners, if needed, to filter out old documents by default. Here's how:
 
 1. Add or edit the refiner.
 2. Click the cog wheel.
