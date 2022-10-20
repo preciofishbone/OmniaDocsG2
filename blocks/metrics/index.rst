@@ -3,11 +3,17 @@ Metrics block
 
 This block has it's main use for setting up the Dashboard, but it can also be used on a page to display data about either Teamwork, Pages or Activity.
 
+On this page, the options in Omnia 6.11 and earlier are described. See this page for the options in Omnia 6.12 and later: :doc:`´The Metrics block in Omnia 6.12 </blocks/general-block-settings/index>`
+
 You can find more information about the Dashoboard here: :doc:`Dashboard </admin-settings/tenant-settings/dashboard/index>`
 
-The following settings are available:
+The following settings are available when you eneter the option:
 
 .. image:: metrics-block-settings.png
+
+And these two options are available at the bottom when you have antered Scope for the block:
+
+.. image:: metrics-block-settings-more.png
 
 General
 ********
