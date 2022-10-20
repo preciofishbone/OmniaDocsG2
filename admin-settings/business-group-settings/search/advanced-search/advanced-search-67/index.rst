@@ -42,21 +42,6 @@ To create a new refiner, do the following:
 
 You can decide the order for the refiners by using tha left-most icon and drag and drop.
 
-Default value for date refiners
-----------------------------------
-In Omnia 6.12 and later, you cen set a default value for date refiners, to filter out old documents by default. Here's how:
-
-1. Add or edit the refiner.
-2. Click the cog wheel.
-
-.. image:: refiner-default-cog.png
-
-3. Use the slider to set the time frame.
-
-.. image:: refiner-default-slider.png
-
-4. Save the changes.
-
 Promoted search results
 *************************
 If Promoted search results are enabled, such search results, if any are applicable, will be shown here:
