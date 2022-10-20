@@ -45,7 +45,7 @@ The following settings are available here:
 + **Metrics per row**: Set the number of metrics to be shown per row.
 + **Metric block height**: Use the slider to set the height of the block.
 
-In the field at the bottom you can select just which metrics that should be shown, one or several. The options are different depending on the Scope chosen:
+In the field at the bottom you can select which metrics that should be shown, one or several. The options are different depending on the Scope chosen:
 
 + Teamwork: You can choose to show total number of teamworks, active teamworks, inactive or new teamworks. 
 + Search Statistics: You can select search statistics for the total number of queries, abandoned queries or no result queries.
