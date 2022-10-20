@@ -1,6 +1,8 @@
 The Metrics block in Omnia 6.12
 ===================================
 
+**This page is being edited. Will be finished soon.**
+
 This block has it's main use for setting up the Dashboard, but it can also be used on a page to display data about either Teamwork, Pages or Activity.
 
 On this page, the options in Omnia 6.12 and later are described.
@@ -63,6 +65,4 @@ You can also add filters so users can decide what they will see, within the scop
 + **Max filters per row**: Set the number of filters per row here.
 
 In the field at the bottom you can choose what filters to display. Available options differ depending on scope chosen.
-
-
 
