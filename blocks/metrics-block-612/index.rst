@@ -29,13 +29,12 @@ Here you decide what to display in the block:
 
 .. image:: metrics-block-settings-scope.png
 
-You can select Teamwork, Pages or User Activity. Then some settings becomes available, depending on what you have selected.
++ **Teamwork**: Select what kind of Teamwork, based on template, that will be shown. If you leave Teamwork Template field empty, all teamworks will be shown. 
++ **Search Statistics** You can display search statistics either for the whole tenant or for the actual Business Profile.
++ **Pages**: You can select one publishing app to show metrics for. If you don't, all Publishing Apps will be shown. You can also select a specific page type or a combination of both.
++ **User Activity**: Has no further settings here. 
 
-+ **Teamwork Template**: Select what kind of Teamwork, based on template, that will be shown. If you leave this field empty, all teamworks will be shown. Available for Teamwork only.
-+ **Publishing Apps**: You can select one publishing app to show metrics for. If you don't, all Publishing Apps will be shown. Available for Pages only.
-+ **Page Types**: You can select one page type to show metrics for. If you don't, all page types will be shown. Available for Pages only.
-
-For the scope "User Activity" no further options are shown here. You set Metrics, see below.
+Further settings that affects what is displayed are found under "Metrics".
 
 Metrics
 *********
@@ -46,15 +45,26 @@ The following settings are available here:
 + **Metrics per row**: Set the number of metrics to be shown per row.
 + **Metric block height**: Use the slider to set the height of the block.
 
-In the field at the bottom you can select just some of the metrics to be shown. The options are different depending on the Scope chosen:
+In the field at the bottom you can select just which metrics that should be shown, one or several. The options are different depending on the Scope chosen:
 
-+ Teamwork: You can choose to show only active teamworks or only new teamworks, or both. 
++ Teamwork: You can choose to show total number of Teamworks, just Active Teamworks, Just inactive or New Teamworks. 
++ Search Statistics: You can select Total number of queries, Abandoned queries or Nor result queries.
 + Pages: Here's a lot of options available - Published, Waiting For Approval, Draft, No Comments, Average Number Of Comments, Average ratings, Reach and Underused Content. "No Comments" lists the number of pages that has no comment at all. "Average Number Of Comments" is calculated this way: Total number of comments on all pages dived by the total number of pages. So if there are a total of 100 comments on all pages and there are 200 pages, the average number of comments would be 0,5.
 + User Activity: You can select to show the number of active readers or the number of active contributors.
 
 What is to be considered Underused Content can be set in Omnia Admin, see: :doc:`Metrics Settings </admin-settings/tenant-settings/settings/metrics/index>`
 
-To show several metrics on a page (for example in the Dashboard) just add the block several times, with different settings.
+Metrics config
+-----------------
+For a selected metric you can use some congif settings. Click the pen for the settings:
+
+.. image:: metrics-config-click.png
+
+You can use these settings:
+
+.. image:: metrics-config-settings.png
+
+Don't forget to save when you're done.
 
 Filter UI
 ************
