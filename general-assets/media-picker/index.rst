@@ -7,14 +7,14 @@ When the Media picker starts, something like the following is shown:
 
 .. image:: media-picker-v6.png
 
-This is an example of how Media Picker will look when you're addning a new image. When editing an image, it looks slightly different, see below.
+This is an example of how Media Picker will look when you're adding a new image. When editing an image, it looks slightly different, see below.
 
 My Computer
 *************
 Select "My Computer" to either paste an image from the clipboard or to browse for an image. (see image above.)
 
-Central Image Bank
-********************
+Central Image Bank/Central Media Bank
+*****************************************
 When you select a Central Image Bank, the images there will be shown, for example:
 
 .. image:: media-picker-central-image-bank-v6.png
@@ -25,7 +25,7 @@ To select an image, click it and the settings will be shown. Settings are the sa
 
 Settings of image banks are made for each Business Profile. For more information see: :doc:`Central Image Location </admin-settings/business-group-settings/settings/central-image-location/index>`
 
-In Omnia 6.12 and later, videos can be handled in Sharepoint media libraries and some video editing options, similar to those in Stream has been added by Microsoft. Video editing has to be made in the Sharepoint library, not in the Media Picker.
+In Omnia 6.12 and later, videos can be handled in Sharepoint media libraries and some video editing options, similar to those in Stream, has been added by Microsoft. In Omnia 6.12, this option has therefore been renamed **Central Media Bank**. Video editing has to be made in the Sharepoint library, not in the Media Picker.
 
 Bing Search
 ***************
