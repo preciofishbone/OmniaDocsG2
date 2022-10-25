@@ -3,23 +3,26 @@ Publishing App settings
 
 A number of Publishing App settings are available. You have to be Publishing App administrator to use them.
 
-Open the Publishing App settings by clicking here:
+Open the Publishing App settings by clicking here (image from Omnia 6.12):
 
-.. image:: page-settings-new2.png
+.. image:: page-settings-612.png
 
 General 
 *********
-Here you can set what is shown for your pubishing app in listings:
+The following settings are available here:
 
-.. image:: page-settings-general-new7.png
+.. image:: page-settings-general-612.png
 
-You use the Media Picker to add or change the image. For more information on how to use this asset, see: :doc:`Media Picker </general-assets/media-picker/index>`
++ **Title**: Add the title to be displayed for the publishing app here. 
++ **Description**: Add a description if you wish (recommended).
++ **Authors**: Add general authors for pages in the publishing app. Can be edited for specific pages if needed.
++ (Image): You use the Media Picker to add or change the image. For more information on how to use this asset, see: :doc:`Media Picker </general-assets/media-picker/index>`
 
 Permissions
 ************
 Use these settings to Edit permissions in the Publishing App. 
 
-.. image:: page-settings-permissions-new5.png
+.. image:: page-settings-permissions-612.png
 
 + **Allow Mobile Login**: This setting is intended to offer login to certain parts of Omnia for first line workers, partners and similar. The user needs the Kaizala app and a viable account. If you see the label "Kaizala login" somewhere, it's the same thing. **Note!** Mobile Login/Kaizala login is not available in Omnia on-prem.
 + **Administrators**: Add and remove Publishing App administrators here as needed.
@@ -38,7 +41,7 @@ Here you set up the Page Variations that should be possible to use in the Publis
 
 A variation can also be set up for Automatic Machine Translation, see below. (Not available in Omnia on-prem).
 
-It's also possible to add one variation author for each variation.
+It's also possible to add one variation author for each variation. Here's an example with a number of variations set up:
 
 .. image:: page-settings-variations-new6.png
 
@@ -62,7 +65,7 @@ Do the following to create a new variation (you have to scroll down to the end o
 
 2. Use the following settings:
 
-.. image:: variations-new6.png
+.. image:: variations-612.png
 
 + **Title**: Add a title for the variation to be shown in the lists, for example the list where users can select variation. If needed, the title can be added in any or all of the languages set up in the tenant. Click the flag to change language.
 + **Icon Type**: If you want show an icon for the variation, select Icon Type here, for excample "Flags".
@@ -136,14 +139,22 @@ Advanced
 **********
 Here you can edit these settings:
 
-.. image:: page-settings-advanced.png
+.. image:: page-settings-advanced-612-1.png
+
+and these:
+
+.. image:: page-settings-advanced-612-2.png
 
 + **Default Page Collection**: The default Page Collection for the page can be set here.
 + **Allow reuse content**: If it should be allowed to resuse content within the Publisging App, activate "Enable Reuse Content". For more information about how to reuse content, see: :doc:`Reusable Content </pages/reusable-content/index>`
 + **Connected Sharepoint Site**: The address to the Sharepoint Site is shown here.
-+ **Documents**: If it should be possible to work with Controlled Documents in this Publishing App, select a layout created for this purpose here. Such layouts are created and edited in Omnia Admin under Layouts for Publishing. When a layout has been selected here, a new option is available in the page navigation menu. See example below.
++ **Editor navigation**: Available in Omnia 6.12 and later. (A description will be added soon).
 + **Contact Property**: Select the property used to store information about the user being page contact.
 + **Review Date Property**: Select the property used to store information about review date for pages.
++ **Promoted tags**: Available in Omnia 6.12 and later. A publishing app can be configured to have promoted tags/terms for certain properties. Promoted tags/terms will be displayed at the top of the tag/term picker both for the author, when working with pages, and for the end user when filtering in a page rollup.
++ **Documents**: If it should be possible to work with Controlled Documents in this Publishing App, select a layout created for this purpose here. Such layouts are created and edited in Omnia Admin under Layouts for Publishing. When a layout has been selected here, a new option is available in the page navigation menu. See example below.
+
+In Omnia 6.12, the options for Documents is different, gathered under the heading "Document Management". A description will be added soon.
 
 For more information about layouts for publishing, see this page: :doc:`Publishing Layouts </admin-settings/business-group-settings/publishing-apps/publishing-65/layout/index>`
 
