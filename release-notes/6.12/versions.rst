@@ -19,7 +19,7 @@ Web Content Management
 -	RTF: Copy from word with multiple images greatly improved. (#137289)
 -	Image too large warning box have improved design and wording.
 -	A page collection can now be changed between flat or hierarchy in the UI. 
--	
+-	Fixed an issue with the sign-off request block making it impossible to leave the title empty (#141758).
 
 
 Search
