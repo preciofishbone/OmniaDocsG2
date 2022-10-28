@@ -3,7 +3,7 @@ Publishing App settings
 
 A number of Publishing App settings are available. You have to be Publishing App administrator to use them.
 
-This page describes the settings for Omnia 6.11 and earlier. For Omnia 6.12,see: :doc:`Publishing App settings in 6.12 </blocks/general-block-settings/index>`
+This page describes the settings for Omnia 6.11 and earlier. For Omnia 6.12,see: :doc:`Publishing App settings in 6.12 </pages/page-settings-612/index>`
 
 Open the Publishing App settings by clicking here:
 
