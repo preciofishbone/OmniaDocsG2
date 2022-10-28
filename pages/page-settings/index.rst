@@ -3,19 +3,20 @@ Publishing App settings
 
 A number of Publishing App settings are available. You have to be Publishing App administrator to use them.
 
-Open the Publishing App settings by clicking here (image from Omnia 6.12):
+This page describes the settings for Omnia 6.11 and earlier. For Omnia 6.12,see: :doc:`Publishing App settings in 6.12 </blocks/general-block-settings/index>`
 
-.. image:: page-settings-612.png
+Open the Publishing App settings by clicking here:
+
+.. image:: page-settings-new.png
 
 General 
 *********
-The following settings are available here:
+The following settings are available here (as an example):
 
-.. image:: page-settings-general-612.png
+.. image:: page-settings-general-new.png
 
 + **Title**: Add the title to be displayed for the publishing app here. 
 + **Description**: Add a description if you wish (recommended).
-+ **Authors**: Add general authors for pages in the publishing app. Can be edited for specific pages if needed.
 + (Image): You use the Media Picker to add or change the image. For more information on how to use this asset, see: :doc:`Media Picker </general-assets/media-picker/index>`
 
 Permissions
@@ -139,11 +140,9 @@ Advanced
 **********
 Here you can edit these settings:
 
-.. image:: page-settings-advanced-612-1.png
+.. image:: page-settings-advanced-1.png
 
-and these:
-
-.. image:: page-settings-advanced-612-2.png
+All settings are not shown in the image but described below.
 
 + **Default Page Collection**: The default Page Collection for the page can be set here.
 + **Allow reuse content**: If it should be allowed to resuse content within the Publisging App, activate "Enable Reuse Content". For more information about how to reuse content, see: :doc:`Reusable Content </pages/reusable-content/index>`
@@ -151,12 +150,7 @@ and these:
 + **Editor navigation**: Available in Omnia 6.12 and later. (A description will be added soon).
 + **Contact Property**: Select the property used to store information about the user being page contact.
 + **Review Date Property**: Select the property used to store information about review date for pages.
-+ **Promoted tags**: Available in Omnia 6.12 and later. A publishing app can be configured to have promoted tags/terms for certain properties. Promoted tags/terms will be displayed at the top of the tag/term picker both for the author, when working with pages, and for the end user when filtering in a page rollup.
 + **Documents**: If it should be possible to work with Controlled Documents in this Publishing App, select a layout created for this purpose here. Such layouts are created and edited in Omnia Admin under Layouts for Publishing. When a layout has been selected here, a new option is available in the page navigation menu. See example below.
-
-In Omnia 6.12, the options for Documents is different, gathered under the heading "Document Management". A description will be added soon.
-
-For more information about layouts for publishing, see this page: :doc:`Publishing Layouts </admin-settings/business-group-settings/publishing-apps/publishing-65/layout/index>`
 
 When it's possible to work with controlled documents in this publishing app, it's done by selecting this menu option:
 
