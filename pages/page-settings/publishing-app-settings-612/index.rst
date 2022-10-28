@@ -1,21 +1,19 @@
 Publishing App settings in Omnia 6.12
-===================================
+=======================================
 
-**This page is being edited. Will be finished soon. **
+**This page is being edited. Will be finished soon.**
 
 A number of Publishing App settings are available. You have to be Publishing App administrator to use them.
 
-This page describes the settings for Omnia 6.11 and earlier. For Omnia 6.12,see: :doc:`Publishing App settings in 6.12 </blocks/general-block-settings/index>`
-
 Open the Publishing App settings by clicking here:
 
-.. image:: page-settings-new.png
+.. image:: page-settings-612.png
 
 General 
 *********
 The following settings are available here:
 
-.. image:: page-settings-general-new.png
+.. image:: page-settings-general-612.png
 
 + **Title**: Add the title to be displayed for the publishing app here. 
 + **Description**: Add a description if you wish (recommended).
@@ -26,7 +24,7 @@ Permissions
 ************
 Use these settings to Edit permissions in the Publishing App. 
 
-.. image:: page-settings-permissions-612.png
+.. image:: page-settings-permissions-612-new.png
 
 + **Allow Mobile Login**: This setting is intended to offer login to certain parts of Omnia for first line workers, partners and similar. The user needs the Kaizala app and a viable account. If you see the label "Kaizala login" somewhere, it's the same thing. **Note!** Mobile Login/Kaizala login is not available in Omnia on-prem.
 + **Administrators**: Add and remove Publishing App administrators here as needed.
