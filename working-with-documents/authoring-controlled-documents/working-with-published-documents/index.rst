@@ -40,7 +40,7 @@ Use the following steps:
 
 .. image:: signed-copy-save.png
 
-If a signed copy is available for a ducment, it's indicated by this icon:
+If a signed copy is available for a document, it's indicated by this icon:
 
 .. image:: signed-copy-icon.png
 
