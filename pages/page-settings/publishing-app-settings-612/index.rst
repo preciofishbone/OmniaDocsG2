@@ -45,13 +45,13 @@ A variation can also be set up for Automatic Machine Translation, see below. (No
 
 It's also possible to add one variation author for each variation. Here's an example with a number of variations set up:
 
-.. image:: page-settings-variations-new6.png
+.. image:: page-settings-variations-612.png
 
 You see the variations that has been set up so far, with information about for example targeting. A "Variaton" in the tenant's default language is also listed here - note the label "Default" in the image above. For all pages, a variation with the default language must always exist. That is what is added when a page is created the first time.
 
 To edit the settings for a variation, click the pen. To delete a variation, click the dust bin.
 
-.. image:: page-settings-variations-edit-delete-new3.png
+.. image:: page-settings-variations-edit-delete-612.png
 
 When you edit a variation, the same settings as when you create a new variation are available, see below.
 
@@ -63,7 +63,7 @@ Do the following to create a new variation (you have to scroll down to the end o
 
 1. Click ADD VARIATION.
 
-.. image:: click-add-variation-new2.png
+.. image:: click-add-variation-612.png
 
 2. Use the following settings:
 
@@ -80,10 +80,6 @@ Do the following to create a new variation (you have to scroll down to the end o
 
 Languages used for Titles, or for targering, must be set up in the Tenant Settings, see this page: :doc:`Regional Settings </admin-settings/tenant-settings/settings/regional-settings/index>`
 
-Here's an example of a machine translated variation page:
-
-.. image:: variation-machine-translated.png
-
 Targeting a Page Variation
 ----------------------------
 Use targeting for a variation to set which variation of a page that will be displayed to the logged in user. Note that if a Variation Selector block is added to a page, users can always select any of the available variations. This is true even if no targeting is set up. See this page for information about the Variation Selector block: :doc:`Variation Selector </blocks/variation-selector/index>`
@@ -94,22 +90,22 @@ To target a Page Variation, do the following:
 
 1. Click "Add Targeting Filter" when editing a Page Variation's settings.
 
-.. image:: page-variation-add-targeting-new4.png
+.. image:: page-variation-add-targeting-612.png
 
 2. Select Targeting Property from the list. 
-3. As the next step you can select to include all Children, or you can target one or more of the Children specifically. 
+3. If there are children in the property -as the next step you can select to include all Children, or you can target one or more of the Children specifically. 
 
-Here's an example which will see to that all users that has French set as preferred language will see the French variation of the page.
+Here's an example which will see to that all users that has Danish set as preferred language will see the Danish variation of the page.
 
-.. image:: page-targeting-french-new2.png
+.. image:: page-targeting-danish.png
 
 4. Click "OK" to save your changes.
 
-You can add as many Targeting Properties for a Variation as is needed, this way (and remember that variations can be a lot more than just languages). To remove a target, just click the X.
+You can add as many Targeting Properties for a Variation as is needed this way (and remember that variations can be a lot more than just languages). To remove a target, just click the X.
 
 Note that the targeting settings also are shown in the Variations list, for example:
 
-.. image:: page-variation-example-new7.png
+.. image:: page-variation-example-612.png
 
 Edit contents of a Page Variation
 --------------------------------------
@@ -127,7 +123,7 @@ Statistics
 *************
 For more advanced statistics in Omnia, this is the place to add the scripts you get from your statistics provider, for example: 
 
-.. image:: page-settings-statistics-new4.png
+.. image:: page-settings-statistics-612.png
 
 Don't forget to save. The "Save" button is located in the lower right corner.
 
@@ -135,7 +131,7 @@ Retention
 ***********
 Here you can edit the settings for automatic termination, for the pages in this app that has been archived. 
 
-.. image:: page-settings-retention.png
+.. image:: page-settings-retention-612.png
 
 Advanced
 **********
@@ -150,20 +146,19 @@ and these:
 + **Default Page Collection**: The default Page Collection for the page can be set here.
 + **Allow reuse content**: If it should be allowed to resuse content within the Publisging App, activate "Enable Reuse Content". For more information about how to reuse content, see: :doc:`Reusable Content </pages/reusable-content/index>`
 + **Connected Sharepoint Site**: The address to the Sharepoint Site is shown here.
-+ **Editor navigation**: Available in Omnia 6.12 and later. (A description will be added soon).
++ **Editor navigation**: Here you can add options that should be available in the page menu, in additional to the default options. For more information, see below.
 + **Contact Property**: Select the property used to store information about the user being page contact.
 + **Review Date Property**: Select the property used to store information about review date for pages.
-+ **Promoted tags**: Available in Omnia 6.12 and later. A publishing app can be configured to have promoted tags/terms for certain properties. Promoted tags/terms will be displayed at the top of the tag/term picker both for the author, when working with pages, and for the end user when filtering in a page rollup.
-+ **Documents**: If it should be possible to work with Controlled Documents in this Publishing App, select a layout created for this purpose here. Such layouts are created and edited in Omnia Admin under Layouts for Publishing. When a layout has been selected here, a new option is available in the page navigation menu. See example below.
-
-In Omnia 6.12, the options for Documents is different, gathered under the heading "Document Management". A description will be added soon.
++ **Promoted tags**: A publishing app can be configured to have promoted tags/terms for certain properties. Promoted tags/terms will be displayed at the top of the tag/term picker both for the author, when working with pages, and for the end user when filtering in a page rollup.
++ **Document Management**: You use this part for Dcouments settings, both for "normal documents" and for controlled documents. For more information, see below.
 
 For more information about layouts for publishing, see this page: :doc:`Publishing Layouts </admin-settings/business-group-settings/publishing-apps/publishing-65/layout/index>`
 
-When it's possible to work with controlled documents in this publishing app, it's done by selecting this menu option:
+Editor Naviagation
+*******************
+(Information about how to use this will be added soon).
 
-.. image:: documents-menu-option.png
-
-
-
+Document Managmen settings
+****************************
+(Information about how to use these settings will be added soon).
 
