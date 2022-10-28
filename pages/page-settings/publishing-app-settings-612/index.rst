@@ -74,7 +74,7 @@ Do the following to create a new variation (you have to scroll down to the end o
 + **Icon**: Shown when you have selected Icon Type. Select the icon here.
 + **Url Segment**: Add a suitable Url Segment in this field.
 + **Variation author**: You can add a variation author for this variation. See this page for more information: :doc:`Edit Page Variations </pages/edit-page-variations/index>`
-+ **Automatic Machine Translation**:You can select machine translation for this variation, to any language that is set up in the tenant. If you do, you can't select a Variation author, and the machine translated variation can not be edited manually. When you have selected this option, choose language in the list shown. Automatic Machine Translation is executed when the page is published. It will be noted on the variation page that it has been machine translated, see below. **Note!** Machine translation is not available in Omnia on-prem.
++ **Automatic Machine Translation**: You can select machine translation for this variation, to any language that is set up in the tenant. If you do, you can't select a Variation author, and the machine translated variation can not be edited manually. When you have selected this option, choose language in the list shown. Automatic Machine Translation is executed when the page is published. It will be noted on the variation page that it has been machine translated, see below. **Note!** Machine translation is not available in Omnia on-prem.
 + **Right to left**: If you're creating a variation for a language that is read right to left, select this option.
 + **Add Targeting Filter**: To set up targeting for this variation, click here. It is not mandatory. See below for more information.
 
