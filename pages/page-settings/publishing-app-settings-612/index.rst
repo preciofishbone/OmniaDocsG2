@@ -154,11 +154,41 @@ and these:
 
 For more information about layouts for publishing, see this page: :doc:`Publishing Layouts </admin-settings/business-group-settings/publishing-apps/publishing-65/layout/index>`
 
-Editor Naviagation
+Editor Navigation
 *******************
-(Information about how to use this will be added soon).
+Use this setting to add options to the page menu, if nedded. On example is to add an option to make it poosible to work with controlled documents in a publishing app.
 
-Document Managmen settings
+Prerequisit: A publishing layout for the option to be used must have been created in Omnia Adnmin.
+
+Here's how to add a menu option:
+1. Click the plus to the right of "Editor Navigation".
+2. Use the following settings:
+
+.. image:: editor-navigation-settings.png
+
++ **Layout**: Select lauyout here.
++ **Title**: Add a title in any or several of the tenant languages. Click the flag to change language.
++ **Icon Type/Icon**: Add an icon if you wish by first selecting icon type.
+
+3. Click OK when you're done.
+
+.. image:: editor-navigation-settings-ok.png
+
+4. Save the changes to the publishing app settings.
+
+.. image:: editor-navigation-settings-save.png
+
+The new option is now added to the menu, for example:
+
+.. image:: editor-navigation-settings-added.png
+
+To edit a menu option, click the pen, to delete it, click the dust bin.
+
+.. image:: editor-navigation-settings-editdelete.png
+
+For more information about how to work with publishing layouts, see: :doc:`Publishing Layouits </admin-settings/business-group-settings/publishing-apps/publishing-65/layoutindex>`
+
+Document Managment settings
 ****************************
 (Information about how to use these settings will be added soon).
 
