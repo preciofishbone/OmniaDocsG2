@@ -41,6 +41,8 @@ Web Content Management
 -	Corrected alignment of the people rollup card properties.
 -	Copy banner now works as expected (#138302).
 -	Corrected an issue where mentioning a user would cause the browser to hang. 
+-	Event management copy event will now work even when no system account for event management is setup (#127051).
+-	Improved export to excel in the page rollup.
 
 
 
@@ -56,12 +58,13 @@ Search
 -	A permission role for Search has been added (Search Administrator).
 
 
-Teamwork
+Teamwork and Workplace
 ***********
 
 -	Security groups can now be correctly synced to SharePoint on Team Sites and Communication sites (#140845).
 -	Updates to Active/Inactive Teamwork metrics.
 -	The Omnia header no longer shows incorrectly in some MS teams Tab types (#139911, #139956).
+- 	The all tab in "Manage Links" now behaves the same as the "All Links" option in serach on my links (#131815, #139096)
 
 
 Management System
@@ -76,6 +79,7 @@ Management System
 - 	Process Management print functionality now better supports inline images. 
 -	When publishing a page, the properties dialog will now clearly indicate which properties are missing (#117951, #138156).
 - 	Corrected the query logic for Draft Controlled Documents (#138189).
+-	Default document 
 
 
 WCAG
