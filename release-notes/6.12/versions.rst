@@ -18,6 +18,7 @@ Omnia
 -	Central image locations are now central media locations and will also support video stored in SharePoint.
 -	Omnia admin has gotten a small restructure, Microsoft 365 and Services integration points have been clustered into their own categories.
 -	Emoticons can now be enabled in the RTF editor.
+-	The blockquote style has been corrected in the RTF editor. 
 
 
 Web Content Management
@@ -26,6 +27,9 @@ Web Content Management
 -	Social reactions can now be used instead of just likes. 
 -	Gifs via Giphy can now be inserted into comments and content (#126061).
 -	Navigation nodes to specific layouts can now be exposed in the WCM editor. This together with the new Page Rollup capabilities solves all editorial listing issues (#127215, #116794, #117789, #127484)
+-	The page rollup can now show any query as a count metric.
+-	The page rollup card view can now show the latest comment.
+-	Documents in a document property can now be previewed on the page rollup.
 -	The Editor now has adjustable panels to the left and right, resolving many spacing issues in that UI. (#124216)
 -	Central Media Locations now supports picking videos stored in SharePoint (#134797).
 -	Its now possible to create metrics using the count of a page rollup. (#123253).
@@ -48,7 +52,7 @@ Web Content Management
 -	The FAQ block now correctly gets its language from the Business Profile (#137196).
 -	Corrected alignment of the people rollup card properties.
 -	Copy banner now works as expected (#138302).
--	Corrected an issue where mentioning a user would cause the browser to hang. 
+-	Corrected an issue where mentioning a user would cause the browser to hang (#141782)
 -	Event management copy event will now work even when no system account for event management is setup (#127051).
 -	Improved export to excel in the page rollup.
 -	Approvals can now be configured to only apply to Authors and not editors (#120455).
@@ -66,6 +70,11 @@ Web Content Management
 -	A new action has been made available to the action button to add any page to your calendar via an .ics file.
 -	Term "Pending Publishing" has been renamed "Unpublished Changes" in the page rollup for clarity.
 -	Team news rollup now show thumbnail correctly.
+-	QR code block can now render a QR code of the URL of the current page.
+-	Digital signage have a new and improved design.
+-	QR codes also supported in Digital Signage HTML views.
+- 	Calendar rollup now correctly respects the UI item limit setting (#140246).
+-	
 
 
 
@@ -98,6 +107,9 @@ Teamwork and Workplace
 -	Added correct validation of length of title and alias when creating teamwork (#140627).
 -	Security on App level has been removed from Omnia Admin; it is no longer needed.
 -	Corrected an issue with Announcement emails, they now replace tokens correctly.
+-	App Instance properties can now be shown/hidden per property in new and edit forms respectively (#123637).
+-	Images can now be attached on a post in the posts block.
+- 	
 
 
 Management System
@@ -116,6 +128,8 @@ Management System
 - 	Corrected an issue that would sometimes show "undefined" in the create document dialog. 
 - 	Fixed an issue that would case the wrong document to open in the managed properties dialog on a controlled document (#139906).
 -	Workflow history has been improved to more clearly show which action were taken for a specific document.
+-	Metadata placeholders are now supported in PowerPoint.
+
 
 WCAG
 ********
