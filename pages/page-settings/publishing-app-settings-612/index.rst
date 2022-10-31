@@ -155,7 +155,7 @@ and these:
 For more information about layouts for publishing, see this page: :doc:`Publishing Layouts </admin-settings/business-group-settings/publishing-apps/publishing-65/layout/index>`
 
 Editor Navigation
-*******************
+--------------------
 Use this setting to add options to the page menu, if nedded. On example is to add an option to make it poosible to work with controlled documents in a publishing app.
 
 Prerequisit: A publishing layout for the option to be used must have been created in Omnia Adnmin.
@@ -189,6 +189,6 @@ To edit a menu option, click the pen, to delete it, click the dust bin.
 For more information about how to work with publishing layouts, see: :doc:`Publishing Layouits </admin-settings/business-group-settings/publishing-apps/publishing-65/layoutindex>`
 
 Document Managment settings
-****************************
+-----------------------------------
 (Information about how to use these settings will be added soon).
 
