@@ -8,12 +8,16 @@ Omnia
 -	Social reactions are now available including a revisit of all comment components for improved consistency (#138539).
 -	Audit log improved to contain the start and end of a page archive action.
 -	The setup wizard now supports "Basic Intranet" as well as Teamwork Content.
+-	A sneak peak of what is to come as been added to the setup wizard.
 -	Fixed a bug that would cause the link picker to highlight multiple categories. (#137969, )
 - 	Corrected a styling issue in the media picker that would sometimes cause white text on white background (#141818).
 - 	The Setup Wizard has gotten several improvements as well as the option to provision a basic intranet, a solution with only one publishing app. 
 -	The default settings for the RTF editor are now correctly populated (#137218).
 -	The metrics block has received an updated design.
 -	Machine translations are now extendible making it possible to plug a third-party provider into Omnia for translations.
+-	Central image locations are now central media locations and will also support video stored in SharePoint.
+-	Omnia admin has gotten a small restructure, Microsoft 365 and Services integration points have been clustered into their own categories.
+-	Emoticons can now be enabled in the RTF editor.
 
 
 Web Content Management
@@ -56,20 +60,28 @@ Web Content Management
 - 	Digital signage now supports display names for term properties and display names for people properties. 
 -	Page rollup can now show targets in its statistics centered views.
 -	Page rollup Channel filter now correctly has a scrollbar.
+-	Improved stability for the Publishing App Admin sync to Site collection admin (#139157, #140381).
+-	Community pages can now be correctly shown in the page rollup via "App" query scope.
+-	A page collection can now be connected to a taxonomy, making each page create a taxonomy term.
+-	A new action has been made available to the action button to add any page to your calendar via an .ics file.
+-	Term "Pending Publishing" has been renamed "Unpublished Changes" in the page rollup for clarity.
+-	Team news rollup now show thumbnail correctly.
 
 
 
 
-Search
+Search and People Rollup
 *****
 -	Corrected an issue where the search dialog would not close correctly on navigate (#139364, #140210). 
 -	Spelling suggestions are now available for searching (#116122, #116114, #126845).
+-	Search statistics are now available in omnia admin, see main release notes.
 -	Fixed a race condition that would sometimes cause the previous search result to be rendered (#137980).
 -	Shared Links item template now includes description and has aligned its look and feel with other views.
 -	Date refiners can now have a default value.
 - 	Corrected an issue with paging in the search (#139335).
 -	A permission role for Search has been added (Search Administrator).
 -	Quick search now shows the total numbers of results in advanced search for each category.
+-	Birthday queries can now be made in the people rollup. 
 
 
 Teamwork and Workplace
@@ -82,6 +94,10 @@ Teamwork and Workplace
 - 	Teamwork navigation will now always open a SharePoint site in a new tab (to prevent issues from within the MS Teams client (#133140).
 -	A Process can now be shown in the context of a project Team, see main release notes for more information.
 -	Omnia App Instance properties can now be access from within MS Teams via a new button.
+-	The User profile completeness block now works correctly in Dark Themes (#140327).
+-	Added correct validation of length of title and alias when creating teamwork (#140627).
+-	Security on App level has been removed from Omnia Admin; it is no longer needed.
+-	Corrected an issue with Announcement emails, they now replace tokens correctly.
 
 
 Management System
