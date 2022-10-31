@@ -8,6 +8,8 @@ Omnia
 -	Social reactions are now available including a revisit of all comment components for improved consistency (#138539).
 -	Audit log improved to contain the start and end of a page archive action.
 -	The setup wizard now supports "Basic Intranet" as well as Teamwork Content.
+-	Fixed a bug that would cause the link picker to highlight multiple categories. (#137969, )
+- 	Corrected a styling issue in the media picker that would sometimes cause white text on white background (#141818).
 
 
 Web Content Management
@@ -28,11 +30,19 @@ Web Content Management
 - 	Naming updates for a number of columns in the Page Rollup to better match what they are (example: "Reaction Count").
 - 	Page Types can now be deleted even if there are old versions of pages using that page type.
 -	Page collection nodes in the WCM editor are now ordered as: Default page collection on top, rest in alphabetical order (#135404).
-- 	When opening a second WCM editor (e.g., the tenant page types in Omnia admin), the first editor will automatically close. 
+- 	When opening a second WCM editor (e.g., the tenant pages types in Omnia admin), the first editor will automatically close. 
 -	Like/React and Share is now available in the page rollup dialog view.
 -	Improved stability of the copy block feature.
 - 	Better breadcrumb rendering for RTL languages.
 -	Corrected an issue where the term options on a page would be in the wrong language (#139500).
+-	The left navigation will no longer us break word in its styling (#138638).
+-	Corrected logic for archiving, the comment will only be mandatory when multiple pages will be deleted (#124125).
+-	The FAQ block now correctly gets its language from the Business Profile (#137196).
+-	Corrected alignment of the people rollup card properties.
+-	Copy banner now works as expected (#138302).
+-	Corrected an issue where mentioning a user would cause the browser to hang. 
+
+
 
 
 Search
@@ -43,7 +53,7 @@ Search
 -	Shared Links item template now includes description and has aligned its look and feel with other views.
 -	Date refiners can now have a default value.
 - 	Corrected an issue with paging in the search (#139335).
-
+-	A permission role for Search has been added (Search Administrator).
 
 
 Teamwork
@@ -56,12 +66,16 @@ Teamwork
 
 Management System
 *****
+
+-	Document management now integrates with Draftable.
 -	Date format of tokens in documents can now be set by putting the formatting in the token. Example: [[InternalName|YYYY-MM-DD]].
 -	Corrected an issue in the Swedish feedback email (#14026).
 -	Documents can now be flagged as “Is Record” allowing the admin to disable certain actions such as create draft (#123956).
 -	Metadata can now be inserted into the content of excel files.
 -	Marco enabled files now have correct higher resolution icons (#139585).
 - 	Process Management print functionality now better supports inline images. 
+-	When publishing a page, the properties dialog will now clearly indicate which properties are missing (#117951, #138156).
+- 	Corrected the query logic for Draft Controlled Documents (#138189).
 
 
 WCAG
@@ -70,4 +84,5 @@ WCAG
 -	User profile completion block is now WCAG compliant. 
 -	Improved keyboards controls for comments, tabs block, Action menu.
 -	Dynamic roller view next/prev arrows now has correct aria labels.
+-	The RSS viewer will now show alt-text if supported by the RSS feed (#119782).
 
