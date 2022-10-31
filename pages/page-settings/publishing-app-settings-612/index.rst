@@ -1,8 +1,6 @@
 Publishing App settings in Omnia 6.12
 =======================================
 
-**This page is being edited. Will be finished soon.**
-
 A number of Publishing App settings are available. You have to be Publishing App administrator to use them.
 
 Open the Publishing App settings by clicking here:
