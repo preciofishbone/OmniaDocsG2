@@ -10,6 +10,10 @@ Omnia
 -	The setup wizard now supports "Basic Intranet" as well as Teamwork Content.
 -	Fixed a bug that would cause the link picker to highlight multiple categories. (#137969, )
 - 	Corrected a styling issue in the media picker that would sometimes cause white text on white background (#141818).
+- 	The Setup Wizard has gotten several improvements as well as the option to provision a basic intranet, a solution with only one publishing app. 
+-	The default settings for the RTF editor are now correctly populated (#137218).
+-	The metrics block has received an updated design.
+-	Machine translations are now extendible making it possible to plug a third-party provider into Omnia for translations.
 
 
 Web Content Management
@@ -30,7 +34,7 @@ Web Content Management
 - 	Naming updates for a number of columns in the Page Rollup to better match what they are (example: "Reaction Count").
 - 	Page Types can now be deleted even if there are old versions of pages using that page type.
 -	Page collection nodes in the WCM editor are now ordered as: Default page collection on top, rest in alphabetical order (#135404).
-- 	When opening a second WCM editor (e.g., the tenant pages types in Omnia admin), the first editor will automatically close. 
+- 	When opening a second WCM editor (e.g., the tenant page types in Omnia admin), the first editor will automatically close. 
 -	Like/React and Share is now available in the page rollup dialog view.
 -	Improved stability of the copy block feature.
 - 	Better breadcrumb rendering for RTL languages.
@@ -43,6 +47,15 @@ Web Content Management
 -	Corrected an issue where mentioning a user would cause the browser to hang. 
 -	Event management copy event will now work even when no system account for event management is setup (#127051).
 -	Improved export to excel in the page rollup.
+-	Approvals can now be configured to only apply to Authors and not editors (#120455).
+- 	Queries and filtering for the Process datatype now works as expected in the Page Rollup. 
+- 	Corrected an issue where the browser title would be lost of filters are kept by query string.
+-	An administrator can now correctly remove other people’s comments. 
+-	Improved handling of time zones in page data.
+- 	Corrected an issue with page property padding (#138463).
+- 	Digital signage now supports display names for term properties and display names for people properties. 
+-	Page rollup can now show targets in its statistics centered views.
+-	Page rollup Channel filter now correctly has a scrollbar.
 
 
 
@@ -56,6 +69,7 @@ Search
 -	Date refiners can now have a default value.
 - 	Corrected an issue with paging in the search (#139335).
 -	A permission role for Search has been added (Search Administrator).
+-	Quick search now shows the total numbers of results in advanced search for each category.
 
 
 Teamwork and Workplace
@@ -64,7 +78,10 @@ Teamwork and Workplace
 -	Security groups can now be correctly synced to SharePoint on Team Sites and Communication sites (#140845).
 -	Updates to Active/Inactive Teamwork metrics.
 -	The Omnia header no longer shows incorrectly in some MS teams Tab types (#139911, #139956).
-- 	The all tab in "Manage Links" now behaves the same as the "All Links" option in serach on my links (#131815, #139096)
+- 	The all tab in "Manage Links" now behaves the same as the "All Links" option in search on my links (#131815, #139096)
+- 	Teamwork navigation will now always open a SharePoint site in a new tab (to prevent issues from within the MS Teams client (#133140).
+-	A Process can now be shown in the context of a project Team, see main release notes for more information.
+-	Omnia App Instance properties can now be access from within MS Teams via a new button.
 
 
 Management System
@@ -79,14 +96,19 @@ Management System
 - 	Process Management print functionality now better supports inline images. 
 -	When publishing a page, the properties dialog will now clearly indicate which properties are missing (#117951, #138156).
 - 	Corrected the query logic for Draft Controlled Documents (#138189).
--	Default document 
-
+-	Default document template can now be removed from a document type.
+- 	Corrected an issue that would sometimes show "undefined" in the create document dialog. 
+- 	Fixed an issue that would case the wrong document to open in the managed properties dialog on a controlled document (#139906).
+-	Workflow history has been improved to more clearly show which action were taken for a specific document.
 
 WCAG
 ********
 -	Configurable arial role has been added to all buttons in the Workspace action menu.
 -	User profile completion block is now WCAG compliant. 
--	Improved keyboards controls for comments, tabs block, Action menu.
+-	Improved keyboards controls for comments, tabs block, Action menu and card view in page rollup.
 -	Dynamic roller view next/prev arrows now has correct aria labels.
 -	The RSS viewer will now show alt-text if supported by the RSS feed (#119782).
+-	The tabs section now supports keyboard controls.
+- 	Improved keyboard controls for the advanced search.
+- 	Added alt text to the placeholder image in the page rollup.
 
