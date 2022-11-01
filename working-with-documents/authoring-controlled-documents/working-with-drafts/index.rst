@@ -242,6 +242,16 @@ This option can be used by reviewers when a document is sent for comments:
 An approver for publication can also use this option:
 
 .. image:: show-changes-approval-new.png
+
+If activated, this option is also available for all users i a doucment rollup, through the i icon:
+
+. image:: show-changes-iicon.png
+
+Here's an example:
+
+.. image:: show-changes-all.png
+
+Remember that there must be at least two editions of a document for this option to show up, and that it requires a paid subscription with Draftable.
  
 New drafts and templates
 ***************************
