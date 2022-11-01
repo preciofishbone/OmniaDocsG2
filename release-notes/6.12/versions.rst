@@ -74,7 +74,7 @@ Web Content Management
 -	Digital signage have a new and improved design.
 -	QR codes also supported in Digital Signage HTML views.
 - 	Calendar rollup now correctly respects the UI item limit setting (#140246).
--	
+-	HTML tables should now keep thier style and position when processed by machine translation.
 
 
 
@@ -83,6 +83,7 @@ Search and People Rollup
 *****
 -	Corrected an issue where the search dialog would not close correctly on navigate (#139364, #140210). 
 -	Spelling suggestions are now available for searching (#116122, #116114, #126845).
+-	Search queries can now use a number of tokens to combine user properties, user language, page properties and app instance properties into intelligent search queries (#115142, #115263, #120230)
 -	Search statistics are now available in omnia admin, see main release notes.
 -	Fixed a race condition that would sometimes cause the previous search result to be rendered (#137980).
 -	Shared Links item template now includes description and has aligned its look and feel with other views.
@@ -129,6 +130,8 @@ Management System
 - 	Fixed an issue that would case the wrong document to open in the managed properties dialog on a controlled document (#139906).
 -	Workflow history has been improved to more clearly show which action were taken for a specific document.
 -	Metadata placeholders are now supported in PowerPoint.
+-	Improved timerjob workflows to use the correct modified by user when possible (#122298).
+
 
 
 WCAG
