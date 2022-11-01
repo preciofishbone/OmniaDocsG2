@@ -243,9 +243,9 @@ An approver for publication can also use this option:
 
 .. image:: show-changes-approval-new.png
 
-If activated, this option is also available for all users i a doucment rollup, through the i icon:
+If the feature is activated, this option is also available for all users in a doucment rollup, through the i icon:
 
-. image:: show-changes-iicon.png
+.. image:: show-changes-iicon.png
 
 Here's an example:
 
