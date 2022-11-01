@@ -9,7 +9,7 @@ Omnia
 -	Audit log improved to contain the start and end of a page archive action.
 -	The setup wizard now supports "Basic Intranet" as well as Teamwork Content.
 -	A sneak peak of what is to come as been added to the setup wizard.
--	Fixed a bug that would cause the link picker to highlight multiple categories. (#137969, )
+-	Fixed a bug that would cause the link picker to highlight multiple categories. (#137969)
 - 	Corrected a styling issue in the media picker that would sometimes cause white text on white background (#141818).
 - 	The Setup Wizard has gotten several improvements as well as the option to provision a basic intranet, a solution with only one publishing app. 
 -	The default settings for the RTF editor are now correctly populated (#137218).
@@ -19,6 +19,9 @@ Omnia
 -	Omnia admin has gotten a small restructure, Microsoft 365 and Services integration points have been clustered into their own categories.
 -	Emoticons can now be enabled in the RTF editor.
 -	The blockquote style has been corrected in the RTF editor. 
+-	Added MS Teams presence to Posts, Organization tree and Teams Channel feed.
+-	Document upload in picker and settings have been streamlined, see main release notes.
+- 	Several performance improvements and security patches of related libraries.
 
 
 Web Content Management
@@ -54,6 +57,7 @@ Web Content Management
 -	Copy banner now works as expected (#138302).
 -	Corrected an issue where mentioning a user would cause the browser to hang (#141782)
 -	Event management copy event will now work even when no system account for event management is setup (#127051).
+-	Several stability improvements to Event Management, outlook invitations will now behave as expected (#133773).)
 -	Improved export to excel in the page rollup.
 -	Approvals can now be configured to only apply to Authors and not editors (#120455).
 - 	Queries and filtering for the Process datatype now works as expected in the Page Rollup. 
@@ -62,7 +66,7 @@ Web Content Management
 -	Improved handling of time zones in page data.
 - 	Corrected an issue with page property padding (#138463).
 - 	Digital signage now supports display names for term properties and display names for people properties. 
--	Page rollup can now show targets in its statistics centered views.
+-	Page rollup can now show targets in its statistics centred views.
 -	Page rollup Channel filter now correctly has a scrollbar.
 -	Improved stability for the Publishing App Admin sync to Site collection admin (#139157, #140381).
 -	Community pages can now be correctly shown in the page rollup via "App" query scope.
@@ -74,7 +78,7 @@ Web Content Management
 -	Digital signage have a new and improved design.
 -	QR codes also supported in Digital Signage HTML views.
 - 	Calendar rollup now correctly respects the UI item limit setting (#140246).
--	HTML tables should now keep thier style and position when processed by machine translation.
+-	HTML tables should now keep their style and position when processed by machine translation.
 
 
 
@@ -110,13 +114,16 @@ Teamwork and Workplace
 -	Corrected an issue with Announcement emails, they now replace tokens correctly.
 -	App Instance properties can now be shown/hidden per property in new and edit forms respectively (#123637).
 -	Images can now be attached on a post in the posts block.
-- 	
+- 	Team News Rollup now supports more news image thumbnails. 
+-	The teamwork rollup can now open the associated omnia layout instead of the teamwork resource itself.
+
 
 
 Management System
 *****
 
--	Document management now integrates with Draftable.
+-	Document management now integrates with Draftable, see main release notes.
+- 	A signed copy can now be uploaded to published documents, see main release notes. 
 -	Date format of tokens in documents can now be set by putting the formatting in the token. Example: [[InternalName|YYYY-MM-DD]].
 -	Corrected an issue in the Swedish feedback email (#14026).
 -	Documents can now be flagged as “Is Record” allowing the admin to disable certain actions such as create draft (#123956).
@@ -130,7 +137,11 @@ Management System
 - 	Fixed an issue that would case the wrong document to open in the managed properties dialog on a controlled document (#139906).
 -	Workflow history has been improved to more clearly show which action were taken for a specific document.
 -	Metadata placeholders are now supported in PowerPoint.
--	Improved timerjob workflows to use the correct modified by user when possible (#122298).
+-	Improved timer job workflows to use the correct modified by user when possible (#122298).
+-	All Controlled documents view now correctly follow the Tenant Regional setting by default.
+-	Property help texts are now available in when creating or editing controlled documents.
+-	Built in ODM properties now handle time zones in a better way (#128197, #128348, #128544, #128345).
+-	A document type can now be declared a document type for "records" this will allow the admin to disable some actions on that document.
 
 
 
@@ -142,6 +153,6 @@ WCAG
 -	Dynamic roller view next/prev arrows now has correct aria labels.
 -	The RSS viewer will now show alt-text if supported by the RSS feed (#119782).
 -	The tabs section now supports keyboard controls.
-- 	Improved keyboard controls for the advanced search.
-- 	Added alt text to the placeholder image in the page rollup.
+- Improved keyboard controls for the advanced search.
+- Added alt text to the placeholder image in the page rollup.
 
