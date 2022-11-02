@@ -16,6 +16,6 @@ Select section for more information:
    reading-controlled-documents/index
    alternative-create/index
    using-the-document-wizard/index
-
+   controlled-documents-in-publapp(index
   
    
