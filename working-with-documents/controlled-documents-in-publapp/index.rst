@@ -16,7 +16,7 @@ For more information see:
 + :doc:`Document Picker settings </admin-settings/business-group-settings/settings/document-picker/index>`
 + :doc:`Publishing App settings </pages/page-settings/publishing-app-settings-612/index>`
 
-Here's an example with a layout for ccontrolled documents:
+Here's an example with a layout for controlled documents:
 
 .. image:: controlled-documents-app.png
 
