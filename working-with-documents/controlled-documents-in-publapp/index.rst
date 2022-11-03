@@ -20,3 +20,5 @@ Here's an example with a layout for ccontrolled documents:
 
 .. image:: controlled-documents-app.png
 
+You use it the same way as is described for Controlled Documents.
+
