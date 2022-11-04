@@ -60,7 +60,7 @@ Layout and Write
 *********************
 The WRITE Tab is not used here. The LAYOUT tab contains general settings, see: :doc:`General Block Settings </blocks/general-block-settings/index>`
 
-Tip - adding images to post
+Tip - adding images to a post
 ******************************
 Here's a tip that doesn't need any settings:
 
