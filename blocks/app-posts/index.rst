@@ -66,5 +66,5 @@ Here's a tip that doesn't need any settings:
 
 In Omnia 6.12 and later it's possible to add images and animated gifs to a post, using these icons:
 
-.. imgae:: posts-images.png
+.. image:: posts-images.png
 
