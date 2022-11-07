@@ -58,7 +58,7 @@ If you select an image that is too big, a warning is shown and you can decide wh
 
 The message can look like this:
 
-.. image:: media-picker-too-big-v6.png
+.. image:: media-picker-too-big-612.png
 
 A desciption of the settings that can be made for Media Picker is found here: :doc:`Media Picker Settings </admin-settings/tenant-settings/settings/media-picker/index>`
 
