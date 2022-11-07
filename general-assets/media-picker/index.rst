@@ -143,3 +143,5 @@ Now the following settings are available:
 + **Autoplay**: If the video should start automatically when a user opens the page, select this option.
 + **Mute**: To play the video without sound, select this option.
 
+**Note!** In Omnia 6.12 and later, videos can be stored in Sharepoint libraries and that applies to Central Image Bank/Central Media Bank. The settings for those videos are handled in the Sharepoint library.
+
