@@ -8,6 +8,7 @@ All actions that can be added to an Action Menu can also be added as an action b
 The following actions are available to add as a button:
 
 + Add as Favourite
++ Add to my calendar
 + Create App
 + Create Document
 + Create Page
@@ -63,6 +64,12 @@ The purpose of this action is for the logged in user to add a Favourites link fo
 
 + **Remove link**: When a favourites link has been added, the text on the button changes so the user can remove the page from the favourites list. Add that text here. 
 + **Category**: If the Favourite link should be added to a specific Category, type the name of the category here. It can be a new or an existing category.
+
+Add to my calendar
+--------------------
+Can be placed on any Omnia page. When a user clicks the button, an ics file is created and downloaded to the users Download folder.
+
+(Only general settings are available, see above).
 
 Create App
 ------------
