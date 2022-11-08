@@ -1,10 +1,6 @@
 Create a new page collection
 ===============================
 
-**This page is beeing working on. Will be finished soon.**
-
-Creating a new Page Collection
-******************************
 If needed, a new Page Collection can be created. Do the following:
 
 1. Edit any page and open the navigation.
