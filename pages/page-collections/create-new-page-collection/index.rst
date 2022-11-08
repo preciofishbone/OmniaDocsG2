@@ -20,5 +20,5 @@ One example where "Flat" is a relevant choice, is when creating a new Page Colle
 
 The new Page Collection is created and placed in the editors navigation. You can now add pages and everything else that is described in the "Pages" section of this documentation.
 
-For settings for the Page Collection, see (link to be added)
+For settings for the Page Collection, see :doc:`Settings for Page Collections </pages/page-collections/page-collection-settings/index>`
 
