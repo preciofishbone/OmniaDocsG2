@@ -9,6 +9,8 @@ Just select "Process" for Page Property and your done.
 
 **Note!** On a page where you plan to add a Process Rollup, you can NOT use this block.
 
+In omnia 6.12 and later this block works slightly different, see: :doc:`Process Context block in Omnia 6.12 </blocks/process-context-612/index>`
+
 Layout and Write
 *********************
 The WRITE Tab is not used here. The LAYOUT tab contains general settings, see: :doc:`General Block Settings </blocks/general-block-settings/index>`
