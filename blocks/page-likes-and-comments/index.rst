@@ -51,7 +51,7 @@ If Yammer Integration is set up on Page Collection level, you can choose to acti
 
 **Important note!** Due to limitations in the Yammer API, a comment on a comment is not placed as expected (but a comment on a post is). The comment on a comment is shown in Omnia, but is not indented, as you would expect it to be. This is a limitation in the Yammer API, not in Omnia.
 
-For more information about setting up Yammer Integration on Page Collection level, see: :doc:`Page Collections </pages/page-collections/index>`
+For more information about setting up Yammer Integration on Page Collection level, see: :doc:`Page Collection settingss </pages/page-collections/page-collection-settings/index>`
 
 More information about setting up Yammer in Omnia is found here: :doc:`Setup Yammer in Omnia </setup/setup-yammer-in-omnia/index>`
 
