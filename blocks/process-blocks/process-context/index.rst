@@ -5,7 +5,7 @@ You use this block to make sure the Property Process is available on the Propert
 
 Image from Omnia 6.12:
 
-.. image:: process-context-612.png
+.. image:: process-context-block-612.png
 
 + **Enterprise Property**: You can add the enterprise property to get the process from or use the next field. This is the way you can use in Omnia 6.11 and earlier.
 + **Select Process**: Available in Omnia 6.12 and later. You can instead us this field to select the process that should be placed into context. You search in the field for the process name.
