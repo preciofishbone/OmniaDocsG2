@@ -1,7 +1,5 @@
-Release 6.12 (Preview)
+Release 6.12
 ========================================
-
-.. note:: Release 6.12 is in preview. Items may be added or removed from this list at any time.
 
 Search
 ----------------------------------------
