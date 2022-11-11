@@ -24,3 +24,13 @@ For more information, see these pages:
 + To link to an anchor using an Action Button: :doc:`Action Button </blocks/button-link/index>` (scroll down to the "Link" heading).
 + To link to an anchor using Add Link: :doc:`Add Link </general-assets/add-link/index>`
 
+Link to an anchor
+******************
+In some places in Omnia you can link to an anchor as long as you know the anchor name, but there's also a generic way. You can add the anchor name to a https link. Here's an example:
+
+Let's say you would like to create a link to the anchor code-of-conduct on the page Business foundation. Then the link would be something like:
+
+https://ourcompany.omniacloud.net/_/business-foundation/@anchor/code-of-conduct
+
+Note the last part: /@anchor/code-of-conduct
+

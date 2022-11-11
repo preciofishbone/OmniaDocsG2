@@ -14,7 +14,7 @@ Here you can activate, remove or upgrade the Omnia Add-ons.
 .. image:: tenant-features-add-ons.png
 
 + **Processes and Documents integration**: When this feature is activated, authors of controlled documents can suggest documents to be related to a process. Process authors can then decide to add a suggested document to the process, or not. Also note that this feature changes the way a process author works with the Documents list for a process. 
-+ **Document Comparison powered by Draftable**: This feature needs a paid subscription with Draftable. When this feature is activated, comparison of documents is extended and improved. Works for documents without having to open them. Works for PDF:s as well.
++ **Document Comparison powered by Draftable**: This feature needs a paid subscription with Draftable. When this feature is activated, comparison of documents is extended and improved. Works for documents without having to open them. Works for PDF:s as well. Note that you have to add the Draftable Account information as well, for this to work. That is done under Permissions-Secrets.
 + **Controlled Documents**: Activates the extensive funcionality for working with cxontrolled documents in the tenant.
 + **Info Screen**: Activates functionality for sending selected Omnia pages to general or public screens.
 + **Event Management**: Activates the extensive functionality for Omnia Event Management in the tenant. 
@@ -64,7 +64,7 @@ That following features may be found here:
 + **Email provider - Exchange Online mailbox**: This feature must be activated if customs system email functionality is needed in the tenant. The optiopn was called "Enable Custom System Email" in earlier Omnia version. It's just a relabel, same funcitonality as before.
 + **Web Content Managament file storage**: When activated, the option "Copy documents locally" becomes available in the settings for the Realated Links block. Documents that are locally accessible are versioned together with the page and can be accessed by users without a SharePoint license.
 + **Teamwork provisioning using application context**: If you want users to only be able to create Microsoft 365 Groups through Omnia templates, activate this feature. Note that additional settings needs to be made, to make sure Microsoft 365 Group can not be created any other way. More information about how to do this will be added here soon. In the mean time, more information can be found on this Microsoft page: https://docs.microsoft.com/en-us/microsoft-365/solutions/manage-creation-of-groups?view=o365-worldwide
-+ **Social reactions**: Activate this feature to use the same social reactions functionality in Omnia as in Teams. Note that when activating this feature, the Likes functionality is no longer available in any block, regardless of the "Allow social reactions" is selected or not. 
++ **Social reactions**: Activate this feature to use the same social reactions functionality in Omnia as in Teams. Note that when activating this feature, the Likes functionality is no longer available in any block, regardless of the "Allow social reactions" is selected or not. Existing likes will be showns as thumbs up when this feature is activated.
 
 Default configuration
 ******************************
