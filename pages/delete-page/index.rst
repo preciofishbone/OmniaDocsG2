@@ -133,4 +133,3 @@ When a page is deleted, the information is removed from the Omnia database and i
 
 When a page is terminated in Omnia, it is moved to the recycle bin in SharePoint.
 
- 
