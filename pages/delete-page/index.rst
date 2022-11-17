@@ -28,11 +28,11 @@ As an alternative, you can use DELETE in the menu in the navigation tree. This o
 
 .. image:: delete-page-menu-new2.png
 
-When you select delete, something like the following is shown:
+When you select delete of a main page with sub pages, something like the following is shown:
 
 .. image:: archive-message-new.png
 
-Note the message "You are about to archive a lot of pages" which is telling you that the page you have chosen has sub pages. (If the page doesn't have sub pahes, the message is different).
+Note the message "You are about to archive a lot of pages" which is telling you that the page you have chosen has sub pages. If the page doesn't have sub pages the message is simply not shown.
 
 5. Type a comment (Mandatory!) and click OK to archive the page, or CANCEL if you change your mind.
 
