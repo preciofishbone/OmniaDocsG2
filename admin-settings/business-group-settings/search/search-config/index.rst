@@ -42,6 +42,15 @@ Examples of tokens that can be used:
 + {Page.SPPath} - Full url to the folder where the page is located in Site Pages. Example: (Path:{Page.SPPath})
 + {Variation.Segment} - Url segment of the current variation
 + {TargetingProperty.InternalName} - TermID of matching property of current user
++ {AppInstance.InternalName} - TermID of matching property of current user
+
+Some examples of how the tokens cam be used:
+
+To search this site: Path:{SPSite.FullUrl}*
+
+To search pdfs in my department: FileType:pdf AND RefinableString110:{TargetingProperty.Department}
+
+To search pages in my language: FileType:aspx AND OmniaVariationSegmentOWSTEXT:{Variation.Segment}
 
 Search Templates
 *********************
