@@ -88,7 +88,7 @@ You can set a default value for date refiners, if needed, to filter out old docu
 
 .. image:: refiner-default-slider.png
 
-4. Save the changes
+4. Save the changes.
 
 Promoted search results
 *************************
