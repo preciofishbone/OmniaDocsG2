@@ -44,11 +44,11 @@ Examples of tokens that can be used:
 + {TargetingProperty.InternalName} - TermID of matching property of current user
 + {AppInstance.InternalName} - TermID of matching property of current user
 
-Some examples of how the tokens cam be used:
+Some examples of how the tokens can be used:
 
 To search this site: Path:{SPSite.FullUrl}*
 
-To search pdfs in my department: FileType:pdf AND RefinableString110:{TargetingProperty.Department}
+To search PDF:s in my department: FileType:pdf AND RefinableString110:{TargetingProperty.Department}
 
 To search pages in my language: FileType:aspx AND OmniaVariationSegmentOWSTEXT:{Variation.Segment}
 
