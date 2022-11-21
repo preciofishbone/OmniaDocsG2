@@ -28,7 +28,7 @@ All settings are not shown in the image above, but listed below.
 
 Use the settings this way:
 
-+ **Navigation Structure/Flat**: This option is available in Omnia 6.12 and later. Select page collection type here; using a navigation structure or flat.
++ **Navigation Structure/Flat**: Select page collection type here; using a navigation structure or flat. If you want to change from navigation structure to flat, you need to first manually flatten the page structure (move sub pages so they all become main pages) and then use the option here.
 + **Title**: The Title for the Page Collection is shown here. It can be edited if needed. It's updated everywhere it's shown when the changes here are published.
 + **Layout**: Applicable for Communities. Here a Layout can be selected. Layouts for Communtites works somewhat like Page Types, but can contain a full set up, ie for several pages. Layouts are created in Omnia Admin.
 + **Create Page Dialog**: You can set the title for the dialog displayed when an editor has selected to create a new page. If you leave this field blank, the dialog title will be "Create New Page".
