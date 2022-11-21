@@ -67,7 +67,7 @@ The purpose of this action is for the logged in user to add a Favourites link fo
 
 Add to my calendar
 --------------------
-Can be placed on any Omnia page. When a user clicks the button, an ics file is created and downloaded to the users Download folder. The ics file can then be added to the user's calendar.
+Can be placed on any Omnia page. When a user clicks the button, an ics file for the page is created and downloaded to the users Download folder. The ics file can then be added to the user's calendar.
 
 (Only general settings are available, see above).
 
