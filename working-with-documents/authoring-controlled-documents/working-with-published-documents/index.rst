@@ -44,6 +44,8 @@ If a signed copy is available for a document, it's indicated by this icon:
 
 .. image:: signed-copy-icon.png
 
+Users can click the icon to download the signed copy.
+
 Related Documents
 *******************
 You can relate a published document to other published documents. How to do that is described on this page: :doc:`Related Documents </working-with-documents/authoring-controlled-documents/related-documents/index>`
