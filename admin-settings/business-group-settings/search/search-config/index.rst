@@ -37,7 +37,7 @@ Examples of tokens that can be used:
 + {User.Email} - Logged in user's email.
 + {User.Language} - User selected language as ISO language code.
 + {SPSite.Id} - SharePoint id for the current site.
-+ {SPSite.FullUrl} - Communication url of te current Omnia page.
++ {SPSite.FullUrl} - Communication url of the current Omnia page.
 + {Page.Id} - Id of the SharePoint folder.
 + {Page.SPPath} - Full url to the folder where the page is located in Site Pages. Example: (Path:{Page.SPPath}).
 + {Variation.Segment} - Url segment of the current variation.
