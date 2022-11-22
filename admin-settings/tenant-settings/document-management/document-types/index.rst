@@ -19,6 +19,16 @@ You can decide the order in which the document types are shown within a grooup. 
 
 .. image:: document-types-move.png
 
+You can also move a document type to another group when editing the document type.
+
+1. Click MOVE.
+
+.. image:: move-image-type-1.png
+
+2. Select the group to move to and save.
+
+.. image:: move-image-type-2.png
+
 Creating a new Group
 **********************
 To create a new a group, do the following:
