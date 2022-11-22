@@ -19,7 +19,7 @@ For more information on how to create a new draft, see the heading "Creating a n
 
 Signed copy
 ***************
-In Omnia 6.12, you can use this option to create a signed copy of a document, that will be shown together with the document.
+In Omnia 6.12, you can use this option to create a signed copy of a document, that will be available together with the document. The option must be activated for the document type to be available here, see link below.
 
 Use the following steps:
 
@@ -45,6 +45,8 @@ If a signed copy is available for a document, it's indicated by this icon:
 .. image:: signed-copy-icon.png
 
 Users can click the icon to download the signed copy.
+
+For more information on how to activate Signed copy, see the heading "Settings for Document Types" on this page: :doc:`Document Types </admin-settings/tenant-settings/document-management/document-types/index>`
 
 Related Documents
 *******************
