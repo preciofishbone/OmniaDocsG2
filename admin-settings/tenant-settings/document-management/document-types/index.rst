@@ -156,8 +156,20 @@ When review reminders are activated you can set the following:
 + **Property**: Another way is to select a Property for handling of Review. An example could be if you want authors to be able to set a specific date for review, which could be needed for a Supplier Agreement, for example. A date property must then have been set up for this to work.
 + **Send reminder in advance**: Set the number of days that a reminder should be sent, before the Review Date.
 + **Review Reminder Recipients**: Select review reminder recipient(s) in the list.
-+ **Create Task**: If a review task should be created, select this option. Then use the list to select who to assign the task to.
++ **Create Task**: If a review task should be created, select this option. For more information, see below.
 + **Task expire in**: This is shown when you select "Create Task". Set the number of days, months or years before the task will expire. 
+
+When you choose to create a task, this is shown (image from Omnia 6.12):
+
+.. image:: doctype-review-create-task.png
+
+1. Use the list to select who the task should be sent to, for example Document Owner.
+2. Select when the task will expire.
+3. Add a custom text for the Review button, if needed, in any tenant language. Click the flag to change language.
+
+.. image:: doctype-review-create-task-button.png
+ 
+4. Save when you're done with all settings. 
 
 **Important note!** In Omnia 6.12 the review reminder task has been updated. If a new edition/revision of a controlled document is published or the published document is deleted, any associated review reminder task will be automatically completed. If the review is completed, the review comment will be added to the document history and a new review date will be calculated based on the review reminder rule set on the document type.
 
