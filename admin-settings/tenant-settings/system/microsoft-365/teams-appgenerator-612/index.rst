@@ -7,11 +7,16 @@ Use these options for an easy starting point creating an Teams App for Omnia, or
 
 Generate Omnia App
 **********************
-Add a title for the app, a description and the home url, and click GENERATE.
+Just do this:
+
+1. Add a title for the app.
+2. Add a description.
+3. Add the home url.
+4. click GENERATE.
 
 The app is created and downloaded as a zip to your Download library.
 
-The app is actually ready for use but there may be some more settings you want to do, using Developer Portal.
+The app is actually ready for use but there may be some more settings you want to do, see below.
 
 Additional settings
 --------------------
@@ -43,13 +48,15 @@ If you do it this way, the app will be installed automatically for all users, or
 
 Update Existing App
 ***********************
-If you already have an Omnia App and would like to update it to the full 6.10 (or later) standard, use this tab. What the possible update is about is stated in the description text: "Ensure Omnia SSO and Omnia teamwork tab for an existing app".
+If you already have an Omnia App and would like to update it to the full Omnia standard, use this tab. What the possible update is about is stated in the description text: "Ensure Omnia SSO and Omnia teamwork tab for an existing app".
 
-To update an app, drag and drop or Browse to load it.
+To update an app, do the following:
+
+1. Drag and drop or Browse to load it.
 
 .. image:: teams-app-generator-update.png
 
-And then click GENERATE.
+2. Click GENERATE.
 
 .. image:: teams-app-generator-update-generate.png
 
