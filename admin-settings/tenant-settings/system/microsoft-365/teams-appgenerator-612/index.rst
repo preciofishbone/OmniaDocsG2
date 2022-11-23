@@ -32,7 +32,7 @@ These steps are also not mandatory, but needed if you want users to get access t
 2. Go to "Teams apps" and select "Manage apps".
 3. Upload your app.
 
-Note the it can take som time before your app is listed there. If you can't find it yet, just wait a bit.
+Note that it can take some time before your app is listed there. If you can't find it yet, just wait a bit.
 
 4. Create or select a Setup Policy.
 5. Publish the app.
@@ -54,8 +54,4 @@ And then click GENERATE.
 .. image:: teams-app-generator-update-generate.png
 
 The app is updated and downloaded to your Download library.
-
-
-
-
 
