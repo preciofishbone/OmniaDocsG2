@@ -58,7 +58,5 @@ To update an app, do the following:
 
 2. Click GENERATE.
 
-.. image:: teams-app-generator-update-generate.png
-
 The app is updated and downloaded to your Download library.
 
