@@ -1,7 +1,7 @@
 Task Rollup
 ===========================================
 
-This block can be used to show tasks assigned to the logged in user. Tasks from Team Sites will always be shown. Tasks from Planner can also be added.
+This block can be used to show tasks assigned to the logged in user. Tasks from Team Sites will always be shown. Tasks from Planner can also be added, if setup in Omnia.
 
 **Note!** In Omnia on-prem, Only SharePoint tasks are supported (Planner tasks are not supported).
 
