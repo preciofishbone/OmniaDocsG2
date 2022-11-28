@@ -3,6 +3,8 @@ Views as HTML
 
 If you will use HTML settings for the views on the screens, add the different views here. (This is very similar to the view settings for Info Screen).
 
+This page describes the option in Omnia 6.11 and earlier. For the options in Omnia 6.12, see: :doc:`View as HTML in Omnia 6.12 </admin-settings/tenant-settings/settings/digital-signage/digital-views-as-html-612/index>`
+
 The first you see is the list of views that has been created so far (none in this example):
 
 .. image:: page-view-html-list.png

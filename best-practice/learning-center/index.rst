@@ -71,6 +71,22 @@ Token: {{PublishingApp.PageCollections["course-dates"]}}
 
 .. image:: best-practice-pagelayout-course-pagerollup-right.png
 
+3. Add the properties following properties to the page type "Internal Course".
+
+.. image:: internalcourse-properties.png
+
+.. image:: internalcourse-coursesubject.png
+
+.. image:: internalcourse-pagecontact.png
+
+.. image:: internalcourse-coursetype.png
+
+.. image:: internalcourse-course.png
+
+3. Create a new page layout for a "Micro-course".
+
+.. image:: pagelayout-micro-course.png
+
 Learning Center Publishing App
 ----------------------------------------------
 
@@ -79,15 +95,30 @@ Learning Center Publishing App
 
 .. image:: best-practice-learning-center-create-app.png
 
-11. Go to the newly created publishing app and create a page collection for the start page of the Learning Center.
+3. Go to the newly created publishing app and create a page collection for the start page of the Learning Center.
 
 .. image:: best-practice-learning-center-pagecoll-start.png
 
-12. Create a flat page collection for courses.
+4. Set this as the default page collection in the publishin app settings. 
+
+5. Create a flat page collection for courses.
 
 .. image:: best-practice-learning-center-pagecoll-courses.png
 
-13. Create a flat page collection for course dates.
+6. Create a flat page collection for course dates.
     
 .. image:: best-practice-learning-center-pagecoll-coursedates.png
 
+7. Add the tenant page type "Internal Course" to the Courses page collection.
+8. Add "Create course" as dialog title and uncheck "Show Url".
+9. Enable taxonomy connection and connect the page collection to the term set "Course".
+10. Create and publish a first test course in the page collection "Courses".
+11. Wait until the search engine has indexed the newly created page (it can take up to 15 minutes.)
+12. Go to SharePoint admin center > Search > Manage search schema.
+13. Map the following crawled properties and managed properties:
+
+  * OWS_TAXID_LCCOURSESUBJECT > RefinableString90
+  * OWS_TAXID_LCCOURSETYPE > RefinableString91
+  * OWS_TAXID_LCCOURSE > RefinableString92
+
+14. Go to Omnia Admin > Properties and add the managed properties to the the enterprise properties respectively.

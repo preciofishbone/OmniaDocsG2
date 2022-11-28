@@ -15,9 +15,9 @@ You can use these settings:
 + **Refiners collapsed by default**: Per default, just the headings for the refiners are displayed. If all all options for the refiners always should be shown, select this option. 
 + **Search Categories**: Open the list to add or remove Search Categories to use in Advanced Search.
 
-Additional settings can be reached by clicking the pen for a Search Category, for example:
+Additional settings can be reached by clicking the pen for a Search Category (see image above). Available settings can for example bee:
 
-.. image:: advanced-search-category-settings-67.png
+.. image:: advanced-search-category-settings-612.png
 
 + **Row Limit**: Select number of search result rows for each "page". 
 + **Image/Icon size**: You can set this to Small, Medium or Large.
@@ -28,6 +28,8 @@ Additional settings can be reached by clicking the pen for a Search Category, fo
 
 To delete a refiner, just click the dust bin.
 
+Create a new refiner
+---------------------
 To create a new refiner, do the following:
 
 1. Open the list and select a property to use as refiner.

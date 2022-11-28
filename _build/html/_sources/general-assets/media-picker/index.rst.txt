@@ -7,14 +7,14 @@ When the Media picker starts, something like the following is shown:
 
 .. image:: media-picker-v6.png
 
-This is an example of how Media Picker will look when you're addning a new image. When editing an image, it looks slightly different, see below.
+This is an example of how Media Picker will look when you're adding a new image. When editing an image, it looks slightly different, see below.
 
 My Computer
 *************
 Select "My Computer" to either paste an image from the clipboard or to browse for an image. (see image above.)
 
-Central Image Bank
-********************
+Central Image Bank/Central Media Bank
+*****************************************
 When you select a Central Image Bank, the images there will be shown, for example:
 
 .. image:: media-picker-central-image-bank-v6.png
@@ -25,7 +25,7 @@ To select an image, click it and the settings will be shown. Settings are the sa
 
 Settings of image banks are made for each Business Profile. For more information see: :doc:`Central Image Location </admin-settings/business-group-settings/settings/central-image-location/index>`
 
-In Omnia 6.12 and later, videos can be handled in Sharepoint media libraries and some video editing options, similar to those in Stream has been added by Microsoft. Video editing has to be made in the Sharepoint library, not in the Media Picker.
+In Omnia 6.12 and later, videos can be handled in Sharepoint media libraries and some video editing options, similar to those in Stream, has been added by Microsoft. In Omnia 6.12, this option has therefore been renamed **Central Media Bank**. Video editing has to be made in the Sharepoint library, not in the Media Picker.
 
 Bing Search
 ***************
@@ -58,7 +58,7 @@ If you select an image that is too big, a warning is shown and you can decide wh
 
 The message can look like this:
 
-.. image:: media-picker-too-big-v6.png
+.. image:: media-picker-too-big-612.png
 
 A desciption of the settings that can be made for Media Picker is found here: :doc:`Media Picker Settings </admin-settings/tenant-settings/settings/media-picker/index>`
 
@@ -142,4 +142,6 @@ Now the following settings are available:
 + **Start at**: If the video should not start at the beginning, set when it should start. Use the format minutes:seconds.
 + **Autoplay**: If the video should start automatically when a user opens the page, select this option.
 + **Mute**: To play the video without sound, select this option.
+
+**Note!** In Omnia 6.12 and later, videos can be stored in Sharepoint libraries and that applies to Central Image Bank/Central Media Bank. The settings for those videos are handled in the Sharepoint library.
 

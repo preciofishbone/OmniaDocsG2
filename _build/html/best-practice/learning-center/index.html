@@ -247,6 +247,18 @@
 <p>Page Rollup Query (Right-hand side):</p>
 <p>Token: {{PublishingApp.PageCollections[“course-dates”]}}</p>
 <img alt="../../_images/best-practice-pagelayout-course-pagerollup-right.png" src="../../_images/best-practice-pagelayout-course-pagerollup-right.png" />
+<ol class="arabic simple" start="3">
+<li><p>Add the properties following properties to the page type “Internal Course”.</p></li>
+</ol>
+<img alt="../../_images/internalcourse-properties.png" src="../../_images/internalcourse-properties.png" />
+<img alt="../../_images/internalcourse-coursesubject.png" src="../../_images/internalcourse-coursesubject.png" />
+<img alt="../../_images/internalcourse-pagecontact.png" src="../../_images/internalcourse-pagecontact.png" />
+<img alt="../../_images/internalcourse-coursetype.png" src="../../_images/internalcourse-coursetype.png" />
+<img alt="../../_images/internalcourse-course.png" src="../../_images/internalcourse-course.png" />
+<ol class="arabic simple" start="3">
+<li><p>Create a new page layout for a “Micro-course”.</p></li>
+</ol>
+<img alt="../../_images/pagelayout-micro-course.png" src="../../_images/pagelayout-micro-course.png" />
 </div>
 <div class="section" id="learning-center-publishing-app">
 <h2>Learning Center Publishing App<a class="headerlink" href="#learning-center-publishing-app" title="Permalink to this headline">¶</a></h2>
@@ -255,18 +267,38 @@
 <li><p>Create a new publishing app for the Learning Center.</p></li>
 </ol>
 <img alt="../../_images/best-practice-learning-center-create-app.png" src="../../_images/best-practice-learning-center-create-app.png" />
-<ol class="arabic simple" start="11">
+<ol class="arabic simple" start="3">
 <li><p>Go to the newly created publishing app and create a page collection for the start page of the Learning Center.</p></li>
 </ol>
 <img alt="../../_images/best-practice-learning-center-pagecoll-start.png" src="../../_images/best-practice-learning-center-pagecoll-start.png" />
-<ol class="arabic simple" start="12">
+<ol class="arabic simple" start="4">
+<li><p>Set this as the default page collection in the publishin app settings.</p></li>
 <li><p>Create a flat page collection for courses.</p></li>
 </ol>
 <img alt="../../_images/best-practice-learning-center-pagecoll-courses.png" src="../../_images/best-practice-learning-center-pagecoll-courses.png" />
-<ol class="arabic simple" start="13">
+<ol class="arabic simple" start="6">
 <li><p>Create a flat page collection for course dates.</p></li>
 </ol>
 <img alt="../../_images/best-practice-learning-center-pagecoll-coursedates.png" src="../../_images/best-practice-learning-center-pagecoll-coursedates.png" />
+<ol class="arabic simple" start="7">
+<li><p>Add the tenant page type “Internal Course” to the Courses page collection.</p></li>
+<li><p>Add “Create course” as dialog title and uncheck “Show Url”.</p></li>
+<li><p>Enable taxonomy connection and connect the page collection to the term set “Course”.</p></li>
+<li><p>Create and publish a first test course in the page collection “Courses”.</p></li>
+<li><p>Wait until the search engine has indexed the newly created page (it can take up to 15 minutes.)</p></li>
+<li><p>Go to SharePoint admin center &gt; Search &gt; Manage search schema.</p></li>
+<li><p>Map the following crawled properties and managed properties:</p></li>
+</ol>
+<blockquote>
+<div><ul class="simple">
+<li><p>OWS_TAXID_LCCOURSESUBJECT &gt; RefinableString90</p></li>
+<li><p>OWS_TAXID_LCCOURSETYPE &gt; RefinableString91</p></li>
+<li><p>OWS_TAXID_LCCOURSE &gt; RefinableString92</p></li>
+</ul>
+</div></blockquote>
+<ol class="arabic simple" start="14">
+<li><p>Go to Omnia Admin &gt; Properties and add the managed properties to the the enterprise properties respectively.</p></li>
+</ol>
 </div>
 </div>
 
@@ -282,7 +314,7 @@
     <p>
         &#169; Copyright 2022, Precio Fishbone.
       <span class="lastupdated">
-        Last updated on Nov 11, 2022.
+        Last updated on Nov 28, 2022.
       </span>
 
     </p>

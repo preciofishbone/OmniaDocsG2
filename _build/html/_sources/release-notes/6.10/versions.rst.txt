@@ -1,3 +1,22 @@
+6.11.31
+========================================
+(Omnia 6.11.31 / Workplace 6.11.17 / WCM 6.11.24 / MS 6.11.16)
+
+- Using a token in the Action button to publish pages in another page collection now works as expected (#141725).
+- End user filtering for channels now works as expected in the page rollup (#141831, #141968).
+- Adjustment to avoid multiple review reminders (#141583, #142030)
+- Automatic refresh of page rollup now works as expected.
+- The WCM editor no longer incorrectly selects the channel tab by default in some cases (#141755).
+- Fixed a client-side validation error for text properties in Teamwork templates (#141759, #141746, #141787).
+- Fixed an issue that caused pages with a '#' character in the page title to not be possible to archive (#141770).
+- Improved stability in the SharePoint page sync (#140680).
+- Channel administrators can now change if a page should be published directly or be sent to others for approval.
+- The WCM editor no longer enters "wizard mode" when a page is at a higher version than 0.1.
+- Improved the merge logic of Controlled documents (#141299).
+- Improved logic to calculate last activity of teamwork (#141376).
+- Fixes to the Service Bus implementation to remedy ongoing instabilities due to MS changes.
+
+
 6.11.26
 ========================================
 (Omnia 6.11.26 / Workplace 6.11.14 / WCM 6.11.18 / MS 6.11.12)

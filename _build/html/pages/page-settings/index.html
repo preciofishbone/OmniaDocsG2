@@ -205,18 +205,23 @@
   <div class="section" id="publishing-app-settings">
 <h1>Publishing App settings<a class="headerlink" href="#publishing-app-settings" title="Permalink to this headline">¶</a></h1>
 <p>A number of Publishing App settings are available. You have to be Publishing App administrator to use them.</p>
+<p>This page describes the settings for Omnia 6.11 and earlier. For Omnia 6.12,see: <a class="reference internal" href="publishing-app-settings-612/index.html"><span class="doc">Publishing App settings in 6.12</span></a></p>
 <p>Open the Publishing App settings by clicking here:</p>
-<img alt="../../_images/page-settings-new2.png" src="../../_images/page-settings-new2.png" />
+<img alt="../../_images/page-settings-new.png" src="../../_images/page-settings-new.png" />
 <div class="section" id="general">
 <h2>General<a class="headerlink" href="#general" title="Permalink to this headline">¶</a></h2>
-<p>Here you can set what is shown for your pubishing app in listings:</p>
-<img alt="../../_images/page-settings-general-new7.png" src="../../_images/page-settings-general-new7.png" />
-<p>You use the Media Picker to add or change the image. For more information on how to use this asset, see: <a class="reference internal" href="../../general-assets/media-picker/index.html"><span class="doc">Media Picker</span></a></p>
+<p>The following settings are available here (as an example):</p>
+<img alt="../../_images/page-settings-general-new.png" src="../../_images/page-settings-general-new.png" />
+<ul class="simple">
+<li><p><strong>Title</strong>: Add the title to be displayed for the publishing app here.</p></li>
+<li><p><strong>Description</strong>: Add a description if you wish (recommended).</p></li>
+<li><p>(Image): You use the Media Picker to add or change the image. For more information on how to use this asset, see: <a class="reference internal" href="../../general-assets/media-picker/index.html"><span class="doc">Media Picker</span></a></p></li>
+</ul>
 </div>
 <div class="section" id="permissions">
 <h2>Permissions<a class="headerlink" href="#permissions" title="Permalink to this headline">¶</a></h2>
 <p>Use these settings to Edit permissions in the Publishing App.</p>
-<img alt="../../_images/page-settings-permissions-new5.png" src="../../_images/page-settings-permissions-new5.png" />
+<img alt="../../_images/page-settings-permissions-612.png" src="../../_images/page-settings-permissions-612.png" />
 <ul class="simple">
 <li><p><strong>Allow Mobile Login</strong>: This setting is intended to offer login to certain parts of Omnia for first line workers, partners and similar. The user needs the Kaizala app and a viable account. If you see the label “Kaizala login” somewhere, it’s the same thing. <strong>Note!</strong> Mobile Login/Kaizala login is not available in Omnia on-prem.</p></li>
 <li><p><strong>Administrators</strong>: Add and remove Publishing App administrators here as needed.</p></li>
@@ -231,7 +236,7 @@
 <h2>Variations<a class="headerlink" href="#variations" title="Permalink to this headline">¶</a></h2>
 <p>Here you set up the Page Variations that should be possible to use in the Publishing App. It’s then up to Page Editors to use a variation, or not, for a page. A page variation is created for a page when it’s needed.</p>
 <p>A variation can also be set up for Automatic Machine Translation, see below. (Not available in Omnia on-prem).</p>
-<p>It’s also possible to add one variation author for each variation.</p>
+<p>It’s also possible to add one variation author for each variation. Here’s an example with a number of variations set up:</p>
 <img alt="../../_images/page-settings-variations-new6.png" src="../../_images/page-settings-variations-new6.png" />
 <p>You see the variations that has been set up so far, with information about for example targeting. A “Variaton” in the tenant’s default language is also listed here - note the label “Default” in the image above. For all pages, a variation with the default language must always exist. That is what is added when a page is created the first time.</p>
 <p>To edit the settings for a variation, click the pen. To delete a variation, click the dust bin.</p>
@@ -248,7 +253,7 @@
 <ol class="arabic simple" start="2">
 <li><p>Use the following settings:</p></li>
 </ol>
-<img alt="../../_images/variations-new6.png" src="../../_images/variations-new6.png" />
+<img alt="../../_images/variations-612.png" src="../../_images/variations-612.png" />
 <ul class="simple">
 <li><p><strong>Title</strong>: Add a title for the variation to be shown in the lists, for example the list where users can select variation. If needed, the title can be added in any or all of the languages set up in the tenant. Click the flag to change language.</p></li>
 <li><p><strong>Icon Type</strong>: If you want show an icon for the variation, select Icon Type here, for excample “Flags”.</p></li>
@@ -308,16 +313,16 @@
 <div class="section" id="advanced">
 <h2>Advanced<a class="headerlink" href="#advanced" title="Permalink to this headline">¶</a></h2>
 <p>Here you can edit these settings:</p>
-<img alt="../../_images/page-settings-advanced.png" src="../../_images/page-settings-advanced.png" />
+<img alt="../../_images/page-settings-advanced-1.png" src="../../_images/page-settings-advanced-1.png" />
+<p>All settings are not shown in the image but described below.</p>
 <ul class="simple">
 <li><p><strong>Default Page Collection</strong>: The default Page Collection for the page can be set here.</p></li>
 <li><p><strong>Allow reuse content</strong>: If it should be allowed to resuse content within the Publisging App, activate “Enable Reuse Content”. For more information about how to reuse content, see: <a class="reference internal" href="../reusable-content/index.html"><span class="doc">Reusable Content</span></a></p></li>
 <li><p><strong>Connected Sharepoint Site</strong>: The address to the Sharepoint Site is shown here.</p></li>
-<li><p><strong>Documents</strong>: If it should be possible to work with Controlled Documents in this Publishing App, select a layout created for this purpose here. Such layouts are created and edited in Omnia Admin under Layouts for Publishing. When a layout has been selected here, a new option is available in the page navigation menu. See example below.</p></li>
 <li><p><strong>Contact Property</strong>: Select the property used to store information about the user being page contact.</p></li>
 <li><p><strong>Review Date Property</strong>: Select the property used to store information about review date for pages.</p></li>
+<li><p><strong>Documents</strong>: If it should be possible to work with Controlled Documents in this Publishing App, select a layout created for this purpose here. Such layouts are created and edited in Omnia Admin under Layouts for Publishing. When a layout has been selected here, a new option is available in the page navigation menu. See example below.</p></li>
 </ul>
-<p>For more information about layouts for publishing, see this page: <a class="reference internal" href="../../admin-settings/business-group-settings/publishing-apps/publishing-65/layout/index.html"><span class="doc">Publishing Layouts</span></a></p>
 <p>When it’s possible to work with controlled documents in this publishing app, it’s done by selecting this menu option:</p>
 <img alt="../../_images/documents-menu-option.png" src="../../_images/documents-menu-option.png" />
 </div>
@@ -339,7 +344,7 @@
     <p>
         &#169; Copyright 2022, Precio Fishbone.
       <span class="lastupdated">
-        Last updated on Nov 11, 2022.
+        Last updated on Nov 25, 2022.
       </span>
 
     </p>

@@ -1,0 +1,262 @@
+
+
+<!DOCTYPE html>
+<html class="writer-html5" lang="en" >
+<head>
+  <meta charset="utf-8" />
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  
+  <title>Working with controlled documents in a publishing app &mdash; Omnia  documentation</title>
+  
+
+  
+  <link rel="stylesheet" href="../../_static/css/theme.css" type="text/css" />
+  <link rel="stylesheet" href="../../_static/pygments.css" type="text/css" />
+  <link rel="stylesheet" href="../../_static/pygments.css" type="text/css" />
+  <link rel="stylesheet" href="../../_static/css/theme.css" type="text/css" />
+  <link rel="stylesheet" href="../../_static/custom.css?v=4" type="text/css" />
+
+  
+  
+
+  
+  
+
+  
+
+  
+  <!--[if lt IE 9]>
+    <script src="../../_static/js/html5shiv.min.js"></script>
+  <![endif]-->
+  
+    
+      <script type="text/javascript" id="documentation_options" data-url_root="../../" src="../../_static/documentation_options.js"></script>
+        <script data-url_root="../../" id="documentation_options" src="../../_static/documentation_options.js"></script>
+        <script src="../../_static/jquery.js"></script>
+        <script src="../../_static/underscore.js"></script>
+        <script src="../../_static/doctools.js"></script>
+        <script src="../../_static/helpfulness.js?v=4"></script>
+        <script src="../../_static/disqus.js"></script>
+    
+    <script type="text/javascript" src="../../_static/js/theme.js"></script>
+
+    
+    <link rel="index" title="Index" href="../../genindex.html" />
+    <link rel="search" title="Search" href="../../search.html" />
+    <link rel="next" title="Working with Processes" href="../../working-with-processes/index.html" />
+    <link rel="prev" title="Using the Create New Document Wizard" href="../using-the-document-wizard/index.html" /> 
+</head>
+
+<body class="wy-body-for-nav">
+
+   
+  <div class="wy-grid-for-nav">
+    
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search" >
+          
+
+          
+            <a href="../../index.html" class="icon icon-home"> Omnia
+          
+
+          
+          </a>
+
+          
+            
+            
+          
+
+          
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="../../search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+
+          
+        </div>
+
+        
+        <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
+          
+            
+            
+              
+            
+            
+              <ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="../../admin-settings/index.html">Admin Settings</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../blocks/index.html">Blocks</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../general-assets/index.html">General assets and options</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../pages/index.html">Pages and page navigation</a></li>
+<li class="toctree-l1 current"><a class="reference internal" href="../index.html">Working with Documents</a><ul class="current">
+<li class="toctree-l2"><a class="reference internal" href="../authoring-controlled-documents/index.html">Authoring Controlled Documents</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../controlled-documents-library-settings/index.html">Controlled Documents Library Settings</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../controlled-documents-archive/index.html">Controlled Documents Archive</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../reading-controlled-documents/index.html">Reading Controlled Documents</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../alternative-create/index.html">Alternative ways of creating Controlled Documents</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../using-the-document-wizard/index.html">Using the Create New Document Wizard</a></li>
+<li class="toctree-l2 current"><a class="current reference internal" href="#">Working with controlled documents in a publishing app</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="../../working-with-processes/index.html">Working with Processes</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../working-with-events/index.html">Working with Events</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../using-communities/index.html">Using Communities</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../using-newsletters/index.html">Using Newsletters</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../using-omnia-feed/index.html">Using Omnia Feed</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../user-options/index.html">User options</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../setup/index.html">Setup</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../best-practice/index.html">Best Practice</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../accessability/index.html">Accessibility</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../cookies-consent-information/index.html">Cookies Consent information</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../release-notes/index.html">Release Notes</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../roadmap/index.html">In Development</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../contribute-to-doc/index.html">Contribute to this Documentation</a></li>
+</ul>
+
+            
+          
+        </div>
+        
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+
+      
+      <nav class="wy-nav-top" aria-label="top navigation">
+        
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="../../index.html">Omnia</a>
+        
+      </nav>
+
+
+      <div class="wy-nav-content">
+        
+        <div class="rst-content">
+        
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div role="navigation" aria-label="breadcrumbs navigation">
+
+  <ul class="wy-breadcrumbs">
+    
+      <li><a href="../../index.html" class="icon icon-home"></a> &raquo;</li>
+        
+          <li><a href="../index.html">Working with Documents</a> &raquo;</li>
+        
+      <li>Working with controlled documents in a publishing app</li>
+    
+    
+      <li class="wy-breadcrumbs-aside">
+        
+          
+            <a href="../../_sources/working-with-documents/controlled-documents-in-publapp/index.rst.txt" rel="nofollow"> View page source</a>
+          
+        
+      </li>
+    
+  </ul>
+
+  
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+            
+  <div class="section" id="working-with-controlled-documents-in-a-publishing-app">
+<h1>Working with controlled documents in a publishing app<a class="headerlink" href="#working-with-controlled-documents-in-a-publishing-app" title="Permalink to this headline">¶</a></h1>
+<p><strong>This page is beeing worked on. Will be finished soon.</strong></p>
+<p>In Omnia 6.12 and later it’s possible to work with controlled documents in a Publishing app. This is what is needed:</p>
+<ul class="simple">
+<li><p>A publishing layout for this purpose.</p></li>
+<li><p>Document picker categories set upp correctly.</p></li>
+<li><p>Document Management settings set up in the publishing app settings.</p></li>
+<li><p>A menu option for controlled documents in the page menu (publishing app settings).</p></li>
+</ul>
+<p>For more information see:</p>
+<ul class="simple">
+<li><p><a class="reference internal" href="../../admin-settings/business-group-settings/publishing-apps/publishing-65/layout/index.html"><span class="doc">Publishing Layouts</span></a></p></li>
+<li><p><a class="reference internal" href="../../admin-settings/business-group-settings/settings/document-picker/index.html"><span class="doc">Document Picker settings</span></a></p></li>
+<li><p><a class="reference internal" href="../../pages/page-settings/publishing-app-settings-612/index.html"><span class="doc">Publishing App settings</span></a></p></li>
+</ul>
+<p>Here’s an example with a layout for controlled documents:</p>
+<img alt="../../_images/controlled-documents-app.png" src="../../_images/controlled-documents-app.png" />
+<p>You use it the same way as is described for Controlled Documents.</p>
+</div>
+
+
+           </div>
+           
+          </div>
+          <footer>
+    <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
+        <a href="../../working-with-processes/index.html" class="btn btn-neutral float-right" title="Working with Processes" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right" aria-hidden="true"></span></a>
+        <a href="../using-the-document-wizard/index.html" class="btn btn-neutral float-left" title="Using the Create New Document Wizard" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left" aria-hidden="true"></span> Previous</a>
+    </div>
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>
+        &#169; Copyright 2022, Precio Fishbone.
+      <span class="lastupdated">
+        Last updated on Nov 25, 2022.
+      </span>
+
+    </p>
+  </div>
+    
+    
+    
+    Built with <a href="https://www.sphinx-doc.org/">Sphinx</a> using a
+    
+    <a href="https://github.com/readthedocs/sphinx_rtd_theme">theme</a>
+    
+    provided by <a href="https://readthedocs.org">Read the Docs</a>. 
+
+</footer>
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+  
+
+  <script type="text/javascript">
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script>
+
+  
+  
+    
+   
+
+</body>
+</html>

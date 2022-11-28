@@ -1,7 +1,7 @@
 Creating a Document Template with Place Holders
 ================================================
 
-A document property place holder starts with [[ and ends with ]] and can be placed anywhere inside a DOCX document or within the header/footer of an XLSX document. Place holders support any document property. 
+A document property place holder starts with [[ and ends with ]] and can be placed anywhere inside a DOCX document or within the header/footer of an XLSX document. Place holders support any document property. In Omnia 6.12, placeholders can be used in PowerPoint documents as well.
 
 .. note:: In a template you probably want the published copy of the template to include the placeholders. To ensure that the placeholders are not replaced by document properties on the template, you need to escape the placeholders using the character “\\”. An escaped placeholder would look like this:
 

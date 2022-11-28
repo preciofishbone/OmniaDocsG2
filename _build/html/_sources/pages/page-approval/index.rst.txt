@@ -15,7 +15,7 @@ Setting up approval
 *********************
 Do the following to set up approval:
 
-1. Go to the Page Collection settings in question (see the sections about settings for approval on this page: :doc:`Page Collections </pages/page-collections/index>`). 
+1. Go to the Page Collection settings in question (see the sections about settings for approval on this page: :doc:`Page Collection settings </pages/page-collections/page-collection-settings/index>`. 
 2. Select SETTINGS.
 3. Select "Enable Approval" and choose how approval will be executed.
 

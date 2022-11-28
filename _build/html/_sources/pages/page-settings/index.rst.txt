@@ -3,23 +3,27 @@ Publishing App settings
 
 A number of Publishing App settings are available. You have to be Publishing App administrator to use them.
 
+This page describes the settings for Omnia 6.11 and earlier. For Omnia 6.12,see: :doc:`Publishing App settings in 6.12 </pages/page-settings/publishing-app-settings-612/index>`
+
 Open the Publishing App settings by clicking here:
 
-.. image:: page-settings-new2.png
+.. image:: page-settings-new.png
 
 General 
 *********
-Here you can set what is shown for your pubishing app in listings:
+The following settings are available here (as an example):
 
-.. image:: page-settings-general-new7.png
+.. image:: page-settings-general-new.png
 
-You use the Media Picker to add or change the image. For more information on how to use this asset, see: :doc:`Media Picker </general-assets/media-picker/index>`
++ **Title**: Add the title to be displayed for the publishing app here. 
++ **Description**: Add a description if you wish (recommended).
++ (Image): You use the Media Picker to add or change the image. For more information on how to use this asset, see: :doc:`Media Picker </general-assets/media-picker/index>`
 
 Permissions
 ************
 Use these settings to Edit permissions in the Publishing App. 
 
-.. image:: page-settings-permissions-new5.png
+.. image:: page-settings-permissions-612.png
 
 + **Allow Mobile Login**: This setting is intended to offer login to certain parts of Omnia for first line workers, partners and similar. The user needs the Kaizala app and a viable account. If you see the label "Kaizala login" somewhere, it's the same thing. **Note!** Mobile Login/Kaizala login is not available in Omnia on-prem.
 + **Administrators**: Add and remove Publishing App administrators here as needed.
@@ -38,7 +42,7 @@ Here you set up the Page Variations that should be possible to use in the Publis
 
 A variation can also be set up for Automatic Machine Translation, see below. (Not available in Omnia on-prem).
 
-It's also possible to add one variation author for each variation.
+It's also possible to add one variation author for each variation. Here's an example with a number of variations set up:
 
 .. image:: page-settings-variations-new6.png
 
@@ -62,7 +66,7 @@ Do the following to create a new variation (you have to scroll down to the end o
 
 2. Use the following settings:
 
-.. image:: variations-new6.png
+.. image:: variations-612.png
 
 + **Title**: Add a title for the variation to be shown in the lists, for example the list where users can select variation. If needed, the title can be added in any or all of the languages set up in the tenant. Click the flag to change language.
 + **Icon Type**: If you want show an icon for the variation, select Icon Type here, for excample "Flags".
@@ -136,16 +140,16 @@ Advanced
 **********
 Here you can edit these settings:
 
-.. image:: page-settings-advanced.png
+.. image:: page-settings-advanced-1.png
+
+All settings are not shown in the image but described below.
 
 + **Default Page Collection**: The default Page Collection for the page can be set here.
 + **Allow reuse content**: If it should be allowed to resuse content within the Publisging App, activate "Enable Reuse Content". For more information about how to reuse content, see: :doc:`Reusable Content </pages/reusable-content/index>`
 + **Connected Sharepoint Site**: The address to the Sharepoint Site is shown here.
-+ **Documents**: If it should be possible to work with Controlled Documents in this Publishing App, select a layout created for this purpose here. Such layouts are created and edited in Omnia Admin under Layouts for Publishing. When a layout has been selected here, a new option is available in the page navigation menu. See example below.
 + **Contact Property**: Select the property used to store information about the user being page contact.
 + **Review Date Property**: Select the property used to store information about review date for pages.
-
-For more information about layouts for publishing, see this page: :doc:`Publishing Layouts </admin-settings/business-group-settings/publishing-apps/publishing-65/layout/index>`
++ **Documents**: If it should be possible to work with Controlled Documents in this Publishing App, select a layout created for this purpose here. Such layouts are created and edited in Omnia Admin under Layouts for Publishing. When a layout has been selected here, a new option is available in the page navigation menu. See example below.
 
 When it's possible to work with controlled documents in this publishing app, it's done by selecting this menu option:
 

@@ -71,7 +71,7 @@ When a scheduled publishing has been set it's noted by the publishing button, no
 
 .. image:: publish-schedule.png
 
-The settings for Scheduled Publishing are described on this page: :doc:`Page Collections </pages/page-collections/index>`
+The settings for Scheduled Publishing are described on this page: :doc:`Page Collection settings </pages/page-collections/page-collection-settings/index>`
 
 Scheduled Publishing and Variations
 --------------------------------------
