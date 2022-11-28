@@ -9,7 +9,7 @@ Whenever a user searches on any of the keywords of a Promoted Search Result, it 
 
 In Omnia 6.12 and later, promoted search results can also be displayed in Quick Search. Here's an example:
 
-.. image:: promoted-search-results-quick.png
+.. image:: promoted-search-results-quick-new.png
 
 You decide to enable/disable promoted search results in the settings for Advanced Search and for Quick Search, respectively.
 
