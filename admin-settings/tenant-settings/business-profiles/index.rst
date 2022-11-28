@@ -9,7 +9,7 @@ When adding and editing settings for a specific Business Profile, you must first
 
 .. image:: business-profile-settings-new3.png
 
-Use the icns this way: the left-most icon to edit App Route, if applicable; the pen to edit the title and a few more settings; the dust bin to delete the Business Profile.
+Use the icons this way: the left-most icon to edit App Route, if applicable; the pen to edit the title and a few more settings; the dust bin to delete the Business Profile.
 
 For descriptions of the Business Profile settings, see: :doc:`Business Profile settings </admin-settings/business-group-settings/index>`
 
