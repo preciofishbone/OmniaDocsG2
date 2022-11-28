@@ -10,7 +10,7 @@ In Omnia 6.12 and later, you can use these settings:
 + **Hide Categories**: If categories should not be shown for users, select this option.
 + **Enable Promoted Search Results**: If it should be possible to see a promoted search result, select this option. Default=selected. For more information, see below.
 + **Enable Search Feedback**: If it should be possible for users to send feedback on an advanced search result, select this option. For more information, see below.
-+ **Enable Spelling Suggestions**: Select this option to display spelling suggestions in Advanced Search, when users type in the search field. It's the same functionality that Microsoft 365 has. 
++ **Enable Spelling Suggestions**: Select this option to display spelling suggestions in Advanced Search, when users type in the search field. It's the same functionality that Microsoft 365 has. Must be activated in Omnia Admin for the option to show up.
 + **Number of Result Columns**: Set the number of columns for the search result here.
 + **Refiner Position**: Select where the Refiners will be placed - Left or Right.
 + **Refiners collapsed by default**: Per default, just the headings for the refiners are displayed. If all all options for the refiners always should be shown, select this option. 
@@ -88,7 +88,7 @@ You can set a default value for date refiners, if needed, to filter out old docu
 
 .. image:: refiner-default-slider.png
 
-4. Save the changes
+4. Save the changes.
 
 Promoted search results
 *************************

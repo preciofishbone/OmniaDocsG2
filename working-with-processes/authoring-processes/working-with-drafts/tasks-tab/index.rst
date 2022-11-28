@@ -16,3 +16,9 @@ To move a task, drag the icon to the far right to the desired position.
 .. image:: pm-tasks-organize.png
 
 To edit a task, click the pen, to delete it, click the dust bin.
+
+Assigning tasks to colleagues
+*******************************
+In Omnia 6.12 it can be possible to assing tasks to colleagues using Microsoft Planner, if the process is being accessed through Microsoft Teams. A layout for use with  Teams must be created for this purpose.
+
+

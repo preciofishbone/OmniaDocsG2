@@ -32,15 +32,25 @@ In Omnia 6.12 and later, tokens can be used in the search category queries. Toke
 
 Examples of tokens that can be used:
 
-+ {User.Id}
-+ {User.Name}
-+ {User.Email}
-+ {User.Language}
-+ {SPSite.Id}
-+ {SPSite.FullUrl}
-+ {Page.Id}
-+ {Page.SPPath} - to get the full url to the folder where the page is located in Site Pages.
-+ {Variation.Segment}
++ {User.Id} - Logged in user's login id (usually email).
++ {User.Name} - Logged in user's display name.
++ {User.Email} - Logged in user's email.
++ {User.Language} - User selected language as ISO language code.
++ {SPSite.Id} - SharePoint id for the current site.
++ {SPSite.FullUrl} - Communication url of the current Omnia page.
++ {Page.Id} - Id of the SharePoint folder.
++ {Page.SPPath} - Full url to the folder where the page is located in Site Pages. Example: (Path:{Page.SPPath}).
++ {Variation.Segment} - Url segment of the current variation.
++ {TargetingProperty.InternalName} - TermID of matching property of current user.
++ {AppInstance.InternalName} - TermID of matching property of current user.
+
+Some examples of how the tokens can be used:
+
+To search this site: Path:{SPSite.FullUrl}*
+
+To search PDF:s in my department: FileType:pdf AND RefinableString110:{TargetingProperty.Department}
+
+To search pages in my language: FileType:aspx AND OmniaVariationSegmentOWSTEXT:{Variation.Segment}
 
 Search Templates
 *********************
