@@ -15,7 +15,7 @@ You decide to enable/disable promoted search results in the settings for Advance
 
 You create a list of promoted search result to be used for both Advanced Search and Quick Search. Here's an example:
 
-.. image:: promoted-search-results-list.png
+.. image:: promoted-search-results-list-new.png
 
 To edit, click the pen. To delete, click the dust bin.
 
@@ -27,7 +27,7 @@ Do the following:
 
 1. Click the plus.
 
-.. image:: promoted-search-results-clickplus.png
+.. image:: promoted-search-results-clickplus-new.png
 
 2. Use the following settings:
 
