@@ -17,6 +17,8 @@ A list of promoted search can be:
 
 .. image:: promoted-search-results-list.png
 
+The settings works the same for Advanced Search and Quick Search.
+
 To edit, click the pen. To delete, click the dust bin.
 
 When you edit a promoted search result, the same settings are available as when creating a new one, see below.
