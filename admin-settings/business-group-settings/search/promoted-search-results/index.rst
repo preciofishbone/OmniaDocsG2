@@ -13,11 +13,9 @@ In Omnia 6.12 and later, promoted search results can also be displayed in Quick 
 
 You decide to enable/disable promoted search results in the settings for Advanced Search and for Quick Search, respectively.
 
-A list of promoted search can be:
+You create a list of promoted search result to be used for both Advanced Search and Quick Search. Here's an example:
 
 .. image:: promoted-search-results-list.png
-
-The settings works the same for Advanced Search and Quick Search.
 
 To edit, click the pen. To delete, click the dust bin.
 
