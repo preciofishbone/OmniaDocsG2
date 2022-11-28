@@ -3,7 +3,11 @@ Dashboard
 
 **This page is being edited. Will be finished soon**.
 
-Here you can see dashboard information on several aspects of your tenant. Heres an example on what can be shown for Usage:
+Here you can see dashboard information on several aspects of your tenant. 
+
+There's also a Metrics block available, which you can use to display various dashboard/metric information on any Omnia page. See this page for more information: :doc:`The Metrics block </blocks/metrics/index>`
+
+Heres an example on what can be shown for Usage here:
 
 .. image:: dashboard-new2.png
 
