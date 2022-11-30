@@ -1,7 +1,7 @@
 Metrics block
 ================
 
-This block can be used on a page to display data about either Teamwork, Pages or Activity.
+This block is used when setting upp the Dashboard in Omnia A dmin, and can be used on any Omnia page to display data about either Teamwork, Pages or Activity.
 
 On this page, the options in Omnia 6.11 and earlier are described. See this page for the options in Omnia 6.12 and later: :doc:`´The Metrics block in Omnia 6.12 </blocks/metrics-block-612/index>`
 
