@@ -1,49 +1,16 @@
 Dashboard
 ===========
 
-Here tenant administrators can see dashboard information on several aspects of your tenant. 
+Here you can build the Dashboard to your needs. You set up the Dashboard much like you would do a page type. Most sections and blocks can be used.
 
-There's also a Metrics block available, which you can use to display various dashboard/metric information on any Omnia page. See this page for more information: :doc:`The Metrics block </blocks/metrics/index>`
+.. image:: dashboard-new.png
 
-Heres an example on what can be shown for Usage here:
+As you would a page type, the first step is to add the layout, using sections. See this page for more information: :doc:`Working with section and blocks </pages/page-types/working-with-sections-and-blocks/index>`
 
-.. image:: dashboard-new2.png
+You then add the blocks you need. All available blocks are listed on this page: :doc:`Blocks </blocks/index>`
 
-What is to be considered active readers and active contributors are set in the Metrics settings. See this page for more information: :doc:`Metrics settings </admin-settings/tenant-settings/settings/metrics/index>`
+The Metrics block can be especially useful: :doc:`The Metrics block </blocks/metrics/index>`
 
-Under Page Status, the following can be availble:
+You can also edit some of the metrics settings, in Omnia Admin, see: :doc:`Metric settings </admin-settings/tenant-settings/settings/metrics/index>`
 
-.. image:: admin-dashboard-page-status-new2.png
-
-A number of tabs can be available. What you see in the example is the total status for the tenant. You can choose to see status for just one of the publishing apps. 
-Besides that, a number of lists can be set up; Most Visited (All), Most Visited (Last month), Underused Pages and Statistics.
-
-.. image:: admin-dashboard-page-status-lists.png
-
-For Underused Pges, something like the following can be shown:
-
-.. image:: admin-dashboard-underused-pages.png
-
-What should be considered underused content is defined in the Metrics settings, see link above.
-
-Note the list to the right, of pages that has not been vsitied for a very long time. For more information on the lists, see below.
-
-For News, this has been set up:
-
-.. image:: admin-dashboard-news.png
-
-Besided Status for news pages, a number of lists is available; Reach, Most Visited (Last month), Most Commented (Last month), Most Liked (Last month) and Statsitics:
-
-.. image:: admin-dashboard-news-lists.png
-
-Regarding Reach: How well we reach our target audience based on what we expect. (More information about this will be added soon).
-
-For Teamwork, you can see the number of active teamworks and if any has been created this week or this month:
-
-.. image:: admin-dashboard-teamwork-new.png
-
-In the image above, status for all Teamwork Templates are shown. You can also choose to see the status for just one of the templates, meaning all teamworks created from a certain template.
-
-Finally, in this example, status for searches made by users can be shown:
-
-.. image:: admin-dashboard-search.png
+For an implementation example, see this page: :doc:`Dashboard implementation example </admin-settings/tenant-settings/dashboard/dashboard-implementation/index>`
