@@ -15,8 +15,8 @@ Under Page Status, the following can be availble:
 
 .. image:: admin-dashboard-page-status-new2.png
 
-A number of tabs are available. What you see in the example is the total status for the tenant. You can choose to see status for just one of the publishing apps. 
-Besides that number of lists has been set up; Most Visited (All), Most Visited (Last month), Underused Pages and Statistics.
+A number of tabs can be available. What you see in the example is the total status for the tenant. You can choose to see status for just one of the publishing apps. 
+Besides that, a number of lists can be set up; Most Visited (All), Most Visited (Last month), Underused Pages and Statistics.
 
 .. image:: admin-dashboard-page-status-lists.png
 
@@ -26,7 +26,7 @@ For Underused Pges, something like the following can be shown:
 
 What should be considered underused content is defined in the Metrics settings, see link above.
 
-Note the list to the right, of pages that has npt been vsitied for a very long time. For more information on the lists, see below.
+Note the list to the right, of pages that has not been vsitied for a very long time. For more information on the lists, see below.
 
 For News, this has been set up:
 
@@ -36,7 +36,7 @@ Besided Status for news pages, a number of lists is available; Reach, Most Visit
 
 .. image:: admin-dashboard-news-lists.png
 
-Regarding Reach: How well we reach our target audience based on what we expect. The metric can be configured to a specific scope of pages (for example News pages) and have a target number of users. For nmore information on the lists, see below.
+Regarding Reach: How well we reach our target audience based on what we expect. (More information about this will be added soon).
 
 For Teamwork, you can see the number of active teamworks and if any has been created this week or this month:
 
