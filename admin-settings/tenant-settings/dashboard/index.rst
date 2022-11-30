@@ -1,7 +1,7 @@
 Dashboard
 ===========
 
-Here you can build the Dashboard to your needs. You set up the Dashboard much like you would do a page type. Most sections and blocks can be used.
+Here you can build the Admin Dashboard to your needs, to display dashboard information on many different aspects of the tenant. You set up the Dashboard much like you would do a page type. Most sections and blocks can be used.
 
 .. image:: dashboard-new.png
 
