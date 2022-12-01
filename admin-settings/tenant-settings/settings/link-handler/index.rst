@@ -9,7 +9,7 @@ A description of how to use the fields are found by clicking SETUP GUIDE.
 
 .. image:: link-handler-tenant-setup-guide.png
 
-To setup additional rules, click here:
+To set up additional rules, click here:
 
 .. image:: link-handler-tenant-new-rule.png
 
