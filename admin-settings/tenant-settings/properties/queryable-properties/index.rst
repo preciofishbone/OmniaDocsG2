@@ -13,9 +13,9 @@ In these lists, you add Properties that should be queryable in Omnias database. 
 
 To be available here, a property must first be added to Enterprise Properties. 
 
-The lists are handled the same way, App Instances as an example.
+The lists are handled the same way. Here's part of the list for App Instances as an example:
 
-.. image:: queryable-app-instances.png
+.. image:: queryable-app-instances-new.png
 
 To remove a Poperty from this list, click the dust bin.
 
