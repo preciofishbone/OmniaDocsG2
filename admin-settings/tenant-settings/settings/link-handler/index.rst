@@ -1,4 +1,4 @@
-Link Handler (Tenant Setting)
+Link Handler
 ===============================
 
 The following settings are available here:
