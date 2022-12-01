@@ -46,8 +46,8 @@ Available settings depend on type of property. Here's some common examples:
 
 8. When you're finished, click "Save".
 
-Edit a Property Set
-*********************
+Edit or delete a Property Set
+***********************************
 To edit a Property Set, click the pen. To delete a Property Set, click the dust bin.
 
 .. image:: property-set-edit-list-v6.png
