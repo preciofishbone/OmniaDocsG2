@@ -1,8 +1,6 @@
 Features - Tenant
 =====================
 
-**This page is being updated. Will be finished soon.**
-
 All available Features for the Tenant is listed here and can be activated, deactivated and updated when needed. 
 
 Exactly what is available can differ depending on how the Tenant is set up and the version of Omnia. The images below is from Omnia 6.12.
@@ -19,9 +17,9 @@ Here you can activate, remove or upgrade the Omnia Add-ons.
 + **Info Screen**: Activates functionality for sending selected Omnia pages to general or public screens.
 + **Event Management**: Activates the extensive functionality for Omnia Event Management in the tenant. 
 + **Handle Open Documents Link Mobile Browser**: (A description will be added soon).
-+ **Documents Link Handler**: Activates the link handler functionality. (More info will be added soon).
++ **Documents Link Handler**: Activates the link handler functionality for documents. Settings are then available through "Link Handler" under "Settings" for the tenant.
 + **Process Management**: Activates the extensive Omnia Process Management functionality in the tenant.
-+ **Rules Link Handler**: (A description will be added soon).
++ **Rules Link Handler**: Activates the link rules handler functionality. Settings are then available through "Link Handler" under "Settings" for the tenant.
 + **Digital Signage**: Activates the options for digital signage in the the tenant.
 + **Communities**: Activates the extensive functionality for Omnia Communities in the tenant.
 
