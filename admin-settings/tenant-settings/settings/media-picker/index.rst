@@ -52,7 +52,7 @@ Set the crop ratios that should be available in Media Picker.
 
 Click the pen to edit a crop ratio, or the dust bin to delete it.
 
-The default ratios (Landscape, Square, Portrait, Wide) can not be deleted. They can be editd, but ratios can not be chenged. For available settings that can be edited, see below.
+The default ratios (Landscape, Square, Portrait, Wide) can not be deleted. They can be editd, but ratios can not be changed. For available settings that can be edited, see below.
 
 Create a new Crop Ratio
 -------------------------
