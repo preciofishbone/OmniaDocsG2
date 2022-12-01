@@ -15,7 +15,7 @@ To be available here, a property must first be added to Enterprise Properties.
 
 The lists are handled the same way. Here's part of the list for App Instances as an example:
 
-.. image:: queryable-app-instances-new.png
+.. image:: queryable-app-instances-612.png
 
 To remove a Poperty from this list, click the dust bin.
 
