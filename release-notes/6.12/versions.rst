@@ -79,6 +79,10 @@ Web Content Management
 -	QR codes also supported in Digital Signage HTML views.
 - 	Calendar rollup now correctly respects the UI item limit setting (#140246).
 -	HTML tables should now keep their style and position when processed by machine translation.
+- Tags have been improved, they can now be added directly in the RTF editor. 
+- Page rollup card view now has explicit settings for where on the card to show different metadata.
+- Creating App/Teamwork in dialog mode now renders correctly (#141474).
+- 
 
 
 
@@ -88,6 +92,7 @@ Search and People Rollup
 -	Corrected an issue where the search dialog would not close correctly on navigate (#139364, #140210). 
 -	Spelling suggestions are now available for searching (#116122, #116114, #126845).
 -	Search queries can now use a number of tokens to combine user properties, user language, page properties and app instance properties into intelligent search queries (#115142, #115263, #120230)
+- Document Rollup and People Rollup can now use a number of tokens to combine user properties, user language, page properties and app instance properties into intelligent search queries.
 -	Search statistics are now available in omnia admin, see main release notes.
 -	Fixed a race condition that would sometimes cause the previous search result to be rendered (#137980).
 -	Shared Links item template now includes description and has aligned its look and feel with other views.
