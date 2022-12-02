@@ -82,7 +82,7 @@ Web Content Management
 - Tags have been improved, they can now be added directly in the RTF editor. 
 - Page rollup card view now has explicit settings for where on the card to show different metadata.
 - Creating App/Teamwork in dialog mode now renders correctly (#141474).
-- 
+- Sort in page rollup now works as expected when querying by navigation path.
 
 
 
@@ -117,10 +117,13 @@ Teamwork and Workplace
 -	Added correct validation of length of title and alias when creating teamwork (#140627).
 -	Security on App level has been removed from Omnia Admin; it is no longer needed.
 -	Corrected an issue with Announcement emails, they now replace tokens correctly.
--	App Instance properties can now be shown/hidden per property in new and edit forms respectively (#123637).
+-	App Instance properties can now be shown/hidden per property in new and edit forms respectively (#123637, #118788).
 -	Images can now be attached on a post in the posts block.
 - 	Team News Rollup now supports more news image thumbnails. 
 -	The teamwork rollup can now open the associated omnia layout instead of the teamwork resource itself.
+- Updated email template on comments for important announcements. Title token now works as expected.
+- Teamwork title and Alias now correctly validates max length that is enforced by Microsoft (#131843, #142447).
+- Updated the way we set members in the teamwork creation wizard for better compatibility with MS Teams (#141688).
 
 
 
@@ -160,4 +163,6 @@ WCAG
 -	The tabs section now supports keyboard controls.
 - Improved keyboard controls for the advanced search.
 - Added alt text to the placeholder image in the page rollup.
+
+Also fixes preview issues: #142201, #142533, #142203, #142204
 
