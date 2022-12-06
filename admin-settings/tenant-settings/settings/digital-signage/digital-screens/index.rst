@@ -1,7 +1,7 @@
 Screens (Digital Signage)
 =====================================
 
-Here you set up the dfferent screens you're using and select the settings suitable for each.
+Here you set up the different screens you're using and select the settings suitable for each.
 
 The first you see is the list of Screens that has been created so far, for example:
 
