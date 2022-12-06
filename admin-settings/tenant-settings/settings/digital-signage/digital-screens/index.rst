@@ -23,7 +23,7 @@ To add a new sreen, do the following:
 1. Click the plus.
 2. Use the folllowing settings:
 
-.. image:: page-screens-settings.png
+.. image:: page-screens-settings-612.png
 
 + **Title**: Add a title for the screen. Not shown for users.
 + **Screen Id**: Here you can add an internal, unique name/id for the screen.
