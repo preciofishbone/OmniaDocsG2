@@ -7,7 +7,7 @@ The first you see is the list of Screens that has been created so far, for examp
 
 .. image:: page-screens-list.png
 
-Use the icons to (from left to roght):
+Use the icons to (from left to right):
 
 + Show the Url for the screen.
 + Launch a preview.
