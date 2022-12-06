@@ -5,7 +5,7 @@ The following options are available for Digital Signage. This functionality repl
 
 Prerequisite: the feature Digital Signage must be activated.
 
-.. image:: digital-signage-all-new.png
+.. image:: digital-signage-all-612.png
 
 Select option for more information:
 
