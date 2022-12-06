@@ -5,7 +5,7 @@ Here you set up the different screens you're using and select the settings suita
 
 The first you see is the list of Screens that has been created so far, for example:
 
-.. image:: page-screens-list.png
+.. image:: page-screens-list-612.png
 
 Use the icons to (from left to right):
 
@@ -26,9 +26,15 @@ To add a new sreen, do the following:
 .. image:: page-screens-settings.png
 
 + **Title**: Add a title for the screen. Not shown for users.
-+ **Screen Key**: Here you can add an internal, unique name/id for the screen.
-+ **JSON/HTML**: Set if view settings used for this screen is JSON or HTML.
++ **Screen Id**: Here you can add an internal, unique name/id for the screen.
++ **Page Query**: Select one of the page queries that has been set up.
++ **JSON/HTML**: Select if view settings used for this screen is JSON or HTML.
 + **JSON View/HTML View**: Select the view to use for this screen.
 
-JSON views/HTML views are set up using the options in the main Digital Signage menu.
+For more information, see:
 
++ :doc:`Page Queries </admin-settings/tenant-settings/settings/digital-signage/digital-page-queries/index>`
+
++ :doc:`View as JSON </admin-settings/tenant-settings/settings/digital-signage/digital-views-as-json/index>`
+
++ :doc:`View as HTML </admin-settings/tenant-settings/settings/digital-signage/digital-views-as-html/index>`
