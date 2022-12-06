@@ -1,8 +1,6 @@
 View as HTML in Omnia 6.12
 ===================================
 
-**This page is being edited. Will be finished soon.**
-
 The first you see is the list of views that has been created so far (just one in this example):
 
 .. image:: page-view-html-list-612-border.png
