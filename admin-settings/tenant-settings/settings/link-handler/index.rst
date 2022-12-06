@@ -1,6 +1,8 @@
 Link Handler
 ===============================
 
+Prerequisite: the features Documents Link Handler and Rules Link Handler must be activated.
+
 The following settings are available here:
 
 .. image:: link-handler-tenant.png
