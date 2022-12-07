@@ -58,8 +58,8 @@ Here you handle settings for review reminder.
 + **Review Reminder**: Select this option if a review reminder should be sent for the process. If this option is selected, you must also set the following:
 + *Time after publishing*: You can set how often a review reminder should be sent, in one of two ways. Here you can set a time span - a number of days, months or years.
 + *Property*: You can set how often a review reminder should be sent, in one of two ways. Here you can set a property for that purpose, a property a process author will fill in - a specific date or a specific retention date.
-+ **Send reminder in advance**: The reminder can be sent a number of days, months or years before the decided revision date. Set how far in advance it will be sent here.
-+ **Review Reminder Recipients**: Select which role will recieve the reminders.
++ *Send reminder in advance*: The reminder can be sent a number of days, months or years before the decided revision date. Set how far in advance it will be sent here.
++ *Review Reminder Recipients*: Select which role will recieve the reminders.
 + **Create Task**: A review reminder is always sent by e-mail. If a task should be created as well, select this option, and the then set the following:
 + *(Top list)*: Shown when "Create Task" is selected. Use the top list to set which role the task will be created for.
 + *Task expire in*: Shown when "Create Task" is selected. Set a number od days, months or years for when the task will expire (the task will still be available, but marked as expired).
