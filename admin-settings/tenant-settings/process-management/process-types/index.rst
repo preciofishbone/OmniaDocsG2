@@ -14,9 +14,11 @@ Creating a new Process Type
 
 .. image:: process-type-create-new.png
 
+Use the following settings:
+
 General
 --------
-3. Use the following settings:
+These settings are available here.
 
 .. image:: process-type-settings-general-new2.png
 
@@ -25,11 +27,11 @@ General
 + **Process Templates**: Select one or more process templates for the process author to choose from.
 + **Default Process Template**: If you selected more than one you can also set which of the process templates that should be pre selected.
 
-4. Save when you're done.
+Save when you're done here.
 
 Publish
 ---------
-5. Set how publishing of the process should work.
+Here you decide how publishing of the process should work.
 
 .. image:: process-type-settings-publish-new.png
 
@@ -44,11 +46,11 @@ Publish
 + **Term-driven**: Authors can select approvers from a defined list only. Which approvers will be available depends on the Properties selected for the process. You select the term(s) here. When you have selected one or more terms you can use the cogwheel to set approvers for individual terms in the set.
 + **Based on person property**: You select one of the person properties defined, for example Process owner.
 
-6. Save when you're done.
+Save when you're done here.
 
 Review
 -------
-7. Here you handle settings for review reminder.
+Here you handle settings for review reminder.
 
 .. image:: process-type-settings-review-new.png
 
@@ -62,7 +64,7 @@ Review
 + *(Top list)*: Shown when "Create Task" is selected. Use the top list to set which role the task will be created for.
 + *Task expire in*: Shown when "Create Task" is selected. Set a number od days, months or years for when the task will expire (the task will still be available, but marked as expired).
 
-8. Save when you're done with the settings here.
+Save when you're done with the settings here.
 
 Archive
 ----------
@@ -72,7 +74,7 @@ Here you set if archiving should be available for the process. If you select thi
 
 If archiving is selected, a copy of the process is placed in the archive when a published process is unpublished. 
 
-9. Save when you're done with all settings.
+Save when you're done with all settings.
 
 Editing a Process Type
 ************************
