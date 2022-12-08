@@ -1,6 +1,12 @@
-6.11.42
+6.11.45
 ========================================
-(Omnia 6.11.42 / Workplace 6.11.24 / WCM 6.11.39 / MS 6.11.25)
+(Omnia 6.11.45 / Workplace 6.11.24 / WCM 6.11.39 / MS 6.11.25)
+
+- Fixes to term picker to better support large termsets (#143089).
+
+6.11.44
+========================================
+(Omnia 6.11.44 / Workplace 6.11.24 / WCM 6.11.42 / MS 6.11.25)
 
 - Added dirty checking on channel editor interface. Also fixes (#142003).
 - Improved loading speed of images in Process management (#140124).
@@ -20,6 +26,7 @@
 - The related links page picker now works as expected when having many pages (#142356).
 - SharePoint Reindex now works with the delete option together with +5000 pages (#142356).
 - Stack processes now highlight correctly.
+- Updated edit teamwork flow to correctly ensure administrators (#142581).
 
 
 6.11.33
