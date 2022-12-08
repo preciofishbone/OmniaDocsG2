@@ -19,9 +19,9 @@ Use the following settings:
 
 General
 ----------
-Here you add a Title for the Process Template, in any or all languages available in the tenant. Default language is mandatory.
+Here you add a Title for the Process Template, in any or all languages available in the tenant. Default language is mandatory. (Click the flag to change language).
 
-.. image:: process-templates-general-new.png
+.. image:: process-templates-general-612.png
 
 Shapes
 --------
@@ -31,6 +31,16 @@ Use this tab to add the shapes that should be available to the process author wh
 
 To make things easier for the author, you can add headings to group the shapes.
 
+Add Heading
+---------------
+1. To add a heading, click "ADD HEADING".
+
+.. image:: process-templates-heading-add-new.png
+
+You can then add a heading in any of the available languages. Default language is mandatory. (Click the flag to change language).
+
+.. image:: process-templates-heading-language-612.png
+
 Add Shape
 -----------
 1. To add a shape, click "ADD SHAPE".
@@ -39,31 +49,21 @@ Add Shape
 
 Use the top list to select the shape to add.
 
-.. image:: process-templates-shapes-select.png
+.. image:: process-templates-shapes-select-612.png
 
 Then use the following settings:
 
-.. image:: process-templates-shapes-add-settings-new.png
+.. image:: process-templates-shapes-add-settings-612.png
 
-+ **Title**: The Title for the shape is shown. You can edit the Title here, if needed, for the purpose of this Process Template. You can add a title in any or all available languages. Default language for the tenant os mandatory.
++ **Title**: The Title for the shape is shown. You can edit the Title here, if needed, for the purpose of this Process Template. You can add a title in any or all available languages. Default language for the tenant os mandatory. (Click the flag to change language).
 + **Width/Height**: Default width and height is 100 pixels. You can can edit the width and height is needed.
 + **Text Position**: Decide where to place to text (if any) for the shape: "On Shape", "Above Shape" or "Below Shape".
 + **Text Alignment"**: Decide how to align the text (if any): "Left", "Center" or "Right".
 + **Font Size**: Set the font size for the text here. Default is 20 pixels.
-+ **Text Adjustment**: Use the arrows to adjust the text. The middle icon is for centering the text on the shape.
++ **Text Adjustment**: Use the arrows to adjust the text. The symbol in the middle is for centering the text on the shape.
 + **Colors**: You can set colors for background, border and text - and when the shape is selected, not selected or when the mouse hovers over the shape.
 
 2. Click "OK" to to add the shape or "CANCEL" if you don't want to.
-
-Add Heading
----------------
-1. To add a heading, click "ADD HEADING".
-
-.. image:: process-templates-heading-add-new.png
-
-You can then add a heading in any of the available languages. Default language is mandatory.
-
-.. image:: process-templates-heading-language.png
 
 Allowing authors to add shapes
 -------------------------------
