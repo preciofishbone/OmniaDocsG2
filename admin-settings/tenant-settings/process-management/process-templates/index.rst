@@ -1,9 +1,9 @@
 Process Templates
 ===================
 
-A Process Template is a set of shapes. One or more Process Templates can be added to a Process Type.
+A process template is a set of shapes. One or more process templates can be added to a process type.
 
-Click the pen to edit a Process Template or the dust bin to delete it.
+Click the pen to edit a process template or the dust bin to delete it.
 
 .. image:: process-templates-edit-delete-new.png
 
@@ -19,7 +19,7 @@ Use the following settings:
 
 General
 ----------
-Here you add a Title for the Process Template, in any or all languages available in the tenant. Default language is mandatory. (Click the flag to change language).
+Here you add a title for the process template, in any or all languages available in the tenant. Default language is mandatory. (Click the flag to change language).
 
 .. image:: process-templates-general-612.png
 
@@ -33,7 +33,7 @@ To make things easier for the author, you can add headings to group the shapes.
 
 Add Heading
 ---------------
-1. To add a heading, click "ADD HEADING".
+1. To add a heading, click ADD HEADING.
 
 .. image:: process-templates-heading-add-new.png
 
@@ -43,7 +43,7 @@ You can then add a heading in any of the available languages. Default language i
 
 Add Shape
 -----------
-1. To add a shape, click "ADD SHAPE".
+1. To add a shape, click ADD SHAPE.
 
 .. image:: process-templates-shapes-add-new.png
 
@@ -55,7 +55,7 @@ Then use the following settings:
 
 .. image:: process-templates-shapes-add-settings-612.png
 
-+ **Title**: The Title for the shape is shown. You can edit the Title here, if needed, for the purpose of this Process Template. You can add a title in any or all available languages. Default language for the tenant os mandatory. (Click the flag to change language).
++ **Title**: The suggested title for the shape is shown. You can edit the title here, if needed, for the purpose of this process template. You can add a title in any or all available languages. Default language for the tenant os mandatory. (Click the flag to change language).
 + **Width/Height**: Default width and height is 100 pixels. You can can edit the width and height is needed.
 + **Text Position**: Decide where to place to text (if any) for the shape: "On Shape", "Above Shape" or "Below Shape".
 + **Text Alignment"**: Decide how to align the text (if any): "Left", "Center" or "Right".
@@ -63,19 +63,19 @@ Then use the following settings:
 + **Text Adjustment**: Use the arrows to adjust the text. The symbol in the middle is for centering the text on the shape.
 + **Colors**: You can set colors for background, border and text - and when the shape is selected, not selected or when the mouse hovers over the shape.
 
-2. Click "OK" to to add the shape or "CANCEL" if you don't want to.
+2. Click OK to to add the shape or CANCEL if you don't want to.
 
 Allowing authors to add shapes
 -------------------------------
-Note that you can allow authors to add new shapes even when using a Process Template.
+Note that you can allow authors to add new shapes even when using a process template.
 
 To make it possible for an author to draw shapes, select "Freeform" in the list.
 
-**Important Note!** If the author should be able to add clickable areas to a background image, the Process Template must contain Freeform.
+**Important Note!** If the author should be able to add clickable areas to a background image, the process template must contain Freeform.
 
 .. image:: process-templates-freeform-new.png
 
-**Tip!** If you add a Freeform shape intended for use for clickable areas on a background image, you should set the background colors to none, as such a Freeform shape will have to be transparent.
+**Tip!** If you add a freeform shape intended for use for clickable areas on a background image, you should set the background colors to none, as such a freeform shape will have to be transparent.
 
 To make it possible for an author to add images as shapes, select "Media" in the list.
 
@@ -89,9 +89,9 @@ If you would like the shapes and headings to be displayed in a certain order, us
 
 Edit or delete a shape
 -------------------------
-To edit the settings for a shape, click the pen. To delete a shape from the Process Templates, click the dust bin.
+To edit the settings for a shape, click the pen. To delete a shape from the process templates, click the dust bin.
 
 .. image:: process-templates-edit-delete-shape-new.png
 
-When editing a Process Template, all settings described above can be changed.
+When editing a process template, all settings described above can be changed.
 
