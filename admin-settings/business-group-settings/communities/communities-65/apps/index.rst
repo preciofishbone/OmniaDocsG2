@@ -27,9 +27,11 @@ If it should be needed to edit the App Route, click the icon and the following i
 
 Edit Permissions
 *****************
-If you need to add or remove Administrator(s) for an app, you do it here:
+If you need to add or remove administrator(s) or contributors for a community app, you do it here:
 
 .. image:: publishing-apps-app-premissions-community-611.png
+
+Contributor permissions is needed if colleagues should be able to add comments to community pages.
 
 Don't forget to save when you're done.
 
