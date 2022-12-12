@@ -49,7 +49,7 @@ If Approval for creation is activated for the template that is used when creatin
 
 The list can look like this:
 
-.. image:: community-pending-approval-612.png
+.. image:: community-pending-approval-611.png
 
 To approve or reject, click the link and browse the settings. And here you decide:
 
