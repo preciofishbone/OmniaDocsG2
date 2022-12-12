@@ -5,7 +5,7 @@ Within a Business Profile several Community Apps can be active for different set
 
 Here you will see a list of Community Apps in the Business Profile, for example:
 
-.. image:: communities-apps-611.png
+.. image:: communities-apps-612.png
 
 You can click the link to go to the app.
 
@@ -18,6 +18,8 @@ Use the icons this way:
 + The dust bin to delete a Community App.
 
 **Note!** To be able to delete a Community App, you must be App Administrator for the Community.
+
+If something goes wrong, as in the example above, you can click the red icon for som more information.
 
 Edit App Route
 *****************
@@ -40,8 +42,6 @@ Edit Features
 If it's needed to upgrade a feature for a Community App, you go here. You also go here to activate or remove a feature.
 
 .. image:: publishing-apps-app-features-community-611.png
-
-Note that available features are the same for all different types of apps. That's why "Project site" is available here, although it's most likely not applicable in a communities site.
 
 Pending Approval
 *****************
