@@ -45,7 +45,7 @@ Note that available features are the same for all different types of apps. That'
 
 Pending Approval
 *****************
-If Approval for creation is activated for the template, an administrator uses this list to work with approval or rejection.
+If Approval for creation is activated for the template that is used when creating a new communities app, an administrator uses this list to work with approval or rejection.
 
 The list can look like this:
 
