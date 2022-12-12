@@ -5,7 +5,7 @@ Within a Business Profile several Community Apps can be active for different set
 
 Here you will see a list of Community Apps in the Business Profile, for example:
 
-.. image:: communities-apps-611.png
+.. image:: communities-apps-612.png
 
 You can click the link to go to the app.
 
@@ -25,13 +25,13 @@ Edit App Route
 *****************
 If it should be needed to edit the App Route, click the icon and the following is shown:
 
-.. image:: publishing-apps-app-route-community-611.png
+.. image:: publishing-apps-app-route-community-612.png
 
 Edit Permissions
 *****************
 If you need to add or remove administrator(s) or contributors for a community app, you do it here:
 
-.. image:: publishing-apps-app-premissions-community-611.png
+.. image:: publishing-apps-app-premissions-community-612.png
 
 Contributor permissions is needed if colleagues should be able to add comments to community pages.
 
@@ -41,7 +41,7 @@ Edit Features
 **************
 If it's needed to upgrade a feature for a Community App, you go here. You also go here to activate or remove a feature.
 
-.. image:: publishing-apps-app-features-community-611.png
+.. image:: publishing-apps-app-features-community-612.png
 
 Pending Approval
 *****************
@@ -49,7 +49,7 @@ If Approval for creation is activated for the template that is used when creatin
 
 The list can look like this:
 
-.. image:: community-pending-approval-611.png
+.. image:: community-pending-approval-612.png
 
 To approve or reject, click the link and browse the settings. And here you decide:
 
