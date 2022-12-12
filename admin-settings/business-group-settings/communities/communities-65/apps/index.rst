@@ -5,7 +5,7 @@ Within a Business Profile several Community Apps can be active for different set
 
 Here you will see a list of Community Apps in the Business Profile, for example:
 
-.. image:: communities-apps-612.png
+.. image:: communities-apps-611.png
 
 You can click the link to go to the app.
 
