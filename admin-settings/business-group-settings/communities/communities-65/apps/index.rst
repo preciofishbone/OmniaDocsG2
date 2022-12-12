@@ -41,6 +41,8 @@ If it's needed to upgrade a feature for a Community App, you go here. You also g
 
 .. image:: publishing-apps-app-features-community-611.png
 
+Note that available features are the same for all different types of apps. That's why "Project site" is available here, although it's most likely not applicable in a communities site.
+
 Pending Approval
 *****************
 If Approval for creation is activated for the template, an administrator uses this list to work with approval or rejection.
