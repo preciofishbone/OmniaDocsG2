@@ -48,7 +48,7 @@ Saving a draft and publishing
 ---------------------------------
 Saving a draft, discarding changes and finally publishing the layout, works very similar to working with pages.
 
-.. image:: community-layout-saving-new.png
+.. image:: community-layout-saving.png
 
 For more information, see these pages:
 
