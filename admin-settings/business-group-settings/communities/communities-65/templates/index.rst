@@ -52,11 +52,11 @@ Setup
 -------
 Using the options here you can create one or more Page Collections to be set up automatically when this template is used, such as Knowledge Articles and Discussion. There's also some settings available.
 
-.. image:: community-edit-setup-new.png
+.. image:: community-edit-setup-new2.png
 
 To edit settings, click "Publishing App Settings" and use the following settings (can be edited later by a Publishing App Administrator for the Community):
 
-.. image:: community-edit-setup-settings.png
+.. image:: community-edit-setup-settings-new.png
 
 + **Enable Reuse Content**: If publishing apps created from this template should allow reuse of content, select this option. 
 + **Contact Property**: Select the default property for page contact.
