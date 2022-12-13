@@ -65,7 +65,7 @@ Do the following:
 
 1. Click the plus.
 
-.. image:: community-apps-click-plus-611.png
+.. image:: community-apps-click-plus-612.png
 
 2. Select a template (can be one or more).
 
