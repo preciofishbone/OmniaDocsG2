@@ -3,13 +3,13 @@ Layouts for Communities
 
 Here you can work with ready made layouts for Community start pages, which can be created for any language, that can be chosen when a Page Collection for a Community is created. Here's an example of a list of layouts for communities:
 
-.. image:: communities-layout-612-new.png
+.. image:: communities-layout-612.png
 
 To create a new layout, do the following:
 
 1. Click the plus.
 
-.. image:: layout-click-plus-612-new.png
+.. image:: layout-click-plus-612.png
 
 2. Add a name for the layout in any or all the available tenant languages (click the flag to change language).
 3. Click Create.
