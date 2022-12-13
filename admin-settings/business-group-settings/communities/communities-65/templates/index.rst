@@ -17,7 +17,7 @@ To create a new template, do the following:
 
 Use the following settings:
 
-.. image:: community-template-settings-611.png
+.. image:: community-template-settings-612.png
 
 General
 ----------
