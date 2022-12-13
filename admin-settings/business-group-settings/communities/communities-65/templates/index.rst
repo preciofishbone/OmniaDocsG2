@@ -97,7 +97,7 @@ To add another Page Collection, just do it the same way.
 
 When you have added one or more Page Collections, you can use the the icons to:
 
-.. image:: community-collection-settings-icons.png
+.. image:: community-collection-settings-icons-blue.png
 
 + Sort the order in which they are shown (left-most icon).
 + Edit the settings (the cogwheel).
