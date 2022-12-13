@@ -5,9 +5,9 @@ Within a Business Profile several Community Apps can be active for different set
 
 Here you will see a list of Community Apps in the Business Profile, for example:
 
-.. image:: communities-apps-612.png
+.. image:: communities-apps-612-new.png
 
-You can click the link to go to the app.
+You can click the link to go to an app.
 
 Use the icons this way:
 
@@ -19,19 +19,17 @@ Use the icons this way:
 
 **Note!** To be able to delete a Community App, you must be App Administrator for the Community.
 
-If something goes wrong, as in the example above, you can click the red icon for som more information.
-
 Edit App Route
 *****************
 If it should be needed to edit the App Route, click the icon and the following is shown:
 
-.. image:: publishing-apps-app-route-community-612.png
+.. image:: publishing-apps-app-route-community-612-new.png
 
 Edit Permissions
 *****************
 If you need to add or remove administrator(s) or contributors for a community app, you do it here:
 
-.. image:: publishing-apps-app-premissions-community-612.png
+.. image:: publishing-apps-app-premissions-community-612-new.png
 
 Contributor permissions is needed if colleagues should be able to add comments to community pages.
 
@@ -41,7 +39,7 @@ Edit Features
 **************
 If it's needed to upgrade a feature for a Community App, you go here. You also go here to activate or remove a feature.
 
-.. image:: publishing-apps-app-features-community-612.png
+.. image:: publishing-apps-app-features-community-612-new.png
 
 Pending Approval
 *****************
