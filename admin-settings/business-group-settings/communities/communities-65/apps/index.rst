@@ -101,7 +101,7 @@ When the Community is created (with approval needed or not), it can be a good id
 
 8. Go to the Publishing App settings.
 
-.. image:: community-apps-settings-611-new.png
+.. image:: community-apps-settings-611.png
 
 9. Edit the settings if needed.
 
