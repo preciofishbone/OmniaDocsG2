@@ -1,12 +1,34 @@
 Forms
 ===========
 
-Here you can work with four types of forms. 
+Here you can work with three types of forms. 
 
-.. image:: forms-all.png
+.. image:: forms-all-new.png
 
 Surveys has the most options. Polls are similar to Surveys but suitable for shorter, simpler forms. Checkups are suitable for micro-courses with knowledge checks.
 
+Settings
+********************
+Here you can edit the chart colors:
+
+.. image:: forms-settings.png
+
+To edit a color, expand the settings and select another color:
+
+.. image:: forms-settings-edit.png
+
+Note that you can edit the chart colors as well as the text color. Click the triangle to open the settings for the charts colors.
+
+Remove a color you don't want by clicking the dustbin. The edit the order in which editors will see the colors. grab and move using this icon:
+
+.. image:: forms-settings-move.png
+
+Too add a new color, click ADD COLOR and set chart colors and text color:
+
+.. image:: forms-settings-addcolor.png
+
+The Forms lists
+********************
 For each type of form, all existing are listed, Surveys as an example:
 
 .. image:: forms-surveys.png
