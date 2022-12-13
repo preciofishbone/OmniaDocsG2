@@ -66,11 +66,11 @@ To create one or more Page Collections, do the following:
 
 1. Click the plus for "Page Collection".
 
-.. image:: community-page-collection.png
+.. image:: community-page-collection-new.png
 
 2. Create a page collection using the following settings:
 
-.. image:: community-page-collection-settings.png
+.. image:: community-page-collection-settings-new.png
 
 3. Choose to use a Navigation Structure or just Flat, meaning no navigation structure.
 
