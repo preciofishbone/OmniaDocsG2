@@ -3,17 +3,17 @@ Forms
 
 Here you can work with four types of forms. 
 
-.. image:: forms-all-four.png
+.. image:: forms-all.png
 
 Surveys has the most options. Polls are similar to Surveys but suitable for shorter, simpler forms. Checkups are suitable for micro-courses with knowledge checks.
 
 For each type of form, all existing are listed, Surveys as an example:
 
-.. image:: forms-surveys-new.png
+.. image:: forms-surveys.png
 
 In the list, you can use the icons (from left to right), to copy the form to a new one, change settings, work with the graphical presentation, or delete a form, if needed.
 
-.. image:: forms-icons-new.png
+.. image:: forms-icons.png
 
 Checking responses
 *********************
