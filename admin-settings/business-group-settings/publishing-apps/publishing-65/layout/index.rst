@@ -71,8 +71,8 @@ Create a layout for Controlled Documents editing
 *****************************************************************
 If the purpose of the layout is to make it possible to work with Controlled Documents in a Publishing App, add this block under Miscellaneous:
 
-.. image:: documents-process-block.png
+.. image:: documents-process-block-new.png
 
 Also note that settings for this block then is available the usual way:
 
-.. image:: documents-process-block-settings.png
+.. image:: documents-process-block-settings-new.png
