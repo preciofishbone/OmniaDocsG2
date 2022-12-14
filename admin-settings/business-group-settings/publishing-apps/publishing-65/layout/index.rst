@@ -7,7 +7,7 @@ If there are som publishing layouts created, they will be listed here, for examp
 
 .. image:: publishing-layouts.png
 
-To edit a layout, just click the name. Alla settings available when creating a new layout can be edited, see below.
+To edit a layout, just click the name. All settings available when creating a new layout can be edited, see below.
 
 Create a new publishing layout
 ********************************
