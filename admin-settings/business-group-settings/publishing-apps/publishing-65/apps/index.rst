@@ -45,17 +45,17 @@ Pending Approval
 *****************
 If Approval for creation is activated for the template, an administrator uses this list to work with approval or rejection.
 
-The list can look like this (example from Omnia 6.0):
+The list can look like this:
 
-.. image:: publishing-pending-approval.png
+.. image:: publishing-pending-approval-612.png
 
 To approve or reject, click the link and browse the settings. And here you decide:
 
-.. image:: publishing-pending-approval-approve.png
+.. image:: publishing-pending-approval-approve-612.png
 
 If you click Approve, the publishing app is created and the colleague requesting the approval is notified. If you click Reject you add a comment of what needs to be done before it can be approved:
 
-.. image:: publishing-pending-approval-comment.png
+.. image:: publishing-pending-approval-comment-612.png
 
 **Note!** Requesting an app must always be done from start each time. If rejected, nothing from the request is saved.
 
