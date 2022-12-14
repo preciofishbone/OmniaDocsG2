@@ -3,32 +3,40 @@ Publishing Layouts
 
 Here you can create aned edit ready made layouts for publishing pages. If you're planning to add the possibility to work with Controlled Documents in a Publishing App, you use this option to create a layout for that functionality. For more information on how to create a layout for Controlled Documents, see the end of the page.
 
+If there are som publishing layouts created, they will be listed here, for example:
+
+.. image:: publishing-layouts.png
+
+To edit a layout, just click the name. Alla settings available when creating a new layout can be edited, see below.
+
+Create a new publishing layout
+********************************
 To create a new layout, do the following:
 
 1. Click the plus.
 
-.. image:: publishing-click-plus.png
+.. image:: publishing-click-plus-new.png
 
 2. Add a name for the layout in any or all the available tenant languages (click the flag to change language).
 3. Click "Create".
 
-.. image:: publishing-click-create.png
+.. image:: publishing-click-create-new.png
 
 To start working on the layout, continue this way:
 
 4. Click on the name.
 
-.. image:: publishing-click-name.png
+.. image:: publishing-click-name-new.png
 
 5. Use this work area to create the layout. 
 
-.. image:: publishing-click-work-area.png
+.. image:: publishing-click-work-area-new.png
 
 You work with the layout in a similar way to Page Types. You can use all sections and blocks available.
 
 Start by adding a section layout, just like you would do when working with a Page Type.
 
-.. image:: publishing-click-work-area-section.png
+.. image:: publishing-click-work-area-section-new.png
 
 Then continue building up the layout using sections and blocks.
 
@@ -40,7 +48,7 @@ For more information, see these pages:
 
 Also note the previews for the different screen sizes:
 
-.. image:: publishing-click-work-area-screen.png
+.. image:: publishing-click-work-area-screen-new.png
 
 Saving a draft and publishing
 ---------------------------------
