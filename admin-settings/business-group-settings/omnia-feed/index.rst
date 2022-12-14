@@ -101,7 +101,7 @@ Targeting a tab
 ----------------
 A tab can be targeted:
 
-.. image::  omnia-feed-view-settings-tabs-target.png
+.. image::  omnia-feed-view-settings-tabs-target-frame.png
 
 This works the same way as in many other parts of Omnia, described here: :doc:`Using targeting </general-assets/targeting-in-omnia/index>`
 
