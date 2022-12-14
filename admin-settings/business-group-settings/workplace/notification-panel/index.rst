@@ -7,7 +7,7 @@ A Notification Panel can be placed on any page through the Notification Panel bl
 
 The first you will see is the list of existing notification panels, for example:
 
-.. image:: notification-panel-new2.png
+.. image:: notification-panel-new3.png
 
 Create a new Notification Panel
 *********************************
@@ -15,11 +15,11 @@ To create a new Notification Panel, do the following:
 
 1. Click the plus.
 
-.. image:: notification-panel-click-plus3.png
+.. image:: notification-panel-click-plus4.png
 
 2. Use the following settings:
 
-.. image:: notification-panel-settings-new5.png
+.. image:: notification-panel-settings-new6.png
 
 + **Title**: You can add a block title here if you wish. 
 + **Category**: Click the plus here to add a new Category. 
@@ -30,9 +30,12 @@ To create a new Notification Panel, do the following:
 + **Notification**: Select Automatic or Custom for the Category. 
 
 3. Click "ADD" to create the Category.
-4. Click the cog wheel to access the settings for the Category, for example.
+4. Click the cog wheel to access the settings for the Category.
 
-.. image:: notification-category-more-settings-cogwheel-4new2.png
+.. image:: notification-category-more-settings-cogwheel-4new3.png
+
+5. Add the category settings.
+6. Save the changes.
 
 Category settings
 --------------------
