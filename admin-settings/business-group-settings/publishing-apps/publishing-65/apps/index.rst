@@ -5,9 +5,9 @@ Within a Business Profile several Publishing Apps can be active for different se
 
 Here you will see a list of Publishing Apps in the Business Profile, for example:
 
-.. image:: publishing-apps-apps-65.png
+.. image:: publishing-apps-apps-612.png
 
-You can click the link to go to the app.
+You can click the link to go to an app.
 
 Use the icons this way:
 
@@ -23,13 +23,15 @@ Edit App Route
 *****************
 If it should be needed to edit the App Route, click the icon and the following is shown:
 
-.. image:: publishing-apps-app-route-65-url.png
+.. image:: publishing-apps-app-route-612.png
 
 Edit Permissions
 *****************
 If you need to add or remove Administrator(s) for a Publishing App, you do it here:
 
-.. image:: publishing-apps-app-premissions-65.png
+.. image:: publishing-apps-app-premissions-612.png
+
+Contributor permissions is needed if colleagues should be able to add comments to publishing pages.
 
 Don't forget to save when you're done.
 
