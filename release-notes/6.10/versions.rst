@@ -1,3 +1,11 @@
+6.11.46
+========================================
+(6.11.46 / Workplace 6.11.24 / WCM 6.11.43 / MS 6.11.25)
+- Corrected an issue with the term picker using a large term set with one root term (#143089).
+- Targeted teamwork now works as expected (#143123).
+- Permissions now correctly sync to SharePoint when having more than 5000 items in one page collection.
+
+
 6.11.45
 ========================================
 (Omnia 6.11.45 / Workplace 6.11.24 / WCM 6.11.39 / MS 6.11.25)
