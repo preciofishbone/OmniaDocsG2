@@ -1,3 +1,20 @@
+ 6.12.4
+========================================
+ (Omnia 6.12.4 / Workplace 6.12.3 / WCM 6.12.3 / MS 6.12.2)
+ 
+- Improved performance for the page rollup.
+ - Corrected an issue with upgrading the Controlled Document library feature
+ - Exclude variations now works as expected in the Digital Signage API (#142800)
+ - Corrected an issue with copying and pasting multiple images in RTF.
+ - Updated icon for comments/page with no reaction.
+ - Corrected an issue with Controlled Documents where a blank space would sometimes be incorrectly added (#142753).
+ - Corrected stepper rendering on narrow screens (#142446).
+ - Tags handling now better supports multiple tags with different casing (#142544)
+ - Help text now show up on all text block modes (#143151).
+ - Corrected an issue where a section would move during the publish process (#142611).
+ 
+ 
+
 6.12.0
 ========================================
 (Omnia 6.12.0 / Workplace 6.12.0 / WCM 6.12.0 / MS 6.12.0)
