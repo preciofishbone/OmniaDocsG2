@@ -3,7 +3,7 @@ Templates for Publishing Apps
 
 Here you can work with templates for Publishing Apps.
 
-.. image:: publishing-templates-new.png
+.. image:: publishing-templates-612.png
 
 To edit a template, click the name - to delete, click the dust bin. When you edit a template, all options that are described below are available.
 
@@ -13,42 +13,30 @@ To create a new template, do the following:
 
 1. Click the plus.
 
-.. image:: publishing-template-click-plus.png
+.. image:: publishing-template-click-plus-612.png
 
 Use the following settings:
 
-.. image:: publishing-template-settings.png
-
-+ **Title**: Add a Title for the Template. You can add titles in a number of the languages available in the tenant. Default language is mandatory.
-+ **Description**: Add a Description if needed. 
-+ **Icon Type**: An icon is always shown for a template. If you would like another icon for this template, select the set of icons here: Font Awesome, Microsoft, Flags or Custom. When selecting Custom you can choose any image as the icon.
-+ **Icon**: When you have select Icon Type, use this list to select the icon. If you select Custom, a Url field is shown, where you enter the Url for the image.
-+ **Available to All Users**: Select this option if the template should be available for other's than administrators, for example in the user Wizard for creating new teamworks. If this option is NOT selected, the template will be available only for administrators to use in Omnia Admin.
-+ **Site Creation Mode**: Here you select if approval is required when users create sites from this template. 
-
-Settings for the template
-***************************
-There are a lot of settings you can do for the template when it's created.
-
-1. Click the template to edit.
-
-The following is shown:
-
-.. image:: publishing-edit-all.png
+.. image:: publishing-template-settings-612.png
 
 General
 ----------
-Here you can edit the information you added and the options you selected when creating the template:
+The following settings are available here:
 
-.. image:: publishing-edit-general.png
+.. image:: publishing-edit-general-612.png
 
-See above for a description.
++ **Title**: Add a Title for the Template. You can add titles in a number of the languages available in the tenant. Default language is mandatory. (Click the fal to change language).
++ **Description**: Add a Description if needed. You can add a description in a number of the languages available in the tenant.(Click the fal to change language).
++ **Icon Type**: An icon is always shown for a template. If you would like another icon for this template, select the set of icons here: Font Awesome, Microsoft, Flags or Custom. When selecting Custom you can choose any image as the icon.
++ **Icon**: When you have select Icon Type, use this list to select the icon. If you select Custom, a Url field is shown, where you enter the Url for the image.
++ **Available To**: Here you select who the template should be available for. What "All Users" and "Admins only" means is obvious. When you select "Specific Users" you click "Add Targeting Filter", choose a property (for example Administration Roles or Language) and set the necessary settings to create the targeting filter for the group of users you have in mind.
++ **Site Creation Mode**: Here you select if approval is required when users create sites from this template. When you select "Approval" you must also select one or more approvers.
 
 Properties
 ------------
 You can add a property set to the template. 
 
-.. image:: publishing-edit-properties.png
+.. image:: publishing-edit-properties-612.png
 
 The properties in the set can or will have to be filled in when a community is created from this template.
 
@@ -58,7 +46,9 @@ Features
 ----------
 Select the features that should be available for the publishing app (all are not shown in the image):
 
-.. image:: publishing-edit-features.png
+.. image:: publishing-edit-features-612.png
+
+The features can be updated in Omnia Admin using App Features for the app.
 
 Setup
 -------
