@@ -5,7 +5,7 @@ Here's how to setup Omnia in Microsoft Teams.
 
 **Note!** App Studio, used in this instruction is being deprecated. You should now use Developer Portal instead. There are some smaller differences but you should still be able to use this instruction as a guideline.
 
-**Also Note!** There's now a much simpler way for a basic setup in Teams. See this page for more information: :doc:`Teams App Generator <admin-settings/tenant-settings/system/microsoft-365/teams-appgenerator-612/index>`
+**Also Note!** There's now a much simpler way for a basic setup in Teams. See this page for more information: :doc:`Teams App Generator </admin-settings/tenant-settings/system/microsoft-365/teams-appgenerator-612/index>`
 
 1. Add the App Studio (Developer Portal) app to Microsoft Teams.
 
