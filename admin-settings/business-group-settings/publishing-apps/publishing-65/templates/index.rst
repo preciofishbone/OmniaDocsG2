@@ -119,4 +119,17 @@ Custom steps
 ---------------
 If any custom steps has been developed for the creation of publishing apps, you can select them using this option.
 
-.. image:: publishing-edit-custom-steps.png
+.. image:: publishing-edit-custom-steps-612.png
+
+Policies
+***********
+Use this for further policies settings, that will be applied to publishing apps created from this template. 
+
+The following can be set here:
+
+.. image:: publishing-templates-policies-612.png
+
++ **Minimum number of characters in description**: Here you can set a number of characters for the description of the publishing app, to force users to add a description of a certain length. 
++ **Minimim number of administrators**: There must always be at least one administrator for a publishing app, but you can decide that more administrators should be required, up to 5.
++ **Default Administrators**: Use this to add one or more default administrators for publisning apps created from this template. These administrators will always be added, and can not be removed in the Create Publishing App wizard. Must be persons, can not be groups.
+
