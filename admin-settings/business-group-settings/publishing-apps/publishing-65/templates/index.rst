@@ -23,7 +23,7 @@ General
 ----------
 The following settings are available here:
 
-.. image:: publishing-edit-general-612.png
+.. image:: publishing-edit-general-612-frame.png
 
 + **Title**: Add a Title for the Template. You can add titles in a number of the languages available in the tenant. Default language is mandatory. (Click the fal to change language).
 + **Description**: Add a Description if needed. You can add a description in a number of the languages available in the tenant.(Click the fal to change language).
