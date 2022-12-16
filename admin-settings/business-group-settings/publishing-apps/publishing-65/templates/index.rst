@@ -85,7 +85,7 @@ An Url is added, based on the name. It can be edited if needed.
 5. Click “Create”.
 6. Edit the settings.
 
-.. image:: publishing-page-collection-settings-edit-new.png
+.. image:: publishing-page-collection-settings-edit-612.png
 
 (There's a lot more settings than is shown in the image).
 
