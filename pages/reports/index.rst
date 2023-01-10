@@ -19,7 +19,7 @@ You can sort the lists on most column headings by clicking the heading, for exam
 
 .. image:: reports-sort-new3.png
 
-You can use the links in the "Page" column to go to a page, and the links in people columns (for example "Contact") to go to a colleagues Delve page, where for example contact information is shown.
+You can use the links in the "Page" column to go to a page, and the links in people columns (for example "Contact") to click the name to see more information about that colleague, for example contact information. The User Profile Card will then open, if it's used within your organization. If it's not, the colleague's Delve page will be displayed.
 
 Also note that the icon on the lower right of a person image indicates Microsoft Teams presence. The icon in the image above indicates that Annabelle Dixon is offline.
 
