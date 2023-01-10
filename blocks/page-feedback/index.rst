@@ -19,7 +19,7 @@ In Write mode a page author will see the feedback, for example:
 
 .. image:: page-feedback-writemode-new.png
 
-The latest feeback posts are shown here. The name of the person who sent the feedback is clickable and opens that persons Delve page, where you can, for example, find contact information.
+The latest feeback posts are shown here. The name of the person who sent the feedback is clickable. The User Profile Card will open, if it's used within your organization. If it's not, the colleague's Delve page will be displayed.
 
 The number in the top right corner indicates the total number of feedback posts. If you click that number, all posts are shown.
 
