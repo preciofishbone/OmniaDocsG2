@@ -13,7 +13,7 @@ When a start page is set up this way, all the latest contributions are listed, b
 
 Top contributors can also be displayed, if the community is set up to use Activity Tracking and Activity Points, see the image above.
 
-You can click on any post in the list to go to that discussion, comment or knowledge article. Regarding Top Contributors, or any other people list that may be available, you can click the name of a colleague to go to that person's Delve page.
+You can click on any post in the list to go to that discussion, comment or knowledge article. Regarding Top Contributors, or any other people list that may be available, you can click the name to see more information about that colleague. The User Profile Card will then open, if it's used within your organization. If it's not, the colleague's Delve page will be displayed.
 
 Select page for more information:
 
@@ -25,9 +25,4 @@ Select page for more information:
    knowledge-articles/index
    subscriptions/index
    settings/index
-
-
-
-
-
 
