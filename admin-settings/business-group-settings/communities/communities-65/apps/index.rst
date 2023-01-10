@@ -25,6 +25,8 @@ If it should be needed to edit the App Route, click the icon and the following i
 
 .. image:: publishing-apps-app-route-community-612-new.png
 
+Edit the app route and save.
+
 Edit Permissions
 *****************
 If you need to add or remove administrator(s) or contributors for a community app, you do it here:
