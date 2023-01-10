@@ -24,7 +24,7 @@ To see the messages from a Team site, click it. The latest messages from that Te
 
 .. image:: team-site-news-expanded-new2.png
 
-Click the heading of a message to go the Team site to read the full message. The author's name is also clickable here and will take you the author's Delve page.
+Click the heading of a message to go the Team site to read the full message. The author's name is also clickable here and will take you the author's User Profile Card, if it's used within your organization. If it's not, the author's Delve page will be displayed.
 
 + **Tasks**: When tasks are assigned to the user in a Team site, a notification will show up here. The tasks are grouped by Team site: Here's an example with the list opened for one of the sites:
 
