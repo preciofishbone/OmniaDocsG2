@@ -178,9 +178,11 @@ Do the following to attach a site:
 2. Go to Team Collaboration settings and click the plus.
 3. Select "Attach Site".
 
+.. image:: attach-site-612.png
+
 The following is shown:
 
-.. image:: team-collaboration-attach-65.png
+.. image:: team-collaboration-attach-612.png
 
 3. Paste the Url and click "Resolve".
 
