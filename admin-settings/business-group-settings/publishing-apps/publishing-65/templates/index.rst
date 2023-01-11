@@ -38,8 +38,8 @@ You can add a property set to the template.
 
 .. image:: publishing-edit-properties-612.png
 
-+ **Property Set**: Select property set here. The properties in the set can or will have to be filled in when a community is created from this template, depending on settings for the property. The property sets are set up using the Tenant settings. See this page for more information: :doc:`Property sets </admin-settings/tenant-settings/properties/property-sets/index>`
-+ **Default values**: You can set default values for most properties in a set, valid for this template. 
++ **Property Set**: Select property set here. The properties in the set can or will have to be filled in when an app is created from this template, depending on settings for the property. The property sets are set up using the Tenant settings. See this page for more information: :doc:`Property sets </admin-settings/tenant-settings/properties/property-sets/index>`
++ **Default values**: You can set default values for suitable properties in a set, valid for this template. Default values can be edited when an app is created from this template.
 + **Visibility**: Here you select where the properties should be available: "Show in new form" means when an app is created from this template, "Show in edit form" means when the settings for the app is edited.
 
 Features
