@@ -51,17 +51,11 @@ Properties
 *************
 This is available for Properties:
 
-.. image:: teamwork-65-edit-properties-new2.png
+.. image:: teamwork-65-edit-properties-612.png
 
-+ **Property Set**: You can select a property set here, to be used for the template, meaning a number of properties that the colleague creating the site will or will have to fill in when the template is used. If a property is mandatory or not is decided in the settings for the property.
-
-The property sets are set up using the Tenant settings. See this page for more information: :doc:`Property sets </admin-settings/tenant-settings/properties/property-sets/index>`
-
-You can set default values for most properties in a set, valid for this template. An example:
-
-.. image:: teamwork-65-edit-properties-default.png
-
-For some properties, it may also be possible to enter help text.
++ **Property Set**: Select property set here. The properties in the set can or will have to be filled in when a teamwork is created from this template, depending on settings for the property. The property sets are set up using the Tenant settings. See this page for more information: :doc:`Property sets </admin-settings/tenant-settings/properties/property-sets/index>`
++ **Default values**: You can set default values for most properties in a set, valid for this template. Default values can be edited when a teamwork is created from this template.
++ **Visibility**: Here you select where the properties should be available: "Show in new form" means when an app is created from this template, "Show in edit form" means when the settings for the teamwork is edited.
 
 Features
 *************
@@ -77,11 +71,11 @@ Microsoft 365 Group
 -----------------------
 The following options are available for a Microsoft 365 Team Group:
 
-.. image:: teamwork-settings-setup-365-new.png
+.. image:: teamwork-settings-setup-365-612.png
 
 Available only for Microsoft 365 Group are:
 
-+ **Default Resource Url**: Choose to link to a Sharepoint site or to Microsoft Teams.
++ **Welcom Page**: Choose to link to a Sharepoint site or to Microsoft Teams.
 + **Privacy**: Decide if the Group should be Private or Public.
 
 For descriptions of the rest of the options, see below.
@@ -104,13 +98,15 @@ Microsoft Team
 ---------------------
 For Microsoft Team, the following settings are available for Setup:
 
-.. image:: teamwork-settings-setup-team-new.png
+.. image:: teamwork-settings-setup-team-612.png
 
 **Note!** Microsoft Team is not available in Omnia on-prem.
 
-+ **Default Resource Url**: Choose to link to a Sharepoint site or to Microsoft Teams.
-+ **Setup template**: Here you can select to create a Custom template, to use a Microsoft Teams template, or to give the user the option to Clone an excisting team. See below for more information on a custom template. To use a Microsoft Teams template you must enter the id of the template (can be found in Teams admin center). 
-+ **Clone an existing team**: If the purpose of this template is to make it possible to clone a team, select this option. Note that a colleague must be member of a team to be able to clone it.
++ **Welcome Page**: Choose to link to a Sharepoint site or to Microsoft Teams.
++ **Setup template**: Here you can select to create a Custom template, to use a Microsoft Teams template, or to give the user the option to Clone an excisting team. Note that a colleague must be member of a team to be able to clone it. See below for more information on a custom template. To use a Microsoft Teams template you must enter the id of the template (can be found in Teams admin center). 
++ **Settings**: Available for a custom template, see below.
++ **Apps**: Available for a custom template, see below.
++ **Channels**: Available for a custom template, see below.
 
 Create a custom Microsoft Team template
 ----------------------------------------
@@ -157,18 +153,18 @@ Yammer Community
 --------------------
 The following setting is available for a Yammer Community template for Setup:
 
-.. image:: teamwork-yammer-community.png
+.. image:: teamwork-yammer-community-612.png
 
 **Note!** Yammer Community is not available in Omnia on-prem.
 
-+ **Deafult Resource Url**: Select the defailt Url for the Yammer Community start page, Sharepoint or Yammer group.
++ **Welcome Page**: Select the default Url for Sharepoint or for a Yammer group.
 + **Client id**: Type the Client id for the Yammer Network here.
 
 Facebook Workplace Group
 -------------------------------
 This setting is available for a Facebook Workplace Group template for Setup:
 
-.. image:: teamwork-facebook-workplace-group.png
+.. image:: teamwork-facebook-workplace-group-612.png
 
 **Note!** Facebook Workplace Group is not available in Omnia on-prem.
 
