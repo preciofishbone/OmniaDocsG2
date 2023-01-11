@@ -116,19 +116,21 @@ To create a Teamwork from here, do the following:
 
 1. Click the plus.
 
-.. image:: team-collaboration-clickplus-65.png
+.. image:: team-collaboration-clickplus-612.png
 
 2. Select "Create New".
 
-.. image:: team-collaboration-select-65.png
+.. image:: team-collaboration-select-612.png
 
 3. Select Template. 
 
-.. image:: team-collaboration-template-65.png
+Here's an example with a lot of different alternatives. You may not have as many.
+
+.. image:: team-collaboration-template-612.png
 
 4. Edit the settings.
 
-.. image:: team-collaboration-settings-65.png
+.. image:: team-collaboration-settings-612.png
 
 Available options depend on the template chosen. Here's some common ones:
 
@@ -142,22 +144,24 @@ Available options depend on the template chosen. Here's some common ones:
 5. When done, click "Next".
 6. Now, set the following:
 
-.. image:: team-collaboration-administrator-new.png
+.. image:: team-collaboration-administrator-new-612.png
 
 + **App Administrator**: You are automatically added as the Administrator. Add or remove Administrators as needed.
 
 7. Click "Next".
-8. Set Enterprise Properties if nedded.
+8. Set Enterprise Properties if nedded (remember - what is available depends on the template).
 
-.. image:: team-collaboration-properties.png
+.. image:: team-collaboration-properties-612.png
 
 9. Set Owner and also Members, if needed.
 
-.. image:: team-collaboration-owner.png
+.. image:: team-collaboration-owner-.png
+
+A summary is now shown, where you can click the pen the edit any of the steps.
 
 10. Click CREATE to create the Teamwork or SEND FOR APPROVAL, depending on how the template has been set up.
 
-.. image:: team-collaboration-create.png
+.. image:: team-collaboration-create-612.png
 
 Attach a Teamwork Site
 ************************
