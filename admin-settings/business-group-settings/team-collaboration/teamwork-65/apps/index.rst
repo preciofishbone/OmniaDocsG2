@@ -144,7 +144,7 @@ Available options depend on the template chosen. Here's some common ones:
 5. When done, click "Next".
 6. Now, set the following:
 
-.. image:: team-collaboration-administrator-new-612.png
+.. image:: team-collaboration-administrator-new-612-frame.png
 
 + **App Administrator**: You are automatically added as the Administrator. Add or remove Administrators as needed.
 
@@ -155,7 +155,7 @@ Available options depend on the template chosen. Here's some common ones:
 
 9. Set Owner and also Members, if needed.
 
-.. image:: team-collaboration-owner-.png
+.. image:: team-collaboration-owner.png
 
 A summary is now shown, where you can click the pen the edit any of the steps.
 
