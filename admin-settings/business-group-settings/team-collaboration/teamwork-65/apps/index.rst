@@ -155,7 +155,7 @@ Available options depend on the template chosen. Here's some common ones:
 
 9. Set Owner and also Members, if needed.
 
-.. image:: team-collaboration-owner.png
+.. image:: team-collaboration-owner-612.png
 
 A summary is now shown, where you can click the pen the edit any of the steps.
 
