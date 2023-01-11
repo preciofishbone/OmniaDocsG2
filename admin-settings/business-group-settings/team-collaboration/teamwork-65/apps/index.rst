@@ -3,43 +3,52 @@ Apps for Teamwork
 
 Here Teamworks are listed, the "Active" tab as an example:
 
-.. image:: teamwork-apps-new-610.png
+.. image:: teamwork-apps-new-612.png
 
 Active
 *****************
 Use the icons this way on the Active tab:
 
++ The link symbol to edit app route, if needed.
 + The key to edit permissions.
 + The boxes to activate, deactivate and upgrade features. 
 + The pen to edit App Instance.
 + The dust bin to delete. 
 
-You can use the headings for Title, App Administrator, Provisioning Template and Created Date to sort the list. You can also search the list.
+You can use the headings for Title, Created Date and Last Activity to sort the list. You can also search the list.
 
 **Note!** To be able to delete a teamwork, you must be App Administrator for the teamwork. Also note that deleting a teamwork from this list does not delete 
 the connected Sharepoint site.
 
+Edit App Route
+----------------
+If it should be needed to edit the App Route, click the icon and the following is shown:
+
+.. image:: teamwork-apps-app-route-community-612.png
+
+Edit the app route and save.
+
 Edit Permissions
 -----------------
-If you need to add or remove administrator(s) for a Teamwork, you do it here:
+If you need to add or remove owners (administrator) or members for a Teamwork, you do it here:
 
-.. image:: teamwork-app-premissions-65.png
+.. image:: teamwork-app-premissions-612-new.png
 
 Don't forget to save when you're done.
 
 Edit Features
 ---------------
-If it's needed to upgrade a feature for the Teamwork, you need to go here. You also go here to activate or remove a feature.
+If it's needed to upgrade a feature for the Teamwork, you need to go here. You also go here to activate or remove a feature. Available features can differ a lot depending on typoer of app. Here's an example:
 
-.. image:: teamwork-app-features-65.png
+.. image:: teamwork-app-features-612.png
 
 Edit App Instance
 ---------------------
 If it should be needed to edit the App Instance, click the icon and the following is shown:
 
-.. image:: teamwork-apps-app-instance-65-url.png
+.. image:: teamwork-apps-app-instance-612-url.png
 
-Use the ADD IMAGE button to add an image for use in rollups. You can also edit Title, Description, Public Listing setting and edit the Sharepoint Url, if needed.
+Use the ADD IMAGE button to add an image for use in rollups. You can also edit Title, Description, Public Listing setting and edit the Sharepoint Url, if needed. SharePoint Url is not aplicable for all types of teamwork.  
 
 Pending Approval
 *****************
