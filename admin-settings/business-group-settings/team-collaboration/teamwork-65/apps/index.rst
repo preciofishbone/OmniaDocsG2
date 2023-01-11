@@ -32,7 +32,7 @@ Edit Permissions
 -----------------
 If you need to add or remove owners (administrator) or members for a Teamwork, you do it here:
 
-.. image:: teamwork-app-premissions-612-new.png
+.. image:: teamwork-app-premissions-612-new-frame.png
 
 Don't forget to save when you're done.
 
@@ -54,7 +54,7 @@ Pending Approval
 *****************
 When a user creates a Teamwork where Approval is needed, an administrator uses this list to approve or reject. Here's an example:
 
-.. image:: pending-approval-65.png
+.. image:: pending-approval-612.png
 
 Approval (or Rejection) is done this way:
 
@@ -62,13 +62,13 @@ Approval (or Rejection) is done this way:
 2. Check the name, settings and so on.
 3. If everything is OK, click "Approve", or if changes are needed, click "Reject".
 
-.. image:: pending-approval-approve-65.png
+.. image:: pending-approval-approve-612.png
 
 If you approve the creation of the Teamwork a message is sent to the person requesting it, and the Teamwork is created.
 
 If you reject, the following is shown:
  
-.. image:: pending-approval-reject-65.png
+.. image:: pending-approval-reject-612.png
 
 4. Type a message stating what needs to be done for approval, and click "Save" to send the message.
 
@@ -78,33 +78,35 @@ The person requesting the Teamwork receives the message and can then start a new
 
 Important note about Site Ownership when approving
 -----------------------------------------------------
-If you're using an Omnia version earlier than 6.10: Because of caching issues in Sharepoint, it can take some time, even up to 2 hours after approval, before site ownership will work as intended - as set in the Teamwork Creation Wizard in Omnia. During this time, the Approver will have Owner permissions. (In Omnia 6.10 and later this is now longer an issue).
+If you're using an Omnia version earlier than 6.10: Because of caching issues in Sharepoint, it can take some time, even up to 2 hours after approval, before site ownership will work as intended - as set in the Teamwork Creation Wizard in Omnia. During this time, the Approver will have Owner permissions. 
+
+(In Omnia 6.10 and later this is now longer an issue).
 
 Orphaned
 **********
-(This tab works the same way as the tab that was called "Inactive" in Omnia 6.0).
-
 When a site of the type Microsoft 365 Team Site, Sharepoint Team Site or Sharepoint Communication Site is created, a Sharepoint site is created and is connected to the site. A Yammer Group can also need a Sharepoint site, depending on how the Yammer Group is set up.
 
 The connected Sharepoint site may be deleted for some reason, but when that happens the Omnia site may not. When this happens a link to the site is placed in this list, so an administrator can take actions.
 
 Inactive
 ***********
-A teamwork is considered inactive if Last Activity, as registered in the Sharepoint site, is more thna three months old.
+A teamwork is considered inactive if Last Activity, as registered in the Sharepoint site, is more than three months old.
 
-.. image:: teamwork-apps-inactive.png
+Here's an exampl from a test environment:
 
-Here administrators can check/edit the settings for the teamworks and delete a teamwork that is not needed. The list can be sorted by "Created Date" or ´"Last Activity", to for example see if any activity has taken place at all.
+.. image:: teamwork-apps-inactive-612.png
+
+Here administrators can check/edit the settings for the teamworks and delete a teamwork that is not needed. The list can be sorted by "Created Date" or "Last Activity", to for example see if any activity has taken place at all.
 
 Click SYNCHRONIZE LAST ACTIVITY to update the list with the latest activities. The list is not updated automatically. Note that if there are a huge number of teamworks in your solution, the update can take some time.
 
 Click the pen to check the settings for a teamwork. All settings can then be checked an edited:
 
-.. image:: teamwork-apps-inactive-edit.png
+.. image:: teamwork-apps-inactive-edit-612.png
 
 To delete a teamwork, click the dust bin. Then this is shown:
 
-.. image:: teamwork-apps-inactive-edit-ok.png
+.. image:: teamwork-apps-inactive-edit-ok-612.png
 
 **Important Note!** When you click OK here the delete is final. There's no way to retrieve a deleted teamwork.
 
