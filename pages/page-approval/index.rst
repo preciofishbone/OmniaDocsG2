@@ -38,8 +38,6 @@ An approver uses this list, found under "Reports" in the Navigation tree, when e
 
 .. image:: pending-approval-list-new.png
 
-The approver can go here by clicking a link in the e-mail or use the "Reports" option, see :doc:`Reports </pages/reports/index>` 
-
 To approve or reject publication of a page, do the following:
 
 1. Click the link in the "Title" column, to go to the page.
