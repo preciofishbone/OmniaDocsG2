@@ -8,9 +8,9 @@ Using these options you can create a start page for a Teams teamwork. First you 
 To create a new layout, do the following:
 
 1. Click the plus.
-2. Add a title and an alias (as usual, click the flag to change language):
+2. Add a title in any, or all, the tenant languages. Cick the flag to change language.
 
-.. image:: layout-teamwork-settings.png
+.. image:: layout-teamwork-settings-612.png
 
 3. When the layout has been created, click the name in the list.
 4. Build the start page using available sections and blocks.
