@@ -106,7 +106,7 @@ Click the pen to check the settings for a teamwork. All settings can then be che
 
 To delete a teamwork, click the dust bin. Then this is shown:
 
-.. image:: teamwork-apps-inactive-edit-ok-612.png
+.. image:: teamwork-apps-inactive-edit-ok.png
 
 **Important Note!** When you click OK here the delete is final. There's no way to retrieve a deleted teamwork.
 
