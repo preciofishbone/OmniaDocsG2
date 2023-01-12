@@ -32,6 +32,20 @@ The following settings are available here:
 + **Available To**: Select who this template should be available to. What **All Users** and **Admins only** means is obvious. If you select **Specific users** you can select a property (for example Job Role or Location) and set the necessary settings. 
 + **Site Creation Mode**: Here you select if approval is required when users create community apps from this template. 
 
+Community templates for specific users
+--------------------------------------
+When you select "Specific users" the following option is shown:
+
+.. image:: specific-users.png
+
+Click "Add Targeting Filter" and the following is shown:
+
+.. image:: specific-users-filter.png
+
+You use targeting here the same way as in other parts of Omnia. For more information, see this page: :doc:`Using Targeting </general-assets/targeting-in-omnia/index>`
+
+Also note that all properties that should be available for targeting must be set up in the Targeting Properties list, see: :doc:`Targeting Properties </admin-settings/tenant-settings/properties/targeting-properties/index>`
+
 Properties
 ------------
 You can add a property set to the template. 
