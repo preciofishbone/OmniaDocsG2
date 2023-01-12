@@ -32,6 +32,20 @@ The following settings are available here:
 + **Available To**: Here you select who the template should be available for. What "All Users" and "Admins only" means is obvious. When you select "Specific Users" you click "Add Targeting Filter", choose a property (for example Administration Roles or Language) and set the necessary settings to create the targeting filter for the group of users you have in mind.
 + **Site Creation Mode**: Here you select if approval is required when users create sites from this template. When you select "Approval" you must also select one or more approvers.
 
+Publishing templates for specific users
+--------------------------------------
+When you select "Specific users" the following option is shown:
+
+.. image:: specific-users.png
+
+Click "Add Targeting Filter" and the following is shown:
+
+.. image:: specific-users-filter.png
+
+You use targeting here the same way as in other parts of Omnia. For more information, see this page: :doc:`Using Targeting </general-assets/targeting-in-omnia/index>`
+
+Also note that all properties that should be available for targeting must be setup in the Targeting Properties list, see: :doc:`Targeting Properties </admin-settings/tenant-settings/properties/targeting-properties/index>`
+
 Properties
 ------------
 You can add a property set to the template. 
