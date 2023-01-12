@@ -1,11 +1,13 @@
 App settings
 ==============
 
-There are a few settings available on App level (site level). Here's what can be available:
+There are a few settings available on App level (site level). Here's what can be available in Omnia 6.11 and earlier:
 
 .. image:: app-settings-new.png
 
-To reach these settings you must do the following:
+In Omnia 6.12 and later, the permissions settings (Security) are no linger available here. Instead, use the App settings, as described here (Publishing App settings as and example): :doc:`App Settings </pages/page-settings/index>`
+
+To reach the App settings as described here, you must do the following:
 
 1. Go to the site.
 2. Go to Omnia Admin.
@@ -21,6 +23,8 @@ An example: If your organization is using Document Management, you must go here 
 
 Security
 **********
+(Available here in Omnia 6.11 and earlier. For Omnia 6.12 and later, see link above).
+
 Click "Users and Group" to add or remove App Administrators and App Contributors.
 
 .. image:: app-settings-security-new.png
