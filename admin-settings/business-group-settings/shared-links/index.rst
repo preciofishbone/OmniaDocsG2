@@ -7,9 +7,7 @@ Some links can be mandatory and it's also possible to target links to certain gr
 
 These links can also be accessed through a Quick Links block on any page, see: :doc:`The Quick Links block </blocks/quick-links/index>`
 
-The options available here are:
-
-.. image:: business-profile-shared-links.png
+**Note!** The Permissons settings available here earlier has been moved in Omnia 6.12 and later, to the general Permissions settings for the business profile: :doc:`Permissions for a Business Profile </admin-settings/business-group-settings/permissions/index>`
 
 Shared links
 **************
