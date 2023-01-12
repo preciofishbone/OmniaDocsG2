@@ -174,7 +174,7 @@ Custom steps
 *****************
 If any custom steps has been developed for the type of community you have selected, you can add them using this option.
 
-.. image:: teamwork-edit-custom-steps-new.png
+.. image:: teamwork-edit-custom-steps-612.png
 
 Policies
 **********
