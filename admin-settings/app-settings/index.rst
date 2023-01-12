@@ -5,7 +5,7 @@ There are a few settings available on App level (site level). Here's what can be
 
 .. image:: app-settings-new.png
 
-In Omnia 6.12 and later, the permissions settings (Security) are no linger available here. Instead, use the App settings, as described here (Publishing App settings as and example): :doc:`App Settings </pages/page-settings/index>`
+In Omnia 6.12 and later, the permissions settings (Security) are no linger available here. Instead, use the App settings, as described on this page (Publishing App settings as and example): :doc:`App Settings </pages/page-settings/index>`
 
 To reach the App settings as described here, you must do the following:
 
