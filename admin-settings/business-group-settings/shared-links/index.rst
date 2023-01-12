@@ -15,7 +15,9 @@ Options for Tenant Shared Links and Business Profile Shared Links are identical.
 
 Permissions
 *************
-The description below apply to Omnia 6.11 and eaerlier. In Omnia 6.12 and later, the permissions settings for Shared Links has been moved to the general Permissions settings for the business profile: :doc:`Permissions for a Business Profile </admin-settings/business-group-settings/permissions/index>`
+In Omnia 6.11 and eaerlier, the settings for permissons to work with Shared Links was found here. In Omnia 6.12 and later, these permissions settings has been moved to the general Permissions settings for the business profile: :doc:`Permissions for a Business Profile </admin-settings/business-group-settings/permissions/index>`
+
+This description still apply:
 
 Shared Links for this Business Profile has a seperate Permissions setting, so any user can be set as a Shared Links administrator. This includes external users that has been invited in the Azure AD, meaning they can log in with their own Microsoft 365 account. 
 
