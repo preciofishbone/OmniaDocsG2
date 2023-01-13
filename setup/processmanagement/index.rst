@@ -1,7 +1,7 @@
 Setup Process Management
 ===========================================
 
-**This setup description is being updated. Will be finsihed soon.**
+**This setup description is being updated. Will be finished soon.**
 
 .. note:: In order for Process Managemnet features to appear in the UI, the Process Management feature needs to be activated. Please consult with your local partner to set up these prerequisites.
 
