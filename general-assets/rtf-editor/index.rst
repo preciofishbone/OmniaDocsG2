@@ -7,7 +7,7 @@ When editing text in Omnia, a RTF editor can be available. What is available in 
 
 For more information about the settings, see: :doc:`RTF Editor Settings </admin-settings/tenant-settings/settings/rtf-editor/index>`
 
-In Omnia 6.12 and later it can be possible to add animated gifs, and emitcons in the RTF Editor. For more information, see the heading "Add an animated GIF" and the heading "Add an emoji" below.
+In Omnia 6.12 and later it can be possible to add animated gifs, and emojis in the RTF Editor. For more information, see the heading "Add an animated GIF" and the heading "Add an emoji" below.
 
 Using the RTF Editor
 **********************
