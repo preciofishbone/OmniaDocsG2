@@ -26,7 +26,7 @@ Process Types
 
 Title property
 ---------------
-In order for the Process Picker to be able to work as expected, the property "Title" must be added to the queyable properties for Process.
+In order for the Process Picker to be able to work as expected, the property "Title" must be added to the queryable properties for Process.
 
 .. image:: title-quey-1.png
 .. image:: title-quey-2.png
