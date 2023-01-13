@@ -1,6 +1,8 @@
 Setup Process Management
 ===========================================
 
+**This setup description is being updated. Will be finsihed soon.**
+
 .. note:: In order for Process Managemnet features to appear in the UI, the Process Management feature needs to be activated. Please consult with your local partner to set up these prerequisites.
 
 Below you will find the steps needed in order to create a basic setup of Process Management.
@@ -26,7 +28,7 @@ Process Types
 
 Title property
 ---------------
-In order for the Process Picker to be able to work as expected, the property "Title" must be added to the queryable properties for Process.
+In order for the Process Picker to be able to work as expected, the property "Title" must be present in the queryable properties for Process.
 
 .. image:: title-quey-1.png
 .. image:: title-quey-2.png
