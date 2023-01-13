@@ -41,7 +41,7 @@ The icon to the left is used to create a link, the other one to remove the link.
 
 Animated GIF and emojis
 -----------------------------
-In Omnia 6.12 and later, the possibility to add an animated GIF and/or to add emojis, can be available in the RTF Editor. You can do that by selecting "Gif" and/or "Emojis Picker".
+In Omnia 6.12 and later, the possibility to add an animated GIF and/or to add emojis, can be available in the RTF Editor. You can do that by selecting "Gif" and/or "Emoji Picker".
 
 See the headings "Add an animated GIF" and "Add an emoji" on this page for information about how it works: :doc:`Editing text with the RTF Editor </general-assets/rtf-editor/index>`
 
