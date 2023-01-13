@@ -1,7 +1,7 @@
 Setup Process Management
 ===========================================
 
-.. note:: In order for Process Managemnet features to appear in the UI, the Process Management extension needs to be installed and the Process Management feature needs to be activated. Please consult with your local partner to set up these prerequisites.
+.. note:: In order for Process Managemnet features to appear in the UI, the Process Management feature needs to be activated. Please consult with your local partner to set up these prerequisites.
 
 Below you will find the steps needed in order to create a basic setup of Process Management.
 
@@ -74,7 +74,4 @@ Process Type Templates
 
    processlibrary/index
    processdirectory/index
-
-
-
 
