@@ -1,17 +1,33 @@
+  6.12.7
+========================================
+ (Omnia 6.12.7 / Workplace 6.12.6 / WCM 6.12.6 / MS 6.12.3)
+ 
+- Improved loading stability of SPFx integration (#140929).
+ - Corrected a display template race condition that would sometimes case parts of search to not render correctly (#142194).
+ - Improved support for MS Teams dark mode.
+ - Fixed an issue with User Profile Card exclusion filters.
+ - Stability improvements to MS Teams Tabs and Channel provisioning.
+ - Automatic translations correctly update the page rollups (#143502, #143548). 
+ - Fixed an issue where the related processes icon would sometimes not render correctly (#143314
+).
+ - Controlled Documents attachments now correctly open in a new tab (#143181). 
+ - Also fixes #142359.
+
+ 
  6.12.4
 ========================================
  (Omnia 6.12.4 / Workplace 6.12.3 / WCM 6.12.3 / MS 6.12.2)
  
 - Improved performance for the page rollup.
- - Corrected an issue with upgrading the Controlled Document library feature
- - Exclude variations now works as expected in the Digital Signage API (#142800)
- - Corrected an issue with copying and pasting multiple images in RTF.
- - Updated icon for comments/page with no reaction.
- - Corrected an issue with Controlled Documents where a blank space would sometimes be incorrectly added (#142753).
- - Corrected stepper rendering on narrow screens (#142446).
- - Tags handling now better supports multiple tags with different casing (#142544)
- - Help text now show up on all text block modes (#143151).
- - Corrected an issue where a section would move during the publish process (#142611).
+- Corrected an issue with upgrading the Controlled Document library feature
+- Exclude variations now works as expected in the Digital Signage API (#142800)
+- Corrected an issue with copying and pasting multiple images in RTF.
+- Updated icon for comments/page with no reaction.
+- Corrected an issue with Controlled Documents where a blank space would sometimes be incorrectly added (#142753).
+- Corrected stepper rendering on narrow screens (#142446).
+- Tags handling now better supports multiple tags with different casing (#142544)
+- Help text now show up on all text block modes (#143151).
+- Corrected an issue where a section would move during the publish process (#142611).
  
  
 
