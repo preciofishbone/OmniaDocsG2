@@ -7,7 +7,7 @@ When editing text in Omnia, a RTF editor can be available. What is available in 
 
 For more information about the settings, see: :doc:`RTF Editor Settings </admin-settings/tenant-settings/settings/rtf-editor/index>`
 
-In Omnia 6.12 and later it can be possible to add animated gifs, and emitcons in the RTF Editor. For more information, see the heading "Add an animated GIF" and the heading "Add an emoticon" below.
+In Omnia 6.12 and later it can be possible to add animated gifs, and emitcons in the RTF Editor. For more information, see the heading "Add an animated GIF" and the heading "Add an emoji" below.
 
 Using the RTF Editor
 **********************
@@ -155,22 +155,22 @@ Using the tools, you can add a clickable link, add an anchor name for the GIF, o
 
 For information about how to add a clickable link, see above under the heading "Add and edit Media". For information about anchors, se the heading "Add an anchor (bookmark)" below.
 
-Add an emoticon
+Add an emoji
 ---------------------
-In Omnia 6.12 and later, it can be possible to add an emoticon to the RTF Editor, using this icon:
+In Omnia 6.12 and later, it can be possible to add an emoji to the RTF Editor, using this icon:
 
 .. image:: rtf-emoticon-icon.png
 
-1. click where the emoticon should be placed.
+1. click where the emoji should be placed.
 2. Click the icon.
 
 Something like the following is now shown:
 
 .. image:: rtf-emoticon-select.png
 
-3. Use the search field or just browse to find the emoticon you want.
-4. Click the emoticon to add it. (You can add more than one if you want to).
-5. Click outside the emoticon window to close it.
+3. Use the search field or just browse to find the emoji you want.
+4. Click the emoji to add it. (You can add more than one if you want to).
+5. Click outside the emoji window to close it.
 
 Add a table
 ------------
