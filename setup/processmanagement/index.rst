@@ -24,6 +24,13 @@ Process Types
 
 .. image:: processtypes2.png
 
+Title property
+---------------
+In order for the Process Picker to be able to work as expected, the property "Title" must be added to the queyable properties for Process.
+
+.. image:: title-query-1.png
+.. image:: title-query-2.png
+
 Process Archive
 -------------------------------------------
 
@@ -68,6 +75,7 @@ Process Type Templates
 .. image:: setup-processtype-review.png
 
 .. image:: setup-processtype-archive.png
+
 
 .. toctree::
    :titlesonly:
