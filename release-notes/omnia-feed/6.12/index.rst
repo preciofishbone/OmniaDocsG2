@@ -1,44 +1,32 @@
 Release 6.12
 ========================================
 
-Allow to configure the display of properties per tab, new admin setting UI make it consistent with Page Rollup
+New streamlined Admin UI
 --------------------------------------
-https://trello.com/c/uB389HNW/852-allow-to-configure-the-display-of-properties-per-tab-and-not-global-120
-https://trello.com/c/RSoDR3um/853-allow-for-showing-and-sorting-differently-between-tabs-24
+
+To better align with the rest of Omnia, the Tabs Admin UI now follows the same patterns as Omnia Blocks.
 
 .. image:: NewAdminUI-TabsBlade.png
 .. image:: NewAdminUI-QueryTab1.png
 
-Support activity feed. User will get notification by their subscriptions
+Activity Feed
 --------------------------------------
-https://trello.com/c/mLoflzEL/939-co-dev-push-notifications-on-community-feeds-and-subscriptions-80
+
+The community Activity feed can now be used as a tab in Omnia Feed, the user will get push notifications based on their subscriptions.
+
 .. image:: CreateActivityFeed.png
 .. image:: ActivityTab.png
 
-Allow user to clear all notifications from settings screen
---------------------------------------
-https://trello.com/c/0PJzRdSm/703-make-the-clear-all-notification-more-visible
-
-Allow user to clear all notifications from settings screen
---------------------------------------
-https://trello.com/c/0PJzRdSm/703-make-the-clear-all-notification-more-visible
 
 
-Handle like and comments permission by App Instance Reader/Contributor role.
---------------------------------------
-https://trello.com/c/YKriA8JQ/1071-hide-like-and-comment-ui-if-users-not-have-permission
+Other Improvements
+-------------------------------------
+- App now supports rotation and can render in landscape mode.
+- Permission model updated to match the new roles of App Instance Reader and App Instance Contributor.
+- All notifications can now be cleared from the settings screen.
+- Announcements now properly supports icons from the Announcement Type. 
+- A page can now be Shared from the page details screen.
 
-Announcements show icon by Announcement Type.
---------------------------------------
-https://trello.com/c/lNeJ5x2V/61-fully-support-status-and-type-for-announcements-32
-
-Share button in page detail.
---------------------------------------
-https://trello.com/c/HfQ51DZO/1059-share-page
-
-Support rotation in app.
---------------------------------------
-https://trello.com/c/VatYedxH/1024-support-rotate-app-arriva-opm-in-omnia-feed
 
 Versions
 -----------------------------------------
