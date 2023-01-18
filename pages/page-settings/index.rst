@@ -1,4 +1,4 @@
-Publishing App settings in Omnia 6.12
+Publishing App settings
 =======================================
 
 **This page is being edited. Will be finished soon.**
