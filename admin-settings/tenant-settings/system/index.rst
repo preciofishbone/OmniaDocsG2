@@ -1,6 +1,6 @@
 System
 =============
-Here, the following can be set::
+Here, the following can be set:
 
 .. image:: system-612.png
 
