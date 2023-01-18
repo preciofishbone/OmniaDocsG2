@@ -1,7 +1,7 @@
 Features - Business Profile
 ===========================================
 
-All available features for the business profile are listed here and can be activated, deactivated and updated. Aavailable features can vary depending on options installed and Omnia version. Here's an example from Omnia 6.12:
+All available features for the business profile are listed here and can be activated, deactivated and updated. Aavailable features can vary depending on options installed and Omnia version. Here's an example:
 
 .. image:: features-business-profile-612-new.png
 
