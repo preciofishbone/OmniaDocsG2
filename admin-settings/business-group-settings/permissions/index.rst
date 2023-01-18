@@ -8,9 +8,7 @@ Users and groups
 ******************
 Here you can add or remove Business Profile Administrators, and set separate administrators for various parts of the Business Profile, if needed. You must be Business Profile Administrator or Tenant Administrator to edit the permissions. 
 
-A Business Profile Administrator automatically has permissions for Workspace, Shared Links and Announcements (and Search in Omnia 6,12) and therefore does not need to be added there. 
-
-(Image from Omnia 6.12).
+A Business Profile Administrator automatically has permissions for Workspace, Shared Links, Announcements and Search, and therefore does not need to be added there. 
 
 .. image:: permissions-business-profile-612.png
 
@@ -22,7 +20,7 @@ Single users, Security groups and Microsoft 365 groups can be added here (In Omn
 
 Note that external users that has been invited in the Azure AD can be added here as well. Users invited this way can log in with their own Microsoft 365 account.
 
-Administrators are added or removed the same way for Business Profile, Shared Links, Announcements and Search (just one field available). The Search permissions settings are available in Omnia 6.12 and later. Here's the settings for Business profile as an example:
+Administrators are added or removed the same way for Business Profile, Shared Links, Announcements and Search (just one field available). Here's the settings for Business profile as an example:
 
 .. image:: permissons-pb.png
 
