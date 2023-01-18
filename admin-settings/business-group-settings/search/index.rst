@@ -12,7 +12,7 @@ Select section for more information:
 
    search-config/index
    quick-search/index
-   advanced-search/advanced-search-67/index
+   advanced-search/advanced-search-612/index
    promoted-search-results/index
    search-feedback/index
    search-statistics/index
