@@ -7,8 +7,6 @@ When editing text in Omnia, a RTF editor can be available. What is available in 
 
 For more information about the settings, see: :doc:`RTF Editor Settings </admin-settings/tenant-settings/settings/rtf-editor/index>`
 
-In Omnia 6.12 and later it can be possible to add animated gifs, and emojis in the RTF Editor. For more information, see the heading "Add an animated GIF" and the heading "Add an emoji" below.
-
 Using the RTF Editor
 **********************
 Here's the options that may be available in the editor:
@@ -134,7 +132,7 @@ Here's an example with the image width set to 200 pixels:
 
 Add an animated GIF
 ---------------------
-In Omnia 6.12 and later, it can be possible to add an animated GIF to the RTF Editor, using this icon:
+It can be possible to add an animated GIF to the RTF Editor, if settings allow it, using this icon:
 
 .. image:: rtf-animated-gif-icon.png
 
@@ -157,7 +155,7 @@ For information about how to add a clickable link, see above under the heading "
 
 Add an emoji
 ---------------------
-In Omnia 6.12 and later, it can be possible to add an emoji to the RTF Editor, using this icon:
+It can be possible to add an emoji to the RTF Editor, if settings allow it, using this icon:
 
 .. image:: rtf-emoticon-icon.png
 
@@ -216,7 +214,7 @@ When pasting contents from a Microsoft Word document into a Rich Text field, som
 
 Note that bold, underscore and headings are considered default HTML styles and will be kept, with the RTF Editor settings, even when pasting text only is selected.
 
-In Omnia 6.12 and later, images from the Word document are also pasted, if you select them. Note that this apply to Rich Text fields (blocks) only. It does not work for plain text.
+Images from the Word document are also pasted, if you select them. Note that this apply to Rich Text fields (blocks) only. It does not work for plain text.
 
 Add an anchor (bookmark)
 ---------------------------
