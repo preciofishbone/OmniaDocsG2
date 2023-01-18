@@ -1,4 +1,4 @@
-View as HTML in Omnia 6.12
+View as HTML
 ===================================
 
 The first you see is the list of views that has been created so far (just one in this example):
