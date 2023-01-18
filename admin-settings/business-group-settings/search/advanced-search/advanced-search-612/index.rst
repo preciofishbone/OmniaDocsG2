@@ -1,11 +1,11 @@
-Advanced Search settings in Omnia 6.12
+Advanced Search settings
 ==============================================
 
-In Omnia 6.12 and later, you can use these settings:
+You can use these settings here:
 
 .. image:: advanced-search-612-new.png
 
-+ **Collect statistic**: If search statistics should be collected from Advanced Searh, select this option. Search results can then be displayed in Omnia Admin. For more information, see: :doc:`Search statistics </admin-settings/business-group-settings/search/search-statistics/index>`
++ **Collect statistic**: If search statistics should be collected from Advanced Search, select this option. Search results can then be displayed in Omnia Admin. For more information, see: :doc:`Search statistics </admin-settings/business-group-settings/search/search-statistics/index>`
 + **Search as you type**: The search can be executed either when the user hits enter or ongoing while the user types in the search field. Decide how it should work here.
 + **Hide Categories**: If categories should not be shown for users, select this option.
 + **Enable Promoted Search Results**: If it should be possible to see a promoted search result, select this option. Default=selected. For more information, see below.
