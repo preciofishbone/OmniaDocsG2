@@ -3,7 +3,7 @@ Features - Tenant
 
 All available Features for the Tenant is listed here and can be activated, deactivated and updated when needed. 
 
-Exactly what is available can differ depending on how the Tenant is set up and the version of Omnia. The images below is from Omnia 6.12.
+Exactly what is available can differ depending on how the Tenant is set up and the version of Omnia. 
 
 Add-ons
 *********
