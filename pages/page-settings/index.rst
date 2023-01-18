@@ -188,8 +188,6 @@ To edit a menu option, click the pen, to delete it, click the dust bin.
 
 Document Management settings
 -----------------------------------
-**(More information will be added here soon).**
-
 The following settings are available here (example from an existing site):
 
 .. image:: document-management-settings.png
