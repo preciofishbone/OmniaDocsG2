@@ -1,7 +1,7 @@
 QR Code
 =======================================
 
-This block is available in Omnia 6.12 and later. Use it to a QR Code tp any Omnia page.
+Use this block to place a QR Code on any Omnia page.
 
 .. image:: qr-code-settings.png
 
