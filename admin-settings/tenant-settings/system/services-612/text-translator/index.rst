@@ -1,7 +1,7 @@
 Text Translator
 =======================================
 
-If you have installed a separate text translator, use this option to select it. This option is available in Omnia 6.12 and later.
+If you have installed a separate text translator, use this option to select it. 
 
 The Dafault translator is always available:
 
