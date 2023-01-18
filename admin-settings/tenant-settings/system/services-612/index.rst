@@ -1,7 +1,7 @@
 Services
 =======================================
 
-In Omnia 6.12, the following settings are found here.
+The following settings are found here.
 
 .. image:: services-all-612.png
 
