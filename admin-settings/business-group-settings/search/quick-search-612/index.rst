@@ -1,7 +1,7 @@
-Quick Search settings in Omnia 6.12
+Quick Search settings
 ==============================================
 
-The settings avilable here are valid in all places where Quick Search is available, both from menus and in the Search block. This page describes the settings in Omnia 6.12 and later.
+The settings avilable here are valid in all places where Quick Search is available, both from menus and in the Search block. 
 
 General
 ****************
