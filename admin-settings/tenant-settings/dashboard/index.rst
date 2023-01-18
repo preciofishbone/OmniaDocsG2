@@ -9,7 +9,7 @@ As you would a page type, the first step is to add the layout, using sections. S
 
 You then add the blocks you need. All available blocks are listed on this page: :doc:`Blocks </blocks/index>`
 
-The Metrics block can be especially useful: :doc:`The Metrics block </blocks/metrics/index>`
+The Metrics block can be especially useful: :doc:`The Metrics block </blocks/metrics-block-612/index>`
 
 You can also edit some of the metrics settings, in Omnia Admin, see: :doc:`Metric settings </admin-settings/tenant-settings/settings/metrics/index>`
 
