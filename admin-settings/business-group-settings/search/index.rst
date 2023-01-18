@@ -1,7 +1,7 @@
 Search
 ===========================================
 
-These options are available for Search (image from Omnia 6.12):
+These options are available for Search:
 
 .. image:: search-612.png
 
