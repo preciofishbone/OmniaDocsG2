@@ -1,7 +1,7 @@
 Settings
 ====================
 
-Here you can set the following (image from Omnia 6.12):
+Here you can set the following:
 
 .. image:: tenant-settings-612.png
 
