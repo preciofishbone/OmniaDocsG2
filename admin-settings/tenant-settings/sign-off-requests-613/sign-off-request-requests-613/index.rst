@@ -1,4 +1,4 @@
-Requests for Omnia 6.13
+Requests
 =============================================
 
 **This page is beeing working on. Will be finished soon.**
