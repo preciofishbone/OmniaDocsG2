@@ -159,7 +159,7 @@ When review reminders are activated you can set the following:
 + **Create Task**: If a review task should be created, select this option. For more information, see below.
 + **Task expire in**: This is shown when you select "Create Task". Set the number of days, months or years before the task will expire. 
 
-When you choose to create a task, this is shown (image from Omnia 6.12):
+When you choose to create a task, this is shown:
 
 .. image:: doctype-review-create-task.png
 
@@ -171,7 +171,7 @@ When you choose to create a task, this is shown (image from Omnia 6.12):
  
 4. Save when you're done with all settings. 
 
-**Important note!** In Omnia 6.12 the review reminder task has been updated. If a new edition/revision of a controlled document is published or the published document is deleted, any associated review reminder task will be automatically completed. If the review is completed, the review comment will be added to the document history and a new review date will be calculated based on the review reminder rule set on the document type.
+**Important note!** The review reminder task has been updated. If a new edition/revision of a controlled document is published or the published document is deleted, any associated review reminder task will be automatically completed. If the review is completed, the review comment will be added to the document history and a new review date will be calculated based on the review reminder rule set on the document type.
 
 Archive
 ----------
