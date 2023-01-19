@@ -10,22 +10,19 @@ These pages describes the settings in Omnia 6.13. For the settings available in 
 
 The following settings are available here in Omnia 6.13:
 
-.. image:: sign-off-requests-settings-new3.png
+.. image:: sign-off-requests-settings-613.png
 
 Select section for more information:
 
 .. toctree::
    :titlesonly:
 
-   settings/index
-   requests/index
-   templates/index
+   sign-off-settings-613/index
+   sign-off-request-requests-613/index
+   sign-off-templates-613/index
+   sign-off-permissions-613/index
+   sign-off-types-613/index
 
 A rollup block for Sign-off Requests, so managers and aministrators can keep track, will also be available: :doc:`Sign-off Requests block </blocks/sign-off-request/index>`
-
-
-
-
-
 
 
