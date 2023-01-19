@@ -238,8 +238,10 @@ This action can be added to the menu in a community but can also be added as a b
 .. image:: action-button-subscribe-new.png
 
 + **Unsubscribe Text**: A "Subscribe" button changes the text automatically when a user has clicked the button. Unsubscribe is suggested but you can change the text to something else.  
-+ **Subscription Scope**: Select the scope here, meaning what the user actually subscribes to; the Page (= all changes to the page, even comments and best reply for Knowledge pages), Publishing App (= all new pages in the Publishing App, but not changes to existing pages) or Page Collection (= all new pages in the Page Collection, but not changes to existing pages). The Scope can also be a Publishing Channel.
++ **Subscription Scope**: Select the scope here, meaning what the user actually subscribes to; the Page in a community (= all changes to the page, even comments and best reply for Knowledge pages), the Publishing App, meaing the Community app (= all new pages in the app, but not changes to existing pages) or the Page Collection for the community (= all new pages in the Page Collection, but not changes to existing pages). The Scope can also be a Publishing Channel.
 + **Publishing Channel**: If Publishing Channel was set as Scope, use this list to select channel.
+
+**Note!** Regardinf Publishing Apps - subscription is only meant to be used in communities. For more information, see: :doc:`Subscriptions in Communities </using-communities/subscriptions/index>`
 
 Button Style
 *******************
