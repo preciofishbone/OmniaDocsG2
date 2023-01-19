@@ -18,9 +18,9 @@ Select section for more information:
    :titlesonly:
 
    sign-off-settings-613/index
-   sign-off-request-requests-613/index
-   sign-off-templates-613/index
    sign-off-permissions-613/index
+   sign-off-request-requests-613/index
+   sign-off-templates-613/index   
    sign-off-types-613/index
 
 A rollup block for Sign-off Requests, so managers and aministrators can keep track, will also be available: :doc:`Sign-off Requests block </blocks/sign-off-request/index>`
