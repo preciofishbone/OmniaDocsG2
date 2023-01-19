@@ -1,4 +1,4 @@
-Sign-Off Requests templates for Omnia 6.13
+Templates
 =============================================
 
 **This page is beeing working on. Will be finished soon.**
