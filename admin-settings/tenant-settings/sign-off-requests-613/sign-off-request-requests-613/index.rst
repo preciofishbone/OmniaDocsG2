@@ -9,7 +9,7 @@ Here's an example of a list from a test environment:
 
 .. image:: sign-off-requests-requests-613.png
 
-The Status column in indicates if the request is open or closed. the Status column to the right indicates the number of answers; white for none, yellow for some/ongoing and green for all that the request was sent to.
+The "Status" column in indicates if the request is open or closed. the "Progress Status" column to the right indicates the number of answers; white for none, yellow for some/ongoing and green for all that the request was sent to.
 
 For more details and the possibiblty to delete a request, click the link (Name).
 
