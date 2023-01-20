@@ -79,13 +79,17 @@ Additionally, you can send a reminder to all participants.
 
 Close or delete a request
 ****************************
-You can close a request that should no longer be active. You can delete a request no longer need.
+You can close a request that should no longer be active. You can delete a request no longer needed.
 
 .. image:: sign-off-requests-checking-1a-613.png
 
-When you close a request, you can choose to send an email to those that has not completed the request:
+When you close a request, you can choose to send an email notification to the users that has not completed the request:
 
 .. image:: sign-off-requests-checking-2-613.png
+
+Just deselect if you don't need to send a message, and then click CLOSE REQUEST. If you choose to send a message, itäs sent immediately.
+
+Note that it's just a notification e-mail that is sent from the system. You can't add any text to that message (no dialog for that purpose is shown).
 
 A closed request can be reopened, a deleted request can (of course) not.
 
