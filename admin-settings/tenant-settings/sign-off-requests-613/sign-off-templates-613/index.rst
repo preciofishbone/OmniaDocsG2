@@ -31,5 +31,11 @@ You can now Navigate and Pick (Browse) or Search, the same way as in the Page Pi
 
 5. Click ADD when you have selected one or more pages to add to the Sign-off Request.
 6. Repeat adding pages until all pages you want in the template is in place.
-7. Click SAVE to save the template.
+7. Add a message for any of the pages, if needed. The messages can be edited when the template is used,
+
+Here's an example of a template with a number of pages and the fields where you can add messages.
+
+.. image:: sign-off-requests-templates-message-613.png
+
+8. Click SAVE to save the template.
 
