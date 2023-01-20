@@ -3,9 +3,6 @@ Sign-Off Requests Rollup in Omnia 6.13
 
 **Work on this page has just started. Will be finished soon.**
 
-Sign-off Requests Rollup
-==========================
-
 This block is used for listing the Sign-off Requests that is sent to the logged in user or a group that the user belongs to.
 
 This page describes how this works in Omnia 6.12 and earlier. For information on this block in Omnia 6.13, see: (linke to be added)
@@ -33,8 +30,5 @@ In the settings for the block, you can just add a block name:
 The WRITE TAB is not used here. The LAYOUT tab contains general settings, see: :doc:`General Block Settings </blocks/general-block-settings/index>`
 
 Settings for Sign-off Requests are available in Tenant settings: :doc:`Settings for Sign-off Requests </admin-settings/tenant-settings/sign-off-requests/index>`
-
-
-
 
 
