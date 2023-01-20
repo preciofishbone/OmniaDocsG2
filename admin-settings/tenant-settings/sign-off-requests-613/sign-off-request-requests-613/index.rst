@@ -44,7 +44,7 @@ If you use a template, this list will be pre populated, for example:
 
 .. image:: sign-off-requests-settings-2-613.png
 
-You can add a message (not mandatory) for each page, if needed, using the field below the page name.
+You can add a message (not mandatory) for each page, if needed, using the field below the page name, in any or all tenant languages. As always, click the flag to change language.
 
 To remove a page from the list, click the dust bin (this does not affect the template). To add additional pages, click the plus.
 
