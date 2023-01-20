@@ -19,7 +19,7 @@ To create a new template, do the following:
 
 2. Use these options:
 
-.. image:: sign-off-requests-templates-options.png
+.. image:: sign-off-requests-templates-options-613.png
 
 3. Add a name for the template in any of the tenant languages (click the flag to change language).
 
@@ -27,7 +27,7 @@ To create a new template, do the following:
 
 This is then shown:
 
-.. image:: sign-off-requests-templates-options-pages.png
+.. image:: sign-off-requests-templates-options-pages-613.png
 
 You can now Navigate and Pick (Browse) or Search, the same way as in the Page Picker (it's a part of the Page Picker that is used here). See this page for more information: :doc:`The Page Picker </general-assets/page-picker/index>`
 
