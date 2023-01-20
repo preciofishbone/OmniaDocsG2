@@ -3,6 +3,8 @@ Sign-off Requests Rollup
 
 This block is used for listing the Sign-off Requests that is sent to the logged in user or a group that the user belongs to.
 
+This page describes how this works in Omnia 6.12 and earlier. For information on this block in Omnia 6.13, see: (linke to be added)
+
 Here's an example with one of the requests opened:
 
 .. image:: sign-off-request-rollup-example.png
