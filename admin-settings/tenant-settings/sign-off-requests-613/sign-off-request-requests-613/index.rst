@@ -33,7 +33,7 @@ To create a new request, do the following:
 + **Request sent to**: Select one or more users or groups to send the request to by e-mail. Single users, Security groups and Microsoft 365 groups can be added here (In Omnia on-prem, Microsoft 365 groups can’t be used). Note that the maximum number to send to can be set under "Settings".
 
 3. Add or remove pages as needed.
-4. Add a message for each page, if needed (as always, click the flag to change language).
+4. Add a message for each page, if needed (for more information, see below).
 5. Click REQUEST to save the Sign-off request and send it. If you don't, nothing is saved.
 
 To add or remove pages
