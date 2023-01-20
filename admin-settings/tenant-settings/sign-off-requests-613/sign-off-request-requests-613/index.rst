@@ -29,7 +29,7 @@ To create a new request, do the following:
 + **Template**: Available when "From Template" is selected above. Lists all available Sign-off Request templates, if any. Select template here.
 + **Name**: Add a name for the request here, in any of the tenant languages (click the flag to chance language).
 + **Description**: You can add a description of the request here, in any of the tenant languages (click the flag to chance language).
-+ **Properties**: (A description will be adde soon).
++ **Properties**: (A description will be added soon).
 + **Resources**: Here you add the pages that should be signed off, using the Page Picker. If you selected a template, the list of pages will most likely be pre populated with a number of pages. You can add or remove pages as needed. See below for more details.
 + **Sign-off Type**: Select if this is a request that will be sent to just one colleauge (Individual) or to e group.
 + **Requested by**: Add one or more users that will be shown as the "sender" of this request. Must be persons, can not be a group. Will be shown to the receivers. Your name will be pre populated but it can be removed. This field must always contain at least one name though. 
