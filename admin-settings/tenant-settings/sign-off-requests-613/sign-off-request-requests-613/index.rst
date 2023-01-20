@@ -1,7 +1,7 @@
 Requests
 =============================================
 
-**This page is beeing working on. Will be finished soon.**
+**This part of the documentation is not ready yet. Will be finished in a few days.**
 
 All created requests are listed here. You can filter on "Requested By" and "Progress Status" (In Progress or Completed).
 
