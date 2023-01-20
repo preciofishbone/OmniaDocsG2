@@ -80,11 +80,11 @@ You can close a request that should no longer be active. You can delete a reques
 
 .. image:: sign-off-requests-checking-1a-613.png
 
-When you close a request, you can choose to send an email to those that has not completed the request, that it's no longer active:
+When you close a request, you can choose to send an email to those that has not completed the request:
 
 .. image:: sign-off-requests-checking-2-613.png
 
-A closed request can be reopened, a deleted request can (ofcourse) not.
+A closed request can be reopened, a deleted request can (of course) not.
 
 Sign-off Requests Rollup block
 *********************************
