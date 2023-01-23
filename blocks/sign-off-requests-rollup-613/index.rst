@@ -57,7 +57,7 @@ This tab contains settings for the view:
 
 .. image:: sign-off-requests-block-settings-display-613.png
 
-+ **View**: Can be "Summary view" or "List view". Summary view can only be used for the scope "Targeted to me". The image at the top is an example of a summary view.
++ **View**: Can be "Summary view" or "List view". Summary view can only be used for the scope "Targeted to me". The image at the top of this page is an example of a summary view.
 + **Add column**: For List view you must add at least one column. Click this option to do that. For more information, see below.
 + **Display details in**: In a List view, a post can be clicked for further details. Here you set how the details should be displayed; in a dialog to the left or a dialog to the right. 
 + **Paging**. Avalailable for Summary view. Can be "No paging", "Classic" or "Scroll".
