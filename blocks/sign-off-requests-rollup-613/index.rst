@@ -82,7 +82,7 @@ The following options are found on this tab:
 
 .. image:: sign-off-requests-block-settings-filter-613.png
 
-+ **Show search box**: To add a search box, select this option. When you do, some additional settings becomes available, see below.
++ **Show search box**: To add a search box, select this option. When you do, some additional settings becomes available.
 + **Hide filter by default**:  If you chose a search box you can select this option. Then no filters are shown until users has executed a search and got a search result.
 + **Save filter state**:  If you select this option the filter keeps it’s state in the page url as long as the page is active, and will be activated when the user goes back to the page, by using the browser’s Back button. The url can also be copied and for example be used to prepopulate the rollup.
 
