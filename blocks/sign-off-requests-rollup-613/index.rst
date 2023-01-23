@@ -11,6 +11,8 @@ One way of using this block is a listing of sign-off requests that is sent to th
 
 .. image:: sign-off-block-example-613.png
 
+In this example, the user has read and signedoff two of the posts, but not yet the third.
+
 The colored dots indicates the progress for the whole request, meaning the progress for all recipients: green for all has signed off, yellow for some and white for none.
 
 The user can read the information by clicking the link and can then sign off using a button. Here's two examples of how that button can look:
