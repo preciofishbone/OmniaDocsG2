@@ -1,7 +1,7 @@
 Sign-Off Requests Rollup in Omnia 6.13
 =============================================
 
-**Work on this page has just started. Will be finished soon.**
+**Work on this page is ongoing. Will be finished soon.**
 
 This block can be used for different purposes regarding sign-off requests. This page describes how this works in Omnia 6.13
 
