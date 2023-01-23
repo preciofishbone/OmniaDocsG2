@@ -31,7 +31,7 @@ Settings
 **********
 The following settings can be available:
 
-.. image:: sign-off-requests-block-settings-613.png
+.. image:: sign-off-requests-block-settings-613-border.png
 
 General
 ----------
