@@ -3,11 +3,11 @@ Sign-Off Requests Rollup in Omnia 6.13
 
 **Work on this page is ongoing. Will be finished soon.**
 
-This block can be used for different purposes regarding sign-off requests. This page describes how this works in Omnia 6.13
+The block can be used for different purposes regarding sign-off requests. This page describes how it works in Omnia 6.13
 
-Settings for Sign-off Requests are available in Tenant settings: :doc:`Settings for Sign-off Requests </admin-settings/tenant-settings/sign-off-requests/index>`
+Settings for Sign-off Requests are available in Tenant settings: :doc:`Settings for Sign-off Requests in Omnia 6.13 </admin-settings/tenant-settings/sign-off-requests-613/index>`
 
-One way of using this block is a listing of Sign-off Requests that is sent to the logged in user or a group that the user belongs to. Here's an example of such a listing with one of the requests opened:
+One way of using this block is a listing of sign-off requests that is sent to the logged in user or a group that the user belongs to. Here's an example of such a listing with one of the requests opened:
 
 .. image:: sign-off-block-example-613.png
 
