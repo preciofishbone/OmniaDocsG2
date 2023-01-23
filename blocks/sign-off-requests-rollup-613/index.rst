@@ -23,6 +23,8 @@ Or:
 
 .. image:: sign-off-request-rollup-example-signedoff-613-2.png
 
+Of course, the user can also sign-off by simply ticking the box in the list.
+
 It's also possible to "undo" a request, really meaning reading the information again. "Undo" is simply done by unchecking the box:
 
 .. image:: sign-off-request-rollup-example-undo.png
