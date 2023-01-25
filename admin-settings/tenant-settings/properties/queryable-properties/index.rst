@@ -10,6 +10,7 @@ In these lists, you add Properties that should be queryable in Omnias database. 
 + **App Instances**: In Teamwork Rollup.
 + **Pages**: In Page Rollup.
 + **Processes**: In Process Rollup.
++ **Sign-off Requests**: In Omnia 6.13.
 
 To be available here, a property must first be added to Enterprise Properties. 
 
