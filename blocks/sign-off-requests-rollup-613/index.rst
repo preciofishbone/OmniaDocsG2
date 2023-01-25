@@ -1,8 +1,6 @@
 Sign-Off Requests Rollup in Omnia 6.13
 =============================================
 
-**Work on this page is ongoing. Will be finished soon.**
-
 The block can be used for different purposes regarding sign-off requests. This page describes how it works in Omnia 6.13
 
 Settings for Sign-off Requests are available in Tenant settings: :doc:`Settings for Sign-off Requests in Omnia 6.13 </admin-settings/tenant-settings/sign-off-requests-613/index>`
@@ -28,6 +26,8 @@ Of course, the user can also sign-off by simply ticking the box in the list.
 It's also possible to "undo" a request, really meaning reading the information again. "Undo" is simply done by unchecking the box:
 
 .. image:: sign-off-request-rollup-example-undo.png
+
+The other two scopes - "Requested by me" and "All requests" can be usful for administrators. The "Requested by me" scope can be very useful for an administrator to keep track of sign-off requests that administrator has sent.
 
 Settings
 **********
@@ -60,10 +60,10 @@ This tab contains settings for the view:
 + **View**: Can be "Summary view" or "List view". Summary view can only be used for the scope "Targeted to me". The image at the top of this page is an example of a summary view.
 + **Add column**: For List view you must add at least one column. Click this option to do that. For more information, see below.
 + **Display details in**: In a List view, a post can be clicked for further details. Here you set how the details should be displayed; in a dialog to the left or a dialog to the right. 
-+ **Paging**. Avalailable for Summary view. Can be "No paging", "Classic" or "Scroll".
++ **Paging**: Avalailable for Summary view. Can be "No paging", "Classic" or "Scroll".
 + **Sort by**: Select what the view will be sorted by.
 + **Ascending/Descending**: Sort order is selected here, you know the drill.
-+ **No result text**: If a text should be shown when the query is empty, add the text here, in any or all the tenant languages.
++ **No result text**: If a text should be shown when the result of the query is empty, add the text here, in any or all the tenant languages.
 + **Padding**: You can add some padding if needed, the usual way for a block.
 
 When you add a column, first select the column in the list:
