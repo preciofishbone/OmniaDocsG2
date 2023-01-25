@@ -1,9 +1,9 @@
 Queryable Properties
 ===========================
 
-Three lists are available here:
+These lists are available here (image from Omnia 6.13):
 
-.. image:: queryable-all.png
+.. image:: queryable-all-613.png
 
 In these lists, you add Properties that should be queryable in Omnias database. The Properties are used in the Query Builder, so far in these blocks:
 
