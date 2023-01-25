@@ -31,7 +31,7 @@ To create a new request, do the following:
 + **Description**: You can add a description of the request here, in any of the tenant languages (click the flag to chance language).
 + **Properties**: (A description will be added soon).
 + **Resources**: Here you add the pages that should be signed off, using the Page Picker. If you selected a template, the list of pages will most likely be pre populated with a number of pages. You can add or remove pages as needed. See below for more details.
-+ **Sign-off Type**: Select if this is a request that will be sent to just one colleauge (Individual) or to e group.
++ **Sign-off Type**: Select if this is a request that will be sent to just one colleauge (Individual) or to a group.
 + **Requested by**: Add one or more users that will be shown as the "sender" of this request. Must be persons, can not be a group. Will be shown to the receivers. Your name will be pre populated but it can be removed. This field must always contain at least one name though. 
 + **Request sent to**: Select one or more users or groups to send the request to by e-mail - depending on what you selected under "Sogn-off Type". Single users, Security groups and Microsoft 365 groups can be added here (In Omnia on-prem, Microsoft 365 groups can’t be used). Note that the maximum number to send to can be set under "Settings". This field is mandatory or the request can not be saved, but it can of course be edited later.
 
