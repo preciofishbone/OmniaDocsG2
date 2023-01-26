@@ -1,8 +1,6 @@
 Requests
 =============================================
 
-**There are still some details that will be added/edited in this description. Will be finished in a few days.**
-
 All created requests are listed here. You can filter on "Requested By" and "Progress Status" (In Progress or Completed).
 
 Here's an example of a list from a test environment:
@@ -25,15 +23,16 @@ To create a new request, do the following:
 
 .. image:: sign-off-requests-settings-1-613.png
 
-+ **Custom**: Here you can choose to create a Custom Sign-off Request or use a template. 
-+ **Template**: Available when "From Template" is selected above. Lists all available Sign-off Request templates, if any. Select template here.
++ **Types**: Only available if more than one type has been set up, and is then mandatory. If just one type exists, it's still used but the "Types" option is not shown here. 
++ **Provider**: Here you can choose to create a Custom Sign-off Request or use a template. You can also select “Current Page” which is very useful in for example a Page Type. The request is then always tied to the current page, wherever that is.
++ **Template**: Available when "From Template" is selected above. Lists all available Sign-off Request templates, if any. Select template here. 
 + **Name**: Add a name for the request here, in any of the tenant languages (click the flag to chance language).
 + **Description**: You can add a description of the request here, in any of the tenant languages (click the flag to chance language).
-+ **Properties**: (A description will be added soon).
++ **Properties**: The property available depends on the Type used. Use it tag the request (for example with one or more departments, but can be anything). This can then be used as a filter for what is to be displayed in a certain Sign-off Requests Rollup block. 
 + **Resources**: Here you add the pages that should be signed off, using the Page Picker. If you selected a template, the list of pages will most likely be pre populated with a number of pages. You can add or remove pages as needed. See below for more details.
-+ **Sign-off Type**: Select if this is a request that will be sent to just one colleauge (Individual) or to a group.
-+ **Requested by**: Add one or more users that will be shown as the "sender" of this request. Must be persons, can not be a group. Will be shown to the receivers. Your name will be pre populated but it can be removed. This field must always contain at least one name though. 
-+ **Request sent to**: Select one or more users or groups to send the request to by e-mail - depending on what you selected under "Sogn-off Type". Single users, Security groups and Microsoft 365 groups can be added here (In Omnia on-prem, Microsoft 365 groups can’t be used). Note that the maximum number to send to can be set under "Settings". This field is mandatory or the request can not be saved, but it can of course be edited later.
++ **Sign-off Type**: Select how the sign-off request will be handled. If you select "Individual", all users added to "Request sent to" will receive a personal request. Everyone has to sign-off individually. If you select "Group", it works as one group request, meaning it's enough that any of the recipients signs-off the request. All other recipients can see that the request was sent to them and can see if someone in the group has signed off, they can see if the task is done or not.
++ **Requested by**: Add one or more users, or groups, that will be shown as the "sender" of this request. Will be shown to the receivers. Your name will be pre populated but it can be removed. This field must always contain at least one person or group. To add several users or a group here can be useful, then all users, or the whole group, will be able to follow up on the request. This field is mandatory.
++ **Request sent to**: Select one or more users or groups to send to. Single users, Security groups and Microsoft 365 groups can be added here (In Omnia on-prem, Microsoft 365 groups can’t be used). This field is mandatory. 
 
 3. Add or remove pages as needed.
 4. Add a message for each page, if needed (for more information, see below).
