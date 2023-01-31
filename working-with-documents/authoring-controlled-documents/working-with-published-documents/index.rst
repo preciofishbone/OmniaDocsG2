@@ -193,9 +193,9 @@ When you delete a document, you get a chance to change your mind:
 
 If an archive for documents is set up, the document is placed in the archive. The archive works as before, but in Omnia 6.13 the deleted document is also placed in a local (= for the site) recycle bin. 
 
-If needed, an administrator can restore a document from there. A restored document, is restored as a draft and can then be edited and published the normal way. Also, if the document was published as a PDF, it's the original document that is restored, so the document can be edited.
+If needed, an administrator can restore a document from there. When a document is restored, a draft is created in Drafts as a new edition, and can then be edited and published the normal way. Also, if the document was published as a PDF, it's the original document that is restored, so the document can be edited.
 
-The restored document keeps it's ID and the document history is retrieved as well. it's noted in the history that the document has been deleted and restored (if that happened).  
+The restored document keeps it's ID and the document history is retrieved as well. It's noted in the history that the document has been deleted and restored (if that happened).  
 
 The recycle bin for controlled documents can look this (image from a test environment):
 
@@ -207,7 +207,7 @@ Select the document and select option.
 
 .. image:: delete-document-613-recycle-bin-options.png
 
-If you choose to permanently delete a document here, you can change your mind:
+If you choose to permanently delete a document, you get a chance to change your mind:
 
 .. image:: delete-document-613-recycle-bin-options-delete.png
 
@@ -215,5 +215,5 @@ If you choose to restore a document, the following is shown:
 
 .. image:: delete-document-613-recycle-bin-options-restore.png
 
-These are the same options as when you create a draft from a published document. See above for a secription-
+These are the same options as when you create a draft from a published document. See above for a decription.
 
