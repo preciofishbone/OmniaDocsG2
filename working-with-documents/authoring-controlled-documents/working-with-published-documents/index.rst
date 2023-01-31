@@ -166,6 +166,8 @@ If the URL is correct the site title is shown in the second field - Site Title.
 
 Unpublish
 **********
+As described in this section, this is how it works in Omnia 6.12 and earlier. For Omnia 6.13 and later, see below.
+
 If needed, a published document can be unpublished. The document is then removed from the Controlled Documents library. If an archive for documents is set up, the document is placed in the archive. If a document archive is not set up, the document is simply deleted.
 
 **Note!**
@@ -174,4 +176,44 @@ A document can't be unpublished if a draft has been created for that document. T
 When "Unpublish" is selected, you get a second chance to change your mind:
 
 .. image:: unpublish-2-new2.png
+
+Delete and restore a document
+********************************
+In Omnia 6.13 and later, this option is now called Delete:
+
+.. image:: delete-document-613.png
+
+It works like this:
+
+A published document that has a new draft can't be deleted, just as before, the draft must be deleted first.
+
+When you delete a document, you get a chance to change your mind:
+
+.. image:: delete-document-613-ok.png
+
+If an archive for documents is set up, the document is placed in the archive. The archive works as before, but in Omnia 6.13 the deleted document is also placed in a local (= for the site) recycle bin. 
+
+If needed, an administrator can restore a document from there. A restored document, is restored as a draft and can then be edited and published the normal way. Also, if the document was published as a PDF, it's the original document that is restored, so the document can be edited.
+
+The restored document keeps it's ID and the document history is retrieved as well. it's noted in the history that the document has been deleted and restored (if that happened).  
+
+The recycle bin for controlled documents can look this (image from a test environment):
+
+.. image:: delete-document-613-recycle-bin.png
+
+Here, documents can be restored or permanently deleted.
+
+Select the document and select option.
+
+.. image:: delete-document-613-recycle-bin-options.png
+
+If you choose to permanently delete a document here, you can change your mind:
+
+.. image:: delete-document-613-recycle-bin-options-delete.png
+
+If you choose to restore a document, the following is shown:
+
+.. image:: delete-document-613-recycle-bin-options-restore.png
+
+These are the same options as when you create a draft from a published document. See above for a secription-
 
