@@ -147,6 +147,7 @@ Card
 ------
 The special settings for this view are:
 
++ **Preview**: Available in Omnia 6.13 and later. Select the property to base the preview on. It can be either a media property or a document data property.
 + **Cards per Row**: As it says, set the number of cards to show per row.
 + **Show Last Comment**: If you seect this, the last comment for the page, if any, will be displayed on the card.
 + **Person**: This option can be used to show properties in Card view.
