@@ -76,12 +76,6 @@ The person requesting the Teamwork receives the message and can then start a new
 
 **Note!** Requesting a Teamwork must always be done from start each time. If rejected, nothing from the request is saved.
 
-Important note about Site Ownership when approving
------------------------------------------------------
-If you're using an Omnia version earlier than 6.10: Because of caching issues in Sharepoint, it can take some time, even up to 2 hours after approval, before site ownership will work as intended - as set in the Teamwork Creation Wizard in Omnia. During this time, the Approver will have Owner permissions. 
-
-(In Omnia 6.10 and later this is now longer an issue).
-
 Orphaned
 **********
 When a site of the type Microsoft 365 Team Site, Sharepoint Team Site or Sharepoint Communication Site is created, a Sharepoint site is created and is connected to the site. A Yammer Group can also need a Sharepoint site, depending on how the Yammer Group is set up.
