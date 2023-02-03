@@ -38,20 +38,25 @@ Process Archive
 
 .. note:: If you have Document Management setup, you can ignore step 16 - 17.
 
-16. Go to the Business Profile in which you want to host the central controlled documents archive.
-17. Go to Teamwork Templates and create a new template that can be used for system sites.
+16. Go to the Business Profile in which you want to host the process archive.
+17. Go to Teamwork > Templates and create a new template that can be used for system sites.
 
 (A Publishing Template can be used as well, but using a Teamwork Template is the more common solution).
 
 .. image:: provisioningtemplate-system-613.png
 
-18. Click on Teamwork in Omnia Admin and create a new site for the process archive based on the System Site template.
+18. Click on Teamwork > Apps and create a new site for the process archive based on the System Site template.
 
-.. image:: process-archive.png
+.. image:: create-process-archive-613.png
 
 19. Activate the feature Process Archive on the newly created site.
+
+.. image:: process-archive-613-feature.png
+
 20. Click on Process Management in Omnia Admin and click on Settings.
-21. Put in the full url to the newly created site in the Archive Site Url and save.
+21. Add the full url to the newly created site in the Archive Site Url and save.
+
+.. image:: process-archive-613-url.png
 
 Process Type Templates
 ---------------------------------------------
