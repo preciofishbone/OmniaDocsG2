@@ -39,7 +39,9 @@ Process Archive
 .. note:: If you have Document Management setup, you can ignore step 16 - 17.
 
 16. Go to the Business Profile in which you want to host the central controlled documents archive.
-17. Go to Provisioning Template and create a new template that can be used for system sites.
+17. Go to Teamwork Templates and create a new template that can be used for system sites.
+
+(A Publishing Template can be used as well, but using a Teamwork Template is the more common solution).
 
 .. image:: provisioningtemplate-system.png
 
