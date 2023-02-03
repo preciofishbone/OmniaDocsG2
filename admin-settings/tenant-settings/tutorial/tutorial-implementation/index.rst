@@ -23,6 +23,8 @@ The tutorial is targeted to the start page and will start automatically:
 
 In the Navigation Bar for the Workspace, for the Business Profile, it has been set that tutorials should be available in the Action Menu. The option is shown where a tutorial is available, but not shown otherwise.
 
+**Note!** The tutorial must be set up in the action menu to start automatically, as is done in this implementation example.
+
 .. image:: tutorial-example-6-new.png
 
 As it is an introduction that should be available for everyone, it's not targeted.
