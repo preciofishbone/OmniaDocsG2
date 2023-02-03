@@ -20,6 +20,6 @@ Select section for a description:
    statistics/index
    documents-bulk-update/index
    document-termination/index
-  
+   about-merging-terms/index
    
 
