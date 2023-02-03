@@ -5,6 +5,8 @@ Using this option in Omnia Admin a Tenant Administrator can create and edit Tuto
 
 A Tutorial can be set up to start automatically when a page is opened. But if it's not, users select the "Tutorial" icon in the heading or in the menu.
 
+**Note!** For the tutorial to start automatically, the tutorial must be set up in the action menu.
+
 For an implementation example, see this page: :doc:`Tutorial implementation example </admin-settings/tenant-settings/tutorial/tutorial-implementation/index>`
 
 Create or edit a Tutorial
