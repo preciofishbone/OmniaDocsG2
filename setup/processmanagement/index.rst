@@ -43,7 +43,7 @@ Process Archive
 
 (A Publishing Template can be used as well, but using a Teamwork Template is the more common solution).
 
-.. image:: provisioningtemplate-system.png
+.. image:: provisioningtemplate-system-613.png
 
 18. Click on Teamwork in Omnia Admin and create a new site for the process archive based on the System Site template.
 
