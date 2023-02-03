@@ -66,7 +66,7 @@ Process Type Templates
 
 .. image:: setup-process-templates.png
 
-24. Go to Omnia Admin > Properties > Enterprise Property. Create a new Person property for Process Owner.
+24. Go to Omnia Admin > Properties > Enterprise Properties. Create a new Person property for Process Owner.
 
 .. image:: setup-processowner.png
 
