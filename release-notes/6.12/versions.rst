@@ -1,3 +1,19 @@
+6.12.11
+========================================
+ (Omnia 6.12.11 / Workplace 6.12.8 / WCM 6.12.10 / MS 6.12.6)
+ 
+- Added additional settings to the New MS Stream media provider.
+ - Corrected an issue in setting Site Collection Administrator as AD group via Omnia (#144639). Also fixes (#144357).
+ - Search improvements to people search, full email search should now work as expected (#136764, #140571).
+ - Added additional logging to search flows for improved troubleshooting (#144296).
+ - Corrected a breaking API change in the Page Query API (#143495).
+ - Updates to naming policy behaviours to better align with M365 OOTB policies (if set) (#143531).
+ - Added information that search spelling suggestions only work in English (#144301).
+ - OneDrive no longer show up as an option when running Omnia OnPrem.
+ - Fixed an issue with RSS rendering of certain feeds (#144233).
+ - Corrected a rendering issue with black boxes around tabs. Box and margin now only show when running with accessibility on. (#144593, #143957).
+ - Improved logic for copying ODM documents (#144023).
+
 6.12.9
 ========================================
  (Omnia 6.12.9 / Workplace 6.12.7 / WCM 6.12.9 / MS 6.12.5)
