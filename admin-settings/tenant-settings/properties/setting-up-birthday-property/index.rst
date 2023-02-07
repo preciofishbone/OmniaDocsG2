@@ -13,3 +13,13 @@ Here's how to set up a birthday property in Omnia:
 
 (Will be added soon).
 
+.. image:: birthday-property-1.png
+
+.. image:: birthday-property-2.png
+
+.. image:: birthday-property-3.png
+
+.. image:: birthday-property-4.png
+
+.. image:: birthday-property-5.png
+
