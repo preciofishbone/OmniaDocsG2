@@ -1,4 +1,22 @@
-  6.12.7
+6.12.9
+========================================
+ (Omnia 6.12.9 / Workplace 6.12.7 / WCM 6.12.9 / MS 6.12.5)
+ 
+ - Updated support for MS Teams provisioning to support more channel languages (#143862).
+ - Corrected a client-side store issue related to rename node (#143966).
+ - Corrected a design issue on the page rollup card view (#143795).
+ - Improved stability when login tokens expire in SPFx (#140929).
+ - Corrected a current node race condition for the page rollup (#143797).
+ - Event management outlook events are now prevented from being forwarded (#133219).
+ - An archived node no longer shows up in move page (#143811).
+ - Accordion section setting to always show expanded now works as expected (#144259).
+ - Several improvements to the RTF editor in regard to copying images between omnia pages and from MS Teams.
+ - Several improvements to the page rollup targeting system (#144090, #143919).
+ - Hide if no content logic updated to always show content when supposed to (#144297, #144843, #144226).
+ - Page rollup query builder settings no longer affect when page rollup in pick pages mode (#144600, #144602).
+
+
+6.12.7
 ========================================
  (Omnia 6.12.7 / Workplace 6.12.6 / WCM 6.12.6 / MS 6.12.3)
  
