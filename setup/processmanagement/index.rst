@@ -1,8 +1,6 @@
 Setup Process Management
 ===========================================
 
-**This setup description is being updated. Will be finished soon.**
-
 .. note:: In order for Process Managemnet features to appear in the UI, the Process Management feature needs to be activated. Please consult with your local partner to set up these prerequisites.
 
 Below you will find the steps needed in order to create a basic setup of Process Management.
@@ -66,9 +64,11 @@ Process Type Templates
 
 .. image:: setup-process-templates.png
 
-24. Go to Omnia Admin > Properties > Enterprise Properties. Create a new Person property for Process Owner.
+24. Go to Omnia Admin > Properties > Enterprise Properties. Create a new Person property for Process Owner. An example:
 
-.. image:: setup-processowner.png
+.. image:: setup-processowner-new.png
+
+25. Go to Omnia Admin > Properties > Queryable Properties. Add the new Person property for Process Owner as a queryable property under Processes.
 
 25. Go to Omnia Admin > Properties > Property Sets. Create a new Property Set that can be used for your processes. Include the new Process Owner property.
 
