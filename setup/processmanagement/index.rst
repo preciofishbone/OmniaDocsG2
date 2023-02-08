@@ -70,12 +70,12 @@ Process Type Templates
 
 25. Go to Omnia Admin > Properties > Queryable Properties. Add the new Person property for Process Owner as a queryable property under Processes.
 
-25. Go to Omnia Admin > Properties > Property Sets. Create a new Property Set that can be used for your processes. Include the new Process Owner property.
+26. Go to Omnia Admin > Properties > Property Sets. Create a new Property Set that can be used for your processes. Include the new Process Owner property.
 
 .. image:: setup-process-propertyset.png
 
-26. Go to Omnia Admin > Process Management > Process Types.
-27. Create a new Process Type.
+27. Go to Omnia Admin > Process Management > Process Types.
+28. Create a new Process Type.
 
 .. image:: setup-processtype-general.png
 
