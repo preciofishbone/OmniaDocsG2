@@ -2,7 +2,9 @@ Setup Process Directory
 ===========================================
 
 1. Create a new page in a publishing app where you want the Process Directory to be located.
-2. Create a Page Type called Process and add all relavant process blocks to the page and the property Process. Note! Make sure to "Exclude current node" on the Breadcrumb block.
+2. Create a Page Type called Process and add all relevant process blocks to the page and the property Process. 
+
+**Note!** Make sure to "Exclude current node" on the Breadcrumb block.
 
 .. image:: setup-process-pagetype.png
 
