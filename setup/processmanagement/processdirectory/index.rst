@@ -11,4 +11,4 @@ Setup Process Directory
 3. Create a sub page to the Process Directory page called Process based on the newly created Page Type.
 4. Go to the Process Directory page and add the Process Rollup block. Set the View Page Url to the newly created process page.
 
-.. image:: setup-processdirectory
+.. image:: setup-processdirectory-new.png
