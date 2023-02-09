@@ -4,8 +4,7 @@
 
   
 
-  Setup Wizard
-----------------------------------------
+- Setup Wizard
 - Now supports the setup of Knowledge sharing.
 - Now supports the setup of a Learning Center.
 - Now support additional News Centers. 
@@ -13,8 +12,7 @@
 
 
 
-  Web Content Management
-----------------------------------------
+- Web Content Management
 - Fixed an issue that prevented the Channels admin UI to load correctly (#143892).
 - Improved UX for commenting on mobile, the keyboard now opens automatically.
 - Posts block now handles permissions in a better way (#143491).
@@ -23,8 +21,7 @@
 - Improved stability for move page and move page collection. 
 
 
-Sign Off Requests
----------------------------------------
+- Sign Off Requests
 - Sign Off Requests now supports any enterprise property as metadata.
 - A new section for queryable properties for Sign Off requests have been added. 
 - A new Sign Off Request rollup has been added which includes configuirable columns.
@@ -32,13 +29,9 @@ Sign Off Requests
 - A new detail view of sign of requests. 
  
 
-Controlled Documents
----------------------------------------
+- Controlled Documents
 - Controlled documents now have an greatly improved recycle bin.
 
-
-General
----------------------------------------
 - Direct links to New Stream videos can now be used in the Media picker.
 
 
