@@ -1,8 +1,8 @@
-6.12.11
+6.12.12
 ========================================
- (Omnia 6.12.11 / Workplace 6.12.8 / WCM 6.12.10 / MS 6.12.6)
+ (Omnia 6.12.12 / Workplace 6.12.8 / WCM 6.12.10 / MS 6.12.7)
  
-- Added additional settings to the New MS Stream media provider.
+ - Added additional settings to the New MS Stream media provider.
  - Corrected an issue in setting Site Collection Administrator as AD group via Omnia (#144639). Also fixes (#144357).
  - Search improvements to people search, full email search should now work as expected (#136764, #140571).
  - Added additional logging to search flows for improved troubleshooting (#144296).
@@ -13,6 +13,9 @@
  - Fixed an issue with RSS rendering of certain feeds (#144233).
  - Corrected a rendering issue with black boxes around tabs. Box and margin now only show when running with accessibility on. (#144593, #143957).
  - Improved logic for copying ODM documents (#144023).
+ - Stability improvements to ODM document publish flow (#144858).
+ - Copying images from different RTF source now have much better compatibility. (#143366).
+
 
 6.12.9
 ========================================
