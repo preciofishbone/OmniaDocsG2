@@ -1,8 +1,6 @@
 About merging terms
 =============================================
 
-**Work on this page has just started. Will be finished soon.**
-
 If you merge terms that are used in document management, you need to be aware of this:
 
 + It can take several hours before the mereged terms are available for use in the lists for published and draft documents.
