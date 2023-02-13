@@ -3,7 +3,7 @@ Digital Signage
 
 The following options are available for Digital Signage in Omnia 6.12 and earlier. 
 
-For options in Omnia 6.13 and later, see: Digital signage in Omnia 6.13
+For options in Omnia 6.13 and later, see: :doc:`igital signage in Omnia 6.13 </admin-settings/tenant-settings/settings/digital-signage-613/index>`
 
 Prerequisite: the feature Digital Signage must be activated.
 
