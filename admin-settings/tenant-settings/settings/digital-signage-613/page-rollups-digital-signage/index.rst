@@ -41,17 +41,17 @@ If you select Tenant, Business Profile or Publishing Apps as the scope you can a
 The following settings can then be available, depending on scope chosen:
 
 + **SELECT START NODE**: Available for scope Navigation path. Choose the start point for the navigation path to be displayed. If you select "Custom", you can use the Page Picker to select start node.
-+ **Exclude start node**: Available for scope Navigation path. If the start page selected should not be displayed in the block, select this option.
-+ **Exclude variations**: Usings this option, you can exclude varations from the query. Not available for Navigation path.
-+ **Trim duplicates**: If more than one Rollup is added to a layout, this option can be used to handle duplicates between the blocks. When the option is selected, you can enter a number indicating the priority for duplicates, for this block. If you set "1" for a block it means this block has priority showing a post that would have been a duplicate. 
++ **Exclude start node**: Available for scope Navigation path. If the start page selected should not be displayed, select this option.
++ **Exclude variations**: Usings this option, you can exclude variations from the query. Not available for Navigation path.
++ **Trim duplicates**: If more than one Rollup is added to a layout, this option can be used to handle duplicates between the rollups. When the option is selected, you can enter a number indicating the priority for duplicates, for this rollup. If you set "1" for a rollup it means it has priority showing a post that would have been a duplicate. 
 + **Like, Comment, Rating**: Use these settings to decide the time period calculated for any of these options. If you don't select anything, it means "No Limit". You can select one week, two weeks or one month instead.
-+ **Navigation Depth Level**: Available for scope Navigation path. Choose the number of nodes that should be displayed, including the start node.
++ **Navigation Depth Level**: Available for scope Navigation path. Choose the number of nodes that should be displayed, including the start node (if shown).
 + **Item Limit**: Type the number to set the number of pages that should be retrieved to make sure all duplicates are found. You should not set this number higher than you really need, as higher numbers may have an impact on performance. Note that when you change the number, "Max Display Limit" is also changed, see below.
 + **Sort by**: Select a property to sort the list by, and then choose Ascending or Descending.
 
 Filter on Tenant
 ----------------
-When you have selected Tenant as the scope, you can add filters for what you want to display, bu clicking here:
+When you have selected Tenant as the scope, you can add filters for what you want to display, by clicking here:
 
 .. image:: rollups-signage-settings-tenant.png
 
@@ -68,6 +68,8 @@ Use this tab for view settings, similar to those in the Page Rollup block:
 .. image:: rollups-signage-view.png
 
 (Not all options are shown in the image, but described below.)
+
+A description will be added soon.....
 
 
 
