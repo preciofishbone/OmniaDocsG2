@@ -19,9 +19,9 @@ QUERY
 *******
 You work with these settings in a similar way to those in the Page Rollup block.
 
-+ **Pick Pages**: If the editor should be able to pick pages from a list, select this option.
-+ **ADD PAGE**: When you have selected Pick Pages, you can pick some pages to always be shown. Click this option and use the Page Picker. See this page for more information: :doc:`Page Picker </general-assets/page-picker/index>`
-+ **Use Query Builder**: If you want to use the query builder to set which pages should be available here, select this option.
++ **Pick Pages**: To pick specific pages, select this option.
++ **ADD PAGE**: When you have selected Pick Pages, you can pick pages using the Page Picker. See this page for more information: :doc:`Page Picker </general-assets/page-picker/index>`
++ **Use Query Builder**: If you want to use the query builder to choose pages, select this option.
 
 For Query Builder, the following options are available:
 
