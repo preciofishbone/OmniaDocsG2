@@ -34,7 +34,7 @@ For Query Builder, the following options are available:
   + Navigation Path.
   + Channel(s).
 
-When you have selected Business Profiles, Publishing Apps, Page Collections or Channels, as the next step, you select one or more to get the pages from, just as you would in the Page Rollup block. 
+When you have selected Business Profiles, Publishing Apps, Page Collections or Channels, you select one or more to get the pages from as the next step, just as you would in the Page Rollup block. 
 
 If you select Tenant, Business Profile or Publishing Apps as the scope you can add filters for what you want to display in the list, see below.
 
