@@ -1,7 +1,7 @@
 Digital signage in Omnia 6.13
 =============================================
 
-**Work on this part of the documentation has just started. Will be finished soon.**
+**Work on this part of the documentation is ongoing. Will be finished soon.**
 
 he following options are available for Digital Signage in Omnia 6.13 and later. 
 
