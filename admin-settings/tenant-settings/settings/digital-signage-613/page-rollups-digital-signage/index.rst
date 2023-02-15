@@ -69,7 +69,7 @@ Use this tab for view settings, similar to those in the Page Rollup block:
 
 (Not all options are shown in the image, but described below.)
 
-+ **Title, Summary, Content, Image**: Select proprety to get the information from, for each of these.
++ **Title, Summary, Content, Image**: Select property to get the information from, for each of these.
 + **Image Ratio**: For the selected image property, choose Square or Wide here.
 + **Created By, Created At**: Select property to get this information from.
 + **Text Column Width**: Set the text column width in pixels. 
