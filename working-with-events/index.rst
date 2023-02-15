@@ -22,7 +22,7 @@ If Event Management is connected to an Outlook Calendar, this additional option 
 
 + The Participant List displays a Status icon to indicate if the registered user has accepted the event in his or her calendar. 
 
-**Note!** System accounts that are used in Omnia does not support ADFS, which can cause calendars not being loaded. A work around for this exists and will be described here soon.
+**Note!** The service account used for event management can not be ADFS connected. If your organization uses AFDS, create and use a cloud-only account for this purpose instead.
 
 **Note!** In Omnia on-prem, Use personal exchange calendars. Support for Exchange server 2016 and 2019.
 
