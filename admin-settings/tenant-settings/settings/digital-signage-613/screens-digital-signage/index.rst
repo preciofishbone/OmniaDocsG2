@@ -1,8 +1,6 @@
 Screens (Digital Signage)
 =============================================
 
-**Work on this page has just started. Will be finished soon.**
-
 Use these settings to set up different screens to be used for digital signage.
 
 The screen that has been set up so far is listed, for example (from a test environment):
@@ -52,4 +50,17 @@ When you select this option the following is available:
 
 .. image:: digital-screens-third-party.png
 
-(A description will be added soon.)
+QUERY
+------
+On this tab, the same options are available as when creating rollups for digital signage, see: :doc:`Page Rollups (Digital Signage) </admin-settings/tenant-settings/settings/digital-signage-613/page-rollups-digital-signage/index>`
+
+JSON MAPPING
+-----------------
+On this tab, the following is available:
+
+.. image:: digital-screens-json-mapping.png
+
++ **Embed images in result**: If data for the images should be part of the data sent for the view, select this option. If not selected, images must be retrieved some other way.
++ **ADD PROPERTY**: Click here to add one or more properties that should be sent as data.
+
+
