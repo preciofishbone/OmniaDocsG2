@@ -1,8 +1,6 @@
 Page Rollups (Digital Signage)
 =============================================
 
-**Work on this page has just started. Will be finished soon.**
-
 Here you set up rollups to be used for digital signage. The list displays rollups that has been set up so far, for example:
 
 .. image:: rollups-signage-list.png
