@@ -1,7 +1,9 @@
 Page Rollups (Digital Signage)
 =============================================
 
-Here you set up rollups to be used for digital signage. The list displays rollups that has been set up so far, for example:
+Here you set up rollups to be used for digital signage. You can use these rollups when you create screens for a web browser.
+
+The list displays rollups that has been set up so far, for example:
 
 .. image:: rollups-signage-list.png
 
