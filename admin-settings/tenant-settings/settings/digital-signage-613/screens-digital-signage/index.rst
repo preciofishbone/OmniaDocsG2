@@ -3,7 +3,7 @@ Screens (Digital Signage)
 
 Use these settings to set up different screens to be used for digital signage.
 
-The screen that has been set up so far is listed, for example (from a test environment):
+The screens that has been set up so far is listed, for example (from a test environment):
 
 .. image:: digital-screens-list.png
 
