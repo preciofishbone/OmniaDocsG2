@@ -1,7 +1,7 @@
 Creating a new Event
 ======================
 
-This information is intended for Event Managers that needs to create a new event in an Event Center. Event Managers must have at least Author permissions.
+This information is intended for Event Managers that needs to create a new event in an Event Center. Event Managers must have Editor permissions.
 
 1. Go to the Event Center.
 2. Click the button for creating events.
