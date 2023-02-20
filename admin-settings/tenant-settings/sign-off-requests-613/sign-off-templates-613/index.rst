@@ -17,25 +17,60 @@ To create a new template, do the following:
 
 2. Use these options:
 
-.. image:: sign-off-requests-templates-options-613.png
+.. image:: sign-off-requests-templates-options-613-1.png
+
+and these:
+
+.. image:: sign-off-requests-templates-options-613-2.png
 
 3. Add a name for the template in any of the tenant languages (click the flag to change language).
 
-4. Click the plus to add pages.
+4. Decide what should be present in the request by activating/deactivating sections.
 
-This is then shown:
+.. image:: sign-off-requests-templates-sections.png
 
-.. image:: sign-off-requests-templates-options-pages-613.png
+5. Use the following possible settings:
 
-You can now Navigate and Pick (Browse) or Search, the same way as in the Page Picker (it's a part of the Page Picker that is used here). See this page for more information: :doc:`The Page Picker </general-assets/page-picker/index>`
++ **Title**: A title can be shown for the request and if activated (default) you can add a suggested title. Click the flag to change language.
++ **Descriptopn**: A descriprion can be shown for the request and if activated (default) you can add a suggested description. Click the flag to change language.
++ **To be signed off**: Here you add pages that should be read and signed off. See below for more information.
++ **Sign-off Type**: Select how the sign-off request will be handled. If you select “Individual”, all users added to “Request sent to” will receive a personal request. Everyone has to sign-off individually. If you select “Group”, it works as one group request, meaning it’s enough that any of the recipients signs-off the request. All other recipients can see that the request was sent to them and can see if someone in the group has signed off, they can see if the task is done or not.
+**Requested by**: Add one or more users, or groups, that will be shown as the “sender” of this request. Will be shown to the receivers. Your name will be pre populated but it can be removed. This field must always contain at least one person or group. To add several users or a group here can be useful, then all users, or the whole group, will be able to follow up on the request. 
+** Request sent to**: Select one or more users or groups to send to. Single users, Security groups and Microsoft 365 groups can be added here (In Omnia on-prem, Microsoft 365 groups can’t be used). 
+
+6. Save when you're done.
+
+Add pages to be signed off
+---------------------------
+Here's how to add pages to be signed off:
+
+1. Click ADD.
+
+.. image:: sign-off-requests-pages-add.png
+
+2. Choose Current Page or a Specific Page.
+
+.. image:: sign-off-requests-pages-current.png
+
+If you select "Current Page" the actual page where the sign-off request is placed can be signed off, wherever that is.
+
+When you select "Specific Page", continue like this:
+
+3. Navigate and Pick (Browse) or Search for pages, the same way as in the Page Picker (it's a part of the Page Picker that is used here). See this page for more information: :doc:`The Page Picker </general-assets/page-picker/index>`
 
 5. Click ADD when you have selected one or more pages to add to the Sign-off Request.
-6. Repeat adding pages until all pages you want in the template is in place.
-7. Add a message for any of the pages, if needed. The messages can be edited when the template is used.
 
-Here's an example of a template with a number of pages and the fields where you can add messages.
+The selected pages are now added to the section, for example:
 
-.. image:: sign-off-requests-templates-message-613.png
+.. image:: sign-off-requests-pages-section.png
+
+To remove a page from the list, click the dust bin.
+
+6. If you would like to add a message about the page, click the pen and add the message.
+
+.. image:: sign-off-requests-pages-section-message.png
+
+7. Repeat adding pages the same way until all pages you want in the template are in place.
 
 8. Click SAVE to save the template.
 
