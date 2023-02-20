@@ -7,7 +7,7 @@ It works a bit differently depending on if one or several types are cretaed here
 
 If you have created any, they will be listed here:
 
-.. image:: sign-off-types-list-new.png
+.. image:: sign-off-types-list-new2.png
 
 Create a new type
 *********************
@@ -15,15 +15,16 @@ Do the following to create a new type:
 
 1. Click the plus.
 
-.. image:: sign-off-types-clickplus.png
+.. image:: sign-off-types-clickplus-new.png
 
 2. Use the following settings:
 
-.. image:: sign-off-types-settings.png
+.. image:: sign-off-types-settings-new.png
 
 + **Name**: Add a name in any, or all the tenant languages. Click the flag to change language.
 + **Property set**: Select property set to be used for this type. You can find information on how property sets work here: :doc:`Property sets </admin-settings/tenant-settings/properties/property-sets/index>`.
 + **Templates**: Select one or more templates where this type should be used.
++ **Send e-mail in workflows**: If sign-off requests should be sent as e-mails in workflows, keep this option selected.
 
 3. Save when you're done.
 
