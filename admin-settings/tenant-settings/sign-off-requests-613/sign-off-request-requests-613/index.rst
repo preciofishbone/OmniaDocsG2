@@ -5,7 +5,7 @@ All created requests are listed here. You can filter on "Requested By" and "Prog
 
 Here's an example of a list from a test environment:
 
-.. image:: sign-off-requests-requests-613.png
+.. image:: sign-off-requests-requests-613-new.png
 
 The "Status" column indicates if the request is open or closed. the "Progress Status" column to the right indicates the number of answers; white for none, yellow for some/ongoing and green for all that the request was sent to.
 
@@ -17,13 +17,18 @@ To create a new request, do the following:
 
 1. Click the plus.
 
-.. image:: sign-off-requests-click-plus-613.png
+.. image:: sign-off-requests-click-plus-613-new.png
 
 2. Use the following settings:
 
-.. image:: sign-off-requests-settings-1-613.png
+.. image:: sign-off-requests-settings-1-613-new.png
 
 + **Types**: Only available if more than one type has been set up, and is then mandatory. If just one type exists, it's still used (the properties are available) but the "Types" option is not shown here. 
+
+When you have selected Type, some or all of these settings can be available: 
+
+**Some changes has been made here, will be updated soon**.
+
 + **Provider**: Here you can choose to create a Custom Sign-off Request or use a template. You can also select “Current Page” which is very useful in for example a Page Type. The request is then always tied to the current page, wherever that is.
 + **Template**: Available when "From Template" is selected above. Lists all available Sign-off Request templates, if any. Select template here. 
 + **Name**: Add a name for the request here, in any of the tenant languages (click the flag to chance language).
