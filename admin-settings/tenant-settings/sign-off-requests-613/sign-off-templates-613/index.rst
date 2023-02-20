@@ -66,7 +66,7 @@ The selected pages are now added to the section, for example:
 
 To remove a page from the list, click the dust bin.
 
-6. If you would like to add a message about the page, click the pen and add the message.
+6. If you would like to add a message about a page, click the pen and add the message.
 
 .. image:: sign-off-requests-pages-section-message.png
 
