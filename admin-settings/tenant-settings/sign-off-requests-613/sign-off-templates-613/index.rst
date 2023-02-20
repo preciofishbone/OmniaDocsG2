@@ -25,7 +25,7 @@ and these:
 
 3. Add a name for the template in any of the tenant languages (click the flag to change language).
 
-4. Decide what should be present in the request by activating/deactivating sections.
+4. Decide what should be present in the template by activating/deactivating sections.
 
 .. image:: sign-off-requests-templates-sections.png
 
