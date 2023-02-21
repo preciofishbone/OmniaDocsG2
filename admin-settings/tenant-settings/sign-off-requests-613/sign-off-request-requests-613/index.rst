@@ -83,7 +83,7 @@ Something like the following is shown, example from a test environment:
 
 .. image:: sign-off-requests-checking-1-613-new.png
 
-Here you can see, for example, the status and the number of recipients that has completed the request. If a message has been added to any of the pages, you can also see the messages here (not present in this example).
+Here you can see, for example, the status and the number of recipients that has completed the request. You can check the message (if any) for a page by clicking the pen.
 
 For more information, you can click "Download Details" to download an Excel file.
 
