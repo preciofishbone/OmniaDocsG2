@@ -213,15 +213,19 @@ Use this to add an Action button for Sign-off requests.
 
 .. image:: action-button-sign-off.png
 
-+ **Type**: You can choose between "Administration List" and "End-user sign-off".
++ **Type**: You can choose between "Administration List", "End-user sign-off" and "Create New Request".
 
-The Administration List, displays all Sign-off requests the logged in administrator has sent, indicating what has happened so far. Here's an example:
+The Administration List displays all Sign-off requests the logged in administrator has sent, indicating what has happened so far. Here's an example:
 
 .. image:: requests-admin-list.png
 
 The colored dots indicates the number of answers: white for none, yellow for some and green for all that the request was sent to.
 
 The End-user sign off displays the same as the Sign-off Request Rollup block does. See this page for an example: :doc:`The Sign-off Request Rollup block </blocks/sign-off-request/index>`
+
+The purpose of "Create New Request" is to make it possible to create a new sign-off request on any page. When creating the button, select type of request that should be possible to create. The sign-off types are set up in Omnia Admin, see: :doc:`Sign-off Request types </admin-settings/tenant-settings/sign-off-requests-613/sign-off-types-613/index>`
+
+When a user clicks a Create New Request button, a new request can be created the same way as descirbed on this page: :doc:`Requests </admin-settings/tenant-settings/sign-off-requests-613/sign-off-request-requests-613/index>`
 
 Strengthen Profile
 ----------------------
