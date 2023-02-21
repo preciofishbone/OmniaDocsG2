@@ -217,9 +217,11 @@ Use this to add an Action button for Sign-off requests.
 
 The Administration List displays all Sign-off requests the logged in administrator has sent, indicating what has happened so far. Here's an example:
 
-.. image:: requests-admin-list.png
+.. image:: requests-admin-list-new.png
 
 The colored dots indicates the number of answers: white for none, yellow for some and green for all that the request was sent to.
+
+Also note the NEW REQUEST link at the bottom of the list. That links can be used do create a new sign-off request the same way as in Omnia Admin, see link above.
 
 The End-user sign off displays the same as the Sign-off Request Rollup block does. See this page for an example: :doc:`The Sign-off Request Rollup block </blocks/sign-off-request/index>`
 
