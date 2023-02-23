@@ -7,7 +7,7 @@
   
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   
-  <title>6.12.0 &mdash; Omnia  documentation</title>
+  <title>6.12.12 &mdash; Omnia  documentation</title>
   
 
   
@@ -107,8 +107,12 @@
 <li class="toctree-l1"><a class="reference internal" href="../../accessability/index.html">Accessibility</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../cookies-consent-information/index.html">Cookies Consent information</a></li>
 <li class="toctree-l1 current"><a class="reference internal" href="../index.html">Release Notes</a><ul class="current">
+<li class="toctree-l2"><a class="reference internal" href="../6.13/index.html">Release 6.13 - Draft</a></li>
 <li class="toctree-l2 current"><a class="reference internal" href="index.html">Release 6.12</a><ul class="current">
-<li class="toctree-l3 current"><a class="current reference internal" href="#">6.12.0</a></li>
+<li class="toctree-l3 current"><a class="current reference internal" href="#">6.12.12</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#id2">6.12.9</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#id3">6.12.7</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#id4">6.12.0</a></li>
 </ul>
 </li>
 <li class="toctree-l2"><a class="reference internal" href="../6.10/index.html">Release 6.10</a></li>
@@ -177,7 +181,7 @@
         
           <li><a href="index.html">Release 6.12</a> &raquo;</li>
         
-      <li>6.12.0</li>
+      <li>6.12.12</li>
     
     
       <li class="wy-breadcrumbs-aside">
@@ -197,7 +201,87 @@
            <div itemprop="articleBody">
             
   <div class="section" id="id1">
-<h1>6.12.0<a class="headerlink" href="#id1" title="Permalink to this headline">¶</a></h1>
+<h1>6.12.12<a class="headerlink" href="#id1" title="Permalink to this headline">¶</a></h1>
+<blockquote>
+<div><p>(Omnia 6.12.12 / Workplace 6.12.8 / WCM 6.12.10 / MS 6.12.7)</p>
+<ul class="simple">
+<li><p>Added additional settings to the New MS Stream media provider.</p></li>
+<li><p>Corrected an issue in setting Site Collection Administrator as AD group via Omnia (#144639). Also fixes (#144357).</p></li>
+<li><p>Search improvements to people search, full email search should now work as expected (#136764, #140571).</p></li>
+<li><p>Added additional logging to search flows for improved troubleshooting (#144296).</p></li>
+<li><p>Corrected a breaking API change in the Page Query API (#143495).</p></li>
+<li><p>Updates to naming policy behaviours to better align with M365 OOTB policies (if set) (#143531).</p></li>
+<li><p>Added information that search spelling suggestions only work in English (#144301).</p></li>
+<li><p>OneDrive no longer show up as an option when running Omnia OnPrem.</p></li>
+<li><p>Fixed an issue with RSS rendering of certain feeds (#144233).</p></li>
+<li><p>Corrected a rendering issue with black boxes around tabs. Box and margin now only show when running with accessibility on. (#144593, #143957).</p></li>
+<li><p>Improved logic for copying ODM documents (#144023).</p></li>
+<li><p>Stability improvements to ODM document publish flow (#144858).</p></li>
+<li><p>Copying images from different RTF source now have much better compatibility. (#143366).</p></li>
+</ul>
+</div></blockquote>
+</div>
+<div class="section" id="id2">
+<h1>6.12.9<a class="headerlink" href="#id2" title="Permalink to this headline">¶</a></h1>
+<blockquote>
+<div><p>(Omnia 6.12.9 / Workplace 6.12.7 / WCM 6.12.9 / MS 6.12.5)</p>
+<ul class="simple">
+<li><p>Updated support for MS Teams provisioning to support more channel languages (#143862).</p></li>
+<li><p>Corrected a client-side store issue related to rename node (#143966).</p></li>
+<li><p>Corrected a design issue on the page rollup card view (#143795).</p></li>
+<li><p>Improved stability when login tokens expire in SPFx (#140929).</p></li>
+<li><p>Corrected a current node race condition for the page rollup (#143797).</p></li>
+<li><p>Event management outlook events are now prevented from being forwarded (#133219).</p></li>
+<li><p>An archived node no longer shows up in move page (#143811).</p></li>
+<li><p>Accordion section setting to always show expanded now works as expected (#144259).</p></li>
+<li><p>Several improvements to the RTF editor in regard to copying images between omnia pages and from MS Teams.</p></li>
+<li><p>Several improvements to the page rollup targeting system (#144090, #143919).</p></li>
+<li><p>Hide if no content logic updated to always show content when supposed to (#144297, #144843, #144226).</p></li>
+<li><p>Page rollup query builder settings no longer affect when page rollup in pick pages mode (#144600, #144602).</p></li>
+</ul>
+</div></blockquote>
+</div>
+<div class="section" id="id3">
+<h1>6.12.7<a class="headerlink" href="#id3" title="Permalink to this headline">¶</a></h1>
+<blockquote>
+<div><p>(Omnia 6.12.7 / Workplace 6.12.6 / WCM 6.12.6 / MS 6.12.3)</p>
+</div></blockquote>
+<ul class="simple">
+<li><p>Improved loading stability of SPFx integration (#140929).</p></li>
+</ul>
+<blockquote>
+<div><ul class="simple">
+<li><p>Corrected a display template race condition that would sometimes case parts of search to not render correctly (#142194).</p></li>
+<li><p>Improved support for MS Teams dark mode.</p></li>
+<li><p>Fixed an issue with User Profile Card exclusion filters.</p></li>
+<li><p>Stability improvements to MS Teams Tabs and Channel provisioning.</p></li>
+<li><p>Automatic translations correctly update the page rollups (#143502, #143548).</p></li>
+<li><p>Fixed an issue where the related processes icon would sometimes not render correctly (#143314</p></li>
+</ul>
+</div></blockquote>
+<dl>
+<dt>).</dt><dd><ul class="simple">
+<li><p>Controlled Documents attachments now correctly open in a new tab (#143181).</p></li>
+<li><p>Also fixes #142359.</p></li>
+</ul>
+<p>6.12.4</p>
+</dd>
+</dl>
+<ul class="simple">
+<li><p>Improved performance for the page rollup.</p></li>
+<li><p>Corrected an issue with upgrading the Controlled Document library feature</p></li>
+<li><p>Exclude variations now works as expected in the Digital Signage API (#142800)</p></li>
+<li><p>Corrected an issue with copying and pasting multiple images in RTF.</p></li>
+<li><p>Updated icon for comments/page with no reaction.</p></li>
+<li><p>Corrected an issue with Controlled Documents where a blank space would sometimes be incorrectly added (#142753).</p></li>
+<li><p>Corrected stepper rendering on narrow screens (#142446).</p></li>
+<li><p>Tags handling now better supports multiple tags with different casing (#142544)</p></li>
+<li><p>Help text now show up on all text block modes (#143151).</p></li>
+<li><p>Corrected an issue where a section would move during the publish process (#142611).</p></li>
+</ul>
+</div>
+<div class="section" id="id4">
+<h1>6.12.0<a class="headerlink" href="#id4" title="Permalink to this headline">¶</a></h1>
 <p>(Omnia 6.12.0 / Workplace 6.12.0 / WCM 6.12.0 / MS 6.12.0)</p>
 <div class="section" id="omnia">
 <h2>Omnia<a class="headerlink" href="#omnia" title="Permalink to this headline">¶</a></h2>
@@ -277,6 +361,10 @@
 <li><p>QR codes also supported in Digital Signage HTML views.</p></li>
 <li><p>Calendar rollup now correctly respects the UI item limit setting (#140246).</p></li>
 <li><p>HTML tables should now keep their style and position when processed by machine translation.</p></li>
+<li><p>Tags have been improved, they can now be added directly in the RTF editor.</p></li>
+<li><p>Page rollup card view now has explicit settings for where on the card to show different metadata.</p></li>
+<li><p>Creating App/Teamwork in dialog mode now renders correctly (#141474).</p></li>
+<li><p>Sort in page rollup now works as expected when querying by navigation path.</p></li>
 </ul>
 </div>
 <div class="section" id="search-and-people-rollup">
@@ -285,6 +373,7 @@
 <li><p>Corrected an issue where the search dialog would not close correctly on navigate (#139364, #140210).</p></li>
 <li><p>Spelling suggestions are now available for searching (#116122, #116114, #126845).</p></li>
 <li><p>Search queries can now use a number of tokens to combine user properties, user language, page properties and app instance properties into intelligent search queries (#115142, #115263, #120230)</p></li>
+<li><p>Document Rollup and People Rollup can now use a number of tokens to combine user properties, user language, page properties and app instance properties into intelligent search queries.</p></li>
 <li><p>Search statistics are now available in omnia admin, see main release notes.</p></li>
 <li><p>Fixed a race condition that would sometimes cause the previous search result to be rendered (#137980).</p></li>
 <li><p>Shared Links item template now includes description and has aligned its look and feel with other views.</p></li>
@@ -309,10 +398,13 @@
 <li><p>Added correct validation of length of title and alias when creating teamwork (#140627).</p></li>
 <li><p>Security on App level has been removed from Omnia Admin; it is no longer needed.</p></li>
 <li><p>Corrected an issue with Announcement emails, they now replace tokens correctly.</p></li>
-<li><p>App Instance properties can now be shown/hidden per property in new and edit forms respectively (#123637).</p></li>
+<li><p>App Instance properties can now be shown/hidden per property in new and edit forms respectively (#123637, #118788).</p></li>
 <li><p>Images can now be attached on a post in the posts block.</p></li>
 <li><p>Team News Rollup now supports more news image thumbnails.</p></li>
 <li><p>The teamwork rollup can now open the associated omnia layout instead of the teamwork resource itself.</p></li>
+<li><p>Updated email template on comments for important announcements. Title token now works as expected.</p></li>
+<li><p>Teamwork title and Alias now correctly validates max length that is enforced by Microsoft (#131843, #142447).</p></li>
+<li><p>Updated the way we set members in the teamwork creation wizard for better compatibility with MS Teams (#141688).</p></li>
 </ul>
 </div>
 <div class="section" id="management-system">
@@ -352,6 +444,7 @@
 <li><p>Improved keyboard controls for the advanced search.</p></li>
 <li><p>Added alt text to the placeholder image in the page rollup.</p></li>
 </ul>
+<p>Also fixes preview issues: #142201, #142533, #142203, #142204</p>
 </div>
 </div>
 
@@ -369,9 +462,9 @@
 
   <div role="contentinfo">
     <p>
-        &#169; Copyright 2022, Precio Fishbone.
+        &#169; Copyright 2023, Precio Fishbone.
       <span class="lastupdated">
-        Last updated on Nov 25, 2022.
+        Last updated on Feb 23, 2023.
       </span>
 
     </p>

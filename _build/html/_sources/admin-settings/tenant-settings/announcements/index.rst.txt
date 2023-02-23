@@ -39,7 +39,7 @@ Use the following settings:
 + **Allow comments**: Decide to allow comments or not. The default is to not allow comments. If allowed, users can add comments, and even comment other comments (and so can you of course) the same way as for example for news. **Note!** Comments are sent to you, meaning the colleague who created the announcement.
 + **Targeting filter**: An Announcement can be targeted, which means just displayed to a defined group of users. See below for information on how to do that.
 
-**Important Note!** If there are no Annoncements block placed on a suitable page and Announcements is not added as a category to the Notification Panel, Announcements with Normal priority are simply not shown!
+**Important Note!** If there are no annoncements block placed on a suitable page and announcements is not added as a category to the notification panel, announcements with Normal priority are simply not shown!
 
 Here's an example of an Announcement with high priority:
 

@@ -3,7 +3,7 @@ Regional settings
 
 Use these settings for languages, date and time, for the tenant. Other settings for this can be set for a Business Profile.
 
-.. image:: regional-settings-tenant.png
+.. image:: regional-settings-tenant-612.png
 
 Languages
 *************
@@ -15,7 +15,9 @@ Language versions of pages are handled differently. Page Variations are used for
 
 There must always be a language selected as Default Language, in this example English (United States):
 
-.. image:: tenant-settings-language-default.png
+.. image:: tenant-settings-language-default-612.png
+
++ **Exclude Country**: Available in Omnia 6.12 and later. If you don't want to show a country flag for the language in the lists where users select language, select this option. (When you do the flags dissapears from this list as well).
 
 To select another language as default, just click the ring and save. To remove a language from this list, click the dust bin.
 
@@ -23,15 +25,15 @@ Do the following to add a new language:
 
 1. Click "Add Language".
 
-.. image:: click-add-language.png
+.. image:: click-add-language-612.png
 
 2. Open the list and select a language.
 
-.. image:: language-list-new.png
+.. image:: language-list-612.png
 
 3. Click "Add".
 
-.. image:: language-list-add.png
+.. image:: language-list-add-612.png
 
 4. Continue and add all languages that should be available in the tenant.
 
@@ -47,7 +49,7 @@ Date And Time
 ****************
 For Date And Time you can set the following:
 
-.. image:: date-time.png
+.. image:: date-time-612.png
 
 Use the list to set the date format and select 24-hour or 12-hour Time Format.
 

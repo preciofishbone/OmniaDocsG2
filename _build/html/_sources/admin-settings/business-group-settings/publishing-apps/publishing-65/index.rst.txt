@@ -3,7 +3,7 @@ Publishing
 
 The following settings are available here:
 
-.. image:: publishing-65.png
+.. image:: publishing-612.png
 
 Select section for more information:
 

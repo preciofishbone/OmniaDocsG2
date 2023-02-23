@@ -14,7 +14,7 @@ Available options for Rich Text is set up in Omnia Admin, see: :doc:`RTF Editor 
 
 Settings
 *********
-The following settings are available for the block (image from Omnia 6.12):
+The following settings are available for the block:
 
 .. image:: text-settings-612.png
 
@@ -23,7 +23,7 @@ The following settings are available for the block (image from Omnia 6.12):
 + **Formatting**: Select the default style here. Available for Plain Text and Multi-line Plain Text.
 + **Enable Machine Translation**: If machine translation should be available for this text block, select this option. **Note!** Machine Translation is not available in Omnia on-prem.
 + **Help text**: Here you can add a help text for the editor, for example to make it clear what kind of content should be added to the block. The help text is shown when no content is added, and when the block is edited. The help text is never shown to users as it's not shown for a published version of the page. Not available for Plain text. 
-+ **Enable creation of tags**: Available in Omnia 6.12 and later. When this option is selected, any #tag that is added in the text block will be set in the configured corresponding property.
++ **Enable creation of tags**: When this option is selected, any #tag that is added in the text block will be set in the configured corresponding property.
 + **ADD CONTENT**: Click here if you want to add some default content to the block. (also see below).
 + **Padding**: You can set some padding around the text if needed.
 

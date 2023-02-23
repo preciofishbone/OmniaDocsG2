@@ -14,6 +14,7 @@ These settings and options are available here:
 .. image:: sharepoint-user-profiles-sync.png
 
 + **SYNCHRONIZE NOW**: Click this button to execute the syncrhonizations set up (listed at the bottom). If you select "Enable Azure AD Synchronization" and set and interval, you don't have to click this button. The synchronization is then executed with the interval set.
++ **RESYNC**: Use this button to open the Resync window, if needed. See below for a description.
 + **Test Sync**: This is an option suitable for administrators to test synchronization for a limited number af users. Setup the sync to test as described below.
 + **EVENTS**: Click this button to access logs from the synchronizations. 
 + **Enable synchronization**: Select this option to enable the synchronization.
@@ -58,3 +59,26 @@ Events
 In the list each synchronization is described with Type, Status and start- and end time. The top icon for each post will show more details. Here's where you will see detailed log if you selected "Log Details".
 
 .. image:: azure-ad-settings-events.png
+
+Resync
+*******
+If syncronization for some users didn't work, the RESYNC button is shown, for example:
+
+.. image:: azure-ad-settings-resync-1.png
+
+The system will try to sync the user(s) the number of time set for "Resync Retry Limit".  
+
+To display more information, click RESYNC. The information in this window can look like this (image from a test environment):
+
+.. image:: azure-ad-settings-resync-2.png
+
+Here you will find more information on the resync job and you can see a list of users that the syncronization did'nt work for.
+
+The button RESYNC NOW can be used to execute the sync job immediately. 
+
+There are three lists available:
+
++ Resync users: Lists the users that the system will try to resync.
++ Succesful Resync users: Lists all users that was succesfully resynced.
++ Fail resync users: Lists all users that has been resynced but where the resync was not succesful.
+

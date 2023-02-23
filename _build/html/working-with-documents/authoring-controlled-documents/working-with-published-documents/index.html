@@ -213,7 +213,7 @@
 </div>
 <div class="section" id="signed-copy">
 <h2>Signed copy<a class="headerlink" href="#signed-copy" title="Permalink to this headline">¶</a></h2>
-<p>In Omnia 6.12, you can use this option to create a signed copy of a document, that will be shown together with the document.</p>
+<p>In Omnia 6.12, you can use this option to create a signed copy of a document, that will be available together with the document. The option must be activated for the document type to be available here, see link below.</p>
 <p>Use the following steps:</p>
 <ol class="arabic simple">
 <li><p>Open the dot menu for the document and select “Signed Copy”.</p></li>
@@ -234,6 +234,8 @@
 <img alt="../../../_images/signed-copy-save.png" src="../../../_images/signed-copy-save.png" />
 <p>If a signed copy is available for a document, it’s indicated by this icon:</p>
 <img alt="../../../_images/signed-copy-icon.png" src="../../../_images/signed-copy-icon.png" />
+<p>Users can click the icon to download the signed copy.</p>
+<p>For more information on how to activate Signed copy, see the heading “Settings for Document Types” on this page: <a class="reference internal" href="../../../admin-settings/tenant-settings/document-management/document-types/index.html"><span class="doc">Document Types</span></a></p>
 </div>
 <div class="section" id="related-documents">
 <h2>Related Documents<a class="headerlink" href="#related-documents" title="Permalink to this headline">¶</a></h2>
@@ -333,11 +335,34 @@
 </div>
 <div class="section" id="unpublish">
 <h2>Unpublish<a class="headerlink" href="#unpublish" title="Permalink to this headline">¶</a></h2>
+<p>As described in this section, this is how it works in Omnia 6.12 and earlier. For Omnia 6.13 and later, see below.</p>
 <p>If needed, a published document can be unpublished. The document is then removed from the Controlled Documents library. If an archive for documents is set up, the document is placed in the archive. If a document archive is not set up, the document is simply deleted.</p>
 <p><strong>Note!</strong>
 A document can’t be unpublished if a draft has been created for that document. The draft must first be deleted.</p>
 <p>When “Unpublish” is selected, you get a second chance to change your mind:</p>
 <img alt="../../../_images/unpublish-2-new2.png" src="../../../_images/unpublish-2-new2.png" />
+</div>
+<div class="section" id="delete-and-restore-a-document">
+<h2>Delete and restore a document<a class="headerlink" href="#delete-and-restore-a-document" title="Permalink to this headline">¶</a></h2>
+<p>This section describes how unpublish of a document works in Omnia 6.13 and later.</p>
+<p><strong>This section is being updated. Will be finished very soon.</strong></p>
+<p>It works like this:</p>
+<p>A published document that has a new draft can’t be unpublished, just as before, the draft must be deleted first.</p>
+<p>When you unpublish a document, you get a chance to change your mind:</p>
+<p>(image to be added)</p>
+<p>If an archive for documents is set up, the document is placed in the archive. The archive works as before, but in Omnia 6.13 the unpublished document is also placed in a local (= for the site) recycle bin.</p>
+<p>If needed, an administrator can restore a document from there. When a document is restored, a draft is created in Drafts as a new edition, and can then be edited and published the normal way. Also, if the document was published as a PDF, it’s the original document that is restored, so the document can be edited.</p>
+<p>The restored document keeps it’s ID and the document history is retrieved as well. It’s noted in the history that the document has been unpublished and restored (if that happened).</p>
+<p>The recycle bin for controlled documents can look this (image from a test environment):</p>
+<img alt="../../../_images/delete-document-613-recycle-bin.png" src="../../../_images/delete-document-613-recycle-bin.png" />
+<p>Here, documents can be restored or permanently deleted.</p>
+<p>Select the document and select option.</p>
+<img alt="../../../_images/delete-document-613-recycle-bin-options.png" src="../../../_images/delete-document-613-recycle-bin-options.png" />
+<p>If you choose to permanently delete a document, you get a chance to change your mind:</p>
+<img alt="../../../_images/delete-document-613-recycle-bin-options-delete.png" src="../../../_images/delete-document-613-recycle-bin-options-delete.png" />
+<p>If you choose to restore a document, the following is shown:</p>
+<img alt="../../../_images/delete-document-613-recycle-bin-options-restore.png" src="../../../_images/delete-document-613-recycle-bin-options-restore.png" />
+<p>These are the same options as when you create a draft from a published document. See above for a decription.</p>
 </div>
 </div>
 
@@ -355,9 +380,9 @@ A document can’t be unpublished if a draft has been created for that document.
 
   <div role="contentinfo">
     <p>
-        &#169; Copyright 2022, Precio Fishbone.
+        &#169; Copyright 2023, Precio Fishbone.
       <span class="lastupdated">
-        Last updated on Nov 25, 2022.
+        Last updated on Feb 23, 2023.
       </span>
 
     </p>

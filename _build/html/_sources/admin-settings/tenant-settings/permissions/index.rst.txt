@@ -21,7 +21,7 @@ To delete an administrator in any of the lists, just click the x. To add an admi
 
 Secrets
 ********
-The following settings can be available here:
+The following settings can be available here. Additional settings may have be added here depening on installed options in the tenant.
 
 .. image:: tenant-secrets-new.png
 

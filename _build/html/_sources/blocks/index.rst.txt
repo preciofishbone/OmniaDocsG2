@@ -27,7 +27,7 @@ Blocks
    iframe/index
    media/index
    mega-menu/index
-   metrics/index
+   metrics-block-612/index
    my-subscriptions/index
    notification-panel/index
    omnia-block-webpart/index

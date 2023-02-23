@@ -1,21 +1,22 @@
 Queryable Properties
 ===========================
 
-Three lists are available here:
+These lists are available here (image from Omnia 6.13):
 
-.. image:: queryable-all.png
+.. image:: queryable-all-613.png
 
 In these lists, you add Properties that should be queryable in Omnias database. The Properties are used in the Query Builder, so far in these blocks:
 
 + **App Instances**: In Teamwork Rollup.
 + **Pages**: In Page Rollup.
 + **Processes**: In Process Rollup.
++ **Sign-off Request**: In Sign-off Requests Rollup (available in Omnia 6.13).
 
 To be available here, a property must first be added to Enterprise Properties. 
 
-The lists are handled the same way, App Instances as an example.
+The lists are handled the same way. Here's part of the list for App Instances as an example:
 
-.. image:: queryable-app-instances.png
+.. image:: queryable-app-instances-612.png
 
 To remove a Poperty from this list, click the dust bin.
 

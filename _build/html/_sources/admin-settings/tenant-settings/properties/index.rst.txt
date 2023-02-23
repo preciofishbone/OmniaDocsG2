@@ -18,3 +18,4 @@ Select section for more information:
    queryable-properties/index
    recycle-bin/index
    targeting-properties/index
+   setting-up-birthday-property/index

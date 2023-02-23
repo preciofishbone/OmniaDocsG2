@@ -205,23 +205,23 @@
   <div class="section" id="publishing-app-settings">
 <h1>Publishing App settings<a class="headerlink" href="#publishing-app-settings" title="Permalink to this headline">¶</a></h1>
 <p>A number of Publishing App settings are available. You have to be Publishing App administrator to use them.</p>
-<p>This page describes the settings for Omnia 6.11 and earlier. For Omnia 6.12,see: <a class="reference internal" href="publishing-app-settings-612/index.html"><span class="doc">Publishing App settings in 6.12</span></a></p>
 <p>Open the Publishing App settings by clicking here:</p>
-<img alt="../../_images/page-settings-new.png" src="../../_images/page-settings-new.png" />
+<img alt="../../_images/page-settings-612.png" src="../../_images/page-settings-612.png" />
 <div class="section" id="general">
 <h2>General<a class="headerlink" href="#general" title="Permalink to this headline">¶</a></h2>
-<p>The following settings are available here (as an example):</p>
-<img alt="../../_images/page-settings-general-new.png" src="../../_images/page-settings-general-new.png" />
+<p>The following settings are available here:</p>
+<img alt="../../_images/page-settings-general-612.png" src="../../_images/page-settings-general-612.png" />
 <ul class="simple">
 <li><p><strong>Title</strong>: Add the title to be displayed for the publishing app here.</p></li>
 <li><p><strong>Description</strong>: Add a description if you wish (recommended).</p></li>
+<li><p><strong>Authors</strong>: Add general authors for pages in the publishing app. Can be edited for specific pages if needed.</p></li>
 <li><p>(Image): You use the Media Picker to add or change the image. For more information on how to use this asset, see: <a class="reference internal" href="../../general-assets/media-picker/index.html"><span class="doc">Media Picker</span></a></p></li>
 </ul>
 </div>
 <div class="section" id="permissions">
 <h2>Permissions<a class="headerlink" href="#permissions" title="Permalink to this headline">¶</a></h2>
 <p>Use these settings to Edit permissions in the Publishing App.</p>
-<img alt="../../_images/page-settings-permissions-612.png" src="../../_images/page-settings-permissions-612.png" />
+<img alt="../../_images/page-settings-permissions-612-new.png" src="../../_images/page-settings-permissions-612-new.png" />
 <ul class="simple">
 <li><p><strong>Allow Mobile Login</strong>: This setting is intended to offer login to certain parts of Omnia for first line workers, partners and similar. The user needs the Kaizala app and a viable account. If you see the label “Kaizala login” somewhere, it’s the same thing. <strong>Note!</strong> Mobile Login/Kaizala login is not available in Omnia on-prem.</p></li>
 <li><p><strong>Administrators</strong>: Add and remove Publishing App administrators here as needed.</p></li>
@@ -237,10 +237,10 @@
 <p>Here you set up the Page Variations that should be possible to use in the Publishing App. It’s then up to Page Editors to use a variation, or not, for a page. A page variation is created for a page when it’s needed.</p>
 <p>A variation can also be set up for Automatic Machine Translation, see below. (Not available in Omnia on-prem).</p>
 <p>It’s also possible to add one variation author for each variation. Here’s an example with a number of variations set up:</p>
-<img alt="../../_images/page-settings-variations-new6.png" src="../../_images/page-settings-variations-new6.png" />
+<img alt="../../_images/page-settings-variations-612.png" src="../../_images/page-settings-variations-612.png" />
 <p>You see the variations that has been set up so far, with information about for example targeting. A “Variaton” in the tenant’s default language is also listed here - note the label “Default” in the image above. For all pages, a variation with the default language must always exist. That is what is added when a page is created the first time.</p>
 <p>To edit the settings for a variation, click the pen. To delete a variation, click the dust bin.</p>
-<img alt="../../_images/page-settings-variations-edit-delete-new3.png" src="../../_images/page-settings-variations-edit-delete-new3.png" />
+<img alt="../../_images/page-settings-variations-edit-delete-612.png" src="../../_images/page-settings-variations-edit-delete-612.png" />
 <p>When you edit a variation, the same settings as when you create a new variation are available, see below.</p>
 <div class="section" id="create-a-new-variation">
 <h3>Create a new variation<a class="headerlink" href="#create-a-new-variation" title="Permalink to this headline">¶</a></h3>
@@ -249,7 +249,7 @@
 <ol class="arabic simple">
 <li><p>Click ADD VARIATION.</p></li>
 </ol>
-<img alt="../../_images/click-add-variation-new2.png" src="../../_images/click-add-variation-new2.png" />
+<img alt="../../_images/click-add-variation-612.png" src="../../_images/click-add-variation-612.png" />
 <ol class="arabic simple" start="2">
 <li><p>Use the following settings:</p></li>
 </ol>
@@ -260,13 +260,11 @@
 <li><p><strong>Icon</strong>: Shown when you have selected Icon Type. Select the icon here.</p></li>
 <li><p><strong>Url Segment</strong>: Add a suitable Url Segment in this field.</p></li>
 <li><p><strong>Variation author</strong>: You can add a variation author for this variation. See this page for more information: <a class="reference internal" href="../edit-page-variations/index.html"><span class="doc">Edit Page Variations</span></a></p></li>
-<li><p><strong>Automatic Machine Translation</strong>:You can select machine translation for this variation, to any language that is set up in the tenant. If you do, you can’t select a Variation author, and the machine translated variation can not be edited manually. When you have selected this option, choose language in the list shown. Automatic Machine Translation is executed when the page is published. It will be noted on the variation page that it has been machine translated, see below. <strong>Note!</strong> Machine translation is not available in Omnia on-prem.</p></li>
+<li><p><strong>Automatic Machine Translation</strong>: You can select machine translation for this variation, to any language that is set up in the tenant. If you do, you can’t select a Variation author, and the machine translated variation can not be edited manually. When you have selected this option, choose language in the list shown. Automatic Machine Translation is executed when the page is published. It will be noted on the variation page that it has been machine translated, see below. <strong>Note!</strong> Machine translation is not available in Omnia on-prem.</p></li>
 <li><p><strong>Right to left</strong>: If you’re creating a variation for a language that is read right to left, select this option.</p></li>
 <li><p><strong>Add Targeting Filter</strong>: To set up targeting for this variation, click here. It is not mandatory. See below for more information.</p></li>
 </ul>
 <p>Languages used for Titles, or for targering, must be set up in the Tenant Settings, see this page: <a class="reference internal" href="../../admin-settings/tenant-settings/settings/regional-settings/index.html"><span class="doc">Regional Settings</span></a></p>
-<p>Here’s an example of a machine translated variation page:</p>
-<img alt="../../_images/variation-machine-translated.png" src="../../_images/variation-machine-translated.png" />
 </div>
 <div class="section" id="targeting-a-page-variation">
 <h3>Targeting a Page Variation<a class="headerlink" href="#targeting-a-page-variation" title="Permalink to this headline">¶</a></h3>
@@ -276,19 +274,19 @@
 <ol class="arabic simple">
 <li><p>Click “Add Targeting Filter” when editing a Page Variation’s settings.</p></li>
 </ol>
-<img alt="../../_images/page-variation-add-targeting-new4.png" src="../../_images/page-variation-add-targeting-new4.png" />
+<img alt="../../_images/page-variation-add-targeting-612.png" src="../../_images/page-variation-add-targeting-612.png" />
 <ol class="arabic simple" start="2">
 <li><p>Select Targeting Property from the list.</p></li>
-<li><p>As the next step you can select to include all Children, or you can target one or more of the Children specifically.</p></li>
+<li><p>If there are children in the property -as the next step you can select to include all Children, or you can target one or more of the Children specifically.</p></li>
 </ol>
-<p>Here’s an example which will see to that all users that has French set as preferred language will see the French variation of the page.</p>
-<img alt="../../_images/page-targeting-french-new2.png" src="../../_images/page-targeting-french-new2.png" />
+<p>Here’s an example which will see to that all users that has Danish set as preferred language will see the Danish variation of the page.</p>
+<img alt="../../_images/page-targeting-danish.png" src="../../_images/page-targeting-danish.png" />
 <ol class="arabic simple" start="4">
 <li><p>Click “OK” to save your changes.</p></li>
 </ol>
-<p>You can add as many Targeting Properties for a Variation as is needed, this way (and remember that variations can be a lot more than just languages). To remove a target, just click the X.</p>
+<p>You can add as many Targeting Properties for a Variation as is needed this way (and remember that variations can be a lot more than just languages). To remove a target, just click the X.</p>
 <p>Note that the targeting settings also are shown in the Variations list, for example:</p>
-<img alt="../../_images/page-variation-example-new7.png" src="../../_images/page-variation-example-new7.png" />
+<img alt="../../_images/page-variation-example-612.png" src="../../_images/page-variation-example-612.png" />
 </div>
 <div class="section" id="edit-contents-of-a-page-variation">
 <h3>Edit contents of a Page Variation<a class="headerlink" href="#edit-contents-of-a-page-variation" title="Permalink to this headline">¶</a></h3>
@@ -302,29 +300,68 @@
 <div class="section" id="statistics">
 <h2>Statistics<a class="headerlink" href="#statistics" title="Permalink to this headline">¶</a></h2>
 <p>For more advanced statistics in Omnia, this is the place to add the scripts you get from your statistics provider, for example:</p>
-<img alt="../../_images/page-settings-statistics-new4.png" src="../../_images/page-settings-statistics-new4.png" />
+<img alt="../../_images/page-settings-statistics-612.png" src="../../_images/page-settings-statistics-612.png" />
 <p>Don’t forget to save. The “Save” button is located in the lower right corner.</p>
 </div>
 <div class="section" id="retention">
 <h2>Retention<a class="headerlink" href="#retention" title="Permalink to this headline">¶</a></h2>
 <p>Here you can edit the settings for automatic termination, for the pages in this app that has been archived.</p>
-<img alt="../../_images/page-settings-retention.png" src="../../_images/page-settings-retention.png" />
+<img alt="../../_images/page-settings-retention-612.png" src="../../_images/page-settings-retention-612.png" />
 </div>
 <div class="section" id="advanced">
 <h2>Advanced<a class="headerlink" href="#advanced" title="Permalink to this headline">¶</a></h2>
 <p>Here you can edit these settings:</p>
-<img alt="../../_images/page-settings-advanced-1.png" src="../../_images/page-settings-advanced-1.png" />
-<p>All settings are not shown in the image but described below.</p>
+<img alt="../../_images/page-settings-advanced-612-1.png" src="../../_images/page-settings-advanced-612-1.png" />
+<p>and these:</p>
+<img alt="../../_images/page-settings-advanced-612-2.png" src="../../_images/page-settings-advanced-612-2.png" />
 <ul class="simple">
 <li><p><strong>Default Page Collection</strong>: The default Page Collection for the page can be set here.</p></li>
 <li><p><strong>Allow reuse content</strong>: If it should be allowed to resuse content within the Publisging App, activate “Enable Reuse Content”. For more information about how to reuse content, see: <a class="reference internal" href="../reusable-content/index.html"><span class="doc">Reusable Content</span></a></p></li>
 <li><p><strong>Connected Sharepoint Site</strong>: The address to the Sharepoint Site is shown here.</p></li>
+<li><p><strong>Editor navigation</strong>: Here you can add options that should be available in the page menu, in additional to the default options. For more information, see below.</p></li>
 <li><p><strong>Contact Property</strong>: Select the property used to store information about the user being page contact.</p></li>
 <li><p><strong>Review Date Property</strong>: Select the property used to store information about review date for pages.</p></li>
-<li><p><strong>Documents</strong>: If it should be possible to work with Controlled Documents in this Publishing App, select a layout created for this purpose here. Such layouts are created and edited in Omnia Admin under Layouts for Publishing. When a layout has been selected here, a new option is available in the page navigation menu. See example below.</p></li>
+<li><p><strong>Promoted tags</strong>: A publishing app can be configured to have promoted tags/terms for certain properties. Promoted tags/terms will be displayed at the top of the tag/term picker both for the author, when working with pages, and for the end user when filtering in a page rollup.</p></li>
+<li><p><strong>Document Management</strong>: You use this part for Dcouments settings, both for “normal documents” and for controlled documents. For more information, see below.</p></li>
 </ul>
-<p>When it’s possible to work with controlled documents in this publishing app, it’s done by selecting this menu option:</p>
-<img alt="../../_images/documents-menu-option.png" src="../../_images/documents-menu-option.png" />
+<p>For more information about layouts for publishing, see this page: <a class="reference internal" href="../../admin-settings/business-group-settings/publishing-apps/publishing-65/layout/index.html"><span class="doc">Publishing Layouts</span></a></p>
+<div class="section" id="editor-navigation">
+<h3>Editor Navigation<a class="headerlink" href="#editor-navigation" title="Permalink to this headline">¶</a></h3>
+<p>Use this setting to add options to the page menu, if nedded. On example is to add an option to make it poosible to work with controlled documents in a publishing app.</p>
+<p>Prerequisit: A publishing layout for the option to be used must have been created in Omnia Adnmin. For more information about how to work with publishing layouts, see: <span class="xref std std-doc">Publishing Layouits</span></p>
+<p>Here’s how to add a menu option:
+1. Click the plus to the right of “Editor Navigation”.
+2. Use the following settings:</p>
+<img alt="../../_images/editor-navigation-settings.png" src="../../_images/editor-navigation-settings.png" />
+<ul class="simple">
+<li><p><strong>Layout</strong>: Select lauyout here.</p></li>
+<li><p><strong>Title</strong>: Add a title in any or several of the tenant languages. Click the flag to change language.</p></li>
+<li><p><strong>Icon Type/Icon</strong>: Add an icon if you wish by first selecting icon type.</p></li>
+</ul>
+<ol class="arabic simple" start="3">
+<li><p>Click OK when you’re done.</p></li>
+</ol>
+<img alt="../../_images/editor-navigation-settings-ok.png" src="../../_images/editor-navigation-settings-ok.png" />
+<ol class="arabic simple" start="4">
+<li><p>Save the changes to the publishing app settings.</p></li>
+</ol>
+<img alt="../../_images/editor-navigation-settings-save.png" src="../../_images/editor-navigation-settings-save.png" />
+<p>The new option is now added to the menu, for example:</p>
+<img alt="../../_images/editor-navigation-settings-added.png" src="../../_images/editor-navigation-settings-added.png" />
+<p>To edit a menu option, click the pen, to delete it, click the dust bin.</p>
+<img alt="../../_images/editor-navigation-settings-editdelete.png" src="../../_images/editor-navigation-settings-editdelete.png" />
+</div>
+<div class="section" id="document-management-settings">
+<h3>Document Management settings<a class="headerlink" href="#document-management-settings" title="Permalink to this headline">¶</a></h3>
+<p>The following settings are available here (example from an existing site):</p>
+<img alt="../../_images/document-management-settings.png" src="../../_images/document-management-settings.png" />
+<ul class="simple">
+<li><p><strong>Document picker categories</strong>: If the document picker categories that are set up in Omnia Admin should be available here, select this option.</p></li>
+<li><p><strong>Sharepoint document library</strong>: If the documents created here should be saved in a specific Sharepoint document library, enter the address to the library here.</p></li>
+<li><p><strong>Allow User Upload Document</strong>: Available when a document library has been defined here. Editors and authors can normally upload documents here. If this should be possible for all users, select this option.</p></li>
+<li><p><strong>File storage</strong>: Select the option if a copy of a docment an editor or author uploads, should be saved locally. The document is then saved in Omnia, not in Sharepoint. This is useful if a specific version of a document should be saved with the page, for example a news page.</p></li>
+</ul>
+</div>
 </div>
 </div>
 
@@ -342,9 +379,9 @@
 
   <div role="contentinfo">
     <p>
-        &#169; Copyright 2022, Precio Fishbone.
+        &#169; Copyright 2023, Precio Fishbone.
       <span class="lastupdated">
-        Last updated on Nov 25, 2022.
+        Last updated on Feb 23, 2023.
       </span>
 
     </p>

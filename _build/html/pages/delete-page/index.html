@@ -221,12 +221,22 @@
 <img alt="../../_images/archive-menu2-new3.png" src="../../_images/archive-menu2-new3.png" />
 <p>As an alternative, you can use DELETE in the menu in the navigation tree. This option is available all the time (even when you are editing the page).</p>
 <img alt="../../_images/delete-page-menu-new2.png" src="../../_images/delete-page-menu-new2.png" />
-<p>When you select delete, something like the following is shown:</p>
+<p>When you select delete of a main page with sub pages, something like the following is shown:</p>
 <img alt="../../_images/archive-message-new.png" src="../../_images/archive-message-new.png" />
-<p>Note the message “You are about to archive a lot of pages” which is telling you that the page you have chosen has sub pages. (If the page doesn’t have sub pahes, the message is different).</p>
+<p>Note the message “You are about to archive a lot of pages” which is telling you that the page you have chosen has sub pages. If the page doesn’t have sub pages that message is simply not shown.</p>
 <ol class="arabic simple" start="5">
 <li><p>Type a comment (Mandatory!) and click OK to archive the page, or CANCEL if you change your mind.</p></li>
 </ol>
+<div class="section" id="delete-and-create-draft">
+<h2>Delete and create draft<a class="headerlink" href="#delete-and-create-draft" title="Permalink to this headline">¶</a></h2>
+<p>When deleting (archiving) a page, it may be possible to create a new draft. This is possible if:</p>
+<ul class="simple">
+<li><p>The page has no sub pages.</p></li>
+<li><p>No variations are created for the page.</p></li>
+</ul>
+<p>When it is possible to create a draft when deleting, the following option is available:</p>
+<img alt="../../_images/archive-create-draft-new2.png" src="../../_images/archive-create-draft-new2.png" />
+</div>
 <div class="section" id="deleting-a-page-collection">
 <h2>Deleting a Page Collection<a class="headerlink" href="#deleting-a-page-collection" title="Permalink to this headline">¶</a></h2>
 <p>Deleting (archiving) a Page Collection works exactly the same as described above. Just select the page collection’s top node and select DELETE.</p>
@@ -244,19 +254,8 @@
 <p>You can setup automatic delete (archiving) for pages based on a property. See the bottom of this page for more information: <a class="reference internal" href="../page-types/page-type-settings/index.html"><span class="doc">Page Type Settings</span></a></p>
 <p>Furthermore, you can set up rules for automatic termination of deleted pages, in the Publishing App Settings. See the heading “Delete” at the bottom of this page: <a class="reference internal" href="../page-settings/index.html"><span class="doc">Publishing App Settings</span></a></p>
 <p><strong>Important note!</strong> These delete and termination settings are valid for Omnia. If a page truly must be terminated from your system, settings for dust bins in Sharepoint may also need to be edited.</p>
-</div>
-<div class="section" id="delete-and-create-draft">
-<h2>Delete and create draft<a class="headerlink" href="#delete-and-create-draft" title="Permalink to this headline">¶</a></h2>
-<p>When deleting (archiving) a page, it may be possible to create a new draft. This is possible if:</p>
-<ul class="simple">
-<li><p>The page has no sub pages.</p></li>
-<li><p>No variations are created for the page.</p></li>
-</ul>
-<p>When it is possible to create a draft when deleting, the following option is available:</p>
-<img alt="../../_images/archive-create-draft-new2.png" src="../../_images/archive-create-draft-new2.png" />
-</div>
 <div class="section" id="restore-or-terminate-a-deleted-page">
-<h2>Restore or terminate a deleted page<a class="headerlink" href="#restore-or-terminate-a-deleted-page" title="Permalink to this headline">¶</a></h2>
+<h3>Restore or terminate a deleted page<a class="headerlink" href="#restore-or-terminate-a-deleted-page" title="Permalink to this headline">¶</a></h3>
 <p>If you have deleted a page you also have permissions to restore or terminate that page, with eventual sub pages. Page Collections and Page Types works the same way.</p>
 <p>All deleted pages for the Publishing App are available here:</p>
 <img alt="../../_images/archive-new2.png" src="../../_images/archive-new2.png" />
@@ -265,8 +264,10 @@
 <p>Note that four lists are available: PAGES, PAGE COLLECTIONS, PAGE TYPES and ALL. The four lists works the same, the difference is the content.</p>
 <p>You can for example see who archived the post and the comment made by that person. Under the column heading “Pages” you can see the number of published pages to the left and the number of drafts to the right (no drafts exist in the image above).</p>
 <p>If the list is long you can use the filters at the top to search or filter the list.</p>
+</div>
+</div>
 <div class="section" id="terminate-a-deleted-page">
-<h3>Terminate a deleted page<a class="headerlink" href="#terminate-a-deleted-page" title="Permalink to this headline">¶</a></h3>
+<h2>Terminate a deleted page<a class="headerlink" href="#terminate-a-deleted-page" title="Permalink to this headline">¶</a></h2>
 <p>To save space you can terminate a deleted page (with it’s sub pages, variations and drafts if applicable). It’s done the same way for Page Collections and Page Types.</p>
 <p><strong>Note!</strong> When you terminate a deleted page it’s really gone from Omnia, so be careful here.</p>
 <p>You click the dust bin to terminate the page. Just be really careful so you click on the right row!</p>
@@ -275,7 +276,7 @@
 <p>If you’re not certain, just click CLOSE here and nothing will happen.</p>
 </div>
 <div class="section" id="restore-a-deleted-page">
-<h3>Restore a deleted page<a class="headerlink" href="#restore-a-deleted-page" title="Permalink to this headline">¶</a></h3>
+<h2>Restore a deleted page<a class="headerlink" href="#restore-a-deleted-page" title="Permalink to this headline">¶</a></h2>
 <p>To restore a deleted page (with it’s sub pages, variations and drafts if that’s applicable), do the following. Restoring a Page Collection or a Page Type works the same way.</p>
 <ol class="arabic simple">
 <li><p>Click this icon on the right row:</p></li>
@@ -292,13 +293,12 @@
 <p>Now something like the following is shown:</p>
 <img alt="../../_images/archive-parent-restore-2-new.png" src="../../_images/archive-parent-restore-2-new.png" />
 <p>Use the right part to select the parent node for the deleted page/pages to be placed under. Note that you can browse the list the find a sub page that should be the parent node. Click OK when you’re finished.</p>
-</div>
-</div>
 <div class="section" id="deleting-pages-in-omnia-on-the-technical-side">
-<h2>Deleting pages in Omnia - on the technical side<a class="headerlink" href="#deleting-pages-in-omnia-on-the-technical-side" title="Permalink to this headline">¶</a></h2>
+<h3>Deleting pages in Omnia - on the technical side<a class="headerlink" href="#deleting-pages-in-omnia-on-the-technical-side" title="Permalink to this headline">¶</a></h3>
 <p>Deleted pages are stored in a document library in the Communication Site backend in SharePoint and will be stored there until someone decides to manually terminate them.</p>
 <p>When a page is deleted, the information is removed from the Omnia database and is only stored in Sharepoint. The page and it’s media is moved to a specific archive catalog in the backend connected SharePoint site.</p>
 <p>When a page is terminated in Omnia, it is moved to the recycle bin in SharePoint.</p>
+</div>
 </div>
 </div>
 
@@ -316,9 +316,9 @@
 
   <div role="contentinfo">
     <p>
-        &#169; Copyright 2022, Precio Fishbone.
+        &#169; Copyright 2023, Precio Fishbone.
       <span class="lastupdated">
-        Last updated on Nov 25, 2022.
+        Last updated on Feb 03, 2023.
       </span>
 
     </p>

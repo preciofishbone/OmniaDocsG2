@@ -84,10 +84,10 @@ The following settings are available for the views:
 + **Adjust Columns**: Use this option the order in which the selected columns are shown.
 + **Person Name**: Select property to get the Person Name from.
 + **Show Profile Image**: Select this option to show the person's profile image.
-+ **Open in Dialog**: If you select this option, the person's Delve page is opened in a dialog instead of in a window, when clicked.
++ **Open in Dialog**: If you select this option, the person's information page is opened in a dialog instead of in a window, when clicked (either the User Profile User Card or the Delve page, depending on set up). 
 + **Dialog Position**: Here you can set the position for the dialog; Center, Left or Right.
-+ **Open in New tab**: If you select this option, the person's Delve page is opened in a new tab instead of in a window, when clicked. 
-+ **Auto Cycle**: Available for Roller. Select this option to make the roller auto cycle through availble persons.
++ **Open in New tab**: If you select this option, the person's information page is opened in a new tab instead of in a window, when clicked. (either the User Profile User Card or the Delve page, depending on set up). 
++ **Auto Cycle**: Available for Roller. Select this option to make the roller auto cycle through available persons.
 + **Slide Height**: Set the height of the area to show the content in. Available for Roller view.
 + **Alignment Option**: Set vertical alignment for the content. Available for Roller.
 + **Justify Options**: Set horizontal alignment for the content. Available for Roller view.

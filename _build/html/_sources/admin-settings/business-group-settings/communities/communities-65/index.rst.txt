@@ -3,7 +3,7 @@ Communities
 
 Here you can work with apps and templates for Communities. You can also find ready made layouts for Community start pages:
 
-.. image:: community-65.png
+.. image:: community-65-new.png
 
 Select section for more information:
 

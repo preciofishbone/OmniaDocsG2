@@ -27,7 +27,7 @@ To create a new request, do the following:
 + **(Template list)**: Available when "From Template" is selected above. Lists all available Sign-off Request templates, if any. Select template here.
 + **Name**: Add a name for the request here, in any of the tenant languages (click the flag to chance language).
 + **Description**: You can add a description of the request here, in any of the tenant languages (click the flag to chance language).
-+ **Sign-off Request**: Here you add the pages that should be signed off. If you selected a template, the list of pages will most likely be pre populated with a number of pages. You can add or remove pages as needed. See below for more details.
++ **Sign-off Request**: Here you add the pages that should be signed off, using the Page Picker. If you selected a template, the list of pages will most likely be pre populated with a number of pages. You can add or remove pages as needed. See below for more details.
 + **Request sent to**: Select one or more users or groups to send the request to by e-mail. Single users, Security groups and Microsoft 365 groups can be added here (In Omnia on-prem, Microsoft 365 groups can’t be used). Note that the maximum number to send to can be set under "Settings".
 
 3. Add or remove pages as needed.
@@ -79,7 +79,7 @@ A closed request can be reopened, a deleted request can (ofcourse) not.
 
 Sign-off Requests Rollup block
 *********************************
-There's a bloxck available to be used for listing the Sign-off Requests that is sent to the logged in user or a group that the user belongs to.
+There's a block available to be used for listing the Sign-off Requests that is sent to the logged in user or a group that the user belongs to.
 
 More information about the block is found here: :doc:`Sign-off Requests Rollup </blocks/sign-off-request/index>`
 

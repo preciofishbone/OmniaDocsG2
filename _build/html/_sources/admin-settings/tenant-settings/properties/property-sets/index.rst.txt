@@ -25,7 +25,11 @@ Use the following settings:
 
 .. image:: property-set-add-new.png
 
-5. Set additional settings for the Property, if required, by clicking the pen. Here's an example:
+5. Set additional settings for the Property, if required, by clicking the pen:
+
+.. image:: property-set-clickpen.png
+
+Here's an example of the settings that can be available:
 
 .. image:: property-set-add-additional-v6.png
 
@@ -35,15 +39,15 @@ Available settings depend on type of property. Here's some common examples:
 + **Allow multiple values**: If it should be possible to select more than one value in this field, select this option. Available for applicable fields only.
 + **Limit Level**: For a property that can contain several levels - for example Country, City, Office etc - you can limit the levels to choose from here.
 
-6. Continue the same way until you have added all the properties for the set.
+6. Continue the same way until you have added all the properties for the set. (Click the dustbin to remove a property if needed).
 7. To change the order, use the icon to the far right, and drag and drop.
 
 .. image:: property-set-add-drag-new.png
 
 8. When you're finished, click "Save".
 
-Edit a Property Set
-*********************
+Edit or delete a Property Set
+***********************************
 To edit a Property Set, click the pen. To delete a Property Set, click the dust bin.
 
 .. image:: property-set-edit-list-v6.png

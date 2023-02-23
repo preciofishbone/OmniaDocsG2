@@ -196,7 +196,7 @@
 <h1>Setup Process Management<a class="headerlink" href="#setup-process-management" title="Permalink to this headline">¶</a></h1>
 <div class="admonition note">
 <p class="admonition-title">Note</p>
-<p>In order for Process Managemnet features to appear in the UI, the Process Management extension needs to be installed and the Process Management feature needs to be activated. Please consult with your local partner to set up these prerequisites.</p>
+<p>In order for Process Managemnet features to appear in the UI, the Process Management feature needs to be activated. Please consult with your local partner to set up these prerequisites.</p>
 </div>
 <p>Below you will find the steps needed in order to create a basic setup of Process Management.</p>
 <div class="section" id="process-types">
@@ -218,6 +218,12 @@
 </ol>
 <img alt="../../_images/processtypes2.png" src="../../_images/processtypes2.png" />
 </div>
+<div class="section" id="title-property">
+<h2>Title property<a class="headerlink" href="#title-property" title="Permalink to this headline">¶</a></h2>
+<p>In order for the Process Picker to be able to work as expected, the property “Title” must be present in the queryable properties for Process.</p>
+<img alt="../../_images/title-quey-1.png" src="../../_images/title-quey-1.png" />
+<img alt="../../_images/title-quey-2.png" src="../../_images/title-quey-2.png" />
+</div>
 <div class="section" id="process-archive">
 <h2>Process Archive<a class="headerlink" href="#process-archive" title="Permalink to this headline">¶</a></h2>
 <div class="admonition note">
@@ -225,19 +231,24 @@
 <p>If you have Document Management setup, you can ignore step 16 - 17.</p>
 </div>
 <ol class="arabic simple" start="16">
-<li><p>Go to the Business Profile in which you want to host the central controlled documents archive.</p></li>
-<li><p>Go to Provisioning Template and create a new template that can be used for system sites.</p></li>
+<li><p>Go to the Business Profile in which you want to host the process archive.</p></li>
+<li><p>Go to Teamwork &gt; Templates and create a new template that can be used for system sites.</p></li>
 </ol>
-<img alt="setup/processmanagement/provisioningtemplate-system.png" src="setup/processmanagement/provisioningtemplate-system.png" />
+<p>(A Publishing Template can be used as well, but using a Teamwork Template is the more common solution).</p>
+<img alt="../../_images/provisioningtemplate-system-613.png" src="../../_images/provisioningtemplate-system-613.png" />
 <ol class="arabic simple" start="18">
-<li><p>Click on Teamwork in Omnia Admin and create a new site for the process archive based on the System Site template.</p></li>
+<li><p>Click on Teamwork &gt; Apps and create a new site for the process archive based on the System Site template.</p></li>
 </ol>
-<img alt="../../_images/process-archive.png" src="../../_images/process-archive.png" />
+<img alt="../../_images/create-process-archive-613.png" src="../../_images/create-process-archive-613.png" />
 <ol class="arabic simple" start="19">
 <li><p>Activate the feature Process Archive on the newly created site.</p></li>
-<li><p>Click on Process Management in Omnia Admin and click on Settings.</p></li>
-<li><p>Put in the full url to the newly created site in the Archive Site Url and save.</p></li>
 </ol>
+<img alt="../../_images/process-archive-613-feature.png" src="../../_images/process-archive-613-feature.png" />
+<ol class="arabic simple" start="20">
+<li><p>Click on Process Management in Omnia Admin and click on Settings.</p></li>
+<li><p>Add the full url to the newly created site in the Archive Site Url and save.</p></li>
+</ol>
+<img alt="../../_images/process-archive-613-url.png" src="../../_images/process-archive-613-url.png" />
 </div>
 <div class="section" id="process-type-templates">
 <h2>Process Type Templates<a class="headerlink" href="#process-type-templates" title="Permalink to this headline">¶</a></h2>
@@ -247,14 +258,15 @@
 </ol>
 <img alt="../../_images/setup-process-templates.png" src="../../_images/setup-process-templates.png" />
 <ol class="arabic simple" start="24">
-<li><p>Go to Omnia Admin &gt; Properties &gt; Enterprise Property. Create a new Person property for Process Owner.</p></li>
+<li><p>Go to Omnia Admin &gt; Properties &gt; Enterprise Properties. Create a new Person property for Process Owner. An example:</p></li>
 </ol>
-<img alt="../../_images/setup-processowner.png" src="../../_images/setup-processowner.png" />
+<img alt="../../_images/setup-processowner-new.png" src="../../_images/setup-processowner-new.png" />
 <ol class="arabic simple" start="25">
+<li><p>Go to Omnia Admin &gt; Properties &gt; Queryable Properties. Add the new Person property for Process Owner as a queryable property under Processes.</p></li>
 <li><p>Go to Omnia Admin &gt; Properties &gt; Property Sets. Create a new Property Set that can be used for your processes. Include the new Process Owner property.</p></li>
 </ol>
 <img alt="../../_images/setup-process-propertyset.png" src="../../_images/setup-process-propertyset.png" />
-<ol class="arabic simple" start="26">
+<ol class="arabic simple" start="27">
 <li><p>Go to Omnia Admin &gt; Process Management &gt; Process Types.</p></li>
 <li><p>Create a new Process Type.</p></li>
 </ol>
@@ -285,9 +297,9 @@
 
   <div role="contentinfo">
     <p>
-        &#169; Copyright 2022, Precio Fishbone.
+        &#169; Copyright 2023, Precio Fishbone.
       <span class="lastupdated">
-        Last updated on Nov 28, 2022.
+        Last updated on Feb 23, 2023.
       </span>
 
     </p>

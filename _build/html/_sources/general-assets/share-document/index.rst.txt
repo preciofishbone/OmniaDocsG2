@@ -31,7 +31,7 @@ For all users of the community to read a shared document, the button FIND DOCUME
 
 .. image:: find-document-button-list.png
 
-The document title can be clicked to read a document. The uploader's name can also be clicked to display that user's User Profile Card, if it's used, or the user's Delve page if the Profile Card is not used.
+The document title can be clicked to read a document. The uploader's name can also be clicked to display that user's User Profile Card, if it's used within your organization, or the user's Delve page if the Profile Card is not used.
 
 How it is set up
 ------------------

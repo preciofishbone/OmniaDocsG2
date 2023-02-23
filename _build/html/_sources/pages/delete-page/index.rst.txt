@@ -28,36 +28,16 @@ As an alternative, you can use DELETE in the menu in the navigation tree. This o
 
 .. image:: delete-page-menu-new2.png
 
-When you select delete, something like the following is shown:
+When you select delete of a main page with sub pages, something like the following is shown:
 
 .. image:: archive-message-new.png
 
-Note the message "You are about to archive a lot of pages" which is telling you that the page you have chosen has sub pages. (If the page doesn't have sub pahes, the message is different).
+Note the message "You are about to archive a lot of pages" which is telling you that the page you have chosen has sub pages. If the page doesn't have sub pages that message is simply not shown.
 
 5. Type a comment (Mandatory!) and click OK to archive the page, or CANCEL if you change your mind.
 
-Deleting a Page Collection
-****************************
-Deleting (archiving) a Page Collection works exactly the same as described above. Just select the page collection's top node and select DELETE.
-
-Deleting a Page Type
-**********************
-Page Types that are used for active pages (published or drafts) can not be deleted (archived). If you would like to delete pages and the page type used for these pages, delete the pages first, and then the page type.
-
-Deleting a Variation
-***********************
-You can delete (archive) a variation separately from the main page if needed. Just open the variation and delete the same way. A deleted variation can be restored or terminated the same way as other pages, see below. If the main page is deleted, variations of that page are always deleted as well.
-
-Automatic Delete and Termination
-**************************************
-You can setup automatic delete (archiving) for pages based on a property. See the bottom of this page for more information: :doc:`Page Type Settings </pages/page-types/page-type-settings/index>`
-
-Furthermore, you can set up rules for automatic termination of deleted pages, in the Publishing App Settings. See the heading "Delete" at the bottom of this page: :doc:`Publishing App Settings </pages/page-settings/index>`
-
-**Important note!** These delete and termination settings are valid for Omnia. If a page truly must be terminated from your system, settings for dust bins in Sharepoint may also need to be edited.
-
 Delete and create draft
-******************************
+--------------------------
 When deleting (archiving) a page, it may be possible to create a new draft. This is possible if:
 
 + The page has no sub pages.
@@ -66,6 +46,26 @@ When deleting (archiving) a page, it may be possible to create a new draft. This
 When it is possible to create a draft when deleting, the following option is available:
 
 .. image:: archive-create-draft-new2.png
+
+Deleting a Page Collection
+------------------------------
+Deleting (archiving) a Page Collection works exactly the same as described above. Just select the page collection's top node and select DELETE.
+
+Deleting a Page Type
+-------------------------
+Page Types that are used for active pages (published or drafts) can not be deleted (archived). If you would like to delete pages and the page type used for these pages, delete the pages first, and then the page type.
+
+Deleting a Variation
+------------------------
+You can delete (archive) a variation separately from the main page if needed. Just open the variation and delete the same way. A deleted variation can be restored or terminated the same way as other pages, see below. If the main page is deleted, variations of that page are always deleted as well.
+
+Automatic Delete and Termination
+--------------------------------------
+You can setup automatic delete (archiving) for pages based on a property. See the bottom of this page for more information: :doc:`Page Type Settings </pages/page-types/page-type-settings/index>`
+
+Furthermore, you can set up rules for automatic termination of deleted pages, in the Publishing App Settings. See the heading "Delete" at the bottom of this page: :doc:`Publishing App Settings </pages/page-settings/index>`
+
+**Important note!** These delete and termination settings are valid for Omnia. If a page truly must be terminated from your system, settings for dust bins in Sharepoint may also need to be edited.
 
 Restore or terminate a deleted page
 *****************************************
@@ -133,4 +133,3 @@ When a page is deleted, the information is removed from the Omnia database and i
 
 When a page is terminated in Omnia, it is moved to the recycle bin in SharePoint.
 
- 

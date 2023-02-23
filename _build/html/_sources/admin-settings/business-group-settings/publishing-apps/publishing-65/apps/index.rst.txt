@@ -5,9 +5,9 @@ Within a Business Profile several Publishing Apps can be active for different se
 
 Here you will see a list of Publishing Apps in the Business Profile, for example:
 
-.. image:: publishing-apps-apps-65.png
+.. image:: publishing-apps-apps-612.png
 
-You can click the link to go to the app.
+You can click the link to go to an app.
 
 Use the icons this way:
 
@@ -23,13 +23,15 @@ Edit App Route
 *****************
 If it should be needed to edit the App Route, click the icon and the following is shown:
 
-.. image:: publishing-apps-app-route-65-url.png
+.. image:: publishing-apps-app-route-612.png
 
 Edit Permissions
 *****************
 If you need to add or remove Administrator(s) for a Publishing App, you do it here:
 
-.. image:: publishing-apps-app-premissions-65.png
+.. image:: publishing-apps-app-premissions-612.png
+
+Contributor permissions is needed if colleagues should be able to add comments to publishing pages.
 
 Don't forget to save when you're done.
 
@@ -43,17 +45,17 @@ Pending Approval
 *****************
 If Approval for creation is activated for the template, an administrator uses this list to work with approval or rejection.
 
-The list can look like this (example from Omnia 6.0):
+The list can look like this:
 
-.. image:: publishing-pending-approval.png
+.. image:: publishing-pending-approval-612.png
 
 To approve or reject, click the link and browse the settings. And here you decide:
 
-.. image:: publishing-pending-approval-approve.png
+.. image:: publishing-pending-approval-approve-612.png
 
 If you click Approve, the publishing app is created and the colleague requesting the approval is notified. If you click Reject you add a comment of what needs to be done before it can be approved:
 
-.. image:: publishing-pending-approval-comment.png
+.. image:: publishing-pending-approval-comment-612.png
 
 **Note!** Requesting an app must always be done from start each time. If rejected, nothing from the request is saved.
 

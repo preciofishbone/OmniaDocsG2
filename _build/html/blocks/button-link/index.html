@@ -115,7 +115,7 @@
 <li class="toctree-l2"><a class="reference internal" href="../iframe/index.html">Iframe block</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../media/index.html">Media</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../mega-menu/index.html">Mega Menu</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../metrics/index.html">Metrics block</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../metrics-block-612/index.html">Metrics</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../notification-panel/index.html">Notification Panel</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../omnia-block-webpart/index.html">Using the Omnia Block web part</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../organization-tree/index.html">Organization Tree Block</a></li>
@@ -296,7 +296,7 @@
 </div>
 <div class="section" id="add-to-my-calendar">
 <h3>Add to my calendar<a class="headerlink" href="#add-to-my-calendar" title="Permalink to this headline">¶</a></h3>
-<p>Can be placed on any Omnia page. When a user clicks the button, an ics file is created and downloaded to the users Download folder. The ics file can then be added to the user’s calendar.</p>
+<p>Can be placed on any Omnia page. When a user clicks the button, an ics file for the page is created and downloaded to the users Download folder. The ics file can then be added to the user’s calendar.</p>
 <p>(Only general settings are available, see above).</p>
 </div>
 <div class="section" id="create-app">
@@ -421,12 +421,15 @@
 <p>Use this to add an Action button for Sign-off requests.</p>
 <img alt="../../_images/action-button-sign-off.png" src="../../_images/action-button-sign-off.png" />
 <ul class="simple">
-<li><p><strong>Type</strong>: You can choose between “Administration List” and “End-user sign-off”.</p></li>
+<li><p><strong>Type</strong>: You can choose between “Administration List”, “End-user sign-off” and “Create New Request”.</p></li>
 </ul>
-<p>The Administration List, displays all Sign-off requests the logged in administrator has sent, indicating what has happened so far. Here’s an example:</p>
-<img alt="../../_images/requests-admin-list.png" src="../../_images/requests-admin-list.png" />
+<p>The Administration List displays all Sign-off requests the logged in administrator has sent, indicating what has happened so far. Here’s an example:</p>
+<img alt="../../_images/requests-admin-list-new.png" src="../../_images/requests-admin-list-new.png" />
 <p>The colored dots indicates the number of answers: white for none, yellow for some and green for all that the request was sent to.</p>
-<p>The End-user sign off displays the same as the Sign-off Request Rollup block does. See this page for an example: <a class="reference internal" href="../sign-off-request/index.html"><span class="doc">The Sign-off Request Rollup block</span></a></p>
+<p>Also note the NEW REQUEST link at the bottom of the list. That links can be used do create a new sign-off request the same way as in Omnia Admin, see the “Requests” link below.</p>
+<p><strong>A description of what “End-user sign off” displays will be added soon.</strong></p>
+<p>The purpose of “Create New Request” is to make it possible to create a new sign-off request on any page. When creating the button, select type of request that should be possible to create. The sign-off types are set up in Omnia Admin, see: <a class="reference internal" href="../../admin-settings/tenant-settings/sign-off-requests-613/sign-off-types-613/index.html"><span class="doc">Sign-off Request types</span></a></p>
+<p>When a user clicks a Create New Request button, a new request can be created the same way as described on this page: <a class="reference internal" href="../../admin-settings/tenant-settings/sign-off-requests-613/sign-off-request-requests-613/index.html"><span class="doc">Requests</span></a></p>
 </div>
 <div class="section" id="strengthen-profile">
 <h3>Strengthen Profile<a class="headerlink" href="#strengthen-profile" title="Permalink to this headline">¶</a></h3>
@@ -440,9 +443,10 @@
 <img alt="../../_images/action-button-subscribe-new.png" src="../../_images/action-button-subscribe-new.png" />
 <ul class="simple">
 <li><p><strong>Unsubscribe Text</strong>: A “Subscribe” button changes the text automatically when a user has clicked the button. Unsubscribe is suggested but you can change the text to something else.</p></li>
-<li><p><strong>Subscription Scope</strong>: Select the scope here, meaning what the user actually subscribes to; the Page (= all changes to the page, even comments and best reply for Knowledge pages), Publishing App (= all new pages in the Publishing App, but not changes to existing pages) or Page Collection (= all new pages in the Page Collection, but not changes to existing pages). The Scope can also be a Publishing Channel.</p></li>
+<li><p><strong>Subscription Scope</strong>: Select the scope here, meaning what the user actually subscribes to; the Page in a community (= all changes to the page, even comments and best reply for Knowledge pages), the Publishing App, meaing the Community app (= all new pages in the app, but not changes to existing pages) or the Page Collection for the community (= all new pages in the Page Collection, but not changes to existing pages). The Scope can also be a Publishing Channel.</p></li>
 <li><p><strong>Publishing Channel</strong>: If Publishing Channel was set as Scope, use this list to select channel.</p></li>
 </ul>
+<p><strong>Note!</strong> Regardinf Publishing Apps - subscription is only meant to be used in communities. For more information, see: <a class="reference internal" href="../../using-communities/subscriptions/index.html"><span class="doc">Subscriptions in Communities</span></a></p>
 </div>
 </div>
 <div class="section" id="button-style">
@@ -505,9 +509,9 @@
 
   <div role="contentinfo">
     <p>
-        &#169; Copyright 2022, Precio Fishbone.
+        &#169; Copyright 2023, Precio Fishbone.
       <span class="lastupdated">
-        Last updated on Nov 25, 2022.
+        Last updated on Feb 23, 2023.
       </span>
 
     </p>

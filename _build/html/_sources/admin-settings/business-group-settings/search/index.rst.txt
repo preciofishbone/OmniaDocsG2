@@ -1,7 +1,7 @@
 Search
 ===========================================
 
-These options are available for Search (image from Omnia 6.12):
+These options are available for Search:
 
 .. image:: search-612.png
 
@@ -11,8 +11,8 @@ Select section for more information:
    :titlesonly:
 
    search-config/index
-   quick-search/index
-   advanced-search/advanced-search-67/index
+   quick-search-612/index
+   advanced-search/advanced-search-612/index
    promoted-search-results/index
    search-feedback/index
    search-statistics/index

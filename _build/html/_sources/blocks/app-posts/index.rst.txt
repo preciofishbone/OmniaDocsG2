@@ -13,7 +13,7 @@ The following settings are available:
 
 General
 **********
-These settings are available under General (image from Omnia 6.12):
+These settings are available under General:
 
 .. image:: posts-block-general-612.png
 
@@ -21,7 +21,7 @@ These settings are available under General (image from Omnia 6.12):
 + **Current App**: If the scope should be this app only, select this option.
 + **Custom Scope**: To set a different scope, select this option. See below for more information.
 + **Enable Mention**: If mentions should be possible in the posts, this option must be selected. Default=off.
-+ **Allow social reactions**: Can be available in Omnia 6.12. If it should be possible to use social reactions in this block, select this option. The same social reactions functionality as in Teams can then be used. The corresponding tenant feature must be activated for this option to be available.
++ **Allow social reactions**: Can be available if settings allow it. If it should be possible to use social reactions in this block, select this option. The same social reactions functionality as in Teams can then be used. The corresponding tenant feature must be activated for this option to be available.
 + **Allow Likes**: If it should be able to like a comment, select this option. If the tenant feature "Social reactions" is activated, the "Allow social reactions" option replaces this option. Then social reactions is used instead of likes.
 + **Replies shown by default**: Decide the number of replies the should be shown for each post, before a Show more link is shown. Default=2. 
 
@@ -64,7 +64,7 @@ Tip - adding images to a post
 ******************************
 Here's a tip that doesn't need any settings:
 
-In Omnia 6.12 and later it's possible to add images and animated gifs to a post, using these icons:
+If settings allow it, it can possible to add images and animated gifs to a post, using these icons:
 
 .. image:: posts-images.png
 

@@ -1,6 +1,46 @@
-6.11.31
+6.11.46
 ========================================
-(Omnia 6.11.31 / Workplace 6.11.17 / WCM 6.11.24 / MS 6.11.16)
+(6.11.46 / Workplace 6.11.24 / WCM 6.11.43 / MS 6.11.25)
+
+- Corrected an issue with the term picker using a large term set with one root term (#143089).
+- Targeted teamwork now works as expected (#143123).
+- Permissions now correctly sync to SharePoint when having more than 5000 items in one page collection.
+
+
+6.11.45
+========================================
+(Omnia 6.11.45 / Workplace 6.11.24 / WCM 6.11.39 / MS 6.11.25)
+
+- Fixes to term picker to better support large termsets (#143089).
+
+6.11.44
+========================================
+(Omnia 6.11.44 / Workplace 6.11.24 / WCM 6.11.42 / MS 6.11.25)
+
+- Added dirty checking on channel editor interface. Also fixes (#142003).
+- Improved loading speed of images in Process management (#140124).
+- Improved performance for page rollup. Also fixes (#142109).
+- Clearing page rollup filter will now correctly trigger a new empty search.
+- Corrected an issue where multiple review reminders would be sent in some scenarios (#141583, #142030).
+- Improved stability in teamwork creation (#141306).
+- OnPrem: Internal user group can now be added in Process Management.
+- Corrected an issue where the wrong users would be shown in the activity feed (#141306).
+- Corrected link to task from Document management that would sometimes be incorrect due to special characters (#142247).
+- Updated archive flow to prevent corrupt data to be synced as searchable pages in some scenarios (#141135, #141245).
+- Fixed a rendering issue in the notification panel with the document rollup (#141387).
+- Corrected an issue with multilingual categories in Shared Links (#142396).
+- Fixed a time zone related issue with the Birthday field of the profile card (#142516).
+- Corrected a potential race condition that could occur when creating pages with broken inheritance (#142304).
+- Corrected an issue in ODM when having more than 5000 documents in the same view (#142445).
+- The related links page picker now works as expected when having many pages (#142356).
+- SharePoint Reindex now works with the delete option together with +5000 pages (#142356).
+- Stack processes now highlight correctly.
+- Updated edit teamwork flow to correctly ensure administrators (#142581).
+
+
+6.11.33
+========================================
+(Omnia 6.11.31 / Workplace 6.11.18 / WCM 6.11.26 / MS 6.11.18)
 
 - Using a token in the Action button to publish pages in another page collection now works as expected (#141725).
 - End user filtering for channels now works as expected in the page rollup (#141831, #141968).

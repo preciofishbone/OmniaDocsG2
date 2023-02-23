@@ -114,6 +114,7 @@
 <li class="toctree-l4"><a class="reference internal" href="../statistics/index.html">Statistics</a></li>
 <li class="toctree-l4"><a class="reference internal" href="../documents-bulk-update/index.html">Documents Bulk Update</a></li>
 <li class="toctree-l4"><a class="reference internal" href="../document-termination/index.html">Document Termination</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../about-merging-terms/index.html">About merging terms</a></li>
 </ul>
 </li>
 <li class="toctree-l3"><a class="reference internal" href="../../process-management/index.html">Process Management - Tenant settings</a></li>
@@ -225,6 +226,15 @@
 <img alt="../../../../_images/document-types-info-new2.png" src="../../../../_images/document-types-info-new2.png" />
 <p>You can decide the order in which the document types are shown within a grooup. Click a document type and use the arrows to move up or down.</p>
 <img alt="../../../../_images/document-types-move.png" src="../../../../_images/document-types-move.png" />
+<p>You can also move a document type to another group when editing the document type.</p>
+<ol class="arabic simple">
+<li><p>Click MOVE.</p></li>
+</ol>
+<img alt="../../../../_images/move-image-type-1.png" src="../../../../_images/move-image-type-1.png" />
+<ol class="arabic simple" start="2">
+<li><p>Select the group to move to and save.</p></li>
+</ol>
+<img alt="../../../../_images/move-image-type-2.png" src="../../../../_images/move-image-type-2.png" />
 <div class="section" id="creating-a-new-group">
 <h2>Creating a new Group<a class="headerlink" href="#creating-a-new-group" title="Permalink to this headline">¶</a></h2>
 <p>To create a new a group, do the following:</p>
@@ -283,15 +293,16 @@
 <p>The settings are organized into five tabs, see the sections below.</p>
 <div class="section" id="general">
 <h3>General<a class="headerlink" href="#general" title="Permalink to this headline">¶</a></h3>
-<p>The General tab contains the following settings (image from Omnia 6.12):</p>
-<img alt="../../../../_images/document-type-general-612.png" src="../../../../_images/document-type-general-612.png" />
+<p>The General tab contains the following settings:</p>
+<img alt="../../../../_images/document-type-general-612-new.png" src="../../../../_images/document-type-general-612-new.png" />
 <ul class="simple">
 <li><p><strong>Title</strong>: Add a Title for the Document Type in one or more of the tenant languages (click the flag to change language). Note that default language is mandatory.</p></li>
 <li><p><strong>Property Set</strong>: Property Sets is a way of groping a number of properties into a set, which makes it easier to use a set of properties in several Document Types. Select a property set for the Document Type. When you have done so you can click the cogwheel to see which properties belong to the set. You will also see information about Placeholder Shortname and default value for the properties in the set.</p></li>
 <li><p><strong>Document Templates</strong>: Select one or more of the templates. Available templates depends pn Property set selected. You must always do this even if there’s just one template available.</p></li>
 <li><p><strong>Default Document Template</strong>: Use this option to select one of the templates for this Document Type as the default template. When selecting the Document Type, the author then has this template preselected.</p></li>
 <li><p><strong>Allow appendices</strong>: Check this option to allow for appendices. Authors can then tie other documents as appendices to the main documents. This option must be checked to make it possible for this document type.</p></li>
-<li><p><strong>Is record</strong>: This option is available in Omnia 6.12 and later. Some controlled documents may not need to be updated, just to be used as is. To set that for this document type, select this option. See below for more information.</p></li>
+<li><p><strong>Allow Signed Copy</strong>: If it should be possible to handle a signed copy for documents of this type, select this option. For more information on signed copies, see this page: <a class="reference internal" href="../../../../working-with-documents/authoring-controlled-documents/working-with-published-documents/index.html"><span class="doc">Working with Published documents</span></a></p></li>
+<li><p><strong>Is record</strong>: Some controlled documents may not need to be updated, just to be used as is. To set that for this document type, select this option. See below for more information.</p></li>
 <li><p><strong>Show Create Document Icon in Document Rollup</strong>: In the Document Rollup the “Create Document Icon” column can be added. A document can be created using the icon only if it belongs to a Document Type that has this option selected. if not, the icon is not shown.</p></li>
 </ul>
 <p>Don’t forget to save when you’re done.</p>
@@ -347,10 +358,21 @@
 <li><p><strong>Property</strong>: Another way is to select a Property for handling of Review. An example could be if you want authors to be able to set a specific date for review, which could be needed for a Supplier Agreement, for example. A date property must then have been set up for this to work.</p></li>
 <li><p><strong>Send reminder in advance</strong>: Set the number of days that a reminder should be sent, before the Review Date.</p></li>
 <li><p><strong>Review Reminder Recipients</strong>: Select review reminder recipient(s) in the list.</p></li>
-<li><p><strong>Create Task</strong>: If a review task should be created, select this option. Then use the list to select who to assign the task to.</p></li>
+<li><p><strong>Create Task</strong>: If a review task should be created, select this option. For more information, see below.</p></li>
 <li><p><strong>Task expire in</strong>: This is shown when you select “Create Task”. Set the number of days, months or years before the task will expire.</p></li>
 </ul>
-<p><strong>Important note!</strong> In Omnia 6.12 the review reminder task has been updated. If a new edition/revision of a controlled document is published or the published document is deleted, any associated review reminder task will be automatically completed. If the review is completed, the review comment will be added to the document history and a new review date will be calculated based on the review reminder rule set on the document type.</p>
+<p>When you choose to create a task, this is shown:</p>
+<img alt="../../../../_images/doctype-review-create-task.png" src="../../../../_images/doctype-review-create-task.png" />
+<ol class="arabic simple">
+<li><p>Use the list to select who the task should be sent to, for example Document Owner.</p></li>
+<li><p>Select when the task will expire.</p></li>
+<li><p>Add a custom text for the Review button, if needed, in any tenant language. Click the flag to change language.</p></li>
+</ol>
+<img alt="../../../../_images/doctype-review-create-task-button.png" src="../../../../_images/doctype-review-create-task-button.png" />
+<ol class="arabic simple" start="4">
+<li><p>Save when you’re done with all settings.</p></li>
+</ol>
+<p><strong>Important note!</strong> The review reminder task has been updated. If a new edition/revision of a controlled document is published or the published document is deleted, any associated review reminder task will be automatically completed. If the review is completed, the review comment will be added to the document history and a new review date will be calculated based on the review reminder rule set on the document type.</p>
 </div>
 <div class="section" id="archive">
 <h3>Archive<a class="headerlink" href="#archive" title="Permalink to this headline">¶</a></h3>
@@ -390,9 +412,9 @@
 
   <div role="contentinfo">
     <p>
-        &#169; Copyright 2022, Precio Fishbone.
+        &#169; Copyright 2023, Precio Fishbone.
       <span class="lastupdated">
-        Last updated on Nov 25, 2022.
+        Last updated on Feb 23, 2023.
       </span>
 
     </p>

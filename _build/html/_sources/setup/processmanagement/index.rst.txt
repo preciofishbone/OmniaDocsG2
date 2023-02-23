@@ -1,7 +1,7 @@
 Setup Process Management
 ===========================================
 
-.. note:: In order for Process Managemnet features to appear in the UI, the Process Management extension needs to be installed and the Process Management feature needs to be activated. Please consult with your local partner to set up these prerequisites.
+.. note:: In order for Process Managemnet features to appear in the UI, the Process Management feature needs to be activated. Please consult with your local partner to set up these prerequisites.
 
 Below you will find the steps needed in order to create a basic setup of Process Management.
 
@@ -24,23 +24,37 @@ Process Types
 
 .. image:: processtypes2.png
 
+Title property
+---------------
+In order for the Process Picker to be able to work as expected, the property "Title" must be present in the queryable properties for Process.
+
+.. image:: title-quey-1.png
+.. image:: title-quey-2.png
+
 Process Archive
 -------------------------------------------
 
 .. note:: If you have Document Management setup, you can ignore step 16 - 17.
 
-16. Go to the Business Profile in which you want to host the central controlled documents archive.
-17. Go to Provisioning Template and create a new template that can be used for system sites.
+16. Go to the Business Profile in which you want to host the process archive.
+17. Go to Teamwork > Templates and create a new template that can be used for system sites.
 
-.. image:: provisioningtemplate-system.png
+(A Publishing Template can be used as well, but using a Teamwork Template is the more common solution).
 
-18. Click on Teamwork in Omnia Admin and create a new site for the process archive based on the System Site template.
+.. image:: provisioningtemplate-system-613.png
 
-.. image:: process-archive.png
+18. Click on Teamwork > Apps and create a new site for the process archive based on the System Site template.
+
+.. image:: create-process-archive-613.png
 
 19. Activate the feature Process Archive on the newly created site.
+
+.. image:: process-archive-613-feature.png
+
 20. Click on Process Management in Omnia Admin and click on Settings.
-21. Put in the full url to the newly created site in the Archive Site Url and save.
+21. Add the full url to the newly created site in the Archive Site Url and save.
+
+.. image:: process-archive-613-url.png
 
 Process Type Templates
 ---------------------------------------------
@@ -50,16 +64,18 @@ Process Type Templates
 
 .. image:: setup-process-templates.png
 
-24. Go to Omnia Admin > Properties > Enterprise Property. Create a new Person property for Process Owner.
+24. Go to Omnia Admin > Properties > Enterprise Properties. Create a new Person property for Process Owner. An example:
 
-.. image:: setup-processowner.png
+.. image:: setup-processowner-new.png
 
-25. Go to Omnia Admin > Properties > Property Sets. Create a new Property Set that can be used for your processes. Include the new Process Owner property.
+25. Go to Omnia Admin > Properties > Queryable Properties. Add the new Person property for Process Owner as a queryable property under Processes.
+
+26. Go to Omnia Admin > Properties > Property Sets. Create a new Property Set that can be used for your processes. Include the new Process Owner property.
 
 .. image:: setup-process-propertyset.png
 
-26. Go to Omnia Admin > Process Management > Process Types.
-27. Create a new Process Type.
+27. Go to Omnia Admin > Process Management > Process Types.
+28. Create a new Process Type.
 
 .. image:: setup-processtype-general.png
 
@@ -69,12 +85,10 @@ Process Type Templates
 
 .. image:: setup-processtype-archive.png
 
+
 .. toctree::
    :titlesonly:
 
    processlibrary/index
    processdirectory/index
-
-
-
 

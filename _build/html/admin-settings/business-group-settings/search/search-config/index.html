@@ -238,16 +238,22 @@
 <p>In Omnia 6.12 and later, tokens can be used in the search category queries. Tokens will be replaced with values in context when the query is executed. This makes it possible to create context dependent queries based on the underlying SharePoint site, app instance or user properties.</p>
 <p>Examples of tokens that can be used:</p>
 <ul class="simple">
-<li><p>{User.Id}</p></li>
-<li><p>{User.Name}</p></li>
-<li><p>{User.Email}</p></li>
-<li><p>{User.Language}</p></li>
-<li><p>{SPSite.Id}</p></li>
-<li><p>{SPSite.FullUrl}</p></li>
-<li><p>{Page.Id}</p></li>
-<li><p>{Page.SPPath} - to get the full url to the folder where the page is located in Site Pages.</p></li>
-<li><p>{Variation.Segment}</p></li>
+<li><p>{User.Id} - Logged in user’s login id (usually email).</p></li>
+<li><p>{User.Name} - Logged in user’s display name.</p></li>
+<li><p>{User.Email} - Logged in user’s email.</p></li>
+<li><p>{User.Language} - User selected language as ISO language code.</p></li>
+<li><p>{SPSite.Id} - SharePoint id for the current site.</p></li>
+<li><p>{SPSite.FullUrl} - Communication url of the current Omnia page.</p></li>
+<li><p>{Page.Id} - Id of the SharePoint folder.</p></li>
+<li><p>{Page.SPPath} - Full url to the folder where the page is located in Site Pages. Example: (Path:{Page.SPPath}).</p></li>
+<li><p>{Variation.Segment} - Url segment of the current variation.</p></li>
+<li><p>{TargetingProperty.InternalName} - TermID of matching property of current user.</p></li>
+<li><p>{AppInstance.InternalName} - TermID of matching property of current user.</p></li>
 </ul>
+<p>Some examples of how the tokens can be used:</p>
+<p>To search this site: Path:{SPSite.FullUrl}*</p>
+<p>To search PDF:s in my department: FileType:pdf AND RefinableString110:{TargetingProperty.Department}</p>
+<p>To search pages in my language: FileType:aspx AND OmniaVariationSegmentOWSTEXT:{Variation.Segment}</p>
 </div>
 <div class="section" id="search-templates">
 <h2>Search Templates<a class="headerlink" href="#search-templates" title="Permalink to this headline">¶</a></h2>
@@ -271,9 +277,9 @@
 
   <div role="contentinfo">
     <p>
-        &#169; Copyright 2022, Precio Fishbone.
+        &#169; Copyright 2023, Precio Fishbone.
       <span class="lastupdated">
-        Last updated on Nov 25, 2022.
+        Last updated on Feb 03, 2023.
       </span>
 
     </p>

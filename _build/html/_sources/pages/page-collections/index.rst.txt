@@ -1,8 +1,6 @@
 Page Collections
 ==================
 
-**This page is being restructured. Will be finshed soon.**
-
 Within a Publishing App a number of Page Collections can exist, where some settings can differ, for example if approval of new pages are needed or not. 
 
 A Page Collection contains, as the name imply, a number of pages.

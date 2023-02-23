@@ -15,7 +15,7 @@ To edit a query, click the pen. To add a new query, do the following:
 .. image:: page-queries-settings.png
 
 + **Title**: Add a title for the query. Will be used when selecting query for a screen.
-+ **Pick Pages/Use Query Builder**: You can either pick one or more pages to be shwon, or add a query.
++ **Pick Pages/Use Query Builder**: You can either pick one or more pages to be shown, or add a query.
 + **ADD PAGES**: If you choose to pick pages, click this button and use the Page Picker to pick one or more pages. For more information, see: :doc:`Page Picker  </general-assets/page-picker/index>`
 + **Scope**: If you choose to use the Query Builder, the first setp is to select scope for the query; Tenant, Business Profile, Publishing Apps, Page Collections, Navigation Path or Channels.
 + **Add Filter**: If you select Tenant as scope you can add a filter. For more information, see below.

@@ -106,26 +106,11 @@
 <li class="toctree-l3 current"><a class="reference internal" href="../../index.html">System</a><ul class="current">
 <li class="toctree-l4"><a class="reference internal" href="../../audit-logs/index.html">Audit logs</a></li>
 <li class="toctree-l4"><a class="reference internal" href="../../authentication/index.html">Authentification</a></li>
-<li class="toctree-l4"><a class="reference internal" href="../../azure-ad-permissions/index.html">Azure AD Permissions</a></li>
-<li class="toctree-l4"><a class="reference internal" href="../../azure-ad-sync/index.html">Azure AD Synchronization settings</a></li>
-<li class="toctree-l4"><a class="reference internal" href="../../default-sharepoint-content/index.html">Default Sharepoint Context Url</a></li>
-<li class="toctree-l4"><a class="reference internal" href="../../custom-email/index.html">Email Service</a></li>
-<li class="toctree-l4"><a class="reference internal" href="../../error-information/index.html">Error Information</a></li>
-<li class="toctree-l4"><a class="reference internal" href="../../extensions/index.html">Extensions</a></li>
-<li class="toctree-l4"><a class="reference internal" href="../../localization/index.html">Localization</a></li>
-<li class="toctree-l4"><a class="reference internal" href="../../power-apps-tenant/index.html">Power App settings</a></li>
-<li class="toctree-l4"><a class="reference internal" href="../../queue-logs/index.html">Queue Logs</a></li>
-<li class="toctree-l4"><a class="reference internal" href="../../spfx-instruction/index.html">SPFx Instruction</a></li>
-<li class="toctree-l4"><a class="reference internal" href="../../teams-app-generator/index.html">Teams App Generator</a></li>
-<li class="toctree-l4"><a class="reference internal" href="../../tenant-contact/index.html">Tenant Contact</a></li>
-<li class="toctree-l4"><a class="reference internal" href="../../user-profile-card/index.html">User Profile Card</a></li>
-<li class="toctree-l4"><a class="reference internal" href="../../audit-logs/index.html">Audit logs</a></li>
-<li class="toctree-l4"><a class="reference internal" href="../../authentication/index.html">Authentification</a></li>
 <li class="toctree-l4"><a class="reference internal" href="../../default-sharepoint-content/index.html">Default Sharepoint Context Url</a></li>
 <li class="toctree-l4"><a class="reference internal" href="../../error-information/index.html">Error Information</a></li>
 <li class="toctree-l4"><a class="reference internal" href="../../extensions/index.html">Extensions</a></li>
 <li class="toctree-l4"><a class="reference internal" href="../../localization/index.html">Localization</a></li>
-<li class="toctree-l4 current"><a class="reference internal" href="../index.html">Microsoft 365 settings in Omnia 6.12</a></li>
+<li class="toctree-l4 current"><a class="reference internal" href="../index.html">Microsoft 365 settings</a></li>
 <li class="toctree-l4"><a class="reference internal" href="../../services-612/index.html">Services</a></li>
 <li class="toctree-l4"><a class="reference internal" href="../../queue-logs/index.html">Queue Logs</a></li>
 <li class="toctree-l4"><a class="reference internal" href="../../tenant-contact/index.html">Tenant Contact</a></li>
@@ -213,7 +198,7 @@
         
           <li><a href="../../index.html">System</a> &raquo;</li>
         
-          <li><a href="../index.html">Microsoft 365 settings in Omnia 6.12</a> &raquo;</li>
+          <li><a href="../index.html">Microsoft 365 settings</a> &raquo;</li>
         
       <li>Sharepoint User Profiles Sync</li>
     
@@ -244,6 +229,7 @@
 <img alt="../../../../../_images/sharepoint-user-profiles-sync.png" src="../../../../../_images/sharepoint-user-profiles-sync.png" />
 <ul class="simple">
 <li><p><strong>SYNCHRONIZE NOW</strong>: Click this button to execute the syncrhonizations set up (listed at the bottom). If you select “Enable Azure AD Synchronization” and set and interval, you don’t have to click this button. The synchronization is then executed with the interval set.</p></li>
+<li><p><strong>RESYNC</strong>: Use this button to open the Resync window, if needed. See below for a description.</p></li>
 <li><p><strong>Test Sync</strong>: This is an option suitable for administrators to test synchronization for a limited number af users. Setup the sync to test as described below.</p></li>
 <li><p><strong>EVENTS</strong>: Click this button to access logs from the synchronizations.</p></li>
 <li><p><strong>Enable synchronization</strong>: Select this option to enable the synchronization.</p></li>
@@ -285,6 +271,22 @@
 <p>In the list each synchronization is described with Type, Status and start- and end time. The top icon for each post will show more details. Here’s where you will see detailed log if you selected “Log Details”.</p>
 <img alt="../../../../../_images/azure-ad-settings-events1.png" src="../../../../../_images/azure-ad-settings-events1.png" />
 </div>
+<div class="section" id="resync">
+<h2>Resync<a class="headerlink" href="#resync" title="Permalink to this headline">¶</a></h2>
+<p>If syncronization for some users didn’t work, the RESYNC button is shown, for example:</p>
+<img alt="../../../../../_images/azure-ad-settings-resync-1.png" src="../../../../../_images/azure-ad-settings-resync-1.png" />
+<p>The system will try to sync the user(s) the number of time set for “Resync Retry Limit”.</p>
+<p>To display more information, click RESYNC. The information in this window can look like this (image from a test environment):</p>
+<img alt="../../../../../_images/azure-ad-settings-resync-2.png" src="../../../../../_images/azure-ad-settings-resync-2.png" />
+<p>Here you will find more information on the resync job and you can see a list of users that the syncronization did’nt work for.</p>
+<p>The button RESYNC NOW can be used to execute the sync job immediately.</p>
+<p>There are three lists available:</p>
+<ul class="simple">
+<li><p>Resync users: Lists the users that the system will try to resync.</p></li>
+<li><p>Succesful Resync users: Lists all users that was succesfully resynced.</p></li>
+<li><p>Fail resync users: Lists all users that has been resynced but where the resync was not succesful.</p></li>
+</ul>
+</div>
 </div>
 
 
@@ -301,9 +303,9 @@
 
   <div role="contentinfo">
     <p>
-        &#169; Copyright 2022, Precio Fishbone.
+        &#169; Copyright 2023, Precio Fishbone.
       <span class="lastupdated">
-        Last updated on Nov 25, 2022.
+        Last updated on Feb 23, 2023.
       </span>
 
     </p>

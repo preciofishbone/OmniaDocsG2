@@ -17,5 +17,4 @@ Select section for more information:
    alternative-create/index
    using-the-document-wizard/index
    controlled-documents-in-publapp/index
-  
    

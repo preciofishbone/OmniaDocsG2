@@ -1,9 +1,7 @@
 Working with controlled documents in a publishing app
 ========================================================
 
-**This page is beeing worked on. Will be finished soon.**
-
-In Omnia 6.12 and later it's possible to work with controlled documents in a Publishing app. This is what is needed:
+It's possible to work with controlled documents in a Publishing app. This is what is needed:
 
 + A publishing layout for this purpose.
 + Document picker categories set upp correctly.

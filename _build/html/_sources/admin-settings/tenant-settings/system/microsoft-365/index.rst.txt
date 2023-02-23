@@ -1,4 +1,4 @@
-Microsoft 365 settings in Omnia 6.12
+Microsoft 365 settings
 ==============================================
 Here, these settings can be used:
 

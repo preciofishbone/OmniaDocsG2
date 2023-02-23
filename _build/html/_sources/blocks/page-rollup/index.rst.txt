@@ -19,7 +19,7 @@ For implementation examples, see this page: :doc:`Page Rollup implementation exa
 
 Settings
 *********
-These settings are available for the block (image from Omnia 6.12):
+These settings are available for the block:
 
 .. image:: page-rollup-settings-612.png
 
@@ -147,15 +147,16 @@ Card
 ------
 The special settings for this view are:
 
++ **Preview**: Available in Omnia 6.13 and later. Select the property to base the preview on. It can be either a media property or a document data property.
 + **Cards per Row**: As it says, set the number of cards to show per row.
-+ **Show Last Comment**: Available in Omnia 6.12 and later. If you seect this, the last comment for the page, if any, will be displayed on the card.
++ **Show Last Comment**: If you seect this, the last comment for the page, if any, will be displayed on the card.
 + **Person**: This option can be used to show properties in Card view.
 + **Show Page Type**: If this option is selected, the Page Type used for the page is shown as metadata, the same way as other properties.
 + **Term properties**: Can be used to show properties in Card view. Click "Add" and select a property. Continue the same way for additional properties.
 
 For general settings, see above.
 
-In Omnia 6.12 and later you can choose where meta data for Date and Person will be placed. Click here to display options:
+You can also choose where meta data for Date and Person will be placed. Click here to display options:
 
 .. image:: place-meta.png
 
@@ -272,7 +273,7 @@ Only News in Swedish will be listed in this example.
 
 Metric
 *******
-Available in Omnia 6.12 and later. Using these settings you can show a metric in the block displaying the number of pages that is valid for the Query settings. The metric can then be clicked to display the page rollup you have set uo.
+Using these settings you can show a metric in the block displaying the number of pages that is valid for the Query settings. The metric can then be clicked to display the page rollup you have set uo.
 
 This can for example be used to create a rather compact page or section with different Metrics in different blocks, that the user can use to click the desired metric to see the full list.
 
