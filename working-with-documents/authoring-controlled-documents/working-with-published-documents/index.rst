@@ -93,7 +93,7 @@ The properties for a published document can be checked this way:
  
 The Properties window for the document is shown, for example:
 
-.. image:: published-properties-new3.png
+.. image:: published-properties-new3-frame.png
  
 The properties can not be edited here. The properties can only be edited when working on a draft for a new edition of the document.
 
