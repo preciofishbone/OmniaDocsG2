@@ -179,23 +179,23 @@ When "Unpublish" is selected, you get a second chance to change your mind:
 
 Delete and restore a document
 ********************************
-In Omnia 6.13 and later, this option is now called Delete:
+This section describes how unpublish of a document works in Omnia 6.13 and later.
 
-.. image:: delete-document-613.png
+**This section is being updated. Will be finished very soon.**
 
 It works like this:
 
-A published document that has a new draft can't be deleted, just as before, the draft must be deleted first.
+A published document that has a new draft can't be unpublished, just as before, the draft must be deleted first.
 
-When you delete a document, you get a chance to change your mind:
+When you unpublish a document, you get a chance to change your mind:
 
-.. image:: delete-document-613-ok.png
+(image to be added)
 
-If an archive for documents is set up, the document is placed in the archive. The archive works as before, but in Omnia 6.13 the deleted document is also placed in a local (= for the site) recycle bin. 
+If an archive for documents is set up, the document is placed in the archive. The archive works as before, but in Omnia 6.13 the unpublished document is also placed in a local (= for the site) recycle bin. 
 
 If needed, an administrator can restore a document from there. When a document is restored, a draft is created in Drafts as a new edition, and can then be edited and published the normal way. Also, if the document was published as a PDF, it's the original document that is restored, so the document can be edited.
 
-The restored document keeps it's ID and the document history is retrieved as well. It's noted in the history that the document has been deleted and restored (if that happened).  
+The restored document keeps it's ID and the document history is retrieved as well. It's noted in the history that the document has been unpublished and restored (if that happened).  
 
 The recycle bin for controlled documents can look this (image from a test environment):
 
