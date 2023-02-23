@@ -11,7 +11,6 @@ Setup Wizard
 - Now support additional News Centers. 
 - Setup wizard can now be accessed from Omnia Admin in Business Profile and Tenant scopes, respectively. Old query strings are removed.
 - Added default SharePoint search mapping for built in user fields.
-- 
 
 
 
