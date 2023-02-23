@@ -10,6 +10,8 @@ Setup Wizard
 - Now supports the setup of a Learning Center.
 - Now support additional News Centers. 
 - Setup wizard can now be accessed from Omnia Admin in Business Profile and Tenant scopes respectively. Old query strings are removed.
+- Added default SharePoint search mapping for built in user fields.
+- 
 
 
 
@@ -22,7 +24,17 @@ Web Content Management
 - Sigital Signage now supports video and Static Content.
 - Performance improvements for the Page Rollup.
 - Improved stability for move page and move page collection. 
+- Commenting experience on mobile improved, keyboard now opens automatically.
+- Corrected the page collection and publishing app sorting in the page picker (#143406)
 
+Teamwork
+*********
+- Corrected an issue where saved sensitivity label setting "Let the user decide" would not repopulate correctly in the form.
+- 
+
+Workplace
+********
+- The User Profile Completion Wixard taxonomy picker no longer closes upon selection (#142754).
 
 Sign Off Requests
 ***********
@@ -38,8 +50,12 @@ Document Management
 ***********
 - Controlled documents now have an greatly improved recycle bin.
 - Direct links to New Stream videos can now be used in the Media picker.
+- Added a clarer end user message when chaning document template in Controlled Documents (#143514).
 
 
 System
 ***********
 - MSTeams Manifest updated to the latest version (Used when generating MSTeams apps through the Omnia admin interface.)
+- Performance improvements on publishing pages.
+- Its now possible to Remove features completely via an API call (For Extensions development).
+
