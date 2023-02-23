@@ -50,6 +50,10 @@ When you select this option the following is available:
 
 .. image:: digital-screens-third-party.png
 
+Use the settings according to information from the provider.
+
+Here's how to set up integration between Omnia and PLAYin (in Swedish), as an example: https://hjalpcenter.playipp.com/article/52348/
+
 QUERY
 ------
 On this tab, the same options are available as when creating rollups for digital signage, see: :doc:`Page Rollups (Digital Signage) </admin-settings/tenant-settings/settings/digital-signage-613/page-rollups-digital-signage/index>`
