@@ -1,9 +1,7 @@
 Permissions
 =============================================
 
-**Some more details will be added to this page. Will be finished soon.**
-
-Here you add or remove admins for sign-off requests.
+Here you can add administrators that or not tenant administrators but will work with the settings for sign-off requests in Omnia Admin. Sign-off request administrators can also check status of all sign-off requests.
 
 .. image:: sign-off-permission.png
 

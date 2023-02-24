@@ -1,7 +1,7 @@
 In Development
 ===========================================
 
-As part of the Omnia roadmap, the following features are in development and planned to be rolled out during Q4 2022 and Q1 2023.
+As part of the Omnia roadmap, the following features are in development and planned to be rolled out during Q2 and Q3 2023.
 
 .. note:: Items may be added or removed from this list at any time.
 
@@ -17,7 +17,6 @@ User Management
 Document Management
 ---------------------------------------------
 
-* Recycle bin for archived controlled documents.
 * Document deletion approval workflow.
 * More tokens available in e-mails. 
 
@@ -28,14 +27,6 @@ Process Management
 * Multiple lines of text in shapes.
 * Move shapes with arrows.
 * Link to draft processes.
-
-Sign-off Requests
----------------------------------------------
-
-* Possibility to create individual or group requests. Each item in a group request can be signed off by anyone in the group.
-* Possibility to send a request from a group of sign-off request administrators that can follow up on the request.
-* Suppost to have sign-off request properties. Each sign-off request can be tagged with metadata and the sign-off request rollup block will support query and filter.
-* Better navigation between different items within a request.
 
 End user filters in Rollups
 ---------------------------------------------
@@ -57,10 +48,9 @@ App Management
 Setup Wizard
 ---------------------------------------------
 
-* Setup best practice for News Management.
-* Setup best practice for Knowledge Sharing.
-* Setup best practice for Learning Center.
 * Setup best practice for Enterprise Search.
+* Setup best practice for On-boarding portal.
+* Setup best practice for Editorial Hub.
 
 Other
 ----------------------------------------------
