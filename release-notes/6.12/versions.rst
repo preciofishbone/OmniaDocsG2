@@ -1,3 +1,15 @@
+6.12.17
+========================================
+ (Omnia 6.12.17 / Workplace 6.12.10 / WCM 6.12.12 / MS 6.12.9)
+ 
+ - Improved compatibility for naming policies when using both omnia and M365 policies at the same time (#143531).
+ - Added clear warning message of the consequence of terminating an enterprise property (#145119).
+ - Fixed a section rendering issue casing edit and view mode to display differently (#145087).
+ - It is now possible to assign permissions to teamwork where the teamwork SharePoint site has been deleted (#144942).
+ - Fixed a RTF rendering issue in relation to block quotes (#141760).
+ - Fixed a rendering issue in the people rollup card view (#145152).
+ - Fixed an issue with pick page in page rollup.
+
 6.12.14
 ========================================
  (Omnia 6.12.14 / Workplace 6.12.9 / WCM 6.12.11 / MS 6.12.8)
