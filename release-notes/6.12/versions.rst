@@ -1,3 +1,17 @@
+6.12.14
+========================================
+ (Omnia 6.12.14 / Workplace 6.12.9 / WCM 6.12.11 / MS 6.12.8)
+ 
+ - Second review reminder emails in Controlled Documents are now sent as expected.
+ - Teamwork provisioning templates now only allow the selection of supported languages.
+ - Stability improvements to RTF images in relation to drag and drop.
+ - Publishing Apps and Communities with status “Ready With Warning” will now show up in the Publishing app and community rollup respectively. 
+ - Stability improvements to moving documents between authoring sites in Controlled Documents (#145064).
+ - z-index fix to the modern mega menu (#144844).
+ - Fixed an issue that could cause appendices to show duplicated (#144868).
+ - Improved stability to teamwork creation (#143355).
+
+
 6.12.12
 ========================================
  (Omnia 6.12.12 / Workplace 6.12.8 / WCM 6.12.10 / MS 6.12.7)
