@@ -93,7 +93,7 @@ The properties for a published document can be checked this way:
  
 The Properties window for the document is shown, for example:
 
-.. image:: published-properties-new2.png
+.. image:: published-properties-new3-frame.png
  
 The properties can not be edited here. The properties can only be edited when working on a draft for a new edition of the document.
 
@@ -105,7 +105,7 @@ If you need to send a link to a published document, use this option.
 
 Just click the option (no window or message is shown) and you can then paste the link in an e-mail, in a document, as a link on a page, or wherever you need the link.
 
-.. image:: published-copylink.png
+.. image:: published-copylink-new.png
 
 Document History
 ******************
@@ -116,13 +116,13 @@ There’s information about each published edition available. To see it, do the 
  
 Here’s an example:
 
-.. image:: published-history-new2-frame.png
+.. image:: published-history-new3.png
  
 You can see the publication date for each edition, the author’s comment, if any, and who the document was approved by. The option "Workflow History" for an edition will show information about when workflows was used and the comments entered during the workflows, so here you can even see information from Send for Comments workflows used for the document.
 
 Here's an example:
 
-.. image:: published-history-workflow-new2.png
+.. image:: published-history-workflow-new3.png
 
 Check Feedback
 ****************
@@ -133,7 +133,7 @@ Any user can send feedback on a published document and that feedback is availabl
  
 The feedback posts for the document is shown. Click a post to read the feedback. Here's an example:
 
-.. image:: feedback-example-new3.png
+.. image:: feedback-example-new4.png
 
 You can click the dust bin to delete the feedback when you have read it, or keep it for later reference, it’s up to you.
 
@@ -152,9 +152,9 @@ A published document can be moved to any other site with a Controlled Documents 
  
 The following is shown:
 
-.. image:: published-move-document-new3.png
+.. image:: published-move-document-new4.png
 
-Note the message about what will happen with document properties.
+Note the message about what will happen with document properties. And in this example the document can't be moved, the draft version must be deleted first.
  
 3.	Type the URL (or paste, if you have copied it) to the site in the top field and click "Resolve". 
 
@@ -177,11 +177,9 @@ When "Unpublish" is selected, you get a second chance to change your mind:
 
 .. image:: unpublish-2-new2.png
 
-Delete and restore a document
-********************************
+Unpublish and restore a document
+**********************************
 This section describes how unpublish of a document works in Omnia 6.13 and later.
-
-**This section is being updated. Will be finished very soon.**
 
 It works like this:
 
@@ -189,7 +187,7 @@ A published document that has a new draft can't be unpublished, just as before, 
 
 When you unpublish a document, you get a chance to change your mind:
 
-(image to be added)
+.. image:: unpublish-question.png
 
 If an archive for documents is set up, the document is placed in the archive. The archive works as before, but in Omnia 6.13 the unpublished document is also placed in a local (= for the site) recycle bin. 
 
@@ -197,23 +195,23 @@ If needed, an administrator can restore a document from there. When a document i
 
 The restored document keeps it's ID and the document history is retrieved as well. It's noted in the history that the document has been unpublished and restored (if that happened).  
 
-The recycle bin for controlled documents can look this (image from a test environment):
+The recycle bin for controlled documents is found here:
 
-.. image:: delete-document-613-recycle-bin.png
+.. image:: delete-document-613-recycle-bin-new.png
 
 Here, documents can be restored or permanently deleted.
 
 Select the document and select option.
 
-.. image:: delete-document-613-recycle-bin-options.png
+.. image:: delete-document-613-recycle-bin-options-new.png
 
 If you choose to permanently delete a document, you get a chance to change your mind:
 
-.. image:: delete-document-613-recycle-bin-options-delete.png
+.. image:: delete-document-613-recycle-bin-options-delete-new.png
 
 If you choose to restore a document, the following is shown:
 
-.. image:: delete-document-613-recycle-bin-options-restore.png
+.. image:: delete-document-613-recycle-bin-options-restore-new.png
 
 These are the same options as when you create a draft from a published document. See above for a decription.
 
