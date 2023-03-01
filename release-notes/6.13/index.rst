@@ -1,4 +1,4 @@
-Release 6.13 - Draft
+Release 6.13
 ========================================
 
 Sign-off reuqests improvements
