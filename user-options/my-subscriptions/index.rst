@@ -53,7 +53,7 @@ Available channels are shown, for example:
 
 .. image:: my-subscriptions-67-channels.png
 
-2. Click ADD to add a channel. 
+2. Click ADD for the channel to subscribe. 
 
 It's also possible that subscription of a channel can be created automatically for specific colleagues or groups, if setup in the channel.
 
