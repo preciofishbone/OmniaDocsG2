@@ -15,7 +15,11 @@ My descriptions is available under "My Profile":
 
 .. image:: my-profile-menu-2-new.png
 
-Here's an example:
+My subscriptoions are then available on your profile card:
+
+.. image:: my-profile-card-subscriptions.png
+
+Here's an example of subscriptions:
 
 .. image:: my-subscriptions-1-new.png
 
