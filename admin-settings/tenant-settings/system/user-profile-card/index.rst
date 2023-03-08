@@ -5,13 +5,13 @@ The user profile card will be shown (if this functionality is activated) wheneve
 
 Here's how a profile card can look:
 
-.. image:: profile-card-example-jorg.png
+.. image:: profile-card-example-613.png
 
-**Note!** In Omnia on-prem, all options referring to Delve is removed, as it's a Microsoft 365 feature and therefore not available on-prem.
+**Note!** In Omnia on-prem, all options referring to Delve or My Site is removed, as it's a Microsoft 365 feature and therefore not available on-prem.
 
 The user profile card also includes the possibility to browse who reports to who in the organization. Here's an example:
 
-.. image:: profile-card-example-jorg2.png
+.. image:: profile-card-example-613-2.png
 
 Settings
 ***********
