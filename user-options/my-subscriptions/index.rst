@@ -3,6 +3,8 @@ My Subscriptions
 
 You can subscribe to a community, articles and discussions in a community, to tags and to channels.
 
+This page describes how this works in Omnia 6.12 and earlier. For Omnia 6.13 and later, see: (a new page will be added soon).
+
 For information about subscriptions regarding communities, see: :doc:`Subscriptions in Communities </using-communities/subscriptions/index>`
 
 For information about how to subscribe and unsubscribe to channels, see below.
@@ -11,13 +13,9 @@ Use My subscriptions for an overview of your subscriptions. You can unsubscribe 
 
 My descriptions can be available in more than one way, for example under "My Profile":
 
-.. image:: my-profile-menu-1-new.png
+.. image:: my-profile-menu-1.png
 
-.. image:: my-profile-menu-2-new.png
-
-If the Profile Card is activated, My subscritions are available on the card:
-
-.. image:: my-profile-card-subscriptions-new.png
+.. image:: my-profile-menu-2.png
 
 My Subscriptions can also be available in a block on any page.
 
