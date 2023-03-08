@@ -221,9 +221,9 @@ The Administration List displays all Sign-off requests the logged in administrat
 
 The colored dots indicates the number of answers: white for none, yellow for some and green for all that the request was sent to.
 
-Also note the NEW REQUEST link at the bottom of the list. That links can be used do create a new sign-off request the same way as in Omnia Admin, see the "Requests" link below.
+Also note the NEW REQUEST link at the bottom of the list. That link can be used do create a new sign-off request the same way as in Omnia Admin, see the "Requests" link below.
 
-**A description of what "End-user sign off" displays will be added soon.**
+An "End-user sign-off" button is used to make it possible for users to sign-off a page by clicking the button. If there is a sign-off request for a page, the button will be shown there, otherwise not.
 
 The purpose of "Create New Request" is to make it possible to create a new sign-off request on any page. When creating the button, select type of request that should be possible to create. The sign-off types are set up in Omnia Admin, see: :doc:`Sign-off Request types </admin-settings/tenant-settings/sign-off-requests-613/sign-off-types-613/index>`
 
