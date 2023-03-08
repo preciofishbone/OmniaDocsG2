@@ -9,15 +9,15 @@ For information about how to subscribe and unsubscribe to channels, see below.
 
 Use My subscriptions for an overview of your subscriptions. You can unsubscribe using this as well.
 
-My descriptions can be available in more than one way, for example in the "My Profile" menu:
+My descriptions can be available in more than one way, for example under "My Profile":
 
-.. image:: my-profile-menu-1.png
+.. image:: my-profile-menu-1-new.png
 
-.. image:: my-profile-menu-2.png
+.. image:: my-profile-menu-2-new.png
 
-If the Profile Card is activated, My subscritions are available on the card instead:
+If the Profile Card is activated, My subscritions are available on the card:
 
-.. image:: my-profile-card-subscriptions.png
+.. image:: my-profile-card-subscriptions-new.png
 
 My Subscriptions can also be available in a block on any page.
 
