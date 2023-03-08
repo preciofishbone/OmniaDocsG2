@@ -15,6 +15,10 @@ My descriptions can be available in more than one way, for example in the "My Pr
 
 .. image:: my-profile-menu-2.png
 
+If the Profile Card is activated, My subscritions are available on the card instead:
+
+.. image:: my-profile-card-subscriptions.png
+
 My Subscriptions can also be available in a block on any page.
 
 Here's an example:
