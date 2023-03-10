@@ -1,3 +1,18 @@
+6.12.19
+========================================
+(Omnia 6.12.19 / Workplace 6.12.11 / WCM 6.12.13 / MS 6.12.10)
+
+- Corrected an issue in table style rendering between edit and view mode (#140402).
+- Updated compatibility with certain RSS feeds for the RSS block (#144853).
+- Added the option to force a full sync to the Azure AD sync.
+- Corrected query logic in page rollup when using the same page collection multiple times (#145258).
+- Permissions will now apply correctly when breaking inheritance (#145519).
+- Ensured User Profile completeness will reach 100% when configured and filled in to do so (#144806).
+- Click out now works as expected for the document properties dialog.
+- Document Types can now use a term set with reused terms
+- Several improvements to the SharePoint User Profile sync, including the option to resync all failed users.
+
+
 6.12.17
 ========================================
  (Omnia 6.12.17 / Workplace 6.12.10 / WCM 6.12.12 / MS 6.12.9)
