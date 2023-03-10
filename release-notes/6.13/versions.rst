@@ -1,6 +1,16 @@
+6.13.1
+========================================
+(Omnia 6.13.1 / Workplace 6.13.1 / WCM 6.13.2 / MS 6.13.1)
+
+- Reindex to SharePoint now correctly keeps original modified date (#145591).
+- Fixed a width rendering issue in the current navigation (#145610).
+- Fixed an issue with send email in send for comments flow when sites have been deleted.
+- Fixed an issue with filters for channel in the page rollup.
+
+
 6.13.0
 ========================================
- (Omnia 6.13.1 / Workplace 6.13.0 / WCM 6.13.0 / MS 6.13.0)
+ (Omnia 6.13.0 / Workplace 6.13.0 / WCM 6.13.0 / MS 6.13.0)
 
 
 Setup Wizard
