@@ -14,5 +14,6 @@ In this part of the documentation you will find information about general assets
    page-picker/index
    rtf-editor/index
    share-document/index
-   targeting-in-omnia/index
    using-anchors/index
+   targeting-in-omnia/index
+   using-tokens-in-omnia/index
