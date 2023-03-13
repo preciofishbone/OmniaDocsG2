@@ -20,18 +20,4 @@ When a process is printed to a printer or to a PDF file, it's divided into pages
 
 Using placeholders
 *********************
-Placeholders are properties added between double brackets. When you print, the placeholders are replaced by by actual data, for example the title for the process or a date.
-
-You can use these placeholders in the cover page, the header or the footer. Short information about them is available through the i icon.
-
-+ [[OPMProcessTitle]]	- adds the titel of the process printed.
-+ [[OPMEdition]] - adds the edition number of the process printed.
-+ [[OPMPublished]] - adds the date for when the edition printed was published.
-+ [[Comment]]	 - if the publisher of the process added any comments, they can be displayed using this placeholder.
-+ [[OPMProcessIdNumber]] - adds the id number for the process.
-+ [[OPMApprovedBy]]	- adds the name of the approver (if any) when the process was published.
-+ [[OPMProcessType]] - adds the name of the process type used for this process.
-+ [[OPMRevision]]	- adds the revision number for the process.
-+ [[EnterpriseInternalName]] - displays the internal name for the process.
-
-
+For information on using placeholders for printing, see this page: :doc:`Using tokens in Omnia </general-assets/using-tokens-in-omnia/index>`
