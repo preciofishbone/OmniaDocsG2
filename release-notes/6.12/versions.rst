@@ -1,3 +1,9 @@
+6.12.21
+========================================
+(Omnia 6.12.21 / Workplace 6.12.11 / WCM 6.12.13 / MS 6.12.10)
+
+- Stability improvements to the MS Teams provisioning flow.
+
 6.12.19
 ========================================
 (Omnia 6.12.19 / Workplace 6.12.11 / WCM 6.12.13 / MS 6.12.10)
