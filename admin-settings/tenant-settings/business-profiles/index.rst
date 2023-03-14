@@ -19,6 +19,8 @@ If needed (and if it's applicable for the Business Profile) you can click the le
 
 .. image:: business-profile-app-route.png
 
+**Note!** Only one app route can exist. It's set here for the business profile, or for the workspace. If set in one of these places, it's then not available in the other one.  
+
 Create a new Business Profile
 *******************************
 To create a new Business Profile, click the plus:
