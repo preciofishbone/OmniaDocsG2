@@ -1,3 +1,21 @@
+6.13.5
+========================================
+(Omnia 6.13.5 / Workplace 6.13.7 / WCM 6.13.8 / MS 6.13.3)
+
+- Improved logic for footer in the print process feature (#145623)
+- Ensured rendering of the dynamic roller on mobile (#145261).
+- Corrected bug that would cause nodes in the WCM editor to expand on contract when not supposed to (#145858).
+- Stability improvements to publish processes (#145658).
+- Increased max page size on the navigation query in the page rollup from 30 to 200 (#145096).
+- Resolved issues related to large groups in Sign-off requests. (#145822, #145897).
+- Performance improvements to creating sign-off requests. (#145824).
+- Ensured soft deleted processes no longer show up as related processes in Document Management (#145856).
+- Base URL for draftable can now be set in Omnia Admin.
+- Fixed a paging bug in event management (#145585).
+- Fixed a cache problem that would occur when publishing page types and the total amount of page types exceeds 9 (#145801, #145836, #145893, #145898, #145960, #145984).
+- Added back shortcut actions to the tasks form in Document Management.
+
+
 6.13.1
 ========================================
 (Omnia 6.13.1 / Workplace 6.13.1 / WCM 6.13.2 / MS 6.13.1)
