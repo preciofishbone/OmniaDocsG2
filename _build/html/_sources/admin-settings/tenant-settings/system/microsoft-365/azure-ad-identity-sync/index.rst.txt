@@ -1,7 +1,0 @@
-Azure AD Identity Sync
-==============================================
-
-This option displays the following information:
-
-.. image:: azure-ad-sync.png
-

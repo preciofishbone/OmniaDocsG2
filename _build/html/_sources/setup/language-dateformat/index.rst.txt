@@ -1,8 +1,0 @@
-1. Setup Language and Date Format
-===========================================
-
-1. Browse to the url provided by the product team (https://[tenant].omniacloud.net).
-2. You will come to a 404 page, but don't worry, just press Shift + O + A to go into Omnia Admin.
-3. Click on Settings in the left-hand navigation and setup Language and Date/Time format for the tenant.
-
-.. image:: tenant-settings-languages.png
