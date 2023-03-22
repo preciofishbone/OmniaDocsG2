@@ -8,3 +8,4 @@
 /.vs/ProjectSettings.json
 /release-notes/5.0.0/index.rst
 .vs/OmniaDocsG2/v17/.suo
+_build
