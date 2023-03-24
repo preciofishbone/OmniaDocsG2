@@ -18,7 +18,7 @@ Select section below for more information:
 
    settings-omnia-feed/index
    tabs-omnia-feed/index
-   advamced-omnia-feed/index
+   advanced-omnia-feed/index
 
 
 Omnia Feed and permissions
