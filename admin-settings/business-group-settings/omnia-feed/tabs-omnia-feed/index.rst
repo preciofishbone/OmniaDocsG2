@@ -1,6 +1,8 @@
 Tabs - Omnia Feed
 =============================================
 
+**Work on this documentation has just started. Will be finished soon.**
+
 Use the settings here to edit tabs for this Business Profile in Omnia Feed.
 
 Here's an example with a number of tabs set up:
@@ -98,7 +100,4 @@ Embedded Link tab
 Activity Feed tab
 **********************
 (A description will be added soon).
-
-
-
 
