@@ -27,9 +27,9 @@ When you select "Custom colors" you can set custom colors for the following:
 
 Tabs
 **********
-Use the settings here to edit tabs that should be used for this Business Profile in Omnia Feed.
+Use the settings here to edit tabs for this Business Profile in Omnia Feed.
 
-Here's an exmpl with a number of tabs set up:
+Here's an example with a number of tabs set up:
 
 .. image:: omnia-feed-tabs.png
 
