@@ -111,7 +111,11 @@ You can choose to use a "Web Url link" or a "Deep link". Then add the link below
 
 Embedded Link tab
 **********************
-For an Embedded Link tab, general tab settings are available for "Generel" and "Targeting", see above.
+For an Embedded Link tab, the following settings are available:
+
+.. image:: omnia-feed-embedded.png
+
+General tab settings are available for "General" and "Targeting", see above.
 
 Content
 -----------
@@ -135,11 +139,11 @@ The Activity Scope can be from the user's "My Subscriptions" or from a "Page Col
 
 .. image:: omnia-feed-activity-feed-content.png
 
-When you select "My Subscription" no further settings are needed. When selecting "Page Collection", you must choose one or more page collections to get the activity feed from.
+When you choose "My Subscription" no further settings are needed. When selecting "Page Collection", you must select one or more page collections to get the activity feed from.
 
 Display
 ---------
-For Display, a number of detaild view settings are avalable.
+For Display, a number of detailed view settings are avalable.
 
 .. image:: omnia-feed-activity-feed-display.png
 
