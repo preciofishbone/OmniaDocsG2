@@ -1,8 +1,6 @@
 Tabs - Omnia Feed
 =============================================
 
-**Work on this documentation has just started. Will be finished soon.**
-
 Use the settings here to edit tabs for this Business Profile in Omnia Feed.
 
 Here's an example with a number of tabs set up:
@@ -27,11 +25,9 @@ Then select the type of tab you want to add.
 
 .. image:: omnia-feed-tabs-select.png
 
-Query tab
-***********
-This type of tab can display a Page Rollup from Omnia. The following settings are available:
-
-.. image:: omnia-feed-tabs-query.png
+General tab settings
+***********************
+For all tabs, the following settings are available:
 
 General settings
 -----------------
@@ -43,6 +39,23 @@ You can set the following here:
 + **Icon Type**: If you want an icon for the tab, select icon type here.
 + **Icon**: Choose icon from the selected type here. If you leave this field empty, no icon is shown.
 
+Targeting settings
+-------------------
+This is available here:
+
+.. image:: omnia-feed-tabs-targeting.png
+
++ **Only Show For First Line Worker**: If this tab should be shown for Kaizala users only, select this option.
++ **Add Targeting Filter**: This works the same way as in many other parts of Omnia, described here: :doc:`Using targeting </general-assets/targeting-in-omnia/index>`
+
+Query tab
+***********
+This type of tab can display a Page Rollup from Omnia. The following settings are available:
+
+.. image:: omnia-feed-tabs-query.png
+
+For "General" and "Targeting", general tab settings are available, see above.
+
 Query settings
 ----------------
 Here you set up the query for the tab.
@@ -50,7 +63,7 @@ Here you set up the query for the tab.
 .. image:: omnia-feed-tabs-query-query.png
 
 + **Scope**: Select "Page Collections" or "Channel" as scope and then set the details similar to what you do in any Page Rollup. You can add one or more page collections or one or more channels.
-+ **Sign Off Requests**: You can choose to show sign off requests for scope and if you do that, you can choose to hide finished requests.
++ **Sign Off Requests**: You can choose to show sign off requests for the scope and if you do that, you can choose to hide finished requests.
 
 Here's an example of a query setting for two page collections with the detailed settings for one of them:
 
@@ -68,9 +81,9 @@ For example, this is what can be selected for "Tab View Settings":
 
 .. image:: omnia-feed-tabs-query-display-tab-view.png
 
-At the bottom you can also set "descending" or Ascending. 
+At the bottom you can also set the sorting "descending" or "Ascending" (not available for Detail View Settings). 
 
-Notifocation settings
+Notification settings
 ----------------------
 The following is available here:
 
@@ -80,24 +93,55 @@ The following is available here:
 
 For the detailed options, read the options carefully. They should be self explanatory.
 
-Targeting settings
--------------------
-This is available:
-
-.. image:: omnia-feed-tabs-targeting.png
-
-+ **Only Show For First Line Worker**: If this tab should be shown for Kaizala users only, select this option.
-+ **Add Targeting Filter**: This works the same way as in many other parts of Omnia, described here: :doc:`Using targeting </general-assets/targeting-in-omnia/index>`
-
 Link tab
 **********
-(A description will be added soon).
+For Link tabs, the following settings are available:
+
+.. image:: omnia-feed-link-tab.png
+
+For "General" and "Targeting", general tab settings are available, see above.
+
+Content
+-----------
+For content, the following is available:
+
+.. image:: omnia-feed-link-tab-content.png
+
+You can choose to use a "Web Url link" or a "Deep link". Then add the link below. Note the information about Omnia Url links.
 
 Embedded Link tab
 **********************
-(A description will be added soon).
+For an Embedded Link tab, general tab settings are available for "Generel" and "Targeting", see above.
+
+Content
+-----------
+Add the Url for the embedded link here:
+
+.. image:: omnia-feed-embedded-link.png
+
+Note the information about Omnia Url:s.
 
 Activity Feed tab
 **********************
-(A description will be added soon).
+For an Activity Feed tab, the following settings are available:
+
+.. image:: omnia-feed-activity-feed.png
+
+For "General" and "Targeting", general tab settings are available, see above.
+
+Content
+---------
+The Activity Scope can be from the user's "My Subscriptions" or from a "Page Collection". 
+
+.. image:: omnia-feed-activity-feed-content.png
+
+When you select "My Subscription" no further settings are needed. When selecting "Page Collection", you must choose one or more page collections to get the activity feed from.
+
+Display
+---------
+For Display, a number of detaild view settings are avalable.
+
+.. image:: omnia-feed-activity-feed-display.png
+
+What you do here is to select properties in Omnia that contain the information needed. Note that properties must have been set up in Omnia Admin to be available to select here, see: :doc:`Properties </admin-settings/tenant-settings/properties/index>`
 
