@@ -149,20 +149,17 @@ The special settings for this view are:
 
 + **Preview**: Available in Omnia 6.13 and later. Select the property to base the preview on. It can be either a media property or a document data property.
 + **Cards per Row**: As it says, set the number of cards to show per row.
-+ **Show Last Comment**: If you seect this, the last comment for the page, if any, will be displayed on the card.
++ **Show Last Activity**: If you seect this, the last activity for the page, if any, will be displayed on the card.
 + **Person**: This option can be used to show properties in Card view.
 + **Show Page Type**: If this option is selected, the Page Type used for the page is shown as metadata, the same way as other properties.
++ **Show Rating**: Use it to show the page's rating in the card.
 + **Term properties**: Can be used to show properties in Card view. Click "Add" and select a property. Continue the same way for additional properties.
 
 For general settings, see above.
 
-You can also choose where meta data for Date and Person will be placed. Click here to display options:
+You can also choose where properties for date, person, tags and reactions (if added) will be placed. Use these settings:
 
-.. image:: place-meta.png
-
-Then use the settings to select Top Left, Top Right, Bottom Left or Bottom Right:
-
-.. image:: place-meta-settings.png
+.. image:: place-meta-new.png
 
 Newsletter
 -----------
