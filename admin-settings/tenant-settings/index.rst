@@ -13,7 +13,7 @@ Tenant Settings
    properties/index
    settings/index
    shared-links/index
-   sign-off-requests/index
+   sign-off-requests-613/index
    system/index
    tutorial/index
    user-profile-completion/index
