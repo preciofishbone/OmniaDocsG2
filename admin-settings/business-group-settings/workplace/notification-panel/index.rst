@@ -61,7 +61,7 @@ People Rollup: :doc:`The People Rollup block </blocks/people-rollup/index>`
 
 RSS Reader: :doc:`The RSS Reader block </blocks/rss-reader/index>`
 
-Sign-off Requests: :doc:`The Sign-off Request Rollup block </blocks/sign-off-request/index>`
+Sign-off Requests: :doc:`The Sign-off Request Rollup block </blocks/sign-off-requests-rollup-613/index>`
 
 Team News Rollup: :doc:`The Team News Rollup block </blocks/team-news-rollup/index>`
 
