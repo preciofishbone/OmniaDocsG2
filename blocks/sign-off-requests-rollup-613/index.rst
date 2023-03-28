@@ -90,8 +90,8 @@ The following options are found on this tab:
 + **Show sort dropdown**: To add a dropdown where the user can sort the list, select this option.
 + **ADD FILTER**: To add filters for the users to use, select this option. For more information, see below.
 + **Save filter state**:  If you select this option the filter keeps it’s state in the page url as long as the page is active, and will be activated when the user goes back to the page, by using the browser’s Back button. The url can also be copied and for example be used to prepopulate the rollup.
-+ **Run query on load**: 
-+ **Show selected values area**: 
++ **Run query on load**: Decide if the query should be run on load, so the list is filled with sign-off requests, or not. If there are a lot of requests, an effective solution could be to show a search box and not use this option. 
++ **Show selected values area**: (A description will be added soon).
 
 Add filter
 -------------
@@ -117,7 +117,7 @@ Available settings for a filter are:
 
 STYLE
 --------
-The following settings are available for filtert style:
+The following settings are available for filter style:
 
 .. image:: sign-off-rollup-filter-style.png
 
