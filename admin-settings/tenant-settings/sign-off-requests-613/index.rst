@@ -18,6 +18,6 @@ Select section for more information:
    sign-off-templates-613/index   
    sign-off-types-613/index
 
-A rollup block for Sign-off Requests, so managers and aministrators can keep track, will also be available: :doc:`Sign-off Requests block </blocks/sign-off-request/index>`
+A rollup block for Sign-off Requests, so managers and aministrators can keep track, will also be available: :doc:`Sign-off Requests block </blocks/sign-off-requests-613/index>`
 
 
