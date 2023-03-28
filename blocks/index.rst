@@ -49,7 +49,7 @@ Blocks
    related-links/index
    rss-reader/index
    search/index
-   sign-off-request-rollup-613/index
+   sign-off-requests-rollup-613/index
    subscribe/index
    task-rollup/index
    taxonomy-navigation/index
