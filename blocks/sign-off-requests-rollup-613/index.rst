@@ -35,6 +35,8 @@ The following settings can be available:
 
 .. image:: sign-off-requests-block-settings-613-border.png
 
+The WRITE TAB is not used here. The LAYOUT tab contains general settings, see: :doc:`General Block Settings </blocks/general-block-settings/index>`
+
 General
 ----------
 On the General tab you can add a title for the block, in any or all the tenant languages (click the flag to change language):
@@ -47,7 +49,9 @@ On this tab you decide what the block should display and for whom.
 
 .. image:: sign-off-requests-block-settings-query-613.png
 
-+ **Scope**: You can choose to display "All requests", "Requested by me", meaning all sign-off request the logged in user has sent, or "Targeted to me", meaning sign-off requests targeted to the logged in user, or a group the logged in user belongs to.  
++ **Scope**: You can choose to display "All requests", "Requested by me", meaning all sign-off request the logged in user has sent, or "Targeted to me", meaning sign-off requests targeted to the logged in user, or a group the logged in user belongs to.
++ **(First list)**: Use the first list to set the set type of query within the scope. 
++ **(Second list)**: Use the second list for further settings. An example: if you select "Progress Status" in the first list, in the second list you can choose any or all of "Not Started", "In Progress" or "Completed".
 + **Add filter**: Add a filter for the query, if you don't want all the requests within the scope to be displayed. You can select "Requested by", "Progress status", "My progress status" or "Status". Additional filters can be available depending on the Type used when the request was created. "My progress status" displays the status for the logged in user. For information about what the other default filters can display, see: :doc:`Requests </admin-settings/tenant-settings/sign-off-requests-613/sign-off-request-requests-613/index>`
 + **Page size**: To limit the number of items being displayed per “page”, add a fixed number here or use the slider.
 
@@ -80,11 +84,40 @@ Filter
 --------
 The following options are found on this tab:
 
-.. image:: sign-off-requests-block-settings-filter-613.png
+.. image:: sign-off-requests-block-settings-filter-613-new.png
 
 + **Show search box**: To add a search box, select this option. When you do, some additional settings becomes available.
-+ **Hide filter by default**:  If you chose a search box you can select this option. Then no filters are shown until users has executed a search and got a search result.
++ **Show sort dropdown**: To add a dropdown where the user can sort the list, select this option.
++ **ADD FILTER**: To add filters for the users to use, select this option. For more information, see below.
 + **Save filter state**:  If you select this option the filter keeps it’s state in the page url as long as the page is active, and will be activated when the user goes back to the page, by using the browser’s Back button. The url can also be copied and for example be used to prepopulate the rollup.
++ **Run query on load**: 
++ **Show selected values area**: 
 
-The WRITE TAB is not used here. The LAYOUT tab contains general settings, see: :doc:`General Block Settings </blocks/general-block-settings/index>`
+Add filter
+-------------
+To add one or more filters available to users, click the button and use the list to add a filter.  
+
+When a filter is added, click the dot menu to decide what to do with the filter:
+
+.. image:: sign-off-rollup-filter-choose-menu.png
+
+The options are:
+
+.. image:: sign-off-rollup-filter-choose-menu-options.png
+
+If the filter shouldn't be used any more, just select "Delete".
+
+What you can choose as default value depends on the filter. Here's an example for Status:
+
+.. image:: sign-off-rollup-filter-choose-menu-options-default.png
+
+Available settings for a filter are:
+
+.. image:: sign-off-rollup-filter-choose-menu-options-settings.png
+
+STYLE
+--------
+The following settings are available for filtert style:
+
+.. image:: sign-off-rollup-filter-style.png
 
