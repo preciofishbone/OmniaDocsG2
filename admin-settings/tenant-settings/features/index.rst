@@ -30,7 +30,7 @@ For more information, see the links below:
 + :doc:`Working with Events </working-with-events/index>`
 + :doc:`Working with Processes </working-with-processes/index>`
 + :doc:`Using Communities </using-communities/index>`
-+ :doc:`Digital Signage </admin-settings/tenant-settings/settings/digital-signage/index>`
++ :doc:`Digital Signage </admin-settings/tenant-settings/settings/digital-signage-613/index>`
 
 Integration
 *************
