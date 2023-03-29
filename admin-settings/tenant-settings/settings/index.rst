@@ -10,7 +10,7 @@ Select section for more information:
 .. toctree::
    :titlesonly:
 
-   digital-signage/index
+   digital-signage-613/index
    favicon-tenant/index
    general/index
    header/header-65/index
