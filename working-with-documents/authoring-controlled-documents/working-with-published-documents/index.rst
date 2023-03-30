@@ -58,7 +58,7 @@ Using this option you can see if a document is related to any process(es) - mean
 
 To check if a dcument is related to any process(es), do the following:
 
-1. Open the dot menu for the document and select "Related Processes" (image from Omnia 6.12). 
+1. Open the dot menu for the document and select "Related Processes". 
 
 .. image:: related-processes-menu-new.png
 
