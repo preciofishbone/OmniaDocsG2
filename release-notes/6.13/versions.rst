@@ -1,3 +1,14 @@
+6.13.9
+========================================
+(Omnia 6.13.9 / Workplace 6.13.11 / WCM 6.13.11 / MS 6.13.5)
+
+- Fixed an additional issue in naming policies together with approval (#143531).
+- Fixed a rendering issue in Sign Off Request. User who completed request now displays correctly.
+- Fixed a rare race condition that would cause scheduled pages not to publish on time.
+- Date properties now work as expected on documents in all time zones (#146383).
+
+
+
 6.13.7
 ========================================
 (Omnia 6.13.7 / Workplace 6.13.9 / WCM 6.13.10 / MS 6.13.4)
