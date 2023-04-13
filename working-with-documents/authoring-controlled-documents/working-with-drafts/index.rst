@@ -271,12 +271,14 @@ More on what happens when a document is merged with a template
 -----------------------------------------------------------------
 Here's some more information about what will happen if you choose to merge a document with a template.
 
-The following will not be changed in your document, regardless of the template used:
+Omnia will attempt to keep the following when a document is merged with a template:
 
 + Fonts and Formats.
 + Page Size and Orientation.
 + Margins.
 + Contents and references.
 
-Header and footer may change, especially where text and numbering are placed. Also make sure that the corect language is selected for all parts of your document, to avoid any unnecessary changes regarding header and/or footer in your document.
+But as a document format can be quite complex changes can still occur. All merged templates must be checked.
+
+Header and footer may change, especially where text and numbering are placed. Also make sure that the correct language is selected for all parts of your document, to avoid any unnecessary changes regarding header and/or footer in your document.
 
