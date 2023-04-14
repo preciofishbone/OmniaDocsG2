@@ -1,8 +1,6 @@
 Page collection settings
 ===============================
 
-**This page is beeing working on. Will be finished soon.**
-
 A number of settings can be edited for the Page Collection, this way:
 
 1. Edit a page in the Publishing App and open the Page menu.
