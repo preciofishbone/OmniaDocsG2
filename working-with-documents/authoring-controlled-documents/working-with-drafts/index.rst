@@ -278,7 +278,7 @@ Omnia will attempt to keep the following when a document is merged with a templa
 + Margins.
 + Contents and references.
 
-But as a document format can be quite complex changes can still occur. All merged templates must be checked.
+But as a document format can be quite complex changes can still occur, even regarding fonts and sizes. All merged templates must be checked.
 
 Header and footer may change, especially where text and numbering are placed. Also make sure that the correct language is selected for all parts of your document, to avoid any unnecessary changes regarding header and/or footer in your document.
 
