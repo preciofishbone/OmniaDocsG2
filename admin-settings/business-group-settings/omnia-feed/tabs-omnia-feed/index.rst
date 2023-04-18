@@ -7,7 +7,7 @@ Here's an example with a number of tabs set up:
 
 .. image:: omnia-feed-tabs.png
 
-+ **UNPUBLISH**: If this Business Profile should no longer be published to Omnia Feed, select this option.
++ **PUBLISH/UNPUBLISH**: Use this to enable/disable this configuration in Omnia Feed. 
 
 To edit settings for one of the existing tabs, click the pen, to delete it, click the dust bin.
 
