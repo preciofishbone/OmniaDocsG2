@@ -25,7 +25,7 @@ To select an image, click it and the settings will be shown. Settings are the sa
 
 Settings of image banks are made for each Business Profile. For more information see: :doc:`Central Image Location </admin-settings/business-group-settings/settings/central-image-location/index>`
 
-In Omnia 6.12 and later, videos can be handled in Sharepoint media libraries and some video editing options, similar to those in Stream, has been added by Microsoft. In Omnia 6.12, this option has therefore been renamed **Central Media Bank**. Video editing has to be made in the Sharepoint library, not in the Media Picker.
+Videos can now be handled in Sharepoint media libraries and some video editing options, similar to those in Stream, has been added by Microsoft. For thatn reason, this option has been renamed **Central Media Bank**. Video editing has to be made in the Sharepoint library, not in the Media Picker.
 
 Bing Search
 ***************
