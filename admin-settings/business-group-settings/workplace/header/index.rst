@@ -71,7 +71,7 @@ For Display, the following settings are available:
 
 + **Level 1 etc**: Here you can set styles for the different levels. To add style for an additional level, click ADD STYLE. See below for available Style settings.
 
-The rest of the settings are the same as in the Mega Manu block, see: :doc:`The Mega Menu block </blocks/mega-menu/index>`
+The rest of the settings are the same as in the Mega Menu block, see: :doc:`The Mega Menu block </blocks/mega-menu/index>`
 
 These are the Style settings available for a level:
 
