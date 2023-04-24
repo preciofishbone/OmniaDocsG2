@@ -1,7 +1,7 @@
 Settings (Web Content Management)
 =====================================
 
-These settings can be used in specialized setups. Normally you don't need to change them. (Image from Omnia 6.12).
+These settings can be used in specialized setups. Normally you don't need to change them.
 
 .. image:: web-content-management-settings-612.png
 
