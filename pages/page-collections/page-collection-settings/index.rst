@@ -125,7 +125,7 @@ When you have done that every new page in the page collection creates a term in 
 
 Settings for Approval
 ----------------------
-When Approval is activated, the following settings are available (image from Omnia 6.12):
+When Approval is activated, the following settings are available:
 
 .. image:: page-collection-approval-settings-612.png
 
