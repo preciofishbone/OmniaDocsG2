@@ -18,7 +18,7 @@ In this example, three Page Collections has been added in the Publishing App, be
 
 .. image:: page-collection-click-edit-new2.png
 
-4. Use the following settings (image from Omnia 6.12):
+4. Use the following settings:
 
 .. image:: page-collection-settings-612.png
 
