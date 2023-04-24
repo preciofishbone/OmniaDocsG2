@@ -7,11 +7,11 @@ You can set central image locations for the editors to use through the Media Pic
 
 Click the pen to edit the settings for a Central Image Location, or click the dust bin to delete it.
 
-You can also go to the Central Image Location from here, to handle the images there - by clicking this icon:
+You can also go to the Central Media Location from here, to handle the images there - by clicking this icon:
 
 .. image:: central-image-locations-new2.png
 
-**Note!** In Omnia 6.12 and later, this option has been renamed "Central Media Locations". The reason is that Microsoft is developing functionality for videos within Sharepoint and will remove Stream as an app. So, from Omnia 6.12 both images and videos can be handled centrally the same way, but the settings here remains the same.
+This option was earlier called "Central Image Location". The reason for the change fo name is that Microsoft is developing functionality for videos within Sharepoint and will remove Stream as an app. So, now both images and videos can be handled centrally the same way, but the settings here remains the same.
 
 Also note that all editing and settings for a video must be handled in the Sharepoint library, not in the Media Picker in Omnia (as is the case with videos from Stream).
 
