@@ -7,7 +7,7 @@ A site Administrator (Owner) can set up which columns to show on this tab. Here'
 
 .. image:: published-example-new3.png
 
-All options are found in the dot menu for a document (image from Omnia 6.12):
+All options are found in the dot menu for a document:
 
 .. image:: published-dot-menu-new2.png
 
@@ -19,7 +19,7 @@ For more information on how to create a new draft, see the heading "Creating a n
 
 Signed copy
 ***************
-In Omnia 6.12, you can use this option to create a signed copy of a document, that will be available together with the document. The option must be activated for the document type to be available here, see link below.
+You can use this option to create a signed copy of a document, that will be available together with the document. The option must be activated for the document type to be available here, see link below.
 
 Use the following steps:
 
