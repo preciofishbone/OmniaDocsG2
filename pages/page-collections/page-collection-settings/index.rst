@@ -129,7 +129,7 @@ When Approval is activated, the following settings are available (image from Omn
 
 .. image:: page-collection-approval-settings-612.png
 
-+ **Apply to authors only**: This option is available in Omnia 6.12 and later. If you select this, editors never need approval, they can always publish directly. When an author publishes, approval is needed.
++ **Apply to authors only**: If you select this, editors never need approval, they can always publish directly. When an author publishes, approval is needed.
 
 You select who can approve the creation of a page:
 
