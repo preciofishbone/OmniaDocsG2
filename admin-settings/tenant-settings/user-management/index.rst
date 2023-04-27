@@ -13,7 +13,7 @@ Select option below for more information.
    :titlesonly:
 
    users/index
-   group/index
+   groups/index
    dynamic-groups/index
    user-types/index
    user-properties/index
