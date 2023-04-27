@@ -16,7 +16,7 @@ Tenant Settings
    sign-off-requests-613/index
    system/index
    tutorial/index
-   user-managemtn/index
+   user-management/index
    user-profile-completion/index
    document-management/index
    process-management/index
