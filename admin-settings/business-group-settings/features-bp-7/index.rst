@@ -1,9 +1,7 @@
 Features (Business Profile) in Omnia 7.0
 =============================================
 
-This page will describe Features available in Omnia 7.0.
-
-**Work on the documentation is ongoing. Will be finished soon.**
+This page describes Business Profile features in Omnia 7.0.
 
 .. image:: bp-features-7.png
 
@@ -16,10 +14,4 @@ Media Providers
 Here you handle image and video providers - activating, upgrading, removing.
 
 **Note**! In Omnia on-prem, an internet connection must be available both on the server and on the client, for the internet based providers (for example Stream, YouTube, Pexel and Bing) to work. Also note that a separate subscription is needed for Microsoft Stream to be used on-prem.
-
-Default Content
-****************
-Here you can add a default notification panel to your Business Profile. 
-
-The Noticification Panel settings can easily be edited for your organization's needs, see: :doc:`Notification Panel </admin-settings/business-group-settings/notification-panel/index>`
 
