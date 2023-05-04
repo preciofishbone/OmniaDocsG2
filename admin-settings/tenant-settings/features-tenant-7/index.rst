@@ -11,17 +11,17 @@ Here you can activate, remove or upgrade the Omnia Add-ons.
 
 .. image:: tenant-features-add-ons-7.png
 
-+ **Processes and Documents integration**: When this feature is activated, authors of controlled documents can suggest documents to be related to a process. Process authors can then decide to add a suggested document to the process, or not. Also note that this feature changes the way a process author works with the Documents list for a process. 
-+ **Document Comparison powered by Draftable**: This feature needs a paid subscription with Draftable. When this feature is activated, comparison of documents is extended and improved. Works for documents without having to open them. Works for PDF:s as well. Note that you have to add the Draftable Account information as well, for this to work. That is done under Permissions-Secrets.
++ **Communities**: Activates the extensive functionality for Omnia Communities in the tenant.
 + **Controlled Documents**: Activates the extensive funcionality for working with cxontrolled documents in the tenant.
-+ **Info Screen**: Activates functionality for sending selected Omnia pages to general or public screens.
++ **Digital Signage**: Activates the options for digital signage in the the tenant.
++ **Document Comparison powered by Draftable**: This feature needs a paid subscription with Draftable. When this feature is activated, comparison of documents is extended and improved. Works for documents without having to open them. Works for PDF:s as well. Note that you have to add the Draftable Account information as well, for this to work. That is done under Permissions-Secrets.
 + **Event Management**: Activates the extensive functionality for Omnia Event Management in the tenant. 
 + **Handle Open Documents Link Mobile Browser**: (A description will be added soon).
-+ **Documents Link Handler**: Activates the link handler functionality for documents. Settings are then available through "Link Handler" under "Settings" for the tenant.
++ **Info Screen**: Activates functionality for sending selected Omnia pages to general or public screens.
++ **OneDrive Document Creation Wizard**: (A description will be added soon).
 + **Process Management**: Activates the extensive Omnia Process Management functionality in the tenant.
++ **Processes and Documents integration**: When this feature is activated, authors of controlled documents can suggest documents to be related to a process. Process authors can then decide to add a suggested document to the process, or not. Also note that this feature changes the way a process author works with the Documents list for a process. 
 + **Rules Link Handler**: Activates the link rules handler functionality. Settings are then available through "Link Handler" under "Settings" for the tenant.
-+ **Digital Signage**: Activates the options for digital signage in the the tenant.
-+ **Communities**: Activates the extensive functionality for Omnia Communities in the tenant.
 
 For more information, see the links below:
 
