@@ -82,7 +82,7 @@ For more information on how to set up Yammer in Omnia, see:
 
 System
 **********
-That following features may be found here:
+The following features may be found here:
 
 .. image:: tenant-features-system-7.png
 
