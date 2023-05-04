@@ -1,9 +1,9 @@
 Features (Tenant) in Omnia 7.0
 =============================================
 
-This page will describe Features available in Omnia 7.0.
+This describes features available in Omnia 7.0.
 
-**Work on the documentation has just started. Can't be used yet.**
+**Work on the documentation is ongoing.**
 
 Add-ons
 *********
@@ -91,7 +91,11 @@ That following features may be found here:
 + **Cross tenant reusable content**: 
 + **Email provider - Exchange Online mailbox**: This feature must be activated if customs system email functionality is needed in the tenant. The optiopn was called "Enable Custom System Email" in earlier Omnia version. It's just a relabel, same funcitonality as before.
 + **Legacy pre 7 Permission**: 
-+ **Web Content Managament file storage**: When activated, the option "Copy documents locally" becomes available in the settings for the Realated Links block. Documents that are locally accessible are versioned together with the page and can be accessed by users without a SharePoint license.
-+ **Teamwork provisioning using application context**: If you want users to only be able to create Microsoft 365 Groups through Omnia templates, activate this feature. Note that additional settings needs to be made, to make sure Microsoft 365 Group can not be created any other way. More information can be found on this Microsoft page: https://docs.microsoft.com/en-us/microsoft-365/solutions/manage-creation-of-groups?view=o365-worldwide
++ **Legacy user profile card**: 
++ **Sensitivity Labels Core**: 
 + **Social reactions**: Activate this feature to use the same social reactions functionality in Omnia as in Teams. Note that when activating this feature, the Likes functionality is no longer available in any block, regardless of the "Allow social reactions" is selected or not. Existing likes will be showns as thumbs up when this feature is activated.
++ **Teamwork Core**: 
++ **Teamwork provisioning using application context**: If you want users to only be able to create Microsoft 365 Groups through Omnia templates, activate this feature. Note that additional settings needs to be made, to make sure Microsoft 365 Group can not be created any other way. More information can be found on this Microsoft page: https://docs.microsoft.com/en-us/microsoft-365/solutions/manage-creation-of-groups?view=o365-worldwide
++ **Web Content Management Core**: 
++ **Web Content Managament file storage**: When activated, the option "Copy documents locally" becomes available in the settings for the Realated Links block. Documents that are locally accessible are versioned together with the page and can be accessed by users without a SharePoint license.
 
