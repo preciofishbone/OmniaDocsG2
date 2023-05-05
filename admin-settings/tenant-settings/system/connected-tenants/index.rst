@@ -11,9 +11,9 @@ If any tenants are registered here, they will show up in this list:
 
 Connecting a new tenant
 *******************************
-When connecting a new tenant, the following settings are available.
+To connect a new tenant, click, the plus. When you do so, the following settings are available.
 
 .. image:: connected-tenants-new.png
 
-Regarding user mapping - this is needed for the meta data, to display for example Created By. It's mandatory to add a default user. Specific users can also be mapped.
+Regarding user mapping - it' needed for the meta data, to display for example Created By. It's mandatory to add a default user. Specific users can also be mapped.
 
