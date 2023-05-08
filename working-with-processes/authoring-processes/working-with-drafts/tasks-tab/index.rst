@@ -19,6 +19,5 @@ To edit a task, click the pen, to delete it, click the dust bin.
 
 Assigning tasks to colleagues
 *******************************
-In Omnia 6.12 and later, it can be possible to assign tasks to colleagues using Microsoft Planner, if the process is being accessed through Microsoft Teams. A layout for use with  Teams must be created for this purpose.
-
+It can be possible to assign tasks to colleagues using Microsoft Planner, if the process is being accessed through Microsoft Teams. A layout for use with Teams must be created for this purpose.
 

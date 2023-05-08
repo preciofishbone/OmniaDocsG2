@@ -15,4 +15,5 @@ For more information, see the sections below:
    create-new-page-collection/index
    page-collection-settings/index
    page-collection-permissions/index
+   move-page-collection/index
 

@@ -7,7 +7,7 @@ A site Administrator (Owner) can set up which columns to show on this tab. Here'
 
 .. image:: published-example-new3.png
 
-All options are found in the dot menu for a document (image from Omnia 6.12):
+All options are found in the dot menu for a document:
 
 .. image:: published-dot-menu-new2.png
 
@@ -19,7 +19,7 @@ For more information on how to create a new draft, see the heading "Creating a n
 
 Signed copy
 ***************
-In Omnia 6.12, you can use this option to create a signed copy of a document, that will be available together with the document. The option must be activated for the document type to be available here, see link below.
+You can use this option to create a signed copy of a document, that will be available together with the document. The option must be activated for the document type to be available here, see link below.
 
 Use the following steps:
 
@@ -58,7 +58,7 @@ Using this option you can see if a document is related to any process(es) - mean
 
 To check if a dcument is related to any process(es), do the following:
 
-1. Open the dot menu for the document and select "Related Processes" (image from Omnia 6.12). 
+1. Open the dot menu for the document and select "Related Processes". 
 
 .. image:: related-processes-menu-new.png
 
@@ -164,32 +164,15 @@ If the URL is correct the site title is shown in the second field - Site Title.
 
 4.	Click MOVE.
 
-Unpublish
-**********
-As described in this section, this is how it works in Omnia 6.12 and earlier. For Omnia 6.13 and later, see below.
-
-If needed, a published document can be unpublished. The document is then removed from the Controlled Documents library. If an archive for documents is set up, the document is placed in the archive. If a document archive is not set up, the document is simply deleted.
-
-**Note!**
-A document can't be unpublished if a draft has been created for that document. The draft must first be deleted.
-
-When "Unpublish" is selected, you get a second chance to change your mind:
-
-.. image:: unpublish-2-new2.png
-
 Unpublish and restore a document
 **********************************
-This section describes how unpublish of a document works in Omnia 6.13 and later.
-
-It works like this:
-
-A published document that has a new draft can't be unpublished, just as before, the draft must be deleted first.
+A published document that has a new draft can't be unpublished, the draft must be deleted first.
 
 When you unpublish a document, you get a chance to change your mind:
 
 .. image:: unpublish-question.png
 
-If an archive for documents is set up, the document is placed in the archive. The archive works as before, but in Omnia 6.13 the unpublished document is also placed in a local (= for the site) recycle bin. 
+If an archive for documents is set up, the document is placed in the archive. The unpublished document is also placed in a local (= for the site) recycle bin. 
 
 If needed, an administrator can restore a document from there. When a document is restored, a draft is created in Drafts as a new edition, and can then be edited and published the normal way. Also, if the document was published as a PDF, it's the original document that is restored, so the document can be edited.
 

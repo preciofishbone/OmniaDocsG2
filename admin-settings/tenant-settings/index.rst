@@ -13,13 +13,12 @@ Tenant Settings
    properties/index
    settings/index
    shared-links/index
-   sign-off-requests/index
+   sign-off-requests-613/index
    system/index
    tutorial/index
+   user-management/index
    user-profile-completion/index
    document-management/index
    process-management/index
    webcontent-managament/index
-   
-
-
+ 

@@ -1,6 +1,8 @@
 Process Templates
 ===================
 
+This page describes Process Templates options in Omnia 6.13 and earlier. Options in the upcoming Omnia 7.0 is quite different, described on this page: :doc:`Process Templates in Omnia 7.0 </admin-settings/tenant-settings/process-management/process-templates-omnia-7/index>`
+
 A process template is a set of shapes. One or more process templates can be added to a process type.
 
 Click the pen to edit a process template or the dust bin to delete it.

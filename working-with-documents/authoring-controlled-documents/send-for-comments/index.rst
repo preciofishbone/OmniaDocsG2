@@ -58,7 +58,9 @@ To cancel, do the following:
 
 You can also check status for both Send for Comments workflow and Publish workflow on the Tasks tab, See this page for more information: :doc:`Working with Tasks </working-with-documents/authoring-controlled-documents/working-with-tasks/index>`
 
-**Important note:** In Omnia 6.12 the review reminder task has been updated. If a new edition/revision of a controlled document is published or the published document is deleted, any associated review reminder task will be automatically completed. If the review is completed, the review comment will be added to the document history and a new review date will be calculated based on the review reminder rule set on the document type.
+More in how the review reminder works
+-----------------------------------------
+If a new edition/revision of a controlled document is published or the published document is deleted, any associated review reminder task will be automatically completed. If the review is completed, the review comment will be added to the document history and a new review date will be calculated based on the review reminder rule set on the document type.
 
 See Workflow History for a draft
 ***********************************

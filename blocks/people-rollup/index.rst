@@ -36,8 +36,8 @@ Here you can work with the Query for what to display in the block.
 
 Follow these steps:
 
-1. Select Query Type; "Profile Query", "Sharepoint Groups", "User Fields on Page" or "Activity Query". In Omnia 6.12 and later, the query "Birthday" is also available, for listing of upcoming birthdays.
-2. If you selected Activity Query, choose Activity period (also called Social Period in some other blocks). This sets how old the item can be to be displayed in the list. The default is "No limit", but you c an also select One Week, Two Weeks or One Month. If you selected the Birthday query (Omnia 6.12 and later) you choose the property to be used for birthdays and Birthday Period.
+1. Select Query Type; "Profile Query", "Sharepoint Groups", "User Fields on Page", "Activity Query" or "Birthday". Use "Birthday" for listing of upcoming birthdays.
+2. If you selected Activity Query, choose Activity period (also called Social Period in some other blocks). This sets how old the item can be to be displayed in the list. The default is "No limit", but you c an also select One Week, Two Weeks or One Month. If you selected the Birthday query you choose the property to be used for birthdays and Birthday Period.
 3. Select property for the query.
 
 .. image:: query-property-1-new2.png

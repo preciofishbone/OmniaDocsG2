@@ -1,6 +1,6 @@
 System
 =============
-Here, the following can be set:
+Here, the following can be set in Omnia 6.13:
 
 .. image:: system-612.png
 
@@ -21,3 +21,5 @@ Select section for more information:
    tenant-contact/index
    user-profile-card/index
    
+In Omnia 7.0 a new option is available, described in this page: :doc:`Connected tenants </admin-settings/tenant-settings/system/connected-tenants/index>`
+

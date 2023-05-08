@@ -21,7 +21,7 @@ To delete an administrator in any of the lists, just click the x. To add an admi
 
 Secrets
 ********
-The following settings can be available here. Additional settings may have be added here depening on installed options in the tenant.
+The following settings can be available here. Additional settings may have to be added here depening on installed options in the tenant.
 
 .. image:: tenant-secrets-new.png
 
@@ -55,3 +55,12 @@ In the process of enabling Sharepoint App Only, Client Id and Client Secret need
 For more information, see the instruction available when you click the link "Config instruction" in the "Azure AD Sync" settings in Omnia Admin (available under "System").
 
 For more information on Azure AD Sync, see: :doc:`Azure AD Synchronization settings </admin-settings/tenant-settings/system/azure-ad-sync/index>`
+
+Draftable Account
+---------------------
+If you're using Draftable's solution for comparing changes in controlled documents, you may have to edit the information here.
+
+.. image:: secrets-draftable.png
+
+A default Base Url is added but can be edited if needed. 
+

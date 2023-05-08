@@ -1,3 +1,32 @@
+6.13.9
+========================================
+(Omnia 6.13.9 / Workplace 6.13.11 / WCM 6.13.11 / MS 6.13.5)
+
+- Fixed an additional issue in naming policies together with approval (#143531).
+- Fixed a rendering issue in Sign Off Request. User who completed request now displays correctly.
+- Fixed a rare race condition that would cause scheduled pages not to publish on time.
+- Date properties now work as expected on documents in all time zones (#146383).
+
+
+
+6.13.7
+========================================
+(Omnia 6.13.7 / Workplace 6.13.9 / WCM 6.13.10 / MS 6.13.4)
+
+- Improved Sync to SharePoint to ignore ASCII control characters (#145817)
+- Blocks using User Profile Property targeting will cause page to not load for guest users.
+
+
+6.13.6
+========================================
+(Omnia 6.13.6 / Workplace 6.13.8 / WCM 6.13.9 / MS 6.13.4)
+
+- OnPrem: Settings for spellcheck are now hidden due its cloud only nature.
+- OnPrem: Last activity for teamwork now works as expected.
+- Stability improvements to pages that are both scheduled and under approval. 
+- Fixed an issue where certain properties would become queryable properties on feature upgrades.
+
+
 6.13.5
 ========================================
 (Omnia 6.13.5 / Workplace 6.13.7 / WCM 6.13.8 / MS 6.13.3)

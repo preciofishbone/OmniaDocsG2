@@ -1,8 +1,6 @@
 Page collection settings
 ===============================
 
-**This page is beeing working on. Will be finished soon.**
-
 A number of settings can be edited for the Page Collection, this way:
 
 1. Edit a page in the Publishing App and open the Page menu.
@@ -20,7 +18,7 @@ In this example, three Page Collections has been added in the Publishing App, be
 
 .. image:: page-collection-click-edit-new2.png
 
-4. Use the following settings (image from Omnia 6.12):
+4. Use the following settings:
 
 .. image:: page-collection-settings-612.png
 
@@ -35,10 +33,10 @@ Use the settings this way:
 + **Show Url**: If the Url for the new page should be shown for the editor when creating a page, select this option. The Url can then be edited.
 + **Show Properties**: If available Page Properties should be shown for the editor when creating a page, select this option. The Properties can then be edited in that stage. Page Properties can always be edited after the page has been created.
 + **Auto Publish**: This is a setting probably most relevant for Communities. If this option is selected a new page is always published automatically. It's only applicable when a new page is created, not when it's updated.
-+ **Page Types**: Select which of the Page Types that should be available for an editor to select when creating a page in this Page Collection. It can be Local Page Types or Tenant Page Types. Tenant Page Types are indicated by the text "(Tenant)". For more information about Tenant Page Types, see this page: :doc:`Tenant Page Types </admin-settings/tenant-settings/webcontent-managament/page-types/index>`. In Omnia 6.8 and later you can set default values for the Page Types, see below.
++ **Page Types**: Select which of the Page Types that should be available for an editor to select when creating a page in this Page Collection. It can be Local Page Types or Tenant Page Types. Tenant Page Types are indicated by the text "(Tenant)". For more information about Tenant Page Types, see this page: :doc:`Tenant Page Types </admin-settings/tenant-settings/webcontent-managament/page-types/index>`. 
 + **Automatic Page Creation**: A copy of a page can be published automatically to another Page Collection when certain rules are met. These rules can be set up here. For more information, see this page: :doc:`Automatic Page Creation </pages/automatic-page-creation/index>`
 + **Yammer Integration**: When Yammer Integration is setup, a post will be created in the selected Yammer community whenever a new page, matching the selected criteria, is created. See below for more information.
-+ **Taxonomy Connection**: This option is available in Omnia 6.12 and later. When this option is activated, it's possible to connect the page collection to a taxonomy. Whenever a page is created in the page collection, a term will be created in the connected taxonomy and the page will automatically be tagged with the newly created term. This can, for example, be useful in different rollups. For more information, see below.
++ **Taxonomy Connection**: When this option is activated, it's possible to connect the page collection to a taxonomy. Whenever a page is created in the page collection, a term will be created in the connected taxonomy and the page will automatically be tagged with the newly created term. This can, for example, be useful in different rollups. For more information, see below.
 + **Enable Approval**: If Approval should be needed for publication of pages (new pages and updates), enable this. If not enabled, editors can publish themselves. See more info about Approval settings below.
 + **Enable Activity Tracking**: For a Community, Activity Tracking can be activated. See the heading *Settings for Activity Points* on this page, for more information: :doc:`Setting up a Community </using-communities/settings/index>` 
 + **Reset notification when page is modified**: This setting defines when a notification that a page is new should be shown for users, for example in the Notification Panel. Normally it's only when the page is created, not when it's updated. If this option is activated the page is considered to be new every time it's updated and a new version is published. Therefore it's probably more relevant for pages in Communities than for Publishing Pages.
@@ -127,11 +125,11 @@ When you have done that every new page in the page collection creates a term in 
 
 Settings for Approval
 ----------------------
-When Approval is activated, the following settings are available (image from Omnia 6.12):
+When Approval is activated, the following settings are available:
 
 .. image:: page-collection-approval-settings-612.png
 
-+ **Apply to authors only**: This option is available in Omnia 6.12 and later. If you select this, editors never need approval, they can always publish directly. When an author publishes, approval is needed.
++ **Apply to authors only**: If you select this, editors never need approval, they can always publish directly. When an author publishes, approval is needed.
 
 You select who can approve the creation of a page:
 

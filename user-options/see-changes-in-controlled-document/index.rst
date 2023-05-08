@@ -1,7 +1,7 @@
 See changes in a controlled document
 =======================================
 
-This option is available i Omnia 6.12. It's a feature that must be activated and it requires a paid subscription with Draftable.
+This feature must be activated and it requires a paid subscription with Draftable.
 
 When the option is activated it's possible to see the changes that has been made in the latest edition of a controlled document, compared to the last edition before that. The documents does not need to be open and even PDF:s can be compared.
 

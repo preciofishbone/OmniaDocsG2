@@ -35,7 +35,7 @@ Query
 ------
 Here you can set the following:
 
-.. image:: page-rollup-settings-query-new4.png
+.. image:: page-rollup-settings-query-new5.png
 
 + **Pick Pages**: If the editor should be able to pick pages from a list, select this option.
 + **Pick in Write Mode**: Available when Pick Pages is selected. Select this option if editors should be able to pick pages in Write mode. If not selected, Design mode has to be used.
@@ -47,29 +47,29 @@ For Query Builder, the following options are available:
 + **Scope**: When you have chosen to use the Query Builder, select scope for the block. This is where you choose where to get the pages from. You can select:
 
   + Tenant.
-  + Business Profile(s).
-  + Publishing App(s).
-  + Page Collection(s).
+  + Business Profiles.
+  + Apps.
+  + Page Collections.
   + Navigation Path.
-  + Channel(s).
+  + Channels.
 
-When you have selected Business Profiles, Publishing Apps, Page Collections or Channels, as the next step, you select one or more to get the pages from. 
+When you have selected Apps, Business Profiles, Channels or Page Collections, as the next step, you select one or more to get the pages from. 
 
 The following settings can then be available, depending on scope chosen:
 
++ **ADD FILTER**: Available for scope Tenant. Use it to add filters, to further decide what should be shown in the rollup.  
 + **Cache on client**: This setting can be used to speed up rendering on subsequent page loads. This is is done by storing data in the browser cache. Default: selected.
 + **Current User Subscription**: Available for scope Channels. Select this if only the pages that the logged in users subscribes to should be displayed.
 + **Current Node/Custom**: Available for scope Navigation path. Choose the start point for the navigation path to be displayed. If you select "Custom", you can use the Page Picker to select start node.
-+ **Custom Query**: Available for scope Channels. Use this to select one or more channels to rollup pages from. Note that a channel can be targeted to just certain colleagues or groups. See example below.
-+ **Filter by user subscription**: Availabel for Scope Channels. Select this if the list should display only thos channels the logged in user follows.
++ **Custom**: Available for scope Navigation Path. Use to select start node.
 + **Exclude current page**: Available when you have chosen scope for the Query Builder. The default setting is to exclude the current page, but if you, for some reason, would like to include the current page, uncheck this option.
 + **Exclude start node**: Available for scope Navigation path. If the start page selected should not be displayed in the block, select this option.
 + **Exclude variations**: Usings this option, you can exclude varations from the query. Not available for Navigation path.
-+ **Status**: By using this option you can create rollups for pages with the status Never published, Published or Any status. 
-+ **Trim duplicates**: If more than one Page Rollup block is added to a page, this option can be used to handle duplicates between the blocks. When the option is selected, you can enter a number indicating the priority for duplicates, for this block. If you set "1" for a block it means this block has priority showing a post that would have been a duplicate. 
++ **Filter by user subscription**: Available for Scope Channels. Select this if the list should display only thos channels the logged in user follows.
 + **Navigation Depth Level**: Available for scope Navigation path. Choose the number of nodes that should be displayed, including the start node.
 + **Page Size**: Use the slider, or type the number (1-99) to set the number of items (pages) that should be displayed on each "page" of the list. Also see under *Display* below for additional settings for the list. 
-+ **Query Item Limit**: Use the slider, or type the number (1-99) to set the number of pages that should be retrieved to make sure all duplicates are found. You should not set this number higher than you really need, as higher numbers may have an impact on performance. Note that when you change the number, "Max Display Limit" is also changed, see below.
++ **Status**: By using this option you can create rollups for pages with the status Never published, Published or Any status. 
++ **Trim duplicates**: If more than one Page Rollup block is added to a page, this option can be used to handle duplicates between the blocks. When the option is selected, you can enter a number indicating the priority for duplicates, for this block. If you set "1" for a block it means this block has priority showing a post that would have been a duplicate. 
 
 More on Scope Navigation Path
 ---------------------------------
@@ -147,22 +147,19 @@ Card
 ------
 The special settings for this view are:
 
-+ **Preview**: Available in Omnia 6.13 and later. Select the property to base the preview on. It can be either a media property or a document data property.
++ **Preview**: Select the property to base the preview on. It can be either a media property or a document data property.
 + **Cards per Row**: As it says, set the number of cards to show per row.
-+ **Show Last Comment**: If you seect this, the last comment for the page, if any, will be displayed on the card.
++ **Show Last Activity**: If you seect this, the last activity for the page, if any, will be displayed on the card.
 + **Person**: This option can be used to show properties in Card view.
 + **Show Page Type**: If this option is selected, the Page Type used for the page is shown as metadata, the same way as other properties.
++ **Show Rating**: Use it to show the page's rating in the card.
 + **Term properties**: Can be used to show properties in Card view. Click "Add" and select a property. Continue the same way for additional properties.
 
 For general settings, see above.
 
-You can also choose where meta data for Date and Person will be placed. Click here to display options:
+You can also choose where properties for date, person, tags and reactions (if added) will be placed. Use these settings:
 
-.. image:: place-meta.png
-
-Then use the settings to select Top Left, Top Right, Bottom Left or Bottom Right:
-
-.. image:: place-meta-settings.png
+.. image:: place-meta-new.png
 
 Newsletter
 -----------

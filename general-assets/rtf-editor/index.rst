@@ -248,7 +248,7 @@ If the option is available you can machine translate the text in a block, this w
 
 .. image:: machine-translation-select-language-new2.png
 
-Any language can be selected here (in Omnia 6.8 and later). The ones set up in Omnia Admin are shown at the top of the list. To select another language, select "Show all Languages" at the bottom of the list.
+Any language can be selected here. The languages set up in Omnia Admin are shown at the top of the list. To select another language, select "Show all Languages" at the bottom of the list.
 
 .. image:: machine-translation-select-language-all.png
 

@@ -75,7 +75,7 @@ The following options are available for a Microsoft 365 Team Group:
 
 Available only for Microsoft 365 Group are:
 
-+ **Welcom Page**: Choose to link to a Sharepoint site or to Microsoft Teams.
++ **Welcome Page**: Choose to link to a Sharepoint site or to Microsoft Teams.
 + **Privacy**: Decide if the Group should be Private or Public.
 
 For descriptions of the rest of the options, see below.

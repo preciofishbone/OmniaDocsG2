@@ -225,7 +225,7 @@ The new draft is created and the "Drafts" tab is automatically activated. The wo
 
 Show changes
 ******************
-If the feature "Document Comparison powered by Draftable" (available in Omnia 6.12 and later) is activated for the tenant, the options for viewing changes in a document are extended and improved. Microsoft Office documents, as well as PDF:s, can be used. The files does not have to be open. **Note!** This option requires a paid subscription with Draftable. 
+If the feature "Document Comparison powered by Draftable" is activated for the tenant, the options for viewing changes in a document are extended and improved. Microsoft Office documents, as well as PDF:s, can be used. The files does not have to be open. **Note!** This option requires a paid subscription with Draftable. 
 
 When the feature is activated the menu option "Show changes" is available. A draft can then be compared with the latest published edition of that document, using this menu option:
 
@@ -271,12 +271,14 @@ More on what happens when a document is merged with a template
 -----------------------------------------------------------------
 Here's some more information about what will happen if you choose to merge a document with a template.
 
-The following will not be changed in your document, regardless of the template used:
+Omnia will attempt to keep the following when a document is merged with a template:
 
 + Fonts and Formats.
 + Page Size and Orientation.
 + Margins.
 + Contents and references.
 
-Header and footer may change, especially where text and numbering are placed. Also make sure that the corect language is selected for all parts of your document, to avoid any unnecessary changes regarding header and/or footer in your document.
+But as a document format can be quite complex changes can still occur, even regarding fonts and sizes. All merged templates must be checked.
+
+Header and footer may change, especially where text and numbering are placed. Also make sure that the correct language is selected for all parts of your document, to avoid any unnecessary changes regarding header and/or footer in your document.
 

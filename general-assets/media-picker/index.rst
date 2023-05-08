@@ -25,7 +25,7 @@ To select an image, click it and the settings will be shown. Settings are the sa
 
 Settings of image banks are made for each Business Profile. For more information see: :doc:`Central Image Location </admin-settings/business-group-settings/settings/central-image-location/index>`
 
-In Omnia 6.12 and later, videos can be handled in Sharepoint media libraries and some video editing options, similar to those in Stream, has been added by Microsoft. In Omnia 6.12, this option has therefore been renamed **Central Media Bank**. Video editing has to be made in the Sharepoint library, not in the Media Picker.
+Videos can now be handled in Sharepoint media libraries and some video editing options, similar to those in Stream, has been added by Microsoft. For thatn reason, this option has been renamed **Central Media Bank**. Video editing has to be made in the Sharepoint library, not in the Media Picker.
 
 Bing Search
 ***************
@@ -143,5 +143,5 @@ Now the following settings are available:
 + **Autoplay**: If the video should start automatically when a user opens the page, select this option.
 + **Mute**: To play the video without sound, select this option.
 
-**Note!** In Omnia 6.12 and later, videos can be stored in Sharepoint libraries and that applies to Central Image Bank/Central Media Bank. The settings for those videos are handled in the Sharepoint library.
+**Note!** For videos that are stored in Sharepoint libraries, the settings for those videos are handled in the Sharepoint library.
 

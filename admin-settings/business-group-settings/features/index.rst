@@ -5,6 +5,8 @@ All available features for the business profile are listed here and can be activ
 
 .. image:: features-business-profile-612-new.png
 
+In Omnia 7.0 the UI has been updated. For a 7.0 description, see this page: :doc:`Features (Business Profile) in Omnia 7.0 </admin-settings/business-group-settings/features-bp-7/index>`
+
 Default configuration
 ********************************
 The purpose of these feature are to provide a number of templates and search profiles for an easy starting point. You can then edit the templates for your organization's needs, and of course add additional templates. 
