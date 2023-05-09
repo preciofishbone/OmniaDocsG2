@@ -5,7 +5,7 @@ User Management is an all new option in Omnia 7.0. Here you can add and handle u
 
 **Work on the documentation has just started.**
 
-.. image:: user-management-menu.png
+.. image:: user-management-menu-new.png
 
 Select option below for more information.
 

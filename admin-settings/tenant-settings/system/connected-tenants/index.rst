@@ -3,17 +3,37 @@ Connected tenants
 
 This is an upcoming option in Omnia 7.0. You use it to register tenants that should be available to select when using automatic page creation.
 
+**This documentatilon ius just started**.
+
 You can find more information about automatic page creation on this page: :doc:`Automatic Page Creation </pages/automatic-page-creation/index>`
 
-If any tenants are registered here, they will show up in this list:
+Also note that when using this option, enterprise options and variations may need to be mapped. This is done during the publication process.
 
-.. image:: connected-tenants.png
+If any tenants are registered here, they will show up in this list, for example:
+
+.. image:: connected-tenants-new2.png
+
+Use the pen to edit the settings, the dust bin to delete. When editing, all settings described below can be edited.
 
 Connecting a new tenant
 *******************************
-To connect a new tenant, click, the plus. When you do so, the following settings are available.
+To connect a new tenant, click the plus. When you do so, the following settings are available.
 
-.. image:: connected-tenants-new.png
+.. image:: connected-tenants-new-new.png
 
-Regarding user mapping - it' needed for the meta data, to display for example Created By. It's mandatory to add a default user. Specific users can also be mapped.
+Regarding user mapping - it's needed for meta data, to display for example Created By. It's mandatory to add a default user. Specific users can also be mapped. Also note that all permissions in the tenantn apply. Thses settings doesn't change anything in that respect.
+
+**Descriptions of the options below will be added soon**:
+
++ **Connection Title**:
++ **Tenant Url**: 
++ **Client ID**: 
++ **Client Secret**: 
++ **User Mappings**: 
+
+Don't forget to save when you're done.
+
+Here's an example of settings. for reference:
+
+.. image:: connected-tenants-settings-example.png
 
