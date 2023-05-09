@@ -7,6 +7,8 @@ This is an upcoming option in Omnia 7.0. You use it to register tenants that sho
 
 You can find more information about automatic page creation on this page: :doc:`Automatic Page Creation </pages/automatic-page-creation/index>`
 
+Also note that when using this option, enterprise options and variations may need to be mapped. This is done during the publication process.
+
 If any tenants are registered here, they will show up in this list, for example:
 
 .. image:: connected-tenants-new2.png
