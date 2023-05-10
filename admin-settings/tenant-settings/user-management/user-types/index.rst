@@ -7,13 +7,13 @@ This is an upcoming Omnia 7.0 option.
 
 User types can be used when creating Omnia only users. It's also possible to create customized user profile cards can be created for a user type.
 
-If any user types has been set up thus far, they are listed here, for example:
+If any user types has been set up so far, they are listed here, for example:
 
 .. image:: user-management-types.png
 
 Use the dust bin to delete a user type, the pen to edit and the third icon to create a customized user profile card, if needed.
 
-These setting can be used when creatin a new user type:
+These settings can be used when creating a new user type:
 
 .. image:: user-management-types-settings.png
 
