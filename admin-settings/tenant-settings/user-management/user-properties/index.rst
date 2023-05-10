@@ -5,7 +5,7 @@ This is an upcoming Omnia 7.0 option.
 
 **Work on the documentation has just started.**
 
-Properties that needs to be stored in the Omnia database are added here. Also not the comment about GDPR.
+User properties can be c reated here. These properties can be shown on the customized user profile cards together with properties from Azure AD and SharePoint. They will also be used to manage targeted mobile push notifications and statistics. Also note the comment about GDPR.
 
 .. image:: user-management-properties.png
 
