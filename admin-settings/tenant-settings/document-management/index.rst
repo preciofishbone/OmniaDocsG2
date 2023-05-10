@@ -22,4 +22,4 @@ Select section for a description:
    document-termination/index
    about-merging-terms/index
    
-
+**Note**: In Omnia 7.0 and later, the option "Document termination" is renamed "Permanently delete document". The functionality is the same.
