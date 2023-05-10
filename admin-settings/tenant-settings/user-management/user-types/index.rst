@@ -5,13 +5,18 @@ This is an upcoming Omnia 7.0 option.
 
 **Work on the documentation has just started.**
 
-User types can be used in the lits of Omnia only users. 
+User types can be used when creating Omnia only users. It's also possible to create customized user profile cards can be created for a user type.
 
-If any user types has been set up thus far,, they are listed here, for example:
+If any user types has been set up thus far, they are listed here, for example:
 
 .. image:: user-management-types.png
+
+Use the dust bin to delete a user type, the pen to edit and the third icon to create a customized user profile card, if needed.
 
 These setting can be used when creatin a new user type:
 
 .. image:: user-management-types-settings.png
 
+Creating a customized user profile card works somewhat similar to working with the layout for Workspace, see the heading "Working with the layout" on this page: :doc:`Navigation bar </admin-settings/business-group-settings/workplace/navigation-bar/index>`
+
+There are a some differences, which will be documented soon.
