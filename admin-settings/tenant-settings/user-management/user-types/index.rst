@@ -5,7 +5,7 @@ This is an upcoming Omnia 7.0 option.
 
 **Work on the documentation has just started.**
 
-User types can be used when creating Omnia only users. It's also possible to create customized user profile cards can be created for a user type.
+User types can be used when creating Omnia only users and when settings up dynamic groups. It's also possible to create customized user profile cards for different user types.
 
 If any user types has been set up so far, they are listed here, for example:
 
