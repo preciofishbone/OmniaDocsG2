@@ -5,7 +5,7 @@ Filter options for blocks in Omnia 7.0
 
 In Omnia 7.0 and later, all filter and refiner options for blocks, are now found under Filter.
 
-Exactly which options will be available here will depend on the type of block and somtimes other options already selected. 
+Exactly which options will be available here will depend on the type of block and somtimes other options already selected. It will take some time for the documentation to be complete in that respect.
 
 Here's an example of available filter options:
 
@@ -15,8 +15,8 @@ Here's an example of available filter options:
 + **Add filter**: To add filters, click this link. See below for more information.
 + **Save filter state**:  If you select this option the filter keeps it’s state in the page url as long as the page is active, and will be activated when the user goes back to the page, by using the browser’s Back button. The url can also be copied and for example be used to prepopulate the rollup.
 + **Run query on load**: Decide if the query should be run on load, so the list is filled with when the user enters the page, or not. If there are a lot of requests, an effective solution could be to show a search box and not use this option.
-+ **Show selected values area**: (A description will be added soon).
-+ **Fixed filter area**: (A description will be added soon).
++ **Show selected values area**: Select this option to show the filters chosen.
++ **Fixed filter area**: Select this option to set the filter area as fixed area when scrolling, meaning the filter area will be displayed all the time when you scroll down in a list.
 + **Dialog position**: You can choose to place the dialog Left or Right.
 
 Settings for search box
@@ -35,7 +35,7 @@ This can be available under Settings for the search box:
 
 .. image:: filter-search-settings-dot-settings.png
 
-+ **search box mod**: Can be a search based on properties or a full text search.
++ **search box mode**: Can be a search based on properties or a full text search.
 + **Search on Title and...**: If search should be possible on anything else than the title, add the property here.
 + **Search box width**: Yes, no doubt about what this setting does.
 
