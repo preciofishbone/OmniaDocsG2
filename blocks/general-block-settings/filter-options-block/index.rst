@@ -5,7 +5,7 @@ Filter options for blocks in Omnia 7.0
 
 In Omnia 7.0 and later, all filter and refiner options for blocks, are now found under Filter.
 
-Exactly which options will be available here will depend on the type of block and somtimes other options already selected. It will take some time for the documentation to be complete in that respect.
+Exactly which options will be available here will depend on the type of block and sometimes other options already selected. It will take some time for the documentation to be complete in that respect.
 
 Here's an example of available filter options:
 
