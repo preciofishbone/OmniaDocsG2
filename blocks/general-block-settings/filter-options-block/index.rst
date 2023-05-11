@@ -29,13 +29,13 @@ You can add a default value for the search field.
 
 Settings
 ------------
-This is available under Settings for the search box:
+This can be available under Settings for the search box:
 
 .. image:: filter-search-settings-dot-settings.png
 
-If search should be possible on anything else than the title, add the property here.
-
-Use "Search box width" to set .. yes, no doubt about what this settings is about.
++ **search box mod**: Can be a search based on properties or a full text search.
++ **Search on Title and...**: If search should be possible on anything else than the title, add the property here.
++ **Search box width**: Yes, no doubt about what this setting does.
 
 Add filter
 ***************
