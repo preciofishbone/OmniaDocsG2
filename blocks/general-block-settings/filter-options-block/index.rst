@@ -9,15 +9,16 @@ In Omnia 7.0 and later, alla Filter and Refiner options for blocks, are now foun
 
 The following Filter options are now available:
 
-Here's a general description on how to add filters for a block in Omnia 6.13 and earlier, when the option is available. Here, all options are describe, even if all is not available everywhere.
+.. image:: filter-options-7.png
 
-The first step is:
++ **Show Search Box**: To add a search box, select this option. You can do that without selecting any other options.
++ **Save filter state**: (A description will be added soon).
++ **Run query on load**: (A description will be added soon).
++ **Show selected values area**: (A description will be added soon).
++ **Fixed filter area**: (A description will be added soon).
++ **Dialog position**: You can choose to place the dialog Left or Right.
 
-.. image:: filter-new-2.png
-
-+ **Position**: Choose where to place the filters; Top, Left or Right.
 + **Add filter**: To add filters, click this link. See below for more information.
-+ **Show Search Box**: To add a search box, select this option. You can do that without adding filters.
 + **Only search when using filter**: If you select this option the list is empty when the user enters the page. The user must choose a filter for the search to be executed.
 + **Hide filter by default**: If you chose a search box you can select this option. Then no filters are shown until users has executed a search and got a search result.
 
