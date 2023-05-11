@@ -23,15 +23,27 @@ The following Filter options are now available:
 + **Hide filter by default**: If you chose a search box you can select this option. Then no filters are shown until users has executed a search and got a search result.
 
 Settings for search box
-------------------------
-If you added a Search Box a number of options becomes available under STYLE:
+***************************
+If you added a Search Box a number of options becomes available under a dot menu:
 
-.. image:: filter-search-settings-new.png
+.. image:: filter-search-settings-dot.png
 
-The options should be fairly self explanatory.
+Default value
+-------------
+You can add a default value for the search field.
+
+Settings
+------------
+This is available under Settings for the search box:
+
+.. image:: filter-search-settings-dot-settings.png
+
+If search should be possible on anything else than the title, add the property here.
+
+Use "Search box width" to set .. yes, no doubt about what this settings is about.
 
 Add filter
----------------
+***************
 To add filters, do the following:
 
 1. Click Add filter.
