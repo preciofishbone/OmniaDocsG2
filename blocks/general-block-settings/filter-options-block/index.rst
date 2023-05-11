@@ -11,8 +11,8 @@ The following Filter options are now available:
 
 + **Show Search Box**: To add a search box, select this option. You can do that without selecting any other options.
 + **Add filter**: To add filters, click this link. See below for more information.
-+ **Save filter state**: (A description will be added soon).
-+ **Run query on load**: (A description will be added soon).
++ **Save filter state**:  If you select this option the filter keeps it’s state in the page url as long as the page is active, and will be activated when the user goes back to the page, by using the browser’s Back button. The url can also be copied and for example be used to prepopulate the rollup.
++ **Run query on load**: Decide if the query should be run on load, so the list is filled with when the user enters the page, or not. If there are a lot of requests, an effective solution could be to show a search box and not use this option.
 + **Show selected values area**: (A description will be added soon).
 + **Fixed filter area**: (A description will be added soon).
 + **Dialog position**: You can choose to place the dialog Left or Right.
@@ -63,13 +63,9 @@ Here's an example:
 + **Settings**: Choose "Settings" to show the following three options.
 + **Filter Type**: Can be Dropdoen or List.
 + **Defult position**: Can be top, Left, Right or Dialog.
++ **Fixed filter width**: The filter width is per default dynamic. Set a value here to make the filter width fixed.
++ **Delete**: Click to delete the filter.
 
-
-In this example users can select either Anna or Robert as Approved By.
-
-3. Continue adding filters until you're done.
-
-4. If you added several filters, select Adjust Filters the decide the order.
 
 
 
