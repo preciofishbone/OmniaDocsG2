@@ -21,17 +21,9 @@ To connect a new tenant, click the plus. When you do so, the following settings 
 
 .. image:: connected-tenants-new-new.png
 
+**Important note!** Connecting a new tenant requires in depth knowledge about Omnia and youreffff organization's system. It should only be done by an experienced administrator.
+
 Regarding user mapping - it's needed for meta data, to display for example Created By. It's mandatory to add a default user. Specific users can also be mapped. Also note that all permissions in the receiving tenant apply. These settings doesn't change anything in that respect.
-
-**Descriptions of the options below will be added soon**:
-
-+ **Connection Title**:
-+ **Tenant Url**: 
-+ **Client ID**: 
-+ **Client Secret**: 
-+ **User Mappings**: 
-
-Don't forget to save when you're done.
 
 Here's an example of settings, for reference:
 
