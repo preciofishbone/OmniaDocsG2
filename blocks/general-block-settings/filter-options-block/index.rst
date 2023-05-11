@@ -46,19 +46,26 @@ Add filter
 ***************
 To add filters, do the following:
 
-1. Click Add filter.
-
-.. image:: filters-new-add-new.png
-
+1. Click ADD FILTER.
 2. Open the list and add a property to filter on.
 
-.. image:: filters-new-add-list-new.png
+.. image:: filters-new-add-list-new-7.png
 
-It can be a quite long list. You can press any key to go that part of the list, for example P to go to properties starting with Page.
+It can be a quite long list. You can press any key to go to that part of the list, for example P to go to properties starting with Page.
 
-Some properties may have additional options, which you normally can choose (not mandatory) for more detailed filter options. Here's an example:
+Some properties may have additional options, which you normally can choose (not mandatory) for more detailed filter options, available under a dot menu. 
 
-.. image:: filters-new-add-list-2new.png
+.. image:: filters-new-add-list-new-7-dotmenu.png
+
+Here's an example:
+
+.. image:: filters-new-add-list-new-7-dotmenu-example.png
+
++ **Default Value**: You can add a default value for the search field.
++ **Settings**: Choose "Settings" to show the following three options.
++ **Filter Type**: Can be Dropdoen or List.
++ **Defult position**: Can be top, Left, Right or Dialog.
+
 
 In this example users can select either Anna or Robert as Approved By.
 
