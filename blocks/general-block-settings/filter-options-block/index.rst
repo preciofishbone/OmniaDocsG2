@@ -17,9 +17,6 @@ The following filter options are available:
 + **Fixed filter area**: (A description will be added soon).
 + **Dialog position**: You can choose to place the dialog Left or Right.
 
-+ **Only search when using filter**: If you select this option the list is empty when the user enters the page. The user must choose a filter for the search to be executed.
-+ **Hide filter by default**: If you chose a search box you can select this option. Then no filters are shown until users has executed a search and got a search result.
-
 Settings for search box
 ***************************
 If you added a Search Box a number of options becomes available under a dot menu:
