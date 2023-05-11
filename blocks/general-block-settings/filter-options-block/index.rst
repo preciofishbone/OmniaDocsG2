@@ -1,7 +1,7 @@
 Filter options for blocks in Omnia 7.0
 =============================================
 
-**Work on this documentation has just started.**
+**Work on this documentation is ongoing.**
 
 In Omnia 7.0 and later, all Filter and Refiner options for blocks, are now found under Filter.
 
@@ -66,10 +66,12 @@ Here's an example:
 + **Fixed filter width**: The filter width is per default dynamic. Set a value here to make the filter width fixed.
 + **Delete**: Click to delete the filter.
 
+Style options
+***************
+the following options are available for filter style:
 
+.. image:: filters-style-7.png
 
-
-
-
-
++ **General style**: Should be self explanatory.
++ **Chip colors**: (A description will be added soon).
 
