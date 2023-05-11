@@ -12,13 +12,13 @@ The following Filter options are now available:
 .. image:: filter-options-7.png
 
 + **Show Search Box**: To add a search box, select this option. You can do that without selecting any other options.
++ **Add filter**: To add filters, click this link. See below for more information.
 + **Save filter state**: (A description will be added soon).
 + **Run query on load**: (A description will be added soon).
 + **Show selected values area**: (A description will be added soon).
 + **Fixed filter area**: (A description will be added soon).
 + **Dialog position**: You can choose to place the dialog Left or Right.
 
-+ **Add filter**: To add filters, click this link. See below for more information.
 + **Only search when using filter**: If you select this option the list is empty when the user enters the page. The user must choose a filter for the search to be executed.
 + **Hide filter by default**: If you chose a search box you can select this option. Then no filters are shown until users has executed a search and got a search result.
 
