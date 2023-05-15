@@ -99,7 +99,7 @@ Now the selected document(s) are moved from the original Documents library and i
 
 Recycle bin for drafts
 **************************
-In Omnnia 7.0 and later there's a recycle bin available to deleted drafts. You delete a draft document the same way as before. Deleted drafts are than available in the recycle bin:
+In Omnia 7.0 and later there's a recycle bin available for deleted drafts. You delete a draft document the same way as before. Deleted drafts are than available in the recycle bin:
 
 .. image:: documents-recycle-bin.png
 
