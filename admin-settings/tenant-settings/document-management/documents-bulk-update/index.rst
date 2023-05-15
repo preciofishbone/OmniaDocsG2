@@ -23,6 +23,19 @@ Be aware that, if there are many documents selected, the update may take some ti
 
 When the update is finished, the update is noted in the document history of each document.
 
+Bulk update removed properties
+*********************************
+In Omnia 7.0 it's possible to replace porperties that are not longer present in the system. A good example when this is useful is when a document owner has left the organization and already has been removed from the AD. This is how it's done:
+
+1. Select the property to be replaced (for example Document Owner).
+2. Enter the property to be replaced in the second Property Value field (for example a former colleague). Note that you can use FIND for a listing of for example the documents a former colleague are document owner of.
+3. Enter a new value (for example a colleauge) in the New Value Field.
+4. Click REPLACE.
+
+Heres's an example:
+
+.. image:: bulk-update-owner.png
+
 Bulk update and templates
 ***************************
 Note that Bulk update never updates the template. The republish via Bulk update always uses the current template.
