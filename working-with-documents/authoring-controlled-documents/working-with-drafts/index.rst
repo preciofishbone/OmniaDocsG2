@@ -97,6 +97,18 @@ Do the following:
 
 Now the selected document(s) are moved from the original Documents library and into the Controlled Documents library as drafts.
 
+Recycle bin for drafts
+**************************
+In Omnnia 7.0 and later there's a recycle bin available to deleted drafts. You delete a draft document the same way as before. Deleted drafts are than available in the recycle bin:
+
+.. image:: documents-recycle-bin.png
+
+There you can decide to keep a deleted draft for later, permanently delete it or restore it.
+
+.. image:: documents-recycle-bin-restore.png
+
+Just select one or more drafts and then decide what do to. (To keep them, no action is required).
+
 Upload Appendices
 *******************
 To upload documents to use as appendices to another document, the main upload option should not be used. (But you can also use Published Documents as appendices, see below.)
