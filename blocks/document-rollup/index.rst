@@ -164,7 +164,7 @@ Using STYLE you can set the following:
 
 Test the options and see a preview in the block.
 
-In Omnia 7.0 and later, the Refiner option is removed. Refiner options are now found under "Filter, see: :doc:`Filter options for blocks in Omnia 7.0 </blocks/general-block-settings/filter-options-block/index>`
+In Omnia 7.0 and later, the Refiner menu option is removed. Refiner options can now found under "Filter", see: :doc:`Filter options for blocks in Omnia 7.0 </blocks/general-block-settings/filter-options-block/index>`
 
 Export
 *********
