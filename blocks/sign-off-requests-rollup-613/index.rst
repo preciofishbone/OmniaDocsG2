@@ -92,6 +92,8 @@ The following options are found on this tab:
 + **Save filter state**:  If you select this option the filter keeps it’s state in the page url as long as the page is active, and will be activated when the user goes back to the page, by using the browser’s Back button. The url can also be copied and for example be used to prepopulate the rollup.
 + **Run query on load**: Decide if the query should be run on load, so the list is filled with sign-off requests, or not. If there are a lot of requests, an effective solution could be to show a search box and not use this option. 
 
+In Omnia 7.0 and later, new options for filtering can be available, see: :doc:`Filter options for blocks in Omnia 7.0 </blocks/general-block-settings/filter-options-block/index>`
+
 Add filter
 -------------
 To add one or more filters available to users, click the button and use the list to add a filter.  
