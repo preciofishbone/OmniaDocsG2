@@ -115,6 +115,8 @@ Use these settings to add filters for the users to use. An example could be if a
 
 For more information on how to add filters, or a search box, see this page: :doc:`Filter UI </blocks/general-block-settings/filters/index>`
 
+In Omnia 7.0 and later, new options for filtering can be available, see: :doc:`Filter options for blocks in Omnia 7.0 </blocks/general-block-settings/filter-options-block/index>`
+
 Refiner
 ---------
 Use these settings to add refiners.
@@ -152,6 +154,8 @@ To add a refiner, do the following:
 Here's an example of a refiner present at the top. Users can choose to show colleagues from just one of the two departements:
 
 .. image:: people-rollup-example-refiners-new.png
+
+In Omnia 7.0 and later, the Refiner menu option is removed. Refiner options can now found under "Filter", see: :doc:`Filter options for blocks in Omnia 7.0 </blocks/general-block-settings/filter-options-block/index>`
 
 Layout and Write
 *********************
