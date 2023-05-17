@@ -17,6 +17,8 @@ These settings can be used when creating a new user type:
 
 .. image:: user-management-types-settings.png
 
-Creating a customized user profile card works somewhat similar to working with the layout for Workspace, see the heading "Working with the layout" on this page: :doc:`Navigation bar </admin-settings/business-group-settings/workplace/navigation-bar/index>`
+Create a custom user profile card
+************************************
+Creating a custom user profile card works somewhat similar to working with the layout for Workspace, see the heading "Working with the layout" on this page: :doc:`Navigation bar </admin-settings/business-group-settings/workplace/navigation-bar/index>`
 
 There are a some differences, which will be documented soon.
