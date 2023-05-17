@@ -1,7 +1,7 @@
 Users
 =============================================
 
-This is an upcoming Omnia 7.0 option.
+This is option is available in Omnia 7.0 and later.
 
 **Work on the documentation has just started.**
 
