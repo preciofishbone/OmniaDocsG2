@@ -1,3 +1,15 @@
+6.13.12
+========================================
+(Omnia 6.13.12 / Workplace 6.13.15 / WCM 6.13.15 / MS 6.13.10)
+
+- Outlook events created through Event Management now contain the correct time zone (#147063, #142261).
+- Links in related links now open as configured (#147389).
+- Fixed an issue that prevented page type filters from rendering correctly in the page rollup (#147243).
+- Admin can now correctly delete other people’s sign-off requests (#147047).
+- Stability improvements to the controlled documents publish flow (#147157).
+- Improved login flow for SPFx when using custom domain for Omnia.
+
+
 6.13.11
 ========================================
 (Omnia 6.13.11 / Workplace 6.13.14 / WCM 6.13.14 / MS 6.13.8)
