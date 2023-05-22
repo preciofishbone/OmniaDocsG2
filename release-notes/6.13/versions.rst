@@ -1,3 +1,17 @@
+6.13.11
+========================================
+(Omnia 6.13.11 / Workplace 6.13.14 / WCM 6.13.14 / MS 6.13.8)
+
+- Auto detect language now works as expected. 
+- Default value properties on pages now works correctly in a scaled-out environment (#146935).
+- Stability improvements to setting edit permissions on individual pages.
+- Teamwork rollup links now use the Default context URL instead of the root URL to resolve links (#146737).
+- Document Management statistics should now show correct numbers (#146555).
+- Stability improvements to the creation of Document Management tasks (#146798).
+- OnPrem: Omnia now supports additional server date formats (#146848).
+- Stability improvements to Document Management email generation (#145549).
+
+
 6.13.10
 ========================================
 (Omnia 6.13.10 / Workplace 6.13.13 / WCM 6.13.13 / MS 6.13.7)
