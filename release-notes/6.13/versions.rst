@@ -1,3 +1,15 @@
+6.13.13
+========================================
+(Omnia 6.13.12 / Workplace 6.13.15 / WCM 6.13.15 / MS 6.13.10)
+
+- Custom sort order for Quick links now works as expected when used without a category (#144409).
+- Improved logic for pasting content from Excel and PowerPoint (#147467).
+- Corrected the email template for Notifications for Controlled documents (#147345).
+- Updated to publish flow of controlled documents to ensure better compatibility with migrated documents (#147242, #147451).
+- Updated the max number of refiners in the Document rollup to 500 (#147677).
+- Fixed an issue that would cause Birthday to no render correctly for some users (#147208).
+
+
 6.13.12
 ========================================
 (Omnia 6.13.12 / Workplace 6.13.15 / WCM 6.13.15 / MS 6.13.10)
