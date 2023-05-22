@@ -1,3 +1,16 @@
+6.13.10
+========================================
+(Omnia 6.13.10 / Workplace 6.13.13 / WCM 6.13.13 / MS 6.13.7)
+
+- Sign off request sign off has an improved experience in mobile (#146679).
+- Stability improvements to the Controlled Documents Library feature.
+- Updated permissions to prepare for the 7.0 upgrade.
+- Updated Norwegian translations (#146459).
+- Several smaller fixes to the Sign-Off Request feature (#146679, #46317)
+- Preconfigured images from the page type now works as expected (#146634).
+- Stability improvements to move page functionality (#146636).
+
+
 6.13.9
 ========================================
 (Omnia 6.13.9 / Workplace 6.13.11 / WCM 6.13.11 / MS 6.13.5)
