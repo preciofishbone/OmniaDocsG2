@@ -130,7 +130,6 @@ To work with blocks as is described above a user needs permissions to use Design
 
 Examples of blocks where the contents can be edited using Write mode:
 
-+ Accordion
 + Banner
 + HTML/Script
 + Media

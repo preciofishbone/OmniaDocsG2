@@ -1,7 +1,7 @@
 Users
 =============================================
 
-This is an upcoming Omnia 7.0 option.
+This is option is available in Omnia 7.0 and later.
 
 **Work on the documentation has just started.**
 
@@ -33,7 +33,7 @@ Use the following settings:
 
 + **User Type**: Select user type in the list. 
 + **Authentication information**: Add an authentication e-mail. This is mandatory. If needed, enter a  phone number for mobile authentication.
-+ **Send on-boarding link by e-mail to user**: You can chosse to send an on-boarding e-mail to the user by selecting this option.
++ **Send on-boarding link by e-mail to user**: You can chosse to send an on-boarding e-mail to the user by selecting this option. The e-mail is sent when the user is saved.
 
 Delete a user
 --------------
@@ -46,13 +46,11 @@ To delete one or more Omnia only users, do the following:
 
 The DELETED USERS list
 ***********************
-You can use this list to restore deleted Omnia only users or delete users permanently. To restore or pemanently delete a single user, use the buttons at the right row.
+You can use this list to restore deleted Omnia only users or delete users permanently. To restore or pemanently delete a single user, use the buttons at the right of the user's row.
 
 .. image:: user-management-users-delete-buttons.png
 
-To restore or permanently delete a number of users, select the first and use the buttons at the top 
+To restore or permanently delete a number of users, select them first and use the buttons at the top:
 
 .. image:: user-management-users-delete-buttons-top.png
-
-
 

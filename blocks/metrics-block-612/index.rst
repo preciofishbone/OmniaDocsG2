@@ -70,3 +70,7 @@ You can also add filters so users can decide what they will see, within the scop
 
 In the field at the bottom you can choose what filters to display. Available options differ depending on scope chosen.
 
+In Omnia 7.0 and later, new options for filtering can be available, see: :doc:`Filter options for blocks in Omnia 7.0 </blocks/general-block-settings/filter-options-block/index>`
+
+
+

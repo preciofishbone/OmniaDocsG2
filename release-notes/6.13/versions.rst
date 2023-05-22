@@ -1,3 +1,54 @@
+6.13.13
+========================================
+(Omnia 6.13.12 / Workplace 6.13.15 / WCM 6.13.15 / MS 6.13.10)
+
+- Custom sort order for Quick links now works as expected when used without a category (#144409).
+- Improved logic for pasting content from Excel and PowerPoint (#147467).
+- Corrected the email template for Notifications for Controlled documents (#147345).
+- Updated to publish flow of controlled documents to ensure better compatibility with migrated documents (#147242, #147451).
+- Updated the max number of refiners in the Document rollup to 500 (#147677).
+- Fixed an issue that would cause Birthday to no render correctly for some users (#147208).
+
+
+6.13.12
+========================================
+(Omnia 6.13.12 / Workplace 6.13.15 / WCM 6.13.15 / MS 6.13.10)
+
+- Outlook events created through Event Management now contain the correct time zone (#147063, #142261).
+- Links in related links now open as configured (#147389).
+- Fixed an issue that prevented page type filters from rendering correctly in the page rollup (#147243).
+- Admin can now correctly delete other people’s sign-off requests (#147047).
+- Stability improvements to the controlled documents publish flow (#147157).
+- Improved login flow for SPFx when using custom domain for Omnia.
+
+
+6.13.11
+========================================
+(Omnia 6.13.11 / Workplace 6.13.14 / WCM 6.13.14 / MS 6.13.8)
+
+- Auto detect language now works as expected. 
+- Default value properties on pages now works correctly in a scaled-out environment (#146935).
+- Stability improvements to setting edit permissions on individual pages.
+- Teamwork rollup links now use the Default context URL instead of the root URL to resolve links (#146737).
+- Document Management statistics should now show correct numbers (#146555).
+- Stability improvements to the creation of Document Management tasks (#146798).
+- OnPrem: Omnia now supports additional server date formats (#146848).
+- Stability improvements to Document Management email generation (#145549).
+
+
+6.13.10
+========================================
+(Omnia 6.13.10 / Workplace 6.13.13 / WCM 6.13.13 / MS 6.13.7)
+
+- Sign off request sign off has an improved experience in mobile (#146679).
+- Stability improvements to the Controlled Documents Library feature.
+- Updated permissions to prepare for the 7.0 upgrade.
+- Updated Norwegian translations (#146459).
+- Several smaller fixes to the Sign-Off Request feature (#146679, #46317)
+- Preconfigured images from the page type now works as expected (#146634).
+- Stability improvements to move page functionality (#146636).
+
+
 6.13.9
 ========================================
 (Omnia 6.13.9 / Workplace 6.13.11 / WCM 6.13.11 / MS 6.13.5)

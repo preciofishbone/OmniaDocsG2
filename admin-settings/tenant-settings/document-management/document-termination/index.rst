@@ -7,5 +7,5 @@ When a document is terminated, all files that belong to the controlled document 
 
 **Note!** A Retention Manager must have been set up in the system for this to work, see: :doc:`Document Management Settings </admin-settings/tenant-settings/document-management/settings/index>`
 
-
+**Also Note**: In Omnia 7.0 and later, this option is renamed "Permanently delete document". The functionality is the same.
 
