@@ -37,10 +37,10 @@ Select section for more information:
 .. toctree::
    :titlesonly:
 
-   working-with-drafts/index
+   working-with-drafts-processes/index
    working-with-published-processes/index
-   working-with-tasks/index
-   publish-the-approval-workflow/index
+   working-with-tasks-when-authoring-processes/index
+   publish-the-approval-workflow-for-processes/index
    
 
 
