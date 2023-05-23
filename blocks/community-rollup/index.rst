@@ -11,15 +11,19 @@ The following settings is available:
 
 General
 ---------
-Here you can add a title for the block.
+Here you can add a title for the block. 
 
 .. image:: community-rollup-settings-general.png
 
 Query
 -----------
-Here you decide what to rollup in the block.
+Here you decide what to rollup in the block. These are the options available in Omnia 6.13 and earlier:
 
 .. image:: community-rollup-settings-query.png
+
+And these options are available in Omnia 7.0 and later:
+
+.. image:: community-rollup-settings-query-v7.png
 
 + **Scope**: You can choose to rollup all public communities, all communities the logged in user follows, or to display the last communities the user visited. Last Visited in fact lists all communities the logged in user has visited, with the last visited at the top.
 + **Permission**: Available in Omnia 7.0 and later. Used for security trimming. For more information, see: :doc:`Security trimming in app rollups </general-assets/security-trimming-apps/index>`
