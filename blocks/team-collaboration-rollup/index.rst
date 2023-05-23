@@ -39,7 +39,7 @@ and this in Omnia 7.0 and later:
 + **Permission**: Available in Omnia 7.0 and later. Used for security trimming. For more information, see: :doc:`Security trimming in app rollups </general-assets/security-trimming-apps/index>`
 + **Only Current Business Profile**: If only Teamworks from the current business profile should be listed, select this option.
 + **Business Profile**: Another option is to select a specific Business Profile. If you do not select any Business Profile, all Teamworks in the tenant can be listed, that is not private.
-+ **Site Template**: Here you can set on or more types of teamwork to be shown in the list. 
++ **Site Template**: Here you can set one or more types of teamwork to be shown in the list. 
 + **Run Query On Load**: Decide if the query should be run on load, so the list is filled with teamworks, or not. If a list is very long it can be a good idea to add a search box, and to deselect this option. You add a search box under Filter UI, see below. (In Omnia 7.0 and later, this option is moved to the Filter section).
 
 Regarding Scope, here's more detailed information:
