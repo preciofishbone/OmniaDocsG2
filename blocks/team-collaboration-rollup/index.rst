@@ -36,7 +36,7 @@ and this in Omnia 7.0 and later:
 .. image:: teamwork-query-new2-7.png
 
 + **Scope**: Select scope, for example All, Followed or Member of. (See more information about this below.)
-+ **Permission**: Available in Omnia 7.0 and later. Used for security trimming. For more information, see: :doc:`Security trimmming in app rollups </general-assets/security-trimming-apps/index>`
++ **Permission**: Available in Omnia 7.0 and later. Used for security trimming. For more information, see: :doc:`Security trimming in app rollups </general-assets/security-trimming-apps/index>`
 + **Only Current Business Profile**: If only Teamworks from the current business profile should be listed, select this option.
 + **Business Profile**: Another option is to select a specific Business Profile. If you do not select any Business Profile, all Teamworks in the tenant can be listed, that is not private.
 + **Site Template**: Here you can set on or more types of teamwork to be shown in the list. 
