@@ -1,7 +1,7 @@
-Security trimming in app rollups in Omnia 7.0
+Security trimming in app rollups
 ================================================
 
-Security trimming in app rollups is available in Omnia 7.0. 
+Security trimming in app rollups is available in Omnia 7.0 and later. 
 
 The following option are availble, found under "Query":
 
