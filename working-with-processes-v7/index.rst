@@ -12,11 +12,11 @@ Select section for more information:
 .. toctree::
    :titlesonly:
 
-   authoring-processes/index
-   processes-library-settings/index
-   processes-archive/index
-   displaying-processes-for-users/index
-   print-process/index
+   authoring-processes-v7/index
+   processes-library-settings-v7/index
+   processes-archive-v7/index
+   displaying-processes-for-users-v7/index
+   print-process-v7/index
 
 
 
