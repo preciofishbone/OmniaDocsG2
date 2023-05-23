@@ -22,9 +22,10 @@ Here you decide what to rollup in the block.
 .. image:: publishing-app-rollup-settings-query.png
 
 + **Scope**: You can choose to rollup all public publishing apps, all the logged in user follows, or to display the last publishing app the user visited.
++ **Permission**: Available in Omnia 7.0 and later. Used for security trimming. For more information, see: :doc:`Security trimming in app rollups </general-assets/security-trimming-apps/index>`
 + **Only Current Business Profile**: If only publishing apps from the current Business Profile should be listed, select this option (default).
 + **Site Template**: Select Publishing App Template from the list. You must select template, even if just one is available.
-+ **Run Query On Load**: Decide if the query should be run on load, so the list is filled with publishing apps, or not. If a list is very long it can be a good idea to add a search box, and to deselect this option. You add a search box under Filter, see below.
++ **Run Query On Load**: Decide if the query should be run on load, so the list is filled with publishing apps, or not. If a list is very long it can be a good idea to add a search box, and to deselect this option. You add a search box under Filter, see below. (This option is moved to the Filter section in Omnia 7.0 and later).
 
 Display
 --------
