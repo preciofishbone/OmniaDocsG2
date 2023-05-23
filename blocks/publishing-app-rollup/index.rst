@@ -17,9 +17,13 @@ Here you can add a title for the block.
 
 Query
 -----------
-Here you decide what to rollup in the block.
+Here you decide what to rollup in the block. These options are available in Omnia 6.13 and earlier:
 
 .. image:: publishing-app-rollup-settings-query.png
+
+These options are available in Omnia 7.0 and later:
+
+.. image:: publishing-app-rollup-settings-query-v7.png
 
 + **Scope**: You can choose to rollup all public publishing apps, all the logged in user follows, or to display the last publishing app the user visited.
 + **Permission**: Available in Omnia 7.0 and later. Used for security trimming. For more information, see: :doc:`Security trimming in app rollups </general-assets/security-trimming-apps/index>`
