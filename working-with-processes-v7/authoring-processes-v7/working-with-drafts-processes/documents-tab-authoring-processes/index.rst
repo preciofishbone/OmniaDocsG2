@@ -1,7 +1,7 @@
 The Documents tab - authoring processes in Omnia 7.0
 ===================================================
 
-**This documentation is just started.**
+**This documentation is just started. Don't use yet.**
 
 **Important note!** The options for this tab is quite different depending on if the feature "Process and Documents Integration" is activated or not. If the feature is activated, the options available are these described on this page.
 
