@@ -1,9 +1,9 @@
 Authoring processes in Omnia 7.0
 ================================================
 
-**This documentation is just started. Don't use yet**
+**Work on this documentation is ongoing.**
 
-This section is for Authors of processes. The work always take place in a Processes Library in a Team Site. Who is allowed to author and approve (if approval is needed) is set up in Omnia Admin under Process Management.
+This section is for Authors of processes. The work always takes place in a Processes Library in a Team Site. Who is allowed to author and approve (if approval is needed) is set up in Omnia Admin under Process Management.
 
 When a Team Site has been set up for process authoring, the following will be available for authors:
 
@@ -17,17 +17,17 @@ When a Team Site has been set up for process authoring, the following will be av
 
 In a Team Site set up for process authoring, a library, usually called just "Processes", is available here:
 
-.. image:: processes-library.png
+.. image:: processes-library-v7.png
 
 In the Procsses library, authors can find three tabs:
 
-.. image:: processes-library-tabs-new.png
+.. image:: processes-library-tabs-new-v7.png
 
 "Drafts" is used when creating and editing drafts for new processes or when updating an existing process for a new edition. 
 
 "Tasks" is a list of author tasks for the processes – tasks you have assigned to colleagues or tasks assigned to you.
 
-When a process is published (approved for publication) it is removed from "Drafts" and is available on the "Published" tab. Here the options for creating a new draft, unpublishing and process history are available, see: :doc:`Working with Published processes </working-with-processes/authoring-processes/working-with-published-processes/index>`.
+When a process is published (approved for publication) it is removed from "Drafts" and is available on the "Published" tab. Here the options for creating a new draft, unpublishing and process history are available, see: :doc:`Working with Published processes </working-with-processes-v7/authoring-processes-v7/working-with-published-processes/index>`.
 
 Most headings can be used to sort a list.
 
@@ -42,12 +42,3 @@ Select section for more information:
    working-with-tasks-when-authoring-processes/index
    publish-the-approval-workflow-for-processes/index
    
-
-
-
-
-
-
-
-
-
