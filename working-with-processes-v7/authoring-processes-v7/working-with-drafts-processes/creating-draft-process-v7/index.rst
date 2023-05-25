@@ -24,13 +24,9 @@ You can open the menu for the process to add process steps, linked processes or 
 
 .. image:: new-process-left-navigation-v7.png
 
-Note that another way to add process steps is to work with the shapes, see: :doc:`The Drawing tab - authoring processes </working-with-processes/authoring-processes/working-with-drafts/drawing-tab/index>`
+Note that another way to add process steps is to work with the shapes, see: :doc:`The Drawing tab - authoring processes </working-with-processes-v7/authoring-processes-v7/working-with-drafts-processes/drawing-tab-authoring-processes/index>`
 
 You can open the menu for a process step to create process steps under a process step, add linked processes to that process step, edit the title, move the process step or delete it.
 
-.. image:: new-process-steps-new.png
-
-You can open and close the left navigation by clicking this icon:
-
-.. image:: close-left-navigation-new.png
+.. image:: new-process-steps-v7.png
 
