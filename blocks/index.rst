@@ -1,5 +1,6 @@
 Blocks
 ===========================================
+**Important Note!** In Omnia 7.0 and later blocks that are tied to a certain feature in Omnia are only available if that feature is activated. This will be noted in the documentation of each block but it will take some time before all block descriptions are updated.
 
 .. toctree::
    :titlesonly:
