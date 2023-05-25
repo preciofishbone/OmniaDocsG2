@@ -86,6 +86,8 @@ Permissions
 ************
 If Document Management is set up for using permission groups, you can, as an Administrator (Owner) of the Team Site, edit these permissions.
 
+**Important Note for Omnia 7.0 and later!** Omnia only users (handled through User Management) can't be added here.
+
 Do the following:
 
 1. Click "Permissions" in the Controlled Documents library.
