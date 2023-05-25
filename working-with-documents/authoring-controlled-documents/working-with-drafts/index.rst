@@ -109,6 +109,8 @@ There you can decide to keep a deleted draft for later, permanently delete it or
 
 Just select one or more drafts and then decide what do to. (To keep them, no action is required).
 
+Information for administrators: This recycle bin is in fact part of the Sharepoint recycle bin.
+
 Upload Appendices
 *******************
 To upload documents to use as appendices to another document, the main upload option should not be used. (But you can also use Published Documents as appendices, see below.)
