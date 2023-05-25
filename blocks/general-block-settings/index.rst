@@ -3,8 +3,6 @@ General Block Settings
 
 The Layout tab contains settings that are general for most blocks, but scoped for each block. 
 
-**Important Note!** In Omnia 7.0 and later blocks that are tied to a certain feature in Omnia are only shown if that feature is activated. This will be noted in the documentation of each block but it will take some time before all block descriptions are updated.
-
 Adding filters to a block, if it's possible, works the same for most blocks. Find a general description of how to do that here:
 
 For Omnia 6.13 and earlier :doc:`Filter UI </blocks/general-block-settings/filters/index>`
