@@ -11,7 +11,7 @@ In Design mode you work with the graphic presentation - the drawing and the layo
 
 Here you work with the graphic presentation of the process, which can also serve as a navigation of the process. You can visualize the process and the process steps by adding shapes and/or upload an image and add clickable areas to that image. The Layout tab can be used for some changes or additions to the layout from the template, if possible (many parts of the layout will probably be locked). 
 
-In Content mode you work with the tabs:
+In Content mode you work with these tabs:
 
 .. image:: pm-workspace-content.png
 
