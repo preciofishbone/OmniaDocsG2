@@ -166,7 +166,7 @@ Create a drawing for a process step
 Regarding a drawing for a process step, the default setting is that the main process drawing (the "parent drawing") is used. If you want to create a drawing for a proces step, do the following:
 
 1. Select the process step.
-2.Click CREATE DRAWING.
+2. Click CREATE DRAWING.
 
 .. image:: create-drawing-v7.png
 
@@ -182,15 +182,17 @@ If you have uploaded a drawing you can place clickable areas on that drawing, to
 
 **Tip!** Activating "Highlight shapes" in the grid settings can be useful when working with clickable areas.
 
-1. Click "Add shape".
+Here's how:
 
-.. image:: clickable-1-new.png
+1. Click ADD SHAPE.
 
-2. Click "Freeform".
+.. image:: clickable-1-v7.png
 
-.. image:: clickable-2-new.png
+2. Select a freeform shape.
 
-In this example the administrator has prepared a Freeform suitable for clickable links - Freeform (Transparent). So in this case, that shape is selected, otherwise it would be Freeform.
+.. image:: clickable-2-v7.png
+
+In this example the administrator has prepared a Freeform suitable for clickable links - Transparent Freeform that can be suitable. 
 
 3. Edit the settings for the shape, see the heading "Settings for a shape", above. Note, here you set what will happen when the area is clicked.
 
