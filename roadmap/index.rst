@@ -1,7 +1,7 @@
 In Development
 ===========================================
 
-As part of the Omnia roadmap, the following features are in development and planned to be rolled out during Q2 and Q3 2023.
+As part of the Omnia roadmap, the following features are in development and planned to be rolled out during Q3 and Q4 2023.
 
 .. note:: Items may be added or removed from this list at any time.
 
