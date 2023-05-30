@@ -176,7 +176,7 @@ Now you can work with the process step's drawing as described above.
 
 Adding clickable areas to a drawing
 *************************************
-If you have uploaded a drawing you can place clickable shapes on that drawing, to go to process steps and more.
+If you have uploaded a drawing you can place clickable areas (shapes) on that drawing, to go to process steps and more.
 
 **Important Note!** To be able to add clickable shapes, the Process Type must contain Freeform.
 
