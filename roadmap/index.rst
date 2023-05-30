@@ -5,45 +5,31 @@ As part of the Omnia roadmap, the following features are in development and plan
 
 .. note:: Items may be added or removed from this list at any time.
 
-User Management
+Web Content Management
 ---------------------------------------------
 
-* Management of users and groups in an Omnia directory targeted to users such as front line workers, partners and customers.
-* On-boarding of new users.
-* Multi-factor authentication for Omnia users using password, OTP and magic links.
-* Dynamic security groups based on user type.
-* Dynamic user profile card per user type.
+* Multi-step approval for pages.
+* Open AI integration. Author chat bot and AI image generation.
 
-Document Management
+Governance
 ---------------------------------------------
 
-* Document deletion approval workflow.
-* More tokens available in e-mails. 
+* New user statistics solution (powered by Matomo).
+* Custom 401/404 pages and broken links detection.
+* Predefined content in Teamwork templates.
 
-Process Management
+Frontline Workers
 ---------------------------------------------
 
-* Process Layouts. Possibility to design a layout for Process Types and Processes instead of using a global layout or WCM page.
-* Multiple lines of text in shapes.
-* Move shapes with arrows.
-* Link to draft processes.
+* Search solution for frontline workers.
+* Kiosk users with PIN code.
 
-End user filters in Rollups
+Learning
 ---------------------------------------------
 
-* Redesign of all existing end user filters.
-* New end user filters such as toggle icon buttons and tags.
-* Full flexibility in positioning of filters.
-* Selected filters area.
-* Better mobile support.
+* Completed courses in user profile.
+* Local forms editing.
 
-App Management
----------------------------------------------
-
-* Redesign of app management including publishing, communities and teamwork.
-* Run the new teamwork management UX as an app in MS Teams.
-* Security trimmed apps in rollups including publishing, communities and teamwork.
-* Public-facing teamwork layout in teamwork rollup.
 
 Setup Wizard
 ---------------------------------------------
@@ -51,11 +37,5 @@ Setup Wizard
 * Setup best practice for Enterprise Search.
 * Setup best practice for On-boarding portal.
 * Setup best practice for Editorial Hub.
-
-Other
-----------------------------------------------
-
-* Fine-grained tenant permission consent based on which tenant features that are activated including the use of the new SharePoint Site Selected permission model.
-* Improved multi-lingual support including publishing app titles.
 
 ...and many other small improvements.

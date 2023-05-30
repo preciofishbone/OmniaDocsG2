@@ -1,4 +1,4 @@
-Release 7.0 - Preview
+Release 7 - Preview
 ========================================
 
 .. note:: The release notes are currently in preview and may be subject to change at any time.
@@ -36,6 +36,13 @@ Omnia supports any custom authentication provider to be plugged into the system.
 Omnia provides support for a range of authentication options, including passwords, one-time passwords (OTPs), magic links, and combinations of these methods.
 
 .. image:: usermgmt-authentication.png
+
+Media Gallery
+----------------------------------------
+
+The media block can be configured to allow multi-select of images and videos. 
+
+
 
 Process Management improvements
 ----------------------------------------
