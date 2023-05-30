@@ -1,7 +1,9 @@
 Process Templates in Omnia 7.0
 =============================================
 
-**This is an upcoming Omnia 7.0 option. Work on this documentation has just started**.
+**This option is available in Omnia 7.0. Work on this documentation has just started**.
+
+Use these options to create teamplates for processes. All process steps can have a different layout, if needed.
 
 If any templates has been created, they are listed here, for example:
 
@@ -25,5 +27,4 @@ The layout work area is shown:
 
 This is done in a very similar way to working with the layout for Workspace, see the heading "Working with the layout" on this page: :doc:`Navigation bar </admin-settings/business-group-settings/workplace/navigation-bar/index>`
 
-There are a few differences, which will be documented soon. Also note that all process steps can have a different layout, if needed.
-
+There are a few differences, which will be documented soon. 

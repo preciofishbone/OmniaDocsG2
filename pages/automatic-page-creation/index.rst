@@ -19,17 +19,22 @@ The settings are available here, in the Page Collection Settings:
 
 .. image:: automatic-page-1-new.png
 
-Click the plus and the following settings becomes available:
+Click the plus and the following settings becomes available (in Omnia 6.13 and earlier):
 
 .. image:: automatic-page-2-new.png
 
-(Not all options are shown in the image, but are listed below.)
+The following settings are available in Omnia 7.0 and later:
 
+.. image:: automatic-page-2-new-v7.png
+
+(Not all options are shown in the images, but are listed below.)
+
++ **Current Tenant/Connected Tenant**: Available in Omnia 7.0 and later. Select if the rule should apply for the this tenant or for a connected tenant.
 + **Name**: Add name for the rule.
 + **Page Creation Rule**: If pages in this Page Collection always should be copied, select "Always Create". If pages should be copied only when certain prerequisites are met, select "Only Create If". See below for more information about this.
-+ **Page Creation Info**: Select the Publishing, App, Page Collection to copy to, and choose the Page Type to be used.
++ **Page Creation Info**: Select the Publishing, App, Page Collection to copy to, and choose the Page Type to be used. In Omnia 7.0 and later, a conntected tenant could also be selected.
 + **Enable Auto Publish**: If this option is selected a new page is always published automatically. It’s only applicable when a new page is created, not when it’s updated.
-+ **Initial Properties**: Choose the source of the initial properties; "Enable Reuse Conten" or "Copy property to page on creation". Then select the property/propeties to get this from. For more information, see below.
++ **Initial Properties**: Choose the source of the initial properties; "Enable Reuse Content" or "Copy property to page on creation". Then select the property/propeties to get this from. For more information, see below. In Omnia 7.0 and later only properties to copy is available.
 + **Mapped Variations**: If the source page and/or the target page uses variations, you have to map variations, see below.
 
 Don't forget to save when you're done.

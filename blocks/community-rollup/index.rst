@@ -11,20 +11,25 @@ The following settings is available:
 
 General
 ---------
-Here you can add a title for the block.
+Here you can add a title for the block. 
 
 .. image:: community-rollup-settings-general.png
 
 Query
 -----------
-Here you decide what to rollup in the block.
+Here you decide what to rollup in the block. These are the options available in Omnia 6.13 and earlier:
 
 .. image:: community-rollup-settings-query.png
 
+And these options are available in Omnia 7.0 and later:
+
+.. image:: community-rollup-settings-query-v7.png
+
 + **Scope**: You can choose to rollup all public communities, all communities the logged in user follows, or to display the last communities the user visited. Last Visited in fact lists all communities the logged in user has visited, with the last visited at the top.
++ **Permission**: Available in Omnia 7.0 and later. Used for security trimming. For more information, see: :doc:`Security trimming in app rollups </general-assets/security-trimming-apps/index>`
 + **Only Current Business Profile**: If only communities from this Business Profile should be listed, select this option (default).
 + **Site Template**: Select Community template here. You must select template even if there's just one available.
-+ **Run Query On Load**: Decide if the query should be run on load, so the list is filled with communities, or not. If a list is very long it can be a good idea to add a search box, and to deselect this option. You add a search box under Filter, see below.
++ **Run Query On Load**: Decide if the query should be run on load, so the list is filled with communities, or not. If a list is very long it can be a good idea to add a search box, and to deselect this option. You add a search box under Filter, see below. (This option is moved to the Filter section in Omnia 7.0 and later).
 
 Display
 --------
