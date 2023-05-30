@@ -28,11 +28,11 @@ Here's a short overview of what to use the tabs for:
 
 See these pages for more information (work on the documentation is ongoing):
 
-+ :doc:`The Drawing tab </working-with-processes/authoring-processes/working-with-drafts/drawing-tab/index>`
-+ :doc:`The Content tab </working-with-processes/authoring-processes/working-with-drafts/content-tab/index>`
-+ :doc:`The Documents tab </working-with-processes/authoring-processes/working-with-drafts/documents-tab/index>`
-+ :doc:`The Pages tab </working-with-processes/authoring-processes/working-with-drafts/pages-tab/index>`
-+ :doc:`The Links tab </working-with-processes/authoring-processes/working-with-drafts/links-tab/index>`
-+ :doc:`The Tasks tab </working-with-processes/authoring-processes/working-with-drafts/tasks-tab/index>`
-+ :doc:`The Properties tab </working-with-processes/authoring-processes/working-with-drafts/edit-properties/index>`
++ :doc:`The Drawing tab </working-with-processes-v7/authoring-processes-v7/working-with-drafts/drawing-tab/index>`
++ :doc:`The Content tab </working-with-processes-v7/authoring-processes-v7/working-with-drafts/content-tab/index>`
++ :doc:`The Documents tab </working-with-processes-v7/authoring-processes-v7/working-with-drafts/documents-tab/index>`
++ :doc:`The Pages tab </working-with-processes-v7/authoring-processes-v7/working-with-drafts/pages-tab/index>`
++ :doc:`The Links tab </working-with-processes-v7/authoring-processes-v7/working-with-drafts/links-tab/index>`
++ :doc:`The Tasks tab </working-with-processes-v7/authoring-processes-v7/working-with-drafts/tasks-tab/index>`
++ :doc:`The Properties tab </working-with-processes-v7/authoring-processes-v7/working-with-drafts/edit-properties/index>`
 
