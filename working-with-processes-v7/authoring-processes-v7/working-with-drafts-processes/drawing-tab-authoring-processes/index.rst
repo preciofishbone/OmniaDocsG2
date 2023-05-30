@@ -29,6 +29,22 @@ Here's an example with grid lines visible:
 
 **Very important!** The canvas setting is the same for all devices so you have to consider what canvas size is the most user friendly for the devices most commonly used in your organization for accessing the process. You can use the Preview mode to test the result for different devices.
 
+Add a background image
+----------------------------
+A background image can be used either for just a nice background image, to place shapes on, or to upload a process image you have created in for example PowerPoint or Visio, to add clickable areas on. For more information about clickable areas, see below.
+
+To add a background image:
+
+1. Click ADD IMAGE.
+
+.. image:: pm-background-image-v7.png
+
+The Media Picker opens and you use it to upload an image from your computer or from any of the available resources.
+
+For more information on how to use the Media Picker, see: :doc:`Media Picker </general-assets/media-picker/index>`
+
+**Note!** When you upload a background image, the canvas size adjusts automatically.
+
 Working with shapes
 *********************
 To add a shape, click ADD SHAPE.
@@ -150,34 +166,16 @@ Create a drawing for a process step
 Regarding a drawing for a process step, the default setting is that the main process drawing (the "parent drawing") is used. If you want to create a drawing for a proces step, do the following:
 
 1. Select the process step.
-
-.. image:: select-process-step-new.png
-
 2.Click CREATE DRAWING.
 
-.. image:: create-drawing-new.png
+.. image:: create-drawing-v7.png
 
 Now you can work with the process step's drawing as described above.
 
-Add a background image
-***************************
-The option for adding a background image is also available in the canvas settings. You can use this option either for just a nice background image, to place shapes on, or to upload a process image you have created in for example PowerPoint or Visio, to add clickable areas on. For more information about clickable areas, see below.
-
-To add a background image:
-
-1. Open the Canvas Settings.
-2. Click "Add Image".
-
-.. image:: pm-background-image-2-new.png
-
-The Media Picker opens and you use it to upload an image from your computer or from any of the available resources.
-
-For more information on how to use the Media Picker, see: :doc:`Media Picker </general-assets/media-picker/index>`
-
-**Note!** When you upload a background image, the canvas size adjusts automatically.
+**Note!** A separate layout can be created for a process step, if needed, using another template than the rest of the process. This can for example be useful if a process step doesn't need a drawing, text areas with explanatory text is needed, or for some other purpose.
 
 Adding clickable areas to a drawing
--------------------------------------
+*************************************
 If you have uploaded a drawing you can place clickable areas on that drawing, to go to process steps and more.
 
 **Important Note!** To be able to add clickable areas, the Process Type must contain Freeform.
