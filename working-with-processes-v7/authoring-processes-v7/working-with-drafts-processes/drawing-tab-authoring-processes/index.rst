@@ -9,7 +9,7 @@ You use this tab to visualize the process or process step.
 
 Canvas Settings
 ****************
-The template sets a defsult canvas size. This can be edited if needed. To open the canvas settings, click the cog wheel.
+The template sets a default canvas size. This can be edited if needed. To open the canvas settings, click the cog wheel.
 
 .. image:: pm-drawing-canvas-1-v7.png
 
@@ -176,9 +176,9 @@ Now you can work with the process step's drawing as described above.
 
 Adding clickable areas to a drawing
 *************************************
-If you have uploaded a drawing you can place clickable areas on that drawing, to go to process steps and more.
+If you have uploaded a drawing you can place clickable shapes on that drawing, to go to process steps and more.
 
-**Important Note!** To be able to add clickable areas, the Process Type must contain Freeform.
+**Important Note!** To be able to add clickable shapes, the Process Type must contain Freeform.
 
 **Tip!** Activating "Highlight shapes" in the grid settings can be useful when working with clickable areas.
 
@@ -200,7 +200,7 @@ In this example the administrator has prepared a Freeform suitable for clickable
 
 4. Click "Draw shape".
 
-.. image:: clickable-3-new.png
+.. image:: clickable-3-v7.png
 
 The drawing is now shown with the grid on top.
 
@@ -209,42 +209,42 @@ The drawing is now shown with the grid on top.
 
 You now have the first clickable area in place and what is opened when a user clicks it depends on the setting in step 3. (In the image below "Highlight shapes" is on in the Canvas Settings.)
 
-.. image:: clickable-5-new.png
+.. image:: clickable-5-v7.png
 
 7. Click "OK" in the grid window.
 8. Click "OK" for the shape settings.
 
 To add additional clickable areas you have to go back to step 1, but there's a neat trick if you are adding several clickable areas with the same shape. A quick way of adding additional steps is this:
 
-9. Select the shape.
+9. Select the clickable shape.
 10. Select CLONE SHAPE.
 
-.. image:: clickable-6-new.png
+.. image:: clickable-6-v7.png
 
 10. Edit the settings for the copy (clone) and save.
 11. Move the new clickable area to the correct position and save (Check in).
 
 Change the size of a clickable area or move it
 --------------------------------------------------
-To change the size of a clickable area, do the following:
+To change the size of a clickable shape, do the following:
 
-1. Click the area.
+1. Select the shape.
 2. Use the handles the resize the area.
 
 Note that you rotate the area using this handle:
 
-.. image:: clickable-7-new-frame.png
+.. image:: clickable-7-new-v7.png
 
 To move a clickable area, just use drag and drop.
 
 Edit settings for a clickable area
 -----------------------------------
-To edit settings for a clickable area, do the following:
+To edit settings for a clickable shape, do the following:
 
-1. Click the area.
-2. Click the pen icon.
+1. Click the shape.
+2. Click EDIT SHAPE.
 
-.. image:: clickable-8-new-frame.png
+.. image:: clickable-8-v7.png
 
 3. Change the settings and save.
 
