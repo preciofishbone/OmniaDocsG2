@@ -9,13 +9,13 @@ You use this tab to visualize the process or process step.
 
 Canvas Settings
 ****************
-To open the canvas settings, click the cog wheel.
+The template sets a defsult canvas size. This can be edited if needed. To open the canvas settings, click the cog wheel.
 
-.. image:: pm-drawing-canvas-1-new.png
+.. image:: pm-drawing-canvas-1-v7.png
 
-Here you can set the following and you can edit these settings anytime.
+Here you can edit the following settings:
 
-.. image:: pm-drawing-canvas-2-new.png
+.. image:: pm-drawing-canvas-2-v7.png
 
 + **Add Image**: Click here to add a background image (see below).
 + **Width/Height**: Set the size of the work area in pixels here.
@@ -25,23 +25,19 @@ Here you can set the following and you can edit these settings anytime.
 
 Here's an example with grid lines visible:
 
-.. image:: pm-drawing-canvas-3new.png
+.. image:: pm-drawing-canvas-3-v7.png
 
-If the whole grid can't be displayed, icons for scrolling are shown, for example:
-
-.. image:: pm-drawing-scrolling.png
-
-**Very important!** The canvas setting is the same for all devices so you have to consider what canvas size is the most user friendly for the devices most commonly used in your organization for accessing the process. 
+**Very important!** The canvas setting is the same for all devices so you have to consider what canvas size is the most user friendly for the devices most commonly used in your organization for accessing the process. You can use the Preview mode to test the result for different devices.
 
 Working with shapes
 *********************
 To add a shape, click ADD SHAPE.
 
-.. image:: pm-addshape-new.png
+.. image:: pm-addshape-v7.png
 
 Something like the following is shown:
 
-.. image:: pm-drawing-shape-settings-new.png
+.. image:: pm-drawing-shape-settings-v7.png
 
 Exactly what is available here depends on settings for the Process Type, so this is just an example. For more information see: :doc:`Process Types </admin-settings/tenant-settings/process-management/process-types/index>`
 
@@ -53,60 +49,60 @@ Settings for a shape
 ----------------------
 To select a shape, just click it and the following settings is shown:
 
-.. image:: pm-drawing-shape-settings-settings-new.png
+.. image:: pm-drawing-shape-settings-settings-v7.png
 
 + **Shape Type**: Here you decide what to use the shape for. Process Step is the default. You can also choose "None", which means it's just an image; "Linked process" and "Link". All selections except "None" creates a clickable shape. See below for more information. Note that to be able to create a linked process, other processes must already exist, to link to. 
-+ **Process step**: If you already have created the process steps, select the process step to go to when the shape is clicked, using this list.
++ **Process step**: If you already have created the process steps, select the process step to go to when the shape is clicked, using this list. If the process step does not exist yet, you can create it here by selecting New and the add a Title.
 + **Select Process**: When you have selected "Linked Process" in the top list, use this list to choose the process to link to.
 + **Add Link**: When you have selected "Link" in the top list, this option is shown. See below for more information.
-+ **Title**: Add the text that should be displayed for the shape here, if a text should be displayed. You can see a preview to the right. You can add the title in any or all available languages.
++ **Title**: Add the text that should be displayed for the shape here, if a text should be displayed. You can see a preview to the right. You can add the title in any or all available languages. If you are creating a  new process step, the title added here will also be the name of the process step.
++ **Width/Height**: You can set the width and height in pixels for the shape in this position.
 + **Text Position**: Set the position for the text: "On Shape", "Above Shape" or "Below Shape".
 + **Text Alignment**: Set text alignment here: "Center", "Left" or "Right".
 + **Text Adjustment**: Use the arrows to fine tune the placement of the text. Use the center icon to center the text.
++ **Font Size**: Set the font size in pixels for the text here.
++ **CHANGE SHAPE**: To change to another shape in this position, click this link. **Note**
 + **Show more settings**: Click to show the following settings:
 
-.. image:: pm-drawing-shape-settings-settings-more.png
+.. image:: pm-drawing-shape-settings-settings-more-v7.png
 
-+ **Font Size**: Set the font size in pixels for the text here.
 + **Tooltip Text**: You can add a Tooltip text, which can for example be used to add an explanation of a Process Step. This text is shown when a user points at the shape.
++ **Border Width**: You can add a border width in pixels if nedded.
 + **Colors**: Use the options in this section to set details for colors, for the shape and text.  Note that you can set colors for three states of the shape: not selected, selected and hovered.
 
 When you have selected "Link" as Shape Type, you can click "Add Link", and can use the following settings:
 
-.. image:: pm-drawing-shape-settings-add-link-new.png
+.. image:: pm-drawing-shape-settings-add-link-v7.png
 
 + **Title**: Add a title for the link (default language mandatory).
 + **Url**: Add or paste the URL and decide if the link should be opened in a new window or not.
++ **Open new window**: Select this if you want the link to open in a new window.
 
-Click OK to save the shape. Click CHANGE SHAPE to go back a step to create an additonal shape. The changes you have made and not saved are discarded. Click CANCEL to exit.
-
-.. image:: pm-drawing-shape-settings-save-new.png
+Click OK to save the shape. Click CANCEL to exit without saving.
 
 If you created process steps when adding shapes, you can now see that they are listed in the navigation.
 
-.. image:: pm-drawing-process-step-new.png
+.. image:: pm-drawing-process-step-v7.png
 
 You can use the tabs to edit the process steps.
 
-Adjust the shapes
+Adjust a shape
 -------------------
 Note that when you add a new shape it's placed in the upper left corner of the canvas, and text above may not be seen. If that is not the intended position, use drag and drop to place the new shape. You can place a shape anywhere within the canvas.
 
-To adjust the size of the shape, click it and use the handles to drag to the desired size.
+To adjust the size of the shape, click it and use the handles to drag to the desired size. (Planning as an example in the image below).
 
-.. image:: pm-drawing-shape-size-new.png
+.. image:: pm-drawing-shape-size-v7.png
 
 Edit a shape
 --------------
-To edit the settings for a shape, click the shape and then click the pen.
+To edit the settings for a shape, click the shape and then click EDIT SHAPE.
 
-.. image:: pm-drawing-shape-edit-new.png
+.. image:: pm-drawing-shape-edit-v7.png
 
-When you edit a shape for a process step, note that you can edit ALL settings for the process step in the Shape Settings, for example:
+When you edit a shape for a process step, note that you can edit ALL settings for the process step in the Shape Settings, see above.
 
-.. image:: pm-drawing-shape-edit-tabs-new.png
-
-For more information on how to use the tabs, select links at the bottom of this page: :doc:`Working with drafts </working-with-processes/authoring-processes/working-with-drafts/index>`
+For more information on how to use the tabs, select links at the bottom of this page: :doc:`Working with drafts </working-with-processes-7/authoring-processes-7/working-with-drafts/index>`
 
 Clone a shape
 ---------------
@@ -115,7 +111,7 @@ If you need a number of shapes that are similar, this is a handy option.
 1. Select the shape you want to clone.
 2. Click CLONE SHAPE.
 
-.. image:: pm-drawing-shape-clone-new.png
+.. image:: pm-drawing-shape-clone-v7.png
 
 3. Select the new shape to change settings as needed.
 
@@ -123,18 +119,31 @@ If you need a number of shapes that are similar, this is a handy option.
 
 Delete a shape
 ----------------
-To delete a shape you no longer need, do the following.
+To delete one or more shapes you no longer need, do the following.
 
-1. Select the shape.
+1. Select the shape(s).
 2. Click DELETE SHAPE.
 
-.. image:: pm-drawing-shape-delete-1-new.png
+.. image:: pm-drawing-shape-delete-1-v7.png
 
 The following is shown:
 
-.. image:: pm-drawing-shape-delete-2-new.png
+.. image:: pm-drawing-shape-delete-2-v7.png
 
 3. Click OK to delete or CANCEL to change your mind.
+
+Working with layers
+--------------------
+You can work with layers, meaning shapes can be stacked, if needed. To change layer for a shape, do the following:
+
+1. Select the shape.
+2. Click LAYERS.
+
+.. image:: pm-drawing-shape-layers-1-v7.png
+
+3. Decide where in the stack this shape should be placed:
+
+.. image:: pm-drawing-layers-2-v7.png
 
 Create a drawing for a process step
 **************************************
