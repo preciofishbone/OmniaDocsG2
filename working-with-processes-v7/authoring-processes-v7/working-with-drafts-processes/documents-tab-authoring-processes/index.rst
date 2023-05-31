@@ -1,8 +1,6 @@
 The Documents tab - authoring processes in Omnia 7.0
 ===================================================
 
-**This documentation is just started. Don't use yet.**
-
 **Important note!** The options for this tab is quite different depending on if the feature "Processes and controlled documents integration" is activated or not. If the feature is activated, the options available are these described on this page.
 
 If the feature is NOT activated, you work with the Documents list as you would with any Document Rollup. For more information, see the bottom of the page.
