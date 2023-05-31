@@ -31,5 +31,5 @@ For more information on how it works when an author suggests a document to be re
 
 Create a Document Rollup for the Documents tab
 ************************************************
-If the feature "Process and Documents Integration" is NOT activated, you populate the list with documents by creating a document rollup. You use the settings the same way as in the Document Rollup block. For more information, see: :doc:`Document Rollup </blocks/document-rollup/index>`
+If the feature "Processes and controlled documents integration" is NOT activated, you populate the list with documents by creating a document rollup. You use the settings the same way as in the Document Rollup block. For more information, see: :doc:`Document Rollup </blocks/document-rollup/index>`
 
