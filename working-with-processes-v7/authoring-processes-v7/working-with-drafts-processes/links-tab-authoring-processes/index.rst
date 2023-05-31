@@ -1,8 +1,6 @@
 The Links tab - authoring processes in Omnia 7.0
 ==================================================
 
-**This documentation is just started. Don't user yet.**
-
 Use this tab to add a number of useful links for the process or process step. You can also add headers to organize the list.
 
 .. image:: processes-links-tab-v7.png
