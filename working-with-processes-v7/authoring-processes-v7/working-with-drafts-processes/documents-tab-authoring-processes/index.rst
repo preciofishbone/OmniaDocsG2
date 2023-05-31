@@ -9,7 +9,7 @@ If the feature is NOT activated, you work with the Documents list as you would w
 
 Use this tab to create a list of controlled documents that are applicable tor the process or process step. The top part of the list displays the documents that already has been related to this process. The second part lists suggestions that authors of controlled documents has made, for example:
 
-.. image:: process-documents-v7.png
+.. image:: process-documents-v7-new.png
 
 You can click the link to read a document.
 
