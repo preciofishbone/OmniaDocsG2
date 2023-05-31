@@ -25,23 +25,11 @@ Resolve suggestions
 ********************
 Any author of controlled documents can suggest that a document should be related to this project, meaning added to the Documents list. It is up to you to accept ot reject the suggestion. You can click the link to read the document. You can also see who sent the suggestion and contact the colleague for further discussions.
 
-To accept the suggestion, click here:
-
-.. image:: process-accept-suggestion.png
-
-To reject the suggestion, click the dust bin for the document. 
+You then either accept the suggestion or reject by deleting the document from the list.
 
 For more information on how it works when an author suggests a document to be related to a process, see the heading "Related Processes" on this page :doc:`Working with Published documents </working-with-documents/authoring-controlled-documents/working-with-published-documents`
 
 Create a Document Rollup for the Documents tab
 ************************************************
-If the feature "Process and Documents Integration" is NOT activated, you populate the list with documents by creating a document rollup. Click here to do that:
-
-.. image:: process-document-rollup.png
-
-The following settings are available:
-
-.. image:: process-document-rollup-settings.png
-
-You use the settings the same way as in the Document Rollup block. For more information, see: :doc:`Document Rollup </blocks/document-rollup/index>`
+If the feature "Process and Documents Integration" is NOT activated, you populate the list with documents by creating a document rollup. You use the settings the same way as in the Document Rollup block. For more information, see: :doc:`Document Rollup </blocks/document-rollup/index>`
 
