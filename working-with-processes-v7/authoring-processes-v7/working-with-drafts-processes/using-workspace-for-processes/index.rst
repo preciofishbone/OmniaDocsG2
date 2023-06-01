@@ -28,11 +28,11 @@ Here's a short overview of what to use the tabs for:
 
 See these pages for more information:
 
-+ :doc:`The Drawing tab </working-with-processes-v7/authoring-processes-v7/working-with-drafts/drawing-tab-authoring-processes/index>`
-+ :doc:`The Content tab </working-with-processes-v7/authoring-processes-v7/working-with-drafts/content-tab-authoring-processes/index>`
-+ :doc:`The Documents tab </working-with-processes-v7/authoring-processes-v7/working-with-drafts/documents-tab-authoring-processes/index>`
-+ :doc:`The Pages tab </working-with-processes-v7/authoring-processes-v7/working-with-drafts/pages-tab-authoring-processes/index>`
-+ :doc:`The Links tab </working-with-processes-v7/authoring-processes-v7/working-with-drafts/links-tab-authoring-processes/index>`
-+ :doc:`The Tasks tab </working-with-processes-v7/authoring-processes-v7/working-with-drafts/tasks-tab-authoring-processes/index>`
-+ :doc:`The Properties tab </working-with-processes-v7/authoring-processes-v7/working-with-drafts/edit-properties-authoring-processes/index>`
++ :doc:`The Drawing tab </working-with-processes-v7/authoring-processes-v7/working-with-drafts-processes/drawing-tab-authoring-processes/index>`
++ :doc:`The Content tab </working-with-processes-v7/authoring-processes-v7/working-with-drafts-processes/content-tab-authoring-processes/index>`
++ :doc:`The Documents tab </working-with-processes-v7/authoring-processes-v7/working-with-drafts-processes/documents-tab-authoring-processes/index>`
++ :doc:`The Pages tab </working-with-processes-v7/authoring-processes-v7/working-with-drafts-processes/pages-tab-authoring-processes/index>`
++ :doc:`The Links tab </working-with-processes-v7/authoring-processes-v7/working-with-drafts-processes/links-tab-authoring-processes/index>`
++ :doc:`The Tasks tab </working-with-processes-v7/authoring-processes-v7/working-with-drafts-processes/tasks-tab-authoring-processes/index>`
++ :doc:`The Properties tab </working-with-processes-v7/authoring-processes-v7/working-with-drafts-processes/edit-properties-authoring-processes/index>`
 
