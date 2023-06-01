@@ -26,13 +26,13 @@ Here's a short overview of what to use the tabs for:
 + **Tasks**: Use this tab to work with a To Do-list for the process or process step. Note that this is not Sharepoint Tasks, just a To Do list.
 + **Properties**: You use this tab to set the properties for the process. Available for the main level, the process, only.
 
-See these pages for more information (work on the documentation is ongoing):
+See these pages for more information:
 
-+ :doc:`The Drawing tab </working-with-processes-v7/authoring-processes-v7/working-with-drafts/drawing-tab/index>`
-+ :doc:`The Content tab </working-with-processes-v7/authoring-processes-v7/working-with-drafts/content-tab/index>`
-+ :doc:`The Documents tab </working-with-processes-v7/authoring-processes-v7/working-with-drafts/documents-tab/index>`
-+ :doc:`The Pages tab </working-with-processes-v7/authoring-processes-v7/working-with-drafts/pages-tab/index>`
-+ :doc:`The Links tab </working-with-processes-v7/authoring-processes-v7/working-with-drafts/links-tab/index>`
-+ :doc:`The Tasks tab </working-with-processes-v7/authoring-processes-v7/working-with-drafts/tasks-tab/index>`
-+ :doc:`The Properties tab </working-with-processes-v7/authoring-processes-v7/working-with-drafts/edit-properties/index>`
++ :doc:`The Drawing tab </working-with-processes-v7/authoring-processes-v7/working-with-drafts/drawing-tab-authoring-processes/index>`
++ :doc:`The Content tab </working-with-processes-v7/authoring-processes-v7/working-with-drafts/content-tab-authoring-processes/index>`
++ :doc:`The Documents tab </working-with-processes-v7/authoring-processes-v7/working-with-drafts/documents-tab-authoring-processes/index>`
++ :doc:`The Pages tab </working-with-processes-v7/authoring-processes-v7/working-with-drafts/pages-tab-authoring-processes/index>`
++ :doc:`The Links tab </working-with-processes-v7/authoring-processes-v7/working-with-drafts/links-tab-authoring-processes/index>`
++ :doc:`The Tasks tab </working-with-processes-v7/authoring-processes-v7/working-with-drafts/tasks-tab-authoring-processes/index>`
++ :doc:`The Properties tab </working-with-processes-v7/authoring-processes-v7/working-with-drafts/edit-properties-authoring-processes/index>`
 
