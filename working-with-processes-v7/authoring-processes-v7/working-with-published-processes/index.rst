@@ -86,4 +86,4 @@ If you choose to permanently delete a process, you get a chance to change your m
 
 .. image:: delete-process-delete-v7.png
 
-If you choose to restore a document a draft is created and you can work with exactly the same way as any other draft.
+If you choose to restore a process, a draft is created and you can work with it exactly the same way as any other draft.
