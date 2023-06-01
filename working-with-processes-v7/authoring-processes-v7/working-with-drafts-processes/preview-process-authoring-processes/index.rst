@@ -1,22 +1,20 @@
 Preview a process when authoring in Omnia 7.0
 ================================================
 
-**This documentation is just started. Don't use yet.**
+While you're working on a draft process the first thing you'll see is a preview of your work so far. You can also, whenever you need during the editing, enter Preview mode by clicking here:
 
-While you're working on a draft process, you can, whenever you need, enter Preview mode by clicking here:
-
-.. image:: pm-enter-preview-mode-new.png
+.. image:: pm-enter-preview-mode-v7.png
 
 You can also preview the process without editing, this way:
 
 1. Open the dot menu for the process.
 2. Select "Preview".
 
-.. image:: pm-preview-menu-new.png
+.. image:: pm-preview-menu-v7.png
 
 When in Preview mode you can test how the process will look on different devices:
 
-.. image:: pm-preview-devices-new.png
+.. image:: pm-preview-devices-v7.png
 
 Important note about preview and different devices
 ---------------------------------------------------
