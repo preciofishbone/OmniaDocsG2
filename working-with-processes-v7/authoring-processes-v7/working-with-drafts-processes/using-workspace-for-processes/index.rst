@@ -1,21 +1,21 @@
 Using the work space for processes in Omnia 7.0
 ================================================
 
-**Work on this documentation is ongoing.**
+In Omnia 7.0 and later, three different modes are available. The Default mode is Preview where you can see the progress of your work. Here's an example:
 
-In Omnia 7.0 and later, three different modes are available. The Default mode is Preview where you can see the progress of your work.
+.. image:: pm-workspace-preview-v7.png
 
 In Design mode you work with the graphic presentation - the drawing and the layout:
 
-.. image:: pm-workspace-design.png
+.. image:: pm-workspace-design-v7.png
 
 Here you work with the graphic presentation of the process, which can also serve as a navigation of the process. You can visualize the process and the process steps by adding shapes and/or upload an image and add clickable areas to that image. The Layout tab can be used for some changes or additions to the layout from the template, if possible (many parts of the layout will probably be locked). 
 
 In Content mode you work with these tabs:
 
-.. image:: pm-workspace-content.png
+.. image:: pm-workspace-content-v7.png
 
-All tabs are available for all process steps. Regarding Properties, you set them for the whole process.
+Regarding Properties, you set them for the whole process. Therefore is that tab only available at the top level. All other tabs are available for all process steps. 
 
 Here's a short overview of what to use the tabs for:
 
