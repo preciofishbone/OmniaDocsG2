@@ -1,8 +1,6 @@
 Displaying processes for users in Omnia 7.0
 ================================================
 
-**This documentation is just started. Don't use yet.**
-
 When considering how to display processes for end users, you can use one of these approaches, or a combination of them:
 
 + Add a page and place a Process Rollup to list available processes.
