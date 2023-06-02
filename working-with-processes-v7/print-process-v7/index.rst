@@ -1,9 +1,9 @@
 Print proceses in Omnia 7.0
 ================================================
 
-If it's possible to print a process, it's most likely set up by adding a button to the process layout. Here's an example in a preview:
+If it's possible to print a process, it's most likely set up by adding a button to the process layout. Here's an example:
 
-.. image:: print-process-button-v7.png
+.. image:: print-process-button-v7-new.png
 
 You can choose the following:
 
