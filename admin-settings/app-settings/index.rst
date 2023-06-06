@@ -1,7 +1,7 @@
 App settings
 ==============
 
-There are a few settings available on App level (site level). Here's what can be available in Omnia 6.11 and earlier:
+There are a few settings available on App level (site level). Here's what can be available:
 
 .. image:: app-settings-new.png
 
