@@ -1,8 +1,6 @@
 Process Templates in Omnia 7.0
 =============================================
 
-**This option is available in Omnia 7.0. Work on this documentation is ongoing**.
-
 Use these options to create teamplates for processes. All process steps can have a different layout, if needed.
 
 If any templates has been created, they are listed here, for example:
