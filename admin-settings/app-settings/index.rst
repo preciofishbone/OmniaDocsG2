@@ -37,7 +37,7 @@ Here you can edit the settings for the App, which was set when the App was creat
 
 .. image:: app-settings-settings-edit-v7.png
 
-If you select "Limit View Access" you can change view permissions for the app to sprcific users.
+If you select "Limit View Access" you can change view permissions for the app to specific users.
 
 Switching Template
 -------------------
