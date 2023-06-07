@@ -155,7 +155,7 @@ The following is shown:
 3. Click OK to delete or CANCEL to change your mind.
 
 Working with layers
---------------------
+**********************
 You can work with layers, meaning shapes can be stacked, if needed. To change layer for a shape, do the following:
 
 1. Select the shape.
