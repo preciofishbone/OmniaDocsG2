@@ -17,7 +17,7 @@ Here you activate, update or remove features for the App, for example (image fro
 
 .. image:: app-settings-features-v7-border.png
 
-An example: If your organization is using Document Management, you must go here to activate the Controlled Documents library for sites where working with Controlled Documents should be possible. (In this example Controlled Documents is already activated). If any updates to that Features is needed, you go here as well.
+An example: If your organization is using Document Management, you must go here to activate the Controlled Documents library for sites where working with Controlled Documents should be possible. If any updates to that Features is needed, you go here as well.
 
 Descriptions and options
 ---------------------------
