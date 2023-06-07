@@ -13,7 +13,7 @@ To reach the App settings as described here, you must do the following:
 
 Features
 ***********
-Here you activate, update or remove features for the App (site), for example (image from Omia 7.0):
+Here you activate, update or remove features for the App, for example (image from Omia 7.0):
 
 .. image:: app-settings-features-v7-border.png
 
