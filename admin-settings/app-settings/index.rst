@@ -3,7 +3,7 @@ App settings
 
 There are a few settings available on App level (site level). Here's what can be available:
 
-.. image:: app-settings-new.png
+.. image:: app-settings-v7.png
 
 To reach the App settings as described here, you must do the following:
 
@@ -29,20 +29,24 @@ Settings
 **********
 Under Settings, the following is available:
 
-.. image:: app-settings-settings-new.png
+.. image:: app-settings-settings-v7.png
 
 Edit settings
 ---------------
-Here you can edit the settings for the App (site), which was set when the App was created. The settings available depends on the template selected for the App. 
+Here you can edit the settings for the App, which was set when the App was created. The settings available depends on the template selected for the App. (Image from Omnia 7.0).
 
-.. image:: app-settings-settings-edit-new.png
+.. image:: app-settings-settings-edit-v7.png
 
-See this page for more information: :doc:`Templates for Publishing Apps </admin-settings/business-group-settings/publishing-apps/publishing-65/templates/index>`
+If you select "Limit View Access" you can change view permissions for the app to sprcific users.
 
 Switching Template
 -------------------
-If necessary, you can change to another template for the App (site) here, but the recommendation is that you do that only for Apps that are not really used yet.
+If necessary, you can change to another template for the App here, but the recommendation is that you do that only for Apps that are not really used yet.
 
-.. image:: app-settings-settings-template-new.png
+.. image:: app-settings-settings-template-v7.png
 
 First select Profile and then select Template for the profile. (Available templates depend on the profile chosen).
+
+See this page for more information: :doc:`Templates for Publishing Apps </admin-settings/business-group-settings/publishing-apps/publishing-65/templates/index>`
+
+
