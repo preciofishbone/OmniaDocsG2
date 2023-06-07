@@ -98,13 +98,23 @@ If you created process steps when adding shapes, you can now see that they are l
 
 You can use the tabs to edit the process steps.
 
+Working with shapes
+**********************
+When working with shapes, there's a number of options available.
+
+Move a shape
+----------------
+Note that when you add a new shape it's placed in the upper left corner of the canvas, and text above may not be seen. If that is not the intended position, use drag and drop, or use the keyboartd, to place the new shape. You can place a shape anywhere within the canvas. 
+
+You can also select a number of shapes and move them together.
+
 Adjust a shape
 -------------------
-Note that when you add a new shape it's placed in the upper left corner of the canvas, and text above may not be seen. If that is not the intended position, use drag and drop to place the new shape. You can place a shape anywhere within the canvas.
-
 To adjust the size of the shape, click it and use the handles to drag to the desired size. (Planning as an example in the image below).
 
 .. image:: pm-drawing-shape-size-v7.png
+
+You can also rotate a shape. If a grid is active, the shape will snapp in place.  
 
 Edit a shape
 --------------
