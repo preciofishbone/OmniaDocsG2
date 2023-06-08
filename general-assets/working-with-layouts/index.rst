@@ -10,7 +10,7 @@ Generally, you can use all options for sections and blocks available in Omnia.
 
 2. Then select section layout, just like you would do when working with a Page Type.
 
-.. image:: layout-2-v7.png
+.. image:: layout-2-v7-new.png
 
 3. Continue building up the layout using sections and blocks.
 
