@@ -98,13 +98,9 @@ If you created process steps when adding shapes, you can now see that they are l
 
 You can use the tabs to edit the process steps.
 
-Working with shapes
-**********************
-When working with shapes, there's a number of options available.
-
 Move a shape
 ----------------
-Note that when you add a new shape it's placed in the upper left corner of the canvas, and text above may not be seen. If that is not the intended position, use drag and drop, or use the keyboartd, to place the new shape. You can place a shape anywhere within the canvas. 
+Note that when you add a new shape it's placed in the upper left corner of the canvas, and text above may not be seen. If that is not the intended position, use drag and drop, or use the keyboard, to place the new shape. You can place a shape anywhere within the canvas. Note that in order to move an existing shape with the keyboard, you have to select it first.
 
 You can also select a number of shapes and move them together.
 
@@ -114,7 +110,11 @@ To adjust the size of the shape, click it and use the handles to drag to the des
 
 .. image:: pm-drawing-shape-size-v7.png
 
-You can also rotate a shape. If a grid is active, the shape will snapp in place.  
+You can also rotate a shape by grabbing here:
+
+.. image:: pm-drawing-shape-rotate-v7.png
+
+If you hold Shift while rotating, the shape will snap to the grid.
 
 Edit a shape
 --------------
@@ -155,7 +155,7 @@ The following is shown:
 3. Click OK to delete or CANCEL to change your mind.
 
 Working with layers
-**********************
+-------------------------
 You can work with layers, meaning shapes can be stacked, if needed. To change layer for a shape, do the following:
 
 1. Select the shape.
@@ -167,21 +167,8 @@ You can work with layers, meaning shapes can be stacked, if needed. To change la
 
 .. image:: pm-drawing-layers-2-v7.png
 
-Create a drawing for a process step
-**************************************
-Regarding a drawing for a process step, the default setting is that the main process drawing (the "parent drawing") is used. If you want to create a drawing for a proces step, do the following:
-
-1. Select the process step.
-2. Click CREATE DRAWING.
-
-.. image:: create-drawing-v7.png
-
-Now you can work with the process step's drawing as described above.
-
-**Note!** A separate layout can be created for a process step, if needed, using another template than the rest of the process. This can for example be useful if a process step doesn't need a drawing, text areas with explanatory text is needed, or for some other purpose.
-
 Adding clickable shapes to a drawing
-*************************************
+--------------------------------------
 If you have uploaded a drawing you can place clickable areas (shapes) on that drawing, to go to process steps and more.
 
 **Important Note!** To be able to add clickable shapes, the Process Type must contain one or more Freeform shapes.
@@ -253,4 +240,17 @@ To edit settings for a clickable shape, do the following:
 .. image:: clickable-8-v7.png
 
 3. Change the settings and save.
+
+Create a drawing for a process step
+**************************************
+The default setting is that the main process drawing (the "parent drawing") is used. If you want to create a drawing for a proces step, do the following:
+
+1. Select the process step.
+2. Click CREATE DRAWING.
+
+.. image:: create-drawing-v7.png
+
+Now you can work with the process step's drawing as described above.
+
+**Note!** A separate layout can be created for a process step, if needed, using another template than the rest of the process. This can for example be useful if a process step doesn't need a drawing, text areas with explanatory text is needed, or for some other purpose.
 
