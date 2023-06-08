@@ -22,9 +22,9 @@ To start working on the layout, continue this way:
 
 .. image:: layout-click-name-612.png
 
-5. Use this work area to create the layout. 
+5. Use this work area to create the layout: 
 
 .. image:: layout-click-work-area-612.png
 
-You workwith the layout by adding sections and blocks, the way this page describes: :doc:`Working with Layouts </general-assets/working-with-layouts/index>`
+You work with the layout by adding sections and blocks, the way this page describes: :doc:`Working with Layouts </general-assets/working-with-layouts/index>`
 
