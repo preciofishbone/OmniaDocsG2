@@ -17,7 +17,7 @@ When you create a new template, the first step is to add a name:
 
 Then click the name of the new process to start working with the layout:
 
-.. image:: process-templates-v7-new2.png
+.. image:: process-templates-v7-new3.png
 
 The layout work area is shown:
 
