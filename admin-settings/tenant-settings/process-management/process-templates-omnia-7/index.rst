@@ -17,16 +17,15 @@ When you create a new template, the first step is to add a name:
 
 Then click the name of the new process to start working with the layout:
 
-.. image:: process-templates-v7-new3.png
+.. image:: process-templates-v7-new4.png
 
 The layout work area is shown:
 
-.. image:: process-templates-v7-new3.png
+.. image:: process-templates-v7-new5.png
 
 This is done in a very similar way to working with the layout for Workspace, see the heading "Working with the layout" on this page: :doc:`Navigation bar </admin-settings/business-group-settings/workplace/navigation-bar/index>`
 
 Here's an example of a finished layout:
-
 
 .. image:: process-templates-v7-example.png
 
