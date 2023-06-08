@@ -23,11 +23,13 @@ The layout work area is shown:
 
 .. image:: process-templates-v7-new5.png
 
-This is done in a very similar way to working with the layout for Workspace, see the heading "Working with the layout" on this page: :doc:`Navigation bar </admin-settings/business-group-settings/workplace/navigation-bar/index>`
+You create the layout by adding sections and blocks, the way this page describes: :doc:`Working with Layouts </general-assets/working-with-layouts/index>`
 
 Here's an example of a finished layout:
 
 .. image:: process-templates-v7-example.png
+
+Also see the Settings section below on how to add shapes to the template.
 
 Settings
 **********
