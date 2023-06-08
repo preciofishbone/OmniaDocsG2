@@ -205,7 +205,7 @@ You start your work with the layout by adding sections and blocks, the way this 
 
 Different layouts for different screen sizes
 ----------------------------------------------
-In addition to the options desctobed above, you can add different layout for different screen sizes, if needed.
+In addition to the options described above, you can add different layouts for different screen sizes, if needed.
 
 The default screen size is for computer screens. You can use the other screen sizes to check what the layout will look like in smaller sizes, and decide if specific layouts for other sizes are needed.
 
