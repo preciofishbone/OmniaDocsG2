@@ -1,5 +1,5 @@
 Filter options for blocks in Omnia 7.0
-=============================================
+============================================
 In Omnia 7.0 and later, all filter and refiner options for blocks, are now found under Filter.
 
 Exactly which options will be available here will depend on the type of block and sometimes other options already selected. It will take some time for the documentation to be complete in that respect.
@@ -15,8 +15,7 @@ Here's an example of available filter options:
 + **Show selected values area**: Select this option to show the filters chosen.
 + **Default position**: Available when "Show sleceted values area" is selected. Can be Top, Left, Right or Dialog.
 + **Show property label**: Available when "Show sleceted values area" is selected. If selected, the property label is shown as meta data.
-+ **Max number of values to show**: (A description will be added soon).
-+ **Max number of values to show**: (A description will be added soon).
++ **Max number of values to show**: Available when "Show sleceted values area" is selected. Using this option you can set the maximum number of values to be displayed before a "Show more". Deafault setting is 0, which means show all.
 + **Fixed filter area**: Select this option to set the filter area as fixed area when scrolling, meaning the filter area will be displayed all the time when you scroll down in a list.
 + **Dialog position**: You can choose to place the dialog Left or Right.
 
