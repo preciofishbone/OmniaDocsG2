@@ -39,7 +39,7 @@ This can be available under Settings for the search box:
 
 .. image:: filter-search-settings-dot-settings.png
 
-+ **search box mode**: Can be a search based on properties or a full text search.
++ **Search box mode**: Can be earch based on properties or a full text search.
 + **Search on Title and...**: If search should be possible on anything else than the title, add the property here.
 + **Search box width**: Yes, no doubt about what this setting does.
 
