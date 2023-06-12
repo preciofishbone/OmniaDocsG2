@@ -18,6 +18,8 @@ Here's an example of available filter options:
 + **Show selected values area**: Select this option to show the filters chosen.
 + **Default position**: Available when "Show sleceted values area" is selected. Can be Top, Left, Right or Dialog.
 + **Show property label**: Available when "Show sleceted values area" is selected. If selected, the property label is shown as meta data.
++ **Max number of values to show**: (A description will be added soon).
++ **Max number of values to show**: (A description will be added soon).
 + **Fixed filter area**: Select this option to set the filter area as fixed area when scrolling, meaning the filter area will be displayed all the time when you scroll down in a list.
 + **Dialog position**: You can choose to place the dialog Left or Right.
 
