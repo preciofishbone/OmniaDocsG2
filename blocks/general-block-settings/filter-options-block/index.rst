@@ -28,10 +28,13 @@ Settings for search box
 If you added a Search Box a number of options becomes available under a dot menu:
 
 .. image:: filter-search-settings-dot.png
+.. image:: filter-search-settings-dot-menu.png
 
 Default value
 -------------
-You can add a default value for the search field.
+Here you can add a default value for the search field, which means a prepopulated search result.
+
+.. image:: filter-search-default-value.png
 
 Settings
 ------------
