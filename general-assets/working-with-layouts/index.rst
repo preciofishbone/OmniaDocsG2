@@ -2,7 +2,7 @@ Working with Layouts
 ================================================
 You can create different layouts for a number of features in Omnia. A great deal of what you can do with a layout is the same for all features, and that is what is described here.
 
-Generally, you can use all options for sections and blocks available in Omnia.
+Generally, you can use most options for sections and blocks available in Omnia. There can be a few limitations depending on feature. Besides that, all options for sections and blocks does not make sense for all layouts, but that's up to you.
 
 1. Start by clicking the plus to add a section.
 
