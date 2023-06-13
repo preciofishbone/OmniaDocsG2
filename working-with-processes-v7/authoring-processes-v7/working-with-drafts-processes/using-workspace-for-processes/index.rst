@@ -1,21 +1,21 @@
 Using the work space for processes in Omnia 7.0
 ================================================
 
-**Work on this documentation is ongoing.**
+In Omnia 7.0 and later, three different modes are available. The Default mode is Preview where you can see the progress of your work. Here's an example:
 
-In Omnia 7.0 and later, three different modes are available. The Default mode is Preview where you can see the progress of your work.
+.. image:: pm-workspace-preview-v7.png
 
 In Design mode you work with the graphic presentation - the drawing and the layout:
 
-.. image:: pm-workspace-design.png
+.. image:: pm-workspace-design-v7.png
 
 Here you work with the graphic presentation of the process, which can also serve as a navigation of the process. You can visualize the process and the process steps by adding shapes and/or upload an image and add clickable areas to that image. The Layout tab can be used for some changes or additions to the layout from the template, if possible (many parts of the layout will probably be locked). 
 
 In Content mode you work with these tabs:
 
-.. image:: pm-workspace-content.png
+.. image:: pm-workspace-content-v7.png
 
-All tabs are available for all process steps. Regarding Properties, you set them for the whole process.
+Regarding Properties, you set them for the whole process. Therefore is that tab only available at the top level. All other tabs are available for all process steps. 
 
 Here's a short overview of what to use the tabs for:
 
@@ -26,13 +26,13 @@ Here's a short overview of what to use the tabs for:
 + **Tasks**: Use this tab to work with a To Do-list for the process or process step. Note that this is not Sharepoint Tasks, just a To Do list.
 + **Properties**: You use this tab to set the properties for the process. Available for the main level, the process, only.
 
-See these pages for more information (work on the documentation is ongoing):
+See these pages for more information:
 
-+ :doc:`The Drawing tab </working-with-processes/authoring-processes/working-with-drafts/drawing-tab/index>`
-+ :doc:`The Content tab </working-with-processes/authoring-processes/working-with-drafts/content-tab/index>`
-+ :doc:`The Documents tab </working-with-processes/authoring-processes/working-with-drafts/documents-tab/index>`
-+ :doc:`The Pages tab </working-with-processes/authoring-processes/working-with-drafts/pages-tab/index>`
-+ :doc:`The Links tab </working-with-processes/authoring-processes/working-with-drafts/links-tab/index>`
-+ :doc:`The Tasks tab </working-with-processes/authoring-processes/working-with-drafts/tasks-tab/index>`
-+ :doc:`The Properties tab </working-with-processes/authoring-processes/working-with-drafts/edit-properties/index>`
++ :doc:`The Drawing tab </working-with-processes-v7/authoring-processes-v7/working-with-drafts-processes/drawing-tab-authoring-processes/index>`
++ :doc:`The Content tab </working-with-processes-v7/authoring-processes-v7/working-with-drafts-processes/content-tab-authoring-processes/index>`
++ :doc:`The Documents tab </working-with-processes-v7/authoring-processes-v7/working-with-drafts-processes/documents-tab-authoring-processes/index>`
++ :doc:`The Pages tab </working-with-processes-v7/authoring-processes-v7/working-with-drafts-processes/pages-tab-authoring-processes/index>`
++ :doc:`The Links tab </working-with-processes-v7/authoring-processes-v7/working-with-drafts-processes/links-tab-authoring-processes/index>`
++ :doc:`The Tasks tab </working-with-processes-v7/authoring-processes-v7/working-with-drafts-processes/tasks-tab-authoring-processes/index>`
++ :doc:`The Properties tab </working-with-processes-v7/authoring-processes-v7/working-with-drafts-processes/edit-properties-authoring-processes/index>`
 

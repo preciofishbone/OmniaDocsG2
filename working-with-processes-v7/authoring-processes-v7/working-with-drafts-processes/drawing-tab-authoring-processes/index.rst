@@ -1,15 +1,11 @@
 The Drawing tab - authoring processes in Omnia 7.0
 ===================================================
 
-**This documentation is just started.**
-
-To print a process, go to the process and click the button. This can be set up in several ways. Here's an example:
-
 You use this tab to visualize the process or process step.
 
 Canvas Settings
 ****************
-The template sets a defsult canvas size. This can be edited if needed. To open the canvas settings, click the cog wheel.
+The template sets a default canvas size. This can be edited if needed. To open the canvas settings, click the cog wheel.
 
 .. image:: pm-drawing-canvas-1-v7.png
 
@@ -102,13 +98,23 @@ If you created process steps when adding shapes, you can now see that they are l
 
 You can use the tabs to edit the process steps.
 
+Move a shape
+----------------
+Note that when you add a new shape it's placed in the upper left corner of the canvas, and text above may not be seen. If that is not the intended position, use drag and drop, or use the keyboard, to place the new shape. You can place a shape anywhere within the canvas. Note that in order to move an existing shape with the keyboard, you have to select it first.
+
+You can also select a number of shapes and move them together.
+
 Adjust a shape
 -------------------
-Note that when you add a new shape it's placed in the upper left corner of the canvas, and text above may not be seen. If that is not the intended position, use drag and drop to place the new shape. You can place a shape anywhere within the canvas.
-
 To adjust the size of the shape, click it and use the handles to drag to the desired size. (Planning as an example in the image below).
 
 .. image:: pm-drawing-shape-size-v7.png
+
+You can also rotate a shape by grabbing here:
+
+.. image:: pm-drawing-shape-rotate-v7.png
+
+If you hold Shift while rotating, the shape will snap to the grid.
 
 Edit a shape
 --------------
@@ -149,7 +155,7 @@ The following is shown:
 3. Click OK to delete or CANCEL to change your mind.
 
 Working with layers
---------------------
+-------------------------
 You can work with layers, meaning shapes can be stacked, if needed. To change layer for a shape, do the following:
 
 1. Select the shape.
@@ -161,24 +167,11 @@ You can work with layers, meaning shapes can be stacked, if needed. To change la
 
 .. image:: pm-drawing-layers-2-v7.png
 
-Create a drawing for a process step
-**************************************
-Regarding a drawing for a process step, the default setting is that the main process drawing (the "parent drawing") is used. If you want to create a drawing for a proces step, do the following:
+Adding clickable shapes to a drawing
+--------------------------------------
+If you have uploaded a drawing you can place clickable areas (shapes) on that drawing, to go to process steps and more.
 
-1. Select the process step.
-2. Click CREATE DRAWING.
-
-.. image:: create-drawing-v7.png
-
-Now you can work with the process step's drawing as described above.
-
-**Note!** A separate layout can be created for a process step, if needed, using another template than the rest of the process. This can for example be useful if a process step doesn't need a drawing, text areas with explanatory text is needed, or for some other purpose.
-
-Adding clickable areas to a drawing
-*************************************
-If you have uploaded a drawing you can place clickable areas on that drawing, to go to process steps and more.
-
-**Important Note!** To be able to add clickable areas, the Process Type must contain Freeform.
+**Important Note!** To be able to add clickable shapes, the Process Type must contain one or more Freeform shapes.
 
 **Tip!** Activating "Highlight shapes" in the grid settings can be useful when working with clickable areas.
 
@@ -194,57 +187,70 @@ Here's how:
 
 In this example the administrator has prepared a Freeform suitable for clickable links - Transparent Freeform that can be suitable. 
 
-3. Edit the settings for the shape, see the heading "Settings for a shape", above. Note, here you set what will happen when the area is clicked.
+3. Edit the settings for the shape, see the heading "Settings for a shape", above. Note, here you set what will happen when the shape is clicked.
 
 **Tip!** You probably don't want any colors for the clickable area, or maybe just a border color when the mouse hovers over the area. Click "Show more settings" to edit the colors.
 
 4. Click "Draw shape".
 
-.. image:: clickable-3-new.png
+.. image:: clickable-3-v7.png
 
 The drawing is now shown with the grid on top.
 
 5. Click to set the start corner, move the mouse to the next corner and click to set it ... continue this way until you have "painted" the shape.
 6. Set the shape by clicking at the start corner once more.
 
-You now have the first clickable area in place and what is opened when a user clicks it depends on the setting in step 3. (In the image below "Highlight shapes" is on in the Canvas Settings.)
+You now have the first clickable shape in place and what is opened when a user clicks it depends on the setting in step 3. (In the image below "Highlight shapes" is on in the Canvas Settings.)
 
-.. image:: clickable-5-new.png
+.. image:: clickable-5-v7.png
 
 7. Click "OK" in the grid window.
 8. Click "OK" for the shape settings.
 
-To add additional clickable areas you have to go back to step 1, but there's a neat trick if you are adding several clickable areas with the same shape. A quick way of adding additional steps is this:
+To add additional clickable shapes you have to go back to step 1, but there's a neat trick if you are adding several clickable areas with the same shape. A quick way of adding additional steps is this:
 
-9. Select the shape.
+9. Select the clickable shape.
 10. Select CLONE SHAPE.
 
-.. image:: clickable-6-new.png
+.. image:: clickable-6-v7.png
 
 10. Edit the settings for the copy (clone) and save.
 11. Move the new clickable area to the correct position and save (Check in).
 
-Change the size of a clickable area or move it
+Change the size of a clickable shape or move it
 --------------------------------------------------
-To change the size of a clickable area, do the following:
+To change the size of a clickable shape, do the following:
 
-1. Click the area.
+1. Select the shape.
 2. Use the handles the resize the area.
 
 Note that you rotate the area using this handle:
 
-.. image:: clickable-7-new-frame.png
+.. image:: clickable-7-new-v7.png
 
-To move a clickable area, just use drag and drop.
+To move a clickable shape, just use drag and drop.
 
-Edit settings for a clickable area
------------------------------------
-To edit settings for a clickable area, do the following:
+Edit settings for a clickable shape
+-------------------------------------
+To edit settings for a clickable shape, do the following:
 
-1. Click the area.
-2. Click the pen icon.
+1. Click the shape.
+2. Click EDIT SHAPE.
 
-.. image:: clickable-8-new-frame.png
+.. image:: clickable-8-v7.png
 
 3. Change the settings and save.
+
+Create a drawing for a process step
+**************************************
+The default setting is that the main process drawing (the "parent drawing") is used. If you want to create a drawing for a proces step, do the following:
+
+1. Select the process step.
+2. Click CREATE DRAWING.
+
+.. image:: create-drawing-v7.png
+
+Now you can work with the process step's drawing as described above.
+
+**Note!** A separate layout can be created for a process step, if needed, using another template than the rest of the process. This can for example be useful if a process step doesn't need a drawing, text areas with explanatory text is needed, or for some other purpose.
 

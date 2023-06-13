@@ -3,7 +3,11 @@ Features (Tenant) in Omnia 7.0
 
 This describes features available in Omnia 7.0.
 
-**Descriptions of the various options will be available through the user interface, meaning not in the documentation. This functionality will be implemented very soon.**
+Descriptions and options
+*************************
+For a description of a feature, and when using any option, expand the feature:
+
+.. image:: feature-expand.png
 
 Add-ons
 *********

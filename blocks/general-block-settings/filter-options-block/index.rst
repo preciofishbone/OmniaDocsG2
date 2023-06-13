@@ -1,21 +1,21 @@
 Filter options for blocks in Omnia 7.0
-=============================================
-
-**Work on this documentation is ongoing.**
-
+============================================
 In Omnia 7.0 and later, all filter and refiner options for blocks, are now found under Filter.
 
 Exactly which options will be available here will depend on the type of block and sometimes other options already selected. It will take some time for the documentation to be complete in that respect.
 
 Here's an example of available filter options:
 
-.. image:: filter-options-7.png
+.. image:: filter-options-7-new.png
 
 + **Show Search Box**: To add a search box, select this option. You can do that without selecting any other options.
 + **Add filter**: To add filters, click this link. See below for more information.
 + **Save filter state**:  If you select this option the filter keeps it’s state in the page url as long as the page is active, and will be activated when the user goes back to the page, by using the browser’s Back button. The url can also be copied and for example be used to prepopulate the rollup.
 + **Run query on load**: Decide if the query should be run on load, so the list is filled with when the user enters the page, or not. If there are a lot of requests, an effective solution could be to show a search box and not use this option.
 + **Show selected values area**: Select this option to show the filters chosen.
++ **Default position**: Available when "Show sleceted values area" is selected. Can be Top, Left, Right or Dialog.
++ **Show property label**: Available when "Show sleceted values area" is selected. If selected, the property label is shown as meta data.
++ **Max number of values to show**: Available when "Show sleceted values area" is selected. Using this option you can set the maximum number of values to be displayed before a "Show more". Deafault setting is 0, which means show all.
 + **Fixed filter area**: Select this option to set the filter area as fixed area when scrolling, meaning the filter area will be displayed all the time when you scroll down in a list.
 + **Dialog position**: You can choose to place the dialog Left or Right.
 
@@ -24,10 +24,13 @@ Settings for search box
 If you added a Search Box a number of options becomes available under a dot menu:
 
 .. image:: filter-search-settings-dot.png
+.. image:: filter-search-settings-dot-menu.png
 
 Default value
 -------------
-You can add a default value for the search field.
+Here you can add a default value for the search field, which means a prepopulated search result.
+
+.. image:: filter-search-default-value.png
 
 Settings
 ------------
@@ -35,7 +38,7 @@ This can be available under Settings for the search box:
 
 .. image:: filter-search-settings-dot-settings.png
 
-+ **search box mode**: Can be a search based on properties or a full text search.
++ **Search box mode**: Can be earch based on properties or a full text search.
 + **Search on Title and...**: If search should be possible on anything else than the title, add the property here.
 + **Search box width**: Yes, no doubt about what this setting does.
 

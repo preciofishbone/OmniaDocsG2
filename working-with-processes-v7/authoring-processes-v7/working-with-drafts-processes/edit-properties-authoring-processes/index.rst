@@ -1,13 +1,11 @@
 Edit properties when editing a process in Omnia 7.0
 =====================================================
 
-**This documentation is just started. Don't use yet.**
-
 The other tabs you can use when editing a process is available for the main process and for process steps. On this tab you set properties for the whole process. Therefore the tab is available at the top level only.
 
-Any set of properties can be shown here. Available properties are set up by the administrator creating the process type. Here's a simple example:
+Any set of properties can be shown here. Available properties are set up by the administrator creating the process type. Here's an example:
 
-.. image:: pm-properties-tab-new.png
+.. image:: pm-properties-tab-v7.png
 
 Property sets for processes can be set up in Omnia Admin, see: :doc:`Property Sets </admin-settings/tenant-settings/properties/property-sets/index>`
 

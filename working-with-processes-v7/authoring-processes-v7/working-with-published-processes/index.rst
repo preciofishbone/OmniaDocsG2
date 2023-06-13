@@ -5,17 +5,17 @@ Working with published processes in Omnia 7.0
 
 The Published tab lists the latest edition of all published processes from this Processes library. 
 
-.. image:: pm-published-list-new.png
+.. image:: pm-published-list-v7.png
 
 All options are found in the dot menu for a process:
 
-.. image:: pm-published-menu-new.png
+.. image:: pm-published-menu-v7.png
 
 Create Draft
 **************
 You can create a new Draft from a published process and start working on the new edition when you need it. The existing edition is still available for users until it's replaced, when the new edition is published.
 
-For more information on how to create a new draft, see: :doc:`Create a new draft from a published process </working-with-processes/authoring-processes/working-with-drafts/new-draft-from-published/index>`
+For more information on how to create a new draft, see: :doc:`Create a new draft from a published process </working-with-processes-v7/authoring-processes-v7/working-with-drafts-processes/create-new-draft-from-published-process/index>`
 
 View Process
 *******************
@@ -25,47 +25,65 @@ Feedback
 *********
 An Action Button can be set up to make it possible for users to send feedback on a process. Such feedback will be sent to the process owner and will be available through this option.
 
-.. image:: process-feedback.png
+Here's an example from a test environment:
+
+.. image:: process-feedback-v7.png
 
 For more information on how to set upp Action Buttons, see: :doc:`Action Button </blocks/button-link/index>`
 
 Process History
 ******************
-There’s information about each published edition available. To see it, do the following:
-
-1. Click the dot menu for the process.
-2. Select "Process History".
-
-.. image:: process-history.png
+There’s information about each published edition available. 
  
-Here’s an example:
+Here's an example from a test environment:
 
-.. image:: pm-published-history-new.png
+.. image:: pm-published-history-v7.png
  
 You can see the publication date for each edition, the author’s comment, if any, and who the process was approved by. You can click the link to view the edition of the process.
 
 Move Process
 ***************
-A process can be moved to any other Team Site, if needed. Here's how:
+A process can be moved to any other Team Site, if needed. **Note!** If a draft has been created from the process, it can't be moved. In that case you have to delete the draft first.
+
+Here's how:
 
 1. Go to the target Team Site and copy the Url.
-2. Go to the source Team Saite and click the dot menu for the process.
+2. Go to the source Team Site and click the dot menu for the process.
 3. Select "Move Process".
 
-.. image:: process-move-1.png
+The following is shown:
+
+.. image:: process-move-v7.png
 
 4. Paste Url to the target Team Site, or type the Url if you haven't copied it.
 5. Click RESOLVE.
 6. If the Url is correct, the name of the target Team Site should now be shown.
 7. Click MOVE.
 
-Unpublish Process
-********************
-If needed, a published process can be unpublished. The process will then not be available for end users. The process is also removed from the Processes library. If an archive for processes has been set up, a copy of the process is placed there. If an archive for processes has not been set up, the process is simply deleted.
+Delete or restore a published process
+****************************************
+A published process that has a new draft can't be deleted, the draft must be deleted first.
 
-**Note!**
-A process can't be unpublished if a draft has been created for that process. The draft must first be deleted.
+When you delete a process, you get a chance to change your mind:
 
-When "Unpublish" is selected, you get a second chance to change your mind:
+.. image:: delete-question-v7.png
 
-.. image:: pm-unpublish-message-new.png
+If an archive for processes is set up, the process is placed in the archive. It's also placed in a local (= for the site) recycle bin. 
+
+If needed, an administrator can restore a process from recycle. When a process is restored, a draft is created in Drafts as a new edition, and can then be edited and published the normal way. 
+
+A restored process keeps it's id number and the history for the process is retrieved as well. It's noted in the history that the process has been deleted and restored (if that happened).  
+
+The recycle bin for published processes is found here:
+
+.. image:: delete-process-bin-v7.png
+
+Here, processes can be restored or permanently deleted. Select one or more processes and select option.
+
+.. image:: delete-process-options-v7.png
+
+If you choose to permanently delete a process, you get a chance to change your mind:
+
+.. image:: delete-process-delete-v7.png
+
+If you choose to restore a process, a draft is created and you can work with it exactly the same way as any other draft.

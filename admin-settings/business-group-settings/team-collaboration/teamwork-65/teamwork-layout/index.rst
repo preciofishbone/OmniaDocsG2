@@ -13,9 +13,9 @@ To create a new layout, do the following:
 .. image:: layout-teamwork-settings-612.png
 
 3. When the layout has been created, click the name in the list.
-4. Build the start page using available sections and blocks.
+4. Build the start page: 
 
 .. image:: layout-teamwork-build.png
 
-You do this the same way as you work with the layout for Workspace, see the heading "Working with the layout" on this page: :doc:`Navigation bar </admin-settings/business-group-settings/workplace/navigation-bar/index>`
+You work with the layout by adding sections and blocks, the way this page describes: :doc:`Working with Layouts </general-assets/working-with-layouts/index>`
 

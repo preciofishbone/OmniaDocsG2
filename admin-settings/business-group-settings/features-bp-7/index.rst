@@ -3,11 +3,17 @@ Features (Business Profile) in Omnia 7.0
 
 This page describes Business Profile features in Omnia 7.0.
 
-.. image:: bp-features-7.png
+Descriptions and options
+*************************
+For a description of a feature, and when using any option, expand the feature:
+
+.. image:: feature-bp-expand.png
 
 Default configuration
 ********************************
 The purpose of these feature are to provide a number of templates and search profiles for an easy starting point. You can then edit the templates for your organization's needs, and of course add additional templates. 
+
+.. image:: bp-features-7.png
 
 Media Providers
 ******************

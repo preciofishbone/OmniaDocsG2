@@ -1,15 +1,13 @@
 Print proceses in Omnia 7.0
 ================================================
 
-**This documentation is just started.**
+If it's possible to print a process, it's most likely set up by adding a button to the process layout. Here's an example:
 
-To print a process, go to the process and click the button. This can be set up in several ways. Here's an example:
-
-.. image:: print-process-button-new.png
+.. image:: print-process-button-v7-new.png
 
 You can choose the following:
 
-.. image:: print-process-settings-new.png
+.. image:: print-process-settings-v7.png
 
 + **All related process steps**: This prints all related process steps, both main processes and subprocesses. If this process is linked to from a main process, that main process will not be printed.
 + **Single process step only**: Select this to just print the step you see.
@@ -17,14 +15,4 @@ You can choose the following:
 + **Include process drawing**: By default the process drawing (if any) will be printed. Deselect if you don't want that.
 
 When you have chosen what to print, click PRINT PROCESS.
-
-
-
-
-
-
-
-
-
-
 
