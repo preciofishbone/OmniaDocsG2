@@ -21,8 +21,14 @@ Governance
 Frontline Workers
 ---------------------------------------------
 
+* Distributed user management
+* Dynamic login layouts
+* Scheduled off-boarding
+* People rollup including Omnia accounts
 * Search solution for frontline workers.
 * Kiosk users with PIN code.
+* Authentication provider per user type
+* Conditional access for Omnia accounts
 
 Learning
 ---------------------------------------------
