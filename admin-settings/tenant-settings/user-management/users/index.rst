@@ -21,6 +21,16 @@ A few settings are available for Omnia only users; use the pen to edit User Type
 
 .. image:: user-management-users-list-omnia-options-new.png
 
+Using the pen, all settings for user (see below), except authentication settings, can be edited.
+
+To edit authentication settings, click the key, and the following is available:
+
+.. image:: user-management-users-list-omnia-options-key.png
+
+Save the changes when you're finished.
+
+(Information about when it's needed to reset an account will be added soon).
+
 Add a new Omnia only user
 -----------------------------
 To add a new user, click the ADD USER button.
@@ -50,15 +60,15 @@ To delete one or more Omnia only users, do the following:
 1. Select the user/users.
 2. Click the DELETE USER button that has become available, or click the dust bin for a single user.
 
-.. image:: user-management-users-delete.png
+.. image:: user-management-users-delete-new.png
 
 The DELETED USERS list
 ***********************
 You can use this list to restore deleted Omnia only users or delete users permanently. To restore or pemanently delete a single user, use the buttons at the right of the user's row.
 
-.. image:: user-management-users-delete-buttons.png
+.. image:: user-management-users-delete-buttons-new.png
 
 To restore or permanently delete a number of users, select them first and use the buttons at the top:
 
-.. image:: user-management-users-delete-buttons-top.png
+.. image:: user-management-users-delete-buttons-top-new.png
 
