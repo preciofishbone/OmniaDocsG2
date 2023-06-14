@@ -13,7 +13,7 @@ All users
 ************
 In the ALL USERS list, all users in the tenant are listed. Here you can add non-Microsoft 365 (Omnia only) users and delete users you have added this way.
 
-Note that you can filter the list on "User Type" and "Provider". If you would like to list only Omnia users created here, select "Omnia" for "Provider".
+Note that you can use the search field to find a user and filter the list on "User Type" and "Provider". If you would like to list only Omnia users created here, select "Omnia" for "Provider".
 
 .. image:: user-management-users-list-omnia.png
 
