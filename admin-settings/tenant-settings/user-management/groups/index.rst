@@ -3,8 +3,6 @@ Groups
 
 This option is available in Omnia 7.0 and later.
 
-**Work on the documentation is ongoing.**
-
 Here, the groups in the tenant are listed and you can create and delete your own Omnia Groups for security setups.
 
 All groups
