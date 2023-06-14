@@ -5,7 +5,7 @@ User Management is available in Omnia 7.0 and later. Here you can add and handle
 
 **Work on the documentation is ongoing.**
 
-.. image:: user-management-menu-new.png
+.. image:: user-management-menu-new2.png
 
 Select option below for more information.
 
