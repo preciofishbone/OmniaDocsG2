@@ -34,7 +34,7 @@ Use the settings this way:
 + **Show Properties**: If available Page Properties should be shown for the editor when creating a page, select this option. The Properties can then be edited in that stage. Page Properties can always be edited after the page has been created.
 + **Auto Publish**: This is a setting probably most relevant for Communities. If this option is selected a new page is always published automatically. It's only applicable when a new page is created, not when it's updated.
 + **Page Types**: Select which of the Page Types that should be available for an editor to select when creating a page in this Page Collection. It can be Local Page Types or Tenant Page Types. Tenant Page Types are indicated by the text "(Tenant)". For more information about Tenant Page Types, see this page: :doc:`Tenant Page Types </admin-settings/tenant-settings/webcontent-managament/page-types/index>`. 
-+ **Automatic Page Creation**: A copy of a page can be published automatically to another Page Collection when certain rules are met. These rules can be set up here. For more information, see this page: :doc:`Automatic Page Creation </pages/automatic-page-creation/index>`
++ **Automatic Page Creation**: A copy of a page can be published automatically to another Page Collection when certain rules are met. In Omnia 7.0 and later, it can be possible to automatically publish to another tenant as well. These rules can be set up here. For more information, see this page: :doc:`Automatic Page Creation </pages/automatic-page-creation/index>`
 + **Yammer Integration**: When Yammer Integration is setup, a post will be created in the selected Yammer community whenever a new page, matching the selected criteria, is created. See below for more information.
 + **Taxonomy Connection**: When this option is activated, it's possible to connect the page collection to a taxonomy. Whenever a page is created in the page collection, a term will be created in the connected taxonomy and the page will automatically be tagged with the newly created term. This can, for example, be useful in different rollups. For more information, see below.
 + **Enable Approval**: If Approval should be needed for publication of pages (new pages and updates), enable this. If not enabled, editors can publish themselves. See more info about Approval settings below.
@@ -48,7 +48,7 @@ Use the settings this way:
 
 Set default values for a Page Type
 --------------------------------------
-In Omnia 6.8 and later you can set default values for the Page Types that has been added to the Page Collection. Any changes you do applies to the active Page Collection only.
+You can set default values for the Page Types that has been added to the Page Collection. Any changes you do applies to the active Page Collection only.
 
 1. Click the pen for the Page Type.
 
@@ -159,5 +159,5 @@ For more information, see this page: :doc:`Properties </admin-settings/tenant-se
 
 Saving Page Collection settings
 ********************************
-To save the changes to the Page Collection settings, you need to publish. You can't save a draft, even if that option is present.
+To save the changes to the Page Collection settings, you need to publish. You can't save a draft, even if that option is present. 
 
