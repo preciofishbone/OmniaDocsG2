@@ -3,7 +3,7 @@ Users
 
 This is option is available in Omnia 7.0 and later.
 
-**Work on the documentation has just started.**
+**Work on the documentation is ongoing.**
 
 Two lists are available here; ALL USERS and DELETED USERS.
 
