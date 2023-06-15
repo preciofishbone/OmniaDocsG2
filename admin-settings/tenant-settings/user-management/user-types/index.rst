@@ -3,8 +3,6 @@ User Types
 
 This option is available in Omnia 7.0 and later.
 
-**Work on the documentation has just started.**
-
 All users in Omnia will be assigned a user type. User types are also used when creating Omnia only users and when setting up dynamic groups. It's also possible to create customized user profile cards for different user types.
 
 If any user types has been set up so far, they are listed here, for example:
