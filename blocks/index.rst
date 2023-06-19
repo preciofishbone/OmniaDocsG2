@@ -58,6 +58,7 @@ Blocks
    team-news-rollup/index
    teams-channel-feed/index
    text/index
+   user-information-block/index
    working-with-blocks/index
    yammer-feed/index
    
