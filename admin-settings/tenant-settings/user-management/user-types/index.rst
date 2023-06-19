@@ -29,6 +29,7 @@ Here's an example of a user profle card layout (shown in edit mode):
 
 At the top, a User Information block is added. Next, a Tab section is added, for navigation purposes, for three tabs with information. 
 
-The first tab is a Properties tab (Contact), the second is a section with an organization tree, and the third (Experience) is a section with, as is says, experience information.
+For more information, see: (link to be added)
 
+The first tab is a Properties tab (Contact), the second is a section with an organization tree, and the third (Experience) is a section with, as is says, experience information.
 
