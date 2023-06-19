@@ -27,7 +27,7 @@ Click the ADD GROUP button to create a new Omnia group, and use these settings:
 
 .. image:: user-managament-groups-new.png
 
-Here you can add an image for the group using the Image picker, add a name and description and add Omnia only users to the group. The users must be added to the Users list first. Available fields (Display Name etc in the image above), depends on properties set up with the option in the User Managament menu.
+Here you can add an image for the group using the Image picker, add a name and description and add Omnia only users to the group. The users must be added to the Users list first. 
 
 Add users to a group
 ---------------------------------
