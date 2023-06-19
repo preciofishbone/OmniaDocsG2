@@ -23,7 +23,7 @@ Here you can set:
 
 Actions
 --------
-Here you can select some actions to be available on the card as links. Default=none. Note that there are actions only the current user (the user shown on the card) can use, and actions for all other users. 
+Here you can select some actions to be available as links. Default=none. Note that there are actions only the current user (the user shown on the card) can use, and actions for all other users. 
 
 .. image:: user-information-settings-actions.png
 
