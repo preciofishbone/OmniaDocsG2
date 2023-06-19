@@ -21,15 +21,17 @@ Create a custom user profile card
 ************************************
 You work with the layout for customer profile cards the same way as other layouts in Omnia, see: :doc:`Working with layouts </general-assets/working-with-layouts/index>`
 
-Of course, just a few available blocks makes sense to use here, but that is up to you.
+Of course, just a few of the available blocks makes sense to use here, but that is up to you.
 
-Here's an example of a user profle card layout (shown in edit mode):
+Here's an example of a user profile card layout (shown in edit mode):
 
 .. image:: user-card-layout.png
 
-At the top, a User Information block is added. Next, a Tab section is added, for navigation purposes, for three tabs with information. 
+At the top, a User Information block is added. Next, a Tab section is added, for navigation purposes, for three tabs with information. The first tab is a Properties block (Contact), the second is an Organization Tree block, and the third (Experience) is a Properties block.
 
-For more information, see: (link to be added)
+For more information about the blocks, see: 
 
-The first tab is a Properties tab (Contact), the second is a section with an organization tree, and the third (Experience) is a section with, as is says, experience information.
++ :doc:`The User Information block </blocks/user-information-block/index>`
++ :doc:`The Properties block </blocks/properties-block/index>`
+
 
