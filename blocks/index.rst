@@ -42,6 +42,7 @@ Blocks
    people-rollup/index
    power-app/index
    process-blocks/index
+   properties-block/index
    publishing-app-rollup/index
    user-profile-completion/index
    qr-code/index
