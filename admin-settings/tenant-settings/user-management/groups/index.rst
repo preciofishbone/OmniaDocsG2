@@ -57,7 +57,7 @@ M365 groups, distribution groups and security groups can be added to an Omnia gr
 
 .. image:: add-groups-2.png
 
-The added grouops are now shown. You an use the pen to edit the groups's settings, if it's a Omnia Group, or check the group's settings if it's another type if groiup. Use the dust bin to remove the group from th group.
+The added groups are now shown. You an use the pen to edit the groups's settings, if it's an Omnia Group, or check the group's settings if it's another type if group. Use the dust bin to remove the group from the group.
 
 .. image:: add-groups-3.png
 
