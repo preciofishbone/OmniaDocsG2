@@ -25,5 +25,9 @@ Actions
 --------
 Here you can select some acttions to be available on the card as links. Default=none. Note that there are actions only the current user (the user shown on the card) can use, and actions for all other users. 
 
-.. image:: user-information-settings-details.png
+.. image:: user-information-settings-actions.png
+
+LAYOUT and WRITE
+******************
+The WRITE tab is not available for this block. The LAYOUT tab contains general block settings, see: :doc:`General Block Settings </blocks/general-block-settings/index>`
 
