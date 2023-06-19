@@ -1,4 +1,4 @@
-The User Information block
+User Information
 ================================================
 
 **This documentation is just started.**
