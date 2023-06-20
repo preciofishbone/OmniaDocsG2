@@ -36,7 +36,7 @@ Repeat until all user types you want in this group are added.
 
 .. image:: add-user-list-click-plus-ready.png
 
-If you added a user type by mistake, just click the dust bin ti delete it.
+If you added a user type by mistake, just click the dust bin to delete it.
 
 Save your changes when you're done.
 
