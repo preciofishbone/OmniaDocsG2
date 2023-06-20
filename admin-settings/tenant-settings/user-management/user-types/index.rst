@@ -33,5 +33,5 @@ For more information about the blocks, see:
 
 + :doc:`The User Information block </blocks/user-information-block/index>`
 + :doc:`The Properties block </blocks/properties-block/index>`
-
++ :doc:`The Organization Tree block </blocks/organization-tree/index>`
 
