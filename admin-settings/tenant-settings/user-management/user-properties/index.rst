@@ -15,17 +15,17 @@ When adding a new property, the following settings are available:
 
 The list of options at the bottom will differ depending on type of property. For more information, see below.
 
-Additonaly Setup and Edit can be available, as here for Sharepoint Term set.
+Setup and Edit can be also be available, as here for Sharepoint Term set.
 
 .. image:: user-management-properties-new-variant.png
 
 Display
 ---------
-Display options are present for most property types, except for Process. For most properties you can choose wether to display label text and label icon, or not.
+Display options are present for most property types, except for Process. For most properties you can choose to display label text and label icon.
 
 .. image:: user-management-properties-display.png
 
-Additionally, for type Identity you can choose wether to display image and name as well.
+Additionally, for type Identity you can choose to display image and name as well.
 
 .. image:: user-management-properties-display-alt.png
 
@@ -33,8 +33,8 @@ Edit
 ------
 These types have Edit options: 
 
-+ HTML - you can choose to display the edit options Rich Text, Limited Rich Tect or Custom Rich Text.
-+ Image - you can set default scaling, decide which crop ratios that should be available and decide wether to force default scaling.
++ HTML - you can choose to display the edit options; Rich Text, Limited Rich Tect or Custom Rich Text.
++ Image - you can set default scaling, decide which crop ratios that should be available and decide to force default scaling.
 + Sharepoint Term Set - you can choose to allow multi value.
 
 Setup
