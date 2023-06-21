@@ -23,7 +23,7 @@ Here you decide which properties to display.
 
 .. image:: properties-block-settings-display.png
 
-+ **Data source**: Available as sources for properties are; App, Page, User, User (Microsoft Graph) or User (Sharepoint). 
++ **Data source**: Choose where to get the user information from; App, Page, User, User (Microsoft Graph) or User (Sharepoint). For use on a custom user profile card, the three "User" sources are the most applicable. User means Omnia User setup in User Managment. For use on a page are probably App or Page the most applicable sources.
 + **Select Properties**: When you have selected data source, choose one or more properties to display. Note that different sets of properties are available depending on source chosen and some properties may require additional settings.
 
 You can add several properties from several data sources if needed.
