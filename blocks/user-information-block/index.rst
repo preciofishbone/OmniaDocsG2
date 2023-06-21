@@ -17,7 +17,7 @@ Here you can set:
 
 .. image:: user-information-settings-details.png
 
-+ **Show presence**: Decide to show the user's teams presence or not. Default: on.
++ **Show presence**: Decide to show the user's Teams presence or not. Default: on.
 + **Data source**: Choose where to get the user information from; App, Page, User, User (Microsoft Graph) or User (Sharepoint). For use on a custom user profile card, the three "User" sources are the most applicable. User means Omnia User setup in User Managment. For use on a page are probably App or Page the most applicable sources.
 + **Select Properties**: When you have selected data source, choose one or more properties to display. Note that different sets of properties are available depending on source chosen and some properties may require additional settings.
 
