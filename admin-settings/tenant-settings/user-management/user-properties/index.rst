@@ -5,7 +5,7 @@ This option is available in Omnia 7.0 and later.
 
 The properties you want to use when creating Omnia users must be present in this list. These properties can also be shown on the customized user profile cards together with properties from Azure AD and SharePoint. Besides that, they will also be used to manage targeted mobile push notifications and statistics. Also note the comment about GDPR.
 
-A number of default properties are always available. They can not be edited or deleted. If you additional properties you add them here as described below.
+A number of default properties are always available. They can not be edited or deleted. If you need additional properties you add them here as described below.
 
 Here's an example of user properties. The ones with a pen and a dust bin are added by an administrator.
 
