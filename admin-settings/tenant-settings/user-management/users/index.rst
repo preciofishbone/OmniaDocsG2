@@ -27,7 +27,7 @@ To edit authentication settings, click the key, and the following is available:
 
 Save the changes when you're finished.
 
-(Information about when it's needed to reset an account will be added soon).
+If you need to reinitiate the whole onboarding process for the user, click RESET ACCOUNT.
 
 Add a new Omnia only user
 -----------------------------
