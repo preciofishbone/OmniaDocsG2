@@ -75,5 +75,8 @@ the following options are available for filter style:
 .. image:: filters-style-7.png
 
 + **General style**: Should be self explanatory.
-+ **Chip colors**: (A description will be added soon).
++ **Chip colors**: Here you can set colors for the selected values:
++ Default: sets a color contrasting the background for good visibility.
++ Enterprise Glossary; will use these settings.
++ Custom: you can set the custim colors the chip colors for this block. 
 
