@@ -44,3 +44,7 @@ These types have Edit options:
 Setup
 -------
 Available for type Sharepoint Term Set only. For a property from a Sharepoint term set to work, it must be mapped using the list available under Setup.
+
+Deleting a user property
+************************
+When you delete a user property from this list, it's moved the property recycle bin, available under the tenant settings Properties, see: :doc:`Property Recycle Bin </admin-settings/tenant-settings/properties/recycle-bin/index>`
