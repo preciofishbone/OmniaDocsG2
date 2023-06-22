@@ -10,6 +10,7 @@ Process blocks
    process-context/index
    process-documents/index
    process-drawing/index
+   process-layout/index
    process-links/index
    process-navigation/index
    process-pages/index
