@@ -53,6 +53,8 @@ For some property types, you may be able to select the edit text mode that shoul
 
 .. image:: user-information-property-settings-text.png
 
+What is available for the different edit text modes, is set up in Omnia Admin.
+
 If it's possible to convert to the property type "Term Set", you must use Setup to map the term set, or it won't work.
 
 .. image:: user-information-property-settings-termset.png
