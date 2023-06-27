@@ -20,17 +20,17 @@ Different options can be available depending on data source. These are the most 
 + **Show presence**: Decide to show the user's Teams presence or not. Default: on.
 + **Data source**: Choose where to get the user information from; App, Page, User, User (Microsoft Graph) or User (Sharepoint). For use on a custom user profile card, the three "User" sources are the most applicable. User means Omnia User setup in User Managment. For use on a page are probably App or Page the most applicable sources.
 + **Select Properties**: When you have selected data source, choose one or more properties to display. Note that different sets of properties are available depending on source chosen and some properties may require additional settings.
-+ **Property Type Converter**: If needed, this option is shown. Use it to select property type to use for the selected property in this block. Several properties can for example be either Text or Multi-value text, but that's one simple example. Note that you must select property type here, if this option is shown, for the correct settings to be available below.
++ **Property Type Converter**: If needed, this option is shown. Use it to select property type to use for the selected property in this block. Several properties can for example be either Text or Multi-value text, but that's just one simple example. Note that you must select property type here, if this option is shown, for the correct settings to be available below.
 
 Settings for a property
 -------------------------
-Besides "Property Type Converter", explained above, several other settings can be available for a property. Here are som common ones:
+Besides "Property Type Converter", explained above, several other settings can be available for a property. Here are some common ones:
 
 .. image:: user-information-property-settings.png
 
 + **Title**: if you would like to show another title for this property, add that title here.
 + **Icon Type/Icon**: If an icon should be shown for the property, use these two fields to select icon. You also must choose to display the icon, see below.
-+ **Display**: Here you select to show label text, the label icon, and for a few properties "Text only" (meaning no icon or image), or not. Default=not.
++ **Display**: Here you select to show label text, the label icon, and for a few properties "Text only" (meaning no icon or image). Default=not.
 + **Allow edit**: For some properties you can allow the logged in user to edit the content in the property.
 + **ADD/CANCEL**: When you're finished with the settings, don't forget to add the property to the block.
  
