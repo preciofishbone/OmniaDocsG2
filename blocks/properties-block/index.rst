@@ -41,7 +41,7 @@ Besides "Property Type Converter", explained above, several other settings can b
  
 Additional settings for image and more
 -------------------------------------------------
-For property type image, additonal settings are available:
+For property type image, additional settings are available:
 
 .. image:: user-information-property-settings-image.png
 
