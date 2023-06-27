@@ -36,7 +36,7 @@ Besides "Property Type Converter", explained above, several other settings can b
  
 Additional settings for image and more
 -------------------------------------------------
-For property type image, additonal settings are available:
+For property type image, additional settings are available:
 
 .. image:: user-information-property-settings-image.png
 
@@ -47,6 +47,8 @@ For property type image, additonal settings are available:
 For some property types, you may be able to select the edit text mode that should be available: Rich Text, Limited Rich Text or Custom Rich Text. If applicable, this option will be availble under Edit.
 
 .. image:: user-information-property-settings-text.png
+
+What is available in the different edit text modes is set up in Omnia Admin.
 
 If it's possible to convert to the property type "Term Set", you must use Setup to map the term set, or it won't work.
 
