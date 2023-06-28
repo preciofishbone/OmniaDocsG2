@@ -1,3 +1,18 @@
+6.13.21
+========================================
+(Omnia 6.13.21 / Workplace 6.13.17 / WCM 6.13.19 / MS 6.13.13)
+
+- Improved stability in move controlled document (#148602).
+- Fixed an issue that prevented the deletion of appendix.
+- Language is now set correctly when incorrect syntax is returned from MS Graph (#146619).
+
+6.13.20
+========================================
+(Omnia 6.13.20 / Workplace 6.13.17 / WCM 6.13.19 / MS 6.13.12)
+
+- Printing now displays all content of a page (#148147).
+- Additional auto translation improvements (#148172).
+
 6.13.19
 ========================================
 (Omnia 6.13.19 / Workplace 6.13.16 / WCM 6.13.18 / MS 6.13.11)
@@ -6,10 +21,11 @@
 - Copy text from clipboard now works as expected for MacOS (#146794).
 - Fixed an issue with navigation path in the page rollup (#147488).
 - Fixed an issue with the current navigation. (#148491, #148513, #148503)
-- Users timezone is now fetched from the client instead of the mailbox settings, this improves performance and reduces permissions needed for the Omnia AAD app (#146999) 
+- Users time zone is now fetched from the client instead of the mailbox settings, this improves performance and reduces permissions needed for the Omnia AAD app (#146999) 
 - Fixed an issue with calculated fields on old data (#147541).
 - Fixed an incorrect replacement for custom domain tenants causing permissions to not be saved (#145993).
 - Improvements to auto translations (#148051).
+
 
 
 6.13.13
