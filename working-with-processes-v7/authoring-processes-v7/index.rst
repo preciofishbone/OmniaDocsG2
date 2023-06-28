@@ -1,8 +1,6 @@
 Authoring processes in Omnia 7.0
 ================================================
 
-**Work on this documentation is ongoing.**
-
 This section is for Authors of processes. The work always takes place in a Processes Library in a Team Site. Who is allowed to author and approve (if approval is needed) is set up in Omnia Admin under Process Management.
 
 When a Team Site has been set up for process authoring, the following will be available for authors:
