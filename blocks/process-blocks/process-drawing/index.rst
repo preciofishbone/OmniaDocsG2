@@ -14,7 +14,7 @@ The block has the following settings:
 + **Enable process status colors**: (A description will be added soon).
 + **Stack Process**: Normally when you select a sub process, the drawing for the main process is closed. Select this option if you want the main process's drawing, and all the drawings for the selected steps, to be shown at the same time. 
 
-When you select "Stack Process" additonal options are available:
+When you select "Stack Process" additional options are available:
 
 .. image:: process-drawing-block-stack.png
 
