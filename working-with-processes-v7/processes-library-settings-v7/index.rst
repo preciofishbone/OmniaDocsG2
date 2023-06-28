@@ -1,8 +1,6 @@
 Processes library settings in Omnia 7.0
 ================================================
 
-**This documentation is ongoing.**
-
 You must be Administrator of the Team Site, to be able to edit the settings for the lists in the Processes library, and to edit permissions.
 
 Settings for the tabs
