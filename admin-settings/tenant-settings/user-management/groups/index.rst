@@ -11,11 +11,9 @@ A list of all groups can look like this:
 
 .. image:: user-magaments-groupd-list-new.png
 
-To edit the settings for a group (Only Omnia groups can be edited), click the pen. To delete it, click the dust bin.
+To edit the settings for a group, click the pen. To delete it, click the dust bin. When you edit an Omnia group, all settings area available, as when you add a new group, see below. Regarding groups and users from MS Graph, only added properties, if any, can be edited, not the information that originates from MS Graph.
 
 .. image:: user-magaments-groupd-list-edit-delete.png
-
-When you edit a group, all settings area available, as when you add a new group, see below.
 
 Note that you can search and filter on Group Type. If you would like a list of the Omnia groups only, select "Omnia Group" as group type.
 
