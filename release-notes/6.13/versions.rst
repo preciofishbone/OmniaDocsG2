@@ -1,13 +1,16 @@
-6.13.18
+6.13.19
 ========================================
-(Omnia 6.13.18 / Workplace 6.13.16 / WCM 6.13.17 / MS 6.13.11)
+(Omnia 6.13.19 / Workplace 6.13.16 / WCM 6.13.18 / MS 6.13.11)
 
 - Media picker can now pick .wmv and .webm files (#147845).
 - Copy text from clipboard now works as expected for MacOS (#146794).
 - Fixed an issue with navigation path in the page rollup (#147488).
-- Fixed an issue with the current navigation.
+- Fixed an issue with the current navigation. (#148491, #148513, #148503)
 - Users timezone is now fetched from the client instead of the mailbox settings, this improves performance and reduces permissions needed for the Omnia AAD app (#146999) 
-- Automatic archive 
+- Fixed an issue with calculated fields on old data (#147541).
+- Fixed an incorrect replacement for custom domain tenants causing permissions to not be saved (#145993).
+- Improvements to auto translations (#148051).
+
 
 6.13.13
 ========================================
