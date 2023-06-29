@@ -3,6 +3,8 @@ Using the Create New Document Wizard
 
 The Create New Document Wizard can be used to create either Controlled Documents or normal documents. A new document created in the wizard can be saved in any libray the loged in user has access to (a Controlled Documents library for a Controlled Document or a Documents library for a normal document). 
 
+In Omnia 7.0 and later it can also be possible to save new normal documents to the user's OneDrive.
+
 This wizard is always available in all Controlled Documents libraries.
 
 To be available in other document libraries, the Create New Document Wizard must be activated in the Features for each Teamwork App. 
