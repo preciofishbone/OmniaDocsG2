@@ -3,7 +3,7 @@ Properties
 
 The following options for Properties are available:
 
-.. image:: properties-v6.png
+.. image:: properties-v7.png
 
 Select section for more information:
 
