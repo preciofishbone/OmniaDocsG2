@@ -19,7 +19,13 @@ If needed (and if it's applicable for the Business Profile) you can click the le
 
 .. image:: business-profile-app-route-v7.png
 
-**Note!** Only one app route can exist. It's set here for the business profile, or for the workspace. If set in one of these places, it's then not available in the other one.  
+**Note!** Only one app route can exist. It's set here for the business profile, or for the workspace. If set in one of these places, it's then not available in the other one. 
+
+If the Root Route is set for the business profile, it's shown this way:
+
+.. image:: business-profile-app-root-route-v7.png
+
+The Root Route can only be assigned once, for a business profile's workspace or for an app.
 
 Create a new Business Profile
 *******************************
