@@ -31,9 +31,9 @@ If you need to reinitiate the whole onboarding process for the user, click RESET
 
 About limitations for Omnia users
 -----------------------------------
-As mentioned, Omnia users does not require a Microsoft 365 licence, and that means no options that are depending on Sharepoint can be used. That includes, for example Teams functionality, teamworks, Document Management and Process Management.  
+As mentioned, Omnia users does not require a Microsoft 365 licence, and that means no options that are depending on Sharepoint or Microsoft 365 can be used. That includes, for example Teams, functionality, teamworks, Document Management and Process Management.  
 
-When creating pages, or rather page templates, that will be used by Omnia users, it's important to consider which blocks to use. No block that depends on Sharepoint works for these users, including rollups.
+When creating pages, or rather page templates, that will be used by Omnia users, it's important to consider which blocks to use. No block that depends on Sharepoint works for these users, at least not as intended, including rollups.
 
 All other aspects regarding pages works well for Omnia users, but keep in mind that permissions must be handled through Omnia groups or Dynamic groups for these users.
 
