@@ -29,6 +29,10 @@ Save the changes when you're finished.
 
 If you need to reinitiate the whole onboarding process for the user, click RESET ACCOUNT.
 
+About limitations for Omnia users
+-----------------------------------
+As mentioned, Omnia users does not require a Microsoft 365 licence, but that means no options that are depending on Sharepoint can be used. That includes, for example Teams functionality, teamworks, Document Management, Process Management.  
+
 Add a new Omnia only user
 -----------------------------
 To add a new user, click the ADD USER button.
