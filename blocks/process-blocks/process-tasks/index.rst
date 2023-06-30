@@ -7,7 +7,7 @@ You can add a title for the block and add some padding, if needed.
 
 .. image:: process-tasks-block.png
 
-+ **Enable assignments for tasks**: If you are using Microsoft Planner you can choose to activate assignment for tasks in this block. If you don't use Planner, this is just a To Do-list.
++ **Enable assignments for tasks**: If you are using Microsoft Planner you can choose to activate assignment for tasks in this block. If you don't use Planner, this is just a To Do-list that can't be assigned.
 
 Layout and Write
 *********************
