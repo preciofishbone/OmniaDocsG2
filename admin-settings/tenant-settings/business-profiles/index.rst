@@ -25,7 +25,7 @@ If the Root Route is set for the business profile, it's shown this way:
 
 .. image:: business-profile-app-root-route-v7.png
 
-The Root Route can only be assigned once, for a business profile's workspace or for an app.
+The Root Route can only be assigned once in the tenant, for a business profile's workspace or for an app. To "move" the root route to another business profile or app, first deselect the option here and then reassign the root route.
 
 Create a new Business Profile
 *******************************
