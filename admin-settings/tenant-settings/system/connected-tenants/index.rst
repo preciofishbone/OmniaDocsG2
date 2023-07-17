@@ -1,7 +1,7 @@
 Connected tenants
 =============================================
 
-This is a new option in Omnia 7.0. You use it to register tenants that should be available to select when using automatic page creation.
+This option is available in Omnia 7.0 and later. You use it to register tenants that should be available to select when using automatic page creation.
 
 You can find more information about automatic page creation on this page: :doc:`Automatic Page Creation </pages/automatic-page-creation/index>`
 
