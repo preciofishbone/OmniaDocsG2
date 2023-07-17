@@ -1,4 +1,4 @@
-Authentification
+Authentication
 ==================
 
 The following can be enabled here:
