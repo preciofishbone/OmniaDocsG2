@@ -5,7 +5,7 @@ You can categorize properties for example to make it more onbvious what differen
 
 Here's an example of a list of categories:
 
-.. image:: properties-categories-list.png
+.. image:: properties-categories-list-v7.png
 
 Use the pen to edit a category or the dust bin to delete it.
 
@@ -17,12 +17,9 @@ To create a new category, do the following:
 
 1. Click the plus.
 
-.. image:: properties-categories-clickplus.png
+.. image:: properties-categories-clickplus-v7.png
 
 2. Type a Title (Name) in any tenant language (click the flag to change language) and save.
 
-.. image:: properties-categories-settings-new.png
-
-The field "Order" displays the order set in the list when the category is edited, where 10 is the top position, followed by 20, 30 etc.
-
+.. image:: properties-categories-settings-v7.png
 
