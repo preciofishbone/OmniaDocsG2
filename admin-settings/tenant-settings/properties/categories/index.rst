@@ -1,7 +1,7 @@
 Categories (Properties)
 =======================
 
-You can categorize properties for example to make it more onbvious what different properties are for.
+You can categorize properties for example to make it more obvious what different properties are for.
 
 Here's an example of a list of categories:
 
