@@ -11,8 +11,6 @@ You need to set up a managed birthday property connected to a refinable date.
 
 Here's how to set up a birthday property in Omnia:
 
-(Will be added soon).
-
 .. image:: birthday-property-1.png
 
 .. image:: birthday-property-2.png
