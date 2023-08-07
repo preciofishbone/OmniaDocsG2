@@ -1,7 +1,7 @@
 Setting up a birthday property
 =============================================
 
-**More dteails will be added in a while.**
+**More details will be added in a while.**
 
 To be able to use a property for birthdays in rollups, a birthday property must be available in Omnia.
 
