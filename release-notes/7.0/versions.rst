@@ -7,7 +7,8 @@ System wide
 - New Filter UX and settings for all rollups. Resolves (#146912, 
 - Long term names can now be viewed via tool tip, including the path to the term (#143157, #143460).
 - Omnia users are now available and kaizala logins are now no longer supported (#123798).
-- 
+- Fixes to theming issues in Omnia Admin (#144292, )
+- Azure AD Group targeting is now case insensitive (#145285).
 
 
 Communeties
@@ -37,6 +38,7 @@ Process Management
 - Better handling when a process authoring site is deleted (#141038).
 - Multiple document rollups can now be added to a process, resolving the need for categorizing documents (#124937).
 - Image cropping is now available for Background images and shapes (#127246, #128403).
+- When using Process templates, search results will now render according to the template (#144094).
 - 
 
-Also solves preview issues: (#148163, )
+Also solves preview issues: (#148163, #148232, )
