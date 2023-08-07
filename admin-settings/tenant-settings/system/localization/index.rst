@@ -39,7 +39,11 @@ The texts that needs to be translated are now exported to a json file. The file 
 
 Just correcting a few translations
 ************************************
-If you only need to correct one, or a few, translations, you don't need to download the file/files. Youo can then simply change the translation directly here. Here's how:
+If you only need to correct one, or a few, translations, you don't need to download the file/files. You can then simply change the translation directly here. 
+
+**important note!** This method is what is called "Has been customized" in the View Mode selector. Changes you make this way are NOT overwritten if you import a translated JSON file to the system.
+
+Here's how:
 
 1. Click the pen for the object you wish to change/correct.
 
@@ -52,6 +56,4 @@ If you only need to correct one, or a few, translations, you don't need to downl
 3. Save the change(s) you have made.
 
 This can also be a quick way to check what similar languages has translated the label to.
-
-**important note!** This method is what is called "Has been customized" in the View Mode selector. Changes you make this way are NOT overwritten if you import a translated JSON file to the system.
 
