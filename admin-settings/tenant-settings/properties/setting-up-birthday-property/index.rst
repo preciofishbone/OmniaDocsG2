@@ -9,15 +9,3 @@ There is a birthday property available in Sharepoint and it is used for the birt
 
 You need to set up a managed birthday property connected to a refinable date.
 
-Here's how to set up a birthday property in Omnia:
-
-.. image:: birthday-property-1.png
-
-.. image:: birthday-property-2.png
-
-.. image:: birthday-property-3.png
-
-.. image:: birthday-property-4.png
-
-.. image:: birthday-property-5.png
-
