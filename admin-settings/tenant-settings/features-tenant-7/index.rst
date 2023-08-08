@@ -1,7 +1,7 @@
-Features (Tenant) in Omnia 7.0
+Features (Tenant) in Omnia 7
 =============================================
 
-This describes features available in Omnia 7.0.
+This describes features available in Omnia 7.0 and later.
 
 Descriptions and options
 *************************
