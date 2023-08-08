@@ -1,11 +1,11 @@
-Setting up a Community
+Setting up a community
 ========================
 
-Setting up a community is pretty straight forward. You need to be either Tenant Administrator or Business Profile Administrator for the Business Profile where the Community should be available.
+Setting up a community is pretty straight forward. You need to be either Tenant Administrator or Business Profile Administrator for the business profile where the community should be available.
 
-You also need to have Page Editor permissions to a suitable page to set upp access to the community.
+You also need to have page editor permissions to a suitable page to set upp access to the community.
 
-Creating a Community
+Creating a community
 **********************
 Do the following to create a community:
 
