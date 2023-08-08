@@ -3,6 +3,8 @@ Working with Events
 
 Using a number of options in Omnia, together with a few dedicated options, information can be published about different kinds of events (training sessions is one example) and Event Managers can handle registration of participants for the event.
 
+Prerequisite: The Tenant Feature "Event Management" must be active for any event options to be available.
+
 **Note!** Event Manager is not a separate permission, it's a term we use for the person that creates and manages an event. The permission an Event Manager needs is Editor, for the page where the event is managed.
 
 Important Event options:
