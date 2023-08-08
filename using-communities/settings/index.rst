@@ -5,6 +5,8 @@ Setting up a community is pretty straight forward. You need to be either Tenant 
 
 You also need to have page editor permissions to a suitable page to set upp access to the community.
 
+Prerequisite: The Tenant feature “Communities” must be active for any community options to be available. Web Content Managament features must also be active for communities to work.
+
 Creating a community
 **********************
 Do the following to create a community:
