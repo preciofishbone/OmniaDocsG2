@@ -3,13 +3,15 @@ Requests
 
 All created requests are listed here. You can filter on "Requested By" and "Progress Status" (In Progress or Completed).
 
-Here's an example of a list from a test environment:
+Here's an example of a list:
 
-.. image:: sign-off-requests-requests-613-new.png
+.. image:: sign-off-requests-requests-v7.png
 
 The "Status" column indicates if the request is open or closed. the "Progress Status" column to the right indicates the number of answers; white for none, yellow for some/ongoing and green for all that the request was sent to.
 
-For more details and the possibiblty to delete a request, click the link (Name).
+You can search for a request and you can filter tuk list using the list where it says "Progress Status".
+
+For more details and the possibiblty to delete a request, click the link (Title).
 
 Create a new request
 ***********************
@@ -17,11 +19,11 @@ To create a new request, do the following:
 
 1. Click the plus.
 
-.. image:: sign-off-requests-click-plus-613-new.png
+.. image:: sign-off-requests-click-plus-v7.png
 
-2. Use the following settings:
+2. The following is now shown:
 
-.. image:: sign-off-requests-settings-1-613-new.png
+.. image:: sign-off-requests-settings-1-v7.png
 
 + **Types**: Only available if more than one type has been set up, and is then mandatory. If just one type exists, it's still used (the properties are available) but the "Types" option is not shown here. 
 
@@ -77,13 +79,13 @@ Checking up on a request
 *************************
 You can check up on a Sign-off request to see what has happened.
 
-1. Click the link (Name) for the request.
+1. Click the link (Title) for the request.
 
-Something like the following is shown, example from a test environment:
+Something like the following is shown:
 
 .. image:: sign-off-requests-checking-1-613-new.png
 
-Here you can see, for example, the status and the number of recipients that has completed the request. You can check the message (if any) for a page by clicking the pen.
+Here you can see, for example, the status and the number of recipients that has completed the request. You can check the message (if any) for a page by clicking the pen (the link in Omnia 7.1).
 
 For more information, you can click "Download Details" to download an Excel file.
 
