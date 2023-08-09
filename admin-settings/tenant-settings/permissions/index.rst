@@ -17,7 +17,7 @@ External users that has been invited in the Azure AD can be added here as well. 
 
 To delete an administrator in any of the lists, just click the x. To add an administrator, add the name the same way as in other name fields.
 
-**Note!** There must always be at least one Tenant Administrator. If there is only one, that administrator can not be removed until an additional one has been added.
+**Note!** There must always be at least one Tenant Administrator. If there is only one, that administrator can not be removed until an additional administrator has been added.
 
 Secrets
 ********
