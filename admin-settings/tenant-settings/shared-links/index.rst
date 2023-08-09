@@ -15,7 +15,7 @@ The end user experience
 *************************
 The end user can access the Shared Links in the My Links control. The list contains all active links. The user can decide which non-mandatory links to display and can add personal links there. Here's an example:
 
-.. image:: my-linksexample-new2.png
+.. image:: my-linksexample-v7.png
 
 For more information about how to use My Links, see: :doc:`My Links</user-options/my-links/index>`
 
@@ -23,7 +23,7 @@ Settings
 **********
 In the list of Shared Links, click the pen to edit a link or the dust bin to delete a link.
 
-.. image:: shared-links-edit-new2.png
+.. image:: shared-links-edit-v7.png
 
 When editing a link, all options available when creating a new link can be edited, see below.
 
@@ -33,11 +33,11 @@ Do the following:
 
 1. Click the plus.
 
-.. image:: shared-links-click-plus-new3.png
+.. image:: shared-links-click-plus-v7.png
 
 2. Set the following:
 
-.. image:: shared-links-settings5.png
+.. image:: shared-links-settings-v7.png
 
 (Not all options are shown in the image.)
 
