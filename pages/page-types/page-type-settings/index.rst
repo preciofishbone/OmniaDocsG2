@@ -3,18 +3,12 @@ Page Type Settings
 
 The following can be available on the Settings tab:
 
-.. image:: page-type-settings-left-new3.png
+.. image:: page-type-settings-left-v7.png
 
 + **Title**: The name of the Page Type can be edited here.
-+ **Override Sharepoint Sync Settings**: Available for local Page Types (not for Tenant ones). See below for a description.
 + **Enable Automatic Archiving**: Set Automatic Archiving on or off for the Page Type. See below for more information.
++ **Override Sharepoint Sync Settings**: Available for local Page Types (not for Tenant ones). See below for a description.
 + **Properties**: Select the Properties that should be available for pages created from this Page Type. In many cases it results in fields the page editor has to or can fill in for a page. You can select any of the properties defined in the tenant. See this page for more information about setting up properties: :doc:`Tenant Settings - Properties </admin-settings/tenant-settings/properties/index>` 
-
-If properties was selected as in the image above it would result in these fields being available on the Properties tab for a page:
-
-.. image:: page-type-settings-left-fields-new3.png
-
-(Scheduled Start Date is available because Scheduling is allowed in the Page Collection.)
 
 Settings for Properties
 ******************************
@@ -22,7 +16,7 @@ Add a Property to the Page Type this way:
 
 1. Select the property in the list and click the plus.
 
-.. image:: page-type-property-plus.png
+.. image:: page-type-property-plus-v7.png
 
 Remove a property by clicking the dust bin.
 
@@ -30,11 +24,11 @@ To edit settings for a property, do the following:
 
 1. Click the cog wheel for the property.
 
-.. image:: page-type-settings-cogwheel-new.png
+.. image:: page-type-settings-cogwheel-v7.png
 
 Something like the following is shown:
 
-.. image:: page-type-settings-dot-menu-settings-new2.png
+.. image:: page-type-settings-dot-menu-settings-v7.png
 
 Note that the settings you do for a property here is valid for this Page Type only. It does not affect the property in any other way.
 
@@ -62,17 +56,17 @@ This option is available for local Page Types, not for Tenant Page Types.
 
 When you activate this option, the following is shown:
 
-.. image:: page-type-settings-override-message.png
+.. image:: page-type-settings-override-message-v7.png
 
 And then something like the following is available:
 
-.. image:: page-type-settings-override-new.png
+.. image:: page-type-settings-override-v7.png
 
 The settings are used exactly the same way here as the settings for the tenant. See this page for more information: :doc:`Sharepoint Sync </admin-settings/tenant-settings/webcontent-managament/sharepoint-sync/index>`
 
-When you have set up the sync here, you must execute a full sync to Sharepoint, as the message stated. Go to the Publishing App settings and click this button:
+When you have set up the sync here, you must execute a reindex/full sync to Sharepoint, as the message stated. You do that in the Publishing App settings:
 
-.. image:: page-type-settings-sync-button.png
+.. image:: tenant-properties-settings-sync-v7-frame.png
 
 Enable Automatic Archive
 ***************************
