@@ -1,7 +1,7 @@
 Publishing
 ========================================
 
-This page and the pages available here, describes how these options work in Omnia 6.13. For Omnia 7.0 and later, see this page: :doc:`Publishing settings in Omni 7 </blocks/general-block-settings/index>`
+This page and the pages available here, describes how these options work in Omnia 6.13. For Omnia 7.0 and later, see this page: (will soon be added).
 
 The following settings are available in Omnia 6.13:
 
