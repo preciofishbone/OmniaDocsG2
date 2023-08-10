@@ -30,7 +30,7 @@ Available options can differ depending on how the property is set up. Here's an 
 
 Note that the settings you do for a property here is valid for this Page Type only. It does not affect the property in any other way.
 
-For a description of the fields, see above. Note that a poperty used for automatic archiving should always be read only. 
+For a description of the fields, see below under *Settings for a property*. Note that a poperty used for automatic archiving should always be read only. 
 
 For more information on deleting, archiving, retrieving and terminating pages, see: :doc:`Delete a page </pages/delete-page/index>`
 
