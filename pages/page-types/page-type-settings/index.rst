@@ -10,6 +10,48 @@ The following can be available on the Settings tab:
 + **Override Sharepoint Sync Settings**: Available for local Page Types (not for Tenant ones). See below for a description.
 + **Properties**: Select the Properties that should be available for pages created from this Page Type. In many cases it results in fields the page editor has to or can fill in for a page. You can select any of the properties defined in the tenant. See this page for more information about setting up properties: :doc:`Tenant Settings - Properties </admin-settings/tenant-settings/properties/index>` 
 
+Enable Automatic Archive
+***************************
+Using this option you can activate automatic archiving for pages created from this Page Type. When a page is automatically archived, it is deleted and placed in the archive, the same way as when an editor deletes a page manually.
+
+Here's a Tenant Page Type as an example:
+
+.. image:: automatic-archive.png
+
+When you click "Enable Automatic Archive" the following is shown:
+
+.. image:: automatic-archive-settings-new.png
+
+Select a property to base the automatic archiving on. **Note!** Best practice is to create a specific property to use for this purpose. Any Custom property of type date or time can be used.
+
+You can then edit the settings for the property you have chosen by clicking the cogwheel for the property.
+
+.. image:: automatic-archive-settings-select.png
+
+Available options can differ depending on how the property is set up. Here's an example:
+
+.. image:: automatic-archive-settings-settings-edited.png
+
+Note that the settings you do for a property here is valid for this Page Type only. It does not affect the property in any other way.
+
+For a description of the fields, see above. Note that a poperty used for automatic archiving should always be read only. 
+
+For more information on deleting, archiving, retrieving and terminating pages, see: :doc:`Delete a page </pages/delete-page/index>`
+
+Calculate based on another property on the page
+------------------------------------------------
+Automatic archiving can be a calculated value. Note that the property that is used as base for the calculation, must be one of the other properties for the page.
+
+In this example, the page should be automatically archived one month after the article date:
+
+.. image:: automatic-archive-settings-calculated.png
+
+Note that if the value for the base property can be edited, which often is the case for Article Date, the automatic archiving date is automatically recalculated if the value of the base property is edited.
+
+Automatic termination
+-----------------------
+Furthermore you can set automatic termination from the archive, based on archiving date. You can find that setting in the Publishing App Settings. See the heading "Archive" at the bottom of this page: :doc:`Publishing App Settings </pages/page-settings/index>`
+
 Settings for Properties
 ******************************
 Add a Property to the Page Type this way:
@@ -68,44 +110,3 @@ When you have set up the sync here, you must execute a reindex/full sync to Shar
 
 .. image:: tenant-properties-settings-sync-v7-frame.png
 
-Enable Automatic Archive
-***************************
-Using this option you can activate automatic archiving for pages created from this Page Type. When a page is automatically archived, it is deleted and placed in the archive, the same way as when an editor deletes a page manually.
-
-Here's a Tenant Page Type as an example:
-
-.. image:: automatic-archive.png
-
-When you click "Enable Automatic Archive" the following is shown:
-
-.. image:: automatic-archive-settings-new.png
-
-Select a property to base the automatic archiving on. **Note!** Best practice is to create a specific property to use for this purpose. Any Custom property of type date or time can be used.
-
-You can then edit the settings for the property you have chosen by clicking the cogwheel for the property.
-
-.. image:: automatic-archive-settings-select.png
-
-Available options can differ depending on how the property is set up. Here's an example:
-
-.. image:: automatic-archive-settings-settings-edited.png
-
-Note that the settings you do for a property here is valid for this Page Type only. It does not affect the property in any other way.
-
-For a description of the fields, see above. Note that a poperty used for automatic archiving should always be read only. 
-
-For more information on deleting, archiving, retrieving and terminating pages, see: :doc:`Delete a page </pages/delete-page/index>`
-
-Calculate based on another property on the page
-------------------------------------------------
-Automatic archiving can be a calculated value. Note that the property that is used as base for the calculation, must be one of the other properties for the page.
-
-In this example, the page should be automatically archived one month after the article date:
-
-.. image:: automatic-archive-settings-calculated.png
-
-Note that if the value for the base property can be edited, which often is the case for Article Date, the automatic archiving date is automatically recalculated if the value of the base property is edited.
-
-Automatic termination
------------------------
-Furthermore you can set automatic termination from the archive, based on archiving date. You can find that setting in the Publishing App Settings. See the heading "Archive" at the bottom of this page: :doc:`Publishing App Settings </pages/page-settings/index>`
