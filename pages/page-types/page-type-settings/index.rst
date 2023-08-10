@@ -14,10 +14,6 @@ Enable Automatic Archive
 ***************************
 Using this option you can activate automatic archiving for pages created from this Page Type. When a page is automatically archived, it is deleted and placed in the archive, the same way as when an editor deletes a page manually.
 
-Here's a Tenant Page Type as an example:
-
-.. image:: automatic-archive.png
-
 When you click "Enable Automatic Archive" the following is shown:
 
 .. image:: automatic-archive-settings-new.png
