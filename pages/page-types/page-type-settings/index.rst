@@ -48,6 +48,26 @@ Automatic termination
 -----------------------
 Furthermore you can set automatic termination from the archive, based on archiving date. You can find that setting in the Publishing App Settings. See the heading "Archive" at the bottom of this page: :doc:`Publishing App Settings </pages/page-settings/index>`
 
+Override Sharepoint Sync Settings
+************************************
+Sharepoint Sync Settings are set in Omnia Admin (available under Web Content Management), for the whole tenant. If you need some other synchronization for pages created from this Page Type, you can override the tenant settings and create a specific synchronization here.
+
+This option is available for local Page Types, not for Tenant Page Types.
+
+When you activate this option, the following is shown:
+
+.. image:: page-type-settings-override-message-v7.png
+
+And then something like the following is available:
+
+.. image:: page-type-settings-override-v7.png
+
+The settings are used exactly the same way here as the settings for the tenant. See this page for more information: :doc:`Sharepoint Sync </admin-settings/tenant-settings/webcontent-managament/sharepoint-sync/index>`
+
+When you have set up the sync here, you must execute a reindex/full sync to Sharepoint, as the message stated. You do that in the Publishing App settings:
+
+.. image:: tenant-properties-settings-sync-v7-frame.png
+
 Settings for Properties
 ******************************
 Add a Property to the Page Type this way:
@@ -85,24 +105,4 @@ The following settings can be available for a property (not all are shown in the
 + **Limit access permission**: If not all authors are permitted to edit this setting for the Page Type, add the colleagues or groups that should be able to edit these settings here.
 
 2. Edit the settings as needed and click OK.
-
-Override Sharepoint Sync Settings
-************************************
-Sharepoint Sync Settings are set in Omnia Admin (available under Web Content Management), for the whole tenant. If you need some other synchronization for pages created from this Page Type, you can override the tenant settings and create a specific synchronization here.
-
-This option is available for local Page Types, not for Tenant Page Types.
-
-When you activate this option, the following is shown:
-
-.. image:: page-type-settings-override-message-v7.png
-
-And then something like the following is available:
-
-.. image:: page-type-settings-override-v7.png
-
-The settings are used exactly the same way here as the settings for the tenant. See this page for more information: :doc:`Sharepoint Sync </admin-settings/tenant-settings/webcontent-managament/sharepoint-sync/index>`
-
-When you have set up the sync here, you must execute a reindex/full sync to Sharepoint, as the message stated. You do that in the Publishing App settings:
-
-.. image:: tenant-properties-settings-sync-v7-frame.png
 
