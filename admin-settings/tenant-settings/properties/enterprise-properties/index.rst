@@ -46,5 +46,5 @@ When editing a property, a few more settings can be available under Sharepoint S
 
 **Note!** If you change setting for Sharepoint Searchable it's only valid for new pages created from here on. If you want this setting to be active for all existing pages as well, you must execute Renidex for all Publishing Apps using this property, in the Publishing App settings:
 
-.. image:: tenant-properties-settings-sync-v7.png
+.. image:: tenant-properties-settings-sync-v7-frame.png
 
