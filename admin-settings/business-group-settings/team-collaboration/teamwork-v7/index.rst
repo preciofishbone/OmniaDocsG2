@@ -7,16 +7,17 @@ This page and the pages available here, describes how these options work in Omni
 
 The following settings are available in Omnia 7.0 and later:
 
-.. image:: publishing-v7.png
+.. image:: teamwork-v7.png
 
 Select section for more information:
 
 .. toctree::
    :titlesonly:
 
-   apps-v7/index
-   layout-v7/index
-   templates-v7/index
+   Directory/index
+   layouts/index
+   templates/index
+   naming-policies/index
 
 A Publishing Apps Rollup block is also available: :doc:`Publishing Apps Rollup block </blocks/publishing-app-rollup/index>`
 
