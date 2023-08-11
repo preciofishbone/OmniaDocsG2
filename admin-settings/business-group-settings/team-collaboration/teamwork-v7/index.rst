@@ -19,7 +19,7 @@ Select section for more information:
    templates/index
    naming-policies/index
 
-A Teamwork Rollup block is also available: :doc:`Publishing Apps Rollup block </blocks/team-collaboration-rollup/index>`
+A Teamwork Rollup block is also available: :doc:`Teamwork Rollup block </blocks/team-collaboration-rollup/index>`
 
 
 
