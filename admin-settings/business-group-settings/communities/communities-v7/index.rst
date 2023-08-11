@@ -18,7 +18,7 @@ Select section for more information:
    layouts/index
    templates/index
 
-A Publishing Apps Rollup block is also available: :doc:`Publishing Apps Rollup block </blocks/publishing-app-rollup/index>`
+A Community Rollup block is also available: :doc:`Community Rollup block </blocks/community-rollup/index>`
 
 
 
