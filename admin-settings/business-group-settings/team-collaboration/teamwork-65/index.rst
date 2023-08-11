@@ -17,4 +17,4 @@ Select section for more information:
    teamwork-layout/index
    templates/index
 
-
+A Teamwork Rollup block is also available: :doc:`Teamwork Rollup block </blocks/team-collaboration-rollup/index>`
