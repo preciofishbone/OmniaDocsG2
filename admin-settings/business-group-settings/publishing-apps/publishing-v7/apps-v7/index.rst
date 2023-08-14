@@ -11,7 +11,7 @@ Here you will see a list of Publishing Apps in the Business Profile, for example
 
 Use this icon to close the menu to the left and work in full window mode:
 
-(Image to be added)
+.. image:: publishing-apps-icon-v7.png
 
 You can click the link to go to an app. You can search for an app and use the headings "Title", "Template" and "Created Date" to sort the list.
 
