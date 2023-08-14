@@ -3,13 +3,15 @@ Publishing Layouts for Omnia v7
 
 **This page is under construction.**
 
-Here you can create aned edit ready made layouts for publishing pages. If you're planning to add the possibility to work with Controlled Documents in a Publishing App, you use this option to create a layout for that functionality. For more information on how to create a layout for Controlled Documents, see the end of the page.
+Here you can create and edit ready made layouts for publishing pages. If you're planning to add the possibility to work with Controlled Documents in a Publishing App, you use this option to create a layout for that functionality. For more information on how to create a layout for Controlled Documents, see the end of the page.
 
 If there are som publishing layouts created, they will be listed here, for example:
 
-.. image:: publishing-layouts.png
+.. image:: publishing-layouts-v7.png
 
 To edit a layout, just click the name. All settings available when creating a new layout can be edited, see below.
+
+
 
 Create a new publishing layout
 ********************************
