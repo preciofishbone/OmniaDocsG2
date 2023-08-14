@@ -140,14 +140,6 @@ Enhanded multi-lingual support:
 * Navigation node titles.
 * Page Types titles.
 
-Release 7.1 (Preview)
-========================================
-
-Media Gallery
-----------------------------------------
-
-The media block can be configured to allow multi-select of images and videos. 
-
 Versions
 -----------------------------------------
 
