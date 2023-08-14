@@ -1,7 +1,7 @@
 Directory for Publishing apps for Omnia v7
 ================================================
 
-**This page is under construction.**
+**This page is being updated. Will be finsihed soon**
 
 Within a Business Profile several Publishing Apps can be active for different settings. To be able to create a Publishing App, at least one template for Publishing Apps must be available. If none are, create a template first.
 
@@ -9,13 +9,13 @@ Here you will see a list of Publishing Apps in the Business Profile, for example
 
 .. image:: publishing-apps-apps-v7.png
 
-Use this icon to close the menu the left and work in full window mode:
+Use this icon to close the menu to the left and work in full window mode:
 
 (Image to ba edded)
 
-You can click the link to go to an app. You can search for an app and the headings "Title", "Template" and "Created Date" can be used to sort the list.
+You can click the link to go to an app. You can search for an app and use the headings "Title", "Template" and "Created Date" to sort the list.
 
-The following actions, using the dot menuu to the right, are available for an app:
+The following actions, using the dot menu to the right, are available for an app:
 
 .. image:: publishing-acstions-v7.png
 
@@ -53,7 +53,7 @@ Available settings depends on how the template is set up. Here are some common e
 
 3. In the last setp, summary, you cen check the settings you have made, and edit them if necessary.
 
-4. When you're done: click CREATE or SEND FOR APPROVAL, depending how to temnplate is set up, to create the Publishing App.
+4. When you're done: click CREATE or SEND FOR APPROVAL, depending on how the temnplate is set up, to create the Publishing App.
 
 .. image:: publishing-apps-settings-create-v7.png
 
