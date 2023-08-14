@@ -5,6 +5,7 @@
 System wide
 ******
 - New Filter UX and settings for all rollups. Resolves (#146912, #136058, #138038, #144147, #142858, #144762, #143976).
+- Terms picked now searched the full content of the term (#137357).
 - All filters can be configured to have a fixed position.
 - In a term set filter, it’s now possible to select if deprecated terms should be displayed or not (#115011).
 - Long term names can now be viewed via tool tip, including the path to the term (#143157, #143460).
@@ -54,6 +55,8 @@ Web Content Management
 - Connected tenants can now be setup, to allow automatic page creation between tenants.
 - Page rollup list view can now be configred with a fixed position.
 - In the case of trying to create a duplicated url to a page, better feedback is now provided and the result is prettier. 
+- Comments and likes can now be shared between variations of a page. (#142216).
+- 
 
 Teamwork
 ****
@@ -104,6 +107,9 @@ Document Management
 - Bulk update now gives consistent results for users with different email and login name (#144982).
 - Document types can now be configured to be compliant with Microsoft AIP. This by disabling features that replace properties and put the document into review mode.
 - More tokens are now available to be used in the Document Management related emails. These include all enterprise properties and change comment.
+- Document history now contains Published by (#138412).
+- Bulk update can now search for user properties where the user has been deleted (#138222).
+- Draft documents can now be restored from the SharePoint recycle bin (#136051).
 
 Notes for developers
 *****
