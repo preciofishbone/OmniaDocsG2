@@ -5,16 +5,16 @@
 System wide
 ******
 - New Filter UX and settings for all rollups. Resolves (#146912, #136058, #138038).
-- In a termset filter, its now possible to select if deprected terms should be displayed or not (#115011).
+- In a term set filter, it’s now possible to select if deprecated terms should be displayed or not (#115011).
 - Long term names can now be viewed via tool tip, including the path to the term (#143157, #143460).
-- Omnia users are now available and kaizala logins are now no longer supported (#123798).
+- Omnia users are now available and Kaizala logins are now no longer supported (#123798).
 - Fixes to theming issues in Omnia Admin (#144292, )
 - Azure AD Group targeting is now case insensitive (#145285).
 - Anchors to tabs can now both scroll the page and select the correct tab/accordion (#140710, #141196, #137953).
 - 
 
 
-Communeties
+Communities
 *****
 
 - Auto translated pages no longer creates empty rows in the Activity feed (#137822).
@@ -33,8 +33,8 @@ Web Content Management
 Teamwork
 ****
 
-- Several changes has been made to the handling of permissions in omnia, solves several sync to SharePoint issues (#141378, #144775, #125161). 
-- Security trimmin is now available for teamwork rollup (#128494).
+- Several changes have been made to the handling of permissions in omnia, solves several sync to SharePoint issues (#141378, #144775, #125161). 
+- Security trimming is now available for teamwork rollup (#128494).
 - Better handling and user information when deleting a teamwork template (#142404).
 - A site template can now define default values for different properties (#107193).
 
