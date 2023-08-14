@@ -14,7 +14,7 @@ Select section for more information:
 .. toctree::
    :titlesonly:
 
-   Directory/index
+   directory/index
    layouts/index
    templates/index
    naming-policies/index
