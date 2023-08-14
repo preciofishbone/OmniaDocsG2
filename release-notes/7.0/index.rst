@@ -1,7 +1,5 @@
-Release 7 - Preview
+Release 7
 ========================================
-
-.. note:: The release notes are currently in preview and may be subject to change at any time.
 
 User Management
 ----------------------------------------
@@ -36,12 +34,6 @@ Omnia supports any custom authentication provider to be plugged into the system.
 Omnia provides support for a range of authentication options, including passwords, one-time passwords (OTPs), magic links, and combinations of these methods.
 
 .. image:: usermgmt-authentication.png
-
-Media Gallery
-----------------------------------------
-
-The media block can be configured to allow multi-select of images and videos. 
-
 
 
 Process Management improvements
@@ -101,9 +93,15 @@ Improved end user filters
 
 The end user filters for all rollups have undergone significant enhancements.
 
+.. image:: new-filters-1.png
+
+.. image:: new-filters-2.png
+
 The refiners section in the settings have been removed and merged into the filters section.
 Rollups that support refiners (all rollups based on SharePoint Search) will have a new filter setting
 to allow the possiblity to "Show result count".
+
+.. image:: new-filters-3.png
 
 Least privilege app permission model
 ----------------------------------------
@@ -141,6 +139,14 @@ Enhanded multi-lingual support:
 * Publishing App title and description.
 * Navigation node titles.
 * Page Types titles.
+
+Release 7.1 (Preview)
+========================================
+
+Media Gallery
+----------------------------------------
+
+The media block can be configured to allow multi-select of images and videos. 
 
 Versions
 -----------------------------------------
