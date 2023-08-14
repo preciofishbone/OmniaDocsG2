@@ -57,51 +57,55 @@ Available settings depends on how the template is set up. Here are some common e
 
 3. In the last setp, summary, you cen check the settings you have made, and edit them if necessary.
 
-4. When you're done: click CREATE or SEND FOR APPROVAL, depending on how the temnplate is set up, to create the Publishing App.
+4. When you're done: click CREATE or SEND FOR APPROVAL, depending on how the temnplate is set up.
 
 .. image:: publishing-apps-settings-create-v7.png
 
-Publishing App settings
----------------------------
-Settings for a Publishing App is done in the Settings menu when working with pages, see: :doc:`Publishing App Settings </pages/page-settings/index>`
-
-Edit App Route
+Edit Alias
 *****************
-If it should be needed to edit the App Route, click the icon and the following is shown:
+If it should be needed to edit the Alias, you can do it as part of the actions:
 
-.. image:: publishing-apps-app-route-612.png
+.. image:: publishing-apps-app-route-v7.png
 
 Edit Permissions
 *****************
-If you need to add or remove Administrator(s) for a Publishing App, you do it here:
+If you need to add or remove Administrator(s) for a Publishing App, you can do it as part of the actions:
 
-.. image:: publishing-apps-app-premissions-612.png
+.. image:: publishing-apps-app-premissions-v7.png
 
 Contributor permissions is needed if colleagues should be able to add comments to publishing pages.
 
-Don't forget to save when you're done.
-
 Edit Features
 **************
-If it's needed to upgrade a feature for the Publishing App, you need to go here. You also go here to activate or remove a feature.
+If it's needed to upgrade a feature for the Publishing App, you need to go this part of the actions. You also go here to activate or remove a feature.
 
-.. image:: publishing-apps-app-features-65.png
+.. image:: publishing-apps-app-features-v7.png
+
+For more information about a feature, expand it.
+
+Edit app settings
+*******************
+Using the "Edit" option under Actions, you can edit the Information part od the app settings:
+
+.. image:: publishing-apps-app-edit-v7.png
+
+For more informaiton about the options, see above.
+
+A number of additionsl settings for a Publishing App is available in the Settings menu when working with pages, see: :doc:`Publishing App Settings </pages/page-settings/index>`
 
 Pending Approval
 *****************
-If Approval for creation is activated for the template, an administrator uses this list to work with approval or rejection.
+If Approval for creation is activated for the template, an administrator uses this list to work with approval or rejection. Here's an example from a test site:
 
-The list can look like this:
+.. image:: publishing-pending-approval-v7.png
 
-.. image:: publishing-pending-approval-612.png
+To approve or reject, click the link and browse the settings. Under Summary you decide:
 
-To approve or reject, click the link and browse the settings. And here you decide:
-
-.. image:: publishing-pending-approval-approve-612.png
+.. image:: publishing-pending-approval-approve-v7.png
 
 If you click Approve, the publishing app is created and the colleague requesting the approval is notified. If you click Reject you add a comment of what needs to be done before it can be approved:
 
-.. image:: publishing-pending-approval-comment-612.png
+.. image:: publishing-pending-approval-comment-v7.png
 
 **Note!** Requesting an app must always be done from start each time. If rejected, nothing from the request is saved.
 
