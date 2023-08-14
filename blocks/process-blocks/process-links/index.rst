@@ -5,7 +5,7 @@ Use this block to display the links the process author added to the Links tab fo
 
 You can add a title on any or all the available languages, and add some padding, if nedded.
 
-.. image:: process-links-block-new.png
+.. image:: process-links-block-v7.png
 
 Layout and Write
 *********************

@@ -3,13 +3,15 @@ Requests
 
 All created requests are listed here. You can filter on "Requested By" and "Progress Status" (In Progress or Completed).
 
-Here's an example of a list from a test environment:
+Here's an example of a list:
 
-.. image:: sign-off-requests-requests-613-new.png
+.. image:: sign-off-requests-requests-v7.png
 
 The "Status" column indicates if the request is open or closed. the "Progress Status" column to the right indicates the number of answers; white for none, yellow for some/ongoing and green for all that the request was sent to.
 
-For more details and the possibiblty to delete a request, click the link (Name).
+You can search for a request and you can filter tuk list using the list where it says "Progress Status".
+
+For more details and the possibiblty to delete a request, click the link (Title).
 
 Create a new request
 ***********************
@@ -17,27 +19,27 @@ To create a new request, do the following:
 
 1. Click the plus.
 
-.. image:: sign-off-requests-click-plus-613-new.png
+.. image:: sign-off-requests-click-plus-v7.png
 
-2. Use the following settings:
+2. The following is now shown:
 
-.. image:: sign-off-requests-settings-1-613-new.png
+.. image:: sign-off-requests-settings-1-v7.png
 
 + **Types**: Only available if more than one type has been set up, and is then mandatory. If just one type exists, it's still used (the properties are available) but the "Types" option is not shown here. 
 
-When you have selected Type, some or all of these settings can be available: 
+When you have selected type, some or all of these settings can be available: 
 
 + **Name**: Add a name for the request here, in any of the tenant languages (click the flag to chance language).
 + **Description**: You can add a description of the request, in any of the tenant languages (click the flag to chance language).
-+ **Properties**: The properties available depends on the Type used. The properties are useful for tagging the request. This can then be used as filters for what is to be displayed in a certain Sign-off Requests Rollup block. 
++ **Properties**: Available properties (if any) depends on the type used. The properties are useful for tagging the request. This can then be used as filters for what is to be displayed in a certain sign-off requests rollup block. 
 + **To be signed off**: Here you add the pages that should be signed off, using the Page Picker. If the type was based on a template, the list of pages will most likely be pre populated with a number of pages. You can add or remove pages as needed. See below for more details.
-+ **Sign-off Type**: Select how the sign-off request will be handled. If the type is based on a template, Sign-off type, and the following two fields can be pre populated sith siggestions. If you select "Individual", all users added to "Request sent to" will receive a personal request. Everyone has to sign-off individually. If you select "Group", it works as one group request, meaning it's enough that any of the recipients signs-off the request. All other recipients can see that the request was sent to them and can see if someone in the group has signed off, they can see if the task is done or not.
++ **Sign-off Type**: Select how the sign-off request will be handled. If the type is based on a template, Sign-off type, and the following two fields can be pre populated with siggestions. If you select "Individual", all users added to "Request sent to" will receive a personal request. Everyone has to sign-off individually. If you select "Group", it works as one group request, meaning it's enough that any of the recipients signs-off the request. All other recipients can see that the request was sent to them and can see if someone in the group has signed off, they can see if the task is done or not.
 + **Requested by**: Add one or more users, or groups, that will be shown as the "sender" of this request. Will be shown to the receivers. Your name will most lilkely be pre populated, but it can be removed. This field must always contain at least one person or group. To add several users or a group here can be useful, then all users, or the whole group, will be able to follow up on the request. This field is mandatory.
 + **Request sent to**: Select one or more users or groups to send to. Single users, Security groups and Microsoft 365 groups can be added here (In Omnia on-prem, Microsoft 365 groups can’t be used). This field is mandatory. 
 
 3. Add or remove pages as needed.
 4. Add a message for each page, if needed (for more information, see below).
-5. Click REQUEST to save the Sign-off request and send it. If you don't, nothing is saved.
+5. Click SEND REQUEST to save the Sign-off request and send it. If you don't, nothing is saved.
 
 To add or remove pages
 ----------------------------
@@ -77,13 +79,13 @@ Checking up on a request
 *************************
 You can check up on a Sign-off request to see what has happened.
 
-1. Click the link (Name) for the request.
+1. Click the link (Title) for the request.
 
-Something like the following is shown, example from a test environment:
+Something like the following is shown:
 
 .. image:: sign-off-requests-checking-1-613-new.png
 
-Here you can see, for example, the status and the number of recipients that has completed the request. You can check the message (if any) for a page by clicking the pen.
+Here you can see, for example, the status and the number of recipients that has completed the request. You can check the message (if any) for a page by clicking the pen (the link in Omnia 7.1).
 
 For more information, you can click "Download Details" to download an Excel file.
 
@@ -109,5 +111,5 @@ Sign-off Requests Rollup block
 *********************************
 There's a block available to be used for listing the Sign-off Requests that is sent to the logged in user or a group that the user belongs to.
 
-More information about the block is found here: :doc:`Sign-off Requests Rollup </blocks/sign-off-request/index>`
+More information about the block is found here: :doc:`Sign-off Requests Rollup </blocks/sign-off-requests-rollup-613/index>`
 

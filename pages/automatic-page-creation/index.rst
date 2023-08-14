@@ -5,7 +5,7 @@ An administrator can setup rules in a Page Collection for automatic page creatio
 
 It works this way: Whenever a page is published in the Page Collection and match a specific rule, a copy of the page will be published to another Page Collection in the tenant. To be more specific; it is the information contained in the properties that are copied, not the whole page as it is. Therefore the page in the target Page Collection can look different depending on available Page Types. 
 
-In Omnia 7.0 it will be possible to publish a copy of a page to another tenant as well. A pre requisite is that tenants that should be available for automatic page creation are registered as connected tenants in Omnia Admin. See this page for more information: :doc:`Connected tenants </admin-settings/tenant-settings/system/connected-tenants/index>`
+In Omnia 7.0 it can be possible to publish a copy of a page to another tenant as well. A pre requisite is that tenants that should be available for automatic page creation are registered as connected tenants in Omnia Admin. See this page for more information: :doc:`Connected tenants </admin-settings/tenant-settings/system/connected-tenants/index>`
 
 This can for example be used to make sure a specific type of news will be published in more than one News Center, for example both in the internal News Center and in a partner portal or a customer portal. But this is just one example, it can be used with any type of page.
 

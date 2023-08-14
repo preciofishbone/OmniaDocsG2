@@ -55,7 +55,7 @@ All languages to be used here must be setup in the Tenant, see: :doc:`Regional S
 
 Targeting Announcements
 -------------------------
-An Announcement can be targeted to any receivers that has been defined in Targeting Properties, see the section on this page: :doc:`Properties </admin-settings/tenant-settings/properties/index>`
+An Announcement can be targeted to any receivers that has been defined in Targeting Properties, see the section on this page: :doc:`Targeting Properties </admin-settings/tenant-settings/properties/targeting-properties/index>`
 
 You set up targeting for an announcement the same way as for many other parts of Omnia. See this page for more information: :doc:`Using Targeting </general-assets/targeting-in-omnia/index>`
 

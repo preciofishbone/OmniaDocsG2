@@ -1,13 +1,11 @@
 Dashboard
 ===========
 
-Here you can build the Admin Dashboard to your needs, to display dashboard information on many different aspects of the tenant. You set up the Dashboard much like you would do a page type. Most sections and blocks can be used.
+Here you can build the Admin Dashboard to your needs, to display dashboard information on many different aspects of the tenant. You set up the Dashboard the same as you would any layout in Omnia. Most sections and blocks can be used.
 
 .. image:: dashboard-new.png
 
-As you would a page type, the first step is to add the layout, using sections. See this page for more information: :doc:`Working with section and blocks </pages/page-types/working-with-sections-and-blocks/index>`
-
-You then add the blocks you need. All available blocks are listed on this page: :doc:`Blocks </blocks/index>`
+See this page for gmore information: :doc:`Working with layouts </general-assets/working-with-layouts/index>`
 
 The Metrics block can be especially useful: :doc:`The Metrics block </blocks/metrics-block-612/index>`
 

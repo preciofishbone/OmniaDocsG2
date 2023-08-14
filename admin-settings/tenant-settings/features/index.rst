@@ -18,7 +18,6 @@ Here you can activate, remove or upgrade the Omnia Add-ons.
 + **Controlled Documents**: Activates the extensive funcionality for working with cxontrolled documents in the tenant.
 + **Info Screen**: Activates functionality for sending selected Omnia pages to general or public screens.
 + **Event Management**: Activates the extensive functionality for Omnia Event Management in the tenant. 
-+ **Handle Open Documents Link Mobile Browser**: (A description will be added soon).
 + **Documents Link Handler**: Activates the link handler functionality for documents. Settings are then available through "Link Handler" under "Settings" for the tenant.
 + **Process Management**: Activates the extensive Omnia Process Management functionality in the tenant.
 + **Rules Link Handler**: Activates the link rules handler functionality. Settings are then available through "Link Handler" under "Settings" for the tenant.

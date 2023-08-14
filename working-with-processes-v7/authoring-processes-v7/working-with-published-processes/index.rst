@@ -1,8 +1,6 @@
 Working with published processes in Omnia 7.0
 =======================================================
 
-**This documentation is just started. Don't use yet.**
-
 The Published tab lists the latest edition of all published processes from this Processes library. 
 
 .. image:: pm-published-list-v7.png

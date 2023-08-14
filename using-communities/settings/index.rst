@@ -1,11 +1,13 @@
-Setting up a Community
+Setting up a community
 ========================
 
-Setting up a community is pretty straight forward. You need to be either Tenant Administrator or Business Profile Administrator for the Business Profile where the Community should be available.
+Setting up a community is pretty straight forward. You need to be either Tenant Administrator or Business Profile Administrator for the business profile where the community should be available.
 
-You also need to have Page Editor permissions to a suitable page to set upp access to the community.
+You also need to have page editor permissions to a suitable page to set upp access to the community.
 
-Creating a Community
+Prerequisite: The Tenant feature “Communities” must be active for any community options to be available. Web Content Managament features must also be active for communities to work.
+
+Creating a community
 **********************
 Do the following to create a community:
 
@@ -15,8 +17,8 @@ Do the following to create a community:
 .. image:: communities-bp-new.png
 
 3. Create at least one template, as describe here: :doc:`Templates for Communities </admin-settings/business-group-settings/communities/communities-65/templates/index>`. 
-4. Create a Community Site according to the description on this page: :doc:`Communities Apps </admin-settings/business-group-settings/communities/communities-65/apps/index>`
-5. When the site has been created, you can use the link (Title) in Communities to go to the site. (To get the Url, you can also right click on the Title and copy the link address).
+4. Create a community site according to the description on this page: :doc:`Communities Apps </admin-settings/business-group-settings/communities/communities-65/apps/index>`
+5. When the site has been created, you can use the link (Title) in Communities to go to the site. (To get the Url, you can also right click on the title and copy the link address).
 6. Setup access to the community some way, using the Url. (More information about that below.)
 
 Setting up access to communities
@@ -29,19 +31,19 @@ You set up access using the options available in Omnia. Here's an example using 
 
 This is just an example for inspiration. Access to communities can be set up many other ways in Omnia.
 
-Settings for the Community
+Settings for the community
 *****************************
 After the community has been created there are some settings you may want to do.
 
-Settings for Activity Points
+Settings for activity points
 -------------------------------
 You can select to award activity points for certain actions. When activity points is active, you can also choose to use badges, see below.
 
 Activity points are counted within the page collection.
 
-To enable Activity Points, do the following:
+To enable activity points, do the following:
 
-1. Go to the Community and edit the start page.
+1. Go to the community and edit the start page.
 
 .. image:: community-page-edit.png
 
@@ -69,11 +71,11 @@ Using badges
 --------------------
 You can choose to award badges to users for reaching certain activity points levels. You must have activated activity points to be able to use badges.
 
-Activity points for badges are counted within the Publishing App.
+Activity points for badges are counted within the publishing app.
 
 To activate and create badges, do the following:
 
-1. Go to the Community and edit the start page.
+1. Go to the community and edit the start page.
 2. Click "Edit".
 
 .. image:: badges-edit-click.png
@@ -120,12 +122,12 @@ The settings for the Ninja badge looks like this:
 
 .. image:: badges-badges-example-ninja.png
 
-Community Page Types
+Community page types
 **********************
-Two page types are installed when a Community is created:
+Two page types are installed when a community is created:
 
 .. image:: communities-page-types.png
 
-If you have Page Collection permissions you can edit these Page Types to your needs, the same way as you can edit any other Page Type, see: :doc:`Page Types </pages/page-types/index>`
+If you have page collection permissions you can edit these page types to your needs, the same way as you can edit any other page type, see: :doc:`Page Types </pages/page-types/index>`
 
 

@@ -1,8 +1,6 @@
 Working with draft processes in Omnia 7.0
 =======================================================
 
-**This documentation is ongoing.**
-
 "Drafts" is used when creating and editing drafts for new processes or when updating an existing process for a new edition. 
 
 .. image:: drafts-v7.png

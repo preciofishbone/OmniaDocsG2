@@ -1,23 +1,21 @@
 Property Recycle Bin
 =========================
 
-You can delete some Properties from the various lists in Omnia Admin. You can also delete Property Sets. Normally you can just delete those your organization has added. Default Properties can not be deleted.
+You can delete some Properties from the various lists in Omnia Admin. You can also delete property sets. Normally you can just delete those your organization has added. Default properties can not be deleted.
 
-When a property is deleted it is moved to the Property Recycle Bin. If that property is used somewhere in Omnia, it's still available until you terminate it from the Property Recycle Bin. 
+When a property is deleted it is moved to the Property Recycle Bin. If that property is used somewhere in Omnia, it's still available until you terminate it from the recycle bin. 
 
 This is an example of a list of properties in the Property Recycle Bin:
 
-.. image:: property-recycle-bin-list.png
+.. image:: property-recycle-bin-list-v7.png
 
-Here you can decide what to do with them. To Restore a Property so it can be edited, click this icon:
+Here you can decide what to do with them. To restore a property so it can be edited, click this icon:
 
-.. image:: property-recycle-bin-restore.png
+.. image:: property-recycle-bin-restore-v7.png
 
-To Terminate a Property, click this icon:
+To terminate a property, click this icon:
 
-.. image:: property-recycle-bin-terminate.png
+.. image:: property-recycle-bin-terminate-v7.png
 
-Note that when you Terminate a Property, it's truly and finally removed from Omnia. It can no longer be used anywhere, and there's a risk that current implementations using the Property will be broken.
-
-
+Note that when you terminate a property, it's truly and finally removed from Omnia. It can no longer be used anywhere, and there's a risk that current implementations using the property will be broken.
 

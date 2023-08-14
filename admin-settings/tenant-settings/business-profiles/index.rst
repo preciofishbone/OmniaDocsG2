@@ -7,7 +7,7 @@ Settings for Teamwork, the Notification Panel, Search, Event Management, Worspac
 
 When adding and editing settings for a specific Business Profile, you must first select the Profile in this list. The available settings for the Business Profile are then available.
 
-.. image:: business-profile-settings-new3.png
+.. image:: business-profile-settings-v7.png
 
 Use the icons this way: the left-most icon to edit App Route, if applicable; the pen to edit the title and a few more settings; the dust bin to delete the Business Profile.
 
@@ -17,29 +17,41 @@ Edit App Route
 ***************
 If needed (and if it's applicable for the Business Profile) you can click the left-most icon to edit the App Route.
 
-.. image:: business-profile-app-route.png
+.. image:: business-profile-app-route-v7.png
 
-**Note!** Only one app route can exist. It's set here for the business profile, or for the workspace. If set in one of these places, it's then not available in the other one.  
+**Note!** Only one app route can exist. It's set here for the business profile, or for the workspace. If set in one of these places, it's then not available in the other one. 
+
+If the Root Route is set for the business profile, it's shown this way:
+
+.. image:: business-profile-app-root-route-v7.png
+
+The Root Route can only be assigned once in the tenant, for a business profile's workspace or for an app. To "move" the root route to another business profile or app, first deselect the option here and then reassign the root route.
 
 Create a new Business Profile
 *******************************
 To create a new Business Profile, click the plus:
 
-.. image:: business-profile-click-new3.png
+.. image:: business-profile-click-v7.png
 
 Use the following settings:
 
-.. image:: business-profile-add-new3.png
+.. image:: business-profile-add-v7.png
 
 + **Title**: Add a Title (name) for the Business Profile here.
 + **Use Custom Home Url**: Select this option to set Custom Home Urls, see below. 
 + **Omna Alias**: Add the Url for the Business Profile here.
++ **Business Profile Administrators**: Add one or more administrators for the business profile here.
++ **Business Profile Viewers**: Add one or more colleagues and/or groups that should be able to use thebusiness profile.
+
+Permissions for different parts of the business profile can then be set here: :doc:`Permissions for a business profile </admin-settings/business-group-settings/permissions/index>`
+
+You must be tenant administrator or administrator for the business profile, to edit the settings there.
 
 Custom Home Url
 -----------------
 When you select "Use Custom Home Url", the following is available:
 
-.. image:: business-profile-add-custom.png
+.. image:: business-profile-add-custom-v7.png
 
 Set the default home Url (the globe). You can also set a Url for the link when it’s clicked in Teams (not applicable in Omnia on-prem).
 

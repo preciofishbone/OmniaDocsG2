@@ -11,5 +11,5 @@ As an administrator you place the block when creating/editing a layout for a pro
 
 .. image:: process-status-admin.png
 
-There are no settings for the block.
+There are no specific settings for the block, only the general block settings found under LAYOUT. See this page for more information: :doc:`General Block Settings </blocks/general-block-settings/index>`
 

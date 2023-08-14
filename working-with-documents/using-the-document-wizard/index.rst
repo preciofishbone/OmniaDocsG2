@@ -1,7 +1,7 @@
 Using the Create New Document Wizard
 ============================================
 
-The Create New Document Wizard can be used to create either Controlled Documents or normal documents. A new document created in the wizard can be saved in any libray the loged in user has access to (a Controlled Documents library for a Controlled Document or a Documents library for a normal document). 
+The Create New Document Wizard can be used to create either Controlled Documents or normal documents. A new document created in the wizard can be saved in any libray the loged in user has access to (a Controlled Documents library for a Controlled Document or a Documents library for a normal document). It can also be possible to save new normal documents to the user's OneDrive.
 
 This wizard is always available in all Controlled Documents libraries.
 
@@ -97,6 +97,8 @@ To create a new normal document, do the following:
 .. image:: normal-document-5-new3.png
 
 OneDrive is your personal Microsoft 365 OneDrive. If "Intranet" is selected - if available - a list of folders you have access to in the intranet is shown. The rest of the locations are normally available Team Sites. If you select ALL you can search for a document libary.
+
+**Note!** For the OneDreive option to be available, the tenant feature "Save to OneDrive" must be active. This is done by a tenant administrator.
 
 7. Select folder in that location.
 

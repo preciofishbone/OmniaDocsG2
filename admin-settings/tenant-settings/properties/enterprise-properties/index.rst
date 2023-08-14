@@ -3,7 +3,7 @@ Enterprise Properties
 
 Here you add ALL Properties that should be used within the Tenant. The list displays all existing properties organized after category, for example:
 
-.. image:: enterprise-properties-list-new.png
+.. image:: enterprise-properties-list-v7.png
 
 To find a property for editing, you can either search (note the search field at the top), or browse by category.
 
@@ -11,7 +11,7 @@ To find a property for editing, you can either search (note the search field at 
 
 Open a category to see the list of properties. Here's an example:
 
-.. image:: enterprise-properties-list-example.png
+.. image:: enterprise-properties-list-example-v7.png
 
 Click the pen to edit a property. See below for editable settings. If it's possible to delete a property (meaning move it to the Property Recycle Bin) a dust bin is displayed.
 
@@ -21,11 +21,11 @@ Adding a Property
 *********************
 To add a Property, click the plus.
 
-.. image:: enterprise-properties-click-plus-v6.png
+.. image:: enterprise-properties-click-plus-v7.png
 
 Use the following settings:
 
-.. image:: tenant-properties-settings-new2.png
+.. image:: tenant-properties-settings-v7.png
 
 + **Title**: Add a Title (name) for the Property. Default language is mandatory. Add Titles in the other Tenant Languages as needed (Click the flag to change language).
 + **Internal name**: An internal name can, or should in some instances, be used instead of the Title, for example as a place holder. The internal name can not contain spaces. Note that the Internal Name can not be edited once the prroperty is created.
@@ -36,15 +36,15 @@ Use the following settings:
 
 Some, but not all properties can be selected as Sharepoint Searchable and/or Microsoft Searchable. Then, open the option and select it, for example:
 
-.. image:: tenant-properties-settings-more-new2.png
+.. image:: tenant-properties-settings-more-v7.png
 
 Editing a property
 **********************
 When editing a property, a few more settings can be available under Sharepoint Searchable. What is available for editing differs from property to property. Here's an example:
 
-.. image:: tenant-properties-settings-edit-new2.png
+.. image:: tenant-properties-settings-edit-v7.png
 
-**Note!** If you change setting for Sharepoint Searchable it's only valid for new pages created from here on. If you want this setting to be active for all existing pages as well, you must execute a full sync for all Publishing Apps using this property, using these buttons in the Publishing App settings:
+**Note!** If you change setting for Sharepoint Searchable it's only valid for new pages created from here on. If you want this setting to be active for all existing pages as well, you must execute Renidex for all Publishing Apps using this property, in the Publishing App settings:
 
-.. image:: tenant-properties-settings-sync.png
+.. image:: tenant-properties-settings-sync-v7-frame.png
 

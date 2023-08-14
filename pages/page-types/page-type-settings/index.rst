@@ -3,18 +3,70 @@ Page Type Settings
 
 The following can be available on the Settings tab:
 
-.. image:: page-type-settings-left-new3.png
+.. image:: page-type-settings-left-v7.png
 
 + **Title**: The name of the Page Type can be edited here.
-+ **Override Sharepoint Sync Settings**: Available for local Page Types (not for Tenant ones). See below for a description.
 + **Enable Automatic Archiving**: Set Automatic Archiving on or off for the Page Type. See below for more information.
++ **Override Sharepoint Sync Settings**: Available for local Page Types (not for Tenant ones). See below for a description.
 + **Properties**: Select the Properties that should be available for pages created from this Page Type. In many cases it results in fields the page editor has to or can fill in for a page. You can select any of the properties defined in the tenant. See this page for more information about setting up properties: :doc:`Tenant Settings - Properties </admin-settings/tenant-settings/properties/index>` 
 
-If properties was selected as in the image above it would result in these fields being available on the Properties tab for a page:
+Enable Automatic Archive
+***************************
+Using this option you can activate automatic archiving for pages created from this Page Type. When a page is automatically archived, it is deleted and placed in the archive, the same way as when an editor deletes a page manually.
 
-.. image:: page-type-settings-left-fields-new3.png
+When you click "Enable Automatic Archive" the following is shown:
 
-(Scheduled Start Date is available because Scheduling is allowed in the Page Collection.)
+.. image:: automatic-archive-settings-new.png
+
+Select a property to base the automatic archiving on. **Note!** Best practice is to create a specific property to use for this purpose. Any Custom property of type date or time can be used.
+
+You can then edit the settings for the property you have chosen by clicking the cogwheel for the property.
+
+.. image:: automatic-archive-settings-select.png
+
+Available options can differ depending on how the property is set up. Here's an example:
+
+.. image:: automatic-archive-settings-settings-edited.png
+
+Note that the settings you do for a property here is valid for this Page Type only. It does not affect the property in any other way.
+
+For a description of the fields, see below under *Settings for a property*. Note that a poperty used for automatic archiving should always be read only. 
+
+For more information on deleting, archiving, retrieving and terminating pages, see: :doc:`Delete a page </pages/delete-page/index>`
+
+Calculate based on another property on the page
+------------------------------------------------
+Automatic archiving can be a calculated value. Note that the property that is used as base for the calculation, must be one of the other properties for the page.
+
+In this example, the page should be automatically archived one month after the article date:
+
+.. image:: automatic-archive-settings-calculated.png
+
+Note that if the value for the base property can be edited, which often is the case for Article Date, the automatic archiving date is automatically recalculated if the value of the base property is edited.
+
+Automatic termination
+-----------------------
+Furthermore you can set automatic termination from the archive, based on archiving date. You can find that setting in the Publishing App Settings. See the heading "Archive" at the bottom of this page: :doc:`Publishing App Settings </pages/page-settings/index>`
+
+Override Sharepoint Sync Settings
+************************************
+Sharepoint Sync Settings are set in Omnia Admin (available under Web Content Management), for the whole tenant. If you need some other synchronization for pages created from this Page Type, you can override the tenant settings and create a specific synchronization here.
+
+This option is available for local Page Types, not for Tenant Page Types.
+
+When you activate this option, the following is shown:
+
+.. image:: page-type-settings-override-message-v7.png
+
+And then something like the following is available:
+
+.. image:: page-type-settings-override-v7.png
+
+The settings are used exactly the same way here as the settings for the tenant. See this page for more information: :doc:`Sharepoint Sync </admin-settings/tenant-settings/webcontent-managament/sharepoint-sync/index>`
+
+When you have set up the sync here, you must execute a reindex/full sync to Sharepoint, as the message stated. You do that in the Publishing App settings:
+
+.. image:: tenant-properties-settings-sync-v7-frame.png
 
 Settings for Properties
 ******************************
@@ -22,7 +74,7 @@ Add a Property to the Page Type this way:
 
 1. Select the property in the list and click the plus.
 
-.. image:: page-type-property-plus.png
+.. image:: page-type-property-plus-v7.png
 
 Remove a property by clicking the dust bin.
 
@@ -30,11 +82,11 @@ To edit settings for a property, do the following:
 
 1. Click the cog wheel for the property.
 
-.. image:: page-type-settings-cogwheel-new.png
+.. image:: page-type-settings-cogwheel-v7.png
 
 Something like the following is shown:
 
-.. image:: page-type-settings-dot-menu-settings-new2.png
+.. image:: page-type-settings-dot-menu-settings-v7.png
 
 Note that the settings you do for a property here is valid for this Page Type only. It does not affect the property in any other way.
 
@@ -54,64 +106,3 @@ The following settings can be available for a property (not all are shown in the
 
 2. Edit the settings as needed and click OK.
 
-Override Sharepoint Sync Settings
-************************************
-Sharepoint Sync Settings are set in Omnia Admin (available under Web Content Management), for the whole tenant. If you need some other synchronization for pages created from this Page Type, you can override the tenant settings and create a specific synchronization here.
-
-This option is available for local Page Types, not for Tenant Page Types.
-
-When you activate this option, the following is shown:
-
-.. image:: page-type-settings-override-message.png
-
-And then something like the following is available:
-
-.. image:: page-type-settings-override-new.png
-
-The settings are used exactly the same way here as the settings for the tenant. See this page for more information: :doc:`Sharepoint Sync </admin-settings/tenant-settings/webcontent-managament/sharepoint-sync/index>`
-
-When you have set up the sync here, you must execute a full sync to Sharepoint, as the message stated. Go to the Publishing App settings and click this button:
-
-.. image:: page-type-settings-sync-button.png
-
-Enable Automatic Archive
-***************************
-Using this option you can activate automatic archiving for pages created from this Page Type. When a page is automatically archived, it is deleted and placed in the archive, the same way as when an editor deletes a page manually.
-
-Here's a Tenant Page Type as an example:
-
-.. image:: automatic-archive.png
-
-When you click "Enable Automatic Archive" the following is shown:
-
-.. image:: automatic-archive-settings-new.png
-
-Select a property to base the automatic archiving on. **Note!** Best practice is to create a specific property to use for this purpose. Any Custom property of type date or time can be used.
-
-You can then edit the settings for the property you have chosen by clicking the cogwheel for the property.
-
-.. image:: automatic-archive-settings-select.png
-
-Available options can differ depending on how the property is set up. Here's an example:
-
-.. image:: automatic-archive-settings-settings-edited.png
-
-Note that the settings you do for a property here is valid for this Page Type only. It does not affect the property in any other way.
-
-For a description of the fields, see above. Note that a poperty used for automatic archiving should always be read only. 
-
-For more information on deleting, archiving, retrieving and terminating pages, see: :doc:`Delete a page </pages/delete-page/index>`
-
-Calculate based on another property on the page
-------------------------------------------------
-Automatic archiving can be a calculated value. Note that the property that is used as base for the calculation, must be one of the other properties for the page.
-
-In this example, the page should be automatically archived one month after the article date:
-
-.. image:: automatic-archive-settings-calculated.png
-
-Note that if the value for the base property can be edited, which often is the case for Article Date, the automatic archiving date is automatically recalculated if the value of the base property is edited.
-
-Automatic termination
------------------------
-Furthermore you can set automatic termination from the archive, based on archiving date. You can find that setting in the Publishing App Settings. See the heading "Archive" at the bottom of this page: :doc:`Publishing App Settings </pages/page-settings/index>`

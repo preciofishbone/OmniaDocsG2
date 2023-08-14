@@ -1,8 +1,8 @@
 System
 =============
-Here, the following can be set in Omnia 6.13:
+Here, the following can be set (image from Omnia 7.1):
 
-.. image:: system-612.png
+.. image:: system-v7.png
 
 Select section for more information:
 
@@ -12,6 +12,7 @@ Select section for more information:
    audit-logs/index
    authentication/index
    default-sharepoint-content/index
+   connected-tenants/index
    error-information/index
    extensions/index
    localization/index
@@ -21,5 +22,3 @@ Select section for more information:
    tenant-contact/index
    user-profile-card/index
    
-In Omnia 7.0 a new option is available, described in this page: :doc:`Connected tenants </admin-settings/tenant-settings/system/connected-tenants/index>`
-
