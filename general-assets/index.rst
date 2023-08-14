@@ -8,6 +8,7 @@ In this part of the documentation you will find information about general assets
    :titlesonly:
 
    add-link/index
+   creating-app-templates/index
    document-picker/index
    filter-options-block/index
    layout-explorer/index
