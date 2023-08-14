@@ -13,6 +13,10 @@ System wide
 - Anchors to tabs can now both scroll the page and select the correct tab/accordion (#140710, #141196, #137953).
 - 
 
+Workplace
+*****
+- Sign-off Request rollup now shows the correct requests in regards to admin and normal users (#146317). 
+
 
 Communities
 *****
