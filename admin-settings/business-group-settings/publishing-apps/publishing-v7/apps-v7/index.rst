@@ -23,6 +23,10 @@ For more information, see below.
 
 **Note!** To be able to delete a Publishing App, you must be App Administrator for that Publishing App. 
 
+Attach site
+**************
+(A description will be added soon).
+
 Create a new Publishing App
 *****************************
 Do the following:
