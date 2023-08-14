@@ -4,7 +4,7 @@
 
 System wide
 ******
-- New Filter UX and settings for all rollups. Resolves (#146912, #136058, #138038).
+- New Filter UX and settings for all rollups. Resolves (#146912, #136058, #138038, #144147).
 - In a term set filter, it’s now possible to select if deprecated terms should be displayed or not (#115011).
 - Long term names can now be viewed via tool tip, including the path to the term (#143157, #143460).
 - Omnia users are now available and Kaizala logins are now no longer supported (#123798).
@@ -32,6 +32,9 @@ Web Content Management
 - Links created in the RTF content no longer contains and extra blank space (#129934, #143227, #143642, #130377, #147698).
 - People rollup card view alignments have been corrected (#137509).
 - Corrected quick poll submit button spacing (#145113).
+- Page properties block text color now works as expected (#142137, #140879).
+- Fixed an intermittent issue with page type default values (#142421).
+- Page Type names are now multilingual (#127732).
 - 
 
 Teamwork
@@ -41,6 +44,8 @@ Teamwork
 - Security trimming is now available for teamwork rollup (#128494).
 - Better handling and user information when deleting a teamwork template (#142404).
 - A site template can now define default values for different properties (#107193).
+- When deleting a teamwork, the list now updates immediately (#142098).
+
 
 
 Process Management
