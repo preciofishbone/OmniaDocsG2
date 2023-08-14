@@ -14,12 +14,13 @@ System wide
 - Azure AD Group targeting is now case insensitive (#145285).
 - Anchors to tabs can now both scroll the page and select the correct tab/accordion (#140710, #141196, #137953).
 - New feature system, Omnia App permission is now handled on a per feature basis.
+- Several new Omnia Features have been introduced to be able to limit the permissions of the Omnia Azure AD app.
 - Only valid app instance features can now be selected on an app instance template (#117577, #120285).
 - The org chart block now respects the msExchHideFromAddressLists property (#133417, #136830, #147094).
 
 Workplace
 *****
-- Sign-off Request rollup now shows the correct requests in regards to admin and normal users (#146317). 
+- Sign-off Request rollup now shows the correct requests in regard to admin and normal users (#146317). 
 - User profile completion feedback emails now work for users with different email and login name (#140368).
 - A value can now be written to the user profile from an action button. This can be used in LMS.
 - Sign-off request export now includes the time of sign off in the excel report. 
@@ -39,13 +40,13 @@ Web Content Management
 - Links created in the RTF content no longer contains and extra blank space (#129934, #143227, #143642, #130377, #147698).
 - People rollup card view alignments have been corrected (#137509).
 - Corrected quick poll submit button spacing (#145113).
-- Page properties block text color now works as expected (#142137, #140879).
+- Page properties block text colour now works as expected (#142137, #140879).
 - Fixed an intermittent issue with page type default values (#142421).
 - Page Type names are now multilingual (#127732).
 - Adding a link to RTF now supports links other than https links (#128013).
 - Link to delve is no longer exposed in emails from the system (#144270).
 - Distribution groups are now hidden from the identity picker where you can set permissions (#133992).
-- Custom link nodes in the navigation structcure are now multi-lingual (#132960).
+- Custom link nodes in the navigation structure are now multi-lingual (#132960).
 - Thumbnails from a new stream video now have the correct ratio (#133809).
 - The mega menu loading has been stabilized (#147842).
 - Pages that are both under approval and scheduling now works as expected (#147464, #140255).
@@ -53,8 +54,8 @@ Web Content Management
 - Fixed an issue that prevented some users from seeing total page likes (#146569).
 - Page Types can now be soft-deleted in the UI.
 - Connected tenants can now be setup, to allow automatic page creation between tenants.
-- Page rollup list view can now be configred with a fixed position.
-- In the case of trying to create a duplicated url to a page, better feedback is now provided and the result is prettier. 
+- Page rollup list view can now be configured with a fixed position.
+- In the case of trying to create a duplicated URL to a page, better feedback is now provided, and the result is prettier. 
 - Comments and likes can now be shared between variations of a page. (#142216).
 - 
 
@@ -92,10 +93,10 @@ Process Management
 - When using Process templates, search results will now render according to the template (#144094).
 - The process rollup can now sort on process title (#135580).
 - The browser back button now works as expecting when navigating away from a process (#136680, #136838, #125505).
-- Fixed an issue where media based shapes would not show up automatically (#140047).
+- Fixed an issue where media-based shapes would not show up automatically (#140047).
 - Individual process steps can now be found using search (#143938).
 - Empty process drawings (using only a background image) can now be rendered (#132564).
-- Fixed an issue that casued drawing background image to not update correctly (#133588).
+- Fixed an issue that caused drawing background image to not update correctly (#133588).
 
 Document Management
 *****
@@ -114,7 +115,7 @@ Document Management
 Notes for developers
 *****
 
-- Omnia now uses vue 2.7.
+- Omnia now uses Vue 2.7.
 - Backend is upgraded to .NET Core 7.
 - 
 
