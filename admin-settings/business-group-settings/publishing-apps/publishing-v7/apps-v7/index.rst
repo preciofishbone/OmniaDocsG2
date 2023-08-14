@@ -1,8 +1,6 @@
 Directory for Publishing apps for Omnia v7
 ================================================
 
-**This page is being updated. Will be finsihed soon**
-
 Within a Business Profile several Publishing Apps can be active for different settings. To be able to create a Publishing App, at least one template for Publishing Apps must be available. If none are, create a template first.
 
 Here you will see a list of Publishing Apps in the Business Profile, for example:
