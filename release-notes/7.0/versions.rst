@@ -4,7 +4,8 @@
 
 System wide
 ******
-- New Filter UX and settings for all rollups. Resolves (#146912, #136058, #138038, #144147, #142858, #144762).
+- New Filter UX and settings for all rollups. Resolves (#146912, #136058, #138038, #144147, #142858, #144762, #143976).
+- All filters can be configured to have a fixed position.
 - In a term set filter, it’s now possible to select if deprecated terms should be displayed or not (#115011).
 - Long term names can now be viewed via tool tip, including the path to the term (#143157, #143460).
 - Omnia users are now available and Kaizala logins are now no longer supported (#123798).
@@ -13,19 +14,21 @@ System wide
 - Anchors to tabs can now both scroll the page and select the correct tab/accordion (#140710, #141196, #137953).
 - New feature system, Omnia App permission is now handled on a per feature basis.
 - Only valid app instance features can now be selected on an app instance template (#117577, #120285).
+- The org chart block now respects the msExchHideFromAddressLists property (#133417, #136830, #147094).
 
 Workplace
 *****
 - Sign-off Request rollup now shows the correct requests in regards to admin and normal users (#146317). 
 - User profile completion feedback emails now work for users with different email and login name (#140368).
-- 
+- A value can now be written to the user profile from an action button. This can be used in LMS.
+- Sign-off request export now includes the time of sign off in the excel report. 
 
 
 Communities
 *****
 
 - Auto translated pages no longer creates empty rows in the Activity feed (#137822).
-- 
+- Fixed an issue that would create non clickable notifications on comment (#147554, #136648).  
 
 Web Content Management
 ******
@@ -42,13 +45,20 @@ Web Content Management
 - Link to delve is no longer exposed in emails from the system (#144270).
 - Distribution groups are now hidden from the identity picker where you can set permissions (#133992).
 - Custom link nodes in the navigation structcure are now multi-lingual (#132960).
-- 
-- 
+- Thumbnails from a new stream video now have the correct ratio (#133809).
+- The mega menu loading has been stabilized (#147842).
+- Pages that are both under approval and scheduling now works as expected (#147464, #140255).
+- Stability fixes to automatic page creation using auto publish (#147616). 
+- Fixed an issue that prevented some users from seeing total page likes (#146569).
+- Page Types can now be soft-deleted in the UI.
+- Connected tenants can now be setup, to allow automatic page creation between tenants.
+- Page rollup list view can now be configred with a fixed position.
+- In the case of trying to create a duplicated url to a page, better feedback is now provided and the result is prettier. 
 
 Teamwork
 ****
 
-- New Admin UI for teamwork (#142065).
+- New Admin UI for teamwork (#142065, #148411).
 - Several changes have been made to the handling of permissions in omnia, solves several sync to SharePoint issues (#141378, #144775, #125161). 
 - Security trimming is now available for teamwork rollup (#128494, #138068).
 - Better handling and user information when deleting a teamwork template (#142404).
@@ -56,7 +66,7 @@ Teamwork
 - Visibility of properties can now be configured. Properties can be shown in new and edit form respectively (#123637). 
 - When deleting a teamwork, the list now updates immediately (#142098).
 - "Open in client app" in the controlled documents library will now work for PDF documents (the document is opened in MS Teams) (#142086).
-- 
+- Teamwork synchronization now uses the new Sites selected model. To manually sync last activity has been removed.
 
 
 
@@ -68,23 +78,38 @@ Process Management
 - Edit button of shapes is now placed above the shape instead of on the shape (#120201).
 - Possibly to edit z-index. Send to back, send backward, send to front, send forward (#128355, #122279).
 - Shapes can now be moved using the keyboard (#120199, #129303).
-- Multiple shapes can now be moved at once (#118677).
+- Multiple shapes can now be moved at once (#118677, #129301).
 - A copied shape now retains its orientation (#135509).
 - Shape width and height can now be set using exact pixel sizes if desired (#120228). 
 - Default canvas size can now be set for a process (#129245).
+- Its now possible to link to a draft process (#123246).
 - Better handling when a process authoring site is deleted (#141038).
 - Multiple document rollups can now be added to a process, resolving the need for categorizing documents (#124937).
 - Image cropping is now available for Background images and shapes (#127246, #128403).
 - When using Process templates, search results will now render according to the template (#144094).
 - The process rollup can now sort on process title (#135580).
 - The browser back button now works as expecting when navigating away from a process (#136680, #136838, #125505).
-
-
+- Fixed an issue where media based shapes would not show up automatically (#140047).
+- Individual process steps can now be found using search (#143938).
+- Empty process drawings (using only a background image) can now be rendered (#132564).
+- Fixed an issue that casued drawing background image to not update correctly (#133588).
 
 Document Management
 *****
 
 - Click out now works as expected for document properties dialog (#138950).
+- Recipient is now required in the send for comments form (#144813).
+- Reviewers are now required in the send for review form.
+- Compatible video files will now open in the browser (#146362).
+- Bulk update now gives consistent results for users with different email and login name (#144982).
+- Document types can now be configured to be compliant with Microsoft AIP. This by disabling features that replace properties and put the document into review mode.
+- More tokens are now available to be used in the Document Management related emails. These include all enterprise properties and change comment.
+
+Notes for developers
+*****
+
+- Omnia now uses vue 2.7.
+- Backend is upgraded to .NET Core 7.
 - 
 
-Also solves preview issues: (#148163, #148232, )
+Also solves preview issues: (#148163, #148232, #148911, )
