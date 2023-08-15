@@ -1,10 +1,11 @@
-7.0
+7.0.5
 ========================================
- (Omnia 7.0 / Workplace 7.0 / WCM 7.0 / MS 7.0)
+(Omnia 7.0.5 / Workplace 7.0.4 / WCM 7.0.4 / MS 7.0.4)
 
 System wide
 ******
 - New Filter UX and settings for all rollups. Resolves (#146912, #136058, #138038, #144147, #142858, #144762, #143976).
+- The date picker now shows in the correct language.
 - Terms picked now searched the full content of the term (#137357).
 - All filters can be configured to have a fixed position.
 - In a term set filter, it’s now possible to select if deprecated terms should be displayed or not (#115011).
@@ -94,7 +95,7 @@ Teamwork
 Process Management
 *****
 
-- Several improvements to the drawing capabilities of the editor.
+- Several improvements to the drawing capabilities of the editor (#122306).
 - Edit button of shapes is now placed above the shape instead of on the shape (#120201).
 - Possibly to edit z-index. Send to back, send backward, send to front, send forward (#128355, #122279).
 - Shapes can now be moved using the keyboard (#120199, #129303).
@@ -133,6 +134,7 @@ Document Management
 - Bulk update can now search for user properties where the user has been deleted (#138222).
 - Draft documents can now be restored from the SharePoint recycle bin (#136051).
 - Document management file history now shows correct file names.
+- Descriptions of the Document Type are now shown in the create document wizard (#136056).
 
 Notes for developers
 *****
