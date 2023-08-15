@@ -14,9 +14,16 @@ System wide
 - Azure AD Group targeting is now case insensitive (#145285).
 - Anchors to tabs can now both scroll the page and select the correct tab/accordion (#140710, #141196, #137953).
 - New feature system, Omnia App permission is now handled on a per feature basis.
+- All features names and descriptions have been updated.
+- All features now have a permission description if they require Azure AD app permissions.
 - Several new Omnia Features have been introduced to be able to limit the permissions of the Omnia Azure AD app.
 - Only valid app instance features can now be selected on an app instance template (#117577, #120285).
 - The org chart block now respects the msExchHideFromAddressLists property (#133417, #136830, #147094).
+- For all rollups, partial word search is now always turned on. The setting has been removed.
+- When using the image picker, correct message is now shown while searching.
+- Several label updates and corrections.
+- The filter state of all rollups can now be stored to the URL.
+
 
 Workplace
 *****
@@ -24,6 +31,9 @@ Workplace
 - User profile completion feedback emails now work for users with different email and login name (#140368).
 - A value can now be written to the user profile from an action button. This can be used in LMS.
 - Sign-off request export now includes the time of sign off in the excel report. 
+- Multiple status filters can now be used in the sign-off request rollup.
+- Click out now works as expected for the User Profile completeness form.
+- The old profile card can be activated using a tenant feature.
 
 
 Communities
@@ -57,7 +67,10 @@ Web Content Management
 - Page rollup list view can now be configured with a fixed position.
 - In the case of trying to create a duplicated URL to a page, better feedback is now provided, and the result is prettier. 
 - Comments and likes can now be shared between variations of a page. (#142216).
-- 
+- It is now possible to stop using variations if it was turned on by mistake.
+- Publishing spp settings have a new UI with only one save button.
+- Page collections can now be moved across business profiles. 
+- Page rollup filters will only show tenant page types and current publishing app page types.
 
 Teamwork
 ****
@@ -71,7 +84,10 @@ Teamwork
 - When deleting a teamwork, the list now updates immediately (#142098).
 - "Open in client app" in the controlled documents library will now work for PDF documents (the document is opened in MS Teams) (#142086).
 - Teamwork synchronization now uses the new Sites selected model. To manually sync last activity has been removed.
-
+- Only supported languages can now be salected for a teamwork template.
+- Communication site templates has moved and can now be found under publishing.
+- When seitching teamwork template, only valid choices are now shown. 
+- 
 
 
 
@@ -97,6 +113,10 @@ Process Management
 - Individual process steps can now be found using search (#143938).
 - Empty process drawings (using only a background image) can now be rendered (#132564).
 - Fixed an issue that caused drawing background image to not update correctly (#133588).
+- The process rollup is now supported in SPFx.
+- Process approval tasks titles now have the correct translation (#128402).
+- Archived processes can now be restored.
+- The process picker will now show processes without searching.
 
 Document Management
 *****
@@ -111,6 +131,7 @@ Document Management
 - Document history now contains Published by (#138412).
 - Bulk update can now search for user properties where the user has been deleted (#138222).
 - Draft documents can now be restored from the SharePoint recycle bin (#136051).
+- Document management file history now show correct file names.
 
 Notes for developers
 *****
