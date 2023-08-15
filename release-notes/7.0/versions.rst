@@ -1,3 +1,12 @@
+7.0.12
+========================================
+(Omnia 7.0.12 / Workplace 7.0.9 / WCM 7.0.10 / MS 7.0.9) 
+
+- Fixed an issue that would cause documents to fail in the controlled documents publish flow (#149283).
+- Fixed an issue related to date formatting in event management (#149203).
+- The new profile card should now work as expected for newly created Azure Ad users (#149111). 
+
+
 7.0.5
 ========================================
 (Omnia 7.0.5 / Workplace 7.0.4 / WCM 7.0.4 / MS 7.0.4) 
