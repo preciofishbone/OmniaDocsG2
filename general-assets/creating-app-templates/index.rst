@@ -5,17 +5,19 @@ Creating app templates in Omnia v7
 
 In Omnia, templates for Publishing apps, Communities and Teamwork are created in a simlar way. This page describes the general options for these three types of templates. See the respective page in Omnia Admin for more information (links below).
 
-Creating a new Publishing App template
+Images in this description from teamplates for Publishing Apps.
+
+Creating a new template
 ****************************************
 To create a new template, do the following:
 
-1. Click the plus.
+1. Click the Add Teamplate.
 
-.. image:: publishing-template-click-plus-612.png
+.. image:: publishing-template-click-add-v7.png
 
 Use the following settings:
 
-.. image:: publishing-template-settings-612.png
+.. image:: publishing-template-settings-v7.png
 
 General
 ----------
@@ -23,26 +25,14 @@ The following settings are available here:
 
 .. image:: publishing-edit-general-612-frame.png
 
++ **Type**: You may be able to select a type if more than one is available.
 + **Title**: Add a Title for the Template. You can add titles in a number of the languages available in the tenant. Default language is mandatory. (Click the fal to change language).
 + **Description**: Add a Description if needed. You can add a description in a number of the languages available in the tenant.(Click the fal to change language).
 + **Icon Type**: An icon is always shown for a template. If you would like another icon for this template, select the set of icons here: Font Awesome, Microsoft, Flags or Custom. When selecting Custom you can choose any image as the icon.
++ **Template visible to**: Here you choose who can see and use the template. If you select "Specific Users", an "Add Targeting Filter" option is shown. You use it the same way os ther similar options in Omnia, see: :doc:`Usae targetin </general-assets/targeting-in-omnia/index>`
 + **Icon**: When you have select Icon Type, use this list to select the icon. If you select Custom, a Url field is shown, where you enter the Url for the image.
 + **Available To**: Here you select who the template should be available for. What "All Users" and "Admins only" means is obvious. When you select "Specific Users" you click "Add Targeting Filter", choose a property (for example Administration Roles or Language) and set the necessary settings to create the targeting filter for the group of users you have in mind.
-+ **Site Creation Mode**: Here you select if approval is required when users create sites from this template. When you select "Approval" you must also select one or more approvers.
-
-Publishing templates for specific users
---------------------------------------
-When you select "Specific users" the following option is shown:
-
-.. image:: specific-users.png
-
-Click "Add Targeting Filter" and the following is shown:
-
-.. image:: specific-users-filter.png
-
-You use targeting here the same way as in other parts of Omnia. For more information, see this page: :doc:`Using Targeting </general-assets/targeting-in-omnia/index>`
-
-Also note that all properties that should be available for targeting must be setup in the Targeting Properties list, see: :doc:`Targeting Properties </admin-settings/tenant-settings/properties/targeting-properties/index>`
++ **Approval**: Here you select if approval is required when users create sites from this template. When you select "Approval" you must also select one or more approvers.
 
 Properties
 ------------
