@@ -50,7 +50,7 @@ When you have selected a property set someting like the following is shown:
 
 Features
 ----------
-Select the features that should be available for the publishing app. Available features depends on how the tenant is set up. Here's an example:
+Activate the features that should be available for the publishing app. Available features depends on how the tenant is set up. Here's an example:
 
 .. image:: publishing-edit-features-v7.png
 
