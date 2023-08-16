@@ -11,3 +11,5 @@ To edit a template, click the name - to delete, click the dust bin. When you edi
 
 You create templates for publishing apps, community sites and Teamwork the same way, see this page: :doc:`Creating app templates in Omnia v7 </general-assets/creating-app-templates/index>`
 
+When creating a template here, you can create a teamplate for an Omnia Publishing App or a Sharepoint Communication Site.
+
