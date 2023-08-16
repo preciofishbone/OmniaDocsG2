@@ -45,16 +45,24 @@ When you have selected a property set someting like the following is shown:
 .. image:: publishing-edit-properties-details-v7.png
 
 + **Default values**: Chose to add default values or nor. You can set default values for suitable properties in a set, valid for this template. Default values can be edited when an app is created from this template. 
-+ **Show in new form**: Select to be available when an app is created from this template.
-+ **Show in edit form**: Select to be available when the settings for the app is edited.
++ **Show in new form**: Select for to properties to be available when an app is created from this template.
++ **Show in edit form**: Select for the properties to be available when the settings for the app is edited.
 
 Features
 ----------
-Select the features that should be available for the publishing app (all are not shown in the image):
+Select the features that should be available for the publishing app. Available features depends on how the tenant is set up. Here's an example:
 
-.. image:: publishing-edit-features-612.png
+.. image:: publishing-edit-features-v7.png
 
-The features can be updated in Omnia Admin using App Features for the app.
+The features can be updated in Omnia Admin using App Features for the app. There you can also find more information about each feature.
+
+Custom steps
+---------------
+If any custom steps has been developed for the creation of publishing apps, you can select them using this option. Here's an example:
+
+.. image:: publishing-edit-custom-steps-v7.png
+
+Note the option to reset all custim steps to default.
 
 Setup
 -------
@@ -110,12 +118,6 @@ When you have added one or more Page Collections, you can use the the icons to:
 + Sort the order in which they are shown (left-most icon).
 + Edit the settings (the cogwheel).
 + Delete a Page Collection.
-
-Custom steps
----------------
-If any custom steps has been developed for the creation of publishing apps, you can select them using this option.
-
-.. image:: publishing-edit-custom-steps-612.png
 
 Policies
 ***********
