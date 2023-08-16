@@ -1,8 +1,6 @@
 Templates for Publishing Apps in Omnia v7
 =============================================
 
-**This page is under construction.**
-
 Here you can work with templates for Publishing Apps.
 
 .. image:: publishing-templates-v7.png
