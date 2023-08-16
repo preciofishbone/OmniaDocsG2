@@ -5,7 +5,11 @@ Here you can work with templates for Publishing Apps.
 
 .. image:: publishing-templates-v7.png
 
-To edit a template, click the name - to delete, click the dust bin. When you edit a template, all options that are described below are available.
+The following actions are available in the dot menu for a template:
+
+.. image:: publishing-templates-dotmenu-v7.png
+
+To edit a template, you can also just click the name. When you edit a template, all options that are described below are available.
 
 You create templates for publishing apps, community sites and Teamwork the same way, see this page: :doc:`Creating app templates in Omnia v7 </general-assets/creating-app-templates/index>`
 
