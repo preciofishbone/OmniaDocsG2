@@ -68,56 +68,24 @@ Setup
 -------
 Using the options here you set Publishing App settings and can create one or more Page Collections to be set up automatically when this template is used.
 
-.. image:: publishing-edit-setup-new.png
+.. image:: publishing-edit-setup-v7.png
 
 To edit settings, click "Publishing App Settings" and use the following settings (can be edited later by a Publishing App Administrator):
 
-.. image:: publishing-edit-setup-settings.png
+.. image:: publishing-edit-setup-settings-v7.png
 
-+ **Enable Reuse Content**: If publishing apps created from this template should allow reuse of content, select this option. 
++ **Allow Reuse Content**: If publishing apps created from this template should allow reuse of content, select "Enable reuse content". 
 + **Contact Property**: Select the default property for page contact.
 + **Review Date Property**: Select the default property for review date.
++ **Permisson**: (A description will be added soon).
 
-To create one or more Page Collections, do the following:
+Information about how to create a page collection, and more information about page collections can be found here: :doc:`Page Collections </pages/page-collections/index>`
 
-1. Click the plus for "Page Collection".
+When you have added one or more page collections, you can use the the icons to sort the order in which they are shown (left-most icon) or delete the page collection. 
 
-.. image:: publishing-page-collection.png
+.. image:: publishing-edit-setup-page-collections-v7.png
 
-2. Create a page collection using the following settings:
-
-.. image:: publishing-page-collection-settings.png
-
-3. Choose to use a Navigation Structure or just Flat, meaning no navigation structure.
-
-One example where “Flat” is a relevant choice, is when creating a Page Collection for News.
-
-4. Type a name (Title) for the new Page Collection.
-
-An Url is added, based on the name. It can be edited if needed.
-
-5. Click “Create”.
-6. Edit the settings.
-
-.. image:: publishing-page-collection-settings-edit-612.png
-
-(There's a lot more settings than is shown in the image).
-
-Page Collection Permissions are described on this page: :doc:`Page Collection Permissions </pages/page-collections/page-collection-permissions/index>`
-
-You use the rest of the settings the same way as is described on this page: :doc:`Page Collections </pages/page-collections/index>`
-
-Don't forget to save when you're ready (the "Save" option is located at the bottom, in the low right corner).
-
-To add another Page Collection, just do it the same way.
-
-When you have added one or more Page Collections, you can use the the icons to:
-
-.. image:: publishing-page-collection-settings-icons.png
-
-+ Sort the order in which they are shown (left-most icon).
-+ Edit the settings (the cogwheel).
-+ Delete a Page Collection.
+You edit the settings for a page collection as is described here: :doc:`Page collection settings </page-collections/page-collection-settings/index>`
 
 Policies
 ***********
@@ -125,11 +93,13 @@ Use this for further policies settings, that will be applied to publishing apps 
 
 The following can be set here:
 
-.. image:: publishing-templates-policies-612.png
+.. image:: publishing-templates-policies-v7.png
 
 + **Minimum number of characters in description**: Here you can set a number of characters for the description of the publishing app, to force users to add a description of a certain length. 
-+ **Minimim number of administrators**: There must always be at least one administrator for a publishing app, but you can decide that more administrators should be required, up to 5.
++ **Minimim number of administrators**: Click a number to set the minimum number of administrators. There must always be at least one administrator for a publishing app, but you can decide that more administrators should be required, up to 5.
 + **Default Administrators**: Use this to add one or more default administrators for publisning apps created from this template. These administrators will always be added, and can not be removed in the Create Publishing App wizard. Must be persons, can not be groups.
 
+Additional information
+***********************
 For more informaion, see: (links to be added)
 
