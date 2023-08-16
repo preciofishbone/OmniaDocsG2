@@ -21,9 +21,7 @@ Use the following settings:
 
 General
 ----------
-The following settings are available here:
-
-.. image:: publishing-edit-general-612-frame.png
+The following settings are available here (see image above):
 
 + **Type**: You may be able to select a type if more than one is available.
 + **Title**: Add a Title for the Template. You can add titles in a number of the languages available in the tenant. Default language is mandatory. (Click the fal to change language).
