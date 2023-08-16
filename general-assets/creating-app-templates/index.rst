@@ -30,7 +30,7 @@ The following settings are available here (see image above):
 + **Template visible to**: Here you choose who can see and use the template. If you select "Specific Users", an "Add Targeting Filter" option is shown. You use it the same way os ther similar options in Omnia, see: :doc:`Usae targetin </general-assets/targeting-in-omnia/index>`
 + **Icon**: When you have select Icon Type, use this list to select the icon. If you select Custom, a Url field is shown, where you enter the Url for the image.
 + **Available To**: Here you select who the template should be available for. What "All Users" and "Admins only" means is obvious. When you select "Specific Users" you click "Add Targeting Filter", choose a property (for example Administration Roles or Language) and set the necessary settings to create the targeting filter for the group of users you have in mind.
-+ **Approval**: Here you select if approval is required when users create sites from this template. When you select "Approval" you must also select one or more approvers.
++ **Approval**: Here you select if approval is required when users create sites from this template. When you select "Require approval" you must also select one or more approvers.
 
 Properties
 ------------
