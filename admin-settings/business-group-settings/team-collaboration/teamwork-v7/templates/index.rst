@@ -5,11 +5,9 @@ Teamwork templates for in Omnia v7
 
 Here you can work with templates for Teamwork. The first list displays all templates that has been created so far, for example:
 
-Here you can work with templates for Publishing Apps.
+.. image:: teamwork-templates-v7.png
 
-.. image:: publishing-templates-v7.png
-
-To edit a template, click the name - to delete, click the dust bin. When you edit a template, all options that are described below are available.
+To edit a template, click the name  - to delete, click the dust bin. When you edit a template, all options that are described below are available.
 
 You create templates for publishing apps, community sites and Teamwork the same way, see this page: :doc:`Creating app templates in Omnia v7 </general-assets/creating-app-templates/index>`
 
