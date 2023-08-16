@@ -11,7 +11,7 @@ Creating a new template
 ****************************************
 To create a new template, do the following:
 
-1. Click the Add Teamplate.
+1. Click "Add Teamplate".
 
 .. image:: publishing-template-click-add-v7.png
 
@@ -38,11 +38,17 @@ Properties
 ------------
 You can add a property set to the template. 
 
-.. image:: publishing-edit-properties-612.png
+.. image:: publishing-edit-properties-v7.png
 
 + **Property Set**: Select property set here. The properties in the set can or will have to be filled in when an app is created from this template, depending on settings for the property. The property sets are set up using the Tenant settings. See this page for more information: :doc:`Property sets </admin-settings/tenant-settings/properties/property-sets/index>`
-+ **Default values**: You can set default values for suitable properties in a set, valid for this template. Default values can be edited when an app is created from this template.
-+ **Visibility**: Here you select where the properties should be available: "Show in new form" means when an app is created from this template, "Show in edit form" means when the settings for the app is edited.
+
+When you have selected a property set someting like the following is shown:
+
+.. image:: publishing-edit-properties-details-v7.png
+
++ **Default values**: Chose to add default values or nor. You can set default values for suitable properties in a set, valid for this template. Default values can be edited when an app is created from this template. 
++ **Show in new form**: Select to be available when an app is created from this template.
++ **Show in edit form**: Select to be available when the settings for the app is edited.
 
 Features
 ----------
