@@ -60,6 +60,8 @@ Available settings depends on how the template is set up. Here are some common e
 + **Default View Access/Limit View Acess**: If you select “Limit View Access” you can change view permissions for the app to specific users.
 + **Alias**: The last part of the address to the site is created automatically but can be edited if necessary. If the name (address) already exists an alternative address is suggested.
 
+**A note for users of Omnia 6.13 and earlier**: The settings for documents that was available here has moved to the Publish App settings, see the heading "Advanced" on this page: :doc:`Publishing App Settings </pages/page-settings/index>`
+
 4. Click "Next" and use the following settings:
 
 .. image:: publishing-apps-settings-v7.png
