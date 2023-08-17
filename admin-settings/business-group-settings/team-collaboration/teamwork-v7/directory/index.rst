@@ -56,7 +56,7 @@ Available settings depends on how the template is set up.
 
 + **App Administrators**: The active Administrator (you) is automatically added as App Administrator. Add or delete administrators as needed. There must always be at least one.
 
-5. The Properties step may be very different in different templates, or maybe not neded at all. Here's a simple example. Note that a star indicates if the property must be set (Organization in this example).
+5. The Properties step may be very different in different templates, or maybe not neded at all. Here's a simple example. Note that a star indicates if that the property is mandatory.
 
 .. image:: teamwork-settings-property-v7.png
 
