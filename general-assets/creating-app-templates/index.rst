@@ -77,7 +77,7 @@ To edit settings, click "Publishing App Settings" and use the following settings
 + **Allow Reuse Content**: If publishing apps created from this template should allow reuse of content, select "Enable reuse content". 
 + **Contact Property**: Select the default property for page contact.
 + **Review Date Property**: Select the default property for review date.
-+ **Permisson**: (A description will be added soon).
++ **Permisson**: Users, or groups, that should be able to take part in the sites activites should be added in this field. A suggestion can be added here, but it can be edited when a site is created from this template.
 
 Information about how to create a page collection, and more information about page collections can be found here: :doc:`Page Collections </pages/page-collections/index>`
 
