@@ -28,54 +28,47 @@ Create a Teamwork
 ***********************
 To create a Teamwork from here, do the following:
 
-1. Click the plus.
-
-.. image:: team-collaboration-clickplus-612.png
-
+1. Click CREATE NEW.
 2. Select "Create New".
-
-.. image:: team-collaboration-select-612.png
-
 3. Select Template. 
 
 Here's an example with a lot of different alternatives. You may not have as many.
 
-.. image:: team-collaboration-template-612.png
+.. image:: team-collaboration-template-v7.png
 
 4. Edit the settings.
 
-.. image:: team-collaboration-settings-612.png
+.. image:: team-collaboration-settings-v7.png
 
-Available options depend on the template chosen. Here's some common ones:
+Available settings depends on how the template is set up. All steps in the setup may not be needed for a certain template. Here's a common example:
 
-+ **Title**: Add a Title (name) for the Teamwork here.
-+ **Description**: It's a good idea to add a Description of the Teamwork's purpose here, but it's not mandatory.
-+ **Show in public listings**: If links to this teamwork should show up in listings available for all colleagues, select this option. Default: selected.
-+ **Sharepoint Alias**: The last part of the address to the Teamwork is created automatically but can be edited if necessary. If the name (address) already exists an alternative address is suggested.
++ **Title**: Add a Title for the Publishing App.
++ **Description**: Add a Description if needed.
++ **Show in Public Listings**: If a link to the app should be available in public listings (meaning listings in Omnia) select this option. If this option is deselected, the app can only be reached by specific links, for example in a Workspace navigation.
++ **Default View Access/Limit View Acess**: If you select “Limit View Access” you can change view permissions for the app to specific users.
++ **Alias**: The last part of the address to the site is created automatically but can be edited if necessary. If the name (address) already exists an alternative address is suggested.
 + **Languages**: The same language as the main Business Profile language is suggested. Another language can be selected if needed.  
-+ **Time Zones**: Normally the correct Time Zone is already selected. Can be changed if needed.
++ **ADD IMAGE**: The editor setting up a Publishing Rollup can choose to show images for the apps, both for List and for Card display. Here you can select an image to be shown there, using the Media Picker. When an image has been selected it can be deleted or edited using the X and the pen that is shown then.
 
-5. When done, click "Next".
-6. Now, set the following:
+4. Click "Next" and use the following settings:
 
-.. image:: team-collaboration-administrator-new-612-frame.png
+.. image:: teamwork-settings-v7.png
 
-+ **App Administrator**: You are automatically added as the Administrator. Add or remove Administrators as needed.
++ **App Administrators**: The active Administrator (you) is automatically added as App Administrator. Add or delete administrators as needed. There must always be at least one.
 
-7. Click "Next".
-8. Set Enterprise Properties if nedded (remember - what is available depends on the template).
+5. The Properties step may be very different in different templates, or maybe not neded at all. Here's a simple example. Note that a star indicates if the property must be set (Organization in this example).
 
-.. image:: team-collaboration-properties-612.png
+.. image:: teamwork-settings-property-v7.png
 
-9. Set Owner and also Members, if needed.
+6. Set Owner and also Members, if needed.
 
-.. image:: team-collaboration-owner-612.png
+.. image:: team-collaboration-owner-v7.png
 
 A summary is now shown, where you can click the pen the edit any of the steps.
 
-10. Click CREATE to create the Teamwork or SEND FOR APPROVAL, depending on how the template has been set up.
+7. Click CREATE to create the Teamwork or SEND FOR APPROVAL, depending on how the template has been set up.
 
-.. image:: team-collaboration-create-612.png
+.. image:: team-collaboration-create-v7.png
 
 Attach a Teamwork Site
 ************************
