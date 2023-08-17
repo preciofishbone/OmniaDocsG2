@@ -56,21 +56,31 @@ Available settings depends on how the template is set up. All steps in the setup
 
 + **App Administrators**: The active Administrator (you) is automatically added as App Administrator. Add or delete administrators as needed. There must always be at least one.
 
-5. The Properties step may be very different in different templates, or maybe not neded at all (and is in that case empty). Here's a simple example. Note that a star indicates if the property must be set (Organization in this example).
+5. The Properties step may be very different in different templates, or maybe not neded at all. Here's a simple example. Note that a star indicates if the property must be set (Organization in this example).
 
 .. image:: teamwork-settings-property-v7.png
+
+Here's another example, from a template for projects. As you can see, there can be quite a lot properties to set.
+
+.. image:: teamwork-settings-property-project-v7.png
 
 6. Set Owner and also Members, if needed. 
 
 .. image:: team-collaboration-owner-v7.png
 
-There may be teamwork types that don't need these settings. In that case this step is simply empty.
+There may be teamwork types that don't need these settings. In that case this step is simply empty or not available at all.
 
 When you click NEXT, a summary is shown, where you can click the pen the edit any of the steps.
 
 7. Click CREATE to create the Teamwork or SEND FOR APPROVAL, depending on how the template has been set up.
 
 .. image:: team-collaboration-create-v7.png
+
+Cloning a teamwork
+--------------------
+A very special case is the possibility to clone an existing teamwork, if that is made available through a template. It will probably be available as step 4. What you do is search for a teamwork to clone, and then decide the parts of teamwork to clone, for example:
+
+.. image:: team-collaboration-clone-v7.png
 
 Attach a Teamwork Site
 ************************
