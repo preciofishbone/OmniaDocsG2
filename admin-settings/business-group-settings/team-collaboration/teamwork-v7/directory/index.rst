@@ -36,11 +36,11 @@ Here's an example with a lot of different alternatives. You may not have as many
 
 .. image:: team-collaboration-template-v7.png
 
-4. Edit the settings.
+4. Add the information needed. (All steps in the setup may not be needed for a certain template. Here's a common example).
 
 .. image:: team-collaboration-settings-v7.png
 
-Available settings depends on how the template is set up. All steps in the setup may not be needed for a certain template. Here's a common example:
+Available settings depends on how the template is set up. 
 
 + **Title**: Add a Title for the Publishing App.
 + **Description**: Add a Description if needed.
