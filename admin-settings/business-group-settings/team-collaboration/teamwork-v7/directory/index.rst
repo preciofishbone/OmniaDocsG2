@@ -1,8 +1,6 @@
 Directory (Teamwork) in Omnia v7
 ==================================
 
-**This page is under construction.**
-
 Here Teamworks are listed, the "All" tab as an example:
 
 .. image:: teamwork-apps-new-v7.png
