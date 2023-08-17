@@ -27,6 +27,8 @@ This option can be used in a rare setup case. If your organization creates Share
 
 **Note!** The communication sites attached this way should be empty, meaning just created but no content (pages or other content) added. The actual usage of the communication sites should be through Omnia.
 
+The following permissions are required to be able to attach: Collection Administrator permissions.
+
 Do the following to attach a site:
 
 1. Copy the Url for the communication site you want to attach.
@@ -37,6 +39,12 @@ The following is shown:
 .. image:: publishing-attach-v7.png
 
 3. Paste the Url and click RESOLVE.
+
+You can "detach" (delete) a site if needed. Then the following permissions are needed: Site Owner or Site Collection Administrator permissions.
+
+**Note!** What actually happens when you click the dust bin to delete a site, is that the site is detached. That is true for all communcation sites, regardless of if they have been created in or attached to Omnia.
+
+**Note!** When a site is detached, an e-mail is sent to the site owner(s).
 
 Create a new Publishing App
 *****************************
