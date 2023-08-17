@@ -23,7 +23,20 @@ For more information, see below.
 
 Attach site
 **************
-(A description will be added soon).
+This option can be used in a rare setup case. If your organization creates Sharepoint communication sites some other way, they can be attached to Omnia using this option.
+
+**Note!** The communication sites attached this way should be empty, meaning just created but no content (pages or other content) added. The actual usage of the communication sites should be through Omnia.
+
+Do the following to attach a site:
+
+1. Copy the Url for the communication site you want to attach.
+2. Select ATTACH SITE.
+
+The following is shown:
+
+.. image:: publishing-attach-v7.png
+
+3. Paste the Url and click RESOLVE.
 
 Create a new Publishing App
 *****************************
