@@ -5,7 +5,19 @@ Directory (Teamwork) in Omnia v7
 
 Here Teamworks are listed, the "Active" tab as an example:
 
-.. image:: teamwork-apps-new-612.png
+.. image:: teamwork-apps-new-v7.png
+
+Use this icon to close the menu to the left and work in full window mode:
+
+.. image:: teamwork-icon-v7.png
+
+You can click the link to go to a teamwork. You can search for a teamwork and use the headings "Title", "Template", "Created Date" and "Last Activity" to sort the list.
+
+The following actions, using the dot menu to the right, are available for a teamwork:
+
+.. image:: teamwork-actions-v7.png
+
+For more information, see below.
 
 Active
 *****************
