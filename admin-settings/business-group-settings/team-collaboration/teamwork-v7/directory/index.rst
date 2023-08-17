@@ -112,34 +112,28 @@ You can "detach" (delete) a site if needed. Then the following permissions are n
 **Note!** When a site is detached, an e-mail is sent to the site owner(s).
 
 Edit App Route
-----------------
-If it should be needed to edit the App Route, click the icon and the following is shown:
+****************
+If it should be needed to edit the App Route, Select "Alias" in the dot menu for the teamwork and the following is shown:
 
-.. image:: teamwork-apps-app-route-community-612.png
+.. image:: teamwork-apps-app-route-community-v7.png
 
 Edit the app route and save.
 
 Edit Permissions
 -----------------
-If you need to add or remove owners (administrator) or members for a Teamwork, you do it here:
+If you need to add or remove owners (administrator) or members for a Teamwork, select "Permission" in the dot menu for the teamwork.
 
-.. image:: teamwork-app-premissions-612-new-frame.png
+.. image:: teamwork-app-premissions-v7.png
 
 Don't forget to save when you're done.
 
 Edit Features
 ---------------
-If it's needed to upgrade a feature for the Teamwork, you need to go here. You also go here to activate or remove a feature. Available features can differ a lot depending on typoer of app. Here's an example:
+If it's needed to upgrade a feature for the Teamwork, you need to go here. You also go here to activate or deactivate a feature. Available features can differ a lot depending on typoer of app. Here's an example:
 
-.. image:: teamwork-app-features-612.png
+.. image:: teamwork-app-features-v7.png
 
-Edit App Instance
----------------------
-If it should be needed to edit the App Instance, click the icon and the following is shown:
-
-.. image:: teamwork-apps-app-instance-612-url.png
-
-Use the ADD IMAGE button to add an image for use in rollups. You can also edit Title, Description, Public Listing setting and edit the Sharepoint Url, if needed. SharePoint Url is not aplicable for all types of teamwork.  
+For more information about a feature, expand it.
 
 Pending Approval
 *****************
