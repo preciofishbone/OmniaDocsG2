@@ -80,9 +80,9 @@ A very special case is the possibility to clone an existing teamwork, if that is
 
 .. image:: team-collaboration-clone-v7.png
 
-Attach a Teamwork
+Attach a Teamwork site
 ************************
-Using this option you can attach any teamwork to Omnia. When a teamwork is attached you can handle the it through Omnia the same way as it was created through Omnia.
+Using this option you can attach any teamwork site (Sharepoint Team Site) to Omnia. When a teamwork is attached you can handle it through Omnia the same way as it was created through Omnia.
 
 The following permissions are required to be able to attach:
 
