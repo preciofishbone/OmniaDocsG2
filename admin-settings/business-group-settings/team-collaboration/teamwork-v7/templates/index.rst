@@ -19,27 +19,29 @@ The settings for General, Properties, Custom steps and Policies are handled as d
 
 Microsoft 365 Group
 -----------------------
-The following options are available for a Microsoft 365 Team Group:
+What is different for a Microsoft 365 Team Group is the Setup step:
 
-.. image:: teamwork-settings-setup-365-612.png
-
-Available only for Microsoft 365 Group are:
-
-+ **Welcome Page**: Choose to link to a Sharepoint site or to Microsoft Teams.
-+ **Privacy**: Decide if the Group should be Private or Public.
-
-For descriptions of the rest of the options, see below.
-
-Sharepoint Team Site and Sharepoint Communication site
-------------------------------------------------------------
-For Sharepoint Team Site and Sharepoint Communication Site, these settings are available for Setup:
-
-.. image:: teamwork-settings-setup-new.png
+.. image:: teamwork-settings-setup-365-v7.png
 
 + **Site Design**: Here templates can be available, templates made according to Microsoft's standard for Site Design. Such templates can be used in Omnia.  Not mandatory. If no such templates are available, the list is empty. For more information about Site Design, see this Microsoft page: https://docs.microsoft.com/en-us/sharepoint/dev/declarative-customization/site-design-overview
 + **Languages**: Select language to be used for system texts in the site.
 + **User can select language**: Select this option to enable language selection by the user creating the site.
 + **Time Zones**: Select the correct time zone here.
++ **User can select time zone**: Select this option to enable time zone selection by the user creating the site.
++ **Welcome Page**: Choose to link to a Sharepoint site or to Microsoft Teams.
++ **Privacy**: Decide if the Group should be Private or Public.
+
+Sharepoint Team Site
+------------------------------------------------------------
+For a Sharepoint Team Site, these settings are available for Setup:
+
+.. image:: teamwork-settings-setup-teamsite-v7.png
+
++ **Site Design**: Here templates can be available, templates made according to Microsoft's standard for Site Design. Such templates can be used in Omnia.  Not mandatory. If no such templates are available, the list is empty. For more information about Site Design, see this Microsoft page: https://docs.microsoft.com/en-us/sharepoint/dev/declarative-customization/site-design-overview
++ **Languages**: Select language to be used for system texts in the site.
++ **User can select language**: Select this option to enable language selection by the user creating the site.
++ **Time Zones**: Select the correct time zone here.
++ **User can select time zone**: Select this option to enable time zone selection by the user creating the site.
 + **Primary Site Collection Administrator**: If empty, the user creating or requesting the site will automatically become the default administrator (Owner) of the site. If a specific group or user should be administrator for all sites created from this template, add that group or user. Only on group or user can be added in this field.
 + **Default Site Collection Administrators**: You can add (several) additional administrators here, if needed.
 + **Default Visitors**: You can use this to set a default visitor group (read permissions) to all sites created from this template. 
@@ -48,7 +50,11 @@ Microsoft Team
 ---------------------
 For Microsoft Team, the following settings are available for Setup:
 
-.. image:: teamwork-settings-setup-team-612.png
+.. image:: teamwork-settings-setup-team-v7.png
+
+and these:
+
+.. image:: teamwork-settings-setup-team-v7-2.png
 
 **Note!** Microsoft Team is not available in Omnia on-prem.
 
