@@ -82,28 +82,25 @@ A very special case is the possibility to clone an existing teamwork, if that is
 
 .. image:: team-collaboration-clone-v7.png
 
-Attach a Teamwork Site
+Attach a Teamwork
 ************************
-Using this option you can attach any Teamwork Site to Omnia. When a Teamwork Site is attached you can handle the site through Omnia the same way as a site created through Omnia.
+Using this option you can attach any teamwork to Omnia. When a teamwork is attached you can handle the it through Omnia the same way as it was created through Omnia.
 
-The following permissions are required to be able to attach a site:
+The following permissions are required to be able to attach:
 
 + For an Omnia Teamwork app: App Administrator permissions.
 + For a Sharepoint site: Site Collection Administrator permissions.
 
 Do the following to attach a site:
 
-1. Copy the Url for the Sharepoint site for the Teamwork you want to attach.
-2. Go to Team Collaboration settings and click the plus.
-3. Select "Attach Site".
-
-.. image:: attach-site-612.png
+1. Copy the Url for the teamwork you want to attach.
+2. Select ATTACH SITE.
 
 The following is shown:
 
-.. image:: team-collaboration-attach-612.png
+.. image:: team-collaboration-attach-v7.png
 
-3. Paste the Url and click "Resolve".
+3. Paste the Url and click RESOLVE.
 
 You can "detach" (delete) a site if needed. Then the following permissions are needed:
 
