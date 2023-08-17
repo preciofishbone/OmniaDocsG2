@@ -5,7 +5,7 @@ Here Teamworks are listed, the "All" tab as an example:
 
 .. image:: teamwork-apps-new-v7.png
 
-On this tab active teamworks, orphaned and inactive are listed, but not teamworks with pending approval. 
+On this tab active and inactive teamworks are listed, but not teamworks with pending approval or Orphaned teamworks (see below for more information).
 
 Use this icon to close the menu to the left and work in full window mode:
 
