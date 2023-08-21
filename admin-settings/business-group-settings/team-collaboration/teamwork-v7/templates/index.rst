@@ -58,6 +58,14 @@ and these:
 
 **Note!** Microsoft Team is not available in Omnia on-prem.
 
+To use a Teams template, add the template id and choose default welcome page.
+
+.. image:: teamwork-settings-setup-team-template.png
+
+For an existing team, just choose welcome page.
+
+.. image:: teamwork-settings-setup-team-existing.png
+
 Create a custom Microsoft Team template
 ----------------------------------------
 Here's how to create a custom Teams template:
@@ -93,44 +101,32 @@ For **Apps** the following settings are available:
 
 9. Save the template.
 
-Yammer Community
---------------------
-The following setting is available for a Yammer Community template for Setup:
+Private Yammer Community
+--------------------------
+The following setting is available for a Private Yammer Community template for Setup:
 
-.. image:: teamwork-yammer-community-612.png
+.. image:: teamwork-yammer-community-v7.png
 
 **Note!** Yammer Community is not available in Omnia on-prem.
 
-+ **Welcome Page**: Select the default Url for Sharepoint or for a Yammer group.
 + **Client id**: Type the Client id for the Yammer Network here.
++ **Welcome Page**: Select the Yammer Group or Sharepoint for welcome page. 
 
 Facebook Workplace Group
 -------------------------------
-This setting is available for a Facebook Workplace Group template for Setup:
+There are no features available for a Facebook Workplace Group. This setting is available for Setup:
 
-.. image:: teamwork-facebook-workplace-group-612.png
+.. image:: teamwork-facebook-workplace-group-v7.png
 
 **Note!** Facebook Workplace Group is not available in Omnia on-prem.
 
 + **Workplace Domain**: Add the Facebook Workplace name here.
 
-Custom steps
-*****************
-If any custom steps has been developed for the type of community you have selected, you can add them using this option.
-
-.. image:: teamwork-edit-custom-steps-612.png
-
-
 Policies
 **********
-Use this for further policies settings, that will be applied to teamworks created from specific templates. A prerequisite is that Sensitivity Labels are created in Microsoft 365.
+For Policoes, the following option is available for teamwork templates. 
 
-The following can be set here:
+.. image:: teamwork-templates-policies-teamwork.png
 
-.. image:: teamwork-templates-policies.png
+A prerequisite for "Let user decide" to make any sense is that Sensitivity Labels are created in Microsoft 365.
 
-+ **Naming Policy**: Select the naming policy to set settings for. The policies listed here are those setup for teamworks, see: :doc:`Naming policies </admin-settings/business-group-settings/team-collaboration/teamwork-65/naming-policies/index>`
-+ **Minimum number of characters in description**: Here you can set a number of characters for the teamwork descripton, to force users to add a description of a certain length. 
-+ **Minimim number of administrators**: There must always be at least one administrator for a teamwork, but you can decide that more administrators should be required, up to 5.
-+ **Default Administrators**: Use this to add one or more administrators for teamworks created from this template. These administrators will always be added, can not be removed in the Create Teamwork wizard. Must be persons, can not be groups.
-+ **Sensitivity Label**: Here you decide how Microsoft 365 Sensitivity Labels will be handled for this Teamwork Template; No senitivity label, Fixed or Let user decide. If you select "Fixed", a list of the existing sensitivity labels are shown and you select one from the list. It can't be changed when a teamwork is created. If you select "Let user decide", the user creating a teamwork from this template can select which sensitivity label to use for the teamwork. It's still mandatory to select one when creating the teamwork.
