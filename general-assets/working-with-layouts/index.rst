@@ -20,8 +20,14 @@ For more information, see these pages:
 + :doc:`Settings for sections </pages/page-types/section-settings/index>`
 + :doc:`Working with blocks </blocks/working-with-blocks/index>`
 
+Settings
+***********
+If you need to change the name of the layout, use the SETTINGS tab.
+
+.. image:: layout-settings-v7.png
+
 Saving a draft and publishing
----------------------------------
+*********************************
 Saving a draft, discarding changes and finally publishing the layout, works very similar to working with pages.
 
 .. image:: layout-3-v7.png
