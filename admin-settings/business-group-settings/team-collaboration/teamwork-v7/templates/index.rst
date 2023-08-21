@@ -58,52 +58,40 @@ and these:
 
 **Note!** Microsoft Team is not available in Omnia on-prem.
 
-+ **Welcome Page**: Choose to link to a Sharepoint site or to Microsoft Teams.
-+ **Setup template**: Here you can select to create a Custom template, to use a Microsoft Teams template, or to give the user the option to Clone an excisting team. Note that a colleague must be member of a team to be able to clone it. See below for more information on a custom template. To use a Microsoft Teams template you must enter the id of the template (can be found in Teams admin center). 
-+ **Settings**: Available for a custom template, see below.
-+ **Apps**: Available for a custom template, see below.
-+ **Channels**: Available for a custom template, see below.
-
 Create a custom Microsoft Team template
 ----------------------------------------
-When you have selected to create a custom template the following options are available:
+Here's how to create a custom Teams template:
 
-.. image:: teamwork-settings-setup-team-all.png
+1. Select "Microsoft Teams" or "Sharepoint" as default welcome page.
+2. Decide of Discovery should be private or public, and decide to show it in Teams search and suggestions, or not.
+3. Decide which settings should be active.
 
-Under **Settings** you can do the following:
+All settings work the same way, and all are active per default.
 
-.. image:: teamwork-settings-setup-team-settings-new.png
+4. Open settings (Messaging as an example).
 
-+ **Visibility**: Here you select how joining the team will work; if anyone can join the team or if only administrators can add memebers to the team.
+.. image:: teamwork-settings-settings.png
 
-For the rest of the options: point at the i icon and read the tooltip, to learn what the option are for.
+5. Point at the i-icon of a setting for more information.
+6. Click to deactive if it should be used.
 
-For **Apps** the following is available:
+If any channels should be added to the template, do the following:
 
-.. image:: teamwork-settings-setup-team-apps.png
+7. Click ADD CHANNEL and use the settings:
 
-Add the apps that should be added when a teamwork is created from this template.
+.. image:: teamwork-settings-setup-channels-v7.png
 
-For **Channels** the following settings are available:
-
-.. image:: teamwork-settings-setup-channels.png
-
-Here a list of channels that are already added to the template is shown. Click the pen to edit a channel. 
-
-To add a new channel, click the plus and use these settings:
-
-.. image:: teamwork-settings-setup-channels-settings.png
-
-+ **Channel name**: TYpe the name here.
++ **Channel name**: Type the name here.
 + **Description**: Add a description of the channel if necessary.
-+ **Shown by default**: if the channel should be marked as "Favourite" for all members of the team, select this option.
++ **Visible by default**: if the channel should be marked as "Favourite" for all members of the team, select this option.
 
-You can also set which tabs should be added for all teams that are created from this template. When adding a tab, the following settings are available:
+8. Add additionall tabs for the channel, if needed.
 
-.. image:: teamwork-settings-setup-channels-settings-tab.png
+For **Apps** the following settings are available:
 
-+ **Tab name**: Type the name for the tab here.
-+ **App Types**: Select type of app for the tab; Built-in meaning Microsoft Apps, or Organization for other Apps, which can, for example, be Omnia Apps.
+  .. image:: teamwork-settings-setup-team-apps-v7.png
+
+9. Save the template.
 
 Yammer Community
 --------------------
