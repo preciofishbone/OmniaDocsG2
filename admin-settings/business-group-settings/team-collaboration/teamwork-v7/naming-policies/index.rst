@@ -29,7 +29,7 @@ When adding a prefix or a suffix, the following settings are available:
 .. image:: naming-policies-settings-prefix-v7.png
 
 + **Title and Alias**: You can allow both title and alias to be used, or alias only.
-+ **Fixed**: If you select "Fixed", you can add one or more words that will always be suggested as a prefix/suffix for all teamwork names. F If you select "App", you can select a property for teamworks from the list, to be used as a prefix/suffix. If that property is mandatory, it can't be edited. If you select "User", you can select a user property from the list, to be used as a prefix/suffix. The property will be populated according to the logged in user creating the teamwork. If that property is mandatory, it can't be edited.
++ **Fixed/App/User**: If you select "Fixed", you can add one or more words that will always be suggested as a prefix/suffix for all teamwork names. If you select "App", you can select a property for teamworks from the list, to be used as a prefix/suffix. If that property is mandatory, it can't be edited. If you select "User", you can select a user property from the list, to be used as a prefix/suffix. The property will be populated according to the logged in user creating the teamwork. If that property is mandatory, it can't be edited.
 
 Here's a naming policy for projects, as an example:
 
