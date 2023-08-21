@@ -15,7 +15,7 @@ To edit a template, you can also just click the name. When you edit a template, 
 
 You create templates for publishing apps, community sites and Teamwork the same way, see this page: :doc:`Creating app templates in Omnia v7 </general-assets/creating-app-templates/index>`
 
-The settings for General, Properties, Custom steps and Policies are handled as decsibred on the page linked above, even if available property sets can differ. Available settings under Features and Setup differ depending on type of teamwork. The differences is descibed here.
+The settings for General, Properties and Custom steps are handled as described on the page linked above, even if available property sets and available features can differ. Available settings under Setup differ depending on type of teamwork. The differences is descibed here. A few additional settings for Policies are also described here.
 
 Microsoft 365 Group
 -----------------------
@@ -124,9 +124,10 @@ There are no features available for a Facebook Workplace Group. This setting is 
 
 Policies
 **********
-For Policoes, the following option is available for teamwork templates. 
+For Policies, the following options are available especially for teamwork templates. 
 
-.. image:: teamwork-templates-policies-teamwork.png
+.. image:: teamwork-templates-policies-teamwork-v7.png
 
-A prerequisite for "Let user decide" to make any sense is that Sensitivity Labels are created in Microsoft 365.
++ **Naming policy**: Select a naming policy, if any is available. They are setup using the Naming policy tab, see: :doc:`Naming Policies (Teamwork) in Omnia v7 </admin-settings/business-group-settings/team-collaboration/teamwork-v7/naming-policies/index>`
++ **Sensitivity label**: A prerequisite for "Let user decide" to make any sense is that Sensitivity Labels are created in Microsoft 365.
 
