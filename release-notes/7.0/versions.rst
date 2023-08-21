@@ -1,3 +1,15 @@
+7.1.0 - Draft
+========================================
+(Omnia 7.1.0 / Workplace 7.1.0 / WCM 7.1.0 / MS 7.1.0) 
+
+- Added additional default fields to the setup feature "Enterprise properties - Documents".
+- Refiner collapse setting now works as expeted for date refiners (#147647).
+- Document Management and Process Management now have different comments for "Change comment" and "Message to approver".
+- 
+
+- Also fixes preview bugs (#149420). 
+
+
 7.0.12
 ========================================
 (Omnia 7.0.12 / Workplace 7.0.9 / WCM 7.0.10 / MS 7.0.9) 
