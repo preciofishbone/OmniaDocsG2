@@ -5,7 +5,11 @@
 - Added additional default fields to the setup feature "Enterprise properties - Documents".
 - Refiner collapse setting now works as expeted for date refiners (#147647).
 - Document Management and Process Management now have different comments for "Change comment" and "Message to approver".
-- 
+- Fixed an issue with available seats in Event Management (#148057).
+- It is now possible to force a page to have a Publishing Channel when it gets created. 
+- It is now possible to attach a publishing app to an existing communication site.
+- Custom 404/401 pages can now be designed in Omnia Admin.
+- Broken links statistics are now available in the metrics block. 
 
 - Also fixes preview bugs (#149420). 
 
