@@ -1,4 +1,4 @@
-Teamwork templates for in Omnia v7
+Teamwork templates in Omnia v7
 =======================================
 
 **This page is under construction.**
