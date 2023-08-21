@@ -1,8 +1,6 @@
 Layouts for Teamwork in Omnia v7
 =====================================
 
-**This page is under construction.**
-
 Using these options you can create a start page for a teamwork. First you see the list of the layouts created so far, for example:
 
 .. image:: layout-teamwork-all-v7.png
