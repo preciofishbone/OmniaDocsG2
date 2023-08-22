@@ -1,8 +1,6 @@
 Templates for communities in Omnia v7
 =======================================
 
-**This page is under construction.**
-
 Here  you can work with templates for communities - Omnia Community Apps and Yammer Communities. The first list displays all templates that has been created so far, for example:
 
 .. image:: community-templates-v7.png
