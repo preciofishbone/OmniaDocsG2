@@ -1,4 +1,4 @@
-Layouts for Communities in Omnia v7
+Layouts for communities in Omnia v7
 =====================================
 
 Using these options you can create layouts for community pages. First you see the list of the layouts created so far, for example:
