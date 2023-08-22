@@ -1,45 +1,33 @@
 Layouts for Communities in Omnia v7
 =====================================
 
-**This page is under construction.**
+Using these options you can create layouts for community pages. First you see the list of the layouts created so far, for example:
 
-Here you can work with ready made layouts for Community start pages, which can be created for any language, that can be chosen when a Page Collection for a Community is created. Here's an example of a list of layouts for communities:
+.. image:: layout-community-all-v7.png
 
-.. image:: communities-layout-612.png
+To edit a layout, just click the name. All options can be edited, see below.
 
+Create a new layout
+********************************
 To create a new layout, do the following:
 
-1. Click the plus.
-
-.. image:: layout-click-plus-612.png
-
+1. Click "Add Layout".
 2. Add a name for the layout in any or all the available tenant languages (click the flag to change language).
-3. Click "Create".
+3. Click CREATE.
 
-.. image:: layout-click-create-612.png
+.. image:: community-click-create-v7.png
 
 To start working on the layout, continue this way:
 
-4. Click on the name.
+4. Click on the name or select "Edit Layout" in the dot menu for the layout.
 
-.. image:: layout-click-name-612.png
+.. image:: community-click-create-dotmenu-v7.png
 
-5. Use this work area to create the layout: 
+5. Use the work area to create the layout. 
 
-.. image:: layout-click-work-area-612.png
+How to work with layouts in Omnia is described on this page: :doc:`Working with Layouts </general-assets/working-with-layouts/index>`
 
-You work with the layout by adding sections and blocks, the way this page describes: :doc:`Working with Layouts </general-assets/working-with-layouts/index>`
+If you need to delete a layout, you can also use the dot menu for the layout:
 
-
-
-
-
-
-
-
-
-
-
-
-
+.. image:: community-click-create-dotmenu-delete-v7.png
 
