@@ -91,7 +91,7 @@ For more information about a feature, expand it.
 
 Pending Approval
 *****************
-When a user creates a community where approval is needed, an administrator uses this list to approve or reject. Here's an example:
+When a user creates a community where approval is needed, an administrator uses this list to approve or reject. Here's an example from a test environment:
 
 .. image:: community-pending-approval-v7.png
 
@@ -103,7 +103,7 @@ Approval (or Rejection) is done this way:
 
 .. image:: community-pending-approval-approve-v7.png
 
-If you approve the creation of the Teamwork a message is sent to the person requesting it, and the Teamwork is created.
+If you approve the creation of the community, a message is sent to the person requesting it, and the community is created.
 
 If you reject, the following is shown:
  
