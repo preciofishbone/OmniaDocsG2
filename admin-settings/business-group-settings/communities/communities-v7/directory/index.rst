@@ -3,111 +3,162 @@ Directory in Omnia v7
 
 **This page is under construction.**
 
-Within a Business Profile several Community Apps can be active for different settings. To be able to create a Community App, at least one template for this purpose must be available. If none are, create a template first.
+Within a business profile several community apps can be active for different settings. To be able to create a community app, at least one template for this purpose must be available. If none are, create a template first.
 
-Here you will see a list of Community Apps in the Business Profile, for example:
+Here you will see a list ofcCommunity apps in the Business Profile, for example:
 
-.. image:: communities-apps-612-new.png
+.. image:: communities-apps-v7.png
 
-You can click the link to go to an app.
+Use this icon to close the menu to the left and work in full window mode:
 
-Use the icons this way:
+.. image:: communities-icon-v7.png
 
-+ The left-most icon to edit the app route, if needed.
-+ The key to add or remove App Administrators.
-+ The boxes to activate, deactivate or upgrade features.
-+ The pen to edit the settings (same as when creating a new, see below).
-+ The dust bin to delete a Community App.
+You can click the link to go to a community. You can search for a community and use the headings "Title", "Template" and "Created Date".
 
-**Note!** To be able to delete a Community App, you must be App Administrator for the Community.
+The following actions, using the dot menu to the right, are available for a community in the All and in list:
+
+.. image:: community-actions-v7.png
+
+**Note!** To be able to delete a community, you must be App Administrator for the community. Also note that deleting a community from this list does not delete 
+the connected Sharepoint site.
+
+For more information, see below.
+
+Create a Teamwork
+***********************
+To create a Teamwork from here, do the following:
+
+1. Click CREATE NEW.
+2. Select "Create New".
+3. Select Template. 
+
+Here's an example with a lot of different alternatives. You may not have as many.
+
+.. image:: team-collaboration-template-v7.png
+
+4. Add the information needed. (All steps in the setup may not be needed for a certain template. Here's a common example).
+
+.. image:: team-collaboration-settings-v7.png
+
+Available settings depends on how the template is set up. 
+
++ **Title**: Add a Title for the Publishing App.
++ **Description**: Add a Description if needed.
++ **Show in Public Listings**: If a link to the app should be available in public listings (meaning listings in Omnia) select this option. If this option is deselected, the app can only be reached by specific links, for example in a Workspace navigation.
++ **Default View Access/Limit View Acess**: If you select “Limit View Access” you can change view permissions for the app to specific users.
++ **Alias**: The last part of the address to the site is created automatically but can be edited if necessary. If the name (address) already exists an alternative address is suggested.
++ **Languages**: The same language as the main Business Profile language is suggested. Another language can be selected if needed.  
++ **ADD IMAGE**: The editor setting up a Publishing Rollup can choose to show images for the apps, both for List and for Card display. Here you can select an image to be shown there, using the Media Picker. When an image has been selected it can be deleted or edited using the X and the pen that is shown then.
+
+4. Click "Next" and use the following settings:
+
+.. image:: teamwork-settings-v7.png
+
++ **App Administrators**: The active Administrator (you) is automatically added as App Administrator. Add or delete administrators as needed. There must always be at least one.
+
+5. The Properties step may be very different in different templates, or maybe not neded at all. Here's a simple example. Note that a star indicates if that the property is mandatory.
+
+.. image:: teamwork-settings-property-v7.png
+
+Here's another example, from a template for projects. As you can see, there can be quite a lot properties to set.
+
+.. image:: teamwork-settings-property-project-v7.png
+
+6. Set Owner and also Members, if needed. 
+
+.. image:: team-collaboration-owner-v7.png
+
+There may be teamwork types that don't need these settings. In that case this step is simply empty or not available at all.
+
+When you click NEXT, a summary is shown, where you can click the pen the edit any of the steps.
+
+7. Click CREATE to create the Teamwork or SEND FOR APPROVAL, depending on how the template has been set up.
+
+.. image:: team-collaboration-create-v7.png
+
+Cloning a teamwork
+--------------------
+A very special case is the possibility to clone an existing teamwork, if that is made available through a template. It will probably be available as step 4. What you do is search for a teamwork to clone, and then decide the parts of teamwork to clone, for example:
+
+.. image:: team-collaboration-clone-v7.png
+
+Attach a Teamwork site
+************************
+Using this option you can attach any teamwork site (Sharepoint Team Site) to Omnia. When a teamwork is attached you can handle it through Omnia the same way as it was created through Omnia.
+
+The following permissions are required to be able to attach:
+
++ For an Omnia Teamwork app: App Administrator permissions.
++ For a Sharepoint site: Site Collection Administrator permissions.
+
+Do the following to attach a site:
+
+1. Copy the Url for the teamwork you want to attach.
+2. Select ATTACH SITE.
+
+The following is shown:
+
+.. image:: team-collaboration-attach-v7.png
+
+3. Paste the Url and click RESOLVE.
+
+You can "detach" (delete) a site if needed. Then the following permissions are needed:
+
++ For an Omnia Teamwork app: App Administrator permissions.
++ For a Sharepoint site: Site Owner or Site Collection Administrator permissions.
+
+**Note!** What actually happens when you click the dust bin to delete a site, is that the site is detached. That is true for all Teamwork sites, regardless of if they have been created in or attached to Omnia.
+
+**Note!** When a site is detached, an e-mail is sent to the site owner(s).
 
 Edit App Route
-*****************
-If it should be needed to edit the App Route, click the icon and the following is shown:
+****************
+If it should be needed to edit the App Route, Select "Alias" in the dot menu for the teamwork and the following is shown:
 
-.. image:: publishing-apps-app-route-community-612-new.png
+.. image:: teamwork-apps-app-route-community-v7.png
 
 Edit the app route and save.
 
 Edit Permissions
-*****************
-If you need to add or remove administrator(s) or contributors for a community app, you do it here:
+******************
+If you need to add or remove owners (administrator) or members for a Teamwork, select "Permission" in the dot menu for the teamwork.
 
-.. image:: publishing-apps-app-premissions-community-612-new.png
-
-Contributor permissions is needed if colleagues should be able to add comments to community pages.
+.. image:: teamwork-app-premissions-v7.png
 
 Don't forget to save when you're done.
 
 Edit Features
-**************
-If it's needed to upgrade a feature for a Community App, you go here. You also go here to activate or remove a feature.
+***************
+If it's needed to upgrade a feature for the Teamwork, you need to go here. You also go here to activate or deactivate a feature. Available features can differ a lot depending on typoer of app. Here's an example:
 
-.. image:: publishing-apps-app-features-community-612-new.png
+.. image:: teamwork-app-features-v7.png
+
+For more information about a feature, expand it.
 
 Pending Approval
 *****************
-If Approval for creation is activated for the template that is used when creating a new communities app, an administrator uses this list to work with approval or rejection.
+When a user creates a teamwork where approval is needed, an administrator uses this list to approve or reject. Here's an example:
 
-The list can look like this:
+.. image:: pending-approval-v7.png
 
-.. image:: community-pending-approval-611.png
+Approval (or Rejection) is done this way:
 
-To approve or reject, click the link and browse the settings. And here you decide:
+1. Click the link for the Teamwork.
+2. Check the name, settings and so on.
+3. If everything is OK, click "Approve", or if changes are needed, click "Reject".
 
-.. image:: community-pending-approval-approve-611.png
+.. image:: pending-approval-approve-v7.png
 
-If you click Approve, the Community App is created and the colleague requesting the approval is notified. If you click Reject you add a comment of what needs to be done before it can be approved:
+If you approve the creation of the Teamwork a message is sent to the person requesting it, and the Teamwork is created.
 
-.. image:: community-pending-approval-comment-611.png
+If you reject, the following is shown:
+ 
+.. image:: pending-approval-reject-v7.png
 
-**Note!** Requesting an app must always be done from start each time. If rejected, nothing from the request is saved.
+4. Type a message stating what needs to be done for approval, and click "Save" to send the message.
 
-Create a new Community App
-*****************************
-Do the following:
+The person requesting the Teamwork receives the message and can then start a new Teamwork creation with your comments in mind. 
 
-1. Click the plus.
+**Note!** Requesting a Teamwork must always be done from start each time. If rejected, nothing from the request is saved.
 
-.. image:: community-apps-click-plus-612.png
-
-2. Select a template (can be one or more).
-
-.. image:: community-app-template-611.png
-
-3. Use the settings:
-
-.. image:: community-app-template-settings-611.png
-
-Available settings depends on how the template is set up. Here are some common examples:
-
-+ **Title**: Add a Title for the Community App.
-+ **Description**: Add a Description if needed.
-+ **Add Image**: The editor setting up a Community Rollup can choose to show an image for communities, both for List and for Card display. Here you can select an image to be shown there, using the Media Picker. When an image has been selected it can be deleted or edited using the X and the pen that is shown then.
-+ **Show in Public Listings**: If a link to the app should be available in public listings (meaning listings in Omnia), should be available, select this option. If this option is deselected, the app can only be reached by specific links, for example in a Workspace navigation.
-+ **Omnia Alias**: The last part of the address to the site is created automatically but can be edited if necessary. If the name (address) already exists an alternative address is suggested.
-
-4. Click "Next" and use the following settings:
-
-.. image:: community-apps-settings-611.png
-
-+ **App Administrators**: The active Administrator (you) is automatically added as App Administrator. Add or delete administrators as needed (must always be at least one). 
-
-5. Click NEXT.
-
-6. Check the info added and edit if necessary.
-
-7. Click "CREATE" to create the Community App.
-
-.. image:: community-apps-users-611.png
-
-When the Community is created (with approval needed or not), it can be a good idea to check the settings to see if anything needs to be edited there, before the Community is used.
-
-8. Go to the Publishing App settings.
-
-.. image:: community-apps-settings-612-new.png
-
-9. Edit the settings if needed.
-
-Settings for a Community App are the same as for any Publishing App. For more information, see: :doc:`Publishing App Settings </pages/page-settings/index>`.
 
