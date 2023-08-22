@@ -1,8 +1,6 @@
 Directory in Omnia v7
 ==================================
 
-**This page is being edited.**
-
 Within a business profile several community apps can be active for different settings. To be able to create a community app, at least one template for this purpose must be available. If none are, create a template first.
 
 Here you will see a list of Community apps in the Business Profile, for example:
