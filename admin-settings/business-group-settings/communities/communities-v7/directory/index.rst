@@ -1,9 +1,9 @@
 Directory in Omnia v7
 ==================================
 
-Within a business profile several community apps can be active for different settings. To be able to create a community app, at least one template for this purpose must be available. If none are, create a template first.
+Within a business profile several community apps can be active for different settings. To be able to create a community, at least one template for this purpose must be available. If none are, create a template first.
 
-Here you will see a list of Community apps in the Business Profile, for example:
+Here you will see a list of communities in the Business Profile, for example:
 
 .. image:: communities-apps-v7.png
 
@@ -13,7 +13,7 @@ Use this icon to close the menu to the left and work in full window mode:
 
 You can click the link to go to a community. You can search for a community and use the headings "Title", "Template" and "Created Date".
 
-The following actions, using the dot menu to the right, are available for a community in the All list:
+The following actions, using the dot menu to the right, are available for a community in the "All" list:
 
 .. image:: community-actions-v7.png
 
@@ -27,7 +27,7 @@ Create a community
 To create a community from here, do the following:
 
 1. Click CREATE NEW.
-2. Select Template. 
+2. Select template. 
 
 Here's an example:
 
@@ -51,21 +51,21 @@ Available settings depend on how the template is set up.
 
 .. image:: community-settings2-v7.png
 
-+ **App Administrators**: The active administrator (you) is automatically added as App Administrator. Add or delete administrators as needed. There must always be at least one.
++ **App Administrators**: The active administrator (you) is automatically added as app administrator. Add or delete administrators as needed. There must always be at least one.
 
-5. The Properties step may be very different in different templates, or maybe not be needed at all. Here's an example. Note that a star indicates if that the property is mandatory.
+5. The Properties step may be different in different templates, or maybe not be needed at all. Here's an example. Note that a star indicates if that the property is mandatory.
 
 .. image:: community-settings-property-v7.png
 
 When you click NEXT, a summary is shown, where you can click the pen the edit any of the steps.
 
-6. Click CREATE to create the Teamwork or SEND FOR APPROVAL, depending on how the template has been set up.
+6. Click CREATE to create the community or SEND FOR APPROVAL, depending on how the template has been set up.
 
 .. image:: community-create-v7.png
 
 Edit App Route
 ****************
-If it should be needed to edit the App Route, Select "Alias" in the dot menu for the community and the following is shown:
+If it should be needed to edit the app route, Select "Alias" in the dot menu for the community and the following is shown:
 
 .. image:: app-route-community-v7.png
 
@@ -81,7 +81,7 @@ Don't forget to save when you're done.
 
 Edit Features
 ***************
-If it's needed to upgrade a feature for the community, you need to go here. You also go here to activate or deactivate a feature. Available features can differ a lot depending on how Omnia is set up. Here's an example:
+If it's needed to upgrade a feature for the community, you need to go here. You also go here to activate or deactivate a feature. Available features can differ depending on how Omnia is set up. Here's an example:
 
 .. image:: community-features-v7.png
 
@@ -93,7 +93,7 @@ When a user creates a community where approval is needed, an administrator uses 
 
 .. image:: community-pending-approval-v7.png
 
-Approval (or Rejection) is done this way:
+Approval or rejection is done this way:
 
 1. Click the link for the community.
 2. Check the name, settings and so on.
