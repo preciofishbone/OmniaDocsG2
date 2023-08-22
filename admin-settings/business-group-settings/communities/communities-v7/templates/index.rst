@@ -13,9 +13,9 @@ To edit a template, you can also just click the name. When you edit a template, 
 
 You create templates for publishing apps, community sites and teamwork the same way, see this page: :doc:`Creating app templates in Omnia v7 </general-assets/creating-app-templates/index>`
 
-All settings for Omnia Community Apps works as described on the page linked above, even if available property sets and available features can differ. Creating a template for a Yammer Community is slightly different. The differences are explained here.
+All settings for Omnia Community Apps works as described on the page linked above, even if available property sets and available features can differ. Creating a template for a Yammer community is slightly different. The differences are explained here.
 
-Creating a template for a Yammer Community
+Creating a template for a Yammer community
 ********************************************
 Firstly, there are no features available for a yammer community template. Besides that, the only settings that are available in the Setup step are these:
 
