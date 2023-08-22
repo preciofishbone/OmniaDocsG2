@@ -17,7 +17,7 @@ All settings for Omnia Community Apps works as described on the page linked abov
 
 Creating a template for a Yammer community
 ********************************************
-Firstly, there are no features available for a yammer community template. Besides that, the only settings that are available in the Setup step are these:
+Firstly, there are no features available for a Yammer community template. Besides that, the only settings that are available in the Setup step are these:
 
 .. image:: community-template-yammer.png
 
