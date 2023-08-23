@@ -1,13 +1,17 @@
-Publishing Layouts for Omnia v7
-=============================
+Layouts for publishing apps in Omnia v7
+=============================================
 
-Here you can create and edit ready made layouts for publishing pages. If you're planning to add the possibility to work with Controlled Documents in a Publishing App, you use this option to create a layout for that functionality. For more information on how to create a layout for Controlled Documents, see the end of the page.
+Here you can create and edit layouts for publishing pages. If you're planning to add the possibility to work with Controlled Documents in a Publishing App, you use this option to create a layout for that functionality, see the end of the page.
 
-If there are som publishing layouts created, they will be listed here, for example:
+If there are some publishing layouts created, they will be listed here, for example:
 
 .. image:: publishing-layouts-v7.png
 
-To edit a layout, just click the name. All settings available when creating a new layout can be edited, see below.
+The following actions are available in the dot menu for a layout:
+
+.. image:: publishing-layouts-dotmenu-v7.png
+
+To edit a layout, you can also just click the name. All settings available when creating a new layout can be edited, see below.
 
 Create a new publishing layout
 ********************************
@@ -33,16 +37,19 @@ If you need to delete a layout, you can also use the dot menu for the layout:
 
 .. image:: publishing-click-create-dotmenu-delete-v7.png
 
-Create a layout for Controlled Documents editing
+Edit Alias
+-------------
+If the alias needs to be edited, select that option in the dot menu and use this setting:
+
+.. image:: publishing-alias-edit-v7.png
+
+Create a layout for controlled documents editing
 *****************************************************************
-If the purpose of the layout is to make it possible to work with Controlled Documents in a Publishing App, add this block under Miscellaneous:
+If the purpose of the layout is to make it possible to work with controlled documents in a publishing app, add this block under Miscellaneous:
 
 .. image:: documents-process-block-new.png
 
 Also note that settings for this block then is available the usual way:
 
 .. image:: documents-process-block-settings-new.png
-
-
-
 
