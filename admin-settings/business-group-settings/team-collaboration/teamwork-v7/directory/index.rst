@@ -17,18 +17,18 @@ The following actions, using the dot menu to the right, are available for a team
 
 .. image:: teamwork-actions-v7.png
 
-**Note!** To be able to delete a teamwork, you must be App Administrator for the teamwork. Also note that deleting a teamwork from this list does not delete 
+**Note!** To be able to delete a teamwork, you must be app administrator for the teamwork. Also note that deleting a teamwork from this list does not delete 
 the connected Sharepoint site.
 
 For more information, see below.
 
-Create a Teamwork
+Create a teamwork
 ***********************
-To create a Teamwork from here, do the following:
+To create a teamwork from here, do the following:
 
 1. Click CREATE NEW.
 2. Select "Create New".
-3. Select Template. 
+3. Select template. 
 
 Here's an example with a lot of different alternatives. You may not have as many.
 
@@ -40,21 +40,21 @@ Here's an example with a lot of different alternatives. You may not have as many
 
 Available settings depends on how the template is set up. 
 
-+ **Title**: Add a Title for the Publishing App.
-+ **Description**: Add a Description if needed.
-+ **Show in Public Listings**: If a link to the app should be available in public listings (meaning listings in Omnia) select this option. If this option is deselected, the app can only be reached by specific links, for example in a Workspace navigation.
++ **Title**: Add a title for the teamwork.
++ **Description**: Add a description if needed.
++ **Show in Public Listings**: If a link to the teamwork should be available in public listings (meaning listings in Omnia) select this option. If this option is deselected, the app can only be reached by specific links, for example in a Workspace navigation.
 + **Default View Access/Limit View Acess**: If you select “Limit View Access” you can change view permissions for the app to specific users.
 + **Alias**: The last part of the address to the site is created automatically but can be edited if necessary. If the name (address) already exists an alternative address is suggested.
-+ **Languages**: The same language as the main Business Profile language is suggested. Another language can be selected if needed.  
-+ **ADD IMAGE**: The editor setting up a Publishing Rollup can choose to show images for the apps, both for List and for Card display. Here you can select an image to be shown there, using the Media Picker. When an image has been selected it can be deleted or edited using the X and the pen that is shown then.
++ **Languages**: The same language as the main business profile language is suggested. Another language can be selected if needed.  
++ **ADD IMAGE**: The editor setting up a rollup can choose to show images for the apps, both for List and for Card display. Here you can select an image to be shown there, using the Media Picker. When an image has been selected it can be deleted or edited using the X and the pen that is shown then.
 
 4. Click "Next" and use the following settings:
 
 .. image:: teamwork-settings-v7.png
 
-+ **App Administrators**: The active Administrator (you) is automatically added as App Administrator. Add or delete administrators as needed. There must always be at least one.
++ **App Administrators**: The active administrator (you) is automatically added as app administrator. Add or delete administrators as needed. There must always be at least one.
 
-5. The Properties step may be very different in different templates, or maybe not neded at all. Here's a simple example. Note that a star indicates if that the property is mandatory.
+5. The Properties step may be very different in different templates, or maybe not be neded at all. Here's a simple example. Note that a star indicates if that the property is mandatory.
 
 .. image:: teamwork-settings-property-v7.png
 
@@ -62,7 +62,7 @@ Here's another example, from a template for projects. As you can see, there can 
 
 .. image:: teamwork-settings-property-project-v7.png
 
-6. Set Owner and also Members, if needed. 
+6. Set owner and also members, if needed. 
 
 .. image:: team-collaboration-owner-v7.png
 
@@ -76,18 +76,18 @@ When you click NEXT, a summary is shown, where you can click the pen the edit an
 
 Cloning a teamwork
 --------------------
-A very special case is the possibility to clone an existing teamwork, if that is made available through a template. It will probably be available as step 4. What you do is search for a teamwork to clone, and then decide the parts of teamwork to clone, for example:
+A special case is the possibility to clone an existing teamwork, if that is made available through a template. It will probably be available as step 4. What you do is search for a teamwork to clone, and then decide which parts of teamwork to clone, for example:
 
 .. image:: team-collaboration-clone-v7.png
 
-Attach a Teamwork site
+Attach a teamwork site
 ************************
 Using this option you can attach any teamwork site (Sharepoint Team Site) to Omnia. When a teamwork is attached you can handle it through Omnia the same way as it was created through Omnia.
 
 The following permissions are required to be able to attach:
 
-+ For an Omnia Teamwork app: App Administrator permissions.
-+ For a Sharepoint site: Site Collection Administrator permissions.
++ For an Omnia Teamwork app: app administrator permissions.
++ For a Sharepoint site: site collection administrator permissions.
 
 Do the following to attach a site:
 
@@ -102,16 +102,14 @@ The following is shown:
 
 You can "detach" (delete) a site if needed. Then the following permissions are needed:
 
-+ For an Omnia Teamwork app: App Administrator permissions.
-+ For a Sharepoint site: Site Owner or Site Collection Administrator permissions.
++ For an Omnia Teamwork app: app administrator permissions.
++ For a Sharepoint site: site owner or site collection administrator permissions.
 
-**Note!** What actually happens when you click the dust bin to delete a site, is that the site is detached. That is true for all Teamwork sites, regardless of if they have been created in or attached to Omnia.
-
-**Note!** When a site is detached, an e-mail is sent to the site owner(s).
+**Note!** What actually happens when you click the dust bin to delete a site, is that the site is detached. That is true for all teamwork sites, regardless of if they have been created in or attached to Omnia. When a site is detached, an e-mail is sent to the site owner(s).
 
 Edit App Route
 ****************
-If it should be needed to edit the App Route, Select "Alias" in the dot menu for the teamwork and the following is shown:
+If it should be needed to edit the app route, Select "Alias" in the dot menu for the teamwork and the following is shown:
 
 .. image:: teamwork-apps-app-route-community-v7.png
 
@@ -119,7 +117,7 @@ Edit the app route and save.
 
 Edit Permissions
 ******************
-If you need to add or remove owners (administrator) or members for a Teamwork, select "Permission" in the dot menu for the teamwork.
+If you need to add or remove owners (administrators) or members for a teamwork, select "Permission" in the dot menu for the teamwork.
 
 .. image:: teamwork-app-premissions-v7.png
 
@@ -127,7 +125,7 @@ Don't forget to save when you're done.
 
 Edit Features
 ***************
-If it's needed to upgrade a feature for the Teamwork, you need to go here. You also go here to activate or deactivate a feature. Available features can differ a lot depending on typoer of app. Here's an example:
+If it's needed to upgrade a feature for the teamwork, you need to go here. You also go here to activate or deactivate a feature. Available features can differ a lot depending on type of teamwork. Here's an example:
 
 .. image:: teamwork-app-features-v7.png
 
@@ -139,15 +137,15 @@ When a user creates a teamwork where approval is needed, an administrator uses t
 
 .. image:: pending-approval-v7.png
 
-Approval (or Rejection) is done this way:
+Approval (or rejection) is done this way:
 
-1. Click the link for the Teamwork.
+1. Click the link for the teamwork.
 2. Check the name, settings and so on.
 3. If everything is OK, click "Approve", or if changes are needed, click "Reject".
 
 .. image:: pending-approval-approve-v7.png
 
-If you approve the creation of the Teamwork a message is sent to the person requesting it, and the Teamwork is created.
+If you approve the creation of the teamwork a message is sent to the person requesting it, and the teamwork is created.
 
 If you reject, the following is shown:
  
@@ -155,17 +153,17 @@ If you reject, the following is shown:
 
 4. Type a message stating what needs to be done for approval, and click "Save" to send the message.
 
-The person requesting the Teamwork receives the message and can then start a new Teamwork creation with your comments in mind. 
+The person requesting the teamwork receives the message and can then start a new teamwork creation with your comments in mind. 
 
 **Note!** Requesting a Teamwork must always be done from start each time. If rejected, nothing from the request is saved.
 
 Orphaned
 **********
-When a site of the type Microsoft 365 Team Site, Sharepoint Team Site or Sharepoint Communication Site is created, a Sharepoint site is created and is connected to the site. A Yammer Group can also need a Sharepoint site, depending on how the Yammer Group is set up.
+When a site of the type Microsoft 365 Team Site, Sharepoint Team Site or Sharepoint Communication Site is created, a Sharepoint site is also created and is connected to the site. A Yammer group can also need a Sharepoint site, depending on how the Yammer group is set up.
 
 .. image:: teamwork-orphaned-v7.png
 
-The connected Sharepoint site may be deleted for some reason, but when that happens the Omnia site may not. When this happens a link to the site is placed in this list, so an administrator can take actions.
+The connected Sharepoint site may be deleted for some reason, but when that happens the Omnia site may not. When this is the case, a link to the site is placed in this list, so an administrator can take actions.
 
 The same dot menu actions are available here as described above.
 
