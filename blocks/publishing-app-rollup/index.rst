@@ -41,13 +41,17 @@ Available settings depends on what you select. All options are listed below.
 
 + **Add Column**: If you select List View, you must add at least one Column for the display to work.
 + **Cards per Row**: Available for Card view. As it says, set the number of cards to show per row.
++ **Descending/Ascending**: Select type of sorting here.
++ **Fixed header**: The header of the rollup can be shown all the time (Fixed). If youo want that, select this option.
 + **Paging**: Select how paging should work; "No Paging", "Classic" or "Scroll".
 + **Image**: Available for Card view. Choose to display an image or not.
 + **Item Limit**: Set the number of sites to be shown on each "page" of the list.
++ **No results text**. If you would like to add a text to be shown when rollup returns no result, add it here. You can add a message in any available tenant language (click the flag to change language).
 + **Sort By**: Select what to sort the list on, and then select Ascending or Descending sorting.
 + **Padding**: You can add some padding between the block's borders and the list.
-+ **Show Follow status**: Follow status is indicated by a star, filled if the teamwork is followed, hollow if not, see below for an example.
 + **Open in new window**: For some (maybe all) of of the teamworks, it can be a good idea to open the link in a new window.
++ **Show Follow status**: Follow status is indicated by a star, filled if the teamwork is followed, hollow if not, see below for an example.
++ **Term Properties**: For Card view, you can add term properties to be shown on the cards. Click "Add" and select one or more properties.
 
 If you select STYLES for Card View, the following, additional settings becomes available:
 
@@ -55,13 +59,13 @@ If you select STYLES for Card View, the following, additional settings becomes a
 
 Filter
 ------------------
-Here you can add filters so users can filter (= choose to just see some) of a long list.
+Here you can add filters so users can filter (= choose what to see in the rollup). These options are availble in Omni 6.13:
 
 .. image:: publishing-app-rollup-settings-filter.png
 
-+ **Add filter**: To add filters, click this link. See below for more information.
-+ **Show Search Box**: To add a search box, select this option. You can do that without adding filters.
++ **Add filter**: To add filters, click this link. See the link below for more information.
 + **Enable partial word search**: Per default the search will onfly find whole words, so a search for Chris will find just that, not for example Christina. But if you select this option, the search will find parts of words as well, so both Chris, Christina and Christian, for example.
++ **Show Search Box**: To add a search box, select this option. You can do that without adding filters.
 + **Hide filter by default**: If you chose a search box you can select this option. Then no filters are shown until users has executed a search and got a search result.
 
 In Omnia 7.0 and later, new options for filtering can be available, see: :doc:`Filter options for blocks in Omnia 7.0 </blocks/general-block-settings/filter-options-block/index>`
