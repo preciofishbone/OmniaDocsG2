@@ -10,8 +10,14 @@
 - It is now possible to attach a publishing app to an existing communication site.
 - Custom 404/401 pages can now be designed in Omnia Admin.
 - Broken links statistics are now available in the metrics block. 
+- The page rollup list view can now should people with only name or only user image.
+- Limit read access are now persistent between versions in Process Management (#122305)
+- Sort by using the column header now uses the correct configured managed property (#133600).
+- Mediaflow is now available as a possible media picker, NOTE: License with mediaflow is required to use this feature.
+- App instance connected sites URLs can now be edited in Omnia Admin.
+- Suggested templates in the new document wizard now show correct when switching between normal and controlled document (#140277).
 
-- Also fixes preview bugs (#149420). 
+- Also fixes preview bugs (#149420, #148905, ). 
 
 
 7.0.12
