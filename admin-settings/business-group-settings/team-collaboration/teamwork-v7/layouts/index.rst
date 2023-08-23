@@ -1,11 +1,15 @@
-Layouts for Teamwork in Omnia v7
+Teamwork layouts in Omnia v7
 =====================================
 
 Using these options you can create a start page for a teamwork. First you see the list of the layouts created so far, for example:
 
 .. image:: layout-teamwork-all-v7.png
 
-To edit a layout, just click the name. All options can be edited, see below.
+The following actions are available in the dot menu for a layout:
+
+.. image:: layout-teamwork-dotmenu-v7.png
+
+To edit a layout, you can also just click the name. All options can be edited, see below.
 
 Create a new teamwork layout
 ********************************
