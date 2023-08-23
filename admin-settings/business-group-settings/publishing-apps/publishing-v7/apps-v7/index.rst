@@ -92,7 +92,7 @@ Edit Permissions
 *****************
 If you need to add or remove administrator(s) for a publishing app, you can do it as part of the actions:
 
-.. image:: publishing-apps-app-premissions-v7.png
+.. image:: publishing-apps-app-premissions-v7-frame.png
 
 Contributor permissions is needed for colleagues that should be able to add comments to publishing pages.
 
