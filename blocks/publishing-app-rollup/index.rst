@@ -11,9 +11,9 @@ The following settings are available for the block:
 
 General
 ---------
-Here you can add a title for the block.
+Here you can add a title for the block, in any available tenant language (click the flag to change language).
 
-.. image:: publishing-app-rollup-settings-general.png
+.. image:: publishing-app-rollup-settings-general-v7.png
 
 Query
 -----------
