@@ -74,9 +74,9 @@ Here's an example of a Navigation View with follow status shown:
 
 Filter UI
 ------------------
-Here you can add filters so users can filter (= choose to just see some) of a long list.
+Here you can add filters so users can filter (= choose to just see some) of a long list. (Image from Omnia v7).
 
-.. image:: add-filter-new2.png
+.. image:: add-filter-v7.png
 
 For more information on how to add filters, or a search box, see this page: :doc:`Filter UI </blocks/general-block-settings/filters/index>`
 
