@@ -31,9 +31,9 @@ Display
 --------
 Here you can select List View or Card View.
 
-.. image:: publishing-app-rollup-settings-display.png
+.. image:: publishing-app-rollup-settings-display-v7.png
 
-Available settings depends on what you select. All options are listed below.
+Available settings depends on what you select. All options are listed below (not all options are shown in the image).
 
 + **Add Column**: If you select List View, you must add at least one Column for the display to work.
 + **Cards per Row**: Available for Card view. As it says, set the number of cards to show per row.
@@ -55,16 +55,11 @@ If you select STYLES for Card View, the following, additional settings becomes a
 
 Filter
 ------------------
-Here you can add filters so users can filter (= choose what to see in the rollup). These options are availble in Omni 6.13:
+Here you can add filters so users can filter (= choose what to see in the rollup). Image from Omnia v7.
 
-.. image:: publishing-app-rollup-settings-filter.png
+.. image:: publishing-app-rollup-settings-filter-v7.png
 
-+ **Add filter**: To add filters, click this link. See the link below for more information.
-+ **Enable partial word search**: Per default the search will onfly find whole words, so a search for Chris will find just that, not for example Christina. But if you select this option, the search will find parts of words as well, so both Chris, Christina and Christian, for example.
-+ **Show Search Box**: To add a search box, select this option. You can do that without adding filters.
-+ **Hide filter by default**: If you chose a search box you can select this option. Then no filters are shown until users has executed a search and got a search result.
-
-In Omnia 7.0 and later, new options for filtering can be available, see: :doc:`Filter options for blocks in Omnia 7.0 </blocks/general-block-settings/filter-options-block/index>`
+Filter options in Omnia v7 are described on this page: :doc:`Filter options for blocks in Omnia 7.0 </blocks/general-block-settings/filter-options-block/index>`
 
 Layout and Write
 *********************
