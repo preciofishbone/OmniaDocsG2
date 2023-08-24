@@ -135,6 +135,7 @@ def setup(app):
         app.add_js_file('wedc.js?v=4')
 
 #html_theme = 'default'
+html_theme = 'sphinx_rtd_theme'
 
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the
