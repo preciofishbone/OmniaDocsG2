@@ -3,7 +3,7 @@ Creating app templates in Omnia v7
 
 **This page is being edited. Will be finished soon**
 
-In Omnia, templates for Publishing apps, Communities and Teamwork are created in a simlar way. This page describes the general options for these three types of templates. See the respective page in Omnia Admin for more information (links below).
+In Omnia, templates for Publishing apps, Communities and Teamwork are created in a simlar way. This page describes the general options for these three types of templates. See the respective page in Omnia Admin for more information (links at the bottom of this page).
 
 Images in this description from templates for Publishing Apps.
 
@@ -101,5 +101,11 @@ The following can be set here:
 
 Additional information
 ***********************
-For more informaion, see: (links to be added)
+In some cases, additional settings are available.
+
+When creating a template for a **Yammer community**, the Setup step is different. See the bottom of this page: :doc:`Templates for communities in Omnia v7 </admin-settings/business-group-settings/communities/communities-v7/templates/index>`
+
+When creating a template for a **Sharepoint Communication site**, the Setup step is slightly different. See the bottom of this page: :doc:`Templates for publishing apps in Omnia v7 </admin-settings/business-group-settings/publishing-apps/publishing-v7/templates-v7/index>`
+
+Regarding templates for **Teamwork**, there are differences for Microsoft 365 Group, Sharepoint Team Site, Microsoft Team and Private Yammer community. See this page for more information: :doc:`Teamwork templates in Omnia v7 </admin-settings/business-group-settings/team-collaboration/teamwork-v7/templates/index>`
 
