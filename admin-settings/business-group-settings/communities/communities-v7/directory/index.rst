@@ -1,5 +1,5 @@
-Directory in Omnia v7
-==================================
+Directory of communities in Omnia v7
+=====================================
 
 Within a business profile several community apps can be active for different settings. To be able to create a community, at least one template for this purpose must be available. If none are, create a template first.
 
