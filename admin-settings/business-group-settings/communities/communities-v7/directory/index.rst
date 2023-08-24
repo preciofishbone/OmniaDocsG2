@@ -11,7 +11,7 @@ Use this icon to close the menu to the left and work in full window mode:
 
 .. image:: communities-icon-v7.png
 
-You can click the link to go to a community. You can search for a community and use the headings "Title", "Template" and "Created Date".
+You can click the link to go to a community. You can search for a community and use the headings "Title", "Template" and "Created Date" to sort the list.
 
 The following actions, using the dot menu to the right, are available for a community in the "All" list:
 
