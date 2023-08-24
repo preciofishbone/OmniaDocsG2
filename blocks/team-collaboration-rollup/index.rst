@@ -1,13 +1,15 @@
 Teamwork Rollup
 ======================
 
-Use this block to show team sites and other teamworks the user has access to. Here's an example:
+Use this block to show team sites and other teamworks the user has access to. Here's an example when the block is used to rollup projects (projects are teamworks) in Omnia v7:
 
-.. image:: sitedirectory-g2-new3.png
+.. image:: sitedirectory-v7.png
 
-Note that icons indicate if a Teams, Yammer or Facebook Workplace group is connected to the Team Site. Users can click the icon to go to the group. In the image above a Teams group is connected to each Team Site.
+Note the metadata for project status and project sponsor.
 
-Here's another example, with all three types of icons:
+Icons indicate if a Teams group, Yammer or Facebook Workplace group is connected to the Team Site. Users can click the icon to go to the group. In the image above a Teams group is connected to each Team Site.
+
+Here's an older example, with all three types of icons:
 
 .. image:: sitedirectory-iconexamples.png
 
@@ -19,19 +21,15 @@ The following settings are available for the block:
 
 General
 ---------
-You can add a Title for the block here:
+You can add a title for the block here.
 
-.. image:: teamwork-general-border.png
+.. image:: teamwork-general-v7.png
 
-If variations exists, only one title can be set, as in the above image. In that case, titles in other languages are set in the variations. If no variation exists for the page, you can set the title in the languages active in the tenant.
+If variations exists, only one title can be set. In that case, titles in other languages are set in the variations. If no variation exists for the page, you can set the title in the languages active in the tenant (click the flag to change language).
 
 Query
 --------
-Here you can set the following in Omnia 6.13 and earlier: 
-
-.. image:: teamwork-query-new2.png
-
-and this in Omnia 7.0 and later:
+Here you can set the following (image from Omnia v7): 
 
 .. image:: teamwork-query-new2-7.png
 
@@ -51,34 +49,36 @@ Note that the first three scopes only include teamwork connected to Omnia that a
 + Last Visited: All last visited Teamwork App Instances. (Omnia Database).
 + All (SharePoint Sites): All sites in SharePoint. (SharePoint Search).
 + Followed (SharePoint Sites): All followed sites in SP. (SharePoint Social API).
-+ Member of (Office 365 Groups): Member of Office 365 Groups. (MS Graph).
++ Member of (Office 365 Groups): Member of Office 365 Groups (MS Graph).
 
 Display
 ----------
-Select a View (List View or Navigation View) and use the following settings:
+Select a View (List View or Navigation View) and use the following settings (image from Omnia v7):
 
-.. image:: team-collaboration-block-settings-display-new3.png
+.. image:: team-collaboration-block-settings-display-v7.png
 
-(All options are not shown in the image.)
+(All options are not shown in the image but are described below.)
 
 + **Add Column**: If you select List View, you must add at least one Column for the display to work. (Navigation View is fixed regarding the columns to display).
++ **Fixed header**: Available in Omnia v7. Select to always show the header when scrolling.
 + **Paging**: Select how paging should work; "No Paging", "Classic" or "Scroll".
 + **Icon Mode**: For Icon Mode you can select Letter Avatar or Template Icon. In the example images at the top, Letter Vatar is selected.
 + **Item Limit**: Set the number of sites to be shown on each "page" of the list.
 + **Sort By**: Select what to sort the list on, and then select Ascending or Descending sorting.
-+ **Padding**: You can add some padding between the block's borders and the list.
++ **No result text**: You can add a text that is shown if the query should result in nothing to display. Add in any of the avaiable tenant languages (click the flag to change language).
 + **Show Follow status**: Follow status is indicated by a star, filled if the teamwork is followed, hollow if not, see below for an example.
 + **Open in new window**: For some (maybe all) of of the teamworks, it can be a good idea to open the link in a new window.
++ **Padding**: You can add some padding between the block's borders and the list.
 
-Here's an example of a Navigation View with follow status shown:
+Here's an example of a Navigation View with follow status shown (image from Omnia v7):
 
-.. image:: follow-status.png
+.. image:: follow-status-v7.png
 
 Filter UI
 ------------------
-Here you can add filters so users can filter (= choose to just see some) of a long list.
+Here you can add filters so users can filter (= choose to just see some) of a long list. (Image from Omnia v7).
 
-.. image:: add-filter-new2.png
+.. image:: add-filter-v7.png
 
 For more information on how to add filters, or a search box, see this page: :doc:`Filter UI </blocks/general-block-settings/filters/index>`
 

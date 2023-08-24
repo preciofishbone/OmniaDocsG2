@@ -7,7 +7,7 @@ Settings
 ***********
 The following settings are available for the block:
 
-.. image:: publishing-app-rollup-settings-all.png
+.. image:: publishing-app-rollup-settings-all-v7.png
 
 General
 ---------
@@ -17,11 +17,7 @@ Here you can add a title for the block, in any available tenant language (click 
 
 Query
 -----------
-Here you decide what to rollup in the block. These options are available in Omnia 6.13 and earlier:
-
-.. image:: publishing-app-rollup-settings-query.png
-
-These options are available in Omnia 7.0 and later:
+Here you decide what to rollup in the block. (Image from Omnia v7).
 
 .. image:: publishing-app-rollup-settings-query-v7.png
 
