@@ -51,7 +51,7 @@ Note that the first three scopes only include teamwork connected to Omnia that a
 + Last Visited: All last visited Teamwork App Instances. (Omnia Database).
 + All (SharePoint Sites): All sites in SharePoint. (SharePoint Search).
 + Followed (SharePoint Sites): All followed sites in SP. (SharePoint Social API).
-+ Member of (Office 365 Groups): Member of Office 365 Groups. (MS Graph).
++ Member of (Office 365 Groups): Member of Office 365 Groups (MS Graph).
 
 Display
 ----------
