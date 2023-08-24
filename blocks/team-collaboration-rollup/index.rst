@@ -1,7 +1,7 @@
 Teamwork Rollup
 ======================
 
-Use this block to show team sites and other teamworks the user has access to. Here's an example when the block is used to rollup projects (projects are teamworks):
+Use this block to show team sites and other teamworks the user has access to. Here's an example when the block is used to rollup projects (projects are teamworks) in Omnia v7:
 
 .. image:: sitedirectory-v7.png
 
