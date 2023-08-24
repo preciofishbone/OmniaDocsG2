@@ -27,11 +27,7 @@ If variations exists, only one title can be set. In that case, titles in other l
 
 Query
 --------
-Here you can set the following in Omnia 6.13 and earlier: 
-
-.. image:: teamwork-query-new2.png
-
-and this in Omnia 7.0 and later:
+Here you can set the following (image from Omnia v7): 
 
 .. image:: teamwork-query-new2-7.png
 
@@ -55,20 +51,22 @@ Note that the first three scopes only include teamwork connected to Omnia that a
 
 Display
 ----------
-Select a View (List View or Navigation View) and use the following settings:
+Select a View (List View or Navigation View) and use the following settings (image from Omnia v7):
 
-.. image:: team-collaboration-block-settings-display-new3.png
+.. image:: team-collaboration-block-settings-display-v7.png
 
-(All options are not shown in the image.)
+(All options are not shown in the image but are described below.)
 
 + **Add Column**: If you select List View, you must add at least one Column for the display to work. (Navigation View is fixed regarding the columns to display).
++ **Fixed header**: Available in Omnia v7. Select to always show the header when scrolling.
 + **Paging**: Select how paging should work; "No Paging", "Classic" or "Scroll".
 + **Icon Mode**: For Icon Mode you can select Letter Avatar or Template Icon. In the example images at the top, Letter Vatar is selected.
 + **Item Limit**: Set the number of sites to be shown on each "page" of the list.
 + **Sort By**: Select what to sort the list on, and then select Ascending or Descending sorting.
-+ **Padding**: You can add some padding between the block's borders and the list.
++ **No result text**: You can add a text that is shown if the query should result in nothing to display. Add in any of the avaiable tenant languages (click the flag to change language).
 + **Show Follow status**: Follow status is indicated by a star, filled if the teamwork is followed, hollow if not, see below for an example.
 + **Open in new window**: For some (maybe all) of of the teamworks, it can be a good idea to open the link in a new window.
++ **Padding**: You can add some padding between the block's borders and the list.
 
 Here's an example of a Navigation View with follow status shown:
 
