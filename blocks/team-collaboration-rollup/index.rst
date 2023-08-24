@@ -70,9 +70,9 @@ Select a View (List View or Navigation View) and use the following settings (ima
 + **Open in new window**: For some (maybe all) of of the teamworks, it can be a good idea to open the link in a new window.
 + **Padding**: You can add some padding between the block's borders and the list.
 
-Here's an example of a Navigation View with follow status shown:
+Here's an example of a Navigation View with follow status shown (image from Omnia v7):
 
-.. image:: follow-status.png
+.. image:: follow-status-v7.png
 
 Filter UI
 ------------------
