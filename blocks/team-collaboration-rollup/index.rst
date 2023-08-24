@@ -19,11 +19,11 @@ The following settings are available for the block:
 
 General
 ---------
-You can add a Title for the block here:
+You can add a title for the block here.
 
-.. image:: teamwork-general-border.png
+.. image:: teamwork-general-v7.png
 
-If variations exists, only one title can be set, as in the above image. In that case, titles in other languages are set in the variations. If no variation exists for the page, you can set the title in the languages active in the tenant.
+If variations exists, only one title can be set. In that case, titles in other languages are set in the variations. If no variation exists for the page, you can set the title in the languages active in the tenant (click the flag to change language).
 
 Query
 --------
