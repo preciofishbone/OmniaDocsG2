@@ -1,13 +1,15 @@
 Teamwork Rollup
 ======================
 
-Use this block to show team sites and other teamworks the user has access to. Here's an example:
+Use this block to show team sites and other teamworks the user has access to. Here's an example when the block is used to rollup projects (projects are teamworks):
 
-.. image:: sitedirectory-g2-new3.png
+.. image:: sitedirectory-v7.png
 
-Note that icons indicate if a Teams, Yammer or Facebook Workplace group is connected to the Team Site. Users can click the icon to go to the group. In the image above a Teams group is connected to each Team Site.
+Note the metadata for project status and project sponsor.
 
-Here's another example, with all three types of icons:
+Icons indicate if a Teams group, Yammer or Facebook Workplace group is connected to the Team Site. Users can click the icon to go to the group. In the image above a Teams group is connected to each Team Site.
+
+Here's an older example, with all three types of icons:
 
 .. image:: sitedirectory-iconexamples.png
 
