@@ -7,21 +7,17 @@ Settings
 *************
 The following settings is available:
 
-.. image:: community-rollup-settings-all.png
+.. image:: community-rollup-settings-all-v7.png
 
 General
 ---------
-Here you can add a title for the block. 
+Here you can add a title for the block in any available tenant language (click the flag to change language).
 
-.. image:: community-rollup-settings-general.png
+.. image:: community-rollup-settings-general-v7.png
 
 Query
 -----------
-Here you decide what to rollup in the block. These are the options available in Omnia 6.13 and earlier:
-
-.. image:: community-rollup-settings-query.png
-
-And these options are available in Omnia 7.0 and later:
+Here you decide what to rollup in the block. (Image from Omnia v7).
 
 .. image:: community-rollup-settings-query-v7.png
 
@@ -33,11 +29,11 @@ And these options are available in Omnia 7.0 and later:
 
 Display
 --------
-Here you can select List View or Card View.
+Here you can select List View or Card View. (Image from Omnia v7).
 
-.. image:: community-rollup-settings-display.png
+.. image:: community-rollup-settings-display-v7.png
 
-Available settings depends on what you select. All options are listed below.
+Available settings depends on what you select. All options are listed below (not all are shown in the image).
 
 + **Add Column**: If you select List View, you must add at least one Column for the display to work.
 + **Cards per Row**: Available for Card view. As it says, set the number of cards to show per row.
@@ -55,16 +51,11 @@ If you select STYLES for Card View, the following, additional settings becomes a
 
 Filter
 ------------------
-Here you can add filters so users can filter (= choose to just see some) of a long list.
+Here you can add filters so users can filter (= choose to just see some) of a long list. Image from Omnia v7.
 
-.. image:: add-filter-communities.png
+.. image:: add-filter-communities-v7.png
 
-+ **Add filter**: To add filters, click this link. See below for more information.
-+ **Show Search Box**: To add a search box, select this option. You can do that without adding filters.
-+ **Enable partial word search**: Per default the search will onfly find whole words, so a search for Chris will find just that, not for example Christina. But if you select this option, the search will find parts of words as well, so both Chris, Christina and Christian, for example.
-+ **Hide filter by default**: If you chose a search box you can select this option. Then no filters are shown until users has executed a search and got a search result.
-
-In Omnia 7.0 and later, new options for filtering can be available, see: :doc:`Filter options for blocks in Omnia 7.0 </blocks/general-block-settings/filter-options-block/index>`
+Filter options in Omnia v7 are described on this page: :doc:`Filter options for blocks in Omnia 7.0 </blocks/general-block-settings/filter-options-block/index>`
 
 Follow and describe to a community
 *************************************
