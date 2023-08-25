@@ -19,6 +19,15 @@
 
 - Also fixes preview bugs (#149420, #148905, ). 
 
+7.0.15
+========================================
+(Omnia 7.0.15 / Workplace 7.0.12 / WCM 7.0.12 / MS 7.0.10)
+
+- Fixed issue in people rollup relating to Yes/No fields in the new filters.
+- Archived pages now show as expected.
+- Fixed an intermitted issue where granted permissions would not take effect.
+- 6.13 -> 7.0 Data migration fixes.
+
 
 7.0.12
 ========================================
