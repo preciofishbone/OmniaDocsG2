@@ -1,6 +1,8 @@
 Teamwork Navigation
 ===========================================
 
+**This page is being edited**:
+
 Teamwork Navigation can display links to several types of sites and groups, including Yammer Groups, Facebook Workplace and Microsoft Teams Groups. Settings in Omnia Admin states if Teamwork Navigation should be shown or not in the top menu.
 
 .. image:: my-sites-example-new3.png
