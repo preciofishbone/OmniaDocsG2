@@ -44,7 +44,7 @@ Here's an example with some common fields and options:
 
 2. Select a template.
 
-.. image:: select-site-type-v7¨-frame.png
+.. image:: select-site-type-v7-frame.png
 
 (What is available in this list depends on templates set up in Omnia Admin.)
 
