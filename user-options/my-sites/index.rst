@@ -42,9 +42,9 @@ Here's an example with some common fields and options:
 
 .. image:: click-new-site-V7.png
 
-2. Select the site or group to create.
+2. Select a template.
 
-.. image:: select-site-type-v7.png
+.. image:: select-site-type-v7¨-frame.png
 
 (What is available in this list depends on templates set up in Omnia Admin.)
 
