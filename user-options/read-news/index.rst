@@ -13,9 +13,9 @@ Just click the image for the news you want to read. When reading, it can llok li
 
 .. image:: news-list-example-reading-v7.png
 
-Note the metadata info that this news relates to Human Resources. Also note the two lists to the right: Related News and Latest News. You can read additional news by just clicking there.
+Note the metadata info indicatig that this news relates to Human Resources. Also note the two lists to the right: Related News and Latest News. You can read additional news by just clicking there.
 
-The Page Rollup block can be used on any publishing page in Omnia. 
+The Page Rollup block can be used on any publishing page in Omnia in can be setup in a number of ways. 
 
 Another common solution is to make news available in the Notification Panel. Here's an example:
 
@@ -29,13 +29,13 @@ Liking, sharing and commenting works the same way here as for publishing pages i
 
 A News Center
 ******************
-If a news archive is available, it's indicated by a link or button, for example:
-
-.. image:: news-archive-example-button-v7.png
-
 A news center can also be setup in a number of ways. Here's an example using card views and where the news articles are divied into four types.
 
 .. image:: news-archive-v7.png
+
+If a news archive is available, it's indicated by a link or button, for example:
+
+.. image:: news-archive-example-button-v7.png
 
 In a news archive, you can read older news as well. In this example, you can search for news here and filter the list on dates.
 
