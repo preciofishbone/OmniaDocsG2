@@ -21,8 +21,6 @@ The totalt number of search results are shown for for each category. Here's an e
 
 .. image:: quick-search-total-v7.png
 
-Users can then go to Advanced Search by clicking "See more results" to find out more about the search result.
-
 Advanced Search
 ****************
 To search with more options, users can go to Advanced Search by clicking here (the text for this link can be edited):
