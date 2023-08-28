@@ -91,7 +91,7 @@ Any step can be edited by clicking the pen.
 
 8. Click CREATE or SEND FOR APPROVAL, depending on how the template is setup.
 
-If the button's label is CREATE, the site/group is created when you click the button. If the button's label is SEND FOR APPROVA, an administrator must approve your request before the site/group can be created. When the administrator has done his or her job, you will be notified.
+If the button's label is CREATE, the site/group is created when you click the button. If the button's label is SEND FOR APPROVAL, an administrator must approve your request before the site/group can be created. When the administrator has done his or her job, you will be notified.
 
 Templates for teamwork creation
 **********************************
