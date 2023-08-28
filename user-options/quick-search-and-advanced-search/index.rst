@@ -13,6 +13,10 @@ Previews are available for pages and documents. For a preview, point at the page
 
 .. image:: quick-search-preview-page-v7.png
 
+Here's an example of a preview for a page:
+
+.. image:: quick-search-preview-page-preview-v7.png
+
 The totalt number of search results are shown for for each category. Here's an example:
 
 .. image:: quick-search-total-v7.png
