@@ -11,7 +11,10 @@ The following options are available here:
 
 Select section for more information.
 
+.. toctree::
+   :titlesonly:
 
-
-
+   settings-opan-ai/index
+   improve-selected-text/index
+   content-analysis/index
 
