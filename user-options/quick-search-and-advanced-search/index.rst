@@ -31,7 +31,7 @@ When conducting an Advanced Search more tabs are available at the top and refine
 
 The refiners available (if refiners are shown) depends on what is available in the search result and the tab selected. Here's an example:
 
-.. image:: advanced-search-result-v7.png
+.. image:: advanced-search-result-v7-new.png
 
 If, for example, the user would be interested in documents in communities, these search results could be shown by selecting "Document" on the COMMMUNITIES tab, in this example.
 
