@@ -1,7 +1,9 @@
 Read News
 ===========================================
 
-News is very often an important part of an Omnia implementation. Normally you can read both the latest news and older news. You can also find news articles through search using Quick Search and Advanced Search.
+News is very often an important part of an Omnia implementation. How news articles are made available and read can be set up in many ways. Here are a few examples.
+
+Normally you can read both the latest news and older news. You can also find news articles through search using Quick Search and Advanced Search.
 
 A common solution is that the latest news is available in a list at the start page. Here's an example using the Page Rollup block and Dynamic roller for display:
 
@@ -11,7 +13,7 @@ Just click the image for the news you want to read. When reading, it can llok li
 
 .. image:: news-list-example-reading-v7.png
 
-Note the metadata info that this news relates to Human Resources. Also note the two lists to the right: Related News and Latest News.
+Note the metadata info that this news relates to Human Resources. Also note the two lists to the right: Related News and Latest News. You can read additional news by just clicking there.
 
 The Page Rollup block can be used on any publishing page in Omnia. 
 
@@ -25,38 +27,17 @@ When reading a news article, you can often like (or react in some other way), sh
 
 Liking, sharing and commenting works the same way here as for publishing pages in Omnia.
 
-A news list can also be set up to show the news articles in windows, for example:
-
-.. image:: news-window.png
-
-You can then go to other pages shown in this list by cliking here:
-
-.. image:: news-window-click.png
-
-And you can go to the news article's page, by clicking "Open Page".
-
-.. image:: news-window-click-open-page.png
-
-The News Center
+A News Center
 ******************
-The most common solution is that all published articles are available in a News Archive/News Center. You can always search for news articles. It's also possible to go to the news archive and browse the list, by clicking a link. Here's an example:
+If a news archive is available, it's indicated by a link or button, for example:
 
-.. image:: news-archive-link-new2.png
+.. image:: news-archive-example-button-v7.png
 
-A News Center can look like this:
+A news center can also be setup in a number of ways. Here's an example using card views and where the news articles are divied into four types.
 
-.. image:: news-archive-example-new2.png
+.. image:: news-archive-v7.png
 
-The option "Create News Article" is shown for the users with the right permissions only, see: :doc:`Create news </user-options/create-news/index>`
+In a news archive, you can read older news as well. In this example, you can search for news here and filter the list on dates.
 
-The main list displays all published news articles, the latest at the top. You can always browse the list to look for a specific news article.
+.. image:: news-archive-example-archive-v7.png
 
-Depending on how the News Center is set up it can also be possible to use search or to filter the list. 
-
-.. image:: news-search-new2.png
-
-Another common solution is to display two lists to the right of the News list - one for the most commented News articles, and one for the most read or one for the most liked (in this case most liked):
-
-.. image:: news-commented-new2.png
-
-You can click headings in these lists to read a news article.
