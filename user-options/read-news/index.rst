@@ -3,27 +3,29 @@ Read News
 
 News is very often an important part of an Omnia implementation. Normally you can read both the latest news and older news. You can also find news articles through search using Quick Search and Advanced Search.
 
-A common solution is that the latest news is available in a list at the start page. Here's an example using the Page Rollup block:
+A common solution is that the latest news is available in a list at the start page. Here's an example using the Page Rollup block and Dynamic roller for display:
 
-.. image:: news-list-example-new2.png
+.. image:: news-list-example-v7.png
 
-The Page Rollup block can be used on any publishing page in Omnia. Another common solution is to make news available in the Notification Panel. Here's an example:
+Just click the image for the news you want to read. When reading, it can llok like this:
 
-.. image:: news-in-notification-panel-new2.png
+.. image:: news-list-example-reading-v7.png
 
-To read a news article, click the heading or the image.
+Note the metadata info that this news relates to Human Resources. Also note the two lists to the right: Related News and Latest News.
 
-The news article can now be read. You can often read other new news articles here, without having to go back a step, for example:
+The Page Rollup block can be used on any publishing page in Omnia. 
 
-.. image:: news-read-new2.png
+Another common solution is to make news available in the Notification Panel. Here's an example:
 
-When reading a news article, you can often like, share and comment the article:
+.. image:: news-in-notification-panel-v7.png
 
-.. image:: news-comment-new2.png
+When reading a news article, you can often like (or react in some other way), share and comment the article. Here's an example:
+
+.. image:: news-comment-v7.png
 
 Liking, sharing and commenting works the same way here as for publishing pages in Omnia.
 
-A news list can also be set up to show the news articles in a windows, for example:
+A news list can also be set up to show the news articles in windows, for example:
 
 .. image:: news-window.png
 
