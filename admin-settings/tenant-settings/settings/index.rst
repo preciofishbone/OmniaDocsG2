@@ -1,9 +1,9 @@
 Settings
 ====================
 
-Here you can set the following:
+Here you can set the following (image from Omnia 7,1):
 
-.. image:: tenant-settings-612.png
+.. image:: tenant-settings-v7.png
 
 Select section for more information:
 
@@ -17,9 +17,11 @@ Select section for more information:
    link-handler/index
    media-picker/index
    metrics/index
+   open-ai/index
    regional-settings/index
    rtf-editor/index
    setup-wizard/index
+   system-layouts/index
    text-styles/index
    user-profile-completion/index
    
