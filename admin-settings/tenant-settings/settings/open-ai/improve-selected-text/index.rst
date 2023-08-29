@@ -20,7 +20,7 @@ The following are available for a new prompt setting:
 .. image:: improve-selected-text-new.png
 
 + **Title**: Add a title for this setting, in any available tenant language (click the flag to change language).
-+ **Prompt**: Add the text for the prompr here.
++ **Prompt**: Add the text for the prompt here.
 + **Open chat dialog**: If the chat dialog should open, select this option.
 + **TRY OUT** You van try out the settings by clicking this button.
 
