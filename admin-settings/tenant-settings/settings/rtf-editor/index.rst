@@ -57,6 +57,10 @@ Select the styles that should be available in the list.
 
 **Note!** You can use Text Styles (option in the Settings menu) to configure styles. The enabled styles from Text Styles are those shown in the above list. 
 
+Open AI
+---------
+Open AI can be made available here (in Omnia 7.1 and later), according to Omnia Admin settings. See this page for more information: :doc:`Open AI (Admin settings) </admin-settings/tenant-settings/settings/open-ai/index>`
+
 Reorder the options
 ---------------------
 If you would like to reorder the options in the editor, use these icons to drag and drop:
