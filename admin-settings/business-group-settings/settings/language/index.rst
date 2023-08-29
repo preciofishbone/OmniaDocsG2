@@ -3,7 +3,7 @@ Language settings (Business Profile)
 
 Regarding Languages for the Business Profile you can select to inherit settings from the tenant or set different Language settings here. Note that this setting is for the user interface, not for pages. See more information in the Language description for the tenant (link below).
 
-.. image:: business-language-new3.png
+.. image:: business-language-v7.png
 
 To inherit Languages from the tenant, just select that option, and you're done.
 
