@@ -11,7 +11,7 @@ Use these advanced settings to make sure person properties are synchronized from
 
 These settings and options are available here:
 
-.. image:: sharepoint-user-profiles-sync.png
+.. image:: sharepoint-user-profiles-sync-v7.png
 
 + **SYNCHRONIZE NOW**: Click this button to execute the syncrhonizations set up (listed at the bottom). If you select "Enable Azure AD Synchronization" and set and interval, you don't have to click this button. The synchronization is then executed with the interval set.
 + **RESYNC**: Use this button to open the Resync window, if needed. See below for a description.
@@ -36,43 +36,38 @@ Setup a new synchronization
 To set up a new synchronization, do the following:
 
 1. Click the plus.
-
-.. image:: synchro-click-plus-612.png
-
 2. Use the following settings:
 
-.. image:: azure-ad-settings.png
+.. image:: azure-ad-settings-v7.png
 
 + **Azure AD property**: Open the list and select the AD property to synchronize.
 + **Sharepoint property**: Type the name of the Sharepoint property to synchronize to.
 + **Sync when value is empty**: Normally empty fields are not synchronized from the AD. If you want to do that, select this option.
-
-Here's an example:
-
-.. image:: azure-ad-settings-example.png
 
 3. Save when your finished here.
 4. Save your changes in the settings window.
 
 Events
 ********
-In the list each synchronization is described with Type, Status and start- and end time. The top icon for each post will show more details. Here's where you will see detailed log if you selected "Log Details".
+In the list each synchronization is described with Type, Status and start- and end time. 
 
-.. image:: azure-ad-settings-events.png
+.. image:: azure-ad-settings-events-v7.png
+
+The top icon for each post will show more details. 
 
 Resync
 *******
-If syncronization for some users didn't work, the RESYNC button is shown, for example:
-
-.. image:: azure-ad-settings-resync-1.png
+If syncronization for some users didn't work, the RESYNC button is shown.
 
 The system will try to sync the user(s) the number of time set for "Resync Retry Limit".  
 
 To display more information, click RESYNC. The information in this window can look like this (image from a test environment):
 
-.. image:: azure-ad-settings-resync-2.png
+.. image:: azure-ad-settings-resync-v7.png
 
 Here you will find more information on the resync job and you can see a list of users that the syncronization did'nt work for.
+
+Read the text in the windowcarefully.
 
 The button RESYNC NOW can be used to execute the sync job immediately. 
 
