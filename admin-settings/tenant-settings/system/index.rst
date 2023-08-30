@@ -11,6 +11,7 @@ Select section for more information:
 
    audit-logs/index
    authentication/index
+   azure-ad-permissions/index
    default-sharepoint-content/index
    connected-tenants/index
    error-information/index
