@@ -3,7 +3,7 @@ Azure AD Permissions
 
 Here, a Tenant Administrator can see lists of all consented permissions for Omnia in Azure AD.
 
-.. image:: azure-ad-permissions-all.png
+.. image:: azure-ad-permissions-all-v7.png
 
 + **INVALIDATE ALL USER TOKENS**: When permissions for Omnia has been changed, users needs to log out and log in for the changes to take effect. You can click this button to force a log out from Omnia for all users. More information on this below.
 + **Microsoft Graph**: Select to see a list of Microsoft Graph consented permissions for Omnia.
@@ -11,9 +11,9 @@ Here, a Tenant Administrator can see lists of all consented permissions for Omni
 
 Here's an example of the MS Graph list:
 
-.. image:: azure-ad-permissions-graph.png
+.. image:: azure-ad-permissions-graph-v7.png
 
-More on Invalidate All User Tokens
+More on Invalidate all user tokens
 ******************************************
 If the button INVALIDATE ALL USER TOKENS is clicked to force a log out from Omnia for all users, only Omnia is affected, not Sharepoint, Office apps, mail or anything else outside Omnia.
 
