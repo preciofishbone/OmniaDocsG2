@@ -5,9 +5,9 @@ If you have installed a separate text translator, use this option to select it.
 
 The Dafault translator is always available:
 
-.. image:: text-translator-612.png
+.. image:: text-translator-v7.png
 
 If you have installed another text translator you may have to add the subscription key here:
 
-.. image:: text-translator-612-key.png
+.. image:: text-translator-v7-key.png
 
