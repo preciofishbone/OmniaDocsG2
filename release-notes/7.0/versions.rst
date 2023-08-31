@@ -2,22 +2,41 @@
 ========================================
 (Omnia 7.1.0 / Workplace 7.1.0 / WCM 7.1.0 / MS 7.1.0) 
 
+
+Improvements
+******
+- Mediaflow is now available as a possible media picker, NOTE: License with mediaflow is required to use this feature.
 - Added additional default fields to the setup feature "Enterprise properties - Documents".
-- Refiner collapse setting now works as expeted for date refiners (#147647).
 - Document Management and Process Management now have different comments for "Change comment" and "Message to approver".
-- Fixed an issue with available seats in Event Management (#148057).
 - It is now possible to force a page to have a Publishing Channel when it gets created. 
 - It is now possible to attach a publishing app to an existing communication site.
 - Custom 404/401 pages can now be designed in Omnia Admin.
 - Broken links statistics are now available in the metrics block. 
-- The page rollup list view can now should people with only name or only user image.
+- The page rollup list view can now show people with only name or only user image.
 - Limit read access are now persistent between versions in Process Management (#122305)
-- Sort by using the column header now uses the correct configured managed property (#133600).
-- Mediaflow is now available as a possible media picker, NOTE: License with mediaflow is required to use this feature.
 - App instance connected sites URLs can now be edited in Omnia Admin.
-- Suggested templates in the new document wizard now show correct when switching between normal and controlled document (#140277).
+- The page rollup calendar view now has an improved date range selector. 
+- Only valid languages can now be selected for a Teamwork template (#145938).
+- It is now possible to copy link to document from the document rollup information panel (#147490). 
 
-- Also fixes preview bugs (#149420, #148905, ). 
+
+
+Fixes
+******
+
+- Sort by using the column header now uses the correct configured managed property (#133600).
+- Fixed an issue with available seats in Event Management (#148057).
+- Advanced search now handles dates in the same way as the document rollup (#148143).
+- Refiner collapse setting now works as expected for date refiners (#147647).
+- Suggested templates in the new document wizard now show correct when switching between normal and controlled document (#140277).
+- WCAG: The left navigation now has the correct aria labels for use together with screen readers.
+- The org chart now displays all users if there are more than 100 on one level (#147538).
+- Mailto links can now be added as a related link (#143722).
+- Text styles now properly apply to bullet lists (#148259).
+- Fixed a layout issue in the people rollup for small screens (#144373).
+
+- Also fixes preview bugs (#149420, #148905, ).
+
 
 7.0.16
 ========================================
