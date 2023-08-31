@@ -92,16 +92,18 @@ Use these settings:
 .. image:: source-settings2-new2.png
 
 + **Target Type**: It's always Page, and it's already selected.
-+ **Path**: Add or paste the path to the page here. 
++ **Path**: Add or paste the path to the page here. **Note!** Only relative paths are supported.
 + **Start Mode**: Select Start Mode here. Note that you can select different Start Modes for different pages, for the same Tutorial.
 
 The following is available under "Start Mode":
 
 .. image:: tutorial-start-mode-new.png
 
-+ **Start the tutorial automatically**: The tutorial starts when the user enters the page, but when the user has closed the tutorial, it can still be available as an icon or in the menu, if set up that way. Note that the tutorial must be set up in the action menu to start automatically.
++ **Start the tutorial automatically**: The tutorial starts when the user enters the page, but when the user has closed the tutorial, it can still be available as an icon or in the menu, if set up that way.  
 + **User starts tutorial manually**: The tutorial can be made available through the Action Menu, either as an icon or in the menu. Note that this has to be set up as well in the Header settings for the Business Profile.
 + **Show alert for new version**. If the tutorials are available through an icon and a tutorial is updated, a Tool Tip Alert will be shown on the Tutorial icon. 
+
+**Important note**: The tutorial must be available through the Action Menu, meaning set up as a menu option or as an icon, even if it should start automatically.
 
 When you're done with a target setting, or with all target settings for a tutorial, use Add and Save this way:
 
