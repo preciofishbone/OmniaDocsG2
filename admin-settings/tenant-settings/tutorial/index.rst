@@ -99,8 +99,8 @@ The following is available under "Start Mode":
 
 .. image:: tutorial-start-mode-new.png
 
-+ **Start the tutorial automatically**: The tutorial starts when the user enters the page, but when the user has closed the tutorial, it can still be available as an icon or in the menu, if set up that way.  
-+ **User starts tutorial manually**: The tutorial can be made available through the Action Menu, either as an icon or in the menu. Note that this has to be set up as well in the Header settings for the Business Profile.
++ **Start the tutorial automatically**: The tutorial starts when the user enters the page, but when the user has closed the tutorial, it is still be available as an icon or in the Action Menu.  
++ **User starts tutorial manually**: The tutorial can be made available through the Action Menu, either as an icon or in the menu, and can then be started manually or automatically. Note that this has to be set up as well in the Header settings for the Business Profile.
 + **Show alert for new version**. If the tutorials are available through an icon and a tutorial is updated, a Tool Tip Alert will be shown on the Tutorial icon. 
 
 **Important note**: The tutorial must be available through the Action Menu, meaning set up as a menu option or as an icon, even if it should start automatically.
