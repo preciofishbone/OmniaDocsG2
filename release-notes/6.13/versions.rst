@@ -1,6 +1,6 @@
-6.13.26
+6.13.27
 ========================================
-(Omnia 6.13.26 / Workplace 6.13.17 / WCM 6.13.19 / MS 6.13.14)
+(Omnia 6.13.27 / Workplace 6.13.17 / WCM 6.13.19 / MS 6.13.14)
 
 - Stability improvements to 7.0 preparation user sync.
 
