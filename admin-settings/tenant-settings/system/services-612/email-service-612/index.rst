@@ -3,7 +3,7 @@ Email Service
 
 Use these settings to decide if e-mails should be sent from Omnia or not.
 
-.. image:: custom-email-settings-new.png
+.. image:: custom-email-settings-v7.png
 
 + **Turn off all e-mail notifications**: If you select this option, no e-mails are sent from Omnia at all. If this option is enabled (ie not turned off) e-mails will be sent using the provider you choose. 
 + **Email Provider**: Select "Sharepoint Outgoing Mail" or "Exchange Online Mailbox". 
