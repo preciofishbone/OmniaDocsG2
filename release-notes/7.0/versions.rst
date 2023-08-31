@@ -10,7 +10,7 @@ Improvements
 - Document Management and Process Management now have different comments for "Change comment" and "Message to approver".
 - It is now possible to force a page to have a Publishing Channel when it gets created. 
 - It is now possible to attach a publishing app to an existing communication site.
-- Custom 404/401 pages can now be designed in Omnia Admin.
+- Custom 404/401 pages can now be designed in Omnia Admin (#119744, #133793).
 - Broken links statistics are now available in the metrics block. 
 - The page rollup list view can now show people with only name or only user image.
 - Limit read access are now persistent between versions in Process Management (#122305)
@@ -30,6 +30,8 @@ Fixes
 - Refiner collapse setting now works as expected for date refiners (#147647).
 - Suggested templates in the new document wizard now show correct when switching between normal and controlled document (#140277).
 - WCAG: The left navigation now has the correct aria labels for use together with screen readers.
+- WCAG: All views of the page rollup now uses actual anchor elements, allowing for browser functions to work as expected (#142189).
+- WCAG: Related processes now uses actual anchor elements, allowing for browser functions to work as expected (#146686).
 - The org chart now displays all users if there are more than 100 on one level (#147538).
 - Mailto links can now be added as a related link (#143722).
 - Text styles now properly apply to bullet lists (#148259).
