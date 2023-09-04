@@ -17,8 +17,12 @@ Improvements
 - App instance connected sites URLs can now be edited in Omnia Admin.
 - The page rollup calendar view now has an improved date range selector. 
 - Only valid languages can now be selected for a Teamwork template (#145938).
-- It is now possible to copy link to document from the document rollup information panel (#147490). 
-
+- It is now possible to copy link to document from the document rollup information panel (#147490, #147010). 
+- Publishing channels can now be made mandatory for new pages. 
+- Identity picker can now differentiate between Email enabeled and Permission enabled groups.
+- The process property type now supports multiple values.
+- Additional data is now included in the Sign-off request export.
+- It is now possible to exclude mandatory links from the quick links block.
 
 
 Fixes
@@ -36,6 +40,11 @@ Fixes
 - Mailto links can now be added as a related link (#143722).
 - Text styles now properly apply to bullet lists (#148259).
 - Fixed a layout issue in the people rollup for small screens (#144373).
+- AAD Permission read all applications as application permission removed.
+- Stability improvements to tab navigations (#144707).
+- Horizontal rendering for multiple people have been improved (#145312).
+- Stability improvements to the setup wizard (#147091).
+- Stream videos can now set Autoplay correctly (#148122).
 
 - Also fixes preview bugs (#149420, #148905, ).
 
