@@ -7,7 +7,7 @@ General
 *********
 You can set this on the "General" tab:
 
-.. image:: document-management-settings-general-new2.png
+.. image:: document-management-settings-general-v7.png
 
 + **Authors of Controlled Documents**: Here you can set the type of permissions to be used in Controlled Documents libraries in the tenant. 
 
@@ -22,7 +22,7 @@ Document Id Format
 *********************
 Here you set the prefix for the Document id for this tenant.
 
-.. image:: document-management-settings-format-new2.png
+.. image:: document-management-settings-format-v7.png
 
 When a new controlled document is published the first time, a document id is set for the document, based on the prefix from the settings. This document id is then the same in all future editions of the document and is an important part of tracking published editions of the document. 
 
@@ -34,7 +34,7 @@ Here you can add one or more base queries that always should be executed in the 
 
 Here's an example of a base query:
 
-.. image:: document-management-base-query.png
+.. image:: document-management-base-query-v7.png
 
 You use Keyword Query Language (KQL) here. To learn more about KQL, see this Microsoft page: https://docs.microsoft.com/en-us/sharepoint/dev/general-development/keyword-query-language-kql-syntax-reference
 
