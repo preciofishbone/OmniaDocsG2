@@ -21,6 +21,6 @@ When creating a new analysis, the folliwing settings are available:
 + **Prompt**: Add the text for the prompt here.
 + **Criteria to pass check**: Can be Yes or No.
 + **Default enterprise properties**: Select one or more properties here.
-+ **Prompt fix**: 
++ **Prompt fix**: You can add a prompt to ask Open AI to fix someting in the conent, 
 + **TRY OUT** You van try out the settings by clicking this button.
 
