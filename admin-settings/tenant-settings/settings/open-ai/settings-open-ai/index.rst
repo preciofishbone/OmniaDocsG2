@@ -9,13 +9,13 @@ The following settings are available here:
 
 Text Completion Configuration
 *******************************
-The folling are availble here:
+The following options are availble here:
 
 .. image:: settings-open-ai-completion.png
 
-+ **AI Alias**: 
-+ **Deployment Name**: 
-+ **API Version**: 
++ **AI Alias**: Add the label to be used in the UI here.
++ **Deployment Name**: Add the name for the deploymeny you are using. 
++ **API Version**: Select tha appropriate API version here.
 
 Dall-E Configuration
 *********************
