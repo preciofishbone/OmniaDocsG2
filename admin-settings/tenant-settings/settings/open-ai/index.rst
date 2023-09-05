@@ -1,9 +1,7 @@
 Open AI (Admin settings)
 =============================================
 
-**This page is under construction.**
-
-This option is available in Omnia 7.1 and later.
+This option is available in Omnia 7.1 and later. Prerequisite: The two Tenant features for Open AI must be activated.
 
 .. image:: open-ai-all.png
 
