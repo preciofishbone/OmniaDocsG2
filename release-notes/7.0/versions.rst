@@ -19,16 +19,16 @@ Improvements
 - Only valid languages can now be selected for a Teamwork template (#145938).
 - It is now possible to copy link to document from the document rollup information panel (#147490, #147010). 
 - Publishing channels can now be made mandatory for new pages. 
-- Identity picker can now differentiate between Email enabeled and Permission enabled groups.
+- Identity picker can now differentiate between email enabled and Permission enabled groups.
 - The process property type now supports multiple values.
 - Additional data is now included in the Sign-off request export.
 - It is now possible to exclude mandatory links from the quick links block.
 - For controlled documents with no document type set, multiple documents can now be set at once (#143517).
 - Lazy load can now be disabled for tabs, to allow for trim duplicates to work as expected (#147084).
-- Added clearer error handling to the enterprise glossery to inform the user termstore permissions are missing (#143078).
+- Added clearer error handling to the enterprise glossary to inform the user term store permissions are missing (#143078).
 - Improved rendering of the recipient list of sign-off requests (#146972).
 - Teamwork provisioning emails are no longer sent on edits of an app instance (#148412).
-- Workemail is now used to send emails in event management instead of login name, this to improve compatability with external and omnia users (#141587).
+- Work email is now used to send emails in event management instead of login name, this to improve compatibility with external and omnia users (#141587).
 
 
 Fixes
@@ -40,7 +40,7 @@ Fixes
 - Refiner collapse setting now works as expected for date refiners (#147647).
 - Suggested templates in the new document wizard now show correct when switching between normal and controlled document (#140277).
 - WCAG: The left navigation now has the correct aria labels for use together with screen readers.
-- WCAG: All views of the page rollup now uses actual anchor elements, allowing for browser functions to work as expected (#142189).
+- WCAG: All views of the page rollup now use actual anchor elements, allowing for browser functions to work as expected (#142189).
 - WCAG: Related processes now uses actual anchor elements, allowing for browser functions to work as expected (#146686).
 - WCAG: Video description is now available to be set.
 - WCAG: Correct aria labels set for input fields for Comments, My links search and app posts.
@@ -50,7 +50,7 @@ Fixes
 - Fixed a layout issue in the people rollup for small screens (#144373).
 - AAD Permission read all applications as application permission removed.
 - Stability improvements to tab navigations (#144707).
-- Horizontal rendering for multiple people have been improved (#145312).
+- Horizontal rendering for multiple people has been improved (#145312).
 - Stability improvements to the setup wizard (#147091).
 - Stream videos can now set Autoplay correctly (#148122).
 - The WCM page archive now displays correct date format (#144979).
@@ -63,10 +63,11 @@ Fixes
 - Fixed an issue that would prevent a form from opening when withing a stepper section (#44158).
 - Improved active tab rendering for small screens (#146318).
 - The dynamic roller page rollup view now allows for more text to be shown (#144992, #147721).
-- Page rollup settings no longer tries to adjust View and query settings dependent of each other (#136304, #145096).
+- Page rollup settings no longer try to adjust View and query settings dependent of each other (#136304, #145096).
 
 
 - Also fixes preview bugs (#149420, #148905, #148253).
+
 
 
 7.0.16
