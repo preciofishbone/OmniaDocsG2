@@ -1,15 +1,13 @@
 Content Analysis (Open AI)
 =============================================
 
-**This page is under construction.**
-
 This option is available in Omnia 7.1 and later.
 
 You can set up a number of sets for content analysis. Here's an example:
 
 .. image:: content-analysis.png
 
-Click th pen to edit, the dust bin to delete.
+Click the pen to edit, the dust bin to delete.
 
 All settings are available for edit, see below.
 
