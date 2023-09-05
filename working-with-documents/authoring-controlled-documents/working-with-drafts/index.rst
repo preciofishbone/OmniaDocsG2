@@ -111,6 +111,25 @@ Just select one or more drafts and then decide what do to. (To keep them, no act
 
 Information for administrators: This recycle bin is in fact part of the Sharepoint recycle bin.
 
+Restore a draft document from the recyle bin
+-----------------------------------------------
+Restoring a draft document from the recycle bin works similar to when a new draft is created from a published document, meaning it's not just a simple restore.
+
+Here's how:
+
+1. Got to the recycle bin and select the document.
+2. Click RESTORE.
+
+.. image:: document-restore-1.png
+
+3. Choose what to do:
+
+.. image:: document-restore-2.png
+
+See the heading *Creating a new draft from a published document* below for more informationsa about the options.
+
+4. Click CREATE DRAFT.
+
 Upload Appendices
 *******************
 To upload documents to use as appendices to another document, the main upload option should not be used. (But you can also use Published Documents as appendices, see below.)
