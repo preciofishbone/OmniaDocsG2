@@ -23,6 +23,12 @@ Improvements
 - The process property type now supports multiple values.
 - Additional data is now included in the Sign-off request export.
 - It is now possible to exclude mandatory links from the quick links block.
+- For controlled documents with no document type set, multiple documents can now be set at once (#143517).
+- Lazy load can now be disabled for tabs, to allow for trim duplicates to work as expected (#147084).
+- Added clearer error handling to the enterprise glossery to inform the user termstore permissions are missing (#143078).
+- Improved rendering of the recipient list of sign-off requests (#146972).
+- Teamwork provisioning emails are no longer sent on edits of an app instance (#148412).
+- Workemail is now used to send emails in event management instead of login name, this to improve compatability with external and omnia users (#141587).
 
 
 Fixes
@@ -36,6 +42,8 @@ Fixes
 - WCAG: The left navigation now has the correct aria labels for use together with screen readers.
 - WCAG: All views of the page rollup now uses actual anchor elements, allowing for browser functions to work as expected (#142189).
 - WCAG: Related processes now uses actual anchor elements, allowing for browser functions to work as expected (#146686).
+- WCAG: Video description is now available to be set.
+- WCAG: Correct aria labels set for input fields for Comments, My links search and app posts.
 - The org chart now displays all users if there are more than 100 on one level (#147538).
 - Mailto links can now be added as a related link (#143722).
 - Text styles now properly apply to bullet lists (#148259).
@@ -45,8 +53,20 @@ Fixes
 - Horizontal rendering for multiple people have been improved (#145312).
 - Stability improvements to the setup wizard (#147091).
 - Stream videos can now set Autoplay correctly (#148122).
+- The WCM page archive now displays correct date format (#144979).
+- Vertical text alignment of tabs updated (#143472).
+- When combining scheduling and approval for pages, cancelling the approval now works as expected (#145639).
+- Links in email now uses the custom email if available (#145697).
+- The keep text button now shows when text are dragged into the RTF editor (#145351).
+- Borders for banners now apply directly (#144626).
+- Poll dialog is now hidden if no final text has been set (#145426).
+- Fixed an issue that would prevent a form from opening when withing a stepper section (#44158).
+- Improved active tab rendering for small screens (#146318).
+- The dynamic roller page rollup view now allows for more text to be shown (#144992, #147721).
+- Page rollup settings no longer tries to adjust View and query settings dependent of each other (#136304, #145096).
 
-- Also fixes preview bugs (#149420, #148905, ).
+
+- Also fixes preview bugs (#149420, #148905, #148253).
 
 
 7.0.16
