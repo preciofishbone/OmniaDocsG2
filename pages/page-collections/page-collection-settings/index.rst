@@ -37,14 +37,15 @@ Use the settings this way:
 + **Automatic Page Creation**: A copy of a page can be published automatically to another Page Collection when certain rules are met. In Omnia 7.0 and later, it can be possible to automatically publish to another tenant as well. These rules can be set up here. For more information, see this page: :doc:`Automatic Page Creation </pages/automatic-page-creation/index>`
 + **Yammer Integration**: When Yammer Integration is setup, a post will be created in the selected Yammer community whenever a new page, matching the selected criteria, is created. See below for more information.
 + **Taxonomy Connection**: When this option is activated, it's possible to connect the page collection to a taxonomy. Whenever a page is created in the page collection, a term will be created in the connected taxonomy and the page will automatically be tagged with the newly created term. This can, for example, be useful in different rollups. For more information, see below.
-+ **Enable Approval**: If Approval should be needed for publication of pages (new pages and updates), enable this. If not enabled, editors can publish themselves. See more info about Approval settings below.
-+ **Enable Activity Tracking**: For a Community, Activity Tracking can be activated. See the heading *Settings for Activity Points* on this page, for more information: :doc:`Setting up a Community </using-communities/settings/index>` 
-+ **Reset notification when page is modified**: This setting defines when a notification that a page is new should be shown for users, for example in the Notification Panel. Normally it's only when the page is created, not when it's updated. If this option is activated the page is considered to be new every time it's updated and a new version is published. Therefore it's probably more relevant for pages in Communities than for Publishing Pages.
-+ **Enable Send Page as E-mail**: Select this option if pages in the Page Collection should be available to send through e-mail. One example of when this is needed is in a Newsletter inplementation.
-+ **Enable Scheduling**: If scheduling should be available in this Page Collection, select this option and select the property to be used. The author can then set a scheduled start date and time, using the PROPERTIES tab for the page. Note that Scheduled Publishing never is mandatory, an author van always choose to oublish directly. 
++ **Approval**: If Approval should be needed for publication of pages (new pages and updates), enable this. If not enabled, editors can publish themselves. See more info about Approval settings below.
++ **Activities**: For a Community, Activity Tracking can be activated. See the heading *Settings for Activity Points* on this page, for more information: :doc:`Setting up a Community </using-communities/settings/index>` 
++ **Notofications**: This setting defines when a notification that a page is new should be shown for users, for example in the Notification Panel. Normally it's only when the page is created, not when it's updated. If this option is activated the page is considered to be new every time it's updated and a new version is published. Therefore it's probably more relevant for pages in Communities than for Publishing Pages.
++ **Send as E-mail**: Select this option if pages in the Page Collection should be available to send through e-mail. One example of when this is needed is in a Newsletter inplementation.
++ **Scheduling**: If scheduling should be available in this Page Collection, select this option and select the property to be used. The author can then set a scheduled start date and time, using the PROPERTIES tab for the page. Note that Scheduled Publishing never is mandatory, an author van always choose to oublish directly. 
 + **Break permission inheritance by default**: Select this option if inheritnace should be broken when a new page is created within the Page Collection. This could, for example, be useful for Communities. When this option is active, the colleague creating the page will be the page owner, meaning that he or she has full control over who can edit. The new option "Invite co-authors" can then be used to easily add authors for the page, see below.
 + **Allow invitation of co-authors**: If this option is selected, authors can invite co-authors. 
-+ **Enable publishing to channels**: If you enable this, it will be possible for an author to select channels the page should be published to. Publication to a channel may require approval from the channel administrator.
++ **Channel**: If you enable this, it will be possible for an author to select channels the page should be published to. Publication to a channel may require approval from the channel administrator.
++ **Open AI**: Available in Omnia 7.1 and later. When you activate this option you can set properties for what the Open AI should be able to work with, see below. Also note that two tenant features mus be activated for this option to be available and settings for Open AI has to be made in Omnia Admin.
 
 Set default values for a Page Type
 --------------------------------------
@@ -156,6 +157,16 @@ When you select "Based on person property", you open the list and select propert
 Based on person property can result in more colleagues being available for approval. Authors can only choose between these colleagues when selecting approver.
 
 For more information, see this page: :doc:`Properties </admin-settings/tenant-settings/properties/index>` 
+
+Options for Open AI
+-----------------------
+When activating the Open AI option, the following settings are available for this page collection:
+
+.. image:: open-ai-page-collection.png
+
++ **Summary**: To activate ChatGTP functionality for page summary, select the appropriate summary property here.
++ **Text**: Likewise for text fields, select property to activate ChatGTP functionality.
++ **Image**: Dall-E is an Open AI option that can be activated (a feature needs to be activated) and are then available as an image provider in the Image Picker. Select the image property used to activate the functionality.
 
 Saving Page Collection settings
 ********************************
