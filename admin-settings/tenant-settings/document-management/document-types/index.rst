@@ -1,11 +1,13 @@
 Document Types
 ================
 
+**This page is being edited.**
+
 When creating a new controlled document an author selects a Document Type. Document Types can be grouped. In that case the author first selects group and then Document Type within that group.
 
 The settings displays all existing Document Types, and Groups, for example:
 
-.. image:: document-types-start-new2.png
+.. image:: document-types-start-v7.png
 
 The i icon can show information on syncronization of new or edited Document Types.
 
