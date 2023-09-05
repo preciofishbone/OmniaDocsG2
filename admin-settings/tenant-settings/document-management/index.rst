@@ -5,7 +5,7 @@ Here you handle all the settings for Document Management.
 
 Prerequisite: The Tenant feature "Controlled documents" must be active for these options to be available.
 
-.. image:: document-management-all-new3.png
+.. image:: document-management-all-nv7.png
 
 Select section for a description:
 
