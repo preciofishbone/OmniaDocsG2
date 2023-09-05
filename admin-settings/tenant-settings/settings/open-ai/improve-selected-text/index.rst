@@ -1,11 +1,9 @@
 Improve Selected Text (Open AI)
 =============================================
 
-**This page is under construction.**
-
 This option is available in Omnia 7.1 and later.
 
-You can create a number of prompt settings here, for example:
+You can create a number of prompt settings here to be used with Open AI, for example:
 
 .. image:: improve-selected-text.png
 
