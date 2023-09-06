@@ -1,7 +1,7 @@
 Document Types
 ================
 
-**This page is being edited.**
+**This page is being edited**:
 
 When creating a new controlled document an author selects a document type. Document types can be grouped. In that case the author first selects group and then Document Type within that group.
 
@@ -84,7 +84,7 @@ To delete a group or document type, do the following:
 
 **Note!** If a group contains any document types, it can't deleted. You must delete or move any document type(s) from the group first.
 
-Settings for Document Types
+Settings for document types
 ****************************
 The settings are organized into five tabs, see the sections below.
 
@@ -92,28 +92,27 @@ General
 --------
 The General tab contains the following settings:
 
-.. image:: document-type-general-612-new.png
+.. image:: document-type-general-v7.png
 
-+ **Title**: Add a Title for the Document Type in one or more of the tenant languages (click the flag to change language). Note that default language is mandatory.
-+ **Property Set**: Property Sets is a way of groping a number of properties into a set, which makes it easier to use a set of properties in several Document Types. Select a property set for the Document Type. When you have done so you can click the cogwheel to see which properties belong to the set. You will also see information about Placeholder Shortname and default value for the properties in the set.
-+ **Document Templates**: Select one or more of the templates. Available templates depends pn Property set selected. You must always do this even if there’s just one template available.
-+ **Default Document Template**: Use this option to select one of the templates for this Document Type as the default template. When selecting the Document Type, the author then has this template preselected.
-+ **Allow appendices**: Check this option to allow for appendices. Authors can then tie other documents as appendices to the main documents. This option must be checked to make it possible for this document type.
-+ **Allow Signed Copy**: If it should be possible to handle a signed copy for documents of this type, select this option. For more information on signed copies, see this page: :doc:`Working with Published documents </working-with-documents/authoring-controlled-documents/working-with-published-documents/index>`
++ **Title**: Add a title for the Document Type in one or more of the tenant languages (click the flag to change language). Note that default language is mandatory.
++ **Description**: A description is not mandatory but can be useful if your organization uses a lot of different document types.
++ **Property Set**: Property sets is a way of groping a number of properties into a set, which makes it easier to use a set of properties in several document types. Select a property set for the document type. When you have done so you can click the cogwheel to see which properties belong to the set. You will also see information about, and can somtimes edit, placeholder shortname and default value for the properties in the set.
++ **Document Templates**: Select one or more of the templates. You must always do this even if there’s just one template available.
++ **Default Document Template**: Use this option to select one of the templates for this document type as the default template. When selecting the document type, the author then has this template preselected.
++ **Enable appendices**: Check this option to allow for appendices. Authors can then tie other documents as appendices to the main documents. This option must be checked to make it possible for this document type.
++ **Enable Signed Copy**: If it should be possible to handle a signed copy for documents of this type, select this option. For more information on signed copies, see this page: :doc:`Working with Published documents </working-with-documents/authoring-controlled-documents/working-with-published-documents/index>`
 + **Is record**: Some controlled documents may not need to be updated, just to be used as is. To set that for this document type, select this option. See below for more information.
-+ **Show Create Document Icon in Document Rollup**: In the Document Rollup the “Create Document Icon” column can be added. A document can be created using the icon only if it belongs to a Document Type that has this option selected. if not, the icon is not shown.
++ **Enable Create Document feature in Document Rollup**: In the document rollup the “Create Document Icon” column can be added. A document can be created using this option only if it belongs to a document type that has this option selected. if not, the option is not shown.
++ **Enable track changes when sending for comments**: (A description will be added soon).
++ **Enable "Show changes" button to document authors**: (A description will be added soon).
 
 Don't forget to save when you're done.
-
-Here's an example when a Create New Document icon is shown in a Document Rollup list.
-
-.. image:: document-rollup-create-new-icon.png
 
 Options for Is Record
 ----------------------
 The following options are available when you select "Is Record":
 
-.. image:: document-type-is-record.png
+.. image:: document-type-is-record-v7.png
 
 + **Disable Create Draft**: When you select this option, documents of this document type can only exist in one edition. Creating a draft from a published edition is not possible.
 + **Disable Move**: When this is selected, the Move option in a controlled documents library, can't be used for a document of this type.
@@ -125,11 +124,11 @@ Publish
 ---------
 On the Publish tab you can set the following:
 
-.. image:: document-types-publish-new-frame.png
+.. image:: document-types-publish-v7.png
 
-+ **Replace tokens inside document on poublishing**: When a document is published, the placeholders (tokens) will be replaced with metadata, but for a document that will be used as a template, you will probably not want that to happen. If you are creating a Document Type to be used for templates, deselect this option.
++ **Replace tokens inside document on poublishing**: When a document is published, the placeholders (tokens) will be replaced with metadata, but for a document that will be used as a template, you will probably not want that to happen. If you are creating a document type to be used for templates, deselect this option.
 + **Allow Revisions**: Selecting this option you can allow authors to publish a revision of a document that does not require approval, for example for correcting typing errors. If this option is active, it's up to the author to decide if approval is needed or not. Approval is still needed for publication of a new edition of a document.
-+ **Publishing approval**: Select if approval is to be used for this Document Type. If this option is NOT active, a document will be published immediately when an author clicks "Publish". If Publishing Approval is selected, you must also choose how approval will take place:
++ **Publishing Approval**: Select if approval is to be used for this document type. If this option is NOT active, a document will be published immediately when an author clicks "Publish". If publishing approval is selected, you must also choose how approval will take place:
 
     - Anyone: The author can select any user of the portal as approver, when the document is published.
     - Limited list of users: Authors can select approvers from a defined list only. You create the list here.
@@ -140,53 +139,49 @@ On the Publish tab you can set the following:
 
 Don't forget to save your changes.
 
-**Important note!** How Publish will work is set when Document Management is activated for a site. If the settings here are changed, it does not change the setting in existing sites. If you want that to happen, you must update the Document Management feature in each site. See the heading "Features" on this page for more information: :doc:`App settings </admin-settings/app-settings/index>`
+**Important note!** How publish will work is set when document management is activated for a site. If the settings here are changed, it does not change the setting in existing sites. If you want that to happen, you must update the document management feature in each site. See the heading "Features" on this page for more information: :doc:`App settings </admin-settings/app-settings/index>`
 
 Review
 ---------
 On this tab you handle settings for Feedback and Review of documents. When a document of this Document Type has passed it's Review Date, a link to the document is placed in the list "Expired review".
 
-.. image:: document-types-review-new.png
+.. image:: document-types-review-v7.png
 
 + **Feedback Recipients**: Select feedback recipient(s) in the list. 
 + **Review reminder**: Select this option to activate review reminders.
 
 When review reminders are activated you can set the following:
 
-.. image:: document-types-review-reminder.png
+.. image:: document-types-review-reminder-v7.png
 
-+ **Time after Publishing**: Set number of months, weeks or days for Review Interval. 
-+ **Property**: Another way is to select a Property for handling of Review. An example could be if you want authors to be able to set a specific date for review, which could be needed for a Supplier Agreement, for example. A date property must then have been set up for this to work.
-+ **Send reminder in advance**: Set the number of days that a reminder should be sent, before the Review Date.
++ **Time after Publishing**: Set number of days, months or years for the review interval. 
++ **Property**: Another way is to select a property for handling of review. An example could be if you want authors to be able to set a specific date for review, which could be needed for a supplier agreement, for example. A date property must then have been set up for this to work.
++ **Send reminder in advance**: Set the number of days, months or years that a reminder should be sent, before the review date.
 + **Review Reminder Recipients**: Select review reminder recipient(s) in the list.
 + **Create Task**: If a review task should be created, select this option. For more information, see below.
-+ **Task expire in**: This is shown when you select "Create Task". Set the number of days, months or years before the task will expire. 
 
 When you choose to create a task, this is shown:
 
-.. image:: doctype-review-create-task.png
+.. image:: doctype-review-create-task-v7.png
 
 1. Use the list to select who the task should be sent to, for example Document Owner.
 2. Select when the task will expire.
 3. Add a custom text for the Review button, if needed, in any tenant language. Click the flag to change language.
-
-.. image:: doctype-review-create-task-button.png
- 
 4. Save when you're done with all settings. 
 
-**Important note!** The review reminder task has been updated. If a new edition/revision of a controlled document is published or the published document is deleted, any associated review reminder task will be automatically completed. If the review is completed, the review comment will be added to the document history and a new review date will be calculated based on the review reminder rule set on the document type.
+**Important note!** The review reminder task works this way: If a new edition/revision of a controlled document is published or the published document is deleted, any associated review reminder task will be automatically completed. If the review is completed, the review comment will be added to the document history and a new review date will be calculated based on the review reminder rule set on the document type.
 
 Archive
 ----------
-Use this tab to decide if this Document Type should be archived or not. If the Document Type should be archived, you can set archive to be used, by adding the Url. You don't have to add a Url to use the default archive.
+Use this tab to decide if documents of this document type should be archived or not. If the document type should be archived, you can set archive to be used, by adding the Url. You don't have to add a Url to use the default archive.
 
-.. image:: document-types-archive-new.png
+.. image:: document-types-archive-v7.png
 
 Retention
 ------------
-If Retention is activated, this tab is shown for all Document Types:
+If Retention is activated, this tab is shown for all document types:
 
-.. image:: document-types-retention-new.png
+.. image:: document-types-retention-v7.png
 
 Use this tab to set up a Retention Policy.
 
@@ -194,10 +189,10 @@ Use this tab to set up a Retention Policy.
 
 Then you can set the following:
 
-.. image:: document-types-retention-settings-new.png
+.. image:: document-types-retention-settings-v7.png
 
-+ **Calculated**: You can select to calculate the number of years or months on when the document was first published or when it was last published.
-+ **Property**: Another way is to select a property for retention, for example Retention Date.
++ **Calculated**: You can select to calculate the number of days, months or years from when the document was first published or when it was last published.
++ **Property**: Another way is to select a property for retention (if any are availble), could for example be Retention Date.
 
-When the set Retention time has passed, the Retention Manager will receive an e-mail. The e-mail includes a link to a page where the document can be terminated (completely removed from the system). 
+When the set retention time has passed, the retention manager will receive an e-mail. The e-mail includes a link to a page where the document can be terminated (completely removed from the system), if needed. 
 
