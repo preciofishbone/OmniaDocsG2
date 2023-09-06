@@ -1,8 +1,6 @@
 Document Templates
 ====================
 
-**This page is being edited.**
-
 Here you handle the document templates in your tenant. The templates can be available for controlled documents only or as general document templates in Omnia as well.
 
 The list of available templates can look like this:
