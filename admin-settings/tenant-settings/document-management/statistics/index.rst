@@ -3,7 +3,7 @@ Statistics
 
 Here you can se various statistics for Controlled Documents, for example:
 
-.. image:: dm-statistics-new2.png
+.. image:: dm-statistics-v7.png
 
 When you click a section you will get:
 
@@ -16,8 +16,8 @@ When you click a section you will get:
 
 You can click any of the statistics to see a list of documents.
 
-Here's an example of a "Waiting for approval" list:
+Here's an example of a "Drafts" list:
 
-.. image:: dm-statistics-details-new.png
+.. image:: dm-statistics-details-v7.png
 
-If you need to check a document, click the link to go to the Controlled Documents library in that site. You of course need to have the right permissions to be able to open the library.
+If you need to check a document, click the link to go to the controlled documents library in that site. You of course need to have the right permissions to be able to open the library.
