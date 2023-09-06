@@ -163,9 +163,9 @@ When you choose to create a task, this is shown:
 
 .. image:: doctype-review-create-task-v7.png
 
-1. Use the list to select who the task should be sent to, for example Document Owner.
+1. Use the list to select who the task should be sent to, for example document owner.
 2. Select when the task will expire.
-3. Add a custom text for the Review button, if needed, in any tenant language. Click the flag to change language.
+3. Add a custom text for the review button, if needed, in any tenant language. Click the flag to change language.
 4. Save when you're done with all settings. 
 
 **Important note!** The review reminder task works this way: If a new edition/revision of a controlled document is published or the published document is deleted, any associated review reminder task will be automatically completed. If the review is completed, the review comment will be added to the document history and a new review date will be calculated based on the review reminder rule set on the document type.
@@ -182,9 +182,9 @@ If Retention is activated, this tab is shown for all document types:
 
 .. image:: document-types-retention-v7.png
 
-Use this tab to set up a Retention Policy.
+Use this tab to set up a retention policy.
 
-+ **Limit Retention**: Select this option if a Retention Policy should be set for this Document Type.
++ **Limit Retention**: Select this option if a retention policy should be set for this document type.
 
 Then you can set the following:
 
