@@ -65,7 +65,6 @@ You can move a document type to another group when editing the document type.
 
 .. image:: move-image-type-2-v7.png
 
-
 Edit or delete a document type or group
 ******************************************
 To edit or a group or document type, do the following:
