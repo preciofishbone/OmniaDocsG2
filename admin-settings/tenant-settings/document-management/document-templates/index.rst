@@ -68,8 +68,6 @@ I you selected to add a template for normal documents, continue this way:
 
 3. Type a title for the template.
 
-.. image:: dm-template-normal-template.png
-
 You can now either link to an existing, published controlled document (which was most likely published for the purpose of being a template), or prepare and upload a new document, to use as a template.
 
 Link to a published Document
