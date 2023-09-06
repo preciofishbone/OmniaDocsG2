@@ -3,85 +3,86 @@ Document Types
 
 **This page is being edited.**
 
-When creating a new controlled document an author selects a Document Type. Document Types can be grouped. In that case the author first selects group and then Document Type within that group.
+When creating a new controlled document an author selects a document type. Document types can be grouped. In that case the author first selects group and then Document Type within that group.
 
-The settings displays all existing Document Types, and Groups, for example:
+The settings displays all existing document types, and groups, for example:
 
 .. image:: document-types-start-v7.png
 
-The i icon can show information on syncronization of new or edited Document Types.
+The i icon can show information on syncronization of new or edited document types.
 
-.. image:: document-types-i-icon.png
+.. image:: document-types-i-icon-v7.png
 
-Here's an example:
+Here's an example from a test environment:
 
-.. image:: document-types-info-new2.png
+.. image:: document-types-info-v7.png
 
-You can decide the order in which the document types are shown within a grooup. Click a document type and use the arrows to move up or down.
-
-.. image:: document-types-move.png
-
-You can also move a document type to another group when editing the document type.
-
-1. Click MOVE.
-
-.. image:: move-image-type-1.png
-
-2. Select the group to move to and save.
-
-.. image:: move-image-type-2.png
-
-Creating a new Group
+Creating a new group
 **********************
 To create a new a group, do the following:
 
 1. Click any existing group.
 2. Click the plus and select "Create Group".
 
-.. image:: doctype-select-group-new2.png
+.. image:: doctype-select-group-v7.png
  
-3. Add a Title in one or more languages (click the flag to change language). Default language in the tenant is mandatory.
+3. Add a title in one or more languages (click the flag to change language). Default language in the tenant is mandatory.
 
-.. image:: doctype-group-title-new2.png
+.. image:: doctype-group-title-v7.png
 
 4. Save.
 
-Creating a Document Type
+Creating a document type
 *****************************
-To create a new Document Type, do the following:
+To create a new document dype, do the following:
 
-1. Click the group to create a Document Type in.
+1. Click the group to create a document type in.
 2. Click the plus and select "Create Document Type".
 
-.. image:: doctype-new-type-new2.png
+.. image:: doctype-new-type-v7.png
  
 2. Set all necessary settings and save.
 
 The same settings are available when creating a Document Type and when editing one. See below for detailed information.
 
-Sort Document Types
+Sort document types
 ***********************
 You can sort if you want to present the list in a specific order to the editors.
 
-1. Select the group or Document Type to move and use the arrows.
+1. Select the group or document type to move and use the arrows.
 
-.. image:: doctype-sort-new2.png
+.. image:: document-types-move-v7.png
 
-Edit or delete a Document Type or group
+Move a document type
+*************************
+You can move a document type to another group when editing the document type.
+
+1. Click MOVE.
+
+.. image:: move-image-type-1-v7.png
+
+2. Select the group to move to and save.
+
+.. image:: move-image-type-2-v7.png
+
+
+Edit or delete a document type or group
 ******************************************
-To edit or a Group or Document Type, do the following:
+To edit or a group or document type, do the following:
 
 1. Select the type or group.
-2. Edit available settings (see below for detailed information about Document Type settings).
+2. Edit available settings (see below for detailed information about the settings).
 3. Save.
 
-To delete a Group or Document type, do the following:
+To delete a group or document type, do the following:
 
 1. Select the type or group.
 2. Available settings are now shown.
 3. Click the dust bin.
 
-.. image:: doctype-delete-new3.png
+.. image:: doctype-delete-v7.png
+
+**Note!** If a group contains any document types, it can't deleted. You must delete or move any document type(s) from the group first.
 
 Settings for Document Types
 ****************************
