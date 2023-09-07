@@ -29,6 +29,14 @@ Improvements
 - Improved rendering of the recipient list of sign-off requests (#146972).
 - Teamwork provisioning emails are no longer sent on edits of an app instance (#148412).
 - Work email is now used to send emails in event management instead of login name, this to improve compatibility with external and omnia users (#141587).
+- Send page as email now works from preview (#149812).
+- SharePoint user profile sync property mappings are now case insensitive.
+- The SharePoint user profile sync feature is now tied to a new feature that will provision correct AAD permissions (#149390).
+- It is now possible to limit who can be set in a person property of controlled documents (#138296).
+- Digital signage now support reusable Json mapping templates.
+- If using Draftable, the show changes button is now configurable per document type.
+- Selection list in rollups for business profile are now sorted alphabetically. 
+- 
 
 
 Fixes
