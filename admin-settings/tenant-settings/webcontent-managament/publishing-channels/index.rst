@@ -1,15 +1,15 @@
 Publishing Channels
 ===========================
 
-Publishing Channels provide an alternative way of targeting information and place pages in context.
+Here, you administer the publishing channels. They provide an alternative way of targeting information and place pages in context.
 
-If you enable Publishing Channels on a Page Collection, it will be possible for an author to set which channels the page should be published to. Normally approval by the Administrator of the channel is needed for publication, but publishers can be defined for a channel and they don't need approval when publishing.
+If you enable publishing channels in a page collection, it will be possible for an author to set which channels the page should be published to. Normally approval by the administrator of the channel is needed for publication, but publishers can be defined for a channel and they don't need approval when publishing.
 
-Publishing Channels can be used in page rollups to show news articles and pages in different parts of the intranet. The end user can also subscribe to channels of interest. 
+Publishing channels can be used in page rollups to show news articles and pages in different parts of the intranet. The end user can also subscribe to channels of interest. 
 
-Here, you administer the channels. They are listed per Publishing Channels Category. Here's an example:
+They are listed per publishing channels category. Here's an example with one category open:
 
-.. image:: channels-list-new2.png
+.. image:: channels-list-v7.png
 
 Click the pen to edit a channel, the dust bin to delete it. When you edit a channel, all settings used when creating a new channel can be edited, see below.
 
@@ -24,21 +24,20 @@ Create a new channel
 Here's how to create a new channel:
 
 1. Click the plus.
-
-.. image:: channels-clickplus-new2.png
-
 2. Use the following settings:
 
-.. image:: channels-settings-new3.png
+.. image:: channels-settings-v7.png
+
+(Not all settings shown in the image but described below).
 
 + **Title**: Add a title in any or several of the tenant langauges. Click the flag to change language.
 + **Description**: Add a description of the purpose of the channel in any or several of the tenant langauges. Click the flag to change language.
 + **Category**: Add a category for the channel. If no categories are setup, the channel is automatically added to the default category. That category could be named General, or something else.
 + **Url**: Here you can add a Url to the channel's home page, if there is one. The home page can for example contain more information about the channel, a rollup of all pages published to the channel and so on. 
-+ **ADD IMAGE**: To add an image to be shown for the channel, click here and use the Media Picker to upload the image. When an image is selected you can delete it, or edit it by clicking the pen. For more information about the Media Picker, see: :doc:`The Media Picker </general-assets/media-picker/index>`
++ **ADD IMAGE**: To add an image to be shown for the channel, click here and use the Media picker to upload the image. When an image is selected you can delete it, or edit it by clicking the pen. For more information about the Media picker, see: :doc:`The Media Picker </general-assets/media-picker/index>`
 + **Owner**: One or more owners of the channel must be added. This is just information about who is responsible. The name/names will be shown when channels are listed.
 + **Administrator**: One or more administrators of the channel must be added. Administrators approve or reject publication to the channel. An administrator also has Publisher permissions to the channel.
-+ **Publisher**: One or more publishers can be added. This is not mandatory. The colleagues you add here can publish to the channel without approval.
++ **Publisher**: One or more publishers can be added. This is not mandatory. The colleagues you add here can always publish to the channel without approval.
 + **Force channel description to target group**: Targeting for the channel can be used to add a mandatory subscription to the channel for colleagues or groups. If you want to do that, select this option.
 + **Targeting filter**: Shown when the option above is selected. Targeting settings are done the same way as in other places in Omnia, but the result is different. For the colleagues or groups targeted, a mandatory subscription to the channel is added. For more information about how to set up targeting, see this page : :doc:`Using Targeting </general-assets/targeting-in-omnia/index>`
 
@@ -46,11 +45,11 @@ Here's how to create a new channel:
 
 Approve or reject publication
 *******************************
-If you're Administrator of a channel, you can approve or reject publication of pages to that channel, but note that any colleague added as "publisher" for the channel, can publish directly, without approval.
+If you're administrator of a channel, you can approve or reject publication of pages to that channel, but note that any colleague added as "publisher" for the channel, can publish directly, without approval.
 
 If one or more requests for publication are created, the number of request are shown in this column:
 
-.. image:: channels-request-new.png
+.. image:: channels-request-v7.png
 
 To approve or reject:
 
@@ -58,7 +57,7 @@ To approve or reject:
 
 The requests for that channel are then listed, for example:
 
-.. image:: channels-requests-listed-new.png
+.. image:: channels-requests-listed-v7.png
 
 2. Click the link for a page you want to check. The page is opened in a new tab.
 3. Go back to the list and select APPROVE or REJECT.
