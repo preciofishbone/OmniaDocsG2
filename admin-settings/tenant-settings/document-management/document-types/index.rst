@@ -102,8 +102,8 @@ The General tab contains the following settings:
 + **Enable Signed Copy**: If it should be possible to handle a signed copy for documents of this type, select this option. For more information on signed copies, see this page: :doc:`Working with Published documents </working-with-documents/authoring-controlled-documents/working-with-published-documents/index>`
 + **Is record**: Some controlled documents may not need to be updated, just to be used as is. To set that for this document type, select this option. See below for more information.
 + **Enable Create Document feature in Document Rollup**: In the document rollup the “Create Document Icon” column can be added. A document can be created using this option only if it belongs to a document type that has this option selected. if not, the option is not shown.
-+ **Enable track changes when sending for comments**: (A description will be added soon).
-+ **Enable "Show changes" button to document authors**: (A description will be added soon).
++ **Enable track changes when sending for comments**: Microsoft Word's options Track changes can be really useful when sending a document for comments. Select this option to automatically enable these options in Word.
++ **Enable "Show changes" button to document authors**: If the Draftable feature is activated, this option is available here. Select to enable the button "Show changes" for Draftable. See this page for mopre information about Draftable: :doc:`See changes in a controlled document </user-options/see-changes-in-controlled-document/index>`
 
 Don't forget to save when you're done.
 
