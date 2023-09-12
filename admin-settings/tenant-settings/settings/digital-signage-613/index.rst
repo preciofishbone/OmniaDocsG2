@@ -14,6 +14,6 @@ Select option for more information:
 
    page-rollups-digital-signage/index
    layouts-digital-signage/index
-   json-tamplates/index
+   json-templates/index
    screens-digital-signage/index
 
