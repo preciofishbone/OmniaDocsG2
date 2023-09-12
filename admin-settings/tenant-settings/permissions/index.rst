@@ -50,7 +50,7 @@ Draftable Account
 ---------------------
 If you're using Draftable's solution for comparing changes in controlled documents, you may have to edit the information here.
 
-.. image:: secrets-draftable-v7.png
+.. image:: secrets-draftable-v7-frame.png
 
 A default Base Url is added but can be edited if needed. 
 
