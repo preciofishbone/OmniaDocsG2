@@ -66,9 +66,14 @@ For more information on Azure AD Sync, see: :doc:`Azure AD Synchronization setti
 
 Azure OpenAI Text Completion Configuration
 --------------------------------------------
-(A description will be added soon).
+To be able to use Open AI text functionality within Omnia, the tenant feature Omnia.OpenAI.ChatOpenAIPanel.TextCompletion must be activated. When that is done, an API key and an API base Url must be entered here.
+
+.. image:: azure-open-ai-secret.png
 
 Azure OpenAI Dall-E Configuration
 ------------------------------------
-(A description will be added soon).
+To be able to use the Dall-E functionality within Omnia, the tenant feature Omnia.OpenAI.Ux.DallEProvider.FeatureTitek must be activated. When that is done, an API key and an API base Url must be entered here.
+
+.. image:: dall-e-secret.png
+
 
