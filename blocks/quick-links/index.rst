@@ -36,7 +36,7 @@ Custom Colors
 --------------
 You should primarily set colors centrally but you can change colors for some elements here, if needed:
 
-.. image:: quick-links-settings-colors-new2.png
+.. image:: quick-links-settings-colors-v7.png
 
 Layout and Write
 *********************
