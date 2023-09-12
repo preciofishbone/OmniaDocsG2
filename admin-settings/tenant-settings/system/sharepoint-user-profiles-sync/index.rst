@@ -53,6 +53,8 @@ Here's an example:
 3. Save when your finished here.
 4. Save your changes in the settings window.
 
+**Note!** In Omnia 7.1 and later, SharePoint user profile sync property mappings are case insensitive.
+
 Events
 ********
 In the list each synchronization is described with Type, Status and start- and end time. The top icon for each post will show more details. Here's where you will see detailed log if you selected "Log Details".
