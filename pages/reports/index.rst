@@ -1,4 +1,4 @@
-Reports
+-Reports
 ==========
 
 A number of reports are available for pages in the active Publishing App. Note that some settings must be made for the reports to work, see below.
@@ -97,11 +97,11 @@ Then, use the following settings:
 
 .. image:: analysis-new-settings.png
 
-+ **Content analysis**: A number of analysis to execute can be available in this list, they are set up in Omni Admin, see: (link to be added)
++ **Content analysis**: A number of analysis to execute can be available in this list, they are set up in Omni Admin, see: :doc:`Content Analysis (Open AI) </admin-settings/tenant-settings/settings/open-ai/content-analysis/index>`
 + **Text properties**: Select one or more text properties to run the analysis on.
-+ **Pages to include in the report**: You must also choose one or more pages to run the analysis on (that contain the selected properties). You can either pick pages, using the page picker, or us ethe query builder.
++ **Pages to include in the report**: You must also choose one or more pages to run the analysis on. You can either pick pages, using the page picker, or use the query builder.
 
-If you select "Pick Pages", click ADD Page to start the page picker. For more information, see: (linke to be added).
+If you select "Pick Pages", click ADD Page to start the page picker. For more information, see: :doc:`Page picker </general-assets/page-picker/index>`
 
 If you select "Use Query Builder", the following is shown:
 
