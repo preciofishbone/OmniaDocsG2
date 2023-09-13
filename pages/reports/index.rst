@@ -67,6 +67,48 @@ Default is List View, as shown in the image above. You can also choose to see a 
 
 .. image:: pages-repoprt-scheduled-week.png
 
+Analysis
+***********
+In Omnia 7.1 and later, Open AI can be used for content analysis. If set up, this tab is available.
+
+the first you will see is a list of already created analysis, if any. here's a simple example:
+
+.. image:: analysis-tab.png
+
+To remove an analysis that is no longer, click the dust bin, but rememeber that the report from the analysis can easily be updated, see below.
+
+To read a report for the analysis, click the i-icon:
+
+.. image:: analysis-i-icon.png
+
+Here's an example of a report:
+
+.. image:: analysis-report.png
+
+You can execute the analysis on the latest version of a page by clicking here, in effect updating the analysis:
+
+.. image:: analysis-report-again.png
+
+Create a new analysis
+-----------------------
+To create a new analysis, click CREATE NEW ANALYSIS.
+
+Then, use the following settings:
+
+.. image:: analysis-new-settings.png
+
++ **Content analysis**: A number of analysis to execute can be available in this list, they are set up in Omni Admin, see: (link to be added)
++ **Text properties**: Select one or more text properties to run the analysis on.
++ **Pages to include in the report**: You must also choose one or more pages to run the analysis on (that contain the selected properties). You can either pick pages, using the page picker, or us ethe query builder.
+
+If you select "Pick Pages", click ADD Page to start the page picker. For more information, see: (linke to be added).
+
+If you select "Use Query Builder", the following is shown:
+
+.. image:: analysis-new-query.png
+
+(More information will be added soon.)
+
 Settings for Reports
 *********************
 Two settings are needed for the reports to work.
