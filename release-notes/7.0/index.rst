@@ -140,6 +140,84 @@ Enhanded multi-lingual support:
 * Navigation node titles.
 * Page Types titles.
 
+(7.1) Media gallery
+--------------------------------------------
+
+The media block and RTF editor now offer the option to enable the multi-selection of images and videos in the media picker.
+When multiple images or videos are selected, a media gallery is displayed to the end user, allowing them to open the gallery
+and navigate through each image or video for additional details.
+
+.. image:: media-gallery-add-edit-media.png
+
+.. image:: media-gallery-wall.png
+
+Each image or video can also include a caption, which will be displayed beneath it in the details dialog.
+
+.. image:: media-gallery-dialog-video.png
+
+
+(7.1) Media provider for Mediaflow
+--------------------------------------------
+
+A new out-of-the-box media provider, that integrates with Mediaflow, is now available in the media picker.
+
+.. image:: media-flow-administration.png
+
+.. image:: media-flow-mediapicker.png
+
+Please find more information about Mediaflow here: https://www.mediaflow.com/.
+
+(Note! This feature requires a subscription to the Mediaflow service.)
+
+(7.1) Multi-level approval on pages
+--------------------------------------------
+
+It is now possible to enable multi-level approval on pages in a page collection.
+
+.. image:: multistep-approval-settings-2.png
+
+The approval process is sequential, with each step governed by a set of business rules determining
+the appropriate approver for that step and specifying the tasks that the approver is authorized to perform.
+
+.. image:: multistep-approval-dialog-2.png
+
+(7.1) Dynamic 401/404 pages
+--------------------------------------------
+
+It is now possible to design your own 401/404 error pages. Instead of generic and unhelpful error messages,
+you can make these pages more engaging, maintain brand consistency, and guide users back to valuable content.
+It's a simple yet effective way to enhance the overall user experience and build trust with your audience.
+
+.. image:: system-layouts-404-edit.png
+
+(7.1) Broken links detection and metrics
+--------------------------------------------
+
+Omnia now features a built-in broken link detector. It identifies all 404 errors within the solution and provides
+comprehensive metrics, showing the frequency of user encounters with broken links each month.
+Additionally, you can access in-depth information regarding these broken links, including their referring page.
+
+.. image:: broken-links-dashboard-metrics.png
+
+.. image:: broken-links-details.png
+
+(7.1) Colors in calendar view
+--------------------------------------------
+
+(7.1) Process management shape descriptions
+--------------------------------------------
+
+(7.1) AI features
+--------------------------------------------
+
+(Note! The AI features requires an Azure Open AI subscription)
+
+
+
+
+
+
+
 Versions
 -----------------------------------------
 

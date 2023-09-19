@@ -5,7 +5,7 @@
 
 Improvements
 ******
-- Mediaflow is now available as a possible media picker, NOTE: License with mediaflow is required to use this feature.
+- Mediaflow is now available as a possible media picker, NOTE: License with Mediaflow is required to use this feature.
 - Added additional default fields to the setup feature "Enterprise properties - Documents".
 - Document Management and Process Management now have different comments for "Change comment" and "Message to approver".
 - It is now possible to force a page to have a Publishing Channel when it gets created. 
