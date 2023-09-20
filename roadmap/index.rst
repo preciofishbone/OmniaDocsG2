@@ -1,34 +1,34 @@
 In Development
 ===========================================
 
-As part of the Omnia roadmap, the following features are in development and planned to be rolled out during Q3 and Q4 2023.
+As part of the Omnia roadmap, the following features are in development and planned to be rolled out during Q4 2023 and Q1 2024.
 
 .. note:: Items may be added or removed from this list at any time.
 
 Web Content Management
 ---------------------------------------------
 
-* Multi-step approval for pages.
-* Open AI integration. Author chat bot and AI image generation.
+* Improved bookmark navigation.
+* Improved page feedback.
+* Publishing campaigns.
 
 Governance
 ---------------------------------------------
 
 * New user statistics solution (powered by Matomo).
-* Custom 401/404 pages and broken links detection.
+* Content analytics block.
+* Improved teamwork metrics.
 * Predefined content in Teamwork templates.
+
 
 Frontline Workers
 ---------------------------------------------
 
-* Distributed user management
-* Dynamic login layouts
+* Self-service account requests.
+* Local user ownership.
+* Anonymous access and custom login screen.
+* Authentication settings per user type.
 * Scheduled off-boarding
-* People rollup including Omnia accounts
-* Search solution for frontline workers.
-* Kiosk users with PIN code.
-* Authentication provider per user type
-* Conditional access for Omnia accounts
 
 Learning
 ---------------------------------------------

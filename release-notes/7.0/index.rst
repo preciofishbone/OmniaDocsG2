@@ -172,6 +172,11 @@ Please find more information about Mediaflow here: https://www.mediaflow.com/.
 (7.1) Dall-E provider for Mediaflow 
 --------------------------------------------
 
+A new out-of-the-box media provider, that integrates with Dall-E (Azure Open AI), is now available in the media picker.
+DALL-E is an AI model developed by OpenAI. It is a variation of the GPT architecture and is designed specifically for generating images from textual descriptions.
+
+.. image:: openai-dalle-mediapicker.png
+
 (Note! Open AI requires an Azure Open AI subscription)
 
 (7.1) Multi-level approval on pages
