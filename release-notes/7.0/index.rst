@@ -169,6 +169,11 @@ Please find more information about Mediaflow here: https://www.mediaflow.com/.
 
 (Note! This feature requires a subscription to the Mediaflow service.)
 
+(7.1) Dall-E provider for Mediaflow 
+--------------------------------------------
+
+(Note! Open AI requires an Azure Open AI subscription)
+
 (7.1) Multi-level approval on pages
 --------------------------------------------
 
@@ -204,18 +209,69 @@ Additionally, you can access in-depth information regarding these broken links, 
 (7.1) Colors in calendar view
 --------------------------------------------
 
+We have added 'Page Type' and 'Workflow Status' to the Enterprise Glossary, allowing them to be customized with colors and icons.
+
+.. image:: calendar-colors-enterprise-glossary.png
+
+Now, these properties can be chosen within the page rollup calendar view and used as the foundation
+for the icon and background color assigned to each page on the calendar.
+
+.. image:: pagerollup-calendar-colors-edit.png
+
 (7.1) Process management shape descriptions
 --------------------------------------------
 
-(7.1) AI features
+It is now possible to add a rich text description to shapes on a process template.
+
+.. image:: shape-descriptions-administration.png
+
+This will assist the process designer in making decisions on which shape to use when adding shapes to a process.
+
+.. image:: shape-descriptions-add-shape.png
+
+(7.1) Generate page content with AI
 --------------------------------------------
 
-(Note! The AI features requires an Azure Open AI subscription)
+You can enable authors in a page collection to utilize AI when generating content for a page.
+The author describes which content to create...
 
+.. image:: openai-generatedcontent-createpagedialog-1.png
 
+.. image:: openai-generatedcontent-createpagedialog-2.png
 
+...and AI generates a draft that the author can further refine and edit.
 
+.. image:: openai-generatedcontent-draft.png
 
+A text block can also be set up to automatically generate a summary based on another text property on the page.
+This allows the page author to concentrate on the narrative, while AI handles the summary creation.
+
+.. image:: openai-automaticsummary-edit.png
+
+(Note! Open AI requires an Azure Open AI subscription)
+
+(7.1) Improve text with AI
+--------------------------------------------
+
+Now, it's possible to centrally configure AI prompts within Omnia Admin, offering support to page authors as they enhance their content during the writing process.
+
+.. image:: openai-improvetext-dialog.png
+
+(Note! Open AI requires an Azure Open AI subscription)
+
+(7.1) Analyze content with AI
+--------------------------------------------
+
+AI can assist editors in analyzing content within a publishing app, generating a well-structured report of the results.
+The reports are generated based on the assumption that a page will either meet or not meet specific criteria.
+
+.. image:: openai-contentanalysis-report.png
+
+AI will also show a detailed description on why a certain page doesn't meet the criteria.
+
+.. image:: openai-contentanalysis-details.png
+
+(Note! Open AI requires an Azure Open AI subscription)
 
 
 Versions
