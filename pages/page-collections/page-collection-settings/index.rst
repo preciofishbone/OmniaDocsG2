@@ -158,15 +158,15 @@ Based on person property can result in more colleagues being available for appro
 
 For more information, see this page: :doc:`Properties </admin-settings/tenant-settings/properties/index>` 
 
-Options for Open AI
+Options for OpenAI
 -----------------------
-When activating the Open AI option, the following settings are available for this page collection:
+When activating the OpenAI option, the following settings are available for this page collection:
 
 .. image:: open-ai-page-collection.png
 
-+ **Summary**: To activate ChatGTP functionality for page summary, select the appropriate summary property here.
-+ **Text**: Likewise for text fields, select property to activate ChatGTP functionality.
-+ **Image**: Dall-E is an Open AI option that can be activated (a feature needs to be activated) and are then available as an image provider in the Image Picker. Select the image property used to activate the functionality.
++ **Summary**: To activate OpenAI functionality for page summary, select the appropriate summary property here.
++ **Text**: Likewise for text fields, select property to activate OpenAI functionality.
++ **Image**: Dall-E is an OpenAI option that can be activated (a feature needs to be activated) and are then available as an image provider in the Image Picker. Select the image property used to activate the functionality.
 
 Saving Page Collection settings
 ********************************
