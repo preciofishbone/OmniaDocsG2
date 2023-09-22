@@ -1,4 +1,4 @@
-Settings (Open AI)
+Settings (OpenAI)
 =============================================
 
 This option is available in Omnia 7.1 and later. 
