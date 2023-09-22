@@ -1,7 +1,7 @@
-Open AI (Admin settings)
+OpenAI (Admin settings)
 =============================================
 
-This option is available in Omnia 7.1 and later. Prerequisite: The two Tenant features for Azure Open AI must be activated.
+This option is available in Omnia 7.1 and later. Prerequisite: The two Tenant features for Azure OpenAI must be activated.
 
 .. image:: open-ai-all.png
 
