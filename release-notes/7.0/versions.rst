@@ -5,7 +5,7 @@
 
 Improvements
 ******
-- Mediaflow is now available as a possible media picker, NOTE: License with Mediaflow is required to use this feature.
+- Media flow is now available as a possible media picker, NOTE: License with Media flow is required to use this feature.
 - The media block now supports multiple images.
 - Added additional default properties to the setup feature "Enterprise properties - Documents".
 - Added additional default properties to the setup feature "Enterprise properties - People".
@@ -37,9 +37,9 @@ Improvements
 - Digital signage now support reusable Json mapping templates.
 - If using Draftable, the show changes button is now configurable per document type.
 - Selection list in rollups for business profile are now sorted alphabetically. 
-- Additional reviewers can now be added to the send for domments flow in ODM.
+- Additional reviewers can now be added to the send for comments flow in ODM.
 - Multi level approval is now possible for pages. (See main release notes)
-- OpenAI Integrations (See main release notes).
+- Open AI Integrations (See main release notes).
 - When saving filter state, if using classic paging, the page number is now remembered.
 - Its now possible to write to your user profile using an action button, this can be used to track for example completed courses.
 - All page rollups (except the calendar view) can now sort on Navigation.
@@ -47,12 +47,13 @@ Improvements
 - Media in pages now supports image caption.
 - The process rollup now supports metadata queries based on currently rendered process.
 - A process can now use properties of type media.
-- It is now possible to configure the Omnia MSTeams app using a custom domain.
-- Additional color codes (Page Type and Page Workflow Status) are now possible for the page rollup calendar view.
+- It is now possible to configure the Omnia MS Teams app using a custom domain.
+- Additional colour codes (Page Type and Page Workflow Status) are now possible for the page rollup calendar view.
 - Document rollup copy link feature now uses a web link.
 - A new add shapes UI with descriptions have been added to Process Management.
-- Fixed label "All Languages" it no longer have an incorrect comma.
+- Fixed label "All Languages" it no longer has an incorrect comma.
 - It is now possible to move page collections across business profiles.
+- Enhancements to the audit log.
 
 
 Fixes
@@ -68,7 +69,7 @@ Fixes
 - WCAG: Related processes now uses actual anchor elements, allowing for browser functions to work as expected (#146686).
 - WCAG: Video description is now available to be set.
 - WCAG: Correct aria labels set for input fields for Comments, My links search and app posts.
-- WCAG: THe document rollup now have correct tooltips if the value is cut (#140431).
+- WCAG: The document rollup now has correct tooltips if the value is cut (#140431).
 - The org chart now displays all users if there are more than 100 on one level (#147538).
 - Mailto links can now be added as a related link (#143722).
 - Text styles now properly apply to bullet lists (#148259).
@@ -94,13 +95,16 @@ Fixes
 - All blocks now hide correctly if they have no data to render (#145860).
 - Fixed a rendering issue in Process Management (#149872).
 - Fixed an issue with auto translation when using many images in the RTF content (#149437).
-- Fixed an issue with the padding setting of the tasks rollup.
+- Fixed an issue with the padding setting of the task rollup.
 - A teamwork under approval can now have its fields edited as long as a naming policy based on users are not used (#147689, #146927).
-- Manual translation tools now works as expected for drafts.
+- Manual translation tools now work as expected for drafts.
 - OmniaVariationSegment is now updated as expected on resync to SharePoint.
-- Updates to the SharePoint UserProfile sync instructions. 
+- Updates to the SharePoint User Profile sync instructions. 
 - Using the back button from advanced search now works as expected. 
-- Digital signage preview url now uses the custom domain if configured.
+- Digital signage preview URL now uses the custom domain if configured.
+- Fixed an issue that would incorrectly hide blocks in edit mode when certain display breakpoints were set.
+- Publishing app default settings now use the correct enterprise property picker.
+- When trying to remove an enterprise property that is part of a property set, correct error feedback is now given.
 
 
 
