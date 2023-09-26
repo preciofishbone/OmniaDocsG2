@@ -7,7 +7,8 @@ Improvements
 ******
 - Mediaflow is now available as a possible media picker, NOTE: License with Mediaflow is required to use this feature.
 - The media block now supports multiple images.
-- Added additional default fields to the setup feature "Enterprise properties - Documents".
+- Added additional default properties to the setup feature "Enterprise properties - Documents".
+- Added additional default properties to the setup feature "Enterprise properties - People".
 - Document Management and Process Management now have different comments for "Change comment" and "Message to approver".
 - It is now possible to force a page to have a Publishing Channel when it gets created. 
 - It is now possible to attach a publishing app to an existing communication site.
