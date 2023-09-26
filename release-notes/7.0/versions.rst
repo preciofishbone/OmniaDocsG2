@@ -37,7 +37,22 @@ Improvements
 - Digital signage now support reusable Json mapping templates.
 - If using Draftable, the show changes button is now configurable per document type.
 - Selection list in rollups for business profile are now sorted alphabetically. 
-- Additional reviewers can now be added to the send for domments flow in ODM (#)
+- Additional reviewers can now be added to the send for domments flow in ODM.
+- Multi level approval is now possible for pages. (See main release notes)
+- OpenAI Integrations (See main release notes).
+- When saving filter state, if using classic paging, the page number is now remembered.
+- Its now possible to write to your user profile using an action button, this can be used to track for example completed courses.
+- All page rollups (except the calendar view) can now sort on Navigation.
+- Security trimmed teamwork rollups (See main release notes).
+- Media in pages now supports image caption.
+- The process rollup now supports metadata queries based on currently rendered process.
+- A process can now use properties of type media.
+- It is now possible to configure the Omnia MSTeams app using a custom domain.
+- Additional color codes (Page Type and Page Workflow Status) are now possible for the page rollup calendar view.
+- Document rollup copy link feature now uses a web link.
+- A new add shapes UI with descriptions have been added to Process Management.
+- Fixed label "All Languages" it no longer have an incorrect comma.
+- It is now possible to move page collections across business profiles.
 
 
 Fixes
@@ -78,9 +93,18 @@ Fixes
 - The properties block can now be configured to have the correct date format settings (#149615).
 - All blocks now hide correctly if they have no data to render (#145860).
 - Fixed a rendering issue in Process Management (#149872).
+- Fixed an issue with auto translation when using many images in the RTF content (#149437).
+- Fixed an issue with the padding setting of the tasks rollup.
+- A teamwork under approval can now have its fields edited as long as a naming policy based on users are not used (#147689, #146927).
+- Manual translation tools now works as expected for drafts.
+- OmniaVariationSegment is now updated as expected on resync to SharePoint.
+- Updates to the SharePoint UserProfile sync instructions. 
+- Using the back button from advanced search now works as expected. 
+- Digital signage preview url now uses the custom domain if configured.
 
 
-- Also fixes preview bugs (#149420, #148905, #148253).
+
+- Also fixes preview bugs (#149420, #148905, #148253, #150468, #149862).
 
 
 
