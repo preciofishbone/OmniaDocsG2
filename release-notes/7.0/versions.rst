@@ -110,6 +110,21 @@ Fixes
 
 - Also fixes preview bugs (#149420, #148905, #148253, #150468, #149862).
 
+7.0.20
+========================================
+(Omnia 7.0.20 / Workplace 7.0.16 / WCM 7.0.20 / MS 7.0.16)
+
+- Fixed an issue that prevented xslx files to be uploaded when documents are stored in Omnia (#150117).
+- Fixed an issue that would sometimes cause the scroll arrows of OPM to not render correctly (#150075).
+- The create page button now correctly opens edit mode (#150201).
+- Fixed a targeting issue that would occur when a term set is deleted (#149570).
+- Localization of social dates are now correct for Swedish locale.
+- Fixed an issue with the page rollup calendar view when an event stretches over two months (#149970).
+- Several migration improvements (#149933, #149826).
+- Fixed an issue where pick pages would not work if the page rollup was added in the page type (#150142).
+- Corrected an issue with mail enabled groups for odm notifications (#149316).
+- Fixes to the page rollup padding settings (#149771).
+- Stability updates to token replace for controlled documents (#142753).
 
 
 7.0.16
