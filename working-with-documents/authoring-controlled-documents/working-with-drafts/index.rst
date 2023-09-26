@@ -220,13 +220,13 @@ Creating a new draft from a published document
 ***********************************************
 The work on a draft for a new edition of a document can be started whenever it’s convenient. The existing published edition is still available for readers until it’s replaced, when the new edition is published.
 
-To create a new draft of a published document, do the following:
+To create a new draft of a published document, do the following (images from Omnia v7):
 
 1.	Open the "Published" tab.
 2.	Click the dot menu for the document.
 3.	Select "Create Draft".
 
-.. image:: create-draft-1-new6.png
+.. image:: create-draft-1-v7.png
 
 4. If the document is not tied to a template, it can now be done. In that case something like the following is shown:
 
@@ -240,21 +240,43 @@ The author will also be notified if the template the document is based on, is up
 
 If the document already is tied to a template that is not updated, this is shown:
 
-.. image:: create-draft-2-new4.png
+.. image:: create-draft-2-v7.png
 
 4. Select which edition to base the new draft on.
 
 As you see you can even upload a document to base the new draft on. This can be useful for example when you want to publish a new edition of a document you have uploaded as it is. Perhaps you have received a new version of a document from a supplier?
 
+The first time a new draft is published the "Change comment" field is available, for all editions from here on. You can use it do add a comment now, or later. For more information, see below.
+
 If you select "Previous Edition", you can open the list and select which of the previous published editions you want to base the new Draft on. If you want to have a look at that edition before deciding, you can download a copy of the previous edition you selected in the list, by first selecting the edition and then clicking this icon:
 
-.. image:: create-draft-3-new4.png
+.. image:: create-draft-3-v7.png
 
 5. When you're done there, click "Create Draft".
 
 The new draft is created and the "Drafts" tab is automatically activated. The work on the new draft is done exactly as the first time. That a document has been published before does not make any difference.
 
 **Note!** There can be only one draft of a given document. If there already is a draft for the document and an author tries to create another one, a message is shown stating that it's not possible. 
+
+Change comments
+--------------------
+When creating a new draft from a published document the first time, the Change comments field is available from here on (in Omnia 7.1 and later). **Note**: the field is NOT available when a draft is created from scratch or uploaded to be a draft.**
+
+You can add and edit change comments when necessary for any edition, either when creating a new draft from any edition or any time when working on a draft that has been created that way.
+
+When working on a draft, the Change comments field is available here:
+
+.. image:: change-comments-draft-menu.png
+
+Here's an example:
+
+.. image:: change-comments-draft-example.png
+
+Just add and edit text here as needed, and click OK to save.
+
+Change comments are added to the document history and can therefore be accessed on the PUBLISHED tab together with alla other document history. Here's an example from a test environment:
+
+.. image:: change-comments-history.png
 
 Show changes
 ******************
