@@ -6,6 +6,7 @@
 Improvements
 ******
 - Mediaflow is now available as a possible media picker, NOTE: License with Mediaflow is required to use this feature.
+- The media block now supports multiple images.
 - Added additional default fields to the setup feature "Enterprise properties - Documents".
 - Document Management and Process Management now have different comments for "Change comment" and "Message to approver".
 - It is now possible to force a page to have a Publishing Channel when it gets created. 
@@ -18,7 +19,6 @@ Improvements
 - The page rollup calendar view now has an improved date range selector. 
 - Only valid languages can now be selected for a Teamwork template (#145938).
 - It is now possible to copy link to document from the document rollup information panel (#147490, #147010). 
-- Publishing channels can now be made mandatory for new pages. 
 - Identity picker can now differentiate between email enabled and Permission enabled groups.
 - The process property type now supports multiple values.
 - Additional data is now included in the Sign-off request export.
@@ -36,7 +36,7 @@ Improvements
 - Digital signage now support reusable Json mapping templates.
 - If using Draftable, the show changes button is now configurable per document type.
 - Selection list in rollups for business profile are now sorted alphabetically. 
-- 
+- Additional reviewers can now be added to the send for domments flow in ODM (#)
 
 
 Fixes
@@ -52,6 +52,7 @@ Fixes
 - WCAG: Related processes now uses actual anchor elements, allowing for browser functions to work as expected (#146686).
 - WCAG: Video description is now available to be set.
 - WCAG: Correct aria labels set for input fields for Comments, My links search and app posts.
+- WCAG: THe document rollup now have correct tooltips if the value is cut (#140431).
 - The org chart now displays all users if there are more than 100 on one level (#147538).
 - Mailto links can now be added as a related link (#143722).
 - Text styles now properly apply to bullet lists (#148259).
@@ -72,6 +73,10 @@ Fixes
 - Improved active tab rendering for small screens (#146318).
 - The dynamic roller page rollup view now allows for more text to be shown (#144992, #147721).
 - Page rollup settings no longer try to adjust View and query settings dependent of each other (#136304, #145096).
+- When pasting content into the RTF editor, the cursor is now placed correctly after the paste (#147276).
+- The properties block can now be configured to have the correct date format settings (#149615).
+- All blocks now hide correctly if they have no data to render (#145860).
+- Fixed a rendering issue in Process Management (#149872).
 
 
 - Also fixes preview bugs (#149420, #148905, #148253).
