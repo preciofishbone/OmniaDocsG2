@@ -82,6 +82,16 @@ Available settings depends on how the template is set up. Here are some common e
 
 .. image:: publishing-apps-settings-create-v7.png
 
+Edit settings for an publishing app
+************************************
+Using the action EDIT you can edit the settings for a publishing app. What can be edited can depend on the template used. Here's an example:
+
+.. image:: edit-publishing.png
+
++ **Sharepoint Url**: The app instance connected site's Url can be edited here, if needed.
+
+For a description of the rest of the options, see above.
+
 Edit Alias
 *****************
 If it should be needed to edit the alias, you can do it as part of the actions:
