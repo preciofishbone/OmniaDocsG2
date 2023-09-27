@@ -80,15 +80,15 @@ A special case is the possibility to clone an existing teamwork, if that is made
 
 .. image:: team-collaboration-clone-v7.png
 
-Edit a teamworks settings
-**************************
-Using the action EDIT you can edit the settings for a teamwork. This is what can be edited:
+Edit settings for a teamwork
+**********************************
+Using the action EDIT you can edit the settings for a teamwork. What can be edited can depend on the template used. Here's an example:
 
 .. image:: edit-teamwork.png
 
 + **Sharepoint Url**: The app instance connected site's Url can be edited here, if needed.
 
-For a description of the reste of the options, see above.
+For a description of the rest of the options, see above.
 
 Attach a teamwork site
 ************************
