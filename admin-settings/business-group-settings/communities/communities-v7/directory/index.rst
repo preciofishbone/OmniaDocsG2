@@ -63,6 +63,16 @@ When you click NEXT, a summary is shown, where you can click the pen the edit an
 
 .. image:: community-create-v7.png
 
+Edit settings for a community
+**********************************
+Using the action EDIT you can edit the settings for a community. What can be edited can depend on the template. Here's an example:
+
+.. image:: edit-community.png
+
++ **Sharepoint Url**: The app instance connected site's Url can be edited here, if needed.
+
+For a description of the rest of the options, see above.
+
 Edit App Route
 ****************
 If it should be needed to edit the app route, Select "Alias" in the dot menu for the community and the following is shown:
