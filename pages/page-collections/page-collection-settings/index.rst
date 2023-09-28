@@ -44,7 +44,7 @@ Use the settings this way:
 + **Scheduling**: If scheduling should be available in this Page Collection, select this option and select the property to be used. The author can then set a scheduled start date and time, using the PROPERTIES tab for the page. Note that Scheduled Publishing never is mandatory, an author van always choose to oublish directly. 
 + **Break permission inheritance by default**: Select this option if inheritnace should be broken when a new page is created within the Page Collection. This could, for example, be useful for Communities. When this option is active, the colleague creating the page will be the page owner, meaning that he or she has full control over who can edit. The new option "Invite co-authors" can then be used to easily add authors for the page, see below.
 + **Allow invitation of co-authors**: If this option is selected, authors can invite co-authors. 
-+ **Channel**: If you enable this, it will be possible for an author to select channels the page should be published to. Publication to a channel may require approval from the channel administrator.
++ **Channel**: If you enable this, it will be possible for an author to select channels the page should be published to. Publication to a channel may require approval from the channel administrator. See more information below.
 + **Open AI**: Available in Omnia 7.1 and later. When you activate this option you can set properties for what the Open AI should be able to work with, see below. Also note that two tenant features must be activated for this option to be available and settings for Open AI has to be made in Omnia Admin.
 
 Set default values for a Page Type
@@ -157,6 +157,14 @@ When you select "Based on person property", you open the list and select propert
 Based on person property can result in more colleagues being available for approval. Authors can only choose between these colleagues when selecting approver.
 
 For more information, see this page: :doc:`Properties </admin-settings/tenant-settings/properties/index>` 
+
+Channel settings
+-------------------
+In Omnia 7.1, there's two options available for channels. When you enable publishing to channels you can also choose that at least one publishing channel is required:
+
+.. image:: channel-settings.png
+
+I you select this there must be at least one channel selected when a new page is created in the page collection, or the the new page can not be saved.
 
 Options for OpenAI
 -----------------------
