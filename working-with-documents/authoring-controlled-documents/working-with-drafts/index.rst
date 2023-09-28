@@ -75,6 +75,20 @@ Now properties for the document are shown (and this is what is shown for a docum
 
 3. Edit the properties as needed and save.
 
+Set document type for uploaded documents
+------------------------------------------
+In Omnia 7.1 and later you can set a document type for a number of uploaded documents at the same time. Here's how:
+
+1. Select all uploaded documents that should belong to the same document type.
+2. Click PROPERTIES.
+3. Select the document type.
+
+.. image:: set-document-type.png
+
+4. In most cases, you can then set some properties available for the document type, for example:
+
+.. image:: set-document-type-properties.png
+
 Move a document
 ************************
 You can move a document, or several if you like, from any other Documents library in this Team Site, to the Controlled Documents library, and thus make them a Controlled Documents Draft.
