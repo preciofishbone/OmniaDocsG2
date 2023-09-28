@@ -71,7 +71,7 @@ Analysis
 ***********
 In Omnia 7.1 and later, OpenAI can be used for content analysis. If set up, this tab is available.
 
-the first you will see is a list of already created analysis, if any. here's a simple example:
+The first you will see is a list of already created analysis, if any. here's a simple example:
 
 .. image:: analysis-tab.png
 
@@ -95,7 +95,7 @@ When you create a new analysis, the following settings are available:
 
 .. image:: analysis-new-settings.png
 
-+ **Content analysis**: A number of analysis to execute can be available in this list, they are set up in Omni Admin, see: :doc:`Content Analysis (OpenAI) </admin-settings/tenant-settings/settings/open-ai/content-analysis/index>`
++ **Content analysis**: A number of analysis settings to execute can be available in this list. They are set up in Omni Admin, see: :doc:`Content Analysis (OpenAI) </admin-settings/tenant-settings/settings/open-ai/content-analysis/index>`
 + **Text properties**: Select one or more text properties to run the analysis on.
 + **Pages to include in the report**: You must also choose one or more pages to run the analysis on. You can either pick pages, using the page picker, or use the query builder.
 
