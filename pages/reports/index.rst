@@ -125,13 +125,13 @@ If you happened to add a query part you don't want, just click the dust bin to r
 
 .. image:: analysis-new-query-filter.png
 
-Doing so you can choose to run the query on specific pages only. Here's an example where the analysis should be executed for pages of the type "Knowledege artiecle (Tenant)" only:
+Doing so you can choose to run the query on specific pages only. Here's an example where the analysis should be executed for pages of the type "Knowledege article (Tenant)" only:
 
 .. image:: analysis-new-query-filtered.png
 
 You can add several filters the same way, if needed.
 
-6. Selected status for the pages to be analyzed: Published, Never Published or Any status (meaning both).
+6. Select status for the pages to be analyzed: Published, Never Published or Any status (meaning both).
 
 .. image:: analysis-new-query-status.png
 
