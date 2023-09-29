@@ -89,6 +89,8 @@ If you need to add or remove owners (administrators) or contributors for a commu
 
 Don't forget to save when you're done.
 
+**Note!** A user or a group must be permissions enabled to show up in the list.
+
 Edit Features
 ***************
 If it's needed to upgrade a feature for the community, you need to go here. You also go here to activate or deactivate a feature. Available features can differ depending on how Omnia is set up. Here's an example:
