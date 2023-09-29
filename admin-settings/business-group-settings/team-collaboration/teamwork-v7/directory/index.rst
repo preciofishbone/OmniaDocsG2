@@ -133,6 +133,8 @@ If you need to add or remove owners (administrators) or members for a teamwork, 
 
 Don't forget to save when you're done.
 
+**Note!** A user or a group must be permissions enabled to show up in the list.
+
 Edit Features
 ***************
 If it's needed to upgrade a feature for the teamwork, you need to go here. You also go here to activate or deactivate a feature. Available features can differ a lot depending on type of teamwork. Here's an example:
