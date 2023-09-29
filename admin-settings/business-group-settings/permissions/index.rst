@@ -28,7 +28,7 @@ Administrators are added or removed the same way for Business Profile, Shared Li
 
 Options for Workspace
 -----------------------------
-The permission settings for Workspace are a bit different:
+The permission settings for Workspace are a bit different, but users and groups must be permissions enabled to show up in the list here as well.
 
 .. image:: permissions-workspace-new612.png
 
