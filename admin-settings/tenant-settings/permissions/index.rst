@@ -9,9 +9,11 @@ Users and Groups
 *******************
 Use this setting to add and remove Tenant Administrators and separate administrators for Shared Links and Announcements, if needed. Only Tenant Administrators can use this setting. A Tenant Administrator can also edit all the settings for all Business Profiles within the Tenant. 
 
-Single users, Security groups and Microsoft 365 groups can be added here (In Omnia on-prem, Microsoft 365 groups can't be used). Note that a user or a group must be permissions enabled dot show up in the list.
+Single users, Security groups and Microsoft 365 groups can be added here (In Omnia on-prem, Microsoft 365 groups can't be used). 
 
 External users that has been invited in the Azure AD can be added here as well. Users invited this way can log in with their own Microsoft 365 account.
+
+**Note!** A user or a group must be permissions enabled do show up in the list.
 
 .. image:: tenant-permissions-v7.png
 
