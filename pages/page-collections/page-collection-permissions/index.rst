@@ -18,4 +18,5 @@ Single users, Security groups and Microsoft 365 groups can be added here (In Omn
 
 Editor and Author permissions can be set for specific pages, that overrule the settings made here, if needed. For more information, see: :doc:`Edit Permissions for a Page </pages/edit-permissions/index>`
 
+**Note!** A user or a group must be permissions enabled to show up in the list.
 
