@@ -70,6 +70,8 @@ Fixes
 - WCAG: Video description is now available to be set.
 - WCAG: Correct aria labels set for input fields for Comments, My links search and app posts.
 - WCAG: The document rollup now has correct tooltips if the value is cut (#140431).
+- WCAG: Block headers now render correct non interactive HTML (#149303).
+- WCAG: Search input field in the search block now has correct aria-label (#149303).
 - The org chart now displays all users if there are more than 100 on one level (#147538).
 - Mailto links can now be added as a related link (#143722).
 - Text styles now properly apply to bullet lists (#148259).
