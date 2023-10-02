@@ -40,7 +40,7 @@ Improvements
 - Additional reviewers can now be added to the send for comments flow in ODM.
 - Multi level approval is now possible for pages. (See main release notes)
 - Open AI Integrations (See main release notes).
-- When saving filter state, if using classic paging, the page number is now remembered.
+- When saving filter state, if using classic paging, the page number is now remembered (#146197).
 - Its now possible to write to your user profile using an action button, this can be used to track for example completed courses.
 - All page rollups (except the calendar view) can now sort on Navigation.
 - Security trimmed teamwork rollups (See main release notes).
