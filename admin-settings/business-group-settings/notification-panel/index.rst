@@ -46,7 +46,7 @@ Calendar Rollup: :doc:`The Calendar Rollup block </blocks/calendar-rollup/index>
 
 Document Rollup: :doc:`The Document Rollup block </blocks/document-rollup/index>`
 
-HTML Script:doc:`The HTML Scripts block </blocks/html-script/index>`
+HTML Script: doc:`The HTML Scripts block </blocks/html-script/index>`
 
 My Tasks: :doc:`The Tasks Rollup block </blocks/task-rollup/index>`
 
