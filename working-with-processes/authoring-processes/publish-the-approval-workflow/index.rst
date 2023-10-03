@@ -41,7 +41,11 @@ Exactly which options are available here depends on a a number of settings. Thes
 
 .. image:: pm-publish-publish-send-new.png
 
-When you click "Send", a task is created for the approver, and an e-mail is sent, with a link to the draft process. The task can look like this:
+When you click "Send", a task is created for the approver, and an e-mail is sent, with a link to the draft process. 
+
+**General note**: For a user to be able to receive e-mails, the acccount must be e-mail enabled.
+
+The task can look like this:
 
 .. image:: pm-approval-publish-send.png
  
