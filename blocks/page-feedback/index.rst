@@ -47,6 +47,8 @@ Who the feedback is sent to and how
 *************************************
 The Page Feedback is sent to the Page Owner (Page Contact) through e-mail. The following settings are needed for this to work.
 
+**General note**: For a user to be able to receive e-mails, the acccount must be e-mail enabled.
+
 The Page Contact property (which can be named something else) must be selected for the Page Type. Then a setting must be done (click the cog wheel).
 
 .. image:: page-contact-page-type-new3.png
