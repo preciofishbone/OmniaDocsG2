@@ -28,7 +28,7 @@ Note that all fields are mandatory.
 3. Add reviewers, a message and due date.
 4. Click "Send".
 
-A task is now created for each colleague, and an e-mail is sent to each, with the message entered, and with a link to the document. 
+A task is now created for each colleague, and an e-mail is sent to each, with the message entered, and with a link to the document. **General note**: For a user to be able to receive e-mails, the acccount must be e-mail enabled.
 
 Reviewers can also be notified in the notification panel about the new task, if it's set up to display tasks, and can choose to open the task from there. 
 
