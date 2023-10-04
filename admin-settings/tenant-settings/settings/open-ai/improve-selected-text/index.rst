@@ -1,9 +1,9 @@
-Improve Selected Text (Open AI)
+Improve Selected Text (OpenAI)
 =============================================
 
 This option is available in Omnia 7.1 and later.
 
-You can create a number of prompt settings here to be used by editors, with Open AI, for example:
+You can create a number of prompt settings here to be used by editors, with OpenAI, for example:
 
 .. image:: improve-selected-text.png
 
@@ -19,6 +19,6 @@ The following are available for a new prompt setting:
 
 + **Title**: Add a title for this setting, in any available tenant language (click the flag to change language).
 + **Prompt**: Add the text for the prompt here.
-+ **Open chat dialog**: If the chat dialog should open, select this option.
++ **Open chat dialog**: If the chat dialog should open, select this option. This can be useful for editors, as they can continue communcating with OpenAI to make addtional changes.
 + **TRY OUT** You van try out the settings by clicking this button.
 

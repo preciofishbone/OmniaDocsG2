@@ -5,7 +5,7 @@ Use the settings here to edit tabs for this Business Profile in Omnia Feed.
 
 Here's an example with a number of tabs set up:
 
-.. image:: omnia-feed-tabs.png
+.. image:: omnia-feed-tabs-v7.png
 
 + **PUBLISH/UNPUBLISH**: Use this to enable/disable this configuration in Omnia Feed. 
 
@@ -17,13 +17,9 @@ When any settings for tabs are done, users that already are using the app will b
 
 Adding a new tab
 ******************
-To add a new tab, click the plus.
+To add a new tab, click the plus. Then select the type of tab you want to add.
 
-.. image:: omnia-feed-tabs-new.png
-
-Then select the type of tab you want to add.
-
-.. image:: omnia-feed-tabs-select.png
+.. image:: omnia-feed-tabs-select-v7.png
 
 General tab settings
 ***********************
@@ -41,7 +37,7 @@ You can set the following here:
 
 Targeting settings
 -------------------
-This is available here:
+This can be available here, depending on setup:
 
 .. image:: omnia-feed-tabs-targeting.png
 
@@ -63,7 +59,7 @@ Here you set up the query for the tab.
 .. image:: omnia-feed-tabs-query-query.png
 
 + **Scope**: Select "Page Collections" or "Channel" as scope and then set the details similar to what you do in any Page Rollup. You can add one or more page collections or one or more channels.
-+ **Sign Off Requests**: You can choose to show sign off requests for the scope and if you do that, you can choose to hide finished requests.
++ **Sign Off Requests**: This option can be available depending on setup. You can choose to show sign off requests for the scope and if you do that, you can choose to hide finished requests.
 
 Here's an example of a query setting for two page collections with the detailed settings for one of them:
 

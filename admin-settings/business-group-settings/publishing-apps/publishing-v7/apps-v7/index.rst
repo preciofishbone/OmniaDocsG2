@@ -44,7 +44,7 @@ You can "detach" (delete) a site if needed. Then the following permissions are n
 
 **Note!** What actually happens when you click the dust bin to delete a site, is that the site is detached. That is true for all communcation sites, regardless of if they have been created in or attached to Omnia.
 
-**Note!** When a site is detached, an e-mail is sent to the site owner(s).
+**Note!** When a site is detached, an e-mail is sent to the site owner(s). Note that, for a user to be able to receive e-mails, the acccount must be e-mail enabled.
 
 Create a new Publishing App
 *****************************
@@ -81,6 +81,16 @@ Available settings depends on how the template is set up. Here are some common e
 4. When you're done: click CREATE or SEND FOR APPROVAL, depending on how the temnplate is set up.
 
 .. image:: publishing-apps-settings-create-v7.png
+
+Edit settings for an publishing app
+************************************
+Using the action EDIT you can edit the settings for a publishing app. What can be edited can depend on the template used. Here's an example:
+
+.. image:: edit-publishing.png
+
++ **Sharepoint Url**: The app instance connected site's Url can be edited here, if needed.
+
+For a description of the rest of the options, see above.
 
 Edit Alias
 *****************

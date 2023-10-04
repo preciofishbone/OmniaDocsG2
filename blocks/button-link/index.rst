@@ -157,8 +157,8 @@ See this page for more information: :doc:`My Links </user-options/my-links/index
 
 (Only general settings are available, see above).
 
-My Subscriptons
-----------------
+My Subscriptions
+------------------
 My Subscriptions is available in a person's "My Profile" menu but can also be added as an Action Button:
 
 Subscriptions are meant to be used in Communities, for now. See this page for more information: :doc:`My Subscriptions </using-communities/subscriptions/my-subscriptions/index>`
@@ -206,6 +206,8 @@ Share can be available through the "Likes and Comments" block, but can also be a
 .. image:: action-button-share.png
 
 + **Share Type**: Select in what way users should be able to share a link to this page; Email, Teams or Yammer.
+
+**Note!** For sharing through email to work, the recepient's account must be email enabled.
 
 Sign-off request
 -----------------

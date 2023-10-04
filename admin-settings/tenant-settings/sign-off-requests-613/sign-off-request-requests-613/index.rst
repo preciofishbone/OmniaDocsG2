@@ -9,7 +9,7 @@ Here's an example of a list:
 
 The "Status" column indicates if the request is open or closed. the "Progress Status" column to the right indicates the number of answers; white for none, yellow for some/ongoing and green for all that the request was sent to.
 
-You can search for a request and you can filter tuk list using the list where it says "Progress Status".
+You can search for a request and you can filter the list using the list where it says "Progress Status".
 
 For more details and the possibiblty to delete a request, click the link (Title).
 
@@ -103,7 +103,7 @@ When you close a request, you can choose to send an email notification to the us
 
 Just deselect if you don't need to send a message, and then click CLOSE REQUEST. If you choose to send a message, it's sent immediately.
 
-Note that it's just a notification e-mail that is sent from the system. You can't add any text to that message (no dialog for that purpose is available).
+It's just a notification e-mail that is sent from the system. You can't add any text to that message (no dialog for that purpose is available).
 
 A closed request can be reopened, a deleted request can (of course) not.
 

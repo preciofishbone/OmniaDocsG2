@@ -32,6 +32,8 @@ When an editor has created a new page or edited a page, these are the simple ste
 
 An e-mail is now sent to the approver(s) and the request is also placed in the Pending Approval list.
 
+**General note**: For a user to be able to receive e-mails, the acccount must be e-mail enabled.
+
 Approve or reject
 *******************
 An approver uses this list, found under "Reports" in the Navigation tree, when editing pages to approve or reject a page approval:

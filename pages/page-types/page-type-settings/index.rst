@@ -102,7 +102,7 @@ The following settings can be available for a property (not all are shown in the
 + **Category**: You can add a category for this property, used when listing properties for the Page Type.
 + **Default value**: Use this setting to decide what should be shown for the property as a suggested value, when the page is created. Empty is just that, no value. Today displays todays date. You can also base the automatic archiving on another property. See below for more information.
 + **Read only**: You should normally not edit this option. (But see below concerning automatic archiving).
-+ **Limit access permission**: If not all authors are permitted to edit this setting for the Page Type, add the colleagues or groups that should be able to edit these settings here.
++ **Limit access permission**: If not all authors are permitted to edit this setting for the Page Type, add the colleagues or groups that should be able to edit these settings here. Note that a person or group must be permissions enabled to show up in the list.
 
 2. Edit the settings as needed and click OK.
 

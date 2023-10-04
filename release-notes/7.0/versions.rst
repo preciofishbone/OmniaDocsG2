@@ -5,8 +5,10 @@
 
 Improvements
 ******
-- Mediaflow is now available as a possible media picker, NOTE: License with Mediaflow is required to use this feature.
-- Added additional default fields to the setup feature "Enterprise properties - Documents".
+- Media flow is now available as a possible media picker, NOTE: License with Media flow is required to use this feature.
+- The media block now supports multiple images.
+- Added additional default properties to the setup feature "Enterprise properties - Documents".
+- Added additional default properties to the setup feature "Enterprise properties - People".
 - Document Management and Process Management now have different comments for "Change comment" and "Message to approver".
 - It is now possible to force a page to have a Publishing Channel when it gets created. 
 - It is now possible to attach a publishing app to an existing communication site.
@@ -18,7 +20,6 @@ Improvements
 - The page rollup calendar view now has an improved date range selector. 
 - Only valid languages can now be selected for a Teamwork template (#145938).
 - It is now possible to copy link to document from the document rollup information panel (#147490, #147010). 
-- Publishing channels can now be made mandatory for new pages. 
 - Identity picker can now differentiate between email enabled and Permission enabled groups.
 - The process property type now supports multiple values.
 - Additional data is now included in the Sign-off request export.
@@ -36,7 +37,23 @@ Improvements
 - Digital signage now support reusable Json mapping templates.
 - If using Draftable, the show changes button is now configurable per document type.
 - Selection list in rollups for business profile are now sorted alphabetically. 
-- 
+- Additional reviewers can now be added to the send for comments flow in ODM.
+- Multi level approval is now possible for pages. (See main release notes)
+- Open AI Integrations (See main release notes).
+- When saving filter state, if using classic paging, the page number is now remembered (#146197).
+- Its now possible to write to your user profile using an action button, this can be used to track for example completed courses.
+- All page rollups (except the calendar view) can now sort on Navigation.
+- Security trimmed teamwork rollups (See main release notes).
+- Media in pages now supports image caption.
+- The process rollup now supports metadata queries based on currently rendered process.
+- A process can now use properties of type media.
+- It is now possible to configure the Omnia MS Teams app using a custom domain.
+- Additional colour codes (Page Type and Page Workflow Status) are now possible for the page rollup calendar view.
+- Document rollup copy link feature now uses a web link.
+- A new add shapes UI with descriptions have been added to Process Management.
+- Fixed label "All Languages" it no longer has an incorrect comma.
+- It is now possible to move page collections across business profiles.
+- Enhancements to the audit log.
 
 
 Fixes
@@ -52,6 +69,10 @@ Fixes
 - WCAG: Related processes now uses actual anchor elements, allowing for browser functions to work as expected (#146686).
 - WCAG: Video description is now available to be set.
 - WCAG: Correct aria labels set for input fields for Comments, My links search and app posts.
+- WCAG: The document rollup now has correct tooltips if the value is cut (#140431).
+- WCAG: Block headers now render correct non interactive HTML (#149303).
+- WCAG: Search input field in the search block now has correct aria-label (#149303).
+- WCAG: The calendar page rollup view now has interactive days and its date picker is now compliant (#149437).
 - The org chart now displays all users if there are more than 100 on one level (#147538).
 - Mailto links can now be added as a related link (#143722).
 - Text styles now properly apply to bullet lists (#148259).
@@ -72,10 +93,41 @@ Fixes
 - Improved active tab rendering for small screens (#146318).
 - The dynamic roller page rollup view now allows for more text to be shown (#144992, #147721).
 - Page rollup settings no longer try to adjust View and query settings dependent of each other (#136304, #145096).
+- When pasting content into the RTF editor, the cursor is now placed correctly after the paste (#147276).
+- The properties block can now be configured to have the correct date format settings (#149615).
+- All blocks now hide correctly if they have no data to render (#145860).
+- Fixed a rendering issue in Process Management (#149872).
+- Fixed an issue with auto translation when using many images in the RTF content (#149437).
+- Fixed an issue with the padding setting of the task rollup.
+- A teamwork under approval can now have its fields edited as long as a naming policy based on users are not used (#147689, #146927).
+- Manual translation tools now work as expected for drafts.
+- OmniaVariationSegment is now updated as expected on resync to SharePoint.
+- Updates to the SharePoint User Profile sync instructions. 
+- Using the back button from advanced search now works as expected. 
+- Digital signage preview URL now uses the custom domain if configured.
+- Fixed an issue that would incorrectly hide blocks in edit mode when certain display breakpoints were set.
+- Publishing app default settings now use the correct enterprise property picker.
+- When trying to remove an enterprise property that is part of a property set, correct error feedback is now given.
 
 
-- Also fixes preview bugs (#149420, #148905, #148253).
 
+- Also fixes preview bugs (#149420, #148905, #148253, #150468, #149862).
+
+7.0.20
+========================================
+(Omnia 7.0.20 / Workplace 7.0.16 / WCM 7.0.20 / MS 7.0.16)
+
+- Fixed an issue that prevented xslx files to be uploaded when documents are stored in Omnia (#150117).
+- Fixed an issue that would sometimes cause the scroll arrows of OPM to not render correctly (#150075).
+- The create page button now correctly opens edit mode (#150201).
+- Fixed a targeting issue that would occur when a term set is deleted (#149570).
+- Localization of social dates are now correct for Swedish locale.
+- Fixed an issue with the page rollup calendar view when an event stretches over two months (#149970).
+- Several migration improvements (#149933, #149826).
+- Fixed an issue where pick pages would not work if the page rollup was added in the page type (#150142).
+- Corrected an issue with mail enabled groups for odm notifications (#149316).
+- Fixes to the page rollup padding settings (#149771).
+- Stability updates to token replace for controlled documents (#142753).
 
 
 7.0.16

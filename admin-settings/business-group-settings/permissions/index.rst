@@ -16,9 +16,11 @@ Note that every Business Profile has it's own Permissions list. Besides that, a 
 
 To add an administrator in any of the permissions lists, add the name the same way as in other name fields. To delete an administrator here, just click the x. 
 
-Single users, Security groups and Microsoft 365 groups can be added here (In Omnia on-prem, Microsoft 365 groups can't be used).
+Single users, Security groups and Microsoft 365 groups can be added here (In Omnia on-prem, Microsoft 365 groups can't be used). 
 
 Note that external users that has been invited in the Azure AD can be added here as well. Users invited this way can log in with their own Microsoft 365 account.
+
+**Note!** A user or a group must be permissions enabled do show up in the list.
 
 Administrators are added or removed the same way for Business Profile, Shared Links, Announcements and Search (just one field available). Here's the settings for Business profile as an example:
 
@@ -26,7 +28,7 @@ Administrators are added or removed the same way for Business Profile, Shared Li
 
 Options for Workspace
 -----------------------------
-The permission settings for Workspace are a bit different:
+The permission settings for Workspace are a bit different, but users and groups must be permissions enabled to show up in the list here as well.
 
 .. image:: permissions-workspace-new612.png
 

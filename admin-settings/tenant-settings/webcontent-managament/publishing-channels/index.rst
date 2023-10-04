@@ -64,6 +64,8 @@ The requests for that channel are then listed, for example:
 
 An e-mail is sent to the requester with information about the result.
 
+**General note**: For a user to be able to receive e-mails, the acccount must be e-mail enabled.
+
 More on how to use and work with channels
 ******************************************
 See these pages for more information:

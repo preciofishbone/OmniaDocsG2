@@ -80,6 +80,16 @@ A special case is the possibility to clone an existing teamwork, if that is made
 
 .. image:: team-collaboration-clone-v7.png
 
+Edit settings for a teamwork
+**********************************
+Using the action EDIT you can edit the settings for a teamwork. What can be edited can depend on the template used. Here's an example:
+
+.. image:: edit-teamwork.png
+
++ **Sharepoint Url**: The app instance connected site's Url can be edited here, if needed.
+
+For a description of the rest of the options, see above.
+
 Attach a teamwork site
 ************************
 Using this option you can attach any teamwork site (Sharepoint Team Site) to Omnia. When a teamwork is attached you can handle it through Omnia the same way as it was created through Omnia.
@@ -105,7 +115,7 @@ You can "detach" (delete) a site if needed. Then the following permissions are n
 + For an Omnia Teamwork app: app administrator permissions.
 + For a Sharepoint site: site owner or site collection administrator permissions.
 
-**Note!** What actually happens when you click the dust bin to delete a site, is that the site is detached. That is true for all teamwork sites, regardless of if they have been created in or attached to Omnia. When a site is detached, an e-mail is sent to the site owner(s).
+**Note!** What actually happens when you click the dust bin to delete a site, is that the site is detached. That is true for all teamwork sites, regardless of if they have been created in or attached to Omnia. When a site is detached, an e-mail is sent to the site owner(s). Note that, for a user to be able to receive e-mails, the acccount must be e-mail enabled.
 
 Edit App Route
 ****************
@@ -122,6 +132,8 @@ If you need to add or remove owners (administrators) or members for a teamwork, 
 .. image:: teamwork-app-premissions-v7.png
 
 Don't forget to save when you're done.
+
+**Note!** A user or a group must be permissions enabled to show up in the list.
 
 Edit Features
 ***************

@@ -22,7 +22,7 @@ What is different for a Microsoft 365 Team Group is the Setup step:
 .. image:: teamwork-settings-setup-365-v7.png
 
 + **Site Design**: Here templates can be available, templates made according to Microsoft's standard for Site Design. Such templates can be used in Omnia.  Not mandatory. If no such templates are available, the list is empty. For more information about Site Design, see this Microsoft page: https://docs.microsoft.com/en-us/sharepoint/dev/declarative-customization/site-design-overview
-+ **Languages**: Select language to be used for system texts in the site.
++ **Languages**: Select language to be used for system texts in the site. **Note!** Only languages available in Microsoft 365 can be selected here. That is what the list contains.
 + **User can select language**: Select this option to enable language selection by the user creating the site.
 + **Time Zones**: Select the correct time zone here.
 + **User can select time zone**: Select this option to enable time zone selection by the user creating the site.
@@ -36,7 +36,7 @@ For a Sharepoint Team Site, these settings are available for Setup:
 .. image:: teamwork-settings-setup-teamsite-v7.png
 
 + **Site Design**: Here templates can be available, templates made according to Microsoft's standard for Site Design. Such templates can be used in Omnia.  Not mandatory. If no such templates are available, the list is empty. For more information about Site Design, see this Microsoft page: https://docs.microsoft.com/en-us/sharepoint/dev/declarative-customization/site-design-overview
-+ **Languages**: Select language to be used for system texts in the site.
++ **Languages**: Select language to be used for system texts in the site. **Note!** Only languages available in Microsoft 365 can be selected here. That is what the list contains.
 + **User can select language**: Select this option to enable language selection by the user creating the site.
 + **Time Zones**: Select the correct time zone here.
 + **User can select time zone**: Select this option to enable time zone selection by the user creating the site.

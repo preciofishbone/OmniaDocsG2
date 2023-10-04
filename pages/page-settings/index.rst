@@ -156,15 +156,16 @@ Editor Navigation
 --------------------
 Use this setting to add options to the page menu, if nedded. On example is to add an option to make it poosible to work with controlled documents in a publishing app.
 
-Prerequisit: A publishing layout for the option to be used must have been created in Omnia Adnmin. For more information about how to work with publishing layouts, see: :doc:`Publishing Layouits </admin-settings/business-group-settings/publishing-apps/publishing-65/layoutindex>`
+Prerequisit: A publishing layout for the option to be used must have been created in Omnia Admin. For more information about how to work with publishing layouts, see: :doc:`Publishing Layouts </admin-settings/business-group-settings/publishing-apps/publishing-65/layoutindex>`
 
 Here's how to add a menu option:
+
 1. Click the plus to the right of "Editor Navigation".
 2. Use the following settings:
 
 .. image:: editor-navigation-settings.png
 
-+ **Layout**: Select lauyout here.
++ **Layout**: Select layout here.
 + **Title**: Add a title in any or several of the tenant languages. Click the flag to change language.
 + **Icon Type/Icon**: Add an icon if you wish by first selecting icon type.
 

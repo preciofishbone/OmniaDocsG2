@@ -13,6 +13,8 @@ Single users, Security groups and Microsoft 365 groups can be added here (In Omn
 
 External users that has been invited in the Azure AD can be added here as well. Users invited this way can log in with their own Microsoft 365 account.
 
+**Note!** A user or a group must be permissions enabled do show up in the list.
+
 .. image:: tenant-permissions-v7.png
 
 To delete an administrator in any of the lists, just click the x. To add an administrator, add the name the same way as in other name fields.
@@ -66,7 +68,7 @@ For more information on Azure AD Sync, see: :doc:`Azure AD Synchronization setti
 
 Azure OpenAI Text Completion Configuration
 --------------------------------------------
-To be able to use Open AI text functionality within Omnia, the tenant feature Omnia.OpenAI.ChatOpenAIPanel.TextCompletion must be activated. When that is done, an API key and an API base Url must be entered here.
+To be able to use OpenAI text functionality within Omnia, the tenant feature Omnia.OpenAI.ChatOpenAIPanel.TextCompletion must be activated. When that is done, an API key and an API base Url must be entered here.
 
 .. image:: azure-open-ai-secret.png
 

@@ -1,4 +1,4 @@
--Reports
+Reports
 ==========
 
 A number of reports are available for pages in the active Publishing App. Note that some settings must be made for the reports to work, see below.
@@ -69,13 +69,15 @@ Default is List View, as shown in the image above. You can also choose to see a 
 
 Analysis
 ***********
-In Omnia 7.1 and later, Open AI can be used for content analysis. If set up, this tab is available.
+In Omnia 7.1 and later, OpenAI can be used for content analysis. If set up, this tab is available.
 
-the first you will see is a list of already created analysis, if any. here's a simple example:
+**Note!** An analysis can only be executed on pages withing the active page collection.
+
+The first you will see is a list of already created analysis, if any. here's a simple example:
 
 .. image:: analysis-tab.png
 
-To remove an analysis that is no longer, click the dust bin, but rememeber that the report from the analysis can easily be updated, see below.
+To remove an analysis that is no longer needed, click the dust bin, but rememeber that the report from the analysis can easily be updated, see below.
 
 To read a report for the analysis, click the i-icon:
 
@@ -91,15 +93,13 @@ You can execute the analysis on the latest version of a page by clicking here, i
 
 Create a new analysis
 -----------------------
-To create a new analysis, click CREATE NEW ANALYSIS.
-
-Then, use the following settings:
+When you create a new analysis, the following settings are available:
 
 .. image:: analysis-new-settings.png
 
-+ **Content analysis**: A number of analysis to execute can be available in this list, they are set up in Omni Admin, see: :doc:`Content Analysis (Open AI) </admin-settings/tenant-settings/settings/open-ai/content-analysis/index>`
++ **Content analysis**: A number of analysis settings to execute can be available in this list. They are set up in Omni Admin, see: :doc:`Content Analysis (OpenAI) </admin-settings/tenant-settings/settings/open-ai/content-analysis/index>`
 + **Text properties**: Select one or more text properties to run the analysis on.
-+ **Pages to include in the report**: You must also choose one or more pages to run the analysis on. You can either pick pages, using the page picker, or use the query builder.
++ **Pages to include in the report**: You must also choose one or more pages to run the analysis on. You can either pick pages, using the page picker, or use the query builder. Either way, only pages belonging to the active page collection can be selected.
 
 If you select "Pick Pages", click ADD Page to start the page picker. For more information, see: :doc:`Page picker </general-assets/page-picker/index>`
 
@@ -107,7 +107,37 @@ If you select "Use Query Builder", the following is shown:
 
 .. image:: analysis-new-query.png
 
-(More information will be added soon.)
+Add the query this way:
+
+1. Choose "Dynamic" or the name of the page collection.
+2. If you chose "Dynamic", select a token.
+
+.. image:: analysis-new-query-token.png
+
+Note the description of the tokens in the column to the right.
+
+3. Click ADD.
+4. Repeat until all parts of the query is in place.
+
+If you happened to add a query part you don't want, just click the dust bin to remove it.
+
+5. Expand a query part for filter settings.
+
+.. image:: analysis-new-query-filter.png
+
+Doing so you can choose to run the query on specific pages only. Here's an example where the analysis should be executed for pages of the type "Knowledege article (Tenant)" only:
+
+.. image:: analysis-new-query-filtered.png
+
+You can add several filters the same way, if needed.
+
+6. Select status for the pages to be analyzed: Published, Never Published or Any status (meaning both).
+
+.. image:: analysis-new-query-status.png
+
+7. Click ADD PAGE to create the query and then SAVE to save the analysis.
+
+.. image:: analysis-new-query-save.png
 
 Settings for Reports
 *********************
