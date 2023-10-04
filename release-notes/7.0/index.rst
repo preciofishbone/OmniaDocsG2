@@ -169,7 +169,7 @@ Please find more information about Mediaflow here: https://www.mediaflow.com/.
 
 (Note! This feature requires a subscription to the Mediaflow service.)
 
-(7.1) Dall-E provider for Mediaflow 
+(7.1) Media provider for Dall-E 
 --------------------------------------------
 
 A new out-of-the-box media provider, that integrates with Dall-E (Azure Open AI), is now available in the media picker.
