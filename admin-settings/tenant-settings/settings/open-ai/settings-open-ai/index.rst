@@ -14,7 +14,7 @@ The following options are availble here:
 .. image:: settings-open-ai-completion.png
 
 + **AI Alias**: Add the label to be used in the UI here.
-+ **Deployment Name**: Add the name for the deploymeny you are using. 
++ **Deployment Name**: Add the name for the deployment you are using. 
 + **API Version**: Select tha appropriate API version here.
 
 Dall-E Configuration
