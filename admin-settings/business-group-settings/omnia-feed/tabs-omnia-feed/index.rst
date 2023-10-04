@@ -89,8 +89,6 @@ The following is available here:
 
 For the detailed options, read the options carefully. They should be self explanatory.
 
-**General note**: For a user to be able to receive e-mails, the acccount must be e-mail enabled.
-
 Link tab
 **********
 For Link tabs, the following settings are available:
