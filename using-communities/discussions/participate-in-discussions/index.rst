@@ -44,6 +44,4 @@ A mention is the @ sign and the colleagues name or e-mail address. Here are two 
 
 .. image:: discussion-comment-6.png
 
-**General note**: For a user to be able to receive e-mails, the acccount must be e-mail enabled.
-
 You can also like, share and tag a comment as Best Reply, see: :doc:`Like, Share and Best Reply for discussions </using-communities/discussions/like-share-bestreply/index>`
