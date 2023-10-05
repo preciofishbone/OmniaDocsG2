@@ -54,6 +54,7 @@ Improvements
 - Fixed label "All Languages" it no longer has an incorrect comma.
 - It is now possible to move page collections across business profiles.
 - Enhancements to the audit log.
+- Review interval in ODM can now be configured to use either approval or publish date (#144801).
 
 
 Fixes
