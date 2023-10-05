@@ -1,6 +1,6 @@
-7.1.0 - Draft
+7.1.0
 ========================================
-(Omnia 7.1.0 / Workplace 7.1.0 / WCM 7.1.0 / MS 7.1.0) 
+(Omnia 7.1.0 / Workplace 7.1.1 / WCM 7.1.0 / MS 7.1.0) 
 
 
 Improvements
