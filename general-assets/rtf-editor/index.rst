@@ -106,21 +106,17 @@ For a video, it's not possible to create a clickable link. The other three tools
 
 To create a clickable link, click the link tool shown on the image and use the Add link general asset to add the link, see: :doc:`Add Link </general-assets/add-link/index>`
 
-When you click the tool to set the image width, the the tool becomes two. Click the left one to set the width:
+When you click the tool to set the image width, the the tool becomes two. Click this one to set the width:
 
-.. image:: rtf-add-image-tools-width-1-new.png
+.. image:: rtf-add-image-tools-width-1-v7.png
 
 The following is shown:
 
-.. image:: rtf-add-image-tools-width-2-new.png
+.. image:: rtf-add-image-tools-width-2-v7.png
 
 Responsive width is the default, meaning the image fills the whole width of the RTF area in the block, with the height/width ratio intact. (This works the same for a video).
 
 You can also set an exact width in pixels by selecting "Fixed Width". 
-
-Here's an example with the image width set to 200 pixels:
-
-.. image:: rtf-add-image-tools-width-3-new.png
 
 Add an animated GIF
 ---------------------
