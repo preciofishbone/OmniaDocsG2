@@ -58,8 +58,6 @@ To edit or remove a link:
 1. select some of the clickable text for the link.
 2. Use the icons in the floating toolbar.
 
-.. image:: rtf-editor-all-link-edit-new.png
-
 Add link to an Enterprise term
 -------------------------------
 You may be able to add a link to an enterprise term, and by that use the Enterprise Glossary functionality.
@@ -68,7 +66,7 @@ Here's how to add such a link:
 
 1. Type the text as usual and when you type something that match a term in the Enterprise Glossary, it's highlighted.
 
-.. image:: rtf-editor-glossary-aware-highlight-new.png
+.. image:: rtf-editor-glossary-aware-highlight.png
 
 2. To add a link to that term (you don't have to), click the term and the following is shown:
 
