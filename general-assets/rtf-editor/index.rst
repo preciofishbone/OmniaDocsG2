@@ -9,7 +9,7 @@ For more information about the settings, see: :doc:`RTF Editor Settings </admin-
 
 Using the RTF Editor
 **********************
-Here's the options that may be available in the editor:
+Here's an example of the options that may be available in the editor:
 
 .. image:: rtf-editor-all-options-new.png
 
