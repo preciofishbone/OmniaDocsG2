@@ -95,14 +95,14 @@ The image/video area fills up the whole width (same width as the text), the heig
 
 .. image:: what-the-heck-v7.png
 
-From left to right (for a video):
+From left to right:
 
 + To create a clickable link on the image.
 + To edit the image in Media Picker.
 + To remove the image.
 + To set the width of the image.
 
-For a video, it's not possible to create a clickable link. The other three tools are availble.
+For a video, it's not possible to create a clickable link. The other three tools are availble for a video as well.
 
 To create a clickable link, click the link tool shown on the image and use the Add link general asset to add the link, see: :doc:`Add Link </general-assets/add-link/index>`
 
