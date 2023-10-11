@@ -40,7 +40,7 @@ This example only shows headings, but there are other styles available below. An
 
 Add link
 ----------
-Too add a link, do the following.
+To add a link, do the following.
 
 1. Click where the link should be added, or select some text that should the clickable text for the link.
 2. Click the icon in the toolbar at the top, or in the floating toolbar.
@@ -49,7 +49,7 @@ Too add a link, do the following.
 
 The Add Link general asset is shown. If you selected text, it's added to the Title field:
 
-.. image:: rtf-editor-all-link-title-v7-2.png
+.. image:: rtf-editor-all-link-title-v7.png
 
 See this page for more information: :doc:`Add Link </general-assets/add-link/index>`
 
