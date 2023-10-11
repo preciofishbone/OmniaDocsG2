@@ -1,6 +1,8 @@
 Editing text with the RTF Editor
 =====================================
 
+**This page is being edited.**
+
 When editing text in Omnia, a RTF editor can be available. What is available in the editor is set up in Omnia Admin, and in a few cases in the block itself.
 
 **Note!** Options available in the RTF Editor can differ a lot, depending on how it's set up. Not all options described below may be available.
@@ -32,7 +34,7 @@ A number of styles can be available. To add a style, do the following:
 1. Select the text.
 2. Open the Styles list and select style.
 
-.. image:: rtf-editor-all-style-new.png
+.. image:: rtf-editor-all-style-v7.png
 
 This example only shows headings, but any style can be added to this list in Omnia Admin (see link above).
 
