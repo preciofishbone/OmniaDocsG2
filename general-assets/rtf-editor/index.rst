@@ -11,19 +11,19 @@ For more information about the settings, see: :doc:`RTF Editor Settings </admin-
 
 Using the RTF Editor
 **********************
-Here's an example of the options that may be available in the editor:
+Here's all of the options that may be available in the editor, as of Omnia 7.1:
 
-.. image:: rtf-editor-all-options-v7.png
+.. image:: rtf-editor-all-options-v7-2.png
 
 There are two lists and a number of icons available. You use the flag to note the language for the text you're entering. 
 
 You point at an icon for a tool tip. Here's an example:
 
-.. image:: rtf-editor-all-tooltip-v7.png
+.. image:: rtf-editor-all-tooltip-v7-2.png
 
 Some options are also available as a floating toolbar, when text is selected, for example Add Link, Keep Text Only and OpenAI (if available):
 
-.. image:: rtf-editor-all-floating-v7.png
+.. image:: rtf-editor-all-floating-v7-2.png
 
 Se below for more information.
 
@@ -34,9 +34,9 @@ A number of styles can be available. To add a style, do the following:
 1. Select the text.
 2. Open the Styles list and select style.
 
-.. image:: rtf-editor-all-style-v7.png
+.. image:: rtf-editor-all-style-v7-2.png
 
-This example only shows headings, but any style can be added to this list in Omnia Admin (see link above).
+This example only shows headings, but there are other styles available below. Any style can be added to this list in Omnia Admin (see link above).
 
 Add link
 ----------
@@ -45,11 +45,11 @@ Too add a link, do the following.
 1. Click where the link should be added, or select some text that should the clickable text for the link.
 2. Click the icon in the toolbar at the top, or in the floating toolbar.
 
-.. image:: rtf-editor-all-link-v7.png
+.. image:: rtf-editor-all-link-v7-2.png
 
 The Add Link general asset is shown. If you selected text, it's added to the Title field:
 
-.. image:: rtf-editor-all-link-title-v7.png
+.. image:: rtf-editor-all-link-title-v7-2.png
 
 See this page for more information: :doc:`Add Link </general-assets/add-link/index>`
 
