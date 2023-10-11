@@ -240,6 +240,42 @@ Any language can be selected here. The languages set up in Omnia Admin are shown
 
 **Note!** You can use Ctrl-Z or just Discard Changes if you change your mind.
 
+Using OpenAI
+-----------------
+If available, you can use OpenAI to SUGGEST changes to the text, or maybe even to suggest the text for you.
+
+If OpenAI is available, you use the following icon to start tyhe option:
+
+.. image:: openai-icon.png
+
+If you select a part of the text, it's also available on the floating toolbar:
+
+.. image:: openai-icon-floating.png
+
+What is available here can differ greatly, depending how this option is set up in Omnia Admin, if available at all. Here's how to use it:
+
+1. Click the icon to process the whole text, or select part of the text and then click the icon to only process that part.
+2. Choose what to do.
+
+What is available here is fully up to administrators to set up in Omnia Admin. Here's an example:
+
+.. image:: openai-options.png
+
+3. Select option.
+4. Check OpenAIs suggestion and edit if needed (or cancel the whole suggestions with Ctrl-Z).
+
+If a Custom option is available (can be named something else) you can ask OpenAI to do more or less anything you like (with text that is).
+
+The chat window, which can be called sometging else, can look this way:
+
+.. image:: openai-chat.png
+
+You can ask OpenAI to do any changes to the text, or create new text, by using "normal" conversation. Just try it out, what will be saved is totally up to you.
+
+In this example the author was thinking about adding a section about the central railway station in Stockholm, but didn't know what it was called. So he simply asked OpenAI that.
+
+.. image:: openai-chat-example.png
+
 HTML
 ------
 If it's available, you can work with the HTML Code, if you know how. When you click the icon a separate window is opened, where you do your HTML work.
