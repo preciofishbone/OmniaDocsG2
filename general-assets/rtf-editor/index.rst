@@ -83,34 +83,26 @@ You can add an image or a video to the text. This is how:
 1. Click where the image or video should be added.
 2. Click the Media icon.
 
-.. image:: rtf-add-image-new.png
+.. image:: rtf-add-image-v7.png
 
 3. Use the Media Picker to add the image or video.
 
-.. image:: rtf-add-image-media-picker.png
+.. image:: rtf-add-image-media-picker-v7.png
 
 See this page for more information: :doc:`Media Picker </general-assets/media-picker/index>`
 
-The image/video area fills up the whole width (same width as the text), the height/width ratio intact. Some tools also becomes available on the image/video:
+The image/video area fills up the whole width (same width as the text), the height/width ratio intact. Some tools also becomes available. Here's an example for a photo:
 
-.. image:: what-the-heck.png
+.. image:: what-the-heck-v7.png
 
 From left to right (for a video):
 
-+ To edit the video in Media Picker.
-+ To remove the video.
-+ To set the video width.
-
-For an image, the tools are slightly different:
-
-.. image:: what-the-heck-2.png
-
-From left to right:
-
-+ To create a clickable link on the image (makes the whole image clickable).
++ To create a clickable link on the image.
 + To edit the image in Media Picker.
 + To remove the image.
-+ To set the image width.
++ To set the width of the image.
+
+For a video, it's not possible to create a clickable link. The other three tools are availble.
 
 To create a clickable link, click the link tool shown on the image and use the Add link general asset to add the link, see: :doc:`Add Link </general-assets/add-link/index>`
 
