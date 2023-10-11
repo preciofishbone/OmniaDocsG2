@@ -20,5 +20,5 @@ The following are available for a new prompt setting:
 + **Title**: Add a title for this setting, in any available tenant language (click the flag to change language).
 + **Prompt**: Add the text for the prompt here.
 + **Open chat dialog**: If the chat dialog should open, select this option. This can be useful for editors, as they can continue communcating with OpenAI to make addtional changes.
-+ **TRY OUT** You van try out the settings by clicking this button.
++ **TRY OUT** You can try out the settings by clicking this button.
 
