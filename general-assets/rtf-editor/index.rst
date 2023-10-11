@@ -122,37 +122,35 @@ Add an animated GIF
 ---------------------
 It can be possible to add an animated GIF to the RTF Editor, if settings allow it, using this icon:
 
-.. image:: rtf-animated-gif-icon.png
+.. image:: rtf-animated-gif-icon-v7.png
 
 1. click where the animated GIF should be placed.
 2. Click the icon.
 
 Something like the following is now shown:
 
-.. image:: rtf-animated-gif-select.png
+.. image:: rtf-animated-gif-select-v7.png
 
 3. Use the search field or just browse to find an animated GIF.
 4. Click the GIF to add it.
 5. Click the GIF in the RTF Editor, for editing options.
 
-Using the tools, you can add a clickable link, add an anchor name for the GIF, or remove the GIF:
+To remove an animated GIF, click it and click the dust bin shown.
 
-.. image:: rtf-animated-gif-tools.png
-
-For information about how to add a clickable link, see above under the heading "Add and edit Media". For information about anchors, se the heading "Add an anchor (bookmark)" below.
+You can also add a clickable link to the GIF, using the normal Link toll, see above under the heading "Add and edit Media". 
 
 Add an emoji
 ---------------------
 It can be possible to add an emoji to the RTF Editor, if settings allow it, using this icon:
 
-.. image:: rtf-emoticon-icon.png
+.. image:: rtf-emoticon-icon-v7.png
 
 1. click where the emoji should be placed.
 2. Click the icon.
 
 Something like the following is now shown:
 
-.. image:: rtf-emoticon-select.png
+.. image:: rtf-emoticon-select-v7.png
 
 3. Use the search field or just browse to find the emoji you want.
 4. Click the emoji to add it. (You can add more than one if you want to).
@@ -165,23 +163,23 @@ To add a table, do the following:
 1. click where the table should be placed.
 2. Click the Table icon.
 
-.. image:: rtf-editor-table-new.png
+.. image:: rtf-editor-table-v7.png
 
 3. Click somewhere in the table for more options.
 
 Something like the following now becomes available:
 
-.. image:: rtf-editor-table-edits-new.png
+.. image:: rtf-editor-table-edits-v7.png
 
 Most of these option you recognize from other applications, for example Microsoft Word.
 
 In the Table Styles list, a number of styles are available:
 
-.. image:: rtf-editor-table-edits-table-styles-new.png
+.. image:: rtf-editor-table-edits-table-styles-v7.png
 
 You can also style an individual cell using the icon to the far right.
 
-.. image:: rtf-editor-table-edits-cell-style-new.png
+.. image:: rtf-editor-table-edits-cell-style-v7.png
 
 Pasting text only
 -------------------
@@ -192,7 +190,7 @@ All style tags are removed. Default HTML styles is kept.
 1. Paste the text.
 2. Click the Keep text only icon.
 
-.. image:: rtf-editor-test-only-new.png
+.. image:: rtf-editor-test-only-v7.png
 
 You can also use this option on text you already have in the block. Just select the text and the option becomes available.
 
@@ -206,7 +204,7 @@ Images from the Word document are also pasted, if you select them. Note that thi
 
 Add an anchor (bookmark)
 ---------------------------
-Anchors can used in the Add Link general asset and when creating a link button using the Action button block. So, if you add an anchor (bookmark) to the text, links can be created to that anchor.
+Anchors can be used in the Add Link general asset and when creating a link button using the Action button block. So, if you add an anchor (bookmark) to the text, links can be created to that anchor.
 
 Here's how to add an anchor:
 
@@ -214,11 +212,11 @@ Here's how to add an anchor:
 2. Select the text where the anchor should be placed.
 3. Click the anchor icon.
 
-.. image:: anchor-icon-new.png
+.. image:: anchor-icon-v7.png
 
 4. Add an anchor name and save.
 
-.. image:: anchor-name-new.png
+.. image:: anchor-name-v7.png
 
 For more information about Add link, see: :doc:`Add link </general-assets/add-link/index>`
 
@@ -230,15 +228,15 @@ If the option is available you can machine translate the text in a block, this w
 
 1. Click the icon.
 
-.. image:: rtf-editor-machine-translation-new2.png
+.. image:: rtf-editor-machine-translation-v7.png
 
 2. Select the language to translate to.
 
-.. image:: machine-translation-select-language-new2.png
+.. image:: machine-translation-select-language-v7.png
 
 Any language can be selected here. The languages set up in Omnia Admin are shown at the top of the list. To select another language, select "Show all Languages" at the bottom of the list.
 
-.. image:: machine-translation-select-language-all.png
+.. image:: machine-translation-select-language-all-v7.png
 
 **Note!** You can use Ctrl-Z or just Discard Changes if you change your mind.
 
@@ -246,5 +244,5 @@ HTML
 ------
 If it's available, you can work with the HTML Code, if you know how. When you click the icon a separate window is opened, where you do your HTML work.
 
-.. image:: rtf-editor-html.png
+.. image:: rtf-editor-html-v7.png
 
