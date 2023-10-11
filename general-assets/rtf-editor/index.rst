@@ -17,11 +17,11 @@ There are two lists and a number of icons available. You use the flag to note th
 
 You point at an icon for a tool tip. Here's an example:
 
-.. image:: rtf-editor-all-tooltip-new.png
+.. image:: rtf-editor-all-tooltip-v7.png
 
-Some options are also available as a floating toolbar, when text is selected, for example Add Link and Keep Text Only:
+Some options are also available as a floating toolbar, when text is selected, for example Add Link, Keep Text Only and OpenAI (if available):
 
-.. image:: rtf-editor-all-floating-new.png
+.. image:: rtf-editor-all-floating-v7.png
 
 Se below for more information.
 
