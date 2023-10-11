@@ -55,7 +55,7 @@ See this page for more information: :doc:`Add Link </general-assets/add-link/ind
 
 To edit or remove a link:
 
-1. select some of the clickable text for the link.
+1. Select some of the clickable text for the link.
 2. Use the icons in the floating toolbar.
 
 Add link to an Enterprise term
