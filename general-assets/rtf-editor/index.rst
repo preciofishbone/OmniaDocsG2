@@ -11,7 +11,7 @@ Using the RTF Editor
 **********************
 Here's an example of the options that may be available in the editor:
 
-.. image:: rtf-editor-all-options-new.png
+.. image:: rtf-editor-all-options-v7.png
 
 There are two lists and a number of icons available. You use the flag to note the language for the text you're entering. 
 
