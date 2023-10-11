@@ -3,7 +3,7 @@ Content Analysis (OpenAI)
 
 This option is available in Omnia 7.1 and later.
 
-You can set up a number of sets for content analysis. Here's an example:
+You can set up a number of sets for content analysis, to be used by editors. Here's an example:
 
 .. image:: content-analysis.png
 
@@ -22,5 +22,5 @@ When creating a new analysis, the folliwing settings are available:
 + **Criteria to pass check**: Can be Yes or No.
 + **Default enterprise properties**: Select one or more properties here.
 + **Prompt fix**: You can add a prompt to ask OpenAI to fix something in the content, for example to fix the spelling.
-+ **TRY OUT** You van try out the settings by clicking this button.
++ **TRY OUT** You can try out the settings by clicking this button.
 
