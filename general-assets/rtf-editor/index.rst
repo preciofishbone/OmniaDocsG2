@@ -195,7 +195,7 @@ All style tags are removed. Default HTML styles is kept.
 You can also use this option on text you already have in the block. Just select the text and the option becomes available.
 
 Pasting contents from Microsoft Word
-*************************************
+-------------------------------------
 When pasting contents from a Microsoft Word document into a Rich Text field, some of the text formats can also be pasted. Headings are also regornized and the RTF Editor settings for these headings are applied. 
 
 Note that bold, underscore and headings are considered default HTML styles and will be kept, with the RTF Editor settings, even when pasting text only is selected.
