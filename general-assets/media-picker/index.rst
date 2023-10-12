@@ -129,9 +129,9 @@ In this part of Media Picker, you can add an Alt Text for the image and some inf
 
 Edit a page image in Write mode
 ************************************
-When editing a page image in write mode, allsettings described above are available and you can even add a caption:
+When editing a page image in write mode, all settings described above are available and you can even add a caption:
 
-.. image:: media-picker-image-settings-v7-edit-write.png
+.. image:: media-picker-image-settings-v7-edit-write-caption.png
 
 Don't forget to click OK to save the changes (or CLOSE to discard them).
 
