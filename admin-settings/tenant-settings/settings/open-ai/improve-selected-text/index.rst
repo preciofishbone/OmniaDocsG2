@@ -22,3 +22,5 @@ The following are available for a new prompt setting:
 + **Open chat dialog**: If the chat dialog should open, select this option. This can be useful for editors, as they can continue communcating with OpenAI to make addtional changes.
 + **TRY OUT** You can try out the settings by clicking this button.
 
+See the bottom of this page for information about how OpenAI can be used in the RTF editor: :doc:`Editing text with the RTF Editor </general-assets/rtf-editor/index>`
+
