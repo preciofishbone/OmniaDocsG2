@@ -59,7 +59,11 @@ Select the styles that should be available in the list.
 
 OpenAI
 ---------
-OpenAI can be made available here (in Omnia 7.1 and later), according to Omnia Admin settings. See this page for more information: :doc:`OpenAI (Admin settings) </admin-settings/tenant-settings/settings/open-ai/index>`
+OpenAI can be made available here (in Omnia 7.1 and later), according to Omnia Admin settings. 
+
+See this page for more information about the settings: :doc:`OpenAI (Admin settings) </admin-settings/tenant-settings/settings/open-ai/index>`
+
+See the bottom of this page for information about how OpenAI can be used in the RTF editor: :doc:`Editing text with the RTF Editor </general-assets/rtf-editor/index>`
 
 Reorder the options
 ---------------------
