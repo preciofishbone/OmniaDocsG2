@@ -176,6 +176,8 @@ When activating the OpenAI option, the following settings are available for this
 + **Text**: Likewise for text fields, select property to activate OpenAI functionality.
 + **Image**: Dall-E is an OpenAI option that can be activated (a feature needs to be activated) and are then available as an image provider in the Image Picker. Select the image property used to activate the functionality.
 
+See the bottom of this page for information about how OpenAI can be used in the RTF editor: :doc:`Editing text with the RTF Editor </general-assets/rtf-editor/index>`
+
 Saving Page Collection settings
 ********************************
 To save the changes to the Page Collection settings, you need to publish. You can't save a draft, even if that option is present. 
