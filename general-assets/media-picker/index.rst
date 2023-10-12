@@ -15,7 +15,7 @@ Central Media Bank
 *****************************************
 When you select a central media bank, the images there will be shown, for example:
 
-.. image:: media-picker-central-image-bank-v7.png
+.. image:: media-picker-central-image-bank-v7-frame.png
 
 Note the Search field at the top.
 
@@ -72,13 +72,13 @@ As an alternative, you can point at the image and select to download it (left ic
 
 .. image:: image-picke-dall-e-save.png
 
-Images that are too big
-************************
-If you select an image that is too big, a warning is shown and you can decide what to do. What is considered "too big" in your organization is set up in Omnia Admin, together with available choices.
+File size larger than recommended
+****************************************
+If you select an image that is too big, a warning is shown and you can decide what to do. What is considered "too big" in your organization is set up in Omnia Admin, together with available options.
 
 The message can look like this:
 
-.. image:: media-picker-too-big-612.png
+.. image:: media-picker-too-big-v7.png
 
 A desciption of the settings that can be made for Media Picker is found here: :doc:`Media Picker Settings </admin-settings/tenant-settings/settings/media-picker/index>`
 
@@ -88,11 +88,11 @@ Settings for an image
 ***********************
 When an image has been selected, the following settings can be made:
 
-.. image:: media-picker-image-settings-v6.png
+.. image:: media-picker-image-settings-v7.png
 
 To edit, point at the image and the following tools becomes available:
 
-.. image:: media-picker-image-settings-v6-tollbar.png
+.. image:: media-picker-image-settings-v7-toolbar.png
 
 Point at an icon in the toolbar and you'll see what it's for, from left to right: Crop, Flip, Filter and Reset.
 
@@ -109,13 +109,13 @@ Flip an image
 ---------------
 When you have select "Flip" in the toolbar, you can choose "Flip X" to flip sidewise, "Flip Y" to flip horisontrally and you reset using the icon to the right.
 
-.. image:: media-picker-image-settings-v6-flip.png
+.. image:: media-picker-image-settings-v7-flip.png
 
 Apply a filter on an image
 ---------------------------
 When you have selected "Filter" in the toolbar, the following becomes available:
 
-.. image:: media-picker-image-settings-v6-filter.png
+.. image:: media-picker-image-settings-v7-filter.png
 
 When you try out any of the filters you'll see a preview of the image.
 
