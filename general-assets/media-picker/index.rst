@@ -121,27 +121,19 @@ When you try out any of the filters you'll see a preview of the image.
 
 To go back to the original image, you can always click "Reset" in the toolbar.
 
-Image in rollups
--------------------
-In the right part of Media Picker you can edit which part of the image to display when (and if) it's used in different block rollups. You can set diferent parts for all three formats; Landscape, Square and Wide.
-
-.. image:: media-picker-image-settings-v6-rollups-new.png
-
-It works the same here as when you use Crop in the image toolbar.
-
 Information
 ------------
 In this part of Media Picker, you can add an Alt Text for the image and some information about the image is shown.
 
-.. image:: media-picker-image-settings-v6-info.png
+.. image:: media-picker-image-settings-v7-info.png
 
 Edit a page image in Write mode
 ************************************
-When editing a page image in write mode, the following is available in Media Picker:
+When editing a page image in write mode, allsettings described above are available and you can even add a caption:
 
-.. image:: media-picker-image-settings-v6-edit-write.png
+.. image:: media-picker-image-settings-v7-edit-write.png
 
-Point at the image and use the toolbar for editing, as described above. Click "OK" to save the changes, or "CLOSE" to discard them.
+Don't forget to click OK to save the changes (or CLOSE to discard them).
 
 Videos
 *******
