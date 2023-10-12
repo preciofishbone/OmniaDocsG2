@@ -5,33 +5,31 @@ The Media Picker can be used to add an image or a video to a block or to the pag
 
 When the Media picker starts, something like the following is shown:
 
-.. image:: media-picker-v6.png
-
-This is an example of how Media Picker will look when you're adding a new image. When editing an image, it looks slightly different, see below.
+.. image:: media-picker-v7.png
 
 My Computer
 *************
 Select "My Computer" to either paste an image from the clipboard or to browse for an image. (see image above.)
 
-Central Image Bank/Central Media Bank
+Central Media Bank
 *****************************************
-When you select a Central Image Bank, the images there will be shown, for example:
+When you select a central media bank, the images there will be shown, for example:
 
-.. image:: media-picker-central-image-bank-v6.png
+.. image:: media-picker-central-image-bank-v7.png
 
 Note the Search field at the top.
 
-To select an image, click it and the settings will be shown. Settings are the same for all images, see below.
+To select an image, open the folder if needed, click it and the settings will be shown. Settings are the same for all images, see below.
 
 Settings of image banks are made for each Business Profile. For more information see: :doc:`Central Image Location </admin-settings/business-group-settings/settings/central-image-location/index>`
 
-Videos can now be handled in Sharepoint media libraries and some video editing options, similar to those in Stream, has been added by Microsoft. For thatn reason, this option has been renamed **Central Media Bank**. Video editing has to be made in the Sharepoint library, not in the Media Picker.
+Note that videos can be handled in Sharepoint media libraries as well, and some Microsoft video editing options.
 
 Bing Search
 ***************
 When selecting "Bing Search" (if available) you can search for any Bing image, or use the predefined search categories, if any is set up. Bing search categories can be set up by an administrator in Omnia Admin.
 
-.. image:: media-picker-bing-search-v6.png
+.. image:: media-picker-bing-search-v7.png
 
 + **Search**: Free text search is available in this field. You must always type a search string here, before using any filters.
 + **Size**: If you just want to find images of a certain size, select size in this field: Small, Medium, Large or Wallpaper.
@@ -46,7 +44,7 @@ Pexels or other provider
 **************************
 Available search- or filtering fields depend on what the provider offer. For Pexels (if available), only a Search field is available:
 
-.. image:: media-picker-pexel-search-v6.png
+.. image:: media-picker-pexel-search-v7.png
 
 To select an image, click it and the settings will be shown. Settings are the same for all images, see below.
 
@@ -149,7 +147,7 @@ Videos
 *******
 To add a video, select one of the providers that are set up, for example your company's Microsoft 365 Stream, or YouTube.
 
-.. image:: media-picker-video-v6.png
+.. image:: media-picker-video-v7.png
 
 Here's how to add a video:
 
@@ -159,11 +157,12 @@ Here's how to add a video:
 
 Now the following settings are available:
 
-.. image:: media-picker-video-settings-v6.png
+.. image:: media-picker-video-settings-v7.png
 
 + **Start at**: If the video should not start at the beginning, set when it should start. Use the format minutes:seconds.
 + **Autoplay**: If the video should start automatically when a user opens the page, select this option.
 + **Mute**: To play the video without sound, select this option.
++ **Video information**: (Information will be added soon).
 
 **Note!** For videos that are stored in Sharepoint libraries, the settings for those videos are handled in the Sharepoint library.
 
