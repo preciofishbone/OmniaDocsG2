@@ -102,7 +102,7 @@ Crop an image
 -------------------
 Select the Crop tool and use the settings this way:
 
-+ **Landscape**, **Square** and "Portrait**: Click the preview and use the selection on the image to decide wich part of the image to show when it's used in landscape, square or portrait format.
++ **Landscape**, **Square** and **Portrait**: Click the preview and use the selection on the image to decide wich part of the image to show when it's used in landscape, square or portrait format.
 + **Custom**: Set a custom shape using the eight squares as handles. Just draw to the desired shape. When a custom image is used in a page image area the full width of the area is used and the height of the area is adapted.
 
 Flip an image
