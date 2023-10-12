@@ -52,6 +52,28 @@ To select an image, click it and the settings will be shown. Settings are the sa
 
 **Important Note!** All images from Pexels are always free to use, and edit.
 
+Using Dall-E to create images
+******************************
+If Dall-E is available, it can be used to create images in the Media Picker. Here's how to use it:
+
+1. Click Dall-E.
+
+.. image:: image-picke-dall-e.png
+
+2. Type a description of the image and click the button to the right:
+
+.. image:: image-picke-dall-e-type.png
+
+3. Click the image to add it to the media block or text block where you started.
+
+.. image:: image-picke-dall-e-save-2.png
+
+Now you can choose size and edit the image the normal way, see below.
+
+As an alternative, you can point at the image and select to download it (left icon) or scrap it and try another instruction (right icon).
+
+.. image:: image-picke-dall-e-save.png
+
 Images that are too big
 ************************
 If you select an image that is too big, a warning is shown and you can decide what to do. What is considered "too big" in your organization is set up in Omnia Admin, together with available choices.
