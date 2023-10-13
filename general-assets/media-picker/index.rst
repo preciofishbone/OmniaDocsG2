@@ -1,7 +1,7 @@
 Media Picker
 ===================
 
-The Media Picker can be used to add an image or a video to a block or to the page content. Any image on the editor's computer can be selected, as well as from any central image location registered in Omnia Admin. An image can be pasted from the clipboard as well. Besides that, additional providers can be set in Omnia Admin.
+The Media Picker can be used to add an image or a video to a block, or to the page content through the RTF Editor. Any image on the editor's computer can be selected, as well as from any central image location registered in Omnia Admin. An image can be pasted from the clipboard as well. Besides that, additional providers can be set in Omnia Admin.
 
 When the Media picker starts, something like the following is shown:
 
