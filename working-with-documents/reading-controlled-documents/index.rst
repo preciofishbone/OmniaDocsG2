@@ -25,5 +25,16 @@ Note the formatting options. Also note that the receiver of the feedback e-mail 
 
 Feedback can be accessed by all authors of a Controlled Documents library, using the Published tab.
 
+More information about a document
+************************************
+If available, you can click the i-icon for more information about a document.
 
+.. image:: document-i-icon.png
 
+Here's an example of information that can be available:
+
+.. image:: document-i-icon-example.png
+
+Note the options at the top, where you can go to document history for this document, copy the link to the document and go to the document library where the document is stored.
+
+The buttons at the bottom (UNPUBLISH AND CREATE DRAFT) are only available for authors of documents. If you don't have the appropriate permissions, they are not shown.
