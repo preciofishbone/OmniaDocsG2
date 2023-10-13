@@ -186,15 +186,15 @@ Calendar
 ---------
 The special settings for this view are:
 
++ **Start Date/End Date**: You can select a property for start date and a property for end date.
 + **Default Calendar Type**: Can be Month, Week or Day.
-+ **Default time**: Select a defaul time from the list.
 + **Enable Calendar Type Dropdown**: Makes it possible for users to select Month, Week or Day.
-+ **End date**: Select property to be used for end date.
++ **Default time**: Select a defaul time from the list.
++ **Include time**: Select this to display time for events in the calendar.
++ **Weekdays**: Select what is to be considered as work days in the calendar.
 + **Event color**: Use it to set specific color for events in the calendar.
 + **Event Height**: Use the slider to set height for the events in the calendar. See a preview in the block.
 + **Height**: Use the slider the set the height for the whole calendar. See a preview in the block.
-+ **Include time**: Select this to display time for events in the calendar.
-+ **Weekdays**: Select what should be shown as weekdays in the calendar.
 
 For general settings, see above.
 
