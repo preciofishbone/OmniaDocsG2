@@ -35,6 +35,6 @@ Here's an example of information that can be available:
 
 .. image:: document-i-icon-example.png
 
-Note the options at the top, where you can go to document history for this document, copy the link to the document and go to the document library where the document is stored.
+Note the options at the top, where you can go to document history for this document, copy the link to the document and go to the document library where the document is stored (if you permissions to do that).
 
 The buttons at the bottom (UNPUBLISH AND CREATE DRAFT) are only available for authors of documents. If you don't have the appropriate permissions, they are not shown.
