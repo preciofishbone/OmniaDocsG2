@@ -25,9 +25,9 @@ Settings of image banks are made for each Business Profile. For more information
 
 Note that videos can be handled in Sharepoint media libraries as well, and some Microsoft video editing options.
 
-Bing Search
-***************
-When selecting "Bing Search" (if available) you can search for any Bing image, or use the predefined search categories, if any is set up. Bing search categories can be set up by an administrator in Omnia Admin.
+Bing
+*******
+When selecting "Bing" (if available) you can search for any Bing image, or use the predefined search categories, if any is set up. Bing search categories can be set up by an administrator in Omnia Admin.
 
 .. image:: media-picker-bing-search-v7.png
 
