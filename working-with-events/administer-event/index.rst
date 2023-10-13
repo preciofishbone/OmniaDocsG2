@@ -53,3 +53,4 @@ You can send an e-mail to all participants by clicking this button:
 
 .. image:: event-editing-email-button.png
 
+The e-mail used is work e-mail.
