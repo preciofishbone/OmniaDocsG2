@@ -21,11 +21,25 @@ Settings
 **********
 The following settings are available for the block:
 
-.. image:: activity-feed-settings-new.png
+.. image:: activity-feed-settings-v7.png
+
+General
+----------
+Here, you can set the following:
+
+.. image:: block-activity-general.png
 
 + **Title**: You can add a title to be shown in the block. 
 + **Scope**: Select where the activities listed should come from: My Subscritions, the Publishing App or the Page Collection. See more information about the scope below.
 + **Item Limit**: Set the number of items to be shown in the list before a See more icon is shown (see above for an example). Default=10.
+
+Style
+-------
+Here, some style options are available for the block:
+
+.. image:: block-activity-style.png
+
++ **Custom card styling**: General block styling, that is the color and the like, are set in Omnia Admin. If you choose “Custom Card styling” you can edit a number of style settings specifcally for this block.
 + **Padding**: Set some padding between the block border and the list, if needed.
 
 More on Scope
