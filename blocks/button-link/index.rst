@@ -301,7 +301,7 @@ Style
 ******
 These Style settings are available here:
 
-.. image:: action-button-style-all.png
+.. image:: action-button-style-v7.png
 
 + **Grouping Type**: Here you can choose to group the buttons in the block, by selecting "Dropdown".
 + **Alignment**: Here you can set alignment for alla buttons in the block.
@@ -314,7 +314,7 @@ Write
 ******
 On this tab you decide if settings for the block (the buttons) should be available for editing in Write mode or not. 
 
-.. image:: action-button-write.png
+.. image:: action-button-write-v7.png
 
 Action Button order
 *********************
