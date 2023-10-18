@@ -145,6 +145,8 @@ Link
 ------
 Using this action a Link Action can be added, meaning a link can be opened:
 
+.. image:: action-button-links.png
+
 + **Url**: Type or paste the Url to go to when a user clicks the link. 
 + **Anchor Name**: Type the Anchor Name in this field to create a link to an anchor.
 + **Target**: Choose if the link should be opened in a new window, the current window, or in a dialog. 
@@ -156,7 +158,7 @@ For more information about how to work with, and link to anchors, see: :doc:`Usi
 
 My Links
 ---------
-Using this action the logged in users My Links can be shown.
+Using this action the logged in user's My Links can be shown.
 
 See this page for more information: :doc:`My Links </user-options/my-links/index>`
 
@@ -180,9 +182,17 @@ The settings here are used the same way as in the block, see: :doc:`The Notifica
 
 Omnia Admin
 -------------
-If you need to add the possibility to go to Omnia Admin, for those with the right permissons, you can add this Action Button.
+If you need to add the possibility to go to Omnia Admin through a button, for those with the right permissons, you can add it on any page through this block.
 
 (Only general settings are available, see above).
+
+Page feedback
+----------------
+This action makes it possible for a user to send feedback on a publishing page.
+
+The feedback will be sent to the page contact as an e-mail. 
+
+(Only general settings for the button are available, see above).
 
 Process Feedback
 ----------------------
@@ -206,7 +216,7 @@ You use these settings the same way as in the Search block. For more information
 
 Share
 --------
-Share can be available through the "Likes and Comments" block, but can also be added as an Action Button:
+Share can be available through the "Likes and Comments" block, but can also be added as an action button:
 
 .. image:: action-button-share.png
 
@@ -216,15 +226,15 @@ Share can be available through the "Likes and Comments" block, but can also be a
 
 Sign-off request
 -----------------
-Use this to add an Action button for Sign-off requests.
+Use this to add an action button for sign-off requests.
 
-.. image:: action-button-sign-off.png
+.. image:: action-button-sign-off-v7.png
 
-+ **Type**: You can choose between "Administration List", "End-user sign-off" and "Create New Request".
++ **Type**: You can choose between "List of Requested by me", "End-user sign-off" and "Create New Request".
 
-The Administration List displays all Sign-off requests the logged in administrator has sent, indicating what has happened so far. Here's an example:
+The "List of Requested by me" displays all sdign-off requests the logged in administrator has sent, indicating what has happened so far. Here's an example:
 
-.. image:: requests-admin-list-new.png
+.. image:: requests-admin-list-v7.png
 
 The colored dots indicates the number of answers: white for none, yellow for some and green for all that the request was sent to.
 
@@ -234,7 +244,7 @@ An "End-user sign-off" button is used to make it possible for users to sign-off 
 
 The purpose of "Create New Request" is to make it possible to create a new sign-off request on any page. When creating the button, select type of request that should be possible to create. The sign-off types are set up in Omnia Admin, see: :doc:`Sign-off Request types </admin-settings/tenant-settings/sign-off-requests-613/sign-off-types-613/index>`
 
-When a user clicks a Create New Request button, a new request can be created the same way as described on this page: :doc:`Requests </admin-settings/tenant-settings/sign-off-requests-613/sign-off-request-requests-613/index>`
+A new request can be created the same way as described on this page: :doc:`Requests </admin-settings/tenant-settings/sign-off-requests-613/sign-off-request-requests-613/index>`
 
 Strengthen Profile
 ----------------------
