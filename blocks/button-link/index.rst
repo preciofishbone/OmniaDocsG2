@@ -34,18 +34,19 @@ Settings
 ***********
 The following settings are available:
 
-.. image:: action-button-65-settings.png
+.. image:: action-button-v7-settings.png
 
 Add an Action Button
 ***********************
 Note that you can see a preview of the button/buttons in the block as you're working on it.
 
-To add an Action Button in this block, do the following:
+To add an action button in this block, do the following:
 
-1. Click ADD BUTTON.
+1. Open Actions.
+2. Click ADD BUTTON.
 2. Use the following settings:
 
-.. image:: action-button-65-settings-new.png
+.. image:: action-button-v7-settings-new.png
 
 General
 **********
@@ -54,7 +55,6 @@ Available settings differ depending on type of button chosen. The following sett
 + **Type**: Select type of button here. 
 + **Text**: Add text to be shown on the button. If variations exists for the page, you add text in the default language here. Other languages are handled by the variation. If no varations exists, you can add text in several languages here (click the flag to change language).
 + **Tool tip**: Add the tool tip text for the button here. (Same apply for variations as above.)
-+ **Alignment**: Select alignment of the button text here. Left is default.
 
 Add as Favourite
 ------------------
