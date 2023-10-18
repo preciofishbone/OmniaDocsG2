@@ -6,3 +6,5 @@ This is an instruction that may be needed for integration between Omnia and Shar
 .. image:: spfx-instruction-v7.png
 
 **Important note!** If running the tenant in monitoring mode, Omnia will not work inside SPFx as most options in Sharepoiny will not work.
+
+**Also note!**: Monitoring mode is Sharepoint online functionality. There's a lot of information available on Microsoft pages regarding how this works. Search for "Sharepoint monitoring mode".
