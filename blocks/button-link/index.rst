@@ -258,13 +258,28 @@ Subscribe
 -----------
 This action can be added to the menu in a community but can also be added as a button on a page for a community or a Publishing Channel, with these settings:
 
-.. image:: action-button-subscribe-new.png
+.. image:: action-button-subscribe-v7.png
 
 + **Unsubscribe Text**: A "Subscribe" button changes the text automatically when a user has clicked the button. Unsubscribe is suggested but you can change the text to something else.  
 + **Subscription Scope**: Select the scope here, meaning what the user actually subscribes to; the Page in a community (= all changes to the page, even comments and best reply for Knowledge pages), the Publishing App, meaing the Community app (= all new pages in the app, but not changes to existing pages) or the Page Collection for the community (= all new pages in the Page Collection, but not changes to existing pages). The Scope can also be a Publishing Channel.
 + **Publishing Channel**: If Publishing Channel was set as Scope, use this list to select channel.
 
 **Note!** Regardinf Publishing Apps - subscription is only meant to be used in communities. For more information, see: :doc:`Subscriptions in Communities </using-communities/subscriptions/index>`
+
+Teamwork navigation
+---------------------
+(A description will be added soon).
+
+Tutorial
+---------
+The purpose of this button is to add the possibility to open the turial for this page, if there is one. The button is not shown if there is no tutorial avauilable.
+
+(Only general settings for the button are available, see above).
+
+For more information about tutorials, see: 
+
++ :doc:`Tutorial </admin-settings/tenant-settings/tutorial/index>`
++ :doc:`Tutorial implementation exampl </admin-settings/tenant-settings/tutorial/tutorial-implementation/index>`
 
 Button Style
 *******************
