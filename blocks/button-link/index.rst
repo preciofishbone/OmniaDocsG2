@@ -44,7 +44,7 @@ To add an action button in this block, do the following:
 
 1. Open Actions.
 2. Click ADD BUTTON.
-2. Use the following settings:
+3. Use thesettings. Here's an example:
 
 .. image:: action-button-v7-settings-new.png
 
