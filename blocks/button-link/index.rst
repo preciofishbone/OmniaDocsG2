@@ -67,9 +67,13 @@ The purpose of this action is for the logged in user to add a Favourites link fo
 
 Add to my calendar
 --------------------
-Can be placed on any Omnia page. When a user clicks the button, an ics file for the page is created and downloaded to the users Download folder. The ics file can then be added to the user's calendar.
+Can be placed on any Omnia page. When a user clicks the button, an ics file for the page is created and downloaded to the users Download folder. The ics file can then be added to the user's calendar. For use with events, or for som other use.
 
-(Only general settings are available, see above).
+Settings specific for the button, which all are related to events, are the following:
+
+.. image:: action-button-my-calendar.png
+
+Select property to be used for a description and information on location, event start and end or for an all day event.
 
 Create App
 ------------
@@ -77,12 +81,11 @@ The purpose of this action is to make it possilble for users to create an Omnia 
 
 The following settings are available for this purpose (se above for the general ones):
 
-.. image:: action-button-create-app.png
+.. image:: action-button-create-app-v7.png
 
 + **Dialog position**: Select position for the dialog that will open; Center or Right.
 + **Select App definition**: Publishing, Community or Teamwork.
 + **Select Template to show**: When you have selected App Definition, here you select the template(s) that should be available. A list of all available templates for the definition is shown. You select one or more templates there.
-+ **Padding**: Add some padding in the block if needed.
 
 Create Document
 ----------------
@@ -96,22 +99,24 @@ Create Page
 -------------
 Using this button the action Create Page can be executed:
 
-.. image:: action-button-create-page.png
+.. image:: action-button-create-page-v7.png
 
-+ **Page Collection**: Select page collection to create the new page in.
++ **Publishing App**: Select publishing app to create the new page in.
++ **Set default value from current page**: (A description will be added soon)
 
 Event Management
 ------------------
 Using this type you can add buttons for Event Management Actions:
 
-.. image:: action-button-event-management.png
+.. image:: action-button-event-management-v7.png
 
-+ **Button Type**: Decide what this button will do; Sign Up, Sign Up Other, Add To Outlook or Cancel. 
++ **Button Type**: Decide what this button will do; Sign Up, Sign Up Other, Add To Outlook or Cancel:
 
 + Sign Up: Used by the logged in user to register for an event. 
 + Sign Up Other: Used by the logged in user to register others - colleagues or external partners - for an event.
 + Add To Outlook: In the case Event Management is set up to use a specific calendar, this button can be added to make it possible for users to add the event to their personal calendar.
-+ Cancel: Used by the logged in user to cancel the registration he or she has made in their own name, ie done by using the button "Sign Up". 
++ Cancel: Used by the logged in user to cancel the registration he or she has made in their own name, ie done by using the button "Sign Up".
++ Open Microsoft Teams Meeting meeting: (A description will be added sson).
 
 For more information about how the buttons work and more useful tips for Event Management, see: :doc:`Working with Events </working-with-events/index>`
 
