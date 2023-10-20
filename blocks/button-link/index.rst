@@ -116,7 +116,7 @@ Using this type you can add buttons for Event Management Actions:
 + Sign Up Other: Used by the logged in user to register others - colleagues or external partners - for an event.
 + Add To Outlook: In the case Event Management is set up to use a specific calendar, this button can be added to make it possible for users to add the event to their personal calendar.
 + Cancel: Used by the logged in user to cancel the registration he or she has made in their own name, ie done by using the button "Sign Up".
-+ Open Microsoft Teams Meeting meeting: (A description will be added sson).
++ Open Microsoft Teams Meeting meeting: If a Teams Meeting was created when the event was created, this button can be used to open that meeting. If no meeting has been created this option has no effect.
 
 For more information about how the buttons work and more useful tips for Event Management, see: :doc:`Working with Events </working-with-events/index>`
 
