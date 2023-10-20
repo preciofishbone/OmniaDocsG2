@@ -21,6 +21,7 @@ The following actions are available to add as a button:
 + My Subscriptions
 + Notification Panel
 + Omnia Admin
++ Page Feedback
 + Process Feedback
 + Quick Search
 + Share
@@ -190,7 +191,7 @@ Page feedback
 ----------------
 This action makes it possible for a user to send feedback on a publishing page.
 
-The feedback will be sent to the page contact as an e-mail. 
+Who the feedback is sent to is set in settings for the page, for example the page contact. 
 
 (Only general settings for the button are available, see above).
 
