@@ -1,7 +1,7 @@
 Banner
 ===========================================
 
-Using the Banner block an editor can add banners to a web page.
+Using the Banner block an editor can add banners to a publishing page.
 
 .. image:: banners-new.png
 
