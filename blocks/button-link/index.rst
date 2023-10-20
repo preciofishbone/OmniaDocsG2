@@ -248,7 +248,7 @@ A new request can be created the same way as described on this page: :doc:`Reque
 
 Strengthen Profile
 ----------------------
-Strengthen profile can be available as a block (Profile Completion) or available in the Action Menu. It can also be added as an Action Button.
+Strengthen profile can be available as a block (Profile completion) or available in the Action Menu. It can also be added as an Action Button.
 
 It works the same way as in the Profile Completion block: :doc:`The Profile Completion block </blocks/user-profile-completion/index>`
 
@@ -264,22 +264,18 @@ This action can be added to the menu in a community but can also be added as a b
 + **Subscription Scope**: Select the scope here, meaning what the user actually subscribes to; the Page in a community (= all changes to the page, even comments and best reply for Knowledge pages), the Publishing App, meaing the Community app (= all new pages in the app, but not changes to existing pages) or the Page Collection for the community (= all new pages in the Page Collection, but not changes to existing pages). The Scope can also be a Publishing Channel.
 + **Publishing Channel**: If Publishing Channel was set as Scope, use this list to select channel.
 
-**Note!** Regardinf Publishing Apps - subscription is only meant to be used in communities. For more information, see: :doc:`Subscriptions in Communities </using-communities/subscriptions/index>`
+**Note!** Regarding Publishing Apps - subscription is only meant to be used in communities. For more information, see: :doc:`Subscriptions in Communities </using-communities/subscriptions/index>`
 
 Teamwork navigation
 ---------------------
-**(This part of the page is being edited, will be finished soon.)**
-
-The purpose of this button is to create a teamwork navigation, like the one that can be availble from the header.
+The purpose of this button is to create a teamwork navigation, like the one that can be availble from the workspace header.
 
 .. image:: teamwork-navigation-button-all.png
 
-You can add Categories (tabs) to display and you can work with a number of details for what is actually shown under each category. Using the option "Create Teamwork" you can edit the settings for what is to be displayed regarding Show Create New Site, and if that option should be available for users at all.
+You can add categories (tabs) to display and you can work with a number of details for what is actually shown under each category. Using the option "Create Teamwork" you can decide if it should be possible to create an app from here, and how it will work in that case.
 
 Note that a category is basically a team collaboration rollup, so if you think along this line when you edit the settings for a category, you're on the right track.
 
-Categories
-''''''''''''
 You can add categories this way:
 
 + Click ADD.
@@ -290,15 +286,11 @@ The following settings are available:
 
 These are the same settings as used when editing header settings for workspace. See the heading "Teamwork Navigation - additional settings" on this page for more information: :doc:`Header for workspace </admin-settings/business-group-settings/workplace/header/index>`
 
-Direct link test - :doc:`Teamwork Navigation - additional settings </admin-settings/business-group-settings/workplace/header/index.html#header-for-workspace>`
-
-Create Teamwork
-''''''''''''''''''
-The following is available here:
+The following is available under "Create Teamwork":
 
 .. image:: teamwork-navigation-button-add-create-v7.png
 
-+ **Show Create New Site**: If it should not be possible to create a new site here, deselect this option. Note that the default is selected.
++ **Show Create new site**: If it should not be possible to create a new site here, deselect this option. Note that the default for this option is selected.
 
 When the above option is selected, the following settings are available:
 
@@ -307,11 +299,11 @@ When the above option is selected, the following settings are available:
 + **Select app definition**: Choose the kind of app that should be possible to create here: Publishing, Community or Teamwork.
 + **Select template**: Select one or more templates that should be availble to chose from when creating the app. The templates are set up in Omnia Admin and different templates will be available depending on app definintion selected.
 
-You work with the settings here the same way as in the Create App Block so additional information kan be found there: :doc:`The Create App block </blocks/create-app/index>`
+You work with the settings here the same way as in the Create app block so additional information kan be found there: :doc:`The Create App block </blocks/create-app/index>`
 
 Tutorial
 ---------
-The purpose of this button is to add the possibility to open the turial for this page, if there is one. The button is not shown if there is no tutorial avauilable.
+The purpose of this button is to add the possibility to open the tutorial for this page, if there is one. The button is not shown if there is no tutorial available.
 
 (Only general settings for the button are available, see above).
 
