@@ -295,7 +295,7 @@ The following is available under "Create Teamwork":
 When the above option is selected, the following settings are available:
 
 + **Label**: You can add another label (ina any tenant language, click the flag) for the option if needed.
-+ **Link**: (A description will be added soon).
++ **Link**: If Omnia default settings are used, this field should be empty. If this link should other an other page than defaul, add the link here.
 + **Select app definition**: Choose the kind of app that should be possible to create here: Publishing, Community or Teamwork.
 + **Select template**: Select one or more templates that should be availble to chose from when creating the app. The templates are set up in Omnia Admin and different templates will be available depending on app definition selected.
 
