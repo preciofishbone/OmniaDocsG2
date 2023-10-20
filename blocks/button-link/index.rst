@@ -318,7 +318,7 @@ The purpose of this button is to add the possibility to open the turial for this
 For more information about tutorials, see: 
 
 + :doc:`Tutorial </admin-settings/tenant-settings/tutorial/index>`
-+ :doc:`Tutorial implementation exampl </admin-settings/tenant-settings/tutorial/tutorial-implementation/index>`
++ :doc:`Tutorial implementation example </admin-settings/tenant-settings/tutorial/tutorial-implementation/index>`
 
 Button Style
 *******************
