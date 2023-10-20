@@ -268,7 +268,46 @@ This action can be added to the menu in a community but can also be added as a b
 
 Teamwork navigation
 ---------------------
-(A description will be added soon).
+**(This part of the page is being edited, will be finished soon.)**
+
+The purpose of this button is to create a teamwork navigation, like the one that can be availble from the header.
+
+.. image:: teamwork-navigation-button-all.png
+
+You can add Categories (tabs) to display and you can work with a number of details for what is actually shown under each category. Using the option "Create Teamwork" you can edit the settings for what is to be displayed regarding Show Create New Site, and if that option should be available for users at all.
+
+Note that a category is basically a team collaboration rollup, so if you think along this line when you edit the settings for a category, you're on the right track.
+
+Categories
+''''''''''''
+You can add categories this way:
+
++ Click ADD.
+
+The following settings are available:
+
+.. image:: teamwork-navigation-button-add-settings-v7.png
+
+These are the same settings as used when editing header settings for workspace. See the heading "Teamwork Navigation - additional settings" on this page for more information: :doc:`Header for workspace </admin-settings/business-group-settings/workplace/header/index>`
+
+Direct link test - :doc:`Teamwork Navigation - additional settings </admin-settings/business-group-settings/workplace/header/index.html#header-for-workspace>`
+
+Create Teamwork
+''''''''''''''''''
+The following is available here:
+
+.. image:: teamwork-navigation-button-add-create-v7.png
+
++ **Show Create New Site**: If it should not be possible to create a new site here, deselect this option. Note that the default is selected.
+
+When the above option is selected, the following settings are available:
+
++ **Label**: You can add another label (ina any tenant language, click the flag) for the option if needed.
++ **Link**: (A description will be added soon).
++ **Select app definition**: Choose the kind of app that should be possible to create here: Publishing, Community or Teamwork.
++ **Select template**: Select one or more templates that should be availble to chose from when creating the app. The templates are set up in Omnia Admin and different templates will be available depending on app definintion selected.
+
+You work with the settings here the same way as in the Create App Block so additional information kan be found there: :doc:`The Create App block </blocks/create-app/index>`
 
 Tutorial
 ---------
