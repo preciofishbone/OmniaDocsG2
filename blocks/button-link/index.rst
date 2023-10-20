@@ -297,7 +297,7 @@ When the above option is selected, the following settings are available:
 + **Label**: You can add another label (ina any tenant language, click the flag) for the option if needed.
 + **Link**: (A description will be added soon).
 + **Select app definition**: Choose the kind of app that should be possible to create here: Publishing, Community or Teamwork.
-+ **Select template**: Select one or more templates that should be availble to chose from when creating the app. The templates are set up in Omnia Admin and different templates will be available depending on app definintion selected.
++ **Select template**: Select one or more templates that should be availble to chose from when creating the app. The templates are set up in Omnia Admin and different templates will be available depending on app definition selected.
 
 You work with the settings here the same way as in the Create app block so additional information kan be found there: :doc:`The Create App block </blocks/create-app/index>`
 
