@@ -17,6 +17,7 @@ In this part of the documentation you will find information concerning how to wo
    language-versions-of-a-page/index
    edit-page-variations/index
    publish-page-changes/index
+   send-page-as-email/index
    reusable-content/index
    automatic-page-creation/index
    version-history/index
