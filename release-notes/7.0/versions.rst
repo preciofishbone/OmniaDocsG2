@@ -7,9 +7,14 @@
 - Fixed an issue that would prevent the configuration of styles in the RTF editor.
 - Fixed an issue that prevented App Instances to be provisioned via an extension identity.
 - Several stability improvements to the 6.13 to 7.1 upgrade.
-- Improved stability of the multi step page approval flow.
+- Improved stability of the multi-step page approval flow.
 - Corrected the breadcrumb navigation behaviour when viewing a process from the process rollup (#150794).
 - Navigation between link nodes in the WCM editor now works as expected.
+- Corrected a display issue of event management settings when the user has been removed (#150876).
+- Performance improvement to the page rollup.
+- Fixed an issue in controlled documents that would sometimes prevent the approval when using a group (#151070).
+- Corrected paging of related documents in process management (#150999).
+- Corrected behaviour of the process management change comment (#150981).
 
 
 7.1.0
