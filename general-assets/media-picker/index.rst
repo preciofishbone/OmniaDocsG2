@@ -154,7 +154,7 @@ Now the following settings are available:
 + **Start at**: If the video should not start at the beginning, set when it should start. Use the format minutes:seconds.
 + **Autoplay**: If the video should start automatically when a user opens the page, select this option.
 + **Mute**: To play the video without sound, select this option.
-+ **Video information**: (Information will be added soon).
++ **Video information**: You can add an Alt text for the video here. Note that not all types of videos can display an Alt text.
 
 **Note!** For videos that are stored in Sharepoint libraries, the settings for those videos are handled in the Sharepoint library.
 
