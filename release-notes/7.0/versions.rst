@@ -1,3 +1,17 @@
+7.1.9
+========================================
+(Omnia 7.1.9 / Workplace 7.1.3 / WCM 7.1.5 / MS 7.1.3)
+
+- Fixed an issue that caused page rollup paging to not update images correctly (#151215).
+- The M365 app launcher have an updated name to go to the M365 home (#151134).
+- Fixed an issue that would prevent the configuration of styles in the RTF editor.
+- Fixed an issue that prevented App Instances to be provisioned via an extension identity.
+- Several stability improvements to the 6.13 to 7.1 upgrade.
+- Improved stability of the multi step page approval flow.
+- Corrected the breadcrumb navigation behaviour when viewing a process from the process rollup (#150794).
+- Navigation between link nodes in the WCM editor now works as expected.
+
+
 7.1.0
 ========================================
 (Omnia 7.1.0 / Workplace 7.1.1 / WCM 7.1.0 / MS 7.1.0) 
