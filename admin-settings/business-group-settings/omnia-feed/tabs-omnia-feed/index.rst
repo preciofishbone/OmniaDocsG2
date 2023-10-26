@@ -68,7 +68,7 @@ Display settings
 -----------------
 The following settings are available here:
 
-.. image:: omnia-feed-tabs-query-display-v7.png
+.. image:: omnia-feed-tabs-query-display-v7-frame.png
 
 Use "Tab View Settings" for settings for the tab itself. Use "Detail View Settings" for objects opened in the tab. What you do in both cases is to select properties in Omnia that contain the information needed. Note that properties must have been set up in Omnia Admin to be available to select here, see: :doc:`Properties </admin-settings/tenant-settings/properties/index>`
 
