@@ -57,14 +57,12 @@ Here you set up the query for the tab.
 
 .. image:: omnia-feed-tabs-query-query-v7.png
 
-+ **Scope**: Select scope and then set the details similar to what you do in any Page Rollup. Can be "Tenant", "Business Profiles", "Publishing Apps" or "Page Collections". Regarding business profiles, publising apps and page collections, you can add one or more page collections or one or more. For tenant settings, see below.
++ **Scope**: Select scope and then set the details similar to what you do in any Page Rollup. Can be "Tenant", "Business Profiles", "Publishing Apps" or "Page Collections". Regarding business profiles, publising apps and page collections, you can add one or more. For tenant settings, see below.
 + **Sign Off Requests**: This option can be available depending on setup. You can choose to show sign off requests for the scope and if you do that, you can choose to hide finished requests.
 
 When you select Tenant as the scope, you select "Title Format" and can then add a filter using one or more properties.
 
-.. image:: omnia-feed-tabs-query-query-tenant.png
-
-**Note!** here you can, for example, add channels.
+**Note!** here you can, for example, add channels to the rollup.
 
 Display settings
 -----------------
