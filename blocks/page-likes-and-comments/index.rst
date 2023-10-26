@@ -9,7 +9,7 @@ It is possible for the end user to edit and delete a comment, made by the user, 
 
 .. image:: comments-and-likes-pen-new2.png
 
-When a comment is deleted it works this way: If there are no answers to the comment it will just be removed. If there are answers, the  comment will be replaced with a text that states that it has been deleted and by whom. Everyone can delete their own comments. A Site Collection administrator can delete any comment. 
+When a comment is deleted it works this way: If there are no answers to the comment it will just be removed. If there are answers, the  comment will be replaced with a text that states that it has been deleted and by whom. Everyone can delete their own comments. A publishing app administrator can delete any comment. 
 
 Turning the options on or off
 -------------------------------
