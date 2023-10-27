@@ -1,9 +1,11 @@
 Header for Workspace
 ==========================
 
+**This page is being edited. Will be finished soon.**
+
 Here you can edit header settings for the Business Profile's Workspace.
 
-.. image:: workplace-header-new.png
+.. image:: workplace-header-v7.png
 
 Style
 ********
@@ -42,50 +44,6 @@ Under Search, the following is available:
 + **Search Box on Header**: If a search box should be available in the header, select this option.
 + **Default Search Box text to Query string**: Available when the option above is selected. For advanced search implementations. With this option active you can add parameters to the search query string, for various implementations.
 + **Inherit Business Profile settings**: This regards settings for Quick Search and Advanced search. If you would like to use the Business Profile Search setttings, keep this option selected. If you would like to set specific settings, deselect and use the settings shown. They work the same ways as the settings for the Search block, see: :doc:`Search block settings </blocks/search/index>`
-
-Classic Mega Menu
-*******************
-These settings are available when “Classic Action Menu & Mega Menu” is selected for the Business profile. 
-
-.. image:: workplace-header-classic-mega-menu-new.png
-
-Query
-----------
-Here you set the following:
-
-.. image:: workplace-header-classic-mega-menu-query.png
-
-Use these settings to create a Classic Mega Menu. Click ADD QUERY to start Page Picker to select part of (or the whole) the navigation tree for a Page Collection.
-
-You can use the icon to the left to the left to edit the order and the x to delete.
-
-Don't forget to save when you're done.
-
-For more information about the Page Picker, see: :doc:`The Page Picker </general-assets/page-picker/index>`
-
-Display
-------------
-For Display, the following settings are available:
-
-.. image:: workplace-header-classic-mega-menu-display-border.png
-
-+ **Level 1 etc**: Here you can set styles for the different levels. To add style for an additional level, click ADD STYLE. See below for available Style settings.
-
-The rest of the settings are the same as in the Mega Menu block, see: :doc:`The Mega Menu block </blocks/mega-menu/index>`
-
-These are the Style settings available for a level:
-
-.. image:: workplace-header-classic-mega-menu-display-level.png
-
-Classic Action Menu
-**********************
-These settings are available when “Classic Action Menu & Mega Menu” is selected for the Business profile. 
-
-.. image:: workplace-header-classic-action-menu.png
-
-+ **Components**: This column lists the Components that can be displayed in the Action Menu. "My Teams" and "Notification Panel" has additional settings, see below.
-+ **Display**: You can decide which Components to display, and how: "Pinned" - is default, an Icon will be displayed; "Hidden" - if you don't want the Component to be available; "Menu" - if you want to display the Component in the menu (the three standing dots) instead as an Icon.
-+ **Order**:  You can decide the order for the Components you're displaying, from left to right.
 
 Teamwork Navigation - additional settings
 *******************************************
