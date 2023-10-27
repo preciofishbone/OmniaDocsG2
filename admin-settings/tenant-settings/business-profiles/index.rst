@@ -1,6 +1,8 @@
 Business Profiles
 ===========================================
 
+**This page is being edited. Will be finsished soon.**
+
 Within a Tenant several Business Profiles can be used, for different settings, for different areas of the Tenant. Even if you will have the same settings everywhere in the Tenant, you still need at least one Business Profile, to set, for example, Themes (Colors) and Content Header Settings.
 
 Settings for Teamwork, the Notification Panel, Search, Event Management, Worspace and App Templates are also found among the Business Profile settings, to just mention som of the settings for a Business Profile.
@@ -54,4 +56,58 @@ When you select "Use Custom Home Url", the following is available:
 .. image:: business-profile-add-custom-v7.png
 
 Set the default home Url (the globe). You can also set a Url for the link when it’s clicked in Teams (not applicable in Omnia on-prem).
+
+Edit a business profile
+**************************
+There is one option available only when editing a business profile:
+
+.. image:: business-profile-edit.png
+
++ **Classic Mega Menu & Action Menu**: If you for some reason would like to use (more likely continue using) the older classic mega menu and action menu, select this option. In that case, you should do that directly after creating the business profile.
+
+When this option is selected, the following information is found in the Workspace menu:
+
+.. image:: Classic-info.png
+
+There are also settings available for the workspace header:
+
+.. image: business-profile-classic.png
+
+Classic Mega Menu settings
+*******************************
+These settings are available when “Classic Action Menu & Mega Menu” is selected for the Business profile. 
+
+.. image:: workplace-header-classic-mega-menu-v7.png
+
+Query
+----------
+Here you set the following:
+
+.. image:: workplace-header-classic-mega-menu-query-v7.png
+
+Use these settings to create a Classic Mega Menu. Click ADD FILTER to start Page Picker to select part of (or the whole) the navigation tree for a Page Collection.
+
+You can use the icon to the left to the left to edit the order and the x to delete.
+
+Don't forget to save when you're done.
+
+For more information about the Page Picker, see: :doc:`The Page Picker </general-assets/page-picker/index>`
+
+Display
+------------
+For Display, the following settings are available:
+
+.. image:: workplace-header-classic-mega-menu-display-v7.png
+
+These settings are the same as in the Mega Menu block, see: :doc:`The Mega Menu block </blocks/mega-menu/index>`
+
+Classic Action Menu settings
+********************************
+These settings are available when “Classic Action Menu & Mega Menu” is selected for the Business profile. 
+
+.. image:: workplace-header-classic-action-menu-v7.png
+
++ **Components**: This column lists the Components that can be displayed in the Action Menu. "My Teams" and "Notification Panel" has additional settings, see below.
++ **Display**: You can decide which Components to display, and how: "Pinned" - is default, an Icon will be displayed; "Hidden" - if you don't want the Component to be available; "Menu" - if you want to display the Component in the menu (the three standing dots) instead as an Icon.
++ **Order**:  You can decide the order for the Components you're displaying, from left to right.
 
