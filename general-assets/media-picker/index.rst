@@ -88,7 +88,7 @@ Settings for an image
 ***********************
 When an image has been selected, the following settings can be made:
 
-.. image:: media-picker-image-settings-v7.png
+.. image:: media-picker-image-settings-v7-new.png
 
 To edit, point at the image and the following tools becomes available:
 
@@ -123,17 +123,9 @@ To go back to the original image, you can always click "Reset" in the toolbar.
 
 Information
 ------------
-In this part of Media Picker, you can add an Alt Text for the image and some information about the image is shown.
+To the right in the Media Picker, you can add an Alt Text for and a caption for the image and some information about the image is shown.
 
-.. image:: media-picker-image-settings-v7-info.png
-
-Edit a page image in Write mode
-************************************
-When editing a page image in write mode, all settings described above are available and you can even add a caption:
-
-.. image:: media-picker-image-settings-v7-edit-write-caption.png
-
-Don't forget to click OK to save the changes (or CLOSE to discard them).
+.. image:: media-picker-image-settings-v7-info-new.png
 
 Videos
 *******
@@ -149,12 +141,12 @@ Here's how to add a video:
 
 Now the following settings are available:
 
-.. image:: media-picker-video-settings-v7.png
+.. image:: media-picker-video-settings-v7-new.png
 
 + **Start at**: If the video should not start at the beginning, set when it should start. Use the format minutes:seconds.
 + **Autoplay**: If the video should start automatically when a user opens the page, select this option.
 + **Mute**: To play the video without sound, select this option.
-+ **Video information**: You can add an Alt text for the video here. Note that not all types of videos can display an Alt text.
++ **Video information**: You can add an Alt text for the video and a caption here. Note that not all types of videos can display an Alt text.
 
 **Note!** For videos that are stored in Sharepoint libraries, the settings for those videos are handled in the Sharepoint library.
 
