@@ -1,8 +1,6 @@
 Header for Workspace
 ==========================
 
-**This page is being edited. Will be finished soon.**
-
 Here you can edit header settings for the Business Profile's Workspace.
 
 .. image:: workplace-header-v7.png
