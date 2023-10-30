@@ -9,7 +9,7 @@ Style
 *********
 Set Background Color and Text Color here.
 
-.. image:: tenant-header-settings-v7.png
+.. image:: tenant-header-settings-v7-frame.png
 
 App Launcher
 ***************
