@@ -123,7 +123,7 @@ To go back to the original image, you can always click "Reset" in the toolbar.
 
 Information
 ------------
-To the right in the Media Picker, you can add an Alt Text for and a caption for the image and some information about the image is shown.
+To the right in the Media Picker, you can add an Alt Text and a caption for the image. Some information about the image is also shown.
 
 .. image:: media-picker-image-settings-v7-info-new.png
 
