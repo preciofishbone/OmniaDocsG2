@@ -62,9 +62,9 @@ The requests for that channel are then listed, for example:
 2. Click the link for a page you want to check. The page is opened in a new tab.
 3. Go back to the list and select APPROVE or REJECT.
 
-An e-mail is sent to the requester with information about the result.
+An email is sent to the requester with information about the result.
 
-**General note**: For a user to be able to receive e-mails, the acccount must be e-mail enabled.
+**General note**: For a user to be able to receive emails, the acccount must be email enabled.
 
 More on how to use and work with channels
 ******************************************
