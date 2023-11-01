@@ -6,5 +6,5 @@ The following settings are available here:
 .. image:: sign-off-requests-settings-settings-612.png
 
 + **Show username in report**: If user names should not the shown in sign-off reports, deselect this option.
-+ **Max no of users in e-mail send-out**: Decide the number of e-mails to be sent. This setting will be used when requests are sent to a group that is not e-mail enabled. The administrator sending the request may be alerted to add e-mail addresses. If requests are sent to a group that is e-mail enabled, there is nothing to consider and this setting is ignored.
++ **Max no of users in -mail send-out**: Decide the number of emails to be sent. This setting will be used when requests are sent to a group that is not e-mail enabled. The administrator sending the request may be alerted to add email addresses. If requests are sent to a group that is email enabled, there is nothing to consider and this setting is ignored.
 
