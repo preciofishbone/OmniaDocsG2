@@ -191,5 +191,5 @@ Then you can set the following:
 + **Calculated**: You can select to calculate the number of days, months or years from when the document was first published or when it was last published.
 + **Property**: Another way is to select a property for retention (if any are availble), could for example be Retention Date.
 
-When the set retention time has passed, the retention manager will receive an e-mail. The e-mail includes a link to a page where the document can be terminated (completely removed from the system), if needed. 
+When the set retention time has passed, the retention manager will receive an email. The email includes a link to a page where the document can be terminated (completely removed from the system), if needed. 
 
