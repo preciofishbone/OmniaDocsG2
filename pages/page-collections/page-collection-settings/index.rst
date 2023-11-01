@@ -126,17 +126,22 @@ When you have done that every new page in the page collection creates a term in 
 
 Settings for Approval
 ----------------------
-When Approval is activated, the following settings are available:
+When Approval is activated, the following settings are available (image from Omnia 7.5):
 
-.. image:: page-collection-approval-settings-612.png
+.. image:: page-collection-approval-settings-v75.png
 
 + **Apply to authors only**: If you select this, editors never need approval, they can always publish directly. When an author publishes, approval is needed.
++ **Apply to new pages only**: When this option is selected, only creating new pages needs approval, not when updating an existing page.
++ **Multi step approval**: Available in Omnia 7.1 and later. Normally, when this option is not used, only one colleague can approve a page. When this option is used, a number of steps for approval can be set up, meaning several coleagues can need to approve a page. For moore information, see below.
 
-You select who can approve the creation of a page:
+When approval is actiaved, and Multi step approval is not used, you cen select who can approve the creation of a page this way:
 
 + Anyone - The Author can select any colleague as approver when a page is published. See below for more information.
 + Limited list of people - you define the approvers using the field shown (see below). You can define one or more approvers but only one approval is needed each time, from any of the approvers.
 + Based on person property - you select property from the list shown (see below).
++ **Term driven**: 
+
+Remember that even if a number of colleagues are available for approval, only one is needed.
 
 When "Anyone" is selected the following is shown when an editor sends the page for approval:
 
@@ -157,6 +162,32 @@ When you select "Based on person property", you open the list and select propert
 Based on person property can result in more colleagues being available for approval. Authors can only choose between these colleagues when selecting approver.
 
 For more information, see this page: :doc:`Properties </admin-settings/tenant-settings/properties/index>` 
+
+(Term driven will be explained soon).
+
+Setting up multi step approval
+---------------------------------
+When Multi step approval is selected, you set it up this way:
+
+1. Click ADD STEP and set the following:
+
+.. image:: multi-step-1.png
+
+2. Add a description of the step in one or more languages (click the flag to change language). Default tenant language is mandatory.
+3. Salect who should be able for approval in this step. See above for information on the options.
+4. Set the following:
+
++ **Allow edit**: (A description will be added soon).
++ **Enable reject**: Select this option if publication could be rejected in this step.
++ **Enable send back**: If it should be possible to send back to previous approval step from here, select this option.
+
+5. Continue adding the needed approval steps the same way.
+
+When you're finished it can look something like this:
+
+.. image:: multi-step-2.png
+
+To edit a step, just expand it and use the settings as described above. To adjust the order of the steps, use drag and drop. To delete a step, click the dust bin.
 
 Channel settings
 -------------------
