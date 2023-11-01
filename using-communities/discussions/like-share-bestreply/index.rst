@@ -31,7 +31,7 @@ To share a discussion with a colleague, do the following:
 
 .. image:: discussion-share.png
 
-2. Add the e-mail address to the colleague and click "Send".
+2. Add the email address to the colleague and click "Send".
 
 Best Reply
 ***********
