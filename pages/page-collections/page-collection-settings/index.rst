@@ -132,16 +132,14 @@ When Approval is activated, the following settings are available (image from Omn
 
 + **Apply to authors only**: If you select this, editors never need approval, they can always publish directly. When an author publishes, approval is needed.
 + **Apply to new pages only**: When this option is selected, only creating new pages needs approval, not when updating an existing page.
-+ **Multi step approval**: Available in Omnia 7.1 and later. Normally, when this option is not used, only one colleague can approve a page. When this option is used, a number of steps for approval can be set up, meaning several coleagues can need to approve a page. For moore information, see below.
++ **Multi step approval**: Available in Omnia 7.1 and later. Normally, when this option is not used, only one colleague can approve a page. When this option is used, a number of steps for approval can be set up, meaning several coleagues can need to approve a page. For more information, see below.
 
-When approval is actiaved, and Multi step approval is not used, you cen select who can approve the creation of a page this way:
+When approval is actiaved, you can select who can approve the creation of a page this way (also used in the Multi step approval settings, see below):
 
 + Anyone - The Author can select any colleague as approver when a page is published. See below for more information.
 + Limited list of people - you define the approvers using the field shown (see below). You can define one or more approvers but only one approval is needed each time, from any of the approvers.
 + Based on person property - you select property from the list shown (see below).
-+ **Term driven**: 
-
-Remember that even if a number of colleagues are available for approval, only one is needed.
++ **Term driven**: (A description will be added soon).
 
 When "Anyone" is selected the following is shown when an editor sends the page for approval:
 
@@ -174,7 +172,7 @@ When Multi step approval is selected, you set it up this way:
 .. image:: multi-step-1.png
 
 2. Add a description of the step in one or more languages (click the flag to change language). Default tenant language is mandatory.
-3. Salect who should be able for approval in this step. See above for information on the options.
+3. Select who should be able for approval in this step. See above for information about the options.
 4. Set the following:
 
 + **Allow edit**: (A description will be added soon).
