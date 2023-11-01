@@ -34,7 +34,7 @@ Share a Knowledge article
 To share an article with a colleague, do the following:
 
 1. Click "Share".
-2. Add the e-mail address to the colleague and click "Send".
+2. Add the email address to the colleague and click "Send".
 
 Rate a Knowledge article
 **************************
