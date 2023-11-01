@@ -30,9 +30,9 @@ When an editor has created a new page or edited a page, these are the simple ste
 
 3. Click ¨SEND.
 
-An e-mail is now sent to the approver(s) and the request is also placed in the Pending Approval list.
+An e-ail is now sent to the approver(s) and the request is also placed in the Pending Approval list.
 
-**General note**: For a user to be able to receive e-mails, the acccount must be e-mail enabled.
+**General note**: For a user to be able to receive emails, the acccount must be email enabled.
 
 Approve or reject
 *******************
