@@ -187,6 +187,8 @@ When you're finished it can look something like this:
 
 To edit a step, just expand it and use the settings as described above. To adjust the order of the steps, use drag and drop. To delete a step, click the dust bin.
 
+Don't forget to to publish to save your settings.
+
 Channel settings
 -------------------
 In Omnia 7.1, there's two options available for channels. When you enable publishing to channels you can also choose that at least one publishing channel is required:
