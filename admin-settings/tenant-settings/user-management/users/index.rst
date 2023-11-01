@@ -57,7 +57,7 @@ The following options are always available:
 + **ADD IMAGE**: To add an image of the user, click here and use the Media picker to find the image.
 + **Account Enabled**: When this user should be activated, select this option.
 + **Authentication information**: Add an authentication e-mail. This is mandatory. If needed, enter a  phone number for mobile authentication.
-+ **Send on-boarding link by e-mail to user**: You can chosse to send an on-boarding e-mail to the user by selecting this option. The e-mail is sent when the user is saved.
++ **Send on-boarding link by email to user**: You can chosse to send an on-boarding email to the user by selecting this option. The email is sent when the user is saved.
 
 Delete a user
 --------------
