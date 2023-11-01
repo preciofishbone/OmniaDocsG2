@@ -38,9 +38,9 @@ You can edit your own replies the same way as with comments, see above.
 
 Using mentions
 ***************
-In the discussion comments you can use mentions to make a colleauge aware of a discussion or send a question. The colleague is notified through e-mail.
+In the discussion comments you can use mentions to make a colleauge aware of a discussion or send a question. The colleague is notified through email.
 
-A mention is the @ sign and the colleagues name or e-mail address. Here are two examples:
+A mention is the @ sign and the colleagues name or email address. Here are two examples:
 
 .. image:: discussion-comment-6.png
 
