@@ -47,10 +47,10 @@ You can export the Participant list to Excel if needed, by clicking this button:
 
 **Note!** With this option you export the Participant list, not anything from the Standby list.
 
-Send e-mail to all participants
+Send email to all participants
 ********************************
-You can send an e-mail to all participants by clicking this button:
+You can send an email to all participants by clicking this button:
 
 .. image:: event-editing-email-button.png
 
-The e-mail used is work e-mail.
+The email used is work email.
