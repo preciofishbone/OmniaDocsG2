@@ -45,15 +45,15 @@ The WRITE Tab is not used here. The LAYOUT tab contains general settings, see: :
 
 Who the feedback is sent to and how
 *************************************
-The Page Feedback is sent to the Page Owner (Page Contact) through e-mail. The following settings are needed for this to work.
+The Page Feedback is sent to the Page Owner (Page Contact) through email. The following settings are needed for this to work.
 
-**General note**: For a user to be able to receive e-mails, the acccount must be e-mail enabled.
+**General note**: For a user to be able to receive emails, the acccount must be email enabled.
 
 The Page Contact property (which can be named something else) must be selected for the Page Type. Then a setting must be done (click the cog wheel).
 
 .. image:: page-contact-page-type-new3.png
 
-"Receive e-mail" must be selected for the Page Contact property settings.
+"Receive email" must be selected for the Page Contact property settings.
 
 .. image:: page-contact-page-type-property-new2.png
 
