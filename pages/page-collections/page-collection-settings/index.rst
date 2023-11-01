@@ -134,7 +134,7 @@ When Approval is activated, the following settings are available (image from Omn
 + **Apply to new pages only**: When this option is selected, only creating new pages needs approval, not when updating an existing page.
 + **Multi step approval**: Available in Omnia 7.1 and later. Normally, when this option is not used, only one colleague can approve a page. When this option is used, a number of steps for approval can be set up, meaning several coleagues can need to approve a page. For more information, see below.
 
-When approval is actiaved, you can select who can approve the creation of a page this way (also used in the Multi step approval settings, see below):
+When approval is activated, you can select who can approve the creation of a page this way (also used in the Multi step approval settings, see below):
 
 + Anyone - The Author can select any colleague as approver when a page is published. See below for more information.
 + Limited list of people - you define the approvers using the field shown (see below). You can define one or more approvers but only one approval is needed each time, from any of the approvers.
