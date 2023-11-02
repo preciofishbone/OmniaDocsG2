@@ -183,7 +183,7 @@ When Multi step approval is selected, you set it up this way:
 3. Select who should be able for approval in this step. See above for information about the options.
 4. Set the following:
 
-+ **Allow edit**: (A description will be added soon).
++ **Allow edit**: If this option is selected the "approver" can edit the page with the changes he or she sees as necessary and then approve for publishing, or send back with a comment (if send back is activated for that step). 
 + **Enable reject**: Select this option if publication could be rejected in this step.
 + **Enable send back**: If it should be possible to send back to previous approval step from here, select this option.
 
