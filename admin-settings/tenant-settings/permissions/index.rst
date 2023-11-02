@@ -56,9 +56,9 @@ If you're using Draftable's solution for comparing changes in controlled documen
 
 A default Base Url is added but can be edited if needed. 
 
-Azure AD Sharepoint Sync App
+Azure AD SharePoint Sync App
 -------------------------------
-In the process of enabling Sharepoint App Only, Client Id and Client Secret needs to be added here.
+In the process of enabling SharePoint App Only, Client Id and Client Secret needs to be added here.
 
 .. image:: sharepoint-sync-app-v7.png
 
