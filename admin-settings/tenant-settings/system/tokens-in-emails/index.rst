@@ -249,7 +249,7 @@ In the App approval emails (for Communities, Publishing and Teamwork), the follo
 
 + {{pendingRequestUrl}}
 
-**App Provisioning Complete email**: In this e-mail, sent to the requester, no token is supported in Subject. The following tokens are supported in Body:
+**App Provisioning Complete email**: In this email, sent to the requester, no token is supported in Subject. The following tokens are supported in Body:
 
 + {{userDisplayName}}
 + {{appUrl}}
