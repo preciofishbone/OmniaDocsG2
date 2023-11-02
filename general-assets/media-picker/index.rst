@@ -148,5 +148,5 @@ Now the following settings are available:
 + **Mute**: To play the video without sound, select this option.
 + **Video information**: You can add an Alt text for the video and a caption here. Note that not all types of videos can display an Alt text.
 
-**Note!** For videos that are stored in Sharepoint libraries, the settings for those videos are handled in the Sharepoint library.
+**Note!** For videos that are stored in SharePoint libraries, the settings for those videos are handled in the SharePoint library.
 
