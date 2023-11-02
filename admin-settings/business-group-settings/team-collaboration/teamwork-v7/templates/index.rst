@@ -31,7 +31,7 @@ What is different for a Microsoft 365 Team Group is the Setup step:
 
 SharePoint Team Site
 ------------------------------------------------------------
-For a Sharepoint Team Site, these settings are available for Setup:
+For a SharePoint Team Site, these settings are available for Setup:
 
 .. image:: teamwork-settings-setup-teamsite-v7.png
 
