@@ -54,7 +54,7 @@ To remove a related document from the list, do the following:
  
 Being notified when any related document is updated
 ****************************************************
-To activate notification for related documents, select who is going to be notified. When the option is active an e-mail is sent to the receiver every time a new edition is published for any related document.
+To activate notification for related documents, select who is going to be notified. When the option is active an email is sent to the receiver every time a new edition is published for any related document.
 
 .. image:: related-notify-new2.png
 
