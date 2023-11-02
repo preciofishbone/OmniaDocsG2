@@ -46,7 +46,7 @@ Prerequisites
 4. Activate the feature "Default Community Template".
 5. Refresh the web browser (F5).
 
-Enterprise Search
+EnterPrise Search
 ---------------------------------------------
 
 Follow these instructions to configure relevant properties and a search category for Communities.
