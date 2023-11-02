@@ -15,7 +15,7 @@ These settings and options are available here:
 + **SYNCHRONIZE NOW**: Click this button to execute the syncrhonizations set up (listed at the bottom). If you select "Enable Azure AD Synchronization" and set and interval, you don't have to click this button. The synchronization is then executed with the interval set.
 + **EVENTS**: Click this button to access logs from the synchronizations. 
 + **Enable Azure AD Synchronization**: Select this option to enable the synchronization.
-+ **Enable Sharepoint App-Only**: Due to ongoing changes by Microsoft, Azure AD Sync may stop working. If that happens you have to setup Sharepoint App-Only for Azure AD Sync. Click the link "Config instruction" and follow that instruction. When you're done, select this option. Note that the description of the option is not found here, you must click the link to read it. Also, see below for more information.
++ **Enable SharePoint App-Only**: Due to ongoing changes by Microsoft, Azure AD Sync may stop working. If that happens you have to setup SharePoint App-Only for Azure AD Sync. Click the link "Config instruction" and follow that instruction. When you're done, select this option. Note that the description of the option is not found here, you must click the link to read it. Also, see below for more information.
 + **Log Detail**: Use this if you have problems with the synchronization. In the details you will hopefully find out what's wrong. 
 + **Batch Execute**: This is an advanced option if you have a very long list of users - several hundreds and above. Contact you provider/consultant for help when using this.
 + **Batch Number**: When you have selcected "Batch Execute" you use this field to set the number of users that should be synchronized each time.
