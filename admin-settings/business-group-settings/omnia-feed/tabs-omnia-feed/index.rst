@@ -100,7 +100,9 @@ For content, the following is available:
 
 .. image:: omnia-feed-link-tab-content-v7.png
 
-You can choose to use a "Web Url link" or a "Deep link". Then add the link below. Note the information about Omnia Url links.
+You can choose to use a "Web Url link" or a "Deep link". Then add the link below. A deep link can be used to link to another app, or content in another app, on the users device.
+
+Note the information about Omnia Url links.
 
 Embedded Link tab
 **********************
