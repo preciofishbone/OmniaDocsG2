@@ -35,7 +35,7 @@ System account is a standard extension for specialized implementations only, nor
 
 Azure AD Sync Account
 -----------------------
-If you're using Azure AD Synchronization, add the account that executes the scheduling here. Should be a Sharepoint Admin account.
+If you're using Azure AD Synchronization, add the account that executes the scheduling here. Should be a SharePoint Admin account.
 
 .. image:: tenant-secrets-sync-url-v7.png
 
