@@ -86,7 +86,7 @@ Using the action EDIT you can edit the settings for a teamwork. What can be edit
 
 .. image:: edit-teamwork.png
 
-+ **Sharepoint Url**: The app instance connected site's Url can be edited here, if needed.
++ **SharePoint Url**: The app instance connected site's Url can be edited here, if needed.
 
 For a description of the rest of the options, see above.
 
@@ -97,7 +97,7 @@ Using this option you can attach any teamwork site (Sharepoint Team Site) to Omn
 The following permissions are required to be able to attach:
 
 + For an Omnia Teamwork app: app administrator permissions.
-+ For a Sharepoint site: site collection administrator permissions.
++ For a SharePoint site: site collection administrator permissions.
 
 Do the following to attach a site:
 
@@ -113,7 +113,7 @@ The following is shown:
 You can "detach" (delete) a site if needed. Then the following permissions are needed:
 
 + For an Omnia Teamwork app: app administrator permissions.
-+ For a Sharepoint site: site owner or site collection administrator permissions.
++ For a SharePoint site: site owner or site collection administrator permissions.
 
 **Note!** What actually happens when you click the dust bin to delete a site, is that the site is detached. That is true for all teamwork sites, regardless of if they have been created in or attached to Omnia. When a site is detached, an email is sent to the site owner(s). Note that, for a user to be able to receive e-mails, the acccount must be email enabled.
 
@@ -171,11 +171,11 @@ The person requesting the teamwork receives the message and can then start a new
 
 Orphaned
 **********
-When a site of the type Microsoft 365 Team Site, Sharepoint Team Site or Sharepoint Communication Site is created, a Sharepoint site is also created and is connected to the site. A Yammer group can also need a Sharepoint site, depending on how the Yammer group is set up.
+When a site of the type Microsoft 365 Team Site, SharePoint Team Site or Sharepoint Communication Site is created, a SharePoint site is also created and is connected to the site. A Yammer group can also need a SharePoint site, depending on how the Yammer group is set up.
 
 .. image:: teamwork-orphaned-v7.png
 
-The connected Sharepoint site may be deleted for some reason, but when that happens the Omnia site may not. When this is the case, a link to the site is placed in this list, so an administrator can take actions.
+The connected SharePoint site may be deleted for some reason, but when that happens the Omnia site may not. When this is the case, a link to the site is placed in this list, so an administrator can take actions.
 
 The same dot menu actions are available here as described above.
 
