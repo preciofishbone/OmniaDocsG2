@@ -103,7 +103,7 @@ When you close a request, you can choose to send an email notification to the us
 
 Just deselect if you don't need to send a message, and then click CLOSE REQUEST. If you choose to send a message, it's sent immediately.
 
-It's just a notification e-mail that is sent from the system. You can't add any text to that message (no dialog for that purpose is available).
+It's just a notification email that is sent from the system. You can't add any text to that message (no dialog for that purpose is available).
 
 A closed request can be reopened, a deleted request can (of course) not.
 
