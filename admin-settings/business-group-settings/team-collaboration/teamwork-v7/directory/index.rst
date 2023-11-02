@@ -115,7 +115,7 @@ You can "detach" (delete) a site if needed. Then the following permissions are n
 + For an Omnia Teamwork app: app administrator permissions.
 + For a Sharepoint site: site owner or site collection administrator permissions.
 
-**Note!** What actually happens when you click the dust bin to delete a site, is that the site is detached. That is true for all teamwork sites, regardless of if they have been created in or attached to Omnia. When a site is detached, an email is sent to the site owner(s). Note that, for a user to be able to receive e-mails, the acccount must be e-mail enabled.
+**Note!** What actually happens when you click the dust bin to delete a site, is that the site is detached. That is true for all teamwork sites, regardless of if they have been created in or attached to Omnia. When a site is detached, an email is sent to the site owner(s). Note that, for a user to be able to receive e-mails, the acccount must be email enabled.
 
 Edit App Route
 ****************
