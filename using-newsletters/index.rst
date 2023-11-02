@@ -1,7 +1,7 @@
 Using Newsletters
 ===========================
 
-There's a number of options and settings in Omnia you can use for a newsletter implementation, to send internally or externally through e-mail. These options and settings are described here, together with an implementation example.
+There's a number of options and settings in Omnia you can use for a newsletter implementation, to send internally or externally through email. These options and settings are described here, together with an implementation example.
 
 For an implementation example, see this page (being updated at the moment): :doc:`Newsletter implementation example </using-newsletters/newsletter-implementation/index>`
 
