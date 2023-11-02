@@ -24,7 +24,7 @@ Do the following to create a new type:
 + **Name**: Add a name in any, or all the tenant languages. Click the flag to change language.
 + **Property set**: Select property set to be used for this type. You can find information on how property sets work here: :doc:`Property sets </admin-settings/tenant-settings/properties/property-sets/index>`.
 + **Templates**: Select one or more templates where this type should be used.
-+ **Send e-mail in workflows**: If sign-off requests should be sent as e-mails, keep this option selected. If deselected, no e-mails will be sent at all regarding sign-off requests. 
++ **Send email in workflows**: If sign-off requests should be sent as emails, keep this option selected. If deselected, no emails will be sent at all regarding sign-off requests. 
 
 3. Save when you're done.
 
