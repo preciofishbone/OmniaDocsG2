@@ -7,7 +7,7 @@ Here you define which Properties to use for Targeting.
 
 The Properties must be added to Enterprise Properties to be able to be selected here, as well as be of the type "Taxonomy".
 
-**Note!** Term sets to be used as properties for targeting in Omnia, must be set to "Available for tagging" in Sharepoint.
+**Note!** Term sets to be used as properties for targeting in Omnia, must be set to "Available for tagging" in SharePoint.
 
 **Note!** In Omnia on-prem, it's only possible to target using SharePoint User Profile and Windows Active Directory group membership. 
 
