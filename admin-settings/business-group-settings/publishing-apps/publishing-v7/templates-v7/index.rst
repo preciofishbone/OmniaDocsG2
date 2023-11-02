@@ -15,7 +15,7 @@ You create templates for publishing apps, community sites and Teamwork the same 
 
 Setup step in a SharePoint Communication site
 **************************************************
-Most settings are the same but Setup is different for a Sharepoint Communication site:
+Most settings are the same but Setup is different for a SharePoint Communication site:
 
 .. image:: publishing-templates-communication-site.png
 
