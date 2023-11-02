@@ -108,7 +108,7 @@ The following setting is available for a Private Yammer Community template for S
 **Note!** Yammer Community is not available in Omnia on-prem.
 
 + **Client id**: Type the Client id for the Yammer Network here.
-+ **Welcome Page**: Select the Yammer Group or Sharepoint for welcome page. 
++ **Welcome Page**: Select the Yammer Group or SharePoint for welcome page. 
 
 Facebook Workplace Group
 -------------------------------
