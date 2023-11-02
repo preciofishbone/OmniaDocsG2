@@ -1,4 +1,4 @@
-Default Sharepoint Context Url
+Default SharePoint Context Url
 ===============================
 
 Here the Default SharePoint address can be set/edited.
