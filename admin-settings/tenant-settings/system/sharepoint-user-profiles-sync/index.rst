@@ -1,4 +1,4 @@
-Sharepoint User Profiles Sync
+SharePoint User Profiles Sync
 ==============================================
 
 This option was in earlier Omnia versions called "Azure AD Sync". Now, this option works this way:
