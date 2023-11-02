@@ -157,7 +157,7 @@ The following setting is available for a Yammer Community template for Setup:
 
 **Note!** Yammer Community is not available in Omnia on-prem.
 
-+ **Welcome Page**: Select the default Url for Sharepoint or for a Yammer group.
++ **Welcome Page**: Select the default Url for SharePoint or for a Yammer group.
 + **Client id**: Type the Client id for the Yammer Network here.
 
 Facebook Workplace Group
