@@ -143,7 +143,7 @@ and these:
 
 + **Default Page Collection**: The default Page Collection for the page can be set here.
 + **Allow reuse content**: If it should be allowed to resuse content within the Publisging App, activate "Enable Reuse Content". For more information about how to reuse content, see: :doc:`Reusable Content </pages/reusable-content/index>`
-+ **Connected Sharepoint Site**: The address to the Sharepoint Site is shown here.
++ **Connected SharePoint Site**: The address to the SharePoint Site is shown here.
 + **Editor navigation**: Here you can add options that should be available in the page menu, in additional to the default options. For more information, see below.
 + **Contact Property**: Select the property used to store information about the user being page contact.
 + **Review Date Property**: Select the property used to store information about review date for pages.
@@ -192,8 +192,8 @@ The following settings are available here (example from an existing site):
 .. image:: document-management-settings.png
 
 + **Document picker categories**: If the document picker categories that are set up in Omnia Admin should be available here, select this option.
-+ **Sharepoint document library**: If the documents created here should be saved in a specific Sharepoint document library, enter the address to the library here.
++ **Sharepoint document library**: If the documents created here should be saved in a specific SharePoint document library, enter the address to the library here.
 + **Allow User Upload Document**: Available when a document library has been defined here. Editors and authors can normally upload documents here. If this should be possible for all users, select this option.
-+ **File storage**: Select the option if a copy of a docment an editor or author uploads, should be saved locally. The document is then saved in Omnia, not in Sharepoint. This is useful if a specific version of a document should be saved with the page, for example a news page. 
++ **File storage**: Select the option if a copy of a docment an editor or author uploads, should be saved locally. The document is then saved in Omnia, not in SharePoint. This is useful if a specific version of a document should be saved with the page, for example a news page. 
 
 
