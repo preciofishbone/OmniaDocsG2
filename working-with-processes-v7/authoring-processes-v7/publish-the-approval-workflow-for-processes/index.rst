@@ -1,4 +1,4 @@
-Publish - the approval workflow for processes in Omnia 7.0
+Publish - the approval workflow for processes in Omnia 7
 ===========================================================
 
 When a process has reached a final version, it must be published, and if approval is activated, be approved for publication, to be available for end users. To do that, you start an Approval Workflow.
@@ -32,7 +32,7 @@ Exactly which options are available here depends on a a number of settings. Thes
 4. Add the settings needed.
 5. Click SEND (of approval is needed) or PUBLISH (if it's not).
 
-When you click SEND (if approval is needed), a task is created for the approver, and an e-mail is sent, with a link to the draft process. The task can look like this:
+When you click SEND (if approval is needed), a task is created for the approver, and an email is sent, with a link to the draft process. The task can look like this:
 
 .. image:: pm-approval-publish-send-v7.png
  
