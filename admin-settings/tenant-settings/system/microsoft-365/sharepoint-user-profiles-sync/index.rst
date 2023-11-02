@@ -18,7 +18,7 @@ These settings and options are available here:
 + **Test Sync**: This is an option suitable for administrators to test synchronization for a limited number af users. Setup the sync to test as described below.
 + **EVENTS**: Click this button to access logs from the synchronizations. 
 + **Enable synchronization**: Select this option to enable the synchronization.
-+ **Enable Sharepoint App-Only**: Due to ongoing changes by Microsoft, Azure AD Sync may stop working. If that happens you have to setup Sharepoint App-Only for Azure AD Sync. Click the link "Config instruction" and follow that instruction. When you're done, select this option.
++ **Enable SharePoint App-Only**: Due to ongoing changes by Microsoft, Azure AD Sync may stop working. If that happens you have to setup SharePoint App-Only for Azure AD Sync. Click the link "Config instruction" and follow that instruction. When you're done, select this option.
 + **Only Sync Enable Account**: To only sync enabled accounts, select this option. Otherwise all, even disabled accounts, are synced.
 + **Log Detail**: Use this if you have problems with the synchronization. In the details you will hopefully find out what's wrong. 
 + **Batch Execute**: This is an advanced option if you have a very long list of users - several hundreds and above. Contact you provider/consultant for help when using this.
