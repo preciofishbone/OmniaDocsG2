@@ -43,7 +43,7 @@ Exactly which options are available here depends on a a number of settings. Thes
 
 When you click "Send", a task is created for the approver, and an e-mail is sent, with a link to the draft process. 
 
-**General note**: For a user to be able to receive e-mails, the acccount must be e-mail enabled.
+**General note**: For a user to be able to receive emails, the acccount must be email enabled.
 
 The task can look like this:
 
@@ -57,9 +57,9 @@ The workflow will be active until the task is completed and the process will be 
 
 Approved or Rejected
 *********************
-If the process is approved for publication, it’s now available for readers. You, the author, will receive an e-mail stating that.
+If the process is approved for publication, it’s now available for readers. You, the author, will receive an email stating that.
 
-If it’s rejected, there’s some changes the approver would like you to do. You will receive an e-mail stating that the process was rejected and a message from the approver. After changes has been made, you start a new Approval Workflow the same way as before.
+If it’s rejected, there’s some changes the approver would like you to do. You will receive an email stating that the process was rejected and a message from the approver. After changes has been made, you start a new Approval Workflow the same way as before.
 
 Cancel an Approval workflow
 *****************************
