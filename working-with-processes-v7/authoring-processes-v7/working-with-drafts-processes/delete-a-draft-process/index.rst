@@ -14,7 +14,7 @@ Note that if the process has been published at least once, the last published ed
 
 Restore or permanently delete
 *******************************
-You can decide to keep a deleted process, restore it or permanently delete it. Note that this recycle bin is a Sharepoint recycle bin so it can depend on Sharepoint settings how long a deleted process will be kept there.
+You can decide to keep a deleted process, restore it or permanently delete it. Note that this recycle bin is a SharePoint recycle bin so it can depend on SharePoint settings how long a deleted process will be kept there.
 
 To handle deleted draft processes, do the following:
 
