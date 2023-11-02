@@ -19,7 +19,7 @@ The list of options at the bottom will differ depending on type of property. For
 
 You can "lock" the settings for a property and then it can't be edited anywhere else but here. If a property is unlocked the settings can be edited in the Property block. Click the icon to lock or unlock.
 
-Setup and Edit can be also be available, as here for Sharepoint Term set.
+Setup and Edit can be also be available, as here for SharePoint Term set.
 
 .. image:: user-management-properties-new-variant.png
 
