@@ -37,7 +37,7 @@ You will need a Page Rollup block on the Newsletter Editor's page. When you set 
 
 .. image:: page-rollup-pick-pages.png
 
-There's also a View called Newsletter. This view is suitable for e-mailing.
+There's also a View called Newsletter. This view is suitable for emailing.
 
 .. image:: page-rollup-newsletter-view.png
 
