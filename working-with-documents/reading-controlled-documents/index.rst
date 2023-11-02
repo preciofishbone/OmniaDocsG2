@@ -21,7 +21,7 @@ By clicking the icon, the following can be used to send the feedback:
 
 .. image:: document-feedback-form.png
 
-Note the formatting options. Also note that the receiver of the feedback e-mail is noted.
+Note the formatting options. Also note that the receiver of the feedback email is noted.
 
 Feedback can be accessed by all authors of a Controlled Documents library, using the Published tab.
 
