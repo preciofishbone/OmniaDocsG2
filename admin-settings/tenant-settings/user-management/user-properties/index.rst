@@ -43,7 +43,7 @@ These types have Edit options:
 
 Setup
 -------
-Available for type Sharepoint Term Set only. For a property from a Sharepoint term set to work, it must be mapped using the list available under Setup.
+Available for type SharePoint Term Set only. For a property from a Sharepoint term set to work, it must be mapped using the list available under Setup.
 
 Deleting a user property
 ************************
