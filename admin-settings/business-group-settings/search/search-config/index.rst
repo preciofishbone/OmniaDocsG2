@@ -14,7 +14,7 @@ To create a new Search Category, click the plus and use the settings available f
 .. image:: search-config-categories-4-new2.png
 
 + **Title**: Add a title for the Search Category, in some or all languges available in the tenant (click the flag to change language).
-+ **Search Providers**: Select search provider for the category. The following is available: Comments, Shared Links, Sharepoint Search and Microsoft Search. **Note!** In Omnia on-prem only Sharepoint Search and Shared Links can be used as Search Providers.
++ **Search Providers**: Select search provider for the category. The following is available: Comments, Shared Links, SharePoint Search and Microsoft Search. **Note!** In Omnia on-prem only SharePoint Search and Shared Links can be used as Search Providers.
 + **Search Result Source**: Select Source from the list.
 + **Search Query**: Add the Search Query here. Tokens can be used for a dynamic search query, see this page: :doc:`Using tokens in Omnia </general-assets/using-tokens-in-omnia/index>`
 + **Enable Query Rules**: Query rules can be set up in Sharepoint. If these query rules should be used for this category, select this option.
