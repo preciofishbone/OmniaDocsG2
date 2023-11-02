@@ -19,8 +19,8 @@ This is how it's done:
 .. image:: co-author-dialog.png
 
 + **Authors**: Add one or more colleagues to the list.
-+ **Send email invitation**: You can choose to send an -mail invitation to the would be co-authors. The email contains a link to the page. 
-+ **E-mail message**: If you send an email invitation, use this field to enter a message.
++ **Send email invitation**: You can choose to send an email invitation to the would be co-authors. The email contains a link to the page. 
++ **Email message**: If you send an email invitation, use this field to enter a message.
 
 4. Click OK when you're done, to save the settings. If you have chosen to send an email message, it is now sent.
 
