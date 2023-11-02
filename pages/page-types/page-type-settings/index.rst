@@ -7,7 +7,7 @@ The following can be available on the Settings tab:
 
 + **Title**: The name of the Page Type can be edited here.
 + **Enable Automatic Archiving**: Set Automatic Archiving on or off for the Page Type. See below for more information.
-+ **Override Sharepoint Sync Settings**: Available for local Page Types (not for Tenant ones). See below for a description.
++ **Override SharePoint Sync Settings**: Available for local Page Types (not for Tenant ones). See below for a description.
 + **Properties**: Select the Properties that should be available for pages created from this Page Type. In many cases it results in fields the page editor has to or can fill in for a page. You can select any of the properties defined in the tenant. See this page for more information about setting up properties: :doc:`Tenant Settings - Properties </admin-settings/tenant-settings/properties/index>` 
 
 Enable Automatic Archive
