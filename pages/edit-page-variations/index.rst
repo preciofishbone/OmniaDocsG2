@@ -51,7 +51,7 @@ A Variation author can be added for each variation. That is done in the publishi
 
 Note that there can be only one variation author for each variation, regardless on how many pages the variation is used.
 
-The variation author is notified through e-mail when a main page, with a variation of the variation authors type, is updated.
+The variation author is notified through email when a main page, with a variation of the variation authors type, is updated.
 
 The variation author needs the same permisions as the author of the main page, to be able to edit the variations for a page.
 
