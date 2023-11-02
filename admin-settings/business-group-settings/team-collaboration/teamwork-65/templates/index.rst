@@ -80,13 +80,13 @@ Available only for Microsoft 365 Group are:
 
 For descriptions of the rest of the options, see below.
 
-Sharepoint Team Site and Sharepoint Communication site
+SharePoint Team Site and SharePoint Communication site
 ------------------------------------------------------------
-For Sharepoint Team Site and Sharepoint Communication Site, these settings are available for Setup:
+For SharePoint Team Site and SharePoint Communication Site, these settings are available for Setup:
 
 .. image:: teamwork-settings-setup-new.png
 
-+ **Site Design**: Here templates can be available, templates made according to Microsoft's standard for Site Design. Such templates can be used in Omnia.  Not mandatory. If no such templates are available, the list is empty. For more information about Site Design, see this Microsoft page: https://docs.microsoft.com/en-us/sharepoint/dev/declarative-customization/site-design-overview
++ **Site Design**: Here templates can be available, templates made according to Microsoft's standard for Site Design. Such templates can be used in Omnia. Not mandatory. If no such templates are available, the list is empty. For more information about Site Design, see this Microsoft page: https://docs.microsoft.com/en-us/sharepoint/dev/declarative-customization/site-design-overview
 + **Languages**: Select language to be used for system texts in the site.
 + **User can select language**: Select this option to enable language selection by the user creating the site.
 + **Time Zones**: Select the correct time zone here.
