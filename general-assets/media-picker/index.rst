@@ -23,7 +23,7 @@ To select an image, open the folder if needed, click it and the settings will be
 
 Settings of image banks are made for each Business Profile. For more information see: :doc:`Central Image Location </admin-settings/business-group-settings/settings/central-image-location/index>`
 
-Note that videos can be handled in Sharepoint media libraries as well, and some Microsoft video editing options.
+Note that videos can be handled in SharePoint media libraries as well, and some Microsoft video editing options.
 
 Bing
 *******
