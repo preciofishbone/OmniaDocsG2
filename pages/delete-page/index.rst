@@ -65,7 +65,7 @@ You can setup automatic delete (archiving) for pages based on a property. See th
 
 Furthermore, you can set up rules for automatic termination of deleted pages, in the Publishing App Settings. See the heading "Delete" at the bottom of this page: :doc:`Publishing App Settings </pages/page-settings/index>`
 
-**Important note!** These delete and termination settings are valid for Omnia. If a page truly must be terminated from your system, settings for dust bins in Sharepoint may also need to be edited.
+**Important note!** These delete and termination settings are valid for Omnia. If a page truly must be terminated from your system, settings for dust bins in SharePoint may also need to be edited.
 
 Restore or terminate a deleted page
 *****************************************
