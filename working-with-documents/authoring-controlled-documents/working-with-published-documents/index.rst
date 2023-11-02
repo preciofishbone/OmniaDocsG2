@@ -103,7 +103,7 @@ Copy Link
 **********
 If you need to send a link to a published document, use this option.
 
-Just click the option (no window or message is shown) and you can then paste the link in an e-mail, in a document, as a link on a page, or wherever you need the link.
+Just click the option (no window or message is shown) and you can then paste the link in an email, in a document, as a link on a page, or wherever you need the link.
 
 .. image:: published-copylink-new.png
 
