@@ -77,7 +77,7 @@ You can choose to display the list as a Card view or Roller view. In the image a
 The following settings are available for the views:
 
 + **Add Column**: This is not like columns in columns in a table. You should think: What information do I want to display about the people? You must always add at least one column or nothing will be shown!
-+ **Show Email action**: Available for Card. Makes it possible to send an e-mail directly from the card. **General note**: For a user to be able to receive e-mails, the acccount must be e-mail enabled.
++ **Show Email action**: Available for Card. Makes it possible to send an email directly from the card. **General note**: For a user to be able to receive emails, the acccount must be email enabled.
 + **Show Chat action**: Available for Card. Makes it possible to start a MS Teams chat with the colleague directly from the card.
 + **Show Call action**: Available for Card. Makes it possible to start a call with the colleague directly from the card. The system uses the unit's default app for calls. If Omnia is used through Teams, the call should normally be made through Teams automatically.
 + **Action Alignment**: Available when any or all the above actions are selected. Use this option to ser alignment for the actions.
