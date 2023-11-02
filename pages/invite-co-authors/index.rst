@@ -19,10 +19,10 @@ This is how it's done:
 .. image:: co-author-dialog.png
 
 + **Authors**: Add one or more colleagues to the list.
-+ **Send e-mail invitation**: You can choose to send an e-mail invitation to the would be co-authors. The e-mail contains a link to the page. 
-+ **E-mail message**: If you send an e-mail invitation, use this field to enter a message.
++ **Send email invitation**: You can choose to send an -mail invitation to the would be co-authors. The email contains a link to the page. 
++ **E-mail message**: If you send an email invitation, use this field to enter a message.
 
-4. Click OK when you're done, to save the settings. If you have chosen to send an e-mail message, it is now sent.
+4. Click OK when you're done, to save the settings. If you have chosen to send an email message, it is now sent.
 
 In Permissions for the page, you can now see (if you are Page Collection administrator) that permission inheritance is broken for the page, which is needed for specific permission settings for this page. The invited co-authors are added to the Author field, for example:
 
