@@ -40,7 +40,7 @@ Reservations is possible and there's one name on that list, waiting for the poss
 
 What we see here is the view for Event Managers (Page Editors). The icons to the right of each registration and the buttons at the bottom are only shown for them. They can use the icons to move a registration to the Standby list, edit the registration, for example to change the number of not named participants, and even remove a registration.
 
-The buttons at the bottom can be used, as the names clearly indicates, to export the participant list to Excel and to send an e-mail to all participants.
+The buttons at the bottom can be used, as the names clearly indicates, to export the participant list to Excel and to send an email to all participants.
 
 The settings
 ***************
