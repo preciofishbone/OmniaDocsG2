@@ -139,7 +139,7 @@ When approval is activated, you can select who can approve the creation of a pag
 + Anyone - The Author can select any colleague as approver when a page is published. See below for more information.
 + Limited list of people - you define the approvers using the field shown (see below). You can define one or more approvers but only one approval is needed each time, from any of the approvers.
 + Based on person property - you select property from the list shown (see below).
-+ **Term driven**: (A description will be added soon).
++ **Term driven**: Authors can select approvers from a defined list only. Which approvers will be available depends on the Properties selected for the documents. You select the term(s) here. When you have selected one or more terms you can use the cogwheel to set approvers for individual terms in the set.
 
 When "Anyone" is selected the following is shown when an editor sends the page for approval:
 
@@ -161,7 +161,15 @@ Based on person property can result in more colleagues being available for appro
 
 For more information, see this page: :doc:`Properties </admin-settings/tenant-settings/properties/index>` 
 
-(Term driven will be explained soon).
+For Term driven, you first select a term, then click the cogwheel.
+
+.. image:: term-driven-cogwheel.png
+
+Then select the colleague or group that should be available for approval for the term.
+
+In this exeample Robert Johnson is set as approver for all object types (the parent). If you would like to select someone else to be avaialable as approval for, let's say for News Article, deselect "Inherit parent settings" and select colleague or group there.
+
+.. image:: term-driven-cogwheel-approver.png
 
 Setting up multi step approval
 ---------------------------------
