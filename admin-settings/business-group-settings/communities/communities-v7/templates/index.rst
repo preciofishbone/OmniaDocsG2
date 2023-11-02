@@ -21,5 +21,5 @@ Firstly, there are no features available for a Yammer community template. Beside
 
 .. image:: community-template-yammer.png
 
-Select either Yammer Group or Sharepoint as default resource.
+Select either Yammer Group or SharePoint as default resource.
 
