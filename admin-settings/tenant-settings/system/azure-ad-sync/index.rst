@@ -1,7 +1,7 @@
 Azure AD Synchronization settings
 ===================================
 
-Use these advanced settings to make sure person properties are synchronized from Azure AD to Sharepoint. 
+Use these advanced settings to make sure person properties are synchronized from Azure AD to SharePoint. 
 
 **Note:** The Azure AD Sync must now be set up to use SharePoint Addin App identity instead of a user account. This will allow the tenant to turn off legacy sign in and still use the Azure AD Sync, see *Enable Sharepoint App-Only* below.
 
@@ -29,7 +29,7 @@ For a scheduled synchronization you also need to add an account in the Security 
 
 More on Sharepoint App-only
 ----------------------------
-When setting up the Azure AD Sync using the SharePoint App-Only model, the generated Client Secret will expire after one year. You need to renew the client secret in order to keep the Azure AD Sync working. Follow the instruction you find by clicking the link by the option "Enable Sharepoint App-Only". 
+When setting up the Azure AD Sync using the SharePoint App-Only model, the generated Client Secret will expire after one year. You need to renew the client secret in order to keep the Azure AD Sync working. Follow the instruction you find by clicking the link by the option "Enable SharePoint App-Only". 
 
 Setup a new synchronization
 *****************************
@@ -44,7 +44,7 @@ To set up a new synchronization, do the following:
 .. image:: azure-ad-settings.png
 
 + **Azure AD property**: Open the list and select the AD property to synchronize.
-+ **Sharepoint property**: Type the name of the Sharepoint property to synchronize to.
++ **SharePoint property**: Type the name of the SharePoint property to synchronize to.
 + **Sync when value is empty**: Normally empty fields are not synchronized from the AD. If you want to do that, select this option.
 
 Here's an example:
