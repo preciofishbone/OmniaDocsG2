@@ -17,7 +17,7 @@ Important Event options:
 + Users can edit or remove their own registrations.
 + External users that has been invited in the Azure AD, can use the Event Management options.
 + Event Managers can create new events, can edit all registrations and remove registrations if needed.
-+ Event Managers can export the Participant list to Excel and can communicate with participants through e-mail. (Work email is used).
++ Event Managers can export the Participant list to Excel and can communicate with participants through email. (Work email is used).
 + Event managers needs Editor permissions.
 
 If Event Management is connected to an Outlook Calendar, this additional option is used:
