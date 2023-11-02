@@ -1,7 +1,7 @@
 Templates for publishing apps in Omnia v7
 =============================================
 
-Here you can work with templates for publishing apps - Omnia Publishing apps and Sharepoint Communcation sites.
+Here you can work with templates for publishing apps - Omnia Publishing apps and SharePoint Communication sites.
 
 .. image:: publishing-templates-v7.png
 
@@ -13,7 +13,7 @@ To edit a template, you can also just click the name. When you edit a template, 
 
 You create templates for publishing apps, community sites and Teamwork the same way, see this page: :doc:`Creating app templates in Omnia v7 </general-assets/creating-app-templates/index>`
 
-Setup step in a Sharepoint Communication site
+Setup step in a SharePoint Communication site
 **************************************************
 Most settings are the same but Setup is different for a Sharepoint Communication site:
 
