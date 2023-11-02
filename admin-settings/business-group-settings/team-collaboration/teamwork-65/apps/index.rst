@@ -18,7 +18,7 @@ Use the icons this way on the Active tab:
 You can use the headings for Title, Created Date and Last Activity to sort the list. You can also search the list.
 
 **Note!** To be able to delete a teamwork, you must be App Administrator for the teamwork. Also note that deleting a teamwork from this list does not delete 
-the connected Sharepoint site.
+the connected SharePoint site.
 
 Edit App Route
 ----------------
@@ -78,13 +78,13 @@ The person requesting the Teamwork receives the message and can then start a new
 
 Orphaned
 **********
-When a site of the type Microsoft 365 Team Site, Sharepoint Team Site or Sharepoint Communication Site is created, a Sharepoint site is created and is connected to the site. A Yammer Group can also need a Sharepoint site, depending on how the Yammer Group is set up.
+When a site of the type Microsoft 365 Team Site, SharePoint Team Site or SharePoint Communication Site is created, a SharePoint site is created and is connected to the site. A Yammer Group can also need a SharePoint site, depending on how the Yammer Group is set up.
 
-The connected Sharepoint site may be deleted for some reason, but when that happens the Omnia site may not. When this happens a link to the site is placed in this list, so an administrator can take actions.
+The connected SharePoint site may be deleted for some reason, but when that happens the Omnia site may not. When this happens a link to the site is placed in this list, so an administrator can take actions.
 
 Inactive
 ***********
-A teamwork is considered inactive if Last Activity, as registered in the Sharepoint site, is more than three months old.
+A teamwork is considered inactive if Last Activity, as registered in the SharePoint site, is more than three months old.
 
 Here's an exampl from a test environment:
 
