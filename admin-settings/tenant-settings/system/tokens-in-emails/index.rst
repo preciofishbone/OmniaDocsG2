@@ -37,7 +37,7 @@ Document Management - Controlled Documents
 --------------------------------------------
 The following tokens are supported in emails regarding Controlled Documents:
 
-**Review Task emails**: In these e-mails for Document Management, the following token is supported in Subject:
+**Review Task emails**: In these emails for Document Management, the following token is supported in Subject:
 
 In **ReviewerEmailSubjectTemplate** and **CancelSubjectTemplate**:
 
