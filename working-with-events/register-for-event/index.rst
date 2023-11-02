@@ -43,7 +43,7 @@ The next step is to select user:
 
 You can seaerch for colleagues the usual way here. Note that only one participant can be registered each time using this option.
 
-The main difference when using this option instead of just adding a number of people when registering one self, is that in this case, the event is added to the colleague's calendar and when e-mails are sent from the event, colleagues registered this way will receive the e-mails.
+The main difference when using this option instead of just adding a number of people when registering one self, is that in this case, the event is added to the colleague's calendar and when e-mails are sent from the event, colleagues registered this way will receive the emails.
 
 Add external user
 --------------------
@@ -59,7 +59,7 @@ External users can be registered using this option. Do the following:
 
 3. Add the information needed (see above for field descriptions).
 
-An external user registered this way can be any external user. If an Event Manager sends en e-mail to participants, external users will receive the e-mail.
+An external user registered this way can be any external user. If an Event Manager sends en email to participants, external users will receive the email.
 
 Sign up to Reservation List
 ******************************
