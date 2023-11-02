@@ -1,7 +1,7 @@
 Teamwork templates in Omnia v7
 =======================================
 
-Here you can work with templates for Teamwork; Microsoft 365 Group, Sharepoint Team Site, Microsoft Team, Private Yammer Community and Facbook Workplace Group. The first list displays all templates that has been created so far, for example:
+Here you can work with templates for Teamwork; Microsoft 365 Group, SharePoint Team Site, Microsoft Team, Private Yammer Community and Facbook Workplace Group. The first list displays all templates that has been created so far, for example:
 
 .. image:: teamwork-templates-v7.png
 
@@ -26,10 +26,10 @@ What is different for a Microsoft 365 Team Group is the Setup step:
 + **User can select language**: Select this option to enable language selection by the user creating the site.
 + **Time Zones**: Select the correct time zone here.
 + **User can select time zone**: Select this option to enable time zone selection by the user creating the site.
-+ **Welcome Page**: Choose to link to a Sharepoint site or to Microsoft Teams.
++ **Welcome Page**: Choose to link to a SharePoint site or to Microsoft Teams.
 + **Privacy**: Decide if the Group should be Private or Public.
 
-Sharepoint Team Site
+SharePoint Team Site
 ------------------------------------------------------------
 For a Sharepoint Team Site, these settings are available for Setup:
 
