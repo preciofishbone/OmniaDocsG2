@@ -164,11 +164,11 @@ Using this option you can attach any Teamwork Site to Omnia. When a Teamwork Sit
 The following permissions are required to be able to attach a site:
 
 + For an Omnia Teamwork app: App Administrator permissions.
-+ For a Sharepoint site: Site Collection Administrator permissions.
++ For a SharePoint site: Site Collection Administrator permissions.
 
 Do the following to attach a site:
 
-1. Copy the Url for the Sharepoint site for the Teamwork you want to attach.
+1. Copy the Url for the SharePoint site for the Teamwork you want to attach.
 2. Go to Team Collaboration settings and click the plus.
 3. Select "Attach Site".
 
