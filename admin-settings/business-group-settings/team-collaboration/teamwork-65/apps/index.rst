@@ -48,7 +48,7 @@ If it should be needed to edit the App Instance, click the icon and the followin
 
 .. image:: teamwork-apps-app-instance-612-url.png
 
-Use the ADD IMAGE button to add an image for use in rollups. You can also edit Title, Description, Public Listing setting and edit the Sharepoint Url, if needed. SharePoint Url is not aplicable for all types of teamwork.  
+Use the ADD IMAGE button to add an image for use in rollups. You can also edit Title, Description, Public Listing setting and edit the SharePoint Url, if needed. SharePoint Url is not aplicable for all types of teamwork.  
 
 Pending Approval
 *****************
