@@ -44,7 +44,7 @@ Here's an example when a document has been published before. "Publish New Revisi
 
 .. image:: approval-3-new3.png
 
-When you click "Send", a task is created for the approver, and an e-mail is sent, with a link to the document. The task can look like this:
+When you click "Send", a task is created for the approver, and an email is sent, with a link to the document. The task can look like this:
 
 .. image:: approval-task-new3.png
  
