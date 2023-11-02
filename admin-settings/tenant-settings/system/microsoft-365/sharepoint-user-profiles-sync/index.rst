@@ -1,9 +1,9 @@
-Sharepoint User Profiles Sync
+SharePoint User Profiles Sync
 ==============================================
 
 This option was in earlier Omnia versions called "Azure AD Sync". Now, this option works this way:
 
-Use these advanced settings to make sure person properties are synchronized from Azure AD to Sharepoint. 
+Use these advanced settings to make sure person properties are synchronized from Azure AD to SharePoint. 
 
 **Note:** The Azure AD Sync must now be set up to use SharePoint Addin App identity instead of a user account. This will allow the tenant to turn off legacy sign in and still use the Azure AD Sync, see *Enable Sharepoint App-Only* below.
 
