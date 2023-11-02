@@ -15,7 +15,7 @@ Open a category to see the list of properties. Here's an example:
 
 Click the pen to edit a property. See below for editable settings. If it's possible to delete a property (meaning move it to the Property Recycle Bin) a dust bin is displayed.
 
-**Note!** Term sets to be used as properties for targeting in Omnia, must be set to "Available for tagging" in Sharepoint, but we recommend that you set this for all Sharepoint term sets.
+**Note!** Term sets to be used as properties for targeting in Omnia, must be set to "Available for tagging" in SharePoint, but we recommend that you set this for all SharePoint term sets.
 
 Adding a Property
 *********************
@@ -34,17 +34,17 @@ Use the following settings:
 
 **Note!** Properties used for targeting must be of the "Taxonomy" type.
 
-Some, but not all properties can be selected as Sharepoint Searchable and/or Microsoft Searchable. Then, open the option and select it, for example:
+Some, but not all properties can be selected as SharePoint Searchable and/or Microsoft Searchable. Then, open the option and select it, for example:
 
 .. image:: tenant-properties-settings-more-v7.png
 
 Editing a property
 **********************
-When editing a property, a few more settings can be available under Sharepoint Searchable. What is available for editing differs from property to property. Here's an example:
+When editing a property, a few more settings can be available under SharePoint Searchable. What is available for editing differs from property to property. Here's an example:
 
 .. image:: tenant-properties-settings-edit-v7.png
 
-**Note!** If you change setting for Sharepoint Searchable it's only valid for new pages created from here on. If you want this setting to be active for all existing pages as well, you must execute Renidex for all Publishing Apps using this property, in the Publishing App settings:
+**Note!** If you change setting for SharePoint Searchable it's only valid for new pages created from here on. If you want this setting to be active for all existing pages as well, you must execute Renidex for all Publishing Apps using this property, in the Publishing App settings:
 
 .. image:: tenant-properties-settings-sync-v7-frame.png
 
