@@ -11,7 +11,7 @@ Just do this:
 
 1. Add a title for the app.
 2. Add a description.
-3. Add the home url.
+3. Add the home URL.
 4. click GENERATE.
 
 The app is created and downloaded as a zip to your Download library.
