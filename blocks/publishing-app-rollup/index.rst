@@ -59,7 +59,7 @@ Here you can add filters so users can filter (= choose what to see in the rollup
 
 .. image:: publishing-app-rollup-settings-filter-v7.png
 
-Filter options in Omnia v7 are described on this page: :doc:`Filter options for blocks in Omnia 7.0 </blocks/general-block-settings/filter-options-block/index>`
+Filter options in Omnia v7 are described on this page: :doc:`Filter options for blocks in Omnia v7 </blocks/general-block-settings/filter-options-block/index>`
 
 Layout and Write
 *********************
