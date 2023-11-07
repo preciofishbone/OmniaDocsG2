@@ -100,9 +100,9 @@ For content, the following is available:
 
 .. image:: omnia-feed-link-tab-content-v7.png
 
-You can choose to use a "Web Url link" or a "Deep link". Then add the link below. A deep link can be used to link to another app, or content in another app, on the users device.
+You can choose to use a "Web URL link" or a "Deep link". Then add the link below. A deep link can be used to link to another app, or content in another app, on the users device.
 
-Note the information about Omnia Url links.
+Note the information about Omnia URL links.
 
 Embedded Link tab
 **********************
@@ -114,11 +114,11 @@ General tab settings are available for "General" and "Targeting", see above.
 
 Content
 -----------
-Add the Url for the embedded link here and select what should be shown as the tab title, the Business Profle title or the the web page title:
+Add the URL for the embedded link here and select what should be shown as the tab title, the Business Profle title or the the web page title:
 
 .. image:: omnia-feed-embedded-link-v7.png
 
-Note the information about Omnia Url:s.
+Note the information about Omnia URL:s.
 
 Activity Feed tab
 **********************
