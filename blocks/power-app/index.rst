@@ -17,11 +17,11 @@ Here you can add a title for the block.
 
 App
 -----
-Add the Url to the app here.
+Add the URL to the app here.
 
 .. image:: power-app-settings-app.png
 
-When you have added the Url you will be able to set some colors. 
+When you have added the URL you will be able to set some colors. 
 
 Display
 --------
