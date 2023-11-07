@@ -45,7 +45,7 @@ A process can be moved to any other Team Site, if needed. **Note!** If a draft h
 
 Here's how:
 
-1. Go to the target Team Site and copy the Url.
+1. Go to the target Team Site and copy the URL.
 2. Go to the source Team Site and click the dot menu for the process.
 3. Select "Move Process".
 
@@ -53,9 +53,9 @@ The following is shown:
 
 .. image:: process-move-v7.png
 
-4. Paste Url to the target Team Site, or type the Url if you haven't copied it.
+4. Paste URL to the target Team Site, or type the URL if you haven't copied it.
 5. Click RESOLVE.
-6. If the Url is correct, the name of the target Team Site should now be shown.
+6. If the URL is correct, the name of the target Team Site should now be shown.
 7. Click MOVE.
 
 Delete or restore a published process
