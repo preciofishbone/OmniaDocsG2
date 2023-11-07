@@ -47,7 +47,7 @@ To add a link to a page, do the following:
 
 .. image:: add-link-page-new3.png
 
-If the Page Collection isn't present in the list, select "Others..." so you can add the Url to any Page Collection.
+If the Page Collection isn't present in the list, select "Others..." so you can add the URL to any Page Collection.
 
 .. image:: select-other-new.png
 
