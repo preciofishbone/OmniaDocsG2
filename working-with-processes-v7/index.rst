@@ -1,4 +1,4 @@
-Working with processes in Omnia 7.0
+Working with processes in Omnia v7
 ================================================
 
 In this part of the documentation you will find information about how to work with processes in Omnia 7.0 and later.
