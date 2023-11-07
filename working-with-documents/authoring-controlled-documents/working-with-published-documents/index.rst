@@ -158,7 +158,7 @@ Note the message about what will happen with document properties. And in this ex
  
 3.	Type the URL (or paste, if you have copied it) to the site in the top field and click "Resolve". 
 
-**Note!** You should type or paste the Url to the site, note the Controlled Documents library. If the Url is not correct (meaning pointing to the site only) you will get the message that site does not contain a Controlled Documents library.
+**Note!** You should type or paste the URL to the site, note the Controlled Documents library. If the URL is not correct (meaning pointing to the site only) you will get the message that site does not contain a Controlled Documents library.
 
 If the URL is correct the site title is shown in the second field - Site Title.
 
