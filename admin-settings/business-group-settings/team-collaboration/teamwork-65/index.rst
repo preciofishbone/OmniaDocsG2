@@ -1,7 +1,7 @@
 Teamwork
 ===============
 
-This page and the pages available here, describes how these options work in Omnia 6.13. For Omnia 7.0 and later, see this page: :doc:`Teamwork settings in Omnia 7 </admin-settings/business-group-settings/team-collaboration/teamwork-v7/index>`
+This page and the pages available here, describes how these options work in Omnia 6.13. For Omnia 7.0 and later, see this page: :doc:`Teamwork settings in Omnia v7 </admin-settings/business-group-settings/team-collaboration/teamwork-v7/index>`
 
 These options are available in Omnia 6.13:
 
