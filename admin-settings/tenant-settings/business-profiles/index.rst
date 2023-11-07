@@ -1,8 +1,6 @@
 Business Profiles
 ===========================================
 
-**This page is being edited. Will be finsished soon.**
-
 Within a Tenant several Business Profiles can be used, for different settings, for different areas of the Tenant. Even if you will have the same settings everywhere in the Tenant, you still need at least one Business Profile, to set, for example, Themes (Colors) and Content Header Settings.
 
 Settings for Teamwork, the Notification Panel, Search, Event Management, Worspace and App Templates are also found among the Business Profile settings, to just mention som of the settings for a Business Profile.
@@ -40,22 +38,22 @@ Use the following settings:
 .. image:: business-profile-add-v7.png
 
 + **Title**: Add a Title (name) for the Business Profile here.
-+ **Use Custom Home Url**: Select this option to set Custom Home Urls, see below. 
-+ **Omna Alias**: Add the Url for the Business Profile here.
++ **Use Custom Home URL**: Select this option to set Custom Home Urls, see below. 
++ **Omna Alias**: Add the URL for the Business Profile here.
 + **Business Profile Administrators**: Add one or more administrators for the business profile here.
-+ **Business Profile Viewers**: Add one or more colleagues and/or groups that should be able to use thebusiness profile.
++ **Business Profile Viewers**: Add one or more colleagues and/or groups that should be able to use the business profile.
 
 Permissions for different parts of the business profile can then be set here: :doc:`Permissions for a business profile </admin-settings/business-group-settings/permissions/index>`
 
 You must be tenant administrator or administrator for the business profile, to edit the settings there.
 
-Custom Home Url
+Custom Home URL
 -----------------
-When you select "Use Custom Home Url", the following is available:
+When you select "Use Custom Home URL", the following is available:
 
 .. image:: business-profile-add-custom-v7.png
 
-Set the default home Url (the globe). You can also set a Url for the link when it’s clicked in Teams (not applicable in Omnia on-prem).
+Set the default home URL (the globe). You can also set a URL for the link when it’s clicked in Teams (not applicable in Omnia on-prem).
 
 Edit a business profile
 **************************
