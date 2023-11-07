@@ -9,6 +9,6 @@ Setup a Process Library
 3. Browse into the site > Processes.
 4. Click on Permissions in the right-hand side of the Process Library and add the appropriate users/groups.
 
-Note! Once you have setup the Process Directory and a common web page to view processes on, you can use this page as the preview url in the Process Library.
+Note! Once you have setup the Process Directory and a common web page to view processes on, you can use this page as the preview URL in the Process Library.
 
 .. image:: setup-processlibrary-preview.png
