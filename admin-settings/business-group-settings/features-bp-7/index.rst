@@ -1,7 +1,7 @@
-Features (Business Profile) in Omnia 7.0
+Features (Business Profile) in Omnia v7
 =============================================
 
-This page describes Business Profile features in Omnia 7.0.
+This page describes Business Profile features in Omnia 7.0 and later.
 
 Descriptions and options
 *************************
