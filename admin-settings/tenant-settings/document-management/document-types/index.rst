@@ -170,7 +170,7 @@ When you choose to create a task, this is shown:
 
 Archive
 ----------
-Use this tab to decide if documents of this document type should be archived or not. If the document type should be archived, you can set archive to be used, by adding the Url. You don't have to add a Url to use the default archive.
+Use this tab to decide if documents of this document type should be archived or not. If the document type should be archived, you can set archive to be used, by adding the URL. You don't have to add a URL to use the default archive.
 
 .. image:: document-types-archive-v7.png
 
