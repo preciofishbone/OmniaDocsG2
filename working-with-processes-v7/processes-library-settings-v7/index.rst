@@ -23,7 +23,7 @@ Here you can set the following:
 
 + **Default tab**: Decide which tab will be shown when an author enters the library.
 + **Hide Tasks Tab**: If the Tasks tab should not be displayed for authors, select this option.
-+ **Preview Page Url**: You can add the Url to a page to be used for process previews here. If you don't, a default Omnia page will be used for previews.
++ **Preview Page URL**: You can add the URL to a page to be used for process previews here. If you don't, a default Omnia page will be used for previews.
 
 Published
 --------
