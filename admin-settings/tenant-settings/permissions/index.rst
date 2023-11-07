@@ -74,7 +74,7 @@ To be able to use OpenAI text functionality within Omnia, the tenant feature Omn
 
 Azure OpenAI Dall-E Configuration
 ------------------------------------
-To be able to use the Dall-E functionality within Omnia, the tenant feature Omnia.OpenAI.Ux.DallEProvider.FeatureTitek must be activated. When that is done, an API key and an API base Url must be entered here.
+To be able to use the Dall-E functionality within Omnia, the tenant feature Omnia.OpenAI.Ux.DallEProvider.FeatureTitek must be activated. When that is done, an API key and an API base URL must be entered here.
 
 .. image:: dall-e-secret.png
 
