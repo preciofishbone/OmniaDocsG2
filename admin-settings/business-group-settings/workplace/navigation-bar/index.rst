@@ -132,7 +132,7 @@ The follwing settings are then available:
 + **Icon Type/Icon**: You can edit the settings for icon here.
 + **Inherit size from mega menu settings**: Per default, this object has the same size settings as the whole mega menu. If you want to set specific size settings for this object, deselect the option.
 + **Targeting**: Here you can set targeting for the mega menu object. See below for more information.
-+ **A list of start Url's that will make the node selected**: This is a way of showing how different parts of the solution is connected. Any Url can make this node selected.
++ **A list of start URLs that will make the node selected**: This is a way of showing how different parts of the solution is connected. Any URL can make this node selected.
 
 Here's an example:
 
