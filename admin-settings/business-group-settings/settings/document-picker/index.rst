@@ -25,7 +25,7 @@ To create a new category, do the following:
 
 + **Title**: You can add a title for the caterogory in any or all available languages. Default language is mandatory.
 + **SharePoint Library/Search category**: A Document Picker category can either be a SharePoint library or a search category. Select what you will create here.
-+ **Share point Library Url**: If you selected "SharePoint Library" above, add the Url to the library here.
++ **Share point Library URL**: If you selected "SharePoint Library" above, add the URL to the library here.
 + **Allow user to upload document**: If you create a category for a SharePoint library you can allow uppload to this libary in the Document Picker, by selecting this option.
 
 Settings for Search Category
