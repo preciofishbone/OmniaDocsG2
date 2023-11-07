@@ -1,6 +1,8 @@
 Publish - the approval workflow for processes in Omnia v7
 ===========================================================
 
+This page describes the approval workflow in Omnia 7.0 and later.
+
 When a process has reached a final version, it must be published, and if approval is activated, be approved for publication, to be available for end users. To do that, you start an Approval Workflow.
 
 The process must be checked in and all mandatory properties must be set before the Approval Workflow can be started. If all mandatory properties has not been added, the Approval Workflow can not be started. 
