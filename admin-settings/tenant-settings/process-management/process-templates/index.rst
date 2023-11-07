@@ -1,7 +1,7 @@
 Process Templates
 ===================
 
-This page describes Process Templates options in Omnia 6.13 and earlier. Options in Omnia 7.0 and later is quite different, described on this page: :doc:`Process Templates in Omnia 7.0 </admin-settings/tenant-settings/process-management/process-templates-omnia-7/index>`
+This page describes Process Templates options in Omnia 6.13 and earlier. Options in Omnia 7.0 and later is quite different, described on this page: :doc:`Process Templates in Omnia v7 </admin-settings/tenant-settings/process-management/process-templates-omnia-7/index>`
 
 A process template is a set of shapes. One or more process templates can be added to a process type.
 
