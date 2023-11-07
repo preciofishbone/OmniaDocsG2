@@ -1,5 +1,7 @@
-Save, check in or discard when authoring a process in Omnia 7.0
+Save, check in or discard when authoring a process in Omnia v7
 ==================================================================
+
+This page applies to Omnia 7.0 and later.
 
 When you edit a draft changes are saved automatically and it is noted this way:
 
