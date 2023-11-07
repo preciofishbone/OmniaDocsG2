@@ -101,14 +101,14 @@ The following permissions are required to be able to attach:
 
 Do the following to attach a site:
 
-1. Copy the Url for the teamwork you want to attach.
+1. Copy the URL for the teamwork you want to attach.
 2. Select ATTACH SITE.
 
 The following is shown:
 
 .. image:: team-collaboration-attach-v7.png
 
-3. Paste the Url and click RESOLVE.
+3. Paste the URL and click RESOLVE.
 
 You can "detach" (delete) a site if needed. Then the following permissions are needed:
 
