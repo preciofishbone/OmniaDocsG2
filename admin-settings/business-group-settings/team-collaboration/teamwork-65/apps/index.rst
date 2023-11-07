@@ -168,7 +168,7 @@ The following permissions are required to be able to attach a site:
 
 Do the following to attach a site:
 
-1. Copy the Url for the SharePoint site for the Teamwork you want to attach.
+1. Copy the URL for the SharePoint site for the Teamwork you want to attach.
 2. Go to Team Collaboration settings and click the plus.
 3. Select "Attach Site".
 
@@ -178,7 +178,7 @@ The following is shown:
 
 .. image:: team-collaboration-attach-612.png
 
-3. Paste the Url and click "Resolve".
+3. Paste the URL and click "Resolve".
 
 You can "detach" (delete) a site if needed. Then the following permissions are needed:
 
