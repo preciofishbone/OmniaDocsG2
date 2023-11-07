@@ -52,7 +52,7 @@ Process Archive
 .. image:: process-archive-613-feature.png
 
 20. Click on Process Management in Omnia Admin and click on Settings.
-21. Add the full url to the newly created site in the Archive Site Url and save.
+21. Add the full URL to the newly created site in the Archive Site URL and save.
 
 .. image:: process-archive-613-url.png
 
