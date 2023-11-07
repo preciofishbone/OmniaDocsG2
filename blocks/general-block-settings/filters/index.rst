@@ -3,7 +3,7 @@ Filter UI
 
 Here's a general description on how to add filters for a block in Omnia 6.13 and earlier, when the option is available. Here, all options are describe, even if all is not available everywhere.
 
-For a description of filter options in Omnia 7.0 and later, see: :doc:`Filter options for blocks in Omnia 7.0 </blocks/general-block-settings/filter-options-block/index>`
+For a description of filter options in Omnia 7.0 and later, see: :doc:`Filter options for blocks in Omnia v7 </blocks/general-block-settings/filter-options-block/index>`
 
 The first step is:
 
