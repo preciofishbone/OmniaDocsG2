@@ -63,7 +63,7 @@ If users should be able to filter the list, use these options to add filters.
 
 See this page for more information on how to add filters to a block: :doc:`Filter UI </blocks/general-block-settings/filters/index>`
 
-In Omnia 7.0 and later, new options for filtering can be available, see: :doc:`Filter options for blocks in Omnia 7.0 </blocks/general-block-settings/filter-options-block/index>`
+In Omnia 7.0 and later, new options for filtering can be available, see: :doc:`Filter options for blocks in Omnia v7 </blocks/general-block-settings/filter-options-block/index>`
 
 Layout and Write
 *********************
