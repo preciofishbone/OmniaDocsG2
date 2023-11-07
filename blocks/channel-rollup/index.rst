@@ -44,7 +44,7 @@ Here you can choose to display a search field:
 
 .. image:: channel-rollup-settings-filter.png
 
-In Omnia 7.0 and later, new options for filtering can be available, see: :doc:`Filter options for blocks in Omnia 7.0 </blocks/general-block-settings/filter-options-block/index>`
+In Omnia 7.0 and later, new options for filtering can be available, see: :doc:`Filter options for blocks in Omnia v7 </blocks/general-block-settings/filter-options-block/index>`
 
 Layout and Write
 ******************
