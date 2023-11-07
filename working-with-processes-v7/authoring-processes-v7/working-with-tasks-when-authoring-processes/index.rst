@@ -1,5 +1,7 @@
-Working with tasks when authoring processes in Omnia 7.0
+Working with tasks when authoring processes in Omnia v7
 ===========================================================
+
+This page describes how working with process tasks work in Omnia 7.0 and later.
 
 Using the Tasks tab you can see three different lists:
 
