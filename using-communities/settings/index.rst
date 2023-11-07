@@ -18,7 +18,7 @@ Do the following to create a community:
 
 3. Create at least one template, as describe here: :doc:`Templates for Communities </admin-settings/business-group-settings/communities/communities-65/templates/index>`. 
 4. Create a community site according to the description on this page: :doc:`Communities Apps </admin-settings/business-group-settings/communities/communities-65/apps/index>`
-5. When the site has been created, you can use the link (Title) in Communities to go to the site. (To get the Url, you can also right click on the title and copy the link address).
+5. When the site has been created, you can use the link (Title) in Communities to go to the site. (To get the URL, you can also right click on the title and copy the link address).
 6. Setup access to the community some way, using the Url. (More information about that below.)
 
 Setting up access to communities
