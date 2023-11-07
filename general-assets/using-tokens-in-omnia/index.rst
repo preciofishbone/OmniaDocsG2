@@ -14,10 +14,10 @@ Examples of tokens that can be used:
 + {User.Email} - Logged in user's email.
 + {User.Language} - User selected language as ISO language code.
 + {SPSite.Id} - SharePoint id for the current site.
-+ {SPSite.FullUrl} - Communication url of the current Omnia page.
++ {SPSite.FullUrl} - Communication URL of the current Omnia page.
 + {Page.Id} - Id of the SharePoint folder.
-+ {Page.SPPath} - Full url to the folder where the page is located in Site Pages. Example: (Path:{Page.SPPath}).
-+ {Variation.Segment} - Url segment of the current variation.
++ {Page.SPPath} - Full URL to the folder where the page is located in Site Pages. Example: (Path:{Page.SPPath}).
++ {Variation.Segment} - URL segment of the current variation.
 + {TargetingProperty.InternalName} - TermID of matching property of current user.
 + {AppInstance.InternalName} - TermID of matching property of current user.
 
