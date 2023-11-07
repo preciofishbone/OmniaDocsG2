@@ -11,7 +11,7 @@ Custom link
 ************
 The following settings are available:
 
-+ **Url**: Paste or type the Url (link) in this field. 
++ **URL**: Paste or type the URL (link) in this field. 
 + **Title**: Type a text to be shown for the clickable link.
 + **Anchor Name**: To create a Custom link to an anchor, type the anchor name in this field.
 + **Open in new window**: If the link should be opened in a new window, select this option. If not selected the link opens in the' same window.
