@@ -62,7 +62,7 @@ Document Archive
 
 19. Activate the features Archived Documents and SPFx Infrastructure on the newly created site.
 20. Click on Document Management in Omnia Admin and click on Settings.
-21. Put in the full url to the newly created site in the Archive Site Url and save.
+21. Put in the full URL to the newly created site in the Archive Site Url and save.
 
 
 Document Authors
