@@ -44,7 +44,7 @@ Users can normally add personal links to their My links list. Here's an instruct
 .. image:: personal-link-1-new.png
 
 + **Title**: Type a text to be shown for the clickable link.
-+ **Url**: Paste or type the Url (link) in this field.
++ **URL**: Paste or type the URL (link) in this field.
 + **Category**: Select an existing Category from the list or create a new Category by typing in the field.
 + **Information**: Add information about the link for your own use. If added, an i-icon is shown by the link, see noted above.
 + **Open in new window**: If the link should be opened in a new window, select this option. If not selected the link opens in th same window.
