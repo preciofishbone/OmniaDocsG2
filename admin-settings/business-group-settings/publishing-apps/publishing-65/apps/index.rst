@@ -81,9 +81,9 @@ Available settings depends on how the template is set up. Here are some common e
 + **Description**: Add a Description if needed.
 + **Add Image**: The editor setting up a Publishing Rollup can choose to show images for the apps, both for List and for Card display. Here you can select an image to be shown there, using the Media Picker. When an image has been selected it can be deleted or edited using the X and the pen that is shown then.
 + **Show in Public Listings**: If a link to the app should be available in public listings (meaning listings in Omnia) select this option. If this option is deselected, the app can only be reached by specific links, for example in a Workspace navigation.
-+ **Sharepoint Alias**: The last part of the Url to the Publishing App is shown here. It can be edited if needed.
++ **Sharepoint Alias**: The last part of the URL to the Publishing App is shown here. It can be edited if needed.
 + **Omnia Alias**: The last part of the address to the site is created automatically but can be edited if necessary. If the name (address) already exists an alternative address is suggested.
-+ **Document Library Url**: To make the Publishing App's Document library available in for example the Add Link asset and in the Document Picker, the full Sharepoint Url to the Document library must be added here.
++ **Document Library Url**: To make the Publishing App's Document library available in for example the Add Link asset and in the Document Picker, the full Sharepoint URL to the Document library must be added here.
 + **Allow User Upload Document**: The Administrator of the Publishing App will always be able to upload documents to the Document Library. If end users should be able to do that as well, select this option.
 
 4. Click "Next" and use the following settings:
