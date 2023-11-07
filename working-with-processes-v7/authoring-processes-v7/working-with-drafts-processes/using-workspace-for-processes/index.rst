@@ -1,4 +1,4 @@
-Using the work space for processes in Omnia 7.0
+Using the work space for processes in Omnia v7
 ================================================
 
 In Omnia 7.0 and later, three different modes are available. The Default mode is Preview where you can see the progress of your work. Here's an example:
