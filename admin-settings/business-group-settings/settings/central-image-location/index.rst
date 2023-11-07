@@ -25,5 +25,5 @@ Use these settings:
 
 .. image:: central-image-locations-settings-new.png
 
-+ **Url to Image Library**: Type or paste the Url here.
++ **URL to Image Library**: Type or paste the URL here.
 + **Display Name**: Add the name to be shown in the lists.
