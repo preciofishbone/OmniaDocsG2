@@ -54,7 +54,7 @@ If you're using Draftable's solution for comparing changes in controlled documen
 
 .. image:: secrets-draftable-v7-frame.png
 
-A default Base Url is added but can be edited if needed. 
+A default Base URL is added but can be edited if needed. 
 
 Azure AD SharePoint Sync App
 -------------------------------
@@ -68,7 +68,7 @@ For more information on Azure AD Sync, see: :doc:`Azure AD Synchronization setti
 
 Azure OpenAI Text Completion Configuration
 --------------------------------------------
-To be able to use OpenAI text functionality within Omnia, the tenant feature Omnia.OpenAI.ChatOpenAIPanel.TextCompletion must be activated. When that is done, an API key and an API base Url must be entered here.
+To be able to use OpenAI text functionality within Omnia, the tenant feature Omnia.OpenAI.ChatOpenAIPanel.TextCompletion must be activated. When that is done, an API key and an API base URL must be entered here.
 
 .. image:: azure-open-ai-secret.png
 
