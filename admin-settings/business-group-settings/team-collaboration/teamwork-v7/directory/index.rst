@@ -86,7 +86,7 @@ Using the action EDIT you can edit the settings for a teamwork. What can be edit
 
 .. image:: edit-teamwork.png
 
-+ **SharePoint Url**: The app instance connected site's Url can be edited here, if needed.
++ **SharePoint URL**: The app instance connected site's URL can be edited here, if needed.
 
 For a description of the rest of the options, see above.
 
