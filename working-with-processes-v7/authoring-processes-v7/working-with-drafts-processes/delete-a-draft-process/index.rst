@@ -1,5 +1,7 @@
-Delete a draft process in Omnia 7.0
+Delete a draft process in Omnia v7
 ================================================
+
+This page describes how deleting a process works in Omnia 7.0 and later.
 
 You can delete a draft process. When you do, it's placed in a recycle bin where you can restore it or delete it permanently. 
 
