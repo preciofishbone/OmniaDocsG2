@@ -5,7 +5,7 @@ All available Features for the Tenant is listed here and can be activated, deact
 
 Exactly what is available can differ depending on how the Tenant is set up and the version of Omnia. 
 
-This page describes features available in Omnia 6.13 and earlier. For features in Omnia 7.0, see: :doc:`Features (Tenant) in Omnia 7.0 </admin-settings/tenant-settings/features-tenant-7/index>`
+This page describes features available in Omnia 6.13 and earlier. For features in Omnia 7.0 and later, see: :doc:`Features (Tenant) in Omnia v7 </admin-settings/tenant-settings/features-tenant-7/index>`
 
 Add-ons
 *********
