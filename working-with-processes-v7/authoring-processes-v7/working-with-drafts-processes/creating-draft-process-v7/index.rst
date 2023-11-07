@@ -1,5 +1,7 @@
-Creating a draft process in Omnia 7.0
+Creating a draft process in Omnia v7
 ================================================
+
+This page descibes how to create a draft process in Omnia 7.0 and later.
 
 Do the following to create a new Process:
 
