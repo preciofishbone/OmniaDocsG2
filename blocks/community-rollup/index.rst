@@ -55,7 +55,7 @@ Here you can add filters so users can filter (= choose to just see some) of a lo
 
 .. image:: add-filter-communities-v7.png
 
-Filter options in Omnia v7 are described on this page: :doc:`Filter options for blocks in Omnia 7.0 </blocks/general-block-settings/filter-options-block/index>`
+Filter options in Omnia 7.0 and later are described on this page: :doc:`Filter options for blocks in Omnia v7 </blocks/general-block-settings/filter-options-block/index>`
 
 Follow and describe to a community
 *************************************
