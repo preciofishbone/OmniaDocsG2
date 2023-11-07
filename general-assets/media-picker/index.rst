@@ -136,8 +136,8 @@ To add a video, select one of the providers that are set up, for example your co
 Here's how to add a video:
 
 1. Go to the video.
-2. Copy the Url for the video.
-3. Paste the Url here.
+2. Copy the URL for the video.
+3. Paste the URL here.
 
 Now the following settings are available:
 
