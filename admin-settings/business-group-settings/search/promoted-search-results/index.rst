@@ -33,7 +33,7 @@ Do the following:
 
 .. image:: promoted-search-results-settings.png
 
-+ **Url**: Type or paste a Url that a click on the heading should go to.
++ **URL**: Type or paste a URL that a click on the heading should go to.
 + **Title**: Type the clickable heading that will be shown in Advanced Search, in any or all tenant languages (click the flag to change language). An example is shown in the top image.
 + **Description**: This text will be shown under the heading, in any or all tenant languages (click the flag to change language). An example is shown in the top image.
 + **ADD IMAGE**: If you want, you can add an image to be shown by the promoted search result (see example in the top image).
