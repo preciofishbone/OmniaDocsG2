@@ -69,7 +69,7 @@ Using the action EDIT you can edit the settings for a community. What can be edi
 
 .. image:: edit-community.png
 
-+ **Sharepoint URL**: The app instance connected site's Url can be edited here, if needed.
++ **Sharepoint URL**: The app instance connected site's URL can be edited here, if needed.
 
 For a description of the rest of the options, see above.
 
