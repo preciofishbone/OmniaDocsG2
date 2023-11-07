@@ -1,5 +1,7 @@
-Processes library settings in Omnia 7.0
+Processes library settings in Omnia v7
 ================================================
+
+This page describes the process library settings in Omnia 7.0 and later.
 
 You must be Administrator of the Team Site, to be able to edit the settings for the lists in the Processes library, and to edit permissions.
 
