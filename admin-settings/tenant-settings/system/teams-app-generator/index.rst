@@ -7,7 +7,7 @@ Use these options for an easy starting point creating an Teams App for Omnia, or
 
 Generate Omnia App
 **********************
-Add a title for the app, a description and the home url, and click GENERATE.
+Add a title for the app, a description and the home URL, and click GENERATE.
 
 The app is created and downloaded as a zip to your Download library.
 
