@@ -1,5 +1,7 @@
-The Tasks tab - authoring processes in Omnia 7.0
+The Tasks tab - authoring processes in Omnia v7
 ==================================================
+
+This page descibes how this works in Omnia 7.0 and later.
 
 Here you can create a To Do list for the process or process step.
 
