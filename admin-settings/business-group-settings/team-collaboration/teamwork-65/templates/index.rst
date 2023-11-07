@@ -29,7 +29,7 @@ The following settings are available here:
 + **Title**: Add a Title for the Template. You can add titles in a number of the languages available in the tenant. Default language is mandatory. Click the flag to change language.
 + **Description**: Add a Description if needed, in any or all tenant languages. Click the flag to change language.
 + **Icon Type**: An icon is always shown for a template. If you would like another icon for this template, select the set of icons here: Font Awesome, Microsoft, Flags or Custom. When selecting Custom you can choose any image as the icon.
-+ **Icon**: When you have select Icon Type, use this list to select the icon. If you select Custom, a URL field is shown, where you enter the Url for the image.
++ **Icon**: When you have select Icon Type, use this list to select the icon. If you select Custom, a URL field is shown, where you enter the URL for the image.
 + **Available to**: Here you can select "All users", "Specific users" or "Admins only". Deafault setting is Admins ony. When you select "Specific users", you can set which users the template will be available for, using the normal targeting functionality in Omnia. For more info, see below.
 + **Site Creation Mode**: Here you select if approval is required when users create sites from this template.
 
