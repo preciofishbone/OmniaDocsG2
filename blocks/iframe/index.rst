@@ -11,7 +11,7 @@ The following settings are available:
 
 You can use the top field to add a property type Data for Documents, when setting up Share Document functionality.
 
-The second field you can use to add an url to content to display in the iFrame.
+The second field you can use to add an URL to content to display in the iFrame.
 
 You can also set Width and Height for the block.
 
