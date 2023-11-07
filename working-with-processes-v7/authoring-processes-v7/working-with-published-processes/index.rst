@@ -1,5 +1,7 @@
-Working with published processes in Omnia 7.0
+Working with published processes in Omnia v7
 =======================================================
+
+This page describes how working with published processes works in Omnia 7.0 and later.
 
 The Published tab lists the latest edition of all published processes from this Processes library. 
 
