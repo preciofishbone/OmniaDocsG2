@@ -68,7 +68,7 @@ Save when you're done with the settings here.
 
 Archive
 ----------
-Here you set if archiving should be available for the process. If you select this option, you can enter the url to an archive site to be used, or leave the field empty to use the default archive in the tenant.
+Here you set if archiving should be available for the process. If you select this option, you can enter the URL to an archive site to be used, or leave the field empty to use the default archive in the tenant.
 
 .. image:: process-type-settings-archive-new.png
 
