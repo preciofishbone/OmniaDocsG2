@@ -22,6 +22,8 @@ Add all recipient's e-mails here, with semicolon as devider:
 
 .. image:: send-as-email-recipients-add.png
 
+Any colleauge or group that has an email address can be added to this list.
+
 You save by publishing. You can change the recipients anytime.
 
 Sending a page through email
