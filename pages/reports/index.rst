@@ -110,7 +110,7 @@ If you select "Use Query Builder", the following is shown:
 Add the query this way:
 
 1. Choose "Dynamic" or the name of the page collection.
-2. If you chose "Dynamic", select a token.
+2. If you chose "Dynamic", select a token by clicking the i-icon.
 
 .. image:: analysis-new-query-token.png
 
