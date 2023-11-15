@@ -102,7 +102,9 @@ If you're not certain, just click CLOSE here and nothing will happen.
 
 Restore a deleted page
 -------------------------
-To restore a deleted page (with it's sub pages, variations and drafts if that's applicable), do the following. Restoring a Page Collection or a Page Type works the same way. 
+To restore a deleted page, do the following. Restoring a Page Collection or a Page Type works the same way. 
+
+Note that when you restore a page, everything that was connected to the page when it was deleted is also restored, could be: sub pages, variations and drafts. 
 
 1. Click this icon on the right row:
 
