@@ -118,7 +118,7 @@ Something like the following is shown:
 
 If you would like to restore the page/pages to it's original place (if that still exist!), just click OK.
 
-If you would like, or need, to restore the page/pages somewhere else - or just want a better view of the information structure - click SELECT NAVIGATION NODE TO RESTORE.
+If you would like, or need, to restore the page/pages somewhere else - or just want a better view of the information structure - click SELECT NAVIGATION NODE TO RESTORE TO.
 
 .. image:: archive-parent-restore-1-new2-click.png
 
