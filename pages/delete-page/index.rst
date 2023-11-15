@@ -118,13 +118,13 @@ Something like the following is shown:
 
 If you would like to restore the page/pages to it's original place (if that still exist!), just click OK.
 
-If you would like, or need, to restore the page/pages somewhere else - or just want a better view of the information structure - click SELECT PARENT PAGE TO RESTORE (SELECT NAVIGATION NODE TO RESTORE TO).
+If you would like, or need, to restore the page/pages somewhere else - or just want a better view of the information structure - click SELECT NAVIGATION NODE TO RESTORE.
 
-.. image:: archive-parent-restore-1-new.png
+.. image:: archive-parent-restore-1-new2.png
 
 Now something like the following is shown:
 
-.. image:: archive-parent-restore-2-new.png
+.. image:: archive-parent-restore-2-new2.png
 
 Use the right part to select the parent node for the deleted page/pages to be placed under. Note that you can browse the list the find a sub page that should be the parent node. Click OK when you're finished.
 
