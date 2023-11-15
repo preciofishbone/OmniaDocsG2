@@ -112,7 +112,7 @@ Note that when you restore a page, everything that was connected to the page whe
 
 Something like the following is shown:
 
-.. image:: archive-restore-1-new.png
+.. image:: archive-parent-restore-1-new2.png
 
 2. Choose how to restore the page/pages and click OK.
 
@@ -120,7 +120,7 @@ If you would like to restore the page/pages to it's original place (if that stil
 
 If you would like, or need, to restore the page/pages somewhere else - or just want a better view of the information structure - click SELECT NAVIGATION NODE TO RESTORE.
 
-.. image:: archive-parent-restore-1-new2.png
+.. image:: archive-parent-restore-1-new2-click.png
 
 Now something like the following is shown:
 
