@@ -1,6 +1,10 @@
 Approve pages
 ===========================================
 
+This page describes approval of pages in a single step, by one approver, that has been available to set up in Omnia for quite a while. It's still available the same way as before, but in Omnia 7.1 and later a multi-step aporoval functionality is also availble, that can be configured in many different ways.
+
+The multi-step option is described on this page: (link)
+
 Omnia can be set up for approval of pages, meaning someone must approve publication of a new page or edits to a page. Approval is set up on Page Collection level (meaning you have to be Page Collection administrator to do that).
 
 The label for the Publish button will indicate if approval is required or not. If approval is not set up, the label will simply be PUBLISH:
