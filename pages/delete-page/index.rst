@@ -42,6 +42,7 @@ When deleting (archiving) a page, it may be possible to create a new draft. This
 
 + The page has no sub pages.
 + No variations are created for the page.
++ The page has been punlished at least once.
 
 When it is possible to create a draft when deleting, the following option is available:
 
