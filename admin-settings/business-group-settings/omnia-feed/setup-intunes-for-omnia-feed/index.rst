@@ -11,20 +11,23 @@ The "Omnia Feed 2" App (ab4ee7fd-4aa2-494b-82a2-fe16b8f2c3ff) must have the perm
 
 .. image:: intune-omnia-2.png 
 
-+ Setup Intune for Tenant.
++ Setup Intune for the Tenant.
 + Set up Microsoft Intune | Microsoft Learn.
-+ Before continuing, ensure the folllowing config is don in Intune: Config Apple enrollment, Android enrollment
++ Before continuing, ensure the folllowing configuration is done in Intune: Config Apple enrollment, Android enrollment.
 
 Create App Protection Policies
 *************************************
 In this step, setup an app protection policy for the Omnia Feed App. It should be done for both Android and iOS.
 
-Follow the instructions in this Microsoft document: https://docs.microsoft.com/en-us/mem/intune/apps/app-protection-policies#app-protection-policies-for-iosipados-and-android-apps
+1. Follow the instructions in this Microsoft document: https://docs.microsoft.com/en-us/mem/intune/apps/app-protection-policies#app-protection-policies-for-iosipados-and-android-apps
+2. Go to Microsoft Endpoint Manager : https://endpoint.microsoft.com/
+3. In the menu, select “Apps” => “App protection policies”.
 
-Go to Microsoft Endpoint Manager : https://endpoint.microsoft.com/
-Select in side menu “Apps” => “App protection policies”
+.. image:: intune-omnia-3.png 
 
-Create policy for Android or iOS => put a title for the policy => go to second screen config “Apps” => “select custom apps”
+4. Create policy for Android or iOS => put a title for the policy => go to second screen config “Apps” => “select custom apps”.
+
+.. image:: intune-omnia-4.png
 
 New popup will show => in this popup put in the “Package Id” => Then click on Add button
  Android: se.precio.news
