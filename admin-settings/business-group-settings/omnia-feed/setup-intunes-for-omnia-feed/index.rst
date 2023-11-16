@@ -54,7 +54,9 @@ Notice in step 6 “Assignments” you will need to configure a deploy group for
  
 **Note!** It can take some time before you see the effect of the new policy.
 
-If app have Intune SDK and setup app protection correctly first time open app will show this screen like below
+If the app have Intune SDK and the setup has been done correctly, the first time the app is open, something like the following is shown.
+
+.. image:: intune-omnia-8.png
 
 2. Setup Conditional Access
 *****************************
