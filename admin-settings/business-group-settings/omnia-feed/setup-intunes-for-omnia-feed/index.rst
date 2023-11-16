@@ -36,7 +36,7 @@ In this step, setup an app protection policy for the Omnia Feed App. It should b
  
 7. Select the custom added app.
 
-.. image:: intune-omnia-5.png
+.. image:: intune-omnia-6.png
  
 Then you will see the custom app in the list of apps.
 
@@ -46,17 +46,17 @@ Notice in step 6 “Assignments” you will need to configure a deploy group for
 
 9. Then create the policy.
 
-.. image:: intune-omnia-6.png
+.. image:: intune-omnia-7.png
 
 10. Verify that policy is deployed.
 
-.. image:: intune-omnia-7.png
+.. image:: intune-omnia-8.png
  
 **Note!** It can take some time before you see the effect of the new policy.
 
 If the app have Intune SDK and the setup has been done correctly, the first time the app is open, something like the following is shown.
 
-.. image:: intune-omnia-8.png
+.. image:: intune-omnia-9.png
 
 2. Setup Conditional Access
 *****************************
