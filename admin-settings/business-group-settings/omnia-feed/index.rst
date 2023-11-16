@@ -30,3 +30,5 @@ If it, for any reason, should be needed to reset the app - for example if an imp
 Intune users
 **************
 Important information when setting up the tenant: If the customer is using Intune/conditional access that requires device authentication, the AM editor must be informed so the necessary settings for this will be done. Also note that when this is the case, Omnia Feed for Android will require access to the Contacts list on the device.
+
+For more advice on settings up Intune for Omnia Feed, see this page: (to add)
