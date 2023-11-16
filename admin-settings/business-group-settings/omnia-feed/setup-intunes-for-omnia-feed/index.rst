@@ -11,11 +11,9 @@ The "Omnia Feed 2" App (ab4ee7fd-4aa2-494b-82a2-fe16b8f2c3ff) must have the perm
 
 .. image:: intune-omnia-2.png 
 
-
-Setup Intune for Tenant (should do by customer) 
-Set up Microsoft Intune | Microsoft Learn
-Before continuing should ensure config Intune:
--	Config Apple enrollment, Android enrollment
++ Setup Intune for Tenant.
++ Set up Microsoft Intune | Microsoft Learn.
++ Before continuing, ensure the folllowing config is don in Intune: Config Apple enrollment, Android enrollment
 
 1. Create App Protection Policies
 *************************************
