@@ -3,7 +3,7 @@ Setup Intune for Omnia Feed
 
 **This page is just started. Please come back in i few days.**
 
-This document is guideline for setting up Intune for Omnia Feed App.
+This document is guideline for setting up Intune for the Omnia Feed App.
 
 Ensure give “Omnia Feed 2” App (ab4ee7fd-4aa2-494b-82a2-fe16b8f2c3ff) permission “Microsoft Mobile Application Management”
 
@@ -14,6 +14,7 @@ Before continuing should ensure config Intune:
 -	Config Apple enrollment, Android enrollment
 
 1. Create App Protection Policies
+*************************************
 Setup app protection policy for Omnia Feed App, should create for both Android and iOS.
 Follow Microsoft document : https://docs.microsoft.com/en-us/mem/intune/apps/app-protection-policies#app-protection-policies-for-iosipados-and-android-apps
 
@@ -39,6 +40,7 @@ After config policy it can take some time to affect.
 If app have Intune SDK and setup app protection correctly first time open app will show this screen like below
 
 2. Setup Conditional Access
+*****************************
 Follow Microsoft document: https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/concept-conditional-access-policies
 
 Go to https://portal.azure.com => search for “Conditional Access” => 
