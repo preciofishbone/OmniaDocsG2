@@ -29,11 +29,14 @@ In this step, setup an app protection policy for the Omnia Feed App. It should b
 
 .. image:: intune-omnia-4.png
 
-5. In the popup shown => Add the “Package Id” => Then click on Add button
- Android: se.precio.news
- iOS: se.preciofishbone.omniafeed
+5. In the popup shown => Add the “Package Id” => Then click on the "Add" button.
+6. Add: Android: se.precio.news and iOS: se.preciofishbone.omniafeed
+
+.. image:: intune-omnia-5.png
  
-Select the custom added app 
+7. Select the custom added app.
+
+.. image:: intune-omnia-5.png
  
 After that you will see the custom app in list app
 
