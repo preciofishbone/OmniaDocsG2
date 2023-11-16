@@ -15,9 +15,9 @@ The "Omnia Feed 2" App (ab4ee7fd-4aa2-494b-82a2-fe16b8f2c3ff) must have the perm
 + Set up Microsoft Intune | Microsoft Learn.
 + Before continuing, ensure the folllowing config is don in Intune: Config Apple enrollment, Android enrollment
 
-1. Create App Protection Policies
+Create App Protection Policies
 *************************************
-Setup app protection policy for Omnia Feed App, should create for both Android and iOS.
+In this step, setup an app protection policy for the Omnia Feed App. It should be done for both Android and iOS.
 Follow Microsoft document : https://docs.microsoft.com/en-us/mem/intune/apps/app-protection-policies#app-protection-policies-for-iosipados-and-android-apps
 
 Go to Microsoft Endpoint Manager : https://endpoint.microsoft.com/
