@@ -7,7 +7,7 @@ Omnia Feed can be set up in many different ways to make it possible for users to
 
 Here's an example:
 
-.. image:: omnia-feed-test-new.png
+.. image:: omnia-feed-test-v7.png
 
 Any number of tabs can be set up for access to different resources. A tab can be set up for:
 
@@ -25,23 +25,43 @@ The Omnia Feed app can be downloaded from the usual sources, for example App Sto
 
 Regardless of how Omnia Feed is set up, using settings, a user can log out and select another Business Profile, if available.
 
+Regarding the feed, note that Sign-off requests, that needs actions from you, can be part od the feed.
+
+App settings
+---------------
 The settings are available here:
 
-.. image:: omnia-feed-settings-menu.png
+.. image:: omnia-feed-settings-menu-v7.png
 
 Available settings are the following:
 
-.. image:: omnia-feed-settings-available-new.png
+.. image:: omnia-feed-settings-available-v7.png
 
 Logging out is simply done by selecting "Sign out".
 
 To select another Business Profile (if available), select the Business Profile and choose another one on this page:
 
-.. image:: omnia-feed-settings-bp-new.png
+.. image:: omnia-feed-settings-bp-v7.png
 
 Also note that the App Version is displayed here:
 
-.. image:: omnia-feed-settings-version.png
+.. image:: omnia-feed-settings-version-v7.png
+
+Select another language
+--------------------------
+When you start the app for the first time you are most likely able to select language. When using the you can always change language ine the settings:
+
+.. image:: omnia-feed-settings-language.png
+
+All languages set up in the Tenant are available, for example:
+
+.. image:: omnia-feed-settings-language-select.png
+
+Clearing all notifications
+---------------------------
+All notifications that are pushed to the your device are stored there. If you don't want to save them for later, the can be deleted from the device. They will still be available through a computer.
+
+.. image:: omnia-feed-settings-language-clear.png
 
 Microsoft Authenticator or similar
 ---------------------------------------------
