@@ -9,6 +9,8 @@ This document is a guideline for setting up Intune for the Omnia Feed App.
 
 The "Omnia Feed 2" App (ab4ee7fd-4aa2-494b-82a2-fe16b8f2c3ff) must have the permission "Microsoft Mobile Application Management".
 
+.. image:: intune-omnia-2.png 
+
 
 Setup Intune for Tenant (should do by customer) 
 Set up Microsoft Intune | Microsoft Learn
