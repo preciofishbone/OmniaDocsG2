@@ -39,7 +39,7 @@ Available settings are the following:
 
 Logging out is simply done by selecting "Sign out".
 
-To select another Business Profile (if available), select the Business Profile and choose another one on this page:
+To select another Business Profile (if available), select the active Business Profile and choose another one on this page:
 
 .. image:: omnia-feed-settings-bp-v7.png
 
