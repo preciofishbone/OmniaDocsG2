@@ -58,7 +58,7 @@ If the app have Intune SDK and the setup has been done correctly, the first time
 
 .. image:: intune-omnia-9.png
 
-2. Setup Conditional Access
+Setup Conditional Access
 *****************************
 Follow Microsoft document: https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/concept-conditional-access-policies
 
