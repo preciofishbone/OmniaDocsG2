@@ -48,9 +48,12 @@ Notice in step 6 “Assignments” you will need to configure a deploy group for
 
 .. image:: intune-omnia-6.png
 
-10. Verify that policy is deployed
+10. Verify that policy is deployed.
+
+.. image:: intune-omnia-7.png
  
-After config policy it can take some time to affect.
+**Note!** It can take some time before you see the effect of the new policy.
+
 If app have Intune SDK and setup app protection correctly first time open app will show this screen like below
 
 2. Setup Conditional Access
