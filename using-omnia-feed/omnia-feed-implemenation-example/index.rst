@@ -5,7 +5,7 @@ Omnia Feed implementation example
 
 In this example:
 
-.. image:: omnia-feed-tabs-v7-ex.png
+.. image:: omnia-feed-tabs-v7-ex-700.png
 
 My Feed is a Page Rollup.
 
