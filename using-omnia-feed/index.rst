@@ -31,7 +31,7 @@ App settings
 ---------------
 The settings are available here:
 
-.. image:: omnia-feed-settings-menu-v7.png
+.. image:: omnia-feed-settings-menu-v7-80.png
 
 Available settings are the following:
 
