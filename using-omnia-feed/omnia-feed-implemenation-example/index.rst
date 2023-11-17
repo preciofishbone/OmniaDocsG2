@@ -23,7 +23,7 @@ A user can like a News Article by selecting the hearth. To add a comment, the us
 
 In this implementation example, there's also a link to the start page of the Omnia Intranet. It may need an additional login:
 
-.. image:: omnia-feed-intranet-v7.png
+.. image:: omnia-feed-intranet-v7-700.png
 
 The third icon from the left displays available apps for the user:
 
