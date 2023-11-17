@@ -7,7 +7,7 @@ Omnia Feed can be set up in many different ways to make it possible for users to
 
 Here's an example:
 
-.. image:: omnia-feed-test-v7.png
+.. image:: omnia-feed-test-v7-700.png
 
 Any number of tabs can be set up for access to different resources. A tab can be set up for:
 
@@ -31,37 +31,37 @@ App settings
 ---------------
 The settings are available here:
 
-.. image:: omnia-feed-settings-menu-v7.png
+.. image:: omnia-feed-settings-menu-v7-700.png
 
 Available settings are the following:
 
-.. image:: omnia-feed-settings-available-v7.png
+.. image:: omnia-feed-settings-available-v7-700.png
 
 Logging out is simply done by selecting "Sign out".
 
 To select another Business Profile (if available), select the active Business Profile and choose another one on this page:
 
-.. image:: omnia-feed-settings-bp-v7.png
+.. image:: omnia-feed-settings-bp-v7-700.png
 
 Also note that the App Version is displayed here:
 
-.. image:: omnia-feed-settings-version-v7.png
+.. image:: omnia-feed-settings-version-v7-700.png
 
 Select another language
 --------------------------
 When you start the app for the first time you are most likely able to select language. When using the you can always change language ine the settings:
 
-.. image:: omnia-feed-settings-language.png
+.. image:: omnia-feed-settings-language-700.png
 
 All languages set up in the Tenant are available, for example:
 
-.. image:: omnia-feed-settings-language-select.png
+.. image:: omnia-feed-settings-language-select-700.png
 
 Clearing all notifications
 ---------------------------
 All notifications that are pushed to the your device are stored there. If you don't want to save them for later, the can be deleted from the device. They will still be available through a computer.
 
-.. image:: omnia-feed-settings-language-clear.png
+.. image:: omnia-feed-settings-language-clear-700.png
 
 Microsoft Authenticator or similar
 ---------------------------------------------
