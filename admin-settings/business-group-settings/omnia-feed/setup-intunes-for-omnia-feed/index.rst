@@ -64,31 +64,50 @@ Here's how to set up conditional access:
 
 1. Follow the instructions in this Microsoft document: https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/concept-conditional-access-policies
 2. Go to https://portal.azure.com and search for “Conditional Access”. 
-3. Go to "Conditional Access service"
+
+.. image:: intune-omnia-10.png
+
+3. Go to "Conditional Access service".
 
 Now you can see a list of policies already setup You can verify it or create a new policy for Omnia Feed. 
- 
-Create new Conditional Access policy
- 
-Set Assignments to users or group to apply
- 
 
-Set Cloud Apps => Omnia Feed 2
+.. image:: intune-omnia-11.png
  
-You also want to select App “Office 365” it may block user of some Microsoft Apps (optional)
- 
-Config Conditional to focus on platforms Android, iOS since Omnia Feed App only support that 2 platforms.
-In Client App section select “Browser” “Mobile apps and desktops clients” 
+4. Create new Conditional Access policy.
 
-Access controls
-Select “Grant”
-In here there are 3 main options that Omnia Feed can support
--	Require multifactor authentication => will prompt MFA or some other of second layer protection when user login
--	Require device to be marked as compliant => only allow devices already enroll Intune using Omnia Feed
--	Require app protection policy => need to config App protection policy for Omnia Feed before enable this option 
-There is 2 ways to config Mutil controls :
--	Require all the selected controls (AND condition)
--	Require one of the selected controls (OR condition)
+.. image:: intune-omnia-12.png
+ 
+5. Set Assignments to users or group to apply.
+ 
+.. image:: intune-omnia-13.png
+
+6. Set Cloud Apps => Omnia Feed 2.
+
+.. image:: intune-omnia-14.png
+ 
+You may also want to select App “Office 365”. It may block user from some Microsoft Apps (optional).
+
+.. image:: intune-omnia-15.png
+ 
+7. Configure Conditional to focus on platforms Android and iOS since Omnia Feed App only supports these platforms.
+
+.. image:: intune-omnia-16.png
+
+8. In Client App section select “Browser”, “Mobile apps and desktops clients”.
+9. For Access controls, select “Grant”. 
+
+In here there are 3 main options that Omnia Feed can support:
+
++	Require multifactor authentication => will prompt MFA or some other of second layer protection when user login.
++	Require device to be marked as compliant => only allow devices already enroll Intune using Omnia Feed.
++	Require app protection policy => need to config App protection policy for Omnia Feed before enable this option. 
+
+There is 2 ways to config Mutil controls:
+
++	Require all the selected controls (AND condition).
++	Require one of the selected controls (OR condition).
+
+.. image:: intune-omnia-17.png
 
 After config the Grant section with option you want make sure in Enable policy select “On”
 Then create policy. It should take about 1 hour to take effect.
