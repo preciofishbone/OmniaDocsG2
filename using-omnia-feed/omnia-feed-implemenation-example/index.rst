@@ -33,6 +33,8 @@ The next icon displays some polls for the user:
 
 .. image:: omnia-feed-polls.png
 
+It's setup with an embedded link, linking to a page using "Form" blocks to display the polls.
+
 The "Create" icon makes it possible for the user to create news, an alert, a poll or a praise, if the user har the right permissions.
 
 .. image:: omnia-feed-create.png
