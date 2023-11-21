@@ -1,8 +1,6 @@
 Setup Intune for Omnia Feed
 =============================================
 
-**This page is just started. Please come back in i few days.**
-
 This document is a guideline for setting up Intune for the Omnia Feed App.
 
 .. image:: intune-omnia-1.png
