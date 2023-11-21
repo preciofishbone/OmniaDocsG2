@@ -7,7 +7,7 @@ In this example:
 
 .. image:: omnia-feed-tabs-v7-ex-700.png
 
-"Feed" is a Query (Rollup) containing corporate news and local news, with sign-off request applicable for the user, shown.
+"Feed" is a Query (Rollup) containing corporate news and local news, with sign-off request applicable for the user, also shown.
 
 At the top there are a number of Sign-off requests that needs the users attention, for example:
 
