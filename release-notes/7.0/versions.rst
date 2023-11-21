@@ -1,3 +1,14 @@
+7.1.10
+========================================
+(Omnia 7.1.10 / Workplace 7.1.4 / WCM 7.1.6 / MS 7.1.4)
+
+- Custom Azure cognative services now supports multiple regions.
+- SharePoint UserProfile Sync now works as expected when running in legacy system account mode (#151261).
+- Process authoring sites now loads correctly when containing deleted users. (#151271).
+- SVGs are now fully supported in all media pickers.
+- Corrected an issue where image caption could not be deleted (#151144).
+- UI fixes to the dynamic roller page rollup view. (#151187).
+
 7.1.9
 ========================================
 (Omnia 7.1.9 / Workplace 7.1.3 / WCM 7.1.5 / MS 7.1.3)
