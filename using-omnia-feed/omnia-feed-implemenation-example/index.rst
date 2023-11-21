@@ -29,7 +29,7 @@ The third icon from the left, called "Apps" displays a number of useful resource
 
 .. image:: omnia-feed-apps.png
 
-The next icon displays som polls for the user:
+The next icon displays some polls for the user:
 
 .. image:: omnia-feed-polls.png
 
