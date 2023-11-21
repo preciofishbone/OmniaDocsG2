@@ -1,13 +1,27 @@
+
+7.1.13
+========================================
+(Omnia 7.1.13 / Workplace 7.1.6 / WCM 7.11 / MS 7.1.8)
+
+- Stability improvements to the scheduled pages job (#151280).
+- Several migration fixes to the 6.13 -> 7.1 upgrade (#151417).
+- Fixes an issue where a test sync in the SharePoint user profile sync would incorrectly trigger a full sync (#151495).
+- The page properties block now hides correctly if no properties at all are set (#151382).
+- Fixed an issue that would in some configurations cause the sign out to not work correctly (#151392).
+- Corrected an issue where the current navigation block would be hidden in some scenarios (#151219).
+- Pagination now works as expected in the teamwork rollup (#151375).
+- Keyboard navigation now works as expected for process layouts (#151301, #151463).
+
 7.1.10
 ========================================
 (Omnia 7.1.10 / Workplace 7.1.4 / WCM 7.1.6 / MS 7.1.4)
 
-- Custom Azure cognative services now supports multiple regions.
-- SharePoint UserProfile Sync now works as expected when running in legacy system account mode (#151261).
+- Custom Azure cognitive services now support multiple regions.
+- SharePoint User Profile Sync now works as expected when running in legacy system account mode (#151261).
 - Process authoring sites now loads correctly when containing deleted users. (#151271).
 - SVGs are now fully supported in all media pickers.
 - Corrected an issue where image caption could not be deleted (#151144).
-- UI fixes to the dynamic roller page rollup view. (#151187).
+- UI fixes to the dynamic roller page rollup view. (#151187, #151508).
 
 7.1.9
 ========================================
