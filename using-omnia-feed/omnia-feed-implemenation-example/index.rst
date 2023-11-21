@@ -35,10 +35,12 @@ The next icon displays some polls for the user:
 
 It's setup with an embedded link, linking to a page using "Form" blocks to display the polls.
 
-The "Create" icon makes it possible for the user to create news, an alert, a poll or a praise, if the user har the right permissions.
+The "Create" icon makes it possible for the user to create news, an alert, a poll or a praise, if the user has the right permissions.
 
 .. image:: omnia-feed-create.png
 
-There's alos a number og settings for the user, that's default fo all setups.
+It's setup with an embedded link to a page with an "Action button" block at the top and a "Page Rollup" block under the action buttons.
+
+There's also a number of settings for the user, that's default fo all setups.
 
 .. image:: omnia-feed-settings-ex.png
