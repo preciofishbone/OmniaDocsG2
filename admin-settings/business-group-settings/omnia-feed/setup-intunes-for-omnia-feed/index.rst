@@ -109,19 +109,14 @@ There is 2 ways to config Mutil controls:
 
 .. image:: intune-omnia-17.png
 
-After config the Grant section with option you want make sure in Enable policy select “On”
-Then create policy. It should take about 1 hour to take effect.
-Tips: let try test on some small group users first to make sure the setup is correct and not block users out.
+10. After configuration of the Grant section with option you want make sure in Enable policy select “On”.
+11. Then create policy. It should take about 1 hour to take effect.
 
-For now there are some limit in Access control for Omnia Feed app:
-Both “Require app protection policy” and “Require multi-factor authentication” can not turn on at the same time.
+**Tip!** Try the setup on a small group ofusers first to make sure the setup is correct and does not block users.
+
+For now there are some limit in Access control for Omnia Feed app: Both “Require app protection policy” and “Require multi-factor authentication” can not turn on at the same time.
+
 We can config these 2 conditions with multiple controls: ”Require one of the selected controls”
  
-
-
-
-
-
-
-
+.. image:: intune-omnia-18.png
 
