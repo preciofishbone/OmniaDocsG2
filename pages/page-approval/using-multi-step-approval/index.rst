@@ -11,7 +11,13 @@ The possibilities in the setup is almost endless. Here's a simple example with t
 
 First, the author of the page publishes when he or she is ready for that.
 
-.. image:: multi-approval-author.png
+.. image:: multi-approval-author-new.png
+
+And then the author can add a message to the approvers. Als note that, if more than one approver is available for the first step, the author can select approver in the list.
+
+.. image:: multi-approval-author-message.png
+
+The author then clicks SEND to start the approval process. If the author selects CLOSE instead, the approval process is simply not started.
 
 The approver for the first step then recieves a message concerning approval of the page, for example:
 
