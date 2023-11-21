@@ -9,7 +9,7 @@ In this example:
 
 "Feed" is a Query (Rollup) containing corporate news and local news, with sign-off request applicable for the user, also shown.
 
-At the top there are a number of Sign-off requests that needs the user's attention, for example:
+At the top there are a number of Sign-off requests that needs the user's attention. Here's an example with the actions needed for one of the sign-off requests:
 
 .. image:: omnia-feed-signoff-v7-ex.png
 
