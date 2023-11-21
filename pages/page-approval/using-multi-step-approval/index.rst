@@ -34,11 +34,11 @@ A multi step approval can be setup in many ways. The following options CAN be av
 + Approver: If more than one colleague is available for approval in this step, this list is used to select approver. See below for more information.
 + APPROVE: Used in the final step to approve publication of the page. The page is always published when the approver of the last step clicks this button.
 
-Which colleagues should be available for approval for a specific step can be setup in several ways. If a few colleagues are available, they are listed there. If any colleague could be chosen as approver, it can look like this. Note that a search field is available.
+Which colleagues should be available for approval for a specific step can be setup in several ways. If a few colleagues are available, they are listed there. If any colleague could be chosen as approver, it can look like this. Note that a search field is available. Also note that, only one approver can be selected fo each step.
 
 .. image:: multi-approval-search.png
 
-Here's an example of a final approval step. In this example, the approver is predermined. Therefore there's no list. The message shown is from the step before this.
+Here's an example of a final approval step. In this example, the approver is predermined (selected in the step before this). Therefore there's no list. The message shown is from the step before this.
 
 .. image:: multi-approval-last.png   
 
