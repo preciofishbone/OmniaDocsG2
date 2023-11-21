@@ -19,24 +19,33 @@ And then the author can add a message to the approvers. Als note that, if more t
 
 The author then clicks SEND to start the approval process. If the author selects CLOSE instead, the approval process is simply not started.
 
-The approver for the first step then recieves a message concerning approval of the page, for example:
+The approver for the first step then recieves a message concerning approval of the page, opens the message and start the process, for example:
 
-.. image:: multi-approval-1.png
+.. image:: multi-approval-1-new.png
 
-In this example the first step is Area manager approval and who that is, is pre determined in the setup. Another possibibility is that the setup allows the author to select approver for the first step.
+In this example the first step is approval from a specialist. At the top information about the steps in the approval is shown. 
 
-At the top information about the steps in the approval is shown. You can use these options, if available:
+A miulti step approval can be setup in many ways. The following options CAN be available:
 
 + **Comment**: Always required to approve this step. Can also be useful when sending the approval request back one step, to explain why you did that.
-+ CLOSE: Just used to close the approval for another time. Always avaialble.
-+ SEND BACK: Use this button to send the approval back one step, if available. If used in the first step it's simply a message to the author that the page was not ready, or perhaps the approval request was sent to the wrong person.
-+ REJECT: Use this option to reject the publication, if availble. If this option is used in an earlier step, the step after this is not used.
-+ HISTORY: using this option you can see the the history from this approval, the action by the approvers and messages written. Always available.
-+ SEND: 
-+ APPROVE: 
++ CLOSE: Just used to close the approval for another time.
++ SEND BACK: Use this button to send the approval back one step. If used in the first step it's simply a message to the author that the page was not ready, or perhaps the approval request was sent to the wrong person.
++ REJECT: Use this option to reject the publication. If this option is used in an earlier step, the step after this is not used.
++ HISTORY: Using this option you can see the the history of this approval, the actions by the approvers and messages written. Always available.
++ SEND: Used the send the approval to the next step
++ Approver: If more than one colleague is available for approval in this step, this list is used to select approver. See below for more information.
++ APPROVE: Used in the final step to approve publiaation of the page. The page is always published when the approver of the last step clicks this button.
 
+Which colleagues should be available for approval for a specific step can be setup in several ways. If a few colleagues are available, they are listed there. If any colleague could be chosen as appropver, it can look like this. Note that a search field is available:
 
+.. image:: multi-approval-search.png
 
+Here's an example of a final approval step. In this example, only one colleague can approve. Therefore there's no list. The message shown is from the step before this.
 
+.. image:: multi-approval-last.png   
 
+To see actions and messages from the steps before this, use the history. Here's an example with the information from the first step expanded:
 
+.. image:: multi-approval-last-history.png 
+
+(CANCEL in this dialog, is just used to cloes the dialog, not to cancel the approval.)
