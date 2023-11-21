@@ -46,13 +46,13 @@ Notice in step 6 “Assignments” you will need to configure a deploy group for
 
 .. image:: intune-omnia-7.png
 
-10. Verify that policy is deployed.
+10. Verify that the policy is deployed.
 
 .. image:: intune-omnia-8.png
  
 **Note!** It can take some time before you see the effect of the new policy.
 
-If the app have Intune SDK and the setup has been done correctly, the first time the app is open, something like the following is shown.
+If the app have Intune SDK and the setup has been done correctly, something like the following is shown the first time the app is open:
 
 .. image:: intune-omnia-9.png
 
@@ -67,11 +67,11 @@ Here's how to set up conditional access:
 
 3. Go to "Conditional Access service".
 
-Now you can see a list of policies already setup You can verify it or create a new policy for Omnia Feed. 
+Now you can see a list of policies already setup. You can verify it or create a new policy for Omnia Feed. 
 
 .. image:: intune-omnia-11.png
  
-4. Create new Conditional Access policy.
+4. Create a new Conditional Access policy.
 
 .. image:: intune-omnia-12.png
  
