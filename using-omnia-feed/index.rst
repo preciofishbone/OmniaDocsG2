@@ -60,7 +60,7 @@ All languages set up in the Tenant are available, for example:
 
 Clearing all notifications
 ---------------------------
-All notifications that are pushed to the your device are stored there. If you don't want to save them for later, the can be deleted from the device. They will still be available through a computer.
+All notifications that are pushed to the your device are stored there. If you don't want to save them for later, the can be deleted from the device. They will still be available through the intranet the usual way.
 
 .. image:: omnia-feed-settings-language-clear-700.png
 
