@@ -50,7 +50,7 @@ Also note that the App Version is displayed here:
 
 Select another language
 --------------------------
-When you start the app for the first time you are most likely able to select language. When using the you can always change language ine the settings:
+When you start the app for the first time you are most likely able to select language. When using the app you can always change language ine the settings:
 
 .. image:: omnia-feed-settings-language-700.png
 
