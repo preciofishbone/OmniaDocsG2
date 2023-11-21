@@ -60,11 +60,13 @@ If the app have Intune SDK and the setup has been done correctly, the first time
 
 Setup Conditional Access
 *****************************
-Follow Microsoft document: https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/concept-conditional-access-policies
+Here's how to set up conditional access:
 
-Go to https://portal.azure.com => search for “Conditional Access” => 
- 
-Go to Conditional Access service, now you can see list of already setup policies. You can verify it or create new policy for Omnia Feed. 
+1. Follow the instructions in this Microsoft document: https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/concept-conditional-access-policies
+2. Go to https://portal.azure.com and search for “Conditional Access”. 
+3. Go to "Conditional Access service"
+
+Now you can see a list of policies already setup You can verify it or create a new policy for Omnia Feed. 
  
 Create new Conditional Access policy
  
