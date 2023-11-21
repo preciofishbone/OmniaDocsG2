@@ -21,11 +21,11 @@ A user can like a news article by selecting the hearth. To add a comment, the us
 
 .. image:: omnia-feed-add-comment-v7-ex.png
 
-In this implementation example, there's also a link to the start page of the Omnia Intranet. It may need an additional login:
+In this implementation example, there's also a link to the start page of the Omnia Intranet. It's set up as an embedded link.
 
 .. image:: omnia-feed-intranet-v7-700.png
 
-The third icon from the left displays available apps for the user:
+The third icon from the left, called "Apps" displays a number of useful resources on the intranet. It's setup as an embedded link, linking to a page on the intranet, containing a "Quick Links" block.
 
 .. image:: omnia-feed-apps.png
 
