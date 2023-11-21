@@ -1,3 +1,11 @@
+7.1.23
+========================================
+(Omnia 7.1.23 / Workplace 7.1.15 / WCM 7.1.19 / MS 7.1.15)
+
+- Several migration fixes to the 6.13 -> 7.1 upgrade (#151558).
+- Corrected a theming issue that would sometimes cause wrong tab title colors (#151618).
+- Classic date format now has the correct localization (#151635).
+
 
 7.1.13
 ========================================
