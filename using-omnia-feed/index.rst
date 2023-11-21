@@ -13,7 +13,7 @@ Any number of tabs can be set up for access to different resources. A tab can be
 
 + A Rollup (similar to a Page Rollup) to list news or other pages. Sign-off requests can be shown here as well.
 + An Embedded link, which can be used to show the home page of an Omnia intranet, or to show some specific Omnia functionality - for example My Links or My Tasks.
-+ An External link, which for example can be used as a shortcut to other applications (time report, HR system, etc).
++ A link, which can be used for a link to any web URL or a link to another app on the user's device.
 + An Acitivity Feed, which can be the user's "My Subscriptions" or a feed from a page collection.
 
 Settings are found in Omnia Admin. There are settings for the tenant, mainly used by AM and the Omnia Feed Team to set up the tenant, and then settings for each Business Profile, where for example the tabs are set up. See this page for more information: :doc:`Omnia Feed - Business Profile Settings </admin-settings/business-group-settings/omnia-feed/index>`
