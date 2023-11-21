@@ -1,8 +1,6 @@
 Using multi-step approval for pages
 =============================================
 
-**This page is just started. Note that the information added here are still preliminary.**
-
 In Omnia 7.1 and later, multi-step approval can be set up. This page contains a simple example.
 
 Multi-step approval must be activated in the page collection settings. For information on how to activate and set up this option, see the following page: :doc:`Page Collection Settings </pages/page-collections/page-collection-settings/index>`
@@ -11,7 +9,7 @@ The possibilities in the setup is almost endless. Here's a simple example with t
 
 First, the author of the page sends the page for approval when he or she is ready for that.
 
-.. image:: multi-approval-author-new.png
+.. image:: multi-approval-author-new-frame.png
 
 And then the author can add a message to the approvers. Als note that, if more than one approver is available for the first step, the author must select approver in the list (only one colleague can approve in each step).
 
