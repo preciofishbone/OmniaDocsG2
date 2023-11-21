@@ -1,8 +1,6 @@
 Omnia Feed implementation example
 ==============================================
 
-**This page is being update. Will be finished soon.**
-
 In this example:
 
 .. image:: omnia-feed-tabs-v7-ex-700.png
