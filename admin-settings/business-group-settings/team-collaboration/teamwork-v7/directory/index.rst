@@ -92,7 +92,7 @@ For a description of the rest of the options, see above.
 
 Attach a teamwork site
 ************************
-Using this option you can attach any teamwork site (Sharepoint Team Site) to Omnia. When a teamwork is attached you can handle it through Omnia the same way as it was created through Omnia.
+Using this option you can attach any teamwork site (SharePoint Team Site) to Omnia. When a teamwork is attached you can handle it through Omnia the same way as it was created through Omnia.
 
 The following permissions are required to be able to attach:
 
