@@ -183,7 +183,7 @@ The following is shown:
 You can "detach" (delete) a site if needed. Then the following permissions are needed:
 
 + For an Omnia Teamwork app: App Administrator permissions.
-+ For a Sharepoint site: Site Owner or Site Collection Administrator permissions.
++ For a SharePoint site: Site Owner or Site Collection Administrator permissions.
 
 **Note!** What actually happens when you click the dust bin to delete a site, is that the site is detached. That is true for all Teamwork sites, regardless of if they have been created in or attached to Omnia.
 
