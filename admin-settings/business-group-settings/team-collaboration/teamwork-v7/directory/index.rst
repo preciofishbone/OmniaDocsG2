@@ -18,7 +18,7 @@ The following actions, using the dot menu to the right, are available for a team
 .. image:: teamwork-actions-v7.png
 
 **Note!** To be able to delete a teamwork, you must be app administrator for the teamwork. Also note that deleting a teamwork from this list does not delete 
-the connected Sharepoint site.
+the connected SharePoint site.
 
 For more information, see below.
 
