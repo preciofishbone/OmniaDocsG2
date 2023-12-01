@@ -17,7 +17,7 @@ To create a new Search Category, click the plus and use the settings available f
 + **Search Providers**: Select search provider for the category. The following is available: Comments, Shared Links, SharePoint Search and Microsoft Search. **Note!** In Omnia on-prem only SharePoint Search and Shared Links can be used as Search Providers.
 + **Search Result Source**: Select Source from the list.
 + **Search Query**: Add the Search Query here. Tokens can be used for a dynamic search query, see this page: :doc:`Using tokens in Omnia </general-assets/using-tokens-in-omnia/index>`
-+ **Enable Query Rules**: Query rules can be set up in Sharepoint. If these query rules should be used for this category, select this option.
++ **Enable Query Rules**: Query rules can be set up in SharePoint. If these query rules should be used for this category, select this option.
 + **Enable partial word search**: Per default the search will onfly find whole words, so a search for Chris will find just that, not for example Christina. But if you select this option, the search will find parts of words as well, so both Chris, Christina and Christian, for example.
 + **Sort By**: Choose property to sort by, or you can choose to sort by Relevance or Popularity (at the bottom of the list).
 + **Sort Direction**: When you have chosen a property to sort by, you can select a sort direction here.
