@@ -9,7 +9,7 @@ Sending notifications is always voluntary. The decision is made when the documen
 
 Some notes on using groups for notifications:
 
-+ Sharepoint groups and AD groups can be used (Microsoft 365 groups can not).
++ SharePoint groups and AD groups can be used (Microsoft 365 groups can not).
 + Regarding	SharePoint groups: Only SharePoint groups within the active site collection can be used. There can not be an AD group defined in the SharePoint group.
 + Regarding AD groups (Security groups): The AD group must be email enabled. Read receipts can not be used for AD groups.
 
