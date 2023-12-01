@@ -132,7 +132,7 @@ Deleting pages in Omnia - on the technical side
 **************************************************
 Deleted pages are stored in a document library in the Communication Site backend in SharePoint and will be stored there until someone decides to manually terminate them.
 
-When a page is deleted, the information is removed from the Omnia database and is only stored in Sharepoint. The page and it's media is moved to a specific archive catalog in the backend connected SharePoint site.
+When a page is deleted, the information is removed from the Omnia database and is only stored in SharePoint. The page and it's media is moved to a specific archive catalog in the backend connected SharePoint site.
 
 When a page is terminated in Omnia, it is moved to the recycle bin in SharePoint.
 
