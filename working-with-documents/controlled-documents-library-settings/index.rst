@@ -100,7 +100,7 @@ Something like the following is shown:
 
 You can add/remove groups and/or users in these lists.
 
-If permission groups are used, as in the example above, you can add and remove users in these groups by using the Sharepoint standard functionality "Advanced permissions settings" - found under "Site Permissions" in the settings for the site. 
+If permission groups are used, as in the example above, you can add and remove users in these groups by using the SharePoint standard functionality "Advanced permissions settings" - found under "Site Permissions" in the settings for the site. 
 
 .. image:: advanced-permissions-settings-new2.png
 
