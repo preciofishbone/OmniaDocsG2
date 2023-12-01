@@ -181,7 +181,7 @@ The same dot menu actions are available here as described above.
 
 Inactive
 ***********
-A teamwork is considered inactive if Last Activity, as registered in the Sharepoint site, is more than three months old.
+A teamwork is considered inactive if Last Activity, as registered in the SharePoint site, is more than three months old.
 
 Here's an example from a test environment:
 
