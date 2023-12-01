@@ -1,6 +1,8 @@
 Targeting Setup
 ===========================================
 
+**This page is not updated. Will be in the neare future.**
+
 Omnia offers the abiity to target content based on user property values. Both the user properties and their values can be seen found in the user's SharePoint profile: 
 
 .. image:: userprofile.png
