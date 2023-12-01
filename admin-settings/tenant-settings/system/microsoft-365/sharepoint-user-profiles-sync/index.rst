@@ -41,7 +41,7 @@ To set up a new synchronization, do the following:
 .. image:: azure-ad-settings-v7.png
 
 + **Azure AD property**: Open the list and select the AD property to synchronize.
-+ **Sharepoint property**: Type the name of the Sharepoint property to synchronize to.
++ **SharePoint property**: Type the name of the SharePoint property to synchronize to.
 + **Sync when value is empty**: Normally empty fields are not synchronized from the AD. If you want to do that, select this option.
 
 3. Save when your finished here.
