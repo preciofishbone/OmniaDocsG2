@@ -76,7 +76,7 @@ Mapping Profile Images
 If profile images are managed in another system (or in the SharePoint My Site, which is likely the case in an on-prem installation), you can use these options to map to that system, this way:
 
 1. Create a Profile Image mapping, and then select "Add Mapping".
-2. Select "Sharepoint User Profile".
+2. Select "SharePoint User Profile".
 3. Select "Profile Picture" for "Type".
 4. Select "Custom target".
 
