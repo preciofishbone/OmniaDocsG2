@@ -39,7 +39,7 @@ These types have Edit options:
 
 + HTML - you can choose to display the edit options; Rich Text, Limited Rich Tect or Custom Rich Text.
 + Image - you can set default scaling, decide which crop ratios that should be available and decide to force default scaling.
-+ Sharepoint Term Set - you can choose to allow multi value.
++ SharePoint Term Set - you can choose to allow multi value.
 
 Setup
 -------
