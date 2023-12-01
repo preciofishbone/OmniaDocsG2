@@ -25,7 +25,7 @@ The following settings are available here:
 
 .. image:: teamwork-65-edit-general-new2.png
 
-+ **Type**: Select type of Teamwork to create from this template. Note that only Sharepoint Team Site and Sharepoint Communication Site is available in Omnia on-prem.
++ **Type**: Select type of Teamwork to create from this template. Note that only Sharepoint Team Site and SharePoint Communication Site is available in Omnia on-prem.
 + **Title**: Add a Title for the Template. You can add titles in a number of the languages available in the tenant. Default language is mandatory. Click the flag to change language.
 + **Description**: Add a Description if needed, in any or all tenant languages. Click the flag to change language.
 + **Icon Type**: An icon is always shown for a template. If you would like another icon for this template, select the set of icons here: Font Awesome, Microsoft, Flags or Custom. When selecting Custom you can choose any image as the icon.
