@@ -9,7 +9,7 @@ Here we can see user properties such as First name, Last name, Name, Work phone 
 
 In order to access this view, follow these steps:
    
-- Visit the sharepoint admin center by typing in https://(insert the name of your tenant)-admin.sharepoint.com 
+- Visit the sharePoint admin center by typing in https://(insert the name of your tenant)-admin.sharepoint.com 
 - Click on user profiles in the left menu
 - Click on Manager user profiles
 - Type in the name of the user you wish to inspect
