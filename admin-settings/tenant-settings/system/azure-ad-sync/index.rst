@@ -27,7 +27,7 @@ To delete a synchronization from the list, click the dust bin.
 
 For a scheduled synchronization you also need to add an account in the Security settings (Secrets), see: :doc:`Security </admin-settings/tenant-settings/security/index>`
 
-More on Sharepoint App-only
+More on SharePoint App-only
 ----------------------------
 When setting up the Azure AD Sync using the SharePoint App-Only model, the generated Client Secret will expire after one year. You need to renew the client secret in order to keep the Azure AD Sync working. Follow the instruction you find by clicking the link by the option "Enable SharePoint App-Only". 
 
