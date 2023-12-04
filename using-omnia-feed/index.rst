@@ -26,7 +26,7 @@ The Omnia Feed app can be downloaded from the usual sources, for example App Sto
 
 Regardless of how Omnia Feed is set up, using settings, a user can log out and select another Business Profile, if available.
 
-Regarding the feed, note that Sign-off requests, that needs actions from you, can be part od the feed.
+Regarding the feed, note that Sign-off requests, that needs actions from you, can be part of the feed.
 
 App settings
 ---------------
@@ -50,17 +50,17 @@ Also note that the App Version is displayed here:
 
 Select another language
 --------------------------
-When you start the app for the first time you are most likely able to select language. When using the app you can always change language ine the settings:
+When you start the app for the first time you are most likely able to select language. When using the app you can always change language in the settings:
 
 .. image:: omnia-feed-settings-language-700.png
 
-All languages set up in the Tenant are available, for example:
+All languages set up in the tenant are available, for example:
 
 .. image:: omnia-feed-settings-language-select-700.png
 
 Clearing all notifications
 ---------------------------
-All notifications that are pushed to the your device are stored there. If you don't want to save them for later, the can be deleted from the device. They will still be available through the intranet the usual way.
+All notifications that are pushed to your device are stored there. If you don't want to save them for later, they can be deleted from the device. They will still be available through the intranet the usual way.
 
 .. image:: omnia-feed-settings-language-clear-700.png
 
