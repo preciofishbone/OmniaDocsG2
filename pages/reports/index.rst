@@ -139,6 +139,8 @@ You can add several filters the same way, if needed.
 
 .. image:: analysis-new-query-add-pages.png
 
+Note that if no pages corresponds with the settings, no pages are listed (no message about that is shown). You have to add at least one page to be able to save the analysis.
+
 If any of these pages should be removed from the analysis, just click the dust bin for the page.
 
 8. When all is done, click SAVE to save the analysis. 
