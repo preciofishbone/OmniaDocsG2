@@ -133,7 +133,7 @@ You can add several filters the same way, if needed.
 
 6. Select status for the pages to be analyzed: Published, Never Published or Any status (meaning both).
 
-.. image:: analysis-new-query-status-new.png
+.. image:: analysis-new-query-status-new-border.png
 
 7. Click ADD PAGE to add the pages for the query. If there are pages that corresponds with the settings, they are listed here:
 
