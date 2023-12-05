@@ -73,7 +73,7 @@ In Omnia 7.1 and later, OpenAI can be used for content analysis. If set up, this
 
 **Note!** An analysis can only be executed on pages within the active page collection.
 
-The first you will see is a list of already created analysis, if any. here's a simple example:
+The first you will see is a list of already created analysis, if any. Here's a simple example:
 
 .. image:: analysis-tab-v7.png
 
