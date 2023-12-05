@@ -77,7 +77,7 @@ The first you will see is a list of already created analysis, if any. here's a s
 
 .. image:: analysis-tab-v7.png
 
-To remove an analysis that is no longer needed, click the dust bin, but rememeber that the report from the analysis can easily be updated, see below.
+To remove an analysis that is no longer needed, click the dust bin, but remember that the report from the analysis can easily be updated, see below.
 
 To read a report for the analysis, click the i-icon:
 
