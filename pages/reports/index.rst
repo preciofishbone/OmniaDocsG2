@@ -71,31 +71,31 @@ Analysis
 ***********
 In Omnia 7.1 and later, OpenAI can be used for content analysis. If set up, this tab is available.
 
-**Note!** An analysis can only be executed on pages withing the active page collection.
+**Note!** An analysis can only be executed on pages within the active page collection.
 
 The first you will see is a list of already created analysis, if any. here's a simple example:
 
-.. image:: analysis-tab.png
+.. image:: analysis-tab-v7.png
 
 To remove an analysis that is no longer needed, click the dust bin, but rememeber that the report from the analysis can easily be updated, see below.
 
 To read a report for the analysis, click the i-icon:
 
-.. image:: analysis-i-icon.png
+.. image:: analysis-i-icon-v7.png
 
 Here's an example of a report:
 
-.. image:: analysis-report.png
+.. image:: analysis-report-v7.png
 
 You can execute the analysis on the latest version of a page by clicking here, in effect updating the analysis:
 
-.. image:: analysis-report-again.png
+.. image:: analysis-report-again-v7.png
 
 Create a new analysis
 -----------------------
 When you create a new analysis, the following settings are available:
 
-.. image:: analysis-new-settings.png
+.. image:: analysis-new-settings-new.png
 
 + **Content analysis**: A number of analysis settings to execute can be available in this list. They are set up in Omni Admin, see: :doc:`Content Analysis (OpenAI) </admin-settings/tenant-settings/settings/open-ai/content-analysis/index>`
 + **Text properties**: Select one or more text properties to run the analysis on.
@@ -105,7 +105,7 @@ If you select "Pick Pages", click ADD Page to start the page picker. For more in
 
 If you select "Use Query Builder", the following is shown:
 
-.. image:: analysis-new-query.png
+.. image:: analysis-new-query-new.png
 
 Add the query this way:
 
@@ -123,21 +123,27 @@ If you happened to add a query part you don't want, just click the dust bin to r
 
 5. Expand a query part for filter settings.
 
-.. image:: analysis-new-query-filter.png
+.. image:: analysis-new-query-filter-new.png
 
-Doing so you can choose to run the query on specific pages only. Here's an example where the analysis should be executed for pages of the type "Knowledege article (Tenant)" only:
+Doing so you can choose to run the query on specific pages only. Here's an example where the analysis should be executed on pages of the community types only:
 
-.. image:: analysis-new-query-filtered.png
+.. image:: analysis-new-query-filtered-new.png
 
 You can add several filters the same way, if needed.
 
 6. Select status for the pages to be analyzed: Published, Never Published or Any status (meaning both).
 
-.. image:: analysis-new-query-status.png
+.. image:: analysis-new-query-status-new.png
 
-7. Click ADD PAGE to create the query and then SAVE to save the analysis.
+7. Click ADD PAGE to add the pages for the query. If there are pages that corresponds with the settings, they are listed here:
 
-.. image:: analysis-new-query-save.png
+.. image:: analysis-new-query-add-pages.png
+
+If any of these pages should be removed from the analysis, just click the dust bin for the page.
+
+8. When all is done, click SAVE to save the analysis. 
+
+.. image:: analysis-new-query-save-new.png
 
 Settings for Reports
 *********************
