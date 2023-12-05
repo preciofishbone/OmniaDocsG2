@@ -1,7 +1,7 @@
-Iframe block
+IFrame block
 ===============
 
-The block can be used to show contents in an Iframe. The block is also an important part of the Share Document functionality.
+The block can be used to show contents in an iFrame. The block is also an important part of the Share Document functionality.
 
 Settings
 **********
