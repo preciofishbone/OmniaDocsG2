@@ -1,3 +1,21 @@
+7.1.31
+========================================
+(Omnia 7.1.31 / Workplace 7.1.17 / WCM 7.1.22 / MS 7.1.18)
+
+- Multi step approval for pages now has configurable action buttons per step.
+- Fixed an issue for Omnia connected communication sites that would incorrectly redirect to the start page of the site (#152302).
+- Process printing now works as expected with all tokens in print page (#151993).
+- The time picker now correctly uses 12-hour format if configured to do so (#152172).
+- Fixed an issue with publishing documents that could occur after an update to Omnia 7 (#152064).
+- Max upload size of files increased (#152000).
+- Characters with umlauts now correctly display when selected in end user filters (#152071).
+- Machine translation now works as expected for exceptionally large pages (#151757).
+- The sign-off request excel export now works as expected when it has deleted users.
+- The legacy profile card no longer loads forever when opened on a guest user (#152263).
+- Stability improvements for enabling cross variation comments and reactions (#152292).
+- Data model preparation for account type change and re-boarding.
+
+
 7.1.23
 ========================================
 (Omnia 7.1.23 / Workplace 7.1.15 / WCM 7.1.19 / MS 7.1.15)
