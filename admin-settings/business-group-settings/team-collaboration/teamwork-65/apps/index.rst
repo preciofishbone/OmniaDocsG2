@@ -131,7 +131,7 @@ Available options depend on the template chosen. Here's some common ones:
 + **Title**: Add a Title (name) for the Teamwork here.
 + **Description**: It's a good idea to add a Description of the Teamwork's purpose here, but it's not mandatory.
 + **Show in public listings**: If links to this teamwork should show up in listings available for all colleagues, select this option. Default: selected.
-+ **SharePoint Alias**: The last part of the address to the Teamwork is created automatically but can be edited if necessary (but see more information below). If the name (address) already exists an alternative address is suggested.
++ **SharePoint Alias**: The last part of the address to the Teamwork is created automatically but can be edited if necessary (but see more information below). If the name (address) already exists an alternative address is suggested. 
 + **Languages**: The same language as the main Business Profile language is suggested. Another language can be selected if needed.  
 + **Time Zones**: Normally the correct Time Zone is already selected. Can be changed if needed.
 
