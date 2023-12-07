@@ -81,7 +81,7 @@ Available settings depends on how the template is set up. Here are some common e
 + **Description**: Add a Description if needed.
 + **Add Image**: The editor setting up a Publishing Rollup can choose to show images for the apps, both for List and for Card display. Here you can select an image to be shown there, using the Media Picker. When an image has been selected it can be deleted or edited using the X and the pen that is shown then.
 + **Show in Public Listings**: If a link to the app should be available in public listings (meaning listings in Omnia) select this option. If this option is deselected, the app can only be reached by specific links, for example in a Workspace navigation.
-+ **Sharepoint Alias**: The last part of the URL to the Publishing App is shown here. It can be edited if needed.
++ **Sharepoint Alias**: The last part of the URL to the Publishing App is shown here. It can be edited if needed. See additional information below.
 + **Omnia Alias**: The last part of the address to the site is created automatically but can be edited if necessary. If the name (address) already exists an alternative address is suggested.
 + **Document Library Url**: To make the Publishing App's Document library available in for example the Add Link asset and in the Document Picker, the full Sharepoint URL to the Document library must be added here.
 + **Allow User Upload Document**: The Administrator of the Publishing App will always be able to upload documents to the Document Library. If end users should be able to do that as well, select this option.
@@ -95,6 +95,10 @@ Available settings depends on how the template is set up. Here are some common e
 3. Click "CREATE" to create the Publishing App.
 
 If the template was set up for approval, the last option would be SEND FOR APPROVAL instead.
+
+An important note about SharePoint URL
+-----------------------------------------
+For the apps that needs a SharePoint site, the URL to that site is shown in the field "SharPoint URL/Alias". If, for some reason, the URL for the SharePoint site is edited in SharePoint admin, it must be edited in Omnia as well, or the Omnia app won't work. Beware that this is to be regarded as an advanced action and can cause problems. Be also aware that it can take some time, 10 minutes or more, before the new SharePoint URL is regocnized by the system.
 
 Publishing App settings
 *************************
