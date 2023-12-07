@@ -88,7 +88,11 @@ Using the action EDIT you can edit the settings for a publishing app. What can b
 
 .. image:: edit-publishing.png
 
-+ **Sharepoint URL**: The app instance connected site's URL can be edited here, if needed.
++ **Sharepoint URL**: The app instance connected site's URL can be edited here, if needed. See additional information below.
+
+An important note about SharePoint URL
+-----------------------------------------
+For the apps that needs a SharePoint site, the URL to that site is shown in the field "SharPoint URL/Alias". If, for some reason, the URL for the SharePoint site is edited in SharePoint admin, it must be edited in Omnia as well, or the Omnia app won't work. Beware that this is to be regarded as an advanced action and can cause problems. Be also aware that it can take some time, 10 minutes or more, before the new SharePoint URL is regocnized by the system.
 
 For a description of the rest of the options, see above.
 
