@@ -131,7 +131,7 @@ Available options depend on the template chosen. Here's some common ones:
 + **Title**: Add a Title (name) for the Teamwork here.
 + **Description**: It's a good idea to add a Description of the Teamwork's purpose here, but it's not mandatory.
 + **Show in public listings**: If links to this teamwork should show up in listings available for all colleagues, select this option. Default: selected.
-+ **SharePoint Alias**: The last part of the address to the Teamwork is created automatically but can be edited if necessary. If the name (address) already exists an alternative address is suggested.
++ **SharePoint Alias**: The last part of the address to the Teamwork is created automatically but can be edited if necessary (but see more information below). If the name (address) already exists an alternative address is suggested.
 + **Languages**: The same language as the main Business Profile language is suggested. Another language can be selected if needed.  
 + **Time Zones**: Normally the correct Time Zone is already selected. Can be changed if needed.
 
@@ -156,6 +156,10 @@ A summary is now shown, where you can click the pen the edit any of the steps.
 10. Click CREATE to create the Teamwork or SEND FOR APPROVAL, depending on how the template has been set up.
 
 .. image:: team-collaboration-create-612.png
+
+An important note about SharePoint URL
+-----------------------------------------
+For the apps that needs a SharePoint site, the URL to that site is shown in the field "SharPoint URL/Alias". If, for some reason, the URL for the SharePoint site is edited in SharePoint admin, it must be edited in Omnia as well, or the Omnia app won't work. Beware that this is to be regarded as an advanced action and can cause problems. Be also aware that it can take some time, 10 minutes or more, before the new SharePoint URL is regocnized by the system.
 
 Attach a Teamwork Site
 ************************
