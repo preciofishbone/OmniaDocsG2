@@ -67,6 +67,22 @@ Additionally you can set:
 + **Day Limit**: Use this option to limit the display of older documents. You first select property (for example Modified) and then select how old the documents can be to be displayed in the list.
 + **Last modified by current user**: Use this option to limit the rollup to documents the logged in user has edited, for example for a "My Latest Documents" implementation.
 
+A tip - rolling up drafts
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+If you would like to rollup all controlled document drafts in the whole tenant, here's how.
+
+1. Use Query builder.
+2. Select "All documents".
+3. Add the following KQL: ODMIsPublishedOWSBOOL:0 AND ODMIsPreviewOWSBOOL:0
+
+Like this:
+
+.. image: rollup-drafts.png
+
+Other filters can of course be used, for example to rollup all draft documents for a specific author or regarding a specific product, as long as you remember to select "All documents".
+
+Display and Filter settings are done the usual way.
+
 Display
 ---------------
 You can select "List View", "Summary View", "Group by site" and "Card" here. Available settings differ depending on your choice.
