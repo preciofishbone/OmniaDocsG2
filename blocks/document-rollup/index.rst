@@ -77,7 +77,7 @@ If you would like to rollup all controlled document drafts in the whole tenant, 
 
 Like this:
 
-.. image: rollup-drafts.png
+.. image:: rollup-drafts.png
 
 Other filters can of course be used, for example to rollup all draft documents for a specific author or regarding a specific product, as long as you remember to select "All documents".
 
