@@ -1,4 +1,4 @@
-User Profile Card
+User profile card
 ===================
 
 The user profile card will be shown (if the option is activated here) whenever you click on a user name in Omnia. The user profile card is designed to align with user profile cards in other services in Microsoft 365.
