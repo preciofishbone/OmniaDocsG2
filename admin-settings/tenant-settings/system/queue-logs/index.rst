@@ -1,4 +1,4 @@
-Queue Logs
+Queue logs
 =============
 
 Administrators can use this option to troubleshoot issues on site provisioning and other long running operations.
