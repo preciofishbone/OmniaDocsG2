@@ -1,4 +1,4 @@
-Azure AD Identity Sync
+Azure AD identity sync
 ==============================================
 
 This option displays the following information:
