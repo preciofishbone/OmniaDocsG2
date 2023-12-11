@@ -1,4 +1,4 @@
-Using Targeting
+Using targeting
 ==============================================
 
 In many parts of Omnia you can choose to target information to certain groups or users. The main purpose for this functionality is to display relevant information for certain users, not necessarilty to hide information from others. With that said, for several targeting implementations, the results are that only the targeted group of users can see the information, because there are no other way to find it. Two examples are targeting Mega Menu objects and Action Menu objects. Another example is Promoted Search Results.
