@@ -51,7 +51,7 @@ Here's an example of announcements displayed in the Announcements block:
 
 For more information, see: The Announcements block: :doc:`The Announcements block </blocks/announcements/index>`
 
-All languages to be used here must be setup in the tenant, see: :doc:`Regional Settings </admin-settings/tenant-settings/settings/regional-settings/index>`
+All languages to be used here must be setup in the tenant, see: :doc:`Regional settings </admin-settings/tenant-settings/settings/regional-settings/index>`
 
 Targeting announcements
 -------------------------
