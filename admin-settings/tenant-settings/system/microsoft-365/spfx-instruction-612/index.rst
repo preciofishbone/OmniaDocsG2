@@ -1,7 +1,7 @@
-SPFx Instruction
+SPFx instruction
 ==================
 
-This is an instruction that may be needed for integration between Omnia and SharePoint Team Sites.
+This is an instruction that may be needed for integration between Omnia and SharePoint team sites.
 
 .. image:: spfx-instruction-v7.png
 
