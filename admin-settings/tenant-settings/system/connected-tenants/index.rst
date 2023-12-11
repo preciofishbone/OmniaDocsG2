@@ -9,7 +9,7 @@ Also note that when using this option, enterprise options and variations may nee
 
 If any tenants are registered here, they will show up in this list, for example:
 
-.. image:: connected-tenants-new2.png
+.. image:: connected-tenants-v75.png
 
 Use the pen to edit the settings, the dust bin to delete. When editing, all settings described below can be edited.
 
@@ -19,11 +19,11 @@ Connecting a new tenant
 *******************************
 To connect a new tenant, click the plus. When you do so, the following settings are available.
 
-.. image:: connected-tenants-new-new.png
+.. image:: connected-tenants-new-v75.png
 
-Regarding user mapping - it's needed for meta data, to display for example Created By. It's mandatory to add a default user. Specific users can also be mapped. Also note that all permissions in the receiving tenant apply. These settings doesn't change anything in that respect.
+Regarding user mapping - it's needed for meta data, to display for example Created by. It's mandatory to add a default user. Specific users can also be mapped. Also note that all permissions in the receiving tenant apply. These settings doesn't change anything in that respect.
 
 Here's an example of settings, for reference:
 
-.. image:: connected-tenants-settings-example.png
+.. image:: connected-tenants-settings-example-v75.png
 
