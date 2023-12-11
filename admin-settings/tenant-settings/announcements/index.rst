@@ -43,11 +43,11 @@ Use the following settings:
 
 Here's an example of an announcement with high priority:
 
-.. image:: high-priority-new3.png
+.. image:: high-priority-v75.png
 
 Here's an example of announcements displayed in the Announcements block:
 
-.. image:: announcements-block-new.png
+.. image:: announcements-block-v75.png
 
 For more information, see: The Announcements block: :doc:`The Announcements block </blocks/announcements/index>`
 
@@ -63,11 +63,11 @@ Settings for announcements
 ***************************
 Click the cog wheel to enter the settings:
 
-.. image:: cog-wheel-settings-new3.png
+.. image:: cog-wheel-settings-v75.png
 
 You can set the following:
 
-.. image:: announcement-settings-new2.png
+.. image:: announcement-settings-v75.png
 
 Types
 ------
@@ -77,16 +77,16 @@ The existing types are listed, with selected icons shown. Edit and delete the ty
 
 To create a new type, click the plus:
 
-.. image:: types-create-new3.png
+.. image:: types-create-v75.png
 
 Set the following:
 
-.. image:: add-type-settings-new2.png
+.. image:: add-type-settings-v75.png
 
 1. Add a title in any or all tenant languages (click the flag to change language).
 2. Select Icon type.
-3. Select Icon. 
-4. Click the plus to save the Type.
+3. Select an icon. 
+4. Click the plus to save the type.
 
 **Tip!** You can select "Custom" under "Icon type" to use any image as an icon, but you have to know (or have copied) the URL to the image.
 
@@ -96,16 +96,16 @@ Here you can add and edit atatus options that can be used in announcements to in
 
 The existing types are atatus options, with selected color shown. Edit and delete the status options using the pen or dust bin.
 
-To create a newsStatus option, click the plus:
+To create a new status option, click the plus:
 
-.. image:: status-create-new4.png
+.. image:: status-create-v75.png
 
 Set the following:
 
-.. image:: add-status-settings-new2.png
+.. image:: add-status-settings-v75.png
 
 1. Add a title in any tenant language (click the flag to change language).
-2. Select Background color.
-3. Select Text color. 
+2. Select a background color.
+3. Select a text color. 
 4. Click the plus to save the status option.
 
