@@ -1,9 +1,9 @@
-Text Translator
+Text translator
 =======================================
 
 If you have installed a separate text translator, use this option to select it. 
 
-The Dafault translator is always available:
+The default translator is always available:
 
 .. image:: text-translator-v7.png
 
