@@ -1,4 +1,4 @@
-Azure AD Permissions
+Azure AD permissions
 =====================================
 
 Here, a Tenant Administrator can see lists of all consented permissions for Omnia in Azure AD.
