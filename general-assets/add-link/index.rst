@@ -3,7 +3,7 @@ Add link
 
 Add link is used when a link is added in a block and a few other instances. 
 
-.. image:: add-link-new3.png
+.. image:: add-link-v75.png
 
 You can use this asset to add a link to a page or document in the tenant, or create a custom link to any web page. A mailto link can be created using a custom link. Anchors are supported and can be used here, in a Custom link. 
 
@@ -39,21 +39,21 @@ Page
 ******
 To add a link to a page, do the following:
 
-1. Select Publishing App, if needed.
+1. Select Publishing app, if needed.
 
-.. image:: add-link-page-1-new.png
+.. image:: add-link-page-1-v75.png
 
 2. Select page collection. 
 
-.. image:: add-link-page-new3.png
+.. image:: add-link-page-v75.png
 
 If the page collection isn't present in the list, select "Others..." so you can add the URL to any page collection.
 
-.. image:: select-other-new.png
+.. image:: select-other-v75.png
 
 3. As the next step, navigate to the page and select it. Here's an example:
 
-.. image:: add-link-page-example-new3.png
+.. image:: add-link-page-example-v75.png
 
 4. Then use the options as above (Title, Open in new window and Icon).
 
