@@ -1,11 +1,11 @@
 Editing text with the RTF editor
 =====================================
 
-When editing text in Omnia, a RTF editor can be available. What is available in the editor is set up in Omnia Admin, and in a few cases in the block itself.
+When editing text in Omnia, a RTF editor can be available. What is available in the editor is set up in Omnia admin, and in a few cases in the block itself.
 
-**Note!** Options available in the RTF Editor can differ a lot, depending on how it's set up. Not all options described below may be available.
+**Note!** Options available in the RTF editor can differ a lot, depending on how it's set up. Not all options described below may be available.
 
-For more information about the settings, see: :doc:`RTF Editor Settings </admin-settings/tenant-settings/settings/rtf-editor/index>`
+For more information about the settings, see: :doc:`RTF editor settings </admin-settings/tenant-settings/settings/rtf-editor/index>`
 
 Using the RTF editor
 **********************
@@ -19,7 +19,7 @@ You point at an icon for a tool tip. Here's an example:
 
 .. image:: rtf-editor-all-tooltip-v7-2.png
 
-Some options are also available as a floating toolbar, when text is selected, for example Add Link, Keep Text Only and OpenAI (if available):
+Some options are also available as a floating toolbar, when text is selected, for example "Add link", "Keep text only" and "OpenAI" (if available):
 
 .. image:: rtf-editor-all-floating-v7-2.png
 
@@ -30,11 +30,11 @@ Add style
 A number of styles can be available. To add a style, do the following:
 
 1. Select the text.
-2. Open the Styles list and select style.
+2. Open the "Styles" list and select style.
 
 .. image:: rtf-editor-all-style-v7-2.png
 
-This example only shows headings, but there are other styles available below. Any style can be added to this list in Omnia Admin (see link above).
+This example only shows headings, but there are other styles available below. Any style can be added to this list in Omnia admin (see link above).
 
 Add link
 ----------
@@ -45,24 +45,24 @@ To add a link, do the following.
 
 .. image:: rtf-editor-all-link-v7-2.png
 
-The Add Link general asset is shown. If you selected text, it's added to the Title field:
+The Add link general asset is shown. If you selected text, it's added to the title field:
 
 .. image:: rtf-editor-all-link-title-v7.png
 
-See this page for more information: :doc:`Add Link </general-assets/add-link/index>`
+See this page for more information: :doc:`Add link </general-assets/add-link/index>`
 
 To edit or remove a link:
 
 1. Select some of the clickable text for the link.
 2. Use the icons in the floating toolbar.
 
-Add link to an Enterprise term
+Add link to an enterprise term
 -------------------------------
-You may be able to add a link to an enterprise term, and by that use the Enterprise Glossary functionality.
+You may be able to add a link to an enterprise term, and by that use the enterprise glossary functionality.
 
 Here's how to add such a link:
 
-1. Type the text as usual and when you type something that match a term in the Enterprise Glossary, it's highlighted.
+1. Type the text as usual and when you type something that match a term in the enterprise glossary, it's highlighted.
 
 .. image:: rtf-editor-glossary-aware-highlight.png
 
@@ -72,22 +72,22 @@ Here's how to add such a link:
 
 3. Click the left icon to create the link (the one to the left to remove it).
 
-For more information about Glossary Terms, see: :doc:`Enterprise Glossary </admin-settings/tenant-settings/properties/enterprise-glossary/index>`
+For more information about glossary terms, see: :doc:`Enterprise glossary </admin-settings/tenant-settings/properties/enterprise-glossary/index>`
 
-Add and edit Media
+Add and edit media
 --------------------
 You can add an image or a video to the text. This is how:
 
 1. Click where the image or video should be added.
-2. Click the Media icon.
+2. Click the media icon.
 
 .. image:: rtf-add-image-v7.png
 
-3. Use the Media Picker to add the image or video.
+3. Use the media picker to add the image or video.
 
 .. image:: rtf-add-image-media-picker-v7.png
 
-See this page for more information: :doc:`Media Picker </general-assets/media-picker/index>`
+See this page for more information: :doc:`Media picker </general-assets/media-picker/index>`
 
 The image/video area fills up the whole width (same width as the text), the height/width ratio intact. Some tools also becomes available. Here's an example for a photo:
 
@@ -102,7 +102,7 @@ From left to right:
 
 For a video, it's not possible to create a clickable link. The other three tools are availble for a video as well.
 
-To create a clickable link, click the link tool shown on the image and use the Add link general asset to add the link, see: :doc:`Add Link </general-assets/add-link/index>`
+To create a clickable link, click the link tool shown on the image and use the Add link general asset to add the link, see: :doc:`Add link </general-assets/add-link/index>`
 
 When you click the tool to set the image width, the the tool becomes two. Click this one to set the width:
 
@@ -114,11 +114,11 @@ The following is shown:
 
 Responsive width is the default, meaning the image fills the whole width of the RTF area in the block, with the height/width ratio intact. (This works the same for a video).
 
-You can also set an exact width in pixels by selecting "Fixed Width". 
+You can also set an exact width in pixels by selecting "Fixed width". 
 
 Add an animated GIF
 ---------------------
-It can be possible to add an animated GIF to the RTF Editor, if settings allow it, using this icon:
+It can be possible to add an animated GIF to the RTF editor, if settings allow it, using this icon:
 
 .. image:: rtf-animated-gif-icon-v7.png
 
@@ -131,15 +131,15 @@ Something like the following is now shown:
 
 3. Use the search field or just browse to find an animated GIF.
 4. Click the GIF to add it.
-5. Click the GIF in the RTF Editor, for editing options.
+5. Click the GIF in the RTF editor, for editing options.
 
 To remove an animated GIF, click it and click the dust bin shown.
 
-You can also add a clickable link to the GIF, using the normal Link toll, see above under the heading "Add and edit Media". 
+You can also add a clickable link to the GIF, using the normal link tool, see above under the heading "Add and edit media". 
 
 Add an emoji
 ---------------------
-It can be possible to add an emoji to the RTF Editor, if settings allow it, using this icon:
+It can be possible to add an emoji to the RTF editor, if settings allow it, using this icon:
 
 .. image:: rtf-emoticon-icon-v7.png
 
@@ -159,7 +159,7 @@ Add a table
 To add a table, do the following:
 
 1. click where the table should be placed.
-2. Click the Table icon.
+2. Click the table icon.
 
 .. image:: rtf-editor-table-v7.png
 
@@ -171,7 +171,7 @@ Something like the following now becomes available:
 
 Most of these option you recognize from other applications, for example Microsoft Word.
 
-In the Table Styles list, a number of styles are available:
+In the Table styles list, a number of styles are available:
 
 .. image:: rtf-editor-table-edits-table-styles-v7.png
 
@@ -181,7 +181,7 @@ You can also style an individual cell using the icon to the far right.
 
 Pasting text only
 -------------------
-A well known problem when pasting text from other sources into an HTML environment is that styles and the like from the original text does not work - or is not wanted. To make that problem go away, you can paste the text as Text only.
+A well known problem when pasting text from other sources into an HTML environment is that styles and the like from the original text does not work - or is not wanted. To make that problem go away, you can paste the text as text only.
 
 All style tags are removed. Default HTML styles is kept.
 
@@ -194,15 +194,15 @@ You can also use this option on text you already have in the block. Just select 
 
 Pasting contents from Microsoft Word
 -------------------------------------
-When pasting contents from a Microsoft Word document into a Rich Text field, some of the text formats can also be pasted. Headings are also regornized and the RTF Editor settings for these headings are applied. 
+When pasting contents from a Microsoft Word document into a rich text field, some of the text formats can also be pasted. Headings are also regocnized and the RTF editor settings for these headings are applied. 
 
-Note that bold, underscore and headings are considered default HTML styles and will be kept, with the RTF Editor settings, even when pasting text only is selected.
+Note that bold, underscore and headings are considered default HTML styles and will be kept, with the RTF editor settings, even when pasting text only is selected.
 
-Images from the Word document are also pasted, if you select them. Note that this apply to Rich Text fields (blocks) only. It does not work for plain text.
+Images from the Word document are also pasted, if you select them. Note that this apply to Rich text fields (blocks) only. It does not work for plain text.
 
 Add an anchor (bookmark)
 ---------------------------
-Anchors can be used in the Add Link general asset and when creating a link button using the Action button block. So, if you add an anchor (bookmark) to the text, links can be created to that anchor.
+Anchors can be used in the Add link general asset and when creating a link button using the Action button block. So, if you add an anchor (bookmark) to the text, links can be created to that anchor.
 
 Here's how to add an anchor:
 
@@ -220,7 +220,7 @@ For more information about Add link, see: :doc:`Add link </general-assets/add-li
 
 For more information about the Action button block, see: :doc:`Action button </blocks/button-link/index>`
 
-Using Machine Translation
+Using machine translation
 ---------------------------
 If the option is available you can machine translate the text in a block, this way:
 
@@ -232,11 +232,11 @@ If the option is available you can machine translate the text in a block, this w
 
 .. image:: machine-translation-select-language-v7.png
 
-Any language can be selected here. The languages set up in Omnia Admin are shown at the top of the list. To select another language, select "Show all Languages" at the bottom of the list.
+Any language can be selected here. The languages set up in Omnia admin are shown at the top of the list. To select another language, select "Show all Languages" at the bottom of the list.
 
 .. image:: machine-translation-select-language-all-v7.png
 
-**Note!** You can use Ctrl-Z or just Discard Changes if you change your mind.
+**Note!** You can use Ctrl-Z or just discard changes if you change your mind.
 
 Using OpenAI
 -----------------
@@ -255,7 +255,7 @@ Here's how to use it:
 1. Click the icon to process the whole text, or select part of the text and then click the icon to only process that part.
 2. Choose what to do.
 
-What is available here can differ greatly, if available at all. It's fully up to administrators to set up in Omnia Admin. Here's an example:
+What is available here can differ greatly, if available at all. It's fully up to administrators to set up in Omnia admin. Here's an example:
 
 .. image:: openai-options.png
 
@@ -276,7 +276,7 @@ In this example the author was thinking about adding a section about the central
 
 HTML
 ------
-If it's available, you can work with the HTML Code, if you know how. When you click the icon a separate window is opened, where you do your HTML work.
+If it's available, you can work with the HTML code, if you know how. When you click the icon a separate window is opened, where you do your HTML work.
 
 .. image:: rtf-editor-html-v7.png
 
