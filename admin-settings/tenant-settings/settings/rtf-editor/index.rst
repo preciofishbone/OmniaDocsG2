@@ -25,13 +25,17 @@ Language
 
 Activate machine translation (Text translator)
 ------------------------------------------------
-Text translator is the option for machine translations editors can use. **Note!** Machine translation is not available in Omnia on-prem.
+Text translator is the option for machine translations editors can use where the RTF editor is available. 
 
-Information on how to use machine translation is found under the heading "Using machine translation" on this page: :doc:`Editing text with the RTF editor </general-assets/rtf-editor/index>`
+**Note!** Machine translation is not available in Omnia on-prem.
+
+The text translator is always available in the tenant, no need to activated a feature, but there are two different translators to choose from per default, and mote can be installed. More information about this is found here: :doc:`Services - Text translator </dmin-settings/tenant-settings/system/services-612/text-translator/index>`
 
 Note that a machine translation is a suggestion - the text can always be edited and all suggestions by the machine translation can be discarded, if needed. It's always up to the person editing the text in the block to use a machine translation, or not, and to edit the translation before it's published.
 
-Don't confuse this functionality with the OpenAI functionality described below, the Text translator works quite differently.
+Information on how to use machine translation is found under the heading "Using machine translation" on this page: :doc:`Editing text with the RTF editor </general-assets/rtf-editor/index>`
+
+If you are working with language variations, a translator for the variations are always available there. See this page for more information: :doc:`Edit page variations </pages/edit-page-variations/index>`
 
 Make the RTF editor enterprise glossary aware
 ------------------------------------------------
