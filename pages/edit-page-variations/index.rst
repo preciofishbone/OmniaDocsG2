@@ -1,7 +1,7 @@
-Edit Page Variations
+Edit page variations
 ========================
 
-For each Varation a specific Variation Author can be set up, see below. If not, all authors of the main page can edit the variations as well.
+For each Varation a specific variation author can be set up, see below. If not, all authors of the main page can edit the variations as well.
 
 When a page variation exists for a page, omnia keeps track of changes on the main page. When the main page has been edited, compare icons are displayed to notify the author about where changes has been made, when a varation is being edited.
 
@@ -51,20 +51,20 @@ A Variation author can be added for each variation. That is done in the publishi
 
 Note that there can be only one variation author for each variation, regardless on how many pages the variation is used.
 
-The variation author is notified through email when a main page, with a variation of the variation authors type, is updated.
+The variation author is notified through Email when a main page, with a variation of the variation authors type, is updated.
 
 The variation author needs the same permisions as the author of the main page, to be able to edit the variations for a page.
 
-Variations and Reusable Content
+Variations and reusable content
 *********************************
-Variations can be used as Reusable Content, the same way as other pages, see: :doc:`Reusable Content </pages/reusable-content/index>`
+Variations can be used as reusable content, the same way as other pages, see: :doc:`Reusable content </pages/reusable-content/index>`
 
 Delete variations
 ********************
 You can delete a variation even if the main page should not be deleted. (If the main page is deleted, any variations for that page are always deleted as well.)
 
 1. Open the variation.
-2. Save or Discard changes, if there are changes that has not been saved yet (or the DELETE button will not be available).
+2. Save or discard changes, if there are changes that has not been saved yet (or the DELETE button will not be available).
 3. Click DELETE.
 
 .. image:: archive-variation-delete-new.png
@@ -81,5 +81,5 @@ Something like the following is shown:
 
 A variation can be restored or terminated the same way as pages in the archive.
 
-More information about deleting, restoring and terminating of pages (which os fully applicable on variations) is found here: :doc:`Delete a page </pages/delete-page/index>`
+More information about deleting, restoring and terminating of pages (which is fully applicable to variations) is found here: :doc:`Delete a page </pages/delete-page/index>`
 
