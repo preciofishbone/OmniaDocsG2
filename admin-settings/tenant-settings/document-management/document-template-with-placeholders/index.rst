@@ -1,4 +1,4 @@
-Creating a Document Template with Place Holders
+Creating a document template with place holders
 ================================================
 
 A document property place holder starts with [[ and ends with ]] and can be placed anywhere inside a DOCX document, anywhere inside an XLSX document, including header and footer, and in PowerPoint (PPTX) documents as well, in both header and content. Place holders support any document property. 
@@ -7,7 +7,7 @@ A document property place holder starts with [[ and ends with ]] and can be plac
 
 \\[\\[_PubDate\\]\\]
 
-Another, and most likely better, way is to use a dedicated Document Type for all templates and there set that the placeholders should not be replaced for documents of that type. In that case, place holders can be added as described below - escape characters are not needed. See the heading "Publish" on this page for more information: :doc:`Document Types </admin-settings/tenant-settings/document-management/document-types/index>`
+Another, and most likely better, way is to use a dedicated document type for all templates and there set that the placeholders should not be replaced for documents of that type. In that case, place holders can be added as described below - escape characters are not needed. See the heading "Publish" on this page for more information: :doc:`Document types </admin-settings/tenant-settings/document-management/document-types/index>`
 
 Make sure to use the internal name (or the short name) of the property, example:
 
@@ -26,11 +26,11 @@ You can use the following short names for built-in properties in ODM:
 - _Lang: Content Language:
 - _RevDate: Review Date.
 
-There's also a special Place Holder if you need to show Document History somewhere in the document:
+There's also a special Place Holder if you need to show document history somewhere in the document:
 
 [[_DocHistory]]
 
-On publication this Place Holder will be replaced with a table listing all editions, for example:
+On publication, this place holder will be replaced with a table listing all editions, for example:
 
 .. image:: place-holder.png
 
@@ -40,8 +40,10 @@ If you want dates to be displayed with the appropriate format you can use the fo
 
 [[_PubDate]]
 
-**Tip:** If you want to prevent authors from deleting place holders within the document (for example in a header), you can put them inside locked content controls added using the “Developer” tab in Word. Note that this tab is not shown as default, it has to be added using the settings.
+**Tip - date format**: Using the [[_PubDate|Date]] place holder, you can add the time format you want, instead of Date, example: [[_PubDate|MM/DD/YYYY]]
+
+**General tip:** If you want to prevent authors from deleting place holders within the document (for example in a header), you can put them inside locked content controls added using the “Developer” tab in Word. Note that this tab is not shown as default, it has to be added using the settings.
 
 .. note:: When a controlled document is merged with a document template, the number of different header/footer sections in the template must match the number of different header/footer sections in the controlled documents. (For example, if you try to upload a controlled document and merge it with a document template that has a first page header and a second header, the template also has to include a first page header and a second header.)
 
-.. note:: When a document is merged with a template, neither the document or the template is allowed to have any shapes in the header/footer. If you want a line, use borders instead of a line shape. (Note! Text boxes are also considered shapes. Don't use it. Add a table to structure the text instead.)
+.. note:: When a document is merged with a template, neither the document nor the template is allowed to have any shapes in the header/footer. If you want a line, use borders instead of a line shape. (Note! Text boxes are also considered shapes. Don't use it. Add a table to structure the text instead.)
