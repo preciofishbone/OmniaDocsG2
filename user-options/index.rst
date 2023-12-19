@@ -1,7 +1,7 @@
 User options
 ==================
 
-In this section you will find an overview of the Omnia user options that are not otherwise described. For description of the user experience with various options and information that can be published through blocks, see the Blocks section: :doc:`Blocks </blocks/index>`
+In this section you will find an overview of the Omnia user options that are not otherwise described. For description of the user experience with various options and information that can be published through blocks, see the blocks section: :doc:`Blocks </blocks/index>`
 
 
 .. toctree::
