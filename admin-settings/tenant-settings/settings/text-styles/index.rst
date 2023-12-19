@@ -1,4 +1,4 @@
-Text Styles
+Text styles
 =============
 
 Here you can edit the settings for the text styles used in the RTF editor, as well as create new styles.
