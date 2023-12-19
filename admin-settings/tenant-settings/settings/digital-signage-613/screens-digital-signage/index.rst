@@ -1,4 +1,4 @@
-Screens (Digital Signage)
+Screens (Digital signage)
 =============================================
 
 Use these settings to set up different screens to be used for digital signage.
