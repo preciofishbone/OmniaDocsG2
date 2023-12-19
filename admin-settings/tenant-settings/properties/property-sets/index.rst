@@ -1,4 +1,4 @@
-Property Sets
+Property sets
 ====================
 
 This is as the name says, an option where you can create sets of several Enterprise Properties and handle the set instead of each individual property. 
@@ -7,7 +7,7 @@ A list of useful Property Sets can already be in place, sorted after Type, for e
 
 .. image:: property-sets-v7.png
 
-Creating a new Property Set
+Creating a new property set
 *****************************
 To create a new Property Set, do the following:
 
@@ -44,7 +44,7 @@ Available settings depend on type of property. Here's some common examples:
 
 9. When you're finished, click "Save".
 
-Edit or delete a Property Set
+Edit or delete a property set
 ***********************************
 To edit a Property Set, click the pen. To delete a Property Set, click the dust bin.
 
