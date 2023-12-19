@@ -1,20 +1,20 @@
-Create App block
+Create app block
 ===================
 
-A new Omnia App can be created through this block. If you used the Create Teamwork block in earlier Omnia versions, Create Teamwork is now part of this block.
+A new Omnia app can be created through this block. If you used the Create teamwork block in earlier Omnia versions, Create teamwork is now part of this block.
 
-If you haven't already, the first step is to create the templates in Omnia Admin. See below for links to descriptions.
+If you haven't already, the first step is to create the templates in Omnia admin. See below for links to descriptions.
 
 The following settings are available:
 
 .. image:: create-app-block-settings-new.png
 
 + **Title**: Here you can add a title for the block.
-+ **Select App Definition**: Select type of app that should be available: Publishing, Community or Teamwork.
++ **Select app definition**: Select type of app that should be available: Publishing, Community or Teamwork.
 
-When you have selected App Definition, a list of available templates for the app type is shown. You must select the template(s) that should be available, even if the list just contains one. Note that if no templates are set up in Omnia Admin, this list is empty.
+When you have selected app definition, a list of available templates for the app type is shown. You must select the template(s) that should be available, even if the list just contains one. Note that if no templates are set up in Omnia admin, this list is empty.
 
-Here's an example with four templates selected for Teamwork:
+Here's an example with four templates selected for teamwork:
 
 .. image:: create-app-block-settings-selected-new.png
 
@@ -30,9 +30,9 @@ This list will look like this for the user:
 
 For more information on creating app templates, see: 
 
-+ :doc:`Templates for Communities </admin-settings/business-group-settings/communities/communities-65/templates/index>`
++ :doc:`Templates for communities </admin-settings/business-group-settings/communities/communities-65/templates/index>`
 
-+ :doc:`Templates for Publishing Apps </admin-settings/business-group-settings/publishing-apps/publishing-65/templates/index>`
++ :doc:`Templates for publishing apps </admin-settings/business-group-settings/publishing-apps/publishing-65/templates/index>`
 
 + :doc:`Teamwork templates </admin-settings/business-group-settings/team-collaboration/teamwork-65/templates/index>`
 
