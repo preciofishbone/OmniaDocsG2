@@ -1,4 +1,4 @@
-Working with Layouts
+Working with layouts
 ================================================
 You can create different layouts for a number of features in Omnia. A great deal of what you can do with a layout is the same for all features, and that is what is described here.
 
