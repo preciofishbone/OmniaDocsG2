@@ -1,21 +1,21 @@
-Share Documents
+Share documents
 ===========================================
 
-A block can be set up, for example using an Action Button, to let users easily share a document with others by uploading it locally on a page. This can very useful, especially in a Comunity, but can be used in other types of apps as well. 
+A block can be set up, for example using an action button, to let users easily share a document with others by uploading it locally on a page. This can very useful, especially in a community, but can be used in other types of apps as well. 
 
 One document can be uploaded each time. A document uploaded this way will be read only.
 
 This is needed:
 
-+ A property, for example Document Data.
-+ A Page Type for this purpose, with an iFrame block pointing to the property.
++ A property, for example Document data.
++ A page type for this purpose, with an iFrame block pointing to the property.
 + A page set up to list the uploaded, local documents.
 
-Note that this can be added to Setup for the central Community template, and added to the Community Layouts, so Share Documents functionality will be added automatically to all new communities.
+Note that this can be added to setup for the central community template, and added to the community layouts, so functionality for sharing documents swill be added automatically to all new communities.
 
 Implementation example
 *************************
-Here's an example, where Share Document is available in a community:
+Here's an example, where sharing documents is available in a community:
 
 .. image:: share-document-button.png
 
@@ -31,27 +31,27 @@ For all users of the community to read a shared document, the button FIND DOCUME
 
 .. image:: find-document-button-list.png
 
-The document title can be clicked to read a document. The uploader's name can also be clicked to display that user's User Profile Card, if it's used within your organization, or the user's Delve page if the Profile Card is not used.
+The document title can be clicked to read a document. The uploader's name can also be clicked to display that user's user profile card, if it's used within your organization, or the user's delve page if the profile card is not used.
 
 How it is set up
 ------------------
 This implementation example is set up the following way:
 
-1. A Page Type called Shared Document is set up, with an iFrame block in the middle.
+1. A page type called Shared document is set up, with an iFrame block in the middle.
 
 .. image:: share-document-pagetype-1.png
 
-Under Settings, the property "Document Data" is added, and other properties that will be used in the Page Type.
+Under Settings, the property Document data is added, and other properties that will be used in the page type.
 
 .. image:: share-document-pagetype-2.png
 
-The iFrame block is pointing to the Document Data property.
+The iFrame block is pointing to the Document data property.
 
 .. image:: share-document-pagetype-3.png
 
-2. Under Communities for the Business Profile, a Layout and a Template is set up.
+2. Under Communities for the business profile, a layout and a template is set up.
 
-The Layout is called Shared Docucments.
+The layout is called Shared docucments.
 
 .. image:: share-document-layout-1.png
 
@@ -59,23 +59,23 @@ And it's set up this way:
 
 .. image:: share-document-layout-2.png
 
-SHARE DOCUMENT is set up using an Action Button with these settings:
+SHARE DOCUMENT is set up using an action button with these settings:
 
 .. image:: share-document-layout-3.png
 
-FIND DOCUMENTS is set up using an Action Button with these settings:
+FIND DOCUMENTS is set up using an action button with these settings:
 
 .. image:: share-document-layout-4.png
 
-The list is set up with a Tab Section:
+The list is set up with a tab section:
 
 .. image:: share-document-layout-5.png
 
-And under that, a Page Rollup with the following Query:
+And under that, a page rollup with the following query:
 
 .. image:: share-document-layout-6.png
 
-In the Community Template, the following is added to Setup:
+In the community template, the following is added to Setup:
 
 .. image:: share-document-template.png
 
