@@ -1,19 +1,19 @@
-Sections and Blocks on a Page Type
+Sections and blocks on a page type
 =================================================
 
-This describes how to work with Sections and Blocks for a Page Type. You work the same way with Local Page Types and Tenant Page Types.
+This describes how to work with sections and blocks for a page type. You work the same way with local page types and tenant page types.
 
-For the very first steps when creating a new Page Type, see: :doc:`Create new Page Type </pages/page-types/create-new-page-type/index>`
+For the very first steps when creating a new page type, see: :doc:`Create new page type </pages/page-types/create-new-page-type/index>`
 
-Create a Section in a Column
+Create a section in a column
 ******************************
-If needed, you can create a section in a column and then select a layout for the column and set all other section's settings. Here's how:
+If needed, you can create a section in a column and then select a layout for the column and set all other section settings. Here's how:
 
 1. Click the plus for the column.
 
 .. image:: column-layout-click-plus-new.png
 
-Note that it's the same dialog for both sections and blocks you can add to a page or a page layout. The sections are found under "Layout".
+Note that it's the same dialog for sections and blocks you can add to a page or a page layout. The sections are found under "Layout".
 
 2. Open the Layout list.
 
@@ -29,23 +29,23 @@ For a description of available settings for the section, see: :doc:`Settings for
 
 If needed, you can even go a step further and create a new section in one of the new columns.
 
-**A tip!** The Stepper section is useful when organizing information in steps. It's also used with the new Forms functionality. See below for more information.
+**A tip!** The stepper section is useful when organizing information in steps. It's also used with the forms functionality. See below for more information.
 
-Using the Stepper section
+Using the stepper section
 ***************************
-A Stepper section is one of the sections you can use.
+AsStepper section is one of the sections you can use.
 
 .. image:: stepper-section.png
 
-A Stepper section makes it possible to organize content in a layout in a wizard-like style. It is possible to configure the Stepper to allow for an author to add new steps in Write mode.
+A stepper section makes it possible to organize content in a layout in a wizard-like style. It is possible to configure the stepper to allow for an author to add new steps in Write mode.
 
 .. image:: working-with-stepper.png
 
-Here's an example where a Stepper section is used:
+Here's an example where a stepper section is used:
 
 .. image:: working-with-stepper-example.png
 
-All settings for sections are available for the Stepper section.
+All settings for sections are available for the stepper section.
 
 Decide to show a section on a device or not
 **********************************************
@@ -62,13 +62,13 @@ You can now use the following settings:
 To hide a section for a device, do the following:
 
 1. Select the device.
-2. Click the pen for Visibility.
-3. Select Hide Section.
+2. Click the pen for "Visibility".
+3. Select "Hide Section".
 
 To add som padding for the section, for a specific device, do the following:
 
 1. Select the device.
-2. Click the pen for Section Padding.
+2. Click the pen for "Section padding".
 3. Set the padding.
 
 Delete a section
@@ -85,7 +85,7 @@ If you need to delete a section, here's how to do it:
 
 Move a section
 ***************
-Do the following to move a section to another placement on the page.
+Do the following to move a section to another place on the page.
 
 1. Click the section.
 2. Click the Move icon.
@@ -120,7 +120,7 @@ Copy a section from the clipboard
 -----------------------------------
 There's also a clipboard available, that can be used to copy sections between pages or page types, see: :doc:`Clipboard for sections and blocks </general-assets/layout-explorer/clipboard-sections-blocks/index>`
 
-Adding blocks to a Section
+Adding blocks to a section
 ***************************
 Here's how to add a block to a section:
 
@@ -136,9 +136,9 @@ Here's an example with a block added:
 
 .. image:: section-block-added-new2.png
 
-You add additional blocks, work with the settings, move or delete blocks the same way as editors do when editing a page, see: :doc:`Working with Blocks </blocks/working-with-blocks/index>`
+You add additional blocks, work with the settings, move or delete blocks the same way as editors do when editing a page, see: :doc:`Working with blocks </blocks/working-with-blocks/index>`
 
-**Note!** When editing a page, blocks that belong to the Page Type may be locked, meaning they can not be moved or deleted, and settings for those blocks can't be edited. But content can be edited, if applicable, using Write mode. For more information on this, see *Lock a blick or not*, below.
+**Note!** When editing a page, blocks that belong to the page type may be locked, meaning they can not be moved or deleted, and settings for those blocks can't be edited. But content can be edited, if applicable, using Write mode. For more information on this, see *Lock a block or not*, below.
 
 Copy a block from the clipboard
 ---------------------------------------------
