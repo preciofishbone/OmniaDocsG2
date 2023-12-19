@@ -1,11 +1,11 @@
-Enterprise Glossary
+Enterprise glossary
 ====================
 
-Enterprise Glossary can be used for taxonomies/terms, to edit look and feel and/or to connect the term to a page for more information. Terms can even be created specifically to provide more information where it's needed. 
+Enterprise glossary can be used for taxonomies/terms, to edit look and feel and/or to connect the term to a page for more information. Terms can even be created specifically to provide more information where it's needed. 
 
 Also, if you plan to use the block "Taxonomy navigation" you need to set up the taxonomies to be used for navigation here.
 
-Here's an example of a People Rollup displaying three properties:
+Here's an example of a people rollup displaying three properties:
 
 .. image:: glossary-example.png
 
@@ -42,7 +42,7 @@ To create a new glossary set, do the following:
 
 If you don't want to connect the glossary set to an information page - for example if you just want to edit look and feel - you're done now.
 
-**Note!** For a glossary set that will be used for Taxonomy navigation, all mappings should be to pages.
+**Note!** For a glossary set that will be used for taxonomy navigation, all mappings should be to pages.
 
 To connect to an information page, do the following:
 
@@ -54,12 +54,12 @@ To connect to an information page, do the following:
 
 .. image:: new-glossary-4.png
 
-+ **Show Read More**: This is a link to the information page. If you just want to show the Summary and/or Description from the page as information, deselect this option.
++ **Show Read more**: This is a link to the information page. If you just want to show the summary and/or description from the page as information, deselect this option.
 + **Image**: Select the property to use for the image.
-+ **Image Ratio**: Select image ratio to be shown in the information dialog.
++ **Image ratio**: Select image ratio to be shown in the information dialog.
 + **Name**: Select the property for the page name to be shown in the information dialog (often Title).
 + **Summary**: There's two possible content fields in the information dialog. You can show one or both. Here you can decide to show the page summary, by selecting the property that holds that kind of information.
-+ **Description**: You can also choose to show text from a description field, that usually holds more information. If you don't want to use a Read More link, you may want to show more information than just the summary. If you want to show a description, select the property here.
++ **Description**: You can also choose to show text from a description field, that usually holds more information. If you don't want to use a Read more link, you may want to show more information than just the summary. If you want to show a description, select the property here.
 + **Person**: Select property for the name to be shown in the information dialog (see below).
 
 See below for an example of information connected to a term. 
@@ -84,11 +84,11 @@ For a preview of the information, click the taxonomy label:
 
 .. image:: edit-taxonomy-1c.png
 
-Here's a simlple example of a preview:
+Here's a simple example of a preview:
 
 .. image:: edit-taxonomy-preview.png
 
-In this example, the information shown is the Summary from the connected page. The user can click READ MORE to go to the page.
+In this example, the information shown is the summary from the connected page. The user can click READ MORE to go to the page.
 
 To edit the mapping, click the icon to the right:
 
@@ -98,7 +98,7 @@ Use the following to edit the mapping:
 
 .. image:: edit-taxonomy-3.png
 
-The Page Picker is used here. For more information, see the heading "Navigating and picking", on this page: :doc:`Page Picker </general-assets/page-picker/index>`
+The page picker is used here. For more information, see the heading "Navigating and picking", on this page: :doc:`Page picker </general-assets/page-picker/index>`
 
 Edit look and feel
 ----------------------
