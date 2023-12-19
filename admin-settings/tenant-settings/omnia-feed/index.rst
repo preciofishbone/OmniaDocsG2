@@ -1,4 +1,4 @@
-Omnia Feed - Tenant Settings
+Omnia Feed - Tenant settings
 ==============================
 
 These settings are mainly used by AM and the Omnia Feed Team to set up the tenant:
