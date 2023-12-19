@@ -1,9 +1,9 @@
-Form Question
+Form question
 ================
 
-The block iz used only when working with the graphic presentation of a form, in Omnia Admin. The block can not be used on a normal page.
+The block iz used only when working with the graphic presentation of a form, in Omnia admin. The block can not be used on a normal page.
 
-Here's an example of a Form Question block added to a Survey:
+Here's an example of a Form question block added to a Survey:
 
 .. image:: form-question-block-example.png
 
@@ -29,7 +29,7 @@ When you have added additional steps, it's shown here:
 
 .. image:: form-question-add-step-2.png
 
-This is the Stepper section, new in v6.5.
+This is the stepper section, new in v6.5.
 
 You can navigate between steps by using the links at the bottom:
 
@@ -39,7 +39,7 @@ By using these icons, you can move a step or remove a step:
 
 .. image:: form-question-add-step-move-remove.png
 
-To set labels for the steps, use the settings for the Stepper section:
+To set labels for the steps, use the settings for the stepper section:
 
 .. image:: form-question-add-step-label.png
 
