@@ -1,12 +1,12 @@
-Check Version History and use an earlier version
+Check version history and use an earlier version
 =================================================
 
-Every time you save changes to a page (including when you publish) a new Version History node for the page is created. You can check earlier versions and you can revert to an earlier version and continue working with that version, if needed.
+Every time you save changes to a page (including when you publish) a new version history node for the page is created. You can check earlier versions and you can revert to an earlier version and continue working with that version, if needed.
 
-Do the following to see Version History:
+Do the following to see version history:
 
 1. Go to the page.
-2. If you're editing the page, save the draft or discard changes, or the Version History option will not be available.
+2. If you're editing the page, save the draft or discard changes, or the version history option will not be available.
 3. Open the action menu and select VERSION HISTORY.
 
 .. image:: page-version-history-menu-new3.png
