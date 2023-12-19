@@ -1,4 +1,4 @@
-Blocks for Event Management
+Blocks for Event management
 ==============================
 
 There are two blocks that can only be used for Event Management. 
