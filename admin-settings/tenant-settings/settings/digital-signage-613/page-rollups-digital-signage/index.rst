@@ -1,4 +1,4 @@
-Page Rollups (Digital Signage)
+Page rollups (Digital signage)
 =============================================
 
 Here you set up rollups to be used for digital signage. You can use these rollups when you create screens for a web browser.
