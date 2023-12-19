@@ -1,4 +1,4 @@
-Queryable Properties
+Queryable properties
 ===========================
 
 Here, you add Properties that should be queryable in Omnia's database. The Properties are used in the Query Builder, so far in these blocks:
