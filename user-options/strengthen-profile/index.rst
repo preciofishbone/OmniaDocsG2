@@ -1,9 +1,9 @@
-Strengthen Profile
+Strengthen profile
 ===========================================
 
-To make it easier for users to complete the most important parts of their profile, a Strengthen Profile option can be made available.
+To make it easier for users to complete the most important parts of their profile, a Strengthen profile option can be made available.
 
-The option can be available in the Action Menu:
+The option can be available in the action menu:
 
 .. image:: strengthen-profile-menu-new2.png
 
@@ -62,13 +62,13 @@ Here's an example of step 3:
 
 7. Do the same here; click the x to remove, click tag icon to add.
 8. Save or skip when you're done.
-9. To close Strenghten Profile, click "Close".
+9. To close Strenghten profile, click "Close".
 
 .. image:: click-close-new.png
 
-Settings for Strenghten Profile
+Settings for Strenghten profile
 *********************************
-All settings are done in Omnia Admin, see: :doc:`User Profile Completion </admin-settings/tenant-settings/settings/user-profile-completion/index>`
+All settings are done in Omnia admin, see: :doc:`User profile completion </admin-settings/tenant-settings/settings/user-profile-completion/index>`
 
 
 
