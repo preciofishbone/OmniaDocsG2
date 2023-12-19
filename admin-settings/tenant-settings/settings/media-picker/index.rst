@@ -1,4 +1,4 @@
-Media Picker Settings
+Media picker settings
 ======================
 
 The following settings are available:
