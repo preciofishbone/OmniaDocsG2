@@ -1,4 +1,4 @@
-Contribute to this Documentation
+Contribute to this documentation
 ===================================
 
 This documentation is a constant work in progress, and anyone can propose changes and additions here.
