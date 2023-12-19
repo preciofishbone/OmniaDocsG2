@@ -1,11 +1,11 @@
-Layout Explorer
+Layout explorer
 ====================
 
-The Layout Explorer can be used when creating or editing a Page Type or when editing pages. Regarding Pages, it's available when editing a page in Design Mode.
+The Layout explorer can be used when creating or editing a page type or when editing pages. Regarding pages, it's available when editing a page in Design mode.
 
 .. image:: page-toolbar.png
 
-The following options are found in Layout Explorer. Select page for more information:
+The following options are found in Layout explorer. Select page for more information:
 
 .. toctree::
    :titlesonly:
