@@ -1,4 +1,4 @@
-Content Analysis (OpenAI)
+Content analysis (OpenAI)
 =============================================
 
 This option is available in Omnia 7.1 and later.
