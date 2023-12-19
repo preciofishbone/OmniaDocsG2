@@ -1,4 +1,4 @@
-Move Page Collection
+Move a page collection
 =============================================
 
 If your setup contains more than one publishing app you can move a page collection to another app. You do it this way:
@@ -12,6 +12,5 @@ If your setup contains more than one publishing app you can move a page collecti
 
 .. image:: move-page-collection-2.png
 
-**Important Note!**
-When moving a page collection only tenant page types are supported. Local page types will be lost.
+**Important Note!** When moving a page collection only tenant page types are supported. Local page types will be lost.
 
