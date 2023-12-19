@@ -1,7 +1,7 @@
-User Management
+User management
 =============================================
 
-User Management is available in Omnia 7.0 and later. Here you can add and handle users that does not require an Microsoft 365 license, and some other options.
+User management is available in Omnia 7.0 and later. Here you can add and handle users that does not require an Microsoft 365 license, and some other options.
 
 .. image:: user-management-menu-new2.png
 
