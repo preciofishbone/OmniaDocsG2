@@ -1,11 +1,11 @@
-My Links
+My links
 ===========================================
 
-Using My Links a user can access sites, documents and more, that has been setup in Omnia Admin.
+Using My links a user can access sites, documents and more, that has been setup in Omnia admin.
 
 .. image:: my-links-new.png
 
-All mandatory links, decided by the administrator when adding the links in Omnia Admin, are always shown.
+All mandatory links, decided by the administrator when adding the links in Omnia admin, are always shown.
 
 Links can also be targeted to certain user groups, and only shown to them. A search field can be shown, which can be used to search for links. 
 
@@ -15,7 +15,7 @@ Options that can be available:
 + **Show categories**: Links can be categorized. If this option is selected categories (headings) are shown and the links are sorted byt the categories. See below for more information.
 + **Add personal link**: A user can add personal links as well, using this option. See below for an instruction.
 
-In the above image "Business Application", "Our Products" and "Portal" are categories. Here's the same My Links list without categories:
+In the above image "Business Application", "Our Products" and "Portal" are categories. Here's the same My links list without categories:
 
 .. image:: my-links-no-categories-new.png
 
@@ -29,7 +29,7 @@ To decide which non mandatory links should be available, the stars will be used.
 
 .. image:: my-links-stars-new.png
 
-To decide to show a ink or not, just click the star.
+To decide to show a link or not, just click the star.
 
 Add a personal link
 ********************
@@ -45,13 +45,13 @@ Users can normally add personal links to their My links list. Here's an instruct
 
 + **Title**: Type a text to be shown for the clickable link.
 + **URL**: Paste or type the URL (link) in this field.
-+ **Category**: Select an existing Category from the list or create a new Category by typing in the field.
++ **Category**: Select an existing Category from the list or create a new category by typing in the field.
 + **Information**: Add information about the link for your own use. If added, an i-icon is shown by the link, see noted above.
 + **Open in new window**: If the link should be opened in a new window, select this option. If not selected the link opens in th same window.
-+ **Icon Type**: An Icon will be shown for each link. As the first step, you select Icon Type: "Font Awesome", "Microsoft" or "Flags". 
-+ **Icon**: When you have seleceted Icon Type, select the Icon using this list. See below for examples.
-+ **Icon color**: For Font Awesome and Microsoft, Icon color can be selected.
-+ **Background color**: For Font Awesome and Microsoft, a Background color for the icon, can be selcted.
++ **Icon type**: An Icon will be shown for each link. As the first step, you select icon type: "Font Awesome", "Microsoft" or "Flags". 
++ **Icon**: When you have seleceted icon type, select the icon using this list. See below for examples.
++ **Icon color**: For Font Awesome and Microsoft, icon color can be selected.
++ **Background color**: For Font Awesome and Microsoft, a background color for the icon, can be selcted.
 
 Note that an icon preview is shown at the bottom of the list (not shown in the image above).
 
@@ -65,9 +65,9 @@ All settings for a personal link can be edited. Click the pen to do that:
 
 To delete a personal link, click the dust bin.
 
-Setting up links in Omnia Admin
+Setting up links in Omnia admin
 *********************************
-An administrator can set up links in Omnia Admin. Links can be applicable for the whole tenant, or for a business profile only. And, as already stated, links can be targeted.
+An administrator can set up links in Omnia admin. Links can be applicable for the whole tenant, or for a business profile only. And, as already stated, links can be targeted.
 
 See this page for more information: :doc:`Shared links </admin-settings/tenant-settings/shared-links/index>`
 
