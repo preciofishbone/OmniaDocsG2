@@ -1,7 +1,7 @@
-Quick Search and Advanced Search
+Quick search and Advanced search
 ===========================================
 
-Using Quick Search users can find information in a quick and convenient way. How it will work is set up in Omnia Admin. 
+Using quick search users can find information in a quick and convenient way. How it will work is set up in Omnia admin. 
 
 Here's an example of a search result:
 
@@ -21,13 +21,13 @@ The totalt number of search results are shown for for each category. Here's an e
 
 .. image:: quick-search-total-v7.png
 
-Advanced Search
+Advanced search
 ****************
-To search with more options, users can go to Advanced Search by clicking here (the text for this link can be edited):
+To search with more options, users can go to Advanced search by clicking here (the text for this link can be edited):
 
 .. image:: advanced-search-v7.png
 
-When conducting an Advanced Search more tabs are available at the top and refiners can be available. Note the number of search hits for each tab (category).
+When conducting an advanced search more tabs are available at the top and refiners can be available. Note the number of search hits for each tab (category).
 
 The refiners available (if refiners are shown) depends on what is available in the search result and the tab selected. Here's an example:
 
@@ -37,17 +37,17 @@ If, for example, the user would be interested in documents in communities, this 
 
 .. image:: advanced-search-refined-v7.png
 
-Promoted Search results
+Promoted search results
 ------------------------
-A search administrator can set up promoted search results using keywords. A promoted search result can be shown this way in Quick Search:
+A search administrator can set up promoted search results using keywords. A promoted search result can be shown this way in Quick search:
 
 .. image:: quick-search-promoted-example.png
 
-And this way in Advanced Search:
+And this way in Advanced search:
 
 .. image:: advanced-search-promoted-example.png
 
-Promoted search results are set up in Omnia Admin, see: :doc:`Promoted Search Results </admin-settings/business-group-settings/search/promoted-search-results/index>`
+Promoted search results are set up in Omnia admin, see: :doc:`Promoted search results </admin-settings/business-group-settings/search/promoted-search-results/index>`
 
 Search feedback
 -----------------
@@ -55,9 +55,9 @@ It can be possible for users to send feedback on a search result (see image abov
 
 For information on how this works for the user, see: :doc:`Send feedback on a search result </user-options/search-feedback-user/index>`
 
-For information on how this works for administrators, see: :doc:`Search Feedback </admin-settings/business-group-settings/search/search-feedback/index>`
+For information on how this works for administrators, see: :doc:`Search feedback </admin-settings/business-group-settings/search/search-feedback/index>`
 
-Settings for Search
+Settings for search
 ********************
-The settings for Search are found in Omnia Admin, for Business Profiles, see: :doc:`Search settings </admin-settings/business-group-settings/search/index>`
+The settings for search are found in Omnia admin, for a business profile, see: :doc:`Search settings </admin-settings/business-group-settings/search/index>`
 
