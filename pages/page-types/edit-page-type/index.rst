@@ -1,9 +1,9 @@
-Edit a Local Page Type
-==================
+Edit a local page type
+=========================
 
-Page Types can either be Local, meaning they are only available in the Publishing App where they are created, or Tenant Page Types. Tenant Page Types can be made available in all Publishing Apps in the Tenant.
+Page types can either be local, meaning they are only available in the publishing app where they are created, or tenant page types. Tenant page types can be made available in all publishing apps in the tenant.
 
-To edit a Local Page Type, do the following:
+To edit a local page type, do the following:
 
 1. Go to any page.
 2. Edit the page.
@@ -28,8 +28,8 @@ To edit a Local Page Type, do the following:
 
 7. Edit and remove/add sections and blocks the normal way.
 
-For information about Tenant Page Types, see: :doc:`Tenant Page Types </admin-settings/tenant-settings/webcontent-managament/page-types/index>`
+For more information about tenant page types, see: :doc:`Tenant page types </admin-settings/tenant-settings/webcontent-managament/page-types/index>`
 
-For information about Section settings, see :doc:`Section settings </pages/page-types/section-settings/index>`
+For information about section settings, see :doc:`Section settings </pages/page-types/section-settings/index>`
 
-For more information about sections and blocks, see :doc:`Working with Sections and Blocks </pages/page-types/working-with-sections-and-blocks/index>`
+For more information about sections and blocks, see :doc:`Working with sections and blocks </pages/page-types/working-with-sections-and-blocks/index>`
