@@ -1,4 +1,4 @@
-Dynamic Groups
+Dynamic groups
 =============================================
 
 This option is available in Omnia 7.0 and later.
