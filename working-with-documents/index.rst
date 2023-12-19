@@ -1,4 +1,4 @@
-Working with Documents
+Working with documents
 =========================
 
 In this part of the documentation you will find information about how to work with controlled documents and how to use the document wizard to create both controlled documents and normal documents.
