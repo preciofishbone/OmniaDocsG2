@@ -1,4 +1,4 @@
-Property Recycle Bin
+Property recycle bin
 =========================
 
 You can delete some Properties from the various lists in Omnia Admin. You can also delete property sets. Normally you can just delete those your organization has added. Default properties can not be deleted.
