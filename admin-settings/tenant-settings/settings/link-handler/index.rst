@@ -1,4 +1,4 @@
-Link Handler
+Link handler
 ===============================
 
 Prerequisite: the features Documents Link Handler and Rules Link Handler must be activated.
