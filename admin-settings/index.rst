@@ -1,4 +1,4 @@
-Admin Settings
+Admin settings
 ===========================================
 
 .. toctree::
