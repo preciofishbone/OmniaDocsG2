@@ -1,4 +1,4 @@
-Business Profiles
+Business profiles
 ===========================================
 
 Within a Tenant several Business Profiles can be used, for different settings, for different areas of the Tenant. Even if you will have the same settings everywhere in the Tenant, you still need at least one Business Profile, to set, for example, Themes (Colors) and Content Header Settings.
