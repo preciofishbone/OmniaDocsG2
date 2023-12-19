@@ -1,17 +1,17 @@
-Reusable Content
+Reusable content
 ===================
 
 Content from one Omnia page can be reused on another Omnia page. It's true for variations as well. To be more precise, it is content from defined properties that are being reused, so applicable blocks must be present on the target page, for information to show up. 
 
 A property that are not shown for users can be reused as well, for example Review date.
 
-A prerequisite for Reusable Content to be available, is that "Enable reuse content" is turned on in the Publishing App settings, see: :doc:`Publishing App Settings </pages/page-settings/index>`
+A prerequisite for reusable content to be available, is that "Enable reuse content" is turned on in the publishing app settings, see: :doc:`Publishing app settings </pages/page-settings/index>`
 
 Note that blocks with reused content are locked on the target page. They can not be edited there. Reused content can only be edited on the source page. 
 
 Regarding permissions, the editor working with the reusable content on the source page must have editing permissions on the target pages as well, for publishing to the target pages to work.
 
-Reuse Content
+Reuse content
 *******************
 When you are editing a page where you want to reuse content from another page, do this:
 
@@ -29,9 +29,9 @@ The following is shown:
 
 3. Click ADD SOURCE PAGE.
 
-The Page Picker starts and you use it to select a source page or variation. See this page for more information on how to use the Page Picker: :doc:`Page Picker </general-assets/page-picker/index>`
+The page picker starts and you use it to select a source page or variation. See this page for more information on how to use the page picker: :doc:`Page picker </general-assets/page-picker/index>`
 
-**Note!** If an error message is shown saying "the page is not reusable", reausable content has bot been activated for the publishing app, see above. 
+**Note!** If an error message is shown saying "the page is not reusable", reausable content has not been activated for the publishing app, see above. 
 
 The properties that are or can be reused on the target page are listed, for example:
 
@@ -39,7 +39,7 @@ The properties that are or can be reused on the target page are listed, for exam
 
 If you don't want to reuse content from a certain property, click the dust bin to remove it from the list.
 
-If additional properties are available, you can add any of them - so the content can be reused - using the "Select Property" list. You can edit the reuse list any time you are editing the target page, so you can add or remove reusable properties as needed.
+If additional properties are available, you can add any of them - so the content can be reused - using the "Select property" list. You can edit the reuse list any time you are editing the target page, so you can add or remove reusable properties as needed.
 
 Also note that blocks reusing content are indicated this way, which you can see when editing a page:
 
@@ -49,7 +49,7 @@ If you are reusing properties used for settings, that is indicated as well, with
 
 .. image:: reuse-content-on-page-settings-properties-new.png
 
-In this example, three of the prooperty fields are being reused from another page: Page Contact, Applies to, and Preview Before.
+In this example, three of the property fields are being reused from another page: Page Contact, Applies to, and Preview Before.
 
 Editing the source page
 *************************
@@ -59,6 +59,6 @@ Here's an example:
 
 .. image:: reuse-content-published.png
 
-Automatic Page Creation
+Automatic page creation
 ****************************
-Content can also be reused in Automatic Page Creation. For more information, see: :doc:`Automatic Page Creation </pages/automatic-page-creation/index>`
+Content can also be reused in automatic page creation. For more information, see: :doc:`Automatic page creation </pages/automatic-page-creation/index>`
