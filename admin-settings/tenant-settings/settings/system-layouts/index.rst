@@ -1,4 +1,4 @@
-System Layouts
+System layouts
 =============================================
 
 **This page is under construction.**
