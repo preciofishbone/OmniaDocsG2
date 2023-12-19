@@ -1,9 +1,9 @@
-Create News
+Create news
 ===========================================
 
-Colleagues with the right permission can create and publish news in a specific News Center. It's very common that only a dedicated group of authors can do that but it's also possible that all colleagues have this permission.
+Colleagues with the right permission can create and publish news in a specific news center. It's very common that only a dedicated group of authors can do that but it's also possible that all colleagues have this permission.
 
-If you have the permission necessary to create news, this button is shown in the News Archive. The button can also be made available on other pages.
+If you have the permission necessary to create news, this button is shown in the news archive. The button can also be made available on other pages.
 
 .. image:: create-news-button-new2.png
 
@@ -13,7 +13,7 @@ The following is shown:
 
 .. image:: news-file-name2.png
 
-2. Type a file name for the new News article (page) and click "Create".
+2. Type a file name for the new news article (page) and click "Create".
 
 This creates a page for the news article. All options for pages can be used for news article pages.
 
@@ -21,15 +21,15 @@ Something like the following is shown:
 
 .. image:: create-news-template-new3.png
 
-Available blocks and more depends on how the Page Type (page template) for news is set up. 
+Available blocks and more depends on how the page type (page template) for news is set up. 
 
-You can see that the file name you entered in the previous step is suggested as the bews article's heading ("Spring is in the air" in this example). It can be edited if needed.
+You can see that the file name you entered in the previous step is suggested as the news article's heading ("Spring is in the air" in this example). It can be edited if needed.
 
-What you actually need to do depends on the Page Type (template) for news. Here's some common steps that you should be able to do using Write mode:
+What you actually need to do depends on the page type (template) for news. Here's some common steps that you should be able to do using Write mode:
 
-3. Add an image. A part of that image can also be used as the image in a News list (which is automatic if used).
+3. Add an image. A part of that image can also be used as the image in a news list (which is automatic if used).
 4. Add a short introduction in the third block ("Put your news summary here ..."), under the heading, just click and write.
-5. Add the content in the Text block below the introduction.
+5. Add the content in the text block below the introduction.
 
 .. image:: news-content-new2.png
 
@@ -37,9 +37,9 @@ What you actually need to do depends on the Page Type (template) for news. Here'
 
 You most likely will just need permissions to use Write mode to be able to create and publish a news article. 
 
-When you use the Media block to add an image (which you most likely will do), you use the Media Picker. See this page for more information: :doc:`The Media Picker </general-assets/media-picker/index>`
+When you use the media block to add an image (which you most likely will do), you use the Media picker. See this page for more information: :doc:`The Media picker </general-assets/media-picker/index>`
 
-Regarding the Text block, see this page for more information about the available options for text, links and images: :doc:`The RTF Editor </general-assets/rtf-editor/index>`
+Regarding the text block, see this page for more information about the available options for text, links and images: :doc:`The RTF editor </general-assets/rtf-editor/index>`
 
 If you have permissions to use Design mode you can edit the settings for the blocks, see: :doc:`Working with blocks </blocks/working-with-blocks/index>`
 
@@ -51,15 +51,15 @@ For more information about a specific block, select the block in this list: :doc
 
 8. Set the Properties.
 
-Available properties depends on how the Page Type for News is set up. Here's an example:
+Available properties depends on how the page type for news is set up. Here's an example:
 
 .. image:: news-properties-border-new2.png
 
-+ **Article Date**: Todays date is added to the field. The date can be edited if needed. In a news list, the articles are sorted on Article Date. If you're working on an article for a while, the date will not be updated automatically, so you may have to edit it before publishing.
-+ **Page Contact**: This is shown under the image on the news article's page. Your name is added automatically. If someone else should be the Page Contact, remove your name and add the colleague's name.
-+ **Top Story**: Regard it as "a very important news setting", if present. In certain news listings, top stories can be viewed differently from other news. 
++ **Article date**: Todays date is added to the field. The date can be edited if needed. In a news list, the articles are sorted on Article date. If you're working on an article for a while, the date will not be updated automatically, so you may have to edit it before publishing.
++ **Page contact**: This is shown under the image on the news article's page. Your name is added automatically. If someone else should be the page contact, remove your name and add the colleague's name.
++ **TopsStory**: Regard it as "a very important news setting", if present. In certain news listings, top stories can be viewed differently from other news. 
 
-Metadata tagging for News can be set up in many ways and also used in many ways, for example to display different news articles for different user groups. "Promoted Until", "News Channel", "Location", "Mandatory Read" and "Keywords" are examples of metadata, and you will receive information from your organization about how to use the metadata.
+Metadata tagging for news can be set up in many ways and also used in many ways, for example to display different news articles for different user groups. "Promoted until", "News channel", "Location", "Mandatory read" and "Keywords" are examples of metadata, and you will receive information from your organization about how to use them.
 
 9. When you're done here, click "Next".
 
@@ -73,11 +73,11 @@ A preview is now shown. Note that you can test how the News article will look on
 
 To get som more information about the publishing options, for example scheduled publishing, if available, see this page for more information: :doc:`Publish page changes </pages/publish-page-changes/index>`
 
-Continue working on a saved News Article
+Continue working on a saved news article
 *****************************************
 Do the following:
 
-1. Go to the News Center/News Archive.
+1. Go to the news center/news archive.
 2. Click the icon to open the editor.
 
 .. image:: news-open-editor-new2.png
