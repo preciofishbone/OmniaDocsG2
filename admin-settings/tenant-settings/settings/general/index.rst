@@ -1,4 +1,4 @@
-General Tenant settings
+General tenant settings
 ===========================
 
 Here you add settings for the start link, the link executed when a user clicks the logo.
