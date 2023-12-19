@@ -1,4 +1,4 @@
-User Profile Completion
+User profile completion
 ==================================
 
 This is the settings for the user option "Strengthen Profile", that can found inte the Action Menu:
