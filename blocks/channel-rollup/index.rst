@@ -1,9 +1,9 @@
-Channel Rollup
+Channel rollup
 ==============================================
 
-Use this block to rollup Publihsing Channels for easy access for administrators and/or to rollup pending approvals for one or more channels.
+Use this block to rollup publishing channels for easy access for administrators and/or to rollup pending approvals for one or more channels.
 
-For more information about Publishing Channels, see: :doc:`Publishing Channels </admin-settings/tenant-settings/webcontent-managament/publishing-channels/index>`
+For more information about publishing channels, see: :doc:`Publishing channels </admin-settings/tenant-settings/webcontent-managament/publishing-channels/index>`
 
 Settings
 *********
@@ -28,7 +28,7 @@ Under "Query" you decide what to rollup:
 
 Display
 ---------
-The content in this block can only be listed in one way so far, but still has to selected:
+The content in this block can only be listed in one way so far, but it still has to selected:
 
 .. image:: channel-rollup-settings-display-1.png
 
@@ -36,7 +36,7 @@ When the view Administration has been selected, you can also select to group the
 
 .. image:: channel-rollup-settings-display-2.png
 
-For more information about categories, see: :doc:`Publishing Channels Categories </aadmin-settings/tenant-settings/webcontent-managament/publishing-channels-categories/index>`
+For more information about categories, see: :doc:`Publishing channels categories </aadmin-settings/tenant-settings/webcontent-managament/publishing-channels-categories/index>`
 
 Filter
 --------
