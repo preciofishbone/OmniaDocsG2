@@ -1,4 +1,4 @@
-Best Practice
+Best practice
 ===========================================
 
 Omnia is not just a set of features; it comes with a story.
