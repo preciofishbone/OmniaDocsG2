@@ -1,9 +1,9 @@
-Publishing App settings
+Publishing app settings
 =======================================
 
-A number of Publishing App settings are available. You have to be Publishing App administrator to use them.
+A number of publishing app settings are available. You have to be publishing app administrator to use them.
 
-Open the Publishing App settings by clicking here:
+Open the publishing app settings by clicking here:
 
 .. image:: page-settings-612.png
 
@@ -16,30 +16,30 @@ The following settings are available here:
 + **Title**: Add the title to be displayed for the publishing app here. 
 + **Description**: Add a description if you wish (recommended).
 + **Authors**: Add general authors for pages in the publishing app. Can be edited for specific pages if needed.
-+ (Image): You use the Media Picker to add or change the image. For more information on how to use this asset, see: :doc:`Media Picker </general-assets/media-picker/index>`
++ (Image): You use the media picker to add or change the image. For more information on how to use this asset, see: :doc:`Media picker </general-assets/media-picker/index>`
 
 Permissions
 ************
-Use these settings to Edit permissions in the Publishing App. 
+Use these settings to Edit permissions in the publishing app. 
 
 .. image:: page-settings-permissions-612-new.png
 
-+ **Allow Mobile Login**: This setting is intended to offer login to certain parts of Omnia for first line workers, partners and similar. The user needs the Kaizala app and a viable account. If you see the label "Kaizala login" somewhere, it's the same thing. **Note!** Mobile Login/Kaizala login is not available in Omnia on-prem.
-+ **Administrators**: Add and remove Publishing App administrators here as needed.
++ **Allow mobile login**: This setting is intended to offer login to certain parts of Omnia for first line workers, partners and similar. The user needs the Kaizala app and a viable account. If you see the label "Kaizala login" somewhere, it's the same thing. **Note!** Mobile login/Kaizala login is not available in Omnia on-prem.
++ **Administrators**: Add and remove publishing app administrators here as needed.
 + **Contributors**: This permissions settings is needed if colleagues should be able to add comments to pages.
-+ **Resource Readers**: Here you set the general Read permission for the Publishing App, needed for users to be able to read pages.
++ **Resource readers**: Here you set the general read permission for the publishing app, needed for users to be able to read pages.
 
-Single users, Security groups and Microsoft 365 groups can be added here (In Omnia on-prem, Microsoft 365 groups can't be used).
+Single users,sSecurity groups and Microsoft 365 groups can be added here (In Omnia on-prem, Microsoft 365 groups can't be used).
 
-Note that this permissions setting is valid for these settings only. To be able to edit Publishing App settings in Omnia Admin you need to be either a tenant administrator or administrator for the Business Profile.
+Note that this permissions setting is valid for the settings here, only. To be able to edit publishing app settings in Omnia admin, you need to be either a tenant administrator or administrator for the business profile.
 
 Regarding these settings a tenant administrator and business profile administrator can go here and add him or herself to the permissions list and that way gain access to the settings.
 
 Variations
 ************
-Here you set up the Page Variations that should be possible to use in the Publishing App. It's then up to Page Editors to use a variation, or not, for a page. A page variation is created for a page when it's needed.
+Here you set up the page variations that should be possible to use in the publishing app. It's then up to page editors to use a variation, or not, for a page. A page variation is created for a page when it's needed.
 
-A variation can also be set up for Automatic Machine Translation, see below. (Not available in Omnia on-prem).
+A variation can also be set up for automatic machine translation, see below. (Not available in Omnia on-prem).
 
 It's also possible to add one variation author for each variation. Here's an example with a number of variations set up:
 
@@ -55,7 +55,7 @@ When you edit a variation, the same settings as when you create a new variation 
 
 Create a new variation
 -----------------------
-Note that you can use Variations for a lot of implementations, not just languages, even if language versions of a page probably is the most common.
+Note that you can use variations for a lot of implementations, not just languages, even if language versions of a page probably is the most common.
 
 Do the following to create a new variation (you have to scroll down to the end of the list):
 
@@ -68,30 +68,30 @@ Do the following to create a new variation (you have to scroll down to the end o
 .. image:: variations-612.png
 
 + **Title**: Add a title for the variation to be shown in the lists, for example the list where users can select variation. If needed, the title can be added in any or all of the languages set up in the tenant. Click the flag to change language.
-+ **Icon Type**: If you want show an icon for the variation, select Icon Type here, for excample "Flags".
-+ **Icon**: Shown when you have selected Icon Type. Select the icon here.
-+ **Url Segment**: Add a suitable Url Segment in this field.
-+ **Variation author**: You can add a variation author for this variation. See this page for more information: :doc:`Edit Page Variations </pages/edit-page-variations/index>`
-+ **Automatic Machine Translation**: You can select machine translation for this variation, to any language that is set up in the tenant. If you do, you can't select a Variation author, and the machine translated variation can not be edited manually. When you have selected this option, choose language in the list shown. Automatic Machine Translation is executed when the page is published. It will be noted on the variation page that it has been machine translated, see below. **Note!** Machine translation is not available in Omnia on-prem.
++ **Icon type**: If you want show an icon for the variation, select icon type here, for example "Flags".
++ **Icon**: Shown when you have selected icon type. Select the icon here.
++ **URL Segment**: Add a suitable URL Segment in this field.
++ **Variation author**: You can add a variation author for this variation. See this page for more information: :doc:`Edit page variations </pages/edit-page-variations/index>`
++ **Automatic machine translation**: You can select machine translation for this variation, to any language that is set up in the tenant. If you do, you can't select a variation author, and the machine translated variation can not be edited manually. When you have selected this option, choose language in the list shown. Automatic machine translation is executed when the page is published. It will be noted on the variation page that it has been machine translated, see below. **Note!** Machine translation is not available in Omnia on-prem.
 + **Right to left**: If you're creating a variation for a language that is read right to left, select this option.
-+ **Add Targeting Filter**: To set up targeting for this variation, click here. It is not mandatory. See below for more information.
++ **Add targeting filter**: To set up targeting for this variation, click here. It is not mandatory. See below for more information.
 
-Languages used for Titles, or for targering, must be set up in the Tenant Settings, see this page: :doc:`Regional Settings </admin-settings/tenant-settings/settings/regional-settings/index>`
+Languages used for titles, or for targering, must be set up in the tenant Settings, see this page: :doc:`Regional settings </admin-settings/tenant-settings/settings/regional-settings/index>`
 
-Targeting a Page Variation
+Targeting a page variation
 ----------------------------
-Use targeting for a variation to set which variation of a page that will be displayed to the logged in user. Note that if a Variation Selector block is added to a page, users can always select any of the available variations. This is true even if no targeting is set up. See this page for information about the Variation Selector block: :doc:`Variation Selector </blocks/variation-selector/index>`
+Use targeting for a variation to set which variation of a page that will be displayed to the logged in user. Note that if a Variation selector block is added to a page, users can always select any of the available variations. This is true even if no targeting is set up. See this page for information about the Variation selector block: :doc:`Variation selector </blocks/variation-selector/index>`
 
-**Note!** The Targeting Properties to use must be set up in Omnia Admin. See this page for more information: :doc:`Targeting Properties </admin-settings/tenant-settings/properties/targeting-properties>`
+**Note!** The targeting properties to use must be set up in Omnia admin. See this page for more information: :doc:`Targeting properties </admin-settings/tenant-settings/properties/targeting-properties>`
 
-To target a Page Variation, do the following: 
+To target a page variation, do the following: 
 
-1. Click "Add Targeting Filter" when editing a Page Variation's settings.
+1. Click "Add Ttargeting filter" when editing a page variation's settings.
 
 .. image:: page-variation-add-targeting-612.png
 
-2. Select Targeting Property from the list. 
-3. If there are children in the property -as the next step you can select to include all Children, or you can target one or more of the Children specifically. 
+2. Select targeting property from the list. 
+3. If there are children in the property, as the next step you can select to include all children, or you can target one or more of the children specifically. 
 
 Here's an example which will see to that all users that has Danish set as preferred language will see the Danish variation of the page.
 
@@ -99,13 +99,13 @@ Here's an example which will see to that all users that has Danish set as prefer
 
 4. Click "OK" to save your changes.
 
-You can add as many Targeting Properties for a Variation as is needed this way (and remember that variations can be a lot more than just languages). To remove a target, just click the X.
+You can add as many targeting properties for a variation as is needed this way (and remember that variations can be a lot more than just languages). To remove a target, just click the X.
 
-Note that the targeting settings also are shown in the Variations list, for example:
+Note that the targeting settings also are shown in the variations list, for example:
 
 .. image:: page-variation-example-612.png
 
-Edit contents of a Page Variation
+Edit contents of a page variation
 --------------------------------------
 When more than one variation of the page exists, an editor can select variation to work with in the list, in the lower left corner:
 
@@ -115,7 +115,7 @@ If no variation exists yet for the page, the editor can select to create one.
 
 .. image:: variation-create-page-new2.png
 
-Editing a Page Variation works exactly the same way as editing the default page.
+Editing a page variation works exactly the same way as editing the default page.
 
 Statistics
 *************
@@ -141,33 +141,33 @@ and these:
 
 .. image:: page-settings-advanced-612-2.png
 
-+ **Default Page Collection**: The default Page Collection for the page can be set here.
-+ **Allow reuse content**: If it should be allowed to resuse content within the Publisging App, activate "Enable Reuse Content". For more information about how to reuse content, see: :doc:`Reusable Content </pages/reusable-content/index>`
-+ **Connected SharePoint Site**: The address to the SharePoint Site is shown here.
++ **Default page collection**: The default page collection for the page can be set here.
++ **Allow reuse content**: If it should be allowed to resuse content within the publishing app, activate "Enable reuse content". For more information about how to reuse content, see: :doc:`Reusable content </pages/reusable-content/index>`
++ **Connected SharePoint site**: The address to the SharePoint site is shown here.
 + **Editor navigation**: Here you can add options that should be available in the page menu, in additional to the default options. For more information, see below.
-+ **Contact Property**: Select the property used to store information about the user being page contact.
-+ **Review Date Property**: Select the property used to store information about review date for pages.
++ **Contact property**: Select the property used to store information about the user being page contact.
++ **Review date property**: Select the property used to store information about review date for pages.
 + **Promoted tags**: A publishing app can be configured to have promoted tags/terms for certain properties. Promoted tags/terms will be displayed at the top of the tag/term picker both for the author, when working with pages, and for the end user when filtering in a page rollup.
-+ **Document Management**: You use this part for Dcouments settings, both for "normal documents" and for controlled documents. For more information, see below.
++ **Document management**: You use this part for documents settings, both for "normal documents" and for controlled documents. For more information, see below.
 
-For more information about layouts for publishing, see this page: :doc:`Publishing Layouts </admin-settings/business-group-settings/publishing-apps/publishing-65/layout/index>`
+For more information about layouts for publishing, see this page: :doc:`Publishing layouts </admin-settings/business-group-settings/publishing-apps/publishing-65/layout/index>`
 
-Editor Navigation
+Editor navigation
 --------------------
-Use this setting to add options to the page menu, if nedded. On example is to add an option to make it poosible to work with controlled documents in a publishing app.
+Use this setting to add options to the page menu, if needed. On example is to add an option to make it possible to work with controlled documents in a publishing app.
 
-Prerequisit: A publishing layout for the option to be used must have been created in Omnia Admin. For more information about how to work with publishing layouts, see: :doc:`Publishing Layouts </admin-settings/business-group-settings/publishing-apps/publishing-65/layoutindex>`
+Prerequisit: A publishing layout for the option to be used must have been created in Omnia admin. For more information about how to work with publishing layouts, see: :doc:`Publishing layouts </admin-settings/business-group-settings/publishing-apps/publishing-65/layoutindex>`
 
 Here's how to add a menu option:
 
-1. Click the plus to the right of "Editor Navigation".
+1. Click the plus to the right of "Editor navigation".
 2. Use the following settings:
 
 .. image:: editor-navigation-settings.png
 
 + **Layout**: Select layout here.
 + **Title**: Add a title in any or several of the tenant languages. Click the flag to change language.
-+ **Icon Type/Icon**: Add an icon if you wish by first selecting icon type.
++ **Icon type/Icon**: Add an icon if you wish by first selecting icon type.
 
 3. Click OK when you're done.
 
@@ -185,15 +185,15 @@ To edit a menu option, click the pen, to delete it, click the dust bin.
 
 .. image:: editor-navigation-settings-editdelete.png
 
-Document Management settings
+Document management settings
 -----------------------------------
 The following settings are available here (example from an existing site):
 
 .. image:: document-management-settings.png
 
-+ **Document picker categories**: If the document picker categories that are set up in Omnia Admin should be available here, select this option.
++ **Document picker categories**: If the document picker categories that are set up in Omnia admin should be available here, select this option.
 + **SharePoint document library**: If the documents created here should be saved in a specific SharePoint document library, enter the address to the library here.
-+ **Allow User Upload Document**: Available when a document library has been defined here. Editors and authors can normally upload documents here. If this should be possible for all users, select this option.
-+ **File storage**: Select the option if a copy of a docment an editor or author uploads, should be saved locally. The document is then saved in Omnia, not in SharePoint. This is useful if a specific version of a document should be saved with the page, for example a news page. 
++ **Allow user upload document**: Available when a document library has been defined here. Editors and authors can normally upload documents. If this should be possible for all users, select this option.
++ **File storage**: Select the option if a copy of a document an editor or author uploads, should be saved locally. The document is then saved in Omnia, not in SharePoint. This is useful if a specific version of a document should be saved with the page, for example a news page. 
 
 
