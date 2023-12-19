@@ -1,24 +1,24 @@
-Page Type Settings
+Page type settings
 ======================
 
 The following can be available on the Settings tab:
 
 .. image:: page-type-settings-left-v7.png
 
-+ **Title**: The name of the Page Type can be edited here.
-+ **Enable Automatic Archiving**: Set Automatic Archiving on or off for the Page Type. See below for more information.
-+ **Override SharePoint Sync Settings**: Available for local Page Types (not for Tenant ones). See below for a description.
-+ **Properties**: Select the Properties that should be available for pages created from this Page Type. In many cases it results in fields the page editor has to or can fill in for a page. You can select any of the properties defined in the tenant. See this page for more information about setting up properties: :doc:`Tenant Settings - Properties </admin-settings/tenant-settings/properties/index>` 
++ **Title**: The name of the page type can be edited here.
++ **Enable automatic archiving**: Set automatic archiving on or off for the page type. See below for more information.
++ **Override SharePoint sync settings**: Available for local page types (not for tenant ones). See below for a description.
++ **Properties**: Select the properties that should be available for pages created from this page type. In many cases it results in fields the page editor has to or can fill in for a page. You can select any of the properties defined in the tenant. See this page for more information about setting up properties: :doc:`Tenant settings - Properties </admin-settings/tenant-settings/properties/index>` 
 
-Enable Automatic Archive
+Enable automatic archiving
 ***************************
-Using this option you can activate automatic archiving for pages created from this Page Type. When a page is automatically archived, it is deleted and placed in the archive, the same way as when an editor deletes a page manually.
+Using this option you can activate automatic archiving for pages created from this page type. When a page is automatically archived, it is deleted and placed in the archive, the same way as when an editor deletes a page manually.
 
-When you click "Enable Automatic Archive" the following is shown:
+When you click "Enable automatic Aachive" the following is shown:
 
 .. image:: automatic-archive-settings-new.png
 
-Select a property to base the automatic archiving on. **Note!** Best practice is to create a specific property to use for this purpose. Any Custom property of type date or time can be used.
+Select a property to base the automatic archiving on. **Note!** Best practice is to create a specific property to use for this purpose. Any custom property of type date or time can be used.
 
 You can then edit the settings for the property you have chosen by clicking the cogwheel for the property.
 
@@ -28,7 +28,7 @@ Available options can differ depending on how the property is set up. Here's an 
 
 .. image:: automatic-archive-settings-settings-edited.png
 
-Note that the settings you do for a property here is valid for this Page Type only. It does not affect the property in any other way.
+Note that the settings you do for a property here is valid for this page type only. It does not affect the property in any other way.
 
 For a description of the fields, see below under *Settings for a property*. Note that a poperty used for automatic archiving should always be read only. 
 
@@ -42,17 +42,17 @@ In this example, the page should be automatically archived one month after the a
 
 .. image:: automatic-archive-settings-calculated.png
 
-Note that if the value for the base property can be edited, which often is the case for Article Date, the automatic archiving date is automatically recalculated if the value of the base property is edited.
+Note that if the value for the base property can be edited, which often is the case for Article date, the automatic archiving date is automatically recalculated if the value of the base property is edited.
 
 Automatic termination
 -----------------------
-Furthermore you can set automatic termination from the archive, based on archiving date. You can find that setting in the Publishing App Settings. See the heading "Archive" at the bottom of this page: :doc:`Publishing App Settings </pages/page-settings/index>`
+Furthermore you can set automatic termination from the archive, based on archiving date. You can find that setting in the publishing app settings. See the heading "Archive" at the bottom of this page: :doc:`Publishing app settings </pages/page-settings/index>`
 
-Override SharePoint Sync Settings
+Override SharePoint sync settings
 ************************************
-SharePoint Sync Settings are set in Omnia Admin (available under Web Content Management), for the whole tenant. If you need some other synchronization for pages created from this Page Type, you can override the tenant settings and create a specific synchronization here.
+SharePoint sync settings are set in Omnia admin (available under Web content management), for the whole tenant. If you need some other synchronization for pages created from this page type, you can override the tenant settings and create a specific synchronization here.
 
-This option is available for local Page Types, not for Tenant Page Types.
+This option is available for local page eypes, not for Tenant Page Types.
 
 When you activate this option, the following is shown:
 
@@ -62,15 +62,15 @@ And then something like the following is available:
 
 .. image:: page-type-settings-override-v7.png
 
-The settings are used exactly the same way here as the settings for the tenant. See this page for more information: :doc:`SharePoint Sync </admin-settings/tenant-settings/webcontent-managament/sharepoint-sync/index>`
+The settings are used exactly the same way here as the settings for the tenant. See this page for more information: :doc:`SharePoint sync </admin-settings/tenant-settings/webcontent-managament/sharepoint-sync/index>`
 
-When you have set up the sync here, you must execute a reindex/full sync to SharePoint, as the message stated. You do that in the Publishing App settings:
+When you have set up the sync here, you must execute a reindex/full sync to SharePoint, as the message stated. You do that in the publishing app settings:
 
 .. image:: tenant-properties-settings-sync-v7-frame.png
 
-Settings for Properties
+Settings for properties
 ******************************
-Add a Property to the Page Type this way:
+Add a property to the page type this way:
 
 1. Select the property in the list and click the plus.
 
@@ -88,21 +88,21 @@ Something like the following is shown:
 
 .. image:: page-type-settings-dot-menu-settings-v7.png
 
-Note that the settings you do for a property here is valid for this Page Type only. It does not affect the property in any other way.
+Note that the settings you do for a property here is valid for this page type only. It does not affect the property in any other way.
 
 The following settings can be available for a property (not all are shown in the image above):
 
-+ **Required**: Select this option to make it mandatory to add settings to this property for all pages that use this Page Type.
-+ **Allow multiple values**: For some properties multiple values are possible. If you will allow the editor to enter more than one value, check this option. If multiple values is not possible for the property, this option is not shown.
-+ **Date Only**: If date should be the only type of data possible for this property, select this option.
++ **Required**: Select this option to make it mandatory to add settings to this property for all pages that use this page type.
++ **Allow multiple values**: For some properties multiple values are possible. If you will allow the editor to enter more than one value, check this option. If multiple values are not possible for the property, this option is not shown.
++ **Date only**: If date should be the only type of data possible for this property, select this option.
 + **Show in new page**: if this property should be available in the wizard when a new page is created, select this option.
 + **Show in edit properties**: if this property should be available in settings for a page when it's edited, select this option.
 + **Show label**: Select this to show the label for the property.
-+ **Custom label**: If Show label is selected, the property name is displayed per default. If you want another label to be displayed, add it here.
-+ **Category**: You can add a category for this property, used when listing properties for the Page Type.
-+ **Default value**: Use this setting to decide what should be shown for the property as a suggested value, when the page is created. Empty is just that, no value. Today displays todays date. You can also base the automatic archiving on another property. See below for more information.
-+ **Read only**: You should normally not edit this option. (But see below concerning automatic archiving).
-+ **Limit access permission**: If not all authors are permitted to edit this setting for the Page Type, add the colleagues or groups that should be able to edit these settings here. Note that a person or group must be permissions enabled to show up in the list.
++ **Custom label**: If "Show label" is selected, the property name is displayed per default. If you want another label to be displayed, add it here.
++ **Category**: You can add a category for this property, used when listing properties for the page type.
++ **Default value**: Use this setting to decide what should be shown for the property as a suggested value, when the page is created. Empty is just that, no value. Today displays todays date. You can also base the automatic archiving on another property. See above for more information.
++ **Read only**: You should normally not edit this option. (But see above concerning automatic archiving).
++ **Limit access permission**: If not all authors are permitted to edit this setting for the page type, add the colleagues or groups that should be able to edit these settings here. Note that a person or group must be permissions enabled to show up in the list.
 
 2. Edit the settings as needed and click OK.
 
