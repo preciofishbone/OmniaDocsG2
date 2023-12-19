@@ -1,4 +1,4 @@
-Layouts (Digital Signage)
+Layouts (Digital signage)
 =============================================
 
 Here you create layouts to be used for digital signage. You can use these layouts when you create screens for a web browser.
