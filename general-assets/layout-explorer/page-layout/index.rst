@@ -1,7 +1,7 @@
-Page Layout
+Page layout
 ==================
 
-This was called Page Style in earlier Omnia versions and was available in the Action Menu for page editing.
+This functionality was called Page style in earlier Omnia versions and was available in the action menu for page editing.
 
 Here, the following is available:
 
