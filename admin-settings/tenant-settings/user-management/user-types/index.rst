@@ -1,4 +1,4 @@
-User Types
+User types
 =============================================
 
 This option is available in Omnia 7.0 and later.
