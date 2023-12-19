@@ -1,9 +1,9 @@
-My Subscriptions
+My subscriptions
 ==================
 
 You can subscribe to a community, articles and discussions in a community, to tags and to channels.
 
-For information about subscriptions regarding communities, see: :doc:`Subscriptions in Communities </using-communities/subscriptions/index>`
+For information about subscriptions regarding communities, see: :doc:`Subscriptions in communities </using-communities/subscriptions/index>`
 
 For information about how to subscribe and unsubscribe to channels, see below.
 
@@ -15,7 +15,7 @@ My descriptions is available under "My Profile":
 
 .. image:: my-profile-menu-2-new.png
 
-My subscriptions are then available on your profile card:
+My subscriptions is then available on your profile card:
 
 .. image:: my-profile-card-subscriptions-new.png
 
