@@ -1,13 +1,13 @@
 Metrics
 ===================================
 
-This block can be used on any Omnia page to display data about either Teamwork, Search Statistics, Pages or User Activity. It is also used when setting up the Dashboard in Omnia Admin. 
+This block can be used on any Omnia page to display data about either teamwork, search statistics, pages or user activity. It is also used when setting up the dashboard in Omnia admin. 
 
 The following settings are available when you enter the option:
 
 .. image:: metrics-block-settings.png
 
-And these two options are available at the bottom when you have entered a Scope for the block:
+And these two options are available at the bottom when you have entered a scope for the block:
 
 .. image:: metrics-block-settings-more.png
 
@@ -23,10 +23,10 @@ Here you decide what to display in the block:
 
 .. image:: metrics-block-settings-scope.png
 
-+ **Teamwork**: Select what kind of Teamwork, based on template, that will be shown. If you leave Teamwork Template field empty, all teamworks will be shown. 
-+ **Search Statistics**: You can display search statistics either for the whole tenant or for the actual business profile.
-+ **Pages**: You can select one publishing app to show metrics for. If you don't, metrics for all Publishing Apps will be shown. You can also select a specific page type or a combination of both.
-+ **User Activity**: Has no further settings here. 
++ **Teamwork**: Select what kind of teamwork, based on template, that will be shown. If you leave the "Teamwork template" field empty, all teamworks will be shown. 
++ **Search statistics**: You can display search statistics either for the whole tenant or for the actual business profile.
++ **Pages**: You can select one publishing app to show metrics for. If you don't, metrics for all publishing apps will be shown. You can also select a specific page type or a combination of both.
++ **User activity**: Has no further settings here. 
 
 Further settings that affects what is displayed are found under "Metrics".
 
@@ -42,11 +42,11 @@ The following settings are available here:
 In the field at the bottom you can select which metrics that should be shown, one or several. The options are different depending on the Scope chosen:
 
 + Teamwork: You can choose to show total number of teamworks, active teamworks, inactive or new teamworks. 
-+ Search Statistics: You can select search statistics for the total number of queries, abandoned queries or no result queries.
-+ Pages: Here's a lot of options available - Published, Waiting For Approval, Draft, No Comments, Average Number Of Comments, Average ratings, Reach and Underused Content. "No Comments" lists the number of pages that has no comment at all. "Average Number Of Comments" is calculated this way: Total number of comments on all pages dived by the total number of pages. So if there are a total of 100 comments on all pages and there are 200 pages, the average number of comments would be 0,5.
-+ User Activity: You can select to show the number of active readers or the number of active contributors.
++ Search statistics: You can select search statistics for the total number of queries, abandoned queries or no result queries.
++ Pages: Here's a lot of options available - Published, Waiting for approval, Draft, No comments, Average number of comments, Average ratings, Reach and Underused content. "No comments" lists the number of pages that has no comment at all. "Average number of comments" is calculated this way: Total number of comments on all pages dived by the total number of pages. So if there are a total of 100 comments on all pages and there are 200 pages, the average number of comments would be 0,5.
++ User activity: You can select to show the number of active readers or the number of active contributors.
 
-What is to be considered Underused Content can be set in Omnia Admin, see: :doc:`Metrics Settings </admin-settings/tenant-settings/settings/metrics/index>`
+What is to be considered underused content can be set in Omnia admin, see: :doc:`Metrics settings </admin-settings/tenant-settings/settings/metrics/index>`
 
 Metrics config
 -----------------
