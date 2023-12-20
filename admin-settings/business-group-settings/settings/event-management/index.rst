@@ -1,6 +1,6 @@
-Event Management
+Event management
 ===================
-Here you can select Publishing Apps in the Business Profile, to edit settings for Event Management.
+Here you can select publishing apps in the business profile, to edit settings for Event management.
 
 .. image:: bp-event-management-new.png
 
