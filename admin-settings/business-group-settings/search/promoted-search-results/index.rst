@@ -1,7 +1,7 @@
-Promoted Search Results
+Promoted search results
 ===========================
 
-Based on search feedback, an administrator can create promoted search results in Omnia Admin.
+Based on search feedback, an administrator can create promoted search results in Omnia admin.
 
 Whenever a user searches on any of the keywords of a Promoted Search Result, it will be available here in Advanced Search:
 
