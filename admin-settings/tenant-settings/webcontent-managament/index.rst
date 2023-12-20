@@ -1,4 +1,4 @@
-Web Content Management
+Web content management
 ========================
 
 Here, the following settings are available:
