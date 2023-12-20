@@ -1,11 +1,11 @@
-Settings (Process Management)
+Settings (Process management)
 ===============================
 
 The following setting is available here on the GENERAL tab:
 
 .. image:: pm-settings-url-612-new.png
 
-+ **Archive Site Url**: Part of the Process Management functionality that can be used is an Archive site, where a copy of all unpublished processes are placed. The link to the site can be added or edited here.
++ **Archive site URL**: Part of the process management functionality that can be used is an archive site, where a copy of all unpublished processes are placed. The link to the site can be added or edited here.
 
 This is available on the PRINT tab (all settings are not shown in the image):
 
