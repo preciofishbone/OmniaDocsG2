@@ -1,13 +1,13 @@
-Search Config
+Search onfig
 =======================================
 
-Here you can work with Search Categories and set default Search Template.
+Here you can work with search categories and set default search template.
 
 .. image:: search-config-list-new.png
 
-To edit a Search config, click the pen. To delete a Search config, click the dust bin.
+To edit a Search config, click the pen. To delete a search config, click the dust bin.
 
-Search Categories
+Search sategories
 *******************
 To create a new Search Category, click the plus and use the settings available for the Search Provider. All settings listed below.
 
