@@ -11,21 +11,21 @@ You work with the tenant page types exactly the same way as the local page types
 
 The "only" difference is that the tenant page types are created and edited here, they are not visible in the list "Page types" in the publishing app, but are available when an editor creates a new page.
 
-**A tip!** If you go to a suitable page before going to Omnia admin, the Preview can show some content when you edit Tenant Page Types.
+**A tip!** If you go to a suitable page before going to Omnia admin, the preview can show some content when you edit tenant page types.
 
 Activating tenant page types
 ******************************
-You activate Tenant Page Types the same way as the Publishing App Page Types, in the settings for the Page Collection. Note the notification (Tenant):
+You activate tenant page types the same way as the publishing app page types, in the settings for the page collection. Note the notification (Tenant):
 
 .. image:: WCM-page-types-activate-v6-new.png
 
-The Page Types can then be used by Page Editors to create pages, the same way as before.
+The page types can then be used by page editors to create pages, the same way as before.
 
-**Important note!** If a Tenant Page Type is edited and published, it is updated for all pages using the Page Type all over the tenant!
+**Important note!** If a tenant page type is edited and published, it is updated for all pages using the page type all over the tenant!
 
 Moving a page type to tenant
 *******************************
-If you already have one or more Page Types you want to use as a tenant page type, you can easily "make a tenant page type" of them. 
+If you already have one or more page types you want to use as a tenant page type, you can easily "make a tenant page type" of them. 
 
 Select the page type and choose "Promote to tenant" in the menu:
 
