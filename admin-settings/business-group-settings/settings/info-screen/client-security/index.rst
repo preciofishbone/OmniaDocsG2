@@ -1,14 +1,14 @@
-Client Security and Recommendations
+Client security and recommendations
 ====================================
 
 This option was previously called Big Picture.
 
-About setting up Info Screen
+About setting up Info screen
 ************************************
 
 Since Info Screen can be seen as an only-display extension, meaning that it does not require much or any user interaction once its setup, therefore we recommend a few ways to set it up:
 
-Operating system level Kiosk Mode (Recommended)
+Operating system level Kiosk mode (recommended)
 ---------------------------------------------------
 Kiosk Mode, that is also called Assigned Access, is a mode that comes with windows, and that allows the user to configure an account that is only allowed to use a specific software without access to anything else, like the start menu or the task manager for example, and forces the app to be in full screen mode. This way when a person uses the computer that is logged in to the kiosk account, the person can only access the specified app. In this case the app will be Microsoft Edge that will run Info Screen
 
@@ -40,14 +40,14 @@ Things to keep in mind
 
 .. image:: kiosk-remove.png
 
-Alternative: Browser-level Kiosk Mode (Not Recommended)
+Alternative: Browser-level Kiosk mode (not recommended)
 -----------------------------------------------------------
 Browsers, such as Google Chrome, offer a browser level kiosk, in which the browser will be entered into full screen mode and give a similar look to that of Operating System kiosk mode. 
 
 The main perk with this feature is that it is much easier to setup and get started with than operating system level kiosk mode. The reason this is not recommended is because the user can exit this mode in multiple ways and gain full access to the device. Therefore it makes it a non secure
 method to use in public spaces where non-personal can access the device.
 
-Physical Security
+Physical security
 **********************
 Physical security is something to be considered when the companies requires the device to be physically protected.
 
@@ -62,7 +62,7 @@ Network security is something to be considered, since the device that is a publi
 
 Another alternative is to use a dedicated network, that is completly seperate from the company network for this device. Such options can be purchased at service-providers and often comes in the form of a USB stick or router that will be connected to the device running Info Screen.
 
-Additional Security
+Additional security
 **********************
 To run Info Screen, a normal user account that can login to O365 and Omnia is needed. This account should have a minimal amount of permissions. For Info Screen to work, the account needs the following permissions:
 
