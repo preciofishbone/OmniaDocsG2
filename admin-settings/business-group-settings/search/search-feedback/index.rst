@@ -1,9 +1,9 @@
-Search Feedback
+Search feedback
 ===========================
 
 By default, it is possible for end users to provide search feedback. The feedback feature is available in Advanced Search.
 
-A search administrator can access and analyze the feedback in Omnia Admin. If submitted by the end user, the search administrator will get a snapshot of the first page in the search result. The search query and results can be further analyzed using the search data from the end user query.
+A search administrator can access and analyze the feedback in Omnia admin. If submitted by the end user, the search administrator will get a snapshot of the first page in the search result. The search query and results can be further analyzed using the search data from the end user query.
 
 Here, in the Search settings for the Business Profile, a list of Search Feedback will be shown, for example:
 
