@@ -1,4 +1,4 @@
-Naming Policies (Teamwork)
+Naming policies (Teamwork)
 =====================================
 
 Naming policies are supported for teamwork templates. A naming policy can consist of prefix, suffix and blocked words.
