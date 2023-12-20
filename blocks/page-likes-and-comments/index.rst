@@ -1,7 +1,7 @@
-Page Likes and Comments
+Page likes and comments
 ===========================================
 
-The block makes it possible for the end user to like and comment a specific web page, including news and community pages (knowledge articles and discussions). It is also possible to reply to comments and it can be possible to use mentions. Besides that, users can share the page with others by email.
+The block makes it possible for the end user to like and comment a specific web page, including news and community pages (knowledge articles and discussions). It is also possible to reply to comments and it can be possible to use mentions. Besides that, users can share the page with others by Email.
 
 .. image:: comments-and-likes-new2.png
 
@@ -13,11 +13,11 @@ When a comment is deleted it works this way: If there are no answers to the comm
 
 Turning the options on or off
 -------------------------------
-When the block is added to a page (or to the Page Type), authors can turn on or off likes and/or comments using Write mode.
+When the block is added to a page (or to the page type), authors can turn on or off likes and/or comments using Write mode.
 
 .. image:: page-likes-author-new2.png
 
-This can be very handy if Page Likes and Comments is present in a Page Type, but should not be used on every page.
+This can be very handy if the block "Page likes and comments" is present in a page type, but should not be used on every page.
 
 Settings for the block
 ************************
@@ -32,12 +32,12 @@ The following settings are available on this tab:
 .. image:: likes-general-612.png
 
 + **Title**: If a title should be shown for the block, add it in this field. If variations exists for the page, it looks like in the image above. Titles in other languages are set in the variations. If there is  no variations you can set the title in any or all the languages active in the tenant. 
-+ **Enable Yammer sync**: If Yammer sync is enabled for the Page Collection, this option is available. See more information below about how to use it.
-+ **Enable Rich Text**: If you enable Rich Text, some basic formatting will be availble for users.          
++ **Enable Yammer sync**: If Yammer sync is enabled for the page collection, this option is available. See more information below about how to use it.
++ **Enable rich text**: If you enable rich Text, some basic formatting will be availble for users.          
 + **Enable mention**: If it should be possible to use mentions in comments on this page or in this page type, select this option. See below for an example.
 + **Allow social reactions**: Can be available if settings allow it. If it should be possible to to use social reactions in this block, select this option. The same social reactions functionality as in Teams can be used. The tenant feature "Social reactions" must be activated for this option to be available.
-+ **Allow Likes**: If it should be able to like a comment, select this option. If the tenant feature "Social reactions" is activated, the "Allow social reactions" option replaces this option. Then social reactions is used instead of likes.
-+ **Allow Share**: If it should be possible to share a comment, select this option - meaning the possibility to send a comment to another user by email.
++ **Allow likes**: If it should be able to like a comment, select this option. If the tenant feature "Social reactions" is activated, the "Allow social reactions" option replaces this option. Then social reactions is used instead of likes.
++ **Allow share**: If it should be possible to share a comment, select this option - meaning the possibility to send a comment to another user by email.
 + **Sorting**: Here you choose how to sort the comments; older first or newer first.
 + **Paging size**: Add a number (1-99) to set the number of items (comments) that should be displayed on each “page” of the list.
 
@@ -45,13 +45,13 @@ If "Allow social reactions" is activated, these social reactions can be used whe
 
 .. image:: comment-social.png
 
-More about Yammer Integration
+More about Yammer integration
 ---------------------------------
-If Yammer Integration is set up on Page Collection level, you can choose to activate a two way integration of comments here by selecting "Enable Yammer sync". When this option is on, a comment added in Yammer is also shown in Omnia.
+If Yammer integration is set up on page collection level, you can choose to activate a two way integration of comments here by selecting "Enable Yammer sync". When this option is on, a comment added in Yammer is also shown in Omnia.
 
 **Important note!** Due to limitations in the Yammer API, a comment on a comment is not placed as expected (but a comment on a post is). The comment on a comment is shown in Omnia, but is not indented, as you would expect it to be. This is a limitation in the Yammer API, not in Omnia.
 
-For more information about setting up Yammer Integration on Page Collection level, see: :doc:`Page Collection settingss </pages/page-collections/page-collection-settings/index>`
+For more information about setting up Yammer integration on page collection level, see: :doc:`Page collection settingss </pages/page-collections/page-collection-settings/index>`
 
 More information about setting up Yammer in Omnia is found here: :doc:`Setup Yammer in Omnia </setup/setup-yammer-in-omnia/index>`
 
@@ -65,15 +65,15 @@ You can add some padding if needed and it's also possible to set styling for the
 
 .. image:: likes-67-style-card.png
 
-For Advanced settings, the following is available:
+For advanced settings, the following is available:
 
 .. image:: likes-65-style-card-advanced.png
 
 Layout and Write
 *********************
-The WRITE tab is not used here. The LAYOUT tab contains general settings, see: :doc:`General Block Settings </blocks/general-block-settings/index>`
+The WRITE tab is not used here. The LAYOUT tab contains general settings, see: :doc:`General block settings </blocks/general-block-settings/index>`
 
-More on Likes and Comments
+More on likes and comments
 ***************************
 Users can like comments as well as pages.
 
@@ -81,5 +81,5 @@ If a number of users likes a page or comment, the information stating that can b
 
 **Note!** Likes on comments does not affect trending in any way.
 
-Several options, for example to add an image, can be available in the Limited RTF Editor, depending on how it is set up. See this page for more information: :doc:`RTF Editor settings </admin-settings/tenant-settings/settings/rtf-editor/index>`
+Several options, for example to add an image, can be available in the limited RTF editor, depending on how it is set up. See this page for more information: :doc:`RTF editor settings </admin-settings/tenant-settings/settings/rtf-editor/index>`
 
