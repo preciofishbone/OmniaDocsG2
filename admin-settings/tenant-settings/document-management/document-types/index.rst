@@ -1,4 +1,4 @@
-Document Types
+Document types
 ================
 
 When creating a new controlled document an author selects a document type. Document types can be grouped. In that case the author first selects group and then Document Type within that group.
