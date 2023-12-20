@@ -1,4 +1,4 @@
-SharePoint Sync
+SharePoint sync
 ================
 
 The following can be set here:
