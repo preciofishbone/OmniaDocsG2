@@ -1,4 +1,4 @@
-Settings (Web Content Management)
+Settings (Web content management)
 =====================================
 
 These settings can be used in specialized setups. Normally you don't need to change them.
