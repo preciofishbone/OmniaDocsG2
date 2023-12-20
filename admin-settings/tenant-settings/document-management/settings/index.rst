@@ -1,4 +1,4 @@
-Document Management Settings
+Document management settings
 ==============================
 
 The following is available here, organized in three tabs:
@@ -18,7 +18,7 @@ You can set this on the "General" tab:
 + **Archive Site Url**: Part of the Controlled Documents functionality is an Archive site, where a copy of all published document’s editions are placed in an archive. The link to the site is shown here and can be edited if needed.
 + **Retention Manager**: For retention of documents to work, a Retention Manager must be added in this field.
 
-Document Id Format
+Document Id format
 *********************
 Here you set the prefix for the Document id for this tenant.
 
@@ -28,7 +28,7 @@ When a new controlled document is published the first time, a document id is set
 
 **Note!** The Document Format can be changed even after creation of Controlled Documents has started, but it's not really recommended. Still, if it's done, existing documents will keep their prefix and only new documents will get the new one.
 
-Document Base Query
+Document base query
 *********************
 Here you can add one or more base queries that always should be executed in the background when a search is run in a rollup. The purpose is to help set what this organization regards as a "document". For example, is a PDF file regarded as a document?
 
