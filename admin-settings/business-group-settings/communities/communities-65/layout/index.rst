@@ -1,4 +1,4 @@
-Layouts for Communities
+Layouts for communities
 ==========================
 
 Here you can work with ready made layouts for Community start pages, which can be created for any language, that can be chosen when a Page Collection for a Community is created. Here's an example of a list of layouts for communities:
