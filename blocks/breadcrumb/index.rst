@@ -13,16 +13,16 @@ The following settings are available for the Breadcrumb block:
 
 .. image:: breadcrumb-settings-new3.png
 
-+ **Include Tenant node**: Select this option to always display the Tenant Node. The text for this is set in Omnia Admin, in the Title field under Tenant-Settings-General.
-+ **Include Business Profile node**: Select this option to always display the Business Profile node. The text for this is the name for the Business Profile as set in Omnia Admin, Tenant-Business Profiles.
-+ **Include Publishing App default node**: This is especially useful if there are several Page Collections in a Publishning App, and you want to show that they belong together. The Title of the Publishing App is set when it's created and can later be edited in Omnia Admin under Publishing for the Business Profile.
-+ **Exclude Current node**: To not show the current node in the breadcrum, select this option.
++ **Include tenant node**: Select this option to always display the tenant Node. The text for this is set in Omnia admin, in the Title field under Tenant-Settings-General.
++ **Include business profile node**: Select this option to always display the business profile node. The text for this is the name for the business profile as set in Omnia admin, Tenant-Business profiles.
++ **Include publishing spp default node**: This is especially useful if there are several page collections in a publishing app, and you want to show that they belong together. The title of the publishing app is set when it's created and can later be edited in OmniaaAdmin under Publishing for the business profile.
++ **Exclude current node**: To not show the current node in the breadcrum, select this option.
 
-For more information about the Tenant Title, see: :doc:`Settings (Tenant) </admin-settings/tenant-settings/settings/index>`
+For more information about the tenant title, see: :doc:`Settings (Tenant) </admin-settings/tenant-settings/settings/index>`
 
-For more information about the Business Profile Title, see: :doc:`Business Profiles </admin-settings/tenant-settings/business-profiles/index>`
+For more information about the business profile title, see: :doc:`Business profiles </admin-settings/tenant-settings/business-profiles/index>`
 
-For more information about how to change a Publishing App's Title, see: :doc:`Publishing </admin-settings/business-group-settings/publishing-apps/index>`
+For more information about how to change a publishing app's title, see: :doc:`Publishing </admin-settings/business-group-settings/publishing-apps/index>`
 
 Layout and Write
 *********************
