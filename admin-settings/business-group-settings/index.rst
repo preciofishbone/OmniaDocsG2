@@ -1,4 +1,4 @@
-Business Profile Settings
+Business profile settings
 ===========================================
 
 .. toctree::
