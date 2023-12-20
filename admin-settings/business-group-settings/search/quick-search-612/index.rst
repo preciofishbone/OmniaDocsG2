@@ -1,7 +1,7 @@
-Quick Search settings
+Quick search settings
 ==============================================
 
-The settings avilable here are valid in all places where Quick Search is available, both from menus and in the Search block. 
+The settings avilable here are valid in all places where quick search is available, both from menus and in the Search block. 
 
 General
 ****************
