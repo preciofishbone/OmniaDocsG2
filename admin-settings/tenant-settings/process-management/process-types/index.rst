@@ -1,13 +1,13 @@
-Process Types
+Process types
 ==================
 
-When an author creates a process he or she selects a Process Type. A Process type consists of a Property Set, one or more Process Templates and settings for how publishing, review and archive should be handled for the process.
+When an author creates a process he or she selects a process type. A process type consists of a property set, one or more process templates and settings for how publishing, review and archive should be handled for the process.
 
-Before you continue here, make sure all Process Templates you will need has been created, see: :doc:`Process Templates </admin-settings/tenant-settings/process-management/process-templates/index>`
+Before you continue here, make sure all process templates you will need has been created, see: :doc:`Process templates </admin-settings/tenant-settings/process-management/process-templates/index>`
 
-Also see to that the Property set you need has been created, see: :doc:`Property Sets </admin-settings/tenant-settings/properties/property-sets/index>` 
+Also see to that the property set you need has been created, see: :doc:`Property sets </admin-settings/tenant-settings/properties/property-sets/index>` 
 
-Creating a new Process Type
+Creating a new process type
 *****************************
 1. Select the top "folder".
 2. Click the plus.
@@ -76,7 +76,7 @@ If archiving is selected, a copy of the process is placed in the archive when a 
 
 Save when you're done with all settings.
 
-Editing a Process Type
+Editing a process type
 ************************
 To edit a process type, just click it in the main list. All settings described above can be edited.
 
@@ -86,13 +86,13 @@ On the General tab you can now see the Unique id for the process, for example:
 
 .. image:: process-type-id-new.png
 
-Sorting Process Types
+Sorting process types
 **********************
 If you want the Process Types to be shown for authors in a speceific order, use the triangles to move a process up or down in the list:
 
 .. image:: process-type-move.png
 
-Delete a Process Type
+Delete a process type
 **********************
 A Process Type that is no longer used can be deleted.
 
@@ -101,7 +101,7 @@ A Process Type that is no longer used can be deleted.
 
 .. image:: process-type-delete-new.png
 
-Syncronising of Process Types
+Syncronising of process types
 ******************************
 Process Types are syncronized to term sets. Information about the last syncronization is found by clicking the i-icon.
 
