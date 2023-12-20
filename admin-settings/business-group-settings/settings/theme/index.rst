@@ -1,17 +1,17 @@
-Theme for the Business Profile
+Theme for the business profile
 =================================
 
-Here you can work with theming for the Business Profile:
+Here you can work with theming for the business profile:
 
 .. image:: theme-all.png
 
-Color Palette
+Color palette
 ****************
-Use these setings to define the Color Palette that should be available in the Business Profile.
+Use these setings to define the color palette that should be available in the business profile.
 
 + **Primary**: If needed, you can adjust the Primary Color. 
 + **Secondary**: If needed, you can adjust the Secondary Color.
-+ **Additional Colors**: To make sure editors can't choose any other color freely, you can use this section to set up alternative colors that will be available. Click "Add Additonal Color" to add more colors, and the dust bin to delete a color. (Don't forget to save when you're done.)
++ **Additional colors**: To make sure editors can't choose any other color freely, you can use this section to set up alternative colors that will be available. Click "Add Additonal Color" to add more colors, and the dust bin to delete a color. (Don't forget to save when you're done.)
 
 When you select "Additional Colors" you can add Custom Colors.
 
@@ -36,7 +36,7 @@ Use the list to the left to select a normal theme and the list to the right for 
 
 .. image:: theme-mappings.png
 
-Theme Definitions
+Theme definitions
 *********************
 In a number of occasions, especially when working with pages, a theme can be selected. A number of themes are available out of the box, and you can also add addtional themes. 
 
