@@ -1,11 +1,11 @@
-Content Header (Business Profile)
+Content header (Business profile)
 =======================================
 
-Use these options to set a default setting for Block Headings and Section Headings. Authors can edit these settings when working with blocks and sections, if needed. 
+Use these options to set a default setting for block headings and section headings. Authors can edit these settings when working with blocks and sections, if needed. 
 
 .. image:: content-header-new2.png
 
-+ **Title Preview**: Here you see a Preview when you make changes.
++ **Title preview**: Here you see a Preview when you make changes.
 
 Text
 *****
