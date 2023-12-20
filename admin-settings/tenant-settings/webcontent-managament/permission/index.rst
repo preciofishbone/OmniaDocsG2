@@ -1,4 +1,4 @@
-Permission (Web Content Management)
+Permission (Web content management)
 ===================================
 
 Here, the following can be set:
