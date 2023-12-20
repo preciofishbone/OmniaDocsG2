@@ -1,4 +1,4 @@
-Page Properties
+Page properties
 ===========================================
 
 Use this block to show information about the page, for example when it was last edited and by whom. Here's an example:
@@ -17,7 +17,7 @@ Here you acn add a title for the block, if needed.
 
 .. image:: page-properties-block-general.png
 
-+ **Title**: If a title should be shown for the block, add it in this field. If variations exists, as is in the image above, only one title can be set. In that case, titles in other languages are set in the variations. If no variation exists for the page, you can set the title in the languages active in the tenant. 
++ **Title**: If a title should be shown for the block, add it in this field. You can set the title in the languages active in the tenant (click the flag to change language). 
 
 Display
 ---------
@@ -25,7 +25,7 @@ Here you select the properties to display.
 
 .. image:: page-properties-block-display.png
 
-+ **Select Properties**: Use the list the select properties for the information you want to display. Click the plus to add the property.
++ **Select properties**: Use the list the select properties for the information you want to display. Click the plus to add the property.
 
 For each property you add, you can set some style options. Click here to set them:
 
@@ -37,7 +37,7 @@ For General Style you can set:
 
 + **Show label**: Decide to show the block label or not.
 + **Custom label**: Add a custom label here if needed.
-+ **Date Type**: For Date Type you can choose Default, Classic or Social. 
++ **Date type**: For date type you can choose Default, Classic or Social. 
 
 For extra style, some color settings and icon settings are available:
 
@@ -50,9 +50,9 @@ Use the Style tab for these settings:
 .. image:: page-properties-block-style.png
 
 + **Padding** You can add some padding around the content of the block, or for each item, if needed.
-+ **Label Position**: You can set the label position at the top or to the left.
++ **Label position**: You can set the label position at the top or to the left.
 + **Horizontal**: If you want the properties to be shown side by side instead, which may make sense if you add the block to a broader part of the page, select this option.
-+ **Hide Separator**: When you select Horizontal, you can choose to use a separator line, or not.
++ **Hide separator**: When you select "Horizontal", you can choose to use a separator line.
 
 Here's an example with the information shown horizontally, with a separator:
 
