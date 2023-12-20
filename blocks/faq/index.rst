@@ -28,7 +28,7 @@ Some styling options will also be available:
 
 LAYOUT and WRITE
 ********************
-The LAYOUT tab contains general settings, see: :doc:`General Block Settings </blocks/general-block-settings/index>`
+The LAYOUT tab contains general settings, see: :doc:`General block settings </blocks/general-block-settings/index>`
 
 The following settings are available on the WRITE tab:
 
@@ -53,7 +53,7 @@ Adding content to the block works the same if you do that in the settings (Desig
 
 .. image:: faq-add-text.png
 
-4. Click "SAVE".
+4. Click SAVE.
 5. Add additional FAQ:S to the block the same way.
 
 Editing content
