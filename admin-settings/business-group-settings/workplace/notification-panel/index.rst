@@ -1,17 +1,17 @@
-Notification Panel
+Notification panel
 ====================
 
-The Notification Panel is a concept in Omnia. The purpose is to help end users find out what information has been updated within different areas of the intranet.
+The notification panel is a concept in Omnia. The purpose is to help end users find out what information has been updated within different areas of the intranet.
 
-A Notification Panel can be placed on any page through the Notification Panel block, or in the Action Manu, to show different notifications. You can create several Notification Panels for different purposes.
+A notification panel can be placed on any page through the Notification panel block, or in the action menu, to show different notifications. You can create several notification panels for different purposes.
 
 The first you will see is the list of existing notification panels, for example:
 
 .. image:: notification-panel-new3.png
 
-Create a new Notification Panel
+Create a new notification panel
 *********************************
-To create a new Notification Panel, do the following:
+To create a new notification panel, do the following:
 
 1. Click the plus.
 
@@ -23,14 +23,14 @@ To create a new Notification Panel, do the following:
 
 + **Title**: You can add a block title here if you wish. 
 + **Category**: Click the plus here to add a new Category. 
-+ **Category Title**: Add a Title for the new Category. You can add titles for all active languages. (Click the flag to change language).
-+ **Icon Type**: Select an Icon Type.
-+ **Icon**: Choose the Icon in the Icon Type you have selected.
-+ **View Controls**: Here you select what you will display in the Category. See below, under *Category settings* for more information.
-+ **Notification**: Select Automatic or Custom for the Category. 
++ **Category title**: Add a title for the new category. You can add titles for all active languages. (Click the flag to change language).
++ **Icon type**: Select an icon type.
++ **Icon**: Choose the Icon in the icon type you have selected.
++ **View controls**: Here you select what you will display in the category. See below, under *Category settings* for more information.
++ **Notification**: Select Automatic or Custom for the category. 
 
-3. Click "ADD" to create the Category.
-4. Click the cog wheel to access the settings for the Category.
+3. Click "ADD" to create the category.
+4. Click the cog wheel to access the settings for the category.
 
 .. image:: notification-category-more-settings-cogwheel-4new3.png
 
@@ -39,30 +39,30 @@ To create a new Notification Panel, do the following:
 
 Category settings
 --------------------
-The settings for a Category is the same as the settings for the corresponding Block, see:
+The settings for a category is the same as the settings for the corresponding Block, see:
 
-Action button: :doc:`The Action Button block </blocks/button-link/index>`
+Action button: :doc:`The Action button block </blocks/button-link/index>`
 
-Activity Feed: :doc:`The Activity Feed block </blocks/activity-feed/index>`
+Activity feed: :doc:`The Activity feed block </blocks/activity-feed/index>`
 
 Announcements: :doc:`The Announcements block </blocks/announcements/index>`
 
-Calendar Rollup: :doc:`The Calendar Rollup block </blocks/calendar-rollup/index>`
+Calendar rollup: :doc:`The Calendar rollup block </blocks/calendar-rollup/index>`
 
-Document Rollup: :doc:`The Document Rollup block </blocks/document-rollup/index>`
+Document rollup: :doc:`The Document rollup block </blocks/document-rollup/index>`
 
-HTML Script: :doc:`The HTML Scripts block </blocks/html-script/index>`
+HTML script: :doc:`The HTML scripts block </blocks/html-script/index>`
 
-My Tasks: :doc:`The Tasks Rollup block </blocks/task-rollup/index>`
+My tasks: :doc:`The Tasks rollup block </blocks/task-rollup/index>`
 
-Page Rollup: :doc:`The Pages Rollup block </blocks/page-rollup/index>`
+Page rollup: :doc:`The Pages rollup block </blocks/page-rollup/index>`
 
-People Rollup: :doc:`The People Rollup block </blocks/people-rollup/index>`
+People rollup: :doc:`The People rollup block </blocks/people-rollup/index>`
 
 RSS Reader: :doc:`The RSS Reader block </blocks/rss-reader/index>`
 
-Sign-off Requests: :doc:`The Sign-off Request Rollup block </blocks/sign-off-requests-rollup-613/index>`
+Sign-off requests: :doc:`The Sign-off request rollup block </blocks/sign-off-requests-rollup-613/index>`
 
-Team News Rollup: :doc:`The Team News Rollup block </blocks/team-news-rollup/index>`
+Team news rollup: :doc:`The Team news rollup block </blocks/team-news-rollup/index>`
 
-Yammer Feed: :doc:`The Yammer Feed block </blocks/yammer-feed/index>`
+Yammer feed: :doc:`The Yammer feed block </blocks/yammer-feed/index>`
