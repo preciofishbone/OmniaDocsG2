@@ -1,4 +1,4 @@
-Advanced Search settings
+Advanced search settings
 ==============================================
 
 You can use these settings here:
