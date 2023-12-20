@@ -1,7 +1,7 @@
-Mega Menu
+Mega menu
 =====================
 
-This block most likely has it's main use as a part of the Workspace functionality, but can also be added to any page or Page Type, if needed.
+This block most likely has it's main use as a part of the Workspace functionality, but can also be added to any page or page type, if needed.
 
 You can find more information about the Workspace functionality here: :doc:`Workspace </admin-settings/business-group-settings/workplace/index>`
 
@@ -17,7 +17,7 @@ Here you can set the following:
 
 .. image:: mega-menu-block-query.png
 
-1. Click ADD QUERY to add pages to the Mega Menu and the Page Picker opens. Use it as is described here: :doc:`The Page Picker </general-assets/page-picker/index>`
+1. Click ADD QUERY to add pages to the mega menu and the page picker opens. Use it as is described here: :doc:`The page picker </general-assets/page-picker/index>`
 
 If you select a top node, all sub pages to that node are also selected.
 
@@ -25,10 +25,10 @@ If you select a top node, all sub pages to that node are also selected.
 
 .. image:: mega-menu-block-query-2.png
 
-+ **Exclude Start Node**: If the start node in what you have selected should not be used, activate this option.
-+ **Navigation Depth**: Set the number of levels that should be shown.
++ **Exclude start node**: If the start node in what you have selected should not be used, activate this option.
++ **Navigation depth**: Set the number of levels that should be shown.
 
-When you have added several objects the Mega Menu this way, you can grab the left-most icon and use drag and drop to edit the order.
+When you have added several objects to the mega menu this way, you can grab the left-most icon and use drag and drop to edit the order.
 
 Display
 ------------
@@ -38,21 +38,21 @@ The following is available here:
 
 + **ADD STYLE**: Click here for some style settings. See below for more information.
 
-+ **Min Width Of Column**: Set the minimum width of columns in the Mega Menu here.
++ **Min width of column**: Set the minimum width of columns in the mega menu here.
 + **Enable dropdown menu**: If you disable this, all menu options, wihin the navigation depth you have decided, will always be shown.
-+ **Static Levels**: Defines the number of levels that will always be displayed in the menu.
-+ **Max Width**: As Default, the menu's Width is dynamic, meaning it adapts to the Width needed. You can set a fixed Width in pixels if you wish.
-+ **Max Height**: As Default, the menu's Height is dynamic, meaning it adapts to the Height needed. You can set a fixed Height in pixels if you wish.
-+ **Background Color**: As Default, the Background Color for the Mega Menu is the same as the Header, but you can set another Background Color if you wish.
-+ **Text Color**: As Default, the Text Color for the Mega Menu is the same as the text in the Header, but you can set another Text Color if you wish.
-+ **Selected Border Color**: You can set Border Color separately if you wish. Default=no Color.
++ **Static levels**: Defines the number of levels that will always be displayed in the menu.
++ **Max width**: As default, the menu's width is dynamic, meaning it adapts to the width needed. You can set a fixed width in pixels if you wish.
++ **Max height**: As default, the menu's height is dynamic, meaning it adapts to the height needed. You can set a fixed height in pixels if you wish.
++ **Background color**: As default, the background color for the mega menu is the same as the header, but you can set another background color if you wish.
++ **Text color**: As default, the text color for the mega menu is the same as the text in the header, but you can set another text color if you wish.
++ **Selected border color**: You can set border color separately if you wish. Default=no color.
 
 These Style settings becomes available when you click ADD STYLE:
 
 .. image:: mega-menu-block-display-style.png
 
-+ **Font Size**: Use the slider to set the font size in the Mega Menu.
-+ **Font Weight**: Use this slider to set how "bold" the font should look.
++ **Font size**: Use the slider to set the font size in the mega menu.
++ **Font weight**: Use this slider to set how "bold" the font should look.
 + **Uppercase**: If only uppercase should be used for the font, select this option.
 + **Padding**: Set som padding within the block, if needed.
 
