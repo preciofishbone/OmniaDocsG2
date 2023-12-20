@@ -1,4 +1,4 @@
-Shape Gallery
+Shape gallery
 ===============
 
 A number of useful process shapes are installed per default. You can also add additional shapes.
