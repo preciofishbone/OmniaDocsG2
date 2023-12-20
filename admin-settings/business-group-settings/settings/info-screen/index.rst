@@ -1,4 +1,4 @@
-Info Screen
+Info screen
 ===============
 
 You can use this option to display information from Omnia on a screen, for example in a common space for staff or in a lobby. 
@@ -13,7 +13,7 @@ Select section for more information:
    client-security/index
    info-screen-settings/index
   
-**Note!** In Omnia 7.0 and later, Info Screen is replaced by Digital Signage, but the Info Screen functionality is still available for backwards compatibility. For a new implementation, use Digital Signage.
+**Note!** In Omnia 7.0 and later, Info screen is replaced by Digital signage, but the Info screen functionality is still available for backwards compatibility. For a new implementation, use DigitalsSignage.
 
-For more information, see: :doc:`Digital Signage </admin-settings/tenant-settings/settings/digital-signage-613/index>`
+For more information, see: :doc:`Digital signage </admin-settings/tenant-settings/settings/digital-signage-613/index>`
 
