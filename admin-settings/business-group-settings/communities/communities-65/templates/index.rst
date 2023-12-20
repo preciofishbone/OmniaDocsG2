@@ -1,4 +1,4 @@
-Templates for Communities
+Templates for communities
 ============================
 
 Here  you can work with templates for Communities.
@@ -7,7 +7,7 @@ Here  you can work with templates for Communities.
 
 To edit a template, click the name - to delete, click the dust bin.
 
-Creating a new Community template
+Creating a new community template
 *************************************
 To create a new template, do the following:
 
