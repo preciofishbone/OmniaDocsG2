@@ -1,4 +1,4 @@
-Publishing Channels
+Publishing channels
 ===========================
 
 Here, you administer the publishing channels. They provide an alternative way of targeting information and place pages in context.
