@@ -1,4 +1,4 @@
-Documents Bulk Update
+Documents bulk update
 =======================
 
 Use this option to bulk update any of the defined document management properties. Note that not all properties can be updated this way. One example is Approver. 
