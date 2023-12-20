@@ -1,7 +1,7 @@
-Process Management - Tenant settings
+Process management - Tenant settings
 ======================================
 
-Prequisite: The Tenant feature "Process Management" must be active for these options to be available. 
+Prequisite: The tenant feature "Process management" must be active for these options to be available. 
 
 .. image:: process-management-settings-new.png
 
