@@ -1,13 +1,13 @@
-Templates for Publishing Apps
+Templates for publishing apps
 ================================
 
-Here you can work with templates for Publishing Apps.
+Here you can work with templates for publishing apps.
 
 .. image:: publishing-templates-612.png
 
 To edit a template, click the name - to delete, click the dust bin. When you edit a template, all options that are described below are available.
 
-Creating a new Publishing App template
+Creating a new publishing app template
 ****************************************
 To create a new template, do the following:
 
