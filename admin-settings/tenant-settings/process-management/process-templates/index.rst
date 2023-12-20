@@ -1,7 +1,7 @@
-Process Templates
+Process templates
 ===================
 
-This page describes Process Templates options in Omnia 6.13 and earlier. Options in Omnia 7.0 and later is quite different, described on this page: :doc:`Process Templates in Omnia v7 </admin-settings/tenant-settings/process-management/process-templates-omnia-7/index>`
+This page describes process templates options in Omnia 6.13 and earlier. Options in Omnia 7.0 and later is quite different, described on this page: :doc:`Process templates in Omnia v7 </admin-settings/tenant-settings/process-management/process-templates-omnia-7/index>`
 
 A process template is a set of shapes. One or more process templates can be added to a process type.
 
@@ -11,7 +11,7 @@ Click the pen to edit a process template or the dust bin to delete it.
 
 Before you continue here, make sure all shapes you need has been added, see :doc:`Shape Gallery </admin-settings/tenant-settings/process-management/shape-gallery/index>`.
 
-Adding a new Process Template
+Adding a new process template
 ******************************
 1. To add a new Process Template click the plus.
 
@@ -33,7 +33,7 @@ Use this tab to add the shapes that should be available to the process author wh
 
 To make things easier for the author, you can add headings to group the shapes.
 
-Add Heading
+Add heading
 ---------------
 1. To add a heading, click ADD HEADING.
 
@@ -43,7 +43,7 @@ You can then add a heading in any of the available languages. Default language i
 
 .. image:: process-templates-heading-language-612.png
 
-Add Shape
+Add shape
 -----------
 1. To add a shape, click ADD SHAPE.
 
