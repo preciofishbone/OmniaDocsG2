@@ -1,4 +1,4 @@
-Search onfig
+Search config
 =======================================
 
 Here you can work with search categories and set default search template.
