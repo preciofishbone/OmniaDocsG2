@@ -1,7 +1,7 @@
-Info Screen
+Info screen
 =====================
 
-When you select "Info Screen" in the Business Profile Settings, something like the following is shown:
+When you select "Info screen" in the business profile settings, something like the following is shown:
 
 .. image:: info-screen-list.png
 
@@ -13,7 +13,7 @@ You can use this icon to preview a setup:
 
 .. image:: info-screen-list-icon.png
 
-Create a new Info Screen setup
+Create a new Info screen setup
 *******************************
 Do the following to add a new screen setup:
 
@@ -55,7 +55,7 @@ You can add additional pages by repeating this step, if needed.
 
 See this page for more information about how to pick pages: :doc:`Page Picker </general-assets/page-picker/index>`
 
-Social Period 
+Social period 
 ---------------
 Social Period is used the same way as in the Page Rollup block. See the heading "Social Period" on this page: :doc:`Page Rollup </blocks/page-rollup/index>`
 
@@ -87,7 +87,7 @@ Here's a description of the rest of the settings (all are not shown in the image
 + **Item Limit**: Set the item limit to display in each “page” of the list.
 + **Sort by**: Choose what the list should be sorted by, and then select ascending or descending
 
-Media Settings
+Media settings
 *****************
 Use this option if you want to show a video on the screen, instead of pages.
 
