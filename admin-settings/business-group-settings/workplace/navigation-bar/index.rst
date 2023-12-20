@@ -1,9 +1,9 @@
-Navigation Bar
+Navigation bar
 =================
 
-Here you can edit navigation bar settings for the Business Profile's Workspace. You can add different settings for the default navigation bar and for the navigation bar used in MS Teams. 
+Here you can edit navigation bar settings for the business profile's workspace. You can add different settings for the default navigation bar and for the navigation bar used in MS Teams. 
 
-You can use several Mega Menu objects and several Action Menu objects, if needed.
+You can use several mega menu objects and several action menu objects, if needed.
 
 When working with the layout, you can use all the sections and blocks that normally are available for pages, so the possibilities are almost endless. You can even add different layouts for different screen sizes, if needed, to fit for example both computer and mobile phone.
 
