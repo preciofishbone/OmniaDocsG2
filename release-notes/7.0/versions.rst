@@ -1,5 +1,18 @@
 7.1.35
 ========================================
+(Omnia 7.1.36 / Workplace 7.1.19 / WCM 7.1.25 / MS 7.1.21)
+
+- Removed the limitation that groups need to have email to be selected in sign of request functionalities (#152607).
+- Fixed an issue that prevented the iframe block input box from being rendered (#152282).
+- Refiners now works as expected when using AND chaining (#152727).
+- The media gallery now works as expected on app posts (#152759).
+- Stability fixes to the Azure AD sync to Omnia (#152337).
+- SharePoint user profile sync will now retry all users that log in for the first time (#138514, #152354, #152751).
+- Refiner limit is now restored to 500 items (#152918).
+- Improved stability in the published process rendering (#152665).
+
+7.1.35
+========================================
 (Omnia 7.1.35 / Workplace 7.1.18 / WCM 7.1.24 / MS 7.1.20)
 
 - Fixed an issue with automatic deletion from the archive (#152439, #152313).
