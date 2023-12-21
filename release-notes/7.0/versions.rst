@@ -1,3 +1,19 @@
+7.1.35
+========================================
+(Omnia 7.1.35 / Workplace 7.1.18 / WCM 7.1.24 / MS 7.1.20)
+
+- Fixed an issue with automatic deletion from the archive (#152439, #152313).
+- Improved machine translations for several languages (#152077, #152437).
+- Fixed an issue with nested groups in sign-off requests. 
+- Fixed an issue that would prevent automatic saving of process drafts from working correctly (#152156).
+- Page approval emails can now be configured per step.
+- Fixed an issue that could sometimes make the page rollup calendar view show an incomplete set of items (#151129).
+- Fixed an issue in the migration that could cause the export of usage reports to not work as expected. (#152539).
+- Improved performance for certain start page load scenarios.
+- Fixed an issue that would prevent page rollups from loading if they had incorrect filter configurations (#152486).
+- Taxonomy filtering now works as expected when the taxonomy hidden list data is corrupted in SharePoint (#152530).
+- Fixed a styling glitch in the page rollup view listing with image (#152491).
+
 7.1.31
 ========================================
 (Omnia 7.1.31 / Workplace 7.1.17 / WCM 7.1.22 / MS 7.1.18)
