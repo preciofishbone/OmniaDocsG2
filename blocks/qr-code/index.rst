@@ -1,17 +1,17 @@
-QR Code
+QR code
 =======================================
 
-Use this block to place a QR Code on any Omnia page.
+Use this block to place a QR code on any Omnia page.
 
 .. image:: qr-code-settings.png
 
 + **Title**: Add a title for the block if needed. 
-+ **Current URL**: To create a QR Code for the current page, select this option.
-+ **Custom URL**: To create a QR Code for any Url, select this option.
-+ **Size**: Set the size of the QR Code in pixels here. Default=150.
++ **Current URL**: To create a QR code for the current page, select this option.
++ **Custom URL**: To create a QR code for any URL, select this option.
++ **Size**: Set the size of the QR code in pixels here. Default=150.
 + **Padding**: Add some padding if needed.
   
-When you select "Custom Url", just type the URL in the field:
+When you select "Custom URL", just type the URL in the field:
   
 .. image:: qr-code-custom.png
 
