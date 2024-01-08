@@ -29,7 +29,7 @@ Use these settings to Edit permissions in the publishing app.
 + **Contributors**: This permissions settings is needed if colleagues should be able to add comments to pages.
 + **Resource readers**: Here you set the general read permission for the publishing app, needed for users to be able to read pages.
 
-Single users,sSecurity groups and Microsoft 365 groups can be added here (In Omnia on-prem, Microsoft 365 groups can't be used).
+Single users, security groups and Microsoft 365 groups can be added here (In Omnia on-prem, Microsoft 365 groups can't be used).
 
 Note that this permissions setting is valid for the settings here, only. To be able to edit publishing app settings in Omnia admin, you need to be either a tenant administrator or administrator for the business profile.
 
