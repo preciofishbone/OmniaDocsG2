@@ -1,9 +1,9 @@
-Sign-Off Requests Rollup
+Sign-off requests rollup
 =============================================
 
 The block can be used for different purposes regarding sign-off requests. 
 
-Settings for Sign-off Requests are available in Tenant settings: :doc:`Settings for Sign-off Requests </admin-settings/tenant-settings/sign-off-requests-613/index>`
+Settings for Sign-off requests are available in tenant settings: :doc:`Settings for Sign-off requests </admin-settings/tenant-settings/sign-off-requests-613/index>`
 
 One way of using this block is a listing of sign-off requests that is sent to the logged in user or a group that the user belongs to. Here's an example of such a listing with one of the requests opened:
 
@@ -35,7 +35,7 @@ The following settings can be available:
 
 .. image:: sign-off-requests-block-settings-613-border.png
 
-The WRITE TAB is not used here. The LAYOUT tab contains general settings, see: :doc:`General Block Settings </blocks/general-block-settings/index>`
+The WRITE TAB is not used here. The LAYOUT tab contains general settings, see: :doc:`General block settings </blocks/general-block-settings/index>`
 
 General
 ----------
@@ -51,8 +51,8 @@ On this tab you decide what the block should display and for whom.
 
 + **Scope**: You can choose to display "All requests", "Requested by me", meaning all sign-off request the logged in user has sent, or "Targeted to me", meaning sign-off requests targeted to the logged in user, or a group the logged in user belongs to.
 + **(First list)**: Use the first list to set the set type of query within the scope. 
-+ **(Second list)**: Use the second list for further settings. An example: if you select "Progress Status" in the first list, in the second list you can choose any or all of "Not Started", "In Progress" or "Completed".
-+ **Add filter**: Add a filter for the query, if you don't want all the requests within the scope to be displayed. You can select "Requested by", "Progress status", "My progress status" or "Status". Additional filters can be available depending on the Type used when the request was created. "My progress status" displays the status for the logged in user. For information about what the other default filters can display, see: :doc:`Requests </admin-settings/tenant-settings/sign-off-requests-613/sign-off-request-requests-613/index>`
++ **(Second list)**: Use the second list for further settings. An example: if you select "Progress status" in the first list, in the second list you can choose any or all of "Not started", "In progress" or "Completed".
++ **Add filter**: Add a filter for the query, if you don't want all the requests within the scope to be displayed. You can select "Requested by", "Progress status", "My progress status" or "Status". Additional filters can be available depending on the type used when the request was created. "My progress status" displays the status for the logged in user. For information about what the other default filters can display, see: :doc:`Requests </admin-settings/tenant-settings/sign-off-requests-613/sign-off-request-requests-613/index>`
 + **Page size**: To limit the number of items being displayed per “page”, add a fixed number here or use the slider.
 
 Display
@@ -89,7 +89,7 @@ The following options are found on this tab:
 + **Show search box**: To add a search box, select this option. When you do, some additional settings becomes available.
 + **Show sort dropdown**: To add a dropdown where the user can sort the list, select this option.
 + **ADD FILTER**: To add filters for the users to use, select this option. For more information, see below.
-+ **Save filter state**:  If you select this option the filter keeps it’s state in the page url as long as the page is active, and will be activated when the user goes back to the page, by using the browser’s Back button. The URL can also be copied and for example be used to prepopulate the rollup.
++ **Save filter state**:  If you select this option the filter keeps it’s state in the page URL as long as the page is active, and will be activated when the user goes back to the page, by using the browser’s Back button. The URL can also be copied and for example be used to prepopulate the rollup.
 + **Run query on load**: Decide if the query should be run on load, so the list is filled with sign-off requests, or not. If there are a lot of requests, an effective solution could be to show a search box and not use this option. 
 
 In Omnia 7.0 and later, new options for filtering can be available, see: :doc:`Filter options for blocks in Omnia v7 </blocks/general-block-settings/filter-options-block/index>`
