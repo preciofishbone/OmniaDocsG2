@@ -14,7 +14,7 @@ You can edit the following settings here:
 + **Author**: Authors can edit pages using Write mode only. 
 + **Reader**: All colleagues that should be able to read information in this page collection must be added here or belong to a permission group added here. "Everyone" (Internal users + External users) or "Everyone except external users" (Internal users except restricted") are two commonly used permission groups.
 
-Single users, security groups and Microsoft 365 groups can be added here (In Omnia on-prem, Microsoft 365 groups can't be used).
+Single users, security groups and Microsoft 365 groups can be added here (in Omnia on-prem, Microsoft 365 groups can't be used).
 
 Editor and author permissions can be set for specific pages, that overrule the settings made here, if needed. For more information, see: :doc:`Edit permissions for a page </pages/edit-permissions/index>`
 
