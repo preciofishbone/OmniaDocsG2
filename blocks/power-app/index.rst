@@ -1,4 +1,4 @@
-Power App block
+Power app block
 =====================
 
 Use this block to add an app built according to Microsoft's Power App framework.
