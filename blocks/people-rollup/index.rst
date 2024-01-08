@@ -1,4 +1,4 @@
-People Rollup
+People rollup
 ===========================================
 
 Use this block to display lists of people, for many various reasons. Here are a few examples of implementations:
