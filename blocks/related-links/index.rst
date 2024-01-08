@@ -1,7 +1,7 @@
-Related Links
+Related links
 ===========================================
 
-Use this block to add links to related pages or documents in the tenant, or use a Custom link to link to any web page. You can also add headings. 
+Use this block to add links to related pages or documents in the tenant, or use a custom link to link to any web page. You can also add headings. 
 
 It is possible to add default content to this block and you can set if it should be possible to edit the default content or not. 
 
@@ -22,8 +22,8 @@ Settings
 The following settings are availble on the SETTINGS tab:
 
 + **Title**: If a title should be shown for the block, add it in this field. If variations exists, only one title can be set, as is this image. In that case, titles in other languages are set in the variations. If no variations exist for the page, you can set the title in the languages active in the tenant. 
-+ **Open in Office Web Apps**: When it's a document link; if you want the links to open in Office Web Apps (meaning Microsoft 365), instead fo locally installed applications, select this option.
-+ **Copy documents locally**: You can allow documents that you pick to be locally accessible together with the page, by selecting this option. Documents that are locally accessible are versioned together with the page and can be accessed by users without a SharePoint license. **Note!** The Tenant feature "Web Content Managament file storage" must be activated for this option to be available.
++ **Open in Office web apps**: When it's a document link; if you want the links to open in Office web apps (meaning Microsoft 365), instead of locally installed applications, select this option.
++ **Copy documents locally**: You can allow documents that you pick to be locally accessible together with the page, by selecting this option. Documents that are locally accessible are versioned together with the page and can be accessed by users without a SharePoint license. **Note!** The Tenant feature "Web content managament file storage" must be activated for this option to be available.
 + **ADD CONTENT**: Click here to add deafault content to the block. Also see below.
 + **Padding**: Add some padding between the block edges and the links list, if needed.
 
@@ -71,7 +71,7 @@ Arranging the list
 When you are done adding links and headings, the list may need some arranging. Do it this way:
 
 1. Point at the link or heading you want to move.
-2. Click the Up or Down arrow to move it in the list.
+2. Click the arrows to move it up or down in the list.
 
 .. image:: add-link-move-new.png
 
