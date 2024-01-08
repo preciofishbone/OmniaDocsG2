@@ -1,4 +1,4 @@
-Working with Drafts
+Working with drafts
 ====================================
 
 "Drafts" is used when creating and editing drafts for new controlled documents or when updating an existing document for a new edition. Note that there are several options available for creating a new draft document, see below.
