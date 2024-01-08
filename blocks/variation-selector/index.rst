@@ -1,4 +1,4 @@
-Page Variation Selector
+Page variation selector
 =========================
 
 Use this block to make it possible for end users to select a variation of the page. For more information about page variations, see: :doc:`Publishing app settings </pages/page-settings/index>`
