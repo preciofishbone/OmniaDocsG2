@@ -1,4 +1,4 @@
-Teamwork Rollup
+Teamwork rollup
 ======================
 
 Use this block to show team sites and other teamworks the user has access to. Here's an example when the block is used to rollup projects (projects are teamworks) in Omnia v7:
@@ -7,7 +7,7 @@ Use this block to show team sites and other teamworks the user has access to. He
 
 Note the metadata for project status and project sponsor.
 
-Icons indicate if a Teams group, Yammer or Facebook Workplace group is connected to the Team Site. Users can click the icon to go to the group. In the image above a Teams group is connected to each Team Site.
+Icons indicate if a Teams group, Yammer or Facebook workplace group is connected to the team site. Users can click the icon to go to the group. In the image above a Teams group is connected to each team site.
 
 Here's an older example, with all three types of icons:
 
@@ -35,42 +35,42 @@ Here you can set the following (image from Omnia v7):
 
 + **Scope**: Select scope, for example All, Followed or Member of. (See more information about this below.)
 + **Permission**: Available in Omnia 7.0 and later. Used for security trimming. For more information, see: :doc:`Security trimming in app rollups </general-assets/security-trimming-apps/index>`
-+ **Only Current Business Profile**: If only Teamworks from the current business profile should be listed, select this option.
-+ **Business Profile**: Another option is to select a specific Business Profile. If you do not select any Business Profile, all Teamworks in the tenant can be listed, that is not private.
-+ **Site Template**: Here you can set one or more types of teamwork to be shown in the list. 
-+ **Run Query On Load**: Decide if the query should be run on load, so the list is filled with teamworks, or not. If a list is very long it can be a good idea to add a search box, and to deselect this option. You add a search box under Filter UI, see below. (In Omnia 7.0 and later, this option is moved to the Filter section).
++ **Only current business profile**: If only teamworks from the current business profile should be listed, select this option.
++ **Business profile**: Another option is to select a specific business profile. If you do not select any business profile here, all teamworks in the tenant can be listed, that is not private.
++ **Site template**: Here you can set one or more types of teamwork to be shown in the list. 
++ **Run query on load**: Decide if the query should be run on load, so the list is filled with teamworks, or not. If a list is very long it can be a good idea to add a search box, and to deselect thbs option. You add a search box under Filter UI, see below. (In Omnia 7.0 and later, this option is moved to the Filter section).
 
 Regarding Scope, here's more detailed information:
 
 Note that the first three scopes only include teamwork connected to Omnia that are assigned a provisioning template and can be found in the Teamwork list within Omnia admin.
 
-+ All (public): All Teamwork App Instances where "Show in public listings" is checked. (Omnia Database).
-+ Followed: All followed Teamwork App Instances. (Omnia Database).
-+ Last Visited: All last visited Teamwork App Instances. (Omnia Database).
-+ All (SharePoint Sites): All sites in SharePoint. (SharePoint Search).
-+ Followed (SharePoint Sites): All followed sites in SP. (SharePoint Social API).
-+ Member of (Office 365 Groups): Member of Office 365 Groups (MS Graph).
++ All (public): All teamwork app instances where "Show in public listings" is checked. (Omnia database).
++ Followed: All followed teamwork app instances. (Omnia database).
++ Last visited: All last visited teamwork app instances. (Omnia database).
++ All (SharePoint sites): All sites in SharePoint. (SharePoint search).
++ Followed (SharePoint sites): All followed sites in SharePoint. (SharePoint social API).
++ Member of (Office 365 groups): Member of Office 365 groups (MS Graph).
 
 Display
 ----------
-Select a View (List View or Navigation View) and use the following settings (image from Omnia v7):
+Select a view (List view or Navigation view) and use the following settings (image from Omnia v7):
 
 .. image:: team-collaboration-block-settings-display-v7.png
 
 (All options are not shown in the image but are described below.)
 
-+ **Add Column**: If you select List View, you must add at least one Column for the display to work. (Navigation View is fixed regarding the columns to display).
++ **Add column**: If you select List View, you must add at least one Column for the display to work. (Navigation view is fixed regarding the columns to display).
 + **Fixed header**: Available in Omnia v7. Select to always show the header when scrolling.
-+ **Paging**: Select how paging should work; "No Paging", "Classic" or "Scroll".
-+ **Icon Mode**: For Icon Mode you can select Letter Avatar or Template Icon. In the example images at the top, Letter Vatar is selected.
-+ **Item Limit**: Set the number of sites to be shown on each "page" of the list.
-+ **Sort By**: Select what to sort the list on, and then select Ascending or Descending sorting.
++ **Paging**: Select how paging should work; "No paging", "Classic" or "Scroll".
++ **Icon mode**: For Icon mode you can select "Letter avatar" or "Template icon". In the example images at the top, Letter avatar is selected.
++ **Item limit**: Set the number of sites to be shown on each "page" of the list.
++ **Sort by**: Select what to sort the list on, and then select Ascending or Descending sorting.
 + **No result text**: You can add a text that is shown if the query should result in nothing to display. Add in any of the avaiable tenant languages (click the flag to change language).
-+ **Show Follow status**: Follow status is indicated by a star, filled if the teamwork is followed, hollow if not, see below for an example.
++ **Show follow status**: Follow status is indicated by a star, filled if the teamwork is followed, hollow if not, see below for an example.
 + **Open in new window**: For some (maybe all) of of the teamworks, it can be a good idea to open the link in a new window.
 + **Padding**: You can add some padding between the block's borders and the list.
 
-Here's an example of a Navigation View with follow status shown (image from Omnia v7):
+Here's an example of a Navigation view with follow status shown (image from Omnia v7):
 
 .. image:: follow-status-v7.png
 
@@ -86,7 +86,7 @@ In Omnia 7.0 and later, new options for filtering can be available, see: :doc:`F
 
 Layout and Write
 *********************
-The WRITE TAB is not used here. The LAYOUT tab contains general settings, see: :doc:`General Block Settings </blocks/general-block-settings/index>`
+The WRITE TAB is not used here. The LAYOUT tab contains general settings, see: :doc:`General block settings </blocks/general-block-settings/index>`
 
 
 
