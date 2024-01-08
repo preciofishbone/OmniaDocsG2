@@ -1,13 +1,13 @@
 Publish page changes
 ===========================================
 
-As an editor you can work on a new version of a page as long as needed and publish the new version when you decide to do so. If allowed (set in Page Collection settings) it's possible to se a Scheduled Publishing if you don't want to publish directly.
+As an editor you can work on a new version of a page as long as needed and publish the new version when you decide to do so. If allowed (set in page collection settings) it's possible to use scheduled ublishing if you don't want to publish directly.
 
 **Note!** Edits to a page are never shown to users of the site until the page is published.
 
 Preview the page
 *****************
-A very good idea is to Preview the page before publishing. Do the following:
+A very good idea is to preview the page before publishing. Do the following:
 
 1. Edit the page.
 2. Select "Preview".
@@ -42,13 +42,13 @@ If approval has been activated you must instead send for approval and the button
 
 .. image:: send-for-approval-button-new2.png
 
-Fore more information about Page Approval, see: :doc:`Approve Pages </pages/page-approval/index>`
+Fore more information about page approval, see: :doc:`Approve pages </pages/page-approval/index>`
 
-Scheduled Publishing
+Scheduled publishing
 *********************
-If Scheduled Publishing has been activated for the Page Collection you can choose to set publishing at a later date, and, if the property allow it, time.
+If scheduled publishing has been activated for the page collection you can choose to set publishing at a later date, and, if the property allow it, time.
 
-**Note!** Even if Scheduled Publishing has been activated, it is never mandatory. You can always publish directly, as described above.
+**Note!** Even if scheduled publishing has been activated, it is never mandatory. You can always publish directly, as described above.
 
 If you would like to schedule publishing, do the following:
 
@@ -61,7 +61,7 @@ The property used for scheduling is identified by a clock icon.
 
 .. image:: publish-properties-icon-frame.png
 
-3. Click in the field and set acheduled publishing with the options available for the property, for example:
+3. Click in the field and set scheduled publishing with the options available for the property, for example:
 
 .. image:: publish-properties-set.png
 
@@ -71,15 +71,15 @@ When a scheduled publishing has been set it's noted by the publishing button, no
 
 .. image:: publish-schedule.png
 
-The settings for Scheduled Publishing are described on this page: :doc:`Page Collection settings </pages/page-collections/page-collection-settings/index>`
+The settings for scheduled publishing are described on this page: :doc:`Page collection settings </pages/page-collections/page-collection-settings/index>`
 
-Scheduled Publishing and Variations
+Scheduled publishing and variations
 --------------------------------------
 You can also set scheduled publishing for a variation, the same way as decribed above. Note that you must set the publication for the variation at a later date/time than for the main page, for this to work.
 
 Publish to channels
 **********************
-If any channels are setup you can choose to publish a page to one or more channels. If you are a Publisher for a channel, the page is published to that channel directly upon publishing the page. If you're not a Publisher for a channel you select, an administrator must approve the publication to that channel before it's done.
+If any channels are setup you can choose to publish a page to one or more channels. If you are a publisher for a channel, the page is published to that channel directly upon publishing the page. If you're not a publisher for a channel you select, an administrator must approve the publication to that channel before it's done.
 
 This does not have any effect on the page's availability through navigation. That part of the publishing process works the same way as always.
 
@@ -103,9 +103,9 @@ Note that information about your status, publisher or not, is shown for the chan
 
 3. When you're done here, click SAVE.
 
-For more information about Channels, see this page: :doc:`Publishing Channels </admin-settings/tenant-settings/webcontent-managament/publishing-channels/index>`
+For more information about channels, see this page: :doc:`Publishing channels </admin-settings/tenant-settings/webcontent-managament/publishing-channels/index>`
 
-A list of pages belonging to one or more channels can be created using the Page Rollup block: :doc:`The Page Rollup block </blocks/page-rollup/index>`
+A list of pages belonging to one or more channels can be created using the Page rollup block: :doc:`The Page rollup block </blocks/page-rollup/index>`
 
-Users can subscribe to channels, as described on this page: :doc:`My Subscriptions </user-options/my-subscriptions/index>`
+Users can subscribe to channels, as described on this page: :doc:`My subscriptions </user-options/my-subscriptions/index>`
 
