@@ -1,4 +1,4 @@
-Taxonomy Navigation
+Taxonomy navigation
 ========================
 
 In this block you can create taxonomy based navigation. The most common area of use is to create an organization chart.
@@ -7,7 +7,7 @@ Here's an example:
 
 .. image:: taxonomy-navigation-example.png
 
-**Note!** The taxonomies to be used for navigation must be set up in Enterprise Glossary in Omnia Admin. See this page for more information: :doc:`Enterprise Glossary </admin-settings/tenant-settings/properties/enterprise-glossary/index>`
+**Note!** The taxonomies to be used for navigation must be set up in Enterprise glossary in Omnia admin. See this page for more information: :doc:`Enterprise glossary </admin-settings/tenant-settings/properties/enterprise-glossary/index>`
 
 Settings
 *********
@@ -23,15 +23,15 @@ Here you can add a title for the block.
 
 Style
 ----------
-The Style settings are these:
+The style settings are these:
 
 .. image:: taxonomy-navigation-settings-style.png
 
-General block styling, that is the color and the like, are set in Omnia Admin. If you choose "Custom Card styling" you can set the following:
+General block styling, that is the color and the like, are set in Omnia admin. If you choose "Custom card styling" you can set the following:
 
 .. image:: taxonomy-navigation-settings-style-custom.png
 
-And furthermore, if you select "Show Advanced Settings", you can use these settings:
+And furthermore, if you select "Show advanced settings", you can use these settings:
 
 .. image:: taxonomy-navigation-settings-style-custom-advanced.png
 
@@ -47,7 +47,7 @@ And finally, some settings for the view are available:
 
 .. image:: taxonomy-navigation-settings-view.png
 
-+ **No of parent levels to show**: Select the number of parent levels to be shown.
-+ **No of children to show**: Select the maximum number of children to be shown, within the parent level(s).
-+ **Show Taxonomy Name**: If the taxonomy name should be shown, select this option.
++ **Number of parent levels to show**: Select the number of parent levels to be shown.
++ **Number of children to show**: Select the maximum number of children to be shown, within the parent level(s).
++ **Show taxonomy name**: If the taxonomy name should be shown, select this option.
 
