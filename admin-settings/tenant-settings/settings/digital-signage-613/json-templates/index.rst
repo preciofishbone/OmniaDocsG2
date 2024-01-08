@@ -1,7 +1,7 @@
 JSON templates
 =============================================
 
-Here you can set up JSON templates to use for Digital Signage.
+Here you can set up JSON templates to use for Digital signage.
 
 .. image:: json-templates-all.png
 
