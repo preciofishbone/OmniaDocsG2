@@ -1,15 +1,15 @@
 Working with blocks on pages
 ===============================
 
-This documentation mainly contains general information about how to work with blocks in Design mode on Publishing Pages (but also see information about Write mode at the bottom).
+This documentation mainly contains general information about how to work with blocks in Design mode on publishing pages (but also see information about Write mode at the bottom).
 
-For more information about how to work with blocks in a Page Type, see: :doc:`Sections and blocks in Page Types </pages/page-types/working-with-sections-and-blocks/index>`
+For more information about how to work with blocks in a page type, see: :doc:`Sections and blocks in page types </pages/page-types/working-with-sections-and-blocks/index>`
 
 Adding blocks
 **************
 To add a block to a page, do the following:
 
-1. Edit the page in Design Mode.
+1. Edit the page in Design mode.
 2. Click on the block that will be before or after the new block so you can se the pluses, and click on the appropriate one (the top one to place the new block above or the bottom one to place the block below).
 
 .. image:: block-click-plus-new2.png
@@ -31,7 +31,7 @@ Information about how to change specific settings for a block is found in the bl
 
 Moving a block
 ***************
-Do the following to move a block to another placement on the page.
+Do the following to move a block to another place on the page.
 
 1. Click the block.
 2. Click the Move icon.
@@ -46,7 +46,7 @@ Icons now show where you can move the block, for example:
 
 Copying a block
 ****************
-If you need a block with roughly the same settings somewhere else on the page, you can copy a block and place the copy where you want it, and then edit the settings. Do the following:
+If you need a block with roughly the same settings somewhere else on the page, you can place a copy where you want it, and then edit the settings. Do the following:
 
 1. Click the block.
 2. Click the Copy icon.
@@ -104,13 +104,13 @@ To remove a block. do the following:
 
 .. image:: block-remove-new3.png
 
-**Note!** A block that belongs to the Page Type is locked and can not be removed, nor edited. It is shown this way:
+**Note!** A block that belongs to the page type is locked and can not be removed, nor edited (but also see below). It is shown this way:
 
 .. image:: locked-block-new4.png
 
 Unlock a block
 *******************
-It can be possible to unlock a block, if the Page Type allow it. If it's possible, the settings can then be edited, but the block can still not be moved or deleted.
+It can be possible to unlock a block, if the page type allow it. If it's possible, the settings can then be edited, but the block can still not be moved or deleted.
 
 If a block can be unlocked, there's a small dot in in the lock icon. Click the lock icon to unlock.
 
@@ -124,7 +124,7 @@ If you click OK the settings can be edited for that block.
 
 Editing contents of a block
 ****************************
-To work with blocks as is described above a user needs permissions to use Design Mode (Editor). Page Authors are not allowed to use Design mode, but can use Write mode to edit the contents of some blocks.
+To work with blocks as is described above a user needs permissions to use Design mode (Editor). Page authors are not allowed to use Design mode, but can use Write mode to edit the contents of some blocks.
 
 .. image:: write-mode-new.png
 
