@@ -1,14 +1,26 @@
+7.1.38
+========================================
+(Omnia 7.1.38 / Workplace 7.1.20 / WCM 7.1.27 / MS 7.1.23)
+
+- Fixed an issue that would case different casing in emails to not correctly register attendance in event management (#152733).
+- Fixed an issue related to the combination of scheduling and multi-level approval (#152785).
+- The filter panel can now show more than 100 refiners (#152918).
+- Fixed an issue that selected the wrong default rendition (#152777).
+
+
+
 7.1.37
 ========================================
 (Omnia 7.1.37 / Workplace 7.1.20 / WCM 7.1.26 / MS 7.1.22)
 
 - It is now possible to publish documents in a controlled documents library when the tasks list has more than 5000 items.
-- Performance improvements in intrastructure cache layer.
+- Performance improvements in infrastructure cache layer.
 - A direct SMTP connection can now be used for sending emails from Omnia.
 - The filter list view will now get as wide as its biggest filter (#152564).
 - Multiple videos in the posts block now works as expected.
 - Fixed an issue with scheduled pages when upgrading from 6.13 to 7.1 (#152809).
 - Fixed an issue when saving publishing app settings when BP language did not include the tenant default language.
+
 
 7.1.36
 ========================================
