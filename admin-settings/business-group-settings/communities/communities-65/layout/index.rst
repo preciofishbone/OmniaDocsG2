@@ -1,7 +1,7 @@
 Layouts for communities
 ==========================
 
-Here you can work with ready made layouts for Community start pages, which can be created for any language, that can be chosen when a Page Collection for a Community is created. Here's an example of a list of layouts for communities:
+Here you can work with ready made layouts for community start pages, which can be created for any language, that can be chosen when a page collection for a Community is created. Here's an example of a list of layouts for communities:
 
 .. image:: communities-layout-612.png
 
@@ -26,5 +26,5 @@ To start working on the layout, continue this way:
 
 .. image:: layout-click-work-area-612.png
 
-You work with the layout by adding sections and blocks, the way this page describes: :doc:`Working with Layouts </general-assets/working-with-layouts/index>`
+You work with the layout by adding sections and blocks, the way this page describes: :doc:`Working with layouts </general-assets/working-with-layouts/index>`
 
