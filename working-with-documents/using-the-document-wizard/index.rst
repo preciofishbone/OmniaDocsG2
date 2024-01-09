@@ -69,7 +69,7 @@ The document is now created in the chosen location and you can work on it the us
 
 Creating a standard document
 ******************************
-An author of controlled documents can always create standard documents as well in the controlled documents library he or she has access to, if templates for normal documents are set up in Omnia admin. To make it possible for other users to create standard documents using the document wizard, some kind of access to the wizard has to be set up. For example, an icon can be visible in the action menu as shown above.
+An author of controlled documents can always create standard documents as well in the controlled documents library he or she has access to, if templates for standard documents are set up in Omnia admin. To make it possible for other users to create standard documents using the document wizard, some kind of access to the wizard has to be set up. For example, an icon can be visible in the action menu as shown above.
 
 This is done using the admin settings for the business profile. See this page for more information: :doc:`Settings for the business profile </admin-settings/business-group-settings/settings/index>`
 
