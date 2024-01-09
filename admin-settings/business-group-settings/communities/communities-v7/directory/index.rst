@@ -3,7 +3,7 @@ Directory of communities in Omnia v7
 
 Within a business profile several communities can be active for different settings. To be able to create a community, at least one template for this purpose must be available. If none are, create a template first.
 
-Here you will see a list of communities in the Business Profile, for example:
+Here you will see a list of communities in the business profile, for example:
 
 .. image:: communities-apps-v7.png
 
@@ -11,13 +11,13 @@ Use this icon to close the menu to the left and work in full window mode:
 
 .. image:: communities-icon-v7.png
 
-You can click the link to go to a community. You can search for a community and use the headings "Title", "Template" and "Created Date" to sort the list.
+You can click the link to go to a community. You can search for a community and use the headings "Title", "Template" and "Created date" to sort the list.
 
 The following actions, using the dot menu to the right, are available for a community in the "All" list:
 
 .. image:: community-actions-v7.png
 
-**Note!** To be able to delete a community, you must be App Administrator for the community. Also note that deleting a community from this list does not delete 
+**Note!** To be able to delete a community, you must be app administrator for the community. Also note that deleting a community from this list does not delete 
 the connected Sharepoint site.
 
 For more information, see below.
@@ -41,17 +41,17 @@ Available settings depend on how the template is set up.
 
 + **Title**: Add a title for the community.
 + **Description**: Add a dscription if needed.
-+ **Show in Public Listings**: If a link to the community should be available in public listings (meaning listings in Omnia) select this option. If this option is deselected, the community can only be reached by specific links, for example in a Workspace navigation.
-+ **Default View Access/Limit View Acess**: If you select “Limit View Access” you can change view permissions for the community to specific users.
++ **Show in public listings**: If a link to the community should be available in public listings (meaning listings in Omnia) select this option. If this option is deselected, the community can only be reached by specific links, for example in a Workspace navigation.
++ **Default view access/Limit view acess**: If you select “Limit view access” you can change view permissions for the community to specific users.
 + **Alias**: The last part of the address to the site is created automatically but can be edited if necessary. If the name (address) already exists an alternative address is suggested.
 + **Languages**: The same language as the main business profile language is suggested. Another language can be selected if needed.  
-+ **ADD IMAGE**: The editor setting up a Community Rollup can choose to show images for the communities, both for List and for Card display. Here you can select an image to be shown there, using the Media Picker. When an image has been selected it can be deleted or edited using the X and the pen that is shown then.
++ **ADD IMAGE**: The editor setting up a community rollup can choose to show images for the communities, both for List and for Card display. Here you can select an image to be shown there, using the media picker. When an image has been selected it can be deleted or edited using the X and the pen that is shown then.
 
 4. Click "Next" and use the following settings:
 
 .. image:: community-settings2-v7.png
 
-+ **App Administrators**: The active administrator (you) is automatically added as app administrator. Add or delete administrators as needed. There must always be at least one.
++ **App administrators**: The active administrator (you) is automatically added as app administrator. Add or delete administrators as needed. There must always be at least one.
 
 5. The Properties step may be different in different templates, or maybe not be needed at all. Here's an example. Note that a star indicates if that the property is mandatory.
 
@@ -77,7 +77,7 @@ An important note about SharePoint URL
 -----------------------------------------
 For the apps that needs a SharePoint site, the URL to that site is shown in the field "SharPoint URL/Alias". If, for some reason, the URL for the SharePoint site is edited in SharePoint admin, it must be edited in Omnia as well, or the Omnia app won't work. Beware that this is to be regarded as an advanced action and can cause problems. Be also aware that it can take some time, 10 minutes or more, before the new SharePoint URL is regocnized by the system.
 
-Edit App Route
+Edit app route
 ****************
 If it should be needed to edit the app route, Select "Alias" in the dot menu for the community and the following is shown:
 
@@ -85,7 +85,7 @@ If it should be needed to edit the app route, Select "Alias" in the dot menu for
 
 Edit the app route and save.
 
-Edit Permissions
+Edit permissions
 ******************
 If you need to add or remove owners (administrators) or contributors for a community, select "Permission" in the dot menu for the community.
 
@@ -95,7 +95,7 @@ Don't forget to save when you're done.
 
 **Note!** A user or a group must be permissions enabled to show up in the list.
 
-Edit Features
+Edit features
 ***************
 If it's needed to upgrade a feature for the community, you need to go here. You also go here to activate or deactivate a feature. Available features can differ depending on how Omnia is set up. Here's an example:
 
@@ -103,7 +103,7 @@ If it's needed to upgrade a feature for the community, you need to go here. You 
 
 For more information about a feature, expand it.
 
-Pending Approval
+Pending approval
 *****************
 When a user creates a community where approval is needed, an administrator uses this list to approve or reject. Here's an example from a test environment:
 
