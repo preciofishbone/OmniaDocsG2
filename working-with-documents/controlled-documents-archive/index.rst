@@ -1,7 +1,7 @@
-Controlled Documents Archive
+Controlled documents archive
 ================================
 
-There is always at least one archive for a Document Management installation, regardless of the number of Team sites used for authoring and publishing - but there can be several archives. The Controlled Documents Archive(s) are set up during installation. There is no settings you can do there.
+There is always at least one archive for a Document management installation, regardless of the number of teamsites used for authoring and publishing - but there can be several archives. The Controlled Documents Archive(s) are set up during installation. There is no settings you can do there.
 
 The addresses to the Archive(s) are shown in Document Managment Settings in Omnia Admin.
 
@@ -9,7 +9,7 @@ The addresses to the Archive(s) are shown in Document Managment Settings in Omni
 
 To be able to access the Archive, you must have permission to do so. This permission is completely separate from any set in the Team site. The Archive exists in a different Page Collection. 
 
-A copy of all published document's editions are normally placed in an archive, but for some Document Types that really don't need to be archived, it can be turned off. In which archive douments of a certain Document Type should be archived (if there are several archives) can also be set for the Document Type. See the heading "Archive" on this page: :doc:`Document Types </admin-settings/tenant-settings/document-management/document-types/index>`
+A copy of all published document's editions are normally placed in an archive, but for some document types that really don't need to be archived, it can be turned off. In which archive douments of a certain document type should be archived (if there are several archives) can also be set for the document type. See the heading "Archive" on this page: :doc:`Document types </admin-settings/tenant-settings/document-management/document-types/index>`
 
 The following information is available in the archive:
 
@@ -17,7 +17,7 @@ The following information is available in the archive:
  
 You can search for documents and sort the list on the headings, to make it easier to find information about a certain document edition.
 
-To have a look at the contents of a specific edition of a document, click the document Title.
+To have a look at the contents of a specific edition of a document, click the document title.
 
 You can see information about an edition by clicking the i-icon.
 
@@ -27,17 +27,17 @@ Here's an example:
 
 .. image:: archive-icon-info.png
 
-To see Document History, click the link.
+To see document history, click the link.
 
 .. image:: archive-icon-info-click-history.png
  
-Document History for all published editions is now shown, for example:
+Document history for all published editions is now shown, for example:
 
 .. image:: archive-icon-info-history.png
 
 Note the column "Published" where you can see date and time when each edition was published and then replaced the earlier edition.
 
-Workflow History for each edition of the document, for both Send for Comments workflows and for Publication workflows, is also available here. Click the link for an edition to see it.
+Workflow history for each edition of the document, for both send for comments workflows and for publication workflows, is also available here. Click the link for an edition to see it.
 
 .. image:: archive-icon-info-history-click-workflow.png
 
