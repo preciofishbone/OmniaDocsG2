@@ -148,7 +148,7 @@ and these:
 + **Contact property**: Select the property used to store information about the user being page contact.
 + **Review date property**: Select the property used to store information about review date for pages.
 + **Promoted tags**: A publishing app can be configured to have promoted tags/terms for certain properties. Promoted tags/terms will be displayed at the top of the tag/term picker both for the author, when working with pages, and for the end user when filtering in a page rollup.
-+ **Document management**: You use this part for documents settings, both for "normal documents" and for controlled documents. For more information, see below.
++ **Document management**: You use this part for documents settings, both forstandard documents and for controlled documents. For more information, see below.
 
 For more information about layouts for publishing, see this page: :doc:`Publishing layouts </admin-settings/business-group-settings/publishing-apps/publishing-65/layout/index>`
 
