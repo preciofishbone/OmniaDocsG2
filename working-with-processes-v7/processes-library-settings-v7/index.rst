@@ -3,7 +3,7 @@ Processes library settings in Omnia v7
 
 This page describes the process library settings in Omnia 7.0 and later.
 
-You must be Administrator of the Team Site, to be able to edit the settings for the lists in the Processes library, and to edit permissions.
+You must be administrator of the teamsite, to be able to edit the settings for the lists in the Processes library, and to edit permissions.
 
 Settings for the tabs
 ***********************
@@ -13,7 +13,7 @@ To access the seetings, go to the Processes library and click "Edit".
 
 General
 -----------
-Here you can edit or add a Title for the list in any or all languages available for the tenant. The default language is mandatory:
+Here you can edit or add a title for the list in any or all languages available for the tenant. The default language is mandatory:
 
 .. image:: process-library-settings-general-v7.png
 
