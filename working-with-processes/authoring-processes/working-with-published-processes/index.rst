@@ -44,17 +44,17 @@ You can see the publication date for each edition, the author’s comment, if an
 
 Move Process
 ***************
-A process can be moved to any other Team Site, if needed. Here's how:
+A process can be moved to any other teamsite, if needed. Here's how:
 
-1. Go to the target Team Site and copy the URL.
-2. Go to the source Team Site and click the dot menu for the process.
+1. Go to the target teamsite and copy the URL.
+2. Go to the source teamsite and click the dot menu for the process.
 3. Select "Move Process".
 
 .. image:: process-move-1.png
 
-4. Paste the URL to the target Team Site, or type the URL if you haven't copied it.
+4. Paste the URL to the target teamsite, or type the URL if you haven't copied it.
 5. Click RESOLVE.
-6. If the URL is correct, the name of the target Team Site should now be shown.
+6. If the URL is correct, the name of the target teamsite should now be shown.
 7. Click MOVE.
 
 Unpublish Process
