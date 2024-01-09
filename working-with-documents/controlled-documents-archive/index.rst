@@ -1,13 +1,13 @@
 Controlled documents archive
 ================================
 
-There is always at least one archive for a Document management installation, regardless of the number of teamsites used for authoring and publishing - but there can be several archives. The Controlled Documents Archive(s) are set up during installation. There is no settings you can do there.
+There is always at least one archive for a Document management installation, regardless of the number of teamsites used for authoring and publishing - but there can be several archives. The controlled documents archive(s) are set up during installation. There is no settings you can do there.
 
-The addresses to the Archive(s) are shown in Document Managment Settings in Omnia Admin.
+The addresses to the archive(s) are shown in Document managment settings in Omnia admin.
 
 .. image:: dm-archive-address-new2.png
 
-To be able to access the Archive, you must have permission to do so. This permission is completely separate from any set in the Team site. The Archive exists in a different Page Collection. 
+To be able to access the archive, you must have permission to do so. This permission is completely separate from any set in the teamsite. The archive exists in a different page collection. 
 
 A copy of all published document's editions are normally placed in an archive, but for some document types that really don't need to be archived, it can be turned off. In which archive douments of a certain document type should be archived (if there are several archives) can also be set for the document type. See the heading "Archive" on this page: :doc:`Document types </admin-settings/tenant-settings/document-management/document-types/index>`
 
