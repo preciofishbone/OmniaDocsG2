@@ -1,3 +1,12 @@
+7.1.37
+========================================
+(Omnia 7.1.37 / Workplace 7.1.20 / WCM 7.1.26 / MS 7.1.22)
+
+- It is now possible to publish documents in a controlled documents library when the tasks list has more than 5000 items.
+- Performance improvements in intrastructure cache layer.
+- A direct SMTP connection can now be used for sending emails from Omnia.
+
+
 7.1.36
 ========================================
 (Omnia 7.1.36 / Workplace 7.1.19 / WCM 7.1.25 / MS 7.1.21)
