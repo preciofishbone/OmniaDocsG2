@@ -7,7 +7,7 @@ Use this block to show team sites and other teamworks the user has access to. He
 
 Note the metadata for project status and project sponsor.
 
-Icons indicate if a Teams group, Yammer or Facebook workplace group is connected to the team site. Users can click the icon to go to the group. In the image above a Teams group is connected to each team site.
+Icons indicate if a Teams group, Yammer or Facebook workplace group is connected to the teamsite. Users can click the icon to go to the group. In the image above a Teams group is connected to each team site.
 
 Here's an older example, with all three types of icons:
 
