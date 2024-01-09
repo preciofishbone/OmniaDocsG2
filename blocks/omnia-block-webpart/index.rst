@@ -5,8 +5,8 @@ Some of the blocks in Omnia can be used in any teamsite, including community sit
 
 This is how:
 
-1. Go to the team site.
-2. Go to the page in the team site.
+1. Go to the teamsite.
+2. Go to the page in the teamsite.
 3. Edit the page.
 
 .. image:: webpart-edit-page.png
