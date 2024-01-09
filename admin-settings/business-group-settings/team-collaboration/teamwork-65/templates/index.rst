@@ -7,7 +7,7 @@ Here you can work with templates for Teamwork. The first list displays all templ
 
 To edit a template, click the name - to delete, click the dust bin. When you edit a template, all options described below are available.
 
-Create a new Teamwork template
+Create a new teamwork template
 *********************************
 To create a new template, do the following:
 
@@ -108,7 +108,7 @@ For Microsoft Teams, the following settings are available for Setup:
 + **Apps**: Available for a custom template, see below.
 + **Channels**: Available for a custom template, see below.
 
-Create a custom Microsoft Team template
+Create a custom Microsoft Teams template
 ----------------------------------------
 When you have selected to create a custom template the following options are available:
 
@@ -147,28 +147,28 @@ You can also set which tabs should be added for all teams that are created from 
 .. image:: teamwork-settings-setup-channels-settings-tab.png
 
 + **Tab name**: Type the name for the tab here.
-+ **App Types**: Select type of app for the tab; Built-in meaning Microsoft Apps, or Organization for other Apps, which can, for example, be Omnia Apps.
++ **App types**: Select type of app for the tab; Built-in meaning Microsoft apps, or Organization for other apps, which can, for example, be Omnia apps.
 
-Yammer Community
+Yammer community
 --------------------
-The following setting is available for a Yammer Community template for Setup:
+The following setting is available for a Yammer community template for Setup:
 
 .. image:: teamwork-yammer-community-612.png
 
 **Note!** Yammer Community is not available in Omnia on-prem.
 
-+ **Welcome Page**: Select the default URL for SharePoint or for a Yammer group.
++ **Welcome page**: Select the default URL for SharePoint or for a Yammer group.
 + **Client id**: Type the Client id for the Yammer Network here.
 
-Facebook Workplace Group
+Facebook workplace group
 -------------------------------
 This setting is available for a Facebook Workplace Group template for Setup:
 
 .. image:: teamwork-facebook-workplace-group-612.png
 
-**Note!** Facebook Workplace Group is not available in Omnia on-prem.
+**Note!** Facebook workplace group is not available in Omnia on-prem.
 
-+ **Workplace Domain**: Add the Facebook Workplace name here.
++ **Workplace domain**: Add the Facebook Workplace name here.
 
 Custom steps
 *****************
