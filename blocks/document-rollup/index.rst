@@ -46,7 +46,7 @@ Here you add queries, which is the detailed "settings" for what to display in th
 
 .. image:: document-rollup-settings-query-scope-new2.png
 
-+ **All documents** - always available, meaning ALL documents the logged in user has permissions to read. Use the query settings below to limit what will be shown in the rollup. The rollup can then be set to display just "normal" documents or both normal and controlled documents. To rollup documents from one or more teamsites, use this option.
++ **All documents** - always available, meaning ALL documents the logged in user has permissions to read. Use the query settings below to limit what will be shown in the rollup. The rollup can then be set to display just standard documents or both standard and controlled documents. To rollup documents from one or more teamsites, use this option.
 + **Published documents**  - available only if the feature Controlled documents is active. Meaning ALL published CONTROLLED DOCUMENTS the logged in user has permissions to read. Use the query settings below to limit what will be shown in the rollup.
 + **Archived documents** - available only if the feature Controlled documents is active. Meaning all published controlled documents in the archive. As permissions to read documents in the archive normally is given to just a few. This is for specialized implementations.
 
