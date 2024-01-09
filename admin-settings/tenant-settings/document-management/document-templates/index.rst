@@ -52,9 +52,9 @@ Set the following:
 
 See below for the rest of the steps.
 
-Template for normal documents
+Template for standard documents
 -------------------------------
-I you selected to add a template for normal documents, continue this way:
+I you selected to add a template for standard documents, continue this way:
 
 1. Select one or more categories if you wish.
 
