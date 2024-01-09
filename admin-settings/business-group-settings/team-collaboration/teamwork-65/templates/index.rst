@@ -80,29 +80,29 @@ Available only for Microsoft 365 Group are:
 
 For descriptions of the rest of the options, see below.
 
-SharePoint Team Site and SharePoint Communication site
+SharePoint teamsite and SharePoint communication site
 ------------------------------------------------------------
-For SharePoint Team Site and SharePoint Communication Site, these settings are available for Setup:
+For SharePoint teamsite and SharePoint communication Site, these settings are available for Setup:
 
 .. image:: teamwork-settings-setup-new.png
 
-+ **Site Design**: Here templates can be available, templates made according to Microsoft's standard for Site Design. Such templates can be used in Omnia. Not mandatory. If no such templates are available, the list is empty. For more information about Site Design, see this Microsoft page: https://docs.microsoft.com/en-us/sharepoint/dev/declarative-customization/site-design-overview
++ **Site design**: Here templates can be available, templates made according to Microsoft's standard for site design. Such templates can be used in Omnia. Not mandatory. If no such templates are available, the list is empty. For more information about site design, see this Microsoft page: https://docs.microsoft.com/en-us/sharepoint/dev/declarative-customization/site-design-overview
 + **Languages**: Select language to be used for system texts in the site.
 + **User can select language**: Select this option to enable language selection by the user creating the site.
-+ **Time Zones**: Select the correct time zone here.
-+ **Primary Site Collection Administrator**: If empty, the user creating or requesting the site will automatically become the default administrator (Owner) of the site. If a specific group or user should be administrator for all sites created from this template, add that group or user. Only on group or user can be added in this field.
-+ **Default Site Collection Administrators**: You can add (several) additional administrators here, if needed.
-+ **Default Visitors**: You can use this to set a default visitor group (read permissions) to all sites created from this template. 
++ **Time zones**: Select the correct time zone here.
++ **Primary site collection administrator**: If empty, the user creating or requesting the site will automatically become the default administrator (Owner) of the site. If a specific group or user should be administrator for all sites created from this template, add that group or user. Only on group or user can be added in this field.
++ **Default site collection administrators**: You can add (several) additional administrators here, if needed.
++ **Default visitors**: You can use this to set a default visitor group (read permissions) to all sites created from this template. 
 
-Microsoft Team
+Microsoft Teams
 ---------------------
-For Microsoft Team, the following settings are available for Setup:
+For Microsoft Teams, the following settings are available for Setup:
 
 .. image:: teamwork-settings-setup-team-612.png
 
-**Note!** Microsoft Team is not available in Omnia on-prem.
+**Note!** Microsoft Teams is not available in Omnia on-prem.
 
-+ **Welcome Page**: Choose to link to a SharePoint site or to Microsoft Teams.
++ **Welcome page**: Choose to link to a SharePoint site or to Microsoft Teams.
 + **Setup template**: Here you can select to create a Custom template, to use a Microsoft Teams template, or to give the user the option to Clone an excisting team. Note that a colleague must be member of a team to be able to clone it. See below for more information on a custom template. To use a Microsoft Teams template you must enter the id of the template (can be found in Teams admin center). 
 + **Settings**: Available for a custom template, see below.
 + **Apps**: Available for a custom template, see below.
