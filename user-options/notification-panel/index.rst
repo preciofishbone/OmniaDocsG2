@@ -16,7 +16,7 @@ Here's an example of what can be found in a notification panel:
 What a notification panel will display depends on settings in Omnia admin. The following is an example, described from left to right:
 
 + **News**: (See image above). Latest News from the news archive, with the very latest at the top. Click to read the full news article. 
-+ **Team news**: Latest news from the team sites the user is a member of. Messages are grouped by teamsite, for example:
++ **Team news**: Latest news from the teamsites the user is a member of. Messages are grouped by teamsite, for example:
 
 .. image:: team-site-news-new2.png
 
@@ -24,22 +24,22 @@ To see the messages from a team site, click it. The latest messages from that te
 
 .. image:: team-site-news-expanded-new2.png
 
-Click the heading of a message to go the team site to read the full message. The author's name is also clickable here and will take you the author's user profile card, if it's used within your organization. If it's not, the author's delve page will be displayed.
+Click the heading of a message to go the teamsite to read the full message. The author's name is also clickable here and will take you the author's user profile card, if it's used within your organization. If it's not, the author's delve page will be displayed.
 
-+ **Tasks**: When tasks are assigned to the user in a team site, a notification will show up here. The tasks are grouped by team site: Here's an example with the list opened for one of the sites:
++ **Tasks**: When tasks are assigned to the user in a teamsite, a notification will show up here. The tasks are grouped by teamsite: Here's an example with the list opened for one of the sites:
 
 .. image:: team-site-tasks-new2.png
 
-To go to the team site to see all tasks, click "View all tasks".
+To go to the teamsite to see all tasks, click "View all tasks".
 
-+ **Documents**: This lists all documents in team sites the user is a member of, that are new or has been updated recently, the newest at the top. Here's an example:
++ **Documents**: This lists all documents in teamsites the user is a member of, that are new or has been updated recently, the newest at the top. Here's an example:
 
 .. image:: documents-example-new2.png
 
 Here, different actions can be taken:
 
 - Click on the heading for a document to read the document. 
-- Click the name of the Team site to go to the team site.
+- Click the name of the teamsite to go to the team site.
 - Click the author's name to go to his or her delve page.
 
 + **Communities**: This is a list of new pages/articles in available communities, the latest at the top.
