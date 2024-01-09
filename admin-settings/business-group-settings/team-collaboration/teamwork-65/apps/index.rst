@@ -1,7 +1,7 @@
-Apps for Teamwork
+Apps for teamwork
 ===========================================
 
-Here Teamworks are listed, the "Active" tab as an example:
+Here teamworks are listed, the "Active" tab as an example:
 
 .. image:: teamwork-apps-new-612.png
 
@@ -20,7 +20,7 @@ You can use the headings for Title, Created Date and Last Activity to sort the l
 **Note!** To be able to delete a teamwork, you must be App Administrator for the teamwork. Also note that deleting a teamwork from this list does not delete 
 the connected SharePoint site.
 
-Edit App Route
+Edit app route
 ----------------
 If it should be needed to edit the App Route, click the icon and the following is shown:
 
@@ -28,7 +28,7 @@ If it should be needed to edit the App Route, click the icon and the following i
 
 Edit the app route and save.
 
-Edit Permissions
+Edit permissions
 -----------------
 If you need to add or remove owners (administrator) or members for a Teamwork, you do it here:
 
@@ -36,13 +36,13 @@ If you need to add or remove owners (administrator) or members for a Teamwork, y
 
 Don't forget to save when you're done.
 
-Edit Features
+Edit features
 ---------------
 If it's needed to upgrade a feature for the Teamwork, you need to go here. You also go here to activate or remove a feature. Available features can differ a lot depending on typoer of app. Here's an example:
 
 .. image:: teamwork-app-features-612.png
 
-Edit App Instance
+Edit app instance
 ---------------------
 If it should be needed to edit the App Instance, click the icon and the following is shown:
 
@@ -50,7 +50,7 @@ If it should be needed to edit the App Instance, click the icon and the followin
 
 Use the ADD IMAGE button to add an image for use in rollups. You can also edit Title, Description, Public Listing setting and edit the SharePoint Url, if needed. SharePoint URL is not aplicable for all types of teamwork.  
 
-Pending Approval
+Pending approval
 *****************
 When a user creates a Teamwork where Approval is needed, an administrator uses this list to approve or reject. Here's an example:
 
@@ -78,7 +78,7 @@ The person requesting the Teamwork receives the message and can then start a new
 
 Orphaned
 **********
-When a site of the type Microsoft 365 Team Site, SharePoint Team Site or SharePoint Communication Site is created, a SharePoint site is created and is connected to the site. A Yammer Group can also need a SharePoint site, depending on how the Yammer Group is set up.
+When a site of the type Microsoft 365 teamsite, SharePoint teamsite or SharePoint communication cite is created, a SharePoint site is created and is connected to the site. A YammergGroup can also need a SharePoint site, depending on how the Yammer group is set up.
 
 The connected SharePoint site may be deleted for some reason, but when that happens the Omnia site may not. When this happens a link to the site is placed in this list, so an administrator can take actions.
 
