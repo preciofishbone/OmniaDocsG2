@@ -1,4 +1,4 @@
-Read and Understood - Notify and Read Receipt
+Read and understood - notify and read receipt
 ===============================================
 
 When a controlled document is published, you can choose to send a notification to some users, and when doing so, can also choose to receive read receipts, to make sure the notification has reached them. The notifications are sent when the document is approved for publishing.
@@ -11,18 +11,18 @@ Some notes on using groups for notifications:
 
 + SharePoint groups and AD groups can be used (Microsoft 365 groups can not).
 + Regarding	SharePoint groups: Only SharePoint groups within the active site collection can be used. There can not be an AD group defined in the SharePoint group.
-+ Regarding AD groups (Security groups): The AD group must be email enabled. Read receipts can not be used for AD groups.
++ Regarding AD groups (Security groups): The AD group must be Email enabled. Read receipts can not be used for AD groups.
 
-To make sure recipients has received the notification, you can select "Require Read Receipt". (Also see above regarding AD groups.)
+To make sure recipients has received the notification, you can select "Require read receipt". (Also see above regarding AD groups.)
 
 .. image:: read-receipt-new2.png
 
-Check Read Receipt Status
+Check read receipt status
 ***************************
-Read Receipt Status can be checked for a document on the "Published" tab, this way:
+Read receipt status can be checked for a document on the "Published" tab, this way:
 
 1.	Click the dot menu for the document.
-2.	Select "Read Receipt Status". 
+2.	Select "Read receipt status". 
 
 .. image:: read-receipt-status-menu-new4.png
 
