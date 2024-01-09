@@ -199,7 +199,7 @@ Process Feedback
 ----------------------
 This action makes it possible for a user to send feedback on a process page.
 
-The feedback will be sent to the process owner and will be available in the team site where the process can be edited. Feedback can be accessed on the PUBLISHED tab using the menu option "Feedback". Also note that the button must be placed in a process context to work.
+The feedback will be sent to the process owner and will be available in the teamsite where the process can be edited. Feedback can be accessed on the PUBLISHED tab using the menu option "Feedback". Also note that the button must be placed in a process context to work.
 
 (Only general settings for the button are available, see above).
 
