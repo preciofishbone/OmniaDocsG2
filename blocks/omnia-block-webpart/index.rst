@@ -1,7 +1,7 @@
 Using the Omnia block web part
 ================================
 
-Some of the blocks in Omnia can be used in any team site, including community sites. To add a block there, you use the Omnia block web part.
+Some of the blocks in Omnia can be used in any teamsite, including community sites. To add a block there, you use the Omnia block web part.
 
 This is how:
 
