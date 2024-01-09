@@ -5,19 +5,19 @@ There are a few settings available on App level (site level). Here's what can be
 
 .. image:: app-settings-v7.png
 
-To reach the App settings as described here, you must do the following:
+To reach the app settings as described here, you must do the following:
 
 1. Go to the site.
-2. Go to Omnia Admin.
-3. Select the App.
+2. Go to Omnia admin.
+3. Select the app.
 
 Features
 ***********
-Here you activate, update or remove features for the App, for example (image from Omia 7.0):
+Here you activate, update or remove features for the app, for example (image from Omia 7.0):
 
 .. image:: app-settings-features-v7-border.png
 
-An example: If your organization is using Document Management, you must go here to activate the Controlled Documents library for sites where working with Controlled Documents should be possible. If any updates to that Features is needed, you go here as well.
+An example: If your organization is using Document management, you must go here to activate the controlled documents library for sites where working with controlled documents should be possible. If any updates to that Features is needed, you go here as well.
 
 Descriptions and options
 ---------------------------
@@ -33,20 +33,20 @@ Under Settings, the following is available:
 
 Edit settings
 ---------------
-Here you can edit the settings for the App, which was set when the App was created. The settings available depends on the template selected for the App. (Image from Omnia 7.0).
+Here you can edit the settings for the app, which was set when the app was created. The settings available depends on the template selected for the app. (Image from Omnia 7.0).
 
 .. image:: app-settings-settings-edit-v7.png
 
-If you select "Limit View Access" you can change view permissions for the app to specific users.
+If you select "Limit view access" you can change view permissions for the app to specific users.
 
-Switching Template
+Switching template
 -------------------
-If necessary, you can change to another template for the App here, but the recommendation is that you do that only for Apps that are not really used yet.
+If necessary, you can change to another template for the app here, but the recommendation is that you do that only for apps that are not really used yet.
 
 .. image:: app-settings-settings-template-v7.png
 
-First select Profile and then select Template for the profile. (Available templates depend on the profile chosen).
+First select profile and then select template for the profile. (Available templates depend on the profile chosen).
 
-See this page for more information: :doc:`Templates for Publishing Apps </admin-settings/business-group-settings/publishing-apps/publishing-65/templates/index>`
+See this page for more information: :doc:`Templates for publishing apps </admin-settings/business-group-settings/publishing-apps/publishing-65/templates/index>`
 
 
