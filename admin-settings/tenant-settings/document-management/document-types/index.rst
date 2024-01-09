@@ -124,14 +124,14 @@ On the Publish tab you can set the following:
 .. image:: document-types-publish-v7.png
 
 + **Replace tokens inside document on poublishing**: When a document is published, the placeholders (tokens) will be replaced with metadata, but for a document that will be used as a template, you will probably not want that to happen. If you are creating a document type to be used for templates, deselect this option.
-+ **Allow Revisions**: Selecting this option you can allow authors to publish a revision of a document that does not require approval, for example for correcting typing errors. If this option is active, it's up to the author to decide if approval is needed or not. Approval is still needed for publication of a new edition of a document.
-+ **Publishing Approval**: Select if approval is to be used for this document type. If this option is NOT active, a document will be published immediately when an author clicks "Publish". If publishing approval is selected, you must also choose how approval will take place:
++ **Allow revisions**: Selecting this option you can allow authors to publish a revision of a document that does not require approval, for example for correcting typing errors. If this option is active, it's up to the author to decide if approval is needed or not. Approval is still needed for publication of a new edition of a document.
++ **Publishing approval**: Select if approval is to be used for this document type. If this option is NOT active, a document will be published immediately when an author clicks "Publish". If publishing approval is selected, you must also choose how approval will take place:
 
     - Anyone: The author can select any user of the portal as approver, when the document is published.
     - Limited list of users: Authors can select approvers from a defined list only. You create the list here.
-    - Term-driven: Authors can select approvers from a defined list only. Which approvers will be available depends on the Properties selected for the documents. You select the term(s) here. When you have selected one or more terms you can use the cogwheel to set approvers for individual terms in the set.
+    - Term-driven: Authors can select approvers from a defined list only. Which approvers will be available depends on the properties selected for the documents. You select the term(s) here. When you have selected one or more terms you can use the cogwheel to set approvers for individual terms in the set.
     - Based on person property: You select one of the person properties defined, for example Document owner.
-    - Group: This setting will use the permission group for approvers in the Team Site. Needs "Approvers Group" to be selected in Settings for Document Management. 
+    - Group: This setting will use the permission group for approvers in the teamsite. Needs "Approvers group" to be selected in Settings for Document management. 
 + **Conversion**: Select if conversion to PDF will be available, and then choose how.
 
 Don't forget to save your changes.
