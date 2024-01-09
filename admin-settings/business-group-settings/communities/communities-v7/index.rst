@@ -16,7 +16,7 @@ Select section for more information:
    layouts/index
    templates/index
 
-A Community Rollup block is also available: :doc:`Community Rollup block </blocks/community-rollup/index>`
+A Community rollup block is also available: :doc:`Community rollup block </blocks/community-rollup/index>`
 
 
 
