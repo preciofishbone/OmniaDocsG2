@@ -41,9 +41,9 @@ The following settings are available for the Published tab:
 
 Permissions
 ************
-If Process Management is set up for using permission groups, you can, as an Administrator (Owner) of the Team Site, edit these permissions.
+If Process management is set up for using permission groups, you can, as an administrator (Owner) of the teamsite, edit these permissions.
 
-**Note!** Permissions for the Processes Library is NOT inherited from the Team site's permissions, they are always separate. **Also Note!** Only Sharepoint users can be added here (not Omnia users), and users or groups must be permissions enabled to show up in the list.
+**Note!** Permissions for the Processes library is NOT inherited from the teamsite's permissions, they are always separate. **Also Note!** Only Sharepoint users can be added here (not Omnia users), and users or groups must be permissions enabled to show up in the list.
 
 Do the following:
 
