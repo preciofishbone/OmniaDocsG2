@@ -16,7 +16,7 @@ Here's an example of what can be found in a notification panel:
 What a notification panel will display depends on settings in Omnia admin. The following is an example, described from left to right:
 
 + **News**: (See image above). Latest News from the news archive, with the very latest at the top. Click to read the full news article. 
-+ **Team news**: Latest news from the team sites the user is a member of. Messages are grouped by team site, for example:
++ **Team news**: Latest news from the team sites the user is a member of. Messages are grouped by teamsite, for example:
 
 .. image:: team-site-news-new2.png
 
