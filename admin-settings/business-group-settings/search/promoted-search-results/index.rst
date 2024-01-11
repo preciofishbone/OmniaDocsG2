@@ -3,17 +3,17 @@ Promoted search results
 
 Based on search feedback, an administrator can create promoted search results in Omnia admin.
 
-Whenever a user searches on any of the keywords of a Promoted Search Result, it will be available here in Advanced Search:
+Whenever a user searches on any of the keywords of a promoted search result, it will be available here in advanced search:
 
 .. image:: promoted-search-results-place.png
 
-Or here in Quick Search:
+Or here in quick search:
 
 .. image:: promoted-search-results-quick-new.png
 
-You decide to enable/disable promoted search results in the settings for Advanced Search and for Quick Search, respectively.
+You decide to enable/disable promoted search results in the settings for advanced search and for quick search, respectively.
 
-You create a list of promoted search result to be used for both Advanced Search and Quick Search. Here's an example:
+You create a list of promoted search result to be used for both advanced search and quick search. Here's an example:
 
 .. image:: promoted-search-results-list-new.png
 
@@ -34,13 +34,13 @@ Do the following:
 .. image:: promoted-search-results-settings.png
 
 + **URL**: Type or paste a URL that a click on the heading should go to.
-+ **Title**: Type the clickable heading that will be shown in Advanced Search, in any or all tenant languages (click the flag to change language). An example is shown in the top image.
++ **Title**: Type the clickable heading that will be shown in advanced search, in any or all tenant languages (click the flag to change language). An example is shown in the top image.
 + **Description**: This text will be shown under the heading, in any or all tenant languages (click the flag to change language). An example is shown in the top image.
 + **ADD IMAGE**: If you want, you can add an image to be shown by the promoted search result (see example in the top image).
 + **Keywords** Add the keywords that will result in the promoted search result being shown.
-+ **On Hold**: On hold means it's not active yet. To enable this search result, select "Active".
-+ **Active**: When a Promoted Search Result is active, you can set start and end dates if you wish. It's not mandatory.
-+ **Targeting**: A promoted search result can be targeted, meaning just shown to some users. See this page for more information: :doc:`Using Targeting </general-assets/targeting-in-omnia/index>`
++ **On hold**: On hold means it's not active yet. To enable this search result, select "Active".
++ **Active**: When a promoted search result is active, you can set start and end dates if you wish. It's not mandatory.
++ **Targeting**: A promoted search result can be targeted, meaning just shown to some users. See this page for more information: :doc:`Using targeting </general-assets/targeting-in-omnia/index>`
 
 3. Click CREATE when you're done.
 
