@@ -1,19 +1,19 @@
 Workspace
 ============
 
-The Workspace settings can be used to create dynamic navigation and access for a Business Profile. The Workspace lives outside the Publishing App.
+The workspace settings can be used to create dynamic navigation and access for a business profile. The workspace lives outside the publishing app.
 
-When you migrate an earlier version of Omnia, the Workspace options are not activated. You don't have to start using these options until you're ready. You can try out the options to see how they work and implement them later. You must be Tenant Administrator to implement the Modern Workspace in your system.
+When you migrate an earlier version of Omnia, the workspace options are not activated. You don't have to start using these options until you're ready. You can try out the options to see how they work and implement them later. You must be tenant administrator to implement the modern workspace in your system.
 
-When you create a new Business Profile, the Workspace functionality is always turned on, and a workspace (including a start url) will be created for the profile.
+When you create a new business Profile, the workspace functionality is always turned on, and a workspace (including a start URL) will be created for the profile.
 
 Settings
 **********
-The available settings in Omnia Admin are these:
+The available settings in Omnia admin are these:
 
 .. image:: workplace-settings-v7.png
 
-Note the information that classic settings are activated for this Business Profile.
+Note the information that classic settings are activated for this business profile.
 
 Select section for more information:
 
