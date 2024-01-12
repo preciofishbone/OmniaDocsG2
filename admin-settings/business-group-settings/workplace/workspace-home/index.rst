@@ -1,10 +1,10 @@
 Home page for Workspace
 =======================================
 
-Here you can create the Home page for a Business Profile's Workspace.
+Here you can create the home page for a business profile's workspace.
 
 .. image:: workspace-home.png
 
-You work with the layout for the Home page the same way as any other Workspace page, see the heading *Working with the layout* on this page: :doc:`Navigation Bar </admin-settings/business-group-settings/workplace/navigation-bar/index>`
+You work with the layout for the Home page the same way as any other workspace page, see the heading *Working with the layout* on this page: :doc:`Navigation bar </admin-settings/business-group-settings/workplace/navigation-bar/index>`
 
 
