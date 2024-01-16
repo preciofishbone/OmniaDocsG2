@@ -278,6 +278,97 @@ AI will also show a detailed description on why a certain page doesn't meet the 
 
 (Note! Open AI requires an Azure Open AI subscription)
 
+(7.5) Improved user management
+--------------------------------------------
+
+* Business profile users and groups
+
+.. image:: usermgmt-businessprofileusers.png
+
+* Self-service
+
+.. image:: usermgmt-selfservice.png
+
+.. image:: usermgmt-requestformsettings.png
+
+* Default login screen and anonymous access
+
+.. image:: usermgmt-loginscreen-anonymous.png
+
+* Custom authentication layouts
+
+* Time-limited accounts and possibility to disable
+
+.. image:: usermgmt-timelimited-and-disabled.png
+  
+* Improved identity picker
+
+.. image:: usermgmt-identitypicker.png
+
+* Public/Private user properties
+
+.. image:: usermgmt-publicprivate-properties.png
+
+* Login log
+
+.. image:: usermgmt-loginlog.png
+
+* On-boarding url
+
+.. image:: usermgmt-onboardingurl.png
+
+.. image:: usermgmt-authentication.png
+
+* Change password on first Login
+
+* Private/Public user profile card
+
+.. image:: usermgmt-publicprivate-profilecard.png
+
+* Update profile photo
+
+.. image:: usermgmt-editprofilephoto.png
+
+* Current/Selected user in all rollups
+
+.. image:: usermgmt-queryonselecteduser.png
+
+* People rollup and frontline users
+
+.. image:: usermgmt-peoplerollup-users.png
+
+
+
+
+
+
+
+(7.5) Analytics powered by Matomo
+--------------------------------------------
+
+* Analytics infrastructure
+* Analytics widget block
+
+(7.5) Anchor navigation
+--------------------------------------------
+
+(7.5) Publishing campaigns
+--------------------------------------------
+
+* Create page from calendar
+* Promotion channels
+
+(7.5) Improved metrics
+--------------------------------------------
+
+* Metrics in app rollups (publishing, community, teamwork)
+* Custom option in date filters
+
+(7.5) Improved page feedback
+--------------------------------------------
+
+* New action
+* Feedback in publishing app
 
 Versions
 -----------------------------------------
