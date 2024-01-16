@@ -31,12 +31,12 @@ If you're already editing the page or the navigation won't open automatically, y
 
 Move a node
 ******************
-The option "Move Node" can be used for moving a single page or a page with all it's sub pages, aynwhere within the publishing app.
+The option "Move node" can be used for moving a single page or a page with all it's sub pages, anywhere within the publishing app.
 
 Note that you need to use this option if you want to move a single page outside the current level.
 
 1. Select the node you want to move.
-2. Open the navigation tree (if it's not already open) and select "Move Node".
+2. Open the navigation tree (if it's not already open) and select "Move node".
 
 .. image:: select-move-node-new3.png
 

@@ -1,7 +1,7 @@
 Edit page variations
 ========================
 
-For each Varation a specific variation author can be set up, see below. If not, all authors of the main page can edit the variations as well.
+For each variation a specific variation author can be set up, see below. If not, all authors of the main page can edit the variations as well.
 
 When a page variation exists for a page, omnia keeps track of changes on the main page. When the main page has been edited, compare icons are displayed to notify the author about where changes has been made, when a varation is being edited.
 
@@ -35,7 +35,7 @@ and select to which language you want the translation to be made:
 
 .. image:: edit-variations-6-new.png
 
-The list displays all languages that has been set up in Omnia Admin.
+The list displays all languages that has been set up in Omnia admin.
 
 **Note!** When you click the "Translate" button, a complete, new translation of the text in the left field is made. If you have done any changes manually in the right field before this, they are overwritten. 
 
@@ -47,9 +47,9 @@ When you're finished, just close the compare window. You then save, or discard, 
 
 Variation author
 *****************
-A Variation author can be added for each variation. That is done in the publishing app settings, see: :doc:`Publishing App Settings </pages/page-settings/index>`
+A variation author can be added for each variation. That is done in the publishing app settings, see: :doc:`Publishing app settings </pages/page-settings/index>`
 
-Note that there can be only one variation author for each variation, regardless on how many pages the variation is used.
+Note that there can be only one variation author for each variation, regardless of on how many pages the variation is used.
 
 The variation author is notified through Email when a main page, with a variation of the variation authors type, is updated.
 

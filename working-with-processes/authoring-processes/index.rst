@@ -1,19 +1,19 @@
 Authoring processes
 =====================
 
-This section is for Authors of processes. The work always take place in a Processes Library in a Team Site. Who is allowed to author and approve (if approval is needed) is set up in Omnia Admin under Process Management.
+This section is for authors of processes. The work always take place in a processes library in a teamsite. Who is allowed to author and approve (if approval is needed) is set up in Omnia admin under Process management.
 
-When a Team Site has been set up for process authoring, the following will be available for authors:
+When a teamsite has been set up for process authoring, the following will be available for authors:
 
-+ A Processes library that only users that has the right permissions can work with.
-+ A Publish Workflow.
-+ A Tasks list.
-+ Process History for the published editions.
-+ Options for relating to documents; controlled documents or "normal" documents.
++ A processes library that only users that has the right permissions can work with.
++ A publish workflow.
++ A tasks list.
++ Process history for the published editions.
++ Options for relating to documents; controlled documents or standard documents.
 + Options for creating a new draft from a published process.
 + Options for unpublishing a process.
 
-In a Team Site set up for process authoring, a library, usually called just "Processes", is available here:
+In a teamsite set up for process authoring, a library, usually called just "Processes", is available here:
 
 .. image:: processes-library.png
 

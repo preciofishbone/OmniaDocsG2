@@ -13,7 +13,7 @@ Select section for more information:
    client-security/index
    info-screen-settings/index
   
-**Note!** In Omnia 7.0 and later, Info screen is replaced by Digital signage, but the Info screen functionality is still available for backwards compatibility. For a new implementation, use DigitalsSignage.
+**Note!** In Omnia 7.0 and later, Info screen is replaced by Digital signage, but the Info screen functionality is still available for backwards compatibility. For a new implementation, use Digital signage.
 
 For more information, see: :doc:`Digital signage </admin-settings/tenant-settings/settings/digital-signage-613/index>`
 

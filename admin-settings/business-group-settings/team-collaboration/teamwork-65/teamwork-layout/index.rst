@@ -17,5 +17,5 @@ To create a new layout, do the following:
 
 .. image:: layout-teamwork-build.png
 
-You work with the layout by adding sections and blocks, the way this page describes: :doc:`Working with Layouts </general-assets/working-with-layouts/index>`
+You work with the layout by adding sections and blocks, the way this page describes: :doc:`Working with layouts </general-assets/working-with-layouts/index>`
 

@@ -5,7 +5,7 @@ All available features for the business profile are listed here and can be activ
 
 .. image:: features-business-profile-612-new.png
 
-In Omnia 7.0 and later the UI has been updated. For a description, see this page: :doc:`Features (Business profile) in Omnia v7 </admin-settings/business-group-settings/features-bp-7/index>`
+In Omnia 7.0 and later the UI has been updated. For a description, see this page: :doc:`Features (business profile) in Omnia v7 </admin-settings/business-group-settings/features-bp-7/index>`
 
 Default configuration
 ********************************

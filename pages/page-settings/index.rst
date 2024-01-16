@@ -29,7 +29,7 @@ Use these settings to Edit permissions in the publishing app.
 + **Contributors**: This permissions settings is needed if colleagues should be able to add comments to pages.
 + **Resource readers**: Here you set the general read permission for the publishing app, needed for users to be able to read pages.
 
-Single users,sSecurity groups and Microsoft 365 groups can be added here (In Omnia on-prem, Microsoft 365 groups can't be used).
+Single users, security groups and Microsoft 365 groups can be added here (In Omnia on-prem, Microsoft 365 groups can't be used).
 
 Note that this permissions setting is valid for the settings here, only. To be able to edit publishing app settings in Omnia admin, you need to be either a tenant administrator or administrator for the business profile.
 
@@ -148,7 +148,7 @@ and these:
 + **Contact property**: Select the property used to store information about the user being page contact.
 + **Review date property**: Select the property used to store information about review date for pages.
 + **Promoted tags**: A publishing app can be configured to have promoted tags/terms for certain properties. Promoted tags/terms will be displayed at the top of the tag/term picker both for the author, when working with pages, and for the end user when filtering in a page rollup.
-+ **Document management**: You use this part for documents settings, both for "normal documents" and for controlled documents. For more information, see below.
++ **Document management**: You use this part for documents settings, both forstandard documents and for controlled documents. For more information, see below.
 
 For more information about layouts for publishing, see this page: :doc:`Publishing layouts </admin-settings/business-group-settings/publishing-apps/publishing-65/layout/index>`
 

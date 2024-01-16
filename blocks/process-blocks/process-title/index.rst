@@ -1,4 +1,4 @@
-Process Title block
+Process title block
 =====================
 
 Use this block to display the process title (added for the process by the process author).
@@ -9,5 +9,5 @@ You can add a block title (in that case shown over the process title) and select
 
 Layout and Write
 *********************
-The WRITE TAB is not used here. The LAYOUT tab contains general settings, see: :doc:`General Block Settings </blocks/general-block-settings/index>`
+The WRITE TAB is not used here. The LAYOUT tab contains general settings, see: :doc:`General block settings </blocks/general-block-settings/index>`
 

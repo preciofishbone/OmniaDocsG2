@@ -9,26 +9,26 @@ Color palette
 ****************
 Use these setings to define the color palette that should be available in the business profile.
 
-+ **Primary**: If needed, you can adjust the Primary Color. 
-+ **Secondary**: If needed, you can adjust the Secondary Color.
-+ **Additional colors**: To make sure editors can't choose any other color freely, you can use this section to set up alternative colors that will be available. Click "Add Additonal Color" to add more colors, and the dust bin to delete a color. (Don't forget to save when you're done.)
++ **Primary**: If needed, you can adjust the primary solor. 
++ **Secondary**: If needed, you can adjust the secondary color.
++ **Additional colors**: To make sure editors can't choose any other color freely, you can use this section to set up alternative colors that will be available. Click "Add additonal color" to add more colors, and the dust bin to delete a color. (Don't forget to save when you're done.)
 
-When you select "Additional Colors" you can add Custom Colors.
+When you select "Additional colors" you can add custom colors.
 
 .. image:: theme-custom.png
 
-You can add any colour using the blender, the Color slider, the Black and White slider, and even add the exact hex number for a color to add.
+You can add any colour using the blender, the color slider, the Black and White slider, and even add the exact hex number for a color to add.
 
 .. image:: theme-custom-blender.png
 
 Theme mappings
 ****************
-As the heading suggests, you use these settings to map default themes for to the Editor, for Layout, the Layout Dialog and for blocks.
+As the heading suggests, you use these settings to map default themes for to the editor, for layout, the layout dialog and for blocks.
 
 The mappings are used for the following:
 
 + Layout - themes for the root page section.
-+ Layout Dialog - themes for dialogs shown for users.
++ Layout dialog - themes for dialogs shown for users.
 + Block - default block themes.
 + Editor - themes for the WCM editor.
 
@@ -67,7 +67,7 @@ You can also select an existing theme as a starting point, by clicking here:
 
 .. image:: create-theme-click-theme.png
 
-4. Add some "Advanced Settings" if you want.
+4. Add some "Advanced settings" if you want.
 
 Available are these:
 
@@ -87,7 +87,7 @@ Themes you or anyone else in your organisation has created can be edited (the pe
 
 Themes and inheritance
 ************************
-A theme can be set for the Page Type. When the page type is edited, themes can be set for sections, overwriting the theme settings there. Unique block settings will overwrite theme settings for the sections.
+A theme can be set for the page type. When the page type is edited, themes can be set for sections, overwriting the theme settings there. Unique block settings will overwrite theme settings for the sections.
 
 
 

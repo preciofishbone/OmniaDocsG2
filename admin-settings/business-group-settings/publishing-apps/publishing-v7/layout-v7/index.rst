@@ -1,7 +1,7 @@
 Layouts for publishing apps in Omnia v7
 =============================================
 
-Here you can create and edit layouts for publishing pages. If you're planning to add the possibility to work with Controlled Documents in a Publishing App, you use this option to create a layout for that functionality, see the end of the page.
+Here you can create and edit layouts for publishing pages. If you're planning to add the possibility to work with controlled documents in a publishing app, you use this option to create a layout for that functionality, see the end of the page.
 
 If there are some publishing layouts created, they will be listed here, for example:
 
@@ -25,19 +25,19 @@ To create a new layout, do the following:
 
 To start working on the layout, continue this way:
 
-4. Click on the name or select "Edit Layout" in the dot menu for the layout.
+4. Click on the name or select "Edit layout" in the dot menu for the layout.
 
 .. image:: publishing-click-create-dotmenu-v7.png
 
 5. Use the work area to create the layout. 
 
-How to work with layouts in Omnia is described on this page: :doc:`Working with Layouts </general-assets/working-with-layouts/index>`
+How to work with layouts in Omnia is described on this page: :doc:`Working with layouts </general-assets/working-with-layouts/index>`
 
 If you need to delete a layout, you can also use the dot menu for the layout:
 
 .. image:: publishing-click-create-dotmenu-delete-v7.png
 
-Edit Alias
+Edit alias
 -------------
 If the alias needs to be edited, select that option in the dot menu and use this setting:
 

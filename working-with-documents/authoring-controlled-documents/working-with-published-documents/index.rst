@@ -1,9 +1,9 @@
-Working with Published documents
+Working with published documents
 =================================
 
-The Published tab lists the latest edition of all published documents from this Controlled Documents library. There are some useful options for a published document here. You can for example check the Properties, see the Document History, see Feedback that users has sent and Move a document.
+The Published tab lists the latest edition of all published documents from this controlled documents library. There are some useful options for a published document here. You can for example check the properties, see the document history, see feedback that users has sent and move a document.
 
-A site Administrator (Owner) can set up which columns to show on this tab. Here's an example:
+A site administrator (owner) can set up which columns to show on this tab. Here's an example:
 
 .. image:: published-example-new3.png
 
@@ -11,11 +11,11 @@ All options are found in the dot menu for a document:
 
 .. image:: published-dot-menu-new2.png
 
-Create Draft
+Create draft
 **************
-You can create a new Draft from a published document and start working on the new edition when you need it. The existing edition is still available for users until it's replaced, when the new edition is published.
+You can create a new draft from a published document and start working on the new edition when you need it. The existing edition is still available for users until it's replaced, when the new edition is published.
 
-For more information on how to create a new draft, see the heading "Creating a new draft from a published document" on this page: :doc:`Working with Drafts </working-with-documents/authoring-controlled-documents/working-with-drafts/index>`
+For more information on how to create a new draft, see the heading "Creating a new draft from a published document" on this page: :doc:`Working with drafts </working-with-documents/authoring-controlled-documents/working-with-drafts/index>`
 
 Signed copy
 ***************
@@ -46,19 +46,19 @@ If a signed copy is available for a document, it's indicated by this icon:
 
 Users can click the icon to download the signed copy.
 
-For more information on how to activate Signed copy, see the heading "Settings for Document Types" on this page: :doc:`Document Types </admin-settings/tenant-settings/document-management/document-types/index>`
+For more information on how to activate the Signed copy functionality, see the heading "Settings for document types" on this page: :doc:`Document types </admin-settings/tenant-settings/document-management/document-types/index>`
 
-Related Documents
+Related documents
 *******************
-You can relate a published document to other published documents. How to do that is described on this page: :doc:`Related Documents </working-with-documents/authoring-controlled-documents/related-documents/index>`
+You can relate a published document to other published documents. How to do that is described on this page: :doc:`Related documents </working-with-documents/authoring-controlled-documents/related-documents/index>`
 
-Related Processes
+Related processes
 *******************
 Using this option you can see if a document is related to any process(es) - meaning added as a document to the process(es). You can also suggest that the document should be added (related) to a process. The suggestion is sent to the feedback receiver for the process.
 
 To check if a dcument is related to any process(es), do the following:
 
-1. Open the dot menu for the document and select "Related Processes". 
+1. Open the dot menu for the document and select "Related processes". 
 
 .. image:: related-processes-menu-new.png
 
@@ -82,7 +82,7 @@ And now your suggestion is sent to the feedback receiver for the process, for ev
 
 .. image:: related-processes-sent-message.png
 
-For information on what the author of the process can do with the sugestion, see this page: :doc:`The Documents tab - authoring processes </working-with-processes/authoring-processes/working-with-drafts/documents-tab/index>`
+For information on what the author of the process can do with the suggestion, see this page: :doc:`The Documents tab - authoring processes </working-with-processes/authoring-processes/working-with-drafts/documents-tab/index>`
 
 Checking a documents properties
 *********************************
@@ -97,9 +97,9 @@ The Properties window for the document is shown, for example:
  
 The properties can not be edited here. The properties can only be edited when working on a draft for a new edition of the document.
 
-**Note!** A term that has been translated in the term store will be shown in the document's language here, but if the term is shown in the Published list, it is shown in the user's language. Also note that placeholders in DOCX and XLSX are replaced with terms based on the document's language.
+**Note!** A term that has been translated in the term store will be shown in the document's language here, but if the term is shown in the "Published" list, it is shown in the user's language. Also note that placeholders in DOCX and XLSX are replaced with terms based on the document's language.
 
-Copy Link
+Copy link
 **********
 If you need to send a link to a published document, use this option.
 
@@ -107,24 +107,24 @@ Just click the option (no window or message is shown) and you can then paste the
 
 .. image:: published-copylink-new.png
 
-Document History
+Document history
 ******************
 There’s information about each published edition available. To see it, do the following:
 
 1.	Click the dot menu for the document.
-2.	Select "Document History".
+2.	Select "Document history".
  
 Here’s an example:
 
 .. image:: published-history-new3.png
  
-You can see the publication date for each edition, the author’s comment, if any, and who the document was approved by. The option "Workflow History" for an edition will show information about when workflows was used and the comments entered during the workflows, so here you can even see information from Send for Comments workflows used for the document.
+You can see the publication date for each edition, the author’s comment, if any, and who the document was approved by. The option "Workflow history" for an edition will show information about when workflows was used and the comments entered during the workflows, so here you can even see information from Send for comments workflows used for the document.
 
 Here's an example:
 
 .. image:: published-history-workflow-new3.png
 
-Check Feedback
+Check feedback
 ****************
 Any user can send feedback on a published document and that feedback is available for authors here. To read feedback for a document:
 
@@ -137,13 +137,13 @@ The feedback posts for the document is shown. Click a post to read the feedback.
 
 You can click the dust bin to delete the feedback when you have read it, or keep it for later reference, it’s up to you.
 
-Read Receipt Status
+Read receipt status
 ********************
-This option has to do with the option "Notify people" an author can select when publishing a document. See this page for more information: :doc:`Read and Understood - Notify and Read Receipt </working-with-documents/authoring-controlled-documents/read-and-understood/index>`
+This option has to do with the option "Notify people" an author can select when publishing a document. See this page for more information: :doc:`Read and understood - Notify and Read receipt </working-with-documents/authoring-controlled-documents/read-and-understood/index>`
 
 Move a published document
 *****************************
-A published document can be moved to any other site with a Controlled Documents library. If a draft for a new edition of the document is present, the draft must first be deleted.
+A published document can be moved to any other site with a controlled documents library. If a draft for a new edition of the document is present, the draft must first be deleted.
 
 **Note!** You must first check and note (or copy) the URL to the site you want to move the document to.
 
@@ -158,7 +158,7 @@ Note the message about what will happen with document properties. And in this ex
  
 3.	Type the URL (or paste, if you have copied it) to the site in the top field and click "Resolve". 
 
-**Note!** You should type or paste the URL to the site, note the Controlled Documents library. If the URL is not correct (meaning pointing to the site only) you will get the message that site does not contain a Controlled Documents library.
+**Note!** You should type or paste the URL to the site, note the controlled documents library. If the URL is not correct (meaning pointing to the site only) you will get the message that site does not contain a controlled documents library.
 
 If the URL is correct the site title is shown in the second field - Site Title.
 

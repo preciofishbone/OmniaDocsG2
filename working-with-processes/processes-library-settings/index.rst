@@ -1,7 +1,7 @@
 Process library settings
 =========================
 
-You must be Administrator (The permission group is often called "Owners") of the Team Site, there can be one or more, to be able to edit the settings for the lists in the Processes library, and to edit permissions.
+You must be administrator (The permission group is often called "Owners") of the teamsite, there can be one or more, to be able to edit the settings for the lists in the Processes library, and to edit permissions.
 
 Settings for the tabs
 ***********************
@@ -45,9 +45,9 @@ You can also remove some of the columns by clicking the dust bin for that column
 
 Permissions
 ************
-If Process Management is set up for using permission groups, you can, as an Administrator (Owner) of the Team Site, edit these permissions.
+If Process management is set up for using permission groups, you can, as an administrator (Owner) of the teamsite, edit these permissions.
 
-**Note!** Permissions for the Processes Library is NOT inherited from the Team site's permissions, they are always separate.
+**Note!** Permissions for the Processes library is NOT inherited from the teamsite's permissions, they are always separate.
 
 Do the following:
 

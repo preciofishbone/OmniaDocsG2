@@ -1,7 +1,7 @@
-Working with Drafts
+Working with drafts
 ====================================
 
-"Drafts" is used when creating and editing drafts for new Controlled Documents or when updating an existing document for a new edition. Note that there are several options available for creating a new draft document, see below.
+"Drafts" is used when creating and editing drafts for new controlled documents or when updating an existing document for a new edition. Note that there are several options available for creating a new draft document, see below.
 
 When a document is published (approved for publication if that is needed) it is removed from Drafts and is available on the "Published" tab. 
 
@@ -9,7 +9,7 @@ Most headings in the Drafts list can be used to sort the list.
 
 Creating a draft document
 **************************
-When adding documents to a Controlled Documents library the author can either create a new draft or upload a document. If it’s a Controlled Document the author will actually work with here, a document should normally be created from scratch. If it’s a document that will be used as it is, for example as an appendice, it makes more sense to upload the document.
+When adding documents to a controlled documents library the author can either create a new draft or upload a document. If it’s a controlled document the author will actually work with here, a document should normally be created from scratch. If it’s a document that will be used as it is, for example as an appendice, it makes more sense to upload the document.
 
 Creating a new draft document
 ----------------------------------
@@ -21,13 +21,13 @@ Do the following to create a new Controlled Document:
 
 .. image:: new-controlled-document-2-new4.png
 
-Creating new documents can be set up in different ways. A very common setting is to use the Create New Document Wizard. See this page for information on how to use the wizard: :doc:`Using the Document Wizard </working-with-documents/using-the-document-wizard/index>`
+Creating new documents can be set up in different ways. A very common setting is to use the create new document wizard. See this page for information on how to use the wizard: :doc:`Using the document wizard </working-with-documents/using-the-document-wizard/index>`
 
 Upload documents
 ---------------------
-An alternative is to upload existing documents, but normally it should be used just for documents that will be added as they are, but will still be handled as Controlled Documents, for example with approval before publishing.
+An alternative is to upload existing documents, but normally it should be used just for documents that will be added as they are, but will still be handled as controlled documents, for example with approval before publishing.
 
-The template for the Document Type is not used for the first edition of the document, the document will be used with the existing template (if any). The next time a draft is created for an uploaded document, the template can be replaced, if needed.  See *Edit a document's properties* below for more information.
+The template for the document type is not used for the first edition of the document, the document will be used with the existing template (if any). The next time a draft is created for an uploaded document, the template can be replaced, if needed.  See *Edit a document's properties* below for more information.
 
 Do the following to upload a document:
 
@@ -65,7 +65,7 @@ If you are doing this for an uploaded document that is not connected to a templa
 
 3. Select a template to connect to the uploaded document. To see a list of all available templates, click "Show All".
 
-Now properties for the document are shown (and this is what is shown for a document you have created). It differs depending on the template (or rather the Document Type the template belongs to). Here's an example:
+Now properties for the document are shown (and this is what is shown for a document you have created). It differs depending on the template (or rather the document type the template belongs to). Here's an example:
 
 .. image:: edit-properties-2-new3.png
 
@@ -91,7 +91,7 @@ In Omnia 7.1 and later you can set a document type for a number of uploaded docu
 
 Move a document
 ************************
-You can move a document, or several if you like, from any other Documents library in this Team Site, to the Controlled Documents library, and thus make them a Controlled Documents Draft.
+You can move a document, or several if you like, from any other Documents library in this teamsite, to the controlled documents library, and thus make them a controlled documents draft.
 
 Do the following:
 
@@ -109,7 +109,7 @@ Do the following:
 
 .. image:: draft-move-3-new4.png
 
-Now the selected document(s) are moved from the original Documents library and into the Controlled Documents library as drafts.
+Now the selected document(s) are moved from the original documents library and into the controlled documents library as drafts.
 
 Recycle bin for drafts
 **************************
@@ -131,7 +131,7 @@ Restoring a draft document from the recycle bin works similar to when a new draf
 
 Here's how:
 
-1. Got to the recycle bin and select the document.
+1. Go to the recycle bin and select the document.
 2. Click RESTORE.
 
 .. image:: document-restore-1.png
@@ -144,13 +144,13 @@ See the heading *Creating a new draft from a published document* below for more 
 
 4. Click CREATE DRAFT.
 
-Upload Appendices
+Upload appendices
 *******************
-To upload documents to use as appendices to another document, the main upload option should not be used. (But you can also use Published Documents as appendices, see below.)
+To upload documents to use as appendices to another document, the main upload option should not be used. (But you can also use published documents as appendices, see below.)
 
 Note that work with appendices (uploading new ones, deleting existing) can only be done when you are working on a draft of the document. If a document is sent for comments or for approval, appendices can not be uploaded to that document. 
 
-Also note that a Document Type contains a setting that states if appendices are allowed or not. For a document tied to a Document Type with appendices not allowed, the Appendices option is not available.
+Also note that a document type contains a setting that states if appendices are allowed or not. For a document tied to a document type with appendices not allowed, the Appendices option is not available.
 
 An icon indicates if appendices are attached to a document, and states the number of appendices. (An Appendices column can also be shown). 
 
@@ -194,7 +194,7 @@ When the upload is finished the file(s) is visible in the Appendices list for th
 
 .. image:: upload-appendice-6-new4.png
 
-An Appendice document can be opened from here by clicking the link. 
+An appendice document can be opened from here by clicking the link. 
 
 Use the options to the right of the file name to edit or delete the file from the list.
 
@@ -206,11 +206,11 @@ Appendices can be added to this list continuously up to publication of the docum
 
 **Note!** An appendix uploaded as shown above will not be visible as a document in the Drafts list, but will only exist as a part of the main document. When a document with appendices is published, both the main document and the appendices are approved in one go. The appendices does not have to be approved separately (but also see below).
 
-Published documents as Appendices - Copy from other document
+Published documents as appendices - copy from other document
 ---------------------------------------------------------------
-Another option is to add a copy of a published document as an Appendice. All published documents are available to select as appendices.
+Another option is to add a copy of a published document as an appendice. All published documents are available to select as appendices.
 
-**Note!** In this case it is a copy of a document that will be added. There is no link between the published document and the copy, so if a new edition of the Appendice document is published, the copy used as an appendix is NOT updated. You have to add the published document again to update the appendice.
+**Note!** In this case it is a copy of a document that will be added. There is no link between the published document and the copy, so if a new edition of the appendice document is published, the copy used as an appendix is NOT updated. You have to add the published document again to update the appendice.
 
 1. Open the dot menu for the document where you want to add appendices, and select "Appendices".
 2. Click "Copy from other Document" in the window shown.
@@ -262,11 +262,11 @@ As you see you can even upload a document to base the new draft on. This can be 
 
 The first time a new draft is published the "Change comment" field is available, for all editions from here on. You can use it do add a comment now, or later. For more information, see below.
 
-If you select "Previous Edition", you can open the list and select which of the previous published editions you want to base the new Draft on. If you want to have a look at that edition before deciding, you can download a copy of the previous edition you selected in the list, by first selecting the edition and then clicking this icon:
+If you select "Previous edition", you can open the list and select which of the previous published editions you want to base the new Draft on. If you want to have a look at that edition before deciding, you can download a copy of the previous edition you selected in the list, by first selecting the edition and then clicking this icon:
 
 .. image:: create-draft-3-v7.png
 
-5. When you're done there, click "Create Draft".
+5. When you're done there, click "Create draft".
 
 The new draft is created and the "Drafts" tab is automatically activated. The work on the new draft is done exactly as the first time. That a document has been published before does not make any difference.
 
@@ -294,7 +294,7 @@ Change comments are added to the document history and can therefore be accessed 
 
 Show changes
 ******************
-If the feature "Document Comparison powered by Draftable" is activated for the tenant, the options for viewing changes in a document are extended and improved. Microsoft Office documents, as well as PDF:s, can be used. The files does not have to be open. **Note!** This option requires a paid subscription with Draftable. 
+If the feature "Document comparison powered by Draftable" is activated for the tenant, the options for viewing changes in a document are extended and improved. Microsoft Office documents, as well as PDF:s, can be used. The files does not have to be open. **Note!** This option requires a paid subscription with Draftable. 
 
 When the feature is activated the menu option "Show changes" is available. A draft can then be compared with the latest published edition of that document, using this menu option:
 
@@ -342,8 +342,8 @@ Here's some more information about what will happen if you choose to merge a doc
 
 Omnia will attempt to keep the following when a document is merged with a template:
 
-+ Fonts and Formats.
-+ Page Size and Orientation.
++ Fonts and formats.
++ Page size and orientation.
 + Margins.
 + Contents and references.
 

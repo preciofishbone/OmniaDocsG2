@@ -5,7 +5,7 @@ Here you can work with three types of forms.
 
 .. image:: forms-all-new.png
 
-Surveys has the most options. Polls are similar to Surveys but suitable for shorter, simpler forms. Checkups are suitable for micro-courses with knowledge checks.
+Surveys has the most options. Polls are similar to surveys but suitable for shorter, simpler forms. Checkups are suitable for micro-courses with knowledge checks.
 
 Settings
 ********************
@@ -39,7 +39,7 @@ In the list, you can use the icons (from left to right), to copy the form to a n
 
 Checking responses
 *********************
-If responses are available (can be for Surveys and Polls), you can click this icon to check them:
+If responses are available (can be for surveys and polls), you can click this icon to check them:
 
 .. image:: forms-response-icon.png
 
@@ -47,7 +47,7 @@ Here's an example:
 
 .. image:: forms-response-example.png
 
-This is the "Layout View" for the responses. To see one question at a time, click here:
+This is the "Layout view" for the responses. To see one question at a time, click here:
 
 .. image:: forms-response-example-question-by-question.png
 
@@ -98,30 +98,30 @@ The settings are the same for all form types. All settings you use when creating
 .. image:: forms-settings.png
 
 + **Title**: Add a Title for the form here, in any or all of the available languages.
-+ **Use Points**: Selected per default for Surveys, but can be changed.
-+ **Use Correct Answer**: If it should be possible to show correct answers, after the user has submitted answers, select this option. Selected per default for Checkups.
-+ **Enable "Check your answers"**: Available when "Use Correct Answer" is selected. When this option is selected, users can click "Check your answers" to see the answers.
++ **Use points**: Selected per default for Surveys, but can be changed.
++ **Use correct answer**: If it should be possible to show correct answers, after the user has submitted answers, select this option. Selected per default for checkups.
++ **Enable "Check your answers"**: Available when "Use correct answer" is selected. When this option is selected, users can click "Check your answers" to see the answers.
 + **Enable Save for for later**: If the user should be able to save the progress so far and continue later, select this option. If not selected, users have to finish the Survey/Poll/Checkup in one go.
-+ **Enable Submission**: If it should be possible for users to submit an answer, and just not read the information, select this option. It's always selected and can't be unchecked for Surrveys and Polls. For Checkups it's unchecked per default.
-+ **One respons per person**: When Enable Submission is selected, you can schoose if a user should be able to submit answers just once, or several times. Selected per default for Surveys.
-+ **Make responses anonymus**: When Enable Submission is selected, you can schoose to make answers anonymus. If you do, it's not possible for administrators on any level to trace user submissions. Selected per default for Polls.
-+ **Custom submit label**: When Enable Submission is selected, you can add a label here if needed.
-+ **On Submission**: When Enable Submission is selected, you select what will happen on submission: "Show message" meaning the message you can add above, "Show user respone" and/or "Show all responses" - meaning all user responses for this Surevy or Poll, so far.
-+ **Open**: Select this option for dates when the form should be available, and then add Start date and End date.
++ **Enable submission**: If it should be possible for users to submit an answer, and just not read the information, select this option. It's always selected and can't be unchecked for surrveys and polls. For checkups it's unchecked per default.
++ **One respons per person**: When "Enable submission" is selected, you can schoose if a user should be able to submit answers just once, or several times. Selected per default for surveys.
++ **Make responses anonymus**: When "Enable submission" is selected, you can schoose to make answers anonymus. If you do, it's not possible for administrators on any level to trace user submissions. Selected per default for polls.
++ **Custom submit label**: When "Enable submission" is selected, you can add a label here if needed.
++ **On submission**: When "Enable submission" is selected, you select what will happen on submission: "Show message" meaning the message you can add above, "Show user respone" and/or "Show all responses" - meaning all user responses for this surevy or poll, so far.
++ **Open**: Select this option for dates when the form should be available, and then add a start date and an snd date.
 
 Don't forget to save the settings.
 
 Working with the graphical presentation
 ****************************************
-It can look like this (Survey as an example):
+It can look like this (survey as an example):
 
 .. image:: surveys-1.png
 
-As you can see, there are some similarities to working with pages. For example, the Layout Explorer is available here. 
+As you can see, there are some similarities to working with pages. For example, the layout explorer is available here. 
 
 .. image:: surveys-layout-explorer.png
 
-See this for more information: :doc:`Layout Explorer </general-assets/layout-explorer/index>`
+See this for more information: :doc:`Layout explorer </general-assets/layout-explorer/index>`
 
 Also similar to working with pages, there is a Design mode and a Preview mode (but no Write mode, because it's not needed here).
 
@@ -157,7 +157,7 @@ Information about sections settings is found here: :doc:`Settings for sections <
 
 More information about how to work with blocks is found here: :doc:`Working with blocks </blocks/working-with-blocks/index>`
 
-When working with the a form's graphical presentation, a specific block is available - Form Question. You can find more information about that block here: :doc:`Form Question </blocks/blocks-forms/form-question/index>`.
+When working with the a form's graphical presentation, a specific block is available - Form question. You can find more information about that block here: :doc:`The Form question block </blocks/blocks-forms/form-question/index>`.
 
 As always, don't forget to save when you're finished:
 

@@ -1,11 +1,11 @@
 Favicon - Business profile settings
 =======================================
 
-Here you can set favicons for the business profile. You can choose to use the Tenant favicons or upload specific favicons for this business profile.
+Here you can set favicons for the business profile. You can choose to use the tenant favicons or upload specific favicons for this business profile.
 
 .. image:: favicon-bp.png
 
-If you want to use the favicosn set in the tenant settings (if any), just leave it as is.
+If you want to use the favicons set in the tenant settings (if any), just leave it as is.
 
 If you want to use other favcicons for this business profile, do the following:
 

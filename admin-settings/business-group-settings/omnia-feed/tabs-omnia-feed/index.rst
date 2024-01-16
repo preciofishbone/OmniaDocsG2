@@ -1,7 +1,7 @@
 Tabs - Omnia Feed
 =============================================
 
-Use the settings here to edit tabs for this Business Profile in Omnia Feed.
+Use the settings here to edit tabs for this business profile in Omnia Feed.
 
 Here's an example with a number of tabs set up:
 
@@ -32,7 +32,7 @@ You can set the following here:
 .. image:: omnia-feed-tabs-general-v7.png
 
 + **Title**: Add a title for the tab.
-+ **Icon Type**: If you want an icon for the tab, select icon type here.
++ **Icon type**: If you want an icon for the tab, select icon type here.
 + **Icon**: Choose icon from the selected type here. If you leave this field empty, no icon is shown.
 
 Targeting settings
@@ -45,7 +45,7 @@ This works the same way as in many other parts of Omnia, described here: :doc:`U
 
 Query tab
 ***********
-This type of tab can display a Page Rollup from Omnia. The following settings are available:
+This type of tab can display a page rollup from Omnia. The following settings are available:
 
 .. image:: omnia-feed-tabs-query-v7.png
 
@@ -57,10 +57,10 @@ Here you set up the query for the tab.
 
 .. image:: omnia-feed-tabs-query-query-v7.png
 
-+ **Scope**: Select scope and then set the details similar to what you do in any Page Rollup. Can be "Tenant", "Business Profiles", "Publishing Apps" or "Page Collections". Regarding business profiles, publising apps and page collections, you can add one or more. Using Tenant as the scope, there's almost endless possibilities to rollup pages with certain properties from the tenant.
-+ **Title Format**: Available when scope has been selected. Choose what should be shown as the metadata for source. (Note that you may have to expand the scope to find this setting).
-+ **Add Filter**: Available when scope has been selected. Here you select one ot more filters for pages to rollup. One example is channels for the scope Tenant.
-+ **Sign Off Requests**: This option can be available depending on setup. You can choose to show sign off requests for the scope and if you do that, you can choose to hide finished requests.
++ **Scope**: Select scope and then set the details similar to what you do in any page rollup. Can be "Tenant", "Business profiles", "Publishing apps" or "Page collections". Regarding business profiles, publishing apps and page collections, you can add one or more. Using Tenant as the scope, there's almost endless possibilities to rollup pages with certain properties from the tenant.
++ **Title format**: Available when scope has been selected. Choose what should be shown as the metadata for source. (Note that you may have to expand the scope to find this setting).
++ **AddfFilter**: Available when scope has been selected. Here you select one ot more filters for pages to rollup. One example is channels for the scope Tenant.
++ **Sign-off requests**: This option can be available depending on setup. You can choose to show sign off requests for the scope and if you do that, you can choose to hide finished requests.
 
 Display settings
 -----------------
@@ -68,13 +68,13 @@ The following settings are available here:
 
 .. image:: omnia-feed-tabs-query-display-v7-frame.png
 
-Use "Tab View Settings" for settings for the tab itself. Use "Detail View Settings" for objects opened in the tab. What you do in both cases is to select properties in Omnia that contain the information needed. Note that properties must have been set up in Omnia Admin to be available to select here, see: :doc:`Properties </admin-settings/tenant-settings/properties/index>`
+Use "Tab view settings" for settings for the tab itself. Use "Detail view settings" for objects opened in the tab. What you do in both cases is to select properties in Omnia that contain the information needed. Note that properties must have been set up in Omnia admin to be available to select here, see: :doc:`Properties </admin-settings/tenant-settings/properties/index>`
 
-For example, this is what can be selected for "Tab View Settings":
+For example, this is what can be selected for "Tab view settings":
 
 .. image:: omnia-feed-tabs-query-display-tab-view-v7.png
 
-At the bottom you can also set the sorting "descending" or "Ascending" (not available for Detail View Settings). 
+At the bottom you can also set the sorting "descending" or "Ascending" (not available for Detail view settings). 
 
 Notification settings
 ----------------------
@@ -82,7 +82,7 @@ The following is available here:
 
 .. image:: omnia-feed-tabs-query-notification-v7.png
 
-+ **Enable Push Notification**: Select this option if users should recieve a Push Notification when new information, for example a new page, has been added.
++ **Enable push notification**: Select this option if users should recieve a push notification when new information, for example a new page, has been added.
 
 For the detailed options, read the options carefully. They should be self explanatory.
 
@@ -104,9 +104,9 @@ You can choose to use a "Web URL link" or a "Deep link". Then add the link below
 
 Note the information about Omnia URL links.
 
-Embedded Link tab
+Embedded link tab
 **********************
-For an Embedded Link tab, the following settings are available:
+For an Embedded link tab, the following settings are available:
 
 .. image:: omnia-feed-embedded-v7.png
 
@@ -114,15 +114,15 @@ General tab settings are available for "General" and "Targeting", see above.
 
 Content
 -----------
-Add the URL for the embedded link here and select what should be shown as the tab title, the Business Profle title or the the web page title:
+Add the URL for the embedded link here and select what should be shown as the tab title, the business profle title or the the web page title:
 
 .. image:: omnia-feed-embedded-link-v7.png
 
 Note the information about Omnia URL:s.
 
-Activity Feed tab
+Activity feed tab
 **********************
-For an Activity Feed tab, the following settings are available:
+For an Activity feed tab, the following settings are available:
 
 .. image:: omnia-feed-activity-feed-v7.png
 
@@ -130,11 +130,11 @@ For "General" and "Targeting", general tab settings are available, see above.
 
 Content
 ---------
-The Activity Scope can be from the user's "My Subscriptions" or from a "Page Collection". 
+The Activity scope can be from the user's "My subscriptions" or from a "Page collection". 
 
 .. image:: omnia-feed-activity-feed-content-v7.png
 
-When you choose "My Subscription" no further settings are needed. When selecting "Page Collection", you must select one or more page collections to get the activity feed from.
+When you choose "My subscription" no further settings are needed. When selecting "Page collection", you must select one or more page collections to get the activity feed from.
 
 Display
 ---------
@@ -142,5 +142,5 @@ For Display, a number of detailed view settings are avalable.
 
 .. image:: omnia-feed-activity-feed-display-v7.png
 
-What you do here is to select properties in Omnia that contain the information needed. Note that properties must have been set up in Omnia Admin to be available to select here, see: :doc:`Properties </admin-settings/tenant-settings/properties/index>`
+What you do here is to select properties in Omnia that contain the information needed. Note that properties must have been set up in Omnia admin to be available to select here, see: :doc:`Properties </admin-settings/tenant-settings/properties/index>`
 

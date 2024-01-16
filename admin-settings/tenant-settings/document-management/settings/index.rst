@@ -9,14 +9,14 @@ You can set this on the "General" tab:
 
 .. image:: document-management-settings-general-v7.png
 
-+ **Authors of Controlled Documents**: Here you can set the type of permissions to be used in Controlled Documents libraries in the tenant. 
++ **Authors of controlled documents**: Here you can set the type of permissions to be used in controlled documents libraries in the tenant. 
 
-    - "Document Authors Group": This is the default setting. A specific permission group will be used for authors.
-    - "Site Owners": All site owners will have permissions to work with Controlled Documents. No specific permission group for authors is needed.
-    - "Site Owners and Members": All site owners and all Members will have permissions to work with Controlled Documents. No specific permission group for authors is needed.
-+ **Approvers Group**: If this option is selected (default) a specific permission group will be created for approvers in every Team Site with a Controlled Documents library. Note that this should normally be selected. Not using permission groups is for specialized implementation only. Also note that you can still set what type of approval to use for each Document Type.
-+ **Archive Site Url**: Part of the Controlled Documents functionality is an Archive site, where a copy of all published document’s editions are placed in an archive. The link to the site is shown here and can be edited if needed.
-+ **Retention Manager**: For retention of documents to work, a Retention Manager must be added in this field.
+    - "Document authors group": This is the default setting. A specific permission group will be used for authors.
+    - "Site owners": All site owners will have permissions to work with controlled documents. No specific permission group for authors is needed.
+    - "Site owners and members": All site owners and all Members will have permissions to work with controlled documents. No specific permission group for authors is needed.
++ **Approvers group**: If this option is selected (default) a specific permission group will be created for approvers in every teamsite with a controlled documents library. Note that this should normally be selected. Not using permission groups is for specialized implementation only. Also note that you can still set what type of approval to use for each document type.
++ **Archive site URL**: Part of the controlled documents functionality is an archive site, where a copy of all published document’s editions are placed in an archive. The link to the site is shown here and can be edited if needed.
++ **Retention manager**: For retention of documents to work, a retention manager must be added in this field.
 
 Document Id format
 *********************

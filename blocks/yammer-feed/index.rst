@@ -1,7 +1,7 @@
-Yammer Feed
+Yammer feed
 ===============
 
-A Yammer Feed can be displayed in this block. 
+A Yammer feed can be displayed in this block. 
 
 **Note!** In an Omnia on-prem setup, a separate online Yammer subscription and internet access is required.
 
@@ -28,10 +28,10 @@ Some style settings is also available:
 
 .. image:: yammer-feed-settings-style-new.png
 
-+ **Show Header**: Use this option to show the block header or not. Default: selected.
++ **Show header**: Use this option to show the block header or not. Default: selected.
 + **Show network name in header**: Default: selected.
 + **Show Footer**: Default: not selected.
 + **Height**: You can set the height in pixels for the block. Default: 600 pixels.
-+ **Dark Theme**: To select a dark theme for the block, use this option.
++ **Dark theme**: To select a dark theme for the block, use this option.
 
 

@@ -6,15 +6,15 @@ This option was previously called Big Picture.
 About setting up Info screen
 ************************************
 
-Since Info Screen can be seen as an only-display extension, meaning that it does not require much or any user interaction once its setup, therefore we recommend a few ways to set it up:
+Since InfosScreen can be seen as an only-display extension, meaning that it does not require much or any user interaction once its setup, therefore we recommend a few ways to set it up:
 
 Operating system level Kiosk mode (recommended)
 ---------------------------------------------------
-Kiosk Mode, that is also called Assigned Access, is a mode that comes with windows, and that allows the user to configure an account that is only allowed to use a specific software without access to anything else, like the start menu or the task manager for example, and forces the app to be in full screen mode. This way when a person uses the computer that is logged in to the kiosk account, the person can only access the specified app. In this case the app will be Microsoft Edge that will run Info Screen
+Kiosk mode, that is also called Assigned access, is a mode that comes with windows, and that allows the user to configure an account that is only allowed to use a specific software without access to anything else, like the start menu or the task manager for example, and forces the app to be in full screen mode. This way when a person uses the computer that is logged in to the kiosk account, the person can only access the specified app. In this case the app will be Microsoft Edge that will run InfosScreen.
 
-1. In order to setup kiosk mode, you need to be logged in as an Administrator, and you need to setup a new user account. This can be simply done by creating a new user in Settings > Accounts > Other people > Add someone else to this PC. Note that the account does not have to be a Microsoft account, it can also be a local account with a password. Make sure to name the account Kiosk.
+1. In order to setup kiosk mode, you need to be logged in as an administrator, and you need to setup a new user account. This can be simply done by creating a new user in Settings > Accounts > Other people > Add someone else to this PC. Note that the account does not have to be a Microsoft account, it can also be a local account with a password. Make sure to name the account Kiosk.
 
-2. Once that is done, open up Windows Powershell. Make sure to right click and run it as Administrator:
+2. Once that is done, open up Windows Powershell. Make sure to right click and run it as administrator:
 
 .. image:: power.png
 
@@ -30,7 +30,7 @@ Now that kiosk mode is up and running, it can be used by logging into the Kiosk 
 
 Things to keep in mind
 -------------------------
-- The browser should have the startpage set to the page of Info Screen. Using the query string fullscreen=true (For example https://tenant.sharepoint.com?fullscreen=true#/start/big-picture) will cause Info Screen to go into full screen mode automatically. This will enable the computer to be rebooted but still end up on the correct page and put the browser in the correct mode.
+- The browser should have the startpage set to the page of Info screen. Using the query string fullscreen=true (For example https://tenant.sharepoint.com?fullscreen=true#/start/big-picture) will cause Info screen to go into full screen mode automatically. This will enable the computer to be rebooted but still end up on the correct page and put the browser in the correct mode.
 
 + Some TV's might have settings to go into sleep mode or turn off when there is no activity. Make sure to check the TV for such configuration.
 + Make sure to change the computer's settings for when to go into sleep mode or shutdown after no activity to "never".
@@ -40,7 +40,7 @@ Things to keep in mind
 
 .. image:: kiosk-remove.png
 
-Alternative: Browser-level Kiosk mode (not recommended)
+Alternative: Browser-level kiosk mode (not recommended)
 -----------------------------------------------------------
 Browsers, such as Google Chrome, offer a browser level kiosk, in which the browser will be entered into full screen mode and give a similar look to that of Operating System kiosk mode. 
 

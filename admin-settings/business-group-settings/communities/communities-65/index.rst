@@ -1,9 +1,9 @@
 Communities
 ====================================
 
-Here you can work with apps and templates for Communities. You can also find ready made layouts for Community start pages.
+Here you can work with apps and templates for communities. You can also find ready made layouts for community start pages.
 
-Prerequisite: The Tenant feature "Communities" must be active for any community options to be available. A tip: There are example community templates to activate in Features for the business profile.
+Prerequisite: The tenant feature "Communities" must be active for any community options to be available. A tip: There are example community templates to activate in features for the business profile.
 
 This page and the pages available here, describes how these options work in Omnia 6.13. For Omnia 7.0 and later, see this page: :doc:`Communities settings in Omnia v7 </admin-settings/business-group-settings/communities/communities-v7/index>`
 
@@ -20,5 +20,5 @@ Select section for more information:
    layout/index
    templates/index
 
-A Community Rollup block is also available: :doc:`Community Rollup block </blocks/community-rollup/index>`
+A Community rollup block is also available: :doc:`Community rollup block </blocks/community-rollup/index>`
 

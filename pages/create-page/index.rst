@@ -22,15 +22,15 @@ When the navigation is open, create a new page this way:
 
 .. image:: new-page-open-menu-new2.png
 
-4. Select "Create Page".
+4. Select "Create page".
 
 .. image:: new-page-create-page-new2.png
 
-5. Add a title for the page and select Page Type if availble (if there's only type available, then the Page Type is selected automatically and the field is simply not shown, as seen in the next image):
+5. Add a title for the page and select page type if availble (if there's only type available, then the page type is selected automatically and the field is simply not shown, as seen in the next image):
 
 .. image:: new-page-create-page-title.png
 
-The Url is added automatically, based on the page name, but can be edited if needed.
+The URL is added automatically, based on the page name, but can be edited if needed.
 
 6. Click CREATE.
 
@@ -38,7 +38,7 @@ The Url is added automatically, based on the page name, but can be edited if nee
 
 What you can do from here depends on your permissions. The default mode is Write mode. If you are able to use Design mode, see below.
 
-In Write mode you can now add content to some of the blocks added by the Page Type, and besides that a wizard is started to help you with the necessary steps when creating a new page:
+In Write mode you can now add content to some of the blocks added by the page type, and besides that a wizard is started to help you with the necessary steps when creating a new page:
 
 .. image:: new-page-example-blocks.png
 
@@ -52,25 +52,25 @@ See below for useful links to descriptions on how to add/edit content.
 
 .. image:: new-page-example-next-new.png
 
-8. Add Property information as needed:
+8. Add property information as needed:
 
 .. image:: new-page-example-properties.png
 
-Available properties and if they are mandatory or not, are set up in settings for the Page Type.
+Available properties and if they are mandatory or not, are set up in settings for the page type.
 
-Page Contact and Review Date are two common properties. The page contact is often used for page owner to receive page feedback, if applicable, but other property fields can be used for that purpose. Review Date is just a date for a reminder that it may be time to review the page in case it needs an update. Set the Review as you see fit, but a review at least once a year is probably a good idea.
+Page contact and Review date are two common properties. The page contact is often used for page owner to receive page feedback, if applicable, but other property fields can be used for that purpose. Review date is just a date for a reminder that it may be time to review the page in case it needs an update. Set the review as you see fit, but a review at least once a year is probably a good idea.
 
 9. Click "Next" to go the next Wizard step.
 
-It can be possible to publish to channels (but it's not in this example). If that is allowed in the Page Collection, a Channel tab will be shown. You can then select the channels to publish to, but this is never mandatory. 
+It can be possible to publish to channels (but it's not in this example). If that is allowed in the page collection, a "Channel" tab will be shown. You can then select the channels to publish to, but this is never mandatory. 
 
-Normally publication to a channel must be approved by the channel Administrator, but if you are set up as Publisher for that channel, you can publish directly, without approval.
+Normally publication to a channel must be approved by the channel administrator, but if you are set up as a publisher for that channel, you can publish directly, without approval.
 
-Here's an example from another Page Collection, with four channels available. The author has chosen to publish in the channel he or she is publisher for:
+Here's an example from another page collection, with four channels available. The author has chosen to publish in the channel he or she is publisher for:
 
 .. image:: publish-to-channel.png
 
-When the last Wizard step has been edited, something like the following is shown. What you will do next is really up to you, but to save a draft at this point is a good idea.
+When the last wizard step has been edited, something like the following is shown. What you will do next is really up to you, but to save a draft at this point is a good idea.
 
 .. image:: new-page-finished-new2.png
 
@@ -82,7 +82,7 @@ Some useful links regarding editing of blocks:
 
 + :doc:`Edit a page </pages/edit-page/index>`
 
-+ :doc:`Editing text with the RTF Editor </general-assets/rtf-editor/index>`
++ :doc:`Editing text with the RTF editor </general-assets/rtf-editor/index>`
 
 Working with a new page in Design mode
 *****************************************
@@ -90,10 +90,10 @@ When the page is created (or later when editing) you can add additional blocks, 
 
 Every block available also has a separate description, select the block on this page for more information: :doc:`Blocks </blocks/index>`
 
-Page Style and Layout Templates
+Page style and layout templates
 ---------------------------------
-When woking with a page in Design mode, you can also use Layout Explorer. There's a number of Layout Templates you can use, if you wish, for a new page. See: :doc:`Layout Templates </general-assets/layout-explorer/layout-templates/index>`
+When woking with a page in Design mode, you can also use Layout explorer. There's a number of layout templates you can use, if you wish, for a new page. See: :doc:`Layout templates </general-assets/layout-explorer/layout-templates/index>`
 
-In Layout Explorer there are a number of Page Style settings as well, see this page for more information: :doc:`Page Style </general-assets/layout-explorer/page-layout/page-style/index>`
+In Layout explorer there are a number of page style settings as well, see this page for more information: :doc:`Page style </general-assets/layout-explorer/page-layout/page-style/index>`
 
 

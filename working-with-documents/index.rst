@@ -1,7 +1,7 @@
 Working with documents
 =========================
 
-In this part of the documentation you will find information about how to work with controlled documents and how to use the document wizard to create both controlled documents and normal documents.
+In this part of the documentation you will find information about how to work with controlled documents and how to use the document wizard to create both controlled documents and standard documents.
 
 Prerequisite: The tenant feature "Controlled documents" must be active for any options regarding controlled documemnts to be available. 
 

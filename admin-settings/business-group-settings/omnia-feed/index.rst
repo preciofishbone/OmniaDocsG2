@@ -1,11 +1,11 @@
 Omnia Feed - Business profile settings
 =================================================
 
-**Important Note!** Omnia Feed is "Forward Only" meaning that a page that has been sent to a user can't be recalled. This is important to remember for example when creating or editing a query. 
+**Important note!** Omnia Feed is "Forward only" meaning that a page that has been sent to a user can't be recalled. This is important to remember for example when creating or editing a query. 
 
 **Note!** Omnia Feed is not available for Omnia on-prem due to push notifications.
 
-The following settings are available for Omnia Feed, for the Business Profile:
+The following settings are available for Omnia Feed, for the business profile:
 
 .. image:: business-profile-omnia-feed-613.png
 
@@ -21,7 +21,7 @@ Select section below for more information:
 
 Omnia Feed and permissions
 ******************************
-To be able to access a page - news or any other Omnia page - users will need read permission for that page, meaning permissions in Omnia apply. This is normally set on Page Collection level. Omnia Feed has no separate permissions settings. Therefore, users can only see feed notifications for and read the pages they are allowed to read as set in Omnia.
+To be able to access a page - news or any other Omnia page - users will need read permission for that page, meaning permissions in Omnia apply. This is normally set on page collection level. Omnia Feed has no separate permissions settings. Therefore, users can only see feed notifications for and read the pages they are allowed to read as set in Omnia.
 
 Resetting the app
 ******************

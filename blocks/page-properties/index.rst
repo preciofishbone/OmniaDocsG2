@@ -60,4 +60,4 @@ Here's an example with the information shown horizontally, with a separator:
 
 Layout and Write
 *********************
-The WRITE Tab is not used here. The LAYOUT tab contains general settings, see: :doc:`General Block Settings </blocks/general-block-settings/index>`
+The WRITE Tab is not used here. The LAYOUT tab contains general settings, see: :doc:`General block settings </blocks/general-block-settings/index>`

@@ -1,7 +1,7 @@
 Templates for communities in Omnia v7
 =======================================
 
-Here  you can work with templates for communities - Omnia Community Apps and Yammer Communities. The first list displays all templates that has been created so far, for example:
+Here  you can work with templates for communities - Omnia community apps and Yammer communities. The first list displays all templates that has been created so far, for example:
 
 .. image:: community-templates-v7.png
 
@@ -13,7 +13,7 @@ To edit a template, you can also just click the name. When you edit a template, 
 
 You create templates for publishing apps, community sites and teamwork the same way, see this page: :doc:`Creating app templates in Omnia v7 </general-assets/creating-app-templates/index>`
 
-All settings for Omnia Community Apps works as described on the page linked above, even if available property sets and available features can differ. Creating a template for a Yammer community is slightly different. The differences are explained here.
+All settings for Omnia community apps works as described on the page linked above, even if available property sets and available features can differ. Creating a template for a Yammer community is slightly different. The differences are explained here.
 
 Creating a template for a Yammer community
 ********************************************
@@ -21,5 +21,5 @@ Firstly, there are no features available for a Yammer community template. Beside
 
 .. image:: community-template-yammer.png
 
-Select either Yammer Group or SharePoint as default resource.
+Select either Yammer group or SharePoint as default resource.
 

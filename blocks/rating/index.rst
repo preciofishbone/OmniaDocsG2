@@ -1,7 +1,7 @@
 Rating
 ==================
 
-The Rating block may makes the most sense on community pages, such as Knowledge articles, but can be used on any type of content page or in any Page Type.
+The Rating block may have the most use on community pages, such as Knowledge articles, but can be used on any type of content page or in any page type.
 
 The block has two main uses, which can be in the same block or separately:
 
@@ -34,7 +34,7 @@ The following settings are available:
 
 Layout and Write
 *********************
-The WRITE Tab is not used here. The LAYOUT tab contains general settings, see: :doc:`General Block Settings </blocks/general-block-settings/index>`
+The WRITE Tab is not used here. The LAYOUT tab contains general settings, see: :doc:`General block settings </blocks/general-block-settings/index>`
 
 
 

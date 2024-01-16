@@ -1,7 +1,7 @@
 Teamwork templates in Omnia v7
 =======================================
 
-Here you can work with templates for Teamwork; Microsoft 365 Group, SharePoint Team Site, Microsoft Team, Private Yammer Community and Facbook Workplace Group. The first list displays all templates that has been created so far, for example:
+Here you can work with templates for teamwork; Microsoft 365 group, SharePoint teamsite, Microsoft Teams, private Yammer community and Facbook workplace group. The first list displays all templates that has been created so far, for example:
 
 .. image:: teamwork-templates-v7.png
 
@@ -21,21 +21,21 @@ What is different for a Microsoft 365 Team Group is the Setup step:
 
 .. image:: teamwork-settings-setup-365-v7.png
 
-+ **Site Design**: Here templates can be available, templates made according to Microsoft's standard for Site Design. Such templates can be used in Omnia.  Not mandatory. If no such templates are available, the list is empty. For more information about Site Design, see this Microsoft page: https://docs.microsoft.com/en-us/sharepoint/dev/declarative-customization/site-design-overview
++ **Site design**: Here templates can be available, templates made according to Microsoft's standard for site design. Such templates can be used in Omnia. Not mandatory. If no such templates are available, the list is empty. For more information about site design, see this Microsoft page: https://docs.microsoft.com/en-us/sharepoint/dev/declarative-customization/site-design-overview
 + **Languages**: Select language to be used for system texts in the site. **Note!** Only languages available in Microsoft 365 can be selected here. That is what the list contains.
 + **User can select language**: Select this option to enable language selection by the user creating the site.
 + **Time Zones**: Select the correct time zone here.
 + **User can select time zone**: Select this option to enable time zone selection by the user creating the site.
-+ **Welcome Page**: Choose to link to a SharePoint site or to Microsoft Teams.
++ **Welcome page**: Choose to link to a SharePoint site or to Microsoft Teams.
 + **Privacy**: Decide if the Group should be Private or Public.
 
-SharePoint Team Site
+SharePoint teamsite
 ------------------------------------------------------------
-For a SharePoint Team Site, these settings are available for Setup:
+For a SharePoint teamsite, these settings are available for Setup:
 
 .. image:: teamwork-settings-setup-teamsite-v7.png
 
-+ **Site Design**: Here templates can be available, templates made according to Microsoft's standard for Site Design. Such templates can be used in Omnia.  Not mandatory. If no such templates are available, the list is empty. For more information about Site Design, see this Microsoft page: https://docs.microsoft.com/en-us/sharepoint/dev/declarative-customization/site-design-overview
++ **Site Design**: Here templates can be available, templates made according to Microsoft's standard for site design. Such templates can be used in Omnia. Not mandatory. If no such templates are available, the list is empty. For more information about site design, see this Microsoft page: https://docs.microsoft.com/en-us/sharepoint/dev/declarative-customization/site-design-overview
 + **Languages**: Select language to be used for system texts in the site. **Note!** Only languages available in Microsoft 365 can be selected here. That is what the list contains.
 + **User can select language**: Select this option to enable language selection by the user creating the site.
 + **Time Zones**: Select the correct time zone here.
@@ -44,9 +44,9 @@ For a SharePoint Team Site, these settings are available for Setup:
 + **Default Site Collection Administrators**: You can add (several) additional administrators here, if needed.
 + **Default Visitors**: You can use this to set a default visitor group (read permissions) to all sites created from this template. 
 
-Microsoft Team
+Microsoft Teams
 ---------------------
-For Microsoft Team, the following settings are available for Setup:
+For Microsoft Teams, the following settings are available for Setup:
 
 .. image:: teamwork-settings-setup-team-v7.png
 
@@ -54,7 +54,7 @@ and these:
 
 .. image:: teamwork-settings-setup-team-v7-2.png
 
-**Note!** Microsoft Team is not available in Omnia on-prem.
+**Note!** Microsoft Teams is not available in Omnia on-prem.
 
 To use a Teams template, add the template id and choose default welcome page.
 
@@ -64,8 +64,8 @@ For an existing team, just choose welcome page.
 
 .. image:: teamwork-settings-setup-team-existing.png
 
-Create a custom Microsoft Team template
-----------------------------------------
+Create a custom Microsoft Teams template
+-------------------------------------------
 Here's how to create a custom Teams template:
 
 1. Select "Microsoft Teams" or "Sharepoint" as default welcome page.
@@ -99,7 +99,7 @@ For **Apps** the following settings are available:
 
 9. Save the template.
 
-Private Yammer Community
+Private Yammer community
 --------------------------
 The following setting is available for a Private Yammer Community template for Setup:
 

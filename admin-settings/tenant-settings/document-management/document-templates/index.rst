@@ -48,13 +48,13 @@ Set the following:
 
 .. image:: dm-template-settings-v7.png
 
-2. Select to add a template for controlled documents or for normal documents.
+2. Select to add a template for controlled documents or for standard documents.
 
 See below for the rest of the steps.
 
-Template for normal documents
+Template for standard documents
 -------------------------------
-I you selected to add a template for normal documents, continue this way:
+I you selected to add a template for standard documents, continue this way:
 
 1. Select one or more categories if you wish.
 

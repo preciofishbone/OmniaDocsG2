@@ -1,7 +1,7 @@
 Reports
 ==========
 
-A number of reports are available for pages in the active Publishing App. Note that some settings must be made for the reports to work, see below.
+A number of reports are available for pages in the active publishing app. Note that some settings must be made for the reports to work, see below.
 
 Select "Reports" here:
 
@@ -19,7 +19,7 @@ You can sort the lists on most column headings by clicking the heading, for exam
 
 .. image:: reports-sort-new3.png
 
-You can use the links in the "Page" column to go to a page, and the links in people columns (for example "Contact") to click the name to see more information about that colleague, for example contact information. The User Profile Card will then open, if it's used within your organization. If it's not, the colleague's Delve page will be displayed.
+You can use the links in the "Page" column to go to a page, and the links in people columns (for example "Contact") to click the name to see more information about that colleague, for example contact information. The user profile card will then open, if it's used within your organization. If it's not, the colleague's Delve page will be displayed.
 
 Also note that the icon on the lower right of a person image indicates Microsoft Teams presence. The icon in the image above indicates that Annabelle Dixon is offline.
 
@@ -43,11 +43,11 @@ If a property for review date for pages is being used, this list displays all pa
 
 .. image:: pages-reports-review-new3.png
 
-You can filter the list on Contact (Page Contact). If the Review Date has passed, it's indicated by a black triangle, so in the example above, the Page Editors has a lot of work to do!
+You can filter the list on Contact (Page contact). If the review date has passed, it's indicated by a black triangle, so in the example above, the page editors has a lot of work to do!
  
-Pending Approval
+Pending approval
 **********************
-If Approval for pages has been set up, this list will show all pages with pending approval.
+If approval for pages has been set up, this list will show all pages with pending approval.
 
 .. image:: pending-approval-example-new2.png
 
@@ -61,9 +61,9 @@ This report displays an overview of all pages that are scheduled for publishing,
 
 .. image:: pages-repoprt-scheduled.png
 
-You can filter the list on dates, for a shorter list. Set Start Date and and End Date. You can also filter on Page Type and who the publication was scheduled by. 
+You can filter the list on dates, for a shorter list. Set Start Date and and End Date. You can also filter on page type and who the publication was scheduled by. 
 
-Default is List View, as shown in the image above. You can also choose to see a calendar view, monthly or weekly. Here's an example with WEEK VIEW selected:
+Default is List view, as shown in the image above. You can also choose to see a calendar view, monthly or weekly. Here's an example with WEEK VIEW selected:
 
 .. image:: pages-repoprt-scheduled-week.png
 
@@ -97,11 +97,11 @@ When you create a new analysis, the following settings are available:
 
 .. image:: analysis-new-settings-new.png
 
-+ **Content analysis**: A number of analysis settings to execute can be available in this list. They are set up in Omni Admin, see: :doc:`Content Analysis (OpenAI) </admin-settings/tenant-settings/settings/open-ai/content-analysis/index>`
++ **Content analysis**: A number of analysis settings to execute can be available in this list. They are set up in Omni admin, see: :doc:`Content analysis (OpenAI) </admin-settings/tenant-settings/settings/open-ai/content-analysis/index>`
 + **Text properties**: Select one or more text properties to run the analysis on.
 + **Pages to include in the report**: You must also choose one or more pages to run the analysis on. You can either pick pages, using the page picker, or use the query builder. Either way, only pages belonging to the active page collection can be selected.
 
-If you select "Pick Pages", click ADD Page to start the page picker. For more information, see: :doc:`Page picker </general-assets/page-picker/index>`
+If you select "Pick pages", click ADD Page to start the page picker. For more information, see: :doc:`Page picker </general-assets/page-picker/index>`
 
 If you select "Use Query Builder", the following is shown:
 
@@ -131,7 +131,7 @@ Doing so you can choose to run the query on specific pages only. Here's an examp
 
 You can add several filters the same way, if needed.
 
-6. Select status for the pages to be analyzed: Published, Never Published or Any status (meaning both).
+6. Select status for the pages to be analyzed: Published, Never published or Any status (meaning both).
 
 .. image:: analysis-new-query-status-new-border.png
 
@@ -147,13 +147,13 @@ If any of these pages should be removed from the analysis, just click the dust b
 
 .. image:: analysis-new-query-save-new.png
 
-Settings for Reports
+Settings for reports
 *********************
 Two settings are needed for the reports to work.
 
-A property for page contact has to have been set up in Omnia Admin, and a property for review date, if review date will be used for pages.
+A property for page contact has to have been set up in Omnia admin, and a property for review date, if review date will be used for pages.
 
-Go to the Publishing App Settings and the Advanced tab.
+Go to the publishing app aettings and the Advanced tab.
 
 .. image:: reports-settings-new4.png
 

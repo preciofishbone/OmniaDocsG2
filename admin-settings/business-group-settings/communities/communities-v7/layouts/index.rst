@@ -19,13 +19,13 @@ To create a new layout, do the following:
 
 To start working on the layout, continue this way:
 
-4. Click on the name or select "Edit Layout" in the dot menu for the layout.
+4. Click on the name or select "Edit layout" in the dot menu for the layout.
 
 .. image:: community-click-create-dotmenu-v7.png
 
 5. Use the work area to create the layout. 
 
-How to work with layouts in Omnia is described on this page: :doc:`Working with Layouts </general-assets/working-with-layouts/index>`
+How to work with layouts in Omnia is described on this page: :doc:`Working with layouts </general-assets/working-with-layouts/index>`
 
 If you need to delete a layout, you can also use the dot menu for the layout:
 

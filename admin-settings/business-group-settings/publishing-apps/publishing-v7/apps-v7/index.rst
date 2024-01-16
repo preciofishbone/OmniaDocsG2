@@ -11,7 +11,7 @@ Use this icon to close the menu to the left and work in full window mode:
 
 .. image:: publishing-apps-icon-v7.png
 
-You can click the link to go to an app. You can search for an app and use the headings "Title", "Template" and "Created Date" to sort the list.
+You can click the link to go to an app. You can search for an app and use the headings "Title", "Template" and "CreateddDate" to sort the list.
 
 The following actions, using the dot menu to the right, are available for an app:
 
@@ -19,15 +19,15 @@ The following actions, using the dot menu to the right, are available for an app
 
 For more information, see below.
 
-**Note!** To be able to delete a publishing app, you must be App Administrator for that publishing app. 
+**Note!** To be able to delete a publishing app, you must be app administrator for that publishing app. 
 
 Attach site
 **************
-This option can be used in a rare setup case. If your organization creates Sharepoint communication sites some other way, they can be attached to Omnia using this option.
+This option can be used in a rare setup case. If your organization creates SharePoint communication sites some other way, they can be attached to Omnia using this option.
 
 **Note!** The communication sites attached this way should be empty, meaning just created but no content (pages or other content) added. The actual usage of the communication sites should be through Omnia.
 
-The following permissions are required to be able to attach: Collection Administrator permissions.
+The following permissions are required to be able to attach: Collection administrator permissions.
 
 Do the following to attach a site:
 
@@ -40,13 +40,13 @@ The following is shown:
 
 3. Paste the URL and click RESOLVE.
 
-You can "detach" (delete) a site if needed. Then the following permissions are needed: Site Owner or Site Collection Administrator permissions.
+You can "detach" (delete) a site if needed. Then the following permissions are needed: Site owner or Site collection administrator permissions.
 
 **Note!** What actually happens when you click the dust bin to delete a site, is that the site is detached. That is true for all communcation sites, regardless of if they have been created in or attached to Omnia.
 
-**Note!** When a site is detached, an email is sent to the site owner(s). Note that, for a user to be able to receive e-mails, the acccount must be email enabled.
+**Note!** When a site is detached, an email is sent to the site owner(s). Note that, for a user to be able to receive Emails, the acccount must be email enabled.
 
-Create a new Publishing App
+Create a new publishing app
 *****************************
 Do the following:
 
@@ -63,18 +63,18 @@ Available settings depends on how the template is set up. Here are some common e
 
 + **Title**: Add a title for the publishing app.
 + **Description**: Add a description if needed.
-+ **ADD IMAGE**: The editor setting up a rollup can choose to show images for the apps, both for List and for Card display. Here you can select an image to be shown there, using the Media Picker. When an image has been selected it can be deleted or edited using the X and the pen that is shown then.
-+ **Show in Public Listings**: If a link to the app should be available in public listings (meaning listings in Omnia) select this option. If this option is deselected, the app can only be reached by specific links, for example in a Workspace navigation.
-+ **Default View Access/Limit View Acess**: If you select “Limit View Access” you can change view permissions for the app to specific users.
++ **ADD IMAGE**: The editor setting up a rollup can choose to show images for the apps, both for List and for Card display. Here you can select an image to be shown there, using the media picker. When an image has been selected it can be deleted or edited using the X and the pen that is shown then.
++ **Show in public listings**: If a link to the app should be available in public listings (meaning listings in Omnia) select this option. If this option is deselected, the app can only be reached by specific links, for example in a workspace navigation.
++ **Default view access/Limit view access**: If you select “Limit view access” you can change view permissions for the app to specific users.
 + **Alias**: The last part of the address to the site is created automatically but can be edited if necessary. If the name (address) already exists an alternative address is suggested.
 
-**A note for users of Omnia 6.13 and earlier**: The settings for documents that was available here has moved to the Publish App settings, see the heading "Advanced" on this page: :doc:`Publishing App Settings </pages/page-settings/index>`
+**A note for users of Omnia 6.13 and earlier**: The settings for documents that was available here has moved to the publish app settings, see the heading "Advanced" on this page: :doc:`Publishing app settings </pages/page-settings/index>`
 
 4. Click "Next" and use the following settings:
 
 .. image:: publishing-apps-settings-v7.png
 
-+ **App Administrators**: The active administrator (you) is automatically added as app administrator. Add or delete administrators as needed. There must always be at least one.
++ **App administrators**: The active administrator (you) is automatically added as app administrator. Add or delete administrators as needed. There must always be at least one.
 
 3. In the last setp, summary, you cen check the settings you have made, and edit them if necessary.
 
@@ -92,17 +92,17 @@ Using the action EDIT you can edit the settings for a publishing app. What can b
 
 An important note about SharePoint URL
 -----------------------------------------
-For the apps that needs a SharePoint site, the URL to that site is shown in the field "SharPoint URL/Alias". If, for some reason, the URL for the SharePoint site is edited in SharePoint admin, it must be edited in Omnia as well, or the Omnia app won't work. Beware that this is to be regarded as an advanced action and can cause problems. Be also aware that it can take some time, 10 minutes or more, before the new SharePoint URL is regocnized by the system.
+For the apps that needs a SharePoint site, the URL to that site is shown in the field "SharPoint URL/alias". If, for some reason, the URL for the SharePoint site is edited in SharePoint admin, it must be edited in Omnia as well, or the Omnia app won't work. Beware that this is to be regarded as an advanced action and can cause problems. Be also aware that it can take some time, 10 minutes or more, before the new SharePoint URL is regocnized by the system.
 
 For a description of the rest of the options, see above.
 
-Edit Alias
+Edit alias
 *****************
 If it should be needed to edit the alias, you can do it as part of the actions:
 
 .. image:: publishing-apps-app-route-v7.png
 
-Edit Permissions
+Edit permissions
 *****************
 If you need to add or remove administrator(s) for a publishing app, you can do it as part of the actions:
 
@@ -110,7 +110,7 @@ If you need to add or remove administrator(s) for a publishing app, you can do i
 
 Contributor permissions is needed for colleagues that should be able to add comments to publishing pages.
 
-Edit Features
+Edit features
 **************
 If it's needed to upgrade a feature for the publishing app, you need to go this part of the actions. You also go here to activate or deactivate a feature.
 
@@ -126,11 +126,11 @@ Using the "Edit" option under Actions, you can edit the information part of the 
 
 For more information about the options, see above.
 
-A number of additional settings for a publishing app are available in the Settings menu when working with pages, see: :doc:`Publishing App Settings </pages/page-settings/index>`
+A number of additional settings for a publishing app are available in the Settings menu when working with pages, see: :doc:`Publishing app settings </pages/page-settings/index>`
 
-Pending Approval
+Pending approval
 *****************
-If approval for creation is activated for the template, an administrator uses this list to work with approval or rejection. Here's an example from a test site:
+If approval for creation of an app is activated for the template, an administrator uses this list to work with approval or rejection. Here's an example from a test site:
 
 .. image:: publishing-pending-approval-v7.png
 

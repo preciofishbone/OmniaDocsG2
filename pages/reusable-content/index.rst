@@ -49,7 +49,7 @@ If you are reusing properties used for settings, that is indicated as well, with
 
 .. image:: reuse-content-on-page-settings-properties-new.png
 
-In this example, three of the property fields are being reused from another page: Page Contact, Applies to, and Preview Before.
+In this example, three of the property fields are being reused from another page: Page contact, Applies to, and Preview before.
 
 Editing the source page
 *************************

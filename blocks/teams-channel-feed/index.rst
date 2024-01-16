@@ -1,9 +1,9 @@
-Teams Channel Feed
+Teams channel feed
 ====================
 
-As the name indicates, you can use the block to display a Teams Channel Feed. The feed will be read only.
+As the name indicates, you can use the block to display a Teams channel feed. The feed will be read only.
 
-**Note!** Teams Channel Feed is not available in Omnia on-prem.
+**Note!** Teams channel feed is not available in Omnia on-prem.
 
 The following settings are available:
 
@@ -21,9 +21,9 @@ The Query settings will be these:
 
 .. image:: teams-channel-settings-query.png
 
-+ **Search Team**: Select the Team here.
-+ **Channel List**: Select channel for the team here.
-+ **Link to Channel**: Another option is to add the link to the channel in this field. (You then don't have to add the above.)
++ **Search team**: Select the team here.
++ **Channel list**: Select channel for the team here.
++ **Link to channel**: Another option is to add the link to the channel in this field. (You then don't have to add the above.)
 
 Display
 **********
@@ -32,7 +32,7 @@ For Display, the following will be available:
 .. image:: teams-channel-settings-display.png
 
 + **Sorting**: You can choose to list the newer items first, or the older items first.
-+ **Item Limit**: Set the number of items to be shown in the list before a See more icon is shown.
++ **Item limit**: Set the number of items to be shown in the list before a "See more" link is shown.
 
 
 

@@ -3,7 +3,7 @@ Processes library settings in Omnia v7
 
 This page describes the process library settings in Omnia 7.0 and later.
 
-You must be Administrator of the Team Site, to be able to edit the settings for the lists in the Processes library, and to edit permissions.
+You must be administrator of the teamsite, to be able to edit the settings for the lists in the Processes library, and to edit permissions.
 
 Settings for the tabs
 ***********************
@@ -13,7 +13,7 @@ To access the seetings, go to the Processes library and click "Edit".
 
 General
 -----------
-Here you can edit or add a Title for the list in any or all languages available for the tenant. The default language is mandatory:
+Here you can edit or add a title for the list in any or all languages available for the tenant. The default language is mandatory:
 
 .. image:: process-library-settings-general-v7.png
 
@@ -41,9 +41,9 @@ The following settings are available for the Published tab:
 
 Permissions
 ************
-If Process Management is set up for using permission groups, you can, as an Administrator (Owner) of the Team Site, edit these permissions.
+If Process management is set up for using permission groups, you can, as an administrator (Owner) of the teamsite, edit these permissions.
 
-**Note!** Permissions for the Processes Library is NOT inherited from the Team site's permissions, they are always separate. **Also Note!** Only Sharepoint users can be added here (not Omnia users), and users or groups must be permissions enabled to show up in the list.
+**Note!** Permissions for the Processes library is NOT inherited from the teamsite's permissions, they are always separate. **Also Note!** Only Sharepoint users can be added here (not Omnia users), and users or groups must be permissions enabled to show up in the list.
 
 Do the following:
 

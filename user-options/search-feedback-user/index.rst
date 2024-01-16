@@ -1,7 +1,7 @@
 Send feedback on a search result
 =====================================
 
-It can be possible to send feedback on a search result, if that option is activated in Omnia Admin. A button is then available in all Advanced search results, for example:
+It can be possible to send feedback on a search result, if that option is activated in Omnia admin. A button is then available in all Advanced search results, for example:
 
 .. image:: search-feedback-user-example.png
 

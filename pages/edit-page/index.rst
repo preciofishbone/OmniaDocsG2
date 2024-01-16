@@ -25,7 +25,7 @@ When you go to a page to edit this way, you may have to reactivate Edit mode. In
 
 .. image:: edit-page-edit-new2.png
 
-Edit Contents
+Edit contents
 **************
 If you have Author permissions for the page, Write mode is available for editing contents in some blocks. (If you have Editor permissions, you can edit the blocks the same way). 
 
@@ -38,14 +38,14 @@ In this example you can add content in the following areas in Write mode:
 You can:
 
 + Edit the Media block at the top, to replace the image or add a video instead.
-+ Edit the three text blocks: 1) The page heading, 2) The introduction, which is a text field with now format options, 3) The content block, which contains rich text format options. See this page for more information on editing rich text: :doc:`Editing text with the RTF Editor </general-assets/rtf-editor/index>`
++ Edit the three text blocks: 1) The page heading, 2) The introduction, which is a text field with no format options, 3) The content block, which contains rich text format options. See this page for more information on editing rich text: :doc:`Editing text with the RTF editor </general-assets/rtf-editor/index>`
 + Add links and headers to the Related links block.
 
 The rest of the blocks on the page can't be edited this way.
 
-**Note!** Even Content in Blocks that are locked on the Page Type can be edited this way - if settings in the block allow it.
+**Note!** Even Content in blocks that are locked on the page type can be edited this way - if settings in the block allow it.
 
-Edit Blocks
+Edit blocks
 ************
 To edit the blocks, that is, to add and delete blocks on the page, and to work with the block settings, you use Design mode (you must have Editor permissions to be able to do that):
 
@@ -55,7 +55,7 @@ How to work with blocks is described on this page: :doc:`Working with blocks on 
 
 Default blocks
 ***************
-The default blocks that belong to the Page Type is generally locked, which means that you may add and edit contents, but you can't move or delete them, and not edit the settings. Although, you can normally add other blocks both above and below locked blocks, if you have Editor permissions.
+The default blocks that belong to the page type is generally locked, which means that you may add and edit contents, but you can't move or delete them, and not edit the settings. Although, you can normally add other blocks both above and below locked blocks, if you have Editor permissions.
 
 When you click a block you can see that it's locked this way:
 
@@ -71,9 +71,9 @@ When you click the icon, the following is shown:
 
 As the message states, if you unlock a locked block, the inheritance is broken, meaning the settings you do for the block now are valid for this page only.
 
-Page Style
+Page style
 *************
-There's also a number of style options available for a page, when Design mode is active, see: :doc:`Page Style </general-assets/layout-explorer/page-layout/page-style/index>`
+There's also a number of style options available for a page, when Design mode is active, see: :doc:`Page style </general-assets/layout-explorer/page-layout/page-style/index>`
 
 Reuse content
 **************
@@ -81,11 +81,11 @@ It's possible to reuse contents from another page or another variation. The page
 
 For more information about how to reuse content, see: :doc:`Reusable Content </pages/reusable-content/index>`
 
-Change Page Type
+Change page type
 *****************
-It's possible to change Page Type, if you have Editor permissions, but be aware that some blocks are more suitable to wider sections of the page, so you may have to move or otherwise edit blocks after changing Page Type. 
+It's possible to change page type, if you have Editor permissions, but be aware that some blocks are more suitable to wider sections of the page, so you may have to move or otherwise edit blocks after changing page type. 
 
-**Note!** To change the Page Type should primarily be done to a page that is fairly recently created. To change Page Type for a page with a lot of content may need a lot of work.
+**Note!** Changing the page type should primarily be done to a page that is fairly recently created. To change page type for a page with a lot of content may need a lot of work.
 
 Do the following, if you need to change the Page Type:
 
@@ -102,14 +102,14 @@ Do the following, if you need to change the Page Type:
 
 .. image:: change-page-type-list-new.png
 
-Page Types can be Tenant Page Types, meaning they are managed centrally in the Tenant settings, or local, meaning they apply to this Page Collection only. For more info about Page Types, see:
+Page types can be tenant page types, meaning they are managed centrally in the tenant settings, or local, meaning they apply to this page collection only. For more info about page types, see:
 
-+ :doc:`Page Types </pages/page-types/index>`
-+ :doc:`Tenant Page Types </admin-settings/tenant-settings/webcontent-managament/page-types/index>`
++ :doc:`Page types </pages/page-types/index>`
++ :doc:`Tenant page types </admin-settings/tenant-settings/webcontent-managament/page-types/index>`
 
-Edit Page Properties
+Edit page properties
 *********************
-If needed, you can edit the Page Properties, if you have at least Author permissions.
+If needed, you can edit the page properties, if you have at least Author permissions.
 
 1. Enter Edit mode if it's not already active.
 2. Click "PROPERTIES" at the top.
@@ -120,9 +120,9 @@ Available properties will differ depending on what has been set up. Here's an ex
 
 .. image:: page-properties-shown-new2.png
 
-3. Edit the Properties as needed.
+3. Edit the properties as needed.
 
-**Note!** Some blocks can display information from Page Properties. In this example "Page Contact" displays the name from the "Page Contact" field in the Page Properties.
+**Note!** Some blocks can display information from page properties. In this example "Page contact" displays the name from the "Page contact" field in the page properties.
 
 .. image:: page-contact-example-new2.png
 

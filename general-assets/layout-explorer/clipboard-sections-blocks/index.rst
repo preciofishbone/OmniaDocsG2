@@ -3,7 +3,7 @@ Clipboard for sections and blocks
 
 Using this feature, you can copy sections and blocks between pages or page types. You must be able to use Design Mode to use the clipboard.
 
-The omnia cliboard exists within a tenant, a domain and a computer. So if you're an editor using more than one computer, you will have a separate clipboards for each computer, even if you're working with the same tenant.
+The omnia clipboard exists within a tenant, a domain and a computer. So if you're an editor using more than one computer, you will have a separate clipboards for each computer, even if you're working with the same tenant.
 
 The clipboard is available here:
 
@@ -50,7 +50,7 @@ Here's what you can do with the clipboard.
 
 Edit labels
 -------------
-To edit the labels for the copies in the cliboard, do the following.
+To edit the labels for the copies in the clipboard, do the following.
 
 1. See to that nothing is selected in the clipboard.
 2. Click the pen.
