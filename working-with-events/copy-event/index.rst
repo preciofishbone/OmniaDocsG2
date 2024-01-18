@@ -1,7 +1,7 @@
 Copy an event
 ========================================
 
-If you are an Event Manager (meaning having Editor Permissions to the event page), you can copy an event. This can be to either creating a new, similar event or to repeat the event daily, weekly or monthly.
+If you are an event manager (meaning having Editor permissions to the event page), you can copy an event. This can be to either creating a new, similar event or to repeat the event daily, weekly or monthly.
 
 It works this way:
 
