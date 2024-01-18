@@ -17,7 +17,7 @@ In a teamsite set up for process authoring, a library, usually called just "Proc
 
 .. image:: processes-library.png
 
-In the Procsses library, authors can find three tabs:
+In the Processes library, authors can find three tabs:
 
 .. image:: processes-library-tabs-new.png
 
