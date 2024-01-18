@@ -1,9 +1,9 @@
 The Documents tab - authoring processes
 ===========================================
 
-**Important note!** The options for this tab is quite different depending on if the feature "Process and Documents Integration" is activated or not. If the feature is activated, the options available are these described on this page.
+**Important note!** The options for this tab is quite different depending on if the feature "Process and documents integration" is activated or not. If the feature is activated, the options available are these described on this page.
 
-If the feature is NOT activated, you work with the Documents list as you would with any Document Rollup. For more information, see the bottom of the page.
+If the feature is NOT activated, you work with the Documents list as you would with any document rollup. For more information, see the bottom of the page.
 
 Use this tab to create a list of controlled documents that are applicable tor the process or process step. The top part of the list displays the documents that already has been related to this process. The second part lists suggestions that authors of controlled documents has made, for example:
 
@@ -29,11 +29,11 @@ To accept the suggestion, click here:
 
 To reject the suggestion, click the dust bin for the document. 
 
-For more information on how it works when an author suggests a document to be related to a process, see the heading "Related Processes" on this page :doc:`Working with Published documents </working-with-documents/authoring-controlled-documents/working-with-published-documents`
+For more information on how it works when an author suggests a document to be related to a process, see the heading "Related Processes" on this page :doc:`Working with published documents </working-with-documents/authoring-controlled-documents/working-with-published-documents`
 
-Create a Document Rollup for the Documents tab
+Create a document rollup for the Documents tab
 ************************************************
-If the feature "Process and Documents Integration" is NOT activated, you populate the list with documents by creating a document rollup. Click here to do that:
+If the feature "Process and documents integration" is NOT activated, you populate the list with documents by creating a document rollup. Click here to do that:
 
 .. image:: process-document-rollup.png
 
@@ -41,4 +41,4 @@ The following settings are available:
 
 .. image:: process-document-rollup-settings.png
 
-You use the settings the same way as in the Document Rollup block. For more information, see: :doc:`Document Rollup </blocks/document-rollup/index>`
+You use the settings the same way as in the Document rollup block. For more information, see: :doc:`Document rollup </blocks/document-rollup/index>`
