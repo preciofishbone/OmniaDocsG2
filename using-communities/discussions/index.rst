@@ -3,7 +3,7 @@ Discussions
 
 Discussions can be set up other ways but in the default setup, any colleague can start a discussion and any colleague can participate in any discussion.
 
-All Discussions in this community are listed on the Dicussions start page. It can look like this:
+All discussions in this community are listed on the discussions start page. It can look like this:
 
 .. image:: discussions-start.png
 
@@ -29,7 +29,7 @@ Here's an example of a discussion:
 
 .. image:: discussion-example.png
 
-For more information about a colleague, for example contact information, you can click the name. The User Profile Card will then open, if it's used within your organization. If it's not, the colleague's Delve page will be displayed.
+For more information about a colleague, for example contact information, you can click the name. The user profile card will then open, if it's used within your organization. If it's not, the colleague's Delve page will be displayed.
 
 
 .. toctree::
