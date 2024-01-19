@@ -1,9 +1,9 @@
-Administer an Event
+Administer an event
 =======================
 
-There's a number of actions available for Event Managers. These actions are described here. An Event Manager is a colleague with Page Editor permissions, that manages the event on a page. The options are available in Write mode.
+There's a number of actions available for event managers. These actions are described here. An event manager is a colleague with Page editor permissions, that manages the event on a page. The options are available in Write mode.
 
-If you need to edit properties for an event, you do that in the Page Properties, see the bottom of this page: :doc:`Creating a new event </working-with-events/creating-new-event/index>`
+If you need to edit properties for an event, you do that in the page properties, see the bottom of this page: :doc:`Creating a new event </working-with-events/creating-new-event/index>`
 
 Editing registrations
 ***********************
@@ -17,23 +17,23 @@ When you click the person icon you move the participant, along with all people r
 
 When you click the dust bin, you remove that whole registration.
 
-**Note!** An event can be set up to not have a Standby List. That is selected, and can be edited, in Page Properties.
+**Note!** An event can be set up to not have a standby list. That is selected, and can be edited, in page properties.
 
 When you click the pen for a registration, the following can be edited:
 
 .. image:: editing-icons-edit.png
 
-You can add or edit Phone number, decrese or increase number of people associated with this registration, and add a Comment.
+You can add or edit phone number, decrese or increase number of people associated with this registration, and add a comment.
 
 Don't forget to save when you're done.
 
-The same actions are available for the Standby List. In this case you use the people icon to move the registration to the Participant list.
+The same actions are available for the standby list. In this case you use the people icon to move the registration to the participant list.
 
-**Note!** When a participant is removed from the Participant list, the first colleage from the Standby list is automatically moved to the Participant list, if the associated number of people does not exceed the limit.
+**Note!** When a participant is removed from the participant list, the first colleage from the standby list is automatically moved to the participant list, if the associated number of people does not exceed the limit.
 
-Event Management connected to a calendar
+Event management connected to a calendar
 -----------------------------------------
-If Event Management is connected to an Outlook calendar, a Status column is displayed, indicating if the registered user has accepted the event in his or her calendar, or not. Here's an example:
+If Event management is connected to an Outlook calendar, a Status column is displayed, indicating if the registered user has accepted the event in his or her calendar, or not. Here's an example:
 
 .. image:: event-management-status-icon.png
 
@@ -41,16 +41,16 @@ In this example, Robert Johnson has accepted the event in his calendar, while Ch
 
 Export the list to Excel
 **************************
-You can export the Participant list to Excel if needed, by clicking this button:
+You can export the participant list to Excel if needed, by clicking this button:
 
 .. image:: editing-excel-button.png
 
-**Note!** With this option you export the Participant list, not anything from the Standby list.
+**Note!** With this option you export the participant list, not anything from the standby list.
 
-Send email to all participants
+Send Email to all participants
 ********************************
-You can send an email to all participants by clicking this button:
+You can send an Email to all participants by clicking this button:
 
 .. image:: event-editing-email-button.png
 
-The email used is work email.
+The Email used is work Email.
