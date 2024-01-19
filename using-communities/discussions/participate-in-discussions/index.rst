@@ -44,4 +44,4 @@ A mention is the @ sign and the colleagues name or email address. Here are two e
 
 .. image:: discussion-comment-6.png
 
-You can also like, share and tag a comment as Best Reply, see: :doc:`Like, Share and Best Reply for discussions </using-communities/discussions/like-share-bestreply/index>`
+You can also like, share and tag a comment as Best reply, see: :doc:`Like, Share and Best reply for discussions </using-communities/discussions/like-share-bestreply/index>`
