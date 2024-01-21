@@ -281,66 +281,90 @@ AI will also show a detailed description on why a certain page doesn't meet the 
 (7.5) Improved user management
 --------------------------------------------
 
-* Business profile users and groups
+Business profile users and groups
+********************************************
+
+Users and groups can now be specifically scoped to a business profile, enabling seamless management by a business profile administrator.
+This functionality empowers administrators to oversee users with access limited to designated sections of the solution, such as front-line workers or partners.
 
 .. image:: usermgmt-businessprofileusers.png
 
-* Self-service
+Self-service account creation and on-boarding
+**********************************************
+
+You can now activate self-service account creation for a business profile, with the option to configure whether approval is necessary or not.
 
 .. image:: usermgmt-selfservice.png
 
+The account request form can be configured to allow users to submit account information in advance for an administrator to validate.
+
 .. image:: usermgmt-requestformsettings.png
 
-* Default login screen and anonymous access
+You can configure anonymous access to a specific section of a business profile to set up a welcome page providing information about the account request procedure.
 
 .. image:: usermgmt-loginscreen-anonymous.png
 
-* Custom authentication layouts
+A user type with password as authentication mechanism can be setup to force password change on first login.
 
-* Time-limited accounts and possibility to disable
+.. image:: usermgmt-forcepasswordchange.png
 
-.. image:: usermgmt-timelimited-and-disabled.png
-  
-* Improved identity picker
-
-.. image:: usermgmt-identitypicker.png
-
-* Public/Private user properties
-
-.. image:: usermgmt-publicprivate-properties.png
-
-* Login log
-
-.. image:: usermgmt-loginlog.png
-
-* On-boarding url
+A unique onboarding URL can be configured for each user type, enabling users to be redirected to a specific portal once their new account has been set up.
 
 .. image:: usermgmt-onboardingurl.png
 
-.. image:: usermgmt-authentication.png
+  
+Improved identity picker
+*********************************************
 
-* Change password on first Login
+In response to customer feedback, we have revamped the identity picker UI. Now, users and groups are conveniently listed in a single interface,
+offering the option to filter based on specific user and group types.
 
-* Private/Public user profile card
+.. image:: usermgmt-identitypicker.png
+
+Improved user profile cards
+*********************************************
+
+The user profile card can now feature two distinct layouts. A public layout is displayed when someone else views your profile card,
+while a private layout can be configured for your own viewing. This customization allows for a focus on different properties and roll-ups depending on the target audience.
 
 .. image:: usermgmt-publicprivate-profilecard.png
 
-* Update profile photo
+User properties can be configured as either public or private. Private properties are exclusively accessible by the user and can be utilized to
+store information meant solely for the user's eyes, ensuring that it is only displayed on the private profile layout.
 
-.. image:: usermgmt-editprofilephoto.png
+.. image:: usermgmt-publicprivate-properties.png
 
-* Current/Selected user in all rollups
+Both public and private properties can be used to aggregate information on a profile card.
+A new dynamic value in rollups is now available, allowing for the aggregation of information about the selected user in focus when opening a profile card.
 
 .. image:: usermgmt-queryonselecteduser.png
 
-* People rollup and frontline users
+The profile card settings can be adjusted to enable users to update their profile photos.
+Additionally, for users with an M365 license, the profile photo will automatically synchronize across all M365 services.
+
+.. image:: usermgmt-editprofilephoto.png
+
+New scope in the People rollup block
+**********************************************
+
+A new scope in the People rollup block makes it possible to find all users that are synchronized to Omnia or created as Omnia accounts.
 
 .. image:: usermgmt-peoplerollup-users.png
 
+Improved user management governance
+**********************************************
 
+We have introduced a login log feature to track all successful and unsuccessful login attempts made by Omnia accounts within the system.
 
+.. image:: usermgmt-loginlog.png
 
+There is also a possibility to create custom authentication layouts for the following activities: Request account, Setup account, Login and Logout.
 
+.. image:: usermgmt-authenticationscreens.png
+
+Accounts can now be setup to be time-limited. It is also possible for an administrator to disable an account at any time.
+
+.. image:: usermgmt-timelimited-and-disabled.png
 
 
 (7.5) Analytics powered by Matomo
@@ -349,26 +373,53 @@ AI will also show a detailed description on why a certain page doesn't meet the 
 * Analytics infrastructure
 * Analytics widget block
 
+.. image:: analytics-widget-settings.png
+
+.. image:: analytics-widget-read.png
+
 (7.5) Anchor navigation
 --------------------------------------------
+
+.. image:: anchornavigation-read.png
+
+.. image:: anchornavigation-settings.png
 
 (7.5) Publishing campaigns
 --------------------------------------------
 
 * Create page from calendar
+
+.. image:: publishingcampaigns-createarticlefromcalendar-settings.png
+
+.. image:: publishingcampaigns-createarticlefromcalendar.png
+
 * Promotion channels
+
+.. image:: promotionchannels-settings.png
+
+.. image:: promotionchannels-email.png
 
 (7.5) Improved metrics
 --------------------------------------------
 
 * Metrics in app rollups (publishing, community, teamwork)
+
+.. image:: approllups-metric.png
+
 * Custom option in date filters
+
+.. image:: datequery-custom.png
 
 (7.5) Improved page feedback
 --------------------------------------------
 
 * New action
+
+.. image:: feedback-action.png
+
 * Feedback in publishing app
+
+.. image:: feedback-list.png
 
 Versions
 -----------------------------------------
