@@ -7,7 +7,7 @@ Any set of properties can be shown here. Available properties are set up by the 
 
 .. image:: pm-properties-tab-new.png
 
-Property sets for processes can be set up in Omnia Admin, see: :doc:`Property Sets </admin-settings/tenant-settings/properties/property-sets/index>`
+Property sets for processes can be set up in Omnia admin, see: :doc:`Property sets </admin-settings/tenant-settings/properties/property-sets/index>`
 
 It's very important that you set the properties as they often have impact on important functionality, for example who is available for approval when publishing a process.
 

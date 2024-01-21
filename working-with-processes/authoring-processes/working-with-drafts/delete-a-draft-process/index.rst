@@ -6,7 +6,7 @@ Delete a draft process
 If you need to delete a draft process, do the following:
 
 1. Select the process in the list.
-2. Open the dot menu and select "Delete Draft".
+2. Open the dot menu and select "Delete draft".
 
 .. image:: pm-delete-draft-new.png
 

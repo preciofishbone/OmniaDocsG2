@@ -13,7 +13,7 @@ Check in your work
 --------------------
 When you work on a process it's automatically checked out to you, which means no one else can work on that process until it's checked in.
 
-If a process is checked out to someone, it's shown in the Process Libary, for example:
+If a process is checked out to someone, it's shown in the process libary, for example:
 
 .. image:: pm-check-in-list-new.png
 

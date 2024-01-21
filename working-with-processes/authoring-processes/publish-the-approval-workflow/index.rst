@@ -1,9 +1,9 @@
 Publish - the approval workflow for processes
 ================================================
 
-When a process has reached a final version, it must be published, and if approval is activated, be approved for publication, to be available for end users. To do that, you start an Approval Workflow.
+When a process has reached a final version, it must be published, and if approval is activated, be approved for publication, to be available for end users. To do that, you start an approval workflow.
 
-The process must be checked in and all mandatory properties must be set before the Approval Workflow can be started. If all mandatory properties has not been added, the Approval Workflow can not be started. 
+The process must be checked in and all mandatory properties must be set before the Approval Workflow can be started. If all mandatory properties has not been added, the approval workflow can not be started. 
 
 **Note!** Properties can also have impact on who is available as approver.
 
@@ -29,11 +29,11 @@ Something like the following is shown:
 
 Exactly which options are available here depends on a a number of settings. These are the common ones:
 
-+ **Publish New Edition/New Revision**: If this is allowed, the author can decide if a new edition or a new revision should be published. A Revision does not need approval, and should most likely just be used for very simple edits, like typing errors, but it's up to your organization to decide. This option is not shown the first time a process is published, as the first publication must be an Edition.
++ **Publish new edition/new revision**: If this is allowed, the author can decide if a new edition or a new revision should be published. A revision does not need approval, and should most likely just be used for very simple edits, like typing errors, but it's up to your organization to decide. This option is not shown the first time a process is published, as the first publication must be an edition.
 + **Approver**: You select one approver from the list, or accept the suggested. Available approvers depends on various settings and how the system is set up.
-+ **Approval Due Date**: Here you add a date when the approval should be made, at the latest. This is just information for the approver. The Approval workflow is not stopped if this date is passed.
++ **Approval due date**: Here you add a date when the approval should be made, at the latest. This is just information for the approver. The approval workflow is not stopped if this date is passed.
 + **Comments**: Use this field for comments about what was edited/added in a new edition/revision. The field is not shown when the first edition is published. The field is mandatory when available.
-+ **Read rights**: The default selection is to use the Default Readers Group from the site’s permissions. If, for some reason, the Read Rights for this particular document should be different, you can select "Limit Read Access", and enter the names of the readers, or any group memberships, for example AD groups.
++ **Read rights**: The default selection is to use the default readers group from the site’s permissions. If, for some reason, the read rights for this particular document should be different, you can select "Limit read access", and enter the names of the readers, or any group memberships, for example AD groups.
 
 4. Select approver and add a due date.
 5. Type a comment if the field is available.
@@ -41,9 +41,9 @@ Exactly which options are available here depends on a a number of settings. Thes
 
 .. image:: pm-publish-publish-send-new.png
 
-When you click "Send", a task is created for the approver, and an e-mail is sent, with a link to the draft process. 
+When you click "Send", a task is created for the approver, and an Email is sent, with a link to the draft process. 
 
-**General note**: For a user to be able to receive emails, the acccount must be email enabled.
+**General note**: For a user to be able to receive Emails, the acccount must be Email enabled.
 
 The task can look like this:
 
@@ -55,17 +55,17 @@ The workflow will be active until the task is completed and the process will be 
 
 .. image:: waiting-for-approval-new-frame.png
 
-Approved or Rejected
+Approved or rejected
 *********************
 If the process is approved for publication, it’s now available for readers. You, the author, will receive an email stating that.
 
-If it’s rejected, there’s some changes the approver would like you to do. You will receive an email stating that the process was rejected and a message from the approver. After changes has been made, you start a new Approval Workflow the same way as before.
+If it’s rejected, there’s some changes the approver would like you to do. You will receive an email stating that the process was rejected and a message from the approver. After changes has been made, you start a new approval workflow the same way as before.
 
-Cancel an Approval workflow
+Cancel an approval workflow
 *****************************
-An active Approval Workflow canm be cancelled if needed. Here's how:
+An active approval workflow can be cancelled if needed. Here's how:
 
-1. Click "Waiting for Approval".
+1. Click "Waiting for approval".
 
 .. image:: cancel-approval-1-frame.png
 

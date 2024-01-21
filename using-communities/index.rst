@@ -3,7 +3,7 @@ Using communities
 
 In this part of the documentation you will find information on how to use communities, both editors options and from an end user's point of view. 
 
-Prerequisite: The tenant feature "Communities" must be active for any community options to be available. Web content managament features must also be active for communities to work.
+Prerequisite: The tenant feature "Communities" must be active for any community options to be available. Web content management features must also be active for communities to work.
 
 A community can be set up in different ways. Here's an example of a community start page:
 

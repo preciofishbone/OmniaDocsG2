@@ -7,7 +7,7 @@ Do the following:
 
 1. Open the draft process in Design mode.
 2. Select the process step.
-3. Select "Copy to new Process" in the menu.
+3. Select "Copy to new process" in the menu.
 
 .. image:: copy-to-new-process-menu-1.png
 

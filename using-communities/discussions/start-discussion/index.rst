@@ -1,7 +1,7 @@
 Start a discussion
 ======================
 
-A Community can be set up several ways. In the default setup any collegue can start a discussion. Here's how:
+A community can be set up several ways. In the default setup any collegue can start a discussion. Here's how:
 
 1. Click "START A DISCUSSION".
 
@@ -11,9 +11,9 @@ A Community can be set up several ways. In the default setup any collegue can st
 
 .. image:: start-discussion-settings.png
 
-+ **Title**: Add a Title (name) for the discussion.
++ **Title**: Add a title (name) for the discussion.
 + **(Text field)**: Use the text field to describe what will be discussed here. Note that you can use some formatting and may even be able to add links and images in the description.
-+ **Tags**: You can tag the discussion with existing tags, or create new tags, for example for subscription. Note that tags are "global". A new tag will be available in all Knowledge articles and Discussions in the community.
++ **Tags**: You can tag the discussion with existing tags, or create new tags, for example for subscription. Note that tags are "global". A new tag will be available in all knowledge articles and discussions in the community.
 
 3. Click "PUBLISH" to create the discussion.
 

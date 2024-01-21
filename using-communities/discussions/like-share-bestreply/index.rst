@@ -1,7 +1,7 @@
-Like, Share and Best Reply for discussions
+Like, Share and Best reply for discussions
 ============================================
 
-You can like and share a discussion and like comments. If you are the one that started the discussion, you can tag ONE comment as Best Reply.
+You can like and share a discussion and like comments. If you are the one that started the discussion, you can tag ONE comment as Best reply.
 
 Like a discussion or a comment
 **********************************
@@ -31,11 +31,11 @@ To share a discussion with a colleague, do the following:
 
 .. image:: discussion-share.png
 
-2. Add the email address to the colleague and click "Send".
+2. Add the Email address to the colleague and click "Send".
 
-Best Reply
+Best reply
 ***********
-If you started the discussion you can tag one, and only one, comment as Best Reply.
+If you started the discussion you can tag one, and only one, comment as Best reply.
 
 .. image:: discussion-bestreply-4b.png
 
@@ -45,4 +45,4 @@ That a comment is tagged as best reply is shown this way:
 
 You can click it to untag the comment for best reply, to tag some other comment.
 
-Best Reply can be a very important action if activity points and badges are activiated, see: :doc:`Setting up a Community </using-communities/settings/index>`
+Best reply can be a very important action if activity points and badges are activiated, see: :doc:`Setting up a community </using-communities/settings/index>`

@@ -1,3 +1,14 @@
+7.1.41
+========================================
+(Omnia 7.1.41 / Workplace 7.1.21 / WCM 7.1.29 / MS 7.1.24)
+
+- Fixed an issue that would cause duplicate tasks in ODM when the default context site has the wrong permissions (#153109).
+- Fixed an issue that would prevent the user from setting their language on some mobile devices (#151604).
+- Related links word online query strings now work as expected (#152925).
+- User image now renders correctly on replies to posts when in SPFx (#153139).
+- Fixed an issue that would sometimes prevent a page from being moved (#153101).
+
+
 7.1.38
 ========================================
 (Omnia 7.1.38 / Workplace 7.1.20 / WCM 7.1.27 / MS 7.1.23)

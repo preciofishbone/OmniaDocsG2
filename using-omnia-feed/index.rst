@@ -1,9 +1,9 @@
 Using Omnia Feed
 ===================
 
-With Omnia Feed users can stay connected to the organization's Omnia Intranet wherever they are. 
+With Omnia Feed users can stay connected to the organization's Omnia intranet wherever they are. 
 
-Omnia Feed can be set up in many different ways to make it possible for users to read information from their organization's intranet, on their mobile device. A good example is News, but it can be any page(s) really, and anything that can be accessed by a link. 
+Omnia Feed can be set up in many different ways to make it possible for users to read information from their organization's intranet, on their mobile device. A good example is news, but it can be any page(s) really, and anything that can be accessed by a link. 
 
 Here's an example:
 
@@ -11,22 +11,22 @@ Here's an example:
 
 Any number of tabs can be set up for access to different resources. A tab can be set up for:
 
-+ A Rollup (similar to a Page Rollup) to list news or other pages. Sign-off requests can be shown here as well.
-+ An Embedded link, which can be used to show the home page of an Omnia intranet, or to show some specific Omnia functionality - for example My Links or My Tasks.
++ A rollup (similar to a Page rollup) to list news or other pages. Sign-off requests can be shown here as well.
++ An embedded link, which can be used to show the home page of an Omnia intranet, or to show some specific Omnia functionality - for example My links or My tasks.
 + A link, which can be used for a link to any web URL or a link to another app on the user's device.
-+ An Acitivity Feed, which can be the user's "My Subscriptions" or a feed from a page collection.
++ An acitivity Feed, which can be the user's "My subscriptions" or a feed from a page collection.
 
-Settings are found in Omnia Admin. There are settings for the tenant, mainly used by AM and the Omnia Feed Team to set up the tenant, and then settings for each Business Profile, where for example the tabs are set up. See this page for more information: :doc:`Omnia Feed - Business Profile Settings </admin-settings/business-group-settings/omnia-feed/index>`
+Settings are found in Omnia admin. There are settings for the tenant, mainly used by AM and the Omnia Feed team to set up the tenant, and then settings for each business profile, where for example the tabs are set up. See this page for more information: :doc:`Omnia Feed - business profile settings </admin-settings/business-group-settings/omnia-feed/index>`
 
 For an implementation example, see this page: :doc:`Omnia Feed - implementation example </using-omnia-feed/omnia-feed-implemenation-example/index>`
 
-The Omnia Feed App
+The Omnia Feed app
 *******************
 The Omnia Feed app can be downloaded from the usual sources, for example App Store for iPhone.  
 
-Regardless of how Omnia Feed is set up, using settings, a user can log out and select another Business Profile, if available.
+Regardless of how Omnia Feed is set up, using settings, a user can log out and select another business profile, if available.
 
-Regarding the feed, note that Sign-off requests, that needs actions from you, can be part of the feed.
+Regarding the feed, note that sign-off requests, that needs actions from you, can be part of the feed.
 
 App settings
 ---------------
@@ -40,11 +40,11 @@ Available settings are the following:
 
 Logging out is simply done by selecting "Sign out".
 
-To select another Business Profile (if available), select the active Business Profile and choose another one on this page:
+To select another business profile (if available), select the active business profile and choose another one on this page:
 
 .. image:: omnia-feed-settings-bp-v7-700.png
 
-Also note that the App Version is displayed here:
+Also note that the app version is displayed here:
 
 .. image:: omnia-feed-settings-version-v7-700.png
 
@@ -66,7 +66,7 @@ All notifications that are pushed to your device are stored there. If you don't 
 
 Microsoft Authenticator or similar
 ---------------------------------------------
-If your organization is using Microsoft Authenticator, a Company Portal, or similar, Omnia Feed will request permission to access the contacts list. This is required for the Omnia app to work with Microsoft Authenticator and similar solutions.
+If your organization is using Microsoft Authenticator, a company portal, or similar, Omnia Feed will request permission to access the contacts list. This is required for the Omnia app to work with Microsoft Authenticator and similar solutions.
 
 Important note about logged in status
 --------------------------------------

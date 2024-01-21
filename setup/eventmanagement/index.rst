@@ -1,4 +1,4 @@
-Setup Event Management
+Setup Event management
 ===========================================
 
 .. note:: In order for Event Management features to appear in the UI, the Event Management extension needs to be installed. Please consult with your local partner to set up this prerequisites.

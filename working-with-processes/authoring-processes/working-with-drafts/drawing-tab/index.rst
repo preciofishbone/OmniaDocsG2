@@ -13,7 +13,7 @@ Here you can set the following and you can edit these settings anytime.
 
 .. image:: pm-drawing-canvas-2-new.png
 
-+ **Add Image**: Click here to add a background image (see below).
++ **Add image**: Click here to add a background image (see below).
 + **Width/Height**: Set the size of the work area in pixels here.
 + **GridX/GridY**: The work area has a grid that shapes and clickable areas snap to. You set the size of a square in the grid here.
 + **Show gridlines**: Select this option if you want the grid lines to be visible. 
@@ -51,21 +51,21 @@ To select a shape, just click it and the following settings is shown:
 
 .. image:: pm-drawing-shape-settings-settings-new.png
 
-+ **Shape Type**: Here you decide what to use the shape for. Process Step is the default. You can also choose "None", which means it's just an image; "Linked process" and "Link". All selections except "None" creates a clickable shape. See below for more information. Note that to be able to create a linked process, other processes must already exist, to link to. 
++ **Shape type**: Here you decide what to use the shape for. Process Step is the default. You can also choose "None", which means it's just an image; "Linked process" and "Link". All selections except "None" creates a clickable shape. See below for more information. Note that to be able to create a linked process, other processes must already exist, to link to. 
 + **Process step**: If you already have created the process steps, select the process step to go to when the shape is clicked, using this list.
-+ **Select Process**: When you have selected "Linked Process" in the top list, use this list to choose the process to link to.
-+ **Add Link**: When you have selected "Link" in the top list, this option is shown. See below for more information.
++ **Select process**: When you have selected "Linked process" in the top list, use this list to choose the process to link to.
++ **Add link**: When you have selected "Link" in the top list, this option is shown. See below for more information.
 + **Title**: Add the text that should be displayed for the shape here, if a text should be displayed. You can see a preview to the right. You can add the title in any or all available languages.
-+ **Text Position**: Set the position for the text: "On Shape", "Above Shape" or "Below Shape".
-+ **Text Alignment**: Set text alignment here: "Center", "Left" or "Right".
-+ **Text Adjustment**: Use the arrows to fine tune the placement of the text. Use the center icon to center the text.
++ **Text position**: Set the position for the text: "On Shape", "Above shape" or "Below shape".
++ **Text alignment**: Set text alignment here: "Center", "Left" or "Right".
++ **Text adjustment**: Use the arrows to fine tune the placement of the text. Use the center icon to center the text.
 + **Show more settings**: Click to show the following settings:
 
 .. image:: pm-drawing-shape-settings-settings-more.png
 
-+ **Font Size**: Set the font size in pixels for the text here.
-+ **Tooltip Text**: You can add a Tooltip text, which can for example be used to add an explanation of a Process Step. This text is shown when a user points at the shape.
-+ **Colors**: Use the options in this section to set details for colors, for the shape and text.  Note that you can set colors for three states of the shape: not selected, selected and hovered.
++ **Font size**: Set the font size in pixels for the text here.
++ **Tooltip text**: You can add a Tooltip text, which can for example be used to add an explanation of a process step. This text is shown when a user points at the shape.
++ **Colors**: Use the options in this section to set details for colors, for the shape and text. Note that you can set colors for three states of the shape: not selected, selected and hovered.
 
 When you have selected "Link" as Shape Type, you can click "Add Link", and can use the following settings:
 
@@ -152,14 +152,14 @@ The option for adding a background image is also available in the canvas setting
 
 To add a background image:
 
-1. Open the Canvas Settings.
-2. Click "Add Image".
+1. Open the canvas settings.
+2. Click "Add image".
 
 .. image:: pm-background-image-2-new.png
 
-The Media Picker opens and you use it to upload an image from your computer or from any of the available resources.
+The media picker opens and you use it to upload an image from your computer or from any of the available resources.
 
-For more information on how to use the Media Picker, see: :doc:`Media Picker </general-assets/media-picker/index>`
+For more information on how to use the media picker, see: :doc:`Media picker </general-assets/media-picker/index>`
 
 **Note!** When you upload a background image, the canvas size adjusts automatically.
 
@@ -167,7 +167,7 @@ Adding clickable areas to a drawing
 -------------------------------------
 If you have uploaded a drawing you can place clickable areas on that drawing, to go to process steps and more.
 
-**Important Note!** To be able to add clickable areas, the Process Type must contain Freeform.
+**Important note!** To be able to add clickable areas, the process type must contain Freeform.
 
 **Tip!** Activating "Highlight shapes" in the grid settings can be useful when working with clickable areas.
 

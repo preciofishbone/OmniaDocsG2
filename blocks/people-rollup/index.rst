@@ -86,7 +86,7 @@ The following settings are available for the views:
 + **Show profile image**: Select this option to show the person's profile image.
 + **Open in dialog**: If you select this option, the person's information page is opened in a dialog instead of in a window, when clicked (either the User profile card or the Delve page, depending on set up). 
 + **Dialog position**: Here you can set the position for the dialog; Center, Left or Right.
-+ **Open in bew tab**: If you select this option, the person's information page is opened in a new tab instead of in a window, when clicked. (either the User profile card or the Delve page, depending on set up). 
++ **Open in new tab**: If you select this option, the person's information page is opened in a new tab instead of in a window, when clicked. (either the User profile card or the Delve page, depending on set up). 
 + **Auto cycle**: Available for Roller. Select this option to make the roller auto cycle through available persons.
 + **Slide height**: Set the height of the area to show the content in. Available for Roller view.
 + **Alignment option**: Set vertical alignment for the content. Available for Roller.

@@ -1,7 +1,7 @@
 Process library settings
 =========================
 
-You must be administrator (The permission group is often called "Owners") of the teamsite, there can be one or more, to be able to edit the settings for the lists in the Processes library, and to edit permissions.
+You must be administrator (the permission group is often called "Owners") of the teamsite, there can be one or more, to be able to edit the settings for the lists in the Processes library, and to edit permissions.
 
 Settings for the tabs
 ***********************
@@ -25,7 +25,7 @@ Here you can set the following:
 
 + **Default tab**: Decide which tab will be shown when an author enters the Processes library.
 + **Hide Tasks Tab**: If the Tasks tab should not be displayed for authors, select this option.
-+ **Preview Page URL**: You can add the URL to a page to be used for process previews here. If you don't, a default Omnia page will be used for previews.
++ **Preview page URL**: You can add the URL to a page to be used for process previews here. If you don't, a default Omnia page will be used for previews.
 
 Published
 --------
@@ -34,10 +34,10 @@ The following settings are available for the Published tab:
 .. image:: process-library-settings-published-new.png
 
 + **Paging**: You can choose between no paging and classic paging.
-+ **Default Sort Order**: Select the column for default sort order for the list.
-+ **Sort Direction**: Select Descending or Ascending for the default ordering field here.
++ **Default sort order**: Select the column for default sort order for the list.
++ **Sort direction**: Select Descending or Ascending for the default ordering field here.
 + **Column**: Use this option to add a column to be shown. Open the list, select the column and click "ADD".
-+ **Display columns in published view**: Here you selected how the columns are listed. To remove a column click the dust bin. If no dust bin is shown for a column it's mandatory, and therefore can't be removed. You can set the order of the columns by grabbing the Equal To icon for the column and drag it to another place in the list.
++ **Display columns in Published view**: Here you selected how the columns are listed. To remove a column click the dust bin. If no dust bin is shown for a column it's mandatory, and therefore can't be removed. You can set the order of the columns by grabbing the Equal To icon for the column and drag it to another place in the list.
 
 You can also remove some of the columns by clicking the dust bin for that column and you can arrange the order of the columns (left to right). To do that, grab the far right icon for the column and use drag and drop.
 
