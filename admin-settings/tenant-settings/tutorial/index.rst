@@ -1,17 +1,17 @@
 Tutorial
 =====================
 
-Using this option in Omnia Admin a Tenant Administrator can create and edit Tutorials for selected publishing pages. 
+Using this option in Omnia admin a tenant administrator can create and edit tutorials for selected publishing pages. 
 
-A Tutorial can be set up to start automatically when a page is opened. But if it's not, users select the "Tutorial" icon in the heading or in the menu.
+A tutorial can be set up to start automatically when a page is opened. But if it's not, users select the "Tutorial" icon in the heading or in the menu.
 
 **Note!** For the tutorial to start automatically, the tutorial must be set up in the action menu.
 
 For an implementation example, see this page: :doc:`Tutorial implementation example </admin-settings/tenant-settings/tutorial/tutorial-implementation/index>`
 
-Create or edit a Tutorial
+Create or edit a tutorial
 ****************************
-Do the following to create a new Tutorial:
+Do the following to create a new tutorial:
 
 1. Click the plus.
 
@@ -27,18 +27,18 @@ Do the following to edit an existing Tutorial:
 
 .. image:: tutorial-settings-1-new2.png
 
-+ **Title**: Add/edit the title for the Tutorial (not shown for users). You can add a title in all languages used in the tenant (Click the flag to change language).
++ **Title**: Add/edit the title for the tutorial (not shown for users). You can add a title in all languages used in the tenant (click the flag to change language).
 + **Add step**: Use the button to add a new tutorial step after the last step. 
 + **Preview**: When you want to check how the tutorial will look for users, select this button. 
-+ **Target Settings**: To select pages where this Tutorial should be available, click here. The number to the right of the link indicates the number of pages selected. You also use the Target Setting to set if the tutorial should start automatically or not.
++ **Target settings**: To select pages where this tutorial should be available, click here. The number to the right of the link indicates the number of pages selected. You also use the Target setting to set if the tutorial should start automatically or not.
 
-The following fields and options are available for the steps in the Tutorial:
+The following fields and options are available for the steps in the tutorial:
 
 .. image:: tutorial-steps-settings-new.png
 
 + **Reorder**: When you have added a number of steps, use this button to reorder the steps. (See below for more information).
 + **Title**: This is the title for the step, and it's shown for users. You can add a title in all languages used in the tenant, click the flag to change language. To langauge shown for a user depends on that user's preferred language setting.
-+ **Add Image**: To add an image to the step, click this link and use the Media Picker. It's not mandatory to add an image. See this page for more information about the Media Picker: :doc:`The Media Picker </general-assets/media-picker/index>`
++ **Add image**: To add an image to the step, click this link and use the media picker. It's not mandatory to add an image. See this page for more information about the Media Picker: :doc:`The Media picker </general-assets/media-picker/index>`
 + **Content**: Use this field to add the text for this step, using the RTF Editor. The langauge shown for a user depends on that user's preferred language setting. For more information about how to use the RTF Editor, see: :doc:`Editing text with the RTF Editor </general-assets/rtf-editor/index>`
 
 When you add a step, you can see that another dot is created in the navigation bar. Click the dot to go to a step for editing.
@@ -73,7 +73,7 @@ When you have added an image for a step, you can edit or delete it the same way 
 
 Use the pen to edit, the X to delete the image.
 
-For image editing, see this page: :doc:`Media Picker </general-assets/media-picker/index>`
+For image editing, see this page: :doc:`Media picker </general-assets/media-picker/index>`
 
 Target settings
 ------------------
@@ -91,19 +91,19 @@ Use these settings:
 
 .. image:: source-settings2-new2.png
 
-+ **Target Type**: It's always Page, and it's already selected.
++ **Target type**: It's always Page, and it's already selected.
 + **Path**: Add or paste the path to the page here. **Note!** Only relative paths are supported.
-+ **Start Mode**: Select Start Mode here. Note that you can select different Start Modes for different pages, for the same Tutorial.
++ **Start mode**: Select Start Mode here. Note that you can select different Start Modes for different pages, for the same Tutorial.
 
 The following is available under "Start Mode":
 
 .. image:: tutorial-start-mode-new.png
 
-+ **Start the tutorial automatically**: The tutorial starts when the user enters the page, but when the user has closed the tutorial, it is still available as an icon or a menu option in the Action Menu.  
-+ **User starts tutorial manually**: If the tutorial is made available through the Action Menu, either as an icon or in the menu, it can then be started manually or automatically. Note that this has to be set up as well in the Header settings for the Business Profile.
-+ **Show alert for new version**. If the tutorials are available through an icon and a tutorial is updated, a Tool Tip Alert will be shown on the Tutorial icon. 
++ **Start the tutorial automatically**: The tutorial starts when the user enters the page, but when the user has closed the tutorial, it is still available as an icon or a menu option in the action menu.  
++ **User starts tutorial manually**: If the tutorial is made available through the action menu, either as an icon or in the menu, it can then be started manually or automatically. Note that this has to be set up as well in the Header settings for the business profile.
++ **Show alert for new version**. If the tutorials are available through an icon and a tutorial is updated, a Tool tip alert will be shown on the Tutorial icon. 
 
-**Important note**: The tutorial must be available through the Action Menu, meaning set up as a menu option or as an icon, even if it should start automatically.
+**Important note**: The tutorial must be available through the action menu, meaning set up as a menu option or as an icon, even if it should start automatically.
 
 When you're done with a target setting, or with all target settings for a tutorial, use Add and Save this way:
 
