@@ -1,7 +1,7 @@
 Templates
 =============================================
 
-Here you can work with templates for Sign-off requests. A template can then be used in a type. When creating Sign-off requests a rype is always used, where pages from the template can be removed, and additional pages added, if needed.
+Here you can work with templates for sign-off requests. A template can then be used in a type. When creating sign-off requests a rype is always used, where pages from the template can be removed, and additional pages added, if needed.
 
 .. image:: sign-off-requests-templates-new2.png
 
@@ -58,7 +58,7 @@ When you select "Specific page", continue like this:
 
 3. Navigate and pick (Browse) or search for pages, the same way as in the page picker (it's a part of the page picker that is used here). See this page for more information: :doc:`The Page picker </general-assets/page-picker/index>`
 
-5. Click ADD when you have selected one or more pages to add to the Sign-off request.
+5. Click ADD when you have selected one or more pages to add to the sign-off request.
 
 The selected pages are now added to the section, for example:
 
