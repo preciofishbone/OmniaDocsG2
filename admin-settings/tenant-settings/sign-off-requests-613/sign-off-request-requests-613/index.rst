@@ -43,7 +43,7 @@ When you have selected type, some or all of these settings can be available:
 
 To add or remove pages
 ----------------------------
-Here's how to add or remove pages for a Sign-off request. 
+Here's how to add or remove pages for a sign-off request. 
 
 If you use a template, this list can be pre populated, for example:
 
@@ -67,7 +67,7 @@ When you select "Specific page", continue like this:
 
 1. Navigate and pick (Browse) or search for pages, the same way as in the page picker (it's a part of the page picker that is used here). See this page for more information: :doc:`The Page picker </general-assets/page-picker/index>`
 
-2. Click ADD when you have selected one or more pages to add to the Sign-off request.
+2. Click ADD when you have selected one or more pages to add to the sign-off request.
 
 .. image:: sign-off-requests-settings-3-613-pages-add.png
 
@@ -109,7 +109,7 @@ A closed request can be reopened, a deleted request can (of course) not.
 
 Sign-off requests rollup block
 *********************************
-There's a block available to be used for listing the Sign-off requests that is sent to the logged in user or a group that the user belongs to.
+There's a block available to be used for listing the sign-off requests that is sent to the logged in user or a group that the user belongs to.
 
 More information about the block is found here: :doc:`Sign-off requests rollup </blocks/sign-off-requests-rollup-613/index>`
 
