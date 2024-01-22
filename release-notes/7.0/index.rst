@@ -370,8 +370,8 @@ Accounts can now be setup to be time-limited. It is also possible for an adminis
 (7.5) Analytics powered by Matomo
 --------------------------------------------
 
-* Analytics infrastructure
-* Analytics widget block
+The analytics features have transitioned to being powered by Matomo. A local instance of Matomo will be automatically established in the tenant,
+offering access to over 100 widgets for analyzing usage and behavior within your solution.
 
 .. image:: analytics-widget-settings.png
 
@@ -380,20 +380,25 @@ Accounts can now be setup to be time-limited. It is also possible for an adminis
 (7.5) Anchor navigation
 --------------------------------------------
 
-.. image:: anchornavigation-read.png
+We've added a new block to enhance anchor navigation, making it easier and more efficient for users to navigate through content.
+This improvement ensures a smoother and more user-friendly experience when moving through different sections of a page.
 
 .. image:: anchornavigation-settings.png
+
+.. image:: anchornavigation-read.png
 
 (7.5) Publishing campaigns
 --------------------------------------------
 
-* Create page from calendar
+We've simplified the process of creating publishing campaigns in the solution. Two new features have been added to enhance this functionality further, making it more powerful.
+
+You can set up a calendar view in the page rollup to allow page creation directly from the calendar.
 
 .. image:: publishingcampaigns-createarticlefromcalendar-settings.png
 
 .. image:: publishingcampaigns-createarticlefromcalendar.png
 
-* Promotion channels
+You can now configure promotion channels to send teasers to Microsoft Teams, Viva Engage, and via email.
 
 .. image:: promotionchannels-settings.png
 
@@ -402,22 +407,22 @@ Accounts can now be setup to be time-limited. It is also possible for an adminis
 (7.5) Improved metrics
 --------------------------------------------
 
-* Metrics in app rollups (publishing, community, teamwork)
+The possibility to configure metrics have now been added to the publishing, community and teamwork rollup blocks.
 
 .. image:: approllups-metric.png
 
-* Custom option in date filters
+We've introduced a new custom date query builder, allowing users to perform advanced date queries for creating metrics.
 
 .. image:: datequery-custom.png
 
 (7.5) Improved page feedback
 --------------------------------------------
 
-* New action
+It is now possible to use an action button to provide feedback on a page.
 
 .. image:: feedback-action.png
 
-* Feedback in publishing app
+Accessing feedback is now made simple through the menu in the content editor.
 
 .. image:: feedback-list.png
 
