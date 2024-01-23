@@ -177,15 +177,22 @@ When Multi step approval is selected, you set it up this way:
 
 1. Click ADD STEP and set the following:
 
-.. image:: multi-step-1.png
+.. image:: multi-step-1-new.png
 
 2. Add a description of the step in one or more languages (click the flag to change language). Default tenant language is mandatory.
 3. Select who should be able for approval in this step. See above for information about the options.
 4. Set the following:
 
++ **Use custom message**: Use this to customize texts, see below.
 + **Allow edit**: If this option is selected the "approver" can edit the page with the changes he or she sees as necessary and then approve for publishing, or send back with a comment (if send back is activated for that step). 
 + **Enable reject**: Select this option if publication could be rejected in this step.
 + **Enable send back**: If it should be possible to send back to previous approval step from here, select this option.
+
+When you select "Use custom message" you can set the following:
+
+.. image:: multi-step-custom.png
+
+What you can use te fields for should be self explanatory. Also note that you can button labels and text for the Email for different languages by clicking the flag.
 
 5. Continue adding the needed approval steps the same way.
 
