@@ -5,7 +5,7 @@ Here a user with the approrpiate permissions can create announcements that can b
 
 Tenant announcements can also be shown through the Announcements block. For more information about the block, see: :doc:`The Announcements block </blocks/announcements/index>`
 
-Note that an option to create announcements for a specific business Group also is available. The options are identical, the only difference is where announcements are shown.
+Note that an option to create announcements for a specific business group also is available. The options are identical, the only difference is where announcements are shown.
 
 All existing announcements, active or not, are shown in the list. From there you can edit or delete an announcement.
 
@@ -84,7 +84,7 @@ Set the following:
 .. image:: add-type-settings-v75.png
 
 1. Add a title in any or all tenant languages (click the flag to change language).
-2. Select Icon type.
+2. Select icon type.
 3. Select an icon. 
 4. Click the plus to save the type.
 
