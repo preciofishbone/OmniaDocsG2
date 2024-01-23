@@ -26,7 +26,7 @@ You can use the following short names for built-in properties in ODM:
 - _Lang: Content Language:
 - _RevDate: Review Date.
 
-There's also a special Place Holder if you need to show document history somewhere in the document:
+There's also a special place holder if you need to show document history somewhere in the document:
 
 [[_DocHistory]]
 
@@ -40,7 +40,7 @@ If you want dates to be displayed with the appropriate format you can use the fo
 
 [[_PubDate]]
 
-**Tip - date format**: Using the [[_PubDate|Date]] place holder, you can add the time format you want, instead of Date, example: [[_PubDate|MM/DD/YYYY]]
+**Tip: date format**: Using the [[_PubDate|Date]] place holder, you can add the time format you want, instead of Date, example: [[_PubDate|MM/DD/YYYY]]
 
 **General tip:** If you want to prevent authors from deleting place holders within the document (for example in a header), you can put them inside locked content controls added using the “Developer” tab in Word. Note that this tab is not shown as default, it has to be added using the settings.
 
