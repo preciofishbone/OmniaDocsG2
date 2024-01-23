@@ -7,5 +7,5 @@ If your organization uses retention of documents, the retention manager receives
 
 When a controlled document is terminated, all files that belong to the document are deleted and can not be restored.
 
-**Note!** A retention manager must have been set up in the system for this to work, see: :doc:`Document Management Settings </admin-settings/tenant-settings/document-management/settings/index>`
+**Note!** A retention manager must have been set up in the system for this to work, see: :doc:`Document management settings </admin-settings/tenant-settings/document-management/settings/index>`
 
