@@ -192,7 +192,7 @@ When you select "Use custom message" you can set the following:
 
 .. image:: multi-step-custom.png
 
-What you can use te fields for should be self explanatory. Also note that you can button labels and text for the Email for different languages by clicking the flag.
+What you can use the fields for should be self explanatory. Also note that you can add button labels, and text for the Email, for different languages by clicking the flag.
 
 5. Continue adding the needed approval steps the same way.
 
