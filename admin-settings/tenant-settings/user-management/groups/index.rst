@@ -3,7 +3,7 @@ Groups
 
 This option is available in Omnia 7.0 and later.
 
-Here, the groups in the tenant are listed and you can create and delete your own Omnia Groups for security setups.
+Here, the groups in the tenant are listed and you can create and delete your own Omnia groups for security setups.
 
 All groups
 *************
@@ -15,7 +15,7 @@ To edit the settings for a group, click the pen. To delete it, click the dust bi
 
 .. image:: user-magaments-groupd-list-edit-delete.png
 
-Note that you can search and filter on Group Type. If you would like a list of the Omnia groups only, select "Omnia Group" as group type.
+Note that you can search and filter on "Group type". If you would like a list of the Omnia groups only, select "Omnia group" as group type.
 
 .. image:: user-magaments-groupd-list-omnia.png
 
@@ -55,7 +55,7 @@ M365 groups, distribution groups and security groups can be added to an Omnia gr
 
 .. image:: add-groups-2.png
 
-The added groups are now shown. You an use the pen to edit the groups's settings, if it's an Omnia Group, or check the group's settings if it's another type if group. Use the dust bin to remove the group from the group.
+The added groups are now shown. You an use the pen to edit the groups's settings, if it's an Omnia group, or check the group's settings if it's another type if group. Use the dust bin to remove the group from the group.
 
 .. image:: add-groups-3.png
 
