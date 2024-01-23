@@ -27,11 +27,11 @@ Here's an example of a user profile card layout (shown in edit mode):
 
 .. image:: user-card-layout.png
 
-At the top, a User Information block is added. Next, a Tab section is added, for navigation purposes, for three tabs with information. The first tab is a Properties block (Contact), the second is an Organization Tree block, and the third (Experience) is a Properties block.
+At the top, a User information block is added. Next, a Tab section is added, for navigation purposes, for three tabs with information. The first tab is a Properties block (Contact), the second is an Organization tree block, and the third (Experience) is a Properties block.
 
 For more information about the blocks, see: 
 
-+ :doc:`The User Information block </blocks/user-information-block/index>`
++ :doc:`The User information block </blocks/user-information-block/index>`
 + :doc:`The Properties block </blocks/properties-block/index>`
-+ :doc:`The Organization Tree block </blocks/organization-tree/index>`
++ :doc:`The Organization tree block </blocks/organization-tree/index>`
 
