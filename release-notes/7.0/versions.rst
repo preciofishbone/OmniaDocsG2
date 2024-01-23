@@ -1,3 +1,13 @@
+7.1.43
+========================================
+(Omnia 7.1.43 / Workplace 7.1.22 / WCM 7.1.30 / MS 7.1.25)
+
+- The published view in and ODM authoring site can now be searched even if the library has more than 5000 items (Feature activation required) (#152912).
+- Fixed a migration issue when current user was set as a default value in a filter (#153272).
+- Fixed a loading issue for available page types in Digital Signage (#153276).
+- Fixed an issue in the MS Teams app generator due to an updated manifest from Microsoft.
+
+
 7.1.41
 ========================================
 (Omnia 7.1.41 / Workplace 7.1.21 / WCM 7.1.29 / MS 7.1.24)
