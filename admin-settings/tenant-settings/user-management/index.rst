@@ -17,7 +17,7 @@ Select option below for more information.
    user-properties/index
    synchronization/index
    authentication/index
-
+   login-log/index
 
 
 
