@@ -7,6 +7,7 @@ Blocks
 
    
    accordion/index
+   anchor-navigation/index
    button-link/index
    activity-feed/index
    analytics-filters/index
