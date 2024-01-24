@@ -17,6 +17,7 @@ Business profile settings
    settings/index
    shared-links/index
    team-collaboration/teamwork-65/index
+   user-management-bp/index
    workplace/index
 
  
