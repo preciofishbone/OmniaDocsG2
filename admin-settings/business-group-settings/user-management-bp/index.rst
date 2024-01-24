@@ -1,4 +1,4 @@
-User Management - business profile settings
+User Management - business profile
 =============================================
 
 **This option is available in Omnia 7.5. Work on this set of options is just started.**
