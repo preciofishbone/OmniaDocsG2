@@ -3,6 +3,8 @@ User Management - business profile settings
 
 **This option is available in Omnia 7.5. Work on this set of options is just started.**
 
+..image:: user-management-bp-menu.png
+
 See these pages for more information (also just started):
 
 .. toctree::
