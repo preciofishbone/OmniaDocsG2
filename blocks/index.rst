@@ -9,6 +9,8 @@ Blocks
    accordion/index
    button-link/index
    activity-feed/index
+   analytics-filters/index
+   analytics-widget
    announcements/index
    banner/index
    blocks-event-management/index
