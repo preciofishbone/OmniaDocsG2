@@ -5,7 +5,7 @@ Groups - business profile
 
 This list displays groups for User management for the business profile. You can create, edit and delete groups here:
 
-..image:: groups-bp-list.png
+.. image:: groups-bp-list.png
 
 
 
