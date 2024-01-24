@@ -11,7 +11,7 @@ Blocks
    button-link/index
    activity-feed/index
    analytics-filters/index
-   analytics-widget
+   analytics-widget/index
    announcements/index
    banner/index
    blocks-event-management/index
