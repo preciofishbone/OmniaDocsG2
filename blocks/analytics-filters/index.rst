@@ -1,7 +1,7 @@
 Analytics filters
 =============================================
 
-**This block is available in Omnia 7.5. Work on the page is just started.**
+**This block is available in Omnia 7.5. Work on the page has just started.**
 
 The following settings are available for this block:
 
