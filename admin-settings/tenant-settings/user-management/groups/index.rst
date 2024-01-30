@@ -19,6 +19,8 @@ Note that you can search and filter on "Group type". If you would like a list of
 
 .. image:: user-magaments-groupd-list-omnia.png
 
+In Omnia 7.5, there are som eddtions ti this list, see the bottom of this page.
+
 Add a new group
 ----------------
 Click the ADD GROUP button to create a new Omnia group, and use these settings:
