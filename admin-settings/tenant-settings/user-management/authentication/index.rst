@@ -1,4 +1,4 @@
-Authentication
+Authentication - tenant settings
 =============================================
 
 This option is available in Omnia 7.0 and 7.1.
