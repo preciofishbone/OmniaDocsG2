@@ -7,31 +7,33 @@ This pages describes the tenant options for Users in Omnia 7.5. For information 
 
 Also note that in Omnia 7.5 options for User management are available in each business profile, see: :doc:`Users management options for business profiles </admin-settings/business-group-settings/user-management-bp/index>`
 
-Two lists are available here; ALL USERS and DELETED USERS.
+Three lists are available here; ALL USERS, DELETED USERS and PENDING APPROVAL.
 
-.. image:: user-management-users-list-new.png
+.. image:: user-management-users-list-75.png
 
 All users
 ************
 In the ALL USERS list, all users in the tenant are listed. Here you can add Omnia users - users that does not require a Microsoft 365 licence, and delete users you have added this way.
 
-Note that you can use the search field to find a user and filter the list on "User type" and "Provider". If you would like to list Omnia users created here, select "Omnia" for "Provider".
+Note that you can use the search field to find a user and use the filters for a shorter list (see more info about this below). If you would like to list Omnia users created here, select "Omnia" for "Provider".
 
-.. image:: user-management-users-list-omnia-new.png
+.. image:: user-management-users-list-omnia-75.png
 
 A few settings are available for Omnia users; use the pen to edit user type, the key for authentication settings (see below) and the dust bin to delete the user.
 
-.. image:: user-management-users-list-omnia-options-new.png
+.. image:: user-management-users-list-omnia-options-75.png
 
 Using the pen, all settings for user (see below), except authentication settings, can be edited.
 
 To edit authentication settings, click the key, and the following is available:
 
-.. image:: user-management-users-list-omnia-options-key.png
+.. image:: user-management-users-list-omnia-options-key-75.png
 
 Save the changes when you're finished.
 
-If you need to reinitiate the whole onboarding process for the user, click RESET ACCOUNT.
+If you need to reinitiate the whole onboarding process for the user, click RESET ACCOUNT. You can alos enable or disable an Omnia user account from here.
+
+**A note for users of earlier Omnia versions**: The general settings for authentication has been move to business profile settings. See this page for more informa: :doc:`User management settings - business profile </admin-settings/business-group-settings/user-management-bp/index>`
 
 About limitations for Omnia users
 -----------------------------------
@@ -49,45 +51,57 @@ To add a new user, click the ADD USER button.
 
 Available fields are the properties set up under the option in the User management menu. Here's an example:
 
-.. image:: user-management-users-settings-1.png
-
-and these:
-
-.. image:: user-management-users-settings-2.png
+.. image:: user-management-users-settings-1-75.png
 
 The following options are always available:
 
 + **User type**: Select user type in the list. User types that should be available here must be set up using the option in the User management menu.
-+ **ADD IMAGE**: To add an image of the user, click here and use the media picker to find the image.
-+ **Account enabled**: When this user should be activated, select this option.
 + **Authentication information**: Add an authentication Email. This is mandatory. If needed, enter a  phone number for mobile authentication.
++ **Time-limited account**: if this user account should be active for a specific time period only, select this option and set the start and ned date.
 + **Send on-boarding link by Email to user**: You can chosse to send an on-boarding Email to the user by selecting this option. The Email is sent when the user is saved.
 
-Delete a user
---------------
+Note that you can enable, disable or reset an Omnia user account using the authentication settings (the key), see above.
+
+Bulk create users
+-------------------
+By clicking BULK CREATE USERS you can onboard a number of users. Here's the settings you can use:
+
+.. image:: user-management-users-settings-1-75.png
+
+(A description will be added soon).
+
+Delete an Omnia user
+-------------------------
 To delete one or more Omnia users, do the following:
 
 1. Select the user/users.
 2. Click the DELETE USER button that has become available, or click the dust bin for a single user.
 
-.. image:: user-management-users-delete-new.png
+.. image:: user-management-users-delete-75.png
 
-The DELETED USERS list
+The Deleted users list
 ***********************
-You can use this list to restore deleted Omnia users or delete users permanently. To restore or pemanently delete a single user, use the buttons at the right of the user's row.
+You can use this list to restore deleted Omnia users or delete users permanently (Purge). To restore or pemanently delete a single user, use the buttons at the right of the user's row.
 
-.. image:: user-management-users-delete-buttons-new.png
+.. image:: user-management-users-delete-buttons-75.png
 
 To restore or permanently delete a number of users, select them first and use the buttons at the top:
 
-.. image:: user-management-users-delete-buttons-top-new.png
+.. image:: user-management-users-delete-buttons-top-75.png
 
+The Pending approval list
+----------------------------
+If any user is not onboarded yet, that can be dome using this list:
 
+.. image:: user-management-users-pending.png
 
+Click the pen for available actions:
 
+.. image:: user-management-users-pending-actions.png
 
+and these:
 
+.. image:: user-management-users-pending-actions-more.png
 
-
-
+More information about how to use this will be added soon.
 
