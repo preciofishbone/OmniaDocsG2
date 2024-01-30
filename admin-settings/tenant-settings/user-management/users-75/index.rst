@@ -1,7 +1,7 @@
 Users in Omnia 7.5
 =============================================
 
-**Work on this page is just started. Will be finished soon.**
+**Work on this page is ongoing. More information will be added soon.**
 
 This pages describes the tenant options for Users in Omnia 7.5. For information on the options for Omnia 7.0 and 7.1, see this page: :doc:`Users in Omnia 7.0 and 7.1 </admin-settings/tenant-settings/user-management/users/index>`
 
@@ -15,7 +15,9 @@ All users
 ************
 In the ALL USERS list, all users in the tenant are listed. Here you can add Omnia users - users that does not require a Microsoft 365 licence, and delete users you have added this way.
 
-Note that you can use the search field to find a user and use the filters for a shorter list (see more info about this below). If you would like to list Omnia users created here, select "Omnia" for "Provider".
+Note that you can use the search field to find a user and use the filters for a shorter list (see more info about this below). 
+
+If you would like to list Omnia users created here, select "Omnia" for "Provider".
 
 .. image:: user-management-users-list-omnia-75.png
 
@@ -33,7 +35,17 @@ Save the changes when you're finished.
 
 If you need to reinitiate the whole onboarding process for the user, click RESET ACCOUNT. You can alos enable or disable an Omnia user account from here.
 
-**A note for users of earlier Omnia versions**: The general settings for authentication has been move to business profile settings. See this page for more informa: :doc:`User management settings - business profile </admin-settings/business-group-settings/user-management-bp/index>`
+**A note for users of earlier Omnia versions**: The general settings for authentication has been move to business profile settings. See this page for more information: :doc:`User management settings - business profile </admin-settings/business-group-settings/user-management-bp/index>`
+
+Filters for the All users list
+---------------------------------
+The following filters are available, to display only some users in the list:
+
++ **Time-limited**: For users accounts with a limited time, you can choose to list active or not active accounts.
++ **Status**: Here you can choose to list enabled or disabled accounts.
++ **User type**: Using this filter you can choose to list just one of registrered user types.
++ **Provider**: You can choose to list just one of the providers, usually Microsoft Graph or Omnia.
++ **Owner**: Here you can choose to list users from just one of the business profiles in the tenant.
 
 About limitations for Omnia users
 -----------------------------------
