@@ -11,17 +11,19 @@ Here's an example of user properties. The ones with a pen and a dust bin are add
 
 .. image:: user-management-properties-new.png
 
-When adding a new property, the following settings are available:
+When adding a new property, the following settings are available (image from Omnia 7.5):
 
-.. image:: user-management-properties-settings-new.png
+.. image:: user-management-properties-settings-75.png
 
-The list of options at the bottom will differ depending on type of property. For more information, see below.
+The list of options at the bottom can differ depending on type of property. For more information, see below.
 
 You can "lock" the settings for a property and then it can't be edited anywhere else but here. If a property is unlocked the settings can be edited in the Property block. Click the icon to lock or unlock.
 
 Setup and Edit can be also be available, as here for a SharePoint term set.
 
-.. image:: user-management-properties-new-variant.png
+.. image:: user-management-properties-variant-75.png
+
+The Prvacy settings is new in Omnia 7.5. You can set this to be Private or Public. (More information about what this etting does will be added soon).
 
 Display
 ---------
@@ -48,3 +50,4 @@ Available for type SharePoint term set only. For a property from a Sharepoint te
 Deleting a user property
 **************************
 When you delete a user property from this list, it's moved to the property recycle bin, available under the tenant settings Properties, see: :doc:`Property recycle bin </admin-settings/tenant-settings/properties/recycle-bin/index>`
+
