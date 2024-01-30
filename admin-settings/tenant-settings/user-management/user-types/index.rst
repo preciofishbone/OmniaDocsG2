@@ -17,9 +17,23 @@ These settings can be used when creating a new user type:
 
 As you can see, the name and description can be added in any tenant language. 
 
+Additions in Omnia 7.5
+*************************
+In Omnia 7.5 you can also set authentication method and add properties to a user type:
+
+.. image:: user-management-types-auth.png
+
+On the Properties tab, something like the following is available:
+
+.. image:: user-management-types-prop.png
+
+(Descriptions will be added soon.)
+
 Create a custom user profile card
 ************************************
-You work with the layout for customer profile cards the same way as other layouts in Omnia, see: :doc:`Working with layouts </general-assets/working-with-layouts/index>`
+You can create a custom user profile card for each user group if needed.
+
+You work with the layout for the cards the same way as other layouts in Omnia, see: :doc:`Working with layouts </general-assets/working-with-layouts/index>`
 
 Of course, just a few of the available blocks makes sense to use here, but that is up to you.
 
@@ -34,4 +48,9 @@ For more information about the blocks, see:
 + :doc:`The User information block </blocks/user-information-block/index>`
 + :doc:`The Properties block </blocks/properties-block/index>`
 + :doc:`The Organization tree block </blocks/organization-tree/index>`
+
+As an addtion in Omnia 7.5 you can now preview the card alyout for different users:
+
+.. image:: user-card-layout-user.png
+
 
