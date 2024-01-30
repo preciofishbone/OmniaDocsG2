@@ -3,7 +3,7 @@ Groups
 
 This option is available in Omnia 7.0 and later.
 
-Here, the groups in the tenant are listed and you can create and delete your own Omnia groups for security setups.
+Here, all groups in the tenant are listed and you can create and delete your own Omnia groups for security setups.
 
 All groups
 *************
@@ -19,7 +19,7 @@ Note that you can search and filter on "Group type". If you would like a list of
 
 .. image:: user-magaments-groupd-list-omnia.png
 
-In Omnia 7.5, there are som eddtions ti this list, see the bottom of this page.
+In Omnia 7.5, there are some addtions to this list, see the bottom of this page.
 
 Add a new group
 ----------------
@@ -66,4 +66,15 @@ The filter can be used to find one or more groups in a long list.
 Deleted groups
 ****************
 In the list of deleted groups you can restore deleted groups or delete them pemanently.
+
+Additions in Omnia 7.5
+***********************
+In Omnia 7.5, an additonal filter option is added:
+
+.. image:: user-magaments-groupd-list-75.png
+
++ **Owner**: If you just want to display users from one the business profiles in the tenant, select business profile here.
+
+Also note that you now can use the i-icon the for information about other groups than Omnia groups.
+
 
