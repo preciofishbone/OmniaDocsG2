@@ -1,7 +1,7 @@
 Users
 =============================================
 
-This pages describes the options in Omnia 7.0 and 7.1. For information on the options for Omnia 7.5, see this page: :doc:`Users in Omnia 7.5 </admin-settings/tenant-settings/user-management/users-75/index>`.
+This pages describes the options in Omnia 7.0 and 7.1. For information on the options for Omnia 7.5, see this page: :doc:`Users in Omnia 7.5 </admin-settings/tenant-settings/user-management/users-75/index>`
 
 Two lists are available here; ALL USERS and DELETED USERS.
 
