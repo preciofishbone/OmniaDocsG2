@@ -37,5 +37,5 @@ The Authentication block comes with a ready to use style that can be edited usin
 
 .. image:: authentications-screens-new-layout-block.png
 
-For more information, see: (link to be added)
+For more information, see: :doc:`The Authentication block </blocks/authentication-block/index>`
 
