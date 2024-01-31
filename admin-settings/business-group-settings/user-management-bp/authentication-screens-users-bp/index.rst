@@ -1,4 +1,4 @@
-Authentication screens - business profile
+Authentication screens
 =============================================
 
 **This option is available in Omnia 7.5. Work on the page is ongoing.**
@@ -35,7 +35,7 @@ Two important differences are that there are fewer blocks available for authenti
 
 The Authentication block comes with a ready to use style that can be edited using the settings:
 
-.. image:: authentications-screens-new-layout-block.png
+.. image:: authentications-screens-new-layout-block-new.png
 
-For more information, see: :doc:`The Authentication block </blocks/authentication-block/index>`
+Only general layout settings are available for this block, see: :doc:`General Block Settings </blocks/general-block-settings/index>`
 
