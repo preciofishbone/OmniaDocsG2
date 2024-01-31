@@ -13,6 +13,7 @@ Blocks
    analytics-filters/index
    analytics-widget/index
    announcements/index
+   authentication-block/index
    banner/index
    blocks-event-management/index
    blocks-forms/index
