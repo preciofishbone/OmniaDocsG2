@@ -37,5 +37,5 @@ The Authentication block comes with a ready to use style that can be edited usin
 
 .. image:: authentications-screens-new-layout-block-new.png
 
-Only general layout settings are available for this block, see: :doc:`General Block Settings </blocks/general-block-settings/index>`
+Only general layout settings are available for this block, see: :doc:`General block settings </blocks/general-block-settings/index>`
 
