@@ -59,8 +59,6 @@ Add a new Omnia user
 -----------------------------
 To add a new user, click the ADD USER button.
 
-.. image:: user-management-users-add-button-new.png
-
 Available fields are the properties set up under the option in the User management menu. Here's an example:
 
 .. image:: user-management-users-settings-1-75.png
