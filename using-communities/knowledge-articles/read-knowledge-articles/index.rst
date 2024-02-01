@@ -1,4 +1,4 @@
-Read Knowledge articles
+Read knowledge articles
 ============================================
 
 A community can be set up several ways but in the default setup all coleagues can read all knowledge articles in all communities in the tenant.
@@ -7,7 +7,7 @@ A start page for Knowledge articles can look like this:
 
 .. image:: knowledge-start.png
 
-All knowledge articles created in this community are listed. The list can be sorted on Latest, Top Rated or Popular. You can also search for articles.
+All knowledge articles created in this community are listed. The list can be sorted on Latest, Top rated or Popular. You can also search for articles.
 
 .. image:: knowledge-sorting.png
 
@@ -31,5 +31,5 @@ Here's an example of a Knowledge article:
 
 .. image:: knowledge-example-article.png
 
-For more information about a colleague, for example contact information, click the name. The User Profile Card will then open, if it's used within your organization. If it's not, the colleague's Delve page will be displayed.
+For more information about a colleague, for example contact information, click the name. The user profile card will then open, if it's used within your organization. If it's not, the colleague's Delve page will be displayed.
 

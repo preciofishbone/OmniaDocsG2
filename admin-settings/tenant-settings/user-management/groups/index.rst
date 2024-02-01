@@ -3,7 +3,7 @@ Groups
 
 This option is available in Omnia 7.0 and later.
 
-Here, the groups in the tenant are listed and you can create and delete your own Omnia Groups for security setups.
+Here, all groups in the tenant are listed and you can create and delete your own Omnia groups for security setups.
 
 All groups
 *************
@@ -15,9 +15,11 @@ To edit the settings for a group, click the pen. To delete it, click the dust bi
 
 .. image:: user-magaments-groupd-list-edit-delete.png
 
-Note that you can search and filter on Group Type. If you would like a list of the Omnia groups only, select "Omnia Group" as group type.
+Note that you can search and filter on "Group type". If you would like a list of the Omnia groups only, select "Omnia group" as group type.
 
 .. image:: user-magaments-groupd-list-omnia.png
+
+In Omnia 7.5, there are some addtions to this list, see the bottom of this page.
 
 Add a new group
 ----------------
@@ -55,7 +57,7 @@ M365 groups, distribution groups and security groups can be added to an Omnia gr
 
 .. image:: add-groups-2.png
 
-The added groups are now shown. You an use the pen to edit the groups's settings, if it's an Omnia Group, or check the group's settings if it's another type if group. Use the dust bin to remove the group from the group.
+The added groups are now shown. You an use the pen to edit the groups's settings, if it's an Omnia group, or check the group's settings if it's another type if group. Use the dust bin to remove the group from the group.
 
 .. image:: add-groups-3.png
 
@@ -64,4 +66,15 @@ The filter can be used to find one or more groups in a long list.
 Deleted groups
 ****************
 In the list of deleted groups you can restore deleted groups or delete them pemanently.
+
+Additions in Omnia 7.5
+***********************
+In Omnia 7.5, an additonal filter option is added:
+
+.. image:: user-magaments-groupd-list-75.png
+
++ **Owner**: If you just want to display users from one the business profiles in the tenant, select business profile here.
+
+Also note that you now can use the i-icon the for information about other groups than Omnia groups.
+
 

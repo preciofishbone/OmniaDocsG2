@@ -11,17 +11,19 @@ Here's an example of user properties. The ones with a pen and a dust bin are add
 
 .. image:: user-management-properties-new.png
 
-When adding a new property, the following settings are available:
+When adding a new property, the following settings are available (image from Omnia 7.5):
 
-.. image:: user-management-properties-settings-new.png
+.. image:: user-management-properties-settings-75.png
 
-The list of options at the bottom will differ depending on type of property. For more information, see below.
+The list of options at the bottom can differ depending on type of property. For more information, see below.
 
 You can "lock" the settings for a property and then it can't be edited anywhere else but here. If a property is unlocked the settings can be edited in the Property block. Click the icon to lock or unlock.
 
-Setup and Edit can be also be available, as here for SharePoint Term set.
+Setup and Edit can be also be available, as here for a SharePoint term set.
 
-.. image:: user-management-properties-new-variant.png
+.. image:: user-management-properties-variant-75.png
+
+The Prvacy settings is new in Omnia 7.5. You can set this to be Private or Public. (More information about what this etting does will be added soon).
 
 Display
 ---------
@@ -35,16 +37,17 @@ Additionally, for type Identity you can choose to display image and name as well
 
 Edit
 ------
-These types have Edit options: 
+These types have edit options: 
 
-+ HTML - you can choose to display the edit options; Rich Text, Limited Rich Tect or Custom Rich Text.
++ HTML - you can choose to display the edit options; Rich text, Limited rich tect or Custom rich text.
 + Image - you can set default scaling, decide which crop ratios that should be available and decide to force default scaling.
-+ SharePoint Term Set - you can choose to allow multi value.
++ SharePoint term Set - you can choose to allow multi value.
 
 Setup
 -------
-Available for type SharePoint Term Set only. For a property from a Sharepoint term set to work, it must be mapped using the list available under Setup.
+Available for type SharePoint term set only. For a property from a Sharepoint term set to work, it must be mapped using the list available under Setup.
 
 Deleting a user property
-************************
-When you delete a user property from this list, it's moved the property recycle bin, available under the tenant settings Properties, see: :doc:`Property Recycle Bin </admin-settings/tenant-settings/properties/recycle-bin/index>`
+**************************
+When you delete a user property from this list, it's moved to the property recycle bin, available under the tenant settings Properties, see: :doc:`Property recycle bin </admin-settings/tenant-settings/properties/recycle-bin/index>`
+

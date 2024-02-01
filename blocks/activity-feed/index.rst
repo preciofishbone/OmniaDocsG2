@@ -54,5 +54,5 @@ Generally, a user will never be able to read a page the person does not have per
 
 Layout and Write
 ******************
-The Write tab is nbot used here. The Layout tab contains general settings for blocks. For more information see: :doc:`General Block settings </blocks/general-block-settings/index>`
+The Write tab is not used here. The Layout tab contains general settings for blocks. For more information see: :doc:`General block settings </blocks/general-block-settings/index>`
 

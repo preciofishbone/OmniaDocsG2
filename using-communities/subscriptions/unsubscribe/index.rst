@@ -1,7 +1,7 @@
-How to unsubscribe in a Community
+How to unsubscribe in a community
 ====================================
 
-When you have subscribed to a community, knowledge articles or discussions within i community, the option changes to reflect that. Just click "UNSUBSCRIBE" to unsubscribe to that level.
+When you have subscribed to a community, knowledge articles or discussions within i community, the option changes to reflect that. Just click UNSUBSCRIBE to unsubscribe to that level.
 
 .. image:: unsubscribe-menu.png
 
@@ -15,4 +15,4 @@ When you click on a tag you subscribe to, you can then choose to unsubscribe.
 
 .. image:: unsubscribe-tag-message.png
 
-You can also unsubcribe using My Subscriptions, see: :doc:`My Subscriptions </user-options/my-subscriptions/index>`
+You can also unsubcribe using My subscriptions, see: :doc:`My subscriptions </user-options/my-subscriptions/index>`
