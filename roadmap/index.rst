@@ -1,47 +1,61 @@
 In development
 ===========================================
 
-As part of the Omnia roadmap, the following features are in development and planned to be rolled out during Q4 2023 and Q1 2024.
+As part of the Omnia roadmap, the following features are in development and planned to be rolled out during 2024.
 
 .. note:: Items may be added or removed from this list at any time.
 
-Web Content Management
+User experience
 ---------------------------------------------
 
-* Improved bookmark navigation.
-* Improved page feedback.
-* Publishing campaigns.
+* New model for theming and design including colors, fonts, margins, components etc.
+* Improved out of the box layout designs.
+* Improved push notifications.
+* Interactive master feed.
 
-Governance
+Mobile and frontline
+----------------------------------------------
+
+* Improved multilingual support in mobile app.
+* Improved custom branding in mobile app.
+* Improved login experience in mobile app.
+* Local group ownership of users.
+* Easy quick poll publishing.
+* Biometric authentication.
+* Chat and team conversation.
+
+Communication
 ---------------------------------------------
 
-* New user statistics solution (powered by Matomo).
-* Content analytics block.
-* Improved teamwork metrics.
-* Predefined content in Teamwork templates.
+* Media rollup block.
+* Recurring sign-off requests.
+* Scheduled sign-off requests.
+* Native mobile support for content creators.
 
+Governance and analytics
+----------------------------------------------
 
-Frontline Workers
----------------------------------------------
+* Analytics table block.
+* Improved reach metrics.
+* Bulk update of assigned tasks.
 
-* Self-service account requests.
-* Local user ownership.
-* Anonymous access and custom login screen.
-* Authentication settings per user type.
-* Scheduled off-boarding
+Engagement
+----------------------------------------------
 
-Learning
----------------------------------------------
-
+* Create personal stories.
 * Completed courses in user profile.
-* Local forms editing.
+* Improved knowledge check creation.
 
+Integration
+----------------------------------------------
 
-Setup Wizard
+* Integration with Microsoft Copilot.
+
+Setup wizard
 ---------------------------------------------
 
-* Setup best practice for Enterprise Search.
+* Setup best practice for Governance Hub.
 * Setup best practice for On-boarding portal.
-* Setup best practice for Editorial Hub.
+
 
 ...and many other small improvements.
