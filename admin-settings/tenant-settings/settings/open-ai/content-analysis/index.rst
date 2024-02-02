@@ -15,7 +15,7 @@ Create a new analysis
 ************************
 When creating a new analysis, the following settings are available:
 
-.. image:: content-analysis-new.png
+.. image:: content-analysis-new-75.png
 
 + **Title**: Add a title for this setting, in any available tenant language (click the flag to change language). Mandatory.
 + **Prompt**: Add the text (the instruction to OpenAI) for the prompt here. Note the message under the field. The prompt must contain the token {Text} within quotation marks.
