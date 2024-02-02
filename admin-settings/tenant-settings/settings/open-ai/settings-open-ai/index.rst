@@ -5,7 +5,7 @@ This option is available in Omnia 7.1 and later. (Options are a bit different in
 
 The following settings are available here:
 
-.. image:: settings-open-ai.png
+.. image:: settings-open-ai-edited.png
 
 Text completion configuration
 *******************************
