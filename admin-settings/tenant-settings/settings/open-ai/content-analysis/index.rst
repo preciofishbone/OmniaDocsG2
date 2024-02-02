@@ -3,7 +3,7 @@ Content analysis (OpenAI)
 
 This option is available in Omnia 7.1 and later.
 
-You can set up a number of sets for content analysis, to be used by editors. Here's an example:
+You can set up a number of prompts for content analysis, to be used by editors. Here's an example:
 
 .. image:: content-analysis.png
 
