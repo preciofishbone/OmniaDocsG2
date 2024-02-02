@@ -1,7 +1,7 @@
 Settings (OpenAI)
 =============================================
 
-This option is available in Omnia 7.1 and later. 
+This option is available in Omnia 7.1 and later. (Options are a bit different in Omnia 7.5, see below).
 
 The following settings are available here:
 
