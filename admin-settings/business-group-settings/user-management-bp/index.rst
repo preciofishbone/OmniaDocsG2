@@ -1,8 +1,6 @@
 User Management - business profile
 =============================================
 
-**This option is available in Omnia 7.5. Work on this set of options is ongoing.**
-
 Here you can work with user managament options for this business profile.
 
 .. image:: user-management-bp-menu.png
