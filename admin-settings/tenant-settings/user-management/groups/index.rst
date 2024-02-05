@@ -5,6 +5,8 @@ This option is available in Omnia 7.0 and later.
 
 Here, all groups in the tenant are listed and you can create and delete your own Omnia groups for security setups.
 
+If you're working with User management for a business profile, groups can be created and edited the same ways there.
+
 All groups
 *************
 A list of all groups can look like this:
