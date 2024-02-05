@@ -1,8 +1,6 @@
 Analytics (Matomo) settings
 =============================================
 
-**This option is available in Omnia 7.5. Work on the page is ongoing.**
-
 Pre requisite: To use Matomo analytics, the tenant feature "Analytics core setup" must be activated, and for a business profile, the feature "Create new analytics website in Matomo" must be activated. 
 
 No set up at tenant level is required.
