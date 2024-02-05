@@ -20,7 +20,7 @@ Add and remove dimensions
 To add a dimension, do the following:
 
 1. Select the property.
-2. In the dimension list, select "Create dimension".
+2. In the dimension list, select "Create dimension". If the dimension is already created, you can map another property to it.
 3. Click the plus.
 
 To remove a dimension, just click the dust bin. **Important!** Read the note at the bottom carefully.
