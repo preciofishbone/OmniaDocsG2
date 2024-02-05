@@ -7,7 +7,7 @@ This pages describes the tenant options for Users in Omnia 7.5. For information 
 
 Also note that in Omnia 7.5 options for User management are available in each business profile, see: :doc:`Users management options for business profiles </admin-settings/business-group-settings/user-management-bp/index>`
 
-Three lists are available here; ALL USERS, DELETED USERS and PENDING APPROVAL. Youcan list users from all business profiles here.
+Three lists are available here; ALL USERS, DELETED USERS and PENDING APPROVAL. Note that users set up under User management in a business profile is listed here as well.
 
 .. image:: user-management-users-list-75.png
 
@@ -45,7 +45,7 @@ The following filters are available, to display only some users in the list:
 + **Status**: Here you can choose to list enabled or disabled accounts.
 + **User type**: Using this filter you can choose to list just one of registrered user types.
 + **Provider**: You can choose to list just one of the providers, usually Microsoft Graph or Omnia.
-+ **Owner**: Here you can choose to list users from just one of the business profiles in the tenant.
++ **Owner**: Here you can choose to list users from just one of the business profiles in the tenant. 
 
 About limitations for Omnia users
 -----------------------------------
