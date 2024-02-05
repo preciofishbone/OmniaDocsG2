@@ -13,7 +13,7 @@ For Omnia search sync, a button for full sync and for reading logs are available
 
 .. image:: user-management-sync-omnia search.png
 
-(More information about this option will be added soon.)
+Omnia search sync is normally fully automatic, nothing you should need to do manually.
 
 SETTINGS
 **********
