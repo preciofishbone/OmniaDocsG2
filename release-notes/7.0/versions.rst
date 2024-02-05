@@ -1,3 +1,18 @@
+7.1.46
+========================================
+(Omnia 7.1.46 / Workplace 7.1.25 / WCM 7.1.32 / MS 7.1.27)
+
+- Fixed an issue where terms would not render correctly if term subscription is turned on.
+- Fixed a migration issue for old images in the page rollup.
+- The new filters now have better compatibility with old settings data.
+- Fixed an issue with process rendering that occurred due to a framework update (#153802).
+- More tokens have been added to the Document Rollup to enable more complex queries (#151825).
+- Fixed an issue in process management that could corrupt the drawing when resizing the canvas (#153905, #153562).
+- Omnias AI capabilities are upgraded to support Dall-e 3 and Open AI GPT4.
+- Due to a breaking change in the new MS Teams client, controlled documents are now opened in a new browser window instead of inside of the MS Teams client (#151548, #151496). A bugfix from Microsoft is required to resolve this.
+- Fixed an issue in the URL router that could cause inconsistent behaviours when the URL segment and its variation segment are the same (#153656).
+
+
 7.1.43
 ========================================
 (Omnia 7.1.43 / Workplace 7.1.22 / WCM 7.1.30 / MS 7.1.25)
