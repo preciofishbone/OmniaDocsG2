@@ -29,7 +29,7 @@ On the Properties tab, something like the following is available:
 
 .. image:: user-management-types-prop.png
 
-(Descriptions will be added soon.)
+Here you decide which properties should be available for this user type. A few properties are mandatory and can not be deselected, they are marked with gray.
 
 Create a custom user profile card
 ************************************
