@@ -5,6 +5,8 @@ This option is available in Omnia 7.0 and later.
 
 All users in Omnia will be assigned a user type. User types are also used when creating Omnia users and when setting up dynamic groups. It's also possible to create customized user profile cards for different user types.
 
+**Important note!** In Omnia 7.5 authentication settings is set per user type. See below for more information.
+
 If any user types has been set up so far, they are listed here, for example:
 
 .. image:: user-management-types-new.png
