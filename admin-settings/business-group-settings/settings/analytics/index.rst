@@ -23,7 +23,7 @@ To add a dimension, do the following:
 2. In the dimension list, select "Create dimension".
 3. Click the plus.
 
-To remove a dimension, just click the dust bin. **Important!**: Read the note at the bottom carefully.
+To remove a dimension, just click the dust bin. **Important!** Read the note at the bottom carefully.
 
 Here's an example of an analytics page. The dimensions set up in the image above are available here:
 
