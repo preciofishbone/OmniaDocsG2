@@ -4,7 +4,6 @@ Business profile settings
 .. toctree::
    :titlesonly:
 
-   analytics/index
    announcements/index
    communities/communities-65/index
    event-management/index
