@@ -1,7 +1,7 @@
 Users - business profile
 =============================================
 
-A list of Omnia users that has access to this bunisess profile only is displayed in this list. You can add, edit and delete users here. In User management for the tenant, you must be tenant administrator to be able to work with users there. Here you just need to be business profile adminstrator to work with users for the business profile.
+A list of Omnia users that has access to this business profile only is displayed in this list. You can add, edit and delete users here. In User management for the tenant, you must be tenant administrator to be able to work with users there. Here you just need to be business profile adminstrator to work with users for the business profile.
 
 The users you add here are available in   the User management lists for the tenant.
 
