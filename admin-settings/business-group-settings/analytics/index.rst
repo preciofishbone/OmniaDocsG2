@@ -1,4 +1,4 @@
-Aanalytics (Matomo) settings
+Analytics (Matomo) settings
 =============================================
 
 **This option is available in Omnia 7.5. Work on the page is ongoing.**
