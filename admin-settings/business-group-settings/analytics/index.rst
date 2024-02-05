@@ -9,7 +9,7 @@ These settings are then available for Matomo analytics, in a business profile:
 
 .. image:: analytics-matomo-settings.png
 
-+ **Matomo**: You can use the link shown here to go to the Matomo analytics pahe for this business profile.
++ **Matomo**: You can use the link shown here to go to the Matomo analytics page for this business profile.
 + **Enable data collection**: For Matomo analytics to work, this option must be selected.
 + **Dimensions**: Here you select details (dimensions) for the analytics. See more information below.
 
