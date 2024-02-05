@@ -1,7 +1,7 @@
 Aanalytics (Matomo) settings
 =============================================
 
-**This option is available in Omnia 7.5. Work on the page is just started.**
+**This option is available in Omnia 7.5. Work on the page is ongoing.**
 
 Pre requisite: To use Matomo analytics, the tenant feature "Analytics core setup" must be activated, and for a business profile, the feature "Create new analytics website in Matomo" must be activated. (No set up at tenant level is required, it's automatic).
 
@@ -18,12 +18,14 @@ Add and remove dimensions
 To add a dimension, do the following:
 
 1. Select the property.
-2. Select a dimension for that property.
+2. In the dimension list, select "Create dimension".
 3. Click the plus.
 
 To remove a dimension, just click the dust bin. **Important!**: Read the note at the bottom carefully.
 
-Here's an example of an analytics page with the dimensions set up in the image above:
+Here's an example of an analytics page. The dimensions set up in the image above are available here:
 
 .. image:: analytics-matomo-settings-example.png
+
+For more information about how to use Matomo analytics, see this page: https://matomo.org/help/
 
