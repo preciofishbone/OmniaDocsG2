@@ -101,7 +101,7 @@ To restore or permanently delete a number of users, select them first and use th
 
 The Pending approval list
 ----------------------------
-If any user is not onboarded yet, that can be dome using this list:
+If self service for user accounts are allowed, and if approval is needed for these accounts, approval is handled through this list.
 
 .. image:: user-management-users-pending.png
 
@@ -114,4 +114,6 @@ and these:
 .. image:: user-management-users-pending-actions-more.png
 
 More information about how to use this will be added soon.
+
+Self-service is set up (if used) on business profile level. See this page for more information: :doc:`Self-service settings </admin-settings/business-group-settings/user-management-bp/self-service-users-bp/index>`
 
