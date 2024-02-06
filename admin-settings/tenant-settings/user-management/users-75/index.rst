@@ -113,7 +113,11 @@ and these:
 
 .. image:: user-management-users-pending-actions-more.png
 
-More information about how to use this will be added soon.
+This information is created during the account creation process. Available fieldsand options depend on various autenthication settings.
+
+Everything here can be edited if needed.
+
+When you're ready, click APPROVE or REJECT. If you choose to approve, the account is created and the user is notified. If you reject the request, type a message to explain why this request can't be approved. that message is sent to the user.
 
 Self-service is set up (if used) on business profile level. See this page for more information: :doc:`Self-service settings </admin-settings/business-group-settings/user-management-bp/self-service-users-bp/index>`
 
