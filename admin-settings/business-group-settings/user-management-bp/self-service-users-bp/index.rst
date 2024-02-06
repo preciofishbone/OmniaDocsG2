@@ -1,4 +1,4 @@
-Self-service for business profile
+Self-service
 =============================================
 
 Using this option you set if users should be able to create Omnia accounts themselves. Then you need a request authentication screen where users can create an account.
