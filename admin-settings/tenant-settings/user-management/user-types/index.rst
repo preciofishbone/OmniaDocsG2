@@ -33,7 +33,7 @@ Here you decide which properties should be available for this user type. A few p
 
 Create a custom user profile card
 ************************************
-You can create a custom user profile card for each user group if needed.
+You can create a custom user profile card for each user group if needed, and you create different layouts for private cards and public cards. A private custom user profile card is simply when a user looks att his or her own card, a public card is what everyone else can see.
 
 You work with the layout for the cards the same way as other layouts in Omnia, see: :doc:`Working with layouts </general-assets/working-with-layouts/index>`
 
