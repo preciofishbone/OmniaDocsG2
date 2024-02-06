@@ -5,7 +5,7 @@ Here you can work with user managament options for this business profile. Omnia 
 
 .. image:: user-management-bp-menu.png
 
-See these pages for more information (also just started):
+See these pages for more information:
 
 .. toctree::
    :titlesonly:
