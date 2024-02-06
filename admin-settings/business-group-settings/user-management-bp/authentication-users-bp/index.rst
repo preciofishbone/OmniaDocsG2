@@ -1,7 +1,7 @@
 Authentication
 =============================================
 
-**This option is available in Omnia 7.5. Work on the page is ongoing.**
+The main authentication settings are available when setting up user types. It's done on tenant level. See this page for more information: :doc:`User types </admin-settings/tenant-settings/user-management/user-types/index>`
 
 Here you can select default login screen and if anonymous access should be possible for Omnia users in this business profile.
 
