@@ -3,7 +3,7 @@ Users - business profile
 
 A list of Omnia users that has access to this business profile only is displayed in this list. You can add, edit and delete users, if you are business administrator.
 
-The users you add here are available in the User management lists for the tenant. Tenant administrators can work the users there.
+The users you add here are available in the User management lists for the tenant as well. Tenant administrators can work the users there.
 
 (Image from a test environment).
 
@@ -12,6 +12,6 @@ The users you add here are available in the User management lists for the tenant
 The options here works the same way as in User management for the tenant. There are only two major differences:
 
 + Users set up in a business profile has access to that business profile only.
-+ The filter "Owner", available in the tenant list, is not available for a business profile (as it's not possible to list users from any other business profile here).
++ The filter "Owner", available in the tenant list, is not available for a business profile (as it's not possible to list users from any other business profile there).
 
 For more detailed information on the various options, see: :doc:`Users (tenant) </admin-settings/tenant-settings/user-management/users/index>`
