@@ -1,4 +1,4 @@
-Self-service
+Self-service settings
 =============================================
 
 Using this option you decide if users should be able to create Omnia accounts themselves. You also need a request authentication screen for that purpose.
