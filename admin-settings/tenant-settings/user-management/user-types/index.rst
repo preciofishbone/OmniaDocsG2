@@ -7,7 +7,7 @@ All users in Omnia will be assigned a user type. User types are also used when c
 
 **Important note!** In Omnia 7.5 authentication settings are set per user type. See below for more information.
 
-If any user types has been set up so far, they are listed here, for example:
+If any user types for Omnia users has been set up so far, they are listed here, for example:
 
 .. image:: user-management-types-new.png
 
