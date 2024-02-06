@@ -21,15 +21,41 @@ As you can see, the name and description can be added in any tenant language.
 
 Additions in Omnia 7.5
 *************************
-In Omnia 7.5 you can also set authentication method and add properties to a user type:
+In Omnia 7.5 you can also set authentication method and add properties to a user type.
+
+Authentication
+-----------------
+Here ypu can set the following:
 
 .. image:: user-management-types-auth.png
+
++ **External providers**: If there are more than one provider, make sure to select the correct one.
++ **Onboarding**: Set the expirt time for the one-time link and add the URL to the onboardring page, if needed.
++ **Built-in**: Select the the authentication you want to use for this user type and expand the option for more options, see below.
++ **Refresh token expiration**: (A description will be added soon).
++ **INVALIDATE ALL USER TOKENS**:  When permissions for Omnia has been changed, users needs to log out and log in for the changes to take effect. You can click this button to force a log out from Omnia for all users. Important information on this below.
+
+When expanding one of the options for "Built-in", additional settings are available, for example:
+
+.. image:: user-management-types-auth-more.png
+
+If "Two-factor authentication" is selected, the following must also be set:
+
+.. image:: user-management-types-auth-more-two.png
+
+The first step is to select one of the other authentication methods available, as the second autehnticaiton.
 
 On the Properties tab, something like the following is available:
 
 .. image:: user-management-types-prop.png
 
 Here you decide which properties should be available for this user type. A few properties are mandatory and can not be deselected, they are marked with gray.
+
+More on Invalidate all user tokens
+---------------------------------------
+If the button INVALIDATE ALL USER TOKENS is clicked to force a log out from Omnia for all users, only Omnia is affected, not Sharepoint, Office apps, mail or anything else outside Omnia.
+
+If an editor or author is working on a page in Omnia, the user will be logged out but content added to a page, even if it's not published, is automatically saved quite often, to minimize content lost.
 
 Create a custom user profile card
 ************************************
