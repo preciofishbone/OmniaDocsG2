@@ -51,7 +51,7 @@ For more information about the blocks, see:
 + :doc:`The Properties block </blocks/properties-block/index>`
 + :doc:`The Organization tree block </blocks/organization-tree/index>`
 
-As an addtion in Omnia 7.5 you can now preview the card alyout for different users:
+As an addition in Omnia 7.5 you can now preview the card layout for different users:
 
 .. image:: user-card-layout-user.png
 
