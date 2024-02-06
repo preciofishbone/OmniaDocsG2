@@ -1,13 +1,13 @@
 Self-service
 =============================================
 
-Using this option you set if users should be able to create Omnia accounts themselves. Then you need a request authentication screen where users can create an account.
+Using this option you decide if users should be able to create Omnia accounts themselves. You also need a request authentication screen for that purpose.
 
-If self-service should not be possible in this business profile, you don't have to do anything. Th default setting is:
+If self-service should not be possible in this business profile, you don't have to do anything. The default setting is:
 
 .. image:: self-service-users-bp.png
 
-If self-service should be possible, select this option and the following settings becomes available:
+If self-service should be possible, select this option and use the following settings:
 
 .. image:: self-service-users-bp-set.png
 
@@ -15,7 +15,7 @@ If self-service should be possible, select this option and the following setting
 + **Notify**: If one or more colleagues should be notified of a new request, add them here.
 + **User types**: If it should be possible for users to select a user type when requesting an account, add one or more user types (select a user type and then click the plus).
 
-When you have added one or more user types, you can add additional properties that must be filled in during the request. Click the cogwheel to open the settings.
+When you have added one or more user types, you can add additional properties that must be filled in during the request. Click the cog wheel to open the settings.
 
 .. image:: self-service-users-bp-set-cogwheel.png
 
