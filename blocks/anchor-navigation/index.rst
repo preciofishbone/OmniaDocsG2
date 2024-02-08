@@ -3,7 +3,7 @@ Anchor navigation
 
 **This block is available in Omnia 7.5. Work on the page has just started.**
 
-Use this block for navigation through anchors.
+Use this block for navigation through anchors within a page.
 
 The following settings are available:
 
@@ -21,7 +21,9 @@ Here you decide which anchors to use in the navigation.
 
 .. image:: anchor-navigation-block-anchors.png
 
-(Descriptions will be added soon).
++ **(First field)**: Select a property to get anchors from and the click the plus. Normally a text property. Can only be one property (but can be from several blocks).
++ **REFRESH**: If automatic anchor creation is not used, editors have to click REFERSH after adding anchors to have them appear in the navigation.
++ **Automatic anchor creation**: If this option is selected, anchors will automatically be added to the navigation while an editor works with text and creates anchors (for example for main headings).
 
 Display
 --------
@@ -29,7 +31,11 @@ Here you can edit some settings for the display of the navigation.
 
 .. image:: anchor-navigation-block-display.png
 
-(Descriptions will be added soon).
++ **(Top icons)**: Click the icon for the type of display you want. The first two icons should be self explanatory. The right-most icon is for a dropdown navigation, especially useful for mobile navigation.
++ **Sticky**: Select this option if you would like the navigation to always be shown when scrolling.
++ **Item border**: (A decsirption will be added soon).
++ **(Padding)**: Add some padding if needed.
++ **Font size**. Use the slider to set the font size of the navigation.
 
 Layout and Write
 ******************
