@@ -45,7 +45,7 @@ The following filters are available, to display only some users in the list:
 + **Status**: Here you can choose to list enabled or disabled accounts.
 + **User type**: Using this filter you can choose to list just one of registrered user types.
 + **Provider**: You can choose to list just one of the providers, usually Microsoft Graph or Omnia.
-+ **Owner**: Here you can choose to list users from just one of the business profiles in the tenant. 
++ **Owner**: Here you can choose to list users from just one of the business profiles in the tenant. This lists users managed in the respective business profiles.
 
 About limitations for Omnia users
 -----------------------------------
