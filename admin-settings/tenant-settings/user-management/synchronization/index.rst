@@ -25,6 +25,8 @@ If you need additional mapping, just select properties from the lists and click 
 
 Note that rules for different user types can be set up.
 
+**Note!** It's very important that you set up rules for user types, as a user that doesn't match any such rules will have an "Unidentified" user group and are not, for example, available in people icker lists.
+
 FULL SYNC or FULL USER SYNC
 *****************************
 FULL SYNC syncs all properties for all users and groups. FULL USER SYNC syncs all properties for all users, but not for the groups.
