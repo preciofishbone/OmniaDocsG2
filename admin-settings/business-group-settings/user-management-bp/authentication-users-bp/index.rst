@@ -12,3 +12,12 @@ Here you can select default login screen and if anonymous access should be possi
 
 Dynamic groups are setup on tenant level. See this page for more information: :doc:`Dynamic groups </admin-settings/tenant-settings/user-management/dynamic-groups/index>`
 
+How to make anonymous login work
+**********************************
+Several set up steps are needed to make anonumous login work.
+
+1. The tenant feature "Activate anonymous access core" must be on.
+2. A dynamic group to use for anonymous access must be created.
+3. One of the options for anonymous access must be selected in the business profile.
+4. In the app to be used for anonymous access, permissions for the dynamic group must be set.
+
