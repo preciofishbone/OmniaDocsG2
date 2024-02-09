@@ -37,7 +37,7 @@ The following settings are available here:
 
 Filter
 ---------
-If you're not using a Analytics filter block for the filters, you can set filters here. These settings are available:
+If you're not using an Analytics filter block for the filters, you can set filters here. These settings are available:
 
 .. image:: analytics-block-widget-filter.png
 
@@ -48,7 +48,7 @@ If you're not using a Analytics filter block for the filters, you can set filter
 
 Style
 ---------
-Here you can set som padding if needed:
+Here you can set some padding if needed:
 
 .. image:: analytics-block-widget-style.png
 
