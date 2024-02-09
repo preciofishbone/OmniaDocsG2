@@ -111,7 +111,7 @@ To restore or permanently delete a number of users, select them first and use th
 .. image:: user-management-users-delete-buttons-top-75.png
 
 The Pending approval list
-----------------------------
+***************************
 If self service for user accounts are allowed, and if approval is needed for these accounts, approval is handled through this list.
 
 .. image:: user-management-users-pending.png
