@@ -1,7 +1,7 @@
 Anchor navigation
 =============================================
 
-**This block is available in Omnia 7.5. Work on the page has just started.**
+**This block is available in Omnia 7.5. Work on the page is ongoing.**
 
 Use this block for navigation through anchors within a page.
 
