@@ -3,7 +3,7 @@ Analytics filters
 
 **This block is available in Omnia 7.5. Work on the page is ongoing.**
 
-This is a block to use for Matomo analytics. Use it to set filters to be used in a Analytics widget block. The following settings are available for this block:
+This is a block for Matomo analytics. Use it to set filters to be used in a Analytics widget block. The following settings are available for this block:
 
 .. image:: analytics-block.png
 
