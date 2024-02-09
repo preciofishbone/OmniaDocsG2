@@ -49,7 +49,7 @@ The filter can be used to find one or more users in a long list.
 
 Add groups to a Omnia group
 ------------------------------
-M365 groups, distribution groups and security groups can be added to an Omnia group.
+Only Omnia groups can be added to an Omnia group. 
 
 1. Click the Groups icon.
 
