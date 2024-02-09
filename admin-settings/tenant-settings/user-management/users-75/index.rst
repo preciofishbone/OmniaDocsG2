@@ -33,9 +33,9 @@ To edit authentication settings, click the key, and the following is available:
 
 Save the changes when you're finished.
 
-If you need to reinitiate the whole onboarding process for the user, click RESET ACCOUNT. You can alos enable or disable an Omnia user account from here.
+If you need to reinitiate the whole onboarding process for the user, click RESET ACCOUNT. You can also enable or disable an Omnia user accounts from here.
 
-**A note for users of earlier Omnia versions**: The general settings for authentication has been move to business profile settings. See this page for more information: :doc:`User management settings - business profile </admin-settings/business-group-settings/user-management-bp/index>`
+**A note for users of earlier Omnia versions**: The general settings for authentication has been moved to business profile settings. See this page for more information: :doc:`User management settings - business profile </admin-settings/business-group-settings/user-management-bp/index>`
 
 Filters for the All users list
 ---------------------------------
