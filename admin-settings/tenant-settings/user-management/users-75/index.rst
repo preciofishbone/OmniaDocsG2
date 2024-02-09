@@ -78,8 +78,6 @@ By clicking BULK CREATE USERS you can onboard a number of users. Here's the sett
 
 .. image:: user-management-users-settings-1-75.png
 
-(A description will be added soon).
-
 Delete an Omnia user
 -------------------------
 To delete one or more Omnia users, do the following:
