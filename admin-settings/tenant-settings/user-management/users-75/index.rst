@@ -85,7 +85,7 @@ The first step is to select user type and the scenario:
 
 The second step is to edit the template file. If you already have a template file you can edit the file for use in this session and upload it.
 
-If you don't have template file, download the default template and edit it with the application you normally use for csv files. 
+If you don't have a template file, download the default template and edit it with the application you normally use for csv files. 
 
 There should be one row for each user to create (onboard) in the csv file. Also, you must not touch the top row, you should not edit anything there.
 
