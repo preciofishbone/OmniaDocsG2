@@ -2,6 +2,8 @@
 ========================================
 (Omnia 7.5.2 / Workplace 7.5.4 / WCM 7.5.1 / MS 7.5.1)
 
+Main release notes reference
+******
 - Business profile users and groups
 - Self-service account creation and on-boarding
 - Improved identity picker
@@ -14,6 +16,9 @@
 - Improved metrics
 - Improved page feedback (#150001).
 
+Release notes
+******
+
 - Possibility to have app only access to the term store.
 - Possibility to view logs on the new Mellisearch based search index.
 - Page rollup accelerator, a new technology has been released to improve the performance of page rollups, this can be enabled in Omnia admin.
@@ -22,10 +27,20 @@
 - Media and text blocks can now be used on anonymous pages.
 - Preferred language is now editable in the Entra to Omnia property sync.
 - Updates to the user information block in mobile mode.
-- Custom date queries are now possible in the page rollup.
+- Custom date queries are now possible in the page rollup, Sign-off requests rollup, Teamwork rollup, Community Rollup, Publishing App rollup and process rollup.
 - Several fixes and updates to the properties block (#149403).
 - The page rollup calendar view can now navigate to a specific day when clicking on the day in month view.
--
+- EntraID to Omnia property sync can now resolve term ids based on label.
+- User properties can now be configured to be private, making them readable only for the current user.
+- Bulk creation of Omnia users is now possible via csv import in Omnia admin (#148752).
+- Fixed issues with background colors in Process layouts.
+- WCAG fixes to block headings and page rollup calendar view (#149303).
+- Empty string can now be used as a Document ID prefix (#153957).
+- Compatibility improvements to the RSS reader block (#153944).
+- Fixed a rendering issue in the tooltips of the new filtering engine (#153962, #153923).
+- Boolean values can now be synced with the SharePoint user profile sync feature (#154068).
+- Stability improvements to teamwork creation (#153715).
+
 
 
 7.1.46
