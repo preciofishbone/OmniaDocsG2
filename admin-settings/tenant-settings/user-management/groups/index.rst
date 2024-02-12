@@ -77,8 +77,8 @@ In Omnia 7.5, an additonal filter option is added:
 
 .. image:: user-magaments-groupd-list-75.png
 
-+ **Owner**: If you just want to display users from one the business profiles in the tenant, select business profile here.
++ **Owner**: If you just want to display users from one of the business profiles in the tenant, select business profile here.
 
-Also note that you now can use the i-icon the for information about other groups than Omnia groups.
+Also note that you now can use the i-icon for information about other groups than Omnia groups.
 
 
