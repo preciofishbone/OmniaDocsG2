@@ -21,6 +21,8 @@ A few settings are available for Omnia users; use the pen to edit user type, the
 
 Using the pen, all settings for user (see below), except authentication settings, can be edited.
 
+**Important note!** For MS Graph users, you can edit a users to add properties used in Omnia, if needed.
+
 To edit authentication settings, click the key, and the following is available:
 
 .. image:: user-management-users-list-omnia-options-key.png
