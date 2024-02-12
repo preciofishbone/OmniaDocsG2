@@ -1,3 +1,33 @@
+7.5.2
+========================================
+(Omnia 7.5.2 / Workplace 7.5.4 / WCM 7.5.1 / MS 7.5.1)
+
+- Business profile users and groups
+- Self-service account creation and on-boarding
+- Improved identity picker
+- Improved user profile cards
+- New scope in the People rollup block
+- Improved user management governance
+- Analytics powered by Matomo
+- Anchor navigation
+- Publishing campaigns
+- Improved metrics
+- Improved page feedback (#150001).
+
+- Possibility to have app only access to the term store.
+- Possibility to view logs on the new Mellisearch based search index.
+- Page rollup accelerator, a new technology has been released to improve the performance of page rollups, this can be enabled in Omnia admin.
+- Configurable refresh token times per user type for enhanced security.
+- The SharePoint add-in for the SharePoint user profile sync is deprecated, update and consent the "SharePoint user profiles sync" feature to use only Microsoft Graph.
+- Media and text blocks can now be used on anonymous pages.
+- Preferred language is now editable in the Entra to Omnia property sync.
+- Updates to the user information block in mobile mode.
+- Custom date queries are now possible in the page rollup.
+- Several fixes and updates to the properties block (#149403).
+- The page rollup calendar view can now navigate to a specific day when clicking on the day in month view.
+-
+
+
 7.1.46
 ========================================
 (Omnia 7.1.46 / Workplace 7.1.25 / WCM 7.1.32 / MS 7.1.27)
