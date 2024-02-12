@@ -40,7 +40,20 @@ Release notes
 - Fixed a rendering issue in the tooltips of the new filtering engine (#153962, #153923).
 - Boolean values can now be synced with the SharePoint user profile sync feature (#154068).
 - Stability improvements to teamwork creation (#153715).
-
+- Improved filter rendering when using a text property and dropdown (#153189, #153688).
+- A login log is now available to view login attempts from Omnia users.
+- Selected user can now be used in all rollups. This is useful to create rich profile cards with queryable content. For KQL based rollups, its possible to use [SelectedUser.Id], [SelectedUser.Name], [SelectedUser.Email]. 
+- Fixed an issue that would duplicate images in the media picker under certain conditions (#153322, #152839).
+- A new way to update your profile photo has been added, this works for all account types including Omnia users (#152278).
+- It is now possible to assign a tenant administrator before the Omnia user sync has been run.
+- Localization now works as expected for Omnias onboarding emails (#151910).
+- Omnia users now have its first/latest login timestamp recorded and presented in the user management UI.
+- Improved security.
+- Omnia users can now be forced to change their password on first login. 
+- An SMTP server can now be configured for Omnia emails.
+- It is now possible to use forgot password even when a user is not onboarded yet (#152738).
+- Updated localization for natural language date formatting in rollups (#151635).
+- Improvements to the feature consent workflow.
 
 
 7.1.46
