@@ -47,7 +47,7 @@ To add an action button in this block, do the following:
 2. Click ADD BUTTON.
 3. Use the settings. Here's an example:
 
-.. image:: action-button-v7-settings-new.png
+.. image:: action-button-v7-settings-v75.png
 
 General
 **********
@@ -61,7 +61,7 @@ Add as favourite
 ------------------
 The purpose of this action is for the logged in user to add a favourites link for a page:
 
-.. image:: action-button-favourite.png
+.. image:: action-button-favourite-v75.png
 
 + **Remove link**: When a favourites link has been added, the text on the button changes so the user can remove the page from the favourites list. Add that text here. 
 + **Category**: If the Favourite link should be added to a specific category, type the name of the category here. It can be a new or an existing category.
@@ -72,7 +72,7 @@ Can be placed on any Omnia page. When a user clicks the button, an ics file for 
 
 Settings specific for the button, which all are related to events, are the following:
 
-.. image:: action-button-my-calendar.png
+.. image:: action-button-my-calendar-v75.png
 
 Select property to be used for a description and information on location, event start and end or for an all day event.
 
@@ -82,11 +82,11 @@ The purpose of this action is to make it possilble for users to create an Omnia 
 
 The following settings are available for this purpose (se above for the general ones):
 
-.. image:: action-button-create-app-v7.png
+.. image:: action-button-create-app-v75.png
 
 + **Dialog position**: Select position for the dialog that will open; Center or Right.
-+ **Select App definition**: Publishing, Community or Teamwork.
-+ **Select Template to show**: When you have selected app definition, here you select the template(s) that should be available. A list of all available templates for the definition is shown. You select one or more templates there.
++ **Select app definition**: Publishing, Community or Teamwork.
++ **Select template to show**: When you have selected app definition, here you select the template(s) that should be available. A list of all available templates for the definition is shown. You select one or more templates there.
 
 Create document
 ----------------
@@ -100,7 +100,7 @@ Create page
 -------------
 Using this button the action Create page can be executed:
 
-.. image:: action-button-create-page-v7.png
+.. image:: action-button-create-page-v75.png
 
 + **Publishing app**: Select publishing app to create the new page in.
 + **Set default value from current page**: (A description will be added soon)
@@ -109,7 +109,7 @@ Event management
 ------------------
 Using this type you can add buttons for Event management actions:
 
-.. image:: action-button-event-management-v7.png
+.. image:: action-button-event-management-v75.png
 
 + **Button type**: Decide what this button will do; Sign up, Sign up other, Add to Outlook or Cancel:
 
@@ -119,11 +119,11 @@ Using this type you can add buttons for Event management actions:
 + Cancel: Used by the logged in user to cancel the registration he or she has made in their own name, ie done by using the button "Sign up".
 + Open Microsoft Teams meeting: If a Teams Meeting was created when the event was created, this button can be used to open that meeting. If no meeting has been created this option has no effect.
 
-For more information about how the buttons work and more useful tips for event management, see: :doc:`Working with Events </working-with-events/index>`
+For more information about how the buttons work and more useful tips for event management, see: :doc:`Working with events </working-with-events/index>`
 
 Export process
 ----------------
-This button will probably be relabeled "Print Process" because that is what it does, for now. Must be used on a process page to work. See this page for more information: :doc:`Print a process </working-with-processes/print-process/index>`
+This button can be used to print a process. Must be used on a process page to work. See this page for more information: :doc:`Print a process </working-with-processes/print-process/index>`
 
 Invite co-authors
 -------------------
@@ -137,7 +137,7 @@ Like
 -------
 Page likes and comments can be added as a block on a page, but the Like action can also be added as an action button:
 
-.. image:: action-button-like.png
+.. image:: action-button-like-v75.png
 
 + **Unlike text**: When a user has liked a page, the text on the button changes to "Unlike". If you want some other unlike-text, edit the text here.
 + **Target**: Target can only be Page for now and is selected by default.
@@ -146,7 +146,7 @@ Link
 ------
 Using this action a link action can be added, meaning a link can be opened:
 
-.. image:: action-button-links.png
+.. image:: action-button-links-v75.png
 
 + **URL**: Type or paste the URL to go to when a user clicks the link. 
 + **Anchor name**: Type the anchor name in this field to create a link to an anchor.
@@ -177,7 +177,7 @@ Motification panel
 --------------------
 Using this action button a notification panel can be shown just like it is in the Notification panel block.
 
-.. image:: action-button-notification-panel.png
+.. image:: action-button-notification-panel-v75.png
 
 The settings here are used the same way as in the block, see: :doc:`The Notification panel block </blocks/notification-panel/index>`
 
@@ -207,19 +207,19 @@ Quick search
 ---------------
 Using this action quick search can be used, like it can in the Search block.
 
-.. image:: action-button-quick-search.png
+.. image:: action-button-quick-search-v75.png
 
 + **Inherit business profile settings**: You can inherit the search settings from the business profile and if that is what you want to do, you don’t need to change anything, it’s default. If you would like to set specific category settings for this block, deselect and the following will be available:
 
-.. image:: action-button-quick-search-specific.png
+.. image:: action-button-quick-search-specific-v75.png
 
 You use these settings the same way as in the Search block. For more information, see: :doc:`The Search block </blocks/search/index>`
 
 Share
 --------
-Share can be available through the Likes and Comments block, but can also be added as an action button:
+Share can be available through the Likes and comments block, but can also be added as an action button:
 
-.. image:: action-button-share.png
+.. image:: action-button-share-v75.png
 
 + **Share type**: Select in what way users should be able to share a link to this page; Email, Teams or Yammer.
 
@@ -229,11 +229,11 @@ Sign-off request
 -----------------
 Use this to add an action button for sign-off requests.
 
-.. image:: action-button-sign-off-v7.png
+.. image:: action-button-sign-off-v75.png
 
 + **Type**: You can choose between "List of requested by me", "End-user sign-off" and "Create new request".
 
-The "List ofrRequested by me" displays all sign-off requests the logged in administrator has sent, indicating what has happened so far. Here's an example:
+The "List of requested by me" displays all sign-off requests the logged in administrator has sent, indicating what has happened so far. Here's an example:
 
 .. image:: requests-admin-list-v7.png
 
@@ -259,7 +259,7 @@ Subscribe
 -----------
 This action can be added to the menu in a community but can also be added as a button on a page for a community or a publishing channel, with these settings:
 
-.. image:: action-button-subscribe-v7.png
+.. image:: action-button-subscribe-v75.png
 
 + **Unsubscribe text**: A "Subscribe" button changes the text automatically when a user has clicked the button. Unsubscribe is suggested but you can change the text to something else.  
 + **Subscription scope**: Select the scope here, meaning what the user actually subscribes to; the page in a community (= all changes to the page, even comments and best reply for knowledge pages), the publishing app, meaing the community app (= all new pages in the app, but not changes to existing pages) or the page collection for the community (= all new pages in the page collection, but not changes to existing pages). The scope can also be a publishing channel.
@@ -271,7 +271,7 @@ Teamwork navigation
 ---------------------
 The purpose of this button is to create a teamwork navigation, like the one that can be availble from the workspace header.
 
-.. image:: teamwork-navigation-button-all.png
+.. image:: teamwork-navigation-button-all-v75.png
 
 You can add categories (tabs) to display and you can work with a number of details for what is actually shown under each category. Using the option "Create teamwork" you can decide if it should be possible to create an app from here, and how it will work in that case.
 
