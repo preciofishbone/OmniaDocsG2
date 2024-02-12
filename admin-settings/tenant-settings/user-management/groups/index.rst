@@ -33,7 +33,9 @@ Here you can add an image for the group using the Image picker, add a name and d
 
 Add users to a group
 ---------------------------------
-To add Omnia users to a group, do the following (only Omnia users can be added to Omnia groups):
+Only Omnia users can be added to Omnia groups. If you need to add other users to groups, use Dynamic groups.
+
+To add Omnia users to a group, do the following:
 
 1. Click the USERS button and add one or more users from the list.
 
@@ -49,7 +51,7 @@ The filter can be used to find one or more users in a long list.
 
 Add groups to a Omnia group
 ------------------------------
-Only Omnia groups can be added to an Omnia group. 
+Only Omnia groups can be added to Omnia groups. If you need to add other groups to a group, use Dynamic groups. 
 
 1. Click the Groups icon.
 
