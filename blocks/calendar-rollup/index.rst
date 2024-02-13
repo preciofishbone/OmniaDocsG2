@@ -37,11 +37,7 @@ Here you select on or more calendars.
 + **Select Microsoft 365 group**: If you have selected "Microsoft 365 group" above you use this field to search for a calendar. 
 + **ADD**: Cilck here to add the calendar. 
 
-When you have added a calendar, additional options are available by expanding the calendar. You can then delete it from the list or set the folliwing:
-
-.. image:: calendar-rollup-additional.png
-
-You can target a calendar using the standard targeting options, see this page for more information: :doc:`Using targeting </general-assets/targeting-in-omnia/index>`
+When you have added a calendar, additional options are available by expanding the calendar, see below.
 
 To add a Micorosoft 365 group calendar
 --------------------------------------------
