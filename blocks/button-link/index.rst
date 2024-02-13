@@ -177,7 +177,7 @@ Motification panel
 --------------------
 Using this action button a notification panel can be shown just like it is in the Notification panel block.
 
-.. image:: action-button-notification-panel-v75.png
+.. image:: action-button-notification-panel-v75-frame.png
 
 The settings here are used the same way as in the block, see: :doc:`The Notification panel block </blocks/notification-panel/index>`
 
@@ -271,7 +271,7 @@ Teamwork navigation
 ---------------------
 The purpose of this button is to create a teamwork navigation, like the one that can be availble from the workspace header.
 
-.. image:: teamwork-navigation-button-all-v75.png
+.. image:: teamwork-navigation-button-all-v75-frame.png
 
 You can add categories (tabs) to display and you can work with a number of details for what is actually shown under each category. Using the option "Create teamwork" you can decide if it should be possible to create an app from here, and how it will work in that case.
 
@@ -289,7 +289,7 @@ These are the same settings as used when editing header settings for workspace. 
 
 The following is available under "Create teamwork":
 
-.. image:: teamwork-navigation-button-add-create-v7.png
+.. image:: teamwork-navigation-button-add-create-v75.png
 
 + **Show Create new site**: If it should not be possible to create a new site here, deselect this option. Note that the default for this option is selected.
 
@@ -331,7 +331,7 @@ These settings are available for style (available to the right of GENERAL for mo
 
 Style
 ******
-These Style settings are available here:
+These Style settings are available on the Style tab, below the Actions tab:
 
 .. image:: action-button-style-v7.png
 
