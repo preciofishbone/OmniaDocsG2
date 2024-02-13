@@ -9,13 +9,13 @@ Settings
 *********
 The following settings are available for the block:
 
-.. image:: channel-rollup-settings.png
+.. image:: channel-rollup-settings-v75.png
 
 General
 ----------
 Under "General" you can add a block title, if needed, in any or all tenant languages. Click the flag to change language.
 
-.. image:: channel-rollup-settings-general.png
+.. image:: channel-rollup-settings-general-v75.png
 
 Query
 ---------
@@ -43,8 +43,6 @@ Filter
 Here you can choose to display a search field:
 
 .. image:: channel-rollup-settings-filter.png
-
-In Omnia 7.0 and later, new options for filtering can be available, see: :doc:`Filter options for blocks in Omnia v7 </blocks/general-block-settings/filter-options-block/index>`
 
 Layout and Write
 ******************
