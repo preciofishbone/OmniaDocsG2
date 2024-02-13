@@ -13,7 +13,7 @@ Settings
 *********
 The following settings are available for the block:
 
-.. image:: event-counter-settings-new.png
+.. image:: event-counter-settings-v75.png
 
 + **Title**: Here you can add a title for the block. Clilck the flag to change language.
 + **Icon type**: Select an Icon Type here.
