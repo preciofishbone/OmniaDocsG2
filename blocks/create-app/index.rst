@@ -15,19 +15,19 @@ The following settings are available:
 
 Here's an example with three templates selected for teamwork:
 
-.. image:: create-app-block-settings-selected-v75.png
+.. image:: create-app-block-settings-selected-v75-frame.png
 
 (Not all teamwork types listed are available in Omnia on-prem.)
 
 To remove a template from the list, click the dust bin. To edit the order, use this icon and drag and drop:
 
-.. image:: create-app-block-settings-selected-order-v75.png
+.. image:: create-app-block-settings-selected-order-v75-frame.png
 
 This list will look like this for the user:
 
 .. image:: create-app-block-settings-selected-user-v75.png
 
-For more information on creating app templates, in **Omnia v7** versions, see: 
+For more information on creating app templates in **Omnia v7** versions, see: 
 
 + :doc:`Templates for communities in Omnia v7 </admin-settings/business-group-settings/communities/communities-v7/templates/index>`
 
@@ -35,7 +35,7 @@ For more information on creating app templates, in **Omnia v7** versions, see:
 
 + :doc:`Teamwork templates in Omnia v7 </admin-settings/business-group-settings/team-collaboration/teamwork-v7/templates/index>`
 
-For more information on creating app templates, in Omnia versions up to **6.13**, see: 
+For more information on creating app templates in Omnia versions up to **6.13**, see: 
 
 + :doc:`Templates for communities </admin-settings/business-group-settings/communities/communities-65/templates/index>`
 
