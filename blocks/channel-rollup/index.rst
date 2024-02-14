@@ -3,7 +3,7 @@ Channel rollup
 
 Use this block to rollup publishing channels for easy access for administrators and/or to rollup pending approvals for one or more channels.
 
-For more information about publishing channels, see: :doc:`Publishing channels </admin-settings/tenant-settings/webcontent-managament/publishing-channels/index>`
+For more information, see: :doc:`Publishing channels </admin-settings/tenant-settings/webcontent-managament/publishing-channels/index>`
 
 Settings
 *********
