@@ -27,7 +27,15 @@ This list will look like this for the user:
 
 .. image:: create-app-block-settings-selected-user-v75.png
 
-For more information on creating app templates, see: 
+For more information on creating app templates, in **Omnia v7** versions, see: 
+
++ :doc:`Templates for communities in Omnia v7 </admin-settings/business-group-settings/communities/communities-v7/templates/index>`
+
++ :doc:`Templates for publishing apps in Omnia v7 </admin-settings/business-group-settings/publishing-apps/publishing-v7/templates-v7/index>`
+
++ :doc:`Teamwork templates in Omnia v7 </admin-settings/business-group-settings/team-collaboration/teamwork-v7/templates/index>`
+
+For more information on creating app templates, in Omnia versions up to **6.13**, see: 
 
 + :doc:`Templates for communities </admin-settings/business-group-settings/communities/communities-65/templates/index>`
 
