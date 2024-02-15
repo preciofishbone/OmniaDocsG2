@@ -14,10 +14,10 @@ Dynamic groups are setup on tenant level. See this page for more information: :d
 
 How to make anonymous login work
 **********************************
-Several setup steps are needed to make anonymous login work.
+Several setup steps are needed to make anonymous login work. (This description is preliminary, will be verified soon).
 
 1. The tenant feature "Activate anonymous access core" must be on.
-2. A dynamic group to use for anonymous access must be created, and the users that should be able to log in anonymously, added to this group.
-3. One of the options for anonymous access must be selected in the business profile.
-4. In the app to be used for anonymous access, permissions for the dynamic group must be set.
+2. One of the options for anonymous access must be selected in the business profile (Business profile - User Management - Authentication).
+3. Make sure the Business profile user group allows anonymous access.
+4. If you selected anonymnous access for Workspace, see to that the Workspace readers groups allows anonymous access. If you selected an app, anonymous access must be allowed there as well.
 
