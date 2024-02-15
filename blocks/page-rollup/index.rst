@@ -272,7 +272,7 @@ Only news in Swedish will be listed in this example.
 
 Metric
 *******
-Using these settings you can show a metric in the block displaying the number of pages that is valid for the query settings. The metric can then be clicked to display the page rollup you have set uo.
+Using these settings you can show a metric in the block displaying the number of pages that is valid for the query settings. The metric can then be clicked to display the page rollup you have set up.
 
 This can for example be used to create a rather compact page or section with different metrics in different blocks, that the user can use to click the desired metric to see the full list.
 
