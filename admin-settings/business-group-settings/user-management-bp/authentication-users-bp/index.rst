@@ -19,7 +19,7 @@ Several setup steps are needed to make anonymous access work.
 3. Make sure "Business profile viewer" contains the Anonymous group (Business profile - Permissions - Business Profile).
 4. If you selected anonymous access for Workspace, make sure "Workspace reader" contains the Anonymous group (Business profile - Permissions - Workspace). If you selected an app, anonymous access can be set for each page collection, see below.
 
-To set anoymous access for a page collection, select Permissions for that page collection.
+To set anoymous access for a page collection, select "Permissions" for that page collection.
 
 .. image:: annonymous-page-1.png
 
