@@ -11,6 +11,8 @@ The following settings are available:
 
 .. image:: document-rollup-settings-all-new3.png
 
+Note that in Omnia 7.0 and later, the Refiner menu option is removed. Refiner options can, for Omnia 7.0 and later, be found under "Filter", see: :doc:`Filter options for blocks in Omnia v7 </blocks/general-block-settings/filter-options-block/index>`
+
 General
 -----------------
 Here you can set the following:
@@ -179,8 +181,6 @@ Using STYLE you can set the following:
 .. image:: document-rollup-settings-refiners-style.png
 
 Test the options and see a preview in the block.
-
-In Omnia 7.0 and later, the Refiner menu option is removed. Refiner options can now be found under "Filter", see: :doc:`Filter options for blocks in Omnia v7 </blocks/general-block-settings/filter-options-block/index>`
 
 Export
 *********
