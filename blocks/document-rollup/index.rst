@@ -159,11 +159,11 @@ Here you can add filters to show for the list, or add a search box.
 
 What you can do here is described on this page: :doc:`Filter UI </blocks/general-block-settings/filters/index>`
 
-In Omnia 7.0 and later, new options for filtering can be available, see: :doc:`Filter options for blocks in Omnia v7 </blocks/general-block-settings/filter-options-block/index>`
+In Omnia 7.0 and later, new options for filtering are available, see: :doc:`Filter options for blocks in Omnia v7 </blocks/general-block-settings/filter-options-block/index>`
 
 Refiner
 -----------------
-Here you select refiners users can use to refine the list:
+Here you select refiners users can use to refine the list. (Not available in Omnia 7.0 and later, see link to new filter options above).
 
 .. image:: document-rollup-settings-refiners-new.png
 
