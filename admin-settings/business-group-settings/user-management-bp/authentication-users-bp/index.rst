@@ -16,8 +16,8 @@ How to make anonymous login work
 **********************************
 Several setup steps are needed to make anonymous login work. (This description is preliminary, will be verified soon).
 
-1. The tenant feature "Activate anonymous access core" must be on.
-2. One of the options for anonymous access must be selected in the business profile (Business profile - User Management - Authentication).
-3. Make sure the Business profile user group allows anonymous access.
-4. If you selected anonymnous access for Workspace, see to that the Workspace readers groups allows anonymous access. If you selected an app, anonymous access must be allowed there as well.
+1. The tenant feature "Enable anonymous access" must be active. (When it is an Anonymous group is created automatically, can't be managed, but can be used for permissions).
+2. One of the options for anonymous access must be selected in a business profile (Business profile - User Management - Authentication), where anonymous access should be allowed.
+3. Make sure "Business profile viewer" contains the Anonymous group (Business profile - Permissions - Business Profile).
+4. If you selected anonymous access for Workspace, make sure "Workspace reader" contains the Anonymous group (Business profile - Permissions - Workspace). If you selected an app, anonymous access must be allowed there as well.
 
