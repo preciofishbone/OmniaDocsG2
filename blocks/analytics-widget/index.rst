@@ -60,7 +60,7 @@ The Write tab is not used here. The Layout tab contains general settings for blo
 
 An implementation example
 ****************************
-Here's an example of Anlytocs widget blocks set up:
+Here's an example of a number of Anlytics widget blocks to display analytics data in different ways:
 
 .. image:: widgets-example.png
 
