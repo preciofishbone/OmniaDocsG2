@@ -27,6 +27,7 @@ Here you decide what to display in the block:
 + **Search statistics**: You can display search statistics either for the whole tenant or for the actual business profile.
 + **Pages**: You can select one publishing app to show metrics for. If you don't, metrics for all publishing apps will be shown. You can also select a specific page type or a combination of both.
 + **User activity**: Has no further settings here. 
++ **URL status**: Use this scope for metrics and the system pages 404 not found and 401 unauthoroized. Available in Omnia 7.5 and later.
 
 Further settings that affects what is displayed are found under "Metrics".
 
@@ -45,20 +46,17 @@ In the field at the bottom you can select which metrics that should be shown, on
 + Search statistics: You can select search statistics for the total number of queries, abandoned queries or no result queries.
 + Pages: Here's a lot of options available - Published, Waiting for approval, Draft, No comments, Average number of comments, Average ratings, Reach and Underused content. "No comments" lists the number of pages that has no comment at all. "Average number of comments" is calculated this way: Total number of comments on all pages dived by the total number of pages. So if there are a total of 100 comments on all pages and there are 200 pages, the average number of comments would be 0,5.
 + User activity: You can select to show the number of active readers or the number of active contributors.
++ URL status: Select "404 not found" or "401 unauthoroized".
 
 What is to be considered underused content can be set in Omnia admin, see: :doc:`Metrics settings </admin-settings/tenant-settings/settings/metrics/index>`
 
 Metrics config
 -----------------
-For a selected metric you can use some config settings. Click the pen for the settings:
-
-.. image:: metrics-config-click.png
-
-You can use these settings:
+For a selected metric you can use some config settings (can differ depending on the matric), för example:
 
 .. image:: metrics-config-settings.png
 
-Don't forget to save when you're done.
+Should be self-explanatory. Don't forget to save when you're done.
 
 Filter UI
 ************
@@ -69,8 +67,4 @@ You can also add filters so users can decide what they will see, within the scop
 + **Max filters per row**: Set the number of filters per row here.
 
 In the field at the bottom you can choose what filters to display. Available options differ depending on scope chosen.
-
-In Omnia 7.0 and later, new options for filtering can be available, see: :doc:`Filter options for blocks in Omnia v7 </blocks/general-block-settings/filter-options-block/index>`
-
-
 
