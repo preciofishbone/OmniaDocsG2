@@ -1,9 +1,11 @@
 Analytics widget
 =============================================
 
-**This block is available in Omnia 7.5. Work on the page is ongoing.**
+**This block is available in Omnia 7.5 and later. Work on this page is ongoing.**
 
-This block is used to display Matomo analytics data. Several blocks can be used on a page, with different settings, to display different aspects of the analytics data,
+This block is used to display Matomo analytics data. Several blocks can be used on a page, with different settings, to display different aspects of the analytics data.
+
+If you will be using the same filter settings in several widget blocks, it can save some time to set the filter settings in a Analytics filters block and connect thw widget blocks to the filters block.
 
 The following settings are available for this block:
 
@@ -15,7 +17,7 @@ The following can be set under General:
 
 .. image:: analytics-block-widget-general.png
 
-+ **Connection key**: An anlytics filter block kan be connected to one or more widget blocks to use the filters set up in the Analytivs filter block. If you want to use the filters from an Analytics filer block here, add the connection key from that block.
++ **Connection key**: An anlytics filter block kan be connected to one or more widget blocks to use the filters set up in the Analytics filter block. If you want to use the filters from an Analytics filer block here, add the connection key from that block. (And then you don't need to set any filter settings in this block).
 
 Display
 ---------
@@ -28,12 +30,12 @@ The following settings are available here:
 + **Category**: Select the category to display in the block.
 + **Widget**: Depending on category selected, one or more widgets can ba available. Select the widget you want to use.
 + **View in widget**: For some widgets, different types of views can be available. If there are, this field is shown.
-+ **Websites**: (A description will be added soon).
++ **Websites**: Select the websie(s) to show analytics data for. In most cases it's business profiles you can select.
 + **Height (in px)**: You can either set a height for the block in pixels, or choose to automatically adjust the height. If you choose the latter, this option is not available.
 + **Show scrollbars**: Select this option if you want that.
 + **Automatically adjust height**: Select this option if the height of the block should be adjusted automatically.
-+ **Include footer in widget**: (A description will be added soon).
-+ **Disable links in widget**: (A description will be added soon).
++ **Include footer in widget**: For a fotter in the widget block, select this option.
++ **Disable links in widget**: Per default, widget objects can be clicked for more detailed information. If you don't want that 
 
 Filter
 ---------
@@ -56,3 +58,10 @@ Layout and Write
 ******************
 The Write tab is not used here. The Layout tab contains general settings for blocks. For more information see: :doc:`General block settings </blocks/general-block-settings/index>`
 
+An implementation example
+****************************
+Here's an example of Anlytocs widget blocks set up:
+
+.. image:: widgets-example.png
+
+(More information on how this page is set up, will be added soon.)
