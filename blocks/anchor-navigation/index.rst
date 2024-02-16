@@ -1,8 +1,6 @@
 Anchor navigation
 =============================================
 
-**This block is available in Omnia 7.5. Work on the page is ongoing.**
-
 Use this block for navigation through anchors within a page.
 
 The following settings are available:
@@ -32,7 +30,7 @@ Here you can edit some settings for the display of the navigation.
 .. image:: anchor-navigation-block-display.png
 
 + **(Top icons)**: Click the icon for the type of display you want. The first two icons should be self explanatory. The right-most icon is for a dropdown navigation, especially useful for mobile navigation.
-+ **Sticky**: Select this option if you would like the navigation to always be shown when scrolling.
++ **Sticky**: Select this option if you would like the navigation to always be shown when scrolling. Besides that, the navigation indicates where you are on the page.
 + **Item border**: (A description will be added soon).
 + **(Padding)**: Add some padding if needed.
 + **Font size**: Use the slider to set the font size of the navigation.
