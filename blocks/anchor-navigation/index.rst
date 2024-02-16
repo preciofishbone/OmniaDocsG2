@@ -1,7 +1,7 @@
 Anchor navigation
 =============================================
 
-Use this block for navigation through anchors within a page.
+Use this block for navigation through anchors within a page. This block is available in Omnia 7.5 and later.
 
 Here's an example of a anchor navigation:
 
