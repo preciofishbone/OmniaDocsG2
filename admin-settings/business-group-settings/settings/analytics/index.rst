@@ -29,3 +29,10 @@ Here's an example of an analytics page. The dimensions set up in the image above
 
 For more information about how to use Matomo analytics, see this page: https://matomo.org/help/
 
+Blocks for analytics
+***********************
+Another alternative for displaying analytics is to use the two blocks for this purpose, see:
+
++ :doc:`Analytics filters block </blocks/analytics-filters/index>`
++ :doc:`Analytics widget block </blocks/analytics-widget/index>`
+
