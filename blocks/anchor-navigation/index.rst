@@ -3,6 +3,10 @@ Anchor navigation
 
 Use this block for navigation through anchors within a page.
 
+Here's an example of a anchor navigation:
+
+.. image:: anchor-navigation-block-example.png
+
 The following settings are available:
 
 .. image:: anchor-navigation-block.png
