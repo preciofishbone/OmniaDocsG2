@@ -1,6 +1,8 @@
 Page rollup
 ===========================================
 
+**(This page is being updated.)
+
 This block can be used for many purposes, for example:
 
 + List news in different ways; a news center, new news, latest news etc.
@@ -21,21 +23,21 @@ Settings
 *********
 These settings are available for the block:
 
-.. image:: page-rollup-settings-612.png
+.. image:: page-rollup-settings-v75.png
 
 General
 --------
 Here you can add a title for block:
 
-.. image:: page-rollup-settings-general-frame.png
+.. image:: page-rollup-settings-general-v75.png
 
-If any variations exist, titles in other languages are handled through variations. If no variations exist you can add titles in any or all languages in the tenant.
+As usual, click the flag to change language.
 
 Query
 ------
 Here you can set the following:
 
-.. image:: page-rollup-settings-query-new5.png
+.. image:: page-rollup-settings-query-v75.png
 
 + **Pick pages**: If the editor should be able to pick pages from a list, select this option.
 + **Pick in Write mode**: Available when "Pick pages" is selected. Select this option if editors should be able to pick pages in Write mode. If not selected, Design mode has to be used.
@@ -55,13 +57,14 @@ For query builder, the following options are available:
 
 When you have selected apps, business profiles, channels or page collections, as the next step, you select one or more to get the pages from. 
 
+.. image:: page-rollup-select.png
+
 The following settings can then be available, depending on scope chosen:
 
 + **ADD FILTER**: Available for scope Tenant. Use it to add filters, to further decide what should be shown in the rollup.  
 + **Cache on client**: This setting can be used to speed up rendering on subsequent page loads. This is is done by storing data in the browser cache. Default: selected.
 + **Current user subscription**: Available for scope Channels. Select this if only the pages that the logged in users subscribes to should be displayed.
 + **Current node/Custom**: Available for scope Navigation path. Choose the start point for the navigation path to be displayed. If you select "Custom", you can use the page picker to select start node.
-+ **Custom**: Available for scope Navigation path. Use to select start node.
 + **Exclude current page**: Available when you have chosen scope for the query builder. The default setting is to exclude the current page, but if you, for some reason, would like to include the current page, uncheck this option.
 + **Exclude start node**: Available for scope Navigation path. If the start page selected should not be displayed in the block, select this option.
 + **Exclude variations**: Usings this option, you can exclude varations from the query. Not available for Navigation path.
@@ -79,9 +82,9 @@ Navigation path is a special case, it's used for creating a navigation. When you
 
 Display
 ----------
-Select View here. Note that a preview is shown in the blocks
+Select View here. Note that a preview is shown in the block.
 
-.. image:: page-rollup-settings-display-new.png
+.. image:: page-rollup-settings-display-v75.png
 
 The following lists all available display settings, shown in different order for different displays, here listed in alphabetical order.  
 
@@ -91,11 +94,12 @@ These options are available for most views:
 
 + **Date**: Select the property that contains the date for the item(s) to display. Available for Roller, Listing with image, Dynamic roller, Card and Newsletter.
 + **Dialog image**: Select image to display, if any. Available when ypu have selected "Open page as a dialog".
++ **Fixed header**: Available for List view in Omnia v7. When this option is selected, the heading will always be shown when scrolling.
 + **Hide block when no data**: Select this option if the block should be hidden when there's nothing to display.
 + **Hide if read**: Select this option to hide all pages the logged in user has visited. This affects all pages, including news.
 + **Highlight non-read**: This option makes sure non-read pages are highlighted. Default=selected. Deselect if you don't want that.
 + **Image**: Select the property that contains the image for the item(s) to display. Available for Roller, Listing with image, Dynamic roller, Card and Newsletter views.
-+ **Image Ratio**: Select ratio for the image; Landscape, Square or Wide. Available for Roller, Listing with image, Dynamic Roller and Newsletter.
++ **Image ratio**: Select ratio for the image; Landscape, Square or Wide. Available for Roller, Listing with image, Dynamic Roller and Newsletter.
 + **Link label**: Add the text to be shown for the link here. Available only if "Show link" is selected.
 + **Link URL**: Add the URL to open when a user clicks the link. Available only if "Show link" is selected.
 + **Max display limit**: Available only for scope Navigation path, for all views. Set the number of pages that should be displayed. 
