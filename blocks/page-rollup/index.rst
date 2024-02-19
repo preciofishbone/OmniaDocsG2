@@ -1,7 +1,7 @@
 Page rollup
 ===========================================
 
-**(This page is being updated.)
+**(This page is being updated.)**
 
 This block can be used for many purposes, for example:
 
