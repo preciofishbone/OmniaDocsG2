@@ -1,7 +1,7 @@
 Page likes and comments
 ===========================================
 
-The block makes it possible for the end user to like and comment a specific web page, including news and community pages (knowledge articles and discussions). It is also possible to reply to comments and it can be possible to use mentions. Besides that, users can share the page with others by Email.
+The block makes it possible for the end user to like and comment (or add a social reaction if that is allowed) a specific web page, including news and community pages (knowledge articles and discussions). It is also possible to reply to comments and it can be possible to use mentions. Besides that, users can share the page with others by Email.
 
 .. image:: comments-and-likes-v75.png
 
@@ -19,7 +19,7 @@ When the block is added to a page (or to the page type), authors can turn on or 
 
 This can be very handy if the block "Page likes and comments" is present in a page type, but should not be used on every page.
 
-(Note, social reactions is allowed here, so therefore the option is "Allow social reactions". If social reactions is not allowed, the option would be "Allow likes".)
+(Note that social reactions is allowed here. If social reactions is not allowed, the option is be "Allow likes" instead of "Allow social reactions".)
 
 Settings for the block
 ************************
