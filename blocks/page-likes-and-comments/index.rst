@@ -73,7 +73,7 @@ For advanced settings, the following is available:
 
 .. image:: likes-65-style-card-advanced-v75.png
 
-Should eb self-explanatory.
+Should be self-explanatory.
 
 Layout and Write
 *********************
