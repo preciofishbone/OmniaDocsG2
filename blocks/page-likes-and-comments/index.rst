@@ -3,11 +3,11 @@ Page likes and comments
 
 The block makes it possible for the end user to like and comment a specific web page, including news and community pages (knowledge articles and discussions). It is also possible to reply to comments and it can be possible to use mentions. Besides that, users can share the page with others by Email.
 
-.. image:: comments-and-likes-new2.png
+.. image:: comments-and-likes-v75.png
 
 It is possible for the end user to edit and delete a comment, made by the user, by using the menu. 
 
-.. image:: comments-and-likes-pen-new2.png
+.. image:: comments-and-likes-pen-v75.png
 
 When a comment is deleted it works this way: If there are no answers to the comment it will just be removed. If there are answers, the  comment will be replaced with a text that states that it has been deleted and by whom. Everyone can delete their own comments. A publishing app administrator can delete any comment. 
 
@@ -15,9 +15,11 @@ Turning the options on or off
 -------------------------------
 When the block is added to a page (or to the page type), authors can turn on or off likes and/or comments using Write mode.
 
-.. image:: page-likes-author-new2.png
+.. image:: page-likes-author-v75.png
 
 This can be very handy if the block "Page likes and comments" is present in a page type, but should not be used on every page.
+
+(Note, social reactions is allowed here, so therefore the option is "Allow social reactions". If social reactions is not allowed, the option would be "Allow likes".)
 
 Settings for the block
 ************************
@@ -43,7 +45,7 @@ The following settings are available on this tab (image from Omnia 7.5):
 
 If "Allow social reactions" is activated, these social reactions can be used when commenting:
 
-.. image:: comment-social.png
+.. image:: comment-social-v75.png
 
 More about Yammer integration
 ---------------------------------
