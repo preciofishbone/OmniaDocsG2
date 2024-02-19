@@ -23,20 +23,20 @@ Settings for the block
 ************************
 The following settings are available for the block:
 
-.. image:: comments-and-likes-settings-all.png
+.. image:: comments-and-likes-settings-all-v75.png
 
 General
 ----------
-The following settings are available on this tab:
+The following settings are available on this tab (image from Omnia 7.5):
 
-.. image:: likes-general-612.png
+.. image:: likes-general-v75.png
 
 + **Title**: If a title should be shown for the block, add it in this field. If variations exists for the page, it looks like in the image above. Titles in other languages are set in the variations. If there is  no variations you can set the title in any or all the languages active in the tenant. 
 + **Enable Yammer sync**: If Yammer sync is enabled for the page collection, this option is available. See more information below about how to use it.
-+ **Enable rich text**: If you enable rich Text, some basic formatting will be availble for users.          
++ **Rich text mode**: If you enable rich Text, some basic formatting will be availble for users.          
 + **Enable mention**: If it should be possible to use mentions in comments on this page or in this page type, select this option. See below for an example.
 + **Allow social reactions**: Can be available if settings allow it. If it should be possible to to use social reactions in this block, select this option. The same social reactions functionality as in Teams can be used. The tenant feature "Social reactions" must be activated for this option to be available.
-+ **Allow likes**: If it should be able to like a comment, select this option. If the tenant feature "Social reactions" is activated, the "Allow social reactions" option replaces this option. Then social reactions is used instead of likes.
++ **Allow likes/Allow social reaction**: If it should be able to like a comment, select this option. If the tenant feature "Social reactions" is activated, the "Allow social reactions" option replaces this option. Then social reactions is used instead of likes.
 + **Allow share**: If it should be possible to share a comment, select this option - meaning the possibility to send a comment to another user by email.
 + **Sorting**: Here you choose how to sort the comments; older first or newer first.
 + **Paging size**: Add a number (1-99) to set the number of items (comments) that should be displayed on each “page” of the list.
@@ -59,15 +59,19 @@ Style
 ----------
 These settings are available onf the Style tab:
 
-.. image:: likes-65-style.png
+.. image:: likes-65-style-v75.png
 
 You can add some padding if needed and it's also possible to set styling for the "cards" (meaning each comment with sub comments). By selecting "Custom Card styling" you can set the following:
 
-.. image:: likes-67-style-card.png
+.. image:: likes-67-style-card-v75.png
+
+You use the pipette to select a theme. The rest of the options should be self-explanatory.
 
 For advanced settings, the following is available:
 
-.. image:: likes-65-style-card-advanced.png
+.. image:: likes-65-style-card-advanced-v75.png
+
+Should eb self-explanatory.
 
 Layout and Write
 *********************
