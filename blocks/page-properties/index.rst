@@ -33,11 +33,11 @@ For each property you add, you can set some style options. Click here to set the
 
 For General Style you can set:
 
-.. image:: page-properties-block-display-style-general.png
+.. image:: page-properties-block-display-style-general-v75.png
 
-+ **Show label**: Decide to show the block label or not.
++ **Show label**: Decide to show the block label or not. (As usual, click the flag to change language).
 + **Custom label**: Add a custom label here if needed.
-+ **Date type**: For date type you can choose Default, Classic or Social. 
++ **Date type**: For date type you can choose Default, Classic or Social. Not available for all properties.
 
 For extra style, some color settings and icon settings are available:
 
