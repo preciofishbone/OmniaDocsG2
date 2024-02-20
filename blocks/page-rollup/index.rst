@@ -86,6 +86,14 @@ Select View here. Note that a preview is shown in the block.
 
 The following lists all available display settings, first the common ones and then some that are specific for a view.
 
+Tip: Pages with a specific variation only
+---------------------------------------------
+If just pages with a certain variation (language or other variation) should be listed in the rollup, it can be done this way:
+
+.. image:: page-rollup-variation-example-new.png
+
+Only news in Swedish will be listed in this example.
+
 Options for most views
 ------------------------
 These options are available for most views, shown in different order for different displays, here listed in alphabetical order:
@@ -274,14 +282,6 @@ These settings where called "Social period" in earlier Omnia versions. The follo
 .. image:: page-rollup-settings-social-new3.png
 
 Use these settings to decide the time period calculated for any of these options. If you don't select anything, it means "No limit". You can select one week, two weeks or one month instead.
-
-Filter on a specific variation
---------------------------------
-If just pages with a certain variation (language or other variation) should be listed in the rollup, it can be done this way:
-
-.. image:: page-rollup-variation-example-new.png
-
-Only news in Swedish will be listed in this example.
 
 Metric
 *******
