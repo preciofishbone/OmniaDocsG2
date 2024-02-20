@@ -238,9 +238,20 @@ Style settings
 ----------------
 For Roller, Dynamic roller and Card, extra style settings are available, for example (Card):
 
-.. image:: page-roller-style.png
+.. image:: page-roller-style-v75-1.png
 
-Just try out these settings. A preview is shown in the block.
+and these:
+
+.. image:: page-roller-style-v75-2.png
+
+Most options should be self explanatory, just try out these settings. A preview is shown in the block.
+
+A few notes, though:
+
++ **Mix card sizes**: (A description will be added soon).
++ **Mix card types**: Select this option if you would like an automatic mix of card types. Card types are remixed every time the page is loaded. If you click this option on and off a few times while you work with the settings, you can see the mix changing. If you select "Mixed" for "Layout", this option is not available.
++ **Static title size**: If the size of the title always should be the same on all cards, select this option.
++ **Colorful**: Available for some Layout options. It's really colorful! Try it and see what you think.
 
 Filter
 -------
