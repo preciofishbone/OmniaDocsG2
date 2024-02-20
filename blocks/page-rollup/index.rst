@@ -86,11 +86,11 @@ Select View here. Note that a preview is shown in the block.
 
 .. image:: page-rollup-settings-display-v75.png
 
-The following lists all available display settings, shown in different order for different displays, here listed in alphabetical order.  
+The following lists all available display settings, first the common ones and then some that are specific for a view.
 
-Options for all views
+Options for most views
 ------------------------
-These options are available for most views:
+These options are available for most views, shown in different order for different displays, here listed in alphabetical order:
 
 + **Date**: Select the property that contains the date for the item(s) to display. Available for Roller, Listing with image, Dynamic roller, Card and Newsletter.
 + **Dialog image**: Select image to display, if any. Available when ypu have selected "Open page as a dialog".
