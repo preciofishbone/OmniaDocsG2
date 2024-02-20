@@ -1,8 +1,6 @@
 Page rollup
 ===========================================
 
-**(This page is being updated.)**
-
 This block can be used for many purposes, for example:
 
 + List news in different ways; a news center, new news, latest news etc.
@@ -228,7 +226,7 @@ Card view can now display sub pages if the scope "Navigation path" is used. Here
 
 .. image:: card-view-example-sub-pages.png
 
-The card view also supports a dynamic number of properties that can be displayed in the card. Here's an example:
+The card view also supports a dynamic number of properties that can be displayed on the card. Here's an example:
 
 .. image:: pagerollup-cardview-terms.png
 
