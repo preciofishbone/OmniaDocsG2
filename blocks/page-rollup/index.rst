@@ -257,7 +257,7 @@ Filter
 -------
 If users should be able to filter the list and/or search here, use these options. 
 
-The following are available in Omnia 6.13 and earlier (se linke below for Omnia v7):
+The following are available in Omnia 6.13 and earlier (se link below for Omnia v7):
 
 .. image:: page-rollup-filter-65.png
 
