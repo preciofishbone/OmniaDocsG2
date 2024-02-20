@@ -287,7 +287,7 @@ Metric
 *******
 Using these settings you can show a metric in the block displaying the number of pages that is valid for the query settings. The metric can then be clicked to display the page rollup you have set up.
 
-This can for example be used to create a rather compact page or section with different metrics in different blocks, that the user can use to click the desired metric to see the full list.
+This can for example be used to create a rather compact page or section with different metrics in different blocks. The user can then click the desired metric to see the full list.
 
 .. image:: page-rollup-metric.png
 
