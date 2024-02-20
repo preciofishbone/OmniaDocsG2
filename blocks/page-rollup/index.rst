@@ -289,9 +289,9 @@ Using these settings you can show a metric in the block displaying the number of
 
 This can for example be used to create a rather compact page or section with different metrics in different blocks. The user can then click the desired metric to see the full list.
 
-.. image:: page-rollup-metric.png
+.. image:: page-rollup-metric-v75.png
 
-+ **Show metric**: Select this to decide to show the metric.
++ **Show metric**: Select this to decide to show the metric (and the settings below becomes available).
 + **Title**: Add a title for the metric if needed.
 + **Description**: A description for the metric can also be added.
 + **Icon type/Icon**: Select an icon type and an icon, if you want to.
