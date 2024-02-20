@@ -257,7 +257,7 @@ Filter
 -------
 If users should be able to filter the list and/or search here, use these options. 
 
-The following options are specific for the Page Rollup block:
+The following are available in Omnia 6.13 and earlier (se linke below for Omnia v7):
 
 .. image:: page-rollup-filter-65.png
 
@@ -265,7 +265,7 @@ The following options are specific for the Page Rollup block:
 
 The rest of the options are the same as for other blocks. See this page for information on how to use these filter options: :doc:`Filter UI </blocks/general-block-settings/filters/index>`
 
-In Omnia 7.0 and later, new options for filtering can be available, see: :doc:`Filter options for blocks in Omnia v7 </blocks/general-block-settings/filter-options-block/index>`
+In Omnia 7.0 and later, new options for filtering are available, see: :doc:`Filter options for blocks in Omnia v7 </blocks/general-block-settings/filter-options-block/index>`
 
 Time Period
 --------------
