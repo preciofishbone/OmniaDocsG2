@@ -149,16 +149,16 @@ You can also set which tabs should be added for all teams that are created from 
 + **Tab name**: Type the name for the tab here.
 + **App types**: Select type of app for the tab; Built-in meaning Microsoft apps, or Organization for other apps, which can, for example, be Omnia apps.
 
-Yammer community
---------------------
-The following setting is available for a Yammer community template for Setup:
+Viva Engage community
+----------------------
+The following setting is available for a Viva Engage community (former Yammer community) template for Setup:
 
 .. image:: teamwork-yammer-community-612.png
 
-**Note!** Yammer Community is not available in Omnia on-prem.
+**Note!** Viva Engage Community is not available in Omnia on-prem.
 
-+ **Welcome page**: Select the default URL for SharePoint or for a Yammer group.
-+ **Client id**: Type the Client id for the Yammer Network here.
++ **Welcome page**: Select the default URL for SharePoint or for a Viva Engage group.
++ **Client id**: Type the Client id for the Viva Engage Network here.
 
 Facebook workplace group
 -------------------------------
