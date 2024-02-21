@@ -1,9 +1,9 @@
-Yammer feed
+Viva Engage
 ===============
 
-A Yammer feed can be displayed in this block. 
+A Viva Engage feed (former Yammer feed) can be displayed in this block. 
 
-**Note!** In an Omnia on-prem setup, a separate online Yammer subscription and internet access is required.
+**Note!** In an Omnia on-prem setup, a separate online Viva Engage subscription and internet access is required.
 
 The following settings are available:
 
