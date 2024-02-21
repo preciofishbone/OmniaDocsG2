@@ -99,16 +99,16 @@ For **Apps** the following settings are available:
 
 9. Save the template.
 
-Private Yammer community
---------------------------
-The following setting is available for a Private Yammer Community template for Setup:
+Private Viva Engage community
+--------------------------------
+The following setting is available for a Viva Engage community (former Private Yammer community) template for Setup:
 
 .. image:: teamwork-yammer-community-v7.png
 
-**Note!** Yammer Community is not available in Omnia on-prem.
+**Note!** Viva Engage Community is not available in Omnia on-prem.
 
 + **Client id**: Type the Client id for the Yammer Network here.
-+ **Welcome Page**: Select the Yammer Group or SharePoint for welcome page. 
++ **Welcome Page**: Select the Viva Engage Group or SharePoint for welcome page. 
 
 Facebook Workplace Group
 -------------------------------
