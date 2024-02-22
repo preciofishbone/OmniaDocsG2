@@ -65,4 +65,4 @@ Sign-off requests: :doc:`The Sign-off request rollup block </blocks/sign-off-req
 
 Team news rollup: :doc:`The Team news rollup block </blocks/team-news-rollup/index>`
 
-Yammer feed: :doc:`The Yammer feed block </blocks/yammer-feed/index>`
+Viva Engage (former Yammer feed): :doc:`The Viva Engage block </blocks/yammer-feed/index>`
