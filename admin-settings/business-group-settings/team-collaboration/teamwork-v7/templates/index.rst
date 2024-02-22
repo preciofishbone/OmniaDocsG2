@@ -107,7 +107,7 @@ The following setting is available for a Viva Engage community (former Private Y
 
 **Note!** Viva Engage Community is not available in Omnia on-prem.
 
-+ **Client id**: Type the Client id for the Yammer Network here.
++ **Client id**: Type the Client id for the Viva Engage Network here.
 + **Welcome Page**: Select the Viva Engage Group or SharePoint for welcome page. 
 
 Facebook Workplace Group
