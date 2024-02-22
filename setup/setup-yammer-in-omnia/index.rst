@@ -1,5 +1,5 @@
 Setup Viva Engage in Omnia
-=======================
+============================
 
 Follow these steps to setup Viva Engage (former Yammer) in Omnia Online. (The images here still says Yammer, but the process is the same).
 
