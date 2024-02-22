@@ -42,7 +42,7 @@ Here's an example of what can be available here:
 + **Process tasks provider: Microsoft Planner**: Activate this feature to use Microsoft Planner to assign and work with process tasks. Can be used when processes are accessed through Microsoft Teams. If this feature is not activated, tasks for processes is just a simple list. 
 + **Support Kaizala login**: As it states. Was called "Allow mobile login" in earlier Omnia version.
 + **Microsoft Teams presence**: If activated, Teams presence is indicated by all people icons in Omnia (see below).
-+ **Viva Engage posts and comments integration**: There's a lot of integration between Viva Engage (former Yammer) and Omnia that is possible without having to activate this feature, but in order to use the new, improved Viva Engage integration where a post will be created in the selected Viva Engage community whenever a new page, matching the selected criteria, is created - this feature must be activated.
++ **Viva Engage posts and comments integration**: There's a lot of integration between Viva Engage (former Yammer - just a name change, functionality is the same) and Omnia that is possible without having to activate this feature, but in order to use the new, improved Viva Engage integration where a post will be created in the selected Viva Engage community whenever a new page, matching the selected criteria, is created - this feature must be activated.
 
 When Microsoft Teams presence is active, this type of icon indicates Teams presence:
 
