@@ -221,7 +221,7 @@ Share can be available through the Likes and comments block, but can also be add
 
 .. image:: action-button-share-v75.png
 
-+ **Share type**: Select in what way users should be able to share a link to this page; Email, Teams or Yammer.
++ **Share type**: Select in what way users should be able to share a link to this page; Email, Teams or Viva Engage (former Yammer).
 
 **Note!** For sharing through Email to work, the recepient's account must be Email enabled.
 
