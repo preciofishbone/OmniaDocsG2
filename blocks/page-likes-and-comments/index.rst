@@ -49,11 +49,11 @@ If "Allow social reactions" is activated, these social reactions can be used whe
 
 More about Viva Engage integration
 -------------------------------------
-If Viva Engage (former Yammer) integration is set up on page collection level, you can choose to activate a two way integration of comments here by selecting "Enable Viva Engage sync". When this option is on, a comment added in Viva Engage is also shown in Omnia.
+If Viva Engage (former Yammer) integration is set up on page collection level, you can choose to activate a two-way integration of comments here by selecting "Enable Viva Engage sync". When this option is on, a comment added in Viva Engage is also shown in Omnia.
 
 **Important note!** Due to limitations in the Viva Engage API, a comment on a comment is not placed as expected (but a comment on a post is). The comment on a comment is shown in Omnia, but is not indented, as you would expect it to be. This is a limitation in the Viva Engage API, not in Omnia.
 
-For more information about setting up Viva Engage integration on page collection level, see: :doc:`Page collection settingss </pages/page-collections/page-collection-settings/index>`
+For more information about setting up Viva Engage integration on page collection level, see: :doc:`Page collection settings </pages/page-collections/page-collection-settings/index>`
 
 More information about setting up Viva Engage in Omnia is found here: :doc:`Setup Viva Engage in Omnia </setup/setup-yammer-in-omnia/index>`
 
