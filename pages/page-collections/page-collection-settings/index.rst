@@ -67,14 +67,14 @@ The default setting is that the settings are inherited from the tenant setting.
 
 Don't forget to save your changes.
 
-Setup Yammer integration for the page collection
---------------------------------------------------
-The Yammer integration you can set up here is a one way integration; from Omnia to Yammer. A prerequisite is that the Feature "Yammer integration" is activated in Omnia admin (Tenant level).
+Setup Viva Engage integration for the page collection
+-------------------------------------------------------
+The Viva Engage (former Yammer) integration you can set up here is a one way integration; from Omnia to Yammer. A prerequisite is that the Feature "Viva Engage integration" is activated in Omnia admin (Tenant level).
 
 To set up Yammer integration, do the following:
 
 1. Select "Edit" to edit the settings.
-2. Click the cogwheel for "Yammer integration".
+2. Click the cogwheel for "Viva Engage integration".
 
 .. image:: yammer-integration-cogwheel.png
 
@@ -82,9 +82,9 @@ To set up Yammer integration, do the following:
 
 .. image:: yammer-integration-settings.png
 
-+ **Yammer group**: Select a Yammer group to intergate this page collection with.
++ **Yammer group**: Select a Viva Engage group to intergate this page collection with.
 + **Initial properties**: Select the properties used on pages for Title, Summary and Content.
-+ **Page creation rule**: Select if a Yammer post should always be created when a page is added, or only according to certain rules.
++ **Page creation rule**: Select if a Viva Engage post should always be created when a page is added, or only according to certain rules.
 
 4. Save when you're done.
 
@@ -98,7 +98,7 @@ To set up rules, do the following:
 
 4. Add settings for that property as needed.
 
-By using settings in the Page likes and comments block, you can set up a two way Yammer integration. Note that you must set up the integration here first.
+By using settings in the Page likes and comments block, you can set up a two way Viva Engage integration. Note that you must set up the integration here first.
 
 For more information, see: :doc:`The Page likes and comments block </blocks/page-likes-and-comments/index>`
 
