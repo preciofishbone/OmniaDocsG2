@@ -15,11 +15,11 @@ You create templates for publishing apps, community sites and teamwork the same 
 
 All settings for Omnia community apps works as described on the page linked above, even if available property sets and available features can differ. Creating a template for a Yammer community is slightly different. The differences are explained here.
 
-Creating a template for a Yammer community
-********************************************
-Firstly, there are no features available for a Yammer community template. Besides that, the only settings that are available in the Setup step are these:
+Creating a template for a Viva Enagage community
+**************************************************
+Firstly, there are no features available for a Viva Engage (former Yammer) community template. Besides that, the only settings that are available in the Setup step are these:
 
 .. image:: community-template-yammer.png
 
-Select either Yammer group or SharePoint as default resource.
+Select either Viva Engage group or SharePoint as default resource.
 
