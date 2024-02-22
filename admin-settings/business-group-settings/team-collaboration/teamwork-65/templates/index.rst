@@ -151,7 +151,7 @@ You can also set which tabs should be added for all teams that are created from 
 
 Viva Engage community
 ----------------------
-The following setting is available for a Viva Engage community (former Yammer community - image will be replaced soon) template for Setup:
+The following setting is available for a Viva Engage community (former Yammer community - image will be replaced soon) template for Setup (image will be replaced soon):
 
 .. image:: teamwork-yammer-community-612.png
 
