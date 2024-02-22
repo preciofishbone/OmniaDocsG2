@@ -1,7 +1,7 @@
 Teamwork templates in Omnia v7
 =======================================
 
-Here you can work with templates for teamwork; Microsoft 365 group, SharePoint teamsite, Microsoft Teams, private Yammer community and Facbook workplace group. The first list displays all templates that has been created so far, for example:
+Here you can work with templates for teamwork; Microsoft 365 group, SharePoint teamsite, Microsoft Teams, private Viva Engage (former Yammer) community and Facbook workplace group. The first list displays all templates that has been created so far, for example:
 
 .. image:: teamwork-templates-v7.png
 
