@@ -50,9 +50,9 @@ When Microsoft Teams presence is active, this type of icon indicates Teams prese
 
 In this example the icon indicates that the colleagues are offline at the moment.
 
-For more information on how to set up Yammer in Omnia, see:
+For more information on how to set up Viva Engage (former Yammer) in Omnia, see:
 
-:doc:`Setup Yammer in Omnia </setup/setup-yammer-in-omnia/index>` 
+:doc:`Setup Viva Engage in Omnia </setup/setup-yammer-in-omnia/index>` 
 
 System
 **********
