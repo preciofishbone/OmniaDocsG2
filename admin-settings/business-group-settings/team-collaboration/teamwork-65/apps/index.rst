@@ -78,7 +78,7 @@ The person requesting the teamwork receives the message and can then start a new
 
 Orphaned
 **********
-When a site of the type Microsoft 365 teamsite, SharePoint teamsite or SharePoint communication cite is created, a SharePoint site is created and is connected to the site. A Yammer group can also need a SharePoint site, depending on how the Yammer group is set up.
+When a site of the type Microsoft 365 teamsite, SharePoint teamsite or SharePoint communication cite is created, a SharePoint site is created and is connected to the site. A Viva Engage (former Yammer) group can also need a SharePoint site, depending on how the Yammer group is set up.
 
 The connected SharePoint site may be deleted for some reason, but when that happens the Omnia site may not. When this happens a link to the site is placed in this list, so an administrator can take actions.
 
@@ -86,7 +86,7 @@ Inactive
 ***********
 A teamwork is considered inactive if last activity, as registered in the SharePoint site, is more than three months old.
 
-Here's an exampl from a test environment:
+Here's an example from a test environment:
 
 .. image:: teamwork-apps-inactive-612.png
 
