@@ -175,7 +175,7 @@ The person requesting the teamwork receives the message and can then start a new
 
 Orphaned
 **********
-When a site of the type Microsoft 365 teamsite, SharePoint teamsite or Sharepoint communication site is created, a SharePoint site is also created and is connected to the site. A Yammer group can also need a SharePoint site, depending on how the Yammer group is set up.
+When a site of the type Microsoft 365 teamsite, SharePoint teamsite or Sharepoint communication site is created, a SharePoint site is also created and is connected to the site. A Viva Engage (former Yammer) group can also need a SharePoint site, depending on how the Viva Engage group is set up.
 
 .. image:: teamwork-orphaned-v7.png
 
