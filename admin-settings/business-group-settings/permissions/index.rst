@@ -41,7 +41,7 @@ Not that all other permissions concerning the workspace is handled by the genera
 
 Secrets
 ********
-When an extension has been installed for the business profile, get the security key/token and enter it here. In this example tokens for Facebook workplace and Viva Engage (former Yammer) can be added:
+When an extension has been installed for the business profile, get the security key/token and enter it here. In this example tokens for Facebook workplace and Viva Engage (former Yammer) can be added (image will be relaced soon):
 
 .. image:: secrets-business-profile-612.png
 
