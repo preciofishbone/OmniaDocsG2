@@ -1,11 +1,11 @@
 Analytics widget
 =============================================
 
-**This block is available in Omnia 7.5 and later. Work on this page is ongoing.**
-
 This block is used to display Matomo analytics data. Several blocks can be used on a page, with different settings, to display different aspects of the analytics data.
 
-If you will be using the same filter settings in several widget blocks, it can save some time to set the filter settings in a Analytics filters block and connect thw widget blocks to the filters block.
+If you will be using the same filter settings in several widget blocks, it can save some time to set the filter settings in an Analytics filters block and connect the widget blocks to the filters block.
+
+Pre requisite: To use Matomo analytics, the tenant feature “Analytics core setup” must be activated, and for a business profile, the feature “Create new analytics website in Matomo” must be activated. It's also important to start collecting analytics data as sooon as possible, as no historic data can be collected. For more information, see: :doc: `Analytics (Matomo) settings </admin-settings/business-group-settings/settings/analytics/index>`
 
 The following settings are available for this block:
 
