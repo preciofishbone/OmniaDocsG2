@@ -13,7 +13,7 @@ General
 ---------
 Here you can add a title for the block in any available tenant language (click the flag to change language).
 
-.. image:: community-rollup-settings-general-v7.png
+.. image:: community-rollup-settings-general-v75.png
 
 Query
 -----------
