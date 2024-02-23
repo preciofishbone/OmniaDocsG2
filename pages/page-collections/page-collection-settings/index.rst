@@ -35,7 +35,8 @@ Use the settings this way:
 + **Auto publish**: This is a setting probably most relevant for communities. If this option is selected a new page is always published automatically. It's only applicable when a new page is created, not when it's updated.
 + **Page types**: Select which of the page types that should be available for an editor to select when creating a page in this page collection. It can be local page types or tenant page types. Tenant page Types are indicated by the text "(Tenant)". For more information about tenant page types, see this page: :doc:`Tenant page types </admin-settings/tenant-settings/webcontent-managament/page-types/index>`. 
 + **Automatic page creation**: A copy of a page can be published automatically to another page collection when certain rules are met. In Omnia 7.0 and later, it can be possible to automatically publish to another tenant as well. These rules can be set up here. For more information, see this page: :doc:`Automatic page creation </pages/automatic-page-creation/index>`
-+ **Yammer integration**: When Yammer integration is setup, a post will be created in the selected Yammer community whenever a new page, matching the selected criteria, is created. See below for more information.
++ **Promotion channels**: You can configure promotion channels to send teasers to Microsoft Teams, Viva Engage, and via Email - for example to use in a publishing campaign. For details, see below.
++ **Viva Engage integration**: When Viva Engage (former Yammer) integration is setup, a post will be created in the selected Viva Engage community whenever a new page, matching the selected criteria, is created. See below for more information.
 + **Taxonomy connection**: When this option is activated, it's possible to connect the page collection to a taxonomy. Whenever a page is created in the page collection, a term will be created in the connected taxonomy and the page will automatically be tagged with the newly created term. This can, for example, be useful in different rollups. For more information, see below.
 + **Approval**: If approval should be needed for publication of pages (new pages and updates), enable this. If not enabled, editors can publish themselves. See more info about approval settings below.
 + **Activities**: For a community, activity tracking can be activated. See the heading *Settings for activity points* on this page, for more information: :doc:`Setting up a community </using-communities/settings/index>` 
@@ -66,6 +67,33 @@ The default setting is that the settings are inherited from the tenant setting.
 .. image:: page-type-default-setnew.png
 
 Don't forget to save your changes.
+
+Setup a promotion channel
+-----------------------------
+Do the following to set up a promotion channel:
+
+1. Click the plus.
+2. Use the following settings:
+
+.. image:: publishing-channels.png
+
++ **Name**: Add a name for the promotion channel here.
++ **Posting rule**: You can choose that a teaser for anew page in this page collection should always be published in this promotion channel, or you ca set up rules for publishing. More informatrion about this below.
++ **Type**: Can be Microsoft Teams, Viva Engage or Email.
++ **Group**: Select which group the channel is tied to. If you selected Microsoft Teams it's a list of Temas groups and so on.
++ **Channel**: For a Microsoft Teams group, several channels can exist. Select channel here. (Not available for Viva Engage or Email).
++ **Property mapping**: The properties used for the teaser are listed here. Select the property to use for each.
+
+3. To set a posting rule, first select "Only post if".
+4. Then select property, make other choices if necessary, and click ADD.
+
+.. image:: promotion-property-add.png
+
+In this simple example, a teaser should only be published to this promotion channel if the news type is Product News.
+
+You can add several posting rules if needed, to further limit what will be published.
+
+(Don't forget to save when you're done).
 
 Setup Viva Engage integration for the page collection
 -------------------------------------------------------
