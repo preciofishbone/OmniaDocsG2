@@ -7,7 +7,7 @@ Settings
 ***********
 The following settings are available for the block:
 
-.. image:: publishing-app-rollup-settings-all-v7.png
+.. image:: publishing-app-rollup-settings-all-v75.png
 
 General
 ---------
@@ -60,6 +60,21 @@ Here you can add filters so users can filter (= choose what to see in the rollup
 .. image:: publishing-app-rollup-settings-filter-v7.png
 
 Filter options in Omnia v7 are described on this page: :doc:`Filter options for blocks in Omnia v7 </blocks/general-block-settings/filter-options-block/index>`
+
+Metric
+*******
+Using these settings you can show a metric in the block displaying the number of apps that is valid for the query settings. The metric can then be clicked to display the rollup you have set up.
+
+This can for example be used to create a rather compact page or section with different metrics in different blocks. The user can then click the desired metric to see the full list.
+
+.. image:: page-rollup-metric-app-v75.png
+
++ **Show metric**: Select this to decide to show the metric (and the settings below becomes available).
++ **Title**: Add a title for the metric if needed.
++ **Description**: A description for the metric can also be added.
++ **Icon type/Icon**: Select an icon type and an icon, if you want to.
++ **Color**: This sets the color for the divider above the metric. 
++ **Dialog width/height**: Set width and height for the dialog displaying the list of pages.
 
 Layout and Write
 *********************
