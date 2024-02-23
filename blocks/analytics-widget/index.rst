@@ -28,14 +28,14 @@ The following settings are available here:
 **Note!** A preview is shown in the block so you can easily try out different combinations of settings.
 
 + **Category**: Select the category to display in the block.
-+ **Widget**: Depending on category selected, one or more widgets can ba available. Select the widget you want to use.
++ **Widget**: Depending on category selected, one or more widgets can be available. Select the widget you want to use.
 + **View in widget**: For some widgets, different types of views can be available. If there are, this field is shown.
-+ **Websites**: Select the websie(s) to show analytics data for. In most cases it's business profiles you can select.
++ **Websites**: Select the website(s) to show analytics data for. In most cases, a "website" is the analytics data for a business profile.
 + **Height (in px)**: You can either set a height for the block in pixels, or choose to automatically adjust the height. If you choose the latter, this option is not available.
 + **Show scrollbars**: Select this option if you want that.
 + **Automatically adjust height**: Select this option if the height of the block should be adjusted automatically.
 + **Include footer in widget**: For a fotter in the widget block, select this option.
-+ **Disable links in widget**: Per default, widget objects can be clicked for more detailed information. If you don't want that 
++ **Disable links in widget**: Per default, widget objects can be clicked for more detailed information. If you don't want that, select this option.
 
 Filter
 ---------
@@ -43,10 +43,10 @@ If you're not using an Analytics filter block for the filters, you can set filte
 
 .. image:: analytics-block-widget-filter.png
 
-+ **Period**: Decide if you want to display period, and if you do, select period in the list.
++ **Period**: Decide if you want to display period, and if you do, select the period in the list.
 + **Period date**: Decide if you want to display period date, and if you do, select period date in the list.
 + **Properties**: Add the properties you want use here. Click the plus for a property you select to add it.
-+ **No dimension filters**: (A description will be added soon). 
++ **No dimension filters**: Dimensions are set up in the Matomo settings (business profile level). If they should not be used in this block, select this option. 
 
 Style
 ---------
