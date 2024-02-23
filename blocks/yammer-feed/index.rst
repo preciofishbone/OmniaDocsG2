@@ -18,7 +18,7 @@ Under General you can set the following:
 + **Title**: Add a title for the block, in any or all tenant languages (click the flag to change language).
 + **Home**: Select type of feed here; Home, Community, User or Topic.
 + **Set a custom publisher prompt**: For a Home feed you can set the publisher prompt.
-+ **Search for the source**: Add the unique id for the community, user or topic here.
++ **Search for the unique id**: Add the unique id for the community, user or topic here.
 + **Set the default community for posting**: Available for Home feed.
 + **Set a customer publisher prompt**: Available for Community feed.
 
