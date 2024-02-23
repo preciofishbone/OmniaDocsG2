@@ -78,11 +78,11 @@ Do the following to set up a promotion channel:
 .. image:: publishing-channels.png
 
 + **Name**: Add a name for the promotion channel here.
-+ **Posting rule**: You can choose that a teaser for anew page in this page collection should always be published in this promotion channel, or you ca set up rules for publishing. More informatrion about this below.
++ **Posting rule**: You can choose that a teaser for a new page in this page collection should always be published in this promotion channel, or you can set up rules for publishing. More informatrion about this below.
 + **Type**: Can be Microsoft Teams, Viva Engage or Email.
-+ **Group**: Select which group the channel is tied to. If you selected Microsoft Teams it's a list of Temas groups and so on.
-+ **Channel**: For a Microsoft Teams group, several channels can exist. Select channel here. (Not available for Viva Engage or Email).
-+ **Property mapping**: The properties used for the teaser are listed here. Select the property to use for each.
++ **Group**: Select which group the promotion channel is tied to. If you selected Microsoft Teams, it's a list of Teams groups and so on.
++ **Channel**: For a Microsoft Teams group, several Teams channels can exist. Select channel here. (Not available for Viva Engage or Email).
++ **Property mapping**: The properties used for the teaser are listed here. Map properties you use for these purposes.
 
 3. To set a posting rule, first select "Only post if".
 4. Then select property, make other choices if necessary, and click ADD.
