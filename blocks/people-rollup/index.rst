@@ -36,7 +36,7 @@ Here you can work with the Query for what to display in the block.
 
 Follow these steps:
 
-1. Select Query type; "Profile query", "SharePoint groups", "User fFields on page", "Activity query" or "Birthday". Use "Birthday" for listing of upcoming birthdays.
+1. Select Query type; "Profile query", "SharePoint groups", "User fFields on page", "Activity query", "Birthday" or "Users". Selecting "Users" you can rollup Omnia users as set up in User Management. Note that the tenant feature "People rollup query type for users" must be active for the "Users" to be available here.
 2. If you selected Activity query, choose Activity period (also called Social period in some other blocks). This sets how old the item can be to be displayed in the list. The default is "No limit", but you c an also select One week, Two weeks or One month. If you selected Birthday query you choose the property to be used for birthdays and Birthday period.
 3. Select property for the query.
 
