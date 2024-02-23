@@ -15,9 +15,9 @@ Here's an older example, with all three types of icons:
 
 Settings
 *********
-The following settings are available for the block:
+The following settings are available for the block (image from Omnia 7.5):
 
-.. image:: team-collaboration-block-settings-new4.png
+.. image:: team-collaboration-block-settings-v75.png
 
 General
 ---------
@@ -83,6 +83,21 @@ Here you can add filters so users can filter (= choose to just see some) of a lo
 For more information on how to add filters, or a search box, see this page: :doc:`Filter UI </blocks/general-block-settings/filters/index>`
 
 In Omnia 7.0 and later, new options for filtering can be available, see: :doc:`Filter options for blocks in Omnia v7 </blocks/general-block-settings/filter-options-block/index>`
+
+Metric
+------------
+Using these settings you can show a metric in the block displaying the number of teamwork that is valid for the query settings. The metric can then be clicked to display the teamwork rollup you have set up.
+
+This can for example be used to create a rather compact page or section with different metrics in different blocks. The user can then click the desired metric to see the full list.
+
+.. image:: page-rollup-metric-teamwork-v75.png
+
++ **Show metric**: Select this to decide to show the metric (and the settings below becomes available).
++ **Title**: Add a title for the metric if needed.
++ **Description**: A description for the metric can also be added.
++ **Icon type/Icon**: Select an icon type and an icon, if you want to.
++ **Color**: This sets the color for the divider above the metric. 
++ **Dialog width/height**: Set width and height for the dialog displaying the list of pages.
 
 Layout and Write
 *********************
