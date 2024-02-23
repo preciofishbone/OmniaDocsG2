@@ -10,7 +10,7 @@ Here you can add or remove business profile administrators, and set separate adm
 
 A business profile administrator automatically has permissions for Workspace, Shared links, Announcements and Search, and therefore does not need to be added there. 
 
-.. image:: permissions-business-profile-612.png
+.. image:: permissions-business-profile-v75.png
 
 Note that every business profile has it's own permissions list. Besides that, a tenant administrator can always edit settings for all business profiles.
 
@@ -38,6 +38,14 @@ The permission settings for Workspace are a bit different, but users and groups 
 + **Workspace reader**: Here you can set permissions for the workspace navigation. 
 
 Not that all other permissions concerning the workspace is handled by the general business profile permissions settings.
+
+Option for Analytics
+----------------------
+All users that should have permssion to see analytics data for the business profile must be added as "Analaytics readers".
+
+.. image:: permissions-analytics.png
+
+Note that groups can't be added here, only users.
 
 Secrets
 ********
