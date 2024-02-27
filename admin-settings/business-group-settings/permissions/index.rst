@@ -8,9 +8,9 @@ Users and groups
 ******************
 Here you can add or remove business profile administrators, and set separate administrators for various parts of the business profile, if needed. You must be business profile administrator or tenant administrator to edit the permissions. 
 
-A business profile administrator automatically has permissions for Workspace, Shared links, Announcements and Search, and therefore does not need to be added there. 
+.. image:: permissions-businessusers-groups-v75.png
 
-.. image:: permissions-business-profile-v75.png
+A business profile administrator automatically has permissions for Workspace, Shared links, Announcements and Search, and therefore does not need to be added there. 
 
 Note that every business profile has it's own permissions list. Besides that, a tenant administrator can always edit settings for all business profiles.
 
