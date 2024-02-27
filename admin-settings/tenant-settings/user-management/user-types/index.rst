@@ -30,8 +30,8 @@ Here ypu can set the following:
 .. image:: user-management-types-auth.png
 
 + **External providers**: If there are more than one provider, make sure to select the correct one.
-+ **Onboarding**: Set the expirt time for the one-time link and add the URL to the onboardring page, if needed.
-+ **Built-in**: Select the the authentication you want to use for this user type and expand the option for more options, see below.
++ **Onboarding**: Set the expiration time for the one-time link and add the URL to the onboardring page, if needed.
++ **Built-in**: Select the authentication you want to use for this user type and expand the option for more options, see below.
 + **Refresh token expiration**: (A description will be added soon).
 + **INVALIDATE ALL USER TOKENS**: When permissions for Omnia has been changed, users needs to log out and log in for the changes to take effect. You can click this button to force a log out from Omnia for all users. Important information on this below.
 
@@ -83,4 +83,5 @@ As an addition in Omnia 7.5 you can now preview the card layout for different us
 
 .. image:: user-card-layout-user.png
 
+**Important note!** When you preview a colleagues card, all permissions are valid.
 
