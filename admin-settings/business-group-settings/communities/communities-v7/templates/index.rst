@@ -19,7 +19,7 @@ Creating a template for a Viva Enagage community
 **************************************************
 Firstly, there are no features available for a Viva Engage (former Yammer) community template. Besides that, the only settings that are available in the Setup step are these:
 
-.. image:: community-template-yammer.png
+.. image:: community-template-yammer-v75.png
 
 Select either Viva Engage group or SharePoint as default resource.
 
