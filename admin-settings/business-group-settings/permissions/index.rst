@@ -22,9 +22,9 @@ Note that external users that has been invited in the Azure AD can be added here
 
 **Note!** A user or a group must be permissions enabled do show up in the list.
 
-Administrators are added or removed the same way for Business profile, Shared links, Announcements and Search (just one field available). Here's the settings for Business profile as an example:
+Administrators are added or removed the same way for Business profile, Shared links, Announcements and Search (just one field available). Here's Business profile settings as an example:
 
-.. image:: permissons-pb.png
+.. image:: permissons-pb-new.png
 
 Options for Workspace
 -----------------------------
