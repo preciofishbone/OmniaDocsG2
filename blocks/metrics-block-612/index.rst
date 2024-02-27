@@ -54,7 +54,7 @@ What is to be considered underused content can be set in Omnia admin, see: :doc:
 
 Metrics config
 -----------------
-For a selected metric you can use some config settings (can differ depending on the matric), för example:
+For a selected metric you can use some config settings (can differ depending on the matric), for example:
 
 .. image:: metrics-config-settings.png
 
