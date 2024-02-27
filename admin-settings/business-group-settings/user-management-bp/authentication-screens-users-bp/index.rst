@@ -21,7 +21,7 @@ For each option you can select any of the screens you have created here, or the 
 
 Create a new authentication screen
 **************************************
-To create a new screen, click the plus to the right of LAYOUTS and add a new for the new screen.
+To create a new screen, click the plus to the right of LAYOUTS and add a new name for the new screen.
 
 .. image:: authentications-screens-new-name.png
 
