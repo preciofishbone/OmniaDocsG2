@@ -42,7 +42,7 @@ Here's an example of what can be available here:
 
 and these:
 
-.. image:: tenant-features-integration-7-2.png
+.. image:: tenant-features-integration-75.png
 
 When Microsoft Teams presence is active, this type of icon indicates Teams presence:
 
