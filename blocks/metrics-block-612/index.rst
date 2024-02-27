@@ -29,7 +29,7 @@ Here you decide what to display in the block:
 + **Search statistics**: You can display search statistics either for the whole tenant or for the actual business profile.
 + **Pages**: You can select one publishing app to show metrics for. If you don't, metrics for all publishing apps will be shown. You can also select a specific page type or a combination of both.
 + **User activity**: Has no further settings here. 
-+ **URL status**: Use this scope for metrics and the system pages 404 not found and 401 unauthoroized. Available in Omnia 7.5 and later.
++ **URL status**: Use this scope for metrics on the system pages 404 not found (for broken links) and 401 unauthoroized (for failed sccess attempts). Available in Omnia 7.5 and later.
 
 Further settings that affects what is displayed are found under "Metrics".
 
