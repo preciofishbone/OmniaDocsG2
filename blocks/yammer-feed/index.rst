@@ -1,19 +1,19 @@
 Viva Engage
 ===============
 
-A Viva Engage feed (former Yammer feed - images will be replaced soon) can be displayed in this block. 
+A Viva Engage feed (former Yammer feed) can be displayed in this block. 
 
 **Note!** In an Omnia on-prem setup, a separate online Viva Engage subscription and internet access is required.
 
 The following settings are available:
 
-.. image:: yammer-feed-settings-all-new.png
+.. image:: viva-settings-all.png
 
 General
 ************
 Under General you can set the following:
 
-.. image:: yammer-feed-settings-general-new.png
+.. image:: viva-settings-general.png
 
 + **Title**: Add a title for the block, in any or all tenant languages (click the flag to change language).
 + **Home**: Select type of feed here; Home, Community, User or Topic.
@@ -26,7 +26,7 @@ Style
 **********
 Some style settings is also available:
 
-.. image:: yammer-feed-settings-style-new.png
+.. image:: viva-settings-style.png
 
 + **Show header**: Use this option to show the block header or not. Default: selected.
 + **Show network name in header**: Default: selected.
