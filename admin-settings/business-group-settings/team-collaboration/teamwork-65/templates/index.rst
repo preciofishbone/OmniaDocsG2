@@ -151,14 +151,14 @@ You can also set which tabs should be added for all teams that are created from 
 
 Viva Engage community
 ----------------------
-The following setting is available for a Viva Engage community (former Yammer community - image will be replaced soon) template for Setup (image will be replaced soon):
+The following setting is available for a Viva Engage community (former Yammer) template for Setup:
 
-.. image:: teamwork-yammer-community-612.png
+.. image:: teamwork-yammer-community-75.png
 
 **Note!** Viva Engage Community is not available in Omnia on-prem.
 
-+ **Welcome page**: Select the default URL for SharePoint or for a Viva Engage group.
 + **Client id**: Type the Client id for the Viva Engage Network here.
++ **Default welcome page**: Select the default URL for SharePoint or for a Viva Engage group.
 
 Facebook workplace group
 -------------------------------
