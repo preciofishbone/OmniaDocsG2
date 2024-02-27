@@ -1,19 +1,19 @@
 Features (Tenant) in Omnia v7
 =============================================
 
-This describes features available in Omnia 7.0 and later.
+This describes features available in Omnia 7.0 and later (images from Omnia 7.5).
 
 Descriptions and options
 *************************
 For a description of a feature, and when using any option, expand the feature:
 
-.. image:: feature-expand.png
+.. image:: feature-expand-v75.png
 
 Add-ons
 *********
 Here you can activate, remove or upgrade the Omnia Add-ons. 
 
-.. image:: tenant-features-add-ons-7.png
+.. image:: tenant-features-add-ons-75.png
 
 For more information, see the links below:
 
@@ -28,7 +28,7 @@ Default configuration
 ******************************
 The purpose of these features is to provide a number of Enterprise Properties for an easy starting point, and ready to go app launcher links. You can then edit the properties lists and the app launcher links to your organization's needs. Add the common properties you would like to have in your tenant.
 
-.. image:: tenant-features-default-configuration-7.png
+.. image:: tenant-features-default-configuration-75.png
 
 Note that default properties can not be deleted, but all can be edited. 
 
@@ -38,11 +38,11 @@ Integration
 *************
 Here's an example of what can be available here:
 
-.. image:: tenant-features-integration-7.png
+.. image:: tenant-features-integration-75.png
 
 and these:
 
-.. image:: tenant-features-integration-75.png
+.. image:: tenant-features-integration-more-75.png
 
 When Microsoft Teams presence is active, this type of icon indicates Teams presence:
 
@@ -58,7 +58,11 @@ System
 **********
 The following features may be found here:
 
-.. image:: tenant-features-system-7.png
+.. image:: tenant-features-system-75.png
+
+and these:
+
+.. image:: tenant-features-system-more-75.png
 
 Regarding Teamwork provisioning using application context
 --------------------------------------------------------------
