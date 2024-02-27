@@ -3,6 +3,8 @@ Metrics
 
 This block can be used on any Omnia page to display data about either teamwork, search statistics, pages or user activity. It is also used when setting up the dashboard in Omnia admin. 
 
+In Omnia 7.5, the block can also be used to list broken links and failed access attempts, see below.
+
 The following settings are available when you enter the option:
 
 .. image:: metrics-block-settings.png
