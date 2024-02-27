@@ -49,7 +49,7 @@ Note that groups can't be added here, only users.
 
 Secrets
 ********
-When an extension has been installed for the business profile, get the security key/token and enter it here. In this example tokens for Facebook workplace and Viva Engage (former Yammer) can be added (image will be relaced soon):
+When an extension has been installed for the business profile, get the security key/token and enter it here. In this example tokens for Facebook workplace, Viva Engage (former Yammer) and Mediaflow can be added:
 
-.. image:: secrets-business-profile-612.png
+.. image:: secrets-business-profile-75.png
 
