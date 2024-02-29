@@ -6,9 +6,11 @@ Here you can set the following:
 
 Users and groups
 ******************
-Here you can add or remove business profile administrators, and set separate administrators for various parts of the business profile, if needed. You must be business profile administrator or tenant administrator to edit the permissions. 
+The following permissions can be set here:
 
 .. image:: permissions-businessusers-groups-v75.png
+
+Here you can add or remove business profile administrators, and set separate administrators for various parts of the business profile, if needed. You must be business profile administrator or tenant administrator to edit the permissions. 
 
 A business profile administrator automatically has permissions for Workspace, Shared links, Announcements and Search, and therefore does not need to be added there. 
 
@@ -22,9 +24,13 @@ Note that external users that has been invited in the Azure AD can be added here
 
 **Note!** A user or a group must be permissions enabled do show up in the list.
 
-Administrators are added or removed the same way for Business profile, Shared links, Announcements and Search (just one field available). Here's Business profile settings as an example:
+Business profile
+---------------------
+Here, business profile administrators and business profiles readers can be handled:
 
 .. image:: permissons-pb-new.png
+
+To be able to access a business profile and use the various user options, a user must be added in the Business profile viewers list, either as a person or as a member of a group. Note that if a workspace is set up, users also need to be added to the Workspace reader list, to be able to access the workspace start page and the navigation.
 
 Options for Workspace
 -----------------------------
@@ -41,7 +47,7 @@ Not that all other permissions concerning the workspace is handled by the genera
 
 Option for Analytics
 ----------------------
-All users that should have permssion to see analytics data for the business profile must be added as "Analaytics readers".
+All users that should have permission to see analytics data for the business profile must be added as "Analytics readers". **Note!** That's true for tenant administrators and business profile administrators as well. No administrator has automtaic access to analytics.
 
 .. image:: permissions-analytics.png
 
