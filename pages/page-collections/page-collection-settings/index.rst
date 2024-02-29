@@ -99,18 +99,18 @@ Setup Viva Engage integration for the page collection
 -------------------------------------------------------
 The Viva Engage (former Yammer) integration you can set up here is a one way integration; from Omnia to Viva Engage. A prerequisite is that the Feature "Viva Engage integration" is activated in Omnia admin (Tenant level).
 
-To set up Yammer integration, do the following (images will be replaced soon):
+To set up Viva Engage integration, do the following:
 
 1. Select "Edit" to edit the settings.
 2. Click the cogwheel for "Viva Engage integration".
 
-.. image:: yammer-integration-cogwheel.png
+.. image:: viva-integration-cogwheel.png
 
 3. Use these settings:
 
-.. image:: yammer-integration-settings.png
+.. image:: viva-integration-settings.png
 
-+ **Viva Engage group**: Select a Viva Engage group to intergate this page collection with.
++ **Viva Engage group**: Select a Viva Engage group to intergrate this page collection with.
 + **Initial properties**: Select the properties used on pages for Title, Summary and Content.
 + **Page creation rule**: Select if a Viva Engage post should always be created when a page is added, or only according to certain rules.
 
@@ -122,7 +122,7 @@ To set up rules, do the following:
 2. Click ADD to add a rule.
 3. Select a property.
 
-.. image:: yammer-integration-property.png
+.. image:: viva-integration-property.png
 
 4. Add settings for that property as needed.
 
