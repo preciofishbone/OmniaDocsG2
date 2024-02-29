@@ -31,7 +31,7 @@ General
 ----------
 The following settings are available on this tab (image from Omnia 7.5):
 
-.. image:: likes-general-v75.png
+.. image:: likes-general-v75-2.png
 
 + **Title**: If a title should be shown for the block, add it in this field. Click the flag to change language. 
 + **Enable Viva Engage sync**: If Viva Engage (former Yammer) sync is enabled for the page collection, this option is available. See more information below about how to use it.
