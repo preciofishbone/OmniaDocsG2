@@ -78,14 +78,6 @@ Navigation path is a special case, it's used for creating a navigation. When you
 
 **A tip**: When you're creating a page type, selecting "Current node" for a Navigation path can be very useful. Wherever that page type is used, the view (Navigation view) always starts at the current node for that page.
 
-Display
-----------
-Select View here. Note that a preview is shown in the block.
-
-.. image:: page-rollup-settings-display-v75.png
-
-The following lists all available display settings, first the common ones and then some that are specific for a view.
-
 Tip: Pages with a specific variation only
 ---------------------------------------------
 If just pages with a certain variation (language or other variation) should be listed in the rollup, it can be done this way:
@@ -93,6 +85,14 @@ If just pages with a certain variation (language or other variation) should be l
 .. image:: page-rollup-variation-example-new.png
 
 Only news in Swedish will be listed in this example.
+
+Display
+----------
+Select View here. Note that a preview is shown in the block.
+
+.. image:: page-rollup-settings-display-v75.png
+
+The following lists all available display settings, first the common ones and then some that are specific for a view.
 
 Options for most views
 ------------------------
