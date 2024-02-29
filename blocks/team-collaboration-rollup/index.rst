@@ -9,10 +9,6 @@ Note the metadata for project status and project sponsor.
 
 Icons indicate if a Teams group, Viva Engage (former Yammer) or Facebook workplace group is connected to the teamsite. Users can click the icon to go to the group. In the image above a Teams group is connected to each team site.
 
-Here's an older example, with all three types of icons:
-
-.. image:: sitedirectory-iconexamples.png
-
 Settings
 *********
 The following settings are available for the block (image from Omnia 7.5):
