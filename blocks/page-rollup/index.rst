@@ -210,7 +210,7 @@ For general settings, see above.
 
 Page creation settings for Calendar display
 --------------------------------------------
-In Omnia 7.5 it's possible to create pages from the calendar view, useful for publishing campaigns, for example. To use this option, some settings needs to be done. They are found under the heading PAGE CREATION.
+In Omnia 7.5 it's possible to create pages from the calendar view, useful for publishing campaigns, for example. To use this option, it must be activated and some settings needs to be done. They are found under the heading PAGE CREATION.
 
 .. image:: page-creation-option.png
 
@@ -220,7 +220,7 @@ The following settings are available:
 
 Select "Enable page creation" to turn on this option. The other options are the same as the general options, for the pages created this way, see above.
 
-When Enable page creation has been turned on, som additional settings are available:
+When Enable page creation has been turned on, some additional settings are available:
 
 .. image:: page-creation-settings-more.png
 
