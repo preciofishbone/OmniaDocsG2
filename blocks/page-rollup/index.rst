@@ -110,7 +110,7 @@ These options are available for most views, shown in different order for differe
 + **Link URL**: Add the URL to open when a user clicks the link. Available only if "Show link" is selected.
 + **Max display limit**: Available only for scope Navigation path, for all views. Set the number of pages that should be displayed. 
 + **No result text**: Enter the text that will be shown if no page can be displayed.
-+ **Open in editor**: Available for all views except Calendar. If this option is selected, a page link can be clicked to open the page in edit mode. This options was devolped with rollups for editors and authors in mind. Permissions apply, so if a user without any edit permissions for the page opens a page this way, nothing can be edited.
++ **Open in editor**: Available for all views except Calendar (in Omnia 7.5 it can be available for Calendar views as well, see below). If this option is selected, a page link can be clicked to open the page in edit mode. This options was devolped with rollups for editors and authors in mind. Permissions apply, so if a user without any edit permissions for the page opens a page this way, nothing can be edited.
 + **Open in new tab**: If the link should be opened in a new tab (as opposed to in current window or dialog), select this option.
 + **Open page as a dialog**: If the page should be opened in a dialog instead for in a page (new or current), select this option. 
 + **Padding**: Add some padding between the list and the block border, if needed.
@@ -207,6 +207,24 @@ The special settings for this view are:
 + **Height**: Use the slider the set the height for the whole calendar. See a preview in the block.
 
 For general settings, see above.
+
+Page creation settings for Calendar display
+--------------------------------------------
+In Omnia 7.5 it's possible to create pages from the calendar view, useful for publishing campaigns, for example. To use this option, som settings needs to be done. They are found under the heading PAGE CREATION.
+
+.. imnage:: page-creation-option.png
+
+The following settings are available:
+
+.. imnage:: page-creation-settings.png
+
+Select "Enable page creation" to turn on this option. The other options are the same as the general options, for the pages created this way, see above.
+
+When Enable page creation has been turned on, som additional settings are available:
+
+.. imnage:: page-creation-settings-more.png
+
+(More information about these settings will be added soon).
 
 Adding columns
 ----------------
