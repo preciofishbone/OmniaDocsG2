@@ -21,5 +21,5 @@ To edit an existing Dahboard, click EDIT here:
 
 Dashboard information through the Metrics block
 *******************************************************
-If you would like to display Dashboard/Metrics information of some kind for all or some users, you can use the Matrics block on any Omnia page. For more information on the Metrics block, see the link above.
+If you would like to display Dashboard/Metrics information of some kind for all or some users, you can use the Metrics block on any Omnia page. For more information on the Metrics block, see the link above.
 
