@@ -64,6 +64,8 @@ and these:
 
 .. image:: tenant-features-system-more-75.png
 
+**Note!** Page rollup accelerator is a very useful feature, should always be activated.
+
 Regarding Teamwork provisioning using application context
 --------------------------------------------------------------
 The purpose of this option is to make sure users are only able to create Microsoft 365 Groups through Omnia templates. Note that additional settings needs to be made, to make sure Microsoft 365 Group can not be created any other way. More information can be found on this Microsoft page: https://docs.microsoft.com/en-us/microsoft-365/solutions/manage-creation-of-groups?view=o365-worldwide
