@@ -57,4 +57,7 @@ The page contact property (which can be named something else) must be selected f
 
 .. image:: page-contact-page-type-property-new2.png
 
+Page feedback button
+*********************
+If not using this block, page feedback can be made available through an action button. For more information, see the heading "Page feedback" on this page: :doc:`The action button block </blocks/button-link/index>`
 
