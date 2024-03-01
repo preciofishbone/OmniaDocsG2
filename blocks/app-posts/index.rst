@@ -64,9 +64,9 @@ The WRITE Tab is not used here. The LAYOUT tab contains general settings, see: :
 
 Tip - adding images to a post
 ******************************
-Here's a tip that doesn't need any settings:
+Here's a tip that doesn't need any settings in this block:
 
-If settings allow it, it can possible to add images and animated gifs to a post, using these icons:
+If Omnia admin settings allow it, it can be possible to add images and animated gifs to a post, using these icons:
 
 .. image:: posts-images.png
 
