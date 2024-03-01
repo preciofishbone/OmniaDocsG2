@@ -191,9 +191,27 @@ Page feedback
 ----------------
 This action makes it possible for a user to send feedback on a publishing page.
 
-Who the feedback is sent to is set in settings for the page, for example the page contact. 
-
 (Only general settings for the button are available, see above).
+
+It works this way:
+
+A user clicks the button, adds a feedback message and clicks SEND.
+
+.. image:: action-button-feedback-send.png
+
+Information about who the feedback is sent to is shown. for example:
+
+.. image:: action-button-feedback-send-who.png
+
+Unlike the Page feedback block (where the feedback can be accessed in the block in Write mode), the feedback sent this way is available, in Design mode or Write mode, in the menu:
+
+.. image:: action-button-feedback-menu.png
+
+Here's and example:
+
+.. image:: action-button-feedback-list.png
+
+For this to work, "Receive Email" must be selected for the page contact property settings. 
 
 Process Feedback
 ----------------------
