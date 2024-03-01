@@ -224,8 +224,8 @@ When Enable page creation has been turned on, the following settings are availab
 + **Tooltip**: A tooltip for the button can be added here.
 + **Publishing app**: Choose a publishing app where a new page should be created. Select "Any publishing app" to let the author choose app.
 + **Page collection**: Shown when you have selected a publishing app. Select page collection within the app. You can choose "Any page collection" to let the author choose. (A description of "Dynamic" will be added soon).
-+ **Set the default value from current page**: This is a suggested setting the author can change. If a default value for a property in the new pages, should be set from this page, select this option and then select property. This can be useful for rollup purposes, for example, when all new pages share a property value.
-+ **Set the default date from the calendar**: This is also a suggested setting the author can change. This is simliar to the above, concerning date properties. An example: if Article date is selected as property, the article date for the new page will be set from the calendar, the date that was clicked to create the new page.
++ **Set the default value from current page**: This is a suggested setting the author can change. If a default value for a property in the new pages, should be set from this page, select this option and then select property. This can be useful for rollup purposes, for example, when all new pages created from this view share a property value.
++ **Set the default date from the calendar**: This is also a suggested setting the author can change. This is simliar to the above, but concerning date properties. An example: if Article date is selected as property, the article date for the new page will be set from the calendar, the date that was clicked to create the new page.
 
 When page creation from the calendar is set up, an author can create a page by clicking a date, and the option to create a page is available, for example:
 
