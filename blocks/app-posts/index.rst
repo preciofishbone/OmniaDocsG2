@@ -9,13 +9,13 @@ It's also possible to aggregated messages from several sources and to post a mes
 
 The following settings are available:
 
-.. image:: posts-block-all.png
+.. image:: posts-block-all-75.png
 
 General
 **********
 These settings are available under General:
 
-.. image:: posts-block-general-612.png
+.. image:: posts-block-general-75.png
 
 + **Title**: Add a block title if needed.
 + **Current app**: If the scope should be this app only, select this option.
@@ -33,7 +33,7 @@ For Custom scope you can select Communities, Publishing apps or Teamwork apps. W
 
 These two options are also available:
 
-.. image:: posts-block-general-custom.png
+.. image:: posts-block-general-custom-75.png
 
 + **Filter by followed**: If only messages from the communities or apps the logged in user follows should be shown, select this option.
 + **Enable organization-wide posts**: In this context "organization-wide" means the whole business profile. Decide if it should be possible to post a message to another communitiy, publishing app or teamwork app in the business profile. You must see too that there is a receiving block somewhere for this option to actually do anything.
@@ -42,19 +42,21 @@ Style
 ********
 This is available under Style:
 
-.. image:: posts-block-style.png
+.. image:: posts-block-style-75.png
 
 If you want to use the general block style settings for the business profile, you don't have to do anything, besides setting some padding if nedded.
 
 If you would like to use custom style settings for this block, this is available:
 
-.. image:: posts-block-custom.png
+.. image:: posts-block-custom-75.png
 
 By clicking on the icon you can select theme for the block.
 
 Under "Advanced settings" you can find the following:
 
-.. image:: posts-block-advanced.png
+.. image:: posts-block-advanced-75.png
+
+Should be self-explanatory. Just try them and see a preview in the block.
 
 Layout and Write
 *********************
