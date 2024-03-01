@@ -212,6 +212,8 @@ Page creation settings for Calendar display
 --------------------------------------------
 In Omnia 7.5 it's possible to create pages from the calendar view, useful for publishing campaigns, for example. To use this option, it must be activated and some settings needs to be done. They are found under the heading PAGE CREATION.
 
+**Note!** You must still select something under Query for the Calendar display to be shown. You could for example just select "Tenant" as Scope.
+
 .. image:: page-creation-option.png
 
 When Enable page creation has been turned on, the following settings are available:
@@ -237,11 +239,11 @@ In this example, settings in the block states that a new page should be created 
 
 After that, the creation of the page works as usual, see: :doc:`Create a page </pages/create-page/index>`
 
-If the purpose is that new pages should be created on specific dates, for example for a campaign, scheduled publishing should be used.
+If the purpose is that new pages should be created (or rather published) on specific dates, for example for a campaign, scheduled publishing should be used.
 
 See this page for information on how to activate scheduled publishing: :doc:`Page collection settings </pages/page-collections/page-collection-settings/index>`
 
-See this page for information on to use scheduled publishing: :doc:`Publish page changes </pages/publish-page-changes/index>`
+See this page for information on how to use scheduled publishing: :doc:`Publish page changes </pages/publish-page-changes/index>`
 
 Adding columns
 ----------------
