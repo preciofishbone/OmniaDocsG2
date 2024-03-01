@@ -14,47 +14,41 @@ Here are two examples of the user interface. "New recruitments" and "People on t
 
 Settings
 *************************
-The following settings are available:
+The following settings are available (up to v7):
 
 .. image:: peoplerollup-settings-new4.png
 
+Available settings in Omnia 7.5 are these:
+
+.. image:: peoplerollup-settings-75.png
+
 General
 ----------------
-Here you can add a Title to be displayed for the block:
+Here you can add a title to be displayed for the block:
 
-.. image:: peoplerollup-settings-general-new3.png
+.. image:: peoplerollup-settings-general-75.png
 
-If variations exists for the page, it looks like in the image above and you set the title default language. Titles in other languages are set using the variations. If no varitions exists, you can add a title in any or all languages available in the tenant, in the block.	
+You can add a title in any or all languages available in the tenant. As usual, click the flag to change language.	
 
 Query
 -----------
 Here you can work with the Query for what to display in the block.
 
-**Important Note!** The query type SharePoint groups can be used to rollup the members of a SharePoint group. This query type is limited to list approximately 50 users. If the group contains more users than can be listed, you may get the following error: "The query failed - The maximum allowed value is 4096 Paramter name: QueryTemplate". If you run into this limitation, please use the Profile query instead.
+**Important Note!** The query type SharePoint groups is limited to list approximately 50 users. If the group contains more users than can be listed, you may get the following error: "The query failed - The maximum allowed value is 4096 Parameter name: QueryTemplate". If you run into this limitation, please use the Profile query instead.
 
-.. image:: peoplerollup-settings-query-new2.png
+.. image:: peoplerollup-settings-query-75.png
 
 Follow these steps:
 
-1. Select Query type; "Profile query", "SharePoint groups", "User fFields on page", "Activity query", "Birthday" or "Users". Selecting "Users" you can rollup Omnia users as set up in User Management. Note that the tenant feature "People rollup query type for users" must be active for "Users" to be available here.
-2. If you selected Activity query, choose Activity period (also called Social period in some other blocks). This sets how old the item can be to be displayed in the list. The default is "No limit", but you c an also select One week, Two weeks or One month. If you selected Birthday query you choose the property to be used for birthdays and Birthday period.
+1. Select Query type; "Sharepoint profiles", "SharePoint groups", "User property on page", "Activity query", "Upcoming birthdays" or "Users". Selecting "Users" you can rollup Omnia users as set up in User Management. Note that the tenant feature "People rollup query type for users" must be active for "Users" to be available here.
+2. If you selected Activity query, choose Activity period (also called Social period in some other blocks). This sets how old the item can be to be displayed in the list. The default is "No limit", but you can also select One week, Two weeks or One month. If you selected Upcoming birthdays query you choose the property to be used for birthdays and birthday period.
 3. Select property for the query.
 
-.. image:: query-property-1-new2.png
+.. image:: query-property-1-v75.png
 
 4. Set additional query parameters. Exactly what needs to be done depends on the property chosen.
-
-Here's an example with parameters set for Department:
-
-.. image:: query-parameters-new2.png
-
 5. Type a parameter if neded (needed for Manual or Query parameter).
-
-.. image:: query-type-parameter-new2.png
-
 6. Click "ADD" to add the query from your settings.
-
-.. image:: query-add-new2.png
 
 It can result in something like this:
 
@@ -68,11 +62,11 @@ You can also add additional parameters, by using the method explained above or t
 
 Display
 -----------
-You can set the type of view to be used for the list here:
+You can set the type of view to be used for the list here (Card chosen as an example):
 
-.. image:: peoplerollup-settings-display-new2.png
+.. image:: peoplerollup-settings-display-75.png
 
-You can choose to display the list as a Card view or Roller view. In the image at the top of the page, Card view is used. 
+You can choose to display the list as a Card view or Roller view. 
 
 The following settings are available for the views:
 
@@ -109,17 +103,17 @@ Here's an example with a simple Card View displaying the three icons:
 
 Filter
 -------
-Use these settings to add filters for the users to use. An example could be if a People rollup block displays all colleagues in different departments, you may want to display a filter for departments so user can display a list of only colleagues in a certain department.
+Use these settings to add filters for the users to use. An example could be if a People rollup block displays all colleagues in different departments, you may want to display a filter for departments so user can display a list of only colleagues in a certain department. These settings are available up to Omnia 6.13:
 
 .. image:: peoplerollup-settings-filter-new3.png
 
 For more information on how to add filters, or a search box, see this page: :doc:`Filter UI </blocks/general-block-settings/filters/index>`
 
-In Omnia 7.0 and later, new options for filtering can be available, see: :doc:`Filter options for blocks in Omnia v7 </blocks/general-block-settings/filter-options-block/index>`
+In Omnia 7.0 and later, new options for filtering are available, see: :doc:`Filter options for blocks in Omnia v7 </blocks/general-block-settings/filter-options-block/index>`
 
 Refiner
 ---------
-Use these settings to add refiners.
+Use these settings to add refiners in Omnia versions up to 6.13. 
 
 .. image:: peoplerollup-settings-refiner-new.png
 
