@@ -199,7 +199,7 @@ A user clicks the button, adds a feedback message and clicks SEND.
 
 .. image:: action-button-feedback-send.png
 
-Information about who the feedback is sent to is shown. for example:
+Information about who the feedback is sent to is shown, for example:
 
 .. image:: action-button-feedback-send-who.png
 
@@ -211,7 +211,7 @@ Here's and example:
 
 .. image:: action-button-feedback-list.png
 
-For this to work, "Receive Email" must be selected for the page contact property settings. 
+For this to work, "Receive Email" must be selected in the page contact property settings. 
 
 Process Feedback
 ----------------------
