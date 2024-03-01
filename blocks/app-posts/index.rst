@@ -19,7 +19,7 @@ These settings are available under General:
 
 + **Title**: Add a block title if needed.
 + **Current app**: If the scope should be this app only, select this option.
-+ **Custom acope**: To set a different scope, select this option. See below for more information.
++ **Custom scope**: To set a different scope, select this option. See below for more information.
 + **Enable Mention**: If mentions should be possible in the posts, this option must be selected. Default=off.
 + **Allow social reactions**: Can be available if settings allow it. If it should be possible to use social reactions in this block, select this option. The same social reactions functionality as in Teams can then be used. The corresponding tenant feature must be activated for this option to be available.
 + **Allow likes**: If it should be able to like a comment, select this option. If the tenant feature "Social reactions" is activated, the "Allow social reactions" option replaces this option. Then social reactions is used instead of likes.
