@@ -111,6 +111,37 @@ Do the following:
 
 Now the selected document(s) are moved from the original documents library and into the controlled documents library as drafts.
 
+Restore a deleted draft
+**************************
+If you delete a draft controlled document it's placed in Sharepoint's recycle bin. In Omnia v7, that recycle bin has been made available so you can restore a deleted draft if needed.
+
+Sharepoint's recycle bin is available here:
+
+.. image:: documents-sharepoint-recycle-bin.png
+
+**Note!** For how long a deleted draft is kept here depends on settings for Sharepoint's recycle bin.
+
+Sharepoint's recycle bin can contain all sorts of files and folders, for example:
+
+.. image:: documents-sharepoint-recycle-bin-shown.png
+
+To restore a draft document from here, do the following:
+
+1. Find the document and select it.
+2. Click "Restore".
+
+.. image:: document-restore-1-sharepoint.png
+
+3. Go back the controlled documents library and the DRAFTS list.
+
+You can see that the restored document is here, but it's grey. One step remains.
+
+.. image:: document-restore-2-sharepoint.png
+
+4. Select the document and choose "Restore" in the menu for the document.
+
+.. image:: document-restore-3-sharepoint.png
+
 Upload appendices
 *******************
 To upload documents to use as appendices to another document, the main upload option should not be used. (But you can also use published documents as appendices, see below.)
