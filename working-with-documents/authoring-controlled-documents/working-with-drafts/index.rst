@@ -111,39 +111,6 @@ Do the following:
 
 Now the selected document(s) are moved from the original documents library and into the controlled documents library as drafts.
 
-Recycle bin for drafts
-**************************
-In Omnia 7.0 and later there's a recycle bin available for deleted drafts. You delete a draft document the same way as before. Deleted drafts are than available in the recycle bin:
-
-.. image:: documents-recycle-bin.png
-
-There you can decide to keep a deleted draft for later, permanently delete it or restore it.
-
-.. image:: documents-recycle-bin-restore.png
-
-Just select one or more drafts and then decide what do to. (To keep them, no action is required).
-
-Information for administrators: This recycle bin is in fact part of the Sharepoint recycle bin.
-
-Restore a draft document from the recyle bin
------------------------------------------------
-Restoring a draft document from the recycle bin works similar to when a new draft is created from a published document, meaning it's not just a simple restore.
-
-Here's how:
-
-1. Go to the recycle bin and select the document.
-2. Click RESTORE.
-
-.. image:: document-restore-1.png
-
-3. Choose what to do:
-
-.. image:: document-restore-2.png
-
-See the heading *Creating a new draft from a published document* below for more informationsa about the options.
-
-4. Click CREATE DRAFT.
-
 Upload appendices
 *******************
 To upload documents to use as appendices to another document, the main upload option should not be used. (But you can also use published documents as appendices, see below.)
