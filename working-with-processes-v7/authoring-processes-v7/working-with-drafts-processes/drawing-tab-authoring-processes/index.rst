@@ -171,7 +171,7 @@ Adding clickable shapes to a drawing
 --------------------------------------
 If you have uploaded a drawing you can place clickable areas (shapes) on that drawing, to go to process steps and more.
 
-**Important Note!** To be able to add clickable shapes, the Process Type must contain one or more Freeform shapes.
+**Important Note!** To be able to add clickable shapes, the Process type must contain one or more Freeform shapes.
 
 **Tip!** Activating "Highlight shapes" in the grid settings can be useful when working with clickable areas.
 
@@ -185,7 +185,7 @@ Here's how:
 
 .. image:: clickable-2-v7.png
 
-In this example the administrator has prepared a Freeform suitable for clickable links - Transparent Freeform that can be suitable. 
+In this example the administrator has prepared a Freeform suitable for clickable links - Transparent Freeform - that can be suitable. 
 
 3. Edit the settings for the shape, see the heading "Settings for a shape", above. Note, here you set what will happen when the shape is clicked.
 
@@ -200,14 +200,16 @@ The drawing is now shown with the grid on top.
 5. Click to set the start corner, move the mouse to the next corner and click to set it ... continue this way until you have "painted" the shape.
 6. Set the shape by clicking at the start corner once more.
 
-You now have the first clickable shape in place and what is opened when a user clicks it depends on the setting in step 3. (In the image below "Highlight shapes" is on in the Canvas Settings.)
+You now have the first clickable shape in place and what is opened when a user clicks it depends on the setting in step 3. (In the image below "Highlight shapes" is on in the canvas settings.)
 
 .. image:: clickable-5-v7.png
 
 7. Click "OK" in the grid window.
 8. Click "OK" for the shape settings.
 
-To add additional clickable shapes you have to go back to step 1, but there's a neat trick if you are adding several clickable areas with the same shape. A quick way of adding additional steps is this:
+To add additional clickable shapes you have to go back to step 1, but there's a neat trick if you are adding several clickable areas with the same shape. 
+
+A quick way of adding additional steps is this:
 
 9. Select the clickable shape.
 10. Select CLONE SHAPE.
