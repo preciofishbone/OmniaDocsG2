@@ -83,5 +83,5 @@ As an addition in Omnia 7.5 you can now preview the card layout for different us
 
 .. image:: user-card-layout-user.png
 
-**Important note!** When you preview a colleagues card, all permissions are valid.
+**Important note!** When you preview a colleagues card, all permissions are valid, meaning you can just see what YOU have permissions to see, not what the user has permissions for.
 
