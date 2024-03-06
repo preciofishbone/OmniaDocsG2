@@ -49,9 +49,9 @@ The filter can be used to find one or more users in a long list.
 
 .. image:: add-users-3.png
 
-Add groups to a Omnia group
+Add groups to an Omnia group
 ------------------------------
-Only Omnia groups can be added to Omnia groups. If you need to add other groups to a group, use Dynamic groups. 
+Only Omnia groups can be added to Omnia groups. If you need to add other groups, use Dynamic groups. 
 
 1. Click the Groups icon.
 
@@ -69,7 +69,7 @@ The filter can be used to find one or more groups in a long list.
 
 Deleted groups
 ****************
-In the list of deleted groups you can restore deleted groups or delete them pemanently.
+In the list of deleted groups you can restore deleted groups or delete them permanently.
 
 Additions in Omnia 7.5
 ***********************
