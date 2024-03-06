@@ -50,6 +50,8 @@ To select an image, click it and the settings will be shown. Settings are the sa
 
 **Important note!** All images from Pexels are always free to use, and edit.
 
+**A note about MediaFlow**: This feature requires a subscription to the Mediaflow service. Please find more information here: https://www.mediaflow.com/.
+
 Using Dall-E to create images
 ******************************
 If Dall-E is available, it can be used to create images in the Media picker. Here's how to use it:
