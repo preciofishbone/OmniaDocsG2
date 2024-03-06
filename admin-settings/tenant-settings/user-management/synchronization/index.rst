@@ -23,7 +23,7 @@ Available settings will differ depending on directory provider. These settings a
 
 If you need additional mapping, just select properties from the lists and click the plus.
 
-**Note!** It's very important that you set up rules for user types, as a user that doesn't match any such rules will have an "Undefined" user group and are not, for example, available in people picker lists. On the other hand, accounts that are not uers (for example system accounts) should be "Undefined" according to the rules set up, as they should not appear in people picker lists.
+**Note!** It's very important that you set up rules for user types, as a user that doesn't match any such rules will have an "Undefined" user group and are not, for example, available in people picker lists. On the other hand, accounts that are not users (for example system accounts) should be "Undefined" according to the rules set up, as they should not appear in people picker lists.
 
 FULL SYNC or FULL USER SYNC
 *****************************
