@@ -25,7 +25,7 @@ In Omnia 7.5 you can also set authentication method and add properties to a user
 
 Authentication
 -----------------
-Here ypu can set the following:
+Here you can set the following:
 
 .. image:: user-management-types-auth.png
 
