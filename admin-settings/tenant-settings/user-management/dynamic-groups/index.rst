@@ -24,7 +24,7 @@ Available properties in the first part depends on properties set up in User mana
 
 Add user types to a group
 ---------------------------
-To add a user type to a group, open the list and select a group.
+To add a user type to a group, open the list and select a type.
 
 .. image:: add-user-list.png
 
