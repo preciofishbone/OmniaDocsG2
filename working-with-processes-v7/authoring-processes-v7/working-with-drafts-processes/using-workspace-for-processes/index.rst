@@ -15,7 +15,7 @@ In Content mode you work with these tabs:
 
 .. image:: pm-workspace-content-v7.png
 
-Regarding Properties, you set them for the whole process. Therefore is that tab only available at the top level. All other tabs are available for all process steps. 
+Regarding Properties, you set them for the whole process. Therefore, this tab is only available at the top level. All other tabs are available for all process steps. 
 
 Here's a short overview of what to use the tabs for:
 
