@@ -60,11 +60,12 @@ Add Shape
 1. To add a shape, click ADD SHAPE.
 2. Use the top list to select the shape to add.
 
-.. image:: process-templates-shapes-select-v7.png
+.. image:: process-templates-shapes-select-v75.png
 
-Then use the following settings:
+Then use the following settings (not all are shown in the image above):
 
 + **Title**: The suggested title for the shape is shown. You can edit the title here, if needed, for the purpose of this process template. You can add a title in any or all available languages. Default language for the tenant os mandatory. (Click the flag to change language).
++ **(Description field)**: You can add a rich text description here to add details about the shape, for example intended use.
 + **Width/Height**: Default width and height is 100 pixels. You can can edit the width and height is needed.
 + **Text Position**: Decide where to place to text (if any) for the shape: "On Shape", "Above Shape" or "Below Shape".
 + **Text Alignment"**: Decide how to align the text (if any): "Left", "Center" or "Right".
