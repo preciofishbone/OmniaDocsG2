@@ -1,3 +1,25 @@
+7.5.4
+========================================
+(Omnia 7.5.4 / Workplace 7.5.7 / WCM 7.5.2 / MS 7.5.1)
+
+
+Fixes
+*********
+
+- Improvements to the page rollup accelerator.
+- The status dropdown when following a process in a teamwork now has the correct translations (#153629).
+- Fixed an issue in the Matomo setup feature when activated multiple times (#153939).
+- Several enhancements to the setup wizard (#154165).
+- The page rollup calendar view now works as expected in time zones with a negative offset.
+- Fixed an issue with teamwork templates with public content (#153537, #152205).
+
+
+New features
+************
+
+- The EntraID sync can now evaluate user types based on empty values.
+- When saving the default context URL, Omnia now ensures sites selected is applied.
+
 7.5.2
 ========================================
 (Omnia 7.5.2 / Workplace 7.5.4 / WCM 7.5.1 / MS 7.5.1)
