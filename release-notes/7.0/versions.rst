@@ -1,3 +1,18 @@
+7.5.6
+========================================
+(Omnia 7.5.6 / Workplace 7.5.8 / WCM 7.5.3 / MS 7.5.2)
+
+- Fixed an issue that would prevent processes from saving to SharePoint (#154240).
+- Stability improvements to the Entra ID sync. (#154611).
+- Fixed a migration issue for old media block data (#154732).
+- Fixed an issue preventing old, controlled documents from being unpublished (#154438).
+- Several WCAG improvements. 
+- Fixed an issue that prevented the Teams Channel rollup from rendering (#154414).
+- The rich text block now handles table borders in a better way (#154530).
+- Improved on how Process Management saves its changes (#154261).
+- Search in big term sets in the new filters now works as expected.
+- Fixed an issue that prevented appendices from being opened from document history.
+
 7.5.4
 ========================================
 (Omnia 7.5.4 / Workplace 7.5.7 / WCM 7.5.2 / MS 7.5.1)
