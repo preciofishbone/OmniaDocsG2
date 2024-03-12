@@ -23,18 +23,18 @@ Settings for the block
 ***********************
 The following settings are available:
 
-.. image:: rating-settings-new.png
+.. image:: rating-settings-v75.png
 
 + **Title**: If a title should be displayed for the block, add it here. (This is not the text shown in the block).
 + **Show average rating**: If you use the block to show average rating, and show it as stars, select this option. 
-+ **Show average rating in numbers**: To show the average rating in numbers, as well as with stars, select this option.
-+ **Size**: You can set the size of the content of the block, using this slider. The size of teh block title is not changed. 
++ **Show average rating in numbers**: To show the average rating in numbers, select this option. Can be in in combination with stars, or just numbers. "Show average rating" must be selected for this option to be available.
++ ** Show average rating as stars**: To show avarage rating as stars, select this option. Can be in in combination with numbers, or just stars. "Show average rating" must be selected for this option to be available.
++ **Average rating label**: A specific label for the rating can be added here.
++ **Size**: Available for the "Average rating label" and the "Enter rate content description" texts separately. 
 + **Show submit rating**: If it should be possible for users to submit rating in the block, select this option.
 + **Enter rate content description**: If you selected the option above, enter a text in this field for a message to users, for example "Please rate this page".
 
 Layout and Write
 *********************
 The WRITE Tab is not used here. The LAYOUT tab contains general settings, see: :doc:`General block settings </blocks/general-block-settings/index>`
-
-
 
