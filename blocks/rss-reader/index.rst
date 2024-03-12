@@ -19,9 +19,10 @@ Start by selecting "Display" and the rest of the settings will be shown.
 
 .. image:: rss-reader-settings-new2.png
 
-The following settings are available:
-
 + **Display**: Choose "Image on left", "Image on right" or "No image". Note that many RSS Feeds simply do not contain images. In that case all options here will in effect be treated as "No image".
+
+The following settings are available for the RSS views:
+
 + **Paging**: Select "No paging" or "Classic". Se an important note about paging and Page Size, below. See an example of classic paging below.
 + **Page aize**: If you have have chosen "Classic" above, use this setting to decide the number of items for each page. **Important note**: If you have chosen "No paging" above, here you will set the number of items available in the list, meaning the latest items and no paging even if there are more items available from the source. To display all available items, set this to 0.
 + **Source**: Add the link to the Source here. 
