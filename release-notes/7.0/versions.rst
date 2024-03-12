@@ -1,3 +1,18 @@
+7.5.8
+========================================
+(Omnia 7.5.8 / Workplace 7.5.9 / WCM 7.5.4 / MS 7.5.3)
+
+- Fixed an issue with the setup wizard that would cause existing notification panels to break (#154803).
+- The Calendar rollup now handles all day events correctly in time zones with a negative offset (#154854).
+- Fixed an issue that would prevent certain connected process management documents from being deleted (#154833).
+- Ensured permissions on business profile level are not needed to use the media flow connector (#154463).
+- Improved on how Process Management saves its changes (#154261, #154260).
+- When attaching a site, the show in public listings preview value is now correct (#154828).
+- Improved support for combining automatic translation and automatic page creation (#152788).
+- Performance improvements to the Posts block (#152718).
+- Several WCAG improvements.
+
+
 7.5.6
 ========================================
 (Omnia 7.5.6 / Workplace 7.5.8 / WCM 7.5.3 / MS 7.5.2)
@@ -9,7 +24,6 @@
 - Several WCAG improvements. 
 - Fixed an issue that prevented the Teams Channel rollup from rendering (#154414).
 - The rich text block now handles table borders in a better way (#154530).
-- Improved on how Process Management saves its changes (#154261).
 - Search in big term sets in the new filters now works as expected.
 - Fixed an issue that prevented appendices from being opened from document history.
 
