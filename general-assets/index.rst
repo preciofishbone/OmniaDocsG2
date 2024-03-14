@@ -21,3 +21,4 @@ In this part of the documentation you will find information about general assets
    targeting-in-omnia/index
    using-tokens-in-omnia/index
    working-with-layouts/index
+   working-with-several-languages/index
