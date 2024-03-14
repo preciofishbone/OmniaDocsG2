@@ -9,7 +9,7 @@ You use the following settings:
 
 + **Title**: You can add a title for the block here.
 + **Current signed-in user**: If the block always should display the organization based on the logged in user, select this option. 
-+ **Current displayed user**: (A description will be added soon).
++ **Current displayed user**: This is, as of now, relevant in a person profile card layout only. Otherwise, same function as above.
 + **Specific user**: Another option is to select one user to base the organization tree on. All colleagues are available in this list.
 
 Here's an example with an organization tree based on John Faulkner. He reports to the CEO and five colleagues report to him.
