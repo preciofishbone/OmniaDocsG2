@@ -1,6 +1,8 @@
 Taxonomy navigation
 ========================
 
+**This description is outdated. There are a lot more options now. the description will be updated soon.**
+
 In this block you can create taxonomy based navigation. The most common area of use is to create an organization chart.
 
 Here's an example:
