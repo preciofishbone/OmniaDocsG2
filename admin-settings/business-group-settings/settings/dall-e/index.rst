@@ -17,7 +17,7 @@ The following settings are availble for a Dall-E prompt:
 
 .. image:: dall-e-settings-new.png
 
-+ **Title**: Add a title for this setting, in any available tenant language (click the flag to change language).
++ **Title**: Add a title for this setting, in any available tenant language.
 + **Prompt**: Add the text for the prompt here. The token - {Text} - must be part of the prompt, see the example.
 + **Set as default prompt**: If this prompt settings should be the default for Dall-E, select this option. **Note!** There can be only one default prompt. if there is already a default prompt, that prompt will automatically be deselected as default. Alos note that it's not required to have a default prompt.
 
