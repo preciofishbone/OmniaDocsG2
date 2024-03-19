@@ -23,7 +23,7 @@ To create a new notification panel, do the following:
 
 + **Title**: You can add a block title here if you wish. 
 + **Category**: Click the plus here to add a new Category. 
-+ **Category title**: Add a title for the new category. You can add titles for all active languages. (Click the flag to change language).
++ **Category title**: Add a title for the new category. You can add titles in any active language.
 + **Icon type**: Select an icon type.
 + **Icon**: Choose the Icon in the icon type you have selected.
 + **View controls**: Here you select what you will display in the category. See below, under *Category settings* for more information.
