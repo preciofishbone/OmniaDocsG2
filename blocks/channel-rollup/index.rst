@@ -13,7 +13,7 @@ The following settings are available for the block:
 
 General
 ----------
-Under "General" you can add a block title, if needed, in any or all tenant languages. Click the flag to change language.
+Under "General" you can add a block title, if needed, in any or all tenant languages. 
 
 .. image:: channel-rollup-settings-general-v75.png
 
