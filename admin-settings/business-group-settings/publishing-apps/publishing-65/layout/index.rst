@@ -17,7 +17,7 @@ To create a new layout, do the following:
 
 .. image:: publishing-click-plus-new.png
 
-2. Add a name for the layout in any or all the available tenant languages (click the flag to change language).
+2. Add a name for the layout in any available tenant language.
 3. Click "Create".
 
 .. image:: publishing-click-create-new.png
