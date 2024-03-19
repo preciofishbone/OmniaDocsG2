@@ -11,7 +11,7 @@ The following settings are available for this block:
 
 General
 ------------
-Here you can add a title for the block, if needded, in any of the tenant languages. Click the flag to change language.
+Here you can add a title for the block, if needded, in any tenant language. 
 
 .. image:: properties-block-settings-general.png
 
