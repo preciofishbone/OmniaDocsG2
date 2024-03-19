@@ -11,7 +11,7 @@ The following settings are available:
 
 General
 ************
-Under General you can set a title for the block, in any or all tenant languages (click the flag to change language).
+Under General you can set a title for the block, in any tenant language.
 
 .. image:: teams-channel-settings-general.png
 
