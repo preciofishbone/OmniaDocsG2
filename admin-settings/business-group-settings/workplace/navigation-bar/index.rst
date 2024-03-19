@@ -128,7 +128,7 @@ The follwing settings are then available:
 
 .. image:: mega-menu-settings-edit.png
 
-+ **Title**: You can edit the title for any of the languages. Click the flag to change language.
++ **Title**: You can edit the title for any of the languages.
 + **Icon type/Icon**: You can edit the settings for icon here.
 + **Inherit size from mega menu settings**: Per default, this object has the same size settings as the whole mega menu. If you want to set specific size settings for this object, deselect the option.
 + **Targeting**: Here you can set targeting for the mega menu object. See below for more information.
