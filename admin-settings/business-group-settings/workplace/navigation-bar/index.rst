@@ -110,7 +110,7 @@ Set the following for the link:
 .. image:: mega-menu-add-link-new.png
 
 + **URL**: Add the URL for the link here.
-+ **Title**: Add a title in any of the tenant languages here (click the flag to change language).
++ **Title**: Add a title in any tenant language here.
 + **Open link in new tab**: If the link should be opened in a new tab, select this option.
 + **Icon type/Icon**: Add an icon for the link if you wish.
 
