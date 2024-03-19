@@ -21,7 +21,7 @@ Use the following settings:
 
 General
 ----------
-Here you add a title for the process template, in any or all languages available in the tenant. Default language is mandatory. (Click the flag to change language).
+Here you add a title for the process template, in any language available in the tenant. Default language is mandatory. 
 
 .. image:: process-templates-general-612.png
 
@@ -39,7 +39,7 @@ Add heading
 
 .. image:: process-templates-heading-add-new.png
 
-You can then add a heading in any of the available languages. Default language is mandatory. (Click the flag to change language).
+You can then add a heading in any of the available languages. Default language is mandatory.
 
 .. image:: process-templates-heading-language-612.png
 
