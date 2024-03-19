@@ -25,8 +25,8 @@ Here you can set these settings:
 + **Show Dialog**: Decide how often the Dialog should be shown for a user. First set "Daily", "Weekly" or "Monthly" and then set details if needed. The dialog appears on all Omnia pages when a user starts the intranet and remains open until the users closes the dialog.
 + **Start date**: Click in the field and use the calendar to select start date for the Dialog's first appearance.
 + **No end date/End by**: Select when the Dialog should no more be shown; never ("No end date") or click in the "End by" field and use the calendar to set a date.
-+ **Title**: Use this field to enter a Title for the Dialog. Click the list icon to add Titles for all available languages (click the flag to change language).
-+ **Description**: Enter a description, or rather information about what the user should do, in this field. Click the list icon to add Descriptions for all available languages (click the flag to change language).
++ **Title**: Use this field to enter a Title for the Dialog. Click the list icon to add Titles in any available language.
++ **Description**: Enter a description, or rather information about what the user should do, in this field. Click the list icon to add Descriptions in any available language.
 + **Feeback email**: Add the email address that feedback from User profile Completion should be sent to.
 + **Levels**: Use these color settings to set what color to display for different levels pf completion. 
 
