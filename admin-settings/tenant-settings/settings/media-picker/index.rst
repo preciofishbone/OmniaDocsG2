@@ -37,7 +37,7 @@ To create a new scaling setting, do the following:
 
 .. image:: scaling-settings-new.png
 
-+ **Title**: Add a title for the scaling here. You can add titles in any tenant language (click the flag to change language).
++ **Title**: Add a title for the scaling here. You can add titles in any tenant language.
 + **Max Dimension**: Set the maxumim size in pixels here.
 + **Format Settings**: You can choose to keep the original file format or convert to Jpeg.
 + **Quality**: Use the slider to set the quality level for the scaling.
