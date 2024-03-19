@@ -104,7 +104,7 @@ Set the following:
 
 .. image:: add-status-settings-v75.png
 
-1. Add a title in any tenant language (click the flag to change language).
+1. Add a title in any tenant language.
 2. Select a background color.
 3. Select a text color. 
 4. Click the plus to save the status option.
