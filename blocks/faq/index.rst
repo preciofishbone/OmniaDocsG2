@@ -17,7 +17,7 @@ Under General, the following will be available:
 
 .. image:: faq-settings-general.png
 
-+ **Title**: Add a title for the block, in any or all tenant languages (click the flag to change language).
++ **Title**: Add a title for the block, in any tenant language.
 + **ADD CONTENT**: Click to add content. This can also be done in Write mode, if allowed. See below for more information.
 
 Style
