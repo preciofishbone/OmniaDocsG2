@@ -68,6 +68,8 @@ General block styling, that is the color and the like, are set in Omnia admin. I
 
 .. image:: taxonomy-navigation-settings-style-custom.png
 
+Click the icon to choose a theme.
+
 And furthermore, if you select "Show advanced settings", you can use these settings:
 
 .. image:: taxonomy-navigation-settings-style-custom-advanced.png
