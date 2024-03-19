@@ -47,7 +47,7 @@ These settings are available for View:
 
 Default or Current
 --------------------
-You can set mapping and style for default or current. (Information about this will be added soon).
+You can set mapping and style for default or current. Current is used if a page is connected to a term, so the term can be clicked to go to the page.
 
 Mapping
 ---------
@@ -56,6 +56,7 @@ Use these settings to map certain areas to which property to get the information
 .. image:: taxonomy-navigation-settings-view-mapping-v75.png
 
 + **Show more link**: A "Show more" link can be added to the cards by selecting this option. 
++ **Add column**: This lable is wrong. Should be "Add property" (will be changed in system soon). Use it to add additional properties to be shown on the card.
 
 Style
 ----------
