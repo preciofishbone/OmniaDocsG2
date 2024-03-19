@@ -29,8 +29,6 @@ Here you can add a title for block:
 
 .. image:: page-rollup-settings-general-v75.png
 
-As usual, click the flag to change language.
-
 Query
 ------
 Here you can set the following:
