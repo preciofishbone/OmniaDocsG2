@@ -48,7 +48,7 @@ Here's how to create a new property mapping:
 
 .. image:: click-add-section-new.png
 
-2. Add names and descriptions in one or more of the available languages (click the flag to change language).
+2. Add names and descriptions in any available language.
 3. Click Add Mapping.
 
 .. image:: click-add-mapping-new2.png
