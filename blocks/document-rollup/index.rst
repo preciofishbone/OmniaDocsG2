@@ -19,7 +19,7 @@ Here you can set the following:
 
 .. image:: document-rollup-settings-general-new6.png
 
-+ **Title**: If a title should be shown for the block, add it in this field. The title can be added in any, or all tenant languages. Click the flag to change language.
++ **Title**: If a title should be shown for the block, add it in this field. The title can be added in any tenant language.
 + **Open in client app**: Documents are by default opened in the online app. If document should be opened in the client app instead, select this option.
 
 Query
