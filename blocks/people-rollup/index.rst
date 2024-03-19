@@ -28,7 +28,7 @@ Here you can add a title to be displayed for the block:
 
 .. image:: peoplerollup-settings-general-75.png
 
-You can add a title in any or all languages available in the tenant. As usual, click the flag to change language.	
+You can add a title in any languaged available in the tenant. 
 
 Query
 -----------
