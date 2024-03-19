@@ -59,7 +59,7 @@ Select a view (List view or Navigation view) and use the following settings (ima
 + **Icon mode**: For Icon mode you can select "Letter avatar" or "Template icon". In the example images at the top, Letter avatar is selected.
 + **Item limit**: Set the number of sites to be shown on each "page" of the list.
 + **Sort by**: Select what to sort the list on, and then select Ascending or Descending sorting.
-+ **No result text**: You can add a text that is shown if the query should result in nothing to display. Add in any of the avaiable tenant languages (click the flag to change language).
++ **No result text**: You can add a text that is shown if the query should result in nothing to display. Add in any avaiable tenant language.
 + **Show follow status**: Follow status is indicated by a star, filled if the teamwork is followed, hollow if not, see below for an example.
 + **Open in new window**: For some (maybe all) of of the teamworks, it can be a good idea to open the link in a new window.
 + **Padding**: You can add some padding between the block's borders and the list.
