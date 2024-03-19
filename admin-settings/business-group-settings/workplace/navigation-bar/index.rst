@@ -92,7 +92,7 @@ When you choose to create a mega menu layout, the following is shown:
 
 .. image:: mega-menu-add-layout-new.png
 
-1. Add a title in any of the Tenant languages (click the flag to change language), and an icon if you like. 
+1. Add a title in any of the Tenant languages, and an icon if you like. 
 
 What you add here is only shown in the list of mega menus, not shown for users.
 
