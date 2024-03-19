@@ -31,8 +31,8 @@ and these:
 
 5. Use the following possible settings:
 
-+ **Title**: A title can be shown for the request and if activated (default) you can add a suggested title. Click the flag to change language.
-+ **Descriptiopn**: A descriprion can be shown for the request and if activated (default) you can add a suggested description. Click the flag to change language.
++ **Title**: A title can be shown for the request and if activated (default) you can add a suggested title. 
++ **Descriptiopn**: A descriprion can be shown for the request and if activated (default) you can add a suggested description. 
 + **To be signed off**: Here you add pages that should be read and signed off. See below for more information.
 + **Sign-off type**: Select how the sign-off request will be handled. If you select “Individual”, all users added to “Request sent to” will receive a personal request. Everyone has to sign-off individually. If you select “Group”, it works as one group request, meaning it’s enough that any one of the recipients signs-off the request. All other recipients can see that the request was sent to them and can see if someone in the group has signed off, they can see if the task is done or not.
 + **Requested by**: Add one or more users, or groups, that will be shown as the “sender” of this request. Will be shown to the receivers. Your name will be pre populated but it can be removed. This field must always contain at least one person or group. To add several users or a group here can be useful, then all users, or the whole group, will be able to follow up on the request. 
