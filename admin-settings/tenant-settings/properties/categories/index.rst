@@ -19,7 +19,7 @@ To create a new category, do the following:
 
 .. image:: properties-categories-clickplus-v7.png
 
-2. Type a Title (Name) in any tenant language (click the flag to change language) and save.
+2. Type a Title (Name) in any tenant language and save.
 
 .. image:: properties-categories-settings-v7.png
 
