@@ -17,7 +17,7 @@ Here you acn add a title for the block, if needed.
 
 .. image:: page-properties-block-general-v75.png
 
-+ **Title**: If a title should be shown for the block, add it in this field. You can set the title in the languages active in the tenant (click the flag to change language). 
++ **Title**: If a title should be shown for the block, add it in this field. You can set the title in the languages active in the tenant. 
 
 Display
 ---------
