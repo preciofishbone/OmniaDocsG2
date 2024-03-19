@@ -3,13 +3,13 @@ Working with several languages
 
 If you need to publish information in several languages in Omnia, you start with setting up the languages you need in Omnia Admin.
 
-To publish pages in more than one language, you use variations. The variations (languages in this case) needed, are set up in the publishing app settings, meaning each publishing app can have it's own variations settings.
+To publish pages in more than one language, you use variations. Languages for the variations, are set up in the publishing app settings, meaning each publishing app can have it's own variations settings.
 
 For more information about variations, see: :doc:`Language version of a page </pages/language-versions-of-a-page/index>`
 
 Texts in blocks and variations
 ********************************
-When there are no variations in a publishing app, in most text fields in blocks, you can add the text in several tenant languages. If it's possible, it's indicated by a flag in the field, for example:
+When there are no variations in a publishing app, you can add the text in several tenant languages, in most text fields in blocks. If it's possible, it's indicated by a flag in the field, for example:
 
 .. image:: flag-in-field.png
 
@@ -17,11 +17,11 @@ Just click the flag and select the language you want to use, and add the text.
 
 .. image:: flag-in-field-select.png
 
-When variations has been set up in a publishing app, adding texts in several languages are now done in the varition, in most block fields. This is indicated by a "clean" field, for example:
+When variations has been set up in a publishing app, adding texts in several languages are now done in the variation, in most block fields. This is indicated by a "clean" field, for example:
 
- image:: flag-in-field-clean.png
+.. image:: flag-in-field-clean.png
 
-A variation is really a copy of a main page, where a variation author can add the information in the selected language.
+A variation is really a copy of a main/source page, where a variation author can add the information in the selected language.
 
 For more information on how an author/variation editor can work with a variation page, see: :doc:`Edit page variation </pages/edit-page-variations/index>`
 
