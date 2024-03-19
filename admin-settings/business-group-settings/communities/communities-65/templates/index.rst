@@ -25,8 +25,8 @@ The following settings are available here:
 
 .. image:: community-template-settings-general-612.png
 
-+ **Title**: Add a title for the template. You can add titles in all or some of the languages available in the tenant. Default language is mandatory. Click the flag to change language.
-+ **Description**: Add a description if needed, in one or more languages. Click the flag to change language. 
++ **Title**: Add a title for the template. You can add titles in all or some of the languages available in the tenant. Default language is mandatory. 
++ **Description**: Add a description if needed, in one or more languages.  
 + **Icon type**: An icon is always shown for a template. If you would like another icon for this template, select the set of icons here: Font Awesome, Microsoft, Flags or Custom. When selecting Custom you can choose any image as the icon.
 + **Icon**: When you have selected icon type, use this list to select the icon. If you select Custom, a URL field is shown, where you enter the URL for the image.
 + **Available to**: Select who this template should be available to. What **All users** and **Admins only** means is obvious. If you select **Specific users** you can select a property (for example Job role or Location) and set the necessary settings. 
