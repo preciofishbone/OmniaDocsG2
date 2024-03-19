@@ -15,7 +15,7 @@ Here you can add some texts for the block, and set some padding:
 
 .. image:: user-profile-settings-general-v75.png
 
-You can add the texts in any tenant language. Just click the flag to change language.
+You can add the texts in any tenant language.
 
 Style
 ------
