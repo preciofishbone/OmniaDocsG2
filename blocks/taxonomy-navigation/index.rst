@@ -37,7 +37,7 @@ View
 -----------
 These settings are available for View:
 
-.. image:: taxonomy-navigation-settings-view-v75.png
+.. image:: taxonomy-navigation-settings-view-v75-frane.png
 
 + **Line color**: Here you can set color for the lines between levels.
 + **Number of parent levels to show**: Select the number of parent levels to be shown.
