@@ -11,7 +11,7 @@ To create a new layout, do the following:
 
 .. image:: layout-click-plus-612.png
 
-2. Add a name for the layout in any or all the available tenant languages (click the flag to change language).
+2. Add a name for the layout in any available tenant language.
 3. Click "Create".
 
 .. image:: layout-click-create-612.png
