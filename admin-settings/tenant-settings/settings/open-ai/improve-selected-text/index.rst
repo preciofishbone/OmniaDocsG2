@@ -17,7 +17,7 @@ The following are available for a new prompt setting:
 
 .. image:: improve-selected-text-new-v75.png
 
-+ **Title**: Add a title for this setting, in any available tenant language (click the flag to change language). Mandatory.
++ **Title**: Add a title for this setting, in any available tenant language. Mandatory.
 + **Prompt**: Add the text (the instruction to OpenAI) for the prompt here. Note the message under the field. The token {Text} must be added here, within quotation marks. See below for an example.
 + **Open chat dialog**: If the chat dialog should open, select this option. This can be useful for editors, as they can continue communicating with OpenAI to make addtional changes.
 + **TRY OUT**: You can try out the settings by clicking this button.
