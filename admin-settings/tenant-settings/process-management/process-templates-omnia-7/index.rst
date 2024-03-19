@@ -49,7 +49,7 @@ Use these options when creating a new template:
 Add Heading
 ---------------
 1. To add a heading, click ADD HEADING.
-2. Add a heading in any of the available languages. Default language is mandatory. (Click the flag to change language).
+2. Add a heading in any of the available languages. Default language is mandatory.
 
 .. image:: process-templates-heading-v7.png
 
@@ -64,7 +64,7 @@ Add Shape
 
 Then use the following settings (not all are shown in the image above):
 
-+ **Title**: The suggested title for the shape is shown. You can edit the title here, if needed, for the purpose of this process template. You can add a title in any or all available languages. Default language for the tenant os mandatory. (Click the flag to change language).
++ **Title**: The suggested title for the shape is shown. You can edit the title here, if needed, for the purpose of this process template. You can add a title in any available language. Default language for the tenant os mandatory.
 + **(Description field)**: You can add a rich text description here to add details about the shape, for example intended use.
 + **Width/Height**: Default width and height is 100 pixels. You can can edit the width and height is needed.
 + **Text Position**: Decide where to place to text (if any) for the shape: "On Shape", "Above Shape" or "Below Shape".
