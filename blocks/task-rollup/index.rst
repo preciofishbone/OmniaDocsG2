@@ -29,7 +29,7 @@ For Query, you can set the following:
 
 + **Day limit**: How many days forward in time to show assigned tasks. 0 = no limit.
 + **Enable Planner tasks**: Check the box to include tasks from planner in the Tasks rollup.
-+ **Client cache in minute(s)**: (A description will be added soon).
++ **Client cache in minute(s)**: Select the number of minutes before the query should be executed, ie tasks list be updated. 
 
 Display
 ----------
