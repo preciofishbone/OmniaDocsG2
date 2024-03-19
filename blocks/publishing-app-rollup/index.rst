@@ -42,7 +42,7 @@ Available settings depends on what you select. All options are listed below (not
 + **Paging**: Select how paging should work; "No paging", "Classic" or "Scroll".
 + **Image**: Available for Card view. Choose to display an image or not.
 + **Item limit**: Set the number of sites to be shown on each "page" of the list.
-+ **No results text**. If you would like to add a text to be shown when rollup returns no result, add it here. You can add a message in any available tenant language (click the flag to change language).
++ **No results text**. If you would like to add a text to be shown when rollup returns no result, add it here. You can add a message in any available tenant language.
 + **Sort by**: Select what to sort the list on, and then select Ascending or Descending sorting.
 + **Padding**: You can add some padding between the block's borders and the list.
 + **Open in new window**: For some (maybe all) of of the teamworks, it can be a good idea to open the link in a new window.
