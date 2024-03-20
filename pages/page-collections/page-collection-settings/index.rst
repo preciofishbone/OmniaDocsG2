@@ -207,7 +207,7 @@ When Multi step approval is selected, you set it up this way:
 
 .. image:: multi-step-1-new.png
 
-2. Add a description of the step in one or more languages (click the flag to change language). Default tenant language is mandatory.
+2. Add a description of the step in any tenant language.
 3. Select who should be able for approval in this step. See above for information about the options.
 4. Set the following:
 
