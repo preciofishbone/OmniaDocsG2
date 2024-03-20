@@ -103,17 +103,13 @@ Here's an example with a simple Card View displaying the three icons:
 
 Filter
 -------
-Use these settings to add filters for the users to use. An example could be if a People rollup block displays all colleagues in different departments, you may want to display a filter for departments so user can display a list of only colleagues in a certain department. These settings are available up to Omnia 6.13:
+Use these settings to add filters for the users to use. An example could be if a People rollup block displays all colleagues in different departments, you may want to display a filter for departments so user can display a list of only colleagues in a certain department. 
 
-.. image:: peoplerollup-settings-filter-new3.png
-
-For more information on how to add filters, or a search box, see this page: :doc:`Filter UI </blocks/general-block-settings/filters/index>`
-
-In Omnia 7.0 and later, new options for filtering are available, see: :doc:`Filter options for blocks in Omnia v7 </blocks/general-block-settings/filter-options-block/index>`
+Filter settings are the sane for most blocks, see: :doc:`Filter options for blocks </blocks/general-block-settings/filter-options-block/index>`
 
 Refiner
 ---------
-**A note for users of earlier versions of Omnia**: In Omnia 7.0 and later, the Refiner menu option is removed. Refiner options can now be found under "Filter", see: :doc:`Filter options for blocks </blocks/general-block-settings/filter-options-block/index>`
+**A note for users of earlier versions of Omnia**: In Omnia 7.0 and later, the Refiner menu option is removed. Refiner options can now be found under "Filter", see link above.
 
 Layout and Write
 *********************
