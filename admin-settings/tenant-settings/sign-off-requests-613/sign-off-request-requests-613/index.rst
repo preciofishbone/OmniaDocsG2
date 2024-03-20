@@ -49,7 +49,7 @@ If you use a template, this list can be pre populated, for example:
 
 .. image:: sign-off-requests-settings-2-613-new.png
 
-By clicking the pen, you can add a message for each page, if needed (not mandatory), in any or all tenant languages. As always, click the flag to change language. Here's an example:
+By clicking the pen, you can add a message for each page, if needed (not mandatory), in any tenant language. Here's an example:
 
 .. image:: sign-off-requests-settings-2-613-message.png
 
