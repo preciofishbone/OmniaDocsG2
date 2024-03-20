@@ -19,7 +19,7 @@ Use the following settings:
 
 .. image:: property-set-settings-v7.png
 
-2. Add a Title for the Property Set. You can add a title in all langauges active in the tenant (click the flag to change language). Default language is mandatory.
+2. Add a Title for the Property Set. You can add a title in all langauges active in the tenant. Default language is mandatory.
 3. Change category if needed.
 4. Open the list and select a Property.
 5. Click "Add".
