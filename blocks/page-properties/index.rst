@@ -35,7 +35,7 @@ For General Style you can set:
 
 .. image:: page-properties-block-display-style-general-v75.png
 
-+ **Show label**: Decide to show the block label or not. (As usual, click the flag to change language).
++ **Show label**: Decide to show the block label or not. 
 + **Custom label**: Add a custom label here if needed.
 + **Date type**: For date type you can choose Default, Classic or Social. Not available for all properties.
 
