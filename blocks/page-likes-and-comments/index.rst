@@ -33,7 +33,7 @@ The following settings are available on this tab (image from Omnia 7.5):
 
 .. image:: likes-general-v75-2.png
 
-+ **Title**: If a title should be shown for the block, add it in this field. Click the flag to change language. 
++ **Title**: If a title should be shown for the block, add it in this field. 
 + **Enable Viva Engage sync**: If Viva Engage (former Yammer) sync is enabled for the page collection, this option is available. See more information below about how to use it.
 + **Rich text mode**: If you enable rich Text, some basic formatting will be availble for users.          
 + **Enable mention**: If it should be possible to use mentions in comments on this page or in this page type, select this option. See below for an example.
