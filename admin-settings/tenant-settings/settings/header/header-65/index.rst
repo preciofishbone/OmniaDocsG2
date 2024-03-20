@@ -63,8 +63,8 @@ Set the following here:
 
 .. image:: logo-settings-v7.png
 
-+ **Text**: A text can be displayed beside the logo, see example below. Different texts can be added for all tenant languages, if needed. (Click the flag to change language).
-+ **Logo text**: This text is used as Tooltip and Alt text for the logo, in any or all tenant languages.
++ **Text**: A text can be displayed beside the logo, see example below. 
++ **Logo text**: This text is used as Tooltip and Alt text for the logo.
 + **ADD IMAGE**: To add an image as logo, click here and use the media picker. For information about how to use the Image Picker, see: :doc:`The Media Picker </general-assets/media-picker/index>`
 
 When a logo is selected it can look like this:
