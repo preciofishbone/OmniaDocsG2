@@ -190,7 +190,7 @@ Here you can set the following:
 
 .. image:: page-types-settings-header-new2.png
 
-+ **Title**: If you want a title to be displayed for the section, add it here. Not mandatory. You can add a title in any or all the tenant languages. Click the flag to change language.
++ **Title**: If you want a title to be displayed for the section, add it here. Not mandatory. You can add a title in any tenant language. 
 + **Icon type/Icon**: If you would like to use an icon, first select type and then an icon from the list.
 + **Custom settings**: If you don't want to use the global settings for the business profile, for this section, Select "Custom settings" (selected in the image above). 
 
