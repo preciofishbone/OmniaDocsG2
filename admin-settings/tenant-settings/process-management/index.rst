@@ -14,4 +14,4 @@ Select setting below for more information.
    settings/index
    shape-gallery/index
    process-types/index
-   process-templates/index
+   process-templates-omnia-7/index
