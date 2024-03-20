@@ -1,4 +1,4 @@
-Teamwork directory in Omnia v7
+Teamwork directory
 ==================================
 
 Here Teamworks are listed, the "All" tab as an example:
