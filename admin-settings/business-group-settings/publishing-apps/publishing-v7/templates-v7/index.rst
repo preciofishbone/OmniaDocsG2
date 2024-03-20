@@ -1,4 +1,4 @@
-Templates for publishing apps in Omnia v7
+Templates for publishing apps
 =============================================
 
 Here you can work with templates for publishing apps - Omnia Publishing apps and SharePoint Communication sites.
