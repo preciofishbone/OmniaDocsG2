@@ -1,4 +1,4 @@
-Templates for communities in Omnia v7
+Templates for communities
 =======================================
 
 Here  you can work with templates for communities - Omnia community apps and Viova Engage (former Yammer) communities. The first list displays all templates that has been created so far, for example:
