@@ -3,9 +3,7 @@ General block settings
 
 The Layout tab contains settings that are general for most blocks, but scoped for each block. 
 
-Adding filters to a block, if it's possible, works the same for most blocks. Find a general description of how to do that here:
-
-:doc:`Filter options for blocks </blocks/general-block-settings/filter-options-block/index>`
+Adding filters to a block, if it's possible, works the same for most blocks. Find a general description of how to do that here: :doc:`Filter options for blocks </blocks/general-block-settings/filter-options-block/index>`
 
 The Layout tab contains the following settings:
 
