@@ -13,7 +13,7 @@ To create a new Search Category, click the plus and use the settings available f
 
 .. image:: search-config-categories-4-new2.png
 
-+ **Title**: Add a title for the aearch category, in some or all languges available in the tenant (click the flag to change language).
++ **Title**: Add a title for the aearch category, in any available languge.
 + **Search providers**: Select search provider for the category. The following is available: Comments, Shared links, SharePoint search and Microsoft search. **Note!** In Omnia on-prem only SharePoint search and Shared links can be used as search providers.
 + **Search result source**: Select Source from the list.
 + **Search query**: Add the search query here. Tokens can be used for a dynamic search query, see this page: :doc:`Using tokens in Omnia </general-assets/using-tokens-in-omnia/index>`
