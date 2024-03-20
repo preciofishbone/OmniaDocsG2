@@ -83,7 +83,7 @@ Set the following:
 
 .. image:: add-type-settings-v75.png
 
-1. Add a title in any or all tenant languages (click the flag to change language).
+1. Add a title in any tenant language.
 2. Select icon type.
 3. Select an icon. 
 4. Click the plus to save the type.
