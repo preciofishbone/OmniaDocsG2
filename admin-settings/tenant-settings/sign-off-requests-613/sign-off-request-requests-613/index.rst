@@ -29,7 +29,7 @@ To create a new request, do the following:
 
 When you have selected type, some or all of these settings can be available: 
 
-+ **Name**: Add a name for the request here, in any of the tenant languages (click the flag to chance language).
++ **Name**: Add a name for the request here, in any of the tenant languages.
 + **Description**: You can add a description of the request, in any of the tenant languages.
 + **Properties**: Available properties (if any) depends on the type used. The properties are useful for tagging the request. This can then be used as filters for what is to be displayed in a certain Sign-off requests rollup block. 
 + **To be signed off**: Here you add the pages that should be signed off, using the page picker. If the type was based on a template, the list of pages will most likely be pre populated with a number of pages. You can add or remove pages as needed. See below for more details.
