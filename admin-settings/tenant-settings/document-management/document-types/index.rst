@@ -24,7 +24,7 @@ To create a new a group, do the following:
 
 .. image:: doctype-select-group-v7.png
  
-3. Add a title in one or more languages (click the flag to change language). Default language in the tenant is mandatory.
+3. Add a title in any available language. Default language in the tenant is mandatory.
 
 .. image:: doctype-group-title-v7.png
 
