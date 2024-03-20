@@ -67,7 +67,7 @@ Do the following to create a new variation (you have to scroll down to the end o
 
 .. image:: variations-612.png
 
-+ **Title**: Add a title for the variation to be shown in the lists, for example the list where users can select variation. If needed, the title can be added in any or all of the languages set up in the tenant. Click the flag to change language.
++ **Title**: Add a title for the variation to be shown in the lists, for example the list where users can select variation. If needed, the title can be added in any of the languages set up in the tenant.
 + **Icon type**: If you want show an icon for the variation, select icon type here, for example "Flags".
 + **Icon**: Shown when you have selected icon type. Select the icon here.
 + **URL Segment**: Add a suitable URL Segment in this field.
