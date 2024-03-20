@@ -57,7 +57,7 @@ Then use the following settings:
 
 .. image:: process-templates-shapes-add-settings-612.png
 
-+ **Title**: The suggested title for the shape is shown. You can edit the title here, if needed, for the purpose of this process template. You can add a title in any or all available languages. Default language for the tenant os mandatory. (Click the flag to change language).
++ **Title**: The suggested title for the shape is shown. You can edit the title here, if needed, for the purpose of this process template. You can add a title in any available language. Default language for the tenant os mandatory. 
 + **Width/Height**: Default width and height is 100 pixels. You can can edit the width and height is needed.
 + **Text Position**: Decide where to place to text (if any) for the shape: "On Shape", "Above Shape" or "Below Shape".
 + **Text Alignment"**: Decide how to align the text (if any): "Left", "Center" or "Right".
