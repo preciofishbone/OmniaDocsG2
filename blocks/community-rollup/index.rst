@@ -11,7 +11,7 @@ The following settings is available:
 
 General
 ---------
-Here you can add a title for the block in any available tenant language (click the flag to change language).
+Here you can add a title for the block in any available tenant language.
 
 .. image:: community-rollup-settings-general-v75.png
 
