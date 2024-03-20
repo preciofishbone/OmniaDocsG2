@@ -1,10 +1,6 @@
-Features (Tenant) in Omnia v7
+Features (Tenant)
 =============================================
 
-This describes features available in Omnia 7.0 and later (images from Omnia 7.5).
-
-Descriptions and options
-*************************
 For a description of a feature, and when using any option, expand the feature:
 
 .. image:: feature-expand-v75.png
