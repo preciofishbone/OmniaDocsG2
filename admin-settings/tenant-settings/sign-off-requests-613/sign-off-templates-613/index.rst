@@ -23,7 +23,7 @@ and these:
 
 .. image:: sign-off-requests-templates-options-613-2.png
 
-3. Add a name for the template in any of the tenant languages (click the flag to change language).
+3. Add a name for the template in any of the tenant languages.
 
 4. Decide what settings should be possible to edit when the template is used to create a type, by activating/deactivating sections.
 
