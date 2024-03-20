@@ -1,4 +1,4 @@
-Teamwork layouts in Omnia v7
+Teamwork layouts
 =====================================
 
 Using these options you can create a start page for a teamwork. First you see the list of the layouts created so far, for example:
