@@ -25,8 +25,8 @@ The following settings are available here:
 
 .. image:: publishing-edit-general-612-frame.png
 
-+ **Title**: Add a title for the template. You can add titles in a number of the languages available in the tenant. Default language is mandatory. (Click the flag to change language).
-+ **Description**: Add a description if needed. You can add a description in a number of the languages available in the tenant.(Click the fal to change language).
++ **Title**: Add a title for the template in any tenant language. Default language is mandatory. 
++ **Description**: Add a description if needed, in any tenant language.
 + **Icon type**: An icon is always shown for a template. If you would like another icon for this template, select the set of icons here: Font Awesome, Microsoft, Flags or Custom. When selecting Custom you can choose any image as the icon.
 + **Icon**: When you have select an icon type, use this list to select the icon. If you select Custom, a URL field is shown, where you enter the URL for the image.
 + **Available to**: Here you select who the template should be available for. What "All users" and "Admins only" means is obvious. When you select "Specific users" you click "Add targeting filter", choose a property (for example Administration roles or Language) and set the necessary settings to create the targeting filter for the group of users you have in mind.
