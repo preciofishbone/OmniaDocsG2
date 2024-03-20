@@ -11,7 +11,7 @@ The following settings are available (expand General to see them):
 
 .. image:: media-settings-v75.png
 
-+ **Title**: If a title should be shown for the block, add it in this field. (Click the flag to change language).
++ **Title**: If a title should be shown for the block, add it in this field. 
 + **Default scaling**: You can select a default scaling here, but if you don't force (se below) this can be changed when an image is added. Possible scalings are set up in Omnia admin.
 + **Multi-value**: (Available in Omnia 7.1 and later). If it should be possible to show more than one media item in the block, select this option and use the slider to set the maximum number.
 + **Force default scaling**: Use this setting to see to that all images are scaled the same when they are added - using the default scaling. With this option selected, page editors and authors can not select scaling and the dialog "This image has a bigger file size than recommended" is not shown.
