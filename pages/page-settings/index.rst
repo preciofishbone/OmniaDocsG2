@@ -166,7 +166,7 @@ Here's how to add a menu option:
 .. image:: editor-navigation-settings.png
 
 + **Layout**: Select layout here.
-+ **Title**: Add a title in any or several of the tenant languages. Click the flag to change language.
++ **Title**: Add a title in any tenant language. 
 + **Icon type/Icon**: Add an icon if you wish by first selecting icon type.
 
 3. Click OK when you're done.
