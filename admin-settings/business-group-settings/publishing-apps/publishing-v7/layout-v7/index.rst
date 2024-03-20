@@ -1,4 +1,4 @@
-Layouts for publishing apps in Omnia v7
+Layouts for publishing apps
 =============================================
 
 Here you can create and edit layouts for publishing pages. If you're planning to add the possibility to work with controlled documents in a publishing app, you use this option to create a layout for that functionality, see the end of the page.
