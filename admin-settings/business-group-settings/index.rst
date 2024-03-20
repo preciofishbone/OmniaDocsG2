@@ -12,7 +12,7 @@ Business profile settings
    workplace/notification-panel/index
    omnia-feed/index
    permissions/index
-   publishing-apps/publishing-65/index
+   publishing-apps/publishing-v7/index
    search/index
    settings/index
    shared-links/index
