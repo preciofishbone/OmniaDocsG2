@@ -40,7 +40,7 @@ By clicking the pen, the following can be set for a tab:
 
 .. image:: page-types-tabs-pen-new2.png
 
-+ **Label**: If a label should be shown for the tab, add the label here. You can add a label in any, or all, the tenant languages. Click the flag to change language.
++ **Label**: If a label should be shown for the tab, add the label here. You can add a label in any tenant language. 
 + **Custom anchor name**: ¨Here you can set a custom anchor name, if needed. For more information, see below.
 + **Tooltip**: If a tooltip should be shown for the tab, add it here.
 + **Icon**: First select the icon type and then select the icon in the list below, if an icon should be shown. (If no icon should be shown, just don't select an icon, it doesn't matter that an icon type is selected.)
