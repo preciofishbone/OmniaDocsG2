@@ -37,7 +37,7 @@ The following fields and options are available for the steps in the tutorial:
 .. image:: tutorial-steps-settings-new.png
 
 + **Reorder**: When you have added a number of steps, use this button to reorder the steps. (See below for more information).
-+ **Title**: This is the title for the step, and it's shown for users. You can add a title in all languages used in the tenant, click the flag to change language. To langauge shown for a user depends on that user's preferred language setting.
++ **Title**: This is the title for the step, and it's shown for users. You can add a title in any of the languages used in the tenant. The langauge shown for a user depends on that user's preferred language setting.
 + **Add image**: To add an image to the step, click this link and use the media picker. It's not mandatory to add an image. See this page for more information about the Media Picker: :doc:`The Media picker </general-assets/media-picker/index>`
 + **Content**: Use this field to add the text for this step, using the RTF Editor. The langauge shown for a user depends on that user's preferred language setting. For more information about how to use the RTF Editor, see: :doc:`Editing text with the RTF Editor </general-assets/rtf-editor/index>`
 
