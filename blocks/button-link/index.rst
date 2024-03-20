@@ -54,8 +54,8 @@ General
 Available settings differ depending on type of button chosen. The following settings are available for all types:
 
 + **Type**: Select type of button here. 
-+ **Text**: Add text to be shown on the button. If variations exists for the page, you add text in the default language here. Other languages are handled by the variation. If no varations exists, you can add text in several languages here (click the flag to change language).
-+ **Tool tip**: Add the tool tip text for the button here. (Same apply for variations as above.)
++ **Text**: Add text to be shown on the button, in any tenant language.
++ **Tool tip**: Add the tool tip text for the button here. 
 
 Add as favourite
 ------------------
