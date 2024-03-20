@@ -113,43 +113,7 @@ In Omnia 7.0 and later, new options for filtering are available, see: :doc:`Filt
 
 Refiner
 ---------
-Use these settings to add refiners in Omnia versions up to 6.13. 
-
-.. image:: peoplerollup-settings-refiner-new.png
-
-+ **Position**: Decide where to place the refiners; Top, Left or Right. 
-
-To add a refiner, do the following:
-
-1. Set position for the refiner(s).
-2. Click "Add refiner".
-
-.. image:: people-rollup-add-refiner-new.png
-
-3. Open the list and select a property as refiner.
-
-.. image:: people-rollup-add-refiner-list-new.png
-
-4. Select sorting and limit, if needed.
-5. Click "Add refiner".
-
-.. image:: people-rollup-add-refiner-sort-new.png
-
-6. Add additional refiners the same way, if needed.
-7. If you have added more than one refiner, use "Adjust refiners" to decide the order.
-8. For additional settings, click "Style".
-
-.. image:: people-rollup-style.png
-
-+ **Elevation**: If you want the refiner area to be elevated, use this slider to set how much.
-+ **Background**: Use this option to add a gray tint to the refiner area, to make it a little bit darker than the rest of the block. If the background for the block is white the refiner area is distinctively gray. If the background for the block is black this option makes no difference.
-+ **Border radius**: Use this slider to set rounded corners for the Refiner area.
-
-Here's an example of a refiner present at the top. Users can choose to show colleagues from just one of the two departements:
-
-.. image:: people-rollup-example-refiners-new.png
-
-In Omnia 7.0 and later, the Refiner menu option is removed. Refiner options can now be found under "Filter", see: :doc:`Filter options for blocks in Omnia 7.0 </blocks/general-block-settings/filter-options-block/index>`
+**A note for users of earlier versions of Omnia**: In Omnia 7.0 and later, the Refiner menu option is removed. Refiner options can now be found under "Filter", see: :doc:`Filter options for blocks </blocks/general-block-settings/filter-options-block/index>`
 
 Layout and Write
 *********************
