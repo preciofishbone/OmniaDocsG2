@@ -1,4 +1,4 @@
-Naming Policies (Teamwork) in Omnia v7
+Naming Policies (Teamwork)
 ========================================
 
 Naming policies are supported for teamwork templates. A naming policy can consist of prefix, suffix and blocked words.
