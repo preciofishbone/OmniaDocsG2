@@ -7,7 +7,7 @@ Business profile settings
    announcements/index
    communities/communities-v7/index
    event-management/index
-   features/index
+   features-bp-7/index
    forms/index
    workplace/notification-panel/index
    omnia-feed/index
