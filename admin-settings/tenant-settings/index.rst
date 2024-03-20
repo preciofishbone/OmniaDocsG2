@@ -7,7 +7,7 @@ Tenant Settings
    announcements/index
    business-profiles/index
    dashboard/index
-   features/index
+   features-tenant-7/index
    omnia-feed/index
    permissions/index
    properties/index
