@@ -61,7 +61,7 @@ Use the following settings:
 
 + **Source Type**: Select "SharePoint User Profile" or "Omnia System Language". For "Omnia System Language" only the property Text is available.
 + **Type**: Open the list and select type of property.
-+ **Label**: Add a label for the property in any or all available languages (click the flag to change language).
++ **Label**: Add a label for the property in any available language.
 + **Property**: Select Property in the list. Available for alla types except Profile Picture.
 + **Completeness Impact**: Select the impact of completeness status: None, High, Medium or Low. Think how important it is that this property is filled in by the user.
 + **Multiple**: Available for the type Term Set only. Check the box to make it possible for the user to select more than one term for the property.
