@@ -45,7 +45,7 @@ Available settings depends on what you select. All options are listed below (not
 + **Image**: Available for Card view. Choose to display an image or not.
 + **Item limit**: Set the number of sites to be shown on each "page" of the list.
 + **Sort by**: Select what to sort the list on, and then select Ascending or Descending sorting.
-+ **No result text**: If you would like a specific text to be shown when there are no coommunities to rollup, according to the settings, add the text here. You can add a message in any available tenant language (click the flag to change language).
++ **No result text**: If you would like a specific text to be shown when there are no coommunities to rollup, according to the settings, add the text here. You can add a message in any available tenant language.
 + **Show Follow status**: Follow status is indicated by a star, filled if the community is followed, hollow if not. If follow status is shown, users can also follow or stop following communities by clicking the star.
 + **Open in new window**: For some (maybe all) of the teamworks, it can be a good idea to open the link in a new window.
 + **Fixed header**: The header of the rollup can be shown all the time (Fixed). If you want that, select this option.
