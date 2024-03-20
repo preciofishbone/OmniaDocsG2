@@ -5,11 +5,9 @@ The Layout tab contains settings that are general for most blocks, but scoped fo
 
 Adding filters to a block, if it's possible, works the same for most blocks. Find a general description of how to do that here:
 
-For Omnia 6.13 and earlier :doc:`Filter UI </blocks/general-block-settings/filters/index>`
+:doc:`Filter options for blocks </blocks/general-block-settings/filter-options-block/index>`
 
-For Omnia 7.0 and later :doc:`Filter options for blocks in Omnia v7 </blocks/general-block-settings/filter-options-block/index>`
-
-The Layout tab contains the following settings (images from Omnia 7.5):
+The Layout tab contains the following settings:
 
 .. image:: layout-tab-v75.png
 
