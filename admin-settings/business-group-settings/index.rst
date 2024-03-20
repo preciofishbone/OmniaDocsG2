@@ -5,7 +5,7 @@ Business profile settings
    :titlesonly:
 
    announcements/index
-   communities/communities-65/index
+   communities/communities-v7/index
    event-management/index
    features/index
    forms/index
