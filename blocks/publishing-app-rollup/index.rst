@@ -17,15 +17,14 @@ Here you can add a title for the block, in any available tenant language.
 
 Query
 -----------
-Here you decide what to rollup in the block. (Image from Omnia v7).
+Here you decide what to rollup in the block. 
 
 .. image:: publishing-app-rollup-settings-query-v7.png
 
 + **Scope**: You can choose to rollup all public publishing apps, all the logged in user follows, or to display the last publishing app the user visited.
-+ **Permission**: Available in Omnia 7.0 and later. Used for security trimming. For more information, see: :doc:`Security trimming in app rollups </general-assets/security-trimming-apps/index>`
++ **Permission**: Used for security trimming. For more information, see: :doc:`Security trimming in app rollups </general-assets/security-trimming-apps/index>`
 + **Only current business profile**: If only publishing apps from the current business profile should be listed, select this option (default).
 + **Site template**: Select publishing app template from the list. You must select template, even if just one is available.
-+ **Run query on load**: Decide if the query should be run on load, so the list is filled with publishing apps, or not. If a list is very long it can be a good idea to add a search box, and to deselect this option. You add a search box under Filter, see below. (This option is moved to the Filter section in Omnia 7.0 and later).
 
 Display
 --------
@@ -55,11 +54,11 @@ If you select STYLES for Card View, the following, additional settings becomes a
 
 Filter
 ------------------
-Here you can add filters so users can filter (= choose what to see in the rollup). Image from Omnia v7.
+Here you can add filters so users can filter (= choose what to see in the rollup). 
 
 .. image:: publishing-app-rollup-settings-filter-v7.png
 
-Filter options in Omnia v7 are described on this page: :doc:`Filter options for blocks in Omnia v7 </blocks/general-block-settings/filter-options-block/index>`
+Filter options are the same in most blocks, and are described on this page: :doc:`Filter options for blocks </blocks/general-block-settings/filter-options-block/index>`
 
 Metric
 *******
