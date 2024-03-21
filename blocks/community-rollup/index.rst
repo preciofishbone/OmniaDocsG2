@@ -17,7 +17,7 @@ Here you can add a title for the block in any available tenant language.
 
 Query
 -----------
-Here you decide what to rollup in the block. (Image from Omnia v7).
+Here you decide what to rollup in the block. 
 
 .. image:: community-rollup-settings-query-v7.png
 
@@ -25,7 +25,6 @@ Here you decide what to rollup in the block. (Image from Omnia v7).
 + **Permission**: Used for security trimming. For more information, see: :doc:`Security trimming in app rollups </general-assets/security-trimming-apps/index>`
 + **Only current business profile**: If only communities from this business profile should be listed, select this option (default).
 + **Site template**: Select community template here. You must select template even if there's just one available.
-+ **Run query on load**: Decide if the query should be run on load, so the list is filled with communities, or not. If a list is very long it can be a good idea to add a search box, and to deselect this option. You add a search box under Filter, see below. (This option is moved to the Filter section in Omnia 7.0 and later).
 
 Display
 --------
@@ -67,11 +66,7 @@ Most options should be self-explanatory and besides that, a preview of your choi
 
 Filter
 ------------------
-Here you can add filters so users can filter (= choose to just see some) of a long list. Image from Omnia v7.
-
-.. image:: add-filter-communities-v7.png
-
-Filter options in Omnia 7.0 and later are described on this page: :doc:`Filter options for blocks in Omnia v7 </blocks/general-block-settings/filter-options-block/index>`
+Filter options are the same in most blocks and are described on this page: :doc:`Filter options for blocks in Omnia v7 </blocks/general-block-settings/filter-options-block/index>`
 
 Metric
 *******
