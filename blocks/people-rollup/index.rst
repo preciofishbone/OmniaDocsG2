@@ -107,10 +107,6 @@ Use these settings to add filters for the users to use. An example could be if a
 
 Filter settings are the sane for most blocks, see: :doc:`Filter options for blocks </blocks/general-block-settings/filter-options-block/index>`
 
-Refiner
----------
-**A note for users of earlier versions of Omnia**: In Omnia 7.0 and later, the Refiner menu option is removed. Refiner options can now be found under "Filter", see link above.
-
 Layout and Write
 *********************
 The WRITE Tab is not used here. The LAYOUT tab contains general settings, see: :doc:`General block settings </blocks/general-block-settings/index>`
