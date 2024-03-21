@@ -12,7 +12,7 @@ Select option below for more information.
 .. toctree::
    :titlesonly:
 
-   users/index
+   users-75/index
    groups/index
    dynamic-groups/index
    user-types/index
