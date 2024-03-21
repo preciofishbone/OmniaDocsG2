@@ -14,7 +14,7 @@ Topics
    general-assets/index
    pages/index
    working-with-documents/index
-   working-with-processes/index
+   working-with-processes-v7/index
    working-with-events/index
    using-communities/index
    using-newsletters/index
