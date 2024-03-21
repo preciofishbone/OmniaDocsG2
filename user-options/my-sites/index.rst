@@ -7,7 +7,7 @@ This is the icon used if teamwork navigation is shown in the top menu:
 
 .. image:: teamwork-navigation-v7.png
 
-Here's an example of a teamwork Navigation list (image from Omnia v7):
+Here's an example of a teamwork Navigation list:
 
 .. image:: my-sites-example-v7.png
 
