@@ -126,6 +126,6 @@ For Policies, the following options are available especially for teamwork templa
 
 .. image:: teamwork-templates-policies-teamwork-v7.png
 
-+ **Naming policy**: Select a naming policy, if any is available. They are setup using the Naming policy tab, see: :doc:`Naming Policies (Teamwork) in Omnia v7 </admin-settings/business-group-settings/team-collaboration/teamwork-v7/naming-policies/index>`
++ **Naming policy**: Select a naming policy, if any is available. They are setup using the Naming policy tab, see: :doc:`Naming Policies (Teamwork) </admin-settings/business-group-settings/team-collaboration/teamwork-v7/naming-policies/index>`
 + **Sensitivity label**: A prerequisite for "Let user decide" to make any sense is that Sensitivity Labels are created in Microsoft 365.
 
