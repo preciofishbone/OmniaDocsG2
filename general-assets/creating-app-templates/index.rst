@@ -101,9 +101,9 @@ Additional information
 ***********************
 In some cases, additional settings are available.
 
-When creating a template for a **Viva Engage community** (former Yammer community), the setup step is different. See the bottom of this page: :doc:`Templates for communities in Omnia v7 </admin-settings/business-group-settings/communities/communities-v7/templates/index>`
+When creating a template for a **Viva Engage community** (former Yammer community), the setup step is different. See the bottom of this page: :doc:`Templates for communities </admin-settings/business-group-settings/communities/communities-v7/templates/index>`
 
-When creating a template for a **SharePoint communication site**, the setup step is slightly different. See the bottom of this page: :doc:`Templates for publishing apps in Omnia v7 </admin-settings/business-group-settings/publishing-apps/publishing-v7/templates-v7/index>`
+When creating a template for a **SharePoint communication site**, the setup step is slightly different. See the bottom of this page: :doc:`Templates for publishing apps </admin-settings/business-group-settings/publishing-apps/publishing-v7/templates-v7/index>`
 
-Regarding templates for **Teamwork**, there are differences for Microsoft 365 Group, SharePoint team site, Microsoft Team and Private Yammer community. See this page for more information: :doc:`Teamwork templates in Omnia v7 </admin-settings/business-group-settings/team-collaboration/teamwork-v7/templates/index>`
+Regarding templates for **Teamwork**, there are differences for Microsoft 365 Group, SharePoint team site, Microsoft Team and Private Yammer community. See this page for more information: :doc:`Teamwork templates </admin-settings/business-group-settings/team-collaboration/teamwork-v7/templates/index>`
 
