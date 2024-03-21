@@ -1,7 +1,7 @@
 User information
 ================================================
 
-Use this block to display user information, for example useful when creating a custom user profile card. This block is available in Omnia 7.0 and later.
+Use this block to display user information, for example useful when creating a custom user profile card. 
 
 Settings
 **************
