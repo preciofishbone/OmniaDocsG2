@@ -66,7 +66,7 @@ Most options should be self-explanatory and besides that, a preview of your choi
 
 Filter
 ------------------
-Filter options are the same in most blocks and are described on this page: :doc:`Filter options for blocks in Omnia v7 </blocks/general-block-settings/filter-options-block/index>`
+Filter options are the same in most blocks and are described on this page: :doc:`Filter options for blocks </blocks/general-block-settings/filter-options-block/index>`
 
 Metric
 *******
