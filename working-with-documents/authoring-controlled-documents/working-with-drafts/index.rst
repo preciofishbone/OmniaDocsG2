@@ -232,7 +232,7 @@ Creating a new draft from a published document
 ***********************************************
 The work on a draft for a new edition of a document can be started whenever it’s convenient. The existing published edition is still available for readers until it’s replaced, when the new edition is published.
 
-To create a new draft of a published document, do the following (images from Omnia v7):
+To create a new draft of a published document, do the following:
 
 1.	Open the "Published" tab.
 2.	Click the dot menu for the document.
