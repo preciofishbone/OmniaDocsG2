@@ -11,7 +11,7 @@ The following actions are available in the dot menu for a template:
 
 To edit a template, you can also just click the name. When you edit a template, all options that are described below are available.
 
-You create templates for publishing apps, community sites and Teamwork the same way, see this page: :doc:`Creating app templates in Omnia v7 </general-assets/creating-app-templates/index>`
+You create templates for publishing apps, community sites and Teamwork the same way, see this page: :doc:`Creating app templates </general-assets/creating-app-templates/index>`
 
 The settings for General, Properties and Custom steps are handled as described on the page linked above, even if available property sets and available features can differ. Available settings under Setup differ depending on type of teamwork. The differences is descibed here. A few additional settings for Policies are also described here.
 
