@@ -1,7 +1,7 @@
-The Drawing tab - authoring processes in Omnia v7
+The Drawing tab - authoring processes
 ===================================================
 
-You use this tab to visualize the process or process step. The information on this page applies to Omnia 7.0 and later.
+You use this tab to visualize the process or process step. 
 
 Canvas Settings
 ****************
