@@ -15,7 +15,7 @@ For an implementation example, see this page: :doc:`Dashboard implementation exa
 
 Tip - find broken links and more
 -----------------------------------
-You can (in Omnia v7) use the Metrics block to find all broken links, and all attempts for users to visit a URL they didn’t have access to.
+You can use the Metrics block to find all broken links, and all attempts for users to visit a URL they didn’t have access to.
 
 The option is called "URL status". Use th link above for more information about the Metrics block.
 
