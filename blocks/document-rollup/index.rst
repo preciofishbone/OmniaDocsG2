@@ -151,7 +151,7 @@ For Card view, you can also edit card spacing, available under STYLES:
 
 Filter
 --------
-Filter options are the same for almost all blocks, see: :doc:`Filter options for blocks in Omnia v7 </blocks/general-block-settings/filter-options-block/index>`
+Filter options are the same for almost all blocks, see: :doc:`Filter options for blocks </blocks/general-block-settings/filter-options-block/index>`
 
 Export
 *********
