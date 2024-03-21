@@ -24,7 +24,7 @@ The following settings are available for the block:
 + **Enable machine translation**: When using a variation with automatic translation, you can decide which blocks should be automatically translated (and not) - all blocks that has this option selected will be automatically translated using machine translation for the variation. See below for links to more information. **Note!** Machine translation is not available in Omnia on-prem. 
 + **Help text**: Here you can add a help text for the editor, for example to make it clear what kind of content should be added to the block. The help text is shown when no content is added, and when the block is edited. The help text is never shown to users as it's not shown for a published version of the page. Not available for plain text. 
 + **Enable creation of tags**: When this option is selected, any #tag that is added in the text block will be set in the configured corresponding property.
-+ **Enable automatic summary**: Available for multi-line text and when this option is activated for OpenAI (Omnia v7). For this to work you must also set the property to get the source text from.
++ **Enable automatic summary**: Available for multi-line text and when this option is activated for OpenAI. For this to work you must also set the property to get the source text from.
 + **Source property**: Available when "Enable automatic summary" is selected. Choose the property for the source text, for the summary.
 + **ADD CONTENT**: Click here if you want to add some default content to the block. (also see below).
 + **Padding**: You can set some padding around the text if needed.
