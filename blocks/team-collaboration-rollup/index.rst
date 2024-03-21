@@ -1,7 +1,7 @@
 Teamwork rollup
 ======================
 
-Use this block to show team sites and other teamworks the user has access to. Here's an example when the block is used to rollup projects (projects are teamworks) in Omnia v7:
+Use this block to show team sites and other teamworks the user has access to. Here's an example when the block is used to rollup projects (projects are teamworks):
 
 .. image:: sitedirectory-v7.png
 
@@ -11,7 +11,7 @@ Icons indicate if a Teams group, Viva Engage (former Yammer) or Facebook workpla
 
 Settings
 *********
-The following settings are available for the block (image from Omnia 7.5):
+The following settings are available for the block:
 
 .. image:: team-collaboration-block-settings-v75.png
 
@@ -28,7 +28,7 @@ Here you can set the following:
 .. image:: teamwork-query-new2-7.png
 
 + **Scope**: Select scope, for example All, Followed or Member of. (See more information about this below.)
-+ **Permission**: Available in Omnia 7.0 and later. Used for security trimming. For more information, see: :doc:`Security trimming in app rollups </general-assets/security-trimming-apps/index>`
++ **Permission**: Used for security trimming. For more information, see: :doc:`Security trimming in app rollups </general-assets/security-trimming-apps/index>`
 + **Only current business profile**: If only teamworks from the current business profile should be listed, select this option.
 + **Business profile**: Another option is to select a specific business profile. If you do not select any business profile here, all teamworks in the tenant can be listed, that is not private.
 + **Site template**: Here you can set one or more types of teamwork to be shown in the list. 
@@ -63,7 +63,7 @@ Select a view (List view or Navigation view) and use the following settings (ima
 + **Open in new window**: For some (maybe all) of of the teamworks, it can be a good idea to open the link in a new window.
 + **Padding**: You can add some padding between the block's borders and the list.
 
-Here's an example of a Navigation view with follow status shown (image from Omnia v7):
+Here's an example of a Navigation view with follow status shown:
 
 .. image:: follow-status-v7.png
 
