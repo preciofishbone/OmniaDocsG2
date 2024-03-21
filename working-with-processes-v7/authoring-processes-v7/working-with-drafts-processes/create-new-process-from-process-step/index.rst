@@ -1,7 +1,5 @@
-Create a new process from a process step in Omnia v7
+Create a new process from a process step
 =======================================================
-
-Thia page describes how this works in Omnia 7.0 and later,
 
 You can create a new process by copying a process step. If you do, all sub process steps for that process step is also copied. Note that you can not create a new process from a linked process step.
 
