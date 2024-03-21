@@ -11,8 +11,6 @@ The following settings are available:
 
 .. image:: document-rollup-settings-all-new3.png
 
-Note that in Omnia 7.0 and later, the Refiner menu option is removed. Refiner options can, for Omnia 7.0 and later, be found under "Filter", see: :doc:`Filter options for blocks in Omnia v7 </blocks/general-block-settings/filter-options-block/index>`
-
 General
 -----------------
 Here you can set the following:
@@ -157,30 +155,7 @@ Here you can add filters to show for the list, or add a search box.
 
 .. image:: document-rollup-filter-new.png
 
-What you can do here is described on this page: :doc:`Filter UI </blocks/general-block-settings/filters/index>`
-
-In Omnia 7.0 and later, new options for filtering are available, see: :doc:`Filter options for blocks in Omnia v7 </blocks/general-block-settings/filter-options-block/index>`
-
-Refiner
------------------
-Here you select refiners users can use to refine the list. (Not available in Omnia 7.0 and later, see link to new filter options above).
-
-.. image:: document-rollup-settings-refiners-new.png
-
-+ **Position**: Set position for the refiners here; "Top", "Left" or "Right".
-+ **Add refiner**: Click this option to add a a property to use as a refiner. You can add as many properties as is applicable. For each refiner added you can set sort order; "Alphabetical" or "Count". You can also set a limit.
-
-Here's an example:
-
-.. image:: document-rollup-settings-refiners-example.png
-
-Click "Adjust refiners" to edit the order.
-
-Using STYLE you can set the following:
-
-.. image:: document-rollup-settings-refiners-style.png
-
-Test the options and see a preview in the block.
+Filter options are the same for almost all blocks, see: :doc:`Filter options for blocks in Omnia v7 </blocks/general-block-settings/filter-options-block/index>`
 
 Export
 *********
