@@ -53,7 +53,7 @@ Select a view (List view or Navigation view) and use the following settings (ima
 (All options are not shown in the image but are described below.)
 
 + **Add column**: If you select List View, you must add at least one Column for the display to work. (Navigation view is fixed regarding the columns to display).
-+ **Fixed header**: Available in Omnia v7. Select to always show the header when scrolling.
++ **Fixed header**: Select to always show the header when scrolling.
 + **Paging**: Select how paging should work; "No paging", "Classic" or "Scroll".
 + **Icon mode**: For Icon mode you can select "Letter avatar" or "Template icon". In the example images at the top, Letter avatar is selected.
 + **Item limit**: Set the number of sites to be shown on each "page" of the list.
@@ -67,7 +67,7 @@ Here's an example of a Navigation view with follow status shown (image from Omni
 
 .. image:: follow-status-v7.png
 
-Filter UI
+Filter
 ------------------
 Filter options are the same in most blocks. For more information, see: :doc:`Filter options for blocks </blocks/general-block-settings/filter-options-block/index>`
 
