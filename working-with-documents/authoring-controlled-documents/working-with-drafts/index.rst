@@ -113,7 +113,7 @@ Now the selected document(s) are moved from the original documents library and i
 
 Restore a deleted draft
 **************************
-If you delete a draft controlled document it's placed in Sharepoint's recycle bin. In Omnia v7, that recycle bin has been made available so you can restore a deleted draft if needed.
+If you delete a draft controlled document it's placed in Sharepoint's recycle bin. That recycle bin is available in the controlled dlibrary, so you can restore a deleted draft if needed.
 
 Sharepoint's recycle bin is available here:
 
