@@ -1,4 +1,4 @@
-Processes archive in Omnia v7
+Processes archive
 ================================================
 
 When a process is unpublished a copy is placed in the archive - if the Process Type used is set up for archiving. See this page for more information about that: :doc:`Process types </admin-settings/tenant-settings/process-management/process-types/index>`
