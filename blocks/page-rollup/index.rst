@@ -98,7 +98,7 @@ These options are available for most views, shown in different order for differe
 
 + **Date**: Select the property that contains the date for the item(s) to display. Available for Roller, Listing with image, Dynamic roller, Card and Newsletter.
 + **Dialog image**: Select image to display, if any. Available when ypu have selected "Open page as a dialog".
-+ **Fixed header**: Available for List view in Omnia v7. When this option is selected, the heading will always be shown when scrolling.
++ **Fixed header**: Available for List view. When this option is selected, the heading will always be shown when scrolling.
 + **Hide block when no data**: Select this option if the block should be hidden when there's nothing to display.
 + **Hide if read**: Select this option to hide all pages the logged in user has visited. This affects all pages, including news.
 + **Highlight non-read**: This option makes sure non-read pages are highlighted. Default=selected. Deselect if you don't want that.
