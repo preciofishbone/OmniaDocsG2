@@ -151,10 +151,6 @@ For Card view, you can also edit card spacing, available under STYLES:
 
 Filter
 --------
-Here you can add filters to show for the list, or add a search box.
-
-.. image:: document-rollup-filter-new.png
-
 Filter options are the same for almost all blocks, see: :doc:`Filter options for blocks in Omnia v7 </blocks/general-block-settings/filter-options-block/index>`
 
 Export
@@ -165,5 +161,5 @@ Use this settings to display a link for export of the list to Excel.
 
 Layout and Write
 *********************
-The WRITE Tab is not used here. The LAYOUT tab contains general settings, see: :doc:`General Block Settings </blocks/general-block-settings/index>`
+The WRITE Tab is not used here. The LAYOUT tab contains general settings, see: :doc:`General block settings </blocks/general-block-settings/index>`
 
