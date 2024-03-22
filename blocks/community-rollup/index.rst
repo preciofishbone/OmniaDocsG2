@@ -50,7 +50,7 @@ Available settings depends on what you select. All options are listed below (not
 + **Fixed header**: The header of the rollup can be shown all the time (Fixed). If you want that, select this option.
 + **Padding**: You can add some padding between the block's borders and the list.
 
-If you select STYLES for Card view, the following, additional settings becomes available (images from Omnia 7.5):
+If you select STYLES for Card view, the following, additional settings becomes available:
 
 .. image:: community-rollup-settings-display-styles-v75.png
 
