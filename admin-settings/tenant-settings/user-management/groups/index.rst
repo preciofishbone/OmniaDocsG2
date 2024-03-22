@@ -1,8 +1,6 @@
 Groups
 =============================================
 
-This option is available in Omnia 7.0 and later.
-
 Here, all groups in the tenant are listed and you can create and delete your own Omnia groups for security setups.
 
 If you're working with User management for a business profile, groups can be created and edited the same way there, and is then valid for that business group only.
@@ -20,8 +18,6 @@ To edit the settings for a group, click the pen. To delete it, click the dust bi
 Note that you can search and filter on "Group type". If you would like a list of the Omnia groups only, select "Omnia group" as group type.
 
 .. image:: user-magaments-groupd-list-omnia.png
-
-In Omnia 7.5, there are some addtions to this list, see the bottom of this page.
 
 Add a new group
 ----------------
@@ -71,8 +67,6 @@ Deleted groups
 ****************
 In the list of deleted groups you can restore deleted groups or delete them permanently.
 
-Additions in Omnia 7.5
-***********************
 In Omnia 7.5, an additonal filter option is added:
 
 .. image:: user-magaments-groupd-list-75.png
