@@ -27,7 +27,7 @@ Note that you have select List view för the options to show up, even if that's 
 
 + **Add column**: Add the columns for the information to be shown on the list. At least one column must be added or nothing will be shown.
 + **Adjust columns**: (Displayed when you are adding columns.) Use this option for the order in which the selected columns are shown, left to right.
-+ **Fixed header**: Select this option for the header to always be shwon when scrolling. This option is available in Omnia 7.0 and later.
++ **Fixed header**: Select this option for the header to always be shwon when scrolling. 
 + **Title**: If variatons exists for the page, you can only set the title in the default language. Titles in other languages are set in the variations. If no variations exists, it looks like in the image above, and you can add a title in any or all available languages. 
 + **View page URL**: If you have created a page that will be used to display any process when a user clicks on it, add the Url to the page here. Note that you don't have to create a page for this purpose. If you don't, a system page will be used.
 + **Open in a new window**: Select this option if the clicked process should be opened in a new window.
