@@ -19,7 +19,7 @@ Note that you can search and filter on "Group type". If you would like a list of
 
 .. image:: user-magaments-groupd-list-omnia.png
 
-If you would like to list the users from one business profile only, use the filter Owner and add tha name of the business profile.
+If you would like to list the users from one business profile only, use the filter Owner and add the name of the business profile.
 
 .. image:: user-magaments-groupd-list-75.png
 
