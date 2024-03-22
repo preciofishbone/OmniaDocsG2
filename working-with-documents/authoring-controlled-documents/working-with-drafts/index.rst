@@ -272,7 +272,7 @@ The new draft is created and the "Drafts" tab is automatically activated. The wo
 
 Change comments
 --------------------
-When creating a new draft from a published document the first time, the Change comments field is available from here on (in Omnia 7.1 and later). **Note**: the field is NOT available when a draft is created from scratch or uploaded to be a draft.
+When creating a new draft from a published document the first time, the "Change comments" field is available from here on. **Note**: the field is NOT available when a draft is created from scratch or uploaded to be a draft.
 
 You can add and edit change comments when necessary for any edition, either when creating a new draft from any edition or any time when working on a draft that has been created that way.
 
