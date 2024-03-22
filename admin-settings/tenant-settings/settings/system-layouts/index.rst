@@ -1,10 +1,6 @@
 System layouts
 =============================================
 
-**This page is under construction.**
-
-This option is available in Omnia 7.1 and later.
-
 Here you can create pages for the 401 and 404 messages:
 
 .. image:: system-layouts-list.png
