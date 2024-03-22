@@ -85,7 +85,7 @@ Something like the following is shown:
 
 .. image:: sign-off-requests-checking-1-613-new.png
 
-Here you can see, for example, the status and the number of recipients that has completed the request. You can check the message (if any) for a page by clicking the pen (the link in Omnia 7.1).
+Here you can see, for example, the status and the number of recipients that has completed the request. You can check the message (if any) for a page by clicking the pen.
 
 For more information, you can click "Download details" to download an Excel file.
 
