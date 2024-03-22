@@ -5,7 +5,7 @@ HTML/script is a block you can use for various applications to add extra functio
 
 Block settings
 ***************
-The following settings are available for the block (image from Omnia 7.5):
+The following settings are available for the block:
 
 .. image:: html-settings-v75.png
 
