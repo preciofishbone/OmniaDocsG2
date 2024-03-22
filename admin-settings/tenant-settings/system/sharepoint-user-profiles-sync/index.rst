@@ -53,7 +53,7 @@ Here's an example:
 3. Save when your finished here.
 4. Save your changes in the settings window.
 
-**Note!** In Omnia 7.1 and later, SharePoint user profile sync property mappings are case insensitive.
+**Note!** SharePoint user profile sync property mappings are case insensitive.
 
 Events
 ********
