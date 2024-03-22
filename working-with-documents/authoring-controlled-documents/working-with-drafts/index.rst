@@ -77,7 +77,7 @@ Now properties for the document are shown (and this is what is shown for a docum
 
 Set document type for uploaded documents
 ------------------------------------------
-In Omnia 7.1 and later you can set a document type for a number of uploaded documents at the same time. Here's how:
+You can set a document type for a number of uploaded documents at the same time. Here's how:
 
 1. Select all uploaded documents that should belong to the same document type.
 2. Click PROPERTIES.
