@@ -1,7 +1,7 @@
 Synchronization
 =============================================
 
-Identity and user details sync from Azure Active Directory are done here in Omnia 7.0 and later. In Omnia 7.5 you can also synchronize users and groups to Omnia search.
+Identity and user details sync from Azure Active Directory are done here. You can also synchronize users and groups to Omnia search, if needed.
 
 Omnia supports any custom user directory provider to synchronize groups and users into the system. Built-in providers are Microsoft Graph (Azure AD) and Active Directory for Omnia on-prem.
 
