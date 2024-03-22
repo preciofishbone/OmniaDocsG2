@@ -1,7 +1,7 @@
 Login log
 =============================================
 
-Use this list, available in Omnia 7.5 and later, to keep track of logins and login attempts, for example useful if you suspect hacking attempts.
+Use this list, to keep track of logins and login attempts, for example useful if you suspect hacking attempts.
 
 The list for the log can look like this (image from a test environment):
 
