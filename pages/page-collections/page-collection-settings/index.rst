@@ -46,7 +46,7 @@ Use the settings this way:
 + **Break permission inheritance by default**: Select this option if inheritance should be broken when a new page is created within the page collection. This could, for example, be useful for communities. When this option is active, the colleague creating the page will be the page owner, meaning that he or she has full control over who can edit. The new option "Invite co-authors" can then be used to easily add authors for the page, see below.
 + **Allow invitation of co-authors**: If this option is selected, authors can invite co-authors. 
 + **Channel**: If you enable this, it will be possible for an author to select channels the page should be published to. Publication to a channel may require approval from the channel administrator. See more information below.
-+ **Open AI**: Available in Omnia 7.1 and later. When you activate this option you can set properties for what the Open AI should be able to work with, see below. Also note that two tenant features must be activated for this option to be available and settings for Open AI has to be made in Omnia Admin.
++ **Open AI**: When you activate this option you can set properties for what the Open AI should be able to work with, see below. Also note that two tenant features must be activated for this option to be available and settings for Open AI has to be made in Omnia Admin.
 
 Set default values for a page type
 --------------------------------------
