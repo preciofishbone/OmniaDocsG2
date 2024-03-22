@@ -3,7 +3,7 @@ Current user language
 
 Omnia users can set the current user language, if needed.
 
-**Note!** This setting is for system labels only, and (in Omnia 7.0 and later) for some other labels, for example:
+**Note!** This setting is for system labels, and a few other labels, for example:
 
 + Tenant and business profile names.
 + Publishing app title and description.
