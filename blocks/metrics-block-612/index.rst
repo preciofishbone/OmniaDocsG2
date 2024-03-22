@@ -3,7 +3,7 @@ Metrics
 
 This block can be used on any Omnia page to display data about either teamwork, search statistics, pages or user activity. It is also used when setting up the dashboard in Omnia admin. 
 
-In Omnia 7.5, the block can also be used to list broken links and failed access attempts, see below.
+The block can also be used to list broken links and failed access attempts, see below.
 
 The following settings are available when you enter the option:
 
@@ -29,7 +29,7 @@ Here you decide what to display in the block:
 + **Search statistics**: You can display search statistics either for the whole tenant or for the actual business profile.
 + **Pages**: You can select one publishing app to show metrics for. If you don't, metrics for all publishing apps will be shown. You can also select a specific page type or a combination of both.
 + **User activity**: Has no further settings here. 
-+ **URL status**: Use this scope for metrics on the system pages 404 not found (for broken links) and 401 unauthoroized (for failed sccess attempts). Available in Omnia 7.5 and later.
++ **URL status**: Use this scope for metrics on the system pages 404 not found (for broken links) and 401 unauthoroized (for failed sccess attempts). 
 
 Further settings that affects what is displayed are found under "Metrics".
 
@@ -60,7 +60,7 @@ For a selected metric you can use some config settings (can differ depending on 
 
 Should be self-explanatory. Don't forget to save when you're done.
 
-Filter UI
+Filter
 ************
 You can also add filters so users can decide what they will see, within the scope and metrics you have decided.
 
