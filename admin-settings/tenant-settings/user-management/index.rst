@@ -18,9 +18,5 @@ Select option below for more information.
    user-types/index
    user-properties/index
    synchronization/index
-   authentication/index
    login-log/index
-
-
-
 
