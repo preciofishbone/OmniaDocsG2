@@ -73,7 +73,7 @@ Select the styles that should be available in the list.
 
 OpenAI
 ---------
-OpenAI can be made available here (in Omnia 7.1 and later), according to Omnia admin settings. 
+OpenAI can be made available here, according to Omnia admin settings. 
 
 The tenant feature "Text completion" must be activated for this functionality to be available throughout the tenant. Then, the feature can be added to the rich text editor or the limited rich text editor, or both. 
 
