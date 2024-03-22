@@ -48,7 +48,7 @@ The follwowing is available for header settings:
 
 .. image:: layout-header-nv75.png
 
-+ **Anchor name**: You can set an anchor name for this block. When a block has an anchor name, you can link to the block, using a the Add Link block or using an action button. In Omnia 7.5 it's also possible to create navigation based om anchors.
++ **Anchor name**: You can set an anchor name for this block. When a block has an anchor name, you can link to the block, using a the Add Link block or using an action button. It's also possible to create navigation based om anchors.
 + **Icon type**: If you would like an icon to be shown for the block, the first step is to select icon type. (If you don't select an icon, Icon type has no effect).
 + **Icon**: After having selected icon type, then select the icon.
 + **Custom settings**: For Header you can choose to use the global settings (set up in Omnia admin) or use custom settings for this block.
