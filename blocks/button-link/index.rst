@@ -150,7 +150,7 @@ Using this action a link action can be added, meaning a link can be opened:
 
 + **URL**: Type or paste the URL to go to when a user clicks the link. 
 + **Anchor name**: Type the anchor name in this field to create a link to an anchor.
-+ **Target**: Choose how to open the link. In Omnia 7.5 two additional options are available: "Current (Navigate)" and "Current (Open)". Current (Navigate) means the same window. Current (Open) is used for pages with anonymous access. 
++ **Target**: Choose how to open the link. Current (Navigate) means the same window. Current (Open) is used for pages with anonymous access. 
 + **Dialog position**: If you selected "Dialog" for target, you can select where to place the dialog: Center, Full screen, Left or Right. 
 
 **Note!** Dialog is not suitable for external links. Select "Current Window" or " New Window" for external links.
