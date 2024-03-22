@@ -1,7 +1,7 @@
 Groups - business profile
 =============================================
 
-This list displays groups for User management for the business profile. You can create, edit and delete groups here, if you are business profile administrator. This option is available in Omnia 7.5 and later.
+This list displays groups for User management for the business profile. You can create, edit and delete groups here, if you are business profile administrator. 
 
 .. image:: groups-bp-list.png
 
