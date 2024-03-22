@@ -1,7 +1,7 @@
 Settings
 ============
 
-Here the following settings can be edited (Image from Omnia 7.5):
+Here the following settings can be edited:
 
 .. image:: business-profile-settings-all-v75.png
 
