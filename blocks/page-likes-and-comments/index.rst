@@ -29,7 +29,7 @@ The following settings are available for the block:
 
 General
 ----------
-The following settings are available on this tab (image from Omnia 7.5):
+The following settings are available on this tab:
 
 .. image:: likes-general-v75-2.png
 
