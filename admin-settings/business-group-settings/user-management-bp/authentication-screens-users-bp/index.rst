@@ -1,7 +1,7 @@
 Authentication screens
 =============================================
 
-Using this option you can create authentication screens to be used for Omnia users in this business profile. This option is available in Omnia 7.5 and later.
+Using this option you can create authentication screens to be used for Omnia users in this business profile. 
 
 These are the settings available:
 
