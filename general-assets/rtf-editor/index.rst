@@ -9,7 +9,7 @@ For more information about the settings, see: :doc:`RTF editor settings </admin-
 
 Using the RTF editor
 **********************
-Here's all of the options that may be available in the editor, as of Omnia 7.1:
+Here's all of the options that may be available in the editor:
 
 .. image:: rtf-editor-all-options-v7-2.png
 
