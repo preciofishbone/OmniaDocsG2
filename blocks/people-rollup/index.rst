@@ -14,11 +14,7 @@ Here are two examples of the user interface. "New recruitments" and "People on t
 
 Settings
 *************************
-The following settings are available (up to v7):
-
-.. image:: peoplerollup-settings-new4.png
-
-Available settings in Omnia 7.5 are these:
+The following settings are available:
 
 .. image:: peoplerollup-settings-75.png
 
