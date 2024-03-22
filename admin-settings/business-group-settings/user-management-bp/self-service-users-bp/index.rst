@@ -1,7 +1,7 @@
 Self-service settings
 =============================================
 
-Using this option, available in Omnia 7.5 and later, you decide if users should be able to create Omnia accounts themselves. You also need a request authentication screen for that purpose.
+Using this option, you decide if users should be able to create Omnia accounts themselves. You also need a request authentication screen for that purpose.
 
 If self-service should not be possible in this business profile, you don't have to do anything. The default setting is:
 
