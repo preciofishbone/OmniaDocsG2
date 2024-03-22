@@ -1,8 +1,6 @@
 Dall-E settings
 =============================================
 
-This option is available in Omnia 7.1 and later.
-
 Dall-E is an AI option that can create images. It can be activated as an image provider, through the feature available for the business profile, and can then be used in the image picker. Here you can create predfined promtpts to be used in Dall-E, for example:
 
 .. image:: dall-e-settings.png
