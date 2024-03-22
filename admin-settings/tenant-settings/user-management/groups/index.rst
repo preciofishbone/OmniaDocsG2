@@ -19,6 +19,12 @@ Note that you can search and filter on "Group type". If you would like a list of
 
 .. image:: user-magaments-groupd-list-omnia.png
 
+If you would like to list the users from one business profile only, use the filter Owner and add tha name of the business profile.
+
+.. image:: user-magaments-groupd-list-75.png
+
+Also note that you can use the i-icon for information about other groups than Omnia groups.
+
 Add a new group
 ----------------
 Click the ADD GROUP button to create a new Omnia group, and use these settings:
@@ -66,13 +72,4 @@ The filter can be used to find one or more groups in a long list.
 Deleted groups
 ****************
 In the list of deleted groups you can restore deleted groups or delete them permanently.
-
-In Omnia 7.5, an additonal filter option is added:
-
-.. image:: user-magaments-groupd-list-75.png
-
-+ **Owner**: If you just want to display users from one of the business profiles in the tenant, select business profile here.
-
-Also note that you now can use the i-icon for information about other groups than Omnia groups.
-
 
