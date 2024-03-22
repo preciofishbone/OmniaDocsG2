@@ -9,7 +9,7 @@ Here's an example of user properties. The ones with a pen and a dust bin are add
 
 .. image:: user-management-properties-new.png
 
-When adding a new property, the following settings are available (image from Omnia 7.5):
+When adding a new property, the following settings are available:
 
 .. image:: user-management-properties-settings-75.png
 
