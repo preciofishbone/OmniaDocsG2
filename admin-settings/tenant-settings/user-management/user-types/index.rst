@@ -1,11 +1,9 @@
 User types
 =============================================
 
-This option is available in Omnia 7.0 and later.
-
 All users in Omnia will be assigned a user type. User types are also used when creating Omnia users and when setting up dynamic groups. It's also possible to create customized user profile cards for different user types.
 
-**Important note!** In Omnia 7.5 authentication settings are set per user type. See below for more information.
+Authentication settings are set per user type. See below for more information.
 
 If any user types for Omnia users has been set up so far, they are listed here, for example:
 
@@ -19,12 +17,8 @@ These settings can be used when creating a new user type:
 
 As you can see, the name and description can be added in any tenant language. 
 
-Additions in Omnia 7.5
-*************************
-In Omnia 7.5 you can also set authentication method and add properties to a user type.
-
 Authentication
------------------
+****************
 Here you can set the following:
 
 .. image:: user-management-types-auth.png
@@ -46,7 +40,7 @@ If "Two-factor authentication" is selected, the following must also be set:
 You must select select one of the other authentication methods available, as the second authentication.
 
 More on Invalidate all user tokens
----------------------------------------
+*************************************
 If the button INVALIDATE ALL USER TOKENS is clicked to force a log out from Omnia for all users, only Omnia is affected, not Sharepoint, Office apps, mail or anything else outside Omnia.
 
 If an editor or author is working on a page in Omnia, the user will be logged out but content added to a page, even if it's not published, is automatically saved quite often, to minimize content lost.
@@ -79,7 +73,9 @@ For more information about the blocks, see:
 + :doc:`The Properties block </blocks/properties-block/index>`
 + :doc:`The Organization tree block </blocks/organization-tree/index>`
 
-As an addition in Omnia 7.5 you can now preview the card layout for different users:
+Preview a profile card
+---------------------------
+You can preview the card layout for different users:
 
 .. image:: user-card-layout-user.png
 
