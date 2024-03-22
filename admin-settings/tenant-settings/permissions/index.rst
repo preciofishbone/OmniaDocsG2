@@ -23,7 +23,7 @@ To delete an administrator in any of the lists, just click the x. To add an admi
 
 Secrets
 ********
-A number of settings are available under Secrets. Exactly what is available here depends on the implementation. Here's an example (from Omnia 7.5): 
+A number of settings are available under Secrets. Exactly what is available here depends on the implementation. Here's an example: 
 
 .. image:: tenant-secrets-v57.png
 
