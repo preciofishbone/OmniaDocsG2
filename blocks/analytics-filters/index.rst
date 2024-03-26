@@ -26,7 +26,7 @@ The following settings are available here:
 + **Period**: Decide if you want to display period, and if you do, select period in the list.
 + **Period date**: Decide if you want to display period date, and if you do, select period date in the list.
 + **Properties**: Add the properties you want use here. Click the plus for a property you select to add it.
-+ **No dimension filters**: (A description will be added soon). 
++ **No dimension filters**: If it shouldn't be possible for readers to use dimension filtering to get further details, select this option. 
 
 Style
 ---------
