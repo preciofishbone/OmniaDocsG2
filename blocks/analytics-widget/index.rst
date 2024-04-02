@@ -64,4 +64,3 @@ Here's an example of a number of Anlytics widget blocks to display analytics dat
 
 .. image:: widgets-example.png
 
-(More information on how this page is set up, will be added soon.)
