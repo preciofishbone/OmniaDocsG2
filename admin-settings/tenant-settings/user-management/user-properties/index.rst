@@ -21,7 +21,7 @@ Setup and Edit can be also be available, as here for a SharePoint term set.
 
 .. image:: user-management-properties-variant-75.png
 
-The Privacy settings is new in Omnia 7.5. You can set this to be Private or Public. (More information about what this setting does will be added soon).
+The Privacy setting can be Private or Public. A private property can only be read på the actual user.
 
 Display
 ---------
