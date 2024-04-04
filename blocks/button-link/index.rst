@@ -103,7 +103,7 @@ Using this button the action Create page can be executed:
 .. image:: action-button-create-page-v75.png
 
 + **Publishing app**: Select publishing app to create the new page in.
-+ **Set default value from current page**: (A description will be added soon)
++ **Set default value from current page**: When you select theis option, also choose property in the field shown. When this is selected, the new page gets the value for this property from the current page.
 
 Event management
 ------------------
