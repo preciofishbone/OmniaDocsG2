@@ -19,7 +19,7 @@ In this part of the documentation you will find information about general assets
    share-document/index
    using-anchors/index
    targeting-in-omnia/index
-   using-people-picke/index
+   using-people-picker/index
    using-tokens-in-omnia/index
    working-with-layouts/index
    working-with-several-languages/index
