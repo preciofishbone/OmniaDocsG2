@@ -15,7 +15,7 @@ If you just want to search for a specific user type or a specific group type, cl
 
 .. image:: people-picker-example-filter1.png
 
-What you can filter depends on settings in Omnia Admin. Here's an example:
+What you can filter on depends on settings in Omnia Admin. Here's an example:
 
 .. image:: people-picker-example-filter2.png
 
