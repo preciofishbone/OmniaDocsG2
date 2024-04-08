@@ -183,7 +183,7 @@ The settings here are used the same way as in the block, see: :doc:`The Notifica
 
 Omnia admin
 -------------
-If you need to add the possibility to go to Omnia admin through a button, for those with the right permissons, you can add it on any page through this block.
+If you need to add the possibility to go to Omnia admin through a button, for those with the right permissions, you can add it on any page through this block.
 
 (Only general settings are available, see above).
 
