@@ -5,3 +5,5 @@ Here you can add administrators that or not tenant administrators but will work 
 
 .. image:: sign-off-permission.png
 
+For more information on the people picker, see: :doc:`Using the people picker </general-assets/using-people-picker/index>`
+
