@@ -18,11 +18,7 @@ Note that every business profile has it's own permissions list. Besides that, a 
 
 To add an administrator in any of the permissions lists, add the name the same way as in other name fields. To delete an administrator here, just click the x. 
 
-Single users, security groups and Microsoft 365 groups can be added here (In Omnia on-prem, Microsoft 365 groups can't be used). 
-
-Note that external users that has been invited in the Azure AD can be added here as well. Users invited this way can log in with their own Microsoft 365 account.
-
-**Note!** A user or a group must be permissions enabled do show up in the list.
+For more information on the people picker, see: :doc:`Using the people picker </general-assets/using-people-picker/index>`
 
 Business profile
 ---------------------
