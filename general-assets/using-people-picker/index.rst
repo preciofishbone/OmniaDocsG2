@@ -9,7 +9,7 @@ To use it, just click in the search field and start typing. Here' an example:
 
 Normally, single users, security groups and Microsoft 365 groups can be added here (In Omnia on-prem, Microsoft 365 groups can’t be used). There are a few excepetions where only single users can be added.
 
-Also note that to be available in the people picker, users and groups may have to be imported the correct way from the Azure Active Directory.
+Also note that to be available in the people picker, users and groups may have to be imported the correct way from Azure Active Directory.
 
 If you just want to search for a specific user type or a specific group type, click here to filter:
 
