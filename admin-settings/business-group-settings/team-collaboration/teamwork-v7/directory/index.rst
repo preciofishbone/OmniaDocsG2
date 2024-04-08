@@ -137,7 +137,7 @@ If you need to add or remove owners (administrators) or members for a teamwork, 
 
 Don't forget to save when you're done.
 
-**Note!** A user or a group must be permissions enabled to show up in the list.
+For more information on the people picker, see: :doc:`Using the people picker </general-assets/using-people-picker/index>`
 
 Edit Features
 ***************
