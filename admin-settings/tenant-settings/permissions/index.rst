@@ -9,17 +9,13 @@ Users and groups
 ******************* 
 Use this setting to add and remove tenant administrators and separate administrators for shared links and snnouncements, if needed. Only tenant administrators can use this setting. A tenant administrator can also edit all the settings for all business profiles within the tenant. 
 
-Single users, security groups and Microsoft 365 groups can be added here (In Omnia on-prem, Microsoft 365 groups can't be used). 
-
-External users that has been invited in the Azure AD can be added here as well. Users invited this way can log in with their own Microsoft 365 account.
-
-**Note!** A user or a group must be permissions enabled do show up in the list.
-
 .. image:: tenant-permissions-v75.png
 
 To delete an administrator in any of the lists, just click the x. To add an administrator, add the name the same way as in other name fields.
 
 **Note!** There must always be at least one tenant administrator. If there is only one, that administrator can not be removed until an additional administrator has been added.
+
+For more information on the people picker, see: :doc:`Using the people picker </general-assets/using-people-picker/index>`
 
 Secrets
 ********
