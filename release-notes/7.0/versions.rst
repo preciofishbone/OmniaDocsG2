@@ -1,3 +1,16 @@
+7.5.10
+========================================
+(Omnia 7.5.10 / Workplace 7.5.10 / WCM 7.5.5 / MS 7.5.4)
+
+- Fixed load time issue for very large term sets in the new filter engine.
+- Fixed an issue with shared comments and likes between variations (#152292).
+- Limit read access in Controlled Documents now populates correctly when creating a new draft (#155030).
+- Fixed an issue that would cause the Sign-off request rollup to show too many items (#154136).
+- Stability fixes to the Azure AD Sync.
+- When using Omnia File storage, links can now be correctly renamed (#154403).
+
+
+
 7.5.8
 ========================================
 (Omnia 7.5.8 / Workplace 7.5.9 / WCM 7.5.4 / MS 7.5.3)
