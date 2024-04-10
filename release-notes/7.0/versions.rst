@@ -1,3 +1,11 @@
+7.5.15
+========================================
+(Omnia 7.5.15 / Workplace 7.5.11 / WCM 7.5.6 / MS 7.5.5)
+
+- Fixed an issue that would prevent old, signed copies from being retried in Controlled Documents (#153282, #153103).
+- Added a setting to the new filter engine to not select child’s terms by default (#154869).
+- The community feature no longer incorrectly adds PageContent as a queryable property (#155196).
+
 7.5.10
 ========================================
 (Omnia 7.5.10 / Workplace 7.5.10 / WCM 7.5.5 / MS 7.5.4)
