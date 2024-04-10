@@ -9,5 +9,5 @@ If you have installed a separate text translator, you also use this option to ad
 
 To use Azure cognitive services, and if you have installed another text translator, you have to add some settings here:
 
-.. image:: text-translator-v7-key.png
+.. image:: text-translator-v7-key-new.png
 
