@@ -101,7 +101,7 @@ Additional information
 ***********************
 In some cases, additional settings are available.
 
-When creating a template for a **Viva Engage community** (former Yammer community), the setup step is different. See the bottom of this page: :doc:`Templates for communities </admin-settings/business-group-settings/communities/communities-v7/templates/index>`
+When creating a template for a **Viva Engage community**, the setup step is different. See the bottom of this page: :doc:`Templates for communities </admin-settings/business-group-settings/communities/communities-v7/templates/index>`
 
 When creating a template for a **SharePoint communication site**, the setup step is slightly different. See the bottom of this page: :doc:`Templates for publishing apps </admin-settings/business-group-settings/publishing-apps/publishing-v7/templates-v7/index>`
 
