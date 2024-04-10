@@ -74,7 +74,7 @@ Custom date filtering
 ------------------------
 If the scope is filtered on some kind of time property, custom date filtering can be set.
 
-See this page for more information about custom date filtering: (link to be added).
+See this page for more information about custom date filtering: :doc:`Custom date filtering </general-assets/custom-date-filtering/index>` 
 
 More on scope Navigation path
 ---------------------------------
