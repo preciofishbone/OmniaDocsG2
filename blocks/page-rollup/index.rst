@@ -70,6 +70,30 @@ The following settings can then be available, depending on scope chosen:
 + **Status**: By using this option you can create rollups for pages with the status Never published, Published or Any status. 
 + **Trim duplicates**: If more than one Page Rollup block is added to a page, this option can be used to handle duplicates between the blocks. When the option is selected, you can enter a number indicating the priority for duplicates, for this block. If you set "1" for a block it means this block has priority showing a post that would have been a duplicate. 
 
+Custom date filtering
+------------------------
+If the scope is filtered on some kind of time property, custim date filtering can be set.
+
+1. Open the list with filering options below the property.
+
+.. image:: custom-date-filter-1.png
+
+2. Select "Custom".
+
+.. image:: custom-date-filter-2.png
+
+3. Use the detailed settings for a custom time period:
+
+.. image:: custom-date-filter-3.png
+
+Use the small list (where is says "+" now) to select if it's before or after today, by choosing minus or plus.
+
+Use the broader list to select Days, Months or Years.
+
+Here's a simple example where pages published from a month ago to today, based on the property Artcle date, will be rolled up:
+
+.. image:: custom-date-filter-4.png
+
 More on scope Navigation path
 ---------------------------------
 Navigation path is a special case, it's used for creating a navigation. When you have selected start node you can choose start node and navigation depth. There's also a view available, specifically for Navigation path; Navigation view. Select it under Display. It's only available if you first select Navigation path as Scope.
