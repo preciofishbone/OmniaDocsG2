@@ -21,7 +21,7 @@ The following is shown:
 
 + **Reviewers**: Here, all colleagues to send to (=appoint as reviewers) is added. Normally, any colleague can be added here. 
 + **Message**: A message to the reviewers is added here. Note that you can only use one message even if you send to several reviewers. 
-+ **Due date**: A date when the review should be finished is entered here. It's only information to the reviewers. Nothing happens when the date is passed.
++ **Due date**: A date when the review should be finished is entered here. The workflow will be active until the due date of the workflow is reached, all tasks are completed or the workflow is cancelled by the author.
 
 Note that all fields are mandatory.
 
@@ -31,8 +31,6 @@ Note that all fields are mandatory.
 A task is now created for each colleague, and an Email is sent to each, with the message entered, and with a link to the document. **General note**: For a user to be able to receive Emails, the acccount must be email enabled.
 
 Reviewers can also be notified in the notification panel about the new task, if it's set up to display tasks, and can choose to open the task from there. 
-
-The workflow will be active until the due date of the workflow is reached, all tasks are completed or the workflow is cancelled by the author.
 
 Check status and cancel a send for comments workflow
 *******************************************************
