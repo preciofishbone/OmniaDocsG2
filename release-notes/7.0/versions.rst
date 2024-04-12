@@ -1,3 +1,27 @@
+7.5.22
+========================================
+(Omnia 7.5.22 / Workplace 7.5.15 / WCM 7.5.12 / MS 7.5.9 / Analytics 7.5.6)
+
+- Adjustments to the create MS Teams API (#151771).
+- Performance improvements to the Teamwork rollup (#155703).
+- Fixed an issue that caused iframes to get the wrong height (#155838).
+- Entra ID sync stability fixes (#155695).
+- Fixed a save issue for the YouTube media provider (#155695).
+- Improved rendering for the Digital signage web view (#154062).
+- Fixed WCAG issues in the page rollup calendar view (#149302).
+- User profile card layouts now work as expected when creating a new tenant (#155958).
+
+7.5.18
+========================================
+(Omnia 7.5.18 / Workplace 7.5.12 / WCM 7.5.8 / MS 7.5.5)
+
+- Fixed an issue that would prevent stream videos from playing correctly on some devices (#152767, #152769).
+- Fixed an issue that would prevent Analytics readers from being added correctly to Matomo (#155538).
+- Videos with special characters can now be picked in the MS Stream video provider (#154963).
+- Images can now be embedded into Digital Signage without the extension requiring API full control. 
+- Incorrect captions from Media flow are now hidden (#155420).
+
+
 7.5.15
 ========================================
 (Omnia 7.5.15 / Workplace 7.5.11 / WCM 7.5.6 / MS 7.5.5)
