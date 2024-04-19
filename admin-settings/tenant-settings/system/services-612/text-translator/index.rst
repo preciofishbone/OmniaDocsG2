@@ -7,7 +7,9 @@ Azure cognitive services is also always available but to use it you need a payed
 
 .. image:: text-translator-v7.png
 
-When you have a Azure cognitive services subscription, and if you have installed another text translator, you have to add some settings here:
+When you have an Azure cognitive services subscription, you have to add some settings here:
 
 .. image:: text-translator-v7-key-new.png
+
+If you have installed another text translator, you have to add similar settings.
 
