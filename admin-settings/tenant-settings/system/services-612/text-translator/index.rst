@@ -1,9 +1,9 @@
 Text translator
 =======================================
 
-A default translator is always available. No settings are needed to use the default translator. Azure cognitive services is also always available but to use it you need a payed subscription tp use it.
+A default Omnia translator is always available. No settings are needed to use the default translator. 
 
-If you have installed a separate text translator, you also use this option to add the settings that are needed. 
+Azure cognitive services is also always available but to use it you need a payed subscription.
 
 .. image:: text-translator-v7.png
 
