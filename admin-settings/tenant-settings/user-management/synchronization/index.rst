@@ -5,7 +5,7 @@ Identity and user details sync from Entra ID are done here. You can also synchro
 
 Omnia supports any custom user directory provider to synchronize groups and users into the system. Built-in providers are Microsoft Graph and Active Directory for Omnia on-prem.
 
-.. image:: user-management-sync-new.png
+.. image:: user-management-sync-v76.png
 
 **Note!** If mapping is needed, it's important that you set this up using the settings before synchronizing.
 
