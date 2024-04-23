@@ -29,14 +29,6 @@ System account is a standard extension for specialized implementations only, nor
 
 .. image:: tenant-secrets-system-url-v57.png
 
-Azure AD Sync account
------------------------
-If you're using Azure AD synchronization, add the account that executes the scheduling here. Should be a SharePoint admin account.
-
-.. image:: tenant-secrets-sync-url-v7.png
-
-**Note!** This way of using Azure AD synchronization is no longer supported by Microsoft (It's removed from Omnia 7.5 and later). You should execute syncronization as described here: :doc:`Azure AD Synchronization Settings </admin-settings/tenant-settings/system/azure-ad-sync/index>`
-
 Event Management service account
 ----------------------------------
 
