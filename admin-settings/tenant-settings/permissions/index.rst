@@ -50,10 +50,6 @@ In the process of enabling SharePoint app-only, Client Id and Client secret must
 
 .. image:: sharepoint-sync-app-v75.png
 
-For more information, see the instruction available when you click the link "Config instruction" in the "Azure AD Sync" settings in Omnia Admin (available under "System").
-
-For more information on Azure AD sync, see: :doc:`Azure AD Synchronization settings </admin-settings/tenant-settings/system/azure-ad-sync/index>`
-
 Azure OpenAI text completion configuration
 --------------------------------------------
 To be able to use OpenAI text functionality within Omnia, the tenant feature Omnia.OpenAI.ChatOpenAIPanel.TextCompletion must be activated. When that is done, an API key and an API base URL must be entered here.
