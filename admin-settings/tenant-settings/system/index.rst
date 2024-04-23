@@ -16,6 +16,7 @@ Select section for more information:
    connected-tenants/index
    error-information/index
    extensions/index
+   licenses/index
    localization/index
    microsoft-365/index
    services-612/index
