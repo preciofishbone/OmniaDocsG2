@@ -29,7 +29,7 @@ At the bottom the synchronizations that has been set up are shown. By clicking t
 
 To delete a synchronization from the list, click the dust bin.
 
-For a scheduled synchronization you also need to add an account in the Security settings (Secrets), see: :doc:`Security </admin-settings/tenant-settings/security/index>`
+For a scheduled synchronization you also need to add an account in the Security settings (Secrets), see: :doc:`Permissions for the tenant </admin-settings/tenant-settings/permissions/index>`
 
 Setup a new synchronization
 *****************************
