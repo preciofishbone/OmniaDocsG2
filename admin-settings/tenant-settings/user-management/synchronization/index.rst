@@ -9,9 +9,7 @@ Omnia supports any custom user directory provider to synchronize groups and user
 
 **Note!** If mapping is needed, it's important that you set this up using the settings before synchronizing.
 
-For Omnia search sync, a button for full sync and for reading logs are available:
-
-.. image:: user-management-sync-omnia search.png
+For Omnia search sync, a button for full sync and for reading logs are available.
 
 Omnia search sync is normally fully automatic, nothing you should need to do manually.
 
