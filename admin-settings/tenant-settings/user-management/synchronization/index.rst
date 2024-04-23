@@ -1,9 +1,9 @@
 Synchronization
 =============================================
 
-Identity and user details sync from Azure Active Directory are done here. You can also synchronize users and groups to Omnia search, if needed.
+Identity and user details sync from Entra ID are done here. You can also synchronize users and groups to Omnia search, if needed.
 
-Omnia supports any custom user directory provider to synchronize groups and users into the system. Built-in providers are Microsoft Graph (Azure AD) and Active Directory for Omnia on-prem.
+Omnia supports any custom user directory provider to synchronize groups and users into the system. Built-in providers are Microsoft Graph and Active Directory for Omnia on-prem.
 
 .. image:: user-management-sync-new.png
 
