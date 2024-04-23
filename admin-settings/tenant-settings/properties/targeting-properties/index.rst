@@ -5,25 +5,25 @@ Here you define which Properties to use for Targeting.
 
 .. image:: targeting-properties-v7.png
 
-The Properties must be added to Enterprise Properties to be able to be selected here, as well as be of the type "Taxonomy".
+The Properties must be added to Enterprise properties to be able to be selected here, as well as be of the type "Taxonomy".
 
 **Note!** Term sets to be used as properties for targeting in Omnia, must be set to "Available for tagging" in SharePoint.
 
 **Note!** In Omnia on-prem, it's only possible to target using SharePoint User Profile and Windows Active Directory group membership. 
 
-Add a Target Property
+Add a target property
 ***************************
-To add a Target Property definition, click the plus and then use the following settings:
+To add a target property definition, click the plus and then use the following settings:
 
 .. image:: targeting-properties-settings-v7.png
 
-+ **Title**: Add the Title to be shown for editors, for the Property, when targeting.
-+ **Property**: Select Tenant Property from the list.
-+ **Type**: Select Type of targeting for this Property; Group Membership, User Profile Property, Azure AD Property or User Property. When "User Profile Property", "Azure AD Property" or "User Property" is selected, choose Property from the list shown. For Group Membership, see below.
++ **Title**: Add the title to be shown for editors, for the Property, when targeting.
++ **Property**: Select tenant property from the list.
++ **Type**: Select type of targeting for this property; Group membership, User profile property, Entra ID property or UserpProperty. When "User profile property", "Entra ID property" or "User property" is selected, choose property from the list shown. For group membership, see below.
 
-Map Group Membership
+Map group membership
 ************************
-When "Group Membership" is selected, this link is shown:
+When "Group membership" is selected, this link is shown:
 
 .. image:: targeting-properties-settings-map-new-v7.png
 
@@ -43,10 +43,10 @@ Security groups and Microsoft 365 groups can be added here (In Omnia on-prem, Mi
 3. Continue this way until all terms you want to map is done. 
 4. Save when you're finished.
 
-Delete or edit Target Property
+Delete or edit target property
 **********************************
-To delete a Target Property, click the dust bin, to edit it, click the pen:
+To delete a target property, click the dust bin, to edit it, click the pen:
 
 .. image:: targeting-properties-delete-edit-v7.png
 
-All settings used when creating a Targeting Property can be edited, see above.
+All settings used when creating a targeting property can be edited, see above.
