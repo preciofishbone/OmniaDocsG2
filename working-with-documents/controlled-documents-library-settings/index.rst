@@ -104,7 +104,7 @@ If permission groups are used, as in the example above, you can add and remove u
 
 .. image:: advanced-permissions-settings-new2.png
 
-Note that external users that has been invited in the Azure AD can be added here as well. Users invited this way can log in with their own Microsoft 365 account.
+Note that external users that has been invited in Entra ID can be added here as well. Users invited this way can log in with their own Microsoft 365 account.
 
 Settings for Document management is found under that heading in Omnia admin, see this part of the documentation for more information: :doc:`Document management </admin-settings/tenant-settings/document-management/index>`
 
