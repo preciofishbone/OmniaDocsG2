@@ -35,12 +35,9 @@ Setup a new synchronization
 To set up a new synchronization, do the following:
 
 1. Click the plus.
-
-.. image:: synchro-click-plus-76.png
-
 2. Use the following settings:
 
-.. image:: azure-ad-settings.png
+.. image:: azure-ad-settings-76.png
 
 + **Entra ID property**: Open the list and select the AD property to synchronize.
 + **SharePoint property**: Type the name of the SharePoint property to synchronize to.
