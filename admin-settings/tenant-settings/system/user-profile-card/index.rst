@@ -38,7 +38,7 @@ To add exclude filters, do the following:
 
 .. image:: exclude-filters-1.png
 
-2. Select Azure AD property.
+2. Select Entra ID property.
 
 .. image:: exclude-filters-2.png
 
