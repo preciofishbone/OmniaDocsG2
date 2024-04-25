@@ -1,4 +1,4 @@
-Media rollup block
+Media rollup
 ========================
 
 This is a new block in Omnia 7.6. The purpose is to rollup different types of media resources for easy access.
@@ -21,7 +21,7 @@ Here you select the data source for the rollup.
 
 .. image:: media-rollup-settings-query.png
 
-It can be a SharPoint library or you can use SharePoint search.
+It can be a SharePoint library or you can use SharePoint search.
 
 For "Sharepoint library" you select to rollup any combination of images, video or audio files.
 
@@ -35,7 +35,7 @@ If you select "Sharepoint search", you start by selecting to rollup any combinat
 
 Display
 -----------
-For display, you can choose list view for photowall. Fir list view you must add at least one column for the rollup to work, and the use these settings:
+For display, you can choose list view or photowall. For list view you must add at least one column for the rollup to work, and use these settings:
 
 .. image:: media-rollup-settings-displat-list.png
 
@@ -53,7 +53,7 @@ For filtering, common options are available. See this page for more information:
 
 Style
 ------------
-Under "Style", you can set somepadding.
+Under "Style", you can set some padding.
 
 .. image:: media-rollup-settings-style.png
 
