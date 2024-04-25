@@ -1,4 +1,4 @@
-Form rollup block
+Form rollup
 ========================
 
 This is a new block in Omnia 7.6. Here's a basic description. More will be added soon.
