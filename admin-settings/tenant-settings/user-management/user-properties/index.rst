@@ -1,7 +1,7 @@
 User properties
 =============================================
 
-The properties you want to use when creating Omnia users must be present in this list. These properties can also be shown on the customized user profile cards together with properties from Azure AD and SharePoint. Besides that, they will also be used to manage targeted mobile push notifications and statistics. Also note the comment about GDPR.
+The properties you want to use when creating Omnia users must be present in this list. These properties can also be shown on the customized user profile cards together with properties from Entra ID and SharePoint. Besides that, they will also be used to manage targeted mobile push notifications and statistics. Also note the comment about GDPR.
 
 A number of default properties are always available. They can not be edited or deleted. If you need additional properties you add them here as described below.
 
