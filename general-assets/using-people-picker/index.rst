@@ -9,9 +9,9 @@ To use it, just click in the search field and start typing. Here' an example:
 
 Normally, single users, security groups and Microsoft 365 groups can be added here (In Omnia on-prem, Microsoft 365 groups can’t be used). There are a few excepetions where only single users can be added.
 
-External users that has been invited in the Azure AD can be added here as well. Users invited this way can log in with their own Microsoft 365 account. 
+External users that has been invited in Entra ID can be added here as well. Users invited this way can log in with their own Microsoft 365 account. 
 
-Note that to be available in the people picker, users and groups may have to be imported the correct way from Entra ID (formely called Azure Active Directory).
+Note that to be available in the people picker, users and groups may have to be imported the correct way from Entra ID.
 
 Also note that if the picker is used in a permission context, people and groups must by permissions enabled to show up in the list. Likewise, if the picker is used in a context where Email is used, people and groups must be Email enabled to show up in the list.
 
