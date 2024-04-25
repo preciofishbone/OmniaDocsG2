@@ -1,7 +1,7 @@
 Organization tree block
 ===========================
 
-You can use it to show an organization tree based on information in Azure AD about who reports to who.
+You can use it to show an organization tree based on information in Entra ID about who reports to who.
 
 You use the following settings:
 
