@@ -20,9 +20,9 @@ Here you decide what to display in the block:
 .. image:: analytics-table-settings-display.png
 
 + **Business profile**: Select business profile to display data from.
-+ **Number of items displayed per page**: Add the number of items to display. Important note: If you don't select the option "Show pagination", this is the number of items that will be displayed, regardless if there are more.
-+ **Show pagination**: The be able to see additional pages with items, select this option.
-+ **Sort on column**: Select the columne to sort the list on. 
++ **Number of items displayed per page**: Add the number of items to display. Important note: If you don't select the option "Show pagination", this is the number of items that will be displayed, even if there are more.
++ **Show pagination**: To be able to see additional pages with items, select this option.
++ **Sort on column**: Select the column to sort the list on. 
 
 Filter
 --------
