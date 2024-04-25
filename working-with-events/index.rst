@@ -15,7 +15,7 @@ Important event options:
 + Users can register a number of (not named) colleagues that will accompany them to the event.
 + A user can register for others.
 + Users can edit or remove their own registrations.
-+ External users that has been invited in the Azure AD, can use the event management options.
++ External users that has been invited in Entra ID, can use the event management options.
 + Event managers can create new events, can edit all registrations and remove registrations if needed.
 + Event managers can export the participant list to Excel and can communicate with participants through Email. (Work Email is used).
 + Event managers needs Editor permissions.
