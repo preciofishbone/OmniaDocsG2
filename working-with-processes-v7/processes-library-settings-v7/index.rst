@@ -55,5 +55,5 @@ Something like the following is shown:
 
 You add/remove groups and/or users to these fields the same way as other people filds.
 
-Note that external users that has been invited in the Azure AD can be added here as well. Users invited this way can log in with their own Microsoft 365 account.
+Note that external users that has been invited in Entra ID can be added here as well. Users invited this way can log in with their own Microsoft 365 account.
 
