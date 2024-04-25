@@ -40,13 +40,13 @@ To add exclude filters, do the following:
 
 2. Select Entra ID property.
 
-.. image:: exclude-filters-2.png
+.. image:: exclude-filters-2-76.png
 
 Note that if you can't find the property you are looking for in the last, it can still be available. Type the name of the property in the field to search for it.
 
 3. Add a value for the property.
 
-.. image:: exclude-filters-3.png
+.. image:: exclude-filters-3-76.png
 
 4. Click SAVE.
 5. Continue the same way until all exclude filters has been added.
