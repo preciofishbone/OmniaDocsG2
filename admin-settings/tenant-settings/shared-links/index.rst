@@ -61,7 +61,7 @@ Targeting a link works the same way as in many other parts of Omnia. See this pa
 
 Permissions for Shared Links
 *****************************
-Shared Links has a seperate Permissions setting, so any user can be set as a Shared Links administrator. This includes external users that has been invited in the Azure AD, meaning they can log in with their own Microsoft 365 account. 
+Shared Links has a seperate Permissions setting, so any user can be set as a Shared Links administrator. This includes external users that has been invited in Entra ID, meaning they can log in with their own Microsoft 365 account. 
 
 For more information about permissions, see: :doc:`Permissions for the Tenant </admin-settings/tenant-settings/permissions/index>`
 
