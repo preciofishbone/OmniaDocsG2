@@ -7,6 +7,7 @@ Blocks
 
    
    accordion/index
+   analytics-table-block/index
    anchor-navigation/index
    button-link/index
    activity-feed/index
@@ -26,11 +27,13 @@ Blocks
    current-navigation/index
    document-rollup/index
    faq/index
+   form-rollup-block/index
    general-block-settings/index
    governance-dashboard/index
    html-script/index
    iframe/index
    media/index
+   media-rollup-block/index
    mega-menu/index
    metrics-block-612/index
    my-subscriptions/index
