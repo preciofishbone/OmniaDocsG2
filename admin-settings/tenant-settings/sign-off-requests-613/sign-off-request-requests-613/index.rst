@@ -1,11 +1,11 @@
 Requests
 =============================================
 
-All created requests are listed here. You can filter on "Requested by" and "Progress status" (In progress or Completed).
+All created requests are listed here. You can filter on "Requested by" and "Progress status" (Not started, In progress or Completed).
 
 Here's an example of a list:
 
-.. image:: sign-off-requests-requests-v7.png
+.. image:: sign-off-requests-requests-v76.png
 
 The "Status" column indicates if the request is open or closed. the "Progress status" column to the right indicates the number of answers; white for none, yellow for some/ongoing and green for all that the request was sent to.
 
