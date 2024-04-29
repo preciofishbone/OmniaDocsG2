@@ -1,3 +1,16 @@
+7.5.23
+========================================
+(Omnia 7.5.23 / Workplace 7.5.16 / WCM 7.5.13 / MS 7.5.10 / Analytics 7.5.6)
+
+- Improvements to the Page rollup accelerator feature (#156459).
+- Corrected an issue that prevented the process rollup to be sorted on published date (#156036).
+- Classic date format is now available for all page rollup views.
+- Corrected a migration error which caused some sites to not be able to create new controlled documents (#156125).
+- Improved logic for links when several navigation paths are duplicated (#156021).
+- Fixes to permissions logic to display public information on a teamwork (#153537).
+- The Matomo data gather script is correctly removed once the feature is disabled (#156037).
+
+
 7.5.22
 ========================================
 (Omnia 7.5.22 / Workplace 7.5.15 / WCM 7.5.12 / MS 7.5.9 / Analytics 7.5.6)
