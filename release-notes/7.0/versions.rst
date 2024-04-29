@@ -1,3 +1,16 @@
+7.5.24
+========================================
+(Omnia 7.5.24 / Workplace 7.5.17 / WCM 7.5.14 / MS 7.5.11 / Analytics 7.5.6)
+
+- Fixed a logical glitch when using multiple translations together with automatic page creation (#156046).
+- Stability improvements to the review workflow timer job and logic (#155304).
+- The SharePoint user profile sync correctly shows without SharePoint add-in permissions being configured (#156252, #156587)
+- Better handling for removed users in the process authoring site (#155980).
+- Improved stability for the page deletion job to better handle substantial amounts of data (#155868).
+- Improvements to the Page rollup accelerator feature.
+- Added a sign-off request tenant feature to improve performance in solutions where sign-off requests are not used.
+
+
 7.5.23
 ========================================
 (Omnia 7.5.23 / Workplace 7.5.16 / WCM 7.5.13 / MS 7.5.10 / Analytics 7.5.6)
