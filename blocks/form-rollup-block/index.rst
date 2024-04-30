@@ -21,7 +21,7 @@ Set the scope and the page size here.
 
 The scope can be the tenant, one or more business profiles or one or more apps. 
 
-As the next step you can add filters for further details cincenring what you want to show in the block.
+As the next step you can add filters for further details concerning what you want to show in the block.
 
 Display
 ----------
