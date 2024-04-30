@@ -1,7 +1,7 @@
 Analytics table
 ========================
 
-This is a new block in Omnia 7.6. Here are some basic information. More will be added soon.
+This is a new block in Omnia 7.6. 
 
 The following settings are available for this block:
 
