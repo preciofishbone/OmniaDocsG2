@@ -22,7 +22,7 @@ This is how it's done:
 1. A tenant administrator or a business profile administrator creates a group and adds the local manager as owner of that group.
 2. The local manager can then add users to the group and manage the users the way it's decsribed here.
 
-The local amanager is added as owner here:
+The local manager is added/replaced as owner here when a new group is created or an existing group is edited:
 
 .. image:: groups-bp-list-owner.png
 
