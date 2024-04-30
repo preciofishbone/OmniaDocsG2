@@ -9,7 +9,7 @@ The following settings are available:
 
 General
 ----------
-Here you can adda title for the block, if needed.
+Here you can add a title for the block, if needed.
 
 .. image:: form-rollup-general.png
 
@@ -19,27 +19,35 @@ Set the scope and the page size here.
 
 .. image:: form-rollup-query.png
 
-The scope can be the tenant, one or more business profiles or one or more apps.
+The scope can be the tenant, one or more business profiles or one or more apps. 
 
-When you have selected "Tenant" as the scope, you can add some filters and when you have selected "Business profile" or "Apps", you can select one or more specific business profiles or apps.
+As the next step you can add filters for further details cincenring what you want to show in the block.
 
 Display
 ----------
+You can select List view or Form view. List view is, as the name suggests, meant for listing all the forms that meet the scope settings. A form can then be clicked for more details, or for using the form. 
+
 The following is available here, if select "List view":
 
 .. image:: form-rollup-display.png
 
-If you select "Fixed header", the header will always be shown when users scroll down the list.
-
-Remember, you have to add at least one column for the column view to work.
++ **Add column**: One or more columns must be added for the List view to work.
++ **Fixed header**: If you select this option, the header will always be shown when users scroll down the list.
 
 The rest of the options should be self explanatory.
+
+Form view is used to actually display the forms (but also see "Open form as dialog" below). Users can then go to the different steps of the forms that meet the scope, and on to the next form. This option is  probably most useful when there's only a few forms available.
 
 If you select "Form view", the top part is different:
 
 .. image:: form-rollup-display-form-view.png
 
-Additional information about these options will be added soon.
++ **Legend alignment**: (A description will be added soon).
++ **Legend position**: (A description will be added soon).
++ **Show from titel**: Select this option to show the title of the form.
++ **Open form as dialog**: If you select this option, the actual form is not shown. Instead a button to open the form is show. Users can then click the arrows to see which forms are available, and click the button to open a form to have a look at or use.
+
+.. image:: form-as-dialog.png
 
 Filter
 ---------
