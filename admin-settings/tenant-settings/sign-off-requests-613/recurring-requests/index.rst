@@ -13,4 +13,4 @@ And with theses recurrence settings:
 
 .. image:: recurring-requests-new-settings.png
 
-All settings can edited after a recurring request has been created.
+All settings can be edited after a recurring request has been created.
