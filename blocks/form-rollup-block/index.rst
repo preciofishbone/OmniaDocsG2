@@ -1,7 +1,7 @@
 Form rollup
 ========================
 
-This is a new block in Omnia 7.6. Here's a basic description. More will be added soon.
+This is a new block in Omnia 7.6. The block can be used for many different purposes. Here's a basic description. More will be added soon.
 
 The following settings are available:
 
