@@ -19,7 +19,7 @@ In Omnia 7.6 and later, it's possible for a local manager on any level to manage
 
 This is how it's done:
 
-1. A tenant administrator or a business profile administrator creates a group and adds the local managar as owner of that group.
+1. A tenant administrator or a business profile administrator creates a group and adds the local manager as owner of that group.
 2. The local manager can then add users to the group and manage the users the way it's decsribed here.
 
 The local amanager is added as owner here:
