@@ -40,7 +40,8 @@ When you have selected type, some or all of these settings can be available:
 
 3. Add or remove pages as needed.
 4. Add a message for each page, if needed (for more information, see below).
-5. Click SEND REQUEST to save the Sign-off request and send it. If you don't, nothing is saved.
+5. Schedule the send-out if needed. Available in Omnia 7.6 and later.
+6. Click SEND REQUEST to save the Sign-off request and send it. If you don't, nothing is saved.
 
 To add or remove pages
 ----------------------------
