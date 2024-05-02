@@ -1,7 +1,7 @@
 Omnia
 =========
 
-.. note:: Please find the old legacy documentation (if needed) `here <https://omnia-docs.readthedocs.io/>`_ | For questions, please contact omnia.documentation@preciofishbone.se. 
+.. note:: Please find the old legacy documentation (if needed) `here <https://omnia-docs.readthedocs.io/>`_ |
 
 Topics
 ------
