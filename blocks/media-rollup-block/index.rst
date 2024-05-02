@@ -25,19 +25,25 @@ Here you select the data source for the rollup.
 
 You can rollup media files from a SharePoint library or you can use SharePoint search.
 
-For "Sharepoint library" you select to rollup any combination of images, video or audio files.
+In both cases, select to rollup images, video or audio.
 
-.. image:: media-rollup-settings-query-library.png
+.. image:: media-rollup-settings-query-library-new.png
 
-and set a path to a library.
+Media files from a SharePoint library
+---------------------------------------
+The next step for a Sharepoint library is to add a path to the SharePoint library, or just accept the standard path (more info about this soon).
 
-If you select "Sharepoint search", you start by selecting to rollup any combination of images, video or audio files - and then you can add a query:
+.. image:: media-rollup-settings-query-library-path.png
+
+Media files through SharePoint search
+-------------------------------------------
+For SharePoint search you can add a query the same way as for many other blocks in Omnia:
 
 .. image:: media-rollup-settings-query-search.png
 
 Display
 -----------
-For display, you can choose list view or photowall. For list view you must add at least one column for the rollup to work, and use these settings:
+For display, you can choose a list view or a photowall. For "List view" you must add at least one column for the rollup to work, and use these settings:
 
 .. image:: media-rollup-settings-displat-list.png
 
