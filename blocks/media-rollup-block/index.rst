@@ -23,7 +23,7 @@ Here you select the data source for the rollup.
 
 .. image:: media-rollup-settings-query.png
 
-It can be a SharePoint library or you can use SharePoint search.
+You can rollup media files from a SharePoint library or you can use SharePoint search.
 
 For "Sharepoint library" you select to rollup any combination of images, video or audio files.
 
