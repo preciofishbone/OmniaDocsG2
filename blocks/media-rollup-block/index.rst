@@ -1,9 +1,9 @@
 Media rollup
 ========================
 
-This is a new block in Omnia 7.6. The purpose is to rollup different types of media resources for easy access.
+This is a new block in Omnia 7.6. The purpose is to rollup different types of media resources for easy access, mainly for end users, but can also be configured to be of use for editors, for example if official images are located somewhere else than in any of the Central media locations.
 
-**The documentaiton is just started with a preliminary description. More will be added soon.**
+**The documentation is just started with a preliminary description. More will be added soon.**
 
 Settings
 ***********
@@ -25,13 +25,13 @@ Here you select the data source for the rollup.
 
 You can rollup media files from a SharePoint library or you can use SharePoint search.
 
-In both cases, select to rollup images, video or audio.
+In both cases, start by selecting to rollup images, video or audio.
 
 .. image:: media-rollup-settings-query-library-new.png
 
 Media files from a SharePoint library
 ---------------------------------------
-The next step for a Sharepoint library is to add a path to the SharePoint library, or just accept the default path (more info about this soon).
+The next step for a Sharepoint library is to add a path to the library, or just accept the default path (more info about this soon).
 
 .. image:: media-rollup-settings-query-library-path.png
 
@@ -51,17 +51,23 @@ If you select "Fixed header", the header is always shown when users scroll the l
 
 The rest of the options should be self explanatory.
 
-Here's a simple example of a list with a small preview:
+**A tip!** If you would like to make it possible to download the media files in the list, there's a "Download" column you can add.
 
-.. image:: media-rollup-settings-displat-list-example.png
+Here's a simple example of a list with a small preview and a download icon:
 
-For photowall, these settings are avilable:
+.. image:: media-rollup-settings-displat-list-example2.png
+
+For photowall, these settings are avialable:
 
 .. image:: media-rollup-settings-display-photowall.png
 
 Here's an example of a photowall display with three columns:
 
 .. image:: media-rollup-settings-display-photowall-example.png
+
+For a larger view, click a file. The media list can then be browsed this way:
+
+.. image:: media-rollup-settings-display-photowall-example-browse.png
 
 Filter
 ----------
