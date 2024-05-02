@@ -1,15 +1,21 @@
 Analytics table
 ========================
 
-This is a new block in Omnia 7.6. 
+This is a new block in Omnia 7.6. Using this block you can display a list of pages in a business profile and see the usage.
 
+Here's an example:
+
+.. image:: analytics-table-example.png
+
+Settings
+*****************
 The following settings are available for this block:
 
 .. image:: analytics-table-settings.png
 
 General
 ------------
-The general settings just contains the optionto add a title for the block:
+The general settings just contains the option to add a title for the block:
 
 .. image:: analytics-table-settings-general.png
 
