@@ -3,9 +3,9 @@ Analytics table
 
 This is a new block in Omnia 7.6. Using this block you can display a list of pages in a business profile and see the usage.
 
-Here's an example:
+Here's an example where the block is used in a governance hub with a lot of filter options:
 
-.. image:: analytics-table-example.png
+.. image:: analytics-table-example-hub.png
 
 Settings
 *****************
@@ -32,7 +32,7 @@ Here you decide what to display in the block:
 
 Filter
 --------
-You can decide to display a number of filters the users can use. Select "Show" to activate a filter.
+You can decide to display a number of filters. Select "Show" to activate a filter.
 
 .. image:: analytics-table-settings-filter.png
 
