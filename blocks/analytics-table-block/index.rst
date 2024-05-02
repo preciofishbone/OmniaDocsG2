@@ -7,6 +7,8 @@ Here's an example where the block is used in a governance hub with a lot of filt
 
 .. image:: analytics-table-example-hub.png
 
+Note that the block requires a fairly broad space to display all default columns in the list.
+
 Settings
 *****************
 The following settings are available for this block:
