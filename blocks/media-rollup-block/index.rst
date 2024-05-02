@@ -3,7 +3,7 @@ Media rollup
 
 This is a new block in Omnia 7.6. The purpose is to rollup different types of media resources for easy access.
 
-**The documentaiton is just started with a preliminary description. More details for the descriptions will be added soon.**
+**The documentaiton is just started with a preliminary description. More will be added soon.**
 
 Settings
 ***********
