@@ -26,8 +26,8 @@ Here you decide what to display in the block:
 .. image:: analytics-table-settings-display.png
 
 + **Business profile**: Select business profile to display data from.
-+ **Number of items displayed per page**: Add the number of items to display. Important note: If you don't select the option "Show pagination", this is the number of items that will be displayed, even if there are more.
-+ **Show pagination**: To be able to see additional pages with items, select this option.
++ **Number of items displayed per page**: Add the number of items to display on each list page. **Important note**: If you don't select the option "Show pagination", this is the number of items that will be listed, even if there are more.
++ **Show pagination**: To be able to see additional items listed, select this option.
 + **Sort on column**: Select the column to sort the list on. 
 
 Filter
@@ -55,5 +55,4 @@ Not much to it here. You can set some padding if needed.
 Layout and Write
 ******************
 The Write tab is not used here. The Layout tab contains general settings for blocks. For more information see: :doc:`General block settings </blocks/general-block-settings/index>`
-
 
