@@ -1,8 +1,12 @@
 Form rollup
 ========================
 
-This is a new block in Omnia 7.6. The block can be used for many different purposes. Here's a basic description. More will be added soon.
+This is a new block in Omnia 7.6. The block can be used for many different purposes. 
 
+**The documentation is just started, more will be added soon.**
+
+Settings
+*************
 The following settings are available:
 
 .. image:: form-rollup-settings.png
@@ -21,11 +25,11 @@ Set the scope and the page size here.
 
 The scope can be the tenant, one or more business profiles or one or more apps. 
 
-As the next step you can add filters for further details concerning what you want to show in the block.
+As the next step you can add filters for what you want to show in the block.
 
 Display
 ----------
-You can select List view or Form view. List view is, as the name suggests, meant for listing all the forms that meet the scope settings. A form can then be clicked for more details, or for using the form. 
+You can select List view or Form view. List view is, as the name suggests, meant for listing all the forms that meet the scope settings.  
 
 The following is available here, if select "List view":
 
