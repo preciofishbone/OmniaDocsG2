@@ -43,7 +43,7 @@ For SharePoint search you can add a query the same way as for many other blocks 
 
 Display
 -----------
-For display, you can choose a list view or a photowall. For "List view" you must add at least one column for the rollup to work, and use these settings:
+For display, you can choose a list view or a photowall view. For "List view" you must add at least one column for the rollup to work, and use these settings:
 
 .. image:: media-rollup-settings-displat-list.png
 
