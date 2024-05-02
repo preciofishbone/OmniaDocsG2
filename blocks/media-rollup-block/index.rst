@@ -47,6 +47,14 @@ For display, you can choose a list view or a photowall. For "List view" you must
 
 .. image:: media-rollup-settings-displat-list.png
 
+If you select "Fixed header", the header is always shown when users scroll the list.
+
+The rest of the options should be self explanatory.
+
+Here's a simple example of a list with a small preview:
+
+.. image:: media-rollup-settings-displat-list-example.png
+
 For photowall, these settings are avilable:
 
 .. image:: media-rollup-settings-display-photowall.png
