@@ -13,7 +13,7 @@ These settings and options are available here:
 
 .. image:: sharepoint-user-profiles-sync-76.png
 
-+ **SYNCHRONIZE NOW**: Click this button to execute the syncrhonizations set up (listed at the bottom). If you select "Enable Synchronization" and set and interval, you don't have to click this button. The synchronization is then executed with the interval set.
++ **SYNCHRONIZE NOW**: (This button will be renamed FULL SYNC in Omnia 7.6). Click this button to execute the syncrhonizations set up (listed at the bottom). If you select "Enable Synchronization" and set and interval, you don't have to click this button. The synchronization is then executed with the interval set.
 + **Test Sync**: This is an option suitable for administrators to test synchronization for a limited number af users. Setup the sync to test as described below.
 + **EVENTS**: Click this button to access logs from the synchronizations. 
 + **Enable synchronization**: Select this option to enable the synchronization.
