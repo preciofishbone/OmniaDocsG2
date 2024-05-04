@@ -27,7 +27,7 @@ Note that videos can be handled in SharePoint media libraries as well, and some 
 
 Bing
 *******
-When selecting Bing (if available) you can search for any Bing image, or use the predefined search categories, if any is set up. Bing search categories can be set up by an administrator in Omnia admin.
+For Bing to be available, the feature "Bing" must be active. When selecting Bing you can search for any Bing image, or use the predefined search categories, if any is set up. Bing search categories can be set up by an administrator in Omnia admin.
 
 .. image:: media-picker-bing-search-v7.png
 
@@ -40,9 +40,29 @@ To select an image, click it and the settings will be shown. Settings are the sa
 
 **Important note!** Omnia applies a filter to the Bing search automatically so only images that are free to use can be found through the Image picker.
 
+MediaFlow
+************
+This option requires a subscription to the Mediaflow service. Please find more information here: https://www.mediaflow.com/.
+
+For MediaFlow (Pro) to be available, the prerequisites in Omnia are:
+
+1. The feature "MediaFlow" must be active.
+2. Client Id, Client secret and Refresch token must be added under "Permissions" - "Secrets" - "MediaFlow" for a business profile. (These settings are provided by MediaFlow).
+3. The specific settings for MediaFlow may need to be edited. See this link (Link to be added).
+
+When MediaFlow has been set up, you can search or browse available content:
+
+.. image:: media-picker-mediaflow.png
+
+To select an image, click it and select "Use this file". Also note the information shown, for example file size.
+
+.. image:: media-picker-mediaflow-select.png
+
+When you have done that, Omnia's settings are shown, as described below.
+
 Pexels or other provider
 **************************
-Available search- or filtering fields depend on what the provider offer. For Pexels (if available), only a search field is available:
+For Pexels to be available the feature "Pexels" must be active. Available search- or filtering fields depend on what the provider offer. For Pexels only a search field is available:
 
 .. image:: media-picker-pexel-search-v7.png
 
