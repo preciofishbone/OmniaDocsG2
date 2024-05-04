@@ -40,17 +40,17 @@ To select an image, click it and the settings will be shown. Settings are the sa
 
 **Important note!** Omnia applies a filter to the Bing search automatically so only images that are free to use can be found through the Image picker.
 
-MediaFlow
+Mediaflow
 ************
 This option requires a subscription to the Mediaflow service. Please find more information here: https://www.mediaflow.com/.
 
-For MediaFlow (Pro) to be available, the prerequisites in Omnia are:
+For Mediaflow (Pro) to be available, the prerequisites in Omnia are:
 
-1. The feature "MediaFlow" must be active.
+1. The feature "Mediaflow" must be active.
 2. Client Id, Client secret and Refresch token must be added under "Permissions" - "Secrets" - "MediaFlow" for a business profile. (These settings are provided by MediaFlow).
 3. The specific settings for MediaFlow may need to be edited. See this link (Link to be added).
 
-When MediaFlow has been set up, you can search or browse available content:
+When Mediaflow has been set up, you can search or browse available content:
 
 .. image:: media-picker-mediaflow.png
 
