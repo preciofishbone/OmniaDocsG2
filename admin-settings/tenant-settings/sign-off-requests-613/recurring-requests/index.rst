@@ -17,9 +17,9 @@ The following settings are available for a new, recurring request:
 + **Type**: Select a type of request. Types are set up using the "Type" option for requests.
 + **Template**: A type can be connected to one or more templates, if more than one template is available, you can select template here.
 + **Title**. This is the title users will see.
-+ **Description**: Users will see the description. The field can contain a suggested text or information to the administrator, from the template. 
++ **Description**: Users will see the description. The field can contain a suggested text or information to the administrator, from the template. Change the text to fit the recurring request.
 
-"To be signed off", "Properties", "Sign-off type" and "Requested by" works exactly the same as when a normal request (=not recurring) is created, see the heading "Create a new request" on this page: :doc:`Requests </admin-settings/tenant-settings/sign-off-requests-613/sign-off-request-requests-613/index>` 
+"To be signed off", "Properties", "Sign-off type" and "Requested by" works exactly the same as when a normal request (= not recurring) is created, see the heading "Create a new request" on this page: :doc:`Requests </admin-settings/tenant-settings/sign-off-requests-613/sign-off-request-requests-613/index>` 
 
 Recurrence settings
 --------------------------
@@ -41,7 +41,7 @@ When the recurrence settings has been done, you can now see that the information
 
 .. image:: recurring-requests-new-settings-shown.png
 
-4. You can noe set time for when the sing-off should be sent. If you want to set the time zone to calculate the time on, click the box.
+4. You can set time for when the sing-off should be sent. If you want to set the time zone to calculate the time on, click the box.
 
 .. image:: recurring-requests-new-settings-zone.png
 
