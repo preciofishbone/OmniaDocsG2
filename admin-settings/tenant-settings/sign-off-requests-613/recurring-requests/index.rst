@@ -1,7 +1,7 @@
 Recurring requests
 ========================
 
-This is a new option in Omnia 7.6. This documentation is just started. More information will be added soon.
+This is a new option in Omnia 7.6. The documentation is just started. More information will be added soon.
 
 Use this option to set up sign-off requests that occurs with regular intervals, with an end date, or just rolling until you change it.
 
