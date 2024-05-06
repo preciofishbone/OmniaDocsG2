@@ -27,7 +27,7 @@ To set details for the recurrence, do the following:
 
 1. Click RECURRENCE SETTINGS to access this part of the settings.
 
-.. image:: recurring-requests-new-settings-click.png
+.. image:: recurring-requests-new-settings-click-new.png
 
 2. Use these settings:
 
