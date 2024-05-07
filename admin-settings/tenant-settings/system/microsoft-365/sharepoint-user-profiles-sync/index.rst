@@ -1,13 +1,9 @@
 SharePoint user profiles sync
 ==============================================
 
-This option was in earlier Omnia versions called "Azure AD Sync". 
+Use these advanced settings to make sure person properties are synchronized from Entra ID to SharePoint. (This option was in earlier Omnia versions called "Azure AD Sync".)
 
-Use these advanced settings to make sure person properties are synchronized from Entra ID to SharePoint. 
-
-**Note:** The Entra ID Sync must now be set up to use SharePoint Add-in App identity instead of a user account. This will allow the tenant to turn off legacy sign in and still use the Entra ID Sync, see *Enable Sharepoint App-Only* below.
-
-**Also note!** This option is not applicable in Omnia on-prem.
+**Note!** This option is not applicable in Omnia on-prem.
 
 These settings and options are available here:
 
