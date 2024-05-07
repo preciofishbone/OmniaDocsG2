@@ -40,7 +40,7 @@ The rest of the options should be self explanatory.
 
 Form view is used to actually display the forms (but also see "Open form as dialog" below). Users can then go to the different steps of the forms that meet the scope, and on to the next form. 
 
-Here's a simple example:
+Here's a simple example of a Form view:
 
 .. image:: form-rollup-display-example.png
 
