@@ -18,11 +18,10 @@ These settings and options are available here:
 + **Test Sync**: This is an option suitable for administrators to test synchronization for a limited number af users. Setup the sync to test as described below.
 + **EVENTS**: Click this button to access logs from the synchronizations. 
 + **Enable synchronization**: Select this option to enable the synchronization.
-+ **Enable SharePoint App-Only**: Due to ongoing changes by Microsoft, Entra ID Sync may stop working. If that happens you have to setup SharePoint App-Only for Entra ID Sync. Click the link "Config instruction" and follow that instruction. When you're done, select this option.
-+ **Only Sync Enable Account**: To only sync enabled accounts, select this option. Otherwise all, even disabled accounts, are synced.
-+ **Log Detail**: Use this if you have problems with the synchronization. In the details you will hopefully find out what's wrong. 
-+ **Batch Execute**: This is an advanced option if you have a very long list of users - several hundreds and above. Contact you provider/consultant for help when using this.
-+ **Batch Number**: When you have selcected "Batch Execute" you use this field to set the number of users that should be synchronized each time.
++ **Only sync enable account**: To only sync enabled accounts, select this option. Otherwise all, even disabled accounts, are synced.
++ **Log detail**: Use this if you have problems with the synchronization. In the details you will hopefully find out what's wrong. 
++ **Batch execute**: This is an advanced option if you have a very long list of users - several hundreds and above. Contact you provider/consultant for help when using this.
++ **Batch number**: When you have selcected "Batch Execute" you use this field to set the number of users that should be synchronized each time.
 + **Delete log after number of days**: Set the number of days the log file will be available. Default: 14 days.
 
 At the bottom the synchronizations that has been set up are shown. By clicking the pen you can edit the same settings as when the synchronization was set up (see below).
