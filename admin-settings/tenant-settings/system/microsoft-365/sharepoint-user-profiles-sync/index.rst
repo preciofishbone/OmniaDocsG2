@@ -48,7 +48,7 @@ To set up a new synchronization, do the following:
 
 Events
 ********
-In the list each synchronization is described with Type, Status and start- and end time. 
+In the list each synchronization is described with Type, Status and Start- and End time. 
 
 .. image:: azure-ad-settings-events-v76.png
 
