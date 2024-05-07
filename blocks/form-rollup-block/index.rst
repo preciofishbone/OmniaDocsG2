@@ -38,9 +38,13 @@ The following is available here, if select "List view":
 
 The rest of the options should be self explanatory.
 
-Form view is used to actually display the forms (but also see "Open form as dialog" below). Users can then go to the different steps of the forms that meet the scope, and on to the next form. This option is  probably most useful when there's only a few forms available.
+Form view is used to actually display the forms (but also see "Open form as dialog" below). Users can then go to the different steps of the forms that meet the scope, and on to the next form. 
 
-If you select "Form view", the top part is different:
+Here's a simple example:
+
+.. image:: form-rollup-display-example.png
+
+If you select "Form view", the top part of the settings is different:
 
 .. image:: form-rollup-display-form-view.png
 
