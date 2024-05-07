@@ -22,6 +22,7 @@ These settings and options are available here:
 + **Log detail**: Use this if you have problems with the synchronization. In the details you will hopefully find out what's wrong. 
 + **Batch execute**: This is an advanced option if you have a very long list of users - several hundreds and above. Contact you provider/consultant for help when using this.
 + **Batch number**: When you have selcected "Batch Execute" you use this field to set the number of users that should be synchronized each time.
++ **Resync retry limit**: Here you can set the number of times the system will try to sync the user(s). 
 + **Delete log after number of days**: Set the number of days the log file will be available. Default: 14 days.
 
 At the bottom the synchronizations that has been set up are shown. By clicking the pen you can edit the same settings as when the synchronization was set up (see below).
