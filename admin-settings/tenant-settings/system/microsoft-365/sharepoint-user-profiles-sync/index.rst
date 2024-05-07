@@ -67,7 +67,7 @@ To display more information, click RESYNC. The information in this window can lo
 
 Here you will find more information on the resync job and you can see a list of users that the syncronization did'nt work for.
 
-Read the text in the windowcarefully.
+Read the text in the window carefully.
 
 The button RESYNC NOW can be used to execute the sync job immediately. 
 
