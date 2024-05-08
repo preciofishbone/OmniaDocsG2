@@ -52,7 +52,7 @@ When you select this option the following is available:
 
 Use the settings according to information from the provider.
 
-Here's how to set up integration between Omnia and PLAYin (in Swedish), as an example: https://helpcenter.playipp.com/article/1489?lang=sv
+Here's how to set up integration between Omnia and PLAYin, as an example: https://helpcenter.playipp.com/article/1489
 
 QUERY
 ------
