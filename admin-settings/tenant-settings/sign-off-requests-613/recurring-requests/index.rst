@@ -41,7 +41,9 @@ When the recurrence settings has been done, you can now see that the information
 
 .. image:: recurring-requests-new-settings-shown.png
 
-4. You can set time for when the sing-off should be sent. If you want to set the time zone to calculate the time on, click the box.
+4. You can set time for when the sing-off should be sent. 
+
+If you want to set the time zone to calculate the time on, click the box. Default time is UTC, meaning that is what will be used if you don't select time zone.
 
 .. image:: recurring-requests-new-settings-zone.png
 
