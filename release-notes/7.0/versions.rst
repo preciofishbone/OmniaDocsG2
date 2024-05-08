@@ -1,3 +1,17 @@
+7.5.25
+========================================
+(Omnia 7.5.25 / Workplace 7.5.18 / WCM 7.5.15 / MS 7.5.11 / Analytics 7.5.6)
+
+- Improved performance for the queue log display (#156684).
+- Fixed an issue that caused page views for workspace pages to not register correctly in Matomo.
+- Fixed a styling issue on mobile that caused certain links to not display correctly (#155844).
+- Improved loading behaviour and performance for search statistics (#156339).
+- Analytics reader permissions now show correctly if you do not have a workspace provisioned (#156719).
+- Stability improvements to scheduled publishing (#156709).
+- Stability improvements to Teamwork provisioning as per Microsoft recommendations.
+- Improved logging for failed translations (#156293).
+- All day events now display correctly in negative offset time zones (#154854).
+
 7.5.24
 ========================================
 (Omnia 7.5.24 / Workplace 7.5.17 / WCM 7.5.14 / MS 7.5.11 / Analytics 7.5.6)
