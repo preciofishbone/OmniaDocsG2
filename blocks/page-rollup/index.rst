@@ -206,7 +206,7 @@ The special settings for this view are:
 + **Default time**: Select a defaul time from the list.
 + **Include time**: Select this to display time for events in the calendar.
 + **Weekdays**: Select what is to be considered as work days in the calendar.
-+ **Event color**: Use it to set specific color for events in the calendar.
++ **Event color**: Here you can choose enterprise glossary properties to display in the calendar view. 
 + **Event height**: Use the slider to set height for the events in the calendar. See a preview in the block.
 + **Height**: Use the slider the set the height for the whole calendar. See a preview in the block.
 
