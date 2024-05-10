@@ -61,7 +61,7 @@ For photowall, these settings are avialable:
 
 Here's an example of a photowall display with three columns:
 
-.. image:: media-rollup-settings-display-photowall-example.png
+.. image:: media-rollup-settings-display-photowall-example-new.png
 
 For a larger view, click a file. The media list can then be browsed this way:
 
