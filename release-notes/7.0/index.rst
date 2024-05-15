@@ -426,6 +426,75 @@ Accessing feedback is now made simple through the menu in the content editor.
 
 .. image:: feedback-list.png
 
+
+(7.6) Improved mobile and frontline
+------------------------------------------------------
+
+A new feature has been added to the user management section that empowers group owners with enhanced administrative capabilities within their groups.
+Group owners can now create and manage individual users directly within their groups. This feature provides greater flexibility and control, allowing group owners to tailor the user management process to their specific needs.
+
+.. image:: usermanagement-create-user-in-group.png
+
+We have also added the possibility to add Entra ID users to Omnia groups as part of this feature.
+
+Administrators can now create local forms directly within an Omnia publishing app. Additionally, we've introduced a streamlined method for form creation using an action button.
+This simplified form creation allows for the rapid development and publishing of quick polls or similar forms to specific target audiences.
+Users can also assign properties to these forms, which can be utilized for targeting purposes and incorporated into a new Forms rollup block.
+
+.. image:: forms-create-quick-poll.png
+
+The Forms rollup block offers both an end-user view, enabling users to respond to one or multiple forms, and an administrative view that provides an overview of all
+open forms within the solution.
+
+.. image:: forms-formsrollupblock.png
+
+Moreover, the Omnia Feed mobile app now features a setting that enables new forms to be published with a push notification.
+These forms will be displayed natively in the master feed within the mobile app.
+
+
+(7.6) Improved communication
+--------------------------------------------
+
+You can now utilize the newly introduced Media rollup block to showcase images, videos, and audio files sourced from a SharePoint library.
+This versatile block offers two distinct views: a visually engaging Photowall view and a straightforward list view.
+
+For end users, navigating through the various media items is intuitive and user-friendly. They can easily browse the content in a dialog format,
+facilitating quick actions such as downloading the desired media files with ease.
+
+.. image:: forms-formsrollupblock.png
+
+
+The sign-off request feature has been significantly improved to offer greater flexibility and functionality.
+Now, users can create both one-time scheduled sign-off requests and recurring sign-off requests that are automatically sent out at specified intervals.
+This enhancement streamlines the sign-off process, enabling more efficient management of approvals and ensuring timely responses from recipients.
+
+.. image:: sign-off-requests-recurring.png
+
+The mobile experience for authors has been enhanced to provide a more seamless and user-friendly interface.
+Now, when authors upload images from their mobile devices in portrait format, the images will retain their original orientation. 
+
+.. image:: mobile-author-experience.png
+
+The RTF editor has been enhanced to include support for subscript and superscript formatting options. 
+
+.. image:: rtf-editor-sub-super-script.png
+
+
+(7.6) Improved governance and analytics
+------------------------------------------------------
+
+The analytics solution, powered by Matomo, has been enhanced to incorporate an Analytics table block.
+This feature enables users to analyze page views and unique visitors in conjunction with specific Omnia artifacts, including Publishing Apps and Page Types.
+
+.. image:: analytics-table.png
+
+
+It is now possible in Omnia Admin to centrally reassign tasks for controlled documents in bulk.
+
+.. image:: dm-tasks-bulk-update.png
+
+
+
 Versions
 -----------------------------------------
 
