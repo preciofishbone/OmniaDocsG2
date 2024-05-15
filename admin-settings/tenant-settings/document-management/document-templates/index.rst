@@ -34,7 +34,7 @@ To add a category, do the following:
 
 .. image:: dm-category-save-v7.png
 
-You can add titles for any of the languages use in the tenant (click the flag to change language). A title for the default language is mandatory.
+You can add a title in any of the languages used in the tenant. A title for the default language is mandatory.
 
 Adding a new template
 **********************

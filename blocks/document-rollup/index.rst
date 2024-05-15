@@ -17,7 +17,7 @@ Here you can set the following:
 
 .. image:: document-rollup-settings-general-new6.png
 
-+ **Title**: If a title should be shown for the block, add it in this field. The title can be added in any, or all tenant languages. Click the flag to change language.
++ **Title**: If a title should be shown for the block, add it in this field. The title can be added in any tenant language.
 + **Open in client app**: Documents are by default opened in the online app. If document should be opened in the client app instead, select this option.
 
 Query
@@ -151,36 +151,7 @@ For Card view, you can also edit card spacing, available under STYLES:
 
 Filter
 --------
-Here you can add filters to show for the list, or add a search box.
-
-.. image:: document-rollup-filter-new.png
-
-What you can do here is described on this page: :doc:`Filter UI </blocks/general-block-settings/filters/index>`
-
-In Omnia 7.0 and later, new options for filtering can be available, see: :doc:`Filter options for blocks in Omnia v7 </blocks/general-block-settings/filter-options-block/index>`
-
-Refiner
------------------
-Here you select refiners users can use to refine the list:
-
-.. image:: document-rollup-settings-refiners-new.png
-
-+ **Position**: Set position for the refiners here; "Top", "Left" or "Right".
-+ **Add refiner**: Click this option to add a a property to use as a refiner. You can add as many properties as is applicable. For each refiner added you can set sort order; "Alphabetical" or "Count". You can also set a limit.
-
-Here's an example:
-
-.. image:: document-rollup-settings-refiners-example.png
-
-Click "Adjust refiners" to edit the order.
-
-Using STYLE you can set the following:
-
-.. image:: document-rollup-settings-refiners-style.png
-
-Test the options and see a preview in the block.
-
-In Omnia 7.0 and later, the Refiner menu option is removed. Refiner options can now be found under "Filter", see: :doc:`Filter options for blocks in Omnia v7 </blocks/general-block-settings/filter-options-block/index>`
+Filter options are the same for almost all blocks, see: :doc:`Filter options for blocks </blocks/general-block-settings/filter-options-block/index>`
 
 Export
 *********
@@ -190,5 +161,5 @@ Use this settings to display a link for export of the list to Excel.
 
 Layout and Write
 *********************
-The WRITE Tab is not used here. The LAYOUT tab contains general settings, see: :doc:`General Block Settings </blocks/general-block-settings/index>`
+The WRITE Tab is not used here. The LAYOUT tab contains general settings, see: :doc:`General block settings </blocks/general-block-settings/index>`
 

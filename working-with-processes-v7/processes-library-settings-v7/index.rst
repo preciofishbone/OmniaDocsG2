@@ -1,7 +1,5 @@
-Processes library settings in Omnia v7
+Processes library settings
 ================================================
-
-This page describes the process library settings in Omnia 7.0 and later.
 
 You must be administrator of the teamsite, to be able to edit the settings for the lists in the Processes library, and to edit permissions.
 
@@ -57,5 +55,5 @@ Something like the following is shown:
 
 You add/remove groups and/or users to these fields the same way as other people filds.
 
-Note that external users that has been invited in the Azure AD can be added here as well. Users invited this way can log in with their own Microsoft 365 account.
+Note that external users that has been invited in Entra ID can be added here as well. Users invited this way can log in with their own Microsoft 365 account.
 

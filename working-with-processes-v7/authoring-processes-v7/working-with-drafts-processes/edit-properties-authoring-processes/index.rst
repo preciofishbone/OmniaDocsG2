@@ -1,7 +1,5 @@
-Edit properties when editing a process in Omnia v7
+Edit properties when editing a process
 =====================================================
-
-This page applies to Omnia 7.0 and later.
 
 The other tabs you can use when editing a process is available for the main process and for process steps. On this tab you set properties for the whole process. Therefore the tab is available at the top level only.
 

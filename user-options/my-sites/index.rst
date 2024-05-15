@@ -7,7 +7,7 @@ This is the icon used if teamwork navigation is shown in the top menu:
 
 .. image:: teamwork-navigation-v7.png
 
-Here's an example of a teamwork Navigation list (image from Omnia v7):
+Here's an example of a teamwork Navigation list:
 
 .. image:: my-sites-example-v7.png
 
@@ -95,7 +95,5 @@ Templates for teamwork creation
 **********************************
 How this wizard works and which options and fields will be available depends on the template used. Templates, selected in step 2 above, are set up as teamwork templates in Omnia admin.
 
-See this links for Omnia 6.13: :doc:`Teamwork templates </admin-settings/business-group-settings/team-collaboration/teamwork-65/templates/index>`
-
-See this link for Omnia v7: :doc:`Teamwork templates in Omnia v7 </admin-settings/business-group-settings/team-collaboration/teamwork-v7/templates/index>`
+For more information, see: :doc:`Teamwork templates </admin-settings/business-group-settings/team-collaboration/teamwork-v7/templates/index>`
 

@@ -1,19 +1,17 @@
 Synchronization
 =============================================
 
-Identity and user details sync from Azure Active Directory are done here in Omnia 7.0 and later. In Omnia 7.5 you can also synchronize users and groups to Omnia search.
+Identity and user details sync from Entra ID are done here. You can also synchronize users and groups to Omnia search, if needed.
 
-Omnia supports any custom user directory provider to synchronize groups and users into the system. Built-in providers are Microsoft Graph (Azure AD) and Active Directory for Omnia on-prem.
+Omnia supports any custom user directory provider to synchronize groups and users into the system. Built-in providers are Microsoft Graph and Active Directory for Omnia on-prem.
 
-.. image:: user-management-sync-new.png
+.. image:: user-management-sync-v76.png
 
 **Note!** If mapping is needed, it's important that you set this up using the settings before synchronizing.
 
-For Omnia search sync, a button for full sync and for reading logs are available:
+For Omnia search sync, a button for full sync and for reading logs are available.
 
-.. image:: user-management-sync-omnia search.png
-
-(More information about this option will be added soon.)
+Omnia search sync is normally fully automatic, nothing you should need to do manually.
 
 SETTINGS
 **********
@@ -23,7 +21,7 @@ Available settings will differ depending on directory provider. These settings a
 
 If you need additional mapping, just select properties from the lists and click the plus.
 
-Note that rules for different user types can be set up.
+**Note!** It's very important that you set up rules for user types, as a user that doesn't match any such rules will have an "Undefined" user group and are not, for example, available in people picker lists. On the other hand, accounts that are not users (for example system accounts) should be "Undefined" according to the rules set up, as they should not appear in people picker lists.
 
 FULL SYNC or FULL USER SYNC
 *****************************

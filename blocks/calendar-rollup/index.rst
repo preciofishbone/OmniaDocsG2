@@ -19,24 +19,25 @@ Settings
 *********
 Use these settings for the block:
 
-.. image:: calendar-rollup-settings-new2.png
-
-+ **Title**: If a title should be shown for the block, add it in this field. If variation exists, it looks like in the image above, and only one title can be set. In that case, titles in other languages are set in the variations. If no variation exists for the page, you can set the title in the languages active in the tenant. 
+.. image:: calendar-rollup-settings-v75.png
 
 General
 ---------
 Under General you can add a title for the block.
 
-.. image:: calendar-rollup-settings-general.png
+.. image:: calendar-rollup-settings-general-v75.png
 
 Query
 -------
-Here you select calendars.
+Here you select on or more calendars.
 
-.. image:: calendar-rollup-query-new.png
+.. image:: calendar-rollup-query-v75.png
 
 + **Select calendar type**: You can select to add Microsoft 365 group calendars or the current user's calendar.
 + **Select Microsoft 365 group**: If you have selected "Microsoft 365 group" above you use this field to search for a calendar. 
++ **ADD**: Cilck here to add the calendar. 
+
+When you have added a calendar, additional options are available by expanding the calendar, see below.
 
 To add a Micorosoft 365 group calendar
 --------------------------------------------

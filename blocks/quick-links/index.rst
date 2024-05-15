@@ -22,7 +22,7 @@ The following is available here:
 + **Title**: If a title should be shown for the block, add it in this field. If no variation exists for the page, it looks like in the image above and you can set the title in the languages active in the tenant. If variations exists, only one title can be set. In that case, titles in other languages are set in the variations.
 + **Sorted by**: Decide how to sort the link list; Alphabetic or Last visited order.
 + **View template**: Select view for the list here; Simple list, App icons, Navigation view or App launch.
-+ **Include mandatory links**: Available in Omnia 7.1 and later. Choose to include mandatory links, or not. (In earlier versions, mandatory links are always shown).
++ **Include mandatory links**: Choose to include mandatory links, or not. (In earlier versions, mandatory links are always shown).
 + **Include non-mandatory links**: If non-mandatory Links should be displayed, select this option. 
 + **Use targeting**: Select to use targeting (meaning the targeting that was set up for the links in Omnia admin) or not for the links you choose to display here. Effects mandatory links as well. Normally this option should be selected as there are good reasons for the targeting of certain links, but in specialized implementations it is still possible to choose to display all links, targeted or not.
 + **Include personal links**: If the logged in user's personal links (= created by the user) should be displayed, select this option.

@@ -29,8 +29,8 @@ Use the following settings:
 
 .. image:: tenant-announcements-settings2-v75.png
 
-+ **Title**: Add a title for the message. If you use more than one language in the tenant you can add a title in each language. Note that you must always add a title in the default language, other languages are optional. Click the flag to change language.
-+ **(Text field)**: Add the message here. If you use more than one language in the tenant you can add the description in each language. Note that you must always add the description in the default language, other languages are optional. Click the flag to change language. The limited RTF editor is used for the description. For more information, see: :doc:`Editing text with the RTF editor </general-assets/rtf-editor/index>`
++ **Title**: Add a title for the message. If you use more than one language in the tenant you can add a title in each language. Note that you must always add a title in the default language, other languages are optional.
++ **(Text field)**: Add the message here, in any tenant language. Note that you must always add the description in the default language, other languages are optional. The limited RTF editor is used for the description. For more information, see: :doc:`Editing text with the RTF editor </general-assets/rtf-editor/index>`
 + **Priority**: Set the priority. Announcements with High priority will be displayed below the cross site mega menu on all pages (see example below). Announcements (with Normal or High priority) can be displayed to users in the notification panel or through the Announcements block.
 + **Order**: Set the order for this announcement when there are several displayed.
 + **Start date** and **End date**: Set the start and end date of the announcement. You can set exact times within the dates if needed. Start and end dates are optional, but we recommend that you always at least set an end date.
@@ -83,7 +83,7 @@ Set the following:
 
 .. image:: add-type-settings-v75.png
 
-1. Add a title in any or all tenant languages (click the flag to change language).
+1. Add a title in any tenant language.
 2. Select icon type.
 3. Select an icon. 
 4. Click the plus to save the type.
@@ -104,7 +104,7 @@ Set the following:
 
 .. image:: add-status-settings-v75.png
 
-1. Add a title in any tenant language (click the flag to change language).
+1. Add a title in any tenant language.
 2. Select a background color.
 3. Select a text color. 
 4. Click the plus to save the status option.

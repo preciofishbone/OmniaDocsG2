@@ -1,15 +1,16 @@
 Organization tree block
 ===========================
 
-You can use it to show an organization tree based on information in Azure AD about who reports to who.
+You can use it to show an organization tree based on information in Entra ID about who reports to who.
 
 You use the following settings:
 
-.. image:: organization-tree-settings.png
+.. image:: organization-tree-settings-v75.png
 
 + **Title**: You can add a title for the block here.
-+ **Start from current user**: If the block always should display the organization based on the logged in user, select this option. 
-+ **User**: Another option is to select one user to base the organization tree on. All colleagues are available in this list.
++ **Current signed-in user**: If the block always should display the organization based on the logged in user, select this option. 
++ **Current displayed user**: This is, as of now, relevant in a person profile card layout only. Otherwise, same function as above.
++ **Specific user**: Another option is to select one user to base the organization tree on. All colleagues are available in this list.
 
 Here's an example with an organization tree based on John Faulkner. He reports to the CEO and five colleagues report to him.
 

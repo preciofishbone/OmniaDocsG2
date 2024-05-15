@@ -13,10 +13,10 @@ Here you can edit the settings for the link to the workspace home page.
 
 .. image:: workplace-navigation-home-settings-new2.png
 
-+ **Home title**: If you would like to show a Home title, add it here, in any or all the tenant languages. Click the flag to change language. Then select "Show title" below.
++ **Home title**: If you would like to show a Home title, add it here, in any tenant language. Then select "Show title" below.
 + **Icon type**: To show an icon, select icon type here. If you select "Custom" here, you can upload any image, using the media picker, to use as an icon. (If an icon type is seleted, but no icon is selected, no icon is shown).
 + **Icon**: To show an icon, select icon in the list. Then select "Show icon" below.
-+ **Logo text**: If you would like to show a logo text by the home title, add it here, in any or all the tenant languages. Click the flag to change language.
++ **Logo text**: If you would like to show a logo text by the home title, add it here, in any tenant language. 
 + **Show logo**: If a logo should be displayed, select this option. Note that you use ADD LOGO to upload the logo, see below.
 + **Show icon**: If an icon should be displayed, either an icon selected in the icon list, or one you have uploaded, select this option.
 + **Show title**: If the Home title should be displayed, select this option.
@@ -92,7 +92,7 @@ When you choose to create a mega menu layout, the following is shown:
 
 .. image:: mega-menu-add-layout-new.png
 
-1. Add a title in any of the Tenant languages (click the flag to change language), and an icon if you like. 
+1. Add a title in any of the Tenant languages, and an icon if you like. 
 
 What you add here is only shown in the list of mega menus, not shown for users.
 
@@ -110,7 +110,7 @@ Set the following for the link:
 .. image:: mega-menu-add-link-new.png
 
 + **URL**: Add the URL for the link here.
-+ **Title**: Add a title in any of the tenant languages here (click the flag to change language).
++ **Title**: Add a title in any tenant language here.
 + **Open link in new tab**: If the link should be opened in a new tab, select this option.
 + **Icon type/Icon**: Add an icon for the link if you wish.
 
@@ -128,7 +128,7 @@ The follwing settings are then available:
 
 .. image:: mega-menu-settings-edit.png
 
-+ **Title**: You can edit the title for any of the languages. Click the flag to change language.
++ **Title**: You can edit the title for any of the languages.
 + **Icon type/Icon**: You can edit the settings for icon here.
 + **Inherit size from mega menu settings**: Per default, this object has the same size settings as the whole mega menu. If you want to set specific size settings for this object, deselect the option.
 + **Targeting**: Here you can set targeting for the mega menu object. See below for more information.

@@ -1,7 +1,5 @@
-Preview a process when authoring in Omnia v7
+Preview a process when authoring
 ================================================
-
-This page describes ho previewing a process works in Omnia 7.0 and later.
 
 While you're working on a draft process the first thing you'll see is a preview of your work so far. You can also, whenever you need during the editing, enter Preview mode by clicking here:
 

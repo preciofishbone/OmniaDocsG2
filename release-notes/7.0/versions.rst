@@ -1,3 +1,212 @@
+7.5.25
+========================================
+(Omnia 7.5.25 / Workplace 7.5.18 / WCM 7.5.15 / MS 7.5.11 / Analytics 7.5.6)
+
+- Improved performance for the queue log display (#156684).
+- Fixed an issue that caused page views for workspace pages to not register correctly in Matomo.
+- Fixed a styling issue on mobile that caused certain links to not display correctly (#155844).
+- Improved loading behaviour and performance for search statistics (#156339).
+- Analytics reader permissions now show correctly if you do not have a workspace provisioned (#156719).
+- Stability improvements to scheduled publishing (#156709).
+- Stability improvements to Teamwork provisioning as per Microsoft recommendations.
+- Improved logging for failed translations (#156293).
+- All day events now display correctly in negative offset time zones (#154854).
+
+7.5.24
+========================================
+(Omnia 7.5.24 / Workplace 7.5.17 / WCM 7.5.14 / MS 7.5.11 / Analytics 7.5.6)
+
+- Fixed a logical glitch when using multiple translations together with automatic page creation (#156046).
+- Stability improvements to the review workflow timer job and logic (#155304).
+- The SharePoint user profile sync correctly shows without SharePoint add-in permissions being configured (#156252, #156587)
+- Better handling for removed users in the process authoring site (#155980).
+- Improved stability for the page deletion job to better handle substantial amounts of data (#155868).
+- Improvements to the Page rollup accelerator feature.
+- Added a sign-off request tenant feature to improve performance in solutions where sign-off requests are not used.
+
+
+7.5.23
+========================================
+(Omnia 7.5.23 / Workplace 7.5.16 / WCM 7.5.13 / MS 7.5.10 / Analytics 7.5.6)
+
+- Improvements to the Page rollup accelerator feature (#156459).
+- Corrected an issue that prevented the process rollup to be sorted on published date (#156036).
+- Classic date format is now available for all page rollup views.
+- Corrected a migration error which caused some sites to not be able to create new controlled documents (#156125).
+- Improved logic for links when several navigation paths are duplicated (#156021).
+- Fixes to permissions logic to display public information on a teamwork (#153537).
+- The Matomo data gather script is correctly removed once the feature is disabled (#156037).
+
+
+7.5.22
+========================================
+(Omnia 7.5.22 / Workplace 7.5.15 / WCM 7.5.12 / MS 7.5.9 / Analytics 7.5.6)
+
+- Adjustments to the create MS Teams API (#151771).
+- Performance improvements to the Teamwork rollup (#155703).
+- Fixed an issue that caused iframes to get the wrong height (#155838).
+- Entra ID sync stability fixes (#155695).
+- Fixed a save issue for the YouTube media provider (#155695).
+- Improved rendering for the Digital signage web view (#154062).
+- Fixed WCAG issues in the page rollup calendar view (#149302).
+- User profile card layouts now work as expected when creating a new tenant (#155958).
+
+7.5.18
+========================================
+(Omnia 7.5.18 / Workplace 7.5.12 / WCM 7.5.8 / MS 7.5.5)
+
+- Fixed an issue that would prevent stream videos from playing correctly on some devices (#152767, #152769).
+- Fixed an issue that would prevent Analytics readers from being added correctly to Matomo (#155538).
+- Videos with special characters can now be picked in the MS Stream video provider (#154963).
+- Images can now be embedded into Digital Signage without the extension requiring API full control. 
+- Incorrect captions from Media flow are now hidden (#155420).
+
+
+7.5.15
+========================================
+(Omnia 7.5.15 / Workplace 7.5.11 / WCM 7.5.6 / MS 7.5.5)
+
+- Fixed an issue that would prevent old, signed copies from being retried in Controlled Documents (#153282, #153103).
+- Added a setting to the new filter engine to not select child’s terms by default (#154869).
+- The community feature no longer incorrectly adds PageContent as a queryable property (#155196).
+
+7.5.10
+========================================
+(Omnia 7.5.10 / Workplace 7.5.10 / WCM 7.5.5 / MS 7.5.4)
+
+- Fixed load time issue for very large term sets in the new filter engine.
+- Fixed an issue with shared comments and likes between variations (#152292).
+- Limit read access in Controlled Documents now populates correctly when creating a new draft (#155030).
+- Fixed an issue that would cause the Sign-off request rollup to show too many items (#154136).
+- Stability fixes to the Azure AD Sync.
+- When using Omnia File storage, links can now be correctly renamed (#154403).
+
+
+
+7.5.8
+========================================
+(Omnia 7.5.8 / Workplace 7.5.9 / WCM 7.5.4 / MS 7.5.3)
+
+- Fixed an issue with the setup wizard that would cause existing notification panels to break (#154803).
+- The Calendar rollup now handles all day events correctly in time zones with a negative offset (#154854).
+- Fixed an issue that would prevent certain connected process management documents from being deleted (#154833).
+- Ensured permissions on business profile level are not needed to use the media flow connector (#154463).
+- Improved on how Process Management saves its changes (#154261, #154260).
+- When attaching a site, the show in public listings preview value is now correct (#154828).
+- Improved support for combining automatic translation and automatic page creation (#152788).
+- Performance improvements to the Posts block (#152718).
+- Several WCAG improvements.
+
+
+7.5.6
+========================================
+(Omnia 7.5.6 / Workplace 7.5.8 / WCM 7.5.3 / MS 7.5.2)
+
+- Fixed an issue that would prevent processes from saving to SharePoint (#154240).
+- Stability improvements to the Entra ID sync. (#154611).
+- Fixed a migration issue for old media block data (#154732).
+- Fixed an issue preventing old, controlled documents from being unpublished (#154438).
+- Several WCAG improvements. 
+- Fixed an issue that prevented the Teams Channel rollup from rendering (#154414).
+- The rich text block now handles table borders in a better way (#154530).
+- Search in big term sets in the new filters now works as expected.
+- Fixed an issue that prevented appendices from being opened from document history.
+
+7.5.4
+========================================
+(Omnia 7.5.4 / Workplace 7.5.7 / WCM 7.5.2 / MS 7.5.1)
+
+
+Fixes
+*********
+
+- Improvements to the page rollup accelerator.
+- The status dropdown when following a process in a teamwork now has the correct translations (#153629).
+- Fixed an issue in the Matomo setup feature when activated multiple times (#153939).
+- Several enhancements to the setup wizard (#154165).
+- The page rollup calendar view now works as expected in time zones with a negative offset.
+- Fixed an issue with teamwork templates with public content (#153537, #152205).
+
+
+New features
+************
+
+- The EntraID sync can now evaluate user types based on empty values.
+- When saving the default context URL, Omnia now ensures sites selected is applied.
+
+7.5.2
+========================================
+(Omnia 7.5.2 / Workplace 7.5.4 / WCM 7.5.1 / MS 7.5.1)
+
+Main release notes reference
+******
+- Business profile users and groups
+- Self-service account creation and on-boarding
+- Improved identity picker
+- Improved user profile cards
+- New scope in the People rollup block
+- Improved user management governance
+- Analytics powered by Matomo
+- Anchor navigation
+- Publishing campaigns
+- Improved metrics
+- Improved page feedback (#150001).
+
+Release notes
+******
+
+- Possibility to have app only access to the term store.
+- Possibility to view logs on the new Mellisearch based search index.
+- Page rollup accelerator, a new technology has been released to improve the performance of page rollups, this can be enabled in Omnia admin.
+- Configurable refresh token times per user type for enhanced security.
+- The SharePoint add-in for the SharePoint user profile sync is deprecated, update and consent the "SharePoint user profiles sync" feature to use only Microsoft Graph.
+- Media and text blocks can now be used on anonymous pages.
+- Preferred language is now editable in the Entra to Omnia property sync.
+- Updates to the user information block in mobile mode.
+- Custom date queries are now possible in the page rollup, Sign-off requests rollup, Teamwork rollup, Community Rollup, Publishing App rollup and process rollup.
+- Several fixes and updates to the properties block (#149403).
+- The page rollup calendar view can now navigate to a specific day when clicking on the day in month view.
+- EntraID to Omnia property sync can now resolve term ids based on label.
+- User properties can now be configured to be private, making them readable only for the current user.
+- Bulk creation of Omnia users is now possible via csv import in Omnia admin (#148752).
+- Fixed issues with background colors in Process layouts.
+- WCAG fixes to block headings and page rollup calendar view (#149303).
+- Empty string can now be used as a Document ID prefix (#153957).
+- Compatibility improvements to the RSS reader block (#153944).
+- Fixed a rendering issue in the tooltips of the new filtering engine (#153962, #153923).
+- Boolean values can now be synced with the SharePoint user profile sync feature (#154068).
+- Stability improvements to teamwork creation (#153715).
+- Improved filter rendering when using a text property and dropdown (#153189, #153688).
+- A login log is now available to view login attempts from Omnia users.
+- Selected user can now be used in all rollups. This is useful to create rich profile cards with queryable content. For KQL based rollups, its possible to use [SelectedUser.Id], [SelectedUser.Name], [SelectedUser.Email]. 
+- Fixed an issue that would duplicate images in the media picker under certain conditions (#153322, #152839).
+- A new way to update your profile photo has been added, this works for all account types including Omnia users (#152278).
+- It is now possible to assign a tenant administrator before the Omnia user sync has been run.
+- Localization now works as expected for Omnias onboarding emails (#151910).
+- Omnia users now have its first/latest login timestamp recorded and presented in the user management UI.
+- Improved security.
+- Omnia users can now be forced to change their password on first login. 
+- An SMTP server can now be configured for Omnia emails.
+- It is now possible to use forgot password even when a user is not onboarded yet (#152738).
+- Updated localization for natural language date formatting in rollups (#151635).
+- Improvements to the feature consent workflow.
+
+
+7.1.46
+========================================
+(Omnia 7.1.46 / Workplace 7.1.25 / WCM 7.1.32 / MS 7.1.27)
+
+- Fixed an issue where terms would not render correctly if term subscription is turned on.
+- Fixed a migration issue for old images in the page rollup.
+- The new filters now have better compatibility with old settings data.
+- Fixed an issue with process rendering that occurred due to a framework update (#153802).
+- More tokens have been added to the Document Rollup to enable more complex queries (#151825).
+- Fixed an issue in process management that could corrupt the drawing when resizing the canvas (#153905, #153562).
+- Omnias AI capabilities are upgraded to support Dall-e 3 and Open AI GPT4.
+- Due to a breaking change in the new MS Teams client, controlled documents are now opened in a new browser window instead of inside of the MS Teams client (#151548, #151496). A bugfix from Microsoft is required to resolve this.
+- Fixed an issue in the URL router that could cause inconsistent behaviours when the URL segment and its variation segment are the same (#153656).
+
+
 7.1.43
 ========================================
 (Omnia 7.1.43 / Workplace 7.1.22 / WCM 7.1.30 / MS 7.1.25)

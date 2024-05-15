@@ -1,13 +1,11 @@
-Users in Omnia 7.5
+Users
 =============================================
 
-**Work on this page is ongoing. More information will be added soon.**
+This pages describes the tenant options for Users.
 
-This pages describes the tenant options for Users in Omnia 7.5. For information on the options for Omnia 7.0 and 7.1, see this page: :doc:`Users in Omnia 7.0 and 7.1 </admin-settings/tenant-settings/user-management/users/index>`
+Also note that User management is available in each business profile, see: :doc:`Users management options for business profiles </admin-settings/business-group-settings/user-management-bp/index>`
 
-Also note that in Omnia 7.5 options for User management are available in each business profile, see: :doc:`Users management options for business profiles </admin-settings/business-group-settings/user-management-bp/index>`
-
-Three lists are available here; ALL USERS, DELETED USERS and PENDING APPROVAL. Youcan list users from all business profiles here.
+Three lists are available here; ALL USERS, DELETED USERS and PENDING APPROVAL. Note that users set up under User management in a business profile is listed here as well.
 
 .. image:: user-management-users-list-75.png
 
@@ -33,9 +31,9 @@ To edit authentication settings, click the key, and the following is available:
 
 Save the changes when you're finished.
 
-If you need to reinitiate the whole onboarding process for the user, click RESET ACCOUNT. You can alos enable or disable an Omnia user account from here.
+If you need to reinitiate the whole onboarding process for the user, click RESET ACCOUNT. You can also enable or disable an Omnia user accounts from here.
 
-**A note for users of earlier Omnia versions**: The general settings for authentication has been move to business profile settings. See this page for more information: :doc:`User management settings - business profile </admin-settings/business-group-settings/user-management-bp/index>`
+**A note for users of earlier Omnia versions**: The general settings for authentication has been moved to business profile settings. See this page for more information: :doc:`User management settings - business profile </admin-settings/business-group-settings/user-management-bp/index>`
 
 Filters for the All users list
 ---------------------------------
@@ -45,7 +43,7 @@ The following filters are available, to display only some users in the list:
 + **Status**: Here you can choose to list enabled or disabled accounts.
 + **User type**: Using this filter you can choose to list just one of registrered user types.
 + **Provider**: You can choose to list just one of the providers, usually Microsoft Graph or Omnia.
-+ **Owner**: Here you can choose to list users from just one of the business profiles in the tenant.
++ **Owner**: Here you can choose to list users from just one of the business profiles in the tenant. This lists users managed in the respective business profiles.
 
 About limitations for Omnia users
 -----------------------------------
@@ -68,7 +66,7 @@ The following options are always available:
 + **User type**: Select user type in the list. User types that should be available here must be set up using the option in the User management menu.
 + **Authentication information**: Add an authentication Email. This is mandatory. If needed, enter a  phone number for mobile authentication.
 + **Time-limited account**: if this user account should be active for a specific time period only, select this option and set the start and ned date.
-+ **Send on-boarding link by Email to user**: You can chosse to send an on-boarding Email to the user by selecting this option. The Email is sent when the user is saved.
++ **Email the on-boarding link to the user**: You can chosse to send an on-boarding Email to the user by selecting this option. The Email is sent when the user is saved.
 
 Note that you can enable, disable or reset an Omnia user account using the authentication settings (the key), see above.
 
@@ -76,9 +74,20 @@ Bulk create users
 -------------------
 By clicking BULK CREATE USERS you can onboard a number of users. Here's the settings you can use:
 
-.. image:: user-management-users-settings-1-75.png
+.. image:: user-management-users-settings-1-75-new.png
 
-(A description will be added soon).
+The first step is to select user type and the scenario:
+
++ **User type**: You can bulk create users for one user type in each session. Note the option "Undefined". If users imported from MS Graph does not match any of the rules, user type is set to "Undefined". You should probably not bulk create such users, but the option is there if you know what you're doing.
++ **Select bulk create users scenario**: Choose to send onboarding links to all users of that user type, or not. You can alos automatically onboard users that already has a password assigned to them.
+
+The second step is to edit the template file. If you already have a template file you can edit the file for use in this session and upload it.
+
+If you don't have a template file, download the default template and edit it with the application you normally use for csv files. 
+
+There should be one row for each user to create (onboard) in the csv file. Also, you must not touch the top row, you should not edit anything there.
+
+**Note!** If you use Excel to edit the csv file, you must select "Text to columns" before you start editing. 
 
 Delete an Omnia user
 -------------------------
@@ -100,8 +109,8 @@ To restore or permanently delete a number of users, select them first and use th
 .. image:: user-management-users-delete-buttons-top-75.png
 
 The Pending approval list
-----------------------------
-If any user is not onboarded yet, that can be dome using this list:
+***************************
+If self service for user accounts are allowed, and if approval is needed for these accounts, approval is handled through this list.
 
 .. image:: user-management-users-pending.png
 
@@ -113,5 +122,11 @@ and these:
 
 .. image:: user-management-users-pending-actions-more.png
 
-More information about how to use this will be added soon.
+This information is created during the account set up process. Available fields and options depend on various authentication settings. The images above is just examples.
+
+Everything here can be edited if needed.
+
+When you're ready, click APPROVE or REJECT. If you choose to approve, the account is created and the user is notified. If you reject the request, type a message to explain why this request can't be approved. That message is sent to the user.
+
+Self-service is set up (if used) on business profile level. See this page for more information: :doc:`Self-service settings </admin-settings/business-group-settings/user-management-bp/self-service-users-bp/index>`
 

@@ -19,7 +19,7 @@ Banner settings
 ****************
 The following banner settings are available (also see *The Banner editor*, below):
 
-.. image:: banner-settings-new3.png
+.. image:: banner-settings-v75.png
 
 Settings
 ---------
@@ -57,7 +57,7 @@ Write
 ******
 Using the WRITE tab you can set the following:
 
-.. image:: banner-block-write-tab.png
+.. image:: banner-block-write-tab-v75.png
 
 + **Enable overwrite in Write mode**: If it should be possible for editors to edit the default content in the block, this option should be on. If not, click to set it to off.
 + **Property to store data**: Select type of property to connect the Banner to. When one block on the page has data connected to a property, that data can be reused in all blocks that uses the same Property. Page scoped. Not mandatory.

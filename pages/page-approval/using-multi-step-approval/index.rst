@@ -1,7 +1,7 @@
 Using multi-step approval for pages
 =============================================
 
-In Omnia 7.1 and later, multi-step approval can be set up. This page contains a simple example.
+Multi-step approval can be set up. This page contains a simple example.
 
 Multi-step approval must be activated in the page collection settings. For information on how to activate and set up this option, see the following page: :doc:`Page Collection Settings </pages/page-collections/page-collection-settings/index>`
 

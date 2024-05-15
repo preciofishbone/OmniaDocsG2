@@ -1,8 +1,6 @@
 Security trimming in app rollups
 ================================================
 
-Security trimming in app rollups is available in Omnia 7.0 and later. 
-
 The following options are available, found under Query - Permission:
 
 + **Administrator**: Administrator of the app, for example a publishing app administrator or an M365 group owner.

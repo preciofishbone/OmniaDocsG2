@@ -9,6 +9,7 @@ In this part of the documentation you will find information about general assets
 
    add-link/index
    creating-app-templates/index
+   custom-date-filtering/index
    document-picker/index
    filter-options-block/index
    layout-explorer/index
@@ -19,5 +20,7 @@ In this part of the documentation you will find information about general assets
    share-document/index
    using-anchors/index
    targeting-in-omnia/index
+   using-people-picker/index
    using-tokens-in-omnia/index
    working-with-layouts/index
+   working-with-several-languages/index

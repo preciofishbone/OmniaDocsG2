@@ -1,8 +1,8 @@
 System
 =============
-Here, the following can be set (image from Omnia 7.5):
+Here, the following can be set:
 
-.. image:: system-v75.png
+.. image:: system-v76.png
 
 Select section for more information:
 
@@ -16,6 +16,7 @@ Select section for more information:
    connected-tenants/index
    error-information/index
    extensions/index
+   licenses/index
    localization/index
    microsoft-365/index
    services-612/index

@@ -9,21 +9,19 @@ Users and groups
 ******************* 
 Use this setting to add and remove tenant administrators and separate administrators for shared links and snnouncements, if needed. Only tenant administrators can use this setting. A tenant administrator can also edit all the settings for all business profiles within the tenant. 
 
-Single users, security groups and Microsoft 365 groups can be added here (In Omnia on-prem, Microsoft 365 groups can't be used). 
-
-External users that has been invited in the Azure AD can be added here as well. Users invited this way can log in with their own Microsoft 365 account.
-
-**Note!** A user or a group must be permissions enabled do show up in the list.
-
 .. image:: tenant-permissions-v75.png
 
 To delete an administrator in any of the lists, just click the x. To add an administrator, add the name the same way as in other name fields.
 
 **Note!** There must always be at least one tenant administrator. If there is only one, that administrator can not be removed until an additional administrator has been added.
 
+If you see a field called "Entra ID username", it's a special case that can be necessary to handle when setting up a new tenant. As the user sync can't be executed until the tenant has been setup, you may need to add a tenant administrator in this field, in this special circumstance.
+
+For more information on the people picker, see: :doc:`Using the people picker </general-assets/using-people-picker/index>`
+
 Secrets
 ********
-A number of settings are available under Secrets. Exactly what is available here depends on the implementation. Here's an example (from Omnia 7.5): 
+A number of settings are available under Secrets. Exactly what is available here depends on the implementation. Here's an example: 
 
 .. image:: tenant-secrets-v57.png
 
@@ -32,14 +30,6 @@ System Account
 System account is a standard extension for specialized implementations only, normally used by developers.
 
 .. image:: tenant-secrets-system-url-v57.png
-
-Azure AD Sync account
------------------------
-If you're using Azure AD synchronization, add the account that executes the scheduling here. Should be a SharePoint admin account.
-
-.. image:: tenant-secrets-sync-url-v7.png
-
-**Note!** This way of using Azure AD synchronization is no longer supported by Microsoft (It's removed from Omnia 7.5 and later). You should execute syncronization as described here: :doc:`Azure AD Synchronization Settings </admin-settings/tenant-settings/system/azure-ad-sync/index>`
 
 Event Management service account
 ----------------------------------
@@ -61,10 +51,6 @@ SharePoint user profiles sync app-only
 In the process of enabling SharePoint app-only, Client Id and Client secret must to be added here.
 
 .. image:: sharepoint-sync-app-v75.png
-
-For more information, see the instruction available when you click the link "Config instruction" in the "Azure AD Sync" settings in Omnia Admin (available under "System").
-
-For more information on Azure AD sync, see: :doc:`Azure AD Synchronization settings </admin-settings/tenant-settings/system/azure-ad-sync/index>`
 
 Azure OpenAI text completion configuration
 --------------------------------------------

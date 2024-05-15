@@ -1,7 +1,5 @@
-Create new draft from a published process in Omnia v7
+Create new draft from a published process
 ========================================================
-
-This page describes how to create a new draft in Omnia 7.0 and later.
 
 The work on a draft process for a new edition can be started whenever it’s convenient. The existing published edition is still available for readers until it’s replaced, when the new edition is published.
 

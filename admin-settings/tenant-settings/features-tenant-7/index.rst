@@ -1,19 +1,15 @@
-Features (Tenant) in Omnia v7
+Features (Tenant)
 =============================================
 
-This describes features available in Omnia 7.0 and later.
-
-Descriptions and options
-*************************
 For a description of a feature, and when using any option, expand the feature:
 
-.. image:: feature-expand.png
+.. image:: feature-expand-v75.png
 
 Add-ons
 *********
 Here you can activate, remove or upgrade the Omnia Add-ons. 
 
-.. image:: tenant-features-add-ons-7.png
+.. image:: tenant-features-add-ons-75.png
 
 For more information, see the links below:
 
@@ -28,7 +24,7 @@ Default configuration
 ******************************
 The purpose of these features is to provide a number of Enterprise Properties for an easy starting point, and ready to go app launcher links. You can then edit the properties lists and the app launcher links to your organization's needs. Add the common properties you would like to have in your tenant.
 
-.. image:: tenant-features-default-configuration-7.png
+.. image:: tenant-features-default-configuration-75.png
 
 Note that default properties can not be deleted, but all can be edited. 
 
@@ -38,11 +34,11 @@ Integration
 *************
 Here's an example of what can be available here:
 
-.. image:: tenant-features-integration-7.png
+.. image:: tenant-features-integration-75.png
 
 and these:
 
-.. image:: tenant-features-integration-7-2.png
+.. image:: tenant-features-integration-more-75.png
 
 When Microsoft Teams presence is active, this type of icon indicates Teams presence:
 
@@ -50,15 +46,21 @@ When Microsoft Teams presence is active, this type of icon indicates Teams prese
 
 In this example the icon indicates that the colleagues are offline at the moment.
 
-For more information on how to set up Yammer in Omnia, see:
+For more information on how to set up Viva Engage (former Yammer) in Omnia, see:
 
-:doc:`Setup Yammer in Omnia </setup/setup-yammer-in-omnia/index>` 
+:doc:`Setup Viva Engage in Omnia </setup/setup-yammer-in-omnia/index>` 
 
 System
 **********
 The following features may be found here:
 
-.. image:: tenant-features-system-7.png
+.. image:: tenant-features-system-75.png
+
+and these:
+
+.. image:: tenant-features-system-more-75.png
+
+**Note!** Page rollup accelerator is a very useful feature, should always be activated.
 
 Regarding Teamwork provisioning using application context
 --------------------------------------------------------------

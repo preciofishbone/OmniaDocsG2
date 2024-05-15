@@ -35,9 +35,9 @@ There can be different sets of document types depending on language chosen. If y
 
 The document types are set up in Omnia admin. The first list you will see here is normally the most commonly used document types. A document type contains a number of templates. You may have to open a group to find the document type you're after.
 
-In Omnia 7.0 and later an i-icon is displayed if a description has been added to a ducment type. Point at the i-icon to read the description.
+An i-icon is displayed if a description has been added to a ducment type. Point at the i-icon to read the description.
 
-.. image:: document-wizard-i-icon.png
+.. image:: document-wizard-i-icon-frame.png
 
 5. Select template document. You must click on the template, even if there's only one.
 6. Add a title for the new document.

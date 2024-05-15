@@ -1,6 +1,6 @@
 Microsoft 365 settings
 ==============================================
-Here, these settings can be used (image from Omnia 7.1):
+Here, these settings can be used:
 
 .. image:: system-ms-v7.png
 

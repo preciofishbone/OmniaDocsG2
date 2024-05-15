@@ -1,4 +1,4 @@
-Directory of communities in Omnia v7
+Directory of communities
 =====================================
 
 Within a business profile several communities can be active for different settings. To be able to create a community, at least one template for this purpose must be available. If none are, create a template first.
@@ -93,7 +93,7 @@ If you need to add or remove owners (administrators) or contributors for a commu
 
 Don't forget to save when you're done.
 
-**Note!** A user or a group must be permissions enabled to show up in the list.
+For more information on the people picker, see: :doc:`Using the people picker </general-assets/using-people-picker/index>`
 
 Edit features
 ***************

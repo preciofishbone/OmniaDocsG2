@@ -1,4 +1,4 @@
-Creating app templates in Omnia v7
+Creating app templates
 =============================================
 
 In Omnia, templates for publishing apps, communities and teamwork are created in a simlar way. This page describes the general options for these three types of templates. See the respective page in Omnia admin for more information (links at the bottom of this page).
@@ -22,8 +22,8 @@ General
 The following settings are available here (see image above):
 
 + **Type**: You may be able to select a type if more than one is available.
-+ **Title**: Add a title for the template. You can add titles in a number of the languages available in the tenant. Default language is mandatory. (Click the flag to change language).
-+ **Description**: Add a description if needed. You can add a description in a number of the languages available in the tenant.(Click the flag to change language).
++ **Title**: Add a title for the template. You can add titles in the languages available in the tenant. Default language is mandatory. 
++ **Description**: Add a description if needed. You can add a description in the languages available in the tenant.
 + **Icon type**: An icon is always shown for a template. If you would like another icon for this template, select the set of icons here: Font Awesome, Microsoft, Flags or Custom. When selecting "Custom" you can choose any image as the icon.
 + **Template visible to**: Here you choose who can see and use the template. If you select "Specific users", an "Add targeting filter" option is shown. You use it the same way os the similar options in Omnia, see: :doc:`Use targetin </general-assets/targeting-in-omnia/index>`
 + **Icon**: When you have select icon type, use this list to select the icon. If you select "Custom", a URL field is shown, where you enter the URL for the image.
@@ -101,9 +101,9 @@ Additional information
 ***********************
 In some cases, additional settings are available.
 
-When creating a template for a **Yammer community**, the setup step is different. See the bottom of this page: :doc:`Templates for communities in Omnia v7 </admin-settings/business-group-settings/communities/communities-v7/templates/index>`
+When creating a template for a **Viva Engage community**, the setup step is different. See the bottom of this page: :doc:`Templates for communities </admin-settings/business-group-settings/communities/communities-v7/templates/index>`
 
-When creating a template for a **SharePoint communication site**, the setup step is slightly different. See the bottom of this page: :doc:`Templates for publishing apps in Omnia v7 </admin-settings/business-group-settings/publishing-apps/publishing-v7/templates-v7/index>`
+When creating a template for a **SharePoint communication site**, the setup step is slightly different. See the bottom of this page: :doc:`Templates for publishing apps </admin-settings/business-group-settings/publishing-apps/publishing-v7/templates-v7/index>`
 
-Regarding templates for **Teamwork**, there are differences for Microsoft 365 Group, SharePoint team site, Microsoft Team and Private Yammer community. See this page for more information: :doc:`Teamwork templates in Omnia v7 </admin-settings/business-group-settings/team-collaboration/teamwork-v7/templates/index>`
+Regarding templates for **Teamwork**, there are differences for Microsoft 365 Group, SharePoint team site, Microsoft Team and Private Yammer community. See this page for more information: :doc:`Teamwork templates </admin-settings/business-group-settings/team-collaboration/teamwork-v7/templates/index>`
 

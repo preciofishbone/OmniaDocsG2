@@ -1,7 +1,7 @@
-Working with processes in Omnia v7
+Working with processes
 ================================================
 
-In this part of the documentation you will find information about how to work with processes in Omnia 7.0 and later.
+In this part of the documentation you will find information about how to work with processes.
 
 Information about admin settings for Process Managament is found here: :doc:`Process Management </admin-settings/tenant-settings/process-management/index>`
 

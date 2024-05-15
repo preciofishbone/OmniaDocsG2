@@ -1,4 +1,4 @@
-Layouts for publishing apps in Omnia v7
+Layouts for publishing apps
 =============================================
 
 Here you can create and edit layouts for publishing pages. If you're planning to add the possibility to work with controlled documents in a publishing app, you use this option to create a layout for that functionality, see the end of the page.
@@ -18,7 +18,7 @@ Create a new publishing layout
 To create a new layout, do the following:
 
 1. Click "Add Layout".
-2. Add a name for the layout in any or all the available tenant languages (click the flag to change language).
+2. Add a name for the layout in any available tenant language.
 3. Click CREATE.
 
 .. image:: publishing-click-create-v7.png

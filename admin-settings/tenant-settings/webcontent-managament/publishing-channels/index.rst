@@ -30,8 +30,8 @@ Here's how to create a new channel:
 
 (Not all settings shown in the image but described below).
 
-+ **Title**: Add a title in any or several of the tenant langauges. Click the flag to change language.
-+ **Description**: Add a description of the purpose of the channel in any or several of the tenant langauges. Click the flag to change language.
++ **Title**: Add a title in any tenant langauge.
++ **Description**: Add a description of the purpose of the channel in any tenant langauge. 
 + **Category**: Add a category for the channel. If no categories are setup, the channel is automatically added to the default category. That category could be named General, or something else.
 + **Url**: Here you can add a Url to the channel's home page, if there is one. The home page can for example contain more information about the channel, a rollup of all pages published to the channel and so on. 
 + **ADD IMAGE**: To add an image to be shown for the channel, click here and use the Media picker to upload the image. When an image is selected you can delete it, or edit it by clicking the pen. For more information about the Media picker, see: :doc:`The Media Picker </general-assets/media-picker/index>`

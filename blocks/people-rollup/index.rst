@@ -16,45 +16,35 @@ Settings
 *************************
 The following settings are available:
 
-.. image:: peoplerollup-settings-new4.png
+.. image:: peoplerollup-settings-75.png
 
 General
 ----------------
-Here you can add a Title to be displayed for the block:
+Here you can add a title to be displayed for the block:
 
-.. image:: peoplerollup-settings-general-new3.png
+.. image:: peoplerollup-settings-general-75.png
 
-If variations exists for the page, it looks like in the image above and you set the title default language. Titles in other languages are set using the variations. If no varitions exists, you can add a title in any or all languages available in the tenant, in the block.	
+You can add a title in any languaged available in the tenant. 
 
 Query
 -----------
 Here you can work with the Query for what to display in the block.
 
-**Important Note!** The query type SharePoint groups can be used to rollup the members of a SharePoint group. This query type is limited to list approximately 50 users. If the group contains more users than can be listed, you may get the following error: "The query failed - The maximum allowed value is 4096 Paramter name: QueryTemplate". If you run into this limitation, please use the Profile query instead.
+**Important Note!** The query type SharePoint groups is limited to list approximately 50 users. If the group contains more users than can be listed, you may get the following error: "The query failed - The maximum allowed value is 4096 Parameter name: QueryTemplate". If you run into this limitation, please use the Profile query instead.
 
-.. image:: peoplerollup-settings-query-new2.png
+.. image:: peoplerollup-settings-query-75.png
 
 Follow these steps:
 
-1. Select Query type; "Profile query", "SharePoint groups", "User fFields on page", "Activity query" or "Birthday". Use "Birthday" for listing of upcoming birthdays.
-2. If you selected Activity query, choose Activity period (also called Social period in some other blocks). This sets how old the item can be to be displayed in the list. The default is "No limit", but you c an also select One week, Two weeks or One month. If you selected Birthday query you choose the property to be used for birthdays and Birthday period.
+1. Select Query type; "Sharepoint profiles", "SharePoint groups", "User property on page", "Activity query", "Upcoming birthdays" or "Users". Selecting "Users" you can rollup Omnia users as set up in User Management. Note that the tenant feature "People rollup query type for users" must be active for "Users" to be available here.
+2. If you selected Activity query, choose Activity period (also called Social period in some other blocks). This sets how old the item can be to be displayed in the list. The default is "No limit", but you can also select One week, Two weeks or One month. If you selected Upcoming birthdays query you choose the property to be used for birthdays and birthday period.
 3. Select property for the query.
 
-.. image:: query-property-1-new2.png
+.. image:: query-property-1-v75.png
 
 4. Set additional query parameters. Exactly what needs to be done depends on the property chosen.
-
-Here's an example with parameters set for Department:
-
-.. image:: query-parameters-new2.png
-
 5. Type a parameter if neded (needed for Manual or Query parameter).
-
-.. image:: query-type-parameter-new2.png
-
 6. Click "ADD" to add the query from your settings.
-
-.. image:: query-add-new2.png
 
 It can result in something like this:
 
@@ -68,11 +58,11 @@ You can also add additional parameters, by using the method explained above or t
 
 Display
 -----------
-You can set the type of view to be used for the list here:
+You can set the type of view to be used for the list here (Card chosen as an example):
 
-.. image:: peoplerollup-settings-display-new2.png
+.. image:: peoplerollup-settings-display-75.png
 
-You can choose to display the list as a Card view or Roller view. In the image at the top of the page, Card view is used. 
+You can choose to display the list as a Card view or Roller view. 
 
 The following settings are available for the views:
 
@@ -109,53 +99,9 @@ Here's an example with a simple Card View displaying the three icons:
 
 Filter
 -------
-Use these settings to add filters for the users to use. An example could be if a People rollup block displays all colleagues in different departments, you may want to display a filter for departments so user can display a list of only colleagues in a certain department.
+Use these settings to add filters for the users to use. An example could be if a People rollup block displays all colleagues in different departments, you may want to display a filter for departments so user can display a list of only colleagues in a certain department. 
 
-.. image:: peoplerollup-settings-filter-new3.png
-
-For more information on how to add filters, or a search box, see this page: :doc:`Filter UI </blocks/general-block-settings/filters/index>`
-
-In Omnia 7.0 and later, new options for filtering can be available, see: :doc:`Filter options for blocks in Omnia v7 </blocks/general-block-settings/filter-options-block/index>`
-
-Refiner
----------
-Use these settings to add refiners.
-
-.. image:: peoplerollup-settings-refiner-new.png
-
-+ **Position**: Decide where to place the refiners; Top, Left or Right. 
-
-To add a refiner, do the following:
-
-1. Set position for the refiner(s).
-2. Click "Add refiner".
-
-.. image:: people-rollup-add-refiner-new.png
-
-3. Open the list and select a property as refiner.
-
-.. image:: people-rollup-add-refiner-list-new.png
-
-4. Select sorting and limit, if needed.
-5. Click "Add refiner".
-
-.. image:: people-rollup-add-refiner-sort-new.png
-
-6. Add additional refiners the same way, if needed.
-7. If you have added more than one refiner, use "Adjust refiners" to decide the order.
-8. For additional settings, click "Style".
-
-.. image:: people-rollup-style.png
-
-+ **Elevation**: If you want the refiner area to be elevated, use this slider to set how much.
-+ **Background**: Use this option to add a gray tint to the refiner area, to make it a little bit darker than the rest of the block. If the background for the block is white the refiner area is distinctively gray. If the background for the block is black this option makes no difference.
-+ **Border radius**: Use this slider to set rounded corners for the Refiner area.
-
-Here's an example of a refiner present at the top. Users can choose to show colleagues from just one of the two departements:
-
-.. image:: people-rollup-example-refiners-new.png
-
-In Omnia 7.0 and later, the Refiner menu option is removed. Refiner options can now be found under "Filter", see: :doc:`Filter options for blocks in Omnia 7.0 </blocks/general-block-settings/filter-options-block/index>`
+Filter settings are the sane for most blocks, see: :doc:`Filter options for blocks </blocks/general-block-settings/filter-options-block/index>`
 
 Layout and Write
 *********************

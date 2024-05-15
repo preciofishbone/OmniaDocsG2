@@ -1,4 +1,4 @@
-Teamwork directory in Omnia v7
+Teamwork directory
 ==================================
 
 Here Teamworks are listed, the "All" tab as an example:
@@ -137,7 +137,7 @@ If you need to add or remove owners (administrators) or members for a teamwork, 
 
 Don't forget to save when you're done.
 
-**Note!** A user or a group must be permissions enabled to show up in the list.
+For more information on the people picker, see: :doc:`Using the people picker </general-assets/using-people-picker/index>`
 
 Edit Features
 ***************
@@ -175,7 +175,7 @@ The person requesting the teamwork receives the message and can then start a new
 
 Orphaned
 **********
-When a site of the type Microsoft 365 teamsite, SharePoint teamsite or Sharepoint communication site is created, a SharePoint site is also created and is connected to the site. A Yammer group can also need a SharePoint site, depending on how the Yammer group is set up.
+When a site of the type Microsoft 365 teamsite, SharePoint teamsite or Sharepoint communication site is created, a SharePoint site is also created and is connected to the site. A Viva Engage (former Yammer) group can also need a SharePoint site, depending on how the Viva Engage group is set up.
 
 .. image:: teamwork-orphaned-v7.png
 

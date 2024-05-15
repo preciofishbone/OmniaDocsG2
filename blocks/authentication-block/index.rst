@@ -1,7 +1,7 @@
 Authentication block
 =============================================
 
-This block is available in Omnia 7.5, when working with authentication screens only.
+This block is available when working with authentication screens only.
 
 For more information on authentication screens, see: :doc:`Authentication screens </admin-settings/business-group-settings/user-management-bp/authentication-screens-users-bp/index>`
 

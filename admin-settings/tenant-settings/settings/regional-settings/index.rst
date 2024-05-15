@@ -43,7 +43,7 @@ Do the following to add a new language:
 
 Language displayed for a user
 -------------------------------
-What language a specific user will see for the interface, in Announcement messages and Shared links, depends on the user's Preferred Language setting in the Azure AD.
+What language a specific user will see for the interface, in Announcement messages and Shared links, depends on the user's Preferred Language setting in Entra ID.
 
 Date And Time
 ****************

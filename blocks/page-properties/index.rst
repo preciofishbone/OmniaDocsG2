@@ -15,9 +15,9 @@ General
 ------------
 Here you acn add a title for the block, if needed.
 
-.. image:: page-properties-block-general.png
+.. image:: page-properties-block-general-v75.png
 
-+ **Title**: If a title should be shown for the block, add it in this field. You can set the title in the languages active in the tenant (click the flag to change language). 
++ **Title**: If a title should be shown for the block, add it in this field. You can set the title in the languages active in the tenant. 
 
 Display
 ---------
@@ -33,11 +33,11 @@ For each property you add, you can set some style options. Click here to set the
 
 For General Style you can set:
 
-.. image:: page-properties-block-display-style-general.png
+.. image:: page-properties-block-display-style-general-v75.png
 
-+ **Show label**: Decide to show the block label or not.
++ **Show label**: Decide to show the block label or not. 
 + **Custom label**: Add a custom label here if needed.
-+ **Date type**: For date type you can choose Default, Classic or Social. 
++ **Date type**: For date type you can choose Default, Classic or Social. Not available for all properties.
 
 For extra style, some color settings and icon settings are available:
 

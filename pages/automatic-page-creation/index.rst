@@ -5,7 +5,7 @@ An administrator can setup rules in a page collection for automatic page creatio
 
 It works this way: Whenever a page is published in the page collection and match a specific rule, a copy of the page will be published to another page collection in the tenant. To be more specific; it is the information contained in the properties that are copied, not the whole page as it is. Therefore the page in the target page collection can look different depending on available page types. 
 
-In Omnia 7.0 and later, it can be possible to publish a copy of a page to another tenant as well. A prerequisite is that tenants that should be available for automatic page creation are registered as connected tenants in Omnia admin. See this page for more information: :doc:`Connected tenants </admin-settings/tenant-settings/system/connected-tenants/index>`
+It can be possible to publish a copy of a page to another tenant as well. A prerequisite is that tenants that should be available for automatic page creation are registered as connected tenants in Omnia admin. See this page for more information: :doc:`Connected tenants </admin-settings/tenant-settings/system/connected-tenants/index>`
 
 This can for example be used to make sure a specific type of news will be published in more than one news center, for example both in the internal news center and in a partner portal or a customer portal. But this is just one example, it can be used with any type of page.
 
@@ -19,22 +19,18 @@ The settings are available here, in the page collection settings:
 
 .. image:: automatic-page-1-new.png
 
-Click the plus and the following settings becomes available (in Omnia 6.13 and earlier):
-
-.. image:: automatic-page-2-new.png
-
-The following settings are available in Omnia 7.0 and later:
+Set the following:
 
 .. image:: automatic-page-2-new-v7.png
 
 (Not all options are shown in the images, but are listed below.)
 
-+ **Current tenant/Connected tenant**: Available in Omnia 7.0 and later. Choose if the rule should apply for the this tenant or for a connected tenant.
++ **Current tenant/Connected tenant**: Choose if the rule should apply for the this tenant or for a connected tenant.
 + **Name**: Add a name for the rule.
 + **Page creation rule**: If pages in this page collection always should be copied, select "Always create". If pages should be copied only when certain prerequisites are met, select "Only create if". See below for more information about this.
-+ **Page creation info**: Select the publishing app, page collection to copy to, and choose the page type to be used. In Omnia 7.0 and later, a conntected tenant could also be selected.
++ **Page creation info**: Select the publishing app, page collection to copy to, and choose the page type to be used. A conntected tenant could also be selected.
 + **Enable auto publish**: If this option is selected a new page is always published automatically. It’s only applicable when a new page is created, not when it’s updated.
-+ **Initial properties**: Choose the source of the initial properties; "EnablerReuse content" or "Copy property to page on creation". Then select the property/propeties to get this from. For more information, see below. In Omnia 7.0 and later only properties to copy is available.
++ **Initial properties**: Choose "Copy property to page on creation". Then select the property/propeties to get this from. For more information, see below. 
 + **Mapped variations**: If the source page and/or the target page uses variations, you have to map variations, see below.
 
 Don't forget to save when you're done.

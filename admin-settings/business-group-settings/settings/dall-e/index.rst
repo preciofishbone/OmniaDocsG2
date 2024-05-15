@@ -1,8 +1,6 @@
 Dall-E settings
 =============================================
 
-This option is available in Omnia 7.1 and later.
-
 Dall-E is an AI option that can create images. It can be activated as an image provider, through the feature available for the business profile, and can then be used in the image picker. Here you can create predfined promtpts to be used in Dall-E, for example:
 
 .. image:: dall-e-settings.png
@@ -17,7 +15,7 @@ The following settings are availble for a Dall-E prompt:
 
 .. image:: dall-e-settings-new.png
 
-+ **Title**: Add a title for this setting, in any available tenant language (click the flag to change language).
++ **Title**: Add a title for this setting, in any available tenant language.
 + **Prompt**: Add the text for the prompt here. The token - {Text} - must be part of the prompt, see the example.
 + **Set as default prompt**: If this prompt settings should be the default for Dall-E, select this option. **Note!** There can be only one default prompt. if there is already a default prompt, that prompt will automatically be deselected as default. Alos note that it's not required to have a default prompt.
 

@@ -9,32 +9,30 @@ This is how:
 2. Go to the page in the teamsite.
 3. Edit the page.
 
-.. image:: webpart-edit-page.png
+.. image:: webpart-edit-page-75.png
 
-4. Click on the web part that should be above the block. 
+4. Point below the web part that should be above the block. 
 5. Click the plus.
 
-.. image:: webpart-edit-clickplus.png
+.. image:: webpart-edit-clickplus-75.png
 
 6. Select the Omnia block web part.
 
-.. image:: webpart-omniablock.png
+.. image:: webpart-omniablock-75.png
 
 7. Select block.
 
-.. image:: webpart-select-block.png
+.. image:: webpart-select-block-75.png
 
 8. Click the pen to edit settings for the block.
 
-.. image:: webpart-select-block-edit.png
+.. image:: webpart-select-block-edit-75.png
 
 The settings are shown, for example:
 
-.. image:: webpart-select-block-edit-settings.png
+.. image:: webpart-select-block-edit-settings-75.png
 
 You use the settings for the block exactly the same way as when the block is placed on an Omnia page. See the description for the block here: :doc:`Blocks </blocks/index>`
 
 **Note!** In an environment that has been upgraded from an earlier version of Omnia, an older web part can still be available, just called Omnia. You should not use that web part any more.
-
-.. image:: webpart-block-dontuse.png
 

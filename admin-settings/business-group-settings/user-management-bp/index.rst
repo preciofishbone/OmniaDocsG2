@@ -1,13 +1,13 @@
 User Management - business profile
 =============================================
 
-**This option is available in Omnia 7.5. Work on this set of options is just started.**
+Here you can work with user managament options for a business profile. Omnia users that are setup using the tenant options can only be handled by a tenant admninistrator. Users set up in a business profile can be handled by the business profile administrator. Users setup in a business profile is available for edit in the tenant list as well.
 
-Here you can work with user managament options for this business profile.
+Also note that in Omnia 7.6 and later, user groups can be set up to be managed by a local manager.
 
 .. image:: user-management-bp-menu.png
 
-See these pages for more information (also just started):
+See these pages for more information:
 
 .. toctree::
    :titlesonly:

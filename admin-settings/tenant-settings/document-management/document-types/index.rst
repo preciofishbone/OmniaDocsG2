@@ -24,7 +24,7 @@ To create a new a group, do the following:
 
 .. image:: doctype-select-group-v7.png
  
-3. Add a title in one or more languages (click the flag to change language). Default language in the tenant is mandatory.
+3. Add a title in any available language. Default language in the tenant is mandatory.
 
 .. image:: doctype-group-title-v7.png
 
@@ -91,7 +91,7 @@ The General tab contains the following settings:
 
 .. image:: document-type-general-v7.png
 
-+ **Title**: Add a title for the Document Type in one or more of the tenant languages (click the flag to change language). Note that default language is mandatory.
++ **Title**: Add a title for the Document Type in any tenant language. Note that default language is mandatory.
 + **Description**: A description is not mandatory but can be useful if your organization uses a lot of different document types.
 + **Property Set**: Property sets is a way of groping a number of properties into a set, which makes it easier to use a set of properties in several document types. Select a property set for the document type. When you have done so you can click the cogwheel to see which properties belong to the set. You will also see information about, and can somtimes edit, placeholder shortname and default value for the properties in the set.
 + **Document Templates**: Select one or more of the templates. You must always do this even if there’s just one template available.
@@ -163,7 +163,7 @@ When you choose to create a task, this is shown:
 
 1. Use the list to select who the task should be sent to, for example document owner.
 2. Select when the task will expire.
-3. Add a custom text for the review button, if needed, in any tenant language. Click the flag to change language.
+3. Add a custom text for the review button, if needed, in any tenant language.
 4. Save when you're done with all settings. 
 
 **Important note!** The review reminder task works this way: If a new edition/revision of a controlled document is published or the published document is deleted, any associated review reminder task will be automatically completed. If the review is completed, the review comment will be added to the document history and a new review date will be calculated based on the review reminder rule set on the document type.

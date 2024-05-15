@@ -7,25 +7,24 @@ Settings
 ***********
 The following settings are available for the block:
 
-.. image:: publishing-app-rollup-settings-all-v7.png
+.. image:: publishing-app-rollup-settings-all-v75.png
 
 General
 ---------
-Here you can add a title for the block, in any available tenant language (click the flag to change language).
+Here you can add a title for the block, in any available tenant language.
 
 .. image:: publishing-app-rollup-settings-general-v7.png
 
 Query
 -----------
-Here you decide what to rollup in the block. (Image from Omnia v7).
+Here you decide what to rollup in the block. 
 
 .. image:: publishing-app-rollup-settings-query-v7.png
 
 + **Scope**: You can choose to rollup all public publishing apps, all the logged in user follows, or to display the last publishing app the user visited.
-+ **Permission**: Available in Omnia 7.0 and later. Used for security trimming. For more information, see: :doc:`Security trimming in app rollups </general-assets/security-trimming-apps/index>`
++ **Permission**: Used for security trimming. For more information, see: :doc:`Security trimming in app rollups </general-assets/security-trimming-apps/index>`
 + **Only current business profile**: If only publishing apps from the current business profile should be listed, select this option (default).
 + **Site template**: Select publishing app template from the list. You must select template, even if just one is available.
-+ **Run query on load**: Decide if the query should be run on load, so the list is filled with publishing apps, or not. If a list is very long it can be a good idea to add a search box, and to deselect this option. You add a search box under Filter, see below. (This option is moved to the Filter section in Omnia 7.0 and later).
 
 Display
 --------
@@ -42,7 +41,7 @@ Available settings depends on what you select. All options are listed below (not
 + **Paging**: Select how paging should work; "No paging", "Classic" or "Scroll".
 + **Image**: Available for Card view. Choose to display an image or not.
 + **Item limit**: Set the number of sites to be shown on each "page" of the list.
-+ **No results text**. If you would like to add a text to be shown when rollup returns no result, add it here. You can add a message in any available tenant language (click the flag to change language).
++ **No results text**. If you would like to add a text to be shown when rollup returns no result, add it here. You can add a message in any available tenant language.
 + **Sort by**: Select what to sort the list on, and then select Ascending or Descending sorting.
 + **Padding**: You can add some padding between the block's borders and the list.
 + **Open in new window**: For some (maybe all) of of the teamworks, it can be a good idea to open the link in a new window.
@@ -55,11 +54,26 @@ If you select STYLES for Card View, the following, additional settings becomes a
 
 Filter
 ------------------
-Here you can add filters so users can filter (= choose what to see in the rollup). Image from Omnia v7.
+Here you can add filters so users can filter (= choose what to see in the rollup). 
 
 .. image:: publishing-app-rollup-settings-filter-v7.png
 
-Filter options in Omnia v7 are described on this page: :doc:`Filter options for blocks in Omnia v7 </blocks/general-block-settings/filter-options-block/index>`
+Filter options are the same in most blocks, and are described on this page: :doc:`Filter options for blocks </blocks/general-block-settings/filter-options-block/index>`
+
+Metric
+*******
+Using these settings you can show a metric in the block displaying the number of apps that is valid for the query settings. The metric can then be clicked to display the rollup you have set up.
+
+This can for example be used to create a rather compact page or section with different metrics in different blocks. The user can then click the desired metric to see the full list.
+
+.. image:: page-rollup-metric-app-v75.png
+
++ **Show metric**: Select this to decide to show the metric (and the settings below becomes available).
++ **Title**: Add a title for the metric if needed.
++ **Description**: A description for the metric can also be added.
++ **Icon type/Icon**: Select an icon type and an icon, if you want to.
++ **Color**: This sets the color for the divider above the metric. 
++ **Dialog width/height**: Set width and height for the dialog displaying the list of pages.
 
 Layout and Write
 *********************

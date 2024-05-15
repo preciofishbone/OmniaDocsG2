@@ -1,8 +1,6 @@
 Dynamic groups
 =============================================
 
-This option is available in Omnia 7.0 and later.
-
 Here dynamic groups can be created, edited and deleted. Dynamic security groups are based on user types, not on membership. They will replace and expand on the built-in groups “Internal users” and “External users” and can be used to protect information.
 
 The user types are those created in User management, see: :doc:`User types </admin-settings/tenant-settings/user-management/user-types/index>`
@@ -24,7 +22,7 @@ Available properties in the first part depends on properties set up in User mana
 
 Add user types to a group
 ---------------------------
-To add a user type to a group, open the list and select a group.
+To add a user type to a group, open the list and select a type.
 
 .. image:: add-user-list.png
 

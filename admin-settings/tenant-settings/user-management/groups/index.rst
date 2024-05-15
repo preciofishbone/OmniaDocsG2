@@ -1,9 +1,9 @@
 Groups
 =============================================
 
-This option is available in Omnia 7.0 and later.
-
 Here, all groups in the tenant are listed and you can create and delete your own Omnia groups for security setups.
+
+If you're working with User management for a business profile, groups can be created and edited the same way there, and is then valid for that business group only.
 
 All groups
 *************
@@ -11,7 +11,7 @@ A list of all groups can look like this:
 
 .. image:: user-magaments-groupd-list-new.png
 
-To edit the settings for a group, click the pen. To delete it, click the dust bin. When you edit an Omnia group, all settings area available, as when you add a new group, see below. Regarding groups and users from MS Graph, only added properties, if any, can be edited, not the information that originates from MS Graph.
+To edit the settings for a group, click the pen. To delete it, click the dust bin. When you edit an Omnia group, all settings are available, as when you add a new group, see below. Regarding groups and users from MS Graph, only added properties, if any, can be edited, not the information that originates from MS Graph.
 
 .. image:: user-magaments-groupd-list-edit-delete.png
 
@@ -19,7 +19,11 @@ Note that you can search and filter on "Group type". If you would like a list of
 
 .. image:: user-magaments-groupd-list-omnia.png
 
-In Omnia 7.5, there are some addtions to this list, see the bottom of this page.
+If you would like to list the users from one business profile only, use the filter Owner and add the name of the business profile.
+
+.. image:: user-magaments-groupd-list-75.png
+
+Also note that you can use the i-icon for information about other groups than Omnia groups.
 
 Add a new group
 ----------------
@@ -31,7 +35,9 @@ Here you can add an image for the group using the Image picker, add a name and d
 
 Add users to a group
 ---------------------------------
-To add Omnia users to a group, do the following (only Omnia users can be added to Omnia groups):
+Only Omnia users can be added to Omnia groups. If you need to add other users to groups, use Dynamic groups.
+
+To add Omnia users to a group, do the following:
 
 1. Click the USERS button and add one or more users from the list.
 
@@ -45,9 +51,9 @@ The filter can be used to find one or more users in a long list.
 
 .. image:: add-users-3.png
 
-Add groups to a Omnia group
+Add groups to an Omnia group
 ------------------------------
-M365 groups, distribution groups and security groups can be added to an Omnia group.
+Only Omnia groups can be added to Omnia groups. If you need to add other groups, use Dynamic groups. 
 
 1. Click the Groups icon.
 
@@ -65,16 +71,5 @@ The filter can be used to find one or more groups in a long list.
 
 Deleted groups
 ****************
-In the list of deleted groups you can restore deleted groups or delete them pemanently.
-
-Additions in Omnia 7.5
-***********************
-In Omnia 7.5, an additonal filter option is added:
-
-.. image:: user-magaments-groupd-list-75.png
-
-+ **Owner**: If you just want to display users from one the business profiles in the tenant, select business profile here.
-
-Also note that you now can use the i-icon the for information about other groups than Omnia groups.
-
+In the list of deleted groups you can restore deleted groups or delete them permanently.
 

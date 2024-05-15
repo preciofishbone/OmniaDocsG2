@@ -13,7 +13,7 @@ To reach the app settings as described here, you must do the following:
 
 Features
 ***********
-Here you activate, update or remove features for the app, for example (image from Omia 7.0):
+Here you activate, update or remove features for the app, for example:
 
 .. image:: app-settings-features-v7-border.png
 
@@ -21,7 +21,7 @@ An example: If your organization is using Document management, you must go here 
 
 Descriptions and options
 ---------------------------
-For a description of a feature, and when using any option, expand the feature (available in Omnia 7.0 and later):
+For a description of a feature, and when using any option, expand the feature:
 
 .. image:: feature-site-expand.png
 
@@ -33,7 +33,7 @@ Under Settings, the following is available:
 
 Edit settings
 ---------------
-Here you can edit the settings for the app, which was set when the app was created. The settings available depends on the template selected for the app. (Image from Omnia 7.0).
+Here you can edit the settings for the app, which was set when the app was created. The settings available depends on the template selected for the app.
 
 .. image:: app-settings-settings-edit-v7.png
 

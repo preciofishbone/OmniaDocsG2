@@ -77,7 +77,7 @@ Now properties for the document are shown (and this is what is shown for a docum
 
 Set document type for uploaded documents
 ------------------------------------------
-In Omnia 7.1 and later you can set a document type for a number of uploaded documents at the same time. Here's how:
+You can set a document type for a number of uploaded documents at the same time. Here's how:
 
 1. Select all uploaded documents that should belong to the same document type.
 2. Click PROPERTIES.
@@ -111,38 +111,36 @@ Do the following:
 
 Now the selected document(s) are moved from the original documents library and into the controlled documents library as drafts.
 
-Recycle bin for drafts
+Restore a deleted draft
 **************************
-In Omnia 7.0 and later there's a recycle bin available for deleted drafts. You delete a draft document the same way as before. Deleted drafts are than available in the recycle bin:
+If you delete a draft controlled document it's placed in Sharepoint's recycle bin. That recycle bin is available in the controlled dlibrary, so you can restore a deleted draft if needed.
 
-.. image:: documents-recycle-bin.png
+Sharepoint's recycle bin is available here:
 
-There you can decide to keep a deleted draft for later, permanently delete it or restore it.
+.. image:: documents-sharepoint-recycle-bin.png
 
-.. image:: documents-recycle-bin-restore.png
+**Note!** For how long a deleted draft is kept here depends on settings for Sharepoint's recycle bin.
 
-Just select one or more drafts and then decide what do to. (To keep them, no action is required).
+Sharepoint's recycle bin can contain all sorts of files and folders, for example:
 
-Information for administrators: This recycle bin is in fact part of the Sharepoint recycle bin.
+.. image:: documents-sharepoint-recycle-bin-shown.png
 
-Restore a draft document from the recyle bin
------------------------------------------------
-Restoring a draft document from the recycle bin works similar to when a new draft is created from a published document, meaning it's not just a simple restore.
+To restore a draft document from here, do the following:
 
-Here's how:
+1. Find the document and select it.
+2. Click "Restore".
 
-1. Go to the recycle bin and select the document.
-2. Click RESTORE.
+.. image:: document-restore-1-sharepoint.png
 
-.. image:: document-restore-1.png
+3. Go back the controlled documents library and the DRAFTS list.
 
-3. Choose what to do:
+You can see that the restored document is here, but it's grey. One step remains.
 
-.. image:: document-restore-2.png
+.. image:: document-restore-2-sharepoint.png
 
-See the heading *Creating a new draft from a published document* below for more informationsa about the options.
+4. Select the document and choose "Restore" in the menu for the document.
 
-4. Click CREATE DRAFT.
+.. image:: document-restore-3-sharepoint.png
 
 Upload appendices
 *******************
@@ -234,7 +232,7 @@ Creating a new draft from a published document
 ***********************************************
 The work on a draft for a new edition of a document can be started whenever it’s convenient. The existing published edition is still available for readers until it’s replaced, when the new edition is published.
 
-To create a new draft of a published document, do the following (images from Omnia v7):
+To create a new draft of a published document, do the following:
 
 1.	Open the "Published" tab.
 2.	Click the dot menu for the document.
@@ -274,7 +272,7 @@ The new draft is created and the "Drafts" tab is automatically activated. The wo
 
 Change comments
 --------------------
-When creating a new draft from a published document the first time, the Change comments field is available from here on (in Omnia 7.1 and later). **Note**: the field is NOT available when a draft is created from scratch or uploaded to be a draft.
+When creating a new draft from a published document the first time, the "Change comments" field is available from here on. **Note**: the field is NOT available when a draft is created from scratch or uploaded to be a draft.
 
 You can add and edit change comments when necessary for any edition, either when creating a new draft from any edition or any time when working on a draft that has been created that way.
 

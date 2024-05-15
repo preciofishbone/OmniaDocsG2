@@ -27,7 +27,7 @@ Note that videos can be handled in SharePoint media libraries as well, and some 
 
 Bing
 *******
-When selecting Bing (if available) you can search for any Bing image, or use the predefined search categories, if any is set up. Bing search categories can be set up by an administrator in Omnia admin.
+For Bing to be available, the feature "Bing" must be active. When selecting Bing you can search for any Bing image, or use the predefined search categories, if any is set up. Bing search categories can be set up by an administrator in Omnia admin.
 
 .. image:: media-picker-bing-search-v7.png
 
@@ -40,15 +40,38 @@ To select an image, click it and the settings will be shown. Settings are the sa
 
 **Important note!** Omnia applies a filter to the Bing search automatically so only images that are free to use can be found through the Image picker.
 
+Mediaflow
+************
+This option requires a subscription to the Mediaflow service. Please find more information here: https://www.mediaflow.com/.
+
+For Mediaflow to be available, the prerequisites in Omnia are:
+
+1. The feature "Mediaflow" must be active.
+2. Client Id, Client secret and Refresch token must be added under "Permissions" - "Secrets" - "MediaFlow" for a business profile. (These settings are provided by MediaFlow).
+
+Also check the specific settings for MediaFlow to see if you need/want to edit them. See this link: :doc:`Mediaflow settings </admin-settings/business-group-settings/settings/media-flow/index>`.
+
+When Mediaflow has been set up, you can search or browse available content:
+
+.. image:: media-picker-mediaflow.png
+
+To select an image, click it and select "Use this file". Also note the information shown, for example file size.
+
+.. image:: media-picker-mediaflow-select.png
+
+When you have done that, Omnia's settings are shown, as described below.
+
 Pexels or other provider
 **************************
-Available search- or filtering fields depend on what the provider offer. For Pexels (if available), only a search field is available:
+For Pexels to be available the feature "Pexels" must be active. Available search- or filtering fields depend on what the provider offer. For Pexels only a search field is available:
 
 .. image:: media-picker-pexel-search-v7.png
 
 To select an image, click it and the settings will be shown. Settings are the same for all images, see below.
 
 **Important note!** All images from Pexels are always free to use, and edit.
+
+**A note about MediaFlow**: This feature requires a subscription to the Mediaflow service. Please find more information here: https://www.mediaflow.com/.
 
 Using Dall-E to create images
 ******************************

@@ -39,7 +39,7 @@ The WRITE TAB is not used here. The LAYOUT tab contains general settings, see: :
 
 General
 ----------
-On the General tab you can add a title for the block, in any or all the tenant languages (click the flag to change language):
+On the General tab you can add a title for the block, in any tenant language:
 
 .. image:: sign-off-requests-block-settings-general-613.png
 
@@ -79,42 +79,6 @@ It's then possible to set a fixed width for the column, if needed, an decide to 
 If you need to edit the settings for a column, you can click the cogwheel to display them:
 
 .. image:: sign-off-requests-block-settings-display-column-cogwheel-613.png
-
-Filter
---------
-The following options are found on this tab:
-
-.. image:: sign-off-requests-block-settings-filter-613-new.png
-
-+ **Show search box**: To add a search box, select this option. When you do, some additional settings becomes available.
-+ **Show sort dropdown**: To add a dropdown where the user can sort the list, select this option.
-+ **ADD FILTER**: To add filters for the users to use, select this option. For more information, see below.
-+ **Save filter state**:  If you select this option the filter keeps it’s state in the page URL as long as the page is active, and will be activated when the user goes back to the page, by using the browser’s Back button. The URL can also be copied and for example be used to prepopulate the rollup.
-+ **Run query on load**: Decide if the query should be run on load, so the list is filled with sign-off requests, or not. If there are a lot of requests, an effective solution could be to show a search box and not use this option. 
-
-In Omnia 7.0 and later, new options for filtering can be available, see: :doc:`Filter options for blocks in Omnia v7 </blocks/general-block-settings/filter-options-block/index>`
-
-Add filter
--------------
-To add one or more filters available to users, click the button and use the list to add a filter.  
-
-When a filter is added, click the dot menu to decide what to do with the filter:
-
-.. image:: sign-off-rollup-filter-choose-menu.png
-
-The options are:
-
-.. image:: sign-off-rollup-filter-choose-menu-options.png
-
-If the filter shouldn't be used any more, just select "Delete".
-
-What you can choose as default value depends on the filter. Here's an example for Status:
-
-.. image:: sign-off-rollup-filter-choose-menu-options-default.png
-
-Available settings for a filter are:
-
-.. image:: sign-off-rollup-filter-choose-menu-options-settings.png
 
 STYLE
 --------

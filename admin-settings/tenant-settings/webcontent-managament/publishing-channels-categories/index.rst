@@ -21,5 +21,5 @@ Add a title for the new category and save:
 
 .. image:: publishing-channels-categories-new2.png
 
-You can add a title in any or several of the tenant languages. Click the flag to change language.
+You can add a title in any or several of the tenant languages. 
 

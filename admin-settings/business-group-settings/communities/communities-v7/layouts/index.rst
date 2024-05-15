@@ -1,4 +1,4 @@
-Layouts for communities in Omnia v7
+Layouts for communities
 =====================================
 
 Using these options you can create layouts for community pages. First you see the list of the layouts created so far, for example:
@@ -12,7 +12,7 @@ Create a new layout
 To create a new layout, do the following:
 
 1. Click "Add Layout".
-2. Add a name for the layout in any or all the available tenant languages (click the flag to change language).
+2. Add a name for the layout in any available tenant language.
 3. Click CREATE.
 
 .. image:: community-click-create-v7.png

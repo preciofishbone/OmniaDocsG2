@@ -69,7 +69,7 @@ Default is List view, as shown in the image above. You can also choose to see a 
 
 Analysis
 ***********
-In Omnia 7.1 and later, OpenAI can be used for content analysis. If set up, this tab is available.
+OpenAI can be used for content analysis. If set up, this tab is available.
 
 **Note!** An analysis can only be executed on pages within the active page collection.
 

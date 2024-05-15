@@ -3,13 +3,9 @@ General block settings
 
 The Layout tab contains settings that are general for most blocks, but scoped for each block. 
 
-Adding filters to a block, if it's possible, works the same for most blocks. Find a general description of how to do that here:
+Adding filters to a block, if it's possible, works the same for most blocks. Find a general description of how to do that here: :doc:`Filter options for blocks </blocks/general-block-settings/filter-options-block/index>`
 
-For Omnia 6.13 and earlier :doc:`Filter UI </blocks/general-block-settings/filters/index>`
-
-For Omnia 7.0 and later :doc:`Filter options for blocks in Omnia v7 </blocks/general-block-settings/filter-options-block/index>`
-
-The Layout tab contains the following settings (images from Omnia 7.5):
+The Layout tab contains the following settings:
 
 .. image:: layout-tab-v75.png
 
@@ -52,7 +48,7 @@ The follwowing is available for header settings:
 
 .. image:: layout-header-nv75.png
 
-+ **Anchor name**: You can set an anchor name for this block. When a block has an anchor name, you can link to the block, using a the Add Link block or using an action button. In Omnia 7.5 it's also possible to create navigation based om anchors.
++ **Anchor name**: You can set an anchor name for this block. When a block has an anchor name, you can link to the block, using a the Add Link block or using an action button. It's also possible to create navigation based om anchors.
 + **Icon type**: If you would like an icon to be shown for the block, the first step is to select icon type. (If you don't select an icon, Icon type has no effect).
 + **Icon**: After having selected icon type, then select the icon.
 + **Custom settings**: For Header you can choose to use the global settings (set up in Omnia admin) or use custom settings for this block.

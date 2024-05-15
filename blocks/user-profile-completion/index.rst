@@ -7,21 +7,21 @@ Settings
 ***********************
 The following settings are available:
 
-.. image:: user-profile-settings-new3.png 
+.. image:: user-profile-settings-v75.png 
 
 General
 --------
-Here you can add a title for the block, and set some padding:
+Here you can add some texts for the block, and set some padding:
 
-.. image:: user-profile-settings-general.png
+.. image:: user-profile-settings-general-v75.png
 
-If variations exists, it looks like in the image above and you set the title in the default language. Titles in other languages are set using the variations. If no variations exists, you can set the title in any or all languages available in the tenant, here in the block settings.
+You can add the texts in any tenant language.
 
 Style
 ------
 Use this tab to select style for the percentage. If you select Line, there's nothing more to it. If you select Circle, you can set:
 
-.. image:: user-profile-settings-style.png
+.. image:: user-profile-settings-style-V75.png
 
 + **Hide user name in text**: To not show the user name in the block, select this option.
 + **Hide percentage in text**: To not show the percentage in the text, select this. Note that the percentage is still shown in the circle.

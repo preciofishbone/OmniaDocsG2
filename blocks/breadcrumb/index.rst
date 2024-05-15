@@ -11,7 +11,7 @@ Settings for the block
 ************************
 The following settings are available for the Breadcrumb block:
 
-.. image:: breadcrumb-settings-new3.png
+.. image:: breadcrumb-settings-v75.png
 
 + **Include tenant node**: Select this option to always display the tenant Node. The text for this is set in Omnia admin, in the Title field under Tenant-Settings-General.
 + **Include business profile node**: Select this option to always display the business profile node. The text for this is the name for the business profile as set in Omnia admin, Tenant-Business profiles.

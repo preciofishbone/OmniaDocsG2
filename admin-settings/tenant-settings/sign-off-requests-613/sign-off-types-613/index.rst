@@ -21,7 +21,7 @@ Do the following to create a new type:
 
 .. image:: sign-off-types-settings-new.png
 
-+ **Name**: Add a name in any, or all the tenant languages. Click the flag to change language.
++ **Name**: Add a name in any tenant language.
 + **Property set**: Select property set to be used for this type. You can find information on how property sets work here: :doc:`Property sets </admin-settings/tenant-settings/properties/property-sets/index>`.
 + **Templates**: Select one or more templates where this type should be used.
 + **Send Email in workflows**: If sign-off requests should be sent as Emails, keep this option selected. If deselected, no Emails will be sent at all regarding sign-off requests. 

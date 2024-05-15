@@ -13,19 +13,19 @@ Block Settings
 ****************
 The following settings are available:
 
-.. image:: team-news-rollup-settings-new4.png
+.. image:: team-news-rollup-settings-v75.png
 
 General
 ---------
-Under General, you can add a title for the block:
+Under General, you can add a title for the block in any tenant language:
 
-.. image:: team-news-rollup-settings-general.png
+.. image:: team-news-rollup-settings-general-v75.png
 
 Query
 -------
 The following settings are available here:
 
-.. image:: team-news-rollup-settings-query.png
+.. image:: team-news-rollup-settings-query-v75.png
 
 Use the top field to add a custom query. The custom query can be used to only show team news with certain properties. It can also be used to include or exclude certain sites. In the example below, it is used to exclude all news from communication sites:
 
@@ -41,11 +41,12 @@ Display
 ---------
 Here, the following can be set:
 
-.. image:: team-news-rollup-settings-display.png
+.. image:: team-news-rollup-settings-display-v75.png
 
 + **Row limit**: Decide the number of rows to show for each "page" of the list.
 + **View**: Select view for the list; "List" or "Grouped by site".
 + **Order by**: Select what to sort the lists by.
++ **No result text**: If you would like a specific text to be shown when there are no news to display, add the text here, in any tenant language.
 + **Show thumbnail image**: If a thumbnail image should be shown for the news post, select this option.
 + **Padding**: You can add some padding between the list and the block border if needed.
 

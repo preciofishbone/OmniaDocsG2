@@ -40,7 +40,6 @@ Below you will find the steps needed in order to create a basic setup of Event M
 
 Connect to Outlook
 -------------------
-
 Follow these steps to enable integration with Outlook.
 
 14. Go to Omnia Admin > Security > Secrets.
@@ -53,7 +52,7 @@ Follow these steps to enable integration with Outlook.
 
 .. image:: outlook-newgroup.png
 
-18. Add the service account as a member to the new Group. (Note! If the service account doesn't have an Outlook license, you have to add the account to the group using Azure AD).
+18. Add the service account as a member to the new Group. (Note! If the service account doesn't have an Outlook license, you have to add the account to the group using Entra ID).
 
 19. Go to Omnia Admin in context of the publishing app.
 20. Go to the current business profile and click on Event Management > Publishing Apps.

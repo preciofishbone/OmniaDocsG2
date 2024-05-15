@@ -1,9 +1,9 @@
 Authentication screens
 =============================================
 
-**This option is available in Omnia 7.5. Work on the page is ongoing.**
+Using this option you can create authentication screens to be used for Omnia users in this business profile. 
 
-Using this option you can create authentication screens to be used for Omnia users in this business profile, using these settings:
+These are the settings available:
 
 .. image:: authentications-screens-bp.png
 
@@ -17,11 +17,11 @@ Here you can handle settings for which authentication screen to use for various 
 
 .. image:: authentications-screens-settings.png
 
-For each option you can select any of the screens you have created here, or the default authentication screen for a business profile (which is also used if you don't set up any authentication screens).'
+For each option you can select any of the screens you have created here, or the default authentication screen for a business profile (which is also used if you don't set up any authentication screens). More information about the default authentication screen is found here: :doc:`Authentication </admin-settings/business-group-settings/user-management-bp/authentication-users-bp/index>`
 
 Create a new authentication screen
 **************************************
-To create a new screen, click the plus to the right of LAYOUTS and add a new for the new screen.
+To create a new screen, click the plus to the right of LAYOUTS and add a new name for the new screen.
 
 .. image:: authentications-screens-new-name.png
 

@@ -1,4 +1,4 @@
-Teamwork layouts in Omnia v7
+Teamwork layouts
 =====================================
 
 Using these options you can create a start page for a teamwork. First you see the list of the layouts created so far, for example:
@@ -16,7 +16,7 @@ Create a new teamwork layout
 To create a new layout, do the following:
 
 1. Click "Add Layout".
-2. Add a name for the layout in any or all the available tenant languages (click the flag to change language).
+2. Add a name for the layout in any available tenant language.
 3. Click CREATE.
 
 .. image:: teamwork-click-create-v7.png

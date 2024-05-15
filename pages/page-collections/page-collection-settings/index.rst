@@ -34,18 +34,19 @@ Use the settings this way:
 + **Show properties**: If available page properties should be shown for the editor when creating a page, select this option. The properties can then be edited in that stage. Page properties can always be edited after the page has been created.
 + **Auto publish**: This is a setting probably most relevant for communities. If this option is selected a new page is always published automatically. It's only applicable when a new page is created, not when it's updated.
 + **Page types**: Select which of the page types that should be available for an editor to select when creating a page in this page collection. It can be local page types or tenant page types. Tenant page Types are indicated by the text "(Tenant)". For more information about tenant page types, see this page: :doc:`Tenant page types </admin-settings/tenant-settings/webcontent-managament/page-types/index>`. 
-+ **Automatic page creation**: A copy of a page can be published automatically to another page collection when certain rules are met. In Omnia 7.0 and later, it can be possible to automatically publish to another tenant as well. These rules can be set up here. For more information, see this page: :doc:`Automatic page creation </pages/automatic-page-creation/index>`
-+ **Yammer integration**: When Yammer integration is setup, a post will be created in the selected Yammer community whenever a new page, matching the selected criteria, is created. See below for more information.
++ **Automatic page creation**: A copy of a page can be published automatically to another page collection or another tenant, when certain rules are met. For more information, see this page: :doc:`Automatic page creation </pages/automatic-page-creation/index>`
++ **Promotion channels**: You can configure promotion channels to send teasers to Microsoft Teams, Viva Engage, and via Email - for example to use in a publishing campaign. For details, see below.
++ **Viva Engage integration**: When Viva Engage (former Yammer) integration is setup, a post will be created in the selected Viva Engage community whenever a new page, matching the selected criteria, is created. See below for more information.
 + **Taxonomy connection**: When this option is activated, it's possible to connect the page collection to a taxonomy. Whenever a page is created in the page collection, a term will be created in the connected taxonomy and the page will automatically be tagged with the newly created term. This can, for example, be useful in different rollups. For more information, see below.
 + **Approval**: If approval should be needed for publication of pages (new pages and updates), enable this. If not enabled, editors can publish themselves. See more info about approval settings below.
 + **Activities**: For a community, activity tracking can be activated. See the heading *Settings for activity points* on this page, for more information: :doc:`Setting up a community </using-communities/settings/index>` 
 + **Notifications**: This setting defines when a notification that a page is new should be shown for users, for example in the Notification panel. Normally it's only when the page is created, not when it's updated. If this option is activated the page is considered to be new every time it's updated and a new version is published. Therefore it's probably more relevant for pages in communities than for publishing pages.
 + **Send as Email**: Select "Enable send page as Email" if pages in the page collection should be available to send through Email. One example of when this is needed is in a Newsletter inplementation. If this option is activated, authors can decide to send the new or edited page by email, or decide not to, each time the page is published.
-+ **Scheduling**: If scheduling should be available in this page collection, select this option and select the property to be used. The author can then set a scheduled start date and time, using the PROPERTIES tab for the page. Note that scheduled publishing never is mandatory, an author can always choose to oublish without using scheduling. 
++ **Scheduling**: If scheduling should be available in this page collection, select this option and select the property to be used. The author can then set a scheduled start date and time, using the PROPERTIES tab for the page. Note that scheduled publishing never is mandatory, an author can always choose to publish without using scheduling. 
 + **Break permission inheritance by default**: Select this option if inheritance should be broken when a new page is created within the page collection. This could, for example, be useful for communities. When this option is active, the colleague creating the page will be the page owner, meaning that he or she has full control over who can edit. The new option "Invite co-authors" can then be used to easily add authors for the page, see below.
 + **Allow invitation of co-authors**: If this option is selected, authors can invite co-authors. 
 + **Channel**: If you enable this, it will be possible for an author to select channels the page should be published to. Publication to a channel may require approval from the channel administrator. See more information below.
-+ **Open AI**: Available in Omnia 7.1 and later. When you activate this option you can set properties for what the Open AI should be able to work with, see below. Also note that two tenant features must be activated for this option to be available and settings for Open AI has to be made in Omnia Admin.
++ **Open AI**: When you activate this option you can set properties for what the Open AI should be able to work with, see below. Also note that two tenant features must be activated for this option to be available and settings for Open AI has to be made in Omnia Admin.
 
 Set default values for a page type
 --------------------------------------
@@ -67,24 +68,51 @@ The default setting is that the settings are inherited from the tenant setting.
 
 Don't forget to save your changes.
 
-Setup Yammer integration for the page collection
---------------------------------------------------
-The Yammer integration you can set up here is a one way integration; from Omnia to Yammer. A prerequisite is that the Feature "Yammer integration" is activated in Omnia admin (Tenant level).
+Setup a promotion channel
+-----------------------------
+Do the following to set up a promotion channel:
 
-To set up Yammer integration, do the following:
+1. Click the plus.
+2. Use the following settings:
+
+.. image:: publishing-channels.png
+
++ **Name**: Add a name for the promotion channel here.
++ **Posting rule**: You can choose that a teaser for a new page in this page collection should always be published in this promotion channel, or you can set up rules for publishing. More information about this below.
++ **Type**: Can be Microsoft Teams, Viva Engage or Email.
++ **Group**: Select which group the promotion channel is tied to. If you selected Microsoft Teams, it's a list of Teams groups and so on.
++ **Channel**: For a Microsoft Teams group, several Teams channels can exist. Select channel here. (Not available for Viva Engage or Email).
++ **Property mapping**: The properties used for the teaser are listed here. Map properties you use for these purposes.
+
+3. To set a posting rule, first select "Only post if".
+4. Then select property, make other choices if necessary, and click ADD.
+
+.. image:: promotion-property-add.png
+
+In this simple example, a teaser should only be published to this promotion channel if the news type is Product News.
+
+You can add several posting rules if needed, to further limit what will be published.
+
+(Don't forget to save when you're done).
+
+Setup Viva Engage integration for the page collection
+-------------------------------------------------------
+The Viva Engage (former Yammer) integration you can set up here is a one way integration; from Omnia to Viva Engage. A prerequisite is that the Feature "Viva Engage integration" is activated in Omnia admin (Tenant level).
+
+To set up Viva Engage integration, do the following:
 
 1. Select "Edit" to edit the settings.
-2. Click the cogwheel for "Yammer integration".
+2. Click the cogwheel for "Viva Engage integration".
 
-.. image:: yammer-integration-cogwheel.png
+.. image:: viva-integration-cogwheel.png
 
 3. Use these settings:
 
-.. image:: yammer-integration-settings.png
+.. image:: viva-integration-settings.png
 
-+ **Yammer group**: Select a Yammer group to intergate this page collection with.
++ **Viva Engage group**: Select a Viva Engage group to intergrate this page collection with.
 + **Initial properties**: Select the properties used on pages for Title, Summary and Content.
-+ **Page creation rule**: Select if a Yammer post should always be created when a page is added, or only according to certain rules.
++ **Page creation rule**: Select if a Viva Engage post should always be created when a page is added, or only according to certain rules.
 
 4. Save when you're done.
 
@@ -94,11 +122,11 @@ To set up rules, do the following:
 2. Click ADD to add a rule.
 3. Select a property.
 
-.. image:: yammer-integration-property.png
+.. image:: viva-integration-property.png
 
 4. Add settings for that property as needed.
 
-By using settings in the Page likes and comments block, you can set up a two way Yammer integration. Note that you must set up the integration here first.
+By using settings in the Page likes and comments block, you can set up a two way Viva Engage integration. Note that you must set up the integration here first.
 
 For more information, see: :doc:`The Page likes and comments block </blocks/page-likes-and-comments/index>`
 
@@ -126,13 +154,13 @@ When you have done that every new page in the page collection creates a term in 
 
 Settings for approval
 ----------------------
-When approval is activated, the following settings are available (image from Omnia 7.5):
+When approval is activated, the following settings are available:
 
 .. image:: page-collection-approval-settings-v75.png
 
 + **Apply to authors only**: If you select this, editors never need approval, they can always publish directly. When an author publishes, approval is needed.
 + **Apply to new pages only**: When this option is selected, only creating new pages needs approval, not when updating an existing page.
-+ **Multi step approval**: Available in Omnia 7.1 and later. Normally, when this option is not used, only one colleague can approve a page. When this option is used, a number of steps for approval can be set up, meaning several coleagues can need to approve a page. For more information, see below.
++ **Multi step approval**: Normally, when this option is not used, only one colleague can approve a page. When this option is used, a number of steps for approval can be set up, meaning several coleagues can need to approve a page. For more information, see below.
 
 When approval is activated, you can select who can approve the creation of a page this way (also used in the multi step approval settings, see below):
 
@@ -179,7 +207,7 @@ When Multi step approval is selected, you set it up this way:
 
 .. image:: multi-step-1-new.png
 
-2. Add a description of the step in one or more languages (click the flag to change language). Default tenant language is mandatory.
+2. Add a description of the step in any tenant language.
 3. Select who should be able for approval in this step. See above for information about the options.
 4. Set the following:
 
@@ -206,7 +234,7 @@ Don't forget to to publish to save your settings.
 
 Channel settings
 -------------------
-In Omnia 7.1, there's two options available for channels. When you enable publishing to channels you can also choose that at least one publishing channel is required:
+When you enable publishing to channels you can also choose that at least one publishing channel is required:
 
 .. image:: channel-settings.png
 

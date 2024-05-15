@@ -9,17 +9,17 @@ It's also possible to aggregated messages from several sources and to post a mes
 
 The following settings are available:
 
-.. image:: posts-block-all.png
+.. image:: posts-block-all-75.png
 
 General
 **********
 These settings are available under General:
 
-.. image:: posts-block-general-612.png
+.. image:: posts-block-general-75.png
 
 + **Title**: Add a block title if needed.
 + **Current app**: If the scope should be this app only, select this option.
-+ **Custom acope**: To set a different scope, select this option. See below for more information.
++ **Custom scope**: To set a different scope, select this option. See below for more information.
 + **Enable Mention**: If mentions should be possible in the posts, this option must be selected. Default=off.
 + **Allow social reactions**: Can be available if settings allow it. If it should be possible to use social reactions in this block, select this option. The same social reactions functionality as in Teams can then be used. The corresponding tenant feature must be activated for this option to be available.
 + **Allow likes**: If it should be able to like a comment, select this option. If the tenant feature "Social reactions" is activated, the "Allow social reactions" option replaces this option. Then social reactions is used instead of likes.
@@ -33,7 +33,7 @@ For Custom scope you can select Communities, Publishing apps or Teamwork apps. W
 
 These two options are also available:
 
-.. image:: posts-block-general-custom.png
+.. image:: posts-block-general-custom-75.png
 
 + **Filter by followed**: If only messages from the communities or apps the logged in user follows should be shown, select this option.
 + **Enable organization-wide posts**: In this context "organization-wide" means the whole business profile. Decide if it should be possible to post a message to another communitiy, publishing app or teamwork app in the business profile. You must see too that there is a receiving block somewhere for this option to actually do anything.
@@ -42,19 +42,21 @@ Style
 ********
 This is available under Style:
 
-.. image:: posts-block-style.png
+.. image:: posts-block-style-75.png
 
 If you want to use the general block style settings for the business profile, you don't have to do anything, besides setting some padding if nedded.
 
 If you would like to use custom style settings for this block, this is available:
 
-.. image:: posts-block-custom.png
+.. image:: posts-block-custom-75.png
 
 By clicking on the icon you can select theme for the block.
 
 Under "Advanced settings" you can find the following:
 
-.. image:: posts-block-advanced.png
+.. image:: posts-block-advanced-75.png
+
+Should be self-explanatory. Just try them and see a preview in the block.
 
 Layout and Write
 *********************
@@ -62,9 +64,9 @@ The WRITE Tab is not used here. The LAYOUT tab contains general settings, see: :
 
 Tip - adding images to a post
 ******************************
-Here's a tip that doesn't need any settings:
+Here's a tip that doesn't need any settings in this block:
 
-If settings allow it, it can possible to add images and animated gifs to a post, using these icons:
+If Omnia admin settings allow it, it can be possible to add images and animated gifs to a post, using these icons:
 
 .. image:: posts-images.png
 

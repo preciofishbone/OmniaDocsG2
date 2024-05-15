@@ -23,7 +23,7 @@ The following settings are available:
 + **Show link to Details**: If it should be possible to go to the person's profile from the User Profile Card, select this option. In Omnia online the person's Delve page is linked to when this option is selected (see the Go to Delve link in images aboove). In Omnia onPrem, the link goes to the person's My Profile page.
 + **Show Strengthen Profile**: If the Strengthen Profile button should be shown on the card, select this option. The button is used to access the Strengthen Profile dialog.
 + **Show my subscriptions**: If the My Subscription button should be shown on the card, select this option. The button is used to access the My Subscriptions dialog.
-+ **Exclude filters**: If some users registered in your system should NOT be displayed in the organization tree in the Organization Tree block, add filters for them using Azure AD properties and value. An example is if your organization is in education, probably just the staff should have access to the intranet, not the students.
++ **Exclude filters**: If some users registered in your system should NOT be displayed in the organization tree in the Organization Tree block, add filters for them using Entra ID properties and value. An example is if your organization is in education, probably just the staff should have access to the intranet, not the students.
 + **Show blocked sign-in user**: Select this option to list logged in users that are excluded by the filter(s) you have added above. 
 
 For more information about Strengthen Profile, see this page: :doc:`Strengthen Profile </user-options/strengthen-profile/index>`
@@ -38,15 +38,15 @@ To add exclude filters, do the following:
 
 .. image:: exclude-filters-1.png
 
-2. Select Azure AD property.
+2. Select Entra ID property.
 
-.. image:: exclude-filters-2.png
+.. image:: exclude-filters-2-76.png
 
 Note that if you can't find the property you are looking for in the last, it can still be available. Type the name of the property in the field to search for it.
 
 3. Add a value for the property.
 
-.. image:: exclude-filters-3.png
+.. image:: exclude-filters-3-76.png
 
 4. Click SAVE.
 5. Continue the same way until all exclude filters has been added.

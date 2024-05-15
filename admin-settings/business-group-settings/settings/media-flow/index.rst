@@ -1,11 +1,11 @@
-Media flow
+Mediaflow settings
 =============================================
 
-This option is available in Omnia 7.1 and later.
+To be able to use Mediaflow, there's a number of settings needed. See the heading "Mediaflow" on this page: :doc:`Media picker </general-assets/media-picker/index>`
 
-The following settings are available here:
+The settings here, are settings you MAY need/want to edit:
 
-.. image:: media-flow-settings.png
+.. image:: mediaflow-setting.png
 
-The messages about GDPR should be shelf explanatory. Besides that you can select a default language and limit the settings to specific file formats.
-
++ **Default language**: Here you can set the language used when browsing or searching for media files in Mediaflow, within the Media picker. It doesn't affect anything else. Use the ISO codes. If you, for example, would like Mediaflow to use Swedish, type sv-se here.
++ **Limit to formats**: If just certain image file types (jpg, png etc) should be available in Mediaflow, type the file types here, separated by a comma.

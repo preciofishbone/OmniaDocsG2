@@ -1,7 +1,7 @@
-Process Templates in Omnia v7
+Process Templates
 =============================================
 
-Use these options to create teamplates for processes in Omnia 7.0 and later. **Note!** All process steps can have a different layout, if needed.
+Use these options to create teamplates for processes. **Note!** All process steps can have a different layout, if needed.
 
 If any templates has been created, they are listed here, for example:
 
@@ -42,14 +42,14 @@ Here's an example:
 Use these options when creating a new template:
 
 + **Title**: You can change the title in this field, in any tenant language.
-+ **Default canvas settings**: If needed, set the default canvas width and height in pixels. Author can change this setting if needed.
++ **Default canvas settings**: If needed, set the default canvas width and height in pixels. Authors can change this setting if needed.
 + **ADD HEADING**: You can add headings to group the shapes, if needed, see below.
-+ **ADD SHAPE**: Too add shape that should be avaiable for authors to use, click here. For more information, see below.
++ **ADD SHAPE**: Too add a shape that should be avaiable for authors to use, click here. For more information, see below.
 
 Add Heading
 ---------------
 1. To add a heading, click ADD HEADING.
-2. Add a heading in any of the available languages. Default language is mandatory. (Click the flag to change language).
+2. Add a heading in any of the available languages. Default language is mandatory.
 
 .. image:: process-templates-heading-v7.png
 
@@ -60,11 +60,12 @@ Add Shape
 1. To add a shape, click ADD SHAPE.
 2. Use the top list to select the shape to add.
 
-.. image:: process-templates-shapes-select-v7.png
+.. image:: process-templates-shapes-select-v75.png
 
-Then use the following settings:
+Then use the following settings (not all are shown in the image above):
 
-+ **Title**: The suggested title for the shape is shown. You can edit the title here, if needed, for the purpose of this process template. You can add a title in any or all available languages. Default language for the tenant os mandatory. (Click the flag to change language).
++ **Title**: The suggested title for the shape is shown. You can edit the title here, if needed, for the purpose of this process template. You can add a title in any available language. Default language for the tenant os mandatory.
++ **(Description field)**: You can add a rich text description here to add details about the shape, for example intended use.
 + **Width/Height**: Default width and height is 100 pixels. You can can edit the width and height is needed.
 + **Text Position**: Decide where to place to text (if any) for the shape: "On Shape", "Above Shape" or "Below Shape".
 + **Text Alignment"**: Decide how to align the text (if any): "Left", "Center" or "Right".

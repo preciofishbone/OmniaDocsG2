@@ -1,11 +1,11 @@
 Requests
 =============================================
 
-All created requests are listed here. You can filter on "Requested by" and "Progress status" (In progress or Completed).
+All created requests are listed here. You can filter on "Requested by" and "Progress status" (Not started, In progress or Completed).
 
 Here's an example of a list:
 
-.. image:: sign-off-requests-requests-v7.png
+.. image:: sign-off-requests-requests-v76.png
 
 The "Status" column indicates if the request is open or closed. the "Progress status" column to the right indicates the number of answers; white for none, yellow for some/ongoing and green for all that the request was sent to.
 
@@ -29,17 +29,19 @@ To create a new request, do the following:
 
 When you have selected type, some or all of these settings can be available: 
 
-+ **Name**: Add a name for the request here, in any of the tenant languages (click the flag to chance language).
-+ **Description**: You can add a description of the request, in any of the tenant languages (click the flag to chance language).
++ **Name**: Add a name for the request here, in any of the tenant languages.
++ **Description**: You can add a description of the request, in any of the tenant languages.
 + **Properties**: Available properties (if any) depends on the type used. The properties are useful for tagging the request. This can then be used as filters for what is to be displayed in a certain Sign-off requests rollup block. 
 + **To be signed off**: Here you add the pages that should be signed off, using the page picker. If the type was based on a template, the list of pages will most likely be pre populated with a number of pages. You can add or remove pages as needed. See below for more details.
 + **Sign-off type**: Select how the sign-off request will be handled. If the type is based on a template, Sign-off type, and the following two fields can be pre populated with siggestions. If you select "Individual", all users added to "Request sent to" will receive a personal request. Everyone has to sign-off individually. If you select "Group", it works as one group request, meaning it's enough that any one of the recipients signs-off the request. All other recipients can see that the request was sent to them and can see if someone in the group has signed off, they can see if the task is done or not.
 + **Requested by**: Add one or more users, or groups, that will be shown as the "sender" of this request. Will be shown to the receivers. Your name will most lilkely be pre populated, but it can be removed. This field must always contain at least one person or group. To add several users or a group here can be useful, then all users, or the whole group, will be able to follow up on the request. This field is mandatory.
 + **Request sent to**: Select one or more users or groups to send to. Single users, security groups and Microsoft 365 groups can be added here (In Omnia on-prem, Microsoft 365 groups can’t be used). This field is mandatory. 
++ **Schedule send-out**: Available in Omnia 7.6. Select to set date, hour and minutes for when to send. You can also select what standard time to calculate on.
 
 3. Add or remove pages as needed.
 4. Add a message for each page, if needed (for more information, see below).
-5. Click SEND REQUEST to save the Sign-off request and send it. If you don't, nothing is saved.
+5. Schedule the send-out if needed. Available in Omnia 7.6 and later.
+6. Click SEND REQUEST to save the Sign-off request and send it. If you don't, nothing is saved.
 
 To add or remove pages
 ----------------------------
@@ -49,7 +51,7 @@ If you use a template, this list can be pre populated, for example:
 
 .. image:: sign-off-requests-settings-2-613-new.png
 
-By clicking the pen, you can add a message for each page, if needed (not mandatory), in any or all tenant languages. As always, click the flag to change language. Here's an example:
+By clicking the pen, you can add a message for each page, if needed (not mandatory), in any tenant language. Here's an example:
 
 .. image:: sign-off-requests-settings-2-613-message.png
 
@@ -85,7 +87,7 @@ Something like the following is shown:
 
 .. image:: sign-off-requests-checking-1-613-new.png
 
-Here you can see, for example, the status and the number of recipients that has completed the request. You can check the message (if any) for a page by clicking the pen (the link in Omnia 7.1).
+Here you can see, for example, the status and the number of recipients that has completed the request. You can check the message (if any) for a page by clicking the pen.
 
 For more information, you can click "Download details" to download an Excel file.
 

@@ -70,7 +70,7 @@ Partner Information is optional, but here Precio Fishbone's Microsoft Partner ID
 
 .. image:: domains-new2.jpg
 
-15. To find Omnia's Application ID in Azure AD, sign in to https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/Overview
+15. To find Omnia's Application ID in Azure AD/Entra ID, sign in to https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/Overview
 16. Click "Enterprise applications".
 17. Search for Omnia and find the right app that points to https://auth.omniacloud.net.
 
@@ -80,7 +80,7 @@ Partner Information is optional, but here Precio Fishbone's Microsoft Partner ID
 
 .. image:: application-id-new2.jpg
 
-19. Go back to Domains and permissions and insert the copied Azure AD App ID and Single-Sign-On URL, format: api://<tenant>.omniacloud.net/<AAD App ID>.
+19. Go back to Domains and permissions and insert the copied Azure AD/Entra ID App ID and Single-Sign-On URL, format: api://<tenant>.omniacloud.net/<AAD App ID>.
 
 .. image:: app-id-new2.jpg
 

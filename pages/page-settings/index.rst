@@ -29,7 +29,7 @@ Use these settings to Edit permissions in the publishing app.
 + **Contributors**: This permissions settings is needed if colleagues should be able to add comments to pages.
 + **Resource readers**: Here you set the general read permission for the publishing app, needed for users to be able to read pages.
 
-Single users, security groups and Microsoft 365 groups can be added here (In Omnia on-prem, Microsoft 365 groups can't be used).
+For more information on the people picker, see: :doc:`Using the people picker </general-assets/using-people-picker/index>`
 
 Note that this permissions setting is valid for the settings here, only. To be able to edit publishing app settings in Omnia admin, you need to be either a tenant administrator or administrator for the business profile.
 
@@ -67,7 +67,7 @@ Do the following to create a new variation (you have to scroll down to the end o
 
 .. image:: variations-612.png
 
-+ **Title**: Add a title for the variation to be shown in the lists, for example the list where users can select variation. If needed, the title can be added in any or all of the languages set up in the tenant. Click the flag to change language.
++ **Title**: Add a title for the variation to be shown in the lists, for example the list where users can select variation. If needed, the title can be added in any of the languages set up in the tenant.
 + **Icon type**: If you want show an icon for the variation, select icon type here, for example "Flags".
 + **Icon**: Shown when you have selected icon type. Select the icon here.
 + **URL Segment**: Add a suitable URL Segment in this field.
@@ -166,7 +166,7 @@ Here's how to add a menu option:
 .. image:: editor-navigation-settings.png
 
 + **Layout**: Select layout here.
-+ **Title**: Add a title in any or several of the tenant languages. Click the flag to change language.
++ **Title**: Add a title in any tenant language. 
 + **Icon type/Icon**: Add an icon if you wish by first selecting icon type.
 
 3. Click OK when you're done.

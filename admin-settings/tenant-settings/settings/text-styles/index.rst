@@ -21,7 +21,7 @@ Do the following:
 
 .. image:: text-styles-settings-new.png
 
-+ **Title**: Add a title (name) for the style, in any or all available languages (click the flag to change language).
++ **Title**: Add a title (name) for the style, in any available language.
 + **Inherit**: To inherit style settings from the web browser (which can actually differ depending on the browser the user has), select this option. To set your own settings for the style, deselect the option and a settings field becomes available.
 
 Here's an example with settings open for Font size and Font color:

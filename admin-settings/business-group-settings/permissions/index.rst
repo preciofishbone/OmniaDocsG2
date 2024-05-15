@@ -6,25 +6,27 @@ Here you can set the following:
 
 Users and groups
 ******************
+The following permissions can be set here:
+
+.. image:: permissions-businessusers-groups-v75.png
+
 Here you can add or remove business profile administrators, and set separate administrators for various parts of the business profile, if needed. You must be business profile administrator or tenant administrator to edit the permissions. 
 
 A business profile administrator automatically has permissions for Workspace, Shared links, Announcements and Search, and therefore does not need to be added there. 
-
-.. image:: permissions-business-profile-612.png
 
 Note that every business profile has it's own permissions list. Besides that, a tenant administrator can always edit settings for all business profiles.
 
 To add an administrator in any of the permissions lists, add the name the same way as in other name fields. To delete an administrator here, just click the x. 
 
-Single users, security groups and Microsoft 365 groups can be added here (In Omnia on-prem, Microsoft 365 groups can't be used). 
+For more information on the people picker, see: :doc:`Using the people picker </general-assets/using-people-picker/index>`
 
-Note that external users that has been invited in the Azure AD can be added here as well. Users invited this way can log in with their own Microsoft 365 account.
+Business profile
+---------------------
+Here, business profile administrators and business profiles readers can be handled:
 
-**Note!** A user or a group must be permissions enabled do show up in the list.
+.. image:: permissons-pb-new.png
 
-Administrators are added or removed the same way for Business profile, Shared links, Announcements and Search (just one field available). Here's the settings for Business profile as an example:
-
-.. image:: permissons-pb.png
+To be able to access a business profile and use the various user options, a user must be added in the Business profile viewers list, either as a person or as a member of a group. Note that if a workspace is set up, users also need to be added to the Workspace reader list, to be able to access the workspace start page and the navigation.
 
 Options for Workspace
 -----------------------------
@@ -39,9 +41,17 @@ The permission settings for Workspace are a bit different, but users and groups 
 
 Not that all other permissions concerning the workspace is handled by the general business profile permissions settings.
 
+Option for Analytics
+----------------------
+All users that should have permission to see analytics data for the business profile must be added as "Analytics readers". **Note!** That's true for tenant administrators and business profile administrators as well. No administrator has automtaic access to analytics.
+
+.. image:: permissions-analytics.png
+
+Note that groups can't be added here, only users.
+
 Secrets
 ********
-When an extension has been installed for the business profile, get the security key/token and enter it here. In this example tokens for Facebook workplace and Yammer can be added:
+When an extension has been installed for the business profile, get the security key/token and enter it here. In this example tokens for Facebook workplace, Viva Engage (former Yammer) and Mediaflow can be added:
 
-.. image:: secrets-business-profile-612.png
+.. image:: secrets-business-profile-75.png
 

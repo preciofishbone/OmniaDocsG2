@@ -1,7 +1,7 @@
-Teamwork templates in Omnia v7
+Teamwork templates
 =======================================
 
-Here you can work with templates for teamwork; Microsoft 365 group, SharePoint teamsite, Microsoft Teams, private Yammer community and Facbook workplace group. The first list displays all templates that has been created so far, for example:
+Here you can work with templates for teamwork; Microsoft 365 group, SharePoint teamsite, Microsoft Teams, private Viva Engage (former Yammer) community and Facbook workplace group. The first list displays all templates that has been created so far, for example:
 
 .. image:: teamwork-templates-v7.png
 
@@ -11,7 +11,7 @@ The following actions are available in the dot menu for a template:
 
 To edit a template, you can also just click the name. When you edit a template, all options that are described below are available.
 
-You create templates for publishing apps, community sites and Teamwork the same way, see this page: :doc:`Creating app templates in Omnia v7 </general-assets/creating-app-templates/index>`
+You create templates for publishing apps, community sites and Teamwork the same way, see this page: :doc:`Creating app templates </general-assets/creating-app-templates/index>`
 
 The settings for General, Properties and Custom steps are handled as described on the page linked above, even if available property sets and available features can differ. Available settings under Setup differ depending on type of teamwork. The differences is descibed here. A few additional settings for Policies are also described here.
 
@@ -99,16 +99,16 @@ For **Apps** the following settings are available:
 
 9. Save the template.
 
-Private Yammer community
---------------------------
-The following setting is available for a Private Yammer Community template for Setup:
+Private Viva Engage community
+--------------------------------
+The following setting is available for a Viva Engage community (former Private Yammer community) template for Setup:
 
 .. image:: teamwork-yammer-community-v7.png
 
-**Note!** Yammer Community is not available in Omnia on-prem.
+**Note!** Viva Engage Community is not available in Omnia on-prem.
 
-+ **Client id**: Type the Client id for the Yammer Network here.
-+ **Welcome Page**: Select the Yammer Group or SharePoint for welcome page. 
++ **Client id**: Type the Client id for the Viva Engage Network here.
++ **Welcome Page**: Select the Viva Engage Group or SharePoint for welcome page. 
 
 Facebook Workplace Group
 -------------------------------
@@ -126,6 +126,6 @@ For Policies, the following options are available especially for teamwork templa
 
 .. image:: teamwork-templates-policies-teamwork-v7.png
 
-+ **Naming policy**: Select a naming policy, if any is available. They are setup using the Naming policy tab, see: :doc:`Naming Policies (Teamwork) in Omnia v7 </admin-settings/business-group-settings/team-collaboration/teamwork-v7/naming-policies/index>`
++ **Naming policy**: Select a naming policy, if any is available. They are setup using the Naming policy tab, see: :doc:`Naming Policies (Teamwork) </admin-settings/business-group-settings/team-collaboration/teamwork-v7/naming-policies/index>`
 + **Sensitivity label**: A prerequisite for "Let user decide" to make any sense is that Sensitivity Labels are created in Microsoft 365.
 

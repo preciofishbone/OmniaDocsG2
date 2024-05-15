@@ -1,9 +1,9 @@
 Settings
 ============
 
-Here the following settings can be edited (Image from Omnia 7.1):
+Here the following settings can be edited:
 
-.. image:: business-profile-settings-all-v7.png
+.. image:: business-profile-settings-all-v75.png
 
 For detailed information, select settings here:
 
@@ -22,6 +22,7 @@ For detailed information, select settings here:
    event-management/index
    info-screen/index
    media-flow/index
+   analytics/index
    system-layouts-bg/index
    dall-e/index
 

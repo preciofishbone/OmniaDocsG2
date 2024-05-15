@@ -1,44 +1,37 @@
 Teamwork rollup
 ======================
 
-Use this block to show team sites and other teamworks the user has access to. Here's an example when the block is used to rollup projects (projects are teamworks) in Omnia v7:
+Use this block to show team sites and other teamworks the user has access to. Here's an example when the block is used to rollup projects (projects are teamworks):
 
 .. image:: sitedirectory-v7.png
 
 Note the metadata for project status and project sponsor.
 
-Icons indicate if a Teams group, Yammer or Facebook workplace group is connected to the teamsite. Users can click the icon to go to the group. In the image above a Teams group is connected to each team site.
-
-Here's an older example, with all three types of icons:
-
-.. image:: sitedirectory-iconexamples.png
+Icons indicate if a Teams group, Viva Engage (former Yammer) or Facebook workplace group is connected to the teamsite. Users can click the icon to go to the group. In the image above a Teams group is connected to each team site.
 
 Settings
 *********
 The following settings are available for the block:
 
-.. image:: team-collaboration-block-settings-new4.png
+.. image:: team-collaboration-block-settings-v75.png
 
 General
 ---------
-You can add a title for the block here.
+You can add a title for the block here, in any tenant language.
 
 .. image:: teamwork-general-v7.png
 
-If variations exists, only one title can be set. In that case, titles in other languages are set in the variations. If no variation exists for the page, you can set the title in the languages active in the tenant (click the flag to change language).
-
 Query
 --------
-Here you can set the following (image from Omnia v7): 
+Here you can set the following: 
 
 .. image:: teamwork-query-new2-7.png
 
 + **Scope**: Select scope, for example All, Followed or Member of. (See more information about this below.)
-+ **Permission**: Available in Omnia 7.0 and later. Used for security trimming. For more information, see: :doc:`Security trimming in app rollups </general-assets/security-trimming-apps/index>`
++ **Permission**: Used for security trimming. For more information, see: :doc:`Security trimming in app rollups </general-assets/security-trimming-apps/index>`
 + **Only current business profile**: If only teamworks from the current business profile should be listed, select this option.
 + **Business profile**: Another option is to select a specific business profile. If you do not select any business profile here, all teamworks in the tenant can be listed, that is not private.
 + **Site template**: Here you can set one or more types of teamwork to be shown in the list. 
-+ **Run query on load**: Decide if the query should be run on load, so the list is filled with teamworks, or not. If a list is very long it can be a good idea to add a search box, and to deselect thbs option. You add a search box under Filter UI, see below. (In Omnia 7.0 and later, this option is moved to the Filter section).
 
 Regarding Scope, here's more detailed information:
 
@@ -60,29 +53,38 @@ Select a view (List view or Navigation view) and use the following settings (ima
 (All options are not shown in the image but are described below.)
 
 + **Add column**: If you select List View, you must add at least one Column for the display to work. (Navigation view is fixed regarding the columns to display).
-+ **Fixed header**: Available in Omnia v7. Select to always show the header when scrolling.
++ **Fixed header**: Select to always show the header when scrolling.
 + **Paging**: Select how paging should work; "No paging", "Classic" or "Scroll".
 + **Icon mode**: For Icon mode you can select "Letter avatar" or "Template icon". In the example images at the top, Letter avatar is selected.
 + **Item limit**: Set the number of sites to be shown on each "page" of the list.
 + **Sort by**: Select what to sort the list on, and then select Ascending or Descending sorting.
-+ **No result text**: You can add a text that is shown if the query should result in nothing to display. Add in any of the avaiable tenant languages (click the flag to change language).
++ **No result text**: You can add a text that is shown if the query should result in nothing to display. Add in any avaiable tenant language.
 + **Show follow status**: Follow status is indicated by a star, filled if the teamwork is followed, hollow if not, see below for an example.
 + **Open in new window**: For some (maybe all) of of the teamworks, it can be a good idea to open the link in a new window.
 + **Padding**: You can add some padding between the block's borders and the list.
 
-Here's an example of a Navigation view with follow status shown (image from Omnia v7):
+Here's an example of a Navigation view with follow status shown:
 
 .. image:: follow-status-v7.png
 
-Filter UI
+Filter
 ------------------
-Here you can add filters so users can filter (= choose to just see some) of a long list. (Image from Omnia v7).
+Filter options are the same in most blocks. For more information, see: :doc:`Filter options for blocks </blocks/general-block-settings/filter-options-block/index>`
 
-.. image:: add-filter-v7.png
+Metric
+------------
+Using these settings you can show a metric in the block displaying the number of teamwork that is valid for the query settings. The metric can then be clicked to display the teamwork rollup you have set up.
 
-For more information on how to add filters, or a search box, see this page: :doc:`Filter UI </blocks/general-block-settings/filters/index>`
+This can for example be used to create a rather compact page or section with different metrics in different blocks. The user can then click the desired metric to see the full list.
 
-In Omnia 7.0 and later, new options for filtering can be available, see: :doc:`Filter options for blocks in Omnia v7 </blocks/general-block-settings/filter-options-block/index>`
+.. image:: page-rollup-metric-teamwork-v75.png
+
++ **Show metric**: Select this to decide to show the metric (and the settings below becomes available).
++ **Title**: Add a title for the metric if needed.
++ **Description**: A description for the metric can also be added.
++ **Icon type/Icon**: Select an icon type and an icon, if you want to.
++ **Color**: This sets the color for the divider above the metric. 
++ **Dialog width/height**: Set width and height for the dialog displaying the list of pages.
 
 Layout and Write
 *********************

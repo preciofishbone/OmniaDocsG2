@@ -11,13 +11,13 @@ Settings
 **********
 The following settings are avilable:
 
-.. image:: search-block-settings-3new67.png
+.. image:: search-block-settings-v75-frame2.png
 
 General
 ---------
 The General settings are:
 
-.. image:: search-block-settings-general-new.png
+.. image:: search-block-settings-general-v75.png
 
 + **Title**: You can add a title for the block here. If variations exists, only one title can be set. In that case, titles in other languages are set in the variations. If no variation exists for the page, you can set the title in any or all languages active in the tenant. 
 + **Auto focus search box**: If this option is active, the search box is automatically in focus when a user opens the page, meaning the user can start searching directly without having to click in the search box first.
@@ -33,62 +33,21 @@ Search Categories
 -------------------
 The following is available here:
 
-.. image:: search-block-settings-categories.png 
+.. image:: search-block-settings-categories-v75.png 
 
 You can inherit the search settings from the business profile and if that is what you want to do, you don't need to change anything, it's default.
 
-But if you would like to set specific category settings for this block, deselect and the following will be available:
+But if you would like to set specific category settings for this block, deselect and the same settings as are available in Omnia admin, for Quick search and Advanced search, will be available (Quick search as an example):
 
-.. image:: search-block-settings-categories-settings-new2.png 
+.. image:: search-block-settings-categories-settings-v75.png
 
-Quick search
-------------------
-The folllwing settings are available for Quick search (se image above):
-
-+ **Enable promoted search results**: 
-+ **Search categories**: Use it to add search categories for quick search. Open the list and select. 
-+ **Image/Icon sixes**: You can set image/icon size to Small, Medium or Large.
-+ **Image ratio**: Use this to set the image for the rollup to Landscape, Square or Wide.
-
-.. image:: search-block-settings-categories-quick-select.png
-
-When you have selected a number of categories, you can edit the order, and set a row limit for each category:
-
-.. image:: search-block-settings-categories-quick-select-example-new.png 
-
-Under "View more results" you can set where the "View more" link is placed; "At bottom", "Per category" or "Custom Target". 
-
-.. image:: search-block-settings-categories-quick-view-more-new.png 
-
-Advanced search
--------------------
-Here you can set the following:
-
-.. image:: search-block-advanced-settings.png
-
-+ **Hide categories**: By defaul, catogeories (tabs) are shown. If you don't want tha, select this option.
-+ **Enable promoted search results**: If this option is selected, promoted search Results can be shown, if any are setup and are applicable.
-+ **Enable search feedback**: If it should be possible to use to send feedback about the search result, select this option.
-+ **Number of result columns**: Set the number of columns for the search result here.
-+ **Refiner position**: Here you can set refiner position to Left or Right.
-+ **Refiners collapsed by default**: If just the refiner groups should be shown to begin with, select this option.
-+ **Search categories**: Select search categories (tabs) that should be shown.
-
-When you have selected a number of categories, you can click the pen for more settings, for that category.
-
-.. image:: search-block-settings-categories-advanced-new.png 
-
-These settings are available for each category:
-
-.. image:: search-block-settings-categories-advanced-settings-new.png 
-
-Also note that search categories (tabs) that do not generate any result are hidden in Advanced Search.
+For details, see the link "Business profile Settings - Search" above.
 
 Style
 --------
 For Style for the search box, the following settings are available:
 
-.. image:: search-block-settings-style.png
+.. image:: search-block-settings-style-v75.png
 
 You can try out different style settings and see the result in the block on the fly.
 

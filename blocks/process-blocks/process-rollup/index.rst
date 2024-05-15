@@ -27,7 +27,7 @@ Note that you have select List view för the options to show up, even if that's 
 
 + **Add column**: Add the columns for the information to be shown on the list. At least one column must be added or nothing will be shown.
 + **Adjust columns**: (Displayed when you are adding columns.) Use this option for the order in which the selected columns are shown, left to right.
-+ **Fixed header**: Select this option for the header to always be shwon when scrolling. This option is available in Omnia 7.0 and later.
++ **Fixed header**: Select this option for the header to always be shwon when scrolling. 
 + **Title**: If variatons exists for the page, you can only set the title in the default language. Titles in other languages are set in the variations. If no variations exists, it looks like in the image above, and you can add a title in any or all available languages. 
 + **View page URL**: If you have created a page that will be used to display any process when a user clicks on it, add the Url to the page here. Note that you don't have to create a page for this purpose. If you don't, a system page will be used.
 + **Open in a new window**: Select this option if the clicked process should be opened in a new window.
@@ -55,15 +55,15 @@ Here's an example:
 
 .. image:: process-rollup-block-settings-query-example.png
 
+Custom date filtering
+------------------------
+If the scope is filtered on some kind of time property, custom date filtering can be set.
+
+See this page for more information about custom date filtering: :doc:`Custom date filtering </general-assets/custom-date-filtering/index>` 
+
 Filter
 ------
-If users should be able to filter the list, use these options to add filters.
-
-.. image:: process-rollup-filter-v7.png
-
-See this page for more information on how to add filters to a block: :doc:`Filter UI </blocks/general-block-settings/filters/index>`
-
-In Omnia 7.0 and later, new options for filtering can be available, see: :doc:`Filter options for blocks in Omnia v7 </blocks/general-block-settings/filter-options-block/index>`
+Filter options are the same in most blocks, see: :doc:`Filter options for blocks </blocks/general-block-settings/filter-options-block/index>`
 
 Layout and Write
 *********************

@@ -1,9 +1,7 @@
-Publishing settings in Omnia v7
+Publishing settings
 ================================================
 
-This page and the pages available here, describes how these options work in Omnia 7.0 and later. For Omnia 6.13, see this page: :doc:`Publishing settings in Omnia 6.13 </admin-settings/business-group-settings/publishing-apps/publishing-65/index>`
-
-The following settings are available in Omnia 7.0 and later:
+The following settings are available here:
 
 .. image:: publishing-v7.png
 

@@ -1,7 +1,5 @@
-Edit a process in Omnia v7
+Edit a process
 ================================================
-
-This page describes how this works in Omnia 7.0 and later.
 
 To edit a draft process, just click the title in the list, or select "Edit" in the process's dot menu.
 

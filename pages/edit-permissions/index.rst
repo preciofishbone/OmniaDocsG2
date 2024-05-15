@@ -22,7 +22,7 @@ You can now set the following permissions, for this page and all sub pages:
 + **Editor**: Can create, delete and move pages and nodes, can use both Design mode and Write mode and can edit permissions here.
 + **Author**: Can create pages and can use Write mode to edit contents in some blocks.
 
-Single users, security groups and Microsoft 365 groups can be added here (In Omnia on-prem, Microsoft 365 groups can't be used). **Note!** A user or a group must be permissions enabled to show up in the list.
+For more information on the people picker, see: :doc:`Using the people picker </general-assets/using-people-picker/index>`
 
 **Note!** Page collection administrators and publishing app administrators are always permitted to work with pages (Editor permissions). They don't need to be added here.
 

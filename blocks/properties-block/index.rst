@@ -1,7 +1,7 @@
 Properties block
 ================================================
 
-Use this block to display information from a property, for example useful when creating a custom user profile card. This block is available in Omnia 7.0 and later.
+Use this block to display information from a property, for example useful when creating a custom user profile card. 
 
 Settings
 ***********
@@ -11,7 +11,7 @@ The following settings are available for this block:
 
 General
 ------------
-Here you can add a title for the block, if needded, in any of the tenant languages. Click the flag to change language.
+Here you can add a title for the block, if needded, in any tenant language. 
 
 .. image:: properties-block-settings-general.png
 

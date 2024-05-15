@@ -1,7 +1,7 @@
-The Pages tab - authoring processes in Omnia v7
+The Pages tab - authoring processes
 ==================================================
 
-Here you can create a Page Rollup with pages that are relevant to the process. The information on this page applies to Omnia 7.0 and later.
+Here you can create a Page Rollup with pages that are relevant to the process. 
 
 .. image:: processes-pages-v7.png
 

@@ -9,15 +9,15 @@ Settings
 ***********
 These settings are available:
 
-.. image:: mega-menu-block-all.png
+.. image:: mega-menu-block-all-v75.png
 
 Query
 ----------
 Here you can set the following:
 
-.. image:: mega-menu-block-query.png
+.. image:: mega-menu-block-query-v75.png
 
-1. Click ADD QUERY to add pages to the mega menu and the page picker opens. Use it as is described here: :doc:`The page picker </general-assets/page-picker/index>`
+1. Click ADD FILTER to add pages to the mega menu, and the page picker opens. Use it as is described here: :doc:`The page picker </general-assets/page-picker/index>`
 
 If you select a top node, all sub pages to that node are also selected.
 

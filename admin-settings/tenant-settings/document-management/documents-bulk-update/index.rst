@@ -25,7 +25,7 @@ When the update is finished, the update is noted in the document history of each
 
 Bulk update removed properties
 *********************************
-In Omnia 7.0 and later it's possible to replace properties that are not longer present in the system. A good example when this is useful is when a document owner has left the organization and already has been removed from the AD. This is how it's done:
+It's possible to replace properties that are not longer present in the system. A good example when this is useful is when a document owner has left the organization and already has been removed from the AD. This is how it's done:
 
 1. Select the property to be replaced (for example Document Owner).
 2. Enter the property to be replaced in the second Property Value field (for example a former colleague). Note that you can use FIND for a listing of for example the documents a former colleague are document owner of.

@@ -1,7 +1,7 @@
 Digital signage
 =============================================
 
-The following options are available for Digital signage (Image from Omnia 7.1). 
+The following options are available for Digital signage. 
 
 Prerequisite: the feature Digital signage must be activated.
 
