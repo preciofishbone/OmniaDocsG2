@@ -95,6 +95,8 @@ You can add several posting rules if needed, to further limit what will be publi
 
 (Don't forget to save when you're done).
 
+**Importanat note!** When using scheduled publishing for a page, a post from a promotion channel can not be published to Microsoft Teams.
+
 Setup Viva Engage integration for the page collection
 -------------------------------------------------------
 The Viva Engage (former Yammer) integration you can set up here is a one way integration; from Omnia to Viva Engage. A prerequisite is that the Feature "Viva Engage integration" is activated in Omnia admin (Tenant level).
