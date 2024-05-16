@@ -1,7 +1,7 @@
 Form rollup
 ========================
 
-This is a new block in Omnia 7.6. 
+This is a new block in Omnia 7.6, used to rollup forms either for listing forms for various purposes, or for displaying a number of forms to be used.
 
 Settings
 *************
@@ -56,6 +56,12 @@ If you select "Form view", the top part of the settings is different:
 + **Legend position**: Select position for the description in the diagrams, in relation to the Legend alignment.
 + **Show from titel**: Select this option to show the title of the form.
 + **Open form as dialog**: If you select this option, the actual form is not shown. Instead a button to open the form is show. Users can then click the arrows to see which forms are available, and click the button to open a form to have a look at or use.
+
+In this example, legend alignment is "Start" and legend position is "Right":
+
+.. image:: form-legend.png
+
+In this example, "Open form as dialog" is selected:
 
 .. image:: form-as-dialog.png
 

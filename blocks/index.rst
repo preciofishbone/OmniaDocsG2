@@ -27,7 +27,6 @@ Blocks
    current-navigation/index
    document-rollup/index
    faq/index
-   form-rollup-block/index
    general-block-settings/index
    governance-dashboard/index
    html-script/index

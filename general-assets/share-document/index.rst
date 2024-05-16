@@ -11,7 +11,7 @@ This is needed:
 + A page type for this purpose, with an iFrame block pointing to the property.
 + A page set up to list the uploaded, local documents.
 
-Note that this can be added to setup for the central community template, and added to the community layouts, so functionality for sharing documents swill be added automatically to all new communities.
+Note that this can be added to the central community template, and added to the community layouts, so functionality for sharing documents will be added automatically to all new communities.
 
 Implementation example
 *************************
