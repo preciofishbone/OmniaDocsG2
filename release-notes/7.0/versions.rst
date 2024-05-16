@@ -1,3 +1,23 @@
+7.5.27
+========================================
+(Omnia 7.5.27 / Workplace 7.5.20 / WCM 7.5.16 / MS 7.5.12 / Analytics 7.5.6)
+
+- Fixed an issue where channels would not save correctly when saving as draft (#155869).
+- Taxonomy properties now render correctly in the people rollup roller view (#157059).
+- Better term picker logic for large term sets with very short terms (#154937).
+- Fixed a permission error that would prevent shared links admins from editing tenant shared links (#156524).
+- Fixed an error that would sometimes show an error message when restoring documents (#156844).
+- Better handling of the "keep text" button when pasting i RTF (#145351).
+- Fixed an issue in the SharePoint user profile sync that would prevent the automatic job from running correctly (#156922).
+- Fixes to automatic page creation across tenants (#157123).
+- Corrected rendering of checked out to in the page rollup (#156609).
+- The anchor links block no longer causes issues with page rendering in the WCM editor (#157030).
+- Controlled Documents now correctly handles dynamic groups for setting read permissions (#157147, #156450).
+- Corrected an issue where banner links could link to the wrong page under certain conditions (#156021).
+- Page Rollup Accelerator stability fixes.
+
+
+
 7.5.25
 ========================================
 (Omnia 7.5.25 / Workplace 7.5.18 / WCM 7.5.15 / MS 7.5.11 / Analytics 7.5.6)
