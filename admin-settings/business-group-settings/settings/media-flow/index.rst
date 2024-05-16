@@ -7,5 +7,5 @@ The settings here, are settings you MAY need/want to edit:
 
 .. image:: mediaflow-setting.png
 
-+ **Default language**: Default language in MediaFlow, within the media picker, SHOULD be the user's profile language, and nothing you should have to change here. More information about this setting will be added soon.
++ **Default language**: In MediaFlow, the user's profile language is used, if that language is available in MediaFlow. Here you can add a default language to fall back to, if the user's profile language is not available in MediaFlow. At the moment English (en_US) or Swedish (sv_SE) can be used as fall back language.
 + **Limit to formats**: If just certain image file types (jpg, png etc) should be available in Mediaflow, type the file types here, separated by a comma.
