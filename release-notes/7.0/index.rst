@@ -458,6 +458,8 @@ These forms will be displayed natively in the master feed within the mobile app.
 You can now utilize the newly introduced Media rollup block to showcase images, videos, and audio files sourced from a SharePoint library.
 This versatile block offers two distinct views: a visually engaging Photowall view and a straightforward list view.
 
+.. image:: mediarollup.png
+
 For end users, navigating through the various media items is intuitive and user-friendly. They can easily browse the content in a dialog format,
 facilitating quick actions such as downloading the desired media files with ease.
 
