@@ -5,7 +5,7 @@ Pre requisite: To use Matomo analytics, the tenant feature "Analytics core setup
 
 No set up at tenant level is required.
 
-Analytics data is always collected separetaly for each business profile.
+Analytics data is always collected separately for each business profile.
 
 **Note!** All users that should have permission to see the analytics data must be added as Analytics readers: Business profil > Permissions > Users and groups > Analytics.
 
