@@ -29,7 +29,7 @@ In both cases, start by selecting to rollup images, video or audio.
 
 Media files from a SharePoint library
 ---------------------------------------
-The next step for a Sharepoint library is to add a path to the library.
+The next step for a Sharepoint library is to add a URL to the library (image will be replaced soon).
 
 .. image:: media-rollup-settings-query-library-path.png
 
