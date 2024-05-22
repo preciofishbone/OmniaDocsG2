@@ -35,7 +35,7 @@ To set details for the recurrence, do the following:
 
 Weekday is Monday to Friday, as opposed to "Every X day(s)". All other options should be self explanatory. 
 
-Note that if you should select a day that is not a weekday as the first sedn out, the first weekday is still used automatically.
+Note that if you should select a day that is not a weekday as the first send out, the first weekday is still used automatically.
 
 3. Save the settings.
 
