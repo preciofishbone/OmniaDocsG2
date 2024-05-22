@@ -3,7 +3,7 @@ Licenses
 
 Click here to view open licenses.
 
-Here's an exampl of what can be shown:
+Here's an example of what can be shown:
 
-..image:: licenses.png
+.. image:: licenses.png
 
