@@ -59,7 +59,7 @@ For photowall, these settings are avialable:
 
 .. image:: media-rollup-settings-display-photowall-new.png
 
-Use the option "Show property in overlay" to display for example the file name (Documents - Filename). When you have selected a property, you can decide if it should be shown as overaly all the time or only when in fokus (option "Show overlay in focus"). 
+Use the option "Show property in overlay" to display for example the file name (Documents - Filename). When you have selected a property, you can decide if it should be shown as overlay all the time or only when in fokus (option "Show overlay in focus"). 
 
 Here's an example of a photowall display with three columns (no overlay):
 
