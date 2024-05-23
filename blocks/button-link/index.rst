@@ -10,7 +10,8 @@ The following actions are available to add as a button:
 + Add as favourite
 + Add to My calendar
 + Create app
-+ Create aocument
++ Create document
++ Create form
 + Create page
 + Event management
 + Export process
