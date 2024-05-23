@@ -23,7 +23,7 @@ To set up additional geolocation DBIP databases is pretty straight forward, at l
 
 .. image:: setup-geo-5.png
 
-You should see that the work starts.
+You should see that the process starts.
 
 .. image:: setup-geo-6.png
 
