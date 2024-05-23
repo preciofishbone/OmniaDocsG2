@@ -101,7 +101,7 @@ Create form
 --------------
 The purpose of this form is to make it possible for administrators to create a form on any page.
 
-The folllwing settings are available:
+The following settings are available:
 
 .. image:: create-form.png
 
