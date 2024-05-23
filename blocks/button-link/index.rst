@@ -97,6 +97,17 @@ The purpose of this action is to make it possible to create a document. When the
 
 (Only general settings are available, see above).
 
+Create form
+--------------
+The purpose of this form is to make it possible for administrators to create a form on any page.
+
+The folllwing settings are available:
+
+.. image:: create-form.png
+
++ **Scope**: Decide where the form should be available. Default is the current app.
++ **Type**: Here you can select the types of forms to be available to create.
+
 Create page
 -------------
 Using this button the action Create page can be executed:
