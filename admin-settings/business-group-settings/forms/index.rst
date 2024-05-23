@@ -7,7 +7,7 @@ Here you can work with three types of forms.
 
 Surveys has the most options. Polls are similar to surveys but suitable for shorter, simpler forms. Checkups are suitable for micro-courses with knowledge checks.
 
-For settings options, see this page: (link to be added)
+For settings options, see this page: :doc:`Settings (Forms) </admin-settings/business-groups-settings/forms/forms-settings/index>`
 
 The Forms lists
 ********************
