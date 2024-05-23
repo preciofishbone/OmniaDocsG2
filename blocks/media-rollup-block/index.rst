@@ -69,7 +69,7 @@ For a larger view, click a file. The media list can then be browsed this way:
 
 .. image:: media-rollup-settings-display-photowall-example-browse.png
 
-Note that the filename is always shown here when pointing at an image.
+Note that the filename is always shown here when pointing at an image. There is now download option available for the photowall view.
 
 Filter
 ----------
