@@ -3,17 +3,10 @@ Settings (Forms)
 
 The following is available for settings for forms:
 
-(to be added)
+.. toctree::
+   :titlesonly:
 
-
-
-
-
-
-
-
-
-
-
-
+   custom-charts-colors/index
+   forms-templates/index
+   forms-types/index
 
