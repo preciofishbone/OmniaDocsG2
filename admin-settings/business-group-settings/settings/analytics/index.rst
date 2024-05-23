@@ -9,6 +9,8 @@ Analytics data is always collected separately for each business profile.
 
 **Note!** All users that should have permission to see the analytics data must be added as Analytics readers: Business profil > Permissions > Users and groups > Analytics.
 
+If you need to set up additional geolocation DBIP databases, see this page: (linke to be added)
+
 These settings are available for Matomo analytics, in a business profile:
 
 .. image:: analytics-matomo-settings.png
