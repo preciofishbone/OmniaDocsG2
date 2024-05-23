@@ -11,7 +11,7 @@ To set up additional geolocation DBIP databases is pretty straight forward, at l
 
 .. image:: setup-geo-2.png
 
-3. Then click "System" and "Golocation".
+3. Then click "System" and "Goelocation".
 
 .. image:: setup-geo-3.png
 
