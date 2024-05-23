@@ -35,4 +35,4 @@ That you should not keep Default is quite obvious when you read the descriptions
 
 7. And as usual, don't forget to save.
 
-.. image:: setup-geo-8.png
+.. image:: setup-geo-8-frame.png
