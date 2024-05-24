@@ -5,11 +5,9 @@ Here you can edit the chart colors:
 
 .. image:: forms-settings-colors-76.png
 
-To edit a color, expand the settings and select another color:
+To edit a text color for any of the chart colors, expand the settings and select another color:
 
 .. image:: forms-settings-colors-edit-76.png
-
-Note that you can edit the chart colors as well as the text color. Click the triangle to open the settings for the charts colors.
 
 Remove a color you don't want by clicking the dustbin. The edit the order in which editors will see the colors. grab and move using this icon:
 
