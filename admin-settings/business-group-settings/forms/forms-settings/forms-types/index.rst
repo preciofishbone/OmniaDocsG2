@@ -22,7 +22,7 @@ The settings available when creating a new type or editing an existing ore these
 + **Property set**: Select a property set for the type. Property sets are set up under Properties (Tenant). When creating a form, the administrator must fill in the properties from the set. This can, for example, be used to select type of users, or parts of the organization, the form should be available for.
 + **Templates**: Select a template for the type.
 + **Allow multiple questions**: If it should be possible to create several questions, select the option. If not, only one question can be created.
-+ **Show form settings**: If the form settings should be shwon so the administrator can edit them, when creating a form, select tjis option.
++ **Show form settings**: If the form settings should be shown so the administrator can edit them, when creating a form, select this option.
 
 For more information about property sets, see: :doc:`Property sets </admin-settings/tenant-settings/properties/property-sets/index>`
 
