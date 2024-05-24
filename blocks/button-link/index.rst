@@ -99,14 +99,14 @@ The purpose of this action is to make it possible to create a document. When the
 
 Create form
 --------------
-The purpose of this form is to make it possible for administrators to create a form on any page.
+The purpose of this button is to make it possible for app administrators to create a form from any page. Note that the administrator must be app administrator for the app where the form is created.
 
 The following settings are available:
 
 .. image:: create-form.png
 
 + **Scope**: Decide where the form should be available. Default is the current app.
-+ **Type**: Here you can select the types of forms to be available to create.
++ **Type**: Here you can select the types of forms to be available to create. The types are set up in Omnia admin.
 
 Create page
 -------------
