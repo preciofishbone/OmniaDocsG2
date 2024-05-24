@@ -1,7 +1,7 @@
 Settings (Forms)
 ========================
 
-The following is available for settings for forms:
+The following is available for settings for forms, in Omnia 7.6 and later:
 
 .. image:: settings-forms.png
 
