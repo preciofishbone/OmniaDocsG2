@@ -106,7 +106,7 @@ The following settings are available:
 .. image:: create-form.png
 
 + **Scope**: Decide where the form should be available. Default is the current app.
-+ **Type**: Here you can select the types of forms to be available to create. The types are set up in Omnia admin.
++ **Type**: Here you can select the form type to be available to create. The types are set up in Omnia admin.
 
 Create page
 -------------
