@@ -3,7 +3,7 @@ Templates for forms
 
 This option is available inb Omnia 7.6 and later. You can create templates for all three types of forms, to make it easier to consistently create forms of a certain type.
 
-If any forms are created, they are shon in this list.
+If any forms are created, they are shwon in this list.
 
 .. image:: forms-templates-list.png
 
