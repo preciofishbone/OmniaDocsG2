@@ -3,15 +3,15 @@ How to setup additional geolocation DBIP databases
 
 To set up additional geolocation DBIP databases is pretty straight forward, at least when you know which instruction to follow.
 
-1. Click this link in Omnia admin:
+1. Go to Omnia admin > [Business profile] > Settings > Analytics, and click the link here:
 
-.. image:: setup-geo-1.png
+.. image:: setup-geo-1-new.png
 
 2. In the Matomo settings, click the cogwheel.
 
 .. image:: setup-geo-2.png
 
-3. Then click "System" and "Goelocation".
+3. Then click "System" and "Geolocation".
 
 .. image:: setup-geo-3.png
 
