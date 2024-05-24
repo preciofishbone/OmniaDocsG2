@@ -9,7 +9,7 @@ If any forms are created, they are shwon in this list.
 
 All settings can be edited by clicking the pen, see below. Click the dustbin to delete a template. To create a new template, click the plus.
 
-Settings for a new template
+Settings for a template
 ********************************
 The following settings are available when creating a new template or editing an existing one:
 
