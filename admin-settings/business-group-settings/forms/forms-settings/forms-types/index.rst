@@ -9,7 +9,7 @@ Here you can create a type, which in this case is a property set and a template,
 
 If any post is created here, it's shown in the list:
 
-.. imnage:: types-forms-list.png
+.. image:: types-forms-list.png
 
 All settings can be edited by clicking the pen, see below. Click the dustbin to delete a template. To create a new template, click the plus.
 
@@ -17,7 +17,7 @@ Settings for a type
 *********************
 The settings available when creating a new type or editing an existing ore these:
 
-.. imnage:: types-forms-settings.png
+.. image:: types-forms-settings.png
 
 + **Type**: Select the type of form to create type settings for.
 + **Title**: Add a titel for the type. (Required).
