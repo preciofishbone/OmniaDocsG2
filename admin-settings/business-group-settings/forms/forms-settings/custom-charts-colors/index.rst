@@ -13,7 +13,7 @@ Remove a color you don't want by clicking the dustbin. The edit the order in whi
 
 .. image:: forms-settings-colors-move-76.png
 
-Too add a new color, click ADD COLOR and set chart colors and text color:
+Too add a new color, click ADD COLOR and set chart color and text color:
 
 .. image:: forms-settings-addcolor-76.png
 
