@@ -55,7 +55,9 @@ The filter can be used to find one or more users in a long list.
 
 Add groups to an Omnia group
 ------------------------------
-Only Omnia groups can be added to Omnia groups. If you need to add other groups, use Dynamic groups. 
+For 7.5 it works this way: Only Omnia groups can be added to Omnia groups. If you need to add other types of groups to a group, use a Dynamic group.
+
+In Omnia 7.6 and later, Entra ID groups can be added to an Omnia group as well. 
 
 1. Click the Groups icon.
 
