@@ -133,11 +133,11 @@ Here you can edit the settings for automatic termination, for the pages in this 
 
 Advanced
 **********
-Here you can edit these settings:
+The settings available here depends on features activated. Here's an example:
 
 .. image:: page-settings-advanced-612-1.png
 
-and these:
+and these settings can also be available:
 
 .. image:: page-settings-advanced-612-2.png
 
@@ -145,9 +145,9 @@ and these:
 + **Allow reuse content**: If it should be allowed to resuse content within the publishing app, activate "Enable reuse content". For more information about how to reuse content, see: :doc:`Reusable content </pages/reusable-content/index>`
 + **Connected SharePoint site**: The address to the SharePoint site is shown here.
 + **Editor navigation**: Here you can add options that should be available in the page menu, in additional to the default options. For more information, see below.
-+ **Contact property**: Select the property used to store information about the user being page contact.
-+ **Review date property**: Select the property used to store information about review date for pages.
++ **Reports**: Select the property used to store information about the user being page contact, and select the property used to store information about review date for pages.
 + **Promoted tags**: A publishing app can be configured to have promoted tags/terms for certain properties. Promoted tags/terms will be displayed at the top of the tag/term picker both for the author, when working with pages, and for the end user when filtering in a page rollup.
++ **Variations**: Select to share comments, reactions and ratings across variations. This option is only available if one or more varations exists in the app. **Important note!** This option must be activated before any variation being actually created. Otherwise comments, reactions and ratings will still only be displayed on the main page.  
 + **Document management**: You use this part for documents settings, both forstandard documents and for controlled documents. For more information, see below.
 
 For more information about layouts for publishing, see this page: :doc:`Publishing layouts </admin-settings/business-group-settings/publishing-apps/publishing-65/layout/index>`
