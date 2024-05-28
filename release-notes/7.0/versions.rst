@@ -1,6 +1,20 @@
-7.5.27
+7.5.29
 ========================================
-(Omnia 7.5.27 / Workplace 7.5.20 / WCM 7.5.16 / MS 7.5.12 / Analytics 7.5.6)
+(Omnia 7.5.29 / Workplace 7.5.22 / WCM 7.5.18 / MS 7.5.14 / Analytics 7.5.6)
+
+- Updates to better detect deleted M365 groups and SharePoint sites in Teamwork administration (#156768).
+- The info icon now works as expected in the Controlled Documents archive (#157234).
+- Site Designs now works as expected for communication sites (#157221).
+- The start chat button in the profile card now works as expected for all users that is supported, its hidden for Omnia users (#154376).
+- E-mails related to multi page approval will now be sent in the recipients language (if set) (#156638).
+- The page property block now hides correctly if no values set (#151382).
+- Fixes to migration of settings for date property settings in page rollup views (#156717).
+- Page rollup accelerator stability improvements.
+
+
+7.5.28
+========================================
+(Omnia 7.5.28 / Workplace 7.5.21 / WCM 7.5.17 / MS 7.5.13 / Analytics 7.5.6)
 
 - Fixed an issue where channels would not save correctly when saving as draft (#155869).
 - Taxonomy properties now render correctly in the people rollup roller view (#157059).
