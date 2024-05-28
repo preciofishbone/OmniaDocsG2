@@ -19,7 +19,7 @@ Here's how to create a form using an action button:
 
 .. image:: form-click-button.png
 
-2. If it's possible to change the settings for the form (the page editor setting up the button decides if it is, or not), edit the settings as you need them, and then click "Next":
+2. If it's possible to change the settings for the form (the type settings states if it is, or not), edit the settings as you need them, and then click "Next":
 
 .. image:: form-click-button-settings.png
 
@@ -31,7 +31,7 @@ For descriptions of the options, see the heading "Settings for a template" on th
 
 .. image:: form-click-button-question.png
 
-This is the first step if it's not possible to edit the settings (if not, the settings are simply not shown). It's always possible to add more options (possible answers) and it may, depending on settings, be possible to add more questions.
+This is the first step if it's not possible to edit the settings (if not, the settings are simply not shown). It's always possible to add more options (possible answers) and it may, depending on type settings, be possible to add more questions.
 
 4. Click "Next" when you're finished with all questions and options.
 
@@ -41,9 +41,11 @@ This is the first step if it's not possible to edit the settings (if not, the se
 
 .. image:: form-click-button-question-properties.png
 
-What will be available here will differ a lot depending on set up, but generally, if it's possible to select proerties, that should always be done. In this example you can choose to limit response time, meaning you can set a start and an end date. You can also select Organization, to decide who the form will be available for.
+What will be available here will differ depending on how the type is set up. You can always choose to limit response time, meaning you can set a start and an end date. It's also possible that you have to set a number of properties , Organization in this example. 
 
 6. Click "Create" when you're done.
 
 .. image:: form-click-button-question-create.png
+
+For more information on type settings, see this page: :doc:`Types for forms </admin-settings/business-group-settings/forms/forms-settings/forms-types/index>`
 
