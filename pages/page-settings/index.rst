@@ -22,18 +22,14 @@ Permissions
 ************
 Use these settings to Edit permissions in the publishing app. 
 
-.. image:: page-settings-permissions-612-new.png
+.. image:: page-settings-permissions-76.png
 
-+ **Allow mobile login**: This setting is intended to offer login to certain parts of Omnia for first line workers, partners and similar. The user needs the Kaizala app and a viable account. If you see the label "Kaizala login" somewhere, it's the same thing. **Note!** Mobile login/Kaizala login is not available in Omnia on-prem.
 + **Administrators**: Add and remove publishing app administrators here as needed.
 + **Contributors**: This permissions settings is needed if colleagues should be able to add comments to pages.
-+ **Resource readers**: Here you set the general read permission for the publishing app, needed for users to be able to read pages.
 
 For more information on the people picker, see: :doc:`Using the people picker </general-assets/using-people-picker/index>`
 
-Note that this permissions setting is valid for the settings here, only. To be able to edit publishing app settings in Omnia admin, you need to be either a tenant administrator or administrator for the business profile.
-
-Regarding these settings a tenant administrator and business profile administrator can go here and add him or herself to the permissions list and that way gain access to the settings.
+Note that this permissions setting is valid for the settings here, only. To be able to edit publishing app settings in Omnia admin, you need to be either a tenant administrator or administrator for the business profile. Regarding these settings a tenant administrator and business profile administrator can go here and add him or herself to the permissions list and that way gain access to the settings.
 
 Variations
 ************
