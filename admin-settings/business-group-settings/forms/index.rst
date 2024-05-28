@@ -9,8 +9,8 @@ Surveys has the most options. Polls are similar to surveys but suitable for shor
 
 For settings options, see this page: :doc:`Settings (Forms) </admin-settings/business-group-settings/forms/forms-settings/index>`
 
-The Forms lists
-********************
+Surveys, polls and checkups
+********************************
 For each type of form, all existing are listed, Surveys as an example:
 
 .. image:: forms-surveys.png
