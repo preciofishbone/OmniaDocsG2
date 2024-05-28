@@ -13,12 +13,12 @@ All settings can be edited by clicking the pen, see below. Click the dustbin to 
 
 Settings for a type
 *********************
-The settings available when creating a new type or editing an existing ore these:
+The settings available when creating a new type or editing an existing are these:
 
 .. image:: types-forms-settings.png
 
 + **Type**: Select the type of form to create type settings for.
-+ **Title**: Add a titel for the type. (Required).
++ **Title**: Add a title for the type (required).
 + **Property set**: Select a property set for the type. Property sets are set up under Properties (Tenant). When creating a form, the administrator must fill in the properties from the set. This can, for example, be used to select type of users, or parts of the organization, the form should be available for.
 + **Templates**: Select a template for the type.
 + **Allow multiple questions**: If it should be possible to create several questions, select the option. If not, only one question can be created.
