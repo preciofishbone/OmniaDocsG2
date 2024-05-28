@@ -7,7 +7,7 @@ In Omnia 7.6 and later, an action button can be placed on any publishing page, t
 
 It's meant to be faster and easier, so the options are limited compaired to creating forms using the options in Omnia Admin.
 
-**Note!** A page editor must still see to that the form you create is actually shown, using a Forms block or a Forms rollup block.
+**Note!** A page editor must still see to that the form you create is actually available for users, using a Forms block or a Forms rollup block.
 
 You must be publishing app administrator for the app you create the form for, to be able to use the button. This is an important difference compaired to the options in Omnia admin, where you have to be business profile administrator to create and edit forms.
 
