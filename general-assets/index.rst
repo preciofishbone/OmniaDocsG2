@@ -9,6 +9,7 @@ In this part of the documentation you will find information about general assets
 
    add-link/index
    creating-app-templates/index
+   creating-form-button/index
    custom-date-filtering/index
    document-picker/index
    filter-options-block/index
