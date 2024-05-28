@@ -9,7 +9,7 @@ You must be publishing app administrator for the app you create the form for, to
 
 The button can be formatted in many ways. In this example we just use a crude form.
 
-The options can also be set up up by an administrator in a number of ways, so whatis shown here it's just an example.
+The options can also be set up up by an administrator in a number of ways, so what is shown here it's just an example.
 
 Here's how to create a form using an action button:
 
