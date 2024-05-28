@@ -108,6 +108,8 @@ The following settings are available:
 + **Scope**: Decide where the form should be available. Default is the current app.
 + **Type**: Here you can select the form type to be available to create. The types are set up in Omnia admin.
 
+For an example of how creating a form from an action button may work for the user, see this page: :doc:`Creating a form using an action button </general-assets/creating-form-button/index>`
+
 Create page
 -------------
 Using this button the action Create page can be executed:
