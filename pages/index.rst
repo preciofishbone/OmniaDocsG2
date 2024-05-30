@@ -22,6 +22,7 @@ In this part of the documentation you will find information concerning how to wo
    automatic-page-creation/index
    version-history/index
    page-approval/index
+   page-feedback/index
    add-link-navigation/index
    edit-page-navigation/index
    edit-permissions/index
