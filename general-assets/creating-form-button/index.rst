@@ -11,7 +11,7 @@ It's meant to be faster and easier, so the options are limited compaired to crea
 
 You must be publishing app administrator for the app you create the form for, to be able to use the button. This is an important difference compaired to the options in Omnia admin, where you have to be business profile administrator to create and edit forms.
 
-The button can be formatted in many ways. In this example a crude form is used. The options can also be set up by in a number of ways, for examaple in what app the form will be created, so what is shown here it's just an example.
+The button can be formatted in many ways. In this example a crude form is used. The options can also be set up in a number of ways, for examaple in what app the form will be created, so what is shown here it's just an example.
 
 Here's how to create a form using an action button:
 
@@ -41,7 +41,7 @@ This is the first step if it's not possible to edit the settings (if not, the se
 
 .. image:: form-click-button-question-properties.png
 
-What will be available here will differ depending on how the type is set up. You can always choose to limit response time, meaning you can set a start and an end date. It's also possible that you have to set a number of properties , Organization in this example. 
+What will be available here will differ depending on how the form type is set up. You can always choose to limit response time, meaning you can set a start and an end date. It's also possible that you have to set a number of properties, Organization in this example. 
 
 6. Click "Create" when you're done.
 
