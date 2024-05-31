@@ -485,11 +485,8 @@ The RTF editor has been enhanced to include support for subscript and superscrip
 (7.6) Improved governance and analytics
 ------------------------------------------------------
 
-The analytics solution, powered by Matomo, has been enhanced to incorporate an Analytics table block.
-This feature enables users to analyze page views and unique visitors in conjunction with specific Omnia artifacts, including Publishing Apps and Page Types.
-
-.. image:: analytics-table.png
-
+The analytics solution, powered by Matomo, has been enhanced to incorporate an Analytics report block.
+This feature enables widgets from Matomo to be displayed in a table style with Omnia look and feel.
 
 It is now possible in Omnia Admin to centrally reassign tasks for controlled documents in bulk.
 
