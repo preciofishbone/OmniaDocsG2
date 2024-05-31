@@ -10,7 +10,8 @@ The following actions are available to add as a button:
 + Add as favourite
 + Add to My calendar
 + Create app
-+ Create aocument
++ Create document
++ Create form
 + Create page
 + Event management
 + Export process
@@ -95,6 +96,19 @@ The purpose of this action is to make it possible to create a document. When the
 :doc:`Using the Create new document wizard </working-with-documents/using-the-document-wizard/index>`
 
 (Only general settings are available, see above).
+
+Create form
+--------------
+The purpose of this button is to make it possible for app administrators to create a form from any page. Note that the administrator must be app administrator for the app where the form is created.
+
+The following settings are available:
+
+.. image:: create-form.png
+
++ **Scope**: Decide where the form should be available. Default is the current app.
++ **Type**: Here you can select the form type to be available to create. The types are set up in Omnia admin.
+
+For an example of how creating a form from an action button may work for the user, see this page: :doc:`Creating a form using an action button </general-assets/creating-form-button/index>`
 
 Create page
 -------------

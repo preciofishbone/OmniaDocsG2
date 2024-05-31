@@ -1,3 +1,37 @@
+7.5.29
+========================================
+(Omnia 7.5.29 / Workplace 7.5.22 / WCM 7.5.18 / MS 7.5.14 / Analytics 7.5.6)
+
+- Updates to better detect deleted M365 groups and SharePoint sites in Teamwork administration (#156768).
+- The info icon now works as expected in the Controlled Documents archive (#157234).
+- Site Designs now works as expected for communication sites (#157221).
+- The start chat button in the profile card now works as expected for all users that is supported, its hidden for Omnia users (#154376).
+- E-mails related to multi page approval will now be sent in the recipients language (if set) (#156638).
+- The page property block now hides correctly if no values set (#151382).
+- Fixes to migration of settings for date property settings in page rollup views (#156717).
+- Page rollup accelerator stability improvements.
+
+
+7.5.28
+========================================
+(Omnia 7.5.28 / Workplace 7.5.21 / WCM 7.5.17 / MS 7.5.13 / Analytics 7.5.6)
+
+- Fixed an issue where channels would not save correctly when saving as draft (#155869).
+- Taxonomy properties now render correctly in the people rollup roller view (#157059).
+- Better term picker logic for large term sets with very short terms (#154937).
+- Fixed a permission error that would prevent shared links admins from editing tenant shared links (#156524).
+- Fixed an error that would sometimes show an error message when restoring documents (#156844).
+- Better handling of the "keep text" button when pasting i RTF (#145351).
+- Fixed an issue in the SharePoint user profile sync that would prevent the automatic job from running correctly (#156922).
+- Fixes to automatic page creation across tenants (#157123).
+- Corrected rendering of checked out to in the page rollup (#156609).
+- The anchor links block no longer causes issues with page rendering in the WCM editor (#157030).
+- Controlled Documents now correctly handles dynamic groups for setting read permissions (#157147, #156450).
+- Corrected an issue where banner links could link to the wrong page under certain conditions (#156021).
+- Page Rollup Accelerator stability fixes.
+
+
+
 7.5.25
 ========================================
 (Omnia 7.5.25 / Workplace 7.5.18 / WCM 7.5.15 / MS 7.5.11 / Analytics 7.5.6)

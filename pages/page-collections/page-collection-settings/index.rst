@@ -70,6 +70,8 @@ Don't forget to save your changes.
 
 Setup a promotion channel
 -----------------------------
+**Important note!** When using scheduled publishing for a page, a post from a promotion channel can not be published to Microsoft Teams or to Viva Engage.
+
 Do the following to set up a promotion channel:
 
 1. Click the plus.
@@ -94,8 +96,6 @@ In this simple example, a teaser should only be published to this promotion chan
 You can add several posting rules if needed, to further limit what will be published.
 
 (Don't forget to save when you're done).
-
-**Importanat note!** When using scheduled publishing for a page, a post from a promotion channel can not be published to Microsoft Teams.
 
 Setup Viva Engage integration for the page collection
 -------------------------------------------------------

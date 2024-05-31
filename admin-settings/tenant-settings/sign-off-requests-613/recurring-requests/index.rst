@@ -35,6 +35,8 @@ To set details for the recurrence, do the following:
 
 Weekday is Monday to Friday, as opposed to "Every X day(s)". All other options should be self explanatory. 
 
+Note that if you should select a day that is not a weekday as the first send out, the first weekday is still used automatically.
+
 3. Save the settings.
 
 When the recurrence settings has been done, you can now see that the information about recurrence has been changed according to your settings. 
@@ -43,7 +45,7 @@ When the recurrence settings has been done, you can now see that the information
 
 4. You can set time for when the sing-off should be sent. 
 
-If you want to set the time zone to calculate the time on, click the box. Default time is UTC, meaning that is what will be used if you don't select time zone.
+If you want to set the time zone to calculate the time on, click the box. Default time is UTC, meaning that is what will be used if you don't select time zone. Also note the information that is shown for when the send will occur calculated on the time zone where you are.
 
 .. image:: recurring-requests-new-settings-zone.png
 

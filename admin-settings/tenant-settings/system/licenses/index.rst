@@ -1,17 +1,9 @@
 Licenses
 ========================
 
-This is a new option in Omnia 7.6. A description will be added soon.
+Click here to view open licenses.
 
+Here's an example of what can be shown:
 
-
-
-
-
-
-
-
-
-
-
+.. image:: licenses.png
 

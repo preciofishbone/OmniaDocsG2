@@ -29,9 +29,9 @@ In both cases, start by selecting to rollup images, video or audio.
 
 Media files from a SharePoint library
 ---------------------------------------
-The next step for a Sharepoint library is to add a path to the library, or just accept the default path (more info about this soon).
+The next step for a Sharepoint library is to add a URL to the library.
 
-.. image:: media-rollup-settings-query-library-path.png
+.. image:: media-rollup-settings-query-library-76.png
 
 Media files through SharePoint search
 -------------------------------------------
@@ -57,15 +57,19 @@ Here's a simple example of a list with a small preview and a download icon:
 
 For photowall, these settings are avialable:
 
-.. image:: media-rollup-settings-display-photowall.png
+.. image:: media-rollup-settings-display-photowall-new.png
 
-Here's an example of a photowall display with three columns:
+Use the option "Show property in overlay" to display for example the file name (Documents - Filename). When you have selected a property, you can decide if it should be shown as overlay all the time or only when in fokus (option "Show overlay in focus"). 
+
+Here's an example of a photowall display with three columns (no overlay):
 
 .. image:: media-rollup-settings-display-photowall-example-new.png
 
 For a larger view, click a file. The media list can then be browsed this way:
 
 .. image:: media-rollup-settings-display-photowall-example-browse.png
+
+Note that the filename is always shown here when pointing at an image. There is now download option available for the photowall view.
 
 Filter
 ----------

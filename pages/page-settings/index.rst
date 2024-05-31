@@ -22,18 +22,14 @@ Permissions
 ************
 Use these settings to Edit permissions in the publishing app. 
 
-.. image:: page-settings-permissions-612-new.png
+.. image:: page-settings-permissions-76.png
 
-+ **Allow mobile login**: This setting is intended to offer login to certain parts of Omnia for first line workers, partners and similar. The user needs the Kaizala app and a viable account. If you see the label "Kaizala login" somewhere, it's the same thing. **Note!** Mobile login/Kaizala login is not available in Omnia on-prem.
 + **Administrators**: Add and remove publishing app administrators here as needed.
 + **Contributors**: This permissions settings is needed if colleagues should be able to add comments to pages.
-+ **Resource readers**: Here you set the general read permission for the publishing app, needed for users to be able to read pages.
 
 For more information on the people picker, see: :doc:`Using the people picker </general-assets/using-people-picker/index>`
 
-Note that this permissions setting is valid for the settings here, only. To be able to edit publishing app settings in Omnia admin, you need to be either a tenant administrator or administrator for the business profile.
-
-Regarding these settings a tenant administrator and business profile administrator can go here and add him or herself to the permissions list and that way gain access to the settings.
+Note that this permissions setting is valid for the settings here, only. To be able to edit publishing app settings in Omnia admin, you need to be either a tenant administrator or administrator for the business profile. Regarding these settings a tenant administrator and business profile administrator can go here and add him or herself to the permissions list and that way gain access to the settings.
 
 Variations
 ************
@@ -133,11 +129,11 @@ Here you can edit the settings for automatic termination, for the pages in this 
 
 Advanced
 **********
-Here you can edit these settings:
+The settings available here depends on features activated. Here's an example:
 
 .. image:: page-settings-advanced-612-1.png
 
-and these:
+and these settings can also be available:
 
 .. image:: page-settings-advanced-612-2.png
 
@@ -145,9 +141,9 @@ and these:
 + **Allow reuse content**: If it should be allowed to resuse content within the publishing app, activate "Enable reuse content". For more information about how to reuse content, see: :doc:`Reusable content </pages/reusable-content/index>`
 + **Connected SharePoint site**: The address to the SharePoint site is shown here.
 + **Editor navigation**: Here you can add options that should be available in the page menu, in additional to the default options. For more information, see below.
-+ **Contact property**: Select the property used to store information about the user being page contact.
-+ **Review date property**: Select the property used to store information about review date for pages.
++ **Reports**: Select the property used to store information about the user being page contact, and select the property used to store information about review date for pages.
 + **Promoted tags**: A publishing app can be configured to have promoted tags/terms for certain properties. Promoted tags/terms will be displayed at the top of the tag/term picker both for the author, when working with pages, and for the end user when filtering in a page rollup.
++ **Variations**: Select to share comments, reactions and ratings across variations. This option is only available if one or more varations exists in the app. **Important note!** This option should be activated before any variation pages are created. If this option is activated later on, the comments from the main page are shown on all variation pages. If comments had been added to a variation page, they will no longer be displayed.  
 + **Document management**: You use this part for documents settings, both forstandard documents and for controlled documents. For more information, see below.
 
 For more information about layouts for publishing, see this page: :doc:`Publishing layouts </admin-settings/business-group-settings/publishing-apps/publishing-65/layout/index>`

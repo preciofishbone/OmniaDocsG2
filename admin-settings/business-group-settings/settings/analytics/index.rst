@@ -5,9 +5,11 @@ Pre requisite: To use Matomo analytics, the tenant feature "Analytics core setup
 
 No set up at tenant level is required.
 
-Analytics data is always collected separetaly for each business profile.
+Analytics data is always collected separately for each business profile.
 
 **Note!** All users that should have permission to see the analytics data must be added as Analytics readers: Business profil > Permissions > Users and groups > Analytics.
+
+If you need to set up additional geolocation DBIP databases, see this page: :doc:`How to setup additional geolocation DBIP databases </admin-settings/business-group-settings/settings/analytics/set-up-dbip/index>`
 
 These settings are available for Matomo analytics, in a business profile:
 

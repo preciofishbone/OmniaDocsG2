@@ -1,4 +1,4 @@
-Page feedback
+Page feedback block
 =====================
 
 This block makes it possible for users to send feedback about the page to the owner of the page. 
@@ -45,7 +45,7 @@ The WRITE Tab is not used here. The LAYOUT tab contains general settings, see: :
 
 Who the feedback is sent to and how
 *************************************
-The page feedback is sent to the page owner (Page contact) through Email. The following settings are needed for this to work.
+The page author can check the feedback through the page menu. The page feedback can also be sent to the page owner (Page contact) through Email. The following settings are needed for this to work.
 
 **General note**: For a user to be able to receive Emails, the acccount must be Email enabled.
 
@@ -56,6 +56,8 @@ The page contact property (which can be named something else) must be selected f
 "Receive Email" must be selected for the page contact property settings.
 
 .. image:: page-contact-page-type-property-new2.png
+
+For more information about checking the page feedback, see: :doc:`Check page feedback </pages/check-page-feedback/index>`
 
 Page feedback button
 *********************
