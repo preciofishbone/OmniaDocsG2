@@ -63,11 +63,11 @@ Settings for Styles
 --------------------
 To edit the settings for styles, click the cog wheel.
 
-.. image:: tenant-settings-styles.png
+.. image:: tenant-settings-styles-76.png
 
-Select the styles that should be available in the list.
+Expand the list and select the styles that should be available.
 
-.. image:: tenant-settings-styles-select.png
+.. image:: tenant-settings-styles-select-76.png
 
 **Note!** You can use Text styles (option in the Settings menu) to configure styles. The enabled styles from Text styles are those shown in the above list. 
 
