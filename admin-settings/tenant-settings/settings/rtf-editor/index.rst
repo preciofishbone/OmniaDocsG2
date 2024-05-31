@@ -83,6 +83,6 @@ See the bottom of this page for information about how OpenAI can be used in the 
 
 Reorder the options
 ---------------------
-If you would like to reorder the options in the editor, use these icons to drag and drop:
+If you would like to reorder the options in the editor, use the icons to drag and drop:
 
-.. image:: rtf-editor-reorder-new2.png
+.. image:: rtf-editor-reorder-76.png
