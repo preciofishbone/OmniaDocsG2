@@ -21,8 +21,8 @@ In this part of the documentation you will find information concerning how to wo
    reusable-content/index
    automatic-page-creation/index
    version-history/index
-   page-approval/index
    check-page-feedback/index
+   page-approval/index
    add-link-navigation/index
    edit-page-navigation/index
    edit-permissions/index
