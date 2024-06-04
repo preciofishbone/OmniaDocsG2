@@ -1,6 +1,8 @@
 Analytics widget
 =============================================
 
+**This description is being edited. Will be finished soon.**
+
 This block is used to display Matomo analytics data. Several blocks can be used on a page, with different settings, to display different aspects of the analytics data.
 
 If you will be using the same filter settings in several widget blocks, it can save some time to set the filter settings in an Analytics filters block and connect the widget blocks to the filters block.
@@ -23,7 +25,7 @@ Display
 ---------
 The following settings are available here:
 
-.. image:: analytics-block-widget-display.png
+.. image:: analytics-block-widget-display-new.png
 
 **Note!** A preview is shown in the block so you can easily try out different combinations of settings.
 
