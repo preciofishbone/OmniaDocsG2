@@ -1,3 +1,14 @@
+7.5.31
+========================================
+(Omnia 7.5.31 / Workplace 7.5.23 / WCM 7.5.19 / MS 7.5.15 / Analytics 7.5.6)
+
+- Fixed an issue that would not send correct emails to AD security groups in sign-off requests (#156745).
+- Fixed an intermittent issue in editing of custom figures in OPM (#154260).
+- Performance improvement to our token handling.
+- Correct people properties now show for pages that were scheduled and have automatic page translation (#157233).
+- Fixes to tasks list rendering in process management layouts (#157265).
+
+
 7.5.29
 ========================================
 (Omnia 7.5.29 / Workplace 7.5.22 / WCM 7.5.18 / MS 7.5.14 / Analytics 7.5.6)
