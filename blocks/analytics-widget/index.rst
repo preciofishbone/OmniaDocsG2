@@ -21,6 +21,16 @@ The following can be set under General:
 
 + **Connection key**: An anlytics filter block kan be connected to one or more widget blocks to use the filters set up in the Analytics filter block. If you want to use the filters from an Analytics filer block here, add the connection key from that block. (And then you don't need to set any filter settings in this block).
 
+Query
+---------
+Here you select web site and category, and when you have selected a category, you can also select widget. Here's an example:
+
+.. image:: analytics-widget-query.png
+
++ **Websites**: Select the website to show analytics data for. In most cases, a "website" is the analytics data for a business profile.
++ **Category**: Select the category to display in the block.
++ **Widget**: Depending on category selected, one or more widgets can be available. Select the widget you want to use.
+
 Display
 ---------
 The following settings are available here:
@@ -29,10 +39,8 @@ The following settings are available here:
 
 **Note!** A preview is shown in the block so you can easily try out different combinations of settings.
 
-+ **Category**: Select the category to display in the block.
-+ **Widget**: Depending on category selected, one or more widgets can be available. Select the widget you want to use.
-+ **View in widget**: For some widgets, different types of views can be available. If there are, this field is shown.
-+ **Websites**: Select the website(s) to show analytics data for. In most cases, a "website" is the analytics data for a business profile.
++ **View in widget**: For some widgets, different types of views can be available. If there are, this field is available.
++ **Optional querystring**: (A description will be added soon).
 + **Height (in px)**: You can either set a height for the block in pixels, or choose to automatically adjust the height. If you choose the latter, this option is not available.
 + **Show scrollbars**: Select this option if you want that.
 + **Automatically adjust height**: Select this option if the height of the block should be adjusted automatically.
