@@ -1,8 +1,6 @@
 Blocks for analytics
 =========================
 
-**This page is just started.**
-
 The following blocks can be available for analytics:
 
 .. toctree::
