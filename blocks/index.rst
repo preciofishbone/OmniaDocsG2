@@ -39,12 +39,7 @@ Blocks
    notification-panel/index
    omnia-block-webpart/index
    organization-tree/index
-   page-feedback/index
-   page-likes-and-comments/index
-   page-properties/index
-   page-rollup/index
    app-posts/index
-   variation-selector/index
    people-rollup/index
    power-app/index
    properties-block/index
