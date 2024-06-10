@@ -1,6 +1,8 @@
 Editing text with the RTF editor
 =====================================
 
+**This page is being edited. Will be finished soon.**
+
 When editing text in Omnia, a RTF editor can be available. What is available in the editor is set up in Omnia admin, and in a few cases in the block itself.
 
 **Note!** Options available in the RTF editor can differ a lot, depending on how it's set up. Not all options described below may be available.
@@ -9,19 +11,17 @@ For more information about the settings, see: :doc:`RTF editor settings </admin-
 
 Using the RTF editor
 **********************
-Here's all of the options that may be available in the editor:
+Here's a common example of available options in the editor:
 
-.. image:: rtf-editor-all-options-v7-2.png
+.. image:: rtf-editor-all-options-76.png
 
-There are two lists and a number of icons available. You use the flag to note the language for the text you're entering. 
+There are two lists and a number of icons available. You point at an icon for a tool tip. Here's an example:
 
-You point at an icon for a tool tip. Here's an example:
+.. image:: rtf-editor-all-tooltip-76.png
 
-.. image:: rtf-editor-all-tooltip-v7-2.png
+Some options are also available as a floating toolbar, when text is selected, for example "Add link", "Keep text only", "OpenAI" (if available) and "Keep text only":
 
-Some options are also available as a floating toolbar, when text is selected, for example "Add link", "Keep text only" and "OpenAI" (if available):
-
-.. image:: rtf-editor-all-floating-v7-2.png
+.. image:: rtf-editor-all-floating-76.png
 
 Se below for more information.
 
@@ -32,7 +32,7 @@ A number of styles can be available. To add a style, do the following:
 1. Select the text.
 2. Open the "Styles" list and select style.
 
-.. image:: rtf-editor-all-style-v7-2.png
+.. image:: rtf-editor-all-style-76.png
 
 This example only shows headings, but there are other styles available below. Any style can be added to this list in Omnia admin (see link above).
 
@@ -43,11 +43,11 @@ To add a link, do the following.
 1. Click where the link should be added, or select some text that should the clickable text for the link.
 2. Click the icon in the toolbar at the top, or in the floating toolbar.
 
-.. image:: rtf-editor-all-link-v7-2.png
+.. image:: rtf-editor-all-link-76.png
 
 The Add link general asset is shown. If you selected text, it's added to the title field:
 
-.. image:: rtf-editor-all-link-title-v7.png
+.. image:: rtf-editor-all-link-title-76.png
 
 See this page for more information: :doc:`Add link </general-assets/add-link/index>`
 
@@ -64,13 +64,13 @@ Here's how to add such a link:
 
 1. Type the text as usual and when you type something that match a term in the enterprise glossary, it's highlighted.
 
-.. image:: rtf-editor-glossary-aware-highlight.png
+.. image:: rtf-editor-glossary-aware-highlight-76.png
 
 2. To add a link to that term (you don't have to), click the term and the following is shown:
 
-.. image:: rtf-editor-glossary-aware-highlight-icons-new.png
+.. image:: rtf-editor-glossary-aware-highlight-icons-76.png
 
-3. Click the left icon to create the link (the one to the left to remove it).
+3. Click the left icon to create the link (the one to the right to remove it).
 
 For more information about glossary terms, see: :doc:`Enterprise glossary </admin-settings/tenant-settings/properties/enterprise-glossary/index>`
 
@@ -81,17 +81,19 @@ You can add an image or a video to the text. This is how:
 1. Click where the image or video should be added.
 2. Click the media icon.
 
-.. image:: rtf-add-image-v7.png
+.. image:: rtf-add-image-76.png
 
 3. Use the media picker to add the image or video.
 
-.. image:: rtf-add-image-media-picker-v7.png
+.. image:: rtf-add-image-media-picker-76.png
+
+Available image or video suppliers will differ depending in setup. This is an example.
 
 See this page for more information: :doc:`Media picker </general-assets/media-picker/index>`
 
 The image/video area fills up the whole width (same width as the text), the height/width ratio intact. Some tools also becomes available. Here's an example for a photo:
 
-.. image:: what-the-heck-v7.png
+.. image:: what-the-heck-76.png
 
 From left to right:
 
@@ -106,11 +108,11 @@ To create a clickable link, click the link tool shown on the image and use the A
 
 When you click the tool to set the image width, the the tool becomes two. Click this one to set the width:
 
-.. image:: rtf-add-image-tools-width-1-v7.png
+.. image:: rtf-add-image-tools-width-1-76.png
 
 The following is shown:
 
-.. image:: rtf-add-image-tools-width-2-v7.png
+.. image:: rtf-add-image-tools-width-2-76.png
 
 Responsive width is the default, meaning the image fills the whole width of the RTF area in the block, with the height/width ratio intact. (This works the same for a video).
 
@@ -120,14 +122,14 @@ Add an animated GIF
 ---------------------
 It can be possible to add an animated GIF to the RTF editor, if settings allow it, using this icon:
 
-.. image:: rtf-animated-gif-icon-v7.png
+.. image:: rtf-animated-gif-icon-76.png
 
 1. click where the animated GIF should be placed.
 2. Click the icon.
 
 Something like the following is now shown:
 
-.. image:: rtf-animated-gif-select-v7.png
+.. image:: rtf-animated-gif-select-76.png
 
 3. Use the search field or just browse to find an animated GIF.
 4. Click the GIF to add it.
@@ -141,14 +143,14 @@ Add an emoji
 ---------------------
 It can be possible to add an emoji to the RTF editor, if settings allow it, using this icon:
 
-.. image:: rtf-emoticon-icon-v7.png
+.. image:: rtf-emoticon-icon-76.png
 
 1. click where the emoji should be placed.
 2. Click the icon.
 
 Something like the following is now shown:
 
-.. image:: rtf-emoticon-select-v7.png
+.. image:: rtf-emoticon-select-76.png
 
 3. Use the search field or just browse to find the emoji you want.
 4. Click the emoji to add it. (You can add more than one if you want to).
