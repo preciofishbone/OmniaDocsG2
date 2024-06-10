@@ -19,6 +19,7 @@ Blocks
    blocks-for-analytics/index
    blocks-event-management/index
    blocks-forms/index
+   process-blocks/index
    breadcrumb/index
    calendar-rollup/index
    channel-rollup/index
@@ -48,7 +49,6 @@ Blocks
    variation-selector/index
    people-rollup/index
    power-app/index
-   process-blocks/index
    properties-block/index
    publishing-app-rollup/index
    user-profile-completion/index
