@@ -16,6 +16,7 @@ Blocks
    blocks-for-analytics/index
    blocks-event-management/index
    blocks-forms/index
+   blocks-for-pages/index
    process-blocks/index
    breadcrumb/index
    calendar-rollup/index
