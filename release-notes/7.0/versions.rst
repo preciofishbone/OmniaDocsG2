@@ -1,3 +1,12 @@
+7.5.34
+========================================
+(Omnia 7.5.34 / Workplace 7.5.26 / WCM 7.5.22 / MS 7.5.16 / Analytics 7.5.6)
+
+- Fixed an issue where teams presence would not render correctly on first page load (#157864).
+- Improved search as you type logic when using the page rollup accelerator (#158009).
+- The page rollup accelerator now correctly adds pages approved into a channel into the index (#157937).
+- Fixed a migration issue for the new date format setting in page rollup views.
+
 7.5.33
 ========================================
 (Omnia 7.5.33 / Workplace 7.5.24 / WCM 7.5.20 / MS 7.5.16 / Analytics 7.5.6)
