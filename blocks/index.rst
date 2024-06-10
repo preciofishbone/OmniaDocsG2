@@ -16,6 +16,7 @@ Blocks
    announcements/index
    authentication-block/index
    banner/index
+   blocks-for-analytics/index
    blocks-event-management/index
    blocks-forms/index
    breadcrumb/index
