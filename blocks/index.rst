@@ -10,9 +10,6 @@ Blocks
    anchor-navigation/index
    button-link/index
    activity-feed/index
-   analytics-filters/index
-   analytics-table-block/index
-   analytics-widget/index
    announcements/index
    authentication-block/index
    banner/index
