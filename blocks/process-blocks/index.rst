@@ -1,5 +1,5 @@
-Process blocks
-=================
+Blocks for processes
+========================
 
 .. toctree::
    :titlesonly:
