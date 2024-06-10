@@ -12,11 +12,11 @@ In this part of the documentation you will find information about general assets
    creating-form-button/index
    custom-date-filtering/index
    document-picker/index
+   rtf-editor/index
    filter-options-block/index
    layout-explorer/index
    media-picker/index
    page-picker/index
-   rtf-editor/index
    security-trimming-apps/index
    share-document/index
    using-anchors/index
