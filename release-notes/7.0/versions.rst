@@ -1,3 +1,15 @@
+7.5.33
+========================================
+(Omnia 7.5.33 / Workplace 7.5.24 / WCM 7.5.20 / MS 7.5.16 / Analytics 7.5.6)
+
+- Re-enabled HTML formatting when using the Page Rollup accelerator (#157574, #157748, )
+- Node-reordeting for big strcutures is now more stable (#149006).
+- Fixed an issue where the event management participant list would not show correctly for readers when external users were added (#157447, #155730).
+- Document picker filters using boolean properties now works as expected. 
+- Fixed an issue that would cause the Page Rollup to lock its setting when getting an empty result back (#153667, #153590, #156096).
+- Scheduling pages with manual variations now works as expected (#157621).
+- Fixed an issue that preventing the move of the FAQ's blocks sections (#157693).
+
 7.5.31
 ========================================
 (Omnia 7.5.31 / Workplace 7.5.23 / WCM 7.5.19 / MS 7.5.15 / Analytics 7.5.6)
