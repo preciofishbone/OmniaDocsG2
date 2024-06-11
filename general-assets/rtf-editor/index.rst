@@ -213,7 +213,7 @@ Here's how to add an anchor:
 
 .. image:: anchor-icon-76.png
 
-4. Edit the suggested anchor name, or keep i as is, and save.
+4. Edit the suggested anchor name, or keep it as is, and save.
 
 .. image:: anchor-name-76.png
 
