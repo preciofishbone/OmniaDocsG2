@@ -13,6 +13,7 @@ New features
 - Several user management improvements including local account ownership.
 - Subscript and superscript are now available as RTF actions. 
 - Its now possible to use bulk update on Tasks.
+- Analytics reports block.
 
 Fixes
 ************
