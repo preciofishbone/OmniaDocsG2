@@ -9,8 +9,6 @@ Here's an example of a Dashoboard set up:
 
 Under Usage, information about active readers and active contributors are shown. What should be considered an active reader or an active contributor is defined in the Metrics settings, see: :doc:`Metric Settings </admin-settings/tenant-settings/settings/metrics/index>`
 
-Note that, a metrics can normally be clicked for more details. Here's en exampl of the pages 
-
 Under Pages, the following is availble:
 
 .. image:: admin-dashboard-page-status-76.png
