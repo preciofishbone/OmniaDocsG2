@@ -279,7 +279,7 @@ In this example the author wanted to write some text about how relaxing fishing 
 
 .. image:: openai-chat-example-76.png
 
-The author then copied bits and pieces of the text en edited it to the description he or she wanted.
+The author then copied bits and pieces of the text and edited it to the description he or she wanted.
 
 HTML
 ------
