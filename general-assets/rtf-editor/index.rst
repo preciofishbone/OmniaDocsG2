@@ -269,7 +269,7 @@ What is available here can differ greatly, if available at all. It's fully up to
 
 If a Custom option is available (can be named something else) you can ask OpenAI to do more or less anything you like (with text that is).
 
-The chat window, which can be called something else (Alameda chat bo in this example), can look this way:
+The chat window, which can be called something else ("Alameda Bot" in this example), can look this way:
 
 .. image:: openai-chat-76.png
 
