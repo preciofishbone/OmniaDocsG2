@@ -1,28 +1,40 @@
 Dashboard implementation example
 ==============================================
 
+**This page is being edited. Will be finished soon.**
+
 Here's an example of a Dashoboard set up:
 
-.. image:: admin-dashboard-usage-newframe.png
+.. image:: admin-dashboard-usage-76.png
 
 Under Usage, information about active readers and active contributors are shown. What should be considered an active reader or an active contributor is defined in the Metrics settings, see: :doc:`Metric Settings </admin-settings/tenant-settings/settings/metrics/index>`
 
-Under Page Status, the following is availble:
+Note that, a metrics can normally be clicked for more details. Here's en exampl of the pages 
 
-.. image:: admin-dashboard-page-status-new2.png
+Under Pages, the following is availble:
 
-A number of tabs are available. What you see in the example is the total status for the tenant. You can choose to see status for just one of the publishing apps. 
-Besides that number of lists has been set up; Most Visited (All), Most Visited (Last month), Underused Pages and Statistics.
+.. image:: admin-dashboard-page-status-76.png
 
-.. image:: admin-dashboard-page-status-lists.png
+A number of tabs are available. What you see in the above example, is the total status for the tenant, on the Status tab. You can choose to see status for just one of the publishing apps. 
+Besides that, a number of lists has been set up; Most Visited (All), Most Visited (Last month), Underused Pages, Statistics and Broken links.
 
-For Underused Pges, something like the following can be shown:
+.. image:: admin-dashboard-page-status-lists-76.png
 
-.. image:: admin-dashboard-underused-pages.png
+Most visited (All) and Most visitied (Last month), lists pages, with the most visited at the top, for example:
+
+.. image:: admin-dashboard-page-status-lists-vitited-76.png
+
+This example is from a test environment. Unique users will be higher in a real environment.
+
+Note that the link for a page can be clicked to go to that page.
+
+For Underused Pages, something like the following can be shown:
+
+.. image:: admin-dashboard-underused-pages-76.png
 
 What should be considered underused content is defined in the Metrics settings, see link above.
 
-Note the list to the right, of pages that has npt been vsitied for a very long time. For more information on the lists, see below.
+Note the list to the right, of pages that has not been vsitied for a very long time. For more information on the lists, see below.
 
 For News, this has been set up:
 
