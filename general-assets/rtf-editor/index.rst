@@ -104,7 +104,7 @@ For a video, it's not possible to create a clickable link. The other three tools
 
 To create a clickable link, click the link tool shown on the image and use the Add link general asset to add the link, see: :doc:`Add link </general-assets/add-link/index>`
 
-When you click the tool to set the image width, the the tool becomes two. Click this one to set the width:
+When you click the tool to set the image width, the following is available:
 
 .. image:: rtf-add-image-tools-width-1-76.png
 
