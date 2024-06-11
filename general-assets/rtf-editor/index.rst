@@ -287,7 +287,7 @@ If it's available, you can work with the HTML code, if you know how. When you cl
 
 .. image:: rtf-editor-html-76.png
 
-The window where you can edit the HTML code can look somthing like this:
+The window where you can edit the HTML code can look something like this:
 
 .. image:: rtf-editor-edit-html-76.png
 
