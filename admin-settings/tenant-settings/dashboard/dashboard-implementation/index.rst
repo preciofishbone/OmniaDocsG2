@@ -18,14 +18,6 @@ Besides that, a number of lists has been set up; Most Visited (All), Most Visite
 
 .. image:: admin-dashboard-page-status-lists-76.png
 
-Most visited (All) and Most visitied (Last month), lists pages, with the most visited at the top, for example:
-
-.. image:: admin-dashboard-page-status-lists-vitited-76.png
-
-This example is from a test environment. Unique users will be higher in a real environment.
-
-Note that the link for a page can be clicked to go to that page.
-
 For Underused Pages, something like the following can be shown:
 
 .. image:: admin-dashboard-underused-pages-76.png
