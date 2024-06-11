@@ -1,3 +1,23 @@
+7.6.2 - Draft
+========================================
+(Omnia 7.6.2 / Workplace 7.6.1 / WCM 7.6.1 / MS 7.6.0 / Analytics 7.6.0)
+
+New features
+************
+
+- Forms are now supported on a per app basis
+- Forms now have support for images
+- Forms can now be handled in a rollup manner like other enteties.
+- Sign-off requests can now be scheduled. 
+- Sign-off requests can now be setup as recurring requests.
+- Several user management improvements including local account ownership.
+
+
+Fixes
+************
+
+- 
+
 7.5.34
 ========================================
 (Omnia 7.5.34 / Workplace 7.5.26 / WCM 7.5.22 / MS 7.5.16 / Analytics 7.5.6)
@@ -11,7 +31,7 @@
 ========================================
 (Omnia 7.5.33 / Workplace 7.5.24 / WCM 7.5.20 / MS 7.5.16 / Analytics 7.5.6)
 
-- Re-enabled HTML formatting when using the Page Rollup accelerator (#157574, #157748, )
+- Re-enabled HTML formatting when using the Page Rollup accelerator (#157574, #157748)
 - Node-reordeting for big strcutures is now more stable (#149006).
 - Fixed an issue where the event management participant list would not show correctly for readers when external users were added (#157447, #155730).
 - Document picker filters using boolean properties now works as expected. 
