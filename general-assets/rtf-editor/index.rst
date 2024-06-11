@@ -38,7 +38,7 @@ Add link
 ----------
 To add a link, do the following.
 
-1. Click where the link should be added, or select some text that should the clickable text for the link.
+1. Click where the link should be added, or select some text that should be the clickable text for the link.
 2. Click the icon in the toolbar at the top, or in the floating toolbar.
 
 .. image:: rtf-editor-all-link-76.png
