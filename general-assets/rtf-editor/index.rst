@@ -85,7 +85,7 @@ You can add an image or a video to the text. This is how:
 
 .. image:: rtf-add-image-media-picker-76.png
 
-Available image or video suppliers will differ depending in setup. This is an example.
+Available image or video suppliers will differ depending on setup. This is an example.
 
 See this page for more information: :doc:`Media picker </general-assets/media-picker/index>`
 
