@@ -221,7 +221,7 @@ For more information about Add link, see: :doc:`Add link </general-assets/add-li
 
 For more information about the action button block, see: :doc:`Action button block </blocks/button-link/index>`
 
-For more information about anchor navigation, see:see: :doc:`Anchor navigation block </blocks/anchor-navigation/index> 
+For more information about anchor navigation, see: :doc:`Anchor navigation block </blocks/anchor-navigation/index>` 
 
 Using machine translation
 ---------------------------
