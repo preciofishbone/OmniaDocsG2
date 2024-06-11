@@ -7,16 +7,30 @@ New features
 
 - Forms are now supported on a per app basis
 - Forms now have support for images
-- Forms can now be handled in a rollup manner like other enteties.
+- Forms can now be handled in a rollup manner like other entities.
 - Sign-off requests can now be scheduled. 
 - Sign-off requests can now be setup as recurring requests.
 - Several user management improvements including local account ownership.
-
+- Subscript and superscript are now available as RTF actions. 
+- Its now possible to use bulk update on Tasks.
 
 Fixes
 ************
 
-- 
+- Improvements to the profile card to correctly hide empty properties (#153287).
+- Stability improvements when restoring from the archive (#153394, #152480).
+- Improved performance when checking out pages that are very complex (#154227).
+- Fixed an issue preventing the preview to render correctly on root page collection layouts (#156179).
+- Fixed an issue preventing certain naming policies from being applied correctly.
+- Stability fixes to the Entra ID sync (#155695).
+- Links now works as expected in important announcements (#156496).
+- Fixed an intermittent issue that would prevent a page from being added to a channel (#154464).
+- Page rollups using navigation path and variation now fallbacks correctly (#145934, #147197, #153918).
+- Page rollups now show default language correctly when a draft in a new variation language is created (#153662).
+- Stability and language improvements to the user onboarding flows (#157598).
+- Quick links now better displays long categories in its legend (#156563).
+- Improved UX when creating pages with duplicate URLs without normally showing the URL input field (#157320).
+
 
 7.5.34
 ========================================
