@@ -285,7 +285,7 @@ HTML
 ------
 If it's available, you can work with the HTML code, if you know how. When you click the icon a separate window is opened, where you do your HTML work.
 
-.. image:: rtf-editor-html-76.png
+.. image:: rtf-editor-html-76-new.png
 
 The window where you can edit the HTML code can look something like this:
 
