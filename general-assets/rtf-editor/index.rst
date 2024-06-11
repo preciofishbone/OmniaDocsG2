@@ -275,11 +275,11 @@ The chat window, which can be called something else, can look this way:
 
 You can ask OpenAI to do any changes to the text, or create new text, by using "normal" conversation. Just try it out, what will be saved is totally up to you.
 
-In this example the author wanted to write som text about how relaxing fishing can be and wanted some suggestions. 
+In this example the author wanted to write some text about how relaxing fishing can be and wanted some suggestions. 
 
 .. image:: openai-chat-example-76.png
 
-The author can then copy bits and peaces of the text en edit it to the description he or she wants.
+The author then copied bits and pieces of the text en edited it to the description he or she wanted.
 
 HTML
 ------
