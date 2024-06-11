@@ -158,14 +158,14 @@ Add a table
 ------------
 To add a table, do the following:
 
-1. click where the table should be placed.
+1. Click where the table should be placed.
 2. Click the table icon.
 
 .. image:: rtf-editor-table-76.png
 
 3. Click somewhere in the table for more options.
 
-Something like the following now becomes available:
+The following options for tables are available:
 
 .. image:: rtf-editor-table-edits-76.png
 
