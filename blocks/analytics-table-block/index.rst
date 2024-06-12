@@ -46,7 +46,15 @@ And the folllowing for Card view:
 
 .. image:: analytics-report-settings-display-card.png
 
-(Details will be added soon).
++ **Sort column**: Select the column to sort on.
++ **Sort order**: Select Ascending or Descendin sort order.
++ **Item limit**: If you just want to display a certain number of items, add a number here. For no limit, keep the field empty.
++ **Add column**: For Table view only. You must add at least one column for Table view to work.
++ **Show flat**: (A description will be added soon).
++ **Show pagination**: For Table view only.
++ **Show column**: For Card view only. 
++ **Custom label**: For Card view only. To add a custom label to the cards, select this option and add the label in the field that is shown.
++ **Description**: For Card view only. To add a description the cards, use this field.
 
 Filter
 --------
