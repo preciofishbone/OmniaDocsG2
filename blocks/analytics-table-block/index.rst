@@ -24,7 +24,7 @@ The following can be set under General:
 .. image:: analytics-report-settings-general.png
 
 + **Title**: You can add a title for the block if needed.
-+ **Connection key**: An anlytics report block kan be connected to one or more widget blocks to use the filters set up in the Analytics filter block. If you want to use the filters from an Analytics filer block here, add the connection key from that block. (And then you don't need to set any filter settings in this block).
++ **Connection key**: An anlytics report block kan be connected to one or more widget blocks to use the filters set up in the Analytics filter block. If you want to use the filters from an Analytics filter block here, add the connection key from that block. (And then you don't need to set any filter settings in this block).
 
 Query
 ---------
