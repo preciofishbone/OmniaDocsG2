@@ -15,7 +15,7 @@ Settings
 *****************
 The following settings are available for this block:
 
-.. image:: analytics-table-settings.png
+.. image:: analytics-report-settings.png
 
 General
 ------------
