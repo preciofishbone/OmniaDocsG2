@@ -101,6 +101,8 @@ Create form
 --------------
 The purpose of this button is to make it possible for app administrators to create a form from any page. Note that the administrator must be app administrator for the app where the form is created.
 
+**Important note!** Forms created this way only exists within the app, they can not be found or edited using the form options for the business profile.
+
 The following settings are available:
 
 .. image:: create-form.png
@@ -109,6 +111,8 @@ The following settings are available:
 + **Type**: Here you can select the form type to be available to create. The types are set up in Omnia admin.
 
 For an example of how creating a form from an action button may work for the user, see this page: :doc:`Creating a form using an action button </general-assets/creating-form-button/index>`
+
+To be able to edit a form created from an action button, add a form rollup with a list view, somewhere in the app. This can be useful for newly created forms. Once users has started to register answers, only some aspects of the form can be edited.
 
 Create page
 -------------
