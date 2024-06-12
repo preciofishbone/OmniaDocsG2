@@ -19,6 +19,8 @@ In the list, you can use the icons (from left to right), to copy the form to a n
 
 .. image:: forms-icons.png
 
+**Note!** Only the forms beloning to the business profile is listed here, meaning created and edited here. Forms created in an app is not listed here, they exist within that app only.
+
 Checking responses
 *********************
 If responses are available (can be for surveys and polls), you can click this icon to check them:
