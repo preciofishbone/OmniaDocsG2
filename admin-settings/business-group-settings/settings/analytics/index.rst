@@ -1,6 +1,8 @@
 Analytics (Matomo) settings
 =============================================
 
+**Important note!** Matomo analytics should not be upgraded manually, using the Matomo user interface. If that is done, the Matomo account simply stops working in Omnia. Omnia will upgrade the Matomo version when it's needed.
+
 Pre requisite: To use Matomo analytics, the tenant feature "Analytics core setup" must be activated, and for a business profile, the feature "Create new analytics website in Matomo" must be activated. 
 
 No set up at tenant level is required.
