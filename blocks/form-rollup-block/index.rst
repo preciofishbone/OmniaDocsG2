@@ -29,7 +29,7 @@ Display
 ----------
 You can select List view or Form view. List view is, as the name suggests, meant for listing all the forms that meet the scope settings.  
 
-The following is available here, if select "List view":
+The following is available here, if you select "List view":
 
 .. image:: form-rollup-display.png
 
@@ -42,7 +42,7 @@ Here's a simple example of a List view:
 
 .. image:: form-rollup-display-list.png
 
-Form view is used to actually display the forms (but also see "Open form as dialog" below). Users can then go to the different steps of the forms that meet the scope, and on to the next form. 
+Form view is used to actually display the forms (but also see "Open form as dialog" below). Users can then go trough the different steps of the forms that meet the scope, and on to the next form. 
 
 Here's a simple example of a Form view:
 
@@ -55,7 +55,7 @@ If you select "Form view", the top part of the settings is different:
 + **Legend alignment**: Select the alignment of the description in the diagrams here. Works together with the Legend position.
 + **Legend position**: Select position for the description in the diagrams, in relation to the Legend alignment.
 + **Show from titel**: Select this option to show the title of the form.
-+ **Open form as dialog**: If you select this option, the actual form is not shown. Instead a button to open the form is show. Users can then click the arrows to see which forms are available, and click the button to open a form to have a look at or use.
++ **Open form as dialog**: If you select this option, the actual form is not shown. Instead a button to open the form is displayed. Users can then click the arrows to see which forms are available, and click the button to open a form to have a look at or use.
 
 In this example, legend alignment is "Start" and legend position is "Right":
 
