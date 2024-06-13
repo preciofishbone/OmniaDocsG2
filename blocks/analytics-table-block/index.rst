@@ -1,8 +1,6 @@
 Analytics report
 ========================
 
-**This page is being updated due to changes in the block's functionality. Will be finished soon**
-
 This is a new block in Omnia 7.6. Using this block you can display a list of pages in a business profile and see the usage.
 
 Here's an example where the block is used in a governance hub with a lot of filter options:
@@ -19,12 +17,9 @@ The following settings are available for this block:
 
 General
 ------------
-The following can be set under General:
+Here, you can set a title for the block, if needed:
 
-.. image:: analytics-report-settings-general.png
-
-+ **Title**: You can add a title for the block if needed.
-+ **Connection key**: An anlytics report block kan be connected to one or more widget blocks to use the filters set up in the Analytics filter block. If you want to use the filters from an Analytics filter block here, add the connection key from that block. (And then you don't need to set any filter settings in this block).
+.. image:: analytics-report-settings-general-new.png
 
 Query
 ---------
@@ -50,7 +45,7 @@ And the folllowing for Card view:
 + **Sort order**: Select Ascending or Descendin sort order.
 + **Item limit**: If you just want to display a certain number of items, add a number here. For no limit, keep the field empty.
 + **Add column**: For Table view only. You must add at least one column for Table view to work.
-+ **Show flat**: (A description will be added soon).
++ **Show flat**: Select this option to instruct Matomo API to return data in a flat structure. This is something you normally should do in Omnia. For more information about this Matomo feature, use ChatGPT.
 + **Show pagination**: For Table view only.
 + **Show column**: For Card view only. 
 + **Custom label**: For Card view only. To add a custom label to the cards, select this option and add the label in the field that is shown.
@@ -58,13 +53,16 @@ And the folllowing for Card view:
 
 Filter
 --------
-You can decide to display a number of filters. Select "Show" to activate a filter.
+The following filter settings are available for this block:
 
-.. image:: analytics-report-settings-filter.png
+.. image:: analytics-report-settings-filter-new.png
 
++ **Connect filter**: An anlytics report block kan be connected to one or more widget blocks to use the filters set up in the Analytics filter block. If you want to use the filters from an Analytics filter block here, select this option and add the connection key from that block.Then you don't need to set any filter settings in this block. If don't select this option, you can add filter settings for this block, as shown in the image. 
 + **Period**: Period can be day, week, month or year.
 + **Period date**: Here you set details for the period. Note that you can add custom settings, see this page for more information: :doc:`Custom date filtering </general-assets/custom-date-filtering/index>`
 + **Properties**: This list can be used to add dimension filters the users can filter on. Select one or more properties and then edit the settings. See below for an example.
+
+Decide which filters to display, by selecting "Show" to activate a filter.
 
 (The message "No dimension filters" are always shown when no properties/dimension filters has been added).
 
