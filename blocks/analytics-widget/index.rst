@@ -40,7 +40,7 @@ The following settings are available here:
 **Note!** A preview is shown in the block so you can easily try out different combinations of settings.
 
 + **View in widget**: For some widgets, different types of views can be available. If there are, this field is available.
-+ **Optional querystring**: (A description will be added soon).
++ **Optional querystring**: For some widgets, adding a query string is possible, but never mandatory. In Matomo, optional query strings are used to identify and track various elements of website visits, such as specific pages, campaigns, or user interactions. For more information, use ChatGPT (Matomo documentation is fully integrated in ChatGPT).
 + **Height (in px)**: You can either set a height for the block in pixels, or choose to automatically adjust the height. If you choose the latter, this option is not available.
 + **Show scrollbars**: Select this option if you want that.
 + **Automatically adjust height**: Select this option if the height of the block should be adjusted automatically.
