@@ -17,7 +17,7 @@ The following can be set under General:
 
 .. image:: analytics-block-general.png
 
-+ **Connection key**: You can create a connection between this block and several Analytics widget blocks. This is how you can use this filter settings in several widget blocks. Just type a suitable connection key.
++ **Connection key**: You can create a connection between this block and one or more Analytics widget blocks and/or Analytics report blocks. This is how you can use this filter settings in several other blocks. Just type a suitable connection key.
 
 Display
 ---------
