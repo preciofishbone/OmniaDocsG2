@@ -1,7 +1,7 @@
 Analytics widget
 =============================================
 
-**This description is being edited. Will be finished soon.**
+**This description is being edited due to changed functionality in the block. Will be finished soon.**
 
 This block is used to display Matomo analytics data. Several blocks can be used on a page, with different settings, to display different aspects of the analytics data.
 
