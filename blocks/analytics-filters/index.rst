@@ -21,7 +21,7 @@ The following can be set under General:
 
 Display
 ---------
-The following settings are available here:
+Under Display you set up the filters
 
 .. image:: analytics-block-display.png
 
