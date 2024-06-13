@@ -9,6 +9,8 @@ No set up at tenant level is required.
 
 Analytics data is always collected separately for each business profile.
 
+Matomo documentation is fully integrated in ChatGPT, so you can use ChatGPT to ask about how to use various parts of Matomo functionality.
+
 **Note!** All users that should have permission to see the analytics data must be added as Analytics readers: Business profil > Permissions > Users and groups > Analytics.
 
 If you need to set up additional geolocation DBIP databases, see this page: :doc:`How to setup additional geolocation DBIP databases </admin-settings/business-group-settings/settings/analytics/set-up-dbip/index>`
