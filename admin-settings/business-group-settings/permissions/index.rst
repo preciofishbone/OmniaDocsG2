@@ -42,7 +42,7 @@ Not that all other permissions concerning the workspace is handled by the genera
 
 Option for Analytics
 ----------------------
-All users that should have permission to see analytics data for the business profile must be added as "Analytics readers". **Note!** That's true for tenant administrators and business profile administrators as well. No administrator has automtaic access to analytics.
+All users that should have permission to see analytics data for the business profile must be added as "Analytics readers". **Note!** That's true for tenant administrators and business profile administrators as well. No administrator has automatic access to analytics. An analytics reader will also be added as a user within Matomo.
 
 .. image:: permissions-analytics.png
 
