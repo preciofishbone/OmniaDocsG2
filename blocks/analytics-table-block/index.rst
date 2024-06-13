@@ -1,7 +1,7 @@
 Analytics report
 ========================
 
-**This page is being updated.**
+**This page is being updated due to changes in the block's functionality. Will be finished soon**
 
 This is a new block in Omnia 7.6. Using this block you can display a list of pages in a business profile and see the usage.
 
