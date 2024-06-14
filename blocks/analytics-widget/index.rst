@@ -1,8 +1,6 @@
 Analytics widget
 =============================================
 
-**This description is being edited due to changed functionality in the block. Will be finished soon.**
-
 This block is used to display Matomo analytics data. Several blocks can be used on a page, with different settings, to display different aspects of the analytics data.
 
 If you will be using the same filter settings in several widget blocks, it can save some time to set the filter settings in an Analytics filters block and connect the widget blocks to the filters block.
@@ -44,7 +42,7 @@ The following settings are available here:
 + **Height (in px)**: You can either set a height for the block in pixels, or choose to automatically adjust the height. If you choose the latter, this option is not available.
 + **Show scrollbars**: Select this option if you want that.
 + **Automatically adjust height**: Select this option if the height of the block should be adjusted automatically.
-+ **Include footer in widget**: For a fotter in the widget block, select this option.
++ **Include footer in widget**: For a footer in the widget block, select this option.
 + **Disable links in widget**: Per default, widget objects can be clicked for more detailed information. If you don't want that, select this option.
 
 Filter
