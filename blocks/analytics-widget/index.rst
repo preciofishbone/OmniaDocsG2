@@ -17,8 +17,6 @@ Here you can add a title for teh block, if needed.
 
 .. image:: analytics-block-widget-general-new.png
 
-+ **Connection key**: An anlytics filter block kan be connected to one or more widget blocks to use the filters set up in the Analytics filter block. If you want to use the filters from an Analytics filer block here, add the connection key from that block. (And then you don't need to set any filter settings in this block).
-
 Query
 ---------
 Here you select web site and category, and when you have selected a category, you can also select widget. Here's an example:
