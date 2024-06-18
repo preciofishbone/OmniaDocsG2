@@ -1,15 +1,13 @@
 Creating a form using an action button
 ========================================================
 
-**This documentation is ongoing. More details will be added soon.**
-
 In Omnia 7.6 and later, an action button can be placed on any publishing page, to make it possible to create a form to be used in a publishing app.
 
-It's meant to be faster and easier, so the options are limited compaired to creating forms using the options in Omnia Admin.
+You must be publishing app administrator for the app you create the form for, to be able to use the button. This is an important difference compaired to the options in Omnia admin, where you have to be business profile administrator to create and edit forms.
+
+It's meant to be faster and easier, so the options are limited compaired to creating forms using the options in Omnia Admin. 
 
 **Note!** A page editor must still see to that the form you create is actually available for users, using a Forms block or a Forms rollup block.
-
-You must be publishing app administrator for the app you create the form for, to be able to use the button. This is an important difference compaired to the options in Omnia admin, where you have to be business profile administrator to create and edit forms.
 
 The button can be formatted in many ways. In this example a crude form is used. The options can also be set up in a number of ways, for examaple in what app the form will be created, so what is shown here it's just an example.
 
@@ -48,4 +46,10 @@ What will be available here will differ depending on how the form type is set up
 .. image:: form-click-button-question-create.png
 
 For more information on type settings, see this page: :doc:`Types for forms </admin-settings/business-group-settings/forms/forms-settings/forms-types/index>`
+
+Edit an app form
+******************
+A form created this way only exists in the app where it's created. It's not available for editing in tha business profile options for forms in Omnia admin.
+
+In a Forms rollup block, a publishing app administrator can edit the app forms. Note that a List view must be used for this to be possible. Note that, if a form already has some answers, just some of the forms options can be edited.
 
