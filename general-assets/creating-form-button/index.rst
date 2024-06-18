@@ -49,7 +49,7 @@ For more information on type settings, see this page: :doc:`Types for forms </ad
 
 Edit an app form
 ******************
-A form created this way only exists in the app where it's created. It's not available for editing in tha business profile options for forms in Omnia admin.
+A form created this way only exists in the app where it's created. It's not available for editing in the business profile options for forms in Omnia admin.
 
-In a Forms rollup block, a publishing app administrator can edit the app forms. Note that a List view must be used for this to be possible. Note that, if a form already has some answers, just some of the forms options can be edited.
+In a Forms rollup block, a publishing app administrator can edit the app forms. Note that a List view must be used for this to be possible. Also note that, if a form already has some answers, just some of the forms options can be edited.
 
