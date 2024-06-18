@@ -1,7 +1,7 @@
 Form question
 ================
 
-The block iz used only when working with the graphic presentation of a form, in Omnia admin. The block can not be used on a normal page.
+The block is used only when working with the graphic presentation of a form, in Omnia admin. The block can not be used on a normal page.
 
 Here's an example of a Form question block added to a Survey:
 
