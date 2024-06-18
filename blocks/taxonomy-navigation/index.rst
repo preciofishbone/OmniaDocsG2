@@ -41,7 +41,7 @@ For the taxonmies where you can select a term, a lot more options are available:
 
 .. image:: taxonomy-navigation-settings-view-76.png
 
-All options are explained here:
+All options are explained below:
 
 + **Line color**: Here you can set color for the lines between levels.
 + **Number of parent levels to show**: Select the number of parent levels to be shown.
@@ -56,7 +56,7 @@ You can set mapping and style for default or current. Current is used if a page 
 
 Mapping
 ---------
-Use these settings to map certain areas to which property to get the information from. There are also a few other settings you can use here:
+Use these settings to map certain areas to which property to get the information from. There are also two other settings you can use here:
 
 .. image:: taxonomy-navigation-settings-view-mapping-v75.png
 
