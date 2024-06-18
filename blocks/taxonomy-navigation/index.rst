@@ -37,11 +37,11 @@ For the taxonomies where there's no term to select, the View options are these:
 
 .. image:: taxonomy-navigation-settings-view-simple.png
 
-For the taxonmies where you can select a term, a lot more options are available:
+For the taxonomies where you can select a term, a lot more options are available:
 
 .. image:: taxonomy-navigation-settings-view-76.png
 
-All options are explained below:
+All options are explained below.
 
 + **Line color**: Here you can set color for the lines between levels.
 + **Number of parent levels to show**: Select the number of parent levels to be shown.
