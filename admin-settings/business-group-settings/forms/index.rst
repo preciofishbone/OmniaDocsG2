@@ -1,7 +1,7 @@
 Forms
 ===========
 
-Here you can work with three types of forms, that can be made available in any pages. 
+Here you can work with three types of forms, that can be made available on any pages. 
 
 .. image:: forms-all-new.png
 
@@ -9,7 +9,7 @@ Surveys has the most options. Polls are similar to surveys but suitable for shor
 
 For settings options, see this page: :doc:`Settings (Forms) </admin-settings/business-group-settings/forms/forms-settings/index>`
 
-To make the forms available for users, there's a Forms block and, in Omnia 7.6 and later, a Form rollups block available. Foor more information, see:
+To make the forms available for users, there's a Forms block and, in Omnia 7.6 and later, a Forms rollu block available. For more information, see:
 
 + :doc:`The Forms block </blocks/blocks/blocks-forms/form/index>`
 + :doc:`The Forms rollup block </blocks/blocks/form-rollup-block/index>`
