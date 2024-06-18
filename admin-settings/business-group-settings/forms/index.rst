@@ -9,10 +9,10 @@ Surveys has the most options. Polls are similar to surveys but suitable for shor
 
 For settings options, see this page: :doc:`Settings (Forms) </admin-settings/business-group-settings/forms/forms-settings/index>`
 
-To make the forms available for users, there's a Forms block and, in Omnia 7.6 and later, a Forms rollup block available. For more information, see:
+To make the forms available for users, there's a Form block and, in Omnia 7.6 and later, a Form rollup block available. For more information, see:
 
-+ :doc:`The Forms block </blocks/blocks-forms/form/index>`
-+ :doc:`The Forms rollup block </blocks/form-rollup-block/index>`
++ :doc:`The Form block </blocks/blocks-forms/form/index>`
++ :doc:`The Form rollup block </blocks/form-rollup-block/index>`
 
 In Omnia 7.6 and later, Forms can also be created using an action button. Such forms are only available in the app where they are created. They are not available here for editing. For more information, see: :doc:`Creating a form using an action button </general-assets/creating-form-button/index>`
 
