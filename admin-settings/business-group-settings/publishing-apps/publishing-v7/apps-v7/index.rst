@@ -76,7 +76,7 @@ Available settings depends on how the template is set up. Here are some common e
 
 + **App administrators**: The active administrator (you) is automatically added as app administrator. Add or delete administrators as needed. There must always be at least one.
 
-3. In the last setp, summary, you cen check the settings you have made, and edit them if necessary.
+3. In the last step, Summary, you can check the settings you have made, and edit them if necessary.
 
 4. When you're done: click CREATE or SEND FOR APPROVAL, depending on how the temnplate is set up.
 
