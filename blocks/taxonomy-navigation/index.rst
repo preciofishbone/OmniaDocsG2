@@ -58,10 +58,10 @@ Mapping
 ---------
 Use these settings to map certain areas to which property to get the information from. There are also two other settings you can use here:
 
-.. image:: taxonomy-navigation-settings-view-mapping-v75.png
+.. image:: taxonomy-navigation-settings-view-mapping-v76.png
 
 + **Show more link**: A "Show more" link can be added to the cards by selecting this option. 
-+ **Add column**: This lable is wrong. Should be "Add property" (will be changed in system soon). Use it to add additional properties to be shown on the card.
++ **Add property**: Use this option to add additional properties to be shown on the card.
 
 Style
 ----------
