@@ -20,7 +20,7 @@ Here you can set the following:
 .. image:: announcements-settings-general-v75.png
 
 + **Title**: If a title should be shown for the block, add it in this field. If no variation exists for the page, it looks like in the image above and you can set the title in the languages active in the tenant. If variations exists, only one title can be set. In that case, titles in other languages are set in the variations.
-+ **Announcement view type**: Select to display normal announcements or high priority announcements.
++ **Announcement view type**: You can choose to display all announcements (meaning both normal and high priority) or high priority announcements only. (Options has deen changed, image will be replaced soon).
 + **Hide block when no data**: As it says, select this to not show the block when there are no announcements to show for the logged in user.
 + **Padding**: Use this option to set some padding for the text within the block.
 
