@@ -102,7 +102,7 @@ The settings are the same for all form types. All settings you use when creating
 + **When closed**: Here you can select what will happen when the user is finished with the form. Same options as above.
 + **Limit respone time**: With this option active, you can set a start date and/or an end date.
 
-Here's an example where an image is added to a form (shown in the Forms block):
+Here's an example where an image is added to a form (shown in the Form block):
 
 .. image:: forms-image-762.png
 
