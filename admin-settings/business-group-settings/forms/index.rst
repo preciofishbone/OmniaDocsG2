@@ -86,8 +86,9 @@ Settings
 ***********
 The settings are the same for all form types. All settings you use when creating a form are available when editing (but not all can be changed for all types of forms).
 
-.. image:: forms-settings.png
+.. image:: forms-settings-76.png
 
++ **ADD IMAGE**: (Available in Omnia 7.6.2). Click here to add an image for the form, using Media picker. When adding the form to the Forms block, the editor can decide to use the image, or not. Also, see below for an example.
 + **Title**: Add a Title for the form here, in any or all of the available languages.
 + **Use points**: Selected per default for Surveys, but can be changed.
 + **Use correct answer**: If it should be possible to show correct answers, after the user has submitted answers, select this option. Selected per default for checkups.
@@ -98,7 +99,12 @@ The settings are the same for all form types. All settings you use when creating
 + **Make responses anonymus**: When "Enable submission" is selected, you can schoose to make answers anonymus. If you do, it's not possible for administrators on any level to trace user submissions. Selected per default for polls.
 + **Custom submit label**: When "Enable submission" is selected, you can add a label here if needed.
 + **On submission**: When "Enable submission" is selected, you select what will happen on submission: "Show message" meaning the message you can add above, "Show user respone" and/or "Show all responses" - meaning all user responses for this surevy or poll, so far.
-+ **Open**: Select this option for dates when the form should be available, and then add a start date and an snd date.
++ **When closed**: Here you can select what will happen when the user is finished with the form. Same options as above.
++ **Limit respone time**: With this option active, you can set a start date and/or an end date.
+
+Here's an example where an image is added to a form (shown in the Forms block):
+
+.. image:: forms-image-762.png
 
 Don't forget to save the settings.
 
