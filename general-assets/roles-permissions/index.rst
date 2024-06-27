@@ -35,6 +35,7 @@ Business profile administrator
 A tenant administrator creates the business profiles needed, and adds at least one administrator for each business profile.
 
 A business profile administrator can:
+
 + Edit all settings for the business profile, in Omnia admin.
 + Edit permissions for the business profile, including adding and removing business profile administrators.
 + Create publishing apps in the business profile.
