@@ -21,6 +21,7 @@ These permissions can be set for the tenant:
 (Image)
 
 **Directory Reader**: Can view all user profiles in the user directory (read-only access). This includes permissions to use the identity picker for selecting users and to access aggregated user information in the people rollup using the Users scope.
+
 **Shared links administrator for the tenant**: Can use all Shared links options for the tenant.
 
 (Image)
@@ -43,12 +44,15 @@ These permissions can be set in the business profile:
 (Image)
 
 **Business profile viewers**: To be able to access a business profile and use the various user options, user’s must be added to the Business profile viewers list. 
+
 **Workspace designer**: Can work with all workspace settings within the business profile.
 
 (image)
 
 **Workspace contributor**: Users/groups that should be able to comment on business profile announcements and be able to send organization wide posts, must be added as workspace contributors.
+
 **Workspace reader**: can use the workspace navigation within the business profile.
+
 **Analytics readers**: All users that should have permission to see analytics data for the business profile must be added as “Analytics readers. That’s true for tenant administrators and business profile administrators as well. No administrator has automatic access to analytics. An analytics reader will also be added as a user within Matomo.
 **Shared links administrator in a business profile**: Can use the options for Shared links within the business profile. 
 
@@ -107,23 +111,8 @@ The permissions settings are available at the top node of the page collection.
 (Image permission)
 
 **Page collection editor**: can create, delete and restore pages in the page collection and use Design mode to work with sections and blocks on pages. A page collection editor can also use Write mode (meaning, can do all an author can do, as well).
+
 **Page collection author**: can edit contents on pages in the page collection, using Write mode.
+
 **Page collection reader**: All colleagues that should be able to read information in a page collection must have the permission “Page collection reader”. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
