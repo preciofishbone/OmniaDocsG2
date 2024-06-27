@@ -50,11 +50,12 @@ Here's a simple example of a Form view:
 
 If you select "Form view", the top part of the settings is different:
 
-.. image:: form-rollup-display-form-view.png
+.. image:: form-rollup-display-form-view-76.png
 
 + **Legend alignment**: Select the alignment of the description in the diagrams here. Works together with the Legend position.
 + **Legend position**: Select position for the description in the diagrams, in relation to the Legend alignment.
-+ **Show from titel**: Select this option to show the title of the form.
++ **Show from title**: Select this option to show the title of the form.
++ **Show form image**: To show the images from the forms, if any, select this option. 
 + **Open form as dialog**: If you select this option, the actual form is not shown. Instead a button to open the form is displayed. Users can then click the arrows to see which forms are available, and click the button to open a form to have a look at or use.
 
 In this example, legend alignment is "Start" and legend position is "Right":
@@ -64,6 +65,10 @@ In this example, legend alignment is "Start" and legend position is "Right":
 In this example, "Open form as dialog" is selected:
 
 .. image:: form-as-dialog.png
+
+In this example an image has been added to the form:
+
+.. image:: form-rollup-image.png
 
 Filter
 ---------
