@@ -1,9 +1,7 @@
 Roles and permissions in Omnia
 ==================================
 
-**Work on this page is ongoing, Will be finished soon.**
-
-This page contains an overview of roles and permissions in Omnia.
+This page contains a short overview of roles and permissions in Omnia.
 
 Roles and permissions in Omnia admin
 ****************************************
