@@ -17,6 +17,7 @@ In this part of the documentation you will find information about general assets
    layout-explorer/index
    media-picker/index
    page-picker/index
+   roles-permissions/index
    security-trimming-apps/index
    share-document/index
    using-anchors/index
