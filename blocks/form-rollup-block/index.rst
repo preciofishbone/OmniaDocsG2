@@ -55,7 +55,7 @@ If you select "Form view", the top part of the settings is different:
 + **Legend alignment**: Select the alignment of the description in the diagrams here. Works together with the Legend position.
 + **Legend position**: Select position for the description in the diagrams, in relation to the Legend alignment.
 + **Show from title**: Select this option to show the title of the form.
-+ **Show form image**: To show the images from the forms, if any, select this option. 
++ **Show form image**: (Available in Omnia 7.6.2). To show the images from the forms, if any, select this option. 
 + **Open form as dialog**: If you select this option, the actual form is not shown. Instead a button to open the form is displayed. Users can then click the arrows to see which forms are available, and click the button to open a form to have a look at or use.
 
 In this example, legend alignment is "Start" and legend position is "Right":
