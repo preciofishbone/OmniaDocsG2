@@ -16,7 +16,7 @@ A tenant administrator can:
 
 These permissions can be set for the tenant:
 
-.. image:: users-groups-tenant.png
+.. image:: permissions-tenant.png
 
 **Directory Reader**: Can view all user profiles in the user directory (read-only access). This includes permissions to use the identity picker for selecting users and to access aggregated user information in the people rollup using the Users scope.
 
