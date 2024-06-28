@@ -1,6 +1,6 @@
 Text
 =============
-Use this block to add text anywhere on a page. You can use it just to add a container an editor can to add text to, or you can add some default text an editor can edit using Write mode, or text that editors can't edit.
+Use this block to add text anywhere on a page. You can use it just to add a container an editor can add text to, or you can add some default text an editor can edit using Write mode, or text that editors can't edit.
 
 When adding text to the block some basic formatting can be available, depending on the type of text set for the block. Here's an example with the formatting options for rich text:
 
