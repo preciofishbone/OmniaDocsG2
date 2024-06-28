@@ -10,7 +10,7 @@ Tenant Administrator
 ----------------------
 A tenant administrator can: 
 
-+ Edit all settings in Omnia admin.
++ Edit all tenant settings in Omnia admin.
 + Add colleagues to various permissions within the tenant.
 + Create business profiles and add business profile administrators.
 
