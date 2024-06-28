@@ -52,11 +52,11 @@ These permissions can be set in the business profile:
 
 **Workspace reader**: Can use the workspace navigation within the business profile.
 
-**Analytics readers**: All users that should have permission to see analytics data for the business profile must be added as “Analytics readers. That’s true for tenant administrators and business profile administrators as well. No administrator has automatic access to analytics. An analytics reader will also be added as a user within Matomo.
+**Analytics readers**: All users that should have permission to see analytics data for the business profile must be added as “Analytics readers". That’s true for tenant administrators and business profile administrators as well. No administrator has automatic access to analytics. An analytics reader will also be added as a user within Matomo.
 
-**Shared links administrator in a business profile**: Can use the options for Shared links within the business profile. 
+**Shared links administrator (business profile)**: Can use the options for Shared links within the business profile. 
 
-**Announcements administrator in a business profile**: Can use the Announcements options within the business profile.
+**Announcements administrator (business profile)**: Can use the Announcements options within the business profile.
 
 .. image:: announcements-bp.png
 
