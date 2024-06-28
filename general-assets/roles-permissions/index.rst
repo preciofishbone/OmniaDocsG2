@@ -20,11 +20,11 @@ These permissions can be set for the tenant:
 
 **Directory Reader**: Can view all user profiles in the user directory (read-only access). This includes permissions to use the identity picker for selecting users and to access aggregated user information in the people rollup using the Users scope.
 
-**Shared links administrator for the tenant**: Can use all Shared links options for the tenant.
+**Shared links administrator (tenant)**: Can use all Shared links options for the tenant.
 
 .. image:: shared-links-tenant.png
 
-**Announcements administrator for the tenant**: Can use all announcements options for the tenant.
+**Announcements administrator (tenant)**: Can use all announcements options for the tenant.
 
 .. image:: announcements-tenant.png
 
