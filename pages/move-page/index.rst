@@ -33,6 +33,8 @@ Move a node
 ******************
 The option "Move node" can be used for moving a single page or a page with all it's sub pages, anywhere within the publishing app.
 
+**Note!** There's a differénce between move as sibling and move as child, that is not yet explained here. It will be added as soon as the vacation period is over.
+
 Note that you need to use this option if you want to move a single page outside the current level.
 
 1. Select the node you want to move.
