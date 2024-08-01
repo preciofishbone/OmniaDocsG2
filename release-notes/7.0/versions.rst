@@ -1,3 +1,12 @@
+7.6.5
+========================================
+(Omnia 7.6.5 / Workplace 7.6.3 / WCM 7.6.4 / MS 7.6.3/ Analytics 7.6.2)
+
+- Updated matomo to the latest version (#158402).
+- Fixed an issue in the RTF editor when positioning an image next to a bullet list.
+- Process management sub process titles and shape titles are now better separated to support really long titles (#158175).
+- Stability improvements to the page rollup accelerator (#158092).
+
 7.6.4
 ========================================
 (Omnia 7.6.4 / Workplace 7.6.3 / WCM 7.6.3 / MS 7.6.2/Analytics 7.6.0)
