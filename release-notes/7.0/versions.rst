@@ -1,3 +1,18 @@
+7.6.3
+========================================
+(Omnia 7.6.3 / Workplace 7.6.2 / WCM 7.6.2 / MS 7.6.1 / Analytics 7.6.0)
+
+- Fixed an issue in adding or removing poll options (#158104).
+- Fixed an issue that would cause search results to not open correctly (#157900).
+- Improved the handling of adding anchor links.
+- Stability improvements to teamwork creation (#151771).
+- Matomo update request emails are no longer being sent (Matomo updates will be included in Omnia releases and should not be updated using Matomo itself)
+- Removed a required feature upgrade for Controlled Documents.
+- Stability improvements to automatic translations (#157854).
+- Added correct date converter to show birthday in the new profile card.
+
+
+
 7.6.2
 ========================================
 (Omnia 7.6.2 / Workplace 7.6.1 / WCM 7.6.1 / MS 7.6.0 / Analytics 7.6.0)
