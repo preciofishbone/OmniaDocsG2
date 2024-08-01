@@ -1,3 +1,15 @@
+7.6.4
+========================================
+(Omnia 7.6.4 / Workplace 7.6.3 / WCM 7.6.3 / MS 7.6.2/Analytics 7.6.0)
+
+- Navigation nodes can now be moved as a sibling to a place in the navigation structure (#158150).
+- Improved handling for when an MFA sign in to Omnia fails (#158170).
+- (OnPrem) Fixed the permission syncing for the teamwork rollup (#158174).
+- Improved stability to process authoring when publishing a process (#158123).
+- Fixed an issue in the forms block preventing an editor to select forms they should have access to (#158340).
+- Fixed an issue related to app instance URL updates (#156784).
+
+
 7.6.3
 ========================================
 (Omnia 7.6.3 / Workplace 7.6.2 / WCM 7.6.2 / MS 7.6.1 / Analytics 7.6.0)
