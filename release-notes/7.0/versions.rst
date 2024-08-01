@@ -1,3 +1,24 @@
+7.6.7
+========================================
+(Omnia 7.6.7 / Workplace 7.6.6 / WCM 7.6.6 / MS 7.6.5 / Analytics 7.6.2)
+
+- The analytics reports block is now available.
+- It is now possible to make comments mandatory when unpublishing a controlled document.
+- When resetting an Omnia account, the user will now be redirected correctly.
+- Fixed an issue when saving a form that have active answers. 
+- The "no result message" now works as expected in the Media rollup.
+- Process tasks can now display longer titles.
+- "Set as Default control" now works as expected in Controlled documents.
+- Sign-off requests will now send emails to Omnia users.
+- Improvements to the editing experience on Mobile.
+- Capital letters now display as expected in rollup filters (#158342).
+- Media rollup refiners now work as expected. 
+- Performance optimizations. 
+- Fixed an issue related to adding options in forms (#158104).
+- When adding a website tab in Teams, omnia will no longer load (so that the SharePoint page can work) (#152811).
+
+
+
 7.6.6
 ========================================
 (Omnia 7.6.6 / Workplace 7.6.4 / WCM 7.6.5 / MS 7.6.4/ Analytics 7.6.2)
