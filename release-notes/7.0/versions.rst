@@ -1,5 +1,12 @@
 7.6.5
 ========================================
+(Omnia 7.6.6 / Workplace 7.6.4 / WCM 7.6.5 / MS 7.6.4/ Analytics 7.6.2)
+
+- Fixed an issue causing duplicate anchor names in steppers (#158303).
+- For single step page approval, the correct approval email is now sent (#157741).
+
+7.6.5
+========================================
 (Omnia 7.6.5 / Workplace 7.6.3 / WCM 7.6.4 / MS 7.6.3/ Analytics 7.6.2)
 
 - Updated matomo to the latest version (#158402).
