@@ -1,3 +1,11 @@
+7.6.9
+========================================
+(Omnia 7.6.9 / Workplace 7.6.7 / WCM 7.6.7 / MS 7.6.6 / Analytics 7.6.2)
+
+- Fixed an issue causing document related links to show as custom links (#158701).
+- Fixes for WCAG to the current navigation (#153826).
+- The forms rollup now give correct results when querying forms from multiple apps (#158649).
+
 7.6.7
 ========================================
 (Omnia 7.6.7 / Workplace 7.6.6 / WCM 7.6.6 / MS 7.6.5 / Analytics 7.6.2)
@@ -16,7 +24,8 @@
 - Performance optimizations. 
 - Fixed an issue related to adding options in forms (#158104).
 - When adding a website tab in Teams, omnia will no longer load (so that the SharePoint page can work) (#152811).
-
+- THe page property block now hides itself if no properties in the block has values (#156655).
+- 
 
 
 7.6.6
