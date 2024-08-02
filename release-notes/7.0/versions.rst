@@ -1,10 +1,25 @@
+7.6.14
+========================================
+(Omnia 7.6.14 / Workplace 7.6.12 / WCM 7.6.11 / MS 7.6.10 / Analytics 7.6.2)
+
+- Several performance improvements related to authentication tokens.
+- Business profile viewers can now get app instance metadata (#158542).
+- The process rollup title now has the correct colour (#158469).
+- Fixed an issue preventing direct input in date pickers (#158666).
+- When creating pages using default values from the current page, the values now properly render in the new page dialog (#158584).
+- The document rollup now supports a multilingual title.
+- Fixed an issue in the page rollup to ensure the current page is excluded if configured to do so (#158631, #158640).
+- Fixed an issue causing old forms to require too high permissions to be shown (#158840, #158812).
+- The send page as email feature now has better handling for images (#158793).
+
 7.6.9
 ========================================
 (Omnia 7.6.9 / Workplace 7.6.7 / WCM 7.6.7 / MS 7.6.6 / Analytics 7.6.2)
 
 - Fixed an issue causing document related links to show as custom links (#158701).
 - Fixes for WCAG to the current navigation (#153826).
-- The forms rollup now give correct results when querying forms from multiple apps (#158649).
+- The forms rollup now gives correct results when querying forms from multiple apps (#158649).
+
 
 7.6.7
 ========================================
