@@ -1,9 +1,9 @@
-Analytics counter block
+Analytics counter
 ==================================
 
 This is a new block in Omnia 7.7.
 
-Use it to display simple analytics counters for a chosen website. Here's an example, just after settings the block up, so not muuch has happened yet.
+Use it to display simple analytics counters for a chosen website. Here's an example, just after setting up the block up, so not muuch has happened yet.
 
 .. image:: analytics-counter-example.png
 
