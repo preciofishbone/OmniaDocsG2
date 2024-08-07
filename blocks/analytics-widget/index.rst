@@ -53,7 +53,7 @@ These settings are available:
 + **Period**: Decide if you want to display period, and if you do, select the period in the list.
 + **Period date**: Decide if you want to display period date, and if you do, select period date in the list.
 + **Properties**: Add the properties you want use here. Click the plus for a property you select to add it.
-+ **No dimension filters**: Dimensions are set up in the Matomo settings (business profile level). If they should not be used in this block, select this option. 
++ **No dimension filters**: This is just information. When no properties has been set up as dimensions, this message is shown. 
 
 Decide which filters to display, by selecting "Show" to activate a filter.
 
