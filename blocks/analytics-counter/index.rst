@@ -18,7 +18,7 @@ General
 -----------
 As usual for a block, a block title can be added here, in any tenant language.
 
-..image:: analytics-counter-settings-general.png
+.. image:: analytics-counter-settings-general.png
 
 Query
 -----------
