@@ -26,8 +26,7 @@ Under Display you set up the filters
 + **Period**: Decide if you want to display period, and if you do, select period in the list.
 + **Period date**: Decide if you want to display period date, and if you do, select period date in the list.
 + **Properties**: Add the properties you want use here. Click the plus for a property you select to add it.
-
-This is just information. When no properties has been set up as deminsions, this message is shown.
++ **No dimension filters**: This is just information. When no properties has been set up as dimensions, this message is shown.
 
 Style
 ---------
