@@ -6,6 +6,7 @@ The following blocks can be available for analytics:
 .. toctree::
    :titlesonly:
 
+   /blocks/analytics-counter/index
    /blocks/analytics-filters/index
    /blocks/analytics-table-block/index
    /blocks/analytics-widget/index   
