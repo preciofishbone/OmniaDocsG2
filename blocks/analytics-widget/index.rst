@@ -9,7 +9,7 @@ Pre requisite: To use Matomo analytics, the tenant feature “Analytics core set
 
 The following settings are available for this block:
 
-.. image:: analytics-widget-block.png
+.. image:: analytics-widget-block-77.png
 
 General
 ---------
