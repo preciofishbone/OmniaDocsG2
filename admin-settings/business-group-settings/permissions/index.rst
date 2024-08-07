@@ -40,7 +40,7 @@ The permission settings for Workspace are a bit different, but users and groups 
 
 Not that all other permissions concerning the workspace is handled by the general business profile permissions settings.
 
-Option for Analytics
+Options for Analytics
 ----------------------
 All users that should have permission to see analytics data for the business profile must be added as "Analytics readers". **Note!** That's true for tenant administrators and business profile administrators as well. No administrator has automatic access to analytics. An analytics reader will also be added as a user within Matomo (not in Omnia 7.6, see below).
 
