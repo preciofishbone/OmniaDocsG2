@@ -1,6 +1,24 @@
-7.6.14
+7.6.20
 ========================================
-(Omnia 7.6.14 / Workplace 7.6.12 / WCM 7.6.11 / MS 7.6.10 / Analytics 7.6.2)
+(Omnia 7.6.20 / Workplace 7.6.15 / WCM 7.6.15 / MS 7.6.11/ Analytics 7.6.2)
+
+- Fixed an issue causing page properties to not render when main channel was displayed (#159129, #159158)
+- Fixed an issue block input of person fields in the User Profile completion form (#158971).
+- Improved integration with the Bing image provider (#158622).
+- Stability improvements to Omnia Search index updates for big tenants. 
+
+7.6.18
+========================================
+(Omnia 7.6.18 / Workplace 7.6.14 / WCM 7.6.14 / MS 7.6.11 / Analytics 7.6.2)
+
+- Improved stability to the SharePoint page sync job.
+- Fixed an issue when using multilingual titles for process steps (#158116).
+- Rich text App Instances properties no render correctly in the properties block (#158448).
+
+
+7.6.16
+========================================
+(Omnia 7.6.16 / Workplace 7.6.13 / WCM 7.6.12 / MS 7.6.10 / Analytics 7.6.2)
 
 - Several performance improvements related to authentication tokens.
 - Business profile viewers can now get app instance metadata (#158542).
