@@ -21,7 +21,7 @@ Query
 ---------
 Here you select web site and category, and when you have selected a category, you can also select widget. Here's an example:
 
-.. image:: analytics-widget-query.png
+.. image:: analytics-widget-query-77.png
 
 + **Websites**: Select the website to show analytics data for. In most cases, a "website" is the analytics data for a business profile.
 + **Category**: Select the category to display in the block.
