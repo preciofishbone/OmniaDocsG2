@@ -62,6 +62,25 @@ Here you set up the query for the tab.
 + **AddfFilter**: Available when scope has been selected. Here you select one ot more filters for pages to rollup. One example is channels for the scope Tenant.
 + **Sign-off requests**: This option can be available depending on setup. You can choose to show sign off requests for the scope and if you do that, you can choose to hide finished requests.
 
+Multiple query tab
+*******************
+As the title implies, this tab can be used för multiple queries:
+
+.. image:: omnia-feed-tabs-query-mulitple-v7.png
+
+General and Targeting contains general settings, see above.
+
+To use one or more queries on this tab, click the plus, and select query type:
+
+.. image:: omnia-feed-tabs-query-mulitple-type-v7.png
+.. image:: omnia-feed-tabs-query-mulitple-type-v7-2.png
+
+For a Pages rollup you can choose one or more page collections, business profiles, publishings apps or the whole tenant. An then, in the second list, one or more withing the scope.
+
+.. image:: omnia-feed-tabs-query-mulitple-type-pages.png
+
+
+
 Display settings
 -----------------
 The following settings are available here:
