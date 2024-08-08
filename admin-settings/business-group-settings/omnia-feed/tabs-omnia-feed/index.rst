@@ -79,7 +79,11 @@ For a Pages rollup you can choose one or more page collections, business profile
 
 .. image:: omnia-feed-tabs-query-mulitple-type-pages.png
 
+Display and Notification has the same type of options as for the Query tab.
 
+For a Forms rollup you can choose Tenant, one or more business profiles or one or more app instances. You can then add filters the same way as for other rollups.
+
+.. image:: omnia-feed-tabs-query-mulitple-type-forms.png
 
 Display settings
 -----------------
