@@ -88,7 +88,7 @@ For the detailed options, read the options carefully. They should be self explan
 
 Multiple query tab
 *******************
-As the title implies, this tab can be used för multiple queries:
+As the title implies, this tab can be used for multiple queries:
 
 .. image:: omnia-feed-tabs-query-mulitple-v7.png
 
@@ -101,7 +101,7 @@ To use one or more queries on this tab, click the plus, and select query type:
 
 Pages
 -------
-For a Pages rollup you can choose one or more page collections, business profiles, publishings apps or the whole tenant. An then, in the second list, one or more withing the scope.
+For a Pages rollup you can choose one or more page collections, business profiles, publishing apps or the whole tenant. And then, in the second list, one or more within the scope.
 
 .. image:: omnia-feed-tabs-query-mulitple-type-pages.png
 
