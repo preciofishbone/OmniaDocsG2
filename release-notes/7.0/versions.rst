@@ -1,11 +1,14 @@
-7.6.20
+7.6.21
 ========================================
-(Omnia 7.6.20 / Workplace 7.6.15 / WCM 7.6.15 / MS 7.6.11/ Analytics 7.6.2)
+(Omnia 7.6.21 / Workplace 7.6.16 / WCM 7.6.15 / MS 7.6.11/ Analytics 7.6.2)
 
-- Fixed an issue causing page properties to not render when main channel was displayed (#159129, #159158)
+- Fixed an issue causing page properties to not render when main channel was displayed (#159129, #159158).
 - Fixed an issue block input of person fields in the User Profile completion form (#158971).
 - Improved integration with the Bing image provider (#158622).
 - Stability improvements to Omnia Search index updates for big tenants. 
+- Fixed an issue preventing linked images to be centered in the RTF editor (#159016).
+- Prevented incorrect node structure to be created when move page from navigation structure page collection to flat page collection (#159056).
+- 
 
 7.6.18
 ========================================
