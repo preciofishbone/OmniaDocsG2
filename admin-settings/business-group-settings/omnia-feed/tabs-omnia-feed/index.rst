@@ -99,12 +99,16 @@ To use one or more queries on this tab, click the plus, and select query type:
 .. image:: omnia-feed-tabs-query-mulitple-type-v7.png
 .. image:: omnia-feed-tabs-query-mulitple-type-v7-2.png
 
+Pages
+-------
 For a Pages rollup you can choose one or more page collections, business profiles, publishings apps or the whole tenant. An then, in the second list, one or more withing the scope.
 
 .. image:: omnia-feed-tabs-query-mulitple-type-pages.png
 
 Display and Notification has the same type of options as for the Query tab.
 
+Forms
+----------
 For a Forms rollup you can choose Tenant, one or more business profiles or one or more app instances. You can then add filters the same way as for other rollups.
 
 .. image:: omnia-feed-tabs-query-mulitple-type-forms.png
@@ -113,7 +117,9 @@ For Display, you can use the same settings as the Tab View settings for the Quer
 
 For Notification, you can decide to enable push notification for this rollup, or not.
 
-
+Sign-off requests
+------------------
+(This option is not implemented yet, will be soon).
 
 Link tab
 **********
