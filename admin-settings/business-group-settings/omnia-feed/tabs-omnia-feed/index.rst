@@ -19,7 +19,7 @@ Adding a new tab
 ******************
 To add a new tab, click the plus. Then select the type of tab you want to add.
 
-.. image:: omnia-feed-tabs-select-v7-2.png
+.. image:: omnia-feed-tabs-select-77.png
 
 General tab settings
 ***********************
