@@ -6,9 +6,10 @@
 - Fixed an issue block input of person fields in the User Profile completion form (#158971).
 - Improved integration with the Bing image provider (#158622).
 - Stability improvements to Omnia Search index updates for big tenants. 
-- Fixed an issue preventing linked images to be centered in the RTF editor (#159016).
+- Fixed an issue preventing linked images to be centred in the RTF editor (#159016).
 - Prevented incorrect node structure to be created when move page from navigation structure page collection to flat page collection (#159056).
-- 
+- Fixed a case where the media rollup would not show any result when having one corrupt image in the search result (#158945).
+
 
 7.6.18
 ========================================
