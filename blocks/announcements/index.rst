@@ -1,7 +1,7 @@
 Announcements
 ===========================================
 
-Announcements are created by administrators and will display important information in the whole tenant, or for a certain business profile. The Priority (status) of an announcement can be Normal or High. Announcements can be displayed at the top or in a block, which is what's described here.
+Announcements are created by administrators and will display important information in the whole tenant, or for a certain business profile. The priority (status) of an announcement can be Normal or High. Announcements can be displayed at the top or in a block, which is what's described here.
 
 An announcement displayed in a block can look like this for the user:
 
