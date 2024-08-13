@@ -98,11 +98,20 @@ Something like the following is shown:
 
 .. image:: controlled-permissions-2-76.png
 
-You can add/remove groups and/or users in these lists.
+How this works depends on settings for document management at tenant level. In this example, authors of controlled documents are set as "Site owners and members", and additonally that a approvers permission group will be used. In this case, these settings works as follows:
 
-If permission groups are used, as in the example above, you can add and remove users in these groups by using the SharePoint standard functionality "Advanced permissions settings" - found under "Site permissions" in the settings for the site. 
+You can add/remove groups and/or users for readers and approvers the usual way.
 
-.. image:: advanced-permissions-settings-new2.png
+To add authors, that's a bit different:
+
+1. Click the link "Group owner and members".
+
+.. image:: click-owners.png
+
+2. Add owners and members for the site, as needed.
+3. Read the description carefully once you have clicked "Add members".
+
+.. image:: click-owners-read.png
 
 Note that external users that has been invited in Entra ID can be added here as well. Users invited this way can log in with their own Microsoft 365 account.
 
