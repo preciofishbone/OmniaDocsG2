@@ -86,7 +86,7 @@ Permissions
 ************
 If Document management is set up for using permission groups, you can, as an administrator (Owner) of the teamsite, edit these permissions.
 
-**Important note for Omnia 7.0 and later!** Only SharePoint users can be added here (not Omnia only users). Also note that a user or a group must be permissions enabled to show up in the list.
+**Important note for Omnia 7.0 and later!** Only SharePoint users can be added here (not Omnia only users). Also note that a user or a group must be permissions enabled to show up in the lists.
 
 Do the following:
 
