@@ -58,13 +58,13 @@ Use this setting to select one or more document types to be suggested when an au
 
 As an example, these settings:
 
-.. image:: default-types-example-2.png
+.. image:: default-types-example-2-76.png
 
 Will result in the following:
 
-.. image:: default-types-example-2-wizard.png
+.. image:: default-types-example-2-wizard-76.png
 
-A user can always click "Show all" to see all available document types. More information about how the document wizard works is found here: :doc:`Using the create new document wizard </working-with-documents/using-the-document-wizard/index>`
+A user can always click ALL to see all available document types. More information about how the document wizard works is found here: :doc:`Using the create new document wizard </working-with-documents/using-the-document-wizard/index>`
 
 To add a document type, do the following:
 
