@@ -15,11 +15,11 @@ The following settings are available for the block:
 
 General
 ------------
-Here you acn add a title for the block, if needed.
+Here you can add a title for the block, if needed.
 
 .. image:: page-properties-block-general-v75.png
 
-+ **Title**: If a title should be shown for the block, add it in this field. You can set the title in the languages active in the tenant. 
++ **Title**: If a title should be shown for the block, add it in this field.  
 
 Display
 ---------
