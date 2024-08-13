@@ -70,13 +70,13 @@ To add a document type, do the following:
 
 1. Click in the field.
 
-.. image:: document-type-add-1-new.png
+.. image:: document-type-add-1-76.png
 
 2. Use the list to select one or more Document Types. 
 
-.. image:: document-type-add-2-new.png
+.. image:: document-type-add-2-76.png
 
-If the document types are grouped (as in the image above) you may need to expand a group to select a document type there. 
+If the document types are grouped (as some are in the image above) you may need to expand a group to select a document type there. 
 
 Also note that you can deselect document types as well using this list.
 
