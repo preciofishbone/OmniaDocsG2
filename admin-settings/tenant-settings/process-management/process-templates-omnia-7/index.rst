@@ -64,7 +64,7 @@ Add Shape
 
 Then use the following settings (not all are shown in the image above):
 
-+ **Title**: The suggested title for the shape is shown. You can edit the title here, if needed, for the purpose of this process template. You can add a title in any available language. Default language for the tenant os mandatory.
++ **Title**: The suggested title for the shape is shown. You can edit the title here, if needed, for the purpose of this process template. Default language for the tenant os mandatory.
 + **(Description field)**: You can add a rich text description here to add details about the shape, for example intended use.
 + **Width/Height**: Default width and height is 100 pixels. You can can edit the width and height is needed.
 + **Text Position**: Decide where to place to text (if any) for the shape: "On Shape", "Above Shape" or "Below Shape".
