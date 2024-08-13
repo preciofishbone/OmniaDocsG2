@@ -5,7 +5,7 @@ You must be administrator (the permission group is often called "Owners") of the
 
 Settings for the tabs
 ***********************
-To access the seetings, go to the controlled documents library and click "Edit".
+To access the settings, go to the controlled documents library and click "Edit".
 
 .. image:: edit-controlled-library-76.png
 
