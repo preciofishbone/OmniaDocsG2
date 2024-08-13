@@ -1,7 +1,8 @@
-7.6.21
+7.6.22
 ========================================
-(Omnia 7.6.21 / Workplace 7.6.16 / WCM 7.6.15 / MS 7.6.11/ Analytics 7.6.2)
+(Omnia 7.6.22 / Workplace 7.6.17 / WCM 7.6.17 / MS 7.6.12 / Analytics 7.6.2)
 
+- Performance improvements to page rollup loads.
 - Fixed an issue causing page properties to not render when main channel was displayed (#159129, #159158).
 - Fixed an issue block input of person fields in the User Profile completion form (#158971).
 - Improved integration with the Bing image provider (#158622).
