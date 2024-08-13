@@ -25,7 +25,7 @@ Settings
 ---------
 Here's what is available on the Settings tab:
 
-+ **Title**: If a title should be shown for the block, add it in this field. If variations exist for the page, it looks like in the image. Then titles in other languages are added in the varation. If no variations exist you can set the title in the languages active in the tenant.
++ **Title**: If a title should be shown for the block, add it in this field.
 + **Default scaling**: You can select a default scaling for the image used in the banner, but this can be changed by an author (Write mode). Possible scalings are set up in Omnia Admin.
 + **Force sefault scaling**: Select this option to make sure the image in the banner always is scaled using the default scaling set above. If you do, scaling can not be edited using Write mode.
 + **Crop ratios**: Use this list to set up which crop ratios editors should be able to choose from when editing in Write mode, for the image in this block. For more information, see below.
