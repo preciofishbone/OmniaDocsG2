@@ -92,11 +92,11 @@ Do the following:
 
 1. Click "Permissions" in the controlled documents library.
 
-.. image:: click-permissions-new2.png
+.. image:: click-permissions-76.png
 
 Something like the following is shown:
 
-.. image:: controlled-permissions-new2.png
+.. image:: controlled-permissions-2-76.png
 
 You can add/remove groups and/or users in these lists.
 
@@ -107,11 +107,4 @@ If permission groups are used, as in the example above, you can add and remove u
 Note that external users that has been invited in Entra ID can be added here as well. Users invited this way can log in with their own Microsoft 365 account.
 
 Settings for Document management is found under that heading in Omnia admin, see this part of the documentation for more information: :doc:`Document management </admin-settings/tenant-settings/document-management/index>`
-
-
-
-
-
-
-
 
