@@ -174,7 +174,7 @@ When you unpublish a document, you must add a message. You can also change your 
 
 If you change your mind, just click CANCEL.
 
-I you decide to go on, add a message and the click OK (which becomes available when you add a message).
+I you decide to go on, add a message and then click OK (which becomes available when you add a message).
 
 If an archive for documents is set up, the document is placed in the archive. The unpublished document is also placed in a local (= for the site) recycle bin. 
 
