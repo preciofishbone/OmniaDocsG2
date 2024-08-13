@@ -19,7 +19,7 @@ and these:
 
 .. image:: form-block-settings-762.png
 
-+ **Title**: Add a title for the block, if needed. Can be added in any or all the available tenant languages.
++ **Title**: Add a title for the block, if needed.
 + **Business profile**: Here you select if it's a business profile or an app form you want to display.
 + **Scope**: Select the business profile or the app, where the form was created.
 + **Type**: Select the type: Polls, Checkups or Surveys.
