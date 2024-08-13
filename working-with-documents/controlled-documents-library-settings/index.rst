@@ -7,26 +7,26 @@ Settings for the tabs
 ***********************
 To access the seetings, go to the controlled documents library and click "Edit".
 
-.. image:: edit-controlled-library-new2.png
+.. image:: edit-controlled-library-76.png
 
 Here, the following settings are available:
 
-.. image:: edit-controlled-library-settings-all.png
+.. image:: edit-controlled-library-settings-all-76.png
 
 General
 -----------
 Here you can use the following settings:
 
-.. image:: edit-controlled-library-general.png
+.. image:: edit-controlled-library-general-76.png
 
-+ **Title**: You can edit or add a title for the list in all languages available for the tenant. The default language is mandatory. 
++ **Title**: You can edit or add a title for the list here. 
 + **Open in client app**: Per default, documents are opened in the online Microsoft 365 application. If documents should be opened in the locally installed application instead, select this option. 
 
 Display
 ----------
 Here you can set the following:
 
-.. image:: edit-controlled-library-display.png
+.. image:: edit-controlled-library-display-76.png
 
 + **Default tab**: Decide which tab will be shown when an author enters the controlled documents library.
 + **Paging**: Select paging for the lists here; “No paging”, “Classic” or “Scroll”.
@@ -38,7 +38,7 @@ Drafts
 --------
 The following settings are available for the Drafts tab:
 
-.. image:: edit-controlled-library-drafts-new.png
+.. image:: edit-controlled-library-drafts-76.png
 
 + **Default ordering field**: Select the column for default sort order for the list.
 + **Sort direction**: Select Descending or Ascending here.
@@ -50,7 +50,7 @@ Published
 ------------
 The same type of settings as for drafts are available here. See above for a description.
 
-.. image:: edit-controlled-library-published-new.png
+.. image:: edit-controlled-library-published-76.png
 
 Default document types
 ------------------------
