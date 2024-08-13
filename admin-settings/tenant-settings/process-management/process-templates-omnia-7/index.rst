@@ -41,7 +41,7 @@ Here's an example:
 
 Use these options when creating a new template:
 
-+ **Title**: You can change the title in this field, in any tenant language.
++ **Title**: You can change the title in this field, if needed.
 + **Default canvas settings**: If needed, set the default canvas width and height in pixels. Authors can change this setting if needed.
 + **ADD HEADING**: You can add headings to group the shapes, if needed, see below.
 + **ADD SHAPE**: Too add a shape that should be avaiable for authors to use, click here. For more information, see below.
