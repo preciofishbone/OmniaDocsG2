@@ -19,7 +19,7 @@ Just click the flag and select the language you want to use, and add the text.
 
 Users should see the text in the language they have chosen in the Language setting. If the text has not been added in the language a user has chosen, the text in the field falls back to default language as set in Omnia admin for the business profile.
 
-When variations has been set up in a publishing app, adding texts in several languages are now done in the variation, in most block fields. This is indicated by a "clean" field, for example:
+When variations has been set up in a publishing app, adding texts in several languages are now done in the variation, in most block fields. This is also called a multi lingual field. This is indicated by a "clean" field, for example:
 
 .. image:: flag-in-field-clean.png
 
