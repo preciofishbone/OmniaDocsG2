@@ -41,7 +41,7 @@ Note that you need to use this option if you want to move a single page outside 
 .. image:: select-move-node-new3.png
 
 3. Navigate to the page where the selected page(s) will be placed.
-4. Choose to move the  node as a sibling or as a child. A sibling is placed at the same level as the npde you select. A child is placed as a sub node.
+4. Choose to move the  node as a sibling or as a child. A sibling is placed at the same level as the node you select. A child is placed as a sub node.
 
 .. image:: navigate-node-76.png
 
