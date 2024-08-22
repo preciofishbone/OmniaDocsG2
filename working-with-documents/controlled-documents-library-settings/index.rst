@@ -98,9 +98,9 @@ Something like the following is shown:
 
 .. image:: controlled-permissions-2-76.png
 
-How this works depends on settings for document management at tenant level. In this example, authors of controlled documents are set as "Site owners and members", and additonally that a approvers permission group will be used. Other settings for "Authors" will result in a "normal" people picker field, just as 
+How this works depends on settings for document management at tenant level. In this example, authors of controlled documents are set as "Site owners and members", and additonally that a approvers permission group will be used. Other settings for "Authors" will result in a "normal" people picker field, just as the "Readers" field in this example.
 
-In this case, these settings works as follows:
+In this example, the settings for authors works as follows:
 
 You can add/remove groups and/or users for readers and approvers the usual way.
 
