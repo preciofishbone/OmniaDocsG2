@@ -86,7 +86,7 @@ Permissions
 ************
 If Document management is set up for using permission groups, you can, as an administrator (Owner) of the teamsite, edit these permissions.
 
-**Important note for Omnia 7.0 and later!** Only SharePoint users can be added here (not Omnia only users). Also note that a user or a group must be permissions enabled to show up in the lists.
+**Important note!** Only SharePoint users can be added here (not Omnia only users). Also note that a user or a group must be permissions enabled to show up in the lists.
 
 Do the following:
 
@@ -98,7 +98,9 @@ Something like the following is shown:
 
 .. image:: controlled-permissions-2-76.png
 
-How this works depends on settings for document management at tenant level. In this example, authors of controlled documents are set as "Site owners and members", and additonally that a approvers permission group will be used. In this case, these settings works as follows:
+How this works depends on settings for document management at tenant level. In this example, authors of controlled documents are set as "Site owners and members", and additonally that a approvers permission group will be used. Other settings for "Authors" will result in a "normal" people picker field, just as 
+
+In this case, these settings works as follows:
 
 You can add/remove groups and/or users for readers and approvers the usual way.
 
