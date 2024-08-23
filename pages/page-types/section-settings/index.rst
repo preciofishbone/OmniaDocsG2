@@ -1,7 +1,7 @@
 Settings for sections
 =======================
 
-The following settings are available when working wit sections:
+The following settings are available when working with sections:
 
 .. image:: section-settings-76.png
 
