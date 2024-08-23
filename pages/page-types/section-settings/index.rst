@@ -3,7 +3,7 @@ Settings for sections
 
 The following settings are available when working wit sections:
 
-.. image:: section-settings.png
+.. image:: section-settings-76.png
 
 General
 **********
@@ -210,9 +210,16 @@ A section can be targeted by using this setting:
 
 Targeting for a section works the same way as targeting in many other parts of Omnia. See this page for more information: :doc:`Using targeting </general-assets/targeting-in-omnia/index>`
 
-Custom CSS
+Advanced
 *******************
-Here you can use custom CSS styling for the section.
+The following settings are found here:
 
-.. image:: page-types-settings-advanced-new4.png
+.. image:: page-types-settings-advanced-76.png
+
++ **Disable lazy load**: If you need to disable lazy load for this section, select this option. Note that you set this for the active section only. If you need to do this for other sections on the page, repeat the process.
++ **Custom CSS classes/Custom CSS styling**: If you know how, you can use these fields for custom styling, for the active section.
+
+
+
+
 
