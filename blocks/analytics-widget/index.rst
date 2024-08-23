@@ -83,7 +83,7 @@ Here's an example of a number of Anlytics widget blocks to display analytics dat
 
 Using the Analytics widget block on a section tab
 ****************************************************
-There is a known problem that may occur when using the Analytics filter block on a section tab. If you would like to connect the block to a Analytics filter block, you may have to disable Lazy load, or the connection won't work. This will eventually be fixed, but , for now, if you encounter this problem, simply disable Lazy load.
+There is a known problem that may occur when using the Analytics filter block on a section tab. If you would like to connect the block to a Analytics filter block, you may have to disable lazy load, or the connection won't work. This will eventually be fixed, but, for now, if you encounter this problem, simply disable lazy load.
 
 This settings is found under Advanced in the settings for the section. For more information, see: :doc:`Settings for sections </pages/page-types/section-settings/index>`
 
