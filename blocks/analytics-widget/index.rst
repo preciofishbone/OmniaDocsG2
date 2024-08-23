@@ -11,6 +11,8 @@ The following settings are available for this block:
 
 .. image:: analytics-widget-block-77.png
 
+**Note!** If using a connection to an Analytics filter block doesn't work on a section tab, you may have to disable Lazy load. See more information about this at the bottom of the page.
+
 General
 ---------
 Here you can add a title for teh block, if needed.
@@ -78,4 +80,10 @@ An implementation example
 Here's an example of a number of Anlytics widget blocks to display analytics data in different ways:
 
 .. image:: widgets-example.png
+
+Using the Analytics widget block on a section tab
+****************************************************
+There is a known problem that may occur when using the Analytics filter block on a section tab. If you would like to connect the block to a Analytics filter block, you may have to disable Lazy load, or the connection won't work. This will eventually be fixed, but , for now, if you encounter this problem, simply disable Lazy load.
+
+This settings is found under Advanced in the settings for the section. For more information, see: :doc:`Settings for sections </pages/page-types/section-settings/index>`
 
