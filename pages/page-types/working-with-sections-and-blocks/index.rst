@@ -5,6 +5,8 @@ This describes how to work with sections and blocks for a page type. You work th
 
 For the very first steps when creating a new page type, see: :doc:`Create new page type </pages/page-types/create-new-page-type/index>`
 
+For information on the settings: :doc:`Section settings </pages/page-types/section-settings/index>`
+
 Create a section in a column
 ******************************
 If needed, you can create a section in a column and then select a layout for the column and set all other section settings. Here's how:
