@@ -9,7 +9,7 @@ Here's an example of a dashboard set up, from a test environment:
 
 Under Usage, information about active readers and active contributors are shown. What should be considered an active reader or an active contributor is defined in the Metrics settings, see: :doc:`Metric Settings </admin-settings/tenant-settings/settings/metrics/index>`
 
-Under Pages, the following is availble:
+Under Pages, something like the following is availble:
 
 .. image:: admin-dashboard-page-status-76.png
 
