@@ -24,7 +24,7 @@ Query
 -----------
 Here you select the site to display analytics data for:
 
-.. image:: analytics-counter-settings-query2.png
+.. image:: analytics-counter-settings-query-76.png
 
 Display
 ------------
