@@ -64,7 +64,7 @@ Regarding Analytics, a number of analytic blocks can be used to display analytic
 
 .. image:: admin-dashboard-analytics-example.png
 
-And the last part of this example is a tab wioth a search block, that can used to search for documents, for example:
+And the last part of this example is a tab with a search block, that can used to search for documents, for example:
 
 .. image:: admin-dashboard-documents-example.png
 
