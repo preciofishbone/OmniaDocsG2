@@ -13,6 +13,10 @@ Under Pages, something like the following is availble:
 
 .. image:: admin-dashboard-page-status-76.png
 
+More detailed information can be found by clicking a bar. Here's underused pages in July, as an example:
+
+.. image:: admin-dashboard-page-status-examnple.png
+
 A number of tabs are available. What you see in the above example, is the total status for the tenant, on the Status tab. You can choose to see status for just one of the publishing apps. 
 Besides that, a number of lists has been set up; Most Visited (All), Most Visited (Last month), Underused Pages, Statistics and Broken links.
 
@@ -28,23 +32,23 @@ Note the list to the right, of pages that has not been vsitied for a very long t
 
 For News, this has been set up:
 
-.. image:: admin-dashboard-news.png
+.. image:: admin-dashboard-news-76.png
 
 Besided status for news pages, a number of lists are available; Reach, Most Visited (Last month), Most Commented (Last month), Most Liked (Last month) and Statsitics:
 
-.. image:: admin-dashboard-news-lists.png
+.. image:: admin-dashboard-news-lists-76.png
 
 Regarding Reach: How well we reach our target audience based on what we expect. The metric can be configured to a specific scope of pages (for example news pages) and have a target number of users. For more information on the lists, see below.
 
-For Teamwork, you can see the number of active teamworks and if any has been created this week or this month:
+For Communites and Teamwork, you can see the number of active communities/teamworks and if any has been created this week or this month (Teamworks as an example):
 
-.. image:: admin-dashboard-teamwork-new.png
+.. image:: admin-dashboard-teamwork-76.png
 
 In the image above, status for all teamwork templates are shown. You can also choose to see the status for just one of the templates, meaning all teamworks created from a certain template.
 
-Finally, in this example, status for searches made by users can be shown:
+Status for searches made by users can be shown:
 
-.. image:: admin-dashboard-search.png
+.. image:: admin-dashboard-search-76.png
 
 How it's done
 -----------------
