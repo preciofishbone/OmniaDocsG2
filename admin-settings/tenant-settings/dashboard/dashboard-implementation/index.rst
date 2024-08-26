@@ -74,15 +74,15 @@ As stated above, there's so many ways to set up a dashboard using the blocks in 
 
 How it's done
 -----------------
-Well, how is this done, then? There's simply too many details in the settings for what is shown above, to show them all, but some basics:
+Well, how is this done, then? There's simply too many details in the settings for what is shown above, to describe them all, but some basics:
 
 + The basic layout for a dashboard page, can be created with tab sections.
 + A Metrics block is always useful in this type of implementations.
-+ A Page rollup block can be used for any rollup of pages, with detailed settings for what you want to list.
++ A Page rollup block can be used for any rollup of pages, with detailed settings for what you want to list.  
 
-Actually, any number of block can be used, but these are most likely the most common, se for more information, see:
+Actually, any number of blocks can be used, but these are most likely the most common, so for more information, see:
 
-+ :doc:`The Metrics block </blocks/general-block-settings/index>`
-+ :doc:`The page rollup block </blocks/general-block-settings/index>`
-+ :doc:`Blocks for analytics </blocks/general-block-settings/index>`
++ :doc:`The Metrics block </blocks/metrics-block-612/index>`
++ :doc:`The Page rollup block </blocks/page-rollup/index>`
++ :doc:`Blocks for analytics </blocks/blocks-for-analytics/index>`
 
