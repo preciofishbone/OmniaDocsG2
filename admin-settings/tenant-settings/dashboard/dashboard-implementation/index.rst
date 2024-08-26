@@ -22,7 +22,7 @@ For underused pages, something like the following can be shown:
 
 .. image:: admin-dashboard-underused-pages-76.png
 
-Note the list to the right, of pages that has not been vsitied for a very long time. For more information on the lists, see below.
+Note the list to the right, of pages that has not been visited for a very long time. For more information on the lists, see below.
 
 What should be considered underused content is defined in the Metrics settings, see link above.
 
