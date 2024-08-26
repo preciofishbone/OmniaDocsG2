@@ -22,13 +22,13 @@ For underused pages, something like the following can be shown:
 
 .. image:: admin-dashboard-underused-pages-76.png
 
+Note the list to the right, of pages that has not been vsitied for a very long time. For more information on the lists, see below.
+
 What should be considered underused content is defined in the Metrics settings, see link above.
 
 More detailed information can be found by clicking a bar. Here's underused pages in July, as an example:
 
 .. image:: admin-dashboard-page-status-examnple.png
-
-Note the list to the right, of pages that has not been vsitied for a very long time. For more information on the lists, see below.
 
 For News, this has been set up:
 
