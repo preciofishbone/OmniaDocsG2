@@ -18,7 +18,7 @@ Besides that, a number of lists has been set up; Most Visited (All), Most Visite
 
 .. image:: admin-dashboard-page-status-lists-76.png
 
-For Underused Pages, something like the following can be shown:
+For underused pages, something like the following can be shown:
 
 .. image:: admin-dashboard-underused-pages-76.png
 
@@ -30,17 +30,17 @@ For News, this has been set up:
 
 .. image:: admin-dashboard-news.png
 
-Besided Status for news pages, a number of lists are available; Reach, Most Visited (Last month), Most Commented (Last month), Most Liked (Last month) and Statsitics:
+Besided status for news pages, a number of lists are available; Reach, Most Visited (Last month), Most Commented (Last month), Most Liked (Last month) and Statsitics:
 
 .. image:: admin-dashboard-news-lists.png
 
-Regarding Reach: How well we reach our target audience based on what we expect. The metric can be configured to a specific scope of pages (for example News pages) and have a target number of users. For nmore information on the lists, see below.
+Regarding Reach: How well we reach our target audience based on what we expect. The metric can be configured to a specific scope of pages (for example news pages) and have a target number of users. For more information on the lists, see below.
 
 For Teamwork, you can see the number of active teamworks and if any has been created this week or this month:
 
 .. image:: admin-dashboard-teamwork-new.png
 
-In the image above, status for all Teamwork Templates are shown. You can also choose to see the status for just one of the templates, meaning all teamworks created from a certain template.
+In the image above, status for all teamwork templates are shown. You can also choose to see the status for just one of the templates, meaning all teamworks created from a certain template.
 
 Finally, in this example, status for searches made by users can be shown:
 
