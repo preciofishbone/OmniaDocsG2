@@ -64,11 +64,11 @@ Regarding Analytics, a number of analytic blocks can be used to display analytic
 
 .. image:: admin-dashboard-analytics-example.png
 
-And the last part of this example is a tab woth a search block, people can use to search for documents, for example:
+And the last part of this example is a tab wioth a search block, that can used to search for documents, for example:
 
 .. image:: admin-dashboard-documents-example.png
 
-As stated above, there's so many ways to set up a dashboard using the blocks in Omnia. Another example, among any, is to use set up a governance hub. Here's an example of such an implementation, where different dashboards can be selected:
+As stated above, there's so many ways to set up a dashboard using the blocks in Omnia. Another example, among many, is to set up a governance hub. Here's an example of such an implementation, where different dashboards can be selected:
 
 .. image:: admin-governance-example.png
 
@@ -76,7 +76,7 @@ How it's done
 -----------------
 Well, how is this done, then? There's simply too many details in the settings for what is shown above, to describe them all, but some basics:
 
-+ The basic layout for a dashboard page, can be created with tab sections.
++ The basic layout for a dashboard page can be created with tab sections.
 + A Metrics block is always useful in this type of implementations.
 + A Page rollup block can be used for any rollup of pages, with detailed settings for what you want to list.  
 
