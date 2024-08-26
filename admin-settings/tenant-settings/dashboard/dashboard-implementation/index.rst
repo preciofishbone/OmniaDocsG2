@@ -30,7 +30,7 @@ For News, this has been set up:
 
 .. image:: admin-dashboard-news.png
 
-Besided Status for news pages, a number of lists is available; Reach, Most Visited (Last month), Most Commented (Last month), Most Liked (Last month) and Statsitics:
+Besided Status for news pages, a number of lists are available; Reach, Most Visited (Last month), Most Commented (Last month), Most Liked (Last month) and Statsitics:
 
 .. image:: admin-dashboard-news-lists.png
 
