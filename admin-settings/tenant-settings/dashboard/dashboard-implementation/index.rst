@@ -3,9 +3,9 @@ Dashboard implementation example
 
 The dahsboard can be set up in so many ways, depending on what you actually are interested in following up.
 
-Here's an example of a dashboard set up:
+Here's an example of a dashboard set up, from a test environment:
 
-.. image:: admin-dashboard-usage-76.png
+.. image:: admin-dashboard-usage-76-2.png
 
 Under Usage, information about active readers and active contributors are shown. What should be considered an active reader or an active contributor is defined in the Metrics settings, see: :doc:`Metric Settings </admin-settings/tenant-settings/settings/metrics/index>`
 
