@@ -1,7 +1,7 @@
 Dashboard implementation example
 ==============================================
 
-The dahsboard can be set up in so many ways, depending on what you actually are interested in following up.
+The dashboard can be set up in so many ways, depending on what you actually are interested in following up.
 
 Here's an example of a dashboard set up, from a test environment:
 
