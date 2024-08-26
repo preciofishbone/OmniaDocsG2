@@ -1,9 +1,9 @@
 Dashboard implementation example
 ==============================================
 
-**This page is being edited. Will be finished soon.**
+The dahsboard can be set up in so many ways, depending on what you actually are interested in following up.
 
-Here's an example of a Dashoboard set up:
+Here's an example of a dashboard set up:
 
 .. image:: admin-dashboard-usage-76.png
 
