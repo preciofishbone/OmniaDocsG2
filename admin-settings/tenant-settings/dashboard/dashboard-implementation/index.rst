@@ -13,10 +13,6 @@ Under Pages, something like the following is availble:
 
 .. image:: admin-dashboard-page-status-76.png
 
-More detailed information can be found by clicking a bar. Here's underused pages in July, as an example:
-
-.. image:: admin-dashboard-page-status-examnple.png
-
 A number of tabs are available. What you see in the above example, is the total status for the tenant, on the Status tab. You can choose to see status for just one of the publishing apps. 
 Besides that, a number of lists has been set up; Most Visited (All), Most Visited (Last month), Underused Pages, Statistics and Broken links.
 
@@ -27,6 +23,10 @@ For underused pages, something like the following can be shown:
 .. image:: admin-dashboard-underused-pages-76.png
 
 What should be considered underused content is defined in the Metrics settings, see link above.
+
+More detailed information can be found by clicking a bar. Here's underused pages in July, as an example:
+
+.. image:: admin-dashboard-page-status-examnple.png
 
 Note the list to the right, of pages that has not been vsitied for a very long time. For more information on the lists, see below.
 
