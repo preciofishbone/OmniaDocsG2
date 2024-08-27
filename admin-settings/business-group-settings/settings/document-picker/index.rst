@@ -1,6 +1,8 @@
 Document picker settings
 =============================
 
+**This page is being edited.**
+
 Here you set up categories for the document picker. Each category is then available as a tab in the document picker. 
 
 Here's an example. These categories:
@@ -53,7 +55,7 @@ If "Hide filter per default" is selected, a "Show filter" options is displayed f
 
 The following filter settings:
 
-.. image:: dp-categories-new-4-new.png
+.. image:: dp-categories-new-4-n76.png
 
 is displayed this way in the document picker:
 
@@ -65,7 +67,7 @@ Edit or remove document picker categories
 ******************************************
 Use the pen to edit a category and the dust bin to delete it. 
 
-.. image:: dp-categpries-edit-delete-new.png
+.. image:: dp-categpries-edit-delete-n76.png
 
 A deleted Document category is removed from the document picker immediately.
 
