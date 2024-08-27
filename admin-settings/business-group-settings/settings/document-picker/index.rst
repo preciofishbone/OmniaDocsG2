@@ -1,8 +1,6 @@
 Document picker settings
 =============================
 
-**This page is being edited.**
-
 Here you set up categories for the document picker. Each category is then available as a tab in the document picker. 
 
 Here's an example. These categories:
@@ -11,7 +9,7 @@ Here's an example. These categories:
 
 Are available this way in the picker:
 
-.. image:: document-picker-76.png
+.. image:: document-picker-76-frame.png
 
 Create a new category
 ***********************
