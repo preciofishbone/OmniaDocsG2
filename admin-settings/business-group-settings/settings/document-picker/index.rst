@@ -5,7 +5,7 @@ Here you set up categories for the document picker. Each category is then availa
 
 Here's an example. These categories:
 
-.. image:: document-picker-categories-new.png
+.. image:: document-picker-categories-n76.png
 
 Are available this way in the picker:
 
@@ -17,11 +17,11 @@ To create a new category, do the following:
 
 1. Click the plus.
 
-.. image:: dp-categories-new-2new.png
+.. image:: dp-categories-1-76.png
 
 2. Use the following settings:
 
-.. image:: dp-categories-new-3new.png
+.. image:: dp-categories-2-76.png
 
 + **Title**: You can add a title for the caterogory in any or all available languages. Default language is mandatory.
 + **SharePoint library/Search category**: A document picker category can either be a SharePoint library or a search category. Select what you will create here.
@@ -32,7 +32,7 @@ Settings for search category
 ------------------------------
 The following settings are available for search category:
 
-.. image:: dp-categories-search.png
+.. image:: dp-categories-search-76.png
 
 + **Search categories**: If you selected "Search category", use this list to select the category (mandatory). The search categories are set up for the business profile, see: :doc:`Search settings </admin-settings/business-group-settings/search/index>`
 + **Show search box**: For a search category, you can add a search box at the top. When you select this option, you can select what to search on, see below.
@@ -41,7 +41,7 @@ The following settings are available for search category:
 
 For a search box you can set some additional settings:
 
-.. image:: dp-categories-search-options.png
+.. image:: dp-categories-search-options-76.png
 
 + **Search text**: Add a text to be shown in the field before a search is conducted.
 + **Search on document title and**: You can select one or more additional properties to search on here (not mandatory). As stated in the label, a search on document title is always conducted.
