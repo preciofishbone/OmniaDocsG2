@@ -5,10 +5,11 @@ Here you can use the following settings:
 
 .. image:: page-style-settings-style-v67.png
 
-+ **BackgroundcColor**: Here you can choose a background color for the whole page.
++ **Middle aligned layout**: For a lyout that's aligned at the center of the page, select this option.
++ **Background color**: Here you can choose a background color for the whole page.
 + **RANDOM**: If you want to try a random background color, click here. (You can click the x in the field above to remove it, if it didn't work.)
 + **ADD COLOR**: If you want to add an additional background color for various effects, click here. An additional color field is placed above where you can select color.
-+ **Background image**: To add a background image to the page, click ADD IMAGE and use the Media Picker to choose an image. See this page for more information:  :doc:`The Media Picker </general-assets/media-picker/index>`
++ **Background image**: To add a background image to the page, click ADD IMAGE and use the media picker to choose an image. See this page for more information:  :doc:`The media picker </general-assets/media-picker/index>`
 
 Settings for background image
 **********************************
