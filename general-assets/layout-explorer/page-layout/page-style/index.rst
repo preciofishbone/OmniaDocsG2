@@ -3,7 +3,7 @@ Page style
 
 Here you can use the following settings:
 
-.. image:: page-style-settings-style-v6.png
+.. image:: page-style-settings-style-v67.png
 
 + **BackgroundcColor**: Here you can choose a background color for the whole page.
 + **RANDOM**: If you want to try a random background color, click here. (You can click the x in the field above to remove it, if it didn't work.)
@@ -14,7 +14,7 @@ Settings for background image
 **********************************
 When you have added a background image, you can use these settings:
 
-.. image:: background-image-settings-v6.png
+.. image:: background-image-settings-v67.png
 
 + **EDIT**: Click this link to edit the image in the Media Picker (see link above for more information.)
 + **DELETE**: Click here to remove the image from the page.
