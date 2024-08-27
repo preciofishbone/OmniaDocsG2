@@ -5,7 +5,7 @@ This functionality was called Page style in earlier Omnia versions and was avail
 
 Here, the following is available:
 
-.. image:: page-toolbar-layout.png
+.. image:: page-toolbar-layout-76.png
 
 Select page for more information:
 
