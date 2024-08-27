@@ -7,11 +7,11 @@ Here you set up categories for the document picker. Each category is then availa
 
 Here's an example. These categories:
 
-.. image:: document-picker-categories-n76.png
+.. image:: document-picker-categories-n76-olist.png
 
 Are available this way in the picker:
 
-.. image:: document-picker-new.png
+.. image:: document-picker-76.png
 
 Create a new category
 ***********************
@@ -51,15 +51,15 @@ For a search box you can set some additional settings:
 
 If "Hide filter per default" is selected, a "Show filter" options is displayed for users, for example:
 
-.. image:: dp-categories-search-options-hidden.png
+.. image:: dp-categories-search-options-hidden-76.png
 
-The following filter settings:
+Here's an example with filters set up. The following filter settings:
 
 .. image:: dp-categories-new-4-n76.png
 
 is displayed this way in the document picker:
 
-.. image:: document-picker-filter-example-1-new.png
+.. image:: document-picker-filter-example-1-n76.png
 
 3. Click "Save" when you're finished, to create the document picker category.
 
