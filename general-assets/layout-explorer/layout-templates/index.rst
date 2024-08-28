@@ -9,9 +9,9 @@ For all templates you will se a preview image.
 
 .. image:: layout-templates-pages-76.png
 
-When you have chosen a template, the layout of the page type will change to show the sections and blocks the template contains.
+When you have chosen a template, the layout of the page type will change to show the sections and blocks the template contains, for example:
 
-.. image:: layout-templates-page-example.png
+.. image:: layout-templates-page-example-76.png
 
 You can try several templates before you decide. Nothing is saved until you save a draft or publish the new page type.
 
