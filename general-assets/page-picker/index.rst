@@ -12,7 +12,7 @@ Navigating and picking
 
 You can now browse the list of pages in a view similar to the page navigation, for example:
 
-.. image:: page-picker-navigate-76frame.png
+.. image:: page-picker-navigate-76frame2.png
 
 3. Navigate the page structure to find the page you want to pick (for a page rollup you can pick more than one).
 4. Click to select a page (click again to deselect).
