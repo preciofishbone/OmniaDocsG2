@@ -21,11 +21,9 @@ Every time you copy a section or a block, a copy is placed in the clipboard.
 
 **Note!** You can copy a locked section or block as well.
 
-The clipboard opens and a copy is placed there, for example:
+2. The clipboard opens and a copy is placed there, for example:
 
 .. image:: clipboard-copied-76.png
-
-2. You can now delete the copy if you don't want to keep it, or edit the label of the copy, see below.
 
 Add a section or a block from the clipboard
 **********************************************
