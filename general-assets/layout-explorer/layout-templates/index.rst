@@ -1,7 +1,7 @@
 Layout templates
 =====================
 
-For a quick start when creating a new page type, you can use a layout template. (**Note!**, only available when working with page types!). Here's an example of available groups of templates:
+For a quick start when creating a new page type, you can use a layout template. (**Note!** only available when working with page types). Here's an example of available groups of templates:
 
 .. image:: layout-templates-all-76.png
 
