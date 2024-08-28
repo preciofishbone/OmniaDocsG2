@@ -18,8 +18,6 @@ You can now browse the list of pages in a view similar to the page navigation, f
 4. Click to select a page (click again to deselect).
 5. Click OK when you're done.
 
-.. image:: page-picker-navigate-click-ok.png
-
 Here's an example when pages is picked for a page rollup:
 
 .. image:: page-picker-navigate-selected-76.png
