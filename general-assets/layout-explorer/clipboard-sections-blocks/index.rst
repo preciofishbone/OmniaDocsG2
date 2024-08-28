@@ -38,7 +38,7 @@ Do the following to copy a section or a block from the clipboard:
 
 .. image:: clipboard-select-76.png
 
-4. Click to place on the page/page type. Icons are displayed where ut's possible (block as example).
+4. Click to place on the page/page type. Icons are displayed where it's possible (block as example).
 
 .. image:: clipboard-select-place-76.png
 
