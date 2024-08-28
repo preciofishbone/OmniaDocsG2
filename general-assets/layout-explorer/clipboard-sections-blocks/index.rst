@@ -9,7 +9,7 @@ The clipboard is available here:
 
 .. image:: clipboard-76.png
 
-Layout templates, the third icon from the top in the image above, is only available when editing page types. The other three options are available for pages as well.
+Layout templates, not visible in the image above, is only available when editing page types. The other three options are available for pages as well, as shown here.
 
 Add a section or block to the clipboard
 *****************************************
