@@ -13,5 +13,5 @@ The options for "Tab content resync" are the same as seen above. The options for
 
 .. image:: omnia-feed-resync-users.png
 
-If you resync users the initial login to the app is quicker but it's an option, it's not mandatory. Just remember to only resync actual users, not other types of accounts.
+If you resync users the initial login to the app is quicker but it's an option, it's not mandatory. Just remember to only resync actual users, not other types of user accounts.
 
