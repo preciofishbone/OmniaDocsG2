@@ -23,10 +23,3 @@ If you're on an existing implementation of Omnia, you can switch to site selecte
 5. Get the consent link from Azure AD permissions page in Omnia admin.
 6. Consent.
 
-
-
-
-
-
-
-
