@@ -22,7 +22,7 @@ Topics
    user-options/index
    general-assets/roles-permissions/index
    setup/index
-   swtich-site-selected/index
+   switch-site-selected/index
    best-practice/index
    accessability/index
    cookies-consent-information/index
