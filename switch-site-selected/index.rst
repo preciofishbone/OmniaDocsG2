@@ -10,6 +10,7 @@ The new standard way to run Omnia is to have app access to only selected site co
 If you're on an existing implementation of Omnia, you can switch to site selected this way:
 
 1. Reconsent the tenant with one of the Core features that requires Sites.Selected Web content management core.
+
 2. Activate the feature **Sites selected permissions** as a site collection admin, on all sites that have specific Omnia functionality:
 + Publishing apps.
 + Communities.
