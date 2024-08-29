@@ -11,6 +11,7 @@ If you're on an existing implementation of Omnia, you can switch to site selecte
 
 1. Reconsent the tenant with one of the Core features that requires Sites.Selected Web content management core.
 2. Activate the feature **Sites selected permissions** as a site collection admin, on all sites that have specific Omnia functionality:
+
 + Publishing apps.
 + Communities.
 + Sites with controlled document libraries.
