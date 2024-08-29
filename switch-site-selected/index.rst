@@ -1,8 +1,6 @@
 Switch to site selected
 ==================================
 
-**(This page is just started, will be finfished very soon).**
-
 This information is intended for existing implementations of Omnia. For new implementations, this is not needed.
 
 The new standard way to run Omnia is to have app access to only selected site collections. All new tenants will run in this mode by default. It replaces both the old way (FullControl.All.SiteCollections) and System account mode.
