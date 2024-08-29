@@ -1,7 +1,7 @@
 Setup
 ===========================================
 
-Below you will setup instructions for different parts of Omnia.
+This part of the documentaton contains setup instructions for different parts of Omnia.
 
 
 .. toctree::
