@@ -1,17 +1,19 @@
 Create news
 ===========================================
 
-Colleagues with the right permission can create and publish news in a specific news center. It's very common that only a dedicated group of authors can do that but it's also possible that all colleagues have this permission.
+Colleagues with the right permission can create and publish news in a specific news center. It's common that only a dedicated group of authors can do that but it's also possible that all colleagues have this permission.
 
-If you have the permission necessary to create news, this button is shown in the news archive. The button can also be made available on other pages.
+If you have the permission to create news, this button is shown in the news archive (the name of the button can be something else). The button can also be made available on other pages.
 
-.. image:: create-news-button-new2.png
+.. image:: create-news-button-76.png
 
 1. To create a new news article, click the button.
 
 The following is shown:
 
-.. image:: news-file-name2.png
+.. image:: news-file-76.png
+
+"Auto-generate content" is an AI option you can use, if it's activated in admin settings. If it's available, it's optional to use, of course. Read mnore about this option at the bottom of the page.
 
 2. Type a file name for the new news article (page) and click "Create".
 
@@ -73,6 +75,34 @@ A preview is now shown. Note that you can test how the News article will look on
 
 To get som more information about the publishing options, for example scheduled publishing, if available, see this page for more information: :doc:`Publish page changes </pages/publish-page-changes/index>`
 
+Using AI support when creating an article
+******************************************
+If the AI options are activated in Omnia admin settings, they are available when creating a news article:
+
+.. image:: news-article-ai.png
+
+What it does, if you opt to use it, is to create a SUGGESTED text from your instructions, and even a suggested image, if you wish. You can always try it to see what the AI suggests. You can edit all text and use another image, or even delete it all, i the suggestion wasn't at all what you had in mind.
+
+If you activate "Auto-generate content", the following is shown:
+
+.. image:: news-article-ai-use.png
+
+Here's an example how it may work:
+
+From these instructions:
+
+.. image:: news-article-ai-instructions.png
+
+The AI may create the following suggested image:
+
+.. image:: news-article-ai-suggestion-image.png
+
+and this text:
+
+.. image:: news-article-ai-suggestion-text.png
+
+No it's up to you to use the suggested image or use another image, and to edit the text to your liking (or delete it). Nothing is saved until you publish.
+
 Continue working on a saved news article
 *****************************************
 Do the following:
@@ -87,10 +117,4 @@ Do the following:
 .. image:: news-open-new2.png
 
 You can now edit the contents and publish it when it's finished, as described above.
-
-
-
-
-
-
 
