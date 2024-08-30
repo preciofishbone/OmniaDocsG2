@@ -117,11 +117,11 @@ Do the following:
 1. Go to the news center/news archive.
 2. Click the icon to open the editor.
 
-.. image:: news-open-editor-new2.png
+.. image:: news-open-editor-76.png
 
 3. Find the news article in the list and click it.
 
-.. image:: news-open-new2.png
+.. image:: news-open-76.png
 
 You can now edit the contents and publish it when it's finished, as described above.
 
