@@ -13,7 +13,7 @@ The following is shown:
 
 .. image:: news-file-76.png
 
-"Auto-generate content" is an AI option you can use, if it's activated in admin settings. If it's available, it's optional to use, of course. Read mnore about this option at the bottom of the page.
+"Auto-generate content" is an AI option you can use, if it's activated in admin settings. Read more about this option at the bottom of the page.
 
 2. Type a file name for the new news article (page) and click "Create".
 
@@ -21,27 +21,27 @@ This creates a page for the news article. All options for pages can be used for 
 
 Something like the following is shown:
 
-.. image:: create-news-template-new3.png
+.. image:: create-news-template-76.png
 
 Available blocks and more depends on how the page type (page template) for news is set up. 
 
-You can see that the file name you entered in the previous step is suggested as the news article's heading ("Spring is in the air" in this example). It can be edited if needed.
+You can see that the file name you entered in the previous step is suggested as the news article's heading ("Heavy snowfall in Stockholm" in this example). It can be edited if needed.
 
 What you actually need to do depends on the page type (template) for news. Here's some common steps that you should be able to do using Write mode:
 
 3. Add an image. A part of that image can also be used as the image in a news list (which is automatic if used).
-4. Add a short introduction in the third block ("Put your news summary here ..."), under the heading, just click and write.
+4. Add a short introduction in the third block ("Write summary here ..."), under the heading, just click and write.
 5. Add the content in the text block below the introduction.
 
-.. image:: news-content-new2.png
+.. image:: news-content-76.png
 
 6. Add content to other blocks as necessary.
 
 You most likely will just need permissions to use Write mode to be able to create and publish a news article. 
 
-When you use the media block to add an image (which you most likely will do), you use the Media picker. See this page for more information: :doc:`The Media picker </general-assets/media-picker/index>`
+When you use the Media block to add an image (which you most likely will do), you use the Media picker. See this page for more information: :doc:`The Media picker </general-assets/media-picker/index>`
 
-Regarding the text block, see this page for more information about the available options for text, links and images: :doc:`The RTF editor </general-assets/rtf-editor/index>`
+Regarding the Text block, see this page for more information about the available options for text, links and images: :doc:`The RTF editor </general-assets/rtf-editor/index>`
 
 If you have permissions to use Design mode you can edit the settings for the blocks, see: :doc:`Working with blocks </blocks/working-with-blocks/index>`
 
@@ -49,31 +49,39 @@ For more information about a specific block, select the block in this list: :doc
 
 7. When you're finished here, click "Next".
 
-.. image:: news-next-border-new3.png
+.. image:: news-next-border-76.png
 
-8. Set the Properties.
+8. Set the properties.
 
 Available properties depends on how the page type for news is set up. Here's an example:
 
-.. image:: news-properties-border-new2.png
+.. image:: news-properties-border-76.png
 
-+ **Article date**: Todays date is added to the field. The date can be edited if needed. In a news list, the articles are sorted on Article date. If you're working on an article for a while, the date will not be updated automatically, so you may have to edit it before publishing.
-+ **Page contact**: This is shown under the image on the news article's page. Your name is added automatically. If someone else should be the page contact, remove your name and add the colleague's name.
-+ **TopsStory**: Regard it as "a very important news setting", if present. In certain news listings, top stories can be viewed differently from other news. 
+A few comments on some common fields:
 
-Metadata tagging for news can be set up in many ways and also used in many ways, for example to display different news articles for different user groups. "Promoted until", "News channel", "Location", "Mandatory read" and "Keywords" are examples of metadata, and you will receive information from your organization about how to use them.
++ **Article date**: Add a publishing date here. In a news list, the articles are sorted on Article date. If you're working on an article for a while, the date will not be updated automatically, so you may have to edit it before publishing. Note that this field is mandatory. Note that this is information only, it doesn't have anything to do with when the article acutally is published.
++ **Page contact**: This is shown under the image on the news article's page. Your name is added automatically. If someone else should be the page contact, remove your name and add the colleague's name. This field is mandatory.
++ **Top Story**: Regard it as "a very important news setting", if present. In certain news listings, top stories can be viewed differently from other news. 
+
+Metadata tagging for news can be set up in many ways and also used in many ways, for example to display different news articles for different user groups. In this example, "News type", "Portal", "Communication campaign" and "Promotion channel" are examples of metadata, and you will receive information from your organization about how to use them. "Scheduled publishing date" is shown if scheduled publishing is activated for the news site. If present, you can use it the set the date and time when this article should be published. It's the same functionality as for other pages in Omnia. For more information about this, see: :doc:`Publish page changes </pages/publish-page-changes/index>`
 
 9. When you're done here, click "Next".
 
 A preview is now shown. Note that you can test how the News article will look on different devices:
 
-.. image:: news-devices-new2.png
+.. image:: news-devices-76.png
 
-10. Save the news article as a draft to continue working on it later, or publish it directly. There can also be other publishing options available. In this example approval is needed before a news article can be published and scheduled publishing is also available.
+10. (If Publishing channels are used in your organizaton, see below). Save the news article as a draft to continue working on it later, or publish it directly. There can also be other publishing options available. In this example approval is needed before a news article can be published and scheduled publishing is also available.
 
 .. image:: news-publish-new3.png
 
 To get som more information about the publishing options, for example scheduled publishing, if available, see this page for more information: :doc:`Publish page changes </pages/publish-page-changes/index>`
+
+Publishing channels
+*********************
+If Publishing channels are use in your organization (as in this example), something like the following cane be shown:
+
+
 
 Using AI support when creating an article
 ******************************************
