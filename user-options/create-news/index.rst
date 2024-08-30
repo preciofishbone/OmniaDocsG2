@@ -66,7 +66,7 @@ Metadata tagging for news can be set up in many ways and are also used in many w
 
 9. When you're done here, click "Next".
 
-A preview is now shown. Note that you can test how the News article will look on different devices:
+A preview is now shown. Note that you can test how the news article will look on different devices:
 
 .. image:: news-devices-76.png
 
