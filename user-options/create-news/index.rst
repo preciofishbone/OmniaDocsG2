@@ -72,7 +72,7 @@ A preview is now shown. Note that you can test how the news article will look on
 
 If Publishing channels are used in your organization (as in this example), something like the following can be shown:
 
-.. image:: news-publishing-channels.png
+.. image:: news-publishing-channels-frame.png
 
 If Publishing channels are not used, this step is not shown at all.
 
