@@ -57,11 +57,10 @@ Available properties depends on how the page type for news is set up. Here's an 
 
 .. image:: news-properties-border-76.png
 
-A few comments on some common fields:
+Comments on two fields that are normally present:
 
 + **Article date**: Add a publishing date here. In a news list, the articles are sorted on Article date. If you're working on an article for a while, the date will not be updated automatically, so you may have to edit it before publishing. Note that this field is mandatory. Also note that this is information only, it doesn't have anything to do with when the article actually is published.
 + **Page contact**: This is shown under the image on the news article's page. Your name is added automatically. If someone else should be the page contact, remove your name and add the colleague's name. This field is mandatory.
-+ **Top Story**: Regard it as "a very important news setting", if present. In certain news listings, top stories can be viewed differently from other news. 
 
 Metadata tagging for news can be set up in many ways and are also used in many ways, for example to display different news articles for different user groups. In this example, "News type", "Portal", "Communication campaign" and "Promotion channel" are examples of metadata, and you will receive information from your organization about how to use them. "Scheduled publishing date" is shown if scheduled publishing is activated for the news site. If present, you can use it the set the date and time when this article should be published. It's the same functionality as for other pages in Omnia. For more information about this, see: :doc:`Publish page changes </pages/publish-page-changes/index>`
 
