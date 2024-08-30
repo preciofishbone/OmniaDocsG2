@@ -80,8 +80,6 @@ If Publishing channels are not used, this step is not shown at all.
 
 11. Save the news article as a draft to continue working on it later, or publish it directly. There can also be other publishing options available, as approval before a news article can be published. Scheduled publishing can also be available, depending on settings.
 
-.. image:: news-publish-76.png
-
 To get some more information about the publishing options, for example scheduled publishing, if available, see this page for more information: :doc:`Publish page changes </pages/publish-page-changes/index>`
 
 Using AI support when creating an article
