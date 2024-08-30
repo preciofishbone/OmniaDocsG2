@@ -71,17 +71,19 @@ A preview is now shown. Note that you can test how the News article will look on
 
 .. image:: news-devices-76.png
 
-10. (If Publishing channels are used in your organizaton, see below). Save the news article as a draft to continue working on it later, or publish it directly. There can also be other publishing options available. In this example approval is needed before a news article can be published and scheduled publishing is also available.
+If Publishing channels are used in your organization (as in this example), something like the following can be shown:
 
-.. image:: news-publish-new3.png
+.. image:: news-publishing-channels.png
 
-To get som more information about the publishing options, for example scheduled publishing, if available, see this page for more information: :doc:`Publish page changes </pages/publish-page-changes/index>`
+If Publishing channels are not used, this step is not shown at all.
 
-Publishing channels
-*********************
-If Publishing channels are use in your organization (as in this example), something like the following cane be shown:
+10. Add one or more publishing channels if needed, and publish.
 
+11. Save the news article as a draft to continue working on it later, or publish it directly. There can also be other publishing options available, as approval before a news article can be published. Scheduled publishing can also be available, depending on settings.
 
+.. image:: news-publish-76.png
+
+To get some more information about the publishing options, for example scheduled publishing, if available, see this page for more information: :doc:`Publish page changes </pages/publish-page-changes/index>`
 
 Using AI support when creating an article
 ******************************************
