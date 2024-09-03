@@ -49,7 +49,7 @@ Here's an example with some common fields and options:
 This example will create a "Department" site.
 
 3. Select "Department".
-4. Set the following:
+4. The following can be set in this example:
 
 .. image:: create-site-1-v7.png
 
