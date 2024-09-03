@@ -20,7 +20,7 @@ What a notification panel will display depends on settings in Omnia admin. The f
 
 .. image:: team-site-news-76.png
 
-Click the heading of a message to go the teamsite to read the full message. You can click the authors name for more information about hom or her.
+Click the heading of a message to go the teamsite to read the full message. You can click the authors name for more information about him or her.
 
 + **Communities**: Latest articles or comments from the communities the user is a member of, for example:
 
