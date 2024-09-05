@@ -22,7 +22,7 @@ To edit a page variation (if automatic machine translation is not used), for exa
 1. Edit the page.
 2. Select variation to work with.
 
-.. image:: select-variation-76.png
+.. image:: select-variation-76-new.png
 
 3. Edit the content/blocks as usual, for this language.  
 
