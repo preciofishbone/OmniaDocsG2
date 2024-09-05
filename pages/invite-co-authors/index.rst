@@ -12,19 +12,19 @@ This is how it's done:
 1. Edit the page.
 2. Open the menu and select INVITE CO-AUTHOR.
 
-.. image:: co-author-menu-select-new.png
+.. image:: co-author-menu-select-76.png
 
 3. Add co-author(s).
 
-.. image:: co-author-dialog.png
+.. image:: co-author-dialog-76.png
 
 + **Authors**: Add one or more colleagues to the list.
 + **Send Email invitation**: You can choose to send an Email invitation to the would be co-authors. The Email contains a link to the page. 
 + **Email message**: If you send an Email invitation, use this field to enter a message.
 
-4. Click OK when you're done, to save the settings. If you have chosen to send an email message, it is now sent.
+4. Click OK when you're done, to save the settings. If you have chosen to send an Email message, it is now sent.
 
-Under Permissions for the page, you can now see (if you are page collection administrator) that permission inheritance is broken for the page, which is needed for specific permission settings for this page. The invited co-authors are added to the Author field, for example:
+Under "Permissions" for the page in question, you can now see (if you are page collection administrator) that permission inheritance is broken for the page, which is needed for specific permission settings for this page. The invited co-authors are added to the Author field, for example:
 
 .. image:: permission-co-authors.png
 
