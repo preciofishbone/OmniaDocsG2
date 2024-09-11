@@ -1,3 +1,15 @@
+7.6.26
+========================================
+(Omnia 7.6.26 / Workplace 7.6.20 / WCM 7.6.20 / MS 7.6.16 / Analytics 7.6.2)
+
+- Page types can now have custom link icons in the template. Note: You need to re add the icons to the page type for the fix to apply.
+- Fixed an issue that would revent creating terms in open termsets through Omnia on certain permission configurations (#158521).
+- If an etension modifeies or creates an entity, the word "System" is now shown instead of the extension Guid.
+- The document rollup can now correctly open all documents in word online if configured to do so (#159385).
+- The settings in the link picker for documents now behaves as expected (#153277).
+- Fixed an issue in Sign-off requests cusing bcc emails to be wrongly created with certain email providers (#158588).
+- Improved login token handling, leading to improved performance and stability.
+
 7.6.23
 ========================================
 (Omnia 7.6.23 / Workplace 7.6.18 / WCM 7.6.18 / MS 7.6.13 / Analytics 7.6.2)
@@ -5,6 +17,8 @@
 - Fixed an issue that caused the announcement edit UI to freeze the browser (#159334).
 - Added missing feature descriptions (#156197).
 - Entra ID sync performance improvements (#158766). 
+- Fixed an issue with query templating in the document rollup that affected some users (#158865, #159550).
+- Fixed an issue that would prevent publishing of a page after chaining pagetype in hte create new page dialog (#159200).
 
 7.6.22
 ========================================
