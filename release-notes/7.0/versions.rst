@@ -1,13 +1,38 @@
+7.6.33
+========================================
+(Omnia 7.6.33 / Workplace 7.6.24 / WCM 7.6.25 / MS 7.6.19 / Analytics 7.6.2)
+
+- Fixed an upgrade issue that could occur with substantial amounts of pages scheduled for automatic termination. 
+- Clarified the EntraID sync that we filter for external users and not guests/members (#158499).
+- Stability improvements to teamwork provisioning and planner tab provisioning (#151771).
+- Fixed an issue with paging in the list of Publishing apps in Omnia admin (#159807).
+- Fixed an issue causing Document Rollup excel export to take an abnormally long time to generate (#159484, #159146, #159522, #160097)
+- Increased the image scale file size limit to 50 Mb.
+- The send page as email feature now renders the correct content when using supported blocks (#159742).
+- Fixed an issue with user login when the system contains duplicated emails.
+- Performance and stability improvements. 
+- Fixed an issue with Modified date on Sign-off requests, it now updates correctly.
+- Fixed an issue in the calendar view of the page rollup, it now directly shows the correct day (#159743).
+- Fixed a design glitch in the page rollup card view (#159747).
+
+7.6.29
+========================================
+(Omnia 7.6.26 / Workplace 7.6.20 / WCM 7.6.20 / MS 7.6.16 / Analytics 7.6.2)
+
+- Performance and stability improvements. 
+- Increased compatibility for phone number conversions from EntraID to Omnia User properties
+
+
 7.6.26
 ========================================
 (Omnia 7.6.26 / Workplace 7.6.20 / WCM 7.6.20 / MS 7.6.16 / Analytics 7.6.2)
 
 - Page types can now have custom link icons in the template. Note: You need to re add the icons to the page type for the fix to apply.
-- Fixed an issue that would revent creating terms in open termsets through Omnia on certain permission configurations (#158521).
-- If an etension modifeies or creates an entity, the word "System" is now shown instead of the extension Guid.
+- Fixed an issue that would prevent creating terms in open term sets through Omnia on certain permission configurations (#158521).
+- If an extension modifies or creates an entity, the word "System" is now shown instead of the extension Guid.
 - The document rollup can now correctly open all documents in word online if configured to do so (#159385).
 - The settings in the link picker for documents now behaves as expected (#153277).
-- Fixed an issue in Sign-off requests cusing bcc emails to be wrongly created with certain email providers (#158588).
+- Fixed an issue in Sign-off requests causing bcc emails to be wrongly created with certain email providers (#158588).
 - Improved login token handling, leading to improved performance and stability.
 
 7.6.23
@@ -18,7 +43,8 @@
 - Added missing feature descriptions (#156197).
 - Entra ID sync performance improvements (#158766). 
 - Fixed an issue with query templating in the document rollup that affected some users (#158865, #159550).
-- Fixed an issue that would prevent publishing of a page after chaining pagetype in hte create new page dialog (#159200).
+- Fixed an issue that would prevent publishing of a page after chaining page type in the create new page dialog (#159200).
+
 
 7.6.22
 ========================================
