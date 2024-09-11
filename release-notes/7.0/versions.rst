@@ -1,3 +1,11 @@
+7.6.23
+========================================
+(Omnia 7.6.23 / Workplace 7.6.18 / WCM 7.6.18 / MS 7.6.13 / Analytics 7.6.2)
+
+- Fixed an issue that caused the announcement edit UI to freeze the browser (#159334).
+- Added missing feature descriptions (#156197).
+- Entra ID sync performance improvements (#158766). 
+
 7.6.22
 ========================================
 (Omnia 7.6.22 / Workplace 7.6.17 / WCM 7.6.17 / MS 7.6.12 / Analytics 7.6.2)
