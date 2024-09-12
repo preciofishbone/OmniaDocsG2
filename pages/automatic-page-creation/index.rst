@@ -29,13 +29,20 @@ Set the following:
 + **Name**: Add a name for the rule.
 + **Page creation rule**: If pages in this page collection always should be copied, select "Always create". If pages should be copied only when certain prerequisites are met, select "Only create if". See below for more information about this.
 + **Page creation info**: Select the publishing app, page collection to copy to, and choose the page type to be used. A conntected tenant could also be selected.
-+ **Enable auto publish**: If this option is selected a new page is always published automatically. It’s only applicable when a new page is created, not when it’s updated.
-+ **Initial properties**: Choose "Copy property to page on creation". Then select the property/propeties to get this from. For more information, see below. 
++ **Enable auto publish**: If this option is selected a new page is always published automatically. It’s only applicable when a new page is created, not when it’s updated. If you select "Copy property to page on creation" below, this option should most likely be deselected. 
++ **Initial properties**: You can Choose "Enable resue content" to set up a connection between pages, or "Copy property to page on creation". For more information see below, 
 + **Mapped variations**: If the source page and/or the target page uses variations, you have to map variations, see below.
 
 Don't forget to save when you're done.
 
 When editing an automatic page creation rule, all settings described above are available.
+
+More on initial properties
+--------------------------
+You should regard these two options this way:
+
++ "Automatic page creation" should be used when you want to create a connection between the pages. All options for automatic page creation can then be used. See this page for more information: :doc:`Reusable content </pages/reusable-content/index>`
++ "Copy property to page on creation" should be used if you don't want that type of connection. This is to be considered as a "one-off", the content from the defined properties will be copied once, and to to be used (or not) in target place.
 
 Setup for reusable content
 ------------------------------
