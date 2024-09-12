@@ -60,7 +60,7 @@ More on initial properties
 You should regard these two options this way:
 
 + "Enable reuse content" should be used when you want to create a connection between pages. All options for reusing content can then be used. See this page for more information: :doc:`Reusable content </pages/reusable-content/index>`
-+ "Copy property to page on creation" should be used if you don't want that type of connection. This is to be considered as a "one-off", the content from the defined properties will be copied once, and to to be used (or not) in the target place.
++ "Copy property to page on creation" should be used if you don't want the resuse content connection. This is to be considered as a "one-off", the content from the defined properties will be copied once, and to be used (or not) in the target place.
 
 Setup properties
 ------------------------------
