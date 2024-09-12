@@ -17,11 +17,11 @@ Settings
 *********
 The settings are available here, in the page collection settings:
 
-.. image:: automatic-page-1-new.png
+.. image:: automatic-page-1-76.png
 
 Set the following:
 
-.. image:: automatic-page-2-new-v7.png
+.. image:: automatic-page-2-76.png
 
 (Not all options are shown in the images, but are listed below.)
 
@@ -46,9 +46,7 @@ You should regard these two options this way:
 
 Setup for reusable content
 ------------------------------
-When you activate reusable content, select a property that should have a reusable content connection in the target page, and click ADD.
-
-Add all reusable content properties this way.
+When you activate reusable content, select a property that should have a reusable content connection in the target page, and click ADD. Add all reusable content properties this way.
 
 Here's an example:
 
