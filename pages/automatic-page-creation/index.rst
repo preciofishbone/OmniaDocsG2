@@ -37,35 +37,6 @@ Don't forget to save when you're done.
 
 When editing an automatic page creation rule, all settings described above are available.
 
-More on initial properties
---------------------------
-You should regard these two options this way:
-
-+ "Enable reuse content" should be used when you want to create a connection between pages. All options for reusing content can then be used. See this page for more information: :doc:`Reusable content </pages/reusable-content/index>`
-+ "Copy property to page on creation" should be used if you don't want that type of connection. This is to be considered as a "one-off", the content from the defined properties will be copied once, and to to be used (or not) in the target place.
-
-Setup for reusable content
-------------------------------
-When you activate reusable content, select a property that should have a reusable content connection in the target page, and click ADD. Add all reusable content properties this way.
-
-Here's an example:
-
-.. image:: automatic-page-reusable-example-new.png
-
-To remove a property from the list, click the dust bin.
-
-Selecting properties to add to the page when creating works exactly the same.
-
-Mapped variations
--------------------
-Here's an example of mapping you have to do:
-
-.. image:: automatic-page-mapped-new.png
-
-In this example, the target page collection has a number of variations set up. You have to map variations from the source page to the variations in the target page. If there are more (possible) variations for the source page, it does not matter. In this example there are four (possible) variations for the source page, and some of them are the same as for the target page. The mapping can then look like this:
-
-.. image:: automatic-page-mapped-example-1-new2.png
-
 Only create if
 ---------------
 If you select this option, you must create one or more rules:
@@ -83,4 +54,31 @@ Here's a very simple example. Pages should only be copied if they are created by
 If needed, click ADD again and set the next rule. 
 
 Note that, in case you create several rules here, all rules must be met for a copy to be created. It's an AND relation between rules. If it is possible to select multiple values for a property within a rule, it's an OR relation between values. 
+
+More on initial properties
+--------------------------
+You should regard these two options this way:
+
++ "Enable reuse content" should be used when you want to create a connection between pages. All options for reusing content can then be used. See this page for more information: :doc:`Reusable content </pages/reusable-content/index>`
++ "Copy property to page on creation" should be used if you don't want that type of connection. This is to be considered as a "one-off", the content from the defined properties will be copied once, and to to be used (or not) in the target place.
+
+Setup properties
+------------------------------
+After having selected the way initial properties should be handled you must add the properties that content should be used from. Just select a property and click ADD. Add all content properties this way.
+
+Here's an example:
+
+.. image:: automatic-page-reusable-example-76.png
+
+To remove a property from the list, click the dust bin.
+
+Mapped variations
+-------------------
+If the source page and/or the target page uses variations, you have to map variations. Here's an example of mapping you have to do:
+
+.. image:: automatic-page-mapped-new.png
+
+In this example, the target page collection has a number of variations set up. You have to map variations from the source page to the variations in the target page. If there are more (possible) variations for the source page, it does not matter. In this example there are four (possible) variations for the source page, and some of them are the same as for the target page. The mapping can then look like this:
+
+.. image:: automatic-page-mapped-example-1-new2.png
 
