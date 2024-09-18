@@ -27,9 +27,6 @@ Mobile and frontline
 Communication
 ---------------------------------------------
 
-* Media rollup block.
-* Recurring sign-off requests.
-* Scheduled sign-off requests.
 * Native mobile support for content creators.
 
 Governance and analytics
