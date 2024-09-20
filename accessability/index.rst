@@ -29,7 +29,7 @@ In Omnia admin, theme mappings can be set up between the "accessibility theme" a
 
 .. image:: admin-access-settings-menu.png
 
-Here's an examaple of a mapping:
+Here's an example of a mapping:
    
 .. image:: admin-access-settings-settings.png
 
