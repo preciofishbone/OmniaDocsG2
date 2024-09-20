@@ -1,8 +1,6 @@
 Accessibility
 ===========================================
 
-**This page is being updated.**
-
 Omnia is WCAG 2.1aa compliant. The accessibility features are available from start. A user can decide to turn these on at any time.
 
 It's up to each user to do that in the User profile menu:
