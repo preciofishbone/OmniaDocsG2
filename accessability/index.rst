@@ -19,6 +19,7 @@ The following is then turned on:
 + All links contain underscore.
 + Themes with low contrast can no longer be used.
 + Opacity is generally removed.
++ Sticky tooltips are activated.
 
 Besides that, it's up to administrators of a specific, customer implementation, to set up look and feel in a way that high accessibility is achived. 
    
