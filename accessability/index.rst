@@ -17,9 +17,7 @@ The following is then turned on:
 
 + Tab selections are bolder.
 + All links contain underscore.
-+ Themes with low contrast can no longer be used.
-+ Opacity is generally removed.
-+ Sticky tooltips are activated.
++ A new theme can be created when the user activates the accessibility features. All Omnia components that are not using this new theme are shown with higher contrast.
 
 Besides that, it's up to administrators of a specific, customer implementation, to set up look and feel in a way that high accessibility is achived. 
    
