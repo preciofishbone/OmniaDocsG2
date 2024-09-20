@@ -1,7 +1,7 @@
 Accessibility
 ===========================================
 
-Omnia is WCAG 2.1aa compliant. Most accessibility features is built in from the start. A user can decide to turn these on at any time.
+Omnia is WCAG 2.1aa compliant. The accessibility features are built in from the start. A user can decide to turn these on at any time.
 
 It's up to each user to do that in the User profile menu:
 
