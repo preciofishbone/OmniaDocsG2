@@ -1,7 +1,7 @@
 Accessibility
 ===========================================
 
-**This page is being edited.**
+**This page is being updated.**
 
 Omnia is WCAG 2.1aa compliant. The accessibility features are available from start. A user can decide to turn these on at any time.
 
@@ -13,11 +13,25 @@ Select "Use accessibility features".
 
 .. image:: accessability-profile-select.png
 
-The following is then turned on:
+How visible the differences are can differ a lot depending on how the default themes for the business profile are set up, and how the themes are used for blocks and for backgrounds on pages, but generally contrasts are higher. Here's an example for the breadcrump.
 
-+ Tab selections are bolder.
-+ All links contain underscore.
-+ A new theme can be created when the user activates the accessibility features. All Omnia components that are not using this new theme are shown with higher contrast.
+Accessibility not turned on:
 
-Besides that, it's up to administrators of a specific, customer implementation, to set up look and feel in a way that high accessibility is achived. 
+.. image:: access-not.png
+
+Accessibility turned on:
+
+.. image:: access-on.png
+
+It's a small but important difference.
+
+Generally, it's up to administrators of a specific, customer implementation, to set up look and feel in a way that high accessibility is achived. 
+
+In Omnia admin, theme mappings can be set up between the "accessibility theme" and other themes. That option can be used by a business profile administrator and is found here, for a business profile:
+
+.. image:: admin-access-settings-menu.png
+
+Here's an examaple of a mapping:
    
+.. image:: admin-access-settings-settings.png
+
