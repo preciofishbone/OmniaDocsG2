@@ -25,9 +25,9 @@ Accessibility turned on:
 
 It's a small but important difference.
 
-Generally, it's up to administrators of a specific, customer implementation, to set up look and feel in a way that high accessibility is achived. 
+Generally, it's up to administrators of a specific, customer implementation, to set up look and feel in a way that high accessibility is achieved. 
 
-In Omnia admin, theme mappings can be set up between the "accessibility theme" and other themes. That option can be used by a business profile administrator and is found here, for a business profile:
+In Omnia admin, theme mappings can be set up between the "accessibility theme" and other themes, if needed. That option can be used by a business profile administrator and is found here, for a business profile:
 
 .. image:: admin-access-settings-menu.png
 
