@@ -44,6 +44,18 @@ Note that the first three scopes only include teamwork connected to Omnia that a
 + Followed (SharePoint sites): All followed sites in SharePoint. (SharePoint social API).
 + Member of (Office 365 groups): Member of Office 365 groups (MS Graph).
 
+Custom date filtering
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+In Omnia 7.7 and later you may be able to use custom filering.
+
+If the scope is filtered on some kind of time property, custom date filtering can be set.
+
+Here's an example on where it can be available:
+
+.. image:: team-collaboration-block-custom-date.png
+
+See this page for more information about custom date filtering: :doc:`Custom date filtering </general-assets/custom-date-filtering/index>` 
+
 Display
 ----------
 Select a view (List view or Navigation view) and use the following settings (image from Omnia v7):
