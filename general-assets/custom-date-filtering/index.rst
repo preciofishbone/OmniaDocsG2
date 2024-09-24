@@ -3,7 +3,7 @@ Custom date filtering
 
 For some rollups, custom date filtering is available, if the scope is filtered on some kind of time property.
 
-1. Open the list with filering options below the property.
+1. Open the list with filtering options below the property.
 
 .. image:: custom-date-filter-1.png
 
