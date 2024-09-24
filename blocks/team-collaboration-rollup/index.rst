@@ -46,7 +46,7 @@ Note that the first three scopes only include teamwork connected to Omnia that a
 
 Custom date filtering
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
-In Omnia 7.7 and later you may be able to use custom filering.
+In Omnia 7.7 and later you may be able to use custom filtering for the Teamwork rollup query.
 
 If the scope is filtered on some kind of time property, custom date filtering can be set.
 
