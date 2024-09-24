@@ -45,7 +45,7 @@ When you have selected type, some or all of these settings can be available:
 
 To add or remove pages
 ----------------------------
-Here's how to add or remove pages for a sign-off request. 
+Here's how to add or remove pages for a sign-off request. In Omnia 7.7 and later, you can also create sign-off requests for controlled documents, see below.
 
 If you use a template, this list can be pre populated, for example:
 
@@ -76,6 +76,25 @@ When you select "Specific page", continue like this:
 The selected pages are now added to the list of pages, see above.
 
 3. Continue this way until you have added all pages that should be signed off.
+
+To add or remove documents
+----------------------------
+This option is available in Omnia 7.7 and later. You use it this way:
+
+1. Select "Published document" at the top.
+
+A list of all published documents in the tenant is shown, for example:
+
+.. image:: sign-off-document-list.png
+
+2. Browse the list or search for part of, or the whole document name.
+3. Select one or more documents to be signed off.
+4. Click ADD.
+
+.. image:: sign-off-document-list-clickadd.png
+
+5. Repeat the process til all documents for the sign-off request is added.
+6. Set all other settings for the sign-off request as described for pages.
 
 Checking up on a request
 *************************
