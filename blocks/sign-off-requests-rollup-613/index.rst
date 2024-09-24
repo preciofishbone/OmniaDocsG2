@@ -55,6 +55,18 @@ On this tab you decide what the block should display and for whom.
 + **Add filter**: Add a filter for the query, if you don't want all the requests within the scope to be displayed. You can select "Requested by", "Progress status", "My progress status" or "Status". Additional filters can be available depending on the type used when the request was created. "My progress status" displays the status for the logged in user. For information about what the other default filters can display, see: :doc:`Requests </admin-settings/tenant-settings/sign-off-requests-613/sign-off-request-requests-613/index>`
 + **Page size**: To limit the number of items being displayed per “page”, add a fixed number here or use the slider.
 
+Custom date filtering
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+In Omnia 7.7 and later you may be able to use custom filtering.
+
+If the scope is filtered on some kind of time property, custom date filtering can be set.
+
+Here's an example:
+
+.. image:: sign-off-requests-block-custom-date.png
+
+See this page for more information about custom date filtering: :doc:`Custom date filtering </general-assets/custom-date-filtering/index>` 
+
 Display
 ---------
 This tab contains settings for the view:
