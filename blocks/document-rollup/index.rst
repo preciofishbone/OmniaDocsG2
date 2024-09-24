@@ -27,7 +27,7 @@ You can either choose to pick documents to be displayed in the block, or use the
 .. image:: document-rollup-query-new2.png
 
 Pick ocuments
-^^^^^d^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^
 To pick documents, click "ADD DOCUMENT".
 
 .. image:: document-rollup-pick-new2.png
