@@ -57,7 +57,7 @@ On this tab you decide what the block should display and for whom.
 
 Custom date filtering
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-In Omnia 7.7 and later you may be able to use custom filtering.
+In Omnia 7.7 and later you may be able to use custom filtering for the query for this block.
 
 If the scope is filtered on some kind of time property, custom date filtering can be set.
 
