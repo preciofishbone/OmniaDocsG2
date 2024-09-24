@@ -67,6 +67,14 @@ Additionally you can set:
 + **Day limit**: Use this option to limit the display of older documents. You first select property (for example Modified) and then select how old the documents can be to be displayed in the list.
 + **Last modified by current user**: Use this option to limit the rollup to documents the logged in user has edited, for example for a "My latest documents" implementation.
 
+Custom date filtering
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+In Omnia 7.7 and later, you may be able to use custom date filtering. 
+
+If the scope is filtered on some kind of time property, custom date filtering can be set.
+
+See this page for more information about custom date filtering: :doc:`Custom date filtering </general-assets/custom-date-filtering/index>` 
+
 A tip - rolling up drafts
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 If you would like to rollup all controlled document drafts in the whole tenant, here's how.
