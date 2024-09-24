@@ -25,6 +25,14 @@ The scope can be the tenant, one or more business profiles or one or more apps.
 
 As the next step you can add filters for what you want to show in the block.
 
+Custom date filtering
+------------------------
+In Omnia 7.7 and later you may be able to use custom filering.
+
+If the scope is filtered on some kind of time property, custom date filtering can be set.
+
+See this page for more information about custom date filtering: :doc:`Custom date filtering </general-assets/custom-date-filtering/index>` 
+
 Display
 ----------
 You can select List view or Form view. List view is, as the name suggests, meant for listing all the forms that meet the scope settings.  
