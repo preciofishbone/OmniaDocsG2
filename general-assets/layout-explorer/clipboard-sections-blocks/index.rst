@@ -7,9 +7,9 @@ The omnia clipboard exists within a tenant, a domain and a computer. So if you'r
 
 The clipboard is available here:
 
-.. image:: clipboard.png
+.. image:: clipboard-76.png
 
-Layout templates, the third icon from the top in the image above, is only available when editing Page Types. The other three options are available for pages as well.
+Layout templates, not visible in the image above, is only available when editing page types. The other three options are available for pages as well, as shown here.
 
 Add a section or block to the clipboard
 *****************************************
@@ -17,32 +17,30 @@ Every time you copy a section or a block, a copy is placed in the clipboard.
 
 1. Click the copy icon for the section or block.
 
-.. image:: clipboard-copy-block.png
+.. image:: clipboard-copy-block-76.png
 
 **Note!** You can copy a locked section or block as well.
 
-The clipboard opens and a copy is placed there, for example:
+2. The clipboard opens and a copy is placed there, for example:
 
-.. image:: clipboard-copied.png
-
-2. You can now delete the copy if you don't want to keep it, or edit the label of the copy, see below.
+.. image:: clipboard-copied-76.png
 
 Add a section or a block from the clipboard
 **********************************************
 Do the following to copy a section or a block from the clipboard:
 
-1. Edit the Page or Page Type in Design Mode.
+1. Edit the page or page type in design mode.
 2. Open the clipboard.
 
-.. image:: clipboard-open.png
+.. image:: clipboard-open-76.png
 
-3. Click the section or block you want to place on the Page or Page Type.
+3. Click the section or block you want to place on the page or page type.
 
-.. image:: clipboard-select.png
+.. image:: clipboard-select-76.png
 
-4. Click to place on the Page/Page Type (block as example).
+4. Click to place on the page/page type. Icons are displayed where it's possible (block as example).
 
-.. image:: clipboard-select-place.png
+.. image:: clipboard-select-place-76.png
 
 Handle the clipboard
 **********************
@@ -85,10 +83,9 @@ You can also export or import the Omnia clipboard to Windows clipboard, and thus
 
 Do the following to export objects from the Omnia clipboard:
 
-1. Select the blocks or sections you wnat to export.
+1. Select the blocks or sections you want to export.
 2. Click the "Export clipboard" icon. 
-3. To save clipboard content to a file open your favorit text editor and paste the clipboard content using Ctrl+V.
-
+3. To save clipboard content to a file, open your favourite text editor and paste the clipboard content using Ctrl+V.
 
 .. image:: clipboard-export.png
 

@@ -20,7 +20,9 @@ Topics
    using-newsletters/index
    using-omnia-feed/index
    user-options/index
+   general-assets/roles-permissions/index
    setup/index
+   switch-site-selected/index
    best-practice/index
    accessability/index
    cookies-consent-information/index

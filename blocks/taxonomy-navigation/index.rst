@@ -33,15 +33,22 @@ For several of the taxanomies you must select where to get the term from - or to
 
 View
 -----------
-These settings are available for View:
+For the taxonomies where there's no term to select, the View options are these:
 
-.. image:: taxonomy-navigation-settings-view-v75-frane.png
+.. image:: taxonomy-navigation-settings-view-simple.png
+
+For the taxonomies where you can select a term, a lot more options are available:
+
+.. image:: taxonomy-navigation-settings-view-76.png
+
+All options are explained below.
 
 + **Line color**: Here you can set color for the lines between levels.
 + **Number of parent levels to show**: Select the number of parent levels to be shown.
 + **Number of children to show**: Select the maximum number of children to be shown, within the parent level(s).
 + **Include taxonomy root**: If the taxonomy root (name) should be shown, select this option.
-+ **Navigate to connected page**: If it should be possible to click to go the connected page, select this option.
++ **Include taxonomy root**: Decide if the taxonomy root should be included in the navigation (default=on).
++ **Navigate to connected page**: If it should be possible to click the term to go the connected page, select this option.
 
 Default or Current
 --------------------
@@ -49,12 +56,12 @@ You can set mapping and style for default or current. Current is used if a page 
 
 Mapping
 ---------
-Use these settings to map certain areas to which property to get the information from. There are also a few other settings you can use here:
+Use these settings to map certain areas to which property to get the information from. There are also two other settings you can use here:
 
-.. image:: taxonomy-navigation-settings-view-mapping-v75.png
+.. image:: taxonomy-navigation-settings-view-mapping-v76.png
 
 + **Show more link**: A "Show more" link can be added to the cards by selecting this option. 
-+ **Add column**: This lable is wrong. Should be "Add property" (will be changed in system soon). Use it to add additional properties to be shown on the card.
++ **Add property**: Use this option to add additional properties to be shown on the card.
 
 Style
 ----------

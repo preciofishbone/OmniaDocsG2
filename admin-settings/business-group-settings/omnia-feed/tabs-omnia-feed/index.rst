@@ -19,7 +19,7 @@ Adding a new tab
 ******************
 To add a new tab, click the plus. Then select the type of tab you want to add.
 
-.. image:: omnia-feed-tabs-select-v7-2.png
+.. image:: omnia-feed-tabs-select-77.png
 
 General tab settings
 ***********************
@@ -85,6 +85,41 @@ The following is available here:
 + **Enable push notification**: Select this option if users should recieve a push notification when new information, for example a new page, has been added.
 
 For the detailed options, read the options carefully. They should be self explanatory.
+
+Multiple query tab
+*******************
+As the title implies, this tab can be used for multiple queries:
+
+.. image:: omnia-feed-tabs-query-mulitple-v7.png
+
+General and Targeting contains general settings, see above.
+
+To use one or more queries on this tab, click the plus, and select query type:
+
+.. image:: omnia-feed-tabs-query-mulitple-type-v7.png
+.. image:: omnia-feed-tabs-query-mulitple-type-v7-2.png
+
+Pages
+-------
+For a Pages rollup you can choose one or more page collections, business profiles, publishing apps or the whole tenant. And then, in the second list, one or more within the scope.
+
+.. image:: omnia-feed-tabs-query-mulitple-type-pages.png
+
+Display and Notification has the same type of options as for the Query tab.
+
+Forms
+----------
+For a Forms rollup you can choose Tenant, one or more business profiles or one or more app instances. You can then add filters the same way as for other rollups.
+
+.. image:: omnia-feed-tabs-query-mulitple-type-forms.png
+
+For Display, you can use the same settings as the Tab View settings for the Query tab, see above.
+
+For Notification, you can decide to enable push notification for this rollup, or not.
+
+Sign-off requests
+------------------
+(This option is not implemented yet, will be soon).
 
 Link tab
 **********

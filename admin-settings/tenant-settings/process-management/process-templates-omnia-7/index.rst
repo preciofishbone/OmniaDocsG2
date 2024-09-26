@@ -41,7 +41,7 @@ Here's an example:
 
 Use these options when creating a new template:
 
-+ **Title**: You can change the title in this field, in any tenant language.
++ **Title**: You can change the title in this field, if needed.
 + **Default canvas settings**: If needed, set the default canvas width and height in pixels. Authors can change this setting if needed.
 + **ADD HEADING**: You can add headings to group the shapes, if needed, see below.
 + **ADD SHAPE**: Too add a shape that should be avaiable for authors to use, click here. For more information, see below.
@@ -64,7 +64,7 @@ Add Shape
 
 Then use the following settings (not all are shown in the image above):
 
-+ **Title**: The suggested title for the shape is shown. You can edit the title here, if needed, for the purpose of this process template. You can add a title in any available language. Default language for the tenant os mandatory.
++ **Title**: The suggested title for the shape is shown. You can edit the title here, if needed, for the purpose of this process template. Default language for the tenant os mandatory.
 + **(Description field)**: You can add a rich text description here to add details about the shape, for example intended use.
 + **Width/Height**: Default width and height is 100 pixels. You can can edit the width and height is needed.
 + **Text Position**: Decide where to place to text (if any) for the shape: "On Shape", "Above Shape" or "Below Shape".

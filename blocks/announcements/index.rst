@@ -1,7 +1,7 @@
 Announcements
 ===========================================
 
-Announcements are created by administrators and will display important information in the whole tenant, or for a certain business profile. The Priority (status) of an announcement can be Normal or High. Announcements can be displayed at the top or in a block, which is what's described here.
+Announcements are created by administrators and will display important information in the whole tenant, or for a certain business profile. The priority (status) of an announcement can be Normal or High. Announcements can be displayed at the top or in a block, which is what's described here.
 
 An announcement displayed in a block can look like this for the user:
 
@@ -17,10 +17,10 @@ General
 ----------------
 Here you can set the following:
 
-.. image:: announcements-settings-general-v75.png
+.. image:: announcements-settings-general-v77.png
 
-+ **Title**: If a title should be shown for the block, add it in this field. If no variation exists for the page, it looks like in the image above and you can set the title in the languages active in the tenant. If variations exists, only one title can be set. In that case, titles in other languages are set in the variations.
-+ **Announcement view type**: Select to display normal announcements or high priority announcements.
++ **Title**: A title can be added for the block, if needed.
++ **Announcement view type**: You can choose to display all announcements (meaning both normal and high priority) or high priority announcements only. 
 + **Hide block when no data**: As it says, select this to not show the block when there are no announcements to show for the logged in user.
 + **Padding**: Use this option to set some padding for the text within the block.
 

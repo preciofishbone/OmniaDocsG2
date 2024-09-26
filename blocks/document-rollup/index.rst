@@ -17,7 +17,7 @@ Here you can set the following:
 
 .. image:: document-rollup-settings-general-new6.png
 
-+ **Title**: If a title should be shown for the block, add it in this field. The title can be added in any tenant language.
++ **Title**: If a title should be shown for the block, add it in this field. 
 + **Open in client app**: Documents are by default opened in the online app. If document should be opened in the client app instead, select this option.
 
 Query
@@ -27,7 +27,7 @@ You can either choose to pick documents to be displayed in the block, or use the
 .. image:: document-rollup-query-new2.png
 
 Pick ocuments
-^^^^^d^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^
 To pick documents, click "ADD DOCUMENT".
 
 .. image:: document-rollup-pick-new2.png
@@ -66,6 +66,14 @@ Additionally you can set:
 
 + **Day limit**: Use this option to limit the display of older documents. You first select property (for example Modified) and then select how old the documents can be to be displayed in the list.
 + **Last modified by current user**: Use this option to limit the rollup to documents the logged in user has edited, for example for a "My latest documents" implementation.
+
+Custom date filtering
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+In Omnia 7.7 and later, you may be able to use custom date filtering for the Document rollup query. 
+
+If the scope is filtered on some kind of time property, custom date filtering can be set.
+
+See this page for more information about custom date filtering: :doc:`Custom date filtering </general-assets/custom-date-filtering/index>` 
 
 A tip - rolling up drafts
 ^^^^^^^^^^^^^^^^^^^^^^^^^^

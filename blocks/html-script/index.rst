@@ -59,3 +59,9 @@ The following settings are available when editing HTML/Script:
 + **iFrame height**: If "Run in iFrame" is selected you can set the iFrame height.
 + **Run script in edit mode**: If the script should be run in reader mode (end user mode) only, select this option.
 
+Using the HTML/script block on a section tab
+****************************************************
+There is a known problem that may occur when using this block on a section tab. You may have to disable lazy load, or the block won't work. This will eventually be fixed, but, for now, if you encounter this problem, simply disable lazy load. And to make sure, disable lazy load on all sections on the same levels as well, even if they don't contain HTML/script block.
+
+This settings is found under "Advanced" in the settings for the section. For more information, see: :doc:`Settings for sections </pages/page-types/section-settings/index>`
+

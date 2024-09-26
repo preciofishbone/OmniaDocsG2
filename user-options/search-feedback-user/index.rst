@@ -19,4 +19,4 @@ This window is then shown:
 
 .. image:: search-feedback-user-example-window-send.png
 
-
+An administrator can now have a look at the feedback and take actions, if necessary.

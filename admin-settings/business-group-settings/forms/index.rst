@@ -1,13 +1,20 @@
 Forms
 ===========
 
-Here you can work with three types of forms. 
+Here you can work with three types of forms, that can be made available on any pages. 
 
 .. image:: forms-all-new.png
 
 Surveys has the most options. Polls are similar to surveys but suitable for shorter, simpler forms. Checkups are suitable for micro-courses with knowledge checks.
 
 For settings options, see this page: :doc:`Settings (Forms) </admin-settings/business-group-settings/forms/forms-settings/index>`
+
+To make the forms available for users, there's a Form block and, in Omnia 7.6 and later, a Form rollup block available. For more information, see:
+
++ :doc:`The Form block </blocks/blocks-forms/form/index>`
++ :doc:`The Form rollup block </blocks/form-rollup-block/index>`
+
+In Omnia 7.6 and later, Forms can also be created using an action button. Such forms are only available in the app where they are created. They are not available here for editing. For more information, see: :doc:`Creating a form using an action button </general-assets/creating-form-button/index>`
 
 Surveys, polls and checkups
 ********************************
@@ -18,6 +25,8 @@ For each type of form, all existing are listed, Surveys as an example:
 In the list, you can use the icons (from left to right), to copy the form to a new one, change settings, work with the graphical presentation, or delete a form, if needed.
 
 .. image:: forms-icons.png
+
+**Note!** Only the forms beloning to the business profile is listed here, meaning created and edited here. Forms created in an app is not listed here, they exist within that app only.
 
 Checking responses
 *********************
@@ -77,8 +86,9 @@ Settings
 ***********
 The settings are the same for all form types. All settings you use when creating a form are available when editing (but not all can be changed for all types of forms).
 
-.. image:: forms-settings.png
+.. image:: forms-settings-76.png
 
++ **ADD IMAGE**: (Available in Omnia 7.6.2). Click here to add an image for the form, using Media picker. When adding the form to the Form block, the editor can decide to use the image, or not. For the Form rollup block, a general option to show images or not, is available. Also, see below for an example.
 + **Title**: Add a Title for the form here, in any or all of the available languages.
 + **Use points**: Selected per default for Surveys, but can be changed.
 + **Use correct answer**: If it should be possible to show correct answers, after the user has submitted answers, select this option. Selected per default for checkups.
@@ -89,7 +99,12 @@ The settings are the same for all form types. All settings you use when creating
 + **Make responses anonymus**: When "Enable submission" is selected, you can schoose to make answers anonymus. If you do, it's not possible for administrators on any level to trace user submissions. Selected per default for polls.
 + **Custom submit label**: When "Enable submission" is selected, you can add a label here if needed.
 + **On submission**: When "Enable submission" is selected, you select what will happen on submission: "Show message" meaning the message you can add above, "Show user respone" and/or "Show all responses" - meaning all user responses for this surevy or poll, so far.
-+ **Open**: Select this option for dates when the form should be available, and then add a start date and an snd date.
++ **When closed**: Here you can select what will happen when the user is finished with the form. Same options as above.
++ **Limit respone time**: With this option active, you can set a start date and/or an end date.
+
+Here's an example where an image is added to a form (shown in the Form block):
+
+.. image:: forms-image-762.png
 
 Don't forget to save the settings.
 

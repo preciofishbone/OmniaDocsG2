@@ -26,6 +26,18 @@ Here you decide what to rollup in the block.
 + **Only current business profile**: If only communities from this business profile should be listed, select this option (default).
 + **Site template**: Select community template here. You must select template even if there's just one available.
 
+Custom date filtering
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+In Omnia 7.7 and later, you may be able to use custom date filtering for the Community rollup query. 
+
+If the scope is filtered on some kind of time property, custom date filtering can be set.
+
+Here's an example of where custom filtering can be found in the Community rollup block:
+
+.. image:: community-rollup-custom-date.png
+
+See this page for more information about custom date filtering: :doc:`Custom date filtering </general-assets/custom-date-filtering/index>` 
+
 Display
 --------
 Here you can select List view or Card view. 

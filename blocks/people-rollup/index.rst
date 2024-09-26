@@ -56,6 +56,14 @@ You can also add additional parameters, by using the method explained above or t
 
 .. image:: query-more-new.png
 
+Custom date filtering
+^^^^^^^^^^^^^^^^^^^^^^^^
+In Omnia 7.7 and later you may be able to use custom filtering in the People rollup.
+
+If the scope is filtered on some kind of time property, custom date filtering can be set.
+
+See this page for more information about custom date filtering: :doc:`Custom date filtering </general-assets/custom-date-filtering/index>` 
+
 Display
 -----------
 You can set the type of view to be used for the list here (Card chosen as an example):

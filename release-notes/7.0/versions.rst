@@ -1,3 +1,229 @@
+7.6.33
+========================================
+(Omnia 7.6.33 / Workplace 7.6.24 / WCM 7.6.25 / MS 7.6.19 / Analytics 7.6.2)
+
+- Fixed an upgrade issue that could occur with substantial amounts of pages scheduled for automatic termination. 
+- Clarified the EntraID sync that we filter for external users and not guests/members (#158499).
+- Stability improvements to teamwork provisioning and planner tab provisioning (#151771).
+- Fixed an issue with paging in the list of Publishing apps in Omnia admin (#159807).
+- Fixed an issue causing Document Rollup excel export to take an abnormally long time to generate (#159484, #159146, #159522, #160097)
+- Increased the image scale file size limit to 50 Mb.
+- The send page as email feature now renders the correct content when using supported blocks (#159742).
+- Fixed an issue with user login when the system contains duplicated emails.
+- Performance and stability improvements. 
+- Fixed an issue with Modified date on Sign-off requests, it now updates correctly.
+- Fixed an issue in the calendar view of the page rollup, it now directly shows the correct day (#159743).
+- Fixed a design glitch in the page rollup card view (#159747).
+
+7.6.29
+========================================
+(Omnia 7.6.26 / Workplace 7.6.20 / WCM 7.6.20 / MS 7.6.16 / Analytics 7.6.2)
+
+- Performance and stability improvements. 
+- Increased compatibility for phone number conversions from EntraID to Omnia User properties
+
+
+7.6.26
+========================================
+(Omnia 7.6.26 / Workplace 7.6.20 / WCM 7.6.20 / MS 7.6.16 / Analytics 7.6.2)
+
+- Page types can now have custom link icons in the template. Note: You need to re add the icons to the page type for the fix to apply.
+- Fixed an issue that would prevent creating terms in open term sets through Omnia on certain permission configurations (#158521).
+- If an extension modifies or creates an entity, the word "System" is now shown instead of the extension Guid.
+- The document rollup can now correctly open all documents in word online if configured to do so (#159385).
+- The settings in the link picker for documents now behaves as expected (#153277).
+- Fixed an issue in Sign-off requests causing bcc emails to be wrongly created with certain email providers (#158588).
+- Improved login token handling, leading to improved performance and stability.
+
+7.6.23
+========================================
+(Omnia 7.6.23 / Workplace 7.6.18 / WCM 7.6.18 / MS 7.6.13 / Analytics 7.6.2)
+
+- Fixed an issue that caused the announcement edit UI to freeze the browser (#159334).
+- Added missing feature descriptions (#156197).
+- Entra ID sync performance improvements (#158766). 
+- Fixed an issue with query templating in the document rollup that affected some users (#158865, #159550).
+- Fixed an issue that would prevent publishing of a page after chaining page type in the create new page dialog (#159200).
+
+
+7.6.22
+========================================
+(Omnia 7.6.22 / Workplace 7.6.17 / WCM 7.6.17 / MS 7.6.12 / Analytics 7.6.2)
+
+- Performance improvements to page rollup loads.
+- Fixed an issue causing page properties to not render when main channel was displayed (#159129, #159158).
+- Fixed an issue block input of person fields in the User Profile completion form (#158971).
+- Improved integration with the Bing image provider (#158622).
+- Stability improvements to Omnia Search index updates for big tenants. 
+- Fixed an issue preventing linked images to be centred in the RTF editor (#159016).
+- Prevented incorrect node structure to be created when move page from navigation structure page collection to flat page collection (#159056).
+- Fixed a case where the media rollup would not show any result when having one corrupt image in the search result (#158945).
+
+
+7.6.18
+========================================
+(Omnia 7.6.18 / Workplace 7.6.14 / WCM 7.6.14 / MS 7.6.11 / Analytics 7.6.2)
+
+- Improved stability to the SharePoint page sync job.
+- Fixed an issue when using multilingual titles for process steps (#158116).
+- Rich text App Instances properties no render correctly in the properties block (#158448).
+
+
+7.6.16
+========================================
+(Omnia 7.6.16 / Workplace 7.6.13 / WCM 7.6.12 / MS 7.6.10 / Analytics 7.6.2)
+
+- Several performance improvements related to authentication tokens.
+- Business profile viewers can now get app instance metadata (#158542).
+- The process rollup title now has the correct colour (#158469).
+- Fixed an issue preventing direct input in date pickers (#158666).
+- When creating pages using default values from the current page, the values now properly render in the new page dialog (#158584).
+- The document rollup now supports a multilingual title.
+- Fixed an issue in the page rollup to ensure the current page is excluded if configured to do so (#158631, #158640).
+- Fixed an issue causing old forms to require too high permissions to be shown (#158840, #158812).
+- The send page as email feature now has better handling for images (#158793).
+
+7.6.9
+========================================
+(Omnia 7.6.9 / Workplace 7.6.7 / WCM 7.6.7 / MS 7.6.6 / Analytics 7.6.2)
+
+- Fixed an issue causing document related links to show as custom links (#158701).
+- Fixes for WCAG to the current navigation (#153826).
+- The forms rollup now gives correct results when querying forms from multiple apps (#158649).
+
+
+7.6.7
+========================================
+(Omnia 7.6.7 / Workplace 7.6.6 / WCM 7.6.6 / MS 7.6.5 / Analytics 7.6.2)
+
+- The analytics reports block is now available.
+- It is now possible to make comments mandatory when unpublishing a controlled document.
+- When resetting an Omnia account, the user will now be redirected correctly.
+- Fixed an issue when saving a form that have active answers. 
+- The "no result message" now works as expected in the Media rollup.
+- Process tasks can now display longer titles.
+- "Set as Default control" now works as expected in Controlled documents.
+- Sign-off requests will now send emails to Omnia users.
+- Improvements to the editing experience on Mobile.
+- Capital letters now display as expected in rollup filters (#158342).
+- Media rollup refiners now work as expected. 
+- Performance optimizations. 
+- Fixed an issue related to adding options in forms (#158104).
+- When adding a website tab in Teams, omnia will no longer load (so that the SharePoint page can work) (#152811).
+- THe page property block now hides itself if no properties in the block has values (#156655).
+- 
+
+
+7.6.6
+========================================
+(Omnia 7.6.6 / Workplace 7.6.4 / WCM 7.6.5 / MS 7.6.4/ Analytics 7.6.2)
+
+- Fixed an issue causing duplicate anchor names in steppers (#158303).
+- For single step page approval, the correct approval email is now sent (#157741).
+
+7.6.5
+========================================
+(Omnia 7.6.5 / Workplace 7.6.3 / WCM 7.6.4 / MS 7.6.3/ Analytics 7.6.2)
+
+- Updated matomo to the latest version (#158402).
+- Fixed an issue in the RTF editor when positioning an image next to a bullet list.
+- Process management sub process titles and shape titles are now better separated to support really long titles (#158175).
+- Stability improvements to the page rollup accelerator (#158092).
+
+7.6.4
+========================================
+(Omnia 7.6.4 / Workplace 7.6.3 / WCM 7.6.3 / MS 7.6.2/Analytics 7.6.0)
+
+- Navigation nodes can now be moved as a sibling to a place in the navigation structure (#158150).
+- Improved handling for when an MFA sign in to Omnia fails (#158170).
+- (OnPrem) Fixed the permission syncing for the teamwork rollup (#158174).
+- Improved stability to process authoring when publishing a process (#158123).
+- Fixed an issue in the forms block preventing an editor to select forms they should have access to (#158340).
+- Fixed an issue related to app instance URL updates (#156784).
+
+
+7.6.3
+========================================
+(Omnia 7.6.3 / Workplace 7.6.2 / WCM 7.6.2 / MS 7.6.1 / Analytics 7.6.0)
+
+- Fixed an issue in adding or removing poll options (#158104).
+- Fixed an issue that would cause search results to not open correctly (#157900).
+- Improved the handling of adding anchor links.
+- Stability improvements to teamwork creation (#151771).
+- Matomo update request emails are no longer being sent (Matomo updates will be included in Omnia releases and should not be updated using Matomo itself)
+- Removed a required feature upgrade for Controlled Documents.
+- Stability improvements to automatic translations (#157854).
+- Added correct date converter to show birthday in the new profile card.
+
+
+
+7.6.2
+========================================
+(Omnia 7.6.2 / Workplace 7.6.1 / WCM 7.6.1 / MS 7.6.0 / Analytics 7.6.0)
+
+New features
+************
+
+- Forms are now supported on a per app basis
+- Forms now have support for images
+- Forms can now be handled in a rollup manner like other entities.
+- Sign-off requests can now be scheduled. 
+- Sign-off requests can now be setup as recurring requests.
+- Several user management improvements including local account ownership.
+- Subscript and superscript are now available as RTF actions. 
+- Its now possible to use bulk update on Tasks.
+- Analytics reports block.
+
+Fixes
+************
+
+- Improvements to the profile card to correctly hide empty properties (#153287).
+- Stability improvements when restoring from the archive (#153394, #152480).
+- Improved performance when checking out pages that are very complex (#154227).
+- Fixed an issue preventing the preview to render correctly on root page collection layouts (#156179).
+- Fixed an issue preventing certain naming policies from being applied correctly.
+- Stability fixes to the Entra ID sync (#155695).
+- Links now works as expected in important announcements (#156496).
+- Fixed an intermittent issue that would prevent a page from being added to a channel (#154464).
+- Page rollups using navigation path and variation now fallbacks correctly (#145934, #147197, #153918).
+- Page rollups now show default language correctly when a draft in a new variation language is created (#153662).
+- Stability and language improvements to the user onboarding flows (#157598).
+- Quick links now better displays long categories in its legend (#156563).
+- Improved UX when creating pages with duplicate URLs without normally showing the URL input field (#157320).
+
+
+7.5.34
+========================================
+(Omnia 7.5.34 / Workplace 7.5.26 / WCM 7.5.22 / MS 7.5.16 / Analytics 7.5.6)
+
+- Fixed an issue where teams presence would not render correctly on first page load (#157864).
+- Improved search as you type logic when using the page rollup accelerator (#158009).
+- The page rollup accelerator now correctly adds pages approved into a channel into the index (#157937).
+- Fixed a migration issue for the new date format setting in page rollup views.
+
+7.5.33
+========================================
+(Omnia 7.5.33 / Workplace 7.5.24 / WCM 7.5.20 / MS 7.5.16 / Analytics 7.5.6)
+
+- Re-enabled HTML formatting when using the Page Rollup accelerator (#157574, #157748)
+- Node-reordeting for big strcutures is now more stable (#149006).
+- Fixed an issue where the event management participant list would not show correctly for readers when external users were added (#157447, #155730).
+- Document picker filters using boolean properties now works as expected. 
+- Fixed an issue that would cause the Page Rollup to lock its setting when getting an empty result back (#153667, #153590, #156096).
+- Scheduling pages with manual variations now works as expected (#157621).
+- Fixed an issue that preventing the move of the FAQ's blocks sections (#157693).
+
+7.5.31
+========================================
+(Omnia 7.5.31 / Workplace 7.5.23 / WCM 7.5.19 / MS 7.5.15 / Analytics 7.5.6)
+
+- Fixed an issue that would not send correct emails to AD security groups in sign-off requests (#156745).
+- Fixed an intermittent issue in editing of custom figures in OPM (#154260).
+- Performance improvement to our token handling.
+- Correct people properties now show for pages that were scheduled and have automatic page translation (#157233).
+- Fixes to tasks list rendering in process management layouts (#157265).
+
+
 7.5.29
 ========================================
 (Omnia 7.5.29 / Workplace 7.5.22 / WCM 7.5.18 / MS 7.5.14 / Analytics 7.5.6)

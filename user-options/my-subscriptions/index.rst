@@ -21,41 +21,41 @@ My subscriptions is then available on your profile card:
 
 Here's an example of subscriptions:
 
-.. image:: my-subscriptions-1-new.png
+.. image:: my-subscriptions-1-76.png
 
-The left tab (shown in the image above) lists all communities you subscribe to - meaning you subscribe to ALL activities in that community. 
+The left tab (shown in the image above) lists all page collections you subscribe to - meaning you subscribe to ALL activities on all pages in that page collection. 
 
-The second tab lists all knowledge articles and discussion you subscribe to, for example:
+The second tab lists all pages you subscribe to, for example:
 
-.. image:: my-subscriptions-2-new.png
+.. image:: my-subscriptions-2-76.png
 
 You can click the title to go to the page or discussion.
 
 The third tab displays a list of all tags you subscribe to, for example:
 
-.. image:: my-subscriptions-3-new.png
+.. image:: my-subscriptions-3-76.png
 
-You can unsubscribe to any subscription by clicking the dust bin.
+You can unsubscribe to any subscription, on any tab, by clicking the dust bin.
 
 Subscribing to channels and unsubscribing
 ********************************************
 You can subscribe to channels, if any are setup. Use this tab:
 
-.. image:: my-subscriptions-67.png
+.. image:: my-subscriptions-76.png
 
 To add a channel, do the following:
 
 1. Select the tab and click ADD CHANNEL.
 
-.. image:: my-subscriptions-67-add.png
+.. image:: my-subscriptions-76-add.png
 
 Available channels are shown, for example:
 
-.. image:: my-subscriptions-67-channels.png
+.. image:: my-subscriptions-76-channels.png
 
 2. Click ADD for the channel to subscribe. 
 
-It's also possible that subscription of a channel can be created automatically for specific colleagues or groups, if setup in the channel.
+It's also possible that subscription of a channel can be created automatically for specific colleagues or groups, if setup in the channel. 
 
 In the list of selected channels you can click the dust bin if you no longer want to subscribe to a channel.
 

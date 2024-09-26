@@ -15,7 +15,7 @@ The following settings are available for the block:
 
 .. image:: event-counter-settings-v75.png
 
-+ **Title**: Here you can add a title for the block. Clilck the flag to change language.
++ **Title**: Here you can add a title for the block. 
 + **Icon type**: Select an Icon Type here.
 + **Icon**: Choose the Icon in the icon type you have selected.
 + **Padding**: If some padding is needed between the block edges and the list, add it here.

@@ -15,18 +15,18 @@ The following can be set under General:
 
 .. image:: analytics-block-general.png
 
-+ **Connection key**: You can create a connection between this block and several Analytics widget blocks. This is how you can use this filter settings in several widget blocks. Just type a suitable connection key.
++ **Connection key**: You can create a connection between this block and one or more Analytics widget blocks and/or Analytics report blocks. This is how you can use this filter settings in several other blocks. Just type a suitable connection key.
 
 Display
 ---------
-The following settings are available here:
+Under Display you set up the filters
 
 .. image:: analytics-block-display.png
 
 + **Period**: Decide if you want to display period, and if you do, select period in the list.
 + **Period date**: Decide if you want to display period date, and if you do, select period date in the list.
 + **Properties**: Add the properties you want use here. Click the plus for a property you select to add it.
-+ **No dimension filters**: If it shouldn't be possible for readers to use dimension filtering to get further details, select this option. 
++ **No dimension filters**: This is just information. When no properties has been set up as dimensions, this message is shown.
 
 Style
 ---------

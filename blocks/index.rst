@@ -10,14 +10,14 @@ Blocks
    anchor-navigation/index
    button-link/index
    activity-feed/index
-   analytics-filters/index
-   analytics-table-block/index
-   analytics-widget/index
    announcements/index
    authentication-block/index
    banner/index
+   blocks-for-analytics/index
    blocks-event-management/index
    blocks-forms/index
+   blocks-for-pages/index
+   process-blocks/index
    breadcrumb/index
    calendar-rollup/index
    channel-rollup/index
@@ -39,15 +39,9 @@ Blocks
    notification-panel/index
    omnia-block-webpart/index
    organization-tree/index
-   page-feedback/index
-   page-likes-and-comments/index
-   page-properties/index
-   page-rollup/index
    app-posts/index
-   variation-selector/index
    people-rollup/index
    power-app/index
-   process-blocks/index
    properties-block/index
    publishing-app-rollup/index
    user-profile-completion/index

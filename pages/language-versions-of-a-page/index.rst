@@ -22,11 +22,11 @@ To edit a page variation (if automatic machine translation is not used), for exa
 1. Edit the page.
 2. Select variation to work with.
 
-.. image:: select-variation-new4.png
+.. image:: select-variation-76-new.png
 
-3. Edit the content/blocks as usual.  
+3. Edit the content/blocks as usual, for this language.  
 
-.. image:: swedish-variations-new.png
+.. image:: danish-variations-76.png
 
 4. Save and publish as ususal.
 

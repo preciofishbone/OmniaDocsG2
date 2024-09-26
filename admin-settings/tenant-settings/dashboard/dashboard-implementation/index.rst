@@ -1,227 +1,88 @@
 Dashboard implementation example
 ==============================================
 
-Here's an example of a Dashoboard set up:
+The dashboard can be set up in so many ways, depending on what you actually are interested in following up.
 
-.. image:: admin-dashboard-usage-newframe.png
+Here's an example of a dashboard set up, from a test environment:
+
+.. image:: admin-dashboard-usage-76-2.png
 
 Under Usage, information about active readers and active contributors are shown. What should be considered an active reader or an active contributor is defined in the Metrics settings, see: :doc:`Metric Settings </admin-settings/tenant-settings/settings/metrics/index>`
 
-Under Page Status, the following is availble:
+Under Pages, the following is availble:
 
-.. image:: admin-dashboard-page-status-new2.png
+.. image:: admin-dashboard-page-status-76.png
 
-A number of tabs are available. What you see in the example is the total status for the tenant. You can choose to see status for just one of the publishing apps. 
-Besides that number of lists has been set up; Most Visited (All), Most Visited (Last month), Underused Pages and Statistics.
+A number of tabs are available. What you see in the above example, is the total status for the tenant, on the Status tab. You can choose to see status for just one of the publishing apps. 
+Besides that, a number of lists has been set up; Most Visited (All), Most Visited (Last month), Underused Pages, Statistics and Broken links.
 
-.. image:: admin-dashboard-page-status-lists.png
+.. image:: admin-dashboard-page-status-lists-76.png
 
-For Underused Pges, something like the following can be shown:
+For underused pages, something like the following can be shown:
 
-.. image:: admin-dashboard-underused-pages.png
+.. image:: admin-dashboard-underused-pages-76.png
+
+Note the list to the right, of pages that has not been visited for a very long time. For more information on the lists, see below.
 
 What should be considered underused content is defined in the Metrics settings, see link above.
 
-Note the list to the right, of pages that has npt been vsitied for a very long time. For more information on the lists, see below.
+More detailed information can be found by clicking a bar. Here's an example:
+
+.. image:: admin-dashboard-page-status-examnple.png
 
 For News, this has been set up:
 
-.. image:: admin-dashboard-news.png
+.. image:: admin-dashboard-news-76.png
 
-Besided Status for news pages, a number of lists is available; Reach, Most Visited (Last month), Most Commented (Last month), Most Liked (Last month) and Statsitics:
+Any of the blocks can be clicked for more detailed information. Here's an example of local news drafts:
 
-.. image:: admin-dashboard-news-lists.png
+.. image:: admin-dashboard-news-example.png
 
-Regarding Reach: How well we reach our target audience based on what we expect. The metric can be configured to a specific scope of pages (for example News pages) and have a target number of users. For nmore information on the lists, see below.
+Both the link to the page and the link to the page contacts info page can be clicked for further checks or actions.
 
-For Teamwork, you can see the number of active teamworks and if any has been created this week or this month:
+Besided status for news pages, a number of lists are available; Reach, Most Visited (Last month), Most Commented (Last month), Most Liked (Last month) and Statsitics:
 
-.. image:: admin-dashboard-teamwork-new.png
+.. image:: admin-dashboard-news-lists-76.png
 
-In the image above, status for all Teamwork Templates are shown. You can also choose to see the status for just one of the templates, meaning all teamworks created from a certain template.
+Regarding Reach: How well we reach our target audience based on what we expect. The metric can be configured to a specific scope of pages (for example news pages) and have a target number of users. Note that the bars can be clicked for more information about the reach, the same way as noted above.
 
-Finally, in this example, status for searches made by users can be shown:
+For Communites and Teamwork, you can see the number of active communities/teamworks and if any has been created this week or this month (Teamworks as an example):
 
-.. image:: admin-dashboard-search.png
+.. image:: admin-dashboard-teamwork-76.png
+
+In the image above, status for all teamwork templates are shown. You can also choose to see the status for just one of the templates, meaning all teamworks created from a certain template. Also note that any of the blocks can be clicked for more information, as explained above.
+
+Status for searches made by users can be shown:
+
+.. image:: admin-dashboard-search-76.png
+
+Bars can be clicked for more detailed information here as well. Here's an example of no result queries for May:
+
+.. image:: admin-dashboard-search-example.png
+
+Regarding Analytics, a number of analytic blocks can be used to display analytics in different ways. Here's a quite extensive example:
+
+.. image:: admin-dashboard-analytics-example.png
+
+And the last part of this example is a tab with a search block, that can used to search for documents, for example:
+
+.. image:: admin-dashboard-documents-example.png
+
+As stated above, there's so many ways to set up a dashboard using the blocks in Omnia. Another example, among many, is to set up a governance hub. Here's an example of such an implementation, where different dashboards can be selected:
+
+.. image:: admin-governance-example.png
 
 How it's done
 -----------------
-The basic layout in this implementation example is a tab section with six tabs:
+Well, how is this done, then? There's simply too many details in the settings for what is shown above, to describe them all, but some basics:
 
-.. image:: dashboard-example-tab-section-new-frame.png
++ The basic layout for a dashboard page can be created with tab sections.
++ A Metrics block is always useful in this type of implementations.
++ A Page rollup block can be used for any rollup of pages, with detailed settings for what you want to list.  
 
-The settings for the tabs are similar. Here's the first tab as an example:
+Actually, any number of blocks can be used, but these are most likely the most common, so for more information, see:
 
-.. image:: dashboard-example-tab-settings-new.png
++ :doc:`The Metrics block </blocks/metrics-block-612/index>`
++ :doc:`The Page rollup block </blocks/page-rollup/index>`
++ :doc:`Blocks for analytics </blocks/blocks-for-analytics/index>`
 
-For Style, "Show Active Slider" is selected so it's clear which the active tab is:
-
-.. image:: dashboard-example-tab-settings-style-new.png
-
-Usage settings
-------------------
-On this tab a Metrics block is placed, with the following settings:
-
-Scope is set to "User Activity":
-
-.. image:: dashboard-example-Usage-scope.png
-
-The following Metrics are set up:
-
-.. image:: dashboard-example-Usage-metrics.png
-
-Pages settings
-----------------
-For Pages, a section is added, and the following tabs are set up there:
-
-.. image:: pages-tabs.png
-
-The settings for the tabs are similar to those for Usage, see above.
-
-On the Status tab, a Metrics block is placed with the following setting for Scope:
-
-.. image:: dashboard-example-tab-page-scope.png
-
-And the following settings for Metrics:
-
-.. image:: dashboard-example-tab-page-metrics.png
-
-Most Visited (All) is a Page Rollup block, with the following settings for query:
-
-.. image:: dashboard-example-tab-page-visitied-all-query.png
-
-The Display is List View with the these settings:
-
-.. image:: dashboard-example-tab-page-visitied-all-lisview.png
-
-and these:
-
-.. image:: dashboard-example-tab-page-visitied-all-lisview-2.png
-
-Here's an example of the list:
-
-.. image:: dashboard-example-page-visited.png
-
-Most Visited (Last month) has similar settings, but of course showing the last month only. Here's an example:
-
-.. image:: dashboard-example-page-visited-month.png
- 
-Underused Pages is placed in a section with two tabs:
-
-.. image:: dashboard-example-underused.png
-
-The settings for the tabs are these:
-
-.. image:: underused-pages-tabs.png
-
-On the tab to the left, there's a Metrics block, with the following settings for Scope:
-
-.. image:: underused-pages-tabs-underused-scope.png
-
-And the following Metrics:
-
-.. image:: underused-pages-tabs-underused-metrics.png
-
-To the right, a Page Rollup block is used to list the pages that has not been visited for a very long time, listing all pages with List View Display and two columnms, with the follwing sorting:
-
-.. image:: underused-pages-tabs-underused-sorting.png
-
-News settings
---------------
-News is organized in a section with five tabs:
-
-.. image:: dashboard-news-tabs.png
-
-Status for News is set up with a Metrics block, with the following Scope:
-
-.. image:: dashboard-news-tabs-status-scope.png
-
-And the following Metrics:
-
-.. image:: dashboard-news-tabs-status-metrics.png
-
-The Reach tab is set up with two Metrics blocks, one for Corporate News and the other for Local News:
-
-.. image:: dashboard-news-reach.png
-
-Scope and Metrics for Corporate News are these:
-
-.. image:: dashboard-news-tabs-reach-corporate-scope.png
-
-.. image:: dashboard-news-tabs-reach-corporate-metrics.png
-
-Scope and Metrics for Local News are these:
-
-.. image:: dashboard-news-tabs-reach-local-scope.png
-
-.. image:: dashboard-news-tabs-reach-local-metrics.png
-
-Most Visited news last month is set up with a Page Rollup block with this query:
-
-.. image:: dashboard-news-most-visited-month-query.png
-
-The Display is List View with the following columns:
-
-.. image:: dashboard-news-most-visited-month-display-frame.png
-
-Sorting is by Page Hits: All users, and the Time Period is set to One month from today.
-
-Here's an example of that list:
-
-.. image:: dashboard-news-most-visited-month-example.png
-
-Most Commented (Last month) and Most Liked (Last month) are set up in a similar way:
-
-.. image:: dashboard-news-most-mostcommented-example.png
-
-.. image:: dashboard-news-most-mostliked-example.png
-
-They have both this set of columns (although in a different order):
-
-.. image:: dashboard-news-most-commented-month-display.png
-
-The two lists are differently sorted, the first on Comments and the second on Likes.
-
-Finally, Statistics is a tab that can be used to se statistics for different types of news and during different time periods:
-
-.. image:: dashboard-news-statistics-example.png
-
-Note the possibility to export the shown list to Excel.
-
-The following Query is set:
-
-.. image:: dashboard-news-most-cnews-statistics-quesry.png
-
-The following settings are used for Display:
-
-.. image:: dashboard-news-most-cnews-statistics-display.png
-
-and these:
-
-.. image:: dashboard-news-most-cnews-statistics-display-2.png
-
-Filters are set up this way:
-
-.. image:: dashboard-news-most-cnews-statistics-filter.png
-
-(No settings for Time Period).
-
-Teamwork settings
---------------------
-For this tab, the Scope is set to "Teamwork", with six Metrics:
-
-.. image:: dashboard-example-tab-teamwork-new2.png
-
-A filter is also added so users can choose the type of teamwork, based on template:
-
-.. image:: dashboard-example-tab-teamwork-filter-new.png
-
-Search settings
-------------------
-The Searech tab is set up with a Metrics block, with the folowing Scope:
-
-.. image:: dashboard-example-search-scope.png
-
-And the following Metrics:
-
-.. image:: dashboard-example-search-metrics-new.png

@@ -27,7 +27,7 @@ Do the following to edit an existing Tutorial:
 
 .. image:: tutorial-settings-1-new2.png
 
-+ **Title**: Add/edit the title for the tutorial (not shown for users). You can add a title in any language used in the tenant.
++ **Title**: Add/edit the title for the tutorial (not shown for users). 
 + **Add step**: Use the button to add a new tutorial step after the last step. 
 + **Preview**: When you want to check how the tutorial will look for users, select this button. 
 + **Target settings**: To select pages where this tutorial should be available, click here. The number to the right of the link indicates the number of pages selected. You also use the Target setting to set if the tutorial should start automatically or not.

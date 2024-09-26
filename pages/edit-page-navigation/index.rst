@@ -10,9 +10,9 @@ Using this option you can change the title and decide if the node should be pres
 
 Here you can do the following:
 
-.. image:: select-edit-navigation-new3.png
+.. image:: select-edit-navigation-76.png
 
-+ **Title**: Change the title to be shown in the navigation. (The Title shown on the page or when searching will not be changed.) If no variations exist for the page, you can set the title in all languages active in the tenant, as is the case in the image above. If there are variations for the page, the variation settings handles different versions of the title.
++ **Title**: Change the title to be shown in the navigation. (The Title shown on the page or when searching will not be changed.) 
 + **URL**: The URL to the page is shown here. It can be edited if needed, but changing the URL must be considered as a rare case. You can also add a Teams URL here (click the Teams icon). The case is if you run Omnia from Teams, the URL you add here will then be used instead of the default URL. 
 + **Show in mega menu**: Per default the navigation node is shown in the mega menu (top menu). Deselect if you don't want to show it there.
 + **Show in current navigation**: Per default the navigation node is shown in the current navigation (left navigation). Deselect if you don't want to show it there.

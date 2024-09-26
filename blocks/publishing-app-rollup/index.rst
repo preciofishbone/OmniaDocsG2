@@ -26,6 +26,18 @@ Here you decide what to rollup in the block.
 + **Only current business profile**: If only publishing apps from the current business profile should be listed, select this option (default).
 + **Site template**: Select publishing app template from the list. You must select template, even if just one is available.
 
+Custom date filtering
+^^^^^^^^^^^^^^^^^^^^^^
+In Omnia 7.7 and later you may be able to use custom filtering for the Publishing app rollup query.
+
+If the scope is filtered on some kind of time property, custom date filtering can be set.
+
+Here's an example:
+
+.. image:: publishing-app-rollup-custom-date.png
+
+See this page for more information about custom date filtering: :doc:`Custom date filtering </general-assets/custom-date-filtering/index>` 
+
 Display
 --------
 Here you can select List View or Card View.

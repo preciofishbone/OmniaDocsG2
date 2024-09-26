@@ -21,7 +21,7 @@ Settings
 ------------
 The following settings are availble on the SETTINGS tab:
 
-+ **Title**: If a title should be shown for the block in any tenant languages, add it in this field.  
++ **Title**: If a title should be shown for the block, add it in this field.  
 + **Open in Office web apps**: When it's a document link; if you want the links to open in Office web apps (meaning Microsoft 365), instead of locally installed applications, select this option.
 + **ADD CONTENT**: Click here to add deafault content to the block. Also see below.
 + **Padding**: Add some padding between the block edges and the links list, if needed.

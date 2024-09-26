@@ -7,7 +7,7 @@ You can set custom settings for the block headers on this page, by clicking the 
 
 Then these settings becomes available:
 
-.. image:: page-toolbar-block-header-settings.png
+.. image:: page-toolbar-block-header-settings-76.png
 
 It is the settings set up for the business profile, in Omnia admin, you can edit specifically for this page. 
 

@@ -19,7 +19,7 @@ The General settings are:
 
 .. image:: search-block-settings-general-v75.png
 
-+ **Title**: You can add a title for the block here. If variations exists, only one title can be set. In that case, titles in other languages are set in the variations. If no variation exists for the page, you can set the title in any or all languages active in the tenant. 
++ **Title**: You can add a title for the block here, if needed.  
 + **Auto focus search box**: If this option is active, the search box is automatically in focus when a user opens the page, meaning the user can start searching directly without having to click in the search box first.
 + **Show results in dropdown**: If search results should be available in a dropdown list, select this option.
 + **Dropdown max height**: When the above option is selected you set the maximum height in pixels for the dropdown. Default=0.

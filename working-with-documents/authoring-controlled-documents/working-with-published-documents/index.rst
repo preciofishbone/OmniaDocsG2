@@ -168,9 +168,13 @@ Unpublish and restore a document
 **********************************
 A published document that has a new draft can't be unpublished, the draft must be deleted first.
 
-When you unpublish a document, you get a chance to change your mind:
+When you unpublish a document, you must add a message. You can also change your mind at this point:
 
-.. image:: unpublish-question.png
+.. image:: unpublish-question-76.png
+
+If you change your mind, just click CANCEL.
+
+I you decide to go on, add a message and then click OK (which becomes available when you add a message).
 
 If an archive for documents is set up, the document is placed in the archive. The unpublished document is also placed in a local (= for the site) recycle bin. 
 
