@@ -17,6 +17,10 @@ To make sure recipients has received the notification, you can select "Require r
 
 .. image:: read-receipt-new2.png
 
+Note that, in Omnia 7.7 and later, you can also use sign-off requests for controlled documents. You then have a lot more options making sure colleagues are aware of important documents and updates.
+
+For more information, see: :doc:`Sign-off requests </admin-settings/tenant-settings/sign-off-requests-613/index>`
+
 Check read receipt status
 ***************************
 Read receipt status can be checked for a document on the "Published" tab, this way:
