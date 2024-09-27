@@ -3,6 +3,10 @@ Read and understood - notify and read receipt
 
 When a controlled document is published, you can choose to send a notification to some users, and when doing so, can also choose to receive read receipts, to make sure the notification has reached them. The notifications are sent when the document is approved for publishing.
 
+Note that, in Omnia 7.7 and later, you can also use sign-off requests for controlled documents. You then have a lot more options making sure colleagues are aware of important documents and updates.
+
+For more information, see: :doc:`Sign-off requests </admin-settings/tenant-settings/sign-off-requests-613/index>`
+
 Sending notifications is always voluntary. The decision is made when the document is published. If any colleagues should be notified of the new edition, select "Notify people" and add people or groups to the field.
 
 .. image:: notify-people-new2.png
@@ -16,10 +20,6 @@ Some notes on using groups for notifications:
 To make sure recipients has received the notification, you can select "Require read receipt". (Also see above regarding AD groups.)
 
 .. image:: read-receipt-new2.png
-
-Note that, in Omnia 7.7 and later, you can also use sign-off requests for controlled documents. You then have a lot more options making sure colleagues are aware of important documents and updates.
-
-For more information, see: :doc:`Sign-off requests </admin-settings/tenant-settings/sign-off-requests-613/index>`
 
 Check read receipt status
 ***************************
