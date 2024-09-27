@@ -60,6 +60,7 @@ Blocks
    teams-channel-feed/index
    text/index
    user-information-block/index
+   welcome-block/index
    working-with-blocks/index
    yammer-feed/index
    
