@@ -119,7 +119,9 @@ For Notification, you can decide to enable push notification for this rollup, or
 
 Sign-off requests
 ------------------
-(This option is not implemented yet, will be soon).
+You can add filters for the sign-off request you want to list on the tab. Here's an example listing all sign-off requests that is active:
+
+.. image:: tab-sign-off-example.png
 
 Link tab
 **********
