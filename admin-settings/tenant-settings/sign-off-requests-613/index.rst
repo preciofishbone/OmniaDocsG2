@@ -1,7 +1,7 @@
 Sign-off requests
 ====================================
 
-Sign-off requests can be used for read receipts for pages, including news. One example of implementation is pages a new employee should study.
+Sign-off requests can be used for read receipts for pages, including news. One example of implementation is pages a new employee should study. In Omnia 7.7 and later, sign-off requests can be used for controlled documents as well.
 
 The following settings are available here (image from Omnia 7.6):
 
