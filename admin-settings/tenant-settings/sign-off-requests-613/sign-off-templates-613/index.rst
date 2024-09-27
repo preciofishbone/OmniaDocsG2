@@ -74,3 +74,22 @@ To remove a page from the list, click the dust bin.
 
 8. Click SAVE to save the template.
 
+Add documents to be signed off
+------------------------------------
+This option is available in Omnia 7.7 and later. You use it this way:
+
+1. Select "Published document" at the top.
+
+A list of all published documents in the tenant is shown, for example:
+
+.. image:: sign-off-document-list.png
+
+2. Browse the list or search for part of, or the whole document name.
+3. Select one or more documents to be signed off.
+4. Click ADD.
+
+.. image:: sign-off-document-list-clickadd.png
+
+5. Repeat the process til all documents for the sign-off request is added.
+6. Set all other settings for the sign-off request as described for pages.
+
