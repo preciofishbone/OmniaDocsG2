@@ -1,3 +1,25 @@
+7.6.36
+========================================
+(Omnia 7.6.36 / Workplace 7.6.27 / WCM 7.6.28 / MS 7.6.20 / Analytics 7.6.2)
+
+- Stability improvements to the page rollup accelerator (#160385).
+- Removed dependency on external service for Geolocation on logins, this will speed up login of Omnia Users. 
+- Stability improvements to MS Teams tab provisioning (#151771).
+- Performance improvements to the search statistics UI for lager tenants (#160066).
+- Fixed an issue that would cause review tasks not to create correctly. 
+- Display name has been added to the form result export.
+- Fixed a routing issue in OPM that would cause content to not load properly (#160025).
+- New tenants will no longer have issues with the media rollup before the default media queries are resaved. 
+- Performance improvements to the AD sync. 
+- Fixed an issue with date formatting in the RSS feed. 
+- Fixed an issue in the term picker so it now always handles default value overrides correctly on pages (#159805).
+- Fixed an issue in syncing certain date time properties from the Entra ID to Omnia user properties (#160235).
+- Unanswered polls can no longer be submitted.
+- Fixed an issue that would sometimes not cause all group updates to carry over when running a full sync. 
+- Removed permission Files.Read.All delegated from all features since it’s no longer needed.
+
+
+
 7.6.33
 ========================================
 (Omnia 7.6.33 / Workplace 7.6.24 / WCM 7.6.25 / MS 7.6.19 / Analytics 7.6.2)
