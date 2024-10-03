@@ -76,6 +76,8 @@ For example, this is what can be selected for "Tab View Settings":
 
 At the bottom you can also set the sorting "Descending" or "Ascending" (not available for Detail View Settings). 
 
+For "Detail View Settings" you can also select the order shown for comments, Older To Newer or Newr To Older.
+
 Notification settings
 ----------------------
 The following is available here:
