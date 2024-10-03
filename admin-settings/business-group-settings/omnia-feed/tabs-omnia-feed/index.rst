@@ -116,7 +116,7 @@ General tab settings are available for "General" and "Targeting", see above.
 
 Content
 -----------
-Add the URL for the embedded link here and select what should be shown as the tab title, the business profle title or the the web page title:
+Add the URL for the embedded link here and select what should be shown as the tab title, the business profle title or the the web page title. You can also hide the header all together.
 
 .. image:: omnia-feed-embedded-link-v7.png
 
