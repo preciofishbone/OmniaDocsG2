@@ -82,7 +82,7 @@ Notification settings
 ----------------------
 The following is available here:
 
-.. image:: omnia-feed-tabs-query-notification-v7.png
+.. image:: omnia-feed-tabs-query-notification-v76.png
 
 + **Enable push notification**: Select this option if users should recieve a push notification when new information, for example a new page, has been added.
 
