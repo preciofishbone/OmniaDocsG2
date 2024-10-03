@@ -31,5 +31,5 @@ Intune users
 **************
 Important information when setting up the tenant: If the customer is using Intune/conditional access that requires device authentication, the AM editor must be informed so the necessary settings for this will be done. Also note that when this is the case, Omnia Feed for Android will require access to the Contacts list on the device.
 
-For more advice on setting up Intune for Omnia Feed, see this page: :doc:`Setup Intune for Omnia Feed </admin-settings/business-group-settings/omnia-feed/setup-intunes-for-omnia-feed/index>`
+For more advice on setting up Intune for Omnia Feed, see this page not fully up to date): :doc:`Setup Intune for Omnia Feed </admin-settings/business-group-settings/omnia-feed/setup-intunes-for-omnia-feed/index>`
 
