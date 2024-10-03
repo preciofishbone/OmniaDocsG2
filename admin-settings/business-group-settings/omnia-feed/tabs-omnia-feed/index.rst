@@ -178,14 +178,22 @@ For a Forms rollup you can choose Tenant, one or more business profiles or one o
 
 .. image:: omnia-feed-tabs-query-mulitple-type-forms-query.png
 
-For Display, you can use the same settings as the Tab View settings for the Query tab, see above.
+Display are somewhat different from the oher options:
+
+.. image:: omnia-feed-tabs-query-mulitple-type-forms-display.png
+
+At the top, you can select tags to be diplayed, the rest you have seen before.
 
 For Notification, you can decide to enable push notification for this rollup, or not.
 
 Sign-off requests
 ------------------
-You can add filters for the sign-off request you want to list on the tab. Here's an example listing all sign-off requests that is active:
+For sign-off requests, the following settings are avaiable:
 
-.. image:: tab-sign-off-example.png
+.. image:: omnia-feed-tabs-query-mulitple-type-signoff.png
 
+For queey, you can add filters for the sign-off request you want to list on the tab. Here's an example listing all sign-off requests that is active:
 
+.. image:: tab-sign-off-example-76.png
+
+For Notification, you can decide to enable push notification for this rollup, or not.
