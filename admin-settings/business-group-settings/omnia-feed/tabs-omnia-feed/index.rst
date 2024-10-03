@@ -68,13 +68,13 @@ The following settings are available here:
 
 .. image:: omnia-feed-tabs-query-display-v7-frame.png
 
-Use "Tab view settings" for settings for the tab itself. Use "Detail view settings" for objects opened in the tab. What you do in both cases is to select properties in Omnia that contain the information needed. Note that properties must have been set up in Omnia admin to be available to select here, see: :doc:`Properties </admin-settings/tenant-settings/properties/index>`
+Use "Tab View Settings" for settings for the tab itself. Use "Detail View Settings" for objects opened in the tab. What you do in both cases is to select properties in Omnia that contain the information needed. Note that properties must have been set up in Omnia admin to be available to select here, see: :doc:`Properties </admin-settings/tenant-settings/properties/index>`
 
-For example, this is what can be selected for "Tab view settings":
+For example, this is what can be selected for "Tab View Settings":
 
 .. image:: omnia-feed-tabs-query-display-tab-view-v7.png
 
-At the bottom you can also set the sorting "descending" or "Ascending" (not available for Detail view settings). 
+At the bottom you can also set the sorting "Descending" or "Ascending" (not available for Detail View Settings). 
 
 Notification settings
 ----------------------
