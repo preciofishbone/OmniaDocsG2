@@ -152,11 +152,11 @@ Multiple query tab
 *******************
 As the title implies, this tab can be used for multiple queries:
 
-.. image:: omnia-feed-tabs-query-mulitple-v7.png
+.. image:: omnia-feed-tabs-query-mulitple-v76.png
 
-General and Targeting contains general settings, see above.
+For general and targeting settings, see above.
 
-To use one or more queries on this tab, click the plus, and select query type:
+To use one or more queries on this tab, click ADD QUERY, and select query type:
 
 .. image:: omnia-feed-tabs-query-mulitple-type-v7.png
 .. image:: omnia-feed-tabs-query-mulitple-type-v7-2.png
