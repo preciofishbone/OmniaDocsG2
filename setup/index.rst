@@ -13,7 +13,6 @@ This part of the documentaton contains setup instructions for different parts of
    eventmanagement/index
    communities/index
    setup-omnia-teams/index
-   setup-yammer-in-omnia/index
    setup-enterprise-glossary/index
 
 
