@@ -158,8 +158,7 @@ For general and targeting settings, see above.
 
 To use one or more queries on this tab, click ADD QUERY, and select query type:
 
-.. image:: omnia-feed-tabs-query-mulitple-type-v7.png
-.. image:: omnia-feed-tabs-query-mulitple-type-v7-2.png
+.. image:: omnia-feed-tabs-query-mulitple-type-v76.png
 
 Pages
 -------
