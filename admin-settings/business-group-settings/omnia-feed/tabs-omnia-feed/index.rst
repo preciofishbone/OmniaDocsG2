@@ -162,11 +162,15 @@ To use one or more queries on this tab, click ADD QUERY, and select query type:
 
 Pages
 -------
-For a Pages rollup you can choose one or more page collections, business profiles, publishing apps or the whole tenant. And then, in the second list, one or more within the scope.
+The following settings are available for Pages:
 
-.. image:: omnia-feed-tabs-query-mulitple-type-pages.png
+.. image:: omnia-feed-tabs-query-mulitple-type-pages-all.png
 
-Display and Notification has the same type of options as for the Query tab.
+Query: For a Pages rollup you can choose one or more page collections, business profiles, publishing apps or the whole tenant. And then, in the second list, one or more within the scope.
+
+.. image:: omnia-feed-tabs-query-mulitple-pages-query.png
+
+Display and Notification has the same type of options as for the Query tab, see above.
 
 Forms
 ----------
