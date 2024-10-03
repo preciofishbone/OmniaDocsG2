@@ -60,7 +60,7 @@ Here you set up the query for the tab.
 + **Scope**: Select scope and then set the details similar to what you do in any page rollup. Can be "Tenant", "Business profiles", "Publishing apps" or "Page collections". Regarding business profiles, publishing apps and page collections, you can add one or more. Using Tenant as the scope, there's almost endless possibilities to rollup pages with certain properties from the tenant.
 + **Title format**: Available when scope has been selected. Choose what should be shown as the metadata for source. (Note that you may have to expand the scope to find this setting).
 + **AddfFilter**: Available when scope has been selected. Here you select one ot more filters for pages to rollup. One example is channels for the scope Tenant.
-+ **Sign-off requests**: This option can be available depending on setup. You can choose to show sign off requests for the scope and if you do that, you can choose to hide finished requests.
++ **Sign Off Requests**: This option can be available depending on setup. You can choose to show sign-off requests for the scope and if you do that, you can choose to hide finished requests.
 
 Display settings
 -----------------
