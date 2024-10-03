@@ -174,9 +174,9 @@ Display and Notification has the same type of options as for the Query tab, see 
 
 Forms
 ----------
-For a Forms rollup you can choose Tenant, one or more business profiles or one or more app instances. You can then add filters the same way as for other rollups.
+For a Forms rollup you can choose Tenant, one or more business profiles or one or more app instances, under Query. You can then add filters the same way as for other rollups.
 
-.. image:: omnia-feed-tabs-query-mulitple-type-forms.png
+.. image:: omnia-feed-tabs-query-mulitple-type-forms-query.png
 
 For Display, you can use the same settings as the Tab View settings for the Query tab, see above.
 
