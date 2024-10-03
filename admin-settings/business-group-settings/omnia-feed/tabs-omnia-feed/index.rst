@@ -5,7 +5,7 @@ Use the settings here to edit tabs for this business profile in Omnia Feed.
 
 Here's an example with a number of tabs set up:
 
-.. image:: omnia-feed-tabs-v7-2.png
+.. image:: omnia-feed-tabs-v76.png
 
 + **PUBLISH/UNPUBLISH**: Use this to enable/disable this configuration in Omnia Feed. 
 
