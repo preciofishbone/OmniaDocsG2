@@ -1,3 +1,17 @@
+7.6.38
+========================================
+(Omnia 7.6.38 / Workplace 7.6.28 / WCM 7.6.29 / MS 7.6.21 / Analytics 7.6.2)
+
+- Added the possibility to ignore variations on the navigation path query of the page rollup (#160527).
+- Fixed an issue where the save button would not display correctly when navigating from a draft to a custom link in the WCM editor (#160467).
+- Fixed an issue in user management that would occur when BP language settings where inherited from tenant (#160464).
+- When consenting a new tenant, the user that consents now correctly becomes an Omnia tenant admin (#160694). 
+- Performance and stability improvements. 
+- Documents under approval now have a disabled link to avoid accidental edits (#160327).
+- Fixed an icon rendering issue that would occur when using section background images on the page (#160553).
+
+
+
 7.6.36
 ========================================
 (Omnia 7.6.36 / Workplace 7.6.27 / WCM 7.6.28 / MS 7.6.20 / Analytics 7.6.2)
