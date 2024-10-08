@@ -50,7 +50,7 @@ On this tab you decide what the block should display and for whom.
 .. image:: sign-off-requests-block-settings-query-613.png
 
 + **Scope**: You can choose to display "All requests", "Requested by me", meaning all sign-off request the logged in user has sent, or "Targeted to me", meaning sign-off requests targeted to the logged in user, or a group the logged in user belongs to.
-+ **(First list)**: Use the first list to set the set type of query within the scope. 
++ **(First list)**: Use the first list to set the type of query within the scope. 
 + **(Second list)**: Use the second list for further settings. An example: if you select "Progress status" in the first list, in the second list you can choose any or all of "Not started", "In progress" or "Completed".
 + **Add filter**: Add a filter for the query, if you don't want all the requests within the scope to be displayed. You can select "Requested by", "Progress status", "My progress status" or "Status". Additional filters can be available depending on the type used when the request was created. "My progress status" displays the status for the logged in user. For information about what the other default filters can display, see: :doc:`Requests </admin-settings/tenant-settings/sign-off-requests-613/sign-off-request-requests-613/index>`
 + **Page size**: To limit the number of items being displayed per “page”, add a fixed number here or use the slider.
