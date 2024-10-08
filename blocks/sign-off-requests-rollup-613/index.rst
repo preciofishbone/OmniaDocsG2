@@ -79,7 +79,7 @@ This tab contains settings for the view:
 + **Paging**: Avalailable for Summary view. Can be "No paging", "Classic" or "Scroll".
 + **Sort by**: Select what the view will be sorted by.
 + **Ascending/Descending**: Sort order is selected here, you know the drill.
-+ **No result text**: If a text should be shown when the result of the query is empty, add the text here, in any or all the tenant languages.
++ **No result text**: If a text should be shown when the result of the query is empty, add the text here.
 + **Padding**: You can add some padding if needed, the usual way for a block.
 
 When you add a column, first select the column in the list:
