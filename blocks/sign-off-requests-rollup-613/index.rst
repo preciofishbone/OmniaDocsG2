@@ -27,7 +27,7 @@ It's also possible to "undo" a request, really meaning reading the information a
 
 .. image:: sign-off-request-rollup-example-undo.png
 
-The other two scopes - "Requested by me" and "All requests" can be usful for administrators. The "Requested by me" scope can be very useful for an administrator to keep track of sign-off requests that administrator has sent.
+The other two scopes - "Requested by me" and "All requests" can be useful for administrators. The "Requested by me" scope can be very useful for an administrator to keep track of sign-off requests that administrator has sent.
 
 Settings
 **********
