@@ -39,7 +39,7 @@ The WRITE TAB is not used here. The LAYOUT tab contains general settings, see: :
 
 General
 ----------
-On the General tab you can add a title for the block, in any tenant language:
+On the General tab you can add a title for the block, of needed:
 
 .. image:: sign-off-requests-block-settings-general-613.png
 
