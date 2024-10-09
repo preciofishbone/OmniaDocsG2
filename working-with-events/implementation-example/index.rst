@@ -1,46 +1,36 @@
 Event management - implementation example
 ==========================================
-Here's an example of how Event management can be implemented.
+Here's an example from a test environment of how Event management can be implemented.
 
-In this example a site for different training events has been set up. First there's a landing page set up using banners for navigation:
+**This page is being updated**
 
-.. image:: event-implementation-1.png
+In this example a site for different training events has been set up, both internal, external and online. The landing page is set up with a page rollup.
 
-"Upcoming sessions", lists the training events that users can register for:
+.. image:: event-implementation-1-new.png
 
-.. image:: event-implementation-2-new.png
+"Upcoming course dates", displays the upcoming training events in form of a calendar. Different colors are used for the different kinds of training events.
 
-The button CREATE TRAINING EVENT can only be seen and used by event managers (page authors).
+.. image:: event-implementation-2-new2.png
+
+A description of a course (page) can look like this:
 
 Each training is described the following way:
 
-.. image:: event-implementation-4.png
+.. image:: event-implementation-4-new.png
 
-There can be three buttons available for registration: SIGN UP, CANCEL and SIGN UP OTHER. The buttons can of course be named something else, but their purpose is described by their name here. 
+There can be three buttons available for registration: SIGN UP, CANCEL and SIGN UP OTHER. The CANCEL button is only shown once the user has registered, which is not the case here. The buttons can of course be named something else, but their purpose is described by their name here. 
 
-The reason why the SIGN UP button is not visible above, is because the logged in user already has registered. He or she can then cancel the registration or register other named participants. 
+Aavailable seats are 15 in total where one has already been taken.
 
-When the logged in user has not yet registered, it can look like this:
+.. image:: event-implementation-booked-New.png
 
-.. image:: event-implementation-buttons.png
+When signing up for this course, the following is shown:
 
-(The CANCEL button is not shown until the logged in user has registered).
+.. image:: event-implementation-signup-New.png
 
-You can also see that this training event has 20 seats available and is now fully booked.
+The follower can add a phone number, add a number of not named colleagues that will accompany him or her to the course, and add a comment. The rest is filled in automatically.
 
-.. image:: event-implementation-booked.png
 
-Below a list of the registered participants is shown:
-
-.. image:: event-implementation-5.png
-
-As you can see both Joe Bergman and Robert Johnson has registered an additional number of (not named) participants that will accompany them. 
-
-Reservations is possible and there's one name on that list, waiting for the possibility that one of the registered patricipants will not be able to attend.
-
-What we see here is the view for event managers (page editors). The icons to the right of each registration and the buttons at the bottom are only shown for them. They can use the icons to move a registration to the standby list, edit the registration, for example to change the number of not named participants, and even remove a registration.
-
-The buttons at the bottom can be used, as the names clearly indicates, to export the participant list to Excel and to send an Email to all participants.
 
 The settings
 ***************
