@@ -11,7 +11,7 @@ Important event options:
 
 + Users can register to a participant list. The list keeps track of available seats.
 + Users can register to a standby list if all seats are taken.
-+ Colleagues can be moved from the standby list to the participant by an event manager.
++ Colleagues can be moved from the standby list to the participant list by an event manager.
 + Users can register a number of (not named) colleagues that will accompany them to the event.
 + A user can register for others.
 + Users can edit or remove their own registrations.
