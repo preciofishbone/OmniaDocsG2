@@ -28,9 +28,17 @@ When signing up for this course, the following is shown:
 
 .. image:: event-implementation-signup-New.png
 
-The follower can add a phone number, add a number of not named colleagues that will accompany him or her to the course, and add a comment. The rest is filled in automatically.
+The user can add a phone number, add a number of not named colleagues that will accompany him or her to the course, and add a comment. The rest is filled in automatically.
 
+When the user has signed upp, the sign up button changes:
 
+.. image:: event-implementation-signup-cancel.png
+
+The information about available seats has also been updated, two seats are now taken.
+
+If signing up a colleage, a list of all users in Omnia is made available. Also note that an external user can be added, by clicking that link.
+
+.. image:: event-signup-colleague.png
 
 The settings
 ***************
