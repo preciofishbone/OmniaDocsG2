@@ -8,19 +8,17 @@ In this example a site for different training events has been set up, both inter
 
 .. image:: event-implementation-1-new.png
 
-"Upcoming course dates", displays the upcoming training events in form of a calendar. Different colors are used for the different kinds of training events.
+"Upcoming course dates" displays the upcoming training events in form of a calendar. Different colors are used for the different kinds of training events.
 
 .. image:: event-implementation-2-new2.png
 
 A description of a course (page) can look like this:
 
-Each training is described the following way:
-
 .. image:: event-implementation-4-new.png
 
 There can be three buttons available for registration: SIGN UP, CANCEL and SIGN UP OTHER. The CANCEL button is only shown once the user has registered, which is not the case here. The buttons can of course be named something else, but their purpose is described by their name here. 
 
-Aavailable seats are 15 in total where one has already been taken.
+Aavailable seats for this course are 15 in total where one has already been taken.
 
 .. image:: event-implementation-booked-New.png
 
@@ -30,7 +28,7 @@ When signing up for this course, the following is shown:
 
 The user can add a phone number, add a number of not named colleagues that will accompany him or her to the course, and add a comment. The rest is filled in automatically.
 
-When the user has signed upp, the sign up button changes:
+When the user has signed upp, the sign up button changes to a cancel button:
 
 .. image:: event-implementation-signup-cancel.png
 
