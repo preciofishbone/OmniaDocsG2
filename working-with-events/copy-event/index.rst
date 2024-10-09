@@ -35,6 +35,6 @@ For Monthly, these settings are available:
 
 .. image:: copy-event-monthly.png
 
-3. Click COPY.
+3. Click COPY when you're finished with the settings.
 
 
