@@ -42,6 +42,8 @@ The settings
 ***************
 The following settings has been used for the pages:
 
+**Not update yet. come back in a day or two.**
+
 Upcoming events
 -----------------
 This page is the same type of page as for example a news center. 
