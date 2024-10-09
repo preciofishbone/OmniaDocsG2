@@ -1,7 +1,7 @@
 Register for an event
 =======================
 
-Information on this page describes the Event options available for all users. External users that has been invited in Entra ID, can use the Event options the same way as is described here.
+Information on this page describes the event options available for all users. External users that has been invited in Entra ID, can use the event options the same way as is described here.
 
 Register myself and maybe some more
 *************************************
