@@ -23,7 +23,6 @@ Topics
    general-assets/roles-permissions/index
    setup/index
    switch-site-selected/index
-   best-practice/index
    accessability/index
    cookies-consent-information/index
    release-notes/index
