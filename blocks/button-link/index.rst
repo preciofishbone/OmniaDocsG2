@@ -191,7 +191,7 @@ Subscriptions are meant to be used in communities, for now. See this page for mo
 
 (Only general settings are available, see above).
 
-Motification panel
+Notification panel
 --------------------
 Using this action button a notification panel can be shown just like it is in the Notification panel block.
 
