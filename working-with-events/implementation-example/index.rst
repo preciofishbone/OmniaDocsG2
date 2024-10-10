@@ -42,7 +42,7 @@ The settings
 ***************
 The following settings has been used for the pages:
 
-**Not update yet. come back in a day or two.**
+**Not update yet. Will be finished in a day or two.**
 
 
 When a manager/page editor creates a new event - meaning a new event page - the following settings are available in this example, and can be edited later:
@@ -59,17 +59,15 @@ The buttons in the Action button block must have the type "Event management" to 
 
 .. image:: event-implementation-settings-2-new.png
 
-The two special event management blocks are set up the following way.
+(All settings are not shown in the image.)
 
-The Event participant counter block:
+The Event participant counter block is set up this wvay:
 
 .. image:: event-implementation-settings-3-new.png
 
-And the Event participant list block:
+The block is using the setting for available seats done when creating the event page, see above.
 
-.. image:: event-implementation-settings-4-new.png
-
-More information about the two event management blocks is found here: :doc:`Blocks for event management </blocks/blocks-event-management/index>`
+More information about the event management blocks is found here: :doc:`Blocks for event management </blocks/blocks-event-management/index>`
 
 The rest of the sections and blocks used on the page type are set up depending on the information being displayed, by using options available for any page type.
 
