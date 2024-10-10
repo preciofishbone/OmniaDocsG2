@@ -14,7 +14,7 @@ A description of a course (page) can look like this:
 
 .. image:: event-implementation-4-new.png
 
-There can be three buttons available for registration: SIGN UP, CANCEL and SIGN UP OTHER. The CANCEL button is only shown once the user has registered, which is not the case here. The buttons can of course be named something else, but their purpose is described by their name here. 
+There can be three buttons available for registration: SIGN UP, CANCEL and SIGN UP OTHER. The CANCEL button is only shown once the user has registered. The buttons can of course be named something else, as they have been in this example. 
 
 Aavailable seats for this course are 15 in total where one has already been taken.
 
