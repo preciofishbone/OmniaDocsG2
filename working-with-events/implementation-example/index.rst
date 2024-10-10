@@ -2,8 +2,6 @@ Event management - implementation example
 ==========================================
 Here's an example from a test environment of how Event management can be implemented.
 
-**This page is being updated**
-
 In this example a site for different training events has been set up, both internal, external and online. The landing page is set up with a page rollup.
 
 .. image:: event-implementation-1-new.png
@@ -42,10 +40,7 @@ The settings
 ***************
 The following settings has been used for the pages:
 
-**Not update yet. Will be finished in a day or two.**
-
-
-When a manager/page editor creates a new event - meaning a new event page - the following settings are available in this example, and can be edited later:
+When a manager/page editor creates a new event - meaning a new event page - the following settings are set up in this example:
 
 .. image:: event-implementation-settings-1-new.png
 
