@@ -9,19 +9,19 @@ Below you will find the steps needed in order to create a basic setup of Event M
 
 Default properties for Event management are being added automatically.
 
-2. Create a new Publishing App where you want events to be administrated. In this example, we create a publishing app for internal training.
+2. Create a new publishing app where you want events to be administrated. In this example, we create a publishing app for internal training.
 
 .. image:: create-publishingapp-for-training.png
 
-3. Go to the newly created Publishing App and add a new flat Page Collection for events.
+3. Go to the newly created publishing app and add a new flat page collection for events.
 
 .. image:: add-pagecollection-for-eventsmanagement.png
 
-4. Set the newly created Page Collection as default in the Publishing App settings.
-5. Set reader and author permissions on the Page Collection.
-6. Go to Omnia Admin in context of the new Publishing App and activate the app instance feature "Default Page types for Event Management".
-7. Refresh the page and go to the Page Collection settings.
-8. Add a Create Page Dialog title, uncheck the box "Show Url" and check the box "Show Properties".
+4. Set the newly created page collection as default in the publishing app settings.
+5. Set reader and author permissions on the cage Collection.
+6. Go to Omnia admin in context of the new publishing app and activate the app instance feature "Default Page types for Event Management".
+7. Refresh the page and go to the page Collection settings.
+8. Add a create page sialog title, uncheck the box "Show Url" and check the box "Show properties".
 9. Add the page type "Event".
 
 .. image:: pagecollection-settings-eventsmanagement.png
@@ -46,7 +46,7 @@ Connect to Outlook
 Follow these steps to enable integration with Outlook.
 
 14. Go to Omnia Admin > Security > Secrets.
-15. Click on Event Management Service Account and fill in an account that should be used to read/write from event calendars in Outlook.
+15. Click on Event management service account and fill in an account that should be used to read/write from event calendars in Outlook.
 
 .. image:: events-management-service-account.png
 
@@ -57,8 +57,8 @@ Follow these steps to enable integration with Outlook.
 
 18. Add the service account as a member to the new Group. (Note! If the service account doesn't have an Outlook license, you have to add the account to the group using Entra ID).
 
-19. Go to Omnia Admin in context of the publishing app.
-20. Go to the current business profile and click on Event Management > Publishing Apps.
+19. Go to Omnia admin in context of the publishing app.
+20. Go to the current business profile and click on Event management > Publishing apps.
 21. Select the publishing app and page collection where your event management solution is located and map the properties.
 
 .. image:: events-management-fieldmappings.png
