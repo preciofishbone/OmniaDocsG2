@@ -5,7 +5,10 @@ Setup Event management
 
 Below you will find the steps needed in order to create a basic setup of Event Management.
 
-1. Go to Omnia Admin and activate the tenant feature "Default Enterprise Properties for Event Management".
+1. Go to Omnia admin and activate the tenant feature "Event management". 
+
+Default properties for Event management are being added automatically.
+
 2. Create a new Publishing App where you want events to be administrated. In this example, we create a publishing app for internal training.
 
 .. image:: create-publishingapp-for-training.png
