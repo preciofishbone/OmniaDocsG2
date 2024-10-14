@@ -3,6 +3,8 @@ Reports
 
 A number of reports are available for pages in the active publishing app. Note that some settings must be made for the reports to work, see below.
 
+**Also note** that Title has to be setup as querable for pages, for anything to be shown in the reports.
+
 Select "Reports" here:
 
 .. image:: pages-reports-menu-new2.png
