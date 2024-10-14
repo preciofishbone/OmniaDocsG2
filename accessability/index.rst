@@ -16,7 +16,7 @@ Select "Use accessibility features".
 The following is then turned on:
 
 + The accessibility theme.
-+ Underscore for som links (See more about this below).
++ Underscore for some links (See more about this below).
 + Sticky tool tips.
 
 The accessibility theme
@@ -47,7 +47,7 @@ Underscore for links
 ***********************
 Links, where it's not obvious that they are just links, are marked with underscore.
 
-Some links are already marked with underscore, mainly links in in areas where content is edited by the RTF Editor. Other links are deemed obvious, for example where the Quick links block is used.
+Some links are already marked with underscore, mainly links in areas where content is edited by the RTF Editor. Other links are deemed obvious, for example where the Quick links block is used.
 
 (Image will be added)
 
@@ -55,7 +55,5 @@ In other cases, underscore is added to show that this is a link.
 
 Sticky tool tips
 *****************
-(Information about this functionality will be added soon.)
-
-
+The sticky tooltips functionality is being updated and expanded in Omnia. This section will be updated when a new version is implemented.
 
