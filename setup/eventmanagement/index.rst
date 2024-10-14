@@ -1,7 +1,7 @@
 Setup Event management
 ===========================================
 
-**This page is being edited. Will be finsihed soon.**
+**This page is being edited. Will be finished soon.**
 
 Below you will find the steps needed in order to create a basic setup of Event Management.
 
