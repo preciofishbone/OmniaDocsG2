@@ -1,7 +1,7 @@
 Setup Document management
 ===========================================
 
-.. note:: In order for Document management features to appear in the UI, the OmniaManagementSystem extension needs to be installed and the Controlled documents feature needs to be activated. Please consult with your local partner to set up these prerequisites.
+**Note!** This description has not been updated for a while. You can still see it as a general guideline, but not fully as a stepo-by-step instruction.**
 
 Below you will find the steps needed in order to create a basic setup of Document management.
 
