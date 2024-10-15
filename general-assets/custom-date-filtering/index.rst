@@ -11,6 +11,8 @@ For some rollups, custom date filtering is available, if the scope is filtered o
 
 .. image:: custom-date-filter-2.png
 
+(Note: "today" has been changed to "now" in later Omnia versions, 
+
 3. Use the detailed settings for a custom time period:
 
 .. image:: custom-date-filter-3.png
