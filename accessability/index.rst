@@ -43,15 +43,21 @@ Here's an example of a mapping:
    
 .. image:: admin-access-settings-settings.png
 
-Underscore for links
-***********************
+Underscore for some links
+***************************
 Links, where it's not obvious that they are just links, are marked with underscore.
 
 Some links are already marked with underscore, mainly links in areas where content is edited by the RTF Editor. Other links are deemed obvious, for example where the Quick links block is used.
 
-(Image will be added)
+.. image:: quik-links-block.png
 
-In other cases, underscore is added to show that this is a link.
+In other cases, underscore is added to show that this is a link. Here's an example. In certain lists, you can click a colleagues name to open the profile card. When Accessibility features are NOT activated, there's no underscore:
+
+.. image:: underscore-not.png
+
+But when Accessibility features ARE active, this page is shown with the names underscored:
+
+.. image:: names-underscore.png
 
 Sticky tool tips
 *****************
