@@ -11,7 +11,7 @@ For some rollups, custom date filtering is available, if the scope is filtered o
 
 .. image:: custom-date-filter-2.png
 
-(Note: "today" has been changed to "now" in later Omnia versions, 
+(Note: "today" has been changed to "now" in later Omnia versions, so "One week from now" etc.)
 
 3. Use the detailed settings for a custom time period:
 
