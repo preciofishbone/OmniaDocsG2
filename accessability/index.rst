@@ -1,8 +1,6 @@
 Accessibility
 ===========================================
 
-**This page is being edited, will be finished soon.**
-
 Omnia is WCAG 2.1aa compliant. The accessibility features are available from start. A user can decide to turn these on at any time.
 
 It's up to each user to do that in the User profile menu:
@@ -47,17 +45,29 @@ Underscore for some links
 ***************************
 Links, where it's not obvious that they are just links, are marked with underscore.
 
-Some links are already marked with underscore, mainly links in areas where content is edited by the RTF Editor. Other links are deemed obvious, for example where the Quick links block is used.
-
-.. image:: quik-links-block.png
-
-In other cases, underscore is added to show that this is a link. Here's an example. In certain lists, you can click a colleagues name to open the profile card. When Accessibility features are NOT activated, there's no underscore:
+Here's an example where underscore is added to show that this is a link. In certain lists, you can click a colleagues name to open the profile card. When Accessibility features are NOT activated, there's no underscore:
 
 .. image:: underscore-not.png
 
 But when Accessibility features ARE active, this page is shown with the names underscored:
 
 .. image:: names-underscore.png
+
+When it comes to navigation, underscore is usually added when accessibility features are activated. Here's an example WITHOUT accessibility features:
+
+..image:: navigation-no-access.png
+
+And this is WITH accessibility features:
+
+..image:: navigation-access-on.png
+
+Some links are already marked with underscore, mainly links in areas where content is edited by the RTF Editor, so there is no differne aither accessibility features are on or not.
+
+Other links are deemed obvious, for example where the Quick links block is used.
+
+.. image:: quik-links-block.png
+
+Meaning it looks the same accessibility features on or off.
 
 Sticky tool tips
 *****************
