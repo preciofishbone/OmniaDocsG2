@@ -19,7 +19,7 @@ The following is then turned on:
 
 The accessibility theme
 **************************
-How visible the differences are can differ a lot depending on how the default themes for the business profile are set up, and how the themes are used for blocks and for backgrounds on pages, but generally contrasts are higher. Here's an example for the breadcrump.
+The main accessibility functionality is the accessibility theme. How visible the differences are can differ a lot depending on how the default themes for the business profile are set up, and how the themes are used for blocks and for backgrounds on pages, but generally contrasts are higher. Here's an example for the breadcrump.
 
 Accessibility not turned on:
 
@@ -63,7 +63,7 @@ And this is WITH accessibility features:
 
 Some links are already marked with underscore, mainly links in areas where content is edited by the RTF Editor, so there is no difference either accessibility features are on or not.
 
-In other places it's deemed obvious that they are links, even without the underscore, for example the links in the Quick links block.
+In other places it's deemed obvious that links are links, even without the underscore, for example in the Quick links block.
 
 .. image:: quik-links-block.png
 
