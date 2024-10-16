@@ -314,7 +314,7 @@ These settings where called "Social period" in earlier Omnia versions. The follo
 
 .. image:: page-rollup-settings-social-new3.png
 
-Use these settings to decide the time period calculated for any of these options. If you don't select anything, it means "No limit". You can select one week, two weeks or one month instead.
+Use these settings to decide the time period calculated for any of these options. If you don't select anything, it means "No limit". You can select one week or one month instead.
 
 Metric
 *******
