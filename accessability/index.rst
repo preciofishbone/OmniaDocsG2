@@ -61,9 +61,11 @@ And this is WITH accessibility features:
 
 .. image:: navigation-access-on.png
 
-Some links are already marked with underscore, mainly links in areas where content is edited by the RTF Editor, so there is no differne aither accessibility features are on or not.
+The image above may be a little blurry, but all links are underscored.
 
-Other links are deemed obvious, for example where the Quick links block is used.
+Some links are already marked with underscore, mainly links in areas where content is edited by the RTF Editor, so there is no difference either accessibility features are on or not.
+
+In other places it's deemed obvious that they are links, even without the underscore, for example the links in the Quick links block.
 
 .. image:: quik-links-block.png
 
