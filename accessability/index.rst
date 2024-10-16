@@ -14,7 +14,7 @@ Select "Use accessibility features".
 The following is then turned on:
 
 + The accessibility theme.
-+ Underscore for some links (See more about this below).
++ Underscore for some links (see more about this below).
 + Sticky tool tips (being updated).
 
 The accessibility theme
