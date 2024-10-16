@@ -15,7 +15,7 @@ The following is then turned on:
 
 + The accessibility theme.
 + Underscore for some links (See more about this below).
-+ Sticky tool tips.
++ Sticky tool tips (being updated).
 
 The accessibility theme
 **************************
@@ -55,11 +55,11 @@ But when Accessibility features ARE active, this page is shown with the names un
 
 When it comes to navigation, underscore is usually added when accessibility features are activated. Here's an example WITHOUT accessibility features:
 
-..image:: navigation-no-access.png
+.. image:: navigation-no-access.png
 
 And this is WITH accessibility features:
 
-..image:: navigation-access-on.png
+.. image:: navigation-access-on.png
 
 Some links are already marked with underscore, mainly links in areas where content is edited by the RTF Editor, so there is no differne aither accessibility features are on or not.
 
