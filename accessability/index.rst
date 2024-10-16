@@ -71,5 +71,5 @@ Meaning it looks the same accessibility features on or off.
 
 Sticky tool tips
 *****************
-The sticky tooltips functionality is being updated and expanded in Omnia. This section will be updated when a new version is implemented.
+The sticky tooltips functionality is being updated and expanded in Omnia. Information about how this works will be added to this page, when a new Omnia version is implemented.
 
