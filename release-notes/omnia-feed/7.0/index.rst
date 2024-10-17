@@ -8,6 +8,8 @@ Release 7
 - Targeting via Omnia Groups and Omnia User Properties are now fully supported.
 - Mentions are now fully supported in comments including push notifications.
 - Reminder feature has been built, to ensure the user logs in ever 21 days. This will ensure the user will get push notifications consistently.
+- Support for forms in the feed, to both display and to respond.
+- Support for Sign-off requests metadata and rich queries together with pages and polls.
 - Several small fixes and improvements.
 
 
