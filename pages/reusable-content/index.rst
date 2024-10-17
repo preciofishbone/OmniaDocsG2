@@ -59,6 +59,10 @@ Here's an example:
 
 .. image:: reuse-content-published.png
 
+Removing the source page
+**************************
+If the source page is removed, the pages with reused content are automatically converted to normal, standalone pages, with the latest information from the source page still there. They can continue to be used as they are be removed the normal way. 
+
 Automatic page creation
 ****************************
 Content can also be reused in automatic page creation. For more information, see: :doc:`Automatic page creation </pages/automatic-page-creation/index>`
