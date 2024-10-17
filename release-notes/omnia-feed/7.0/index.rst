@@ -1,11 +1,3 @@
-Release 7.1 - Draft
-========================================
-
-- Support to sign in using an Omnia user. 
-- Support for targeting rules for Omnia users. 
-- Support for the new media gallery feature.
-
-
 Release 7
 ========================================
 
