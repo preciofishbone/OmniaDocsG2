@@ -61,7 +61,7 @@ Here's an example:
 
 Deleting the source page
 **************************
-If the source page is removed, the pages with reused content are automatically converted to normal, standalone pages, with the latest information from the source page still there. These pages can then continue to be used as they are, and edited if needed, or be removed the normal way. 
+If the source page is deleted, nothing happens to the pages with reused content. They remain in place with the latest information from the source page still there. These pages can then continue to be used as they are, and edited if needed, or be removed the normal way. 
 
 Automatic page creation
 ****************************
