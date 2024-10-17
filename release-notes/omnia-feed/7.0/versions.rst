@@ -1,4 +1,4 @@
-Release 7.1
+Release 7.1.1
 ========================================
 
 - Support to sign in using an Omnia user. 
