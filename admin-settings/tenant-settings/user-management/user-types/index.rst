@@ -97,7 +97,11 @@ You can set the schedule to Never (meaning not set), Daily, Weekly or Monthly.
 
 Create a custom user profile card
 ************************************
-You can create a custom user profile card for each user group if needed, and you can create different layouts for private cards and public cards. A private custom user profile card is simply when a user looks at his or her own card, a public card is what everyone else can see.
+You can create a custom user profile card for each user user type if needed, and you can create different layouts for private card view and public card view. A private card view is simply when a user looks at his or her own card, a public card view is what everyone else can see. In Omnia 7.7 and later, the private view of the card can be used to edit the information shown on the public view. 
+
+To work with the user profile card layout, click this icon:
+
+.. image:: user-card-layout-icon.png
 
 You work with the layout for the cards the same way as other layouts in Omnia, see: :doc:`Working with layouts </general-assets/working-with-layouts/index>`
 
