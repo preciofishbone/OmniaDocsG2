@@ -1,3 +1,23 @@
+7.6.40
+========================================
+(Omnia 7.6.40 / Workplace 7.6.29 / WCM 7.6.31 / MS 7.6.23 / Analytics 7.6.2)
+
+- Fixed an issue causing the send page by email to be incorrect (#160480).
+- The SP User Profile birthday property can now be correctly set in the new profile card (#157032).
+- Fixed an authentication issue due to changes in EntraID (#161045).
+- Controlled documents can now be unpublished even when the document type has been deleted (#161248).
+- Fixed a naming mismatch in controlled documents permission settings causing certain permissions to not be assaignable (#160450).
+- Improved performance in the Media Rollup. 
+- Fixed an issue that would give an incorrect error message if assigning permissions in a page collection with more than 5000 pages (#160426).
+- WCAG fixes for the block header.
+- Corrected padding settings for the process navigation block (#160645).
+- Documents in a document rollup that are shown via pick document, no longer shows in read mode if deleted.
+- Microsoft Search integration with externalItem now supports sort by.
+- Added support for syncing multi value phone number from EntraID properties (#159881).
+- When usink bulk create for omnia users, the correct onboarding url is now set (#160535).
+
+
+
 7.6.38
 ========================================
 (Omnia 7.6.38 / Workplace 7.6.28 / WCM 7.6.29 / MS 7.6.21 / Analytics 7.6.2)
